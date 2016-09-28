@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whorush.com privacy policy that was archived on 2016-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622072612id_/http%3A//www.whorush.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whorush.com privacy policy that was archived on 2016-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160928192558id_/http%3A//www.whorush.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<!doctype html>--><!--<html>--><head>
 		<!-- END EXPERIMENT SWT-818 -->
@@ -29,11 +29,12 @@
 		<!-- "twitter" meta tags start -->
 				<!-- "og" meta tags end -->
 
-		<link rel="icon" href="/m/images/favicon.ico?r=v105" type="image/x-icon">
+		<link rel="icon" href="/m/images/favicon.ico?r=v288" type="image/x-icon">
 <link rel="search" type="application/opensearchdescription+xml" href="/semrush-opensearch.xml" title="SEMrush.com">
 <meta name="webmoney.attestation.label" content="webmoney attestation label#B29A39E4-2C52-45A5-BA05-1EC1234F5AB0">
 <meta name="p:domain_verify" content="6cc51c3c279ef2fa7ac89fbe6f1565ed">
 <meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<link rel="canonical" href="http://www.whorush.com/privacy-policy/">
 
@@ -56,11 +57,12 @@
 		<!--[if gte IE 9]><style type="text/css">.gradient{filter: none;}</style><![endif]-->
 
 <link href="//fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="//d2lrxcz2ihvajy.cloudfront.net/m/build/css/outer.css?r=v105" type="text/css" media="all" charset="utf-8">
-<link rel="stylesheet" href="//d2lrxcz2ihvajy.cloudfront.net/m/build/css/old-outer.css?r=v105" type="text/css" media="all" charset="utf-8">
+<link rel="stylesheet" href="//d2lrxcz2ihvajy.cloudfront.net/m/build/css/outer.css?r=v288" type="text/css" media="all" charset="utf-8">
+<link rel="stylesheet" href="//d2lrxcz2ihvajy.cloudfront.net/m/build/css/old-outer.css?r=v288" type="text/css" media="all" charset="utf-8">
 
-		<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/error-logger.js?r=v105"></script>
-<script type="text/javascript" src="/m/build/scripts/lib/require/require.js" data-main="common"></script>
+			<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/global-variable-detect.js"></script>
+<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/error-logger.js"></script>
+<script type="text/javascript" src="/m/build/scripts/lib/require/require.js"></script>
 
 <script type="text/javascript">
 	require.config({
@@ -74,6 +76,7 @@
             "isAdmin": false,
             "isBeta": false,
             "isPaid": false,
+            "isHistoricalDataAvailable": false,
             "email": "174.129.237.157",
             "isNeedConfirmEmail": "",
             "product_id": "0",
@@ -81,8 +84,9 @@
             "registrationDate": "",
             "locale": "en"
         },
-        "isAllowedGA": ""
-    }
+        "isAllowedGA": "",
+        "countries": {"us":"en","ru":"ru","de":"de","fr":"fr","es":"es","pt":"pt","it":"it"},
+        "subdomains": {"www":"en","us":"en","ru":"ru","de":"de","fr":"fr","es":"es","pt":"pt","it":"it","sy":"sy"}    }
 }
 ,
 		paths: {
@@ -98,12 +102,12 @@
 			],
 			'jquery-migrate': 'lib/jquery-migrate-1.2.1',
 
-			lodash: "lib/lodash-3.10.1",
-			"lodash-pdf": "/my_reports/scripts/vendor/lodash/lodash.min",
-			backbone: "lib/backbone",
+			lodash: "lib/lodash-4.8.2",
+			'lodash-3.10.1': "lib/lodash-3.10.1",
 			modernizr: "lib/modernizr-3.1.0",
 			'my_reports': '/my_reports/build/scripts',
-			'backbone-1.1.2': "lib/backbone-1.2.3",
+			backbone: "lib/backbone",
+			'backbone-1.1.2': "lib/backbone-1.3.2",
 			'backbone.layoutmanager': "lib/backbone.layoutmanager",
 			'pdfMainRequire': '/my_reports/mainRequire',
 			'pdf-img': '/my_reports/images',
@@ -132,13 +136,16 @@
 			dispatcher: 'dispatcher',
 
 			navigation: "compiled/navigation/init",
-			// crunch for require data-main attribute
-			"common": "compiled/common"
+
+			'projects-search-bar': '/projects/static/js/projects-search-bar.min',
+			'projects-menu': '/projects/static/js/projects-menu.min',
+
+			'autocomplete': 'lib/autocomplete'
 		},
 
-		urlArgs: "r=v105",
+		urlArgs: "r=v288",
 		waitSeconds: 120,
-		deps: ["common", "compiled/init", "compiled/init-lazy"],
+		deps: ["compiled/common"],
 		shim: {
 			ckeditor: {
 				exports: "CKEDITOR"
@@ -187,6 +194,10 @@
 				deps: ["jquery"]
 			},
 
+			"autocomplete": {
+				deps: ["jquery"]
+			},
+
 
 			highcharts: {
 				deps: ['highchartslib'],
@@ -208,11 +219,11 @@
 			},
 
 			backbone: {
-				deps: ["lodash", "jquery"],
+				deps: ["lodash-3.10.1", "jquery"],
 				exports: "Backbone"
 			},
 			'backbone-1.1.2': {
-				deps: ["underscore", "jquery"],
+				deps: ["lodash", "jquery"],
 				exports: function () {
 					return Backbone.noConflict();
 				}
@@ -226,20 +237,18 @@
 			}
 		},
 		map: {
-			'tracking_app': {
-				'backbone': 'backbone-1.1.2'
-			},
-			'backbone.layoutmanager': {
-				'backbone': 'backbone-1.1.2'
-			},
 			'*': {
 				'underscore': 'lodash',
 				'jquery': 'jquery-migrate',
 				basePopup: 'components/basePopup',
-				baseView: 'components/baseView'
+				baseView: 'components/baseView',
+				'lodash-pdf': 'lodash'
 			},
 			'jquery-migrate': {
 				'jquery': 'jquery'
+			},
+			'backbone.layoutmanager': {
+				'backbone': 'backbone-1.1.2'
 			}
 		}
 	});
@@ -278,7 +287,7 @@
 			'title': "",
 			'prefix': "\/info\/",
 			'postfix': "",
-			'reports': {"domain_overview":{"title":"Domain Overview","prefix":"\/info\/","postfix":"","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_organic":{"title":"Organic Research","prefix":"\/info\/","postfix":"+(by+organic)","isNew":false,"isBeta":false,"isAdminsOnly":false},"backlinks_overview":{"title":"Backlinks","prefix":"\/info\/","postfix":"+(backlinks_overview)","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_adwords":{"title":"Advertising Research","prefix":"\/info\/","postfix":"+(by+adwords)","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_shopping":{"title":"PLA Research","prefix":"\/info\/","postfix":"+(by+shopping)","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_video_publishers":{"title":"Video Advertising","prefix":"\/analytics\/video\/overview\/summary\/","postfix":"","isNew":false,"isBeta":true,"isAdminsOnly":false},"domain_adsense_overview":{"title":"Display Advertising","prefix":"\/info\/","postfix":"+(by+adsense)","isNew":false,"isBeta":true,"isAdminsOnly":false},"phrase_overview":{"title":"Phrase Overview","prefix":"\/info\/","postfix":"+(keyword)","isNew":false,"isBeta":false,"isAdminsOnly":false},"phrase_fullsearch":{"title":"Phrase Match","prefix":"\/info\/","postfix":"+(full+search)","isNew":false,"isBeta":false,"isAdminsOnly":false},"phrase_related":{"title":"Related Keywords","prefix":"\/info\/","postfix":"+(related)","isNew":false,"isBeta":false,"isAdminsOnly":false},"phrase_adwords_historical":{"title":"Ads History","prefix":"\/info\/","postfix":"+(adwords_historical)","isNew":false,"isBeta":false,"isAdminsOnly":false},"seomagic":{"title":"SEO Keyword Magic","prefix":"\/analytics\/seomagic\/start\/","postfix":"","isNew":false,"isBeta":true,"isAdminsOnly":false}}		},
+			'reports': {"domain_overview":{"title":"Domain Overview","prefix":"\/info\/","postfix":"","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_organic":{"title":"Organic Research","prefix":"\/info\/","postfix":"+(by+organic)","isNew":false,"isBeta":false,"isAdminsOnly":false},"backlinks_overview_spa":{"title":"Backlinks","prefix":"\/analytics\/backlinks\/overview\/","postfix":"","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_adwords":{"title":"Advertising Research","prefix":"\/info\/","postfix":"+(by+adwords)","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_shopping":{"title":"PLA Research","prefix":"\/info\/","postfix":"+(by+shopping)","isNew":false,"isBeta":false,"isAdminsOnly":false},"domain_video_publishers":{"title":"Video Advertising","prefix":"\/analytics\/video\/overview\/summary\/","postfix":"","isNew":false,"isBeta":true,"isAdminsOnly":false},"domain_adsense":{"title":"Display Advertising","prefix":"\/analytics\/da\/overview\/","postfix":"","isNew":false,"isBeta":true,"isAdminsOnly":false},"domain_traffic":{"title":"Traffic Analytics","prefix":"\/analytics\/traffic\/overview\/","postfix":"","isNew":false,"isBeta":true,"isAdminsOnly":false},"phrase_overview":{"title":"Keyword Overview","prefix":"\/info\/","postfix":"+(keyword)","isNew":false,"isBeta":false,"isAdminsOnly":false},"seomagic":{"title":"SEO Keyword Magic","prefix":"\/analytics\/seomagic\/start\/","postfix":"","isNew":false,"isBeta":true,"isAdminsOnly":false}}		},
 		mods: {
 			'changed': '-changed',
 			'selected': '-selected',
@@ -296,14 +305,14 @@
 		locale: {
 			'map_button': 'Entire menu'
 		},
-		config: {"dashboard":{"depends_on_db":true,"title":"Dashboard","ga_title":"Dashboard","prefix":"","postfix":"\/dashboard\/","icon":"s-menu__home-icon s-icon -s -home","key":"dashboard","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"<span class=\"s-menu__home-icon s-icon -s -home\"><\/span>","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Dashboard', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"empty\/dashboard\/"},"menu_href":"\/dashboard\/"},"analytics":{"title":"Domain Analytics","table":true,"items":{"domain_overview":{"depends_on_db":true,"depends_on_db_date":true,"title":"Overview","ga_title":"Domain Overview","search_bar_title":"Domain Overview","postfix":"","query":"domain","key":"domain_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Domain Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}","domain":"\/info\/{domain}","empty":"\/info\/empty\/domain_overview\/"},"menu_href":"\/info\/empty\/domain_overview\/"},"domain_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"Organic Research","ga_title":"Organic Research","postfix":"+(by+organic)","query":"domain","counter":"or-counter","items":{"domain_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"Positions","ga_title":"Organic Positions","postfix":"+(by+organic)","query":"domain","counter":"or-counter","key":"domain_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Positions', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number or-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic)","domain":"\/info\/{domain}+(by+organic)","empty":"\/info\/empty\/domain_organic\/"},"menu_href":"\/info\/empty\/domain_organic\/"},"domain_organic_positions":{"depends_on_db":true,"depends_on_db_date":true,"title":"Position Changes","ga_title":"Organic Position Changes","postfix":"+(by+organic_positions)","query":"domain","counter":"op-counter","key":"domain_organic_positions","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Position Changes', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number op-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic_positions)","domain":"\/info\/{domain}+(by+organic_positions)","empty":"\/info\/empty\/domain_organic_positions\/"},"menu_href":"\/info\/empty\/domain_organic_positions\/"},"domain_organic_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"Competitors","ga_title":"Organic Competitors","postfix":"+(by+organic_organic)","query":"domain","counter":"oo-counter","key":"domain_organic_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Competitors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number oo-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic_organic)","domain":"\/info\/{domain}+(by+organic_organic)","empty":"\/info\/empty\/domain_organic_organic\/"},"menu_href":"\/info\/empty\/domain_organic_organic\/"},"domain_organic_uniq_urls":{"depends_on_db":true,"depends_on_db_date":true,"title":"Pages","ga_title":"Organic Pages","postfix":"+(by+organic_uniq_urls)","query":"domain","isNewItem":true,"key":"domain_organic_uniq_urls","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Pages', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+organic_uniq_urls)","domain":"\/info\/{domain}+(by+organic_uniq_urls)","empty":"\/info\/empty\/domain_organic_uniq_urls\/"},"menu_href":"\/info\/empty\/domain_organic_uniq_urls\/"},"url_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"URL","ga_title":"Organic URL","postfix":"+(by+organic)","query":"url","key":"url_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic URL', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+organic)","domain":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+organic)","empty":"\/info\/empty\/url_organic\/"},"menu_href":"\/info\/empty\/url_organic\/"}},"key":"domain_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Research', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number or-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic)","domain":"\/info\/{domain}+(by+organic)","empty":"\/info\/empty\/domain_organic\/"},"menu_href":"\/info\/empty\/domain_organic\/"},"backlinks_overview":{"title":"Backlinks","ga_title":"Backlinks","postfix":"+(backlinks_overview)","query":"link","counter":"backlinks-counter","counterTargetType":"","items":{"backlinks_overview":{"title":"Overview","ga_title":"Backlinks Overview","postfix":"+(backlinks_overview)","query":"link","key":"backlinks_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(backlinks_overview)","domain":"\/info\/{domain}+(backlinks_overview)","empty":"\/info\/empty\/backlinks_overview\/"},"menu_href":"\/info\/empty\/backlinks_overview\/"},"backlinks":{"title":"Backlinks","ga_title":"Backlinks Report","postfix":"+(backlinks)","query":"link","counter":"backlinks-counter","counterTargetType":"","key":"backlinks","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Report', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number backlinks-counter\" data-target-type=\"\"><\/div>","query_build":{"phrase":"\/info\/{phrase}+(backlinks)","domain":"\/info\/{domain}+(backlinks)","empty":"\/info\/empty\/backlinks\/"},"menu_href":"\/info\/empty\/backlinks\/"},"backlinks_anchors":{"title":"Anchors","ga_title":"Backlinks Anchors","postfix":"+(backlinks_anchors)","query":"link","counter":"anchors-counter","counterTargetType":"","key":"backlinks_anchors","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Anchors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number anchors-counter\" data-target-type=\"\"><\/div>","query_build":{"phrase":"\/info\/{phrase}+(backlinks_anchors)","domain":"\/info\/{domain}+(backlinks_anchors)","empty":"\/info\/empty\/backlinks_anchors\/"},"menu_href":"\/info\/empty\/backlinks_anchors\/"},"backlinks_refdomains":{"title":"Referring Domains","ga_title":"Backlinks Referring domains","postfix":"+(backlinks_refdomains)","query":"link","counter":"refdomains-counter","counterTargetType":"","key":"backlinks_refdomains","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Referring domains', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number refdomains-counter\" data-target-type=\"\"><\/div>","query_build":{"phrase":"\/info\/{phrase}+(backlinks_refdomains)","domain":"\/info\/{domain}+(backlinks_refdomains)","empty":"\/info\/empty\/backlinks_refdomains\/"},"menu_href":"\/info\/empty\/backlinks_refdomains\/"},"backlinks_refips":{"title":"Referring IPs","ga_title":"Backlinks Referring IPs","postfix":"+(backlinks_refips)","query":"link","counter":"refips-counter","counterTargetType":"","key":"backlinks_refips","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Referring IPs', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number refips-counter\" data-target-type=\"\"><\/div>","query_build":{"phrase":"\/info\/{phrase}+(backlinks_refips)","domain":"\/info\/{domain}+(backlinks_refips)","empty":"\/info\/empty\/backlinks_refips\/"},"menu_href":"\/info\/empty\/backlinks_refips\/"},"backlinks_pages":{"title":"Indexed Pages","ga_title":"Backlinks Indexed Pages","postfix":"+(backlinks_pages)","query":"link","counter":"pages-counter","counterTargetType":"","key":"backlinks_pages","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Indexed Pages', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number pages-counter\" data-target-type=\"\"><\/div>","query_build":{"phrase":"\/info\/{phrase}+(backlinks_pages)","domain":"\/info\/{domain}+(backlinks_pages)","empty":"\/info\/empty\/backlinks_pages\/"},"menu_href":"\/info\/empty\/backlinks_pages\/"},"backlinks_comparison":{"title":"Backlinks Comparison","ga_title":"Backlinks Comparison","postfix":"+(backlinks_comparison)","query":"link","key":"backlinks_comparison","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks Comparison', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(backlinks_comparison)","domain":"\/info\/{domain}+(backlinks_comparison)","empty":"\/info\/empty\/backlinks_comparison\/"},"menu_href":"\/info\/empty\/backlinks_comparison\/"}},"key":"backlinks_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number backlinks-counter\" data-target-type=\"\"><\/div>","query_build":{"phrase":"\/info\/{phrase}+(backlinks_overview)","domain":"\/info\/{domain}+(backlinks_overview)","empty":"\/info\/empty\/backlinks_overview\/"},"menu_href":"\/info\/empty\/backlinks_overview\/"},"domain_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"Advertising Research","ga_title":"Adwords Research","postfix":"+(by+adwords)","query":"domain","counter":"ad-counter","items":{"domain_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"Positions","ga_title":"Adwords Positions","postfix":"+(by+adwords)","query":"domain","counter":"ad-counter","key":"domain_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Positions', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ad-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords)","domain":"\/info\/{domain}+(by+adwords)","empty":"\/info\/empty\/domain_adwords\/"},"menu_href":"\/info\/empty\/domain_adwords\/"},"domain_adwords_positions":{"depends_on_db":true,"depends_on_db_date":true,"title":"Position Changes","ga_title":"Adwords Position Changes","postfix":"+(by+adwords_positions)","query":"domain","counter":"ap-counter","key":"domain_adwords_positions","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Position Changes', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ap-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords_positions)","domain":"\/info\/{domain}+(by+adwords_positions)","empty":"\/info\/empty\/domain_adwords_positions\/"},"menu_href":"\/info\/empty\/domain_adwords_positions\/"},"domain_adwords_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"Competitors","ga_title":"Adwords Competitors","postfix":"+(by+adwords_adwords)","query":"domain","counter":"aa-counter","key":"domain_adwords_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Competitors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number aa-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords_adwords)","domain":"\/info\/{domain}+(by+adwords_adwords)","empty":"\/info\/empty\/domain_adwords_adwords\/"},"menu_href":"\/info\/empty\/domain_adwords_adwords\/"},"domain_uniq_ads":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ad Copies","ga_title":"Adwords Ads Copies","postfix":"+(by+uniq_ads)","query":"domain","key":"domain_uniq_ads","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Ads Copies', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+uniq_ads)","domain":"\/info\/{domain}+(by+uniq_ads)","empty":"\/info\/empty\/domain_uniq_ads\/"},"menu_href":"\/info\/empty\/domain_uniq_ads\/"},"domain_adwords_historical":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ads History","ga_title":"Adwords Ads History","postfix":"+(by+adwords_historical)","query":"domain","key":"domain_adwords_historical","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Ads History', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+adwords_historical)","domain":"\/info\/{domain}+(by+adwords_historical)","empty":"\/info\/empty\/domain_adwords_historical\/"},"menu_href":"\/info\/empty\/domain_adwords_historical\/"},"url_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"URL","ga_title":"Adwords URL","postfix":"+(by+adwords)","query":"url","counter":"adwurl-counter","key":"url_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords URL', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number adwurl-counter\" ><\/div>","query_build":{"phrase":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+adwords)","domain":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+adwords)","empty":"\/info\/empty\/url_adwords\/"},"menu_href":"\/info\/empty\/url_adwords\/"}},"key":"domain_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Research', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ad-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords)","domain":"\/info\/{domain}+(by+adwords)","empty":"\/info\/empty\/domain_adwords\/"},"menu_href":"\/info\/empty\/domain_adwords\/"},"domain_shopping":{"depends_on_db":true,"depends_on_db_date":true,"title":"PLA Research","ga_title":"PLA Research","postfix":"+(by+shopping)","query":"domain","counter":"sh-counter","items":{"domain_shopping":{"depends_on_db":true,"depends_on_db_date":true,"title":"Positions","ga_title":"PLA Positions","postfix":"+(by+shopping)","query":"domain","counter":"sh-counter","key":"domain_shopping","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Positions', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number sh-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping)","domain":"\/info\/{domain}+(by+shopping)","empty":"\/info\/empty\/domain_shopping\/"},"menu_href":"\/info\/empty\/domain_shopping\/"},"domain_shopping_shopping":{"depends_on_db":true,"depends_on_db_date":true,"title":"Competitors","ga_title":"PLA Competitors","postfix":"+(by+shopping_shopping)","query":"domain","counter":"ss-counter","key":"domain_shopping_shopping","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Competitors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ss-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping_shopping)","domain":"\/info\/{domain}+(by+shopping_shopping)","empty":"\/info\/empty\/domain_shopping_shopping\/"},"menu_href":"\/info\/empty\/domain_shopping_shopping\/"},"domain_shopping_ads":{"depends_on_db":true,"depends_on_db_date":true,"title":"PLA Copies","ga_title":"PLA Ads Copies","postfix":"+(by+shopping_ads)","query":"domain","counter":"sa-counter","key":"domain_shopping_ads","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Ads Copies', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number sa-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping_ads)","domain":"\/info\/{domain}+(by+shopping_ads)","empty":"\/info\/empty\/domain_shopping_ads\/"},"menu_href":"\/info\/empty\/domain_shopping_ads\/"}},"key":"domain_shopping","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Research', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number sh-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping)","domain":"\/info\/{domain}+(by+shopping)","empty":"\/info\/empty\/domain_shopping\/"},"menu_href":"\/info\/empty\/domain_shopping\/"},"domain_video_publishers":{"title":"Video Advertising","ga_title":"Video Advertising","depends_on_db":true,"isBeta":true,"empty_prefix":"\/analytics\/video\/overview\/summary\/","prefix":"\/analytics\/video\/overview\/summary\/","postfix":"","query":"domain","key":"domain_video_publishers","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Video Advertising', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/video\/overview\/summary\/{phrase}","domain":"\/analytics\/video\/overview\/summary\/{domain}","empty":"\/analytics\/video\/overview\/summary\/"},"menu_href":"\/analytics\/video\/overview\/summary\/"},"domain_adsense_overview":{"title":"Display Advertising","ga_title":"Display Advertising","isBeta":true,"postfix":"+(by+adsense)","query":"domain","counter":"adp-counter","items":{"domain_adsense_overview":{"title":"Overview","ga_title":"Adsense Overview","postfix":"+(by+adsense)","query":"domain","key":"domain_adsense_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adsense Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+adsense)","domain":"\/info\/{domain}+(by+adsense)","empty":"\/info\/empty\/domain_adsense_overview\/"},"menu_href":"\/info\/empty\/domain_adsense_overview\/"},"domain_adsense_publishers":{"title":"Publishers","ga_title":"Adsense Publishers","postfix":"+(by+adsense_publishers)","query":"domain","counter":"adp-counter","key":"domain_adsense_publishers","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adsense Publishers', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number adp-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adsense_publishers)","domain":"\/info\/{domain}+(by+adsense_publishers)","empty":"\/info\/empty\/domain_adsense_publishers\/"},"menu_href":"\/info\/empty\/domain_adsense_publishers\/"},"domain_adsense_advertisers":{"title":"Advertisers","ga_title":"Adsense Advertisers","postfix":"+(by+adsense_advertisers)","query":"domain","counter":"ada-counter","key":"domain_adsense_advertisers","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adsense Advertisers', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ada-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adsense_advertisers)","domain":"\/info\/{domain}+(by+adsense_advertisers)","empty":"\/info\/empty\/domain_adsense_advertisers\/"},"menu_href":"\/info\/empty\/domain_adsense_advertisers\/"},"domain_adsense_top":{"title":"TOP 30","ga_title":"Adsense Top 30","postfix":"","query":"no","key":"domain_adsense_top","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adsense Top 30', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/domain_adsense_top\/"},"menu_href":"\/info\/adsense_top.html"}},"key":"domain_adsense_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Display Advertising', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number adp-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adsense)","domain":"\/info\/{domain}+(by+adsense)","empty":"\/info\/empty\/domain_adsense_overview\/"},"menu_href":"\/info\/empty\/domain_adsense_overview\/"}},"tools":{"rank":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ranks","ga_title":"Ranks","postfix":"","query":"no","hide_in_search_bar":true,"items":{"rank":{"depends_on_db":true,"depends_on_db_date":true,"title":"SEMrush Rank","ga_title":"SEMrush Rank","postfix":"","query":"no","key":"rank","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'SEMrush Rank', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/rank\/"},"menu_href":"\/info\/rank.html"},"up-downs":{"depends_on_db":true,"depends_on_db_date":true,"title":"Winners & Losers","ga_title":"Winners & Losers","postfix":"","query":"no","key":"up-downs","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Winners & Losers', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/up-downs\/"},"menu_href":"\/info\/up_downs.html"}},"key":"rank","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Ranks', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/rank\/"},"menu_href":"\/info\/rank.html"},"domain_vs_domain":{"depends_on_db":true,"depends_on_db_date":true,"title":"Domain vs. Domain","ga_title":"Domain vs Domain","postfix":"","query":"domains","hide_in_search_bar":true,"key":"domain_vs_domain","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Domain vs Domain', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/domain_vs_domain\/{phrase}","domain":"\/info\/domain_vs_domain\/{domain}","empty":"\/info\/empty\/domain_vs_domain\/"},"menu_href":"\/info\/domain_vs_domain\/"},"charts":{"depends_on_db":true,"title":"Charts","ga_title":"Charts","postfix":"history\/index.html","query":"chart","hide_in_search_bar":true,"key":"charts","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Charts', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"?domains[]={phrase}&gtype=0&db=us#plot\/line\/\/\/{phrase}\/us\/Or","domain":"?domains[]={domain}&gtype=0&db=us#plot\/line\/\/\/{domain}\/us\/Or","empty":"\/info\/empty\/charts\/"},"menu_href":"\/info\/history\/index.html"}},"key":"analytics","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/analytics\/"},"menu_href":"javascript:void(0);"},"phrase":{"title":"Keyword Analytics","items":{"phrase_overview":{"depends_on_db":true,"depends_on_db_date":true,"title":"Overview","ga_title":"Phrase Overview","search_bar_title":"Phrase Overview","postfix":"+(keyword)","query":"phrase","key":"phrase_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(keyword)","domain":"\/info\/{domain}+(keyword)","empty":"\/info\/empty\/phrase_overview\/"},"menu_href":"\/info\/empty\/phrase_overview\/"},"phrase_fullsearch":{"depends_on_db":true,"title":"Phrase Match","ga_title":"Phrase Full Search","postfix":"+(full+search)","query":"phrase","counter":"fus-counter","key":"phrase_fullsearch","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Full Search', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number fus-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(full+search)","domain":"\/info\/{domain}+(full+search)","empty":"\/info\/empty\/phrase_fullsearch\/"},"menu_href":"\/info\/empty\/phrase_fullsearch\/"},"phrase_related":{"depends_on_db":true,"depends_on_db_date":true,"title":"Related Keywords","ga_title":"Phrase Related","postfix":"+(related)","query":"phrase","counter":"rel-counter","key":"phrase_related","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Related', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number rel-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(related)","domain":"\/info\/{domain}+(related)","empty":"\/info\/empty\/phrase_related\/"},"menu_href":"\/info\/empty\/phrase_related\/"},"phrase_adwords_historical":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ads History","ga_title":"Phrase Ads History","postfix":"+(adwords_historical)","query":"phrase","key":"phrase_adwords_historical","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Ads History', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(adwords_historical)","domain":"\/info\/{domain}+(adwords_historical)","empty":"\/info\/empty\/phrase_adwords_historical\/"},"menu_href":"\/info\/empty\/phrase_adwords_historical\/"}},"tools":{"kdt":{"depends_on_db":true,"depends_on_db_date":true,"title":"Keyword Difficulty","ga_title":"Keyword Difficulty","postfix":"kdt\/?kws=","query":"phrases","hide_in_search_bar":true,"key":"kdt","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Keyword Difficulty', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/kdt\/?kws={phrase}","domain":"\/info\/kdt\/?kws={domain}","empty":"\/info\/empty\/kdt\/"},"menu_href":"\/info\/kdt\/?kws="},"seomagic":{"title":"SEO Keyword Magic","ga_title":"SEO Keyword Magic","empty_prefix":"\/analytics\/seomagic\/start\/","prefix":"\/analytics\/seomagic\/start\/","postfix":"","query":"phrase","isBeta":true,"key":"seomagic","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'SEO Keyword Magic', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/seomagic\/start\/{phrase}","domain":"\/analytics\/seomagic\/start\/{domain}","empty":"\/analytics\/seomagic\/start\/"},"menu_href":"\/analytics\/seomagic\/start\/"}},"key":"phrase","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/phrase\/"},"menu_href":"javascript:void(0);"},"tools":{"title":"Projects","customClass":"projects-menu js-projects-menu","items":[],"key":"tools","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/tools\/"},"menu_href":"javascript:void(0);"},"my_reports":{"title":"My Reports","prefix":"","postfix":"\/my_reports\/","query":"project","key":"my_reports","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"empty\/my_reports\/"},"menu_href":"\/my_reports\/"}}	});
+		config: {"dashboard":{"depends_on_db":true,"title":"Dashboard","ga_title":"Dashboard","prefix":"","postfix":"\/dashboard\/","icon":"s-menu__home-icon s-icon -s -home","key":"dashboard","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"<span class=\"s-menu__home-icon s-icon -s -home\"><\/span>","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Dashboard', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"empty\/dashboard\/"},"menu_href":"\/dashboard\/"},"analytics":{"title":"Domain Analytics","table":true,"items":{"domain_overview":{"depends_on_db":true,"depends_on_db_date":true,"title":"Overview","ga_title":"Domain Overview","search_bar_title":"Domain Overview","postfix":"","query":"domain","key":"domain_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Domain Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}","domain":"\/info\/{domain}","empty":"\/info\/empty\/domain_overview\/"},"menu_href":"\/info\/empty\/domain_overview\/"},"domain_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"Organic Research","ga_title":"Organic Research","postfix":"+(by+organic)","query":"domain","counter":"or-counter","items":{"domain_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"Positions","ga_title":"Organic Positions","postfix":"+(by+organic)","query":"domain","counter":"or-counter","key":"domain_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Positions', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number or-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic)","domain":"\/info\/{domain}+(by+organic)","empty":"\/info\/empty\/domain_organic\/"},"menu_href":"\/info\/empty\/domain_organic\/"},"domain_organic_positions":{"depends_on_db":true,"depends_on_db_date":true,"title":"Position Changes","ga_title":"Organic Position Changes","postfix":"+(by+organic_positions)","query":"domain","counter":"op-counter","key":"domain_organic_positions","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Position Changes', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number op-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic_positions)","domain":"\/info\/{domain}+(by+organic_positions)","empty":"\/info\/empty\/domain_organic_positions\/"},"menu_href":"\/info\/empty\/domain_organic_positions\/"},"domain_organic_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"Competitors","ga_title":"Organic Competitors","postfix":"+(by+organic_organic)","query":"domain","counter":"oo-counter","key":"domain_organic_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Competitors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number oo-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic_organic)","domain":"\/info\/{domain}+(by+organic_organic)","empty":"\/info\/empty\/domain_organic_organic\/"},"menu_href":"\/info\/empty\/domain_organic_organic\/"},"domain_organic_uniq_urls":{"depends_on_db":true,"depends_on_db_date":true,"title":"Pages","ga_title":"Organic Pages","postfix":"+(by+organic_uniq_urls)","query":"domain","key":"domain_organic_uniq_urls","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Pages', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+organic_uniq_urls)","domain":"\/info\/{domain}+(by+organic_uniq_urls)","empty":"\/info\/empty\/domain_organic_uniq_urls\/"},"menu_href":"\/info\/empty\/domain_organic_uniq_urls\/"},"domain_organic_subdomains":{"depends_on_db":true,"depends_on_db_date":true,"title":"Subdomains","ga_title":"Organic Subdomains","postfix":"+(by+organic_subdomains)","query":"domain","isNewItem":true,"key":"domain_organic_subdomains","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Subdomains', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+organic_subdomains)","domain":"\/info\/{domain}+(by+organic_subdomains)","empty":"\/info\/empty\/domain_organic_subdomains\/"},"menu_href":"\/info\/empty\/domain_organic_subdomains\/"},"url_organic":{"depends_on_db":true,"depends_on_db_date":true,"title":"URL","ga_title":"Organic URL","postfix":"+(by+organic)","query":"url","key":"url_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic URL', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+organic)","domain":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+organic)","empty":"\/info\/empty\/url_organic\/"},"menu_href":"\/info\/empty\/url_organic\/"}},"key":"domain_organic","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Organic Research', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number or-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+organic)","domain":"\/info\/{domain}+(by+organic)","empty":"\/info\/empty\/domain_organic\/"},"menu_href":"\/info\/empty\/domain_organic\/"},"backlinks_overview_spa":{"depends_on_db":false,"depends_on_db_date":false,"title":"Backlinks","ga_title":"Backlinks","empty_prefix":"\/analytics\/backlinks\/overview\/","prefix":"\/analytics\/backlinks\/overview\/","postfix":"","query":"domain","key":"backlinks_overview_spa","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Backlinks', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/backlinks\/overview\/{phrase}","domain":"\/analytics\/backlinks\/overview\/{domain}","empty":"\/analytics\/backlinks\/overview\/"},"menu_href":"\/analytics\/backlinks\/overview\/"},"domain_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"Advertising Research","ga_title":"Adwords Research","postfix":"+(by+adwords)","query":"domain","counter":"ad-counter","items":{"domain_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"Positions","ga_title":"Adwords Positions","postfix":"+(by+adwords)","query":"domain","counter":"ad-counter","key":"domain_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Positions', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ad-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords)","domain":"\/info\/{domain}+(by+adwords)","empty":"\/info\/empty\/domain_adwords\/"},"menu_href":"\/info\/empty\/domain_adwords\/"},"domain_adwords_positions":{"depends_on_db":true,"depends_on_db_date":true,"title":"Position Changes","ga_title":"Adwords Position Changes","postfix":"+(by+adwords_positions)","query":"domain","counter":"ap-counter","key":"domain_adwords_positions","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Position Changes', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ap-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords_positions)","domain":"\/info\/{domain}+(by+adwords_positions)","empty":"\/info\/empty\/domain_adwords_positions\/"},"menu_href":"\/info\/empty\/domain_adwords_positions\/"},"domain_adwords_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"Competitors","ga_title":"Adwords Competitors","postfix":"+(by+adwords_adwords)","query":"domain","counter":"aa-counter","key":"domain_adwords_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Competitors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number aa-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords_adwords)","domain":"\/info\/{domain}+(by+adwords_adwords)","empty":"\/info\/empty\/domain_adwords_adwords\/"},"menu_href":"\/info\/empty\/domain_adwords_adwords\/"},"domain_uniq_ads":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ad Copies","ga_title":"Adwords Ads Copies","postfix":"+(by+uniq_ads)","query":"domain","key":"domain_uniq_ads","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Ads Copies', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+uniq_ads)","domain":"\/info\/{domain}+(by+uniq_ads)","empty":"\/info\/empty\/domain_uniq_ads\/"},"menu_href":"\/info\/empty\/domain_uniq_ads\/"},"domain_adwords_historical":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ads History","ga_title":"Adwords Ads History","postfix":"+(by+adwords_historical)","query":"domain","key":"domain_adwords_historical","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Ads History', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(by+adwords_historical)","domain":"\/info\/{domain}+(by+adwords_historical)","empty":"\/info\/empty\/domain_adwords_historical\/"},"menu_href":"\/info\/empty\/domain_adwords_historical\/"},"url_adwords":{"depends_on_db":true,"depends_on_db_date":true,"title":"URL","ga_title":"Adwords URL","postfix":"+(by+adwords)","query":"url","counter":"adwurl-counter","key":"url_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords URL', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number adwurl-counter\" ><\/div>","query_build":{"phrase":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+adwords)","domain":"\/info\/http%3A%2F%2F%7Bdomain%7D+(by+adwords)","empty":"\/info\/empty\/url_adwords\/"},"menu_href":"\/info\/empty\/url_adwords\/"}},"key":"domain_adwords","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Adwords Research', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ad-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+adwords)","domain":"\/info\/{domain}+(by+adwords)","empty":"\/info\/empty\/domain_adwords\/"},"menu_href":"\/info\/empty\/domain_adwords\/"},"domain_shopping":{"depends_on_db":true,"depends_on_db_date":true,"title":"PLA Research","ga_title":"PLA Research","postfix":"+(by+shopping)","query":"domain","counter":"sh-counter","items":{"domain_shopping":{"depends_on_db":true,"depends_on_db_date":true,"title":"Positions","ga_title":"PLA Positions","postfix":"+(by+shopping)","query":"domain","counter":"sh-counter","key":"domain_shopping","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Positions', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number sh-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping)","domain":"\/info\/{domain}+(by+shopping)","empty":"\/info\/empty\/domain_shopping\/"},"menu_href":"\/info\/empty\/domain_shopping\/"},"domain_shopping_shopping":{"depends_on_db":true,"depends_on_db_date":true,"title":"Competitors","ga_title":"PLA Competitors","postfix":"+(by+shopping_shopping)","query":"domain","counter":"ss-counter","key":"domain_shopping_shopping","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Competitors', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number ss-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping_shopping)","domain":"\/info\/{domain}+(by+shopping_shopping)","empty":"\/info\/empty\/domain_shopping_shopping\/"},"menu_href":"\/info\/empty\/domain_shopping_shopping\/"},"domain_shopping_ads":{"depends_on_db":true,"depends_on_db_date":true,"title":"PLA Copies","ga_title":"PLA Ads Copies","postfix":"+(by+shopping_ads)","query":"domain","counter":"sa-counter","key":"domain_shopping_ads","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Ads Copies', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number sa-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping_ads)","domain":"\/info\/{domain}+(by+shopping_ads)","empty":"\/info\/empty\/domain_shopping_ads\/"},"menu_href":"\/info\/empty\/domain_shopping_ads\/"}},"key":"domain_shopping","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'PLA Research', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number sh-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(by+shopping)","domain":"\/info\/{domain}+(by+shopping)","empty":"\/info\/empty\/domain_shopping\/"},"menu_href":"\/info\/empty\/domain_shopping\/"},"domain_video_publishers":{"title":"Video Advertising","ga_title":"Video Advertising","depends_on_db":true,"isBeta":true,"empty_prefix":"\/analytics\/video\/overview\/summary\/","prefix":"\/analytics\/video\/overview\/summary\/","postfix":"","query":"domain","key":"domain_video_publishers","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Video Advertising', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/video\/overview\/summary\/{phrase}","domain":"\/analytics\/video\/overview\/summary\/{domain}","empty":"\/analytics\/video\/overview\/summary\/"},"menu_href":"\/analytics\/video\/overview\/summary\/"},"domain_adsense":{"title":"Display Advertising","ga_title":"Display Advertising","isBeta":true,"onlyAdmin":false,"empty_prefix":"\/analytics\/da\/overview\/","prefix":"\/analytics\/da\/overview\/","postfix":"","query":"domain","key":"domain_adsense","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Display Advertising', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/da\/overview\/{phrase}","domain":"\/analytics\/da\/overview\/{domain}","empty":"\/analytics\/da\/overview\/"},"menu_href":"\/analytics\/da\/overview\/"},"domain_traffic":{"title":"Traffic Analytics","ga_title":"Traffic Analytics","isBeta":true,"empty_prefix":"\/analytics\/traffic\/overview\/","prefix":"\/analytics\/traffic\/overview\/","postfix":"","query":"domain","items":{"domain_traffic_overview":{"title":"Traffic Overview","ga_title":"Traffic Overview","prefix":"\/analytics\/traffic\/overview\/","empty_prefix":"\/analytics\/traffic\/overview\/","postfix":"","view":"overview","query":"domain","key":"domain_traffic_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Traffic Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/traffic\/overview\/{phrase}","domain":"\/analytics\/traffic\/overview\/{domain}","empty":"\/analytics\/traffic\/overview\/"},"menu_href":"\/analytics\/traffic\/overview\/"},"domain_traffic_subdomains":{"title":"Subdomains","ga_title":"Traffic Subdomains","prefix":"\/analytics\/traffic\/subdomains\/","empty_prefix":"\/analytics\/traffic\/subdomains\/","postfix":"","view":"subdomains","query":"domain","key":"domain_traffic_subdomains","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Traffic Subdomains', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/traffic\/subdomains\/{phrase}","domain":"\/analytics\/traffic\/subdomains\/{domain}","empty":"\/analytics\/traffic\/subdomains\/"},"menu_href":"\/analytics\/traffic\/subdomains\/"},"domain_traffic_sources":{"title":"Traffic Sources","ga_title":"Traffic Sources","prefix":"\/analytics\/traffic\/sources\/","empty_prefix":"\/analytics\/traffic\/sources\/","postfix":"","view":"sources","query":"domain","key":"domain_traffic_sources","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Traffic Sources', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/traffic\/sources\/{phrase}","domain":"\/analytics\/traffic\/sources\/{domain}","empty":"\/analytics\/traffic\/sources\/"},"menu_href":"\/analytics\/traffic\/sources\/"},"domain_traffic_destinations":{"title":"Destination Sites","ga_title":"Traffic Destination Sites","prefix":"\/analytics\/traffic\/destinations\/","empty_prefix":"\/analytics\/traffic\/destinations\/","postfix":"","view":"destinations","query":"domain","key":"domain_traffic_destinations","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Traffic Destination Sites', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/traffic\/destinations\/{phrase}","domain":"\/analytics\/traffic\/destinations\/{domain}","empty":"\/analytics\/traffic\/destinations\/"},"menu_href":"\/analytics\/traffic\/destinations\/"}},"key":"domain_traffic","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Traffic Analytics', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/traffic\/overview\/{phrase}","domain":"\/analytics\/traffic\/overview\/{domain}","empty":"\/analytics\/traffic\/overview\/"},"menu_href":"\/analytics\/traffic\/overview\/"}},"tools":{"rank":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ranks","ga_title":"Ranks","postfix":"","query":"no","hide_in_search_bar":true,"items":{"rank":{"depends_on_db":true,"depends_on_db_date":true,"title":"SEMrush Rank","ga_title":"SEMrush Rank","postfix":"","query":"no","key":"rank","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'SEMrush Rank', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/rank\/"},"menu_href":"\/info\/rank.html"},"up-downs":{"depends_on_db":true,"depends_on_db_date":true,"title":"Winners & Losers","ga_title":"Winners & Losers","postfix":"","query":"no","key":"up-downs","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Winners & Losers', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/up-downs\/"},"menu_href":"\/info\/up_downs.html"},"domain_traffic_rank":{"title":"Traffic Rank","ga_title":"Traffic Rank","isBeta":true,"prefix":"\/analytics\/traffic\/rank\/","empty_prefix":"\/analytics\/traffic\/rank\/","postfix":"","view":"rank","query":"domain","key":"domain_traffic_rank","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Traffic Rank', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/traffic\/rank\/{phrase}","domain":"\/analytics\/traffic\/rank\/{domain}","empty":"\/analytics\/traffic\/rank\/"},"menu_href":"\/analytics\/traffic\/rank\/"}},"key":"rank","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Ranks', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/rank\/"},"menu_href":"\/info\/rank.html"},"domain_vs_domain":{"depends_on_db":true,"depends_on_db_date":true,"title":"Domain vs. Domain","ga_title":"Domain vs Domain","postfix":"","query":"domains","hide_in_search_bar":true,"key":"domain_vs_domain","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Domain vs Domain', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/domain_vs_domain\/{phrase}","domain":"\/info\/domain_vs_domain\/{domain}","empty":"\/info\/empty\/domain_vs_domain\/"},"menu_href":"\/info\/domain_vs_domain\/"},"charts":{"depends_on_db":true,"title":"Charts","ga_title":"Charts","postfix":"history\/index.html","query":"chart","hide_in_search_bar":true,"key":"charts","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Charts', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"?domains[]={phrase}&gtype=0&db=us#plot\/line\/\/\/{phrase}\/us\/Or","domain":"?domains[]={domain}&gtype=0&db=us#plot\/line\/\/\/{domain}\/us\/Or","empty":"\/info\/empty\/charts\/"},"menu_href":"\/info\/history\/index.html"}},"key":"analytics","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/analytics\/"},"menu_href":"javascript:void(0);"},"phrase":{"title":"Keyword Analytics","items":{"phrase_overview":{"depends_on_db":true,"depends_on_db_date":true,"title":"Overview","ga_title":"Phrase Overview","search_bar_title":"Keyword Overview","postfix":"+(keyword)","query":"phrase","key":"phrase_overview","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Overview', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(keyword)","domain":"\/info\/{domain}+(keyword)","empty":"\/info\/empty\/phrase_overview\/"},"menu_href":"\/info\/empty\/phrase_overview\/"},"phrase_fullsearch":{"depends_on_db":true,"title":"Phrase Match","ga_title":"Phrase Full Search","postfix":"+(full+search)","query":"phrase","counter":"fus-counter","hide_in_search_bar":true,"key":"phrase_fullsearch","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Full Search', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number fus-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(full+search)","domain":"\/info\/{domain}+(full+search)","empty":"\/info\/empty\/phrase_fullsearch\/"},"menu_href":"\/info\/empty\/phrase_fullsearch\/"},"phrase_related":{"depends_on_db":true,"depends_on_db_date":true,"title":"Related Keywords","ga_title":"Phrase Related","postfix":"+(related)","query":"phrase","counter":"rel-counter","hide_in_search_bar":true,"key":"phrase_related","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Related', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"<div class=\"lm-menu__total-number rel-counter\" ><\/div>","query_build":{"phrase":"\/info\/{phrase}+(related)","domain":"\/info\/{domain}+(related)","empty":"\/info\/empty\/phrase_related\/"},"menu_href":"\/info\/empty\/phrase_related\/"},"phrase_adwords_historical":{"depends_on_db":true,"depends_on_db_date":true,"title":"Ads History","ga_title":"Phrase Ads History","postfix":"+(adwords_historical)","query":"phrase","hide_in_search_bar":true,"key":"phrase_adwords_historical","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Phrase Ads History', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/{phrase}+(adwords_historical)","domain":"\/info\/{domain}+(adwords_historical)","empty":"\/info\/empty\/phrase_adwords_historical\/"},"menu_href":"\/info\/empty\/phrase_adwords_historical\/"}},"tools":{"kdt":{"depends_on_db":true,"depends_on_db_date":true,"title":"Keyword Difficulty","ga_title":"Keyword Difficulty","postfix":"kdt\/?kws=","query":"phrases","hide_in_search_bar":true,"key":"kdt","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'Keyword Difficulty', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/info\/kdt\/?kws={phrase}","domain":"\/info\/kdt\/?kws={domain}","empty":"\/info\/empty\/kdt\/"},"menu_href":"\/info\/kdt\/?kws="},"seomagic":{"title":"SEO Keyword Magic","ga_title":"SEO Keyword Magic","empty_prefix":"\/analytics\/seomagic\/start\/","prefix":"\/analytics\/seomagic\/start\/","postfix":"","query":"phrase","isBeta":true,"key":"seomagic","search_query":"","new_label":"","alpha_label":"","beta_label":"<div class=\"lm-menu__badge -beta\"><\/div>","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":" onclick=\"ga('send', 'event', 'Left menu custom', 'SEO Keyword Magic', app.conf ? app.conf.PAGE_TITLE : 'Undefined page')\"","menu_counter":"","query_build":{"phrase":"\/analytics\/seomagic\/start\/{phrase}","domain":"\/analytics\/seomagic\/start\/{domain}","empty":"\/analytics\/seomagic\/start\/"},"menu_href":"\/analytics\/seomagic\/start\/"}},"key":"phrase","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/phrase\/"},"menu_href":"javascript:void(0);"},"tools":{"title":"Projects","customClass":"projects-menu js-projects-menu","items":[],"key":"tools","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","prefix":"\/info\/","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"\/info\/empty\/tools\/"},"menu_href":"javascript:void(0);"},"my_reports":{"title":"My Reports","prefix":"","postfix":"\/my_reports\/","query":"project","key":"my_reports","search_query":"","new_label":"","alpha_label":"","beta_label":"","menu_chosen":false,"menu_open":false,"admin_label":"","menu_icon":"","menu_onclick":"","menu_counter":"","query_build":{"phrase":"","domain":"","empty":"empty\/my_reports\/"},"menu_href":"\/my_reports\/"}}	});
 
 	// Prepare empty object for the navigation APIs
 	window.app = window.app || {};
 	window.app.navigation = window.app.navigation || {};
 </script>
 <script>
-	define("notesConfig", null);
+	define("notesConfig", {"backend":"\/notes\/api","frontend":"\/\/s3.amazonaws.com\/semrush-notes\/master\/js\/frontend.min.js","feedback":"mailto:notes-feedback@semrush.com","permissions":[],"db":"us"});
 </script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
@@ -319,7 +328,8 @@
             var localeMap = {
                 "global": {
                     "more": "More",
-                    "local_time": "local time"
+                    "local_time": "local time",
+                    "in_local_time": "in your"
                 },
                 "header": {
                     "user": {
@@ -348,11 +358,12 @@
                 },
                 "interface": {
                     "activation": {
-                        "popup_title": "Dear user!",
+                        "popup_title": "Please confirm your email",
                         "popup_text_line_1": "To continue your work with the SEMrush you need to confirm your registration by clicking on the link in the letter sent to your email address.",
                         "popup_text_line_2": "If you have not received the email, <a href='/users/resend_email.html'>click here</a> and it will be sent to you again.",
                         "popup_text_line_3": "We also recommend you to check whether the letter is in the spam folder, if you cannot find it in the inbox.",
-                        "popup_text_line_4": "If you have any questions, please contact our support service: <a href='mailto:mail@semrush.com'>email</a> or <a href='/support/contact/'>contact form</a>.",
+                        "popup_text_line_4": "If you have any questions, please contact our support service: <a href='mailto:mail@semrush.com'>email</a> or <a href='/about/contacts/'>contact form</a>.",
+                        "popup_go_to": "Go to",
                         "popup-first_title": "Thank you for registering!",
                         "popup-first_text": "An email with further instructions on how to complete your registration has been sent to the email address you provided: 174.129.237.157. To complete your registration, please check your inbox.",
                         "popup-first_note": "If you don’t receive an email in the next 24 hours, please contact our support team by email at <a class='s-link' href='mailto:mail@semrush.com'>mail@semrush.com</a>",
@@ -403,6 +414,48 @@
                         "limit_licenses_exceed": "You have exceeded your product limits.",
                         "limit_shared_exceed": "You have exceeded your product limits."
                     }
+                },
+                "support": {
+                    "online": "online",
+                    "offline": "offline",
+                    "us_call_footer_text": "US customers, Toll-Free",
+                    "eu_call_footer_text": "Europe customers, Toll-Free",
+                    "call_time": "10:00 AM - 6:00 PM EST Monday through Friday",
+                    "call_eu_time": "8:00 AM - 4:00 PM GMT Monday through Friday",
+                    "usa_phone_number": "1-855-814-4510"
+                },
+                "userlimits_popup": {
+                    "email": "Email",
+                    "password": "Password",
+                    "first_name": "First name",
+                    "last_name": "Last name",
+                    "login_btn": "Log in",
+                    "already_registered": "Already registered?",
+                    "login_to_account": "Login into your account",
+                    "regform_header": "You’ve reached your SEMrush limit",
+                    "regform_subheader": "To continue using our software please fill out the form below to get 10 extra requests, or buy a",
+                    "show_prices": "SEMrush subscription",
+                    "regform_popup_title": "Register to get 10 extra requests",
+                    "register_btn_text": "Register",
+                    "any_questions": "Any questions?",
+                    "questions_description1": "Send us an email anytime at",
+                    "questions_description2": "or contact us by phone:",
+                    "semrush_email": "mail@semrush.com",
+                    "error_invalid_email": "Invalid email",
+                    "error_invalid_phone": "Invalid phone",
+                    "error_field_is_empty": "Field can`t be empty",
+                    "error_500": "Something was wrong. Please try again later",
+                    "regform_success_header": "Thank you! You have successfully registered!",
+                    "regform_success_subheader_1day": "Now you can continue using the software by making 10 extra requests, or fill out your profile to get a 1-day SEMrush Pro access FREE",
+                    "regform_success_popup_title": "Fill out your profile",
+                    "regform_success_popup_subtitle_1day": "To get 1-day SEMrush Pro access FREE",
+                    "phone_placeholder": "e.g. +17021234567",
+                    "why_we_need_phone": "We need your phone number for security and verification purposes. It won’t be sold or used for any unauthorized transactions.",
+                    "no_thanks": "No thanks",
+                    "continue": "Continue",
+                    "phoneform_popup_subtitle_1day": "Confirm your phone number to get a 1-day promo product FREE",
+                    "regform_header_va": "Video advertising data is available to registered users only",
+                    "regform_popup_title_va": "Register to get access to video advertising data"
                 }
             };
             var deep_value = function (obj, path) {
@@ -419,12 +472,16 @@
             return deep_value(localeMap, key) || key;
         }
 </script>
-<script type="text/javascript" src="/m/build/JST/templates.js?r=v105"></script>
+<script type="text/javascript" src="/m/build/JST/templates.js?r=v288"></script>
 
-<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/social-tracking.js?r=v105"></script>
-<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/autocomplete.js?r=v105"></script>
-<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/utils.js?r=v105"></script>
-<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/core.js?r=v105"></script>
+<!--SWT-988-->
+<script type="text/javascript" src="/user_analytics/experiments/header_knowledge_help.js"></script>
+<script type="text/javascript" src="/m/scripts/experiments/header_kb_help.js"></script>
+<!--SWT-988-->
+
+<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/social-tracking.js?r=v288"></script>
+<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/utils.js?r=v288"></script>
+<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/core.js?r=v288"></script>
 
 	<!-- Start Universal Analytics code -->
 	<script>
@@ -462,6 +519,8 @@
 		}
 
 		
+		ga('set', 'dimension12', 'not set');
+
 		/* Dimension for OWOX (task SWT-750) */
 				/* Dimension for OWOX (task SWT-750) */
 
@@ -490,23 +549,11 @@
 <!-- Autocomplete -->
 <script type="text/javascript">
 	require([
-		'jquery',
-		'lodash',
 		'app/stats/ReportingStatistics'
-	], function ($, _, Tracker) {
+	], function (Tracker) {
 		var splunkTracker = new Tracker({
 			scope: 'static_page'
 		});
-		$(document)
-			.ready(function() {
-				$('#text_1').autocomplete(db_prefix + '/info/suggest.html', {
-					cacheLength: 1,
-					delay: 200,
-					selectFirst: false
-				}).result(function() {
-					$('#main_form').submit();
-				});
-			});
 	});
 </script>
 <!-- Autocomplete -->
@@ -610,7 +657,6 @@
 	<svg xmlns="http://www.w3.org/2000/svg"><symbol id="svg_icon--logo-small"><title>logo-small</title> <g> <path d="M147.2 3.8h-19l-4.9 13.5h3.7l3.7-10.3h4.6c.5 0 .8.4.6.9l-3.4 9.3h3.7l3.4-9.3c.2-.5.8-.9 1.3-.9h3.7c.5 0 .8.4.6.9l-3.4 9.3h3.7l3.9-10.7c.6-1.5-.4-2.7-2.2-2.7zM173 13.1c-.2.5-.8.9-1.3.9h-4.6c-.5 0-.8-.4-.6-.9l3.4-9.3h-3.7l-3.9 10.7c-.6 1.5.4 2.8 2.2 2.8h8.4c1.3 0 2.6-.8 3-1.9l4.2-11.6h-3.7l-3.4 9.3zM111.3 13.1l.3-.9h11.1l1.2-3.2.8-2.3c.6-1.5-.4-2.8-2.2-2.8h-9.3c-1.3 0-2.6.8-3 1.9l-3.2 8.8c-.6 1.5.4 2.8 2.2 2.8h11.8l1.2-3.2h-10.2c-.6-.2-.8-.6-.7-1.1zm1.9-5.1c.2-.5.8-.9 1.3-.9h5.6c.5 0 .8.4.6.9l-.3.9h-7.4l.2-.9zM208.9 3.8l-1.9 5.1h-6.5l1.9-5.1h-3.7l-4.9 13.5h3.7l1.9-5.2h6.4l-1.8 5.2h3.7l4.9-13.5h-3.7zM152.1 5.7l-4.2 11.6h3.7l3.4-9.3c.2-.5.8-.9 1.3-.9h6.5l1.2-3.2h-8.8c-1.4-.1-2.7.7-3.1 1.8zM94.1 5.7l-1.4 3.7c-.6 1.5.4 2.8 2.2 2.8h6c.5 0 .8.4.6.9-.2.5-.8.9-1.3.9h-9.3l-1.2 3.2h11.6c1.3 0 2.6-.8 3-1.9l1.4-3.7c.6-1.5-.4-2.8-2.2-2.8h-6c-.5.1-.7-.3-.5-.8.1-.5.7-1 1.2-1h9.3l1.2-3.2h-11.6c-1.3 0-2.6.8-3 1.9zM181.8 5.7l-1.4 3.7c-.6 1.5.4 2.8 2.2 2.8h6c.5 0 .8.4.6.9-.2.5-.8.9-1.3.9h-9.3l-1.2 3.2h11.6c1.3 0 2.6-.8 3-1.9l1.4-3.7c.6-1.5-.4-2.8-2.2-2.8h-6c-.5 0-.8-.4-.6-.9.2-.5.8-.9 1.3-.9h9.3l1.2-3.2h-11.6c-1.3 0-2.7.8-3 1.9zM78.8 3.1c-2.6-2.7-6.2-3.6-10.8-2.8 0 0-5.5 1.3-10.4 1.4-2.1 0-3.8-.6-5.3-.9.8 1.3 2 2.2 3.4 2.7 1.3.5 3.1 1.2 2.3 2.5-.9 1.4-2.3.2-2.7-.1-1.3-1-1.9-1.7-4.3-3.1-2.6-1.5-6.2-1.6-9.8-1.2 0 0 3 .6 4.3 2 0 0-5.7-1.2-9.5.7 5.4.2 11.4 1.1 12.4 1.5 1 .5.5.8-.5 1-2.4.5-6.9.7-9.7-.1-4-1.1-7.4-4.5-13.1-3.6 5 1.1 7.7 5.8 13.2 6.9 5.5 1.1 9.2-1.1 10.5-1.4 1.3-.3 2.4.1 2.6 1 .3.9-.8 1.9-2.3 2.2-1.1.2-1.5.2-3.5.4-4.2.4-7.2-.1-9.9-.8-5.1-1.4-8.7-4.7-10.4-5.6-1.7-.9-3.6-1.3-5-1.5 0 0 2.8 1.4 3.8 3.2-2.5-.9-6.1-1.5-10.9-.5-2.3.4-7.2 1.5-13.2 3.9 3 .9 6.8.2 8.5.1 9-.7 12 1.2 14.9 2.3 8.8 3.1 11.8.3 12.4 1.2.4.7-2.4 1.8-3.2 2-4 .7-5.9 0-9.5-.8 1.8 1.8 5.3 3.1 9.2 3 4-.2 8.2-.8 11.6-2.2 4-1.7 5.6-2.2 7.4-2.7.8-.2 3.5-.9 4.1-.2.3.4-.2.8-1.1 1.2-.7.3-1.6.6-2.4.9-1.9.7-5.6 2.1-6.7 3 0 0 5.1-.8 10.1-.8s8.4 1.1 12.2 2.5c4.1 1.5 7.6 1 10.6-1.5 2.7-2.3 4-4.9 3.9-8 0-3.2-1.1-5.7-3.2-7.8zm-7.1 16c-4.7 0-8.5-3.8-8.5-8.5s3.8-8.5 8.5-8.5 8.5 3.8 8.5 8.5-3.8 8.5-8.5 8.5zM71.7 3.9c-3.7 0-6.7 3-6.7 6.7s3 6.7 6.7 6.7 6.7-3 6.7-6.7c.1-3.7-2.9-6.7-6.7-6.7zm3.2 11.1c.8-1 1.2-2.2 1.2-3.5 0-2.7-2-5-4.6-5.5.2-.3.5-.7.8-.9 2.7.4 4.7 2.7 4.7 5.5 0 1.8-.8 3.4-2.1 4.4z"></path> </g> </symbol></svg></div>
 
 
-
 <header class="js-header clearfix header ">
 	<div class="s-container -outer">
 		<a href="/" class="header__logo">
@@ -626,9 +672,12 @@
 			<a class="header__navigation-item " href="/prices/" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Prices&quot;]">
 				Prices			</a>
 
-			<div data-ref="dropdown" class="header__navigation-item header-dropdown " data-exp-type="knowledge/help">
-				<a href="/kb/" data-js-dropdown-toggle="-open" class="header-dropdown__toggle" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Knowledge&quot;]">
-											Knowledge										<i class="header-dropdown__icon -dropdown"></i>
+			<div data-ref="dropdown" class="header__navigation-item header-dropdown ">
+				<a href="/kb/" data-js-dropdown-toggle="-open" class="header-dropdown__toggle js-exp-kb js-menu-link" data-module="Knowledge">
+					<!--SWT-988-->
+					<span class="js-exp-kb__text">Knowledge</span>
+					<!--SWT-988-->
+					<i class="header-dropdown__icon -dropdown"></i>
 				</a>
 				<div class="header-dropdown__menu">
 					<a class="header-dropdown__item " href="/kb/manual/" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Manual&quot;]">
@@ -645,8 +694,8 @@
 				</div>
 			</div>
 						<div data-js-dropdown-advanced="news" class="header__navigation-item header-dropdown-advanced ">
-				<a href="/news/" data-ref="toggle" data-exp-type="news/whats_new" class="header-dropdown-advanced__toggle js-menu-link">
-											News										<i data-ref="icon" class="header-dropdown__icon -dropdown "></i>
+				<a href="/news/" data-ref="toggle" class="header-dropdown-advanced__toggle js-menu-link">
+					News					<i data-ref="icon" class="header-dropdown__icon -dropdown "></i>
 					<span data-ref="badge" class="header__badge hide">0</span>
 				</a>
 				<div class="header-dropdown-advanced__menu">
@@ -713,7 +762,7 @@
 				</div>
 			</div>
 			<div data-ref="dropdown" class="header__navigation-item header-dropdown">
-				<a href="/about/" data-js-dropdown-toggle="-open" class="header-dropdown__toggle" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Company&quot;]">
+				<a href="/about/" data-js-dropdown-toggle="-open" class="js-menu-link header-dropdown__toggle" data-module="Company">
 					Company					<i class="header-dropdown__icon -dropdown"></i>
 				</a>
 				<div class="header-dropdown__menu">
@@ -724,26 +773,29 @@
 						<i class="s-icon -xs -link"></i>
 					</a>
 					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Events&quot;]" href="/events/">Events</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Contact Us&quot;]" href="/support/contact/">Contact Us</a>
+					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Contact Us&quot;]" href="/about/contacts/">Contact Us</a>
 				</div>
 			</div>
 		</div>
 
 		<div class="header__user-menu">
 			
-			<div data-ref="dropdown" class="header__navigation-item -small header-dropdown -align-right">
-				<div data-js-dropdown-toggle="-open" class="header-dropdown__toggle uppercase">
-					en<i class="header-dropdown__icon -dropdown"></i>
+			<div class="s-float -left confirm-locale">
+				<div data-ref="dropdown" class="header__navigation-item -small header-dropdown -align-right">
+						<div data-js-dropdown-toggle="-open" class="header-dropdown__toggle uppercase">
+							en<i class="header-dropdown__icon -dropdown"></i>
+						</div>
+					<div class="header-dropdown__menu">
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang EN&quot;]" href="/privacy-policy/?l=us">English</a>
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang ES&quot;]" href="/privacy-policy/?l=es">Español</a>
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang DE&quot;]" href="/privacy-policy/?l=de">Deutsch</a>
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang FR&quot;]" href="/privacy-policy/?l=fr">Français</a>
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang IT&quot;]" href="/privacy-policy/?l=it">Italiano</a>
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang PT&quot;]" href="/privacy-policy/?l=pt">Português (Brasil)</a>
+						<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang RU&quot;]" href="/privacy-policy/?l=ru">Русский</a>
+					</div>
 				</div>
-				<div class="header-dropdown__menu">
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang EN&quot;]" href="/privacy-policy/?l=us">English</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang ES&quot;]" href="/privacy-policy/?l=es">Español</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang DE&quot;]" href="/privacy-policy/?l=de">Deutsch</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang FR&quot;]" href="/privacy-policy/?l=fr">Français</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang IT&quot;]" href="/privacy-policy/?l=it">Italiano</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang PT&quot;]" href="/privacy-policy/?l=pt">Português (Brasil)</a>
-					<a class="header-dropdown__item" data-js-ga="[&quot;Navigation:top_menu&quot;, &quot;link.click&quot;, &quot;Lang RU&quot;]" href="/privacy-policy/?l=ru">Русский</a>
-				</div>
+				<div class="js-confirm-locale"></div>
 			</div>
 							<div class="header__navigation-login">
 					<button class="js-authentication-login s-btn -xs -success" data-test="auth-popup__btn-login">
@@ -759,190 +811,384 @@
 		<div class="content-wrapper clearfix"><!-- Start content area -->
 
 	<!-- Page Content Start -->
-
 	<div class="s-container -outer">
 		<div class="content-wrapper__static">
-
-			<div class="s-h3">SEMRUSH PRIVACY POLICY</div>
-			<div class="s-h5">Revision date:  February 1, 2015</div>
 			<div class="s-row">
-				<div class="s-col-9 s-text -xl">
+				<div class="s-col-10 s-offset-1 s-text -xl">
+					<div class="s-h3 terms__title">SEMrush <br>PRIVACY POLICY</div>
 					
-						
-													<p>At SEMrush, we strive to develop innovative services to better serve our users.
-We recognize that privacy is an important issue, so we design and operate our services with the protection of your
-privacy in mind. This Privacy Policy outlines the types of information we gather when you use SEMrush services,
-as well as some of the steps we take to safeguard it.</p>						
-					
-													<div class="s-h5">PRIVACY POLICY</div>
-						
-													<p>Our Privacy Policy explains what information we collect and why we collect it. <br>
-How we use that information.<br>
-The choices we offer, including how to access and update information.</p>
-<p>Your privacy matters to SEMrush so whether you are new to SEMrush or a long time user, please do take the time to get
-to know our practices – and if you have any questions, please do not hesitate to contact us:
-<strong><a href="mailto:mail@semrush.com">MAIL@SEMRUSH.COM</a></strong></p>
-<p>Our Policy (together with our&nbsp;terms of use&nbsp;and any other documents referred to on it) sets out the basis on which any
-personal data we collect from you, or that you provide to us, will be processed by us. Please read the following
-carefully to understand our views and practices regarding your personal data and how we will treat it.
-By visiting <a href="http://www.semrush.com/">semrush.com</a> (and any associated sub-domains) (our sites), or taking
-out any form of subscription with us, you are accepting and consenting to the practices described in this policy.</p>						
-					
-													<div class="s-h5">INFORMATION WE COLLECT</div>
-						
-													<p>We collect information to provide better services to all of our users.
-SEMrush collects non-personally identifying information your browser makes available whenever you visit a website.
-This information includes your Internet Protocol address, browser type, browser language, the date and time of your
-query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and
-improve our services. Some of our services require your personal information in order to (typically your name, email
-address, credit card information, billing address, telephone, etc.) use that information to provide the service.</p>						
-					
-													<div class="s-h5">DESCRIPTION OF SERVICES</div>
-						
-													<p>We use the information we collect from all of our services to provide,
-maintain, protect and improve them, to develop new ones, and to protect SEMrush and our users.</p>
-<p>SEMrush provides users with access to a rich collection of resources, including but not limited to, accsess to online
-marketing platform and application program interfaces (API) for its use. You also understand that the Service may
-include certain communications from SEMrush, such as service announcements, administrative messages and that these
-communications are considered part of SEMrush free registration and paid subscriptions. Unless explicitly stated
-otherwise, any new features that augment or enhance the current Service, including the release of new SEMrush properties,
-SEMrush and 3rd related party marketing companies, shall be subject to this Agreement. You are responsible for
-obtaining access to the Service, and that access may involve third-party fees (such as Internet service provider
-or airtime charges). Additionally, you must provide and are responsible for all equipment necessary to access the Service.</p>						
-					
-													<div class="s-h5">INFORMATION WE SHARE</div>
-						
-													<p>SEMrush does not share your personal information with third parties or public
-except our service providers, such as SMTP infrastructure providers and payment processors, resellers, performing
-services on our behalf. These service providers may have access to personal information needed to perform their
-functions but are not permitted to share or use such information for any other purposes.</p>
-<p>Occasions when SEMrush will deem it necessary to release client information include but are not limited to:</p>
-<ul>
+<p>
+    At SEMrush, we strive to develop innovative services to better serve our users. We recognize that privacy is an
+    important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy
+    Policy (“Privacy Policy”) explains our policies and procedures regarding the collection, use and disclosure of
+    personally identifiable information that we may receive from you and other users of the SEMrush service,
+    through our software, mobile applications and our website located at
+    <a href="https://www.semrush.com">https://www.semrush.com</a> (the “Website”).
+    Such service, the software, mobile applications and the Website are collectively referred to in this Privacy
+    Policy as the “Service”. This Privacy Policy applies only to information that you provide to us through the Service.
+</p>
+<p>
+    <strong>BY USING THE SERVICE, YOU CONSENT TO OUR COLLECTION, USE, AND DISCLOSURE OF YOUR INFORMATION AS
+        DESCRIBED IN THIS PRIVACY POLICY.</strong>
+</p>
+<p>
+    SEMrush reserves the right to update this Privacy Policy from time to time, and we will notify you of any
+    material changes by posting the new Privacy Policy on the Website at
+    <a href="https://www.semrush.com/privacy-policy/">https://www.semrush.com/privacy-policy/</a>.
+    We encourage you to review this Privacy Policy regularly for any changes.
+    Your continued use of the Service will be subject to the then-current privacy policy.
+</p>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								1.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>INFORMATION WE COLLECT</strong></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								1.1.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Non-Personally Identifiable Information.</strong> SEMrush collects
+non-personally identifying information that your browser makes available whenever you visit a website.
+This information includes your Internet connection and hardware specs, browser type, browser language,
+the date and time of your query and one or more cookies that may uniquely identify your browser.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								1.2.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Personally Identifiable Information.</strong> In addition we collect your
+personal information such as your full name, credit card information, billing address, your email address, history of
+communication with SEMrush, history of payments, IP address, system information, your activities on the Website.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								1.3.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Information Collection.</strong> To facilitate your use of the Service,
+SEMrush may automatically collect certain types of information when you access or use the Service, complete
+surveys, send and receive communications, perform search queries and marketing activities. In order to collect
+this data, SEMrush may utilize automated tools and files such as cookies and web beacons. These automated tools
+and files may reside on our servers or on your computer or device. If you restrict our ability to use automated
+tools and files, your ability to access and use all or part of the Service may be limited or disabled completely.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								1.4.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p>Additionally and only upon your grant of respective permissions we may collect
+information from third party service providers.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								2.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>USE OF INFORMATION</strong></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								2.1.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Non-Personally Identifiable Information.</strong> We use non-personally
+identifying information we obtain by technical means (such as the automatic recording performed by our servers or
+through the use of cookies) for the above purposes and in order to monitor and analyze use of the Service, for the
+Service’s technical administration, to increase the Service’s functionality and user-friendliness, to better tailor
+it to most common user needs, to generate and derive useful data and information concerning the interests,
+characteristics and website use behavior of our users, and to verify that users of the Service meet the criteria
+required to process their requests.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								2.2.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Personally Identifiable Information.</strong> We use the personally
+identifiable user information that we collect to provide, maintain, protect and improve the current Services
+offerings, to develop new Services, to be able to tailor the Services to one’s specific needs if feasible, for
+convenience of users and communication with them, and as may be required by law.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>DISCLOSURE</strong></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.1.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Disclosure to Third-Parties.</strong> SEMrush does not share your personal
+information with third parties or the public except as set forth herein. We may share your personal information
+with our third-party service providers, such as SMTP infrastructure providers, analytical services, payment processors,
+merchants, or resellers, performing services, which supplement our Services. These service providers may have access
+to personal information as needed to perform their functions. Third parties with whom we share your data currently
+include, but are not limited to, Salesforce, Google, OWOX, YouTube, Act-on, Mailchimp with Mandrill, Inspectlet,
+Adroll, Facebook and Twitter. We do not sell your personal information.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.2.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Research.</strong> We may use and disclose to third parties information we
+collect in aggregated, non-personally identifiable form for research and informational purposes and to help us
+make sales, marketing and business decisions.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.3.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Events and Webinars.</strong> SEMrush may share the names, email addresses
+and other details of users who register for some of our webinars and events, both online and offline, with the
+respective webinar speakers, announced special guests, our partners at the events, and others. We carefully select
+these persons and require them to use this information for the purposes related to the event (including webinars).
+We will try to label such events (including webinars) on the registration forms therefor, but if you affirmatively
+do not wish your name, email address or other details disclosed, please contact us before registering for any SEMrush
+event to confirm whether your personal information will be shared at the specific event that you are considering.
+You may not opt-out of sharing your information at an event where such information is shared. Your only recourse is
+not to register for an event which so shares information.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.4.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Mergers and Acquisitions.</strong> If SEMrush is involved in a merger,
+acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give
+affected users notice before personal information is transferred or becomes subject to any new privacy policy of
+an acquirer of our business.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.5.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Special Circumstances.</strong> SEMrush will not disclose your personally
+identifiable information except as set forth in this Section 3, including in subsections (a) through (d) below:
+</p><ul>
     <li>when requested to do so by law enforcement agencies;</li>
     <li>when obliged to do so under US law;</li>
-    <li>for the purpose of pursuing outstanding debts or liabilities;</li>
-    <li>when given permission to do so by said client.</li>
-</ul><br>
-<p>We use analytics tools and other third party technologies, such as Google Analytics and etc. to collect non-personal
-information in the form of various usage and user metrics when you use our online service.</p>
-<p>These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device
-and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and
-statistics, usage and purchase history, and other similar information.</p>
-<p>The third party analytics companies who collect information on our Service may combine the information collected with
-other information they have independently collected from other websites and/or other online or mobile products and
-services relating to your activities across their network of websites as well as online and/or mobile products and
-services. We use this information to operate, develop and improve our service.</p>
-<p>Many of these companies collect and use information under their own privacy policies.</p>
-
-<p>We do not share personal information with companies, organizations and individuals outside of SEMrush unless one of
-the following circumstances applies:</p>
-<p>We may share aggregated, nonpersonally identifiable information publicly and with our partners – like publishers,
-advertisers or connected sites. For example, we may share information publicly to show trends about the general
-use of our services.</p>
-<p>If SEMrush is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any
-personal information and give affected users notice before personal information is transferred or
-becomes subject to a different privacy policy.</p>
-<p>You can object to the use of your personal data for commercial purpose at any time.</p>						
-					
-													<div class="s-h5">INFORMATION STORAGE</div>
-						
-													<p>By submitting your personal information, you agree to it`s transfer, storing
-or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in
-accordance with this Privacy Policy.</p>
-<p>Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site,
-you are responsible for keeping this password confidential. We ask that you do not share a password with anyone.</p>
-<p>Unfortunately, the transmission of information via is internet is not completely secure. Although we will do our best
-to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission
-is at your own risk. Once we have received your information, we will use strict procedures and security features to
-try and prevent unauthorised access.</p>						
-					
-													<div class="s-h5">INFORMATION SECURITY</div>
-						
-													<p>We work hard to protect SEMrush and our users from unauthorized access to or
-unauthorized alteration, disclosure or destruction of information we hold. We review our information collection,
-storage and processing practices, including physical security measures, to guard against unauthorized access to systems.</p>
-<p> We work hard to restrict access to personal information to SEMrush employees, contractors and agents who need to know
-that information in order to process it for us, and who are subject to strict contractual confidentiality obligations
-and may be disciplined or terminated if they fail to meet these obligations.</p>
-<p>To prevent being a phishing website victim, always check domain details when you are providing your personal information.
-Please, be aware that if you suspect the website you’re on is a fake semrush.com site, contact us directly.</p>						
-					
-													<div class="s-h5">WHEN THIS PRIVACY POLICY APPLIES</div>
-						
-													<p>Our Privacy Policy applies to all of the services offered by Semrush Inc.
-and its affiliates and services offered on other sites (such as our affiliate program - Berush).</p>
-<p>Our Privacy Policy does not apply to services offered by other companies or individuals. Our Privacy Policy does not
-cover the information practices of other companies and organizations who advertise our services, and who may use cookies,
-pixel tags and other technologies to serve and offer relevant ads.</p>
-<p>Compliance and cooperation with regulatory authorities.</p>
-<p>We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks.
+    <li>for the purpose of pursuing outstanding debts or liabilities; and</li>
+    <li>when given permission to do so by you.</li>
+</ul><p></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								3.6.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Use of Information for Commercial Purposes.</strong> You may object to the use
+of your personal data for commercial purpose at any time.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								4.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>INFORMATION STORAGE</strong></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								4.1.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Permission to Use Information.</strong> By submitting your personal information,
+you agree to its transfer, storage or processing. We will take all steps reasonably necessary to ensure that your
+data is treated securely and in accordance with this Privacy Policy.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								4.2.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Password.</strong> Where we have given you (or where you have chosen) a
+password which enables you to access certain Services or specific areas of the Website, you are responsible for
+keeping this password confidential. We ask that you do not share your password with anyone.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								4.3.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Disclaimer.</strong> Unfortunately, the transmission of information via
+the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee
+the security of your data transmitted to us via the Internet; any such transmission is at your own risk.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								5.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>INFORMATION SECURITY</strong></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								5.1.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Security Measures.</strong> We work hard to protect SEMrush and our users
+from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold.
+We review our information collection, storage and processing practices, including physical security measures,
+to guard against unauthorized access to systems.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								5.2.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Limited Access to Information.</strong> We work hard to restrict access
+to personal information to SEMrush employees, contractors and agents who need to know that information in order
+to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined
+or terminated if they fail to meet these obligations.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								5.3.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Be Aware.</strong> To prevent being a phishing website victim, always check
+domain details when you are providing your personal information. Please, be aware that if you suspect the website
+you are on is a fake site representing to be SEMrush or to provide the Services, contact us directly at
+<a href="mailto:mail@semrush.com">mail@semrush.com</a>.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								5.4.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Controlling Your Personal Information.</strong> SEMrush may, from time to
+time, make available to users chat rooms, forums, message boards, and other interactive features. You should be
+aware that when you voluntarily disclose personally identifiable information (e.g. user name, e-mail address)
+via blog, forums, postings, profiles or other areas of the Website, that information, along with any substantive
+information disclosed in your communication, can be collected, correlated and used by third parties and may result
+in unsolicited messages from other posters or third parties. Such activities are beyond the control of SEMrush.
+Please do not post any personal information on the Website or in other areas that you expect to keep private.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								5.5.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>Links.</strong> For your convenience, we may provide links to certain third
+party websites or referrals to certain third parties’ products or services. If you choose to visit a third party’s
+website or use its products or services, please be aware that the third party’s privacy policy, and not this Privacy
+Policy, will govern your activities and any information you disclose while interacting with the third party.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								6.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>COMPLIANCE AND COOPERATION WITH REGULATORY AUTHORITIES</strong><br><br>
+We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks.
 When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work
 with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints
-regarding the transfer of personal data that we cannot resolve with our users directly.</p>						
-					
-													<div class="s-h5">CHANGES</div>
-						
-													<p>Our Privacy Policy may change from time to time. We will post any privacy
-policy changes on this page and, if the changes are significant, we may provide a more prominent notice
-(including, for certain services, email notification of privacy policy changes). The actual Privacy Policy for
-your review is placed on: <strong><a href="http://semrush.com/privacy-policy/">http://semrush.com/privacy-policy/</a></strong></p>						
-					
-													<div class="s-h5">CONTACT</div>
-						
-													<p>Questions, comments and requests regarding this Privacy Policy are welcomed
-and should be addressed to us in writing at: SEMRUSH INC, <strong>USA, 8 NESHAMINY INTERPLEX, STE 207,
-TREVOSE, PA 19053.</strong></p>						
+regarding the transfer of personal data that we cannot resolve with our users directly.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								7.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>COLLECTION OF INFORMATION FROM CHILDREN</strong><br><br>
+We do not knowingly collect personally identifiable information relating to children. In the event that we learn that
+we have collected personally identifiable information from anyone under 18 years of age without prior parental
+consent, we will take steps to promptly delete such information. By providing your personal information to SEMrush,
+through the Service, you represent that you are at least 18 years of age or older.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								8.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>INTERNATIONAL VISITORS AND USERS</strong><br><br>
+The Website is hosted in the United States. If you are visiting from the other regions with laws governing data
+collection and use that may differ from U.S. law, please note that you are transferring your personal data to
+the United States which does not have the same data protection laws as the other regions and by providing your
+personal data you consent to:
+</p><ul>
+    <li>The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and</li>
+    <li>The transfer of your personal data to the United States as indicated above.</li>
+</ul><p></p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								9.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>NO ERROR-FREE PERFORMANCE</strong><br><br>
+SEMrush does not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended
+privacy issue, despite our reasonable efforts to do so. Accordingly, we welcome your feedback regarding any privacy
+concerns that you may have, including how we can improve this Privacy Policy. We will use reasonable efforts to comply
+with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								10.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>LEGAL NOTICES</strong><br><br>
+This Privacy Policy is subject to the Terms and Conditions, available for review at
+<a href="https://www.semrush.com/terms/">https://www.semrush.com/terms/</a>. Our Terms and Conditions take precedence
+over any conflicting provision in this Privacy Policy.</p>
+							</div>
+						</div>
+											<div class="s-row terms__row">
+							<div class="s-col-1 terms__num">
+								11.
+							</div>
+							<div class="s-col-11 terms__content">
+								<p><strong>CONTACT</strong><br><br>
+Your privacy matters to SEMrush so whether you are new to SEMrush or a long time user, please do take the time to get
+to know our practices. Questions, comments and requests regarding this Privacy Policy are welcomed and should
+be addressed to us by email at <a href="mailto:MAIL@SEMRUSH.COM">MAIL@SEMRUSH.COM</a>.</p>
+							</div>
+						</div>
+										<p>Last updated: August 29, 2016</p>
+
 									</div>
-				<div class="s-col-3">
-					
-<div class="sem-o-stm-wmeb-txt">
-	<div class="sem-o-stm-lt">Resources</div>
-	<div class="sem-o-stm-gw">
-		<a href="/api-documentation/">SEMrush API</a>
-		<a href="/manual/">Manual</a>
-		<a href="/faq/">FAQ</a>
-		<a href="/video-tutorial/">Video Tutorials</a>
-		<a href="/glossary/">Glossary</a>
-		<a href="/webinars/">Webinars</a>
-		<a href="/info/rank.html">Rank</a>
-		<a href="/informer/">Informer</a>
-	</div>
-</div>
-
-<div class="sem-o-stm-wmeb-txt">
-	<div class="sem-o-stm-lt">SEMrush</div>
-	<div class="sem-o-stm-gw">
-		<a href="http://www.berush.com/?ref=446430091" rel="nofollow">Affiliate Program</a>
-		<a href="/custom-report/">Custom Report</a>
-		<a href="/prices/">Prices</a>
-		<a href="/terms/">Terms Of Use</a>
-		<a href="/refund/">Refund Policy</a>
-		<a href="/buzz/">Buzz</a>
-		<a href="/clients/">Our Clients</a>
-		<a href="/partners/">Partners</a>
-	</div>
-</div>
-
-<div class="sem-o-stm-wmeb-last">
-		<div class="sem-right-menu--social-block">
-		<div class="social-likes social-likes_desktop" data-url="http://www.whorush.com/">
-			<div class="plusone" title="Share link on Google+">Plus</div>
-			<div class="facebook" title="Share link on Facebook">Share</div>
-			<br>
-			<div class="twitter" data-title="SEMrush - service for competitors research, shows Google organic and AdWords keywords for any site" data-via="semrush" title="Share link on Twitter">Tweet</div>
-			<div class="linkedin" title="Share link on LinkedIn">Share</div>
-		</div>
-	</div>
-	<script type="text/javascript">
-		require(["lib/social-likes"]);
-	</script>
-</div>
-				</div>
 			</div>
-
 		</div>
 	</div>
-
 	<!-- Page Content End -->
 
 	</div><!-- End content area -->
@@ -961,12 +1207,11 @@ TREVOSE, PA 19053.</strong></p>
 					</div>
 					<div class="s-support-phone__phone-wrapper">
 						<div class="s-support-phone__phone">+1-855-814-4510</div>
-						<div class="s-support-phone__available-wrapper js-support-tooltip" data-country="usa">
+						<div class="s-support-phone__available-wrapper -online" data-country="usa">
 							<div class="s-support-phone__available-indicator"></div>
 							<div class="s-support-phone__available-text">
 
-																	offline									<s-icon icon="info" size="xs" class$="s-support-phone__icon-info"></s-icon>
-								
+																	online								
 							</div>
 						</div>
 					</div>
@@ -977,7 +1222,10 @@ TREVOSE, PA 19053.</strong></p>
 							<div class="js-sem-time-container">
 								<time datetime="02:00 PM - 10:00 PM" data-timeformat="hh:mm A" data-displayformat="hh:mm A" data-type="range">
 									02:00 PM - 10:00 PM								</time>
-								in your								<a href="#" class="js-time-switcher-link sem-contact-phone-switch-time">local time </a><br>
+
+								<a href="#" class="sem-contact-phone-switch-time" data-ref="link">
+									(GMT, London, Lisbon, Casablanca)
+								</a><br>
 
 								Monday								through								Friday							</div>
 						</div>
@@ -1025,7 +1273,9 @@ TREVOSE, PA 19053.</strong></p>
 							<div class="js-sem-time-container">
 								<time datetime="08:00 AM - 04:00 PM" data-timeformat="hh:mm A" data-displayformat="hh:mm A" data-type="range">
 									08:00 AM - 04:00 PM								</time>
-								in your								<a href="#" class="js-time-switcher-link sem-contact-phone-switch-time">local time </a><br>
+								<a href="#" class="sem-contact-phone-switch-time" data-ref="link">
+									(GMT, London, Lisbon, Casablanca)
+								</a><br>
 
 								Monday								through								Friday							</div>
 						</div>
@@ -1075,29 +1325,28 @@ TREVOSE, PA 19053.</strong></p>
 							<a href="/features/" rel="nofollow" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Features&quot;]">
 								Features							</a>
 						</li>
-
-													<li class="s-footer-menu__item">
-								<a href="/prices/" rel="nofollow" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Prices&quot;]">
-									Prices								</a>
-							</li>
-												<li class="s-footer-menu__item">
-							<a href="/clients/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Our Clients&quot;]">
+						<li class="s-footer-menu__item">
+							<a href="/prices/" rel="nofollow" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Prices&quot;]">
+								Prices							</a>
+						</li>
+						<li class="s-footer-menu__item">
+							<a href="/about/clients/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Our Clients&quot;]">
 								Our Clients							</a>
 						</li>
 						<li class="s-footer-menu__item">
 							<a href="/news/" rel="nofollow" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;News&quot;]">
-																	News															</a>
+								News							</a>
 						</li>
 						<li class="s-footer-menu__item">
-							<a href="/buzz/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Buzz&quot;]">
+							<a href="/about/buzz/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Buzz&quot;]">
 								Buzz							</a>
 						</li>
 						<li class="s-footer-menu__item">
-							<a href="/custom-report/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Custom Report&quot;]">
+							<a href="/about/custom_report/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Custom Report&quot;]">
 								Custom Report							</a>
 						</li>
 						<li class="s-footer-menu__item">
-							<a href="/partners/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Partners&quot;]">
+							<a href="/about/partners/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Partners&quot;]">
 								Partners							</a>
 						</li>
 						<li class="s-footer-menu__item">
@@ -1105,7 +1354,7 @@ TREVOSE, PA 19053.</strong></p>
 								About Us							</a>
 						</li>
 						<li class="s-footer-menu__item">
-							<a href="/support/contact/" rel="nofollow" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Contact Us&quot;]">
+							<a href="/about/contacts/" rel="nofollow" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Contact Us&quot;]">
 								Contact Us							</a>
 						</li>
 					</ul>
@@ -1114,7 +1363,7 @@ TREVOSE, PA 19053.</strong></p>
 			<div class="s-col-2">
 				<div class="s-footer-menu">
 					<div class="s-footer-menu__title">
-													Knowledge											</div>
+						Knowledge					</div>
 					<ul class="s-footer-menu__list">
 						<li class="s-footer-menu__item">
 							<a href="/kb/manual/" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Manual&quot;]">
@@ -1201,7 +1450,7 @@ TREVOSE, PA 19053.</strong></p>
 								Refund Policy							</a>
 						</li>
 						<li class="s-footer-menu__item">
-							<a href="/terms/#cancellation" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Cancellation Policy&quot;]">
+							<a href="/refund/#cancellation" class="s-footer-menu__item-link" data-js-ga="[&quot;Navigation:btm_menu&quot;, &quot;link.click&quot;, &quot;Cancellation Policy&quot;]">
 								Cancellation Policy							</a>
 						</li>
 						<li class="s-footer-menu__item">
@@ -1353,12 +1602,12 @@ TREVOSE, PA 19053.</strong></p>
 </script>
 <img alt="" src="https://secure.adnxs.com/seg?add=1218510&amp;t=2" width="1" height="1" style="display: none;">
 
-<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/lib/placeholders.min.js?r=v105"></script>
+<script type="text/javascript" src="//d2lrxcz2ihvajy.cloudfront.net/m/build/scripts/lib/placeholders.min.js?r=v288"></script>
 
 
 <!-- Start code https://www.act-on.com -->
 <div style="display: none;">
-	<div id="action-white-tracking-code"><img src="//email.semrush.com/acton/bn/13557/visitor.gif?ts=1580405907968&amp;ref="></div>
+	<div id="action-white-tracking-code"><img src="//email.semrush.com/acton/bn/13557/visitor.gif?ts=1580405911073&amp;ref="></div>
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		var actonGif = new Image();
@@ -1384,11 +1633,13 @@ TREVOSE, PA 19053.</strong></p>
 	</noscript>
 </div>
 
+
+	
 		<script>
-			var gsStartTime = '1466580372.2071';
-			var gsLoadTime = '1466580372.2488';
+			var gsStartTime = '1475090758.2063';
+			var gsLoadTime = '1475090758.2543';
 		</script>
-		<!-- PG time: 0.0416 s -->
-		<!-- MP: 4.5 Mb -->
+		<!-- PG time: 0.0480 s -->
+		<!-- MP: 4.25 Mb -->
 
 </body></html>
