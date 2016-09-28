@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogsnow.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625135057id_/http%3A//www.dogsnow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsnow.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928163708id_/http%3A//www.dogsnow.com/privacy.htm) for the most accurate reproduction.*
 
 # Puppies and Dogs for Sale
 
