@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosum.net privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527225714id_/http%3A//www.infosum.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosum.net privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928152559id_/http%3A//www.infosum.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infosum
 
