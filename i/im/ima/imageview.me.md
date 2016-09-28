@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageview.me privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528203333id_/http%3A//imageview.me/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageview.me privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928134917id_/http%3A//imageview.me/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Imageview » More Information » Privacy Policy
 
