@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinranker.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517142147id_/http%3A//www.pinranker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinranker.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929001444id_/http%3A//www.pinranker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PinRanker: Marketing & Traffic Suite
 
