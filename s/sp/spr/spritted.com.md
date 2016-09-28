@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spritted.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626043408id_/https%3A//spritted.com/legal/spritted_privacy_policy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spritted.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928173628id_/http%3A//spritted.com/legal/spritted_privacy_policy_en.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
