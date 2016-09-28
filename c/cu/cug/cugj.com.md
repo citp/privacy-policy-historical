@@ -1,22 +1,30 @@
-> *The following text is extracted and transformed from the cugj.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218113131id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cugj.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928104405id_/http%3A//cugj.com/Privacy.html) for the most accurate reproduction.*
 
-# AddLinkSuggest::Privacy Policy
+# PRIVACY POLICY
 
-  **Privacy Policy**
+##  1\. Acknowledgement and Acceptance of Terms.
 
-iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
+DNBIZ Ltd., the affiliate of Hangzhou 365 Internet Ltd., is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-**Registration**  
-iEntry collects personally identifying information only during the registration process. Information is collected in certain portions of iEntry in which users specifically and knowingly provide such information along with content submissions, jayde.com submissions or suggestions. iEntry may use such information for its internal purposes, including, but not limited to, editorial and feedback purposes. 
+* * *
 
-Information submitted at the time of registration (including newsletter subscriptions) may be used for marketing and promotional purposes by iEntry and may be shared with companies that have something of value to offer. If a guest objects to such use for any reason, he/she may stop that use -- either by e-mail request or by modifying his/her registration information online. 
+##  2\. What Information Do We Collect? 
 
-**Cookies**  
-Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. 
+DNBIZ may request that an entity applying for an account provides us with certain personal information (such as its name, email address, etc.) relevant to our provision of the various services offered on our site. We do not collect any personal information other than that which is specifically and knowingly provided to us. When we request information, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
 
-Cookies help make iEntry better, by showing how and when guests use the site. Many content improvements and updates are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. A cookie lets iEntry remember that you've registered, which allows us to speed up your future activities at our sites. The cookie itself does not contain any personally identifying information although it may enable iEntry to relate a user's use of iEntry to personally identifying information that has previously been submitted by the user, if any. 
+* * *
 
-You may occasionally get cookies from our advertisers. These cookies are sent from third-party computers and are subject to such third parties' policies. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, it is likely that most areas of the site will not function properly if you do so. 
+##  3\. With Whom Do We Share Information? 
 
-**Removal from our Database**  
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [support@ientry.com](mailto:support@ientry.com). 
+DNBIZ may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). This information may allow such third parties to provide you customized advertising.   
+In addition, we may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose.
+
+* * *
+
+##  4\. Cookies , web Beacons and Other Monitoring Technologies? 
+
+Like most sites, for account management purposes, DNBIZ may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. In limited instances, we may allow third party business partners to monitor our sites for the purpose of reporting user traffic, statistics, advertisements, “click-throughs” and/or other activities and to set their cookies on your computer, subject to agreement between such business partner and us and subject to such business partner’s privacy policy. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized advertising. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. 
+
+* * *
+
+This document was last updated on December 28, 2010.
