@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream-this.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811233418id_/http%3A//www.stream-this.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream-this.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928132609id_/http%3A//www.stream-this.com/help/privacy.php) for the most accurate reproduction.*
 
 # Stream-This - Free Video Hosting
 
@@ -30,7 +30,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 We can disclose your personal information in case it becomes necessary to defend our juridical rights.  
 Especially if your information is connected with tangible or assumed saboteur actions or poses a potential threat to any persons physical safety.  
 Disclosure of your information can be lawful or as a result of a legal process.  
-
-
-  
 
