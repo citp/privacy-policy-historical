@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xyztimes.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628124156id_/http%3A//www.xyztimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyztimes.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928223318id_/http%3A//www.xyztimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
