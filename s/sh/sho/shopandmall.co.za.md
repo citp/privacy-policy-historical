@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopandmall.co.za privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225050921id_/https%3A//www.shopandmall.co.za/main-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandmall.co.za privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929200935id_/http%3A//www.shopandmall.co.za/main-privacy) for the most accurate reproduction.*
 
 # Privacy | shopandmall.co.za
 
