@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackmendigital.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127033001id_/http%3A//www.blackmendigital.com/bb/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmendigital.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929211453id_/http%3A//www.blackmendigital.com/bb/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Black Men Magazine
 
