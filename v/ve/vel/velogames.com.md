@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the velogames.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629213304id_/http%3A//www.velogames.com/spring-classics/2016/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velogames.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930005956id_/http%3A//www.velogames.com/eneco-tour/2016/privacy.php) for the most accurate reproduction.*
 
-# Velogames Fantasy Cycling 2016 | Fantasy Spring Classics 2016
+# Velogames Fantasy Cycling | Fantasy Eneco Tour 2016
 
 ## Overview
 
@@ -78,7 +78,7 @@ Such authorisation will be requested in two instances, namely (i) Prize Fulfillm
 
 **Prize Fulfillment**
 
-In the event that a user wins a prize, the user will be requested to provide Velogames with their address and phone number, and be asked to give consent that this information is forwarded to the prize sponsor in charge of delivering the prize. The prize sponsor will be aked by Velogames to use this information for the sole purpose of Prize Fulfillment. Additional use of the information, such as for Promotional Material in relation to the prize, will need to discussed between the individual winer and prize sponsor. 
+In the event that a user wins a prize, the user will be requested to provide Velogames with their address and phone number, and be asked to give consent that this information is forwarded to the prize sponsor in charge of delivering the prize. The prize sponsor will be aked by Velogames to use this information for the sole purpose of Prize Fulfillment. Additional use of the information, such as for Promotional Material in relation to the prize, will need to discussed between the individual user and prize sponsor. 
 
 **Marketing Opt-Ins**
 
