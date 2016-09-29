@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021518id_/http%3A//www.pokecommunity.com/misc.php%3Fdo%3Dpage%26template%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokecommunity.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929080907id_/http%3A//www.pokecommunity.com/misc.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
-# The PokéCommunity Forums - policy
+# Privacy Statement - The PokéCommunity Forums
 
 This is how we handle information we learn about you from your visit to our website. The information we receive and use depends on what you do when you visit our site. 
 
@@ -17,28 +17,22 @@ _If you visit our site to browse, or to read or download posts, information like
        
 
     We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/choices/).
-
 _If you choose to identify yourself by registering as a member, sending us an e-mail or when using our secure or unsecure [e-mail] online forms and/or message boards:_
 
     We use some personally-identifying information from registered members, submitters, and guests in various ways to further our competition activities. We collect this information only if freely submitted (Verified Opt-in). We may enter the information you send into our database to make it available to our newsletter and other in-site marketing, and to our attorneys and/or investigators involved in law enforcement. We _do not share any_ information received at pokecommunity.com with any 3rd parties. If you want your information removed from our files you must contact us and request removal, contact info is below. 
        
 
     In other limited circumstances, we may be required by law to disclose the information you submit. If you use one of our online forms, _the information you provide is up to you._ If you don't provide your name or other information, it may be impossible for us to refer, respond to, or investigate your complaint or request. (Or track you personally.)
-
 _If you want to get information about you that may be in our records_ : 
 
     The Freedom of Information Act and the Privacy Act of 1974 provide you certain rights to get information about you that is in our records. 
-
 _Here's what you should know about the security of the information you provide to us:_
 
     We use secure socket layer (SSL) encryption, where available, to protect the transmission of information you submit to us when you use our **secure** online forms, if available. All the information you provide us through these forms is stored securely offline. 
        
 
     If you send us an email, use the standard comments or submit forms, you should know that email is not necessarily secure against interception. So, if your communication includes sensitive information like your bank account, charge card, or social security number, and you prefer not to use one of our secure online forms, contact us by **postal mail** or **telephone** rather than email.
-
-the pokecommunity.com site is a **non-commercial** , "hobby-based" fan web site and all actions performed on this site, about this site, or any related activity, reflects that fact. Users assume any and all liability for any usage of this site within the laws of California, and the United States. 
-
-**3rd Party Links and Advertisements**   
+the pokecommunity.com site is a **non-commercial** , "hobby-based" fan web site and all actions performed on this site, about this site, or any related activity, reflects that fact. Users assume any and all liability for any usage of this site within the laws of California, and the United States. **3rd Party Links and Advertisements**   
 
 This website links to documents or pages located on websites maintained by various other organizations. Once you access an individual document that links you to another website, you are subject to the privacy policy of the website containing that document
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). For further information, visit: <http://www.google.com/privacypolicy.html>
@@ -48,7 +42,7 @@ If you would like more information about this practice and to know your choices 
      _Here's how to contact us_   
 You may contact us by 
 
-  * [eMail Contact Us Form](https://web.archive.org/web/20160608021518id_/http%3A//www.pokecommunity.com/sendmessage.php)
+  * [eMail Contact Us Form](https://web.archive.org/web/20160929080907id_/http%3A//www.pokecommunity.com/sendmessage.php)
   * **Postal mail** : PokeCommunity.com  
 C/O 
     * One GigaByte Network
@@ -71,6 +65,3 @@ If you do so, we may use the information you provide in the ways we have describ
 **Cookie**
 
 A "cookie"is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it possible for you to use an online "shopping cart" to keep track of items you wish to purchase. The cookie transmits this information back to the Web site's computer which, generally speaking, is the only computer that can read it. Most consumers do not know that "cookies" are being placed on their computers when they visit websites. If you want to know when this happens, or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer. [Back to Privacy Policy]
-
-  
-Last updated on: 15Feb2014. This policy is subject to change at anytime with or without notice.
