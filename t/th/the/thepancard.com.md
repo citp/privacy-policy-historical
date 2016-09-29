@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepancard.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626065627id_/http%3A//www.thepancard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepancard.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929135856id_/http%3A//www.thepancard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThePanCard.com
 
