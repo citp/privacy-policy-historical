@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630050220id_/http%3A//www.gmoregistry.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmoregistry.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929081643id_/http%3A//www.gmoregistry.com/en/privacy) for the most accurate reproduction.*
 
 # GMO Registry, Inc.｜Privacy Policy
 
