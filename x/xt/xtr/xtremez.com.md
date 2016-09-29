@@ -1,108 +1,72 @@
-> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529075813id_/http%3A//www.paintball-online.com/pages/Help-Center-About-Us.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929101328id_/http%3A//www.xtremez.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# | VIPs Save 10% & Free Shipping - Paintball-Online.com
+# Terms: Privacy
 
-## About Paintball-Online.com
+**Privacy Policy**
 
-We are one of the Internet's largest paintball stores with 1000's of products in stock and ready to ship. Started in 1995 by an avid paintball player and net-surfer, our goal is to utilize our low overhead and large buying power to bring you the best products at competitive prices with the convenience of secure online shopping. If you have questions feel free to contact us at (360) 567-2520. We love what we do and it shows in our service everyday! 
+**What information do we collect?**
 
-## Affiliate Program
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-Paintball-Online.com Affiliate Program provides paintball or extreme sports websites with the opportunity to earn money by turning their site visitors into Paintball-Online.com customers. 
+  
+ **How do we use your information?**
 
-When a visitor to your site clicks on a link that points to Paintball-Online.com a cookie with your unique tracking information is placed on their computer. Commission Junction is a respected industry leader that has a state of the art tracking system. 100% of your results are monitored. This information is accessible to you 24 hours a day through this trusted third party's web-site. 
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-There is no fee to join our program or Commission Junction. Affiliate commission starts at 5% and you can earn up to 10% depending on your monthly sales. 
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-[Apply for an account today!](https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=688552)
+  
+ **How do we protect visitor information?**
 
-## 30 Day Guarantee
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-We offer a 30-Day Money Back Guarantee on all new and unused merchandise, excluding paintballs and apparel, in its original packaging. We offer 120% Price Protection for 30 Days from your order Most manufactures provide a 1-Year full parts and labor warranty on merchandise. (Call for details) All Paintball sales are final. Breakage is insured in shipment. 
+ **Do we use "cookies"?**
 
-## 120% Price Protection
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Paintball-Online.com is never beat on price. If you find a lower price within 30 days of your order, we will gladly refund you 120% of the difference in price. For example, if you purchased an item for $149.99, then found it for $119.99 (a $30 difference), we would refund you $36.00.
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Price Protection does not apply to reseller's liquidations, where the other retailer is backordered or out-of-stock, closeouts, local paintball stores (we can't verify) or below cost loss leaders. Paintball Online will not match it's own price. This policy does not apply to purchases at Paintball-Online.com retail locations. Not valid with any other offer. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-## Contact Information
+ **Do we disclose the information we collect to outside parties?**
 
-**Email:** sales@paintball-online.com  
-**Order Hotline:** (800) 875-4547  
-**Order Status:** +1 (360) 567-2520  
-(Monday - Friday: 8am - 4pm EST)  
-**Fax:** (360) 567-1766  
-**Mailing Address:** 314 E McLoughlin Blvd, Suite 200, Vancouver, WA 98663 USA 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ANS Xtreme Performance Inc. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-## Jobs
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Love paintball? Live in the Northwest? [Join the Paintball Online team.](https://web.archive.org/pages/viewpage.aspx?page=20)
+ **How can you opt-out, remove or modify information you have provided to us?**
 
-## Lowest Price Guarantee
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
-Low price guarantee does not apply to resellers' liquidations, backorders/out-of-stocks, closeouts, local paintball stores or below cost loss leaders. Only one price match per item will be processed. Paintball Online will not match it's own price. This policy does not apply to purchases at PaintballOnline.com retail locations. Not valid with any other offers. 
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-## Wholesale Inquiries
+ **Third party links**
 
-Field and store owners [apply](http://wholesale.paintball-online.com/) for a wholesale account today! 
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-## Information Collection and Use
+ **Changes to our policy**
 
-Paintball-online.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. paintball-online.com collects information from our users at several different points on our website.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
 
-## Order
+ **Questions and feedback**
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-## Cookies
+ **Online Policy Only**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user may not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## Log Files
+ **Terms and Conditions**
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20160929101328id_/http%3A//www.xtremez.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-## Sharing
+ **Your consent**
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-
-## Links
-
-This web site contains links to other sites. Please be aware that we, (paintball-online.com) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-## Newsletter
-
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
-
-## Surveys & Contests
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-## Tell-A-Friend
-
-If a user elects to use our referral service for informing a friend about our site or a product, we ask them for the friend's name and email address. paintball-online.com will automatically send the friend an email inviting them to visit the site. paintball-online.com stores this information for sending this email and to notify them of future promotions. The friend may contact paintball-online.com at http://www.paintball-online.com/store/contact.asp to request the removal of this information from their database.
-
-## Security
-
-This website takes every precaution to protect our users information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just surfing. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. If you have any questions about the security at our website, you can send an email to security@paintball-online.com
-
-## Special Offers
-
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below.
-
-## Site and Service Updates
-
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone.
-
-## Correction/Updating Personal Information
-
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support
-
-## Choice/Opt-out
-
-Our users are given the opportunity to opt-out of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an opt-out mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at sales@paintball-online.com. Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
-
-## PowerReviews Program
-
-Paintball-Online has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by paintball-online.com. When you submit a product review to paintball-online.com, you are also subject to PowerReviews' terms of use and privacy policies (see [Buzzillions Privacy Policy](http://www.buzzillions.com/public/legal/privacy_policy_en_US.html)). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [Buzzillions.com](http://www.buzzillions.com/) and our site. 
+By using our site, you consent to our privacy policy.
