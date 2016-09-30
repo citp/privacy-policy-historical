@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everybodysuncle.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624173852id_/http%3A//www.everybodysuncle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everybodysuncle.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930140631id_/http%3A//www.everybodysuncle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EverybodysUncle
 
