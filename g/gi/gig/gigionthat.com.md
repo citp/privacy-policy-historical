@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigionthat.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307223132id_/http%3A//gigionthat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigionthat.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930030646id_/http%3A//gigionthat.com/privacy.html) for the most accurate reproduction.*
 
 # gigionthat.com | Privacy Policy
 
