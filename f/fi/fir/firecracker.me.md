@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720012402id_/http%3A//med.firecracker.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930051337id_/http%3A//firecracker.me/privacy) for the most accurate reproduction.*
 
-# Firecracker | Learn Faster, Remember Everything
-
-_Last Updated: December 2012_
+# Firecracker - Privacy Policy
 
 ## Overview
 
@@ -54,9 +52,9 @@ Choosing to make your information public also means that this information:
 
 The types of information listed below are by default publicly available, and are treated just like information you decided to make public. 
 
-  1. Name: When you post information in a public message area your Nickname will be associated with the message. Other users may find your Nickname by searching for it through the Services. 
-  2. Profile Pictures: This helps other users recognize you. If you are uncomfortable making your profile picture public, you can always delete it by hovering over your photo and clicking "Change Picture." A default profile picture will be assigned to your profile until you select one. 
-  3. Custom Created Groups: Firecracker allows you to create custom groups of other users to share information. Custom groups may include study groups, friends, classmates, communities, or other groups (“Custom Group”). This helps you see whom you will be sharing information with before you choose a Custom Group as a custom audience to a post. 
+  1. Name: When you post information in a public message area your nickname will be associated with the message. Other users may find your nickname by searching for it through the Services.
+  2. Profile Pictures: This helps other users recognize you. If you are uncomfortable making your profile picture public, you can always delete it by hovering over your photo and clicking "Change Picture." A default profile picture will be assigned to your profile until you select one.
+  3. Custom Created Groups: Firecracker allows you to create custom groups of other users to share information. Custom groups may include study groups, friends, classmates, communities, or other groups (“Custom Group”). This helps you see whom you will be sharing information with before you choose a Custom Group as a custom audience to a post.
 
 
 
@@ -70,7 +68,7 @@ Like many Websites, we automatically gather certain information about our Websit
 
 _Cookies_
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We may use cookies on this Website. As noted above, we do not link the information we store in cookies to any personally identifiable information you submit while on our Website. This privacy policy covers the use of cookies by the Website only and does not cover the use of cookies by any advertisers. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We may use cookies on this Website. As noted above, we do not link the information we store in cookies to any personally identifiable information you submit while on our Website. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Cookies may also be used to track how you use the site to target ads to you on other websites. 
 
 We use session ID cookies on certain portions of our Website. A session ID cookie expires when you close your browser. We may use session cookies to make it easier for you to navigate our Website. In addition, our third party analytics provider, if any, may use cookies to track movement on non-secure portions of the Website. We have no access to or control over these cookies. If you reject cookies, you may still use our Website, but your ability to use some areas of our Website, such as contests or surveys, may be limited. Some of our business partners (e.g., advertisers) use cookies on our Website. We have no access to or control over these cookies. See “Third Party Advertisers.” 
 
@@ -80,7 +78,9 @@ We may employ a software technology called clear gifs, also referred to as web b
 
 _Special Offers & Updates_
 
-We may occasionally send you information on products, services, special deals, and promotions. We may provide a registration page on which you can sign up to receive such emails from us. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
+We may occasionally send you information on products, services, special deals, and promotions. We may provide a registration page on which you can sign up to receive such emails from us. 
+
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
 
 _Service-Related Announcements_
 
@@ -104,9 +104,11 @@ _Personally Identifiable Information_
 
 Except as discussed in this Privacy Policy, we do not share personally identifiable information with third parties. 
 
+In accordance with our Terms of Service, we may share your personally identifiable information with an educational institution under certain circumstances. 
+
 _Agents_
 
-We use a a credit card processing company to bill you for our Services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+We use a credit card processing company to bill you for our Services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
 _Service Providers_
 
@@ -126,7 +128,7 @@ The Website contains links to other sites that are not owned or controlled by Fi
 
 _Access to Personally Identifiable Information_
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing us at chat@firecracker.me or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing us at [chat@firecracker.me](mailto:chat@firecracker.me) or by contacting us by telephone or postal mail at the contact information listed below. 
 
 _Security_
 
@@ -138,7 +140,7 @@ Our Website is not directed to people under 13 years of age. If you become aware
 
 _Terms of Service_
 
-Please also visit our [Terms of Service](https://web.archive.org/terms) which establish the use, disclaimers, and limitations of liability governing the use of our Services. 
+Please also visit our [Terms of Service](https://app.firecracker.me/terms) which establish the use, disclaimers, and limitations of liability governing the use of our Services. 
 
 _Changes to this Privacy Policy_
 
@@ -149,5 +151,8 @@ _Contact Us_
 If you have any questions or suggestions regarding our privacy policy, please contact us via email at [chat@firecracker.me](mailto:chat@firecracker.me) or by mail at this address: 
 
 **Firecracker Inc.**   
-**66 Church St. Floor 2**   
-**Cambridge, MA 02138**
+**25 West St.**   
+**Floor 5**   
+
+
+**Boston, MA 02111**
