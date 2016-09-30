@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alcatelonetouch.eu privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519194735id_/http%3A//www.alcatelonetouch.eu/gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatelonetouch.eu privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930140359id_/http%3A//www.alcatelonetouch.eu/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We, TCT Mobile Europe SAS (hereinafter to the referred to as “ALCATEL ONETOUCH”), know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly, and in compliance with the laws regulating the protection of personal data.
+We, TCT Mobile Europe SAS (hereinafter to the referred to as “Alcatel”), know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly, and in compliance with the laws regulating the protection of personal data.
 
 ## Scope
 
@@ -18,7 +18,7 @@ We may also collect information, which does not, on its own, allow direct associ
 
 ## Do We Share the Information? 
 
-We do not share Personal Information with companies, organizations and individuals outside of ALCATEL ONETOUCH unless one of the following circumstances applies. ALCATEL ONETOUCH may share Information only with your consent. We cooperate with companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to Personal Information needed to perform their functions, but may not use it for other purposes. We will share Personal Information with organizations or individuals outside our organization if we believe that access, use, preservation or disclosure of the information is reasonably necessary to: \- Meet any applicable law, regulation, legal process or enforceable governmental request; \- Detect, prevent or otherwise address fraud, security or technical issues; \- Protect against harm to the rights, property or safety of our users or the public, as required or permitted by law.
+We do not share Personal Information with companies, organizations and individuals outside of Alcatel unless one of the following circumstances applies. Alcatel may share Information only with your consent. We cooperate with companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to Personal Information needed to perform their functions, but may not use it for other purposes. We will share Personal Information with organizations or individuals outside our organization if we believe that access, use, preservation or disclosure of the information is reasonably necessary to: \- Meet any applicable law, regulation, legal process or enforceable governmental request; \- Detect, prevent or otherwise address fraud, security or technical issues; \- Protect against harm to the rights, property or safety of our users or the public, as required or permitted by law.
 
 ## Security and Transparency
 
