@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triathloninspires.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425074526id_/http%3A//www.triathloninspires.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathloninspires.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930084955id_/http%3A//www.triathloninspires.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Triathlon Inspires | Inspiration Beyond Limits!
 
