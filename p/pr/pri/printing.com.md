@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printing.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607094050id_/http%3A//www.printing.com/us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printing.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930120936id_/http%3A//www.printing.com/us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | printing.com
 
