@@ -1,590 +1,368 @@
-<!--The following is the downloaded HTML source of the firecracker.me privacy policy that was archived on 2014-07-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140720012402id_/http%3A//med.firecracker.me/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firecracker.me privacy policy that was archived on 2016-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160930051337id_/http%3A//firecracker.me/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/f0974fa177db78719b4630ace245a8d15e8a6a8d.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/ebbe25fd-a5f2-496a-8b8f-b5f27474a6aa.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8b883fd73a","applicationID":"942308","transactionName":"el9dEBEMWF8BQhcVElhEWgc8E1VUAUMXFhRQRlIHGg==","queueTime":14,"applicationTime":58,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMCWVdTGwoEVlJSDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-	<title>Firecracker | Learn Faster, Remember Everything</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="The most advanced learning platform for the next generation of Physicians.">
-	<meta name="author" content="Firecracker Inc.">
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Firecracker - Privacy Policy</title>
+    <meta name="description" content="Learn Faster, Remember Everything">
+    <meta name="viewport" content="width=device-width">
+    <meta name="google-site-verification" content="crCcVb6DVLQH2uHLdjSZg0YtceW-g4BEFWI1qvOFtjU">
 
-	<!-- Styles -->
-  <link href="//d1ot4ghrjgwbit.cloudfront.net/assets/presales/application-10530f90dfe89c172747e28e3bd55d8c.css" media="screen" rel="stylesheet" type="text/css">
-
-	<link href="http://fonts.googleapis.com/css?family=Dosis" rel="stylesheet" type="text/css">
-	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,700" rel="stylesheet" type="text/css">
-
-	<!-- HTML5 shim, for IE6-8 support of HTML5 elements and IE Fallback-->
-    <!--[if lt IE 9]>
-      <script src="/javascripts/html5shiv.js"></script>
-      <link href="assets/css/ie.css" rel="stylesheet">
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link href="//d1ot4ghrjgwbit.cloudfront.net/assets/favicon-82a80c60f36bdd672d23f5e1d046aa11.ico" rel="shortcut icon" type="image/png">
-
-    <link href="//d1ot4ghrjgwbit.cloudfront.net/assets/mobile/apple-touch-icon-iphone-37699875b424c24c45b1ae6c9d067284.png" rel="apple-touch-icon-precomposed" type="image/png">
-    <link href="//d1ot4ghrjgwbit.cloudfront.net/assets/mobile/apple-touch-icon-ipad-66e7fe923094bbc17d0a71fd4858ec44.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png">
-    <link href="//d1ot4ghrjgwbit.cloudfront.net/assets/mobile/apple-touch-icon-ipad3-6800ee2441782054ca0217c4a84cb5de.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png">
-
-</head>
-
-<body>
-  <div id="fb-root">
-    <script>
-  //<![CDATA[
-    window.fbAsyncInit = function() {
-        // init the FB JS SDK
-        FB.init({
-          appId      : '287198061337756', // App ID from the App Dashboard
-          channelUrl : '//med.firecracker.me/channel.html', // Channel File for x-domain communication
-          status     : true, // check the login status upon init?
-          cookie     : true, // set sessions cookies to allow your server to access the session?
-          xfbml      : true  // parse XFBML tags on this page?
-        });
+    <link rel="apple-touch-icon" sizes="57x57" href="/static/images/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/static/images/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/static/images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/images/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/images/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/images/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/images/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/images/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/static/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/static/images/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/static/images/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/static/images/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/static/images/manifest.json">
+    <meta name="msapplication-TileColor" content="#9f00a7">
+    <meta name="msapplication-TileImage" content="/static/images/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-itunes-app" content="app-id=1063844682">
+    <meta name="google-play-app" content="app-id=me.firecracker.dailyreview">
     
-        // Additional initialization code such as adding Event Listeners goes here
-        FB.getLoginStatus(function (response) {
-          if ((response.status === 'connected') || (response.status === 'not_authorized'))  {
-            $('#facepileDiv').show();
-          }
-        });
-    
-      };
-    
-      // Load the SDK's source Asynchronously
-      // Note that the debug version is being actively developed and might 
-      // contain some type checks that are overly strict. 
-      // Please report such bugs using the bugs tool.
-      (function(d, debug){
-         var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement('script'); js.id = id; js.async = true;
-         js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-         ref.parentNode.insertBefore(js, ref);
-       }(document, /*debug*/ false));
-  //]]>
-</script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css">
 
+    <script type="text/javascript" async="" src="https://widget.intercom.io/widget/APP_ID"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6F4FG"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
+    
+    
+
+    <link rel="stylesheet" href="/static/css/bd4b24c7.minified.css">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>
+
+    
+    
+  </head>
+  <body>
+    
+      <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+      <![endif]-->
+
+      
+        
+<!--
+<form action="/search-results/" method="get" data-search-index="false">
+ <input type="text" name="q" placeholder="Search" id="tipue_search_input" />
+</form>
+-->
+
+<div class="header-overlay"></div>
+
+<header>
+  <div class="section-wrap">
+    <div class="logo">
+      <a href="/">
+      	<img class="logo-scroll" src="/static/images/logo/logo--firecracker@2x.png" alt="Firecracker logo">
+        <img class="logo-top" src="/static/images/logo/logo--firecracker__white@2x.png" alt="Firecracker logo">
+      </a>
+    </div>
+	  <ul>
+    <!--
+    
+      <li><a href="/contentteam/">Content Team</a></li>
+    
+      <li><a href="/discounts/">discounts</a></li>
+    
+      <li><a href="/exams/">Exams</a></li>
+    
+      <li><a href="/forschoolplan/">For School Plan</a></li>
+    
+      <li><a href="/globaltrackingtags/">Global Tracking Tags</a></li>
+    
+      <li><a href="/landingpage/">Landing Page</a></li>
+    
+      <li><a href="/onepager/">One-Pager</a></li>
+    
+      <li><a href="/product/">Product</a></li>
+    
+      <li><a href="/students/">Students</a></li>
+    
+      <li><a href="/studenttestimonial/">Student Testimonial</a></li>
+    
+      <li><a href="/team/">Team</a></li>
+    
+      <li><a href="/updates/">updates</a></li>
+    
+    -->
+      <!--li><a href="/">Home</a></li-->
+      <li><a href="/product/firecracker-do">DO</a></li>
+      <li><a href="/product/firecracker-md">MD</a></li>
+      <li><a href="/pre-med-program/">Premed</a></li>
+      <li><a href="/for-schools">For Schools</a></li>
+      <li>
+        <a class="blog">Blog</a>
+        <ul class="header-dropdown">
+          <li><a href="http://blog.firecracker.me/students">Student Blog</a></li>
+          <li><a href="http://blog.firecracker.me/schools">School Blog</a></li>
+        </ul>
+      </li>
+      <li><a href="http://med.firecracker.me/" class="button button-size__small">Sign in</a></li>
+    </ul>
+    <div class="hamburger">
+      <a>
+        <span class="first-child">&nbsp;</span>
+        <span class="second-child">&nbsp;</span>
+        <span class="third-child">&nbsp;</span>
+      </a>
+    </div>
   </div>
+</header>
 
-	<div class="wrapper">
-		<!-- begins header -->
-    <!-- begins navbar -->
-<div id="top-nav" class="navbar">
-	<div class="navbar-inner">
-		<div class="container">
-			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-			<a class="brand" data-section="body" href="http://www.firecracker.me/index.html">
-				<img alt="Firecracker-logo" class="pull-right" src="//d1ot4ghrjgwbit.cloudfront.net/assets/presales/firecracker-logo-96bd0a20c62fa46005cbb235383204ec.png">
-				<h1 class="hide">Firecracker | Celebrate Learning</h1>
-			</a>
-			<nav id="main-menu" class="nav-collapse collapse">
-				<h2 class="hide">Main Navigation</h2>
-				<ul class="nav pull-left">
-					<li><a href="http://www.firecracker.me/#features-section">FEATURES</a></li>
-					<li><a href="http://www.firecracker.me/#testimonials-section">TESTIMONIALS</a></li>
-					<li><a href="http://www.firecracker.me/#call-to-action">PLANS &amp; PRICING</a></li>
-					<li><a href="https://firecrackerinc.uservoice.com/knowledgebase" target="_blank">FAQs</a></li>
-					<li><a href="http://blog.firecracker.me" target="_blank">BLOG</a></li>
-					<li><a href="http://www.firecracker.me/#more-features">MORE</a></li>
-				</ul>
-			</nav>
-		</div>
-	</div>
-</div>
-<!-- ends navbar -->
+      
 
-<div class="row-fluid">
-  <div class="flash-messages span6 offset3">
-    
+      
+      
+<section class="hero dark natural">
+  <div class="section-wrap">
+    <div class="section-title">
+      <h1>
+        Privacy Policy
+      </h1>
+      <p>Last Updated: September 26 2016</p>
+    </div>
   </div>
-</div>
+</section>
 
-<br>
-<br>
-<br>
-<div class="container inside">
-<div class="row-fluid">
-<div class="span8 offset2">
-<h1>Privacy Policy</h1>
-<p>
-<em>Last Updated: December 2012</em>
+<section>
+  <div class="section-wrap content" style="margin-top: 60px;">
+    <div class="long-form">
+      <h2>Overview</h2>
+<p>Thank you for using Firecracker! This Privacy Policy provides Firecracker’s (“we” or “our”) policies and procedures for collecting, using, and disclosing your information. Users can access our website and services (the “Services”) through our website www.firecracker.me, applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access our Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the our Services, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
 </p>
-<h2>Overview</h2>
-<p>
-Thank you for using Firecracker! This Privacy Policy provides Firecracker’s
-(“we” or “our”) policies and procedures for collecting, using, and disclosing
-your information.  Users can access our website and services (the “Services”)
-through our website www.firecracker.me, applications on Devices, through APIs,
-and through third-parties.  A “Device” is any computer used to access our
-Service, including without limitation a desktop, laptop, mobile phone, tablet,
-or other consumer electronic device.  This Privacy Policy governs your access
-of the our Services, regardless of how you access it, and by using our Services
-you consent to the collection, transfer, processing, storage, disclosure and
-other uses described in this Privacy Policy.  All of the different forms of
-data, content, and information described below are collectively referred to
-as “information.”
-</p>
-<p>
-If you have questions or concerns regarding this Privacy Policy, please contact
-us by e-mail at
-<a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
+<p>If you have questions or concerns regarding this Privacy Policy, please contact us by e-mail at <a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
 </p>
 <h2>Information We Collect &amp; How We Use It</h2>
-<p>
-Our primary purpose in collecting personal information is to provide you with a
-safe, smooth, efficient, and customized experience.  This allows us to provide
-Services that most likely meet your needs, and to customize our Services to
-make your experience safer and easier. We only collect personal information
-about you that we consider necessary for achieving this purpose.
+<p>Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide Services that most likely meet your needs, and to customize our Services to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 </p>
-<p>
-In general, you can browse our Services without telling us who you are or
-revealing any personal information about yourself.  Once you give us your
-personal information, you are no longer anonymous to us.
+<p>In general, you can browse our Services without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us.
 </p>
 <h2>Information You Choose to Share</h2>
-<p>
-In order to use some of our Services, you must first complete the registration
-form and create a username and password.  During registration, you are required
-to give truthful contact information (such as a valid email address) in accordance
-with our Terms of Service.  We use this information to contact you about Services
-in which you have expressed interest.
+<p>In order to use some of our Services, you must first complete the registration form and create a username and password. During registration, you are required to give truthful contact information (such as a valid email address) in accordance with our Terms of Service. We use this information to contact you about Services in which you have expressed interest.
 </p>
-<p>
-Your information also includes the information you choose to share on our website,
-such as when you post a message, add notes in a module, upload a photo, or comment
-on another user's post.  Your information also includes the information you choose
-to share when you take an action, such as when you add a friend to your group.
-We may also receive information about you from the modules, exercises, and other
-services you use that we provide on the Websites.
+<p>Your information also includes the information you choose to share on our website, such as when you post a message, add notes in a module, upload a photo, or comment on another user's post. Your information also includes the information you choose to share when you take an action, such as when you add a friend to your group. We may also receive information about you from the modules, exercises, and other services you use that we provide on the Websites.
 </p>
 <h3>Information We Collect To Respond To Your Choices and Requests</h3>
-<p>
-<em>Orders</em>
+<p><em>Orders</em>
 </p>
-<p>
-If you purchase a product or service from us, we request certain personally identifiable
-information from you on our order form.  You must provide contact information (such as
-your email address) and financial information (such as a credit card number and expiration
-date).  We use this information for billing purposes and to fill your orders. If we have
-trouble processing an order, we will use this information to contact you.
+<p>If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as your email address) and financial information (such as a credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 </p>
-<p>
-<em>Surveys or Contests</em>
+<p><em>Surveys or Contests</em>
 </p>
-<p>
-We may provide you the opportunity to participate in contests or surveys on our website.
-If you participate, we will request certain personally identifiable information from you.
-The requested information typically includes contact information (such as name and shipping
-address) and demographic information.
+<p>We may provide you the opportunity to participate in contests or surveys on our website. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address) and demographic information.
 </p>
-<p>
-We use this information to notify contest winners and award prizes, to monitor traffic on
-our website, or to personalize our services (in the case of anonymous information collected
-in surveys).
+<p>We use this information to notify contest winners and award prizes, to monitor traffic on our website, or to personalize our services (in the case of anonymous information collected in surveys).
 </p>
-<p>
-<em>Tell-A-Friend</em>
+<p><em>Tell-A-Friend</em>
 </p>
-<p>
-If you choose to use our referral service to tell a friend about our Website,
-we will ask you for your friend’s name and email address. We will automatically
-send your friend a one-time email inviting him or her to visit the Website.
-Firecracker Inc. will store this information for the sole purpose of sending
-this one-time email and tracking the success of our referral program.  Your
-friend may contact us at
-<a href="mailto:chat@firecracker.me">chat@firecracker.me</a>
-to request that we remove this information from our database.
+<p>If you choose to use our referral service to tell a friend about our Website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. Firecracker Inc. will store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at <a href="mailto:chat@firecracker.me">chat@firecracker.me</a> to request that we remove this information from our database.
 </p>
-<p>
-<em>Posting in Public Message Areas</em>
+<p><em>Posting in Public Message Areas</em>
 </p>
-<p>
-If you choose to post messages in our public message areas (whether restricted
-to a select group or to the general public) or leave feedback for other users,
-we will collect the information you post. We may receive information about you
-from other users, who post content about you in a forum. We retain this information
-as necessary to resolve disputes, provide customer support and troubleshoot problems
-as permitted by law. We reserve the right to terminate the accounts of visitors
-who use these services in a manner inconsistent with our Terms of Service.
+<p>If you choose to post messages in our public message areas (whether restricted to a select group or to the general public) or leave feedback for other users, we will collect the information you post. We may receive information about you from other users, who post content about you in a forum. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. We reserve the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Service.
 </p>
-<p>
-When we use the phrase "public information", we mean the information you choose
-to disclose to other uses of our Services, as well as information that is always
-publicly available. By posting information in a public message area, you are
-choosing to make your information public.
+<p>When we use the phrase "public information", we mean the information you choose to disclose to other uses of our Services, as well as information that is always publicly available. By posting information in a public message area, you are choosing to make your information public.
 </p>
-<p>
-Choosing to make your information public also means that this information:
-</p><ol>
-<li>Can be associated with you (i.e., your name, profile picture, Firecracker profile, username, etc.)</li>
-<li>Can show up when someone does a search on Firecracker</li>
-<li>When others share information about you, they can also choose to make it public.</li>
+<p>Choosing to make your information public also means that this information:
+</p>
+<ol>
+	<li>Can be associated with you (i.e., your name, profile picture, Firecracker profile, username, etc.)</li>
+	<li>Can show up when someone does a search on Firecracker</li>
+	<li>When others share information about you, they can also choose to make it public.</li>
 </ol>
-<p></p>
-<p>
-The types of information listed below are by default publicly available, and are
-treated just like information you decided to make public.
-</p><ol>
-<li>
-Name: When you post information in a public message area your Nickname will be
-associated with the message.  Other users may find your Nickname by searching for
-it through the Services.
-</li>
-<li>
-Profile Pictures: This helps other users recognize you. If you are uncomfortable
-making your profile picture public, you can always delete it by hovering over your
-photo and clicking "Change Picture." A default profile picture will be assigned to
-your profile until you select one.
-</li>
-<li>
-Custom Created Groups: Firecracker allows you to create custom groups of other
-users to share information. Custom groups may include study groups, friends, classmates,
-communities, or other groups (“Custom Group”). This helps you see whom you will be
-sharing information with before you choose a Custom Group as a custom audience to a post.
-</li>
+<p>The types of information listed below are by default publicly available, and are treated just like information you decided to make public.
+</p>
+<ol>
+	<li>Name: When you post information in a public message area your nickname will be associated with the message. Other users may find your nickname by searching for it through the Services.</li>
+	<li>Profile Pictures: This helps other users recognize you. If you are uncomfortable making your profile picture public, you can always delete it by hovering over your photo and clicking "Change Picture." A default profile picture will be assigned to your profile until you select one.</li>
+	<li>Custom Created Groups: Firecracker allows you to create custom groups of other users to share information. Custom groups may include study groups, friends, classmates, communities, or other groups (“Custom Group”). This helps you see whom you will be sharing information with before you choose a Custom Group as a custom audience to a post.</li>
 </ol>
-<p></p>
 <h2>Information We Collect About Anonymous Visitors</h2>
-<p>
-We automatically track certain information based upon your behavior on the Website.
-We use this information to do internal research on our users’ demographics, interests,
-and behavior to better understand, protect and serve you and our community.
+<p>We automatically track certain information based upon your behavior on the Website. We use this information to do internal research on our users’ demographics, interests, and behavior to better understand, protect and serve you and our community.
 </p>
-<p>
-<em>Log Files</em>
+<p><em>Log Files</em>
 </p>
-<p>
-Like many Websites, we automatically gather certain information about our Website
-traffic and store it in log files. This information includes Internet protocol (IP)
-addresses, browser type, Internet service provider (ISP), referring/exit pages,
-operating system, date/time stamp, and clickstream data. We use this information,
-which does not identify individual users, to analyze trends, to administer the Website,
-to track users’ movements around the Website and to gather demographic information about
-our user base.  We do not link this automatically collected data to personally identifiable
-information.  We may use a third-party tracking service that uses log files and cookies,
-see below, to track non-personally identifiable information about visitors to the Website
-in the aggregate. This service captures usage and volume statistics to improve the usage
-of our Website and to track responses to marketing efforts.
+<p>Like many Websites, we automatically gather certain information about our Website traffic and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Website, to track users’ movements around the Website and to gather demographic information about our user base. We do not link this automatically collected data to personally identifiable information. We may use a third-party tracking service that uses log files and cookies, see below, to track non-personally identifiable information about visitors to the Website in the aggregate. This service captures usage and volume statistics to improve the usage of our Website and to track responses to marketing efforts.
 </p>
-<p>
-<em>Cookies</em>
+<p><em>Cookies</em>
 </p>
-<p>
-A cookie is a small text file that is stored on a user’s computer for record-keeping
-purposes. We may use cookies on this Website. As noted above, we do not link the
-information we store in cookies to any personally identifiable information you submit
-while on our Website. This privacy policy covers the use of cookies by the Website
-only and does not cover the use of cookies by any advertisers.
+<p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We may use cookies on this Website. As noted above, we do not link the information we store in cookies to any personally identifiable information you submit while on our Website. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Cookies may also be used to track how you use the site to target ads to you on other websites.
 </p>
-<p>
-We use session ID cookies on certain portions of our Website.  A session ID cookie
-expires when you close your browser. We may use session cookies to make it easier
-for you to navigate our Website.  In addition, our third party analytics provider,
-if any, may use cookies to track movement on non-secure portions of the Website.
-We have no access to or control over these cookies.  If you reject cookies, you may
-still use our Website, but your ability to use some areas of our Website, such as
-contests or surveys, may be limited.  Some of our business partners (e.g., advertisers)
-use cookies on our Website. We have no access to or control over these cookies.
-See “Third Party Advertisers.”
+<p>We use session ID cookies on certain portions of our Website. A session ID cookie expires when you close your browser. We may use session cookies to make it easier for you to navigate our Website. In addition, our third party analytics provider, if any, may use cookies to track movement on non-secure portions of the Website. We have no access to or control over these cookies. If you reject cookies, you may still use our Website, but your ability to use some areas of our Website, such as contests or surveys, may be limited. Some of our business partners (e.g., advertisers) use cookies on our Website. We have no access to or control over these cookies. See “Third Party Advertisers.”
 </p>
-<p>
-<em>Clear Gifs (Web Beacons/Web Bugs)</em>
+<p><em>Clear Gifs (Web Beacons/Web Bugs)</em>
 </p>
-<p>
-We may employ a software technology called clear gifs, also referred to as web beacons
-or web bugs that help manage content on the Website by tracking what content is
-effective. Clear gifs are tiny graphics with a unique identifier, similar in
-function to cookies, and are used to track the online movements of Web users.
-In contrast to cookies, which are stored on a user’s computer hard drive,
-clear gifs are embedded invisibly on Web pages and are about the size of the
-period at the end of this sentence. We do not tie the information gathered by
-clear gifs to our customers’ personally identifiable information.  We may use
-clear gifs in our HTML-based emails to let us know which emails recipients have
-opened. This allows us to gauge the effectiveness of certain communications and
-the effectiveness of our marketing campaigns. If you would like to opt-out of
-these emails, please see “Choice and Opt-out.” Communication from Us or the Website
+<p>We may employ a software technology called clear gifs, also referred to as web beacons or web bugs that help manage content on the Website by tracking what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. We may use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.” Communication from Us or the Website
 </p>
-<p>
-<em>Special Offers &amp; Updates</em>
+<p><em>Special Offers &amp; Updates</em>
 </p>
-<p>
-We may occasionally send you information on products, services, special deals,
-and promotions. We may provide a registration page on which you can sign up to
-receive such emails from us. Out of respect for your privacy, we present the option
-not to receive these types of communications. Please see the “Choice and Opt-out.”
+<p>We may occasionally send you information on products, services, special deals, and promotions. We may provide a registration page on which you can sign up to receive such emails from us.
 </p>
-<p>
-<em>Service-Related Announcements</em>
+<p>Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”
 </p>
-<p>
-We will send you strictly service-related announcements on rare occasions when
-it is necessary to do so. For instance, if our service is temporarily suspended
-for maintenance, we might send you an email. Generally, you may not opt-out of
-these communications, which are not promotional in nature. If you do not wish to
-receive them, you have the option to deactivate your account.
+<p><em>Service-Related Announcements</em>
 </p>
-<p>
-<em>Customer Service</em>
+<p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 </p>
-<p>
-Based upon the personally identifiable information you provide us, we will send
-you a welcoming email to verify your username and password. We will communicate
-with you in response to your inquiries, to provide the services you request,
-and to manage your account. We will communicate with you by email or telephone,
-in accordance with your wishes.
+<p><em>Customer Service</em>
 </p>
-<p>
-<em>Profile</em>
+<p>Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 </p>
-<p>
-We may store information that we collect through cookies, log files, clear gifs,
-and/or third party sources to create a “profile” of your preferences. We do not
-tie your personally identifiable information, or your purchasing history, to
-information in the profile, in order to provide tailored promotions and marketing
-offers and to improve the content of the Website for you.  We do not share your
-profile with other third parties.
+<p><em>Profile</em>
 </p>
-<p>
-<em>
-Conditions Under Which We Share Information Aggregate Information (Non-Personally
-Identifiable)
-</em>
+<p>We may store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a “profile” of your preferences. We do not tie your personally identifiable information, or your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the Website for you. We do not share your profile with other third parties.
 </p>
-<p>
-We may share aggregated demographic information about our user base with our partners.
-This information does not identify individual users. We do not link aggregate user
-data with personally identifiable information.
+<p><em>Conditions Under Which We Share Information Aggregate Information (Non-Personally Identifiable)</em>
 </p>
-<p>
-In addition, data may be aggregated regarding assessment of your performance based on
-various measures to create generalized data regarding use of our platform. We may
-use and publicize such aggregate information on any basis that does not identify you,
-without your consent. Your contributions or notes to a module, forum, or other service
-on our website (“Contribution”) may also be aggregated and made publicly available.
-Your Contributions may be aggregated according to their registration and login status.
+<p>We may share aggregated demographic information about our user base with our partners. This information does not identify individual users. We do not link aggregate user data with personally identifiable information.
 </p>
-<p>
-<em>Personally Identifiable Information</em>
+<p>In addition, data may be aggregated regarding assessment of your performance based on various measures to create generalized data regarding use of our platform. We may use and publicize such aggregate information on any basis that does not identify you, without your consent. Your contributions or notes to a module, forum, or other service on our website (“Contribution”) may also be aggregated and made publicly available. Your Contributions may be aggregated according to their registration and login status.
 </p>
-<p>
-Except as discussed in this Privacy Policy, we do not share personally identifiable
-information with third parties.
+<p><em>Personally Identifiable Information</em>
 </p>
-<p>
-<em>Agents</em>
+<p>Except as discussed in this Privacy Policy, we do not share personally identifiable information with third parties.
 </p>
-<p>
-We use a a credit card processing company to bill you for our Services.  These companies
-do not retain, share, store or use personally identifiable information for any other purposes.
+<p>In accordance with our Terms of Service, we may share your personally identifiable information with an educational institution under certain circumstances.
 </p>
-<p>
-<em>Service Providers</em>
+<p><em>Agents</em>
 </p>
-<p>
-We use other third parties to provide mapping solutions on the Website. When you sign up
-for any of our services, we will share location that you enter as necessary for the third
-party to provide that service.
+<p>We use a credit card processing company to bill you for our Services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 </p>
-<p>
-<em>Legal Disclaimer</em>
+<p><em>Service Providers</em>
 </p>
-<p>
-We reserve the right to disclose your personally identifiable information as required by
-law and when we believe that disclosure is necessary to protect our rights; to comply with a
-judicial proceeding, court order, or legal process served on us or the Website; or in connection
-with an actual or proposed corporate transaction or insolvency proceeding involving all or
-part of the business or asset to which the information pertains.
+<p>We use other third parties to provide mapping solutions on the Website. When you sign up for any of our services, we will share location that you enter as necessary for the third party to provide that service.
 </p>
-<p>
-<em>Choice/Opt-out</em>
+<p><em>Legal Disclaimer</em>
 </p>
-<p>
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information
-used for certain purposes, when we ask for this information. For example, if you purchase one
-of our Services but do not wish to receive any additional marketing material from us, you can
-indicate your preference in your “notification preferences.”  If you no longer wish to receive
-our newsletter and promotional communications, if any, you may opt-out of receiving them by
-following the instructions included in each newsletter or communication or by emailing us at
-<a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
+<p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court order, or legal process served on us or the Website; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.
 </p>
-<p>
-<em>Links to Other Websites</em>
+<p><em>Choice/Opt-out</em>
 </p>
-<p>
-The Website contains links to other sites that are not owned or controlled by Firecracker Inc.
-Please be aware that we are not responsible for the privacy policies of such other sites.  We
-encourage you to be aware when you leave our website and to read the privacy policies of each
-and every website that collects personally identifiable information.  This Privacy Policy
-applies only to information collected through our Services.
+<p>We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase one of our Services but do not wish to receive any additional marketing material from us, you can indicate your preference in your “notification preferences.” If you no longer wish to receive our newsletter and promotional communications, if any, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at <a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
 </p>
-<p>
-<em>Access to Personally Identifiable Information</em>
+<p><em>Links to Other Websites</em>
 </p>
-<p>
-If your personally identifiable information changes, or if you no longer desire our service, you
-may correct, update, delete or deactivate it by making the change on our member information page
-or by emailing us at chat@firecracker.me or by contacting us by telephone or postal mail at the
-contact information listed below.
+<p>The Website contains links to other sites that are not owned or controlled by Firecracker Inc. Please be aware that we are not responsible for the privacy policies of such other sites. We encourage you to be aware when you leave our website and to read the privacy policies of each and every website that collects personally identifiable information. This Privacy Policy applies only to information collected through our Services.
 </p>
-<p>
-<em>Security</em>
+<p><em>Access to Personally Identifiable Information</em>
 </p>
-<p>
-The security of your personal information is important to us. When you enter sensitive information
-(such as your credit card number) on our registration or order forms, we encrypt that information
-using secure socket layer technology (SSL).  We follow generally accepted industry standards to
-protect the personal information submitted to us, both during transmission and once we receive it.
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.
-Therefore, while we strive to use commercially acceptable means to protect your personal information,
-we cannot guarantee its absolute security.  If you have any questions about security on our Website,
-you can email us at
-<a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
+<p>If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing us at <a href="mailto:chat@firecracker.me">chat@firecracker.me</a> or by contacting us by telephone or postal mail at the contact information listed below.
 </p>
-<p>
-<em>Children</em>
+<p><em>Security</em>
 </p>
-<p>
-Our Website is not directed to people under 13 years of age. If you become aware that your child
-has provided us with personal information without your consent, please contact us at
-<a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
-We do not knowingly collect Personal Information from children under 13. If
-we become aware that a child under 13 has provided us with Personal Information, we take steps to
-remove that information and terminate the applicable account.
+<p>The security of your personal information is important to us. When you enter sensitive information (such as your credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can email us at <a href="mailto:chat@firecracker.me">chat@firecracker.me.</a>
 </p>
-<p>
-<em>Terms of Service</em>
+<p><em>Children</em>
 </p>
-<p>
-Please also visit our
-<a href="/terms">Terms of Service</a>
-which establish the use, disclaimers,
-and limitations of liability governing the use of our Services.
+<p>Our Website is not directed to people under 13 years of age. If you become aware that your child has provided us with personal information without your consent, please contact us at <a href="mailto:chat@firecracker.me">chat@firecracker.me.</a> We do not knowingly collect Personal Information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we take steps to remove that information and terminate the applicable account.
 </p>
-<p>
-<em>Changes to this Privacy Policy</em>
+<p><em>Terms of Service</em>
 </p>
-<p>
-If we decide to change our privacy policy, we will post changes to this privacy policy and other places
-we deem appropriate so that you are aware of what information we collect, how we use it, and under
-what circumstances, if any, we disclose it.  We reserve the right to modify this privacy policy at any
-time, so please review it frequently.
+<p>Please also visit our <a href="https://app.firecracker.me/terms">Terms of Service</a> which establish the use, disclaimers, and limitations of liability governing the use of our Services.
 </p>
-<p>
-<em>Contact Us</em>
+<p><em>Changes to this Privacy Policy</em>
 </p>
-<p>
-If you have any questions or suggestions regarding our privacy policy, please contact us via email at
-<a href="mailto:chat@firecracker.me">chat@firecracker.me</a>
-or by mail at this address:
+<p>If we decide to change our privacy policy, we will post changes to this privacy policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently.
 </p>
-<address>
-<strong>Firecracker Inc.</strong>
-<br>
-<strong>66 Church St. Floor 2</strong>
-<br>
-<strong>Cambridge, MA 02138</strong>
-</address>
-</div>
-</div>
-</div>
+<p><em>Contact Us</em>
+</p>
+<p>If you have any questions or suggestions regarding our privacy policy, please contact us via email at <a href="mailto:chat@firecracker.me">chat@firecracker.me</a> or by mail at this address:
+</p><address><strong>Firecracker Inc.</strong> <br><strong>25 West St.</strong> <br><strong>Floor 5</strong> <br></address>
+<p><strong>Boston, MA 02111</strong>
+</p>
+    </div>
+  </div>
+</section>
 
 
-		<footer class="full-width newsletter">
-			<div class="container">
-				<div class="row-fluid">
-					<div class="span4 copyright">
-            <p>© 2014 Firecracker Inc. All Rights Reserved.</p>
 
+      
+        <footer class="align-center">
+	<div class="section-wrap">
+		<ul>
+			<li><h2>Questions?</h2></li>
+			<li><a href="https://firecrackerinc.uservoice.com/knowledgebase">FAQ</a></li>
+		  <li><a href="tel:+18884708018">1-888-470-8018</a></li>
+		  <li><a href="mailto:chat@firecracker.me">chat@firecracker.me</a></li>
+		</ul>
 
-            <a href="/mcat">Free Month of Pre-Med (MCAT) Program</a> <br>
-            <a href="/">Free Month of Medical (USMLE Step 1 &amp; Step 2CK) Program</a><br>
+		<ul>
+		  <li><a href="/for-schools">For Schools</a></li>
+		  <li><a href="http://blog.firecracker.me/students">Student Blog</a></li>
+		  <li><a href="http://blog.firecracker.me/schools">School Blog</a></li>
+		  <li><a href="/team">Our Team</a></li>
+		  <li><a href="http://firecracker.theresumator.com/">Jobs</a></li>
+		  <li><a href="http://firecracker.me/terms">Terms</a></li>
+		  <li><a href="http://firecracker.me/privacy">Privacy</a></li>
+		</ul>
 
-          </div>
-          <div class="span4">
-            <a href="http://blog.firecracker.me">Blog</a><br>
-            <a href="http://www.firecracker.me/company.html">Company</a><br>
-            <a href="http://firecracker.theresumator.com/">Jobs</a><br>
-
-            <a href="https://firecrackerinc.uservoice.com/">FAQs &amp; Support</a><br>
-
-            <a href="/terms">Terms</a> <br>
-            <a href="/privacy">Privacy</a><br>
-          </div>
-					<div class="span4 social">
-
-						<ul>
-							<li><a href="http://www.facebook.com/firecrackerinc"><i class="socicon facebookcircle"></i></a></li>
-							<li><a href="http://www.twitter.com/firecrackerinc"><i class="socicon twittercircle"></i></a></li>
-							<li><a href="http://plus.google.com/111090123414287134191"><i class="socicon googlecircle"></i></a></li>
-						</ul>
-						<ul class="phone-numbers">
-                <li class="phone"><i class="icon-phone"></i>1 (888) 470-8018</li>
-                <li class="fax">fax (617) 588-0420</li>
-            </ul>
-					</div>
-				</div>
-			</div>
-		</footer>
-		<!-- ends footer -->
+		<ul>
+		  <li><a href="/why-med-students">Why med students use us</a></li>
+		  <li><a href="/pre-med-program">Why pre-med students use us</a></li>
+		  <li style="margin-bottom: 6px;">
+		    <a href="https://geo.itunes.apple.com/us/app/firecracker-daily-review/id1063844682?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:135px;height:40px;"></a>
+		  </li>
+		  <li>
+		    <a href="https://play.google.com/store/apps/details?id=me.firecracker.dailyreview&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="height: 60px; margin-left: -10px;"></a>
+		  </li>
+		</ul>
+		<div class="copywrite">
+			<p style="margin-bottom: 0;"><small>© firecracker inc. 2015</small></p> 
+			<ul>
+		  	<li><a href="https://www.facebook.com/firecrackerinc"><small>Facebook</small></a></li>
+		  	<li>•</li>
+			  <li><a href="https://twitter.com/firecrackerinc"><small>Twitter</small></a></li>
+			</ul>
+		</div>
 	</div>
+</footer>
 
-	<!-- Javascript
-    ================================================== -->
-  <script src="//d1ot4ghrjgwbit.cloudfront.net/assets/application-a133c5d8f76dd5e3f64f3798542933f9.js" type="text/javascript"></script>
+      
 
-  <!-- KissMetrics -->
-  <script>
-  //<![CDATA[
-    var _kmq = _kmq || [];
-    var _kmk = _kmk || 'f0974fa177db78719b4630ace245a8d15e8a6a8d';
-    function _kms(u){
-      setTimeout(function(){
-        var d = document, f = d.getElementsByTagName('script')[0],
-        s = d.createElement('script');
-        s.type = 'text/javascript'; s.async = true; s.src = u;
-        f.parentNode.insertBefore(s, f);
-      }, 1);
-    }
-    _kms('//i.kissmetrics.com/i.js');
-    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-    try {_kmq.push(['identify', 'null'])} catch(err) {}
-  //]]>
-</script>
+      
+      
 
+      <script src="/static/javascript/8fe05edf.minified.js"></script>
 
-  
-  <script>
-  //<![CDATA[
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+
+      
+      <!-- Google Tag Manager -->
+      <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P6F4FG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+      </noscript>
+      <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P6F4FG');
+      </script>
+      <!-- End Google Tag Manager -->
+
+      
+      <script>
+        window.intercomSettings = { 
+          app_id: 'oy9xzdjc'
+        };
+        window.intercomSettings.widget = { 
+          activator: "#IntercomDefaultWidget" 
+        };
+      </script>
+      <script>
+        (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/APP_ID';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+      </script>
     
-      ga('create', 'UA-37403285-1', 'firecracker.me');
-      ga('send', 'pageview');
-  //]]>
-</script>
+  
 
-  <script>
-  //<![CDATA[
-    (function() {
-    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
-    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/ebbe25fd-a5f2-496a-8b8f-b5f27474a6aa.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
-    })();
-  //]]>
-</script>
-
-
-
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
