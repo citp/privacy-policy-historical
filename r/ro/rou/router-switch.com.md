@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409111830id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001103601id_/http%3A//www.router-switch.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Router-switch.com
+# Privacy Policy
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Router-switch.com.  
 If you have visited our website, that will be considered to be your acceptance to this privacy policy.  
  **  
-Automatically collected information**  
+Automatically collected information  **  
 Whenever you interact with us, we will receive and deposit the given information.  
 For example, like many other sites, we use “cookies”.  
 When your internet browser visits Router-switch.com, we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)  
@@ -17,7 +17,7 @@ The information from other resources:
 We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)  
  **  
 Cookies**  
-Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
+Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
 The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.  
 Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.  
 However, cookies can help you to make most use of the best special services from Router-switch.com, so we recommend you to set up an open status for this program.
