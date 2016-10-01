@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pathable.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912074643id_/https%3A//pathable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathable.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001161225id_/https%3A//pathable.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pathable
 
 PATHABLE, INC. PRIVACY POLICY
 
-Last Updated: January 15, 2015
+Last Updated: September 7, 2016
 
 Welcome to the Web site of Pathable, Inc., a Delaware corporation ('Pathable,' 'we,' or 'us').  This privacy policy describes our collection of personal information from users of our Web site at pathable.com (the 'Site'), and in connection with our online social networking and event management service (the 'Service' and, together with our Site, our 'Services'), as well as our use and disclosure of that information. By using our Services, you consent to the collection and use of personal information in accordance with this policy.
 
@@ -50,7 +50,7 @@ Additionally, even after information posted on our Services is removed, caching 
 
 **Choice and Access**
 
-Access and control over most personal information that we maintain is available through the user profile editing tools on the Service.  Registered users may modify profile information, and may delete personal information that is not required for registration, at any time by logging into their account and making the applicable changes.  Registered users may also request deletion of their account by sending a reuqest to account-removal@pathable.com.  Deleted information may persist in backup copies for a reasonable period of time, but will not be generally available to other users of our Services.
+Access and control over most personal information that we maintain is available through the user profile editing tools on the Service.  Registered users may modify profile information, and may delete personal information that is not required for registration, at any time by logging into their account and making the applicable changes.  Registered users may also request deletion of their account by sending a request to account-removal@pathable.com.  Deleted information may persist in backup copies for a reasonable period of time, but will not be generally available to other users of our Services.
 
 **Links**
 
@@ -62,22 +62,27 @@ For your convenience, our Services may contain links to other Web sites, product
 
 **Principles**
 
-Pathable complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+Pathable complies with the EU-U.S. Privacy Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
 
-These are our promises to you:
+Pathable Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Pathable Inc. is potentially liable. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov.
 
-  * **Notice:** When we collect your personal information, we will give you timely and appropriate notice describing what personal information we're collecting, how we'll use it, and the types of third parties with whom we may share it.
-  * **Choice:** We'll give you choices about the ways we use and share your personal information, and we'll respect the choices you make.
-  * **Relevance:** We'll collect only as much personal information as we need for specific, identified purposes, and we won't use it for other purposes without obtaining your consent.
-  * **Retention:** We'll keep your personal information only as long as we need it for the purposes for which we collected it, or as permitted by law.
-  * **Accuracy:** We'll take appropriate steps to make sure the personal information in our records is accurate.
-  * **Access:** We'll provide ways for you to access your personal information, as required by law, so you can correct inaccuracies.
-  * **Security:** We'll take appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction.
-  * **Sharing:** Except as described in this policy, we won't share your personal information with third parties without your consent.
-  * **International Transfer:** If we transfer your personal information to another country, we'll take appropriate measures to protect your privacy and the personal information we transfer.
-  * **Enforcement:** We'll regularly review how we're meeting these privacy promises, and we'll provide an independent way to resolve complaints about our privacy practices.
+In compliance with the EU-US Privacy Shield Principles, Pathable Inc. commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact Pathable Inc. at support@pathable.com.
 
+Pathable Inc. has further committed to refer unresolved Privacy Shield complaints to the EU Data Protection Authorities. Contact details for the EU data protection authorities can be found at http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. Pathable Inc will cooperate with the appropriate EU Data Protection Authorities during investigation and resolution of complaints brought under Privacy Shield. These recourse mechanisms are available at no cost to you.
 
+The Federal Trade Commission has jurisdiction over Pathable Inc.'s compliance with this Policy and the EU-US Privacy Shield Framework. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission.
+
+**Choice**
+
+If you are a Pathable Inc. customer and would like to opt-out of getting marketing communications from Pathable Inc. please contact us at support@pathable.com or follow the unsubscribe instructions included in each marketing email. Please note that if you are a trial or paying customer, you can not opt out of service and system generated emails. Requests to opt-out of transfers to our third-party vendors will also be considered, but limitations on data sharing may make it difficult or impossible to provide the Service in this manner.
+
+**Correcting and Updating Your Information**
+
+Customers may update or change the personal information they have provided Pathable Inc. by logging into the Service and providing such additional information where applicable. If you are our customer and would like to gain access to, or request deletion of information we have collected as "data controllers," please contact us at support@pathable.com.
+
+**Data Retention**
+
+Pathable Inc. will retain personal information we process on behalf of our customers for as long as needed to provide Service to our customers, subject to our compliance with this Policy. We may further retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Updates to this Policy**
 
@@ -91,4 +96,4 @@ Pathable, Inc. 4065 4th Ave NE Seattle, WA 98105 866 809-0252
 
 info@Pathable.com
 
-We are committed to cooperation and compliance with all relevant legal and regulatory authorities in the US, EU data protection authorities and the Swiss Federal Data Protection and Information Commissioner of Switzerland should any dispute arise. Please contact the appropriate authority in your jurisdiction should any dispute arise. They will serve as a liaison with the Pathable to resolve your concerns quickly and satisfactorily. Additional information regarding the Safe Harbor program may be found at <https://safeharbor.export.gov/>.
+We are committed to cooperation and compliance with all relevant legal and regulatory authorities in the US, EU data protection authorities and the Swiss Federal Data Protection and Information Commissioner of Switzerland should any dispute arise. Please contact the appropriate authority in your jurisdiction should any dispute arise. They will serve as a liaison with the Pathable to resolve your concerns quickly and satisfactorily. Additional information regarding the Safe Harbor program may be found at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
