@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merakyahoga.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425021336id_/http%3A//www.merakyahoga.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merakyahoga.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001195750id_/http%3A//www.merakyahoga.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Mera Kya Hoga- Get Right Advice, Absolutely Free!
 
