@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amuthu.info privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530042424id_/http%3A//amuthu.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amuthu.info privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001070856id_/http%3A//amuthu.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | amuthu.info
 
