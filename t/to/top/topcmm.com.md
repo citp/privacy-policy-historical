@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcmm.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330021750id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcmm.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001222438id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
 
 # TopCMM Software Ltd.- Leading Chat Software Provider since 2003 - support
 
