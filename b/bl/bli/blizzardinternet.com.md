@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blizzardinternet.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521214850id_/http%3A//www.blizzardinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzardinternet.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001194014id_/http%3A//www.blizzardinternet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blizzard Internet Marketing, Inc.
 
@@ -8,7 +8,12 @@ We collect information from you when you fill out a form on our website.
 
 When you fill out a form, you may be asked to enter your: name, email address, mailing address, or phone number.
 
-**What Do We Use Your Information For?**
+**Customer Email Lists: Collection, Usage and Preference Options  
+**  
+By supplying us with your email address (while interacting with us, subscribing to our newsletter, or during an event, etc.), we will use that email address for marketing solicitations and ads. You can opt-out of these electronic communications at any time by following the instructions in our emails or by [contacting us](http://www.blizzardinternet.com/about/contact/).  
+**  
+****What Do We Use Your Information For?** **  
+**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -39,7 +44,11 @@ You may opt out of Google’s use of cookies by visiting the Google Advertising 
 
 For further information regarding Google’s privacy practices, please visit http://www.google.com/privacypolicy.html.
 
-**Do We Disclose Any Information To Outside Parties?**
+**Online Behavioral Advertising**
+
+ ****Blizzard uses third party vendors to display relevant ads on sites throughout the internet. Many times these third party vendors use cookies to serve ads based on your interaction with us. For more information on how Online Behavioral Advertising works, please visit[www.aboutads.info/consumers.](http://www.aboutads.info/consumers/) Users may opt out of some, many, or all Online Behavioral Advertising targeting by visiting either or both of the following sites: [networkadvertising.org/managing/opt_out…](http://www.networkadvertising.org/managing/opt_out.asp) and/or [aboutads.info/choices](http://www.aboutads.info/choices/).  ****
+
+ **Do We Disclose Any Information To Outside Parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -67,6 +76,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
+Blizzard Internet Marketing, Inc.  
 [www.BlizzardInternet.com](http://www.blizzardinternet.com/)  
 1001 Grand Ave., Suite 005  
 Glenwood Springs, Colorado 81601  
