@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativelipi.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531165329id_/http%3A//creativelipi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativelipi.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001061101id_/http%3A//www.creativelipi.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Debt and Loan Site optimization Case Study by Creative Lipi
 
