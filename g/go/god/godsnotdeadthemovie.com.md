@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godsnotdeadthemovie.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513165529id_/http%3A//godsnotdeadthemovie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godsnotdeadthemovie.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001155629id_/http%3A//godsnotdeadthemovie.com/privacy) for the most accurate reproduction.*
 
 # God's Not Dead Privacy Policy
 
