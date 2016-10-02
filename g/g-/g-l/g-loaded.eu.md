@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630024847id_/http%3A//www.g-loaded.eu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-loaded.eu privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002221020id_/http%3A//www.g-loaded.eu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | G-Loaded Journal
 
@@ -40,7 +40,7 @@ The information we collect when you voluntarily submit personal information to o
 
 ## With whom will the information be shared?
 
-Our general policy is to **not share or sell** any information that has either been collected automatically or been voluntarily submitted by you in our comments/discussion system or comment form.
+Our general policy is **not to share or sell** any information that has either been collected automatically or been voluntarily submitted by you in our comments/discussion system or comment form.
 
 We reserve the right though to **disclose** all the information you have submitted in a comment or forum post, accompanied by all the information the web server has automatically recorded for your HTTP requests, to local and international Authorities and any third party with which we cooperate towards the resolution of the problem, but also ask any third party worldwide for the disclosure of such information, in the following cases:
 
@@ -53,6 +53,8 @@ We reserve the right though to **disclose** all the information you have submitt
   * we are enforced to do so by the Law.
 
 
+
+Please note that the disclosure of such information takes place **without warning or notice**.
 
 ## Cookie Information
 
