@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitmob.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413175248id_/https%3A//classpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitmob.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002052308id_/https%3A//classpass.com/privacy) for the most accurate reproduction.*
 
 # ClassPass | Privacy
 
