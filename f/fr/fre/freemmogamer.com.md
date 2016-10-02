@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freemmogamer.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201134431id_/http%3A//www.freemmogamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemmogamer.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002194943id_/http%3A//www.freemmogamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeMMOGamer
 
 ## GENERAL
 
-Your privacy is important to us. Our [Privacy Policy](http://www.freemmogamer.com/privacy-policy/) describes our practices concerning data that you provide or that we may collect about you through the Services, and you consent to our use of data in compliance with the Privacy Policy.
+Your privacy is important to us. Our Privacy Policy describes our practices concerning data that you provide or that we may collect about you through the Services, and you consent to our use of data in compliance with the Privacy Policy.
 
 ## COLLECTION OF PERSONAL INFORMATION
 
