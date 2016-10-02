@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ateen.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401165600id_/http%3A//ateen.in) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ateen.in privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002195900id_/http%3A//ateen.in) for the most accurate reproduction.*
 
 # Ateen.in
 
