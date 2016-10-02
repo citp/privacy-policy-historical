@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashconf.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531193625id_/http%3A//www.flashconf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashconf.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002022657id_/http%3A//www.flashconf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Flash Bathroom
+# Privacy Policy – Flashconf
 
 ## Privacy Policy:
 
