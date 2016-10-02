@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184047id_/http%3A//www.jonessoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002222008id_/http%3A//jonessodatest.myshopify.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jones Soda Co.
 
-## Jones Soda Privacy Statement
-
-****
-
 #### PRIVACY STATEMENT
 
-Jones Soda Co. (referred to as "Jones," "we," "us," or "our" herein) recognizes the importance of protecting the privacy of personal information collected from users of our Web site. This Privacy Statement discloses how we collect, use, and share information gathered about users when they visit our Web site. By accessing our Web site, you are assenting to the terms of this Privacy Statement and the terms of the user agreement, located at [www.jonessoda.com/terms-of-use](https://web.archive.org/terms-of-use), including without limitation, the limitation of liability provisions. A COPY OF THE PRIVACY POLICY MAY BE DOWNLOADED, STORED OR PRINTED.
+Jones Soda Co. (referred to as "Jones," "we," "us," or "our" herein) recognizes the importance of protecting the privacy of personal information collected from users of our Web site. This Privacy Statement discloses how we collect, use, and share information gathered about users when they visit our Web site. By accessing our Web site, you are assenting to the terms of this Privacy Statement and the terms of the user agreement, located at [www.jonessoda.com/terms-of-use](http://www.jonessoda.com/terms-of-use), including without limitation, the limitation of liability provisions. A COPY OF THE PRIVACY POLICY MAY BE DOWNLOADED, STORED OR PRINTED.
 
 #### CHILDREN
 
@@ -22,7 +18,7 @@ Jones collects personally identifiable information, such as name, address, and e
 
 Registration and Promotions:
 
-We send all new users who register a welcoming email confirming their username and password. Established members may also receive information on products or special deals ("promotional emails"). If, however, you do not want to receive promotional emails, you may indicate your preference by replying to the email, typing "unsubscribe" in the subject line, and sending it back to us. Or, you may email us directly at [info@jonessoda.com](mailto:info@jonessoda.com) and notify us that you do not want to receive promotional emails from us.
+We send all new users who register a welcoming email confirming their username and password. Established members may also receive information on products or special deals ("promotional emails"). If, however, you do not want to receive promotional emails, you may indicate your preference by replying to the email, typing "unsubscribe" in the subject line, and sending it back to us. Or, you may email us directly at [info@jonessoda.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@jonessoda.com) and notify us that you do not want to receive promotional emails from us.
 
 Financial Information:
 
@@ -38,19 +34,19 @@ When entering a contest or other promotional feature, Jones may ask for the user
 
 Newsletters:
 
-If a user wishes to subscribe to our newsletter, we ask for contact information, such as name and email address. Users who no longer wish to receive our newsletter may indicate their preference by replying "unsubscribe" in the subject line and sending it back to us. Or, a user may email us directly at [info@jonessoda.com](mailto:info@jonessoda.com) and ask to be removed from the newsletter mailing list.
+If a user wishes to subscribe to our newsletter, we ask for contact information, such as name and email address. Users who no longer wish to receive our newsletter may indicate their preference by replying "unsubscribe" in the subject line and sending it back to us. Or, a user may email us directly at [info@jonessoda.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@jonessoda.com) and ask to be removed from the newsletter mailing list.
 
 Bulletin Boards and Chat:
 
-Jones provides bulletin boards and chat rooms for registered members of its Web site. We ask for username, passwords, email address, city and state, occupation, and Web address for those interested in participating in the bulletin boards. To participate in the chat rooms, we ask users to provide a nickname and an email address. We ask that all users of the bulletin boards and the chat rooms comply with our public forum guidelines available at [www.jonessoda.com/terms-of-use](https://web.archive.org/terms-of-use).
+Jones provides bulletin boards and chat rooms for registered members of its Web site. We ask for username, passwords, email address, city and state, occupation, and Web address for those interested in participating in the bulletin boards. To participate in the chat rooms, we ask users to provide a nickname and an email address. We ask that all users of the bulletin boards and the chat rooms comply with our public forum guidelines available at [www.jonessoda.com/terms-of-use](http://www.jonessoda.com/terms-of-use).
 
 Gallery/Labels/Photo Submissions:
 
-Jones provides users with an opportunity to submit their ideas, photos and other artwork for display on the Web site and for possible use as a label on bottles of Jones soda. In order to submit anything, users must be registered with jonessoda.com. The submission of any items to Jones will be subject to the terms of the jonessoda.com user agreement, located at [www.jonessoda.com/terms-of-use](https://web.archive.org/terms-of-use).
+Jones provides users with an opportunity to submit their ideas, photos and other artwork for display on the Web site and for possible use as a label on bottles of Jones soda. In order to submit anything, users must be registered with jonessoda.com. The submission of any items to Jones will be subject to the terms of the jonessoda.com user agreement, located at [www.jonessoda.com/terms-of-use](http://www.jonessoda.com/terms-of-use).
 
 #### UPDATING YOUR PERSONAL INFORMATION
 
-If you would like to update your personal information, please send an email to [info@jonessoda.com](mailto:info@jonessoda.com) with your new information and a brief explanation of what information you would like to have updated. Alternatively, you may send a fax to PRIVACY OFFICER at 206-624-6857 with the information you would like changed. Please describe your changes clearly and allow five business days to process your request.
+If you would like to update your personal information, please send an email to [info@jonessoda.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@jonessoda.com) with your new information and a brief explanation of what information you would like to have updated. Alternatively, you may send a fax to PRIVACY OFFICER at 206-624-6857 with the information you would like changed. Please describe your changes clearly and allow five business days to process your request.
 
 #### SECURITY
 
@@ -74,6 +70,6 @@ By using our Web site, you consent to the collection and use of personal informa
 
 #### FEEDBACK
 
-Jones welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue to [info@jonessoda.com](mailto:info@jonessoda.com).
+Jones welcomes your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to this, or any other issue to[info@jonessoda.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@jonessoda.com).
 
 **_Run with the little guy... create some change._**
