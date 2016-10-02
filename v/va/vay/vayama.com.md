@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614103034id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002040521id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
 
 # vayama | privacy
 
@@ -158,4 +158,4 @@ Because the Internet is an evolving medium, we may update this Privacy Policy in
 **Airtrade International Inc.  
 333 W Santa Clara St., Ste 800  
 San Jose, CA 95113  
-1.650.265.1856 **
+1.888.209.3040 **
