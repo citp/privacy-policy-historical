@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324160629id_/https%3A//www.techopedia.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techopedia.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002205713id_/https%3A//www.techopedia.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Techopedia.com
 
@@ -18,7 +18,7 @@ Techopedia.com collects information about your transactions with us and with som
 
 Techopedia.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you request, when we have your permission, or under the following circumstances: 
 
-We provide the information to trusted partners who work on behalf of Techopedia.com under confidentiality agreements to provide services in support of the site. These companies may use your personal information to help Techopedia.com communicate with you about offers from Techopedia.com. However, these companies do not have any independent right to use or share this information. We may sometimes share aggregate non-personal information with third parties about how our users utilize the site and services. This aggregate information is typically in the form of statistics, such as numbers of Techopedia.com users who live in a particular locale or fall within a particular age group. Such aggregate information is gathered from individual Techopedia.com users’ information but is not traceable to any specific identifiable Techopedia.com user. Techopedia.com may share personal information with third parties to the extent required to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Techopedia.com may also share personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Techopedia.com Terms of Service, or as otherwise required or permitted by law. 
+We provide the information to trusted partners who work on behalf of Techopedia.com under confidentiality agreements to provide services in support of the site. These companies may use your personal information to help Techopedia.com communicate with you about offers from Techopedia.com. However, these companies do not have any independent right to use or share this information. We may sometimes share aggregate non-personal information with third parties about how our users utilize the site and services. This aggregate information is typically in the form of statistics, such as numbers of Techopedia.com users who live in a particular locale or fall within a particular age group. Such aggregate information is gathered from individual Techopedia.com users' information but is not traceable to any specific identifiable Techopedia.com user. Techopedia.com may share personal information with third parties to the extent required to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Techopedia.com may also share personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Techopedia.com Terms of Service, or as otherwise required or permitted by law. 
 
 If Techopedia.com is acquired by or merged with or into another company, we will provide public notice before personal information is transferred and becomes subject to a different privacy policy. 
 
@@ -26,7 +26,7 @@ You will be notified when your personal information is collected by any third pa
 
 ## Use of Personal Information with Tell-A-Friend Features
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Techopedia.com does not store this information. It is used for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Techopedia.com does not store this information. It is used for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
 ## Use of Personal Information with Marketing Partners and Co-Registration
 
@@ -44,7 +44,7 @@ If you use a forum on this Website, you should be aware that any personally iden
 
 ## Cookies
 
-Techopedia.com, like many websites, uses cookies. A cookie is a file containing a string of code text that we transfer to your computer’s hard drive, to be kept there for later use. With cookies in place, whenever you use your Web browser (such as Internet Explorer or Mozilla Firefox) to connect to Techopedia.com, our systems are able to recognize you. This enables Techopedia.com to present you with custom web pages and options. For example, instead of seeing a generic welcome page, you might see a welcome page with your site username on it and information about products or services that reflect your interests. 
+Techopedia.com, like many websites, uses cookies. A cookie is a file containing a string of code text that we transfer to your computer's hard drive, to be kept there for later use. With cookies in place, whenever you use your Web browser (such as Internet Explorer or Mozilla Firefox) to connect to Techopedia.com, our systems are able to recognize you. This enables Techopedia.com to present you with custom web pages and options. For example, instead of seeing a generic welcome page, you might see a welcome page with your site username on it and information about products or services that reflect your interests. 
 
 You can set up your browser to reject cookies or tell you when a cookie has been sent. However, cookies allow you to take full advantage of Techopedia.com features and are required for the use of the Site. We hope you will leave them turned on. 
 
@@ -97,7 +97,7 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Janalta Interactive Inc. o/a Techopedia.com  
 Suite 100, 4207 - 98 Street NW  
 Edmonton, Alberta Canada T6E 5R7  
-Last updated Wednesday, March 23, 2016  
+Last updated Saturday, October 1, 2016  
 
 
   
