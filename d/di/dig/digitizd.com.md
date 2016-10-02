@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitizd.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514014639id_/http%3A//www.digitizd.com/tag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitizd.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003004639id_/http%3A//www.digitizd.com/tag/privacy) for the most accurate reproduction.*
 
 # privacy | Digitizd
 
-### [Why Care About Online Privacy (If You’ve Got Nothing To Hide)](http://www.digitizd.com/2014/09/06/why-care-about-online-privacy-if-youve-got-nothing-to-hide/ "Permalink to Why Care About Online Privacy \(If You’ve Got Nothing To Hide\)")
+### [Why Care About Online Privacy (If You’ve Got Nothing To Hide)](http://www.digitizd.com/why-care-about-online-privacy-if-youve-got-nothing-to-hide/ "Permalink to Why Care About Online Privacy \(If You’ve Got Nothing To Hide\)")
 
-#####  Posted on [September 6, 2014](http://www.digitizd.com/2014/09/06/why-care-about-online-privacy-if-youve-got-nothing-to-hide/ "7:55 pm") Jason Welsh | NO COMMENTS 
+#####  Posted on [September 6, 2014](http://www.digitizd.com/why-care-about-online-privacy-if-youve-got-nothing-to-hide/ "7:55 pm") Jason Welsh | NO COMMENTS 
 
 It seems as though the more we prosper the more privacy we sacrifice. Nowadays, your social networks know everything about you and the world doesn’t seem to care much about this intrusion. If your privacy is something you’re lenient with or if you belong to the group who think that the breach of privacy is something serious, or among the people who think protecting their privacy is a big deal, this article will help you understand just why you need to guard your confidentiality and also help you dispel a few myths about the thing that have probably been nagging your mind.  
 **Alarm: Your data is valuable stuff:**  
@@ -47,9 +47,9 @@ Go carefully through the checkout page to see if it verifies that the page is se
 Phishing is one of the most common weapons hackers use. In fact, even you can create a phishing page after watching a couple of tutorials on YouTube. Basically, these pages act as a clone of real login pages and once people log into them, they indirectly send their login information to the hacker/creator of the site. They are generally sent via emails faking to be the original business organizations hence it is easy to identify them. Here again the “HTTPS” rule applies while another useful point to keep in mind is to always login to the original site instead of trusting the received hyperlinks.  
 All in all, there will always be the bad guys hence precautions are to be always taken to guard ourselves. There are virtual laws too, which will be covered in another article; they are the last steps we take in case of rare and damaging intrusion. The information provided in this article is a general introduction to aware the readers about how the people they are exposed to. By simply practicing these safety measures, everyone can be sure not to make a silly mistake from their end.
 
-### [Navigating Facebook's Privacy Saga](http://www.digitizd.com/2010/07/08/navigating-facebooks-privacy-saga/ "Permalink to Navigating Facebook's Privacy Saga")
+### [Navigating Facebook's Privacy Saga](http://www.digitizd.com/navigating-facebooks-privacy-saga/ "Permalink to Navigating Facebook's Privacy Saga")
 
-#####  Posted on [July 8, 2010](http://www.digitizd.com/2010/07/08/navigating-facebooks-privacy-saga/ "5:39 am") by  [David Pierce](http://www.digitizd.com/author/david-pierce/ "View all posts by David Pierce") David Pierce | 1 Comment 
+#####  Posted on [July 8, 2010](http://www.digitizd.com/navigating-facebooks-privacy-saga/ "5:39 am") by  [David Pierce](http://www.digitizd.com/author/david-pierce/ "View all posts by David Pierce") David Pierce | 1 Comment 
 
 **This is** a guest post from Brennon at **[CampusBookRentals.com](http://campusbookrentals.com/)** , a great place to find and rent textbooks. 
 
@@ -57,4 +57,4 @@ What was supposed to be national “[Quit Facebook Day](http://www.quitfacebookd
 
 So why now, are some privacy groups still demanding more changes? Last week, ten organizations including the [American Civil Liberties Union](http://www.aclu.org/) and [Consumer Watchdog](http://www.consumerwatchdog.org/) drafted an “Open Letter to Facebook” citing the issues they still see with the site. Facebook then responded with a “point-by-point” [rebuttal](http://www.scribd.com/doc/33139785/Facebook-Privacy-Groups-Response-6-16-2010) addressing each of the organizations’ qualms.
 
-[Continue reading →](http://www.digitizd.com/2010/07/08/navigating-facebooks-privacy-saga/#more-4071)
+[Continue reading →](http://www.digitizd.com/navigating-facebooks-privacy-saga/#more-4071)
