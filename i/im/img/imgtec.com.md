@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410210111id_/https%3A//imgtec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002224216id_/https%3A//imgtec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Imagination Technologies
 
 ## About Us
 
-Imagination and Pure are Divisions of Imagination Technologies Limited, a wholly owned subsidiary of Imagination Technologies Group plc (hereinafter referred to as “us” or “our”), a company registered in England and Wales, registration number 02920061. Our registered office and headquarters is located at Imagination House, Home Park Estate, Kings Langley, Hertfordshire WD4 8LZ.
+Imagination is a division of Imagination Technologies Limited, a wholly owned subsidiary of Imagination Technologies Group plc (hereinafter referred to as “us” or “our”), a company registered in England and Wales, registration number 02920061. Our registered office and headquarters is located at Imagination House, Home Park Estate, Kings Langley, Hertfordshire WD4 8LZ.
 
 This Privacy Policy describes the data collected by us whether:
 
-  * on or through the websites at [ **www.imgtec.com**](https://imgtec.com/privacy-policy/) (the “Imagination Website”),[ **  www.pure.com**](http://www.pure.com/) (the “Pure Website”), [ **http://flow** cloud **.i** o](http://flowcloud.io/) (the “FlowCloud Website”), [**www.flowlive.com**](http://www.flowlive.com/) (the “Flow Website”) or any other of our group company websites developed or hosted by us or on our behalf (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
+  * on or through the websites at [ **www.imgtec.com**](https://imgtec.com/privacy-policy/) (the “Imagination Website”), [ **http://flow** cloud **.i** o](http://flowcloud.io/) (the “FlowCloud Website”), [**www.flowlive.com**](http://www.flowlive.com/) (the “Flow Website”) or any other of our group company websites developed or hosted by us or on our behalf (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
 
 
   * in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the Websites) (“Product”); or
@@ -43,9 +43,9 @@ When you register a warranty for a new Product that you have received, we may re
 
 When you enter a promotion (such as a free prize draw) run by us or if you are a winner of the promotion, you may supply various information about yourself or someone else, or we may receive or gather information supplied about you. For example, the information we may collect may include your name, date of birth, email address, telephone numbers, address, photograph, whether and how you are connected with us, information about Products (including, but not limited to, serial number, purchased from, purchase/sale date, reason for buying the radio, what you are thinking of buying next) and Services and software we supply, how you heard about us or the Product or the Services or the Websites, and your use of the Product or Services. If you participate in a retailer prize draw, your employer or manager’s details. Some of this information is for the purpose of entering the promotion and for validating your entry. We may also use that information for the purposes of informing you and sending you a prize if you are a winner, and for publicising the details of the winners of our promotions on the Websites and in our marketing materials. We may also use your information in case we have any queries.
 
-#### 4\. The Pure and Flow Websites
+#### 4\. The Flow Websites
 
-We collect various types of information from you when you use the Pure and/or FlowCloud and/or Flow Websites. This may include your name, email address, password, security question and answer, address, telephone numbers, gender and date of birth. This information is for all customised use of these Websites, including so you can log-in, save your favourites and make your experience of these Websites personal to you to customise your settings in a way that suits you.
+We collect various types of information from you when you use the FlowCloud and/or Flow Websites. This may include your name, email address, password, security question and answer, address, telephone numbers, gender and date of birth. This information is for all customised use of these Websites, including so you can log-in, save your favourites and make your experience of these Websites personal to you to customise your settings in a way that suits you.
 
 The information you provide may also include details of any Product (including serial number, date of purchase, place of purchase, whether you listened to the product in store, your views of your shopping experience, your comments on the Product, where you heard about the Product, and where you use your Product). This information is to enable you to link your Product to the Service provided through the Websites.
 
