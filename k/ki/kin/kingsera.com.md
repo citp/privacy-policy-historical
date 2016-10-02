@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsera.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009064433id_/http%3A//www.kingsera.com/docs/index.php%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsera.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002031631id_/http%3A//www.kingsera.com/docs/index.php%3Ft%3Dprivacy_policy%26_e%3D1475221663eb377) for the most accurate reproduction.*
 
 # Kingsera :: Privacy Policy
 
