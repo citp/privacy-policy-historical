@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedsandseo.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501183308id_/http%3A//www.classifiedsandseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsandseo.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002133841id_/http%3A//www.classifiedsandseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TECHTIPS&TUTS
 
