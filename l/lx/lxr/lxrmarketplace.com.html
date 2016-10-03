@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lxrmarketplace.com privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603164514id_/http%3A//www.lxrmarketplace.com/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lxrmarketplace.com privacy policy that was archived on 2016-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161003131522id_/http%3A//www.lxrmarketplace.com/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <html class=" js  js "><head>
 <title>Privacy Policy</title>
@@ -14,7 +14,7 @@
 <link rel="stylesheet" type="text/css" href="/css/0/lxrm-core.css">
 <!-- link rel="stylesheet" type="text/css" href="/css/0/core.css" />
 <link rel="stylesheet" type="text/css" href="/css/0/native.css"/-->
-<link rel="icon" href="http://www.lxrmarketplace.com/favicon.ico">
+<!--<link rel="icon" href="http://www.lxrmarketplace.com/favicon.ico" />-->
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PM76C6"></script><script type="text/javascript" src="/scripts/core.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <!--script type="text/javascript" src="scripts/jquery-1.6.2.min.js"></script-->
@@ -46,8 +46,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
 <!-- Common Import Start -->
 <!-- Style/Script for New Design -->
+<link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" href="css/home.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/component.css">
@@ -117,6 +119,21 @@ $( document ).ready(function() {
 <script>
 
     $(document).ready(function () {
+        
+	$('#settings-div').hide();
+	$('.settings').click(function(){
+            $('#settings').css('width', '20%');
+		$('#settings-div').show();
+	});
+	$(".settings").mouseleave(function(){
+            $('#settings-li').css('width', '10%');
+	    $('#settings-div').hide();
+	});
+        
+        
+        
+        
+        
         $(document).mouseup(function (e){
                 var container = $("#login-div");
                 var container1 = $("#sign-in");
@@ -173,12 +190,48 @@ $( document ).ready(function() {
         changeHeaders("subHeader0", "");
         changeH("mobile-menunav","");
     
- 
-    });
+                         /*Functionlaity for Notification Block*/
+    var userLoggedInH =false;
+    var callMessage = false;
+       
+       
+       $("#notificationList").click(function (){
+           naviagtionToMessages();
+       });
+        $("#messageAlert").click(function (){
+             naviagtionToMessages();
+         });
+         $("#notificationWrapper").click(function (){
+             naviagtionToMessages();
+         });
+         function naviagtionToMessages(){
+             if(!callMessage){
+                    if(userLoggedInH){
+                       var f= $("#navigationMessages");
+                       f.attr('action', "/user-messages.html");
+                       f.attr('method', 'POST');
+                       f.submit();
+                    }
+               }
+         }
+         $("#mobileNotification").click(function (){
+             naviagtionToMessages();
+//             if(!callMessage){
+//                    if(userLoggedInH){
+//                       var f= $("#navigationMobileMessages");
+//                       f.attr('action', "/user-messages.html");
+//                       f.attr('method', 'POST');
+//                       f.submit();
+//                    }
+//               }
+         });
+    });/*End of document on ready*/
+    
+
 </script>
 <script>
     function signOut() {
-
+        
         parentUrl = top.location.href;
         $.ajax({
             type: "POST",
@@ -198,7 +251,8 @@ $( document ).ready(function() {
                 } else {
                     parent.window.location = parentUrl;
                 }
-
+                sessionStorage.removeItem('name');
+                sessionStorage.removeItem('email');
             }
         });
     }
@@ -231,6 +285,39 @@ $( document ).ready(function() {
             parent.window.location = "/signup.html";
         }
     }
+    /*Recent Questions*/
+            function getNotificationCount(){
+                var messageUserId = -1;
+                //alert("messageUserId"+messageUserId);
+                var params = {messageUserId:messageUserId,toolDBId:0};
+                jQuery.getJSON("/expert-answer.html?method=checkMessagesStatus",params,
+                                    function (data) {
+                                        if(data !== null){
+                                            //alert("data[0].length"+data[0].length);
+                                             if(data[0].length > 0){
+                                                 var unViewedCount = 0;
+                                                    $("#notificationList").show();
+                                                    $("#messageAlert").show();
+                                                    $("#mobileNotification").show();
+                                                    $("#alertSymbol").show();
+                                                    if(data[1]!== null){
+                                                        unViewedCount = data[1];
+                                                        }
+                                                        if(unViewedCount > 0){
+                                                            $("#messageAlert").text(unViewedCount); 
+                                                            $("#mobileNotification").text(unViewedCount); 
+                                                        }
+                                                }
+                                        }
+                                });
+                }
+//                function showList1(){
+//                    alert();
+//                    $('#settings-list').show();
+//                }
+                
+    
+
 </script>
 <!-- Mobile Menu Starts -->
 <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
@@ -245,6 +332,45 @@ $( document ).ready(function() {
         <script type="text/javascript">
 
             $(document).ready(function () {
+                var isLoggedInUserId = -1;
+                var lg = false;
+//                    alert(isLoggedInUserId);
+                if(!lg && isLoggedInUserId > 0)
+                {
+//                    alert("not logged in: "+lg);
+                    var uname = "Email";
+                    var pwd = "Password";
+                    $.ajax({
+                        type: "POST",
+                        url: "/default-login.html?userId="+isLoggedInUserId,
+                        processData: true,
+                        data: {},
+                        dataType: "json",
+                        success: function (data) {
+//                            alert("success"+ data);
+                            if(data[0] === "success")
+                            {
+                                defaultLogin();
+                            }
+                        }
+                    });
+                }
+                
+                function defaultLogin(){
+                    pwd = encodeURIComponent(pwd);
+                    $.ajax({
+                        type: "POST",
+                        url: "/login.html?popuplogin='popuplogin'&username=" + uname + "&password=" + pwd +"",
+                        processData: true,
+                        data: {},
+                        dataType: "json",
+                        success: function (data) {
+                            changeHeaders("subHeader1", "null");
+                            changeH("mobile", "null");
+                            getNotificationCount();
+                        }
+                    });                    
+                }
 
                 $("#mUsername").keypress(function (e) {
                     if (e.keyCode === 13) {
@@ -266,6 +392,10 @@ $( document ).ready(function() {
 
                     var username = $.trim($("#mUsername").val());
                     var password = $.trim($("#mLogInPassword").val());
+                    var isLoginRemember = "false";
+                    if($("#isLoginRemember").prop("checked") === true){
+                        isLoginRemember = "true";
+                    }
                     if (username == "" || username == "Email") {
                         alert("Please enter your email address.");
                         $("#mUsername").focus();
@@ -285,7 +415,7 @@ $( document ).ready(function() {
             
                     $.ajax({
                         type: "POST",
-                        url: "/login.html?popuplogin='popuplogin'&username=" + username + "&password=" + password + "&page=",
+                        url: "/login.html?popuplogin='popuplogin'&username=" + username + "&password=" + password +"&isLoginRemember=" + isLoginRemember + "&page=",
                         processData: true,
                         data: {},
                         dataType: "json",
@@ -317,7 +447,7 @@ $( document ).ready(function() {
 
                    
             });
-
+                
         </script>
 
     
@@ -327,11 +457,14 @@ $( document ).ready(function() {
         <input type="text" id="mUsername" name="email" value="" placeholder="Email">
         <input type="password" id="mLogInPassword" name="pwd" value="" placeholder="Password">
         <div id="error" class="inValid Regular color2" style=""></div>
+        <div class="isLoginRemember">
+            <input type="checkbox" id="isLoginRemember" checked=""><span class="Regular color2" style="color:#FFF">Remember me</span>
+        </div>
         <div id="mforgot-login-Password">
             <span id="mLogInPassword" class="Regular color2"><a href="/forgotpassword.html" target="_parent" style="color:#FFF">Forgot password? </a></span>
         </div>
 
-        <input type="submit" name="signin" id="mSign">
+        <input type="button" name="signin" id="mSign">
         </div>
     
 
@@ -339,28 +472,32 @@ $( document ).ready(function() {
 
         </div>
     </div>
+  
     <div id="mobile-menunav">
         <!--<a href="/">Home</a>-->
         <a href="/#seo-heading" class="ma">SEO</a>
         <a href="/#ppc-tools" class="ma">PPC</a>
         <a href="/#ecommerce-tools" class="ma">E-Commerce</a>
-        <a href="/lxr-adwords-plugin.html">New Tool</a>
+<!--        <a href="/lxr-adwords-plugin.html">New Tool</a>-->
         <a class="mob-login" id="m-login" style="cursor:pointer;" title="SIGN IN">Sign In</a>
         <!--<a class="mob-signup" href="/signup.html" onclick="signupLxrm()" title="FREE SIGN UP NOW">Free Sign Up Now</a>-->
         <a class="mob-signup" onclick="signupLxrm()" title="FREE SIGN UP NOW">Free Sign Up Now</a>
     </div>
+ <form id="navigationMobileMessages">  
     <div id="mobile">
         <!--<a href="/">Home</a>-->
         <a href="/#seo-heading" class="ma">SEO</a>
         <a href="/#ppc-tools" class="ma">PPC</a>
         <a href="/#ecommerce-tools" class="ma">E-Commerce</a>
-        <a href="/lxr-adwords-plugin.html">New Tool</a>
+<!--        <a href="/lxr-adwords-plugin.html">New Tool</a>-->
         <a class="username" style="color:#2c3427;" id="mob-uName"></a>
+        <a style="cursor:pointer;" id="notificationWrapper"><div id="mobileNotification"></div><img id="lXRMMobileNotification" src="/images/LXRMMobileNotification.png"></a>
+        <a class="m-settings" style="cursor:pointer;" href="/change-password.html">Change Password</a>
         <a style="cursor: pointer;color:#5a8de0;" onclick="signOut();">Sign Out</a>
     </div>
-          
+  </form>
 </nav> <!-- Mobile Menu Ends -->
-<div class="container">
+<div class="container" id="main-div-wrap">
     <div class="main">
         <!-- Mobile Menu Button Stars -->
         <section class="buttonset">
@@ -378,7 +515,7 @@ $( document ).ready(function() {
                 <li><a href="/#ppc-tools">PPC</a></li>
                 <li><a href="/#ecommerce-tools">E-Commerce</a></li>
                 <!--<li><a href="/lxr-adwords-plugin.html">New Tool</a></li>-->
-                <li class="nt" id="new-tool"><a style="cursor:pointer;" href="/lxr-adwords-plugin.html">New Tool</a></li>
+<!--                <li class="nt" id='new-tool'><a style='cursor:pointer;' href="/lxr-adwords-plugin.html">New Tool</a></li>-->
                 <li title="SIGN IN" class="login" id="sign-in"><a style="cursor:pointer;">Sign In</a></li>
                 <li title="FREE SIGN UP NOW" style="cursor: pointer;" class="signup" onclick="signupLxrm()"><a>Free Sign Up Now</a></li>
 <!--                <li class='empty'><a style='text-indent: -9999px;'>Sign In</a></li>
@@ -395,17 +532,40 @@ $( document ).ready(function() {
         <script type="text/javascript">
             var parentUrl;
             $(document).ready(function () {
-                var isIE = (navigator.userAgent.indexOf("MSIE") != -1);
+                var isLoggedInUserId = -1;
+                var lg = false;
+//                    alert(isLoggedInUserId);
+                if(!lg && isLoggedInUserId > 0)
+                {
+//                    alert("not logged in: "+lg);
+                    var uname = "Email";
+                    var pwd = "Password";
+                    $.ajax({
+                        type: "POST",
+                        url: "/default-login.html?userId="+isLoggedInUserId,
+                        processData: true,
+                        data: {},
+                        dataType: "json",
+                        success: function (data) {
+//                            alert("success"+ data);
+                            if(data[0] === "success")
+                            {
+                                defaultLogin();
+                            }
+                        }
+                    });
+                }
+                var isIE = (navigator.userAgent.indexOf("MSIE") !== -1);
                 if(isIE){
                     $('[placeholder]').focus(function() {
                         var input = $(this);
-                        if (input.val() == input.attr('placeholder')) {
+                        if (input.val() === input.attr('placeholder')) {
                           input.val('');
                           input.removeClass('placeholder');
                         }
                       }).blur(function() {
                         var input = $(this);
-                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                        if (input.val() === '' || input.val() === input.attr('placeholder')) {
                           input.addClass('placeholder');
                           input.val(input.attr('placeholder'));
                         }
@@ -438,11 +598,32 @@ $( document ).ready(function() {
                     $("#errorLogin").text("");
                     loginSubmit();
                 });
+                
+                function defaultLogin(){
+                    pwd = encodeURIComponent(pwd);
+                    $.ajax({
+                        type: "POST",
+                        url: "/login.html?popuplogin='popuplogin'&username=" + uname + "&password=" + pwd +"",
+                        processData: true,
+                        data: {},
+                        dataType: "json",
+                        success: function (data) {
+                            changeHeaders("subHeader1", "null");
+                            changeH("mobile", "null");
+                            getNotificationCount();
+                        }
+                    });                    
+                }
+                
                 function loginSubmit() {
-
                     var username = $.trim($("#username").val());
                     var password = $.trim($("#logInPassword").val());
-                    if (username == "" || username == "Email") {
+                    var isLoginRemember = "false";
+                    if($("#isLoginRemember").prop("checked") === true){
+                        isLoginRemember = "true";
+                    }
+                    password = encodeURIComponent(password);
+                    if (username === "" || username === "Email") {
                         alert("Please enter your email address.");
                         $("#username").focus();
                         return false;
@@ -462,7 +643,7 @@ $( document ).ready(function() {
             
                     $.ajax({
                         type: "POST",
-                        url: "/login.html?popuplogin='popuplogin'&username=" + username + "&password=" + password + "&page=",
+                        url: "/login.html?popuplogin='popuplogin'&username=" + username + "&password=" + password +"&isLoginRemember=" + isLoginRemember + "&page=",
                         processData: true,
                         data: {},
                         dataType: "json",
@@ -521,11 +702,13 @@ $( document ).ready(function() {
         <input type="password" id="logInPassword" name="pwd" value="" placeholder="Password">
         <input type="text" name="fake_pass" id="fake_pass" value="Enter Password" style="display:none">
         <div id="errorLogin" class="inValid Regular color2" style=""></div>
+        <div class="isLoginRemember">
+            <input type="checkbox" id="isLoginRemember" checked=""><span>Remember Me</span>
+        </div>
         <div id="forgot-login-Password">
             <span id="loginPassword" class="Regular color2"><a href="/forgotpassword.html" target="_parent" style="color:#FFF">Forgot password? </a></span>
         </div>
-
-        <input type="submit" name="signin" id="sign">
+        <input type="button" name="signin" id="sign">
         </div>
         <div class="m-wrapper" style="display:none;">
         <input type="text" id="username" name="email" value="" placeholder="Email">
@@ -535,7 +718,7 @@ $( document ).ready(function() {
             <span id="loginPassword" class="Regular color2"><a href="/forgotpassword.html" target="_parent" style="color:#FFF">Forgot password? </a></span>
         </div>
 
-        <input type="submit" name="signin" id="sign">
+        <input type="button" name="signin" id="sign">
         </div>
     
 
@@ -545,21 +728,35 @@ $( document ).ready(function() {
                 </div>
             </div>
         </div>
-
+ <form id="navigationMessages">
         <div class="navbar" id="subHeader1" style="display:none">
             <ul class="nav navbar-nav">
                 <!--<li id="home" class="active"><a href="/">Home</a></li>-->
                 <li id="seo"><a href="/#seo-heading">SEO</a></li>
                 <li id="ppc"><a href="/#ppc-tools">PPC</a></li>
                 <li id="ecommerce"><a href="/#ecommerce-tools">E-Commerce</a></li>
-                <li class="nt" id="new-tool"><a style="cursor:pointer;" href="/lxr-adwords-plugin.html">New Tool</a></li>
+<!--                <li class="nt" id='new-tool'><a style='cursor:pointer;' href="/lxr-adwords-plugin.html">New Tool</a></li>-->
                 <!--<li id="newTool"><a href="/lxr-adwords-plugin.html">New Tool</a></li>-->
-                 
                 <li><a class="username" style="color:#2c3427;" id="uName"></a></li>
+                <li id="notificationList"><a><div id="messageAlert" class="notificationSymbol"></div><img src="/images/LXRMNotification.png" id="alertSymbol"></a></li>
+                <li class="settings">
+                        <span class="header-settings">
+                                <img class="simg" src="images/header/setting-black.png" alt="settings-img">
+                        </span>
+                        <span class="header-settings1" id="set-text">Settings</span>
+                        <div style="/* border:1px red solid; */z-index: 9999;position: absolute;">
+                            <span class="header-settings1" id="settings-div" style="display:none;width: 150px;">
+                                    <ul>
+                                        <li><a style="cursor:pointer;" href="/change-password.html">Change Password</a></li>
+                                    </ul>
+                            </span>
+                        </div>
+                </li>
                 <li><a style="cursor: pointer;color:#5a8de0;" onclick="signOut();">Sign Out</a></li>
             </ul>
 
         </div>
+     </form>    
         <!-- Desktop Menu Ends -->
     </div> <!-- main Ends -->
 
@@ -573,10 +770,11 @@ $( document ).ready(function() {
 					<div class="about-para">
 						<h2>LXRMarketplace Privacy Policy</h2>
 					</div>
-					<div class="about-para">(Last updated: June 2, 2016)
+					<div class="about-para">(Last updated: September 14, 2016)
                                             <p>
                                                 NetElixir, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. 
-                                                This privacy statement discloses the information collection and disclosure practices for our Web sites (the "Sites") and our software, offerings, information portals and registries (the "Tools"). 
+                                                This privacy statement discloses the information collection and disclosure practices for our Web sites (the "Sites") and our software, offerings, information portals and registries, 
+                                                and related consulting services and advice, such as our "Ask the Expert" features (the "Tools"). 
                                                 By accessing the Sites or using the Tools, you consent to the collection and use of information as described herein. 
                                                 We reserve the right to change this privacy statement at any time. If we make any material changes to our privacy statement, we will post a new statement on the Sites and update the effective date set forth above. 
                                                 Therefore, we encourage you to check the date of our privacy statement whenever you visit the Sites to see if it has been updated since your last visit. 
@@ -589,7 +787,8 @@ $( document ).ready(function() {
                                                     pay per click ad campaigns, search engine optimization and other marketing services and software. 
                                                     Our Sites provide both free and purchased or licensed Tools to help users improve their business and marketing experience.  
                                                     On some pages of our Sites or within our tools, you may be able to request information, subscribe to mailing lists, collaborate, 
-                                                    provide feedback, submit information or register for events or Tools. In order for us to provide these services and insure authorized access, 
+                                                    provide feedback, submit information or register for events or Tools, or ask our experts for advice on how to improve your website or marketing campaigns.
+                                                    In order for us to provide these services and insure authorized access, 
                                                     we may collect your e-mail address, user IDs, passwords, credit card and billing information, product serial numbers and control codes, 
                                                     account numbers, as well as contact information, including but not limited to your name, company, address, and phone number.
                                                 </p>
@@ -649,11 +848,11 @@ $( document ).ready(function() {
                                     </div>
                                     <!--New Content Ending-->
 					<div class="about-para">
-						<h4>USE OF PERSONAL INFORMATION</h4>
+						<h4>USE of PERSONAL INFORMATION</h4>
 						<p>
                                                     We use personal information internally to provide our Tools and other offerings to uses, communicate with and serve our users and to enhance and extend our 
                                                     relationship with our users. More specifically, we use personal information for the purposes for which it was collected 
-                                                    (such as to register you for, provide you with, and bill you for our tools and services), to anticipate and resolve problems 
+                                                    (such as to register you for, provide you with, and bill you for our tools and services or to provide advice through features such as "Ask the Expert"), to anticipate and resolve problems 
                                                     with our Sites, to respond to customer support inquiries, and to send you periodic e-mails or newsletters, and for our own 
                                                     internal operations (including internal analysis as described below). You should review the following section to understand 
                                                     when we disclose personal information to third parties.
@@ -747,7 +946,7 @@ $( document ).ready(function() {
 					</div>
                                     <!--New Content Added on with reference to Mail from Pavan Sir Jun 03,2016 -->
                                     <div class="about-para">
-                                        <h4>CALIFORNIA PRIVACY AND DO-NOT-TRACK LAW</h4>
+                                        <h4>CALIFORNIA PRIVACY and DO-NOT-TRACK LAW</h4>
                                         <p>
                                             California residents who provide personal information in obtaining products or services for personal, 
                                            family or household use are entitled to request and obtain from us, once per calendar year, information about the customer 
@@ -812,8 +1011,12 @@ $( document ).ready(function() {
 			<!-- Information box Wrapper Ends -->
                         
          
+
 <!-- Footer Starts -->
+
 <script>
+    var userLoggedIn1=false;
+
     $(document).ready(function() {
         if(parentUrl.indexOf("/lxr-adwords-plugin.html") != -1){
             $("#pluginLicence").show();
@@ -821,6 +1024,17 @@ $( document ).ready(function() {
         else{
             $("#pluginLicence").hide();                        
         }
+    
+    var userName = "";
+    var emailId = ""; 
+    if(userLoggedIn1){
+        var userName = "null";
+        var emailId = "Email";
+        sessionStorage.setItem('name',userName);
+        sessionStorage.setItem('email',emailId);
+    }else{
+                
+    }
     });
             
 </script>
@@ -837,7 +1051,7 @@ $( document ).ready(function() {
                                                         <li><a href="/lxrPluginLicense.jsp" target="_blank" id="pluginLicence" style="display: none">Licence</a></li>
 							<li><a href="/termsofService.jsp" target="_blank">Terms of Service</a></li>
 							<li class="link-img">
-                                                            <a href="http://www.facebook.com/NetElixirLXRMarketplace" target="_blank">
+                                                            <a href="https://www.facebook.com/Lxrmarketplace-1657035624516281/" target="_blank">
                                                                 <img src="../images/footer/facebook.png" alt="Facebook">
                                                             </a>
                                                         </li>
@@ -856,13 +1070,14 @@ $( document ).ready(function() {
 				</div><!-- Footer Ends -->
 <script type="text/javascript">
 var url = window.top.location.href;
-if(url.indexOf("/LXRSEO/") != -1){
+if(url.indexOf("/LXRSEO/") !== -1){
 	$('#googlePage').attr('href', '//plus.google.com/103693162109032910556?prsrc=3');
 }else{
 	$('#userGuide').hide();
 }
 </script>
 <!-- end of footer div -->
+
                 <p id="back-to-top"><a href="#top"><span></span></a></p>
 		</div>
 		<!-- Middle Container Ends -->
