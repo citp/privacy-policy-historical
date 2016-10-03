@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleskart.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329014637id_/http%3A//peopleskart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleskart.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003094506id_/http%3A//www.peopleskart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
