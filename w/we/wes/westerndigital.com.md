@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619061609id_/http%3A//www.wdc.com/en/company/corporateinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerndigital.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003054009id_/http%3A//www.wdc.com/en/company/corporateinfo/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Western Digital collects certain types of information about individuals who use our website, products, and services. The Privacy Policies below are designed to inform you about the types of information we gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of that information.
 
 Website Privacy Policy
 
@@ -137,75 +139,3 @@ Western Digital Corporation
 Attn: Legal Dept / Privacy  
 3355 Michelson Drive, Suite 100  
 Irvine, California 92612, USA
-
-Products Privacy Policy
-
-Western Digital Technologies, Inc. and Arkeia Software, Inc. (collectively, “WDT,” “we,” or “our”) collect certain types of information when you use our products and software applications, including media players, personal cloud storage systems, networking devices, direct-attached and network-attached storage devices, and mobile and other software applications (collectively, “WDT Products”).
-
-By using WDT products, you acknowledge that you accept the practices and policies outlined in this WDT Products Privacy Policy (“WDP Privacy Policy”).
-
-**What does this WDP Privacy Policy cover?**
-
-This WDP Privacy Policy covers the treatment of user information obtained by WDT in connection with the use of WDT Products.
-
-This WDP Privacy Policy does not apply to user information that we or our parent entity, Western Digital Corporation, collect in connection with our corporate websites, which are governed by our Website Privacy Policy, available here: Website Privacy Policy. In addition, this WDP Privacy Policy does not apply to the practices of companies that WDT does not own or control, or to individuals whom WDT does not employ or manage, including any of the third parties to which WDT may disclose user information as set forth in this WDP Privacy Policy. 
-
-**Your Consent** ****
-
-By using a WDT Product, you are consenting to our processing of User Provided Information and Automatically Collected information as set forth in this WDP Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities may take place within and outside the United States. If you reside outside the U.S., your information may be transferred to the U.S. or other countries and processed and stored there under those countries’ privacy standards, which may differ from the privacy standards in force in the country where you reside. By using a WDT Product and providing information to us, you consent to such transfer to, and processing in, those countries. 
-
-**What types of user information do we collect?**
-
-User Provided Information When you purchase, download register, or log on to a WDT Product, we may collect the following information from you: your name, mailing address, email address, phone number, age, user name, password and other registration information. In addition, we may collect certain transaction-related information, such as credit card information, as well as information that you submit when requesting customer support or warranty services. 
-
-We may use the information you provide us to contact you from time to time to provide you with important information, required notices and promotional materials. For certain Products, registration with us is optional. Please keep in mind, however, that you may not be able to use all of the features of certain WDT Products unless you register with us. 
-
-Automatically Collected information We may also receive and log certain types of information automatically when you use WDT Products. 
-
-In the case of a mobile, desktop, web or other software application, such automatically received information may include the type of device you use, your device’s unique ID, the IP address of your device, the generalized location of your device (e.g., zip code or county), your operating system, the type of Internet browser that you use, usage information, diagnostic information and other non-identifying data that allow us to improve our applications.
-
-In the case of other WDT Products, such as our media players, personal cloud storage, direct-attached and network-attached storage, and networking devices, automatically collected information may include diagnostic, technical, usage and related information about your WDT Product that we use to better understand and enhance WDT Products, as well as to facilitate the provision of software updates, product support and other related services. We may also collect IP addresses and other geographic information in order to tailor the content offerings and advertising delivered to WDT Products. 
-
-**What user information do we share with third parties?**
-
-We may disclose information (including User Provided Information and Automatically Shared Information) from or concerning you or your WDT Product in the following circumstances: 
-
-  * as required by law, such as to comply with a subpoena, or similar legal process;
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request;
-  * to our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement;
-  * as part of a merger, acquisition, or sale of all or a portion of WDT assets; and
-  * to third-party analytics companies as described in the following section.
-
-
-
-**Information collected by third-party analytics companies**
-
-We may work with third-party data analytics providers and products to obtain, compile and analyze information about how users are using and interacting with WDT Products. For example, these analytics providers may record the device, operating system, firmware and unique ID of WDT Products; generalized location information; and usage information, such as how frequently WDT Products are used and the file extensions that are accessed using WDT software applications. You recognize and agree that the analytics companies utilized by WDT may combine the information that they collect with other information they have independently collected from other services or products used by you. These companies collect and use information under their own privacy policies. You further recognize and agree that WDT has no responsibility for the technologies, tools, or practices of the third parties that provide analytics products and services to WDT. For a current list of third party analytic tools we are using, as well as a link to these providers’ privacy policies, please see [third party analytics details](https://web.archive.org/web/20160619061609id_/http%3A//www.wdc.com/en/company/corporateinfo/thirdparty.aspx).
-
-**Information collected by third-party content providers**
-
-Certain WDT Products offer the ability to access third-party content from companies such as Netflix, YouTube and Pandora. WDT Products may also enable you to access or use third-party cloud services from companies such as Dropbox and Microsoft. These third-parties may collect and transmit information about you and your use of their services, including information that can be used to identify you personally. WDT does not control and is not responsible for the collection practices of these third-party content providers. Your decision to use their services is entirely voluntary. You should ensure that you are comfortable with how these third-party services use and share your information by reviewing their privacy policies and/or modifying your privacy settings directly on those third-party services’ websites prior before electing to use their services.
-
-**How do we protect your information?**
-
-If you would like us to correct or delete User Provided Data that you have provided to us in connection with your use of a WDT Product, please contact us at [privacy@wdc.com](mailto:privacy@wdc.com), and we will respond in a reasonable time. We will make a good faith effort to provide you with access to your User Provided Data and to correct any inaccuracy or delete such information, at your request, if it is not otherwise required to be retained by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical or for which access is not otherwise required. 
-
-We have implemented reasonable security measures and practices in an effort to protect the confidentiality of your User Provided Information. However, no security system is impenetrable. It may be possible for third parties to intercept or access information that you provide to WDT. WDT cannot guarantee the security of your User Provided Information, nor can we guarantee that information you supply will not be intercepted while being transmitted to WDT. It is important for you to protect against unauthorized access to your password(s), computer and WDT Products.
-
-**Children**
-
-We do not knowingly solicit data from, or market to, children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without his or her consent, he or she should contact us at [privacy@wdc.com](mailto:privacy@wdc.com). We will take all reasonable steps to delete such information from our database within a reasonable time.
-
-**Changes to the Privacy Policy**
-
-WDT retains the discretion to amend or modify this WDP Privacy Policy from time to time. We will notify you about significant changes in the way we treat User Provided Information by sending you a direct communication or by posting a clear and prominent announcement on our website. 
-
-**How to Contact Us**
-
-WDT welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [privacy@wdc.com](mailto:privacy@wdc.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
-
-WDT  
-3355 Michelson Drive, Suite 100  
-Irvine, California 92612, USA
-
-**Effective Date of this Privacy Policy** : June 3, 2013.
