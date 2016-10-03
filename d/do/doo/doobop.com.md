@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doobop.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525195942id_/http%3A//www.doobop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doobop.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003055139id_/http%3A//www.doobop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DooBop
 
