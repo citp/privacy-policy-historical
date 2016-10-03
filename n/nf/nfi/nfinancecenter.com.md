@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfinancecenter.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505192942id_/http%3A//www.nfinancecenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfinancecenter.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003173842id_/http%3A//www.nfinancecenter.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Fast way to Financial Freedom - nfinancecenter.com
+# Privacy – Fast way to Financial Freedom – nfinancecenter.com
 
 **Personal Information**  
 At various locations on our websites, such as in registration forms, sweepstakes entries, message boards, online stores, surveys, and polls, we may request that you supply us with “personal information,” such as your name, email address, mailing and shipping addresses, home or work telephone number, and/or credit card information. You will always know when we are collecting personal information, because we only collect personal information when you voluntarily submit it to us through our online forms and questionnaires. Although you do not have to provide us with any information to visit our websites, you may not be able to fully utilize all of the services on our websites if you choose not to provide certain information. If you do choose to give us personal information through our websites, we will collect and retain that information.
