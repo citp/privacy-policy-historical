@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invests.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815194038id_/http%3A//invests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invests.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003090203id_/http%3A//www.invests.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Invests.com
+# Privacy Policy - Invests.com Invests.com
 
 **Privacy Policy**  
 Protecting your private information is our priority. This Statement of Privacy applies to the website located at www.invests.com (Invests.com) and Dot Com Investors Inc and governs data collection and usage. Invests.com is operated by Dot Com Investors Inc. For the purposes of this Privacy Policy, unless otherwise noted, all references to Dot Com Investors Inc include Invests.com. The Invests.com website is a News and Information site. By using the Invests.com website, you consent to the data practices described in this statement.
