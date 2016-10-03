@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercuryminds.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319132618id_/http%3A//www.mercuryminds.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryminds.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003083535id_/http%3A//www.mercuryminds.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - MercuryMinds Technologies
 
