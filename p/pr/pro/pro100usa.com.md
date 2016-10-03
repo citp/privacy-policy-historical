@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pro100usa.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602204302id_/http%3A//pro100usa.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro100usa.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003093528id_/http%3A//www.pro100usa.com/company/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Company | 3D design software
 
