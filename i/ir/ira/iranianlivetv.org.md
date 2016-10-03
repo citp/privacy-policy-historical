@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianlivetv.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianlivetv.org privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Watch privacy_policy - Iran TV Series - iranianlivetv.org
 
@@ -11,13 +11,13 @@
    
 |   
 ---  
-[Live TVs](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/index.php)  
-[Live Radios](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/radio.php)  
-[Frequency List](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/frequency.php)  
-[TV Series](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/serial.php)  
+[Live TVs](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/index.php)  
+[Live Radios](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/radio.php)  
+[Frequency List](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/frequency.php)  
+[TV Series](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/serial.php)  
 [Iran Music & More](http://www.music0098.com/)  
-[Useful Links](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/links.php)  
-[Parazit](https://web.archive.org/web/20160603221345id_/http%3A//iranianlivetv.org/parasites.php)  
+[Useful Links](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/links.php)  
+[Parazit](https://web.archive.org/web/20161003132412id_/http%3A//iranianlivetv.org/parasites.php)  
 |  |    
 | Privacy Policy  
 ---  
