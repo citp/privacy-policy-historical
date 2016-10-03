@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poeticous.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325181607id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poeticous.com privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003061827id_/https%3A//www.poeticous.com/privacy) for the most accurate reproduction.*
 
 # Poeticous
 
