@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501080314id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poz.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004042924id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.*
 
 # POZ.com Privacy Policy - POZ
 
-CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ ("Smart + Strong" or "POZ") operates the POZ.com Web site. 
+CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ ("Smart + Strong" or "POZ") operates the POZ.com Web site.
 
 The privacy of the users of POZ.com is important to POZ.
 
