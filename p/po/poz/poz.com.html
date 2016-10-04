@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the poz.com privacy policy that was archived on 2016-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160501080314id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poz.com privacy policy that was archived on 2016-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161004042924id_/https%3A//www.poz.com/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<!DOCTYPE html><html lang="en" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64"><head>
+  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>POZ.com Privacy Policy - POZ</title>
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width; initial-scale = 1.0; maximum-scale=1.0; user-scalable=no">
-
+      <link rel="canonical" href="https://www.poz.com/page/privacy-policy">
 
     <meta name="title" content="POZ.com Privacy Policy">
     <meta name="description" content="POZ.com Privacy Policy">
@@ -31,7 +32,7 @@
 
           <meta name="twitter:image:src" content="https://www.poz.com/images/og-image.png">
     
-    <meta name="twitter:domain" content="https://www.poz.com">
+    <meta name="twitter:domain" content="https://www.poz.com/">
   
   <link rel="apple-touch-icon" href="/images/favicon/apple-icon-touch.png">
   <link rel="icon" href="/images/favicon/favicon.png">
@@ -67,7 +68,12 @@
 
       if ($(window).width() > 480 ) {
         var originalAdWidth = 728;
-        var cssAdIframe = ['.content .ad-block div iframe', '.content .ad-block div div iframe', '.content .ad-block ins iframe'];
+        var cssAdIframe = [
+          '.content .ad-block div iframe',
+          '.content .ad-block div div iframe',
+          '.content .ad-block ins iframe',
+          '.content .ad-block iframe'
+        ];
         var containerWidth = $('.content').width();
         var winWidth = $(window).width();
 
@@ -146,7 +152,8 @@
 
 
   
-  <style>
+  <meta name="theme-color" content="#f48a31">
+<style>
         
 
   .header,
@@ -245,6 +252,8 @@
 
   .content-block .media-body a p {
     color: #363636;
+    line-height: 18px;
+    padding-top: 7px;
   }
 
   .navigation ul.nav li > a {
@@ -643,7 +652,12 @@
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 
-    var globalToken = 'U5XuSk1KqLmyRXfK9my1Th80DvPGobWFN8wT5xTo';
+    var globalToken = '';
+    var AD_BLOCK_ON = false;
+    var AD_BLOCK_NUM_PAGES = '3';
+    var AD_BLOCK_LIMIT_PER_SESSION = false;
+    var AD_BLOCK_WHITELIST = '';
+    var AD_BLOCK_VEIWPORTS = '';
 
   </script>
 
@@ -657,7 +671,7 @@
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=843428339069062";
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=382781588559100";
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -671,11 +685,17 @@
 
     <div class="logo">
       <a href="/" rel="nofollow">
-        <picture>
-          <img class="img-responsive img-logo" src="https://cdm-dam.s3-us-west-1.amazonaws.com/19_poz-logo-1000x1000.jpg_c190dbbb-adaf-4772-98ab-d8d9a159b17f.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/19_poz-logo-1000x1000.jpg_c190dbbb-adaf-4772-98ab-d8d9a159b17f.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/19_poz-logo-1000x1000.jpg_c190dbbb-adaf-4772-98ab-d8d9a159b17f_x2.jpeg 2x" alt="Logo">
-        </picture>
-      </a>
+        
+                      <img class="img-responsive img-logo img-logo-mobile visible-xs" src="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" alt="POZ">
+          
+          
+          <img class="img-responsive img-logo
+               not-wide-logo
+               hidden-xs" style="" src="https://cdm-dam.s3-us-west-1.amazonaws.com/16406_POZ-Logo-trademark-web.png_f55df8f3-f678-4e45-9800-ceeb8fc3519d.png" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/16406_POZ-Logo-trademark-web.png_f55df8f3-f678-4e45-9800-ceeb8fc3519d.png" alt="POZ">
+
+              </a>
     </div>
+
     <div class="social-header">
       <ul class="nav navbar-nav">
         <li class="twitter hidden-xs">
@@ -717,9 +737,9 @@
   <div class="container">
 
     <div class="logo">
-      <a class="navbar-brand" href="/">
+      <a class="navbar-brand" href="/" style="padding-top: 17px; padding-bottom: 17px;">
         <picture>
-          <img class="img-responsive" src="https://cdm-dam.s3-us-west-1.amazonaws.com/19_poz-logo-1000x1000.jpg_c190dbbb-adaf-4772-98ab-d8d9a159b17f.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/19_poz-logo-1000x1000.jpg_c190dbbb-adaf-4772-98ab-d8d9a159b17f.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/19_poz-logo-1000x1000.jpg_c190dbbb-adaf-4772-98ab-d8d9a159b17f_x2.jpeg 2x" alt="Logo">
+          <img class="img-responsive" src="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/16407_POZ-Logo-trademark-web.png_e5c80ac1-de65-4c9a-929c-de6200f0dc5d.png" alt="Logo">
         </picture>
       </a>
     </div>
@@ -735,11 +755,6 @@
             <i class="icon-share"></i> Share
           </a>
         </li>
-                  <li class="comment">
-            <a href="https://www.poz.com/page/privacy-policy/comments" rel="nofollow">
-              <i class="icon-comments"></i>  Comment
-            </a>
-          </li>
                 <li class="search">
           <a href="/search" rel="nofollow">
             <i class="fa fa-search"></i>
@@ -772,12 +787,12 @@
         <ul class="nav nav-stacked">
                                                     <li><a href="/">Home</a></li>
                                                         <li class="dropdown-submenu">
-                  <a class="has-sub" href="/basics/hiv-basics" onclick="">HIV Basics</a>
+                  <a class="has-sub" href="/basics/hiv-basics" onclick="">Basics</a>
 
                                       <div class="dropdown-menu" style="height: 680px;">
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
-                        <li class="visible-xs"><a href="/basics/hiv-basics">HIV Basics</a></li>
+                        <li class="visible-xs"><a href="/basics/hiv-basics">Basics</a></li>
                                                   <li class="nav-pl"><a href="/basics/hiv-basics">Introduction</a></li>
                                                   <li class="nav-pl"><a href="/basics/hiv-basics/hiv-transmission-risks">HIV Transmission and Risks</a></li>
                                                   <li class="nav-pl"><a href="/basics/hiv-basics/hiv-testing">HIV Testing</a></li>
@@ -837,11 +852,11 @@
                       <div class="back-menu visible-xs"></div>
                         <ul class="list-unstyled with-top-elem">
                         <li class="visible-xs"><a href="/magazines">Magazine</a></li>
-                                                  <li class="nav-pl"><a href="/magazine/poz-aprilmay-2016">Current Issue</a></li>
+                                                  <li class="nav-pl"><a href="/magazine/poz-octobernovember-2016">Current Issue</a></li>
                                                   <li class="nav-pl"><a href="/magazines">Archives</a></li>
                                                   <li class="nav-pl"><a href="https://issuu.com/smartandstrong">Digital Editions</a></li>
                                                   <li class="nav-pl"><a href="/page/poz-focus">POZ Focus</a></li>
-                                                  <li class="nav-pl"><a href="http://orders.poz.com/?">Bulk Subscriptions</a></li>
+                                                  <li class="nav-pl"><a href="http://order.poz.com/">Subscriptions</a></li>
                                               </ul>
                     </div>
                     <!-- .dropdown-menu -->
@@ -1072,12 +1087,6 @@
               <div class="col-xs-4 col-md-6 text-right">
                 <ul class="list-inline share-actions">
                   <li class="share"> <a href="#" rel="nofollow" data-toggle="modal" data-target="#share"> <i class="icon-share"></i>  <span class="hidden-xs">Share</span></a> </li>
-                                      <li class="comment">
-                      <a href="/page/privacy-policy/comments" rel="nofollow">
-                        <i class="icon-comments"></i>
-                        <span class="hidden-xs"> Comments</span>
-                      </a>
-                    </li>
                                   </ul>
               </div>
             </div>
@@ -1086,7 +1095,7 @@
 
         <div class="content-block extended">
           <div class="post-content">
-            <p>CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ ("Smart + Strong" or "POZ") operates the POZ.com Web site. <br><br>The privacy of the users of POZ.com is important to POZ.</p>  <p>Please read the following POZ Privacy Policy: <br> <br> This privacy policy governs how POZ treats personally identifiable information (such as your name, e-mail address, physical address, and other information about you that is not publicly available) that POZ receives and collects in connection with your use of the POZ.com Web site and POZ Personals, a dating service for HIV positive people, and other services that POZ may offer, such as, bulletin boards and chat rooms, on POZ.com (the "Service"). POZ may update this policy from time to time by posting a notice of such update on POZ.com or by notifying you directly.</p>  <p>You will need to provide personally identifiable information in order to register for the Service.</p>  <p>Personally identifiable information will be used by POZ only as provided below or for the following purposes: to contact you; to fulfill your requests in connection with the Service or POZ.com, such as for products or services; to match you with another user on POZ Personals; to perform analyses of user behavior in order to measure customer interest in the various areas of POZ.com; or for such purposes as are described at the point of collection. POZ uses list services to send out information and change notices to users. While POZ only uses list services that it believes are responsible, it will not be liable for any breach of security or for any other action by such list services.</p>  <p>POZ does not knowingly collect personally identifiable information from a child under the age of 13.</p>  <p>POZ uses reasonable precautions to keep secure all personally identifiable information that you share with us. However, e-mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. If we share demographic information with third parties, we will give them aggregate information only. POZ does not disclose, give, sell, lease or transfer personally identifiable information to third parties, except to provide products or services that you request, with your prior consent, or, in POZ's sole and absolute discretion, as follows: as required by law, such as to respond to subpoenas, or court, administrative, or governmental orders; to protect the rights of POZ; in connection with possible breaches of POZ's terms of use; in connection with claims that the rights of third parties have been violated; or in connection with possible illegal activity, misrepresentation, fraud or harm to any person.</p>  <p>POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the User's preferences.</p>  <p>If you have questions about this Privacy Policy you can contact us at <a href="mailto:website@poz.com?subject=Question%20about%20POZ%20Privacy%20Policy">website@poz.com</a>.</p>  <p>Effective: March 19, 2008</p>  <p align="center"><a href="http://www.poz.com/page/term-use">Click here to see the POZ.com Terms of Use</a></p>
+            <p>CDM Publishing, LLC, D.B.A. as Smart + Strong and POZ ("Smart + Strong" or "POZ") operates the POZ.com Web site.</p>  <p></p>  <p>The privacy of the users of POZ.com is important to POZ.</p>  <p></p>  <p>Please read the following POZ Privacy Policy: <br> <br> This privacy policy governs how POZ treats personally identifiable information (such as your name, e-mail address, physical address, and other information about you that is not publicly available) that POZ receives and collects in connection with your use of the POZ.com Web site and POZ Personals, a dating service for HIV positive people, and other services that POZ may offer, such as, bulletin boards and chat rooms, on POZ.com (the "Service"). POZ may update this policy from time to time by posting a notice of such update on POZ.com or by notifying you directly.</p>  <p></p>  <p>You will need to provide personally identifiable information in order to register for the Service.</p>  <p></p>  <p>Personally identifiable information will be used by POZ only as provided below or for the following purposes: to contact you; to fulfill your requests in connection with the Service or POZ.com, such as for products or services; to match you with another user on POZ Personals; to perform analyses of user behavior in order to measure customer interest in the various areas of POZ.com; or for such purposes as are described at the point of collection. POZ uses list services to send out information and change notices to users. While POZ only uses list services that it believes are responsible, it will not be liable for any breach of security or for any other action by such list services.</p>  <p></p>  <p>POZ does not knowingly collect personally identifiable information from a child under the age of 13.</p>  <p></p>  <p>POZ uses reasonable precautions to keep secure all personally identifiable information that you share with us. However, e-mail is not secure against interception. If your communication is very sensitive, you may want to send it by postal mail instead. If we share demographic information with third parties, we will give them aggregate information only. POZ does not disclose, give, sell, lease or transfer personally identifiable information to third parties, except to provide products or services that you request, with your prior consent, or, in POZ's sole and absolute discretion, as follows: as required by law, such as to respond to subpoenas, or court, administrative, or governmental orders; to protect the rights of POZ; in connection with possible breaches of POZ's terms of use; in connection with claims that the rights of third parties have been violated; or in connection with possible illegal activity, misrepresentation, fraud or harm to any person.</p>  <p></p>  <p>POZ uses "cookies," pieces of data stored on users' hard drives for record keeping purposes. Cookies can make the POZ.com Web site and the Service more useful by storing information about the User's preferences.</p>  <p></p>  <p>If you have questions about this Privacy Policy you can contact us at <a href="mailto:website@poz.com?subject=Question%20about%20POZ%20Privacy%20Policy">website@poz.com</a>.</p>  <p></p>  <p>Effective: March 19, 2008</p>  <p></p>  <p style="text-align: left;" align="center"><a href="http://www.poz.com/page/term-use">Click here to see the POZ.com Terms of Use</a></p>
 
             <hr>
 
@@ -1094,7 +1103,7 @@
           <!-- .content-block -->
 
           
-            <div class="ad-block ad-middle text-center" id="ad-middle-container">
+            <div class="ad-block ad-middle text-center " id="ad-middle-container">
     <span class="ad-label">Advertisement</span>
     <script type="text/javascript">
       loadAd(mid_auid);
@@ -1110,21 +1119,6 @@
                               
           
 
-                    <div class="comments-container static-page">
-            <div class="row">
-              <div class="col-xs-12 col-md-6 column text-left visible-xs">
-                <p class="comments title"><a href="https://www.poz.com/page/privacy-policy/comments" rel="nofollow"><i class="icon-comments"></i>  Comments</a></p>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 column">
-                <a href="https://www.poz.com/page/privacy-policy/comments" rel="nofollow" class="btn btn-primary btn-lg btn-next">Join The Discussion
-                </a>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 column text-right hidden-xs">
-                <p class="comments title"><a href="https://www.poz.com/page/privacy-policy/comments" rel="nofollow"><i class="icon-comments"></i>  Comments</a></p>
-              </div>
-            </div>
-
-          </div>
                     <hr>
                   </div>
         <!-- .post-content -->
@@ -1132,7 +1126,9 @@
       <!-- .col-8 -->
 
 
-      <div class="extra related">
+      <!--googleoff: index-->
+
+  <div class="extra related">
     <a href="#" class="trigger-sidebar" rel="nofollow" onclick="gaButtonClick('Related-Button')"></a>
     <span></span>
   </div>
@@ -1143,33 +1139,16 @@
 
   <div class="sidebar-wrapper">
     <aside class="col-md-4 column sidebar">
-              <div class="box box-side social-media-box-fix">
+              <div class="box box-side">
   <h3 class="section-title text-center">
-    POZ <span>on Facebook</span>
+    Newsletter
   </h3>
+  <div class="box-content text-center">
+    <p>Email updates from POZ</p>
+    <a href="#" rel="nofollow" data-toggle="modal" data-target="#newsletter_0" class="btn btn-primary">Sign up</a>
+  </div>
 </div>
-<div class="social-widget-spacing social-widget"><p></p><p></p>
-<style>
-#zoomed {
-display: block;
-    height: 22px;
-    width: 150px;
-    left: -50px;
-    margin-left: auto;
-    margin-right: auto;
-      -moz-transform: scale(1.5);
-    -moz-transform-origin: 0 0;
-    -o-transform: scale(1.5);
-    -o-transform-origin: 0 0;
-    -webkit-transform: scale(1.5);
-    -webkit-transform-origin: 0 0;
-}
-</style>
-<div id="zoomed" class="container text-center">
-<div class="fb-like" data-href="https://www.facebook.com/POZmagazine/" data-width="300" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></div></div>
-<!-- .box -->
-
-              <div class="box box-side social-media-box-fix">
+<!-- .box -->              <div class="box box-side social-media-box-fix">
   <h3 class="section-title text-center">
     POZ <span>Personals</span>
   </h3>
@@ -1192,29 +1171,29 @@ display: block;
   <div class="tab-content">
     <div class="tab-pane active" id="panel-1">
       <ul class="list-unstyled latest post-side">
-                <li><a href="/article/prep-fails-gay-man-adhering-daily-truvada-contracts-drugresistant-hiv" rel="nofollow">PrEP Fails in Gay Man Adhering to Daily Truvada, He Contracts Drug-Resistant HIV </a></li>
                 <li><a href="/article/HIV-risk-25382-5829" rel="nofollow">Against All Odds: What Are Your Chances of Getting HIV in These Scenarios? </a></li>
-                <li><a href="/article/meet-man-got-hiv-daily-prep" rel="nofollow">Meet the Man Who Got HIV While on Daily PrEP </a></li>
-                <li><a href="/article/chronic-inflammation-big-deal-people-hiv" rel="nofollow">What Is Chronic Inflammation and Why Is It Such a Big Deal for People With HIV? </a></li>
-                <li><a href="/article/undetectable-status" rel="nofollow">Undetectable Status: The POZ Survey Results </a></li>
+                <li><a href="/article/HPTN-052-transmission-27517-8582" rel="nofollow">New Proof That Passing On HIV While Undetectable Is Very Unlikely </a></li>
+                <li><a href="/article/undetectable-mean-uninfectious-challenge-explaining-hiv-study-results" rel="nofollow">Does Undetectable Mean Uninfectious? The Challenge of Explaining HIV Study Results </a></li>
+                <li><a href="/article/first-us-public-health-official-endorses-negligible-hiv-risk-undetectable" rel="nofollow">First U.S. Public Health Official Endorses “Negligible Risk” When Undetectable </a></li>
+                <li><a href="/article/35-things-might-know-hiv" rel="nofollow">35 Things You Might Not Know About HIV </a></li>
               </ul>
     </div>
     <div class="tab-pane" id="panel-2">
       <ul class="list-unstyled latest post-side">
                 <li><a href="/article/prep-fails-gay-man-adhering-daily-truvada-contracts-drugresistant-hiv" rel="nofollow">PrEP Fails in Gay Man Adhering to Daily Truvada, He Contracts Drug-Resistant HIV</a></li>
-                <li><a href="/article/meet-man-got-hiv-daily-prep" rel="nofollow">Meet the Man Who Got HIV While on Daily PrEP</a></li>
-                <li><a href="/article/liz-taylors-grandkids-join-aidswatch-lobbying-event-dc" rel="nofollow">Liz Taylor’s Grandkids Join AIDSWatch Lobbying Event in DC</a></li>
-                <li><a href="/article/researchers-edit-hiv-infected-cells" rel="nofollow">Researchers Edit HIV Out of Infected Cells</a></li>
-                <li><a href="/article/viral-suppression-rates-increasing-steadily-among-hivpositive-americans" rel="nofollow">Viral Suppression Rates are Increasing Steadily Among HIV-Positive Americans</a></li>
+                <li><a href="/article/hiv-longterm-survivors-awareness-day-2016" rel="nofollow">HIV Long-Term Survivors Awareness Day 2016</a></li>
+                <li><a href="/article/zero-hiv-transmissions-major-san-francisco-prep-program" rel="nofollow">Zero HIV Transmissions in Major San Francisco PrEP Program</a></li>
+                <li><a href="/article/official-nyc-will-aids-memorial-park" rel="nofollow">It’s Official: NYC Will Have an AIDS Memorial Park</a></li>
+                <li><a href="/article/david-russell" rel="nofollow">Music Industry Insider David Russell on Living With HIV</a></li>
               </ul>
     </div>
     <div class="tab-pane" id="panel-3">
       <ul class="list-unstyled latest post-side">
-                <li><a href="/article/prep-fails-gay-man-adhering-daily-truvada-contracts-drugresistant-hiv" rel="nofollow">PrEP Fails in Gay Man Adhering to Daily Truvada, He Contracts Drug-Resistant HIV</a></li>
-                <li><a href="/article/bill-maher-aids-28339-9055" rel="nofollow">Mad That Bill Maher Promoted a Quack AIDS Doc? Then Do This</a></li>
-                <li><a href="/article/meet-man-got-hiv-daily-prep" rel="nofollow">Meet the Man Who Got HIV While on Daily PrEP</a></li>
-                <li><a href="/article/undetectable-status" rel="nofollow">Undetectable Status: The POZ Survey Results</a></li>
-                <li><a href="/article/party" rel="nofollow">After Party</a></li>
+                <li><a href="/article/grindr-asks-users-want-filter-guys-hiv-status" rel="nofollow">Grindr Asks Users If They Want to Filter Guys by HIV Status</a></li>
+                <li><a href="/article/undetectable-mean-uninfectious-challenge-explaining-hiv-study-results" rel="nofollow">Does Undetectable Mean Uninfectious? The Challenge of Explaining HIV Study Results</a></li>
+                <li><a href="/article/new-law-makes-housing-affordable-people-hivaids" rel="nofollow">New Law Makes Housing More Affordable for People With HIV/AIDS</a></li>
+                <li><a href="/article/james-laws" rel="nofollow">James Laws</a></li>
+                <li><a href="/article/lawsuit-alleges-mcdonalds-franchise-fired-employee-hiv" rel="nofollow">Lawsuit Alleges McDonald’s Franchise Fired Employee Because of His HIV</a></li>
               </ul>
     </div>
 
@@ -1238,29 +1217,56 @@ display: block;
   </h3>
     <div class="magazine magazine-widget">
     <div class="cover">
-      <a href="/magazine/poz-aprilmay-2016" rel="nofollow"><picture>
-          <img class="img-responsive current-issue-img" src="https://cdm-dam.s3-us-west-1.amazonaws.com/11309_POZ-AprilMay-COV-POZ-04-0516.jpg_587eb354-6548-49f5-8313-de4ed750bd07.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/11309_POZ-AprilMay-COV-POZ-04-0516.jpg_587eb354-6548-49f5-8313-de4ed750bd07.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/11309_POZ-AprilMay-COV-POZ-04-0516.jpg_587eb354-6548-49f5-8313-de4ed750bd07_x2.jpeg 2x" alt="Alt text">
+      <a href="/magazine/poz-octobernovember-2016" rel="nofollow"><picture>
+          <img class="img-responsive current-issue-img" src="https://cdm-dam.s3-us-west-1.amazonaws.com/19589_POZ-Oct-Nov-16-cover-closed.jpg_18a32892-d143-4f8c-9e4c-bad35efc5e69.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/19589_POZ-Oct-Nov-16-cover-closed.jpg_18a32892-d143-4f8c-9e4c-bad35efc5e69.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/19589_POZ-Oct-Nov-16-cover-closed.jpg_18a32892-d143-4f8c-9e4c-bad35efc5e69_x2.jpeg 2x" alt="Alt text">
         </picture></a>
-      <h2 class="h6 name"> <a href="/magazine/poz-aprilmay-2016" rel="nofollow">POZ April-May 2016 </a></h2>
+      <h2 class="h6 name"> <a href="/magazine/poz-octobernovember-2016" rel="nofollow">POZ October-November 2016 </a></h2>
     </div>
   </div>
   <!-- .magazine -->
   <ul class="list-unstyled latest post-side">
-        <li><a href="/magazine/poz-aprilmay-2016/article/party" rel="nofollow">After Party: Why Does Crystal Meth Still Attract Gay Men?</a></li>
-        <li><a href="/magazine/poz-aprilmay-2016/article/blue" rel="nofollow">Out of the Blue: Depression Is Often a Silent Partner to HIV</a></li>
-        <li><a href="/magazine/poz-aprilmay-2016/article/taking-action" rel="nofollow">Taking Action: Exploring the AIDS Action Committee</a></li>
+        <li><a href="/article/spotlight-javier-munoz" rel="nofollow">In the Spotlight: Hamilton's Javier Munoz</a></li>
+        <li><a href="/article/runway-realness" rel="nofollow">Runway Realness: Front Row at GMHC's Latex Ball</a></li>
+        <li><a href="/article/decision-2016-politics-pandemic" rel="nofollow">Decision 2016: The Politics of a Pandemic</a></li>
       </ul>
   <div class="widget-footer text-center">
-    <a href="/magazine/poz-aprilmay-2016" rel="nofollow" class="btn btn-primary">View more  </a>
+    <a href="/magazine/poz-octobernovember-2016" rel="nofollow" class="btn btn-primary">View more  </a>
   </div>
   </div>
-<!-- .box -->              <div class="box box-side">
+<!-- .box -->              <div class="box box-side social-media-box-fix">
   <h3 class="section-title text-center">
-    Newsletter
+    2016 <span>poz 100</span>
   </h3>
-  <div class="box-content text-center">
-    <p>Email updates from POZ</p>
-    <a href="#" rel="nofollow" data-toggle="modal" data-target="#newsletter_5" class="btn btn-primary">Sign up</a>
+</div>
+<div class="social-widget-spacing social-widget"><div align="center"><a href="https://www.poz.com/iframe/poz-100-nomination-form" target="_blank"><img src="https://cdm-dam.s3-us-west-1.amazonaws.com/17740_a.jpg_612904c6-f592-4482-a785-98e71b61fa41.jpeg" width="300"></a></div></div>
+<!-- .box -->
+
+              <div class="box box-side tag-widget-fix-pb">
+  <h3 class="section-title text-center">
+    Trending <span>tags</span>
+  </h3>
+  <div class="box-content">
+    <ul class="tags list-inline tags-widget">
+            <li> <a href="/tag/hiv">#HIV</a> </li>
+            <li> <a href="/tag/aids">#AIDS</a> </li>
+            <li> <a href="/tag/prevention">#Prevention</a> </li>
+            <li> <a href="/tag/global">#Global</a> </li>
+            <li> <a href="/tag/prep">#PrEP</a> </li>
+            <li> <a href="/tag/msm">#MSM</a> </li>
+            <li> <a href="/tag/tenofovir">#tenofovir</a> </li>
+            <li> <a href="/tag/truvada">#Truvada</a> </li>
+            <li> <a href="/tag/cdc">#CDC</a> </li>
+            <li> <a href="/tag/hepatitis-c">#hepatitis C</a> </li>
+            <li> <a href="/tag/criminalization">#Criminalization</a> </li>
+            <li> <a href="/tag/fda">#FDA</a> </li>
+            <li> <a href="/tag/treatment">#treatment</a> </li>
+            <li> <a href="/tag/gay">#gay</a> </li>
+            <li> <a href="/tag/emtricitabine">#emtricitabine</a> </li>
+            <li> <a href="/tag/cure">#Cure</a> </li>
+            <li> <a href="/tag/new-york">#New York</a> </li>
+            <li> <a href="/tag/testing">#testing</a> </li>
+            <li> <a href="/tag/women">#Women</a> </li>
+          </ul>
   </div>
 </div>
 <!-- .box -->              <div class="ad-block ad-side clearfix text-center">
@@ -1273,104 +1279,97 @@ display: block;
         <img src="https://cdm-d.openx.net/w/1.0/ai?auid=538187996&cs=sidebar2_auid&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
   </noscript>
 </div>
-<!-- .ad -->              <div class="box box-side">
-  <h3 class="section-title text-center">
-    Latest <span>poll</span>
-  </h3>
-    <div class="box-content">
-    <div data-attr="pollText">
-    <p><a href="https://www.poz.com/article/pressure-people-hiv-take-antiretrovirals" target="_blank">Do you feel pressured to take HIV meds?</a></p>
-    <p></p>
-  </div>
-  <div data-attr="pollNoResult" class="display-none">
-    <p>Thank you for your participation!</p>
-    <p>This is poll is currently not showing results, please visit our poll listing for current or past polls.</p>
-  </div>
-      <form method="post" role="form">
-      <input type="hidden" name="_token" value="U5XuSk1KqLmyRXfK9my1Th80DvPGobWFN8wT5xTo">
-      <input type="hidden" name="poll[poll_id]" value="38">
-      <input type="hidden" name="poll[show]" value="1">
-      <ul class="list-group poll">
-                <li class="list-group-item">
-          <div class="radio">
-            <label>
-              <div class="iradio"><input class="custom-input" type="radio" name="poll[option_id]" value="98" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div> Yes
-            </label>
-          </div>
-        </li>
-                <li class="list-group-item">
-          <div class="radio">
-            <label>
-              <div class="iradio"><input class="custom-input" type="radio" name="poll[option_id]" value="99" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div> No
-            </label>
-          </div>
-        </li>
-              </ul>
+<!-- .ad -->              <div class="box box-side poll-id" data-poll-id="71">
+    <h3 class="section-title text-center">
+      POZ <span>Poll</span>
+    </h3>
+          <div class="box-content">
+        <div class="pollText display-none poll-text-template-71" data-attr="pollText">
+          <p><a href="https://www.poz.com/article/decision-2016-politics-pandemic" target="_blank">POZ Poll: Do HIV issues influence how you vote?</a></p>
+        </div>
+        <div data-attr="pollNoResult" class="display-none poll-no-results-template-71">
+          <p>Thank you for your participation!</p>
+          <p>This is poll is currently not showing results, please visit our poll listing for current or past polls.</p>
+        </div>
 
-      <div class="poll-footer text-center">
-        <button type="button" class="btn btn-primary poll_btn">Submit</button>
-      </div>
-    </form>
-      <div class="pollResultsTemplate">
+
+        <form method="post" role="form" class="display-none poll-form-template-71">
+          <input type="hidden" name="_token" value="">
+          <input type="hidden" name="poll[poll_id]" value="71">
+          <input type="hidden" name="poll[show]" value="1">
+          <ul class="list-group poll">
+                          <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <div class="iradio"><input class="custom-input" type="radio" name="poll[option_id]" value="177" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div> Yes
+                  </label>
+                </div>
+              </li>
+                          <li class="list-group-item">
+                <div class="radio">
+                  <label>
+                    <div class="iradio"><input class="custom-input" type="radio" name="poll[option_id]" value="178" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins></div> No
+                  </label>
+                </div>
+              </li>
+                      </ul>
+
+          <div class="poll-footer text-center">
+            <button type="button" class="btn btn-primary poll_btn">Submit</button>
+
+            <input type="hidden" class="poll-results-71" value="{&quot;177&quot;:{&quot;count&quot;:18,&quot;percent&quot;:75},&quot;178&quot;:{&quot;count&quot;:6,&quot;percent&quot;:25}}">
           </div>
-    <div class="text-right widget-footer">
-      <a href="/polls" rel="nofollow">View Archives</a>
-    </div>
-  </div>
-  </div>
-<!-- .box -->
+        </form>
+
+                  <div class="pollResultsTemplate display-none poll-results-template-71">
+                        <div class="graph-wrapper">
+                              <p class="label-answer">Yes</p>
+                <div class="bar-container">
+                  <p class="poll-results-percent-71-177">75%</p>
+                  <div class="bar-wrapper">
+                    <div class="bar poll-results-bar-71-177" style="width:75%;"></div>
+                  </div>
+                </div>
+                              <p class="label-answer">No</p>
+                <div class="bar-container">
+                  <p class="poll-results-percent-71-178">25%</p>
+                  <div class="bar-wrapper">
+                    <div class="bar poll-results-bar-71-178" style="width:25%;"></div>
+                  </div>
+                </div>
+                          </div>
+            <!-- .graphwrapper -->
+          </div>
+        
+        <div class="text-right widget-footer">
+          <a href="/polls" rel="nofollow">View Archives</a>
+        </div>
+      </div>
+      </div>
+  <!-- .box -->
               <div class="box box-side">
   <h3 class="section-title text-center">
-    Latest <span>Survey</span>
+    POZ <span>Survey</span>
   </h3>
-  <ul class="list-unstyled latest condensed">
-        <li> <a href="https://www.poz.com/surveys" rel="nofollow">Click here to share your thoughts! </a> </li>
-      </ul>
+  <div class="box-content">
+    <p><a href="/survey/hiv-crime">HIV Is Not a Crime</a></p>
+  </div>
 </div>
 <!-- .box -->              <div class="box box-side">
   <h3 class="section-title text-center">
-    Latest <span>Blogs</span>
+    POZ <span>Blogs</span>
   </h3>
   <ul class="list-unstyled latest post-side">
         <li>
-      <a href="/blog/2016-congressional-race-fill-435-house-seats" rel="nofollow">The 2016 Congressional Race to Fill 435 House Seats</a>
+      <a href="/blog/crystal-meth-mustread" rel="nofollow">Crystal Meth Must-Read</a>
     </li>
         <li>
-      <a href="/blog/un-general-assembly-holds-special-session-drug-issues" rel="nofollow">UN General Assembly Holds Special Session on Drug Issues</a>
+      <a href="/blog/mental-health-one-thing-never-take-granted" rel="nofollow">Mental Health: One Thing To Never Take For Granted</a>
     </li>
         <li>
-      <a href="/blog/hiv-league-stories-javier" rel="nofollow">The HIV League Stories - Javier</a>
+      <a href="/blog/grindr-thinks-hiv-can-reduced-checkbox" rel="nofollow">GRINDR Thinks HIV Can Be Reduced to a Checkbox</a>
     </li>
       </ul>
-</div>
-<!-- .box -->              <div class="box box-side tag-widget-fix-pb">
-  <h3 class="section-title text-center">
-    Trending <span>tags</span>
-  </h3>
-  <div class="box-content">
-    <ul class="tags list-inline tags-widget">
-            <li> <a href="/tag/hiv" rel="nofollow">#HIV</a> </li>
-            <li> <a href="/tag/aids" rel="nofollow">#AIDS</a> </li>
-            <li> <a href="/tag/prevention" rel="nofollow">#Prevention</a> </li>
-            <li> <a href="/tag/global" rel="nofollow">#Global</a> </li>
-            <li> <a href="/tag/prep" rel="nofollow">#PrEP</a> </li>
-            <li> <a href="/tag/msm" rel="nofollow">#MSM</a> </li>
-            <li> <a href="/tag/tenofovir" rel="nofollow">#tenofovir</a> </li>
-            <li> <a href="/tag/cdc" rel="nofollow">#CDC</a> </li>
-            <li> <a href="/tag/truvada" rel="nofollow">#Truvada</a> </li>
-            <li> <a href="/tag/hepatitis-c" rel="nofollow">#hepatitis C</a> </li>
-            <li> <a href="/tag/africa" rel="nofollow">#Africa</a> </li>
-            <li> <a href="/tag/criminalization" rel="nofollow">#Criminalization</a> </li>
-            <li> <a href="/tag/treatment" rel="nofollow">#treatment</a> </li>
-            <li> <a href="/tag/fda" rel="nofollow">#FDA</a> </li>
-            <li> <a href="/tag/emtricitabine" rel="nofollow">#emtricitabine</a> </li>
-            <li> <a href="/tag/gay" rel="nofollow">#gay</a> </li>
-            <li> <a href="/tag/cure" rel="nofollow">#Cure</a> </li>
-            <li> <a href="/tag/new-york" rel="nofollow">#New York</a> </li>
-            <li> <a href="/tag/testing" rel="nofollow">#testing</a> </li>
-            <li> <a href="/tag/south-africa" rel="nofollow">#South Africa</a> </li>
-          </ul>
-  </div>
 </div>
 <!-- .box -->              <div class="box box-side social-media-box-fix">
   <h3 class="section-title text-center">
@@ -1401,80 +1400,80 @@ display: block;
               <div class="tabbable tabs three-tabs box-side" id="tabs-44085">
   <ul class="nav nav-tabs">
         <li class="active">
-      <a href="#panel-0-kEdsj" data-toggle="tab">20 Years</a>
+      <a href="#panel-0-oJeSf" data-toggle="tab">20 Years</a>
     </li>
         <li>
-      <a href="#panel-1-kEdsj" data-toggle="tab">15 Years</a>
+      <a href="#panel-1-oJeSf" data-toggle="tab">15 Years</a>
     </li>
         <li>
-      <a href="#panel-2-kEdsj" data-toggle="tab">10 Years</a>
+      <a href="#panel-2-oJeSf" data-toggle="tab">10 Years</a>
     </li>
       </ul>
 
   <div class="tab-content">
     
-    <div class="tab-pane active" id="panel-0-kEdsj">
+    <div class="tab-pane active" id="panel-0-oJeSf">
             <div class="magazine magazine-widget">
         <div class="cover">
-          <a href="/magazine/poz-may-1996" rel="nofollow">
+          <a href="/magazine/poz-october-1996" rel="nofollow">
             <picture>
-              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3179_POZ-Cover-May-1996_24deff35-2f22-4527-a27f-514b16be05a1.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3179_POZ-Cover-May-1996_24deff35-2f22-4527-a27f-514b16be05a1.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3179_POZ-Cover-May-1996_24deff35-2f22-4527-a27f-514b16be05a1_x2.jpeg 2x" alt="Alt text">
+              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3185_POZ-Cover-October-1997_eb9b16c6-4740-4ad8-b5bf-ac66f14188e4.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3185_POZ-Cover-October-1997_eb9b16c6-4740-4ad8-b5bf-ac66f14188e4.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3185_POZ-Cover-October-1997_eb9b16c6-4740-4ad8-b5bf-ac66f14188e4_x2.jpeg 2x" alt="Alt text">
             </picture>
           </a>
-          <h2 class="h6 name"> <a href="/magazine/poz-may-1996" rel="nofollow">POZ May 1996 </a></h2>
+          <h2 class="h6 name"> <a href="/magazine/poz-october-1996" rel="nofollow">POZ October 1996 </a></h2>
         </div>
       </div>
       <ul class="list-unstyled latest post-side">
-                <li> <a href="/magazine/poz-may-1996/article/Marathon-Man-Ric-Munoz-12434-9028" rel="nofollow">Marathon Man: Ric Munoz</a></li>
-                <li> <a href="/magazine/poz-may-1996/article/The-Parent-Trap-11209-9845" rel="nofollow">The Parent Trap</a></li>
-                <li> <a href="/magazine/poz-may-1996/article/S-O-S-9551-7300" rel="nofollow">S.O.S.</a></li>
+                <li> <a href="/article/lost-emergency-room-13516-5752" rel="nofollow">Blanket Judgment</a></li>
+                <li> <a href="/article/Heavy-Mettle-13779-2302" rel="nofollow">Heavy Mettle</a></li>
+                <li> <a href="/article/S-O-S-12227-3690" rel="nofollow">S.O.S.</a></li>
               </ul>
       <div class="widget-footer text-center">
-        <a href="/magazine/poz-may-1996" rel="nofollow" class="btn btn-primary">View more  </a>
+        <a href="/magazine/poz-october-1996" rel="nofollow" class="btn btn-primary">View more  </a>
       </div>
           </div>
 
     
-    <div class="tab-pane" id="panel-1-kEdsj">
+    <div class="tab-pane" id="panel-1-oJeSf">
             <div class="magazine magazine-widget">
         <div class="cover">
-          <a href="/magazine/poz-may-2001" rel="nofollow">
+          <a href="/magazine/poz-october-2001" rel="nofollow">
             <picture>
-              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3428_POZ-Cover-May-2001_12cdf7ee-3ca2-4624-850f-57bfba28e81d.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3428_POZ-Cover-May-2001_12cdf7ee-3ca2-4624-850f-57bfba28e81d.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3428_POZ-Cover-May-2001_12cdf7ee-3ca2-4624-850f-57bfba28e81d_x2.jpeg 2x" alt="Alt text">
+              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3443_POZ-Cover-October-2001_02b6f69d-0880-44e0-b05c-c20eff410dcc.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3443_POZ-Cover-October-2001_02b6f69d-0880-44e0-b05c-c20eff410dcc.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3443_POZ-Cover-October-2001_02b6f69d-0880-44e0-b05c-c20eff410dcc_x2.jpeg 2x" alt="Alt text">
             </picture>
           </a>
-          <h2 class="h6 name"> <a href="/magazine/poz-may-2001" rel="nofollow">POZ May 2001 </a></h2>
+          <h2 class="h6 name"> <a href="/magazine/poz-october-2001" rel="nofollow">POZ October 2001 </a></h2>
         </div>
       </div>
       <ul class="list-unstyled latest post-side">
-                <li> <a href="/magazine/poz-may-2001/article/S-O-S-1177-5033" rel="nofollow">S.O.S.</a></li>
-                <li> <a href="/magazine/poz-may-2001/article/Mailbox-1178-5054" rel="nofollow">Mailbox</a></li>
-                <li> <a href="/magazine/poz-may-2001/article/Hearing-AIDS-1179-6924" rel="nofollow">Hearing AIDS</a></li>
+                <li> <a href="/article/Butt-Out-7050-3130" rel="nofollow">Butt Out</a></li>
+                <li> <a href="/article/Wart-s-Up-7051-5657" rel="nofollow">Wart's Up?</a></li>
+                <li> <a href="/article/Mailbox-1275-5207" rel="nofollow">Mailbox</a></li>
               </ul>
       <div class="widget-footer text-center">
-        <a href="/magazine/poz-may-2001" rel="nofollow" class="btn btn-primary">View more  </a>
+        <a href="/magazine/poz-october-2001" rel="nofollow" class="btn btn-primary">View more  </a>
       </div>
           </div>
 
     
-    <div class="tab-pane" id="panel-2-kEdsj">
+    <div class="tab-pane" id="panel-2-oJeSf">
             <div class="magazine magazine-widget">
         <div class="cover">
-          <a href="/magazine/poz-may-2006" rel="nofollow">
+          <a href="/magazine/poz-october-2006" rel="nofollow">
             <picture>
-              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3924_POZ-Cover-May-2006_bd60a807-15fb-4f31-a44e-3e2dbee1359e.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3924_POZ-Cover-May-2006_bd60a807-15fb-4f31-a44e-3e2dbee1359e.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3924_POZ-Cover-May-2006_bd60a807-15fb-4f31-a44e-3e2dbee1359e_x2.jpeg 2x" alt="Alt text">
+              <img class="img-responsive time-capsule-fix" src="https://cdm-dam.s3-us-west-1.amazonaws.com/3934_POZ-Cover-October-2006_a30d8049-a445-49a5-89c7-337a27efbc90.jpeg" srcset="https://cdm-dam.s3-us-west-1.amazonaws.com/3934_POZ-Cover-October-2006_a30d8049-a445-49a5-89c7-337a27efbc90.jpeg, https://cdm-dam.s3-us-west-1.amazonaws.com/3934_POZ-Cover-October-2006_a30d8049-a445-49a5-89c7-337a27efbc90_x2.jpeg 2x" alt="Alt text">
             </picture>
           </a>
-          <h2 class="h6 name"> <a href="/magazine/poz-may-2006" rel="nofollow">POZ May 2006 </a></h2>
+          <h2 class="h6 name"> <a href="/magazine/poz-october-2006" rel="nofollow">POZ October 2006 </a></h2>
         </div>
       </div>
       <ul class="list-unstyled latest post-side">
-                <li> <a href="/magazine/poz-may-2006/article/Seeing-the-Future-2961-4954" rel="nofollow">Seeing the Future</a></li>
-                <li> <a href="/magazine/poz-may-2006/article/Medicine-Men-2960-3489" rel="nofollow">Medicine Men</a></li>
-                <li> <a href="/magazine/poz-may-2006/article/Mentors-May-2006-2959-6232" rel="nofollow">Mentors-May 2006</a></li>
+                <li> <a href="/article/Inside-Job-10347-6160" rel="nofollow">Inside Job</a></li>
+                <li> <a href="/article/Ask-The-Sexpert-October-2006-10344-3284" rel="nofollow">Ask The Sexpert-October 2006</a></li>
+                <li> <a href="/article/Cash-Prizes-10346-9952" rel="nofollow">Cash Prizes!</a></li>
               </ul>
       <div class="widget-footer text-center">
-        <a href="/magazine/poz-may-2006" rel="nofollow" class="btn btn-primary">View more  </a>
+        <a href="/magazine/poz-october-2006" rel="nofollow" class="btn btn-primary">View more  </a>
       </div>
           </div>
 
@@ -1486,16 +1485,7 @@ display: block;
   </h3>
   <ul class="list-unstyled latest post-side">
         <li>
-      <a href="/article/prep-fails-gay-man-adhering-daily-truvada-contracts-drugresistant-hiv" rel="nofollow">
-        <p class="without-margin">
-          PrEP Fails in Gay Man Adhering to Daily Truvada, He Contracts Drug-...
-        </p>
-
-      
-      </a>
-    </li>
-        <li>
-      <a href="/article/HIV-risk-25382-5829" rel="nofollow">
+      <a href="/article/HIV-risk-25382-5829">
         <p class="without-margin">
           Against All Odds: What Are Your Chances of Getting HIV in These Sce...
         </p>
@@ -1504,16 +1494,16 @@ display: block;
       </a>
     </li>
         <li>
-      <a href="/article/meet-man-got-hiv-daily-prep" rel="nofollow">
+      <a href="/article/HPTN-052-transmission-27517-8582">
         <p class="without-margin">
-          Meet the Man Who Got HIV While on Daily PrEP
+          New Proof That Passing On HIV While Undetectable Is Very Unlikely
         </p>
 
       
       </a>
     </li>
         <li>
-      <a href="/blog/madonnas-blond-ambition-dancer-slam-ready-talk-hivjust-ask-vogue" rel="nofollow">
+      <a href="/blog/madonnas-blond-ambition-dancer-slam-ready-talk-hivjust-ask-vogue">
         <p class="without-margin">
           Madonna’s Blond Ambition Dancer “Slam” Is Ready to Talk About...
         </p>
@@ -1522,29 +1512,100 @@ display: block;
       </a>
     </li>
         <li>
-      <a href="/article/chronic-inflammation-big-deal-people-hiv" rel="nofollow">
+      <a href="/article/undetectable-mean-uninfectious-challenge-explaining-hiv-study-results">
         <p class="without-margin">
-          What Is Chronic Inflammation and Why Is It Such a Big Deal for Peop...
+          Does Undetectable Mean Uninfectious? The Challenge of Explaining HI...
+        </p>
+
+      
+      </a>
+    </li>
+        <li>
+      <a href="/article/first-us-public-health-official-endorses-negligible-hiv-risk-undetectable">
+        <p class="without-margin">
+          First U.S. Public Health Official Endorses “Negligible Risk” Wh...
         </p>
 
       
       </a>
     </li>
       </ul>
-</div>              <div class="box box-side">
+</div>              <div class="box box-side social-media-box-fix">
   <h3 class="section-title text-center">
-    SOCIAL <span>media</span>
+    Social <span>Media</span>
   </h3>
-  <ul class="list-unstyled latest condensed">
-        <li> <a href="https://www.facebook.com/POZmagazine" rel="nofollow">Facebook </a> </li>
-        <li> <a href="https://twitter.com/pozmagazine" rel="nofollow">Twitter </a> </li>
-        <li> <a href="http://pozmagazine.tumblr.com" rel="nofollow">Tumblr </a> </li>
-        <li> <a href="https://www.instagram.com/pozmagazine" rel="nofollow">Instagram </a> </li>
-        <li> <a href="https://www.pinterest.com/pozmagazine/" rel="nofollow">Pinterest </a> </li>
-        <li> <a href="http://www.youtube.com/user/poz10110" rel="nofollow">YouTube </a> </li>
-      </ul>
 </div>
-<!-- .box -->              <div class="box box-side">
+<div class="social-widget-spacing social-widget"><table width="300" border="0" cellpadding="0" cellspacing="0" class="boxborder boxbg">
+  <tbody><tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="https://www.facebook.com/POZmagazine" class="media-heading h4">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/2422_Facebook-crop.jpg_dc5e2b82-9bf0-4597-82fc-26c1e05a9954.jpeg" width="65" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="https://www.facebook.com/POZmagazine" class="media-heading h4">
+	 	Facebook</a><br></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="https://twitter.com/pozmagazine" class="media-heading h4">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/2453_Twitter-Icon-crop.jpg_2f2fc6de-b8b2-4026-b26d-b2b3e33cc863.jpeg" width="60" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="https://twitter.com/pozmagazine" class="media-heading h4">
+		Twitter</a><br></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="http://pozmagazine.tumblr.com/" class="media-heading h4">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/2455_Tumblr-Icon-crop.jpg_72e5033f-cff1-4874-b873-52a6a55dcb9d.jpeg" width="55" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="http://pozmagazine.tumblr.com/" class="media-heading h4">
+	 	Tumblr</a><br></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="https://www.instagram.com/pozmagazine" class="media-heading h4">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/13453_Instagram-cropped.jpg_d09b0347-376d-4d34-a4ec-7c87c0bb10af.jpeg" width="55" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="https://www.instagram.com/pozmagazine" class="media-heading h4">
+	 	Instagram</a><br></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="https://www.pinterest.com/pozmagazine/" class="media-heading h4">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/13454_Pinterest-cropped.jpg_ed23f20a-8429-4edc-a453-e4ff90b93f65.jpeg" width="65" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="https://www.pinterest.com/pozmagazine/" class="media-heading h4">
+	 	Pinterest</a><br></span></td>
+  </tr>
+  <tr>
+    <td height="10" colspan="4"><br></td>
+  </tr>
+  <tr>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="10"></td>
+    <td><a href="http://www.youtube.com/user/poz10110" class="media-heading h4">
+	<img src="https://cdm-dam.s3-us-west-1.amazonaws.com/13452_youtube-cropped.jpg_0edb53e3-8ac4-42b9-b114-618387e1a2dd.jpeg" width="60" align="left" border="0"></a></td>
+    <td><img src="/legacy/poz_magazine/awards/spacer.gif" height="1" width="2"></td>
+    <td><span class="media-heading h4"><a href="http://www.youtube.com/user/poz10110" class="media-heading h4">
+	 	YouTube</a><br></span></td>
+  </tr>
+</tbody></table>	</div>
+<!-- .box -->
+
+              <div class="box box-side">
   <h3 class="section-title text-center">
     Related <span>Sites</span>
   </h3>
@@ -1554,8 +1615,36 @@ display: block;
         <li> <a href="http://www.smartandstrong.com" rel="nofollow">SMART + STRONG </a> </li>
       </ul>
 </div>
-<!-- .box -->          </aside>
+<!-- .box -->              <div class="box box-side social-media-box-fix">
+  <h3 class="section-title text-center">
+    POZ <span>on Facebook</span>
+  </h3>
+</div>
+<div class="social-widget-spacing social-widget"><p></p><p></p>
+<style>
+#zoomed {
+display: block;
+    height: 22px;
+    width: 150px;
+    left: -50px;
+    margin-left: auto;
+    margin-right: auto;
+      -moz-transform: scale(1.5);
+    -moz-transform-origin: 0 0;
+    -o-transform: scale(1.5);
+    -o-transform-origin: 0 0;
+    -webkit-transform: scale(1.5);
+    -webkit-transform-origin: 0 0;
+}
+</style>
+<div id="zoomed" class="container text-center">
+<div class="fb-like" data-href="https://www.facebook.com/POZmagazine/" data-width="300" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></div></div>
+<!-- .box -->
+
+          </aside>
   </div>
+
+  <!--googleon: index-->
 
 
     </div>
@@ -1565,7 +1654,7 @@ display: block;
 
   </div>
 
-                                                                      <div id="newsletter_5" class="modal fade modal-newsletter-main" role="dialog">
+                    <div id="newsletter_0" class="modal fade modal-newsletter-main" role="dialog">
   <div class="modal-dialog modal-width modal-newsletter" role="document">
     <div class="modal-content box modal-customize bg-white-color">
       <div class="modal-header modal-header-newsletter">
@@ -1579,13 +1668,16 @@ display: block;
               <div class="alert alert-danger display-none" role="alert">
                 Please enter a valid email address.
               </div>
+              <div class="alert alert-danger display-none" role="alert-captcha">
+                The Captcha is required.
+              </div>
 
               <form method="post" role="form" action="http://newsletters.smartandstrong.com/?p=subscribe&amp;id=7" target="_blank">
-                <input type="hidden" name="_token" value="U5XuSk1KqLmyRXfK9my1Th80DvPGobWFN8wT5xTo">
-                <input type="hidden" id="newsletterBoxId" value="newsletter_5">
+                <input type="hidden" name="_token" value="">
+                <input type="hidden" id="newsletterBoxId" value="newsletter_0">
 
                 <div class="form-group">
-                  <label>Enter Email Adress</label>
+                  <label>Enter Email Address</label>
                   <input type="email" name="email" class="form-control" value="">
                 </div>
 
@@ -1598,6 +1690,10 @@ display: block;
                     <li class="newsletter-checkbox"><input type="checkbox" name="list[4]" value="signup"><b>&nbsp;Hep Email Update</b><div class="listdescription">Latest hepatitis news sent weekly</div></li>
                     <li class="newsletter-checkbox"><input type="checkbox" name="list[9]" value="signup"><b>&nbsp;POZ Job Posting Alert</b><div class="listdescription">Sent whenever new job openings are added</div></li>
                                   </ul>
+
+                <div class="form-group">
+                  <div class="g-recaptcha" data-sitekey="6LftXhcTAAAAAAseIHlnI1-x43O0wjKf8Tzyu9nv"></div>
+                </div>
 
                 <div class="form-group submit-newsletter-group">
                   <button class="btn btn-primary center-block newsletter_btn" name="subscribe" value="yes" type="submit">Submit</button>
@@ -1612,7 +1708,27 @@ display: block;
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
-                                                                                                                          
+                                                                                                                                                                                      
+  <div id="adblock_modal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-width" role="document">
+    <div class="modal-content box modal-customize bg-white-color">
+      <div class="modal-header modal-header-newsletter">
+        <button id="close-customize" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+              </div>
+      <div class="modal-body">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+              Our site is able to provide content to you for free but we are able to do this by displaying advertisements. We strive to be ethical in our use of ads. Please add our domain to your ad blocker's whitelist. <br><br> Please <a href="/page/whitelist_ad_blocker">see this page</a> on how to do that. <br><br>Thank you!<br>Smart+Strong Staff
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+  <script type="text/javascript" src="/js/vendor/detectadblock.js"></script>
   <script type="text/javascript" src="/js/jquery.mobile.custom.min.js"></script>
   <script type="text/javascript" src="/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="/js/slick.min.js"></script>
@@ -1620,37 +1736,44 @@ display: block;
   <script type="text/javascript" src="/js/icheck.min.js"></script>
   <script type="text/javascript" src="/js/jquery.heapbox-0.9.4.min.js"></script>
   <script type="text/javascript" src="/js/jquery.mobile-events.min.js"></script>
-  <script type="text/javascript" src="/js/scripts.js"></script>
-  <script type="text/javascript" src="/js/custom.js"></script>
-  <script type="text/javascript" src="/js/adv.js"></script>
+  <script type="text/javascript" src="/js/scripts.js?v=1.01"></script>
 
   <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-186144-42', 'auto');
+    ga('create', 'UA-186144-42', 'auto');
 
-  var GAcustomVariables = {};
-  if (author) { GAcustomVariables.dimension1 = author; }
-  if (tags) { GAcustomVariables.dimension2 = tags; }
-  if (categories) { GAcustomVariables.dimension3 = categories; }
+    var GAcustomVariables = {};
+    if (author) { GAcustomVariables.dimension1 = author; }
+    if (tags) { GAcustomVariables.dimension2 = tags; }
+    if (categories) { GAcustomVariables.dimension3 = categories; }
 
-  ga('send', 'pageview', GAcustomVariables);
+    ga('send', 'pageview', GAcustomVariables);
 
-  function gaButtonClick(eventTargetName) {
-    if (eventTargetName == 'Related-Button' && $('.extra.related').hasClass('while-scroll')) {
-      eventTargetName += '-Minimized'
+    function gaButtonClick(eventTargetName) {
+      if (eventTargetName == 'Related-Button' && $('.extra.related').hasClass('while-scroll')) {
+        eventTargetName += '-Minimized'
+      }
+
+      ga('send', 'event', 'Clicks', eventTargetName, 'page/privacy-policy');
     }
 
-    ga('send', 'event', 'Clicks', eventTargetName, 'page/privacy-policy');
-  }
+    if (typeof FB != "undefined")    FB.Event.subscribe('edge.create', function(){ gaButtonClick('Social-Like') });
+    if (typeof twttr != "undefined") twttr.events.bind('tweet', function (ev) { gaButtonClick('Social-Tweet') });
 
-  if (typeof FB != "undefined")    FB.Event.subscribe('edge.create', function(){ gaButtonClick('Social-Like') });
-  if (typeof twttr != "undefined") twttr.events.bind('tweet', function (ev) { gaButtonClick('Social-Tweet') });
+    // GA Categories and Tags
+                          
+    if (typeof author !== 'undefined' && author) {
+      ga('send', 'event', 'Authors', author, 'page/privacy-policy');
+    }
 
-</script>
+  </script>
+
+  <script type="text/javascript" src="/js/custom.1.4.js?v=1.01"></script>
+  <script type="text/javascript" src="/js/adv.js"></script>
 
   
   </div>
