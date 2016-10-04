@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webthemez.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504233936id_/http%3A//webthemez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webthemez.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004100730id_/http%3A//webthemez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebThemez
 
