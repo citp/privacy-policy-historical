@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034619id_/http%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverford.co.uk privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004145023id_/https%3A//www.riverford.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,7 @@ Our privacy statement is our commitment to privacy of information. The following
 
 
 
-In 2011 there was a change to European Law which is aimed at giving website users more control over the data which is stored about them. You can read more about it here <http://www.ico.gov.uk/>
+In 2011 there was a change to European Law which is aimed at giving website users more control over the data which is stored about them. You can read more about it here <http://www.ico.org.uk/>
 
 **Controlling the information websites can collect  
 **You can manage your browser cookie settings to accept or reject all cookies or individually by website. You can set your browser to prompt you when a website would like to store a cookie on your computer. All browsers settings are different and we would recommend you use the help option in your browser menu to check your settings.
@@ -41,9 +41,8 @@ You can ask us whether we are keeping personal data about you by:
 **Privacy support**  
 if you have an enquiry or concern about our privacy policy, please contact us:
 
-  * sending an [email help@riverford.co.uk](mailto:help@riverford.co.uk?subject=access%20to%20my%20personal%20data)
-  * sending postal mail to Riverford Organic Farms Ltd, Buckfastleigh, Devon TQ11 0JU, UK  
-
-  * calling us on 01803 227227
+  * Sending an [email help@riverford.co.uk](mailto:help@riverford.co.uk?subject=access%20to%20my%20personal%20data)
+  * Sending postal mail to Riverford Organic Farms Ltd, Buckfastleigh, Devon TQ11 0JU, UK
+  * Calling us on 01803 227227
 
 
