@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsjoe.ie privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605115730id_/http%3A//www.sportsjoe.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsjoe.ie privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004091425id_/http%3A//www.sportsjoe.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | SportsJOE.ie
 
