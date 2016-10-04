@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickscentral.com privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103225033id_/http%3A//www.trickscentral.com/2012/03/privacy-poliicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickscentral.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004214847id_/http%3A//www.trickscentral.com/2012/03/privacy-poliicy.html) for the most accurate reproduction.*
 
 # Privacy Poliicy ~ Tricks Central
 
