@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociomantic.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401121037id_/https%3A//www.sociomantic.com/website-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociomantic.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005013509id_/https%3A//www.sociomantic.com/website-privacy) for the most accurate reproduction.*
 
 # Website Privacy | Sociomantic Labs
 
