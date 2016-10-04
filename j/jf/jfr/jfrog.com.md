@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jfrog.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123656id_/http%3A//www.jfrog.com/artifactory/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jfrog.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004065136id_/https%3A//www.jfrog.com/artifactory/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Managing your binaries
 
-**Jfrog’s Privacy Policy**  
+**JFrog’s Privacy Policy**  
 Last Revised: August 1, 2015
 
 JFrog Inc. and its affiliates (“ **JFrog** “, “ **Company** ”, “ **us** ” or “ **we** ”) respect the privacy of the users  of the Company’s website available at: [www.jfrog.com](http://www.jfrog.com/) (the “ **Site** ”) (“ **User** ” or “ **you** ”). The Company is committed to protect the personal information that its User’s share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site including without limitation the products available therein.
