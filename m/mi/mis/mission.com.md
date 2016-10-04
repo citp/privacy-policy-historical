@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321024045id_/http%3A//www.missionathletecare.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004164535id_/http%3A//www.mission.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Mission Athletecare
+# Privacy Policy – Mission
 
 At Mission Product Holdings, Inc. ("MISSION"), we know how our customers and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personal information you must provide if you wish to use this website (the "Site") and, ultimately, just how we use such personal information.
 
@@ -61,7 +61,7 @@ Site Terms and Conditions: Use of this Site is governed by, and subject to, the 
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: operations@missionathletecare.com
 
 In addition, our mailing address is:  
-MISSION Athletecare  
+MISSION  
 60 East 42nd Street, Suite 810  
 New York, NY 10165  
 866.944.6477
