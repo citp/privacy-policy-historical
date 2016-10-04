@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldfree4u.me privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205062653id_/http%3A//worldfree4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldfree4u.me privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004134020id_/http%3A//www.worldfree4u.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WorldFree4u.me
+# Privacy Policy - WorldFree4u.com
 
 ## **Privacy Policy**
 
