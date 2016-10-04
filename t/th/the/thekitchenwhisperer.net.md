@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekitchenwhisperer.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604195439id_/http%3A//www.thekitchenwhisperer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekitchenwhisperer.net privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004135537id_/http%3A//www.thekitchenwhisperer.net/privacy-policy) for the most accurate reproduction.*
 
 # The Kitchen Whisperer: Privacy Policy
 
@@ -17,3 +17,7 @@ We use third party advertisers on www.thekitchenwhisperer.net to support our si
 www.thekitchenwhisperer.net has no access or control over these cookies used by third-party advertisers.
 
 If you wish to disable cookies, you may do so through your individual browser options.
+
+**Network Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
