@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610031922id_/https%3A//www.tiaa.org/public/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005063817id_/https%3A//www.tiaa.org/public/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TIAA
+# Website Privacy Policy | TIAA
 
 Please read this notice carefully.  It applies to you as a current or former customer of our products and services, or as a consumer interested in our products and services.  We at TIAA are committed to protecting your privacy in accordance with the Fair Credit Reporting Act (FCRA), as amended by the Fair and Accurate Credit Transactions Act of 2003 (FACT Act), the Gramm-Leach Bliley Financial Services Modernization Act (GLB), applicable state laws and this Privacy Notice. TIAA or the "TIAA companies" are described in this notice.
 
 ### Information we may collect
 
-The nonpublic personal information we collect may include, but is not limited to, your name, address, telephone number, e-mail address, social security number, date of birth and your transaction and experience history with TIAA companies.  We may use this information in connection with certain aspects of our business.  For example, we may use this information to complete your requested transaction or to otherwise manage your relationship with the TIAA companies. 
+The nonpublic personal information we collect may include, but is not limited to, your name, address, telephone number, e-mail address, Social Security number, date of birth and your transaction and experience history with TIAA companies.  We may use this information in connection with certain aspects of our business.  For example, we may use this information to complete your requested transaction or to otherwise manage your relationship with the TIAA companies. 
 
-We may obtain this information from an application or other form you have completed, from information you have chosen to disclose in our website, **tiaa.org** , or from information you have given a TIAA company in a consultation.  In addition, we may also collect information about your creditworthiness from consumer reporting agencies, and may include your marital status, employment history, income, assets, credit score, credit history, open lines of credit, and the size of your household.
+We may obtain this information from an application or other form you have completed, from information you have chosen to disclose in our website, **TIAA.org** , or from information you have given a TIAA company in a consultation.  In addition, we may also collect information about your creditworthiness from consumer reporting agencies, and may include your marital status, employment history, income, assets, credit score, credit history, open lines of credit, and the size of your household.
 
 If you are applying for or own a life insurance policy, we may also collect your health information.  We will not disclose your health information to any other company, including TIAA affiliates or other persons unless authorized by you, or required or permitted by law or regulation.
 
@@ -21,11 +21,11 @@ The cookies collect certain technical and navigational information only, such as
 Finally, we use "cookies" to establish and maintain a logged-in connection while you are in the secure section(s) of our website. For example, when you visit your account, perform transactions, update contact information or perform other activity the "cookie" allows you to navigate from page to page in a secure fashion without having to repeatedly log-in.
 
 Browsing to other sites:  
-When you use a link to go from **tiaa.org** to another web site, the **tiaa.org** Privacy Notice is no longer in effect. Your browsing and interaction on any other web site is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
+When you use a link to go from **TIAA.org** to another web site, the TIAA Online Privacy Notice is no longer in effect. Your browsing and interaction on any other web site is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
 
 ### How your information is used
 
-We use your personal information primarily to provide you with the products and services you request, and we share and use your personal information relating to transactions, balances, payment history and similar experiences among the TIAA  companies to conduct their business. As permitted by law, we may also share your personal information with select partners with whom we have joint marketing agreements in order to provide you with a variety of products and services. We require these companies to meet privacy standards described below. Unless you have told us otherwise pursuant to “Your Right To Opt-Out” below, we may also use your personal information to market or determine your possible interest in products and services that the other TIAA companies offer. If you are a participant in an employer-sponsored retirement or savings plan investing in a TIAA or third-party annuity contract or a TIAA or third-party mutual fund, we may share the information we collect with your employer and its agents, if any, for plan administration purposes.
+We use your personal information primarily to provide you with the products and services you request, and we share and use your personal information relating to transactions, balances, payment history and similar experiences among the TIAA  companies to conduct their business. As permitted by law, we may also share your personal information with select partners with whom we have joint marketing agreements in order to provide you with a variety of products and services. We require these companies to meet privacy standards described below. Unless you have told us otherwise pursuant to “Your Right To Opt Out” below, we may also use your personal information to market or determine your possible interest in products and services that the other TIAA companies offer. If you are a participant in an employer-sponsored retirement or savings plan investing in a TIAA or third-party annuity contract or a TIAA or third-party mutual fund, we may share the information we collect with your employer and its agents, if any, for plan administration purposes.
 
 ### Disclosure of your information
 
@@ -56,7 +56,7 @@ Federal law gives you the right to limit some but not all sharing of your person
 
 If you do not want the TIAA company(ies) with which you have a business relationship to share information about your creditworthiness with other TIAA companies or other TIAA companies to use your personal financial information for marketing purposes, you may simply let us know by opting out. If you opt out, the TIAA company(ies) with which you have a business relationship may still notify you of their new products or services. Please note that we cannot withdraw any previous disclosures made with your authorization.
 
- **To opt out** of either information sharing or marketing, or both, please call the National Contact Center weekdays from 8:00 a.m.-10 p.m., and on Saturday from 9:00 a.m. to 6:00 p.m., (ET) at 877-518-9161.You may receive more than one privacy notice from the TIAA companies depending on the products you own. If you own a life insurance contract, brokerage account or a TIAA-CREF Funds account with a co-owner, you and the co-owner may:
+ **To opt out** of either information sharing or marketing, or both, please call the National Contact Center weekdays from 8:00 a.m. to 10 p.m., and on Saturday from 9:00 a.m. to 6:00 p.m., (ET) at 877-518-9161.You may receive more than one privacy notice from the TIAA companies depending on the products you own. If you own a life insurance contract, brokerage account or a TIAA-CREF Funds account with a co-owner, you and the co-owner may:
 
   * opt out separately; or
   * either of you may opt out for both of you.
@@ -73,19 +73,19 @@ This website is not directed toward children. We do not knowingly collect or pos
 
 ### Changes in our privacy notice
 
-TIAA periodically reviews its policies.  We reserve the right to amend them.  If we amend this Privacy Notice, we will continue our commitment to maintaining the security and privacy of your personal information.  We will notify you of material changes prior to when they take effect through a banner notice in our website, **tiaa.org**.
+TIAA periodically reviews its policies.  We reserve the right to amend them.  If we amend this Privacy Notice, we will continue our commitment to maintaining the security and privacy of your personal information.  We will notify you of material changes prior to when they take effect through a banner notice in our website, **TIAA.org**.
 
 ### How to change or correct your personal information
 
-To change information such as your name, address, retirement start date, telephone number, e-mail address, or other personal information, please call our National Contact Center weekdays from 8:00 a.m. -10:00 p.m., and on Saturday from 9:00 a.m. to 6:00 p.m., (ET) at 800-842-2252.
+To change information such as your name, address, retirement start date, telephone number, e-mail address, or other personal information, please call our National Contact Center at 800-842-2776 weekdays from 8:00 a.m. to 10:00 p.m., and on Saturday from 9:00 a.m. to 6:00 p.m., (ET).
 
-You may also change your personal information by logging on to your TIAA account page at **tiaa.org** and and submitting your changes. Your new information will be effective immediately. If you want to change your address on fewer than all contracts, or to enter a foreign address, you will need to select "click here" located under the e-mail section of the page.
+You may also change your personal information by logging on to your TIAA account page at **TIAA.org** and and submitting your changes. Your new information will be effective immediately. If you want to change your address on fewer than all contracts, or to enter a foreign address, you will need to select "click here" located under the e-mail section of the page.
 
 Note that certain changes cannot be processed over the phone. Address changes for payout contracts must be mailed. Also, to change your or your spouse's name on a contract, you must send us a letter with the following information:
 
   * previous name with signature
   * new name with signature
-  * Social Security Number
+  * Social Security number
   * contract/account numbers
 
 
@@ -122,4 +122,4 @@ As described in this notice, "TIAA companies" include but not limited to the fol
 
 
 
-February 2016
+July 2016
