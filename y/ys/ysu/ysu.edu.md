@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606010609id_/http%3A//cms.ysu.edu/administrative-offices/information-technology-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005081630id_/http%3A//cms.ysu.edu/administrative-offices/information-technology-services/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Youngstown State University
 
