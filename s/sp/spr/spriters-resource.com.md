@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spriters-resource.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203349id_/http%3A//www.spriters-resource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spriters-resource.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005234638id_/http%3A//www.spriters-resource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Spriters Resource
 
