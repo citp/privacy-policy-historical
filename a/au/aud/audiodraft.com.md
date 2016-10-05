@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiodraft.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331124431id_/https%3A//www.audiodraft.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiodraft.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005190330id_/https%3A//www.audiodraft.com/legal/privacy) for the most accurate reproduction.*
 
 # Audiodraft | Privacy Policy
 
