@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pharmacychecker.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611095845id_/http%3A//www.pharmacychecker.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmacychecker.com privacy policy that was archived on 2016-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161005224740id_/http%3A//www.pharmacychecker.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 
@@ -18,11 +18,10 @@
 
 	
 
+        
+    <link rel="alternate" href="http://www.pharmacychecker.com/Privacy.asp" hreflang="en">
+    <link rel="alternate" href="http://www.pharmacychecker.com/es/Privacy.asp" hreflang="es">  
 
-	<meta name="description" content="Compare prescription drug prices and find online pharmacy ratings at PharmacyChecker.com. Find Canadian or other licensed pharmacies to save money and avoid risky websites.">
-    
-    <meta name="keywords" content="">
-    
 <!-- Meta Descriptions and Keywords End Here !-->
 
 	<link rel="stylesheet" href="/css/standard.css" type="text/css"> 
@@ -77,6 +76,9 @@
                 $("#searchstring").autocomplete({
                     source: "/inc/searchsuggest2.asp",
                     minLength: 3,
+                    focus: function (event, ui) {
+                        event.preventDefault(); // without this: keyboard movements reset the input to ''
+                    },
                     close: function (event, ui) {
                         //if ($("#searchstring").val().length > 2) {
                         //    submitForm();
@@ -235,6 +237,58 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   	</div>
   	
     
+    <style type="text/css">
+#dialogShareCaptchaDiv {
+  margin: 0;
+  padding: 0;
+  width:265px;
+  height:50px;
+  padding-bottom: 5px;
+  font-family: Arial;
+  font-size: 10pt;
+}
+
+#dialogShareCaptchaImage {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width:240px;
+  height:50px;
+}
+
+#dialogShareCaptchaIcons {
+  width: 22px;
+  height: 50px;
+  float: right;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+td#dialogShareCaptchaIcons {
+  padding-left: 3px;
+}
+
+#dialogShareCaptchaIcons img {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 3px;
+}
+
+#dialogShareCaptchaIcons img {
+  margin-bottom: -2px;
+}
+#ShareForm_SoundPlaceholder {
+  visibility: hidden;
+  width:0 !important;
+  height:0 !important;
+  display: none !important;
+}
+
+</style>
+<script type="text/javascript" src="/BotDetectScript.js"></script>
+
             
             
                       
@@ -336,28 +390,56 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                     <div>
                         <div style="float: left; margin-right:10px;">
                             <em>Your</em> email address*:<br>
-                            <input type="text" id="tbShareEmailFrom" style="width: 300px;" onchange="UpdateEmailLink();">
+                            <input type="text" id="tbShareEmailFrom" style="width: 300px;">
                         </div>
                         <div style="float: left;">
                             <em>Your</em> name*: <span style="font-size: 10px;"><input type="checkbox" id="cbSendCopy" value="1" checked=""> Send me a copy</span><br>
-                            <input type="text" id="tbShareEmailFromName" style="width: 200px;" onchange="UpdateEmailLink();">
+                            <input type="text" id="tbShareEmailFromName" style="width: 200px;">
                         </div>
                     </div>
+
+
                     <div style="clear:both;">
                         <div>
                             <br>
                             Email Address where it's going*:<br>
-                            <input type="text" id="tbShareEmail" style="width: 300px;" onchange="UpdateEmailLink();"><br><span style="font-size: 10px;">*Addresses and name will only be used for sending this message.</span>
+                            <input type="text" id="tbShareEmail" style="width: 300px;"><br><span style="font-size: 10px;">*Addresses and name will only be used for sending this message.</span>
                             <br><br>
                             <div id="divBody"></div>
                             Additional message (optional):<br>
-                            <textarea id="tbShareMessage" style="width: 600px;" rows="4" onchange="UpdateEmailLink();">                    
+                            <textarea id="tbShareMessage" style="width: 600px;" rows="4">                    
                             </textarea><br>
+                            <br>
+                              <br>
+
+
                             <input type="hidden" id="hidHREF" value="">
                             <input type="hidden" id="hidDescription" value="">
                             
                             <input type="hidden" id="hidShareEmailFrom" value="">
                             <input type="hidden" id="hidShareEmailFromName" value="">
+                                                  
+
+		    <fieldset id="CaptchaValidation" style="padding:0px; width: 600px;">
+             <legend></legend>
+              <div id="PromptDiv"><font face="Verdana" size="2"><b>Re-type the code from the picture below:</b></font></div>
+                    <div id="dialogShareCaptchaDiv">
+                        <div id="dialogShareCaptchaImage">                                
+                        </div>
+
+                    <div id="CaptchaIcons">
+                      <a href="/LanapBotDetectHandler.asp?Command=CreateSound" onclick="LBD_LoadSound(&quot;SampleForm_SoundPlaceholder&quot;, &quot;/LanapBotDetectHandler.asp?Command=CreateSound&quot;);return false;" title="Speak the code"><img src="speaker.gif" alt="Speak the code"></a>
+                      <a href="#" onclick="LBD_ReloadImage(&quot;ShareForm_CaptchaImage&quot;); return false;" title="Change the code"><img src="reload.gif" alt="Change the code"></a>
+                      <div id="SampleForm_SoundPlaceholder" class="placeholder">&nbsp;</div>
+                    </div>
+                  </div>
+                        <div class="input">
+                            <span id="PromptDiv">Retype the code from the picture:&nbsp;&nbsp;</span>
+                            <input name="ShareForm_CaptchaCode" id="ShareForm_CaptchaCode" type="text" class="textbox" onkeyup="this.value = this.value.toUpperCase();">
+                        </div>
+                  
+               </fieldset>
+
                             <br><br>
                             <!--<b><a href="" id="aShareEmail" onclick="return CheckAndCloseShare();">Send Email via Email Client</a></b>-->
                         </div>
