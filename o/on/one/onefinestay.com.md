@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612095057id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005234127id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | onefinestay
 
@@ -38,7 +38,8 @@
   1. Credit or debit card payments will be collected by our payment processor. 
   2. In order for payments to be processed you may need to provide some necessary details to our agent. We tell you about this at the point we collect that information on the Site. 
   3. We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected. 
-  4. Other than as set out above, we will not disclose any of your personal information without your permission unless we are required by law to do so (for example, if required to do so by a court order or for the purposes of prevention of fraud or other crime).
+  4. We may share customer information with third parties to perform services on our behalf in order to improve our services and you hereby consent to us sharing such customer information. 
+  5. Other than as set out above, we will not disclose any of your personal information without your permission unless we are required by law to do so (for example, if required to do so by a court order or for the purposes of prevention of fraud or other crime).
 
 
 * Information automatically collected from your computer
