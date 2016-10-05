@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605191909id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orojackson.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005092241id_/http%3A//orojackson.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy | Oro Jackson
 
@@ -75,6 +75,6 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 Published:
     Jul 12, 2011
 Page Views:
-    8,880
+    10,357
 
 [ ](http://orojackson.com/)
