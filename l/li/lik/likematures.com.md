@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likematures.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617093636id_/http%3A//likematures.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likematures.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005053719id_/http%3A//likematures.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
