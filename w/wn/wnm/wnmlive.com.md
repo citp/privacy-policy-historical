@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402091407id_/https%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005122532id_/https%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
 
 # Nearby Live :: Privacy Policy
 
