@@ -1,22 +1,31 @@
-> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602035913id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005072121id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
 
 # Zoho - Privacy Policy
 
 ### Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Zoho-Corporation/validation?rid=50b6e2e0-32b9-4950-b625-32c2c673e0cf "TRUSTe European Safe Harbor certification")  
+[](https://privacy.truste.com/privacy-seal/validation?rid=50b6e2e0-32b9-4950-b625-32c2c673e0cf)  
 ---  
   
-Updated on: 19th March 2015.  
-Effective Date: 19th April 2015.   
+Updated on: 30th September 2016.   
   
 ##### General
 
 At Zoho Corporation, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. Our practice with respect to use of your Personal Information is as set forth below in this Privacy Policy Statement. As a condition to use of Zoho Services, you consent to the terms of the Privacy Policy Statement as it may be updated from time to time. This Privacy Policy Statement applies exclusively to [www.zoho.com.](https://www.zoho.com/)
 
-Zoho Corporation has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy Statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [https://www.zoho.com](https://www.zoho.com/index.html) and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Mailing Address: 4141 Hacienda Drive,Pleasanton, CA 94588, USA. We can be reached via email at [privacy@zohocorp.com](mailto:privacy@zohocorp.com) or you can reach Zoho Customer Support Services by telephone at 888 900 9646.If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
-Zoho Corporation complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Zoho Corporation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Zoho Corporation‘s certification, please visit <http://export.gov/safeharbor/>.
+Zoho Corporation complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Zoho Corporation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Zoho Corporation‘s certification, please visit [http://export.gov/safeharbor/.](http://export.gov/safeharbor/)
+
+##### E.U. – U.S. Privacy Shield 
+
+Zoho Corporation participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Zoho Corporation is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list). 
+
+Zoho Corporation is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and may subsequently transfer to a third party acting as an agent on its behalf. Zoho Corporation complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Zoho Corporation is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Zoho Corporation may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov], you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 ##### Children's Online Privacy Protection
 
@@ -92,7 +101,7 @@ In the event we decide to use your Personal Information for any purpose other th
 
 ##### Accessing, Updating and Removing Personal Information
 
-Users who wish to correct, update or remove any Personal Information including those from a public forum, directory or testimonial on our site may do so either by accessing their user account or by contacting Zoho Customer Support Services at [support@zohocorp.com](mailto:support@zohocorp.com). Such changes may take up to 48 hours to take effect. We respond to all enquiries within 30 days.
+Upon request, we will provide you with information about whether we hold any of your Personal Information. Users who wish to correct, update or remove any Personal Information including those from a public forum, directory or testimonial on our site may do so either by accessing their user account or by contacting Zoho Customer Support Services at [support@zohocorp.com](mailto:support@zohocorp.com). Such changes may take up to 48 hours to take effect. We respond to all enquiries within 30 days.
 
 ##### Investigation of Illegal Activity
 
@@ -112,8 +121,16 @@ We provide the capacity for users to post information in blogs and forums for sh
 
 Zoho also supports third party widgets such as Facebook and Twitter buttons on the website that allow users to share articles and other information on different platforms. These widgets may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the widgets to function properly. These widgets do not collect or store any Personal Information from users on the website and simply act as a bridge for your convenience in sharing information. Your interactions with these widgets are governed by the privacy policy of the company providing it.
 
-##### END OF PRIVACY POLICY
+##### Contact Us
 
-IIf you have any questions or concerns regarding this Privacy Policy Statement, please contact us at [legal@zohocorp.com](mailto:legal@zohocorp.com). We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity. In the event that your inquiry goes unaddressed beyond this reasonable expectation, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=https://www.zoho.com). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+If you have any questions or concerns regarding this Privacy Policy Statement, please contact us at [legal@zohocorp.com](mailto:legal@zohocorp.com). We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity. 
 
-[](http://export.gov/safeharbor/) [](http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx)
+##### Processor Disclosure 
+
+This certification covers our collection, use and disclosure of information we collect through our website www.zoho.com and through Zoho Services. The use of information collected through Zoho Services shall be limited to the purpose of providing the Zoho Services to you. 
+
+Zoho acknowledges that you have the right to access your Personal Information. Zoho has no direct relationship with the individuals whose personal data it processes. If you are an individual user of Zoho Services, you can directly contact Zoho to correct, amend, or delete inaccurate data. In other cases, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct such query to his data controller who may be a customer of Zoho Services. If requested to remove data we will respond within a reasonable timeframe. We will retain Personal Information we process on behalf of our customers for as long as needed to provide Zoho Services to our customers. Zoho will retain Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+Zoho may transfer Personal Information to third party service providers that help us in providing the Zoho Services. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy Statement regarding notice and choice and the service agreements with you. 
+
+[](http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx)
