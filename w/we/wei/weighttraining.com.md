@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weighttraining.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806094256id_/http%3A//www.weighttraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weighttraining.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006234952id_/https%3A//www.exercise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exercise.com
 
@@ -10,7 +10,7 @@ By using the Site you agree to this Privacy Policy. This Privacy Policy is effec
 
 If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site’s Terms of Service, including limitations on damages, jurisdiction of disputes and application of the law of the State of Florida.
 
-If you have any questions about this Privacy Policy, please feel free to contact us at info@weighttraining.com or write to us at: 48 Kings Hwy, #302, Gales Ferry, CT 06335
+If you have any questions about this Privacy Policy, please feel free to contact us at info@weighttraining.com or write to us at: 113 Cherry St. #37960, Seattle, WA, 98104-2205
 
 **1\. INFORMATION THAT YOU GIVE US.** When you register or subscribe to our services, we collect personal information that can identify you (“PII”) such as your full name, email address, mailing address, telephone number. We also may collect PII from you when you contact us or participate in activities that may be available through our services such as: forums; message boards; chats; creating a profile; rating; tagging; commenting on articles or completing surveys. The information that we collect varies depending upon how you use our Service. When you register as a member of the Site, you will need to provide us with health related information that a trainer will need to design your fitness and nutrition plan. That information will be associated with your profile and therefore become PII. When you register as a trainer on the Site, you will need to provide us with information regarding your qualifications in designing fitness and nutrition plans.
 
@@ -73,4 +73,4 @@ We share your information as follows:
 
 **11\. HOW TO CONTACT US.**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at info@weighttraining.com or by writing a letter to: 48 Kings Hwy, #302, Gales Ferry, CT 06335
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at info@weighttraining.com or by writing a letter to: 113 Cherry St. #37960, Seattle, WA, 98104-2205
