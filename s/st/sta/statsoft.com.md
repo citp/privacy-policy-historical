@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606155216id_/http%3A//www.statsoft.com/company/other/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsoft.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006092836id_/http%3A//www.statsoft.com/company/other/privacy-statement) for the most accurate reproduction.*
 
 # StatSoft, Inc. | Privacy Statement
 
