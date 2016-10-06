@@ -1,85 +1,55 @@
-> *The following text is extracted and transformed from the kentbrushes.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316015732id_/http%3A//www.kentbrushes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentbrushes.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007011118id_/http%3A//www.kentbrushes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cookies and Privacy Policy
 
-We take your privacy very seriously.  We ask that you read this privacy policy carefully as it contains important information about what to expect when we collect personal information about you and how we will use your personal data.
+Privacy
+    
 
-This policy applies to information we collect about:
+The policy which we employ when dealing with any personal information submitted via this website is outlined below. We aim to take every possible measure to protect your information at all times.
 
--          Visitors to our website;
+Definitions
+    
 
--          People who do business with us/register for our services.
+“We” or “us” in terms of Data Protection, and your information, refers to G.B. Kent & Sons Plc. “Personal Information” refers to all data you enter into this website which identifies you, or which can be considered privileged, including but not limited to your email address.
 
-**               1\. The information we collect about you**
+Your Consent
+    
 
-We do not store credit card details nor do we share customer details with any 3rd parties.
+By using this website, you agree to this privacy policy, and when you submit any of your details or personal information, you are agreeing that you accept the manner in which we state we will use those details.
 
-When you do business with us/register for our service we collect the following personal information from you:
+Changes to our Privacy Policy
+    
 
-1.1         name;
+We may change our Privacy and Security policies from time to time – we are constantly reviewing them to ensure that our customers (and their customers) are protected to the best of our abilities. Please check this page regularly for any updates and changes.
 
-1.2         postal address, e-mail address, telephone number, credit/debit card number and expiry date.
+What information do we collect?
+    
 
-****            **2\. How we will use the information about you**
+Information may be collected when you use certain components of this website. Our own server – like all web servers – logs your visit including your Internet Protocol (IP) address and date and time of visit. All data is kept within the United Kingdom, and we never share this information with anyone unless compelled to do so by law.
 
-We gather this information to allow us to process your registration, process any orders you may make, provide the goods requested.  The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of the goods in general.  If you agree, we may also contact you about other products and services we think may be of interest to you.
+We may collect, store and use the following kinds of personal data:
 
-**               3\. Marketing**
+  * Information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit, pages viewed and activity on each page);
+  * Should you send us an email via the contact form, your name, email address and message will be emailed to us (as you would expect). This information is kept private, your details will not be passed on to any third party. We will store this information within our own email system so that we are able to respond to you. Your details will not be added to our newsletter unless you specify you would specifically like to receive communication from us on anything other than the initial enquiry you made.
+  * Should you comment on a blog post on this site, then your name, email address, IP address and message will be stored in our website database (as you would expect). This makes your name, website address and comment (but not your email address) viewable by the general public on the website.
+  * If you sign up to receive our newsletter, your name and email address will be added to a newsletter system database. You may opt-out of our emails at any time. An ‘unsubscribe’ link is included in all of our email newsletters.
 
-We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you.  If you would rather not receive this information, please tick box below   If you agree to us providing you with marketing information, you can always opt out at a later date.
 
-**                4\. Our use of cookies and other information-gathering technologies**
+Cookies
+    
 
-Cookies are text files placed on your computer to collect standard Internet log information and visitor behaviour information.  The information is used to track visitor use of the website and to compile statistical reports on website activity.  For further information about cookies visit www.aboutcookies.org or www.allaboutcookies.org.  You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser.  However, in a few cases some of our website features may not function if you remove cookies from your browser.
+The UK has now implemented (as of 26 May 2011) the EU e-Privacy directive that requires website owners to make users aware that their site uses cookies. While the ICO has not issued much in way of technical detail, what is clear is that they still expect website owners to take action to become compliant. Over the coming months we will be working on developing the best methods for us obtain your consent without it ruining your experience of our website.
 
-**                5\. How we protect your information**
+What are cookies?
+    
 
-We have put in place security procedures and technical and organisational measures to safeguard your personal information.
+Cookies are small harmless text files placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website. The Cookie acts as an identification card for the visiting site. They enable your browser to exchange information with the website server, and can be used for essential purposes (such as remembering you’ve logged in to a site or what product you have put into your shopping cart), or optional purposes (such as for website analytics purposes or how many visitors came to the site).
 
-We will use all reasonable efforts to safeguard your personal information.  However, you should be aware that the use of the internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit All About Cookies. However, please note that if you choose to disable cookies, then parts of this website may not function correctly and it will severely harm our business, we will no longer be able to track visits to our website, see what the most popular pages are or devices looking at our website, it will be the equivalent of running a sweet shop, blindfolded with no stock-taking facility available.
 
-**                6\. Access to your information and updating and correcting your information**
+What cookies do we use?
+    
 
-You have the right to request a copy of the information that we hold about you.  If you would like a copy of some or all of your personal information, please send an email to _info@kentbrushes.com_ or send a letter to Customer Service Department, G B Kent & Sons plc, London Road, Apsley, Hemel Hempstead, herts, HP3 9SA).  We may make a small charge for this service.
+The table below list the cookies we use and will set regardless of your acceptance of our cookie message, these cookies are seen as essential to the running of the website, without them, desktop, mobile and tablet devices will not display the images properly.
 
-We want to ensure that your personal information is accurate and up to date.  If any of the information that you have provided to _G B Kent_  changes, for example if you change your email address, name of payment details, or if you wish to cancel your registration, please let us know by editing you account details online .
-
-**                7\. Sale of Business**
-
-If business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
-
-**                 8\. Your consent**
-
-By submitting your personal information you consent to the use of that information as set out in this policy.
-
-**                 9\. Changes to privacy policy**
-
-We keep our privacy policy under regular review.  If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times.  This privacy policy was last updated on 1 July 2015
-
-**                 10\. How to contact us**
-
-We welcome your views about our website and our privacy policy.  If you would like to contact us with any queries or comments please send an email to info@kentbrushes.com or send a letter to Customer Service Department, G B Kent & Sons plc,  London Road, Apsley, Hemel Hempstead, Herts, HP3 9SA.
-
-**                 11\. Links to other websites**
-
-Our website may contain links to other websites.  This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
-
-G.B. Kent & Sons Plc
-
-London Road
-
-Apsley
-
-Hemel Hempstead
-
-HP3 9SA
-
-UK
-
-Company Number:  66471
-
-Data Protection Registration: Z8207822
-
-Tel:       (+44/0)1442 23 26 23
-
-Email:   info@kentbrushes.com
+The following table lists any cookies that are seen as non-essential to the workings of the website.
