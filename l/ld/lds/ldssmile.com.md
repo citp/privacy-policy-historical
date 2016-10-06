@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ldssmile.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216024450id_/http%3A//ldssmile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldssmile.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006021509id_/http%3A//www.ldssmile.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LDS SMILE
+# Privacy Policy - LDS S.M.I.L.E.
 
 This Privacy Policy was last modified on November 15, 2013.
 
