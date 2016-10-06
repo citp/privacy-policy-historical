@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616111126id_/http%3A//www.hsbc.com/terms-and-conditions/privacy-policy%3FWT.ac%3DHGHQ_f8.2_On) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006192343id_/http%3A//www.hsbc.com/terms-and-conditions/privacy-policy%3FWT.ac%3DHGHQ_f8.2_On) for the most accurate reproduction.*
 
-# HSBC Holdings plc - Privacy policy
-
-This privacy statement sets out the privacy policy of hsbc.com.
-
-hsbc.com provides a portal, or gateway, to the financial services offered by members of the HSBC Group. The Site is owned by HSBC Holdings plc. HSBC Holdings plc is a public limited company registered in England and Wales under Company Register Number 617987 and with its registered office at 8, Canada Square, London, England E14 5HQ.
-
-For more information on how to use this website and definitions used in this privacy policy, please see the [Terms and conditions](https://web.archive.org/terms-and-conditions "Terms and conditions").
+# Privacy policy | HSBC Holdings plc
 
 ## Privacy
 
