@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytopdozen.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606205135id_/http%3A//www.mytopdozen.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopdozen.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006024030id_/http%3A//mytopdozen.com/privacy.php) for the most accurate reproduction.*
 
 # MyTopDozen
 
