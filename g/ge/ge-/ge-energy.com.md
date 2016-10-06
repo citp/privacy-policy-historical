@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ge-energy.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529112559id_/http%3A//www.ge-energy.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge-energy.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007005609id_/https%3A//www.gepower.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY ("PRIVACY POLICY" OR "POLICY") CAREFULLY BEFORE USING ANY WEBSITE ON WHICH IT IS POSTED ("SITE(S)"). BY USING ONE OR MORE OF THESE SITES, YOU AGREE TO BE BOUND BY THIS POLICY, AS SUPPLEMENTED OR MODIFIED BY ANY “SUPPLEMENTAL PRIVACY POLICY” OR SITE-SPECIFIC PRIVACY TERMS THAT ARE POSTED ON A PARTICULAR SITE OR ARE SPECIFICALLY AGREED TO IN A SEPARATE DOCUMENT BY THE SITE OPERATOR
 
