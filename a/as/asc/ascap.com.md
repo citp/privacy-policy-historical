@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234822id_/http%3A//www.ascap.com/about/legal-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006211118id_/http%3A//www.ascap.com/about/legal-terms/privacy-policy) for the most accurate reproduction.*
 
 # ASCAP Privacy Policy
 
-Last Updated June 25th, 2014
+Last Updated July 12th, 2016
 
 **TABLE OF CONTENTS**
 
@@ -51,9 +51,9 @@ This Privacy Policy governs only the information we collect (a) from you and (b)
 
 We generally collect two types of information from and about you: 
 
-  * **Personal Information** : Personally identifiable information that we collect on or in connection with the Services that would allow someone to identify or contact you, such as your full name, address, e-mail address or telephone number. 
+  * **Personal Information** : Personally identifiable information that we collect on or in connection with the Services that would allow someone to identify or contact you, such as your full name, address, e-mail address or telephone number (" _Personal Information_ "). 
 
-  * **Non-Personal Information:** All other information that we collect on or in connection with the Services other than Personal Information, which does not personally identify you (Personal Information and Non-Personal Information is collectively referred to herein as " _Information_ "). 
+  * **Non-Personal Information:** All other information that we collect on or in connection with the Services other than Personal Information, which does not personally identify you (" _Non-Personal Information_ " and together with Personal Information, collectively referred to herein as " _Information_ ").
 
 
 
@@ -63,6 +63,8 @@ And we collect such Information in multiple ways, as follows:
   * **When you provide it to us or when you give us permission to obtain it,** which may include, without limitation, the following types of Information: 
 
     * _Registration Information_ : Information you submit to register for the Services, including, without limitation, in order to create your User Account. Such Information may include, without limitation, name, email address, gender, zip code, legal address, date of birth, _etc_. 
+
+    * _Work-Based Information_ : Information you submit when accessing or using certain Services regarding musical works you author, publish or administer, including, without limitation, work title, authorship, ownership, share or administration information.
 
     * _Fee-Based Services Information_ : If you engage in any Fee-Based Services or other transaction offered on or in connection with the Services, we may require certain Information, for example, your full name, physical address, telephone number(s), applicable payment data ( _e.g_., credit card number, expiration date, _etc_.), your date of birth and address. 
 
@@ -84,7 +86,7 @@ And we collect such Information in multiple ways, as follows:
 
     * _Other Non-Personal Information_ : Other Non-Personal Information related to your use of the Services, including usage, traffic data and other communication data and resources that you access when you interact with the Services. 
 
-The Information we collect automatically is Non-Personal Information. It helps us to improve our Services and deliver a better and more personalized user experience by enabling us, among other things, to store information about your preferences, customize our Services according to your individual interests, speed up your searches and recognize you when you return to the Services.
+The Information we collect automatically is Non-Personal Information. It helps us to improve our Services and deliver a better and more personalized user experience by enabling us, among other things, to store information about your preferences, customize our Services according to your individual interests, speed up your searches and recognize you when you return to the Services (e.g., storing your login details so that you don't have to re-enter such information each time you access the Services).
 
 The technologies we use for this automatic data collection may include:
 
@@ -92,7 +94,7 @@ The technologies we use for this automatic data collection may include:
 
     * _Flash Cookies_ : Certain features of the Services may use local stored objects (or Flash cookies) to collect and store Information about your preferences and navigation to, from and on the Services. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
 
-    * _Web Beacons_ : Pages of the Services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit ASCAP, for example, to count users who have visited those pages and/or for other related statistics ( _e.g_., recording the popularity of certain content and verifying system and server integrity, _etc_.).
+    * _Web Beacons_ : Pages of the Services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit ASCAP, for example, to count Users who have visited those pages and/or for other related statistics ( _e.g_., recording the popularity of certain content and verifying system and server integrity, _etc_.).
 
     * _Local Storage_ : Local storage is an industry standard method we may use to store and retrieve Information on a User’s computer and/or Device ( _e.g_., caching, HTML5, _etc_.) in a web browser. Your web browser may offer settings for you to control local storage options. Please see Section 6 below for more details. 
 
@@ -124,6 +126,8 @@ We use the Information we collect to provide the Services (and all features of t
   * **To share with business partners:** ASCAP may share your Information with business partners to permit them to send you marketing communications consistent with your choices and preferences. 
 
   * **To disclose certain Information in User Content intended for disclosure:** The Services may provide you and other Users with an opportunity to participate in viewing communities and other message, comment and communication features on the Services, including, without limitation, in connection with Third Party Services, and may provide you with the opportunity to submit, post, publish and otherwise make available User Content to other Users of the Services or to the public. Certain Personal Information associated with the User Content, for example, your name or photograph, may be intended for disclosure. We will disclose any such Personal Information in connection with the display of, and other services relating to, such User Content. By submitting User Content on the Services, you affirmatively consent to the distribution of your Personal Information in the context of that User Content and have no expectation of privacy or confidentiality in connection therewith. You acknowledge that once submitted, posted, published and/or otherwise made available, User Content may be distributed outside the Services by users with access to such User Content and information, and that the Services do not completely control who views or distributes same. You may not be able to “undo” or “delete” any User Content. Accordingly, you should not submit, post, publish or otherwise make available any User Content you wish to remain private or confidential or which may contain any sensitive information. Please see the [**Terms of Use Agreement**](https://web.archive.org/about/legal-terms/terms-of-use.aspx) for more information regarding User Content and the terms and conditions associated therewith.
+
+  * **To provide certain information via the ACE Database:** When Users access and search the ACE Database, ASCAP may share and disclose certain Information you submit and we collect from you regarding musical works you author, publish or administer, including, without limitation, title, authorship, ownership, share and/or administration information.
 
   * **To protect the rights of ASCAP and others:** ASCAP may disclose your Information where ASCAP has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of ASCAP and our affiliates and their respective employees, agents and contractors (including enforcement of our agreements and our Terms of Use Agreement), (ii) protect the safety, privacy and security of Users of the Services or members of the public, (iii) protect against fraud or for risk management purposes, (iv) comply with the law or legal process, and/or (v) respond to requests from public and government authorities. 
 
