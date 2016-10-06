@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictoday.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318151124id_/http%3A//www.shop.musictoday.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictoday.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006030954id_/http%3A//store.musictoday.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Musictoday Privacy Policy
 
