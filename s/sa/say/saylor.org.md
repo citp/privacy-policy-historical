@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607165449id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007000953id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Saylor Academy
 
@@ -8,7 +8,7 @@ The Constitution Foundation d/b/a the Saylor Academy and the Saylor Foundation (
 
 We at the Foundation respect your privacy and value the relationship we have with you. This Privacy Policy is designed to show you what information we collect when you visit and interact with our website http://www.saylor.org and our various sub-domains, such as http://school.saylor.org (the “Sites”). As noted below, your use of third party websites, such as Facebook, that we may link to or that allow you to sign in to the Sites is subject to the third party sites’ privacy and use policies, which we strongly recommend you review before you start using them in connection with the Sites. We do not control and are not responsible for how any third party, such as Facebook and Google, processes your information. This Privacy Policy should be read in conjunction with our Terms of Use, which govern your use of the Sites, including a prohibition against anyone under 13 years of age from using the Sites.
 
-Information We Collect About You  
+**Information We Collect About You**  
 The Foundation provides you with the ability to view and share educational content, create and view communications among users, and share your completed course and related information to users and third parties. In order to facilitate these processes, the Foundation may collect the following information from you when you use the Sites:
 
 (1) Personally identifiable information, which is information that specifically identifies you. The personally identifiable information we collect includes your name, email address, age range, employment status, affiliations, and country of residence. For example, when you sign up for updates from the Foundation, we collect your email address, first name, and last name; when you create an account to participate in our Forums, we collect your first name, last name, and your country of residence. We may also collect your name and email address if you submit information to us. Certain information, including your age range, employment status, affiliations, and your reasons for using the Sites, will only be collected if you choose to provide it to us. Additionally, when you use Facebook to access and interact with the Sites, we may collect Facebook information you have made visible to “Everyone” on Facebook as well as the information Facebook designates as your publicly available information. Finally, we may collect certain information from you when you make a donation, including your first name, last name, e-mail address, billing information, telephone number and mailing address.
@@ -21,7 +21,7 @@ The Foundation provides you with the ability to view and share educational conte
 
 The above list provides an example of the information that we may collect through the Sites. From time to time, we may collect information from you in other ways that are not described above. If you do not want us to collect information from you, please do not use our Sites.
 
-How We Use Your User Information  
+**How We Use Your User Information**  
 The Foundation will use your User Information primarily for the following purposes:  
 • to deliver services, such as educational programs, information, or newsletters, including to help us make decisions about courses to offer, or to guide decisions for entering into strategic partnerships;  
 • to alert you to special offers, updated information and other new services or to forward promotional materials;  
@@ -38,7 +38,7 @@ The Foundation will use your User Information primarily for the following purpos
 
 We will not sell your personally identifiable User Information to anyone. You may choose to not receive communications from us about new features or promotions by opting out of such communications.
 
-How We Share Your User Information  
+**How We Share Your User Information**  
 In general, it is not the Foundation’s practice to disclose personally identifiable information to third parties. However, we may share your User Information in the following cases:  
 • With Your Consent: We may share your User Information with other third parties with your consent.  
 • To Fulfill a Service to You: If you choose to use the educational content on our Sites, we may share your personally identifiable information in order to provide the content and related services to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion, including by sharing the information with promotion co-sponsors, for prize fulfillment purposes, or with mail carriers.  
@@ -52,25 +52,27 @@ In general, it is not the Foundation’s practice to disclose personally identif
 
 Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or disclose your personally identifiable information to any third parties. Please note, however, that we do not control and are not responsible for third party sites used to access our Sites, such as Facebook, or their use of content and information they collect.
 
-Children  
+**Children**  
 The Sites are not designed or intended for children under the age of 13. We do not collect personally identifiable information from any person we actually know is under the age of 13. In the event we learn that such information has been provided through the Sites, we will delete or destroy it.
 
-Accessing Your User Information  
+**Accessing Your User Information**  
 We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit, modify, or delete your personally identifiable information, please contact us by email at contact@saylor.org or telephone at 202-333-4005. You also may write to us at the address posted below.
 
-Opt-Out  
-We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.  
+**Opt-Out**  
+We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
+
 However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the “unsubscribe” link within the text of the email.
 
-Forums, Chat Rooms, Blogs, and Other Public Posting Areas  
+**Forums, Chat Rooms, Blogs, and Other Public Posting Areas**  
 Please note that any information you include in a message you post to any chat room, forum, blog, or other public posting area is available to anyone with Internet access. If you don’t want people to know your e-mail address, for example, don’t include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS, BLOGS, AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS, BLOGS, AND OTHER PUBLIC POSTING AREAS.
 
-Online Tracking  
+**Online Tracking**  
 Please note that our Sites do not support “Do Not Track” browser settings and do not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your personal or non-personally identifiable information.
 
-Third Party Advertisers  
-We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which web pages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please click here. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.  
-Assignment  
+**Third Party Advertisers**  
+We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which web pages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please click here. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+
+**Assignment**  
 In the event that all or part of our assets are sold or acquired by another party, or in the event of any other type of corporate reorganization, you grant us the right to assign the information we have collected about you through the Sites.  
 Security
 
@@ -78,19 +80,19 @@ The Foundation considers the confidentiality and security of your information to
 
 If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
 
-Updates to This Privacy Policy  
+**Updates to This Privacy Policy**  
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information processing practices or for any other purpose. We will post a notice to attempt to notify you of any significant changes to the Privacy Policy. However, to ensure you are aware of all updates please check back here to see if the “Effective Date” below has been changed since your last visit. If so, that will indicate an update to the Policy and you should immediately read the Policy again.
 
-International Transfer of Information  
+**International Transfer of Information**  
 If you choose to provide us with personally identifiable information, the Foundation may transfer that information to affiliates, partners, or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:  
 • the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and  
 • the transfer of your personally identifiable information to the United States as indicated above.
 
-YOUR CALIFORNIA PRIVACY RIGHTS  
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
 California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personally identifiable information to third parties for their direct marketing purposes.
 
-How to Contact Us  
-If you have any questions or comments about this Privacy Policy, please contact us by email atcontact@saylor.org or telephone at 202-333-4005. You also may write to us at:
+**How to Contact Us**  
+If you have any questions or comments about this Privacy Policy, please contact us by email at contact@saylor.org or telephone at 202-333-4005. You also may write to us at:
 
 The Saylor Foundation  
 1875 Connecticut Ave NW  
@@ -99,4 +101,4 @@ Washington, DC 20009
 
 Questions or comments submitted through other means, such as social media posts, may not be received or addressed.
 
-This Privacy Policy is Effective as of August 22, 2014.
+**This Privacy Policy is Effective as of August 22, 2014.**
