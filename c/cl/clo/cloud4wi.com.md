@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud4wi.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603154451id_/http%3A//cloud4wi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud4wi.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006100017id_/http%3A//cloud4wi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud4Wi
 
@@ -245,7 +245,7 @@ Notice to European Users: This Policy has been prepared in fulfillment of the ob
 If you have any questions or comments about this Policy, please contact Cloud4Wi using the following contact information:
 
 Cloud4Wi Inc.  
-22 Cleveland Street  
+363 Clementina Street  
 San Francisco, 94103, California  
 United States of America  
 [privacy@cloud4wi.com](mailto:privacy@cloud4wi.com)
