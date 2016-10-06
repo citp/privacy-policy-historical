@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashbar.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606213145id_/http%3A//www.nashbar.com/bikes/StaticFooterContentDisplayView%3FstoreId%3D10053%26catalogId%3D10052%26langId%3D-1%26fContentName%3DNBSecurityInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashbar.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006101753id_/http%3A//www.nashbar.com/bikes/StaticFooterContentDisplayView%3FstoreId%3D10053%26catalogId%3D10052%26langId%3D-1%26fContentName%3DNBSecurityInfo) for the most accurate reproduction.*
 
 # Nashbar - NBSecurityInfo
 
