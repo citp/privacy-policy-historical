@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solididea.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513061911id_/http%3A//www.solididea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solididea.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006141038id_/http%3A//www.solididea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
