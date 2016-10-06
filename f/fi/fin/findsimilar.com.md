@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the findsimilar.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623053727id_/http%3A//www.findsimilar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsimilar.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007010414id_/http%3A//www.findsimilar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FindSimilar.com
 
 This agreement was last revised on June 22, 2014
 
-Generally FindSimilar.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy.
+Generally FindSimilar.com("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy.
 
-FindSimilar.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. This service is provided by FindSimilar.com which is owned by Web Monsters Ltd. ("Web Monsters Ltd"). For FindSimilar.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+FindSimilar.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. This service is provided by FindSimilar.com which is owned by Web Monsters Ltd ("Web Monsters Ltd"). For FindSimilar.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 ## What does this Privacy Policy cover?
 
@@ -40,11 +40,11 @@ Finally, from time to time, but only with your permission, we may provide your P
 
 We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
 
-We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and [contact us](https://web.archive.org/contact).
+We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and [contact us](http://www.findsimilar.com/contact).
 
 ## How can I access or correct any personally identifying information about me?
 
-To request a copy of any PII you have sent to us, please send an email containing your request through this link contact us. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
+To request a copy of any PII you have sent to us, please send an email containing your request through this link [contact us](http://www.findsimilar.com/contact). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
 
 ## How can I learn about changes to this privacy policy?
 
@@ -52,4 +52,4 @@ We may update this Privacy Policy from time to time. When we do, we will post th
 
 ## Contact Information
 
-If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us by visiting our [Contact Us](https://web.archive.org/contact) page.
+If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us by visiting our [Contact Us](http://www.findsimilar.com/contact) page.
