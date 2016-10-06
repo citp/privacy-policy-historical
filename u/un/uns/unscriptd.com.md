@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unscriptd.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606132935id_/http%3A//www.unscriptd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unscriptd.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006122505id_/http%3A//www.unscriptd.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Unscriptd
 
