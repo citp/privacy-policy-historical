@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollybeetells.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605131318id_/http%3A//www.hollybeetells.com/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollybeetells.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006041049id_/http%3A//www.hollybeetells.com/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure Policy & Privacy Policy - Hollybee Tells
 
