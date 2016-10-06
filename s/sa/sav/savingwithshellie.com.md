@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingwithshellie.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607165048id_/http%3A//www.savingwithshellie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingwithshellie.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006235648id_/http%3A//www.savingwithshellie.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Saving with Shellie™
 
