@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walmart.ca privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628133434id_/http%3A//www.walmart.ca/en/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.ca privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006200111id_/http%3A//www.walmart.ca/en/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Walmart.ca Help Centre: Privacy Policy | Legal
 
