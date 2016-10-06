@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comfibook.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606180945id_/http%3A//comfibook.com/page/c_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfibook.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007015604id_/http%3A//comfibook.com/page/c_privacy) for the most accurate reproduction.*
 
 # 
 
