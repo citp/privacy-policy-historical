@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312001934id_/http%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006131454id_/http%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | translink.com.au
 
@@ -35,7 +35,7 @@ We will not use your email address other than for the purpose for which you prov
 
 Email correspondence sent to this website will be treated as a public record and will be retained in line with relevant legislation.
 
-If you have received an email from TransLink Division and no longer wish to receive updates from us, you can [unsubscribe](http://www.vision6.com.au/em/forms/unsubscribe.php?db=371457&s=86612&a=31401&k=273ad92) from our e-News.
+If you have received an email from TransLink Division and no longer wish to receive updates from us, you can [unsubscribe](http://www.vision6.com.au/em/forms/unsubscribe.php?db=371457&s=86612&a=31401&k=273ad92) from our e-News.
 
 Email messages may be monitored by our web team for system troubleshooting and maintenance purposes.
 
@@ -112,7 +112,7 @@ We will protect the personal information we hold against loss, unauthorised acce
 
 ## Cookies
 
-The TransLink website uses cookies for the [journey planner](http://jp.translink.com.au/). A 'cookie’ is a piece of information or small file that a website sends to your browser when you access information at that site. No attempt is—or will be—made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs.
+The TransLink website uses cookies for the [journey planner](http://jp.translink.com.au/). A 'cookie' is a piece of information or small file that a website sends to your browser when you access information at that site. No attempt is—or will be—made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs.
 
 ## External links
 
@@ -128,18 +128,12 @@ GPO Box 1549
 Brisbane  
 Queensland 4001
 
-Email: [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)
+Email: [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)
 
 Phone: 3066 7108
 
 Fax: 3066 7101
 
-National Relay Service
+[National Relay Service](http://relayservice.gov.au/making-a-call/)
 
-  * TTY (teletypewriter): 13 36 77
-  * Speak and Listen (speech-to-speech relay): 1300 555 727
-  * Internet relay: connect to the [National Relay Service](http://www.iprelay.com.au/call/index.aspx)
-
-
-
-For general enquiries, call TransLink on 13 12 30.
+For general enquiries, [call TransLink on 13 12 30](https://web.archive.org/contact-us).
