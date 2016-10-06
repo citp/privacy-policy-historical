@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attackmagazine.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617215159id_/https%3A//www.attackmagazine.com/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attackmagazine.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006180712id_/http%3A//www.attackmagazine.com/about/%23privacy) for the most accurate reproduction.*
 
 # About us - Attack Magazine
 
