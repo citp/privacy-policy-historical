@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506043338id_/http%3A//www.starnow.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006033154id_/http%3A//www.starnow.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StarNow
 
@@ -6,7 +6,7 @@
 
 StarNow (owned and operated by StarNow Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access.
 
-You agree that StarNow may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow products and services to you, and for any other use that you authorise.
+You agree that StarNow may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow products and services to you, and for any other use that you authorize.
 
 You agree that StarNow.com may use your images, profile text and/or media files for the promotion of the website. You also agree when you choose to make your profile public or include your photo in the Talent Directory that StarNow.com will publish your personal information and photos, and allow other members to contact you.
 
@@ -20,7 +20,7 @@ A cookie is a piece of information that is stored on your computer’s hard driv
 
 If you visit StarNow with your browser settings adjusted to accept cookies, we understand that you want to use our products and services. However, you can disable cookies at any time.
 
-Find out more about our [cookie policy](https://web.archive.org/help/CookiePolicy) and learn how to [adjust your cookie settings](http://www.aboutcookies.org/default.aspx?page=1).
+Find out more about our [cookie policy](https://web.archive.org/help/cookies/) and learn how to [adjust your cookie settings](http://www.aboutcookies.org/default.aspx?page=1).
 
 ### Third Party Services
 
