@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001020id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006025334id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security – Lollapalooza
 
