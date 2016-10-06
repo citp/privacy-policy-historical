@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rncdn3.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404061402id_/http%3A//www.rncdn3.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rncdn3.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006053000id_/http%3A//www.rncdn3.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Reflected Networks, Inc. Privacy Policy
+Reflected Networks, LLC. Privacy Policy
 
-This Customer Privacy Policy of Reflected Networks, Inc. covers the collection, use, and disclosure of personal information that may be collected by Reflected any time you interact with Reflected, such as when you visit Reflected’s web site, when you purchase Reflected’s products and services, or when you call or e-mail Reflected’s sales or support staff. Please take a moment to carefully read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Reflected, and we go to great lengths to protect it.
+This Customer Privacy Policy of Reflected Networks, LLC. covers the collection, use, and disclosure of personal information that may be collected by Reflected any time you interact with Reflected, such as when you visit Reflected’s web site, when you purchase Reflected’s products and services, or when you call or e-mail Reflected’s sales or support staff. Please take a moment to carefully read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Reflected, and we go to great lengths to protect it.
 
 1\. Reasons Reflected Collects Personal Information
 
