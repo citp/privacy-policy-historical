@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607024209id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmonsfirst.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007000807id_/http%3A//www.simmonsfirst.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
