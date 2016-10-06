@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentlemenchoice.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606131149id_/http%3A//www.gentlemenchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentlemenchoice.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006152745id_/http%3A//www.gentlemenchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # GentlemenChoice – Privacy Policy
 
