@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailybuzz.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172708id_/http%3A//www.dailybuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybuzz.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006102702id_/http%3A//www.dailybuzz.com/privacy) for the most accurate reproduction.*
 
 # DailyBuzz - The Best of the Independent Web
 
