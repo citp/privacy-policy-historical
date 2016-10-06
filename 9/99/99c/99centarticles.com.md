@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99centarticles.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607070011id_/http%3A//www.99centarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99centarticles.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006231834id_/http%3A//www.99centarticles.com/privacy.php) for the most accurate reproduction.*
 
 # 99centarticles.com - Privacy Policy</p>
 
