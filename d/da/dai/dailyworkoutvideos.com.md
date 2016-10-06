@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyworkoutvideos.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606211053id_/http%3A//dailyworkoutvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyworkoutvideos.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007004409id_/http%3A//dailyworkoutvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyWorkoutVideos
 
