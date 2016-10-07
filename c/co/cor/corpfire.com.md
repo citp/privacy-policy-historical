@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corpfire.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606101147id_/http%3A//corpfire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpfire.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007201320id_/http%3A//corpfire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CorpFire
 
