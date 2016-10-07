@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407232127id_/https%3A//mbs.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007233108id_/https%3A//mbs.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - MBS
 
@@ -6,7 +6,7 @@ Melbourne Business School Limited (80 007 268 233) ( **MBS** ) acknowledges and 
 
 You are not obligated to provide your Information to us, however, if you do not provide us with the Information we require, or where Information provided is inaccurate or irrelevant, we may not be able to engage with you or may be limited in our ability to engage with you and provide you access to our services.
 
-We reserve the right to make changes or updates to this policy from time to time. Should we do so, we will update the policy on our Websites accordingly.  Consequently, please check our websites regularly to stay informed of any updates.Your continued engagement with MBS, including your use of the MBS Websites (e.g. mbs.edu or mteliza.mbs.edu), or the provision of further information to us after this policy has been revised, constitutes your acceptance of the revised policy and you consent to us collecting, holding, using, disclosing and managing your Information in the way described in this Privacy Policy or permitted under the Privacy Act.
+We reserve the right to make changes or updates to this policy from time to time. Should we do so, we will update the policy on our Websites accordingly.  Consequently, please check our websites regularly to stay informed of any updates.Your continued engagement with MBS, including your use of the MBS Websites (e.g. mbs.edu), or the provision of further information to us after this policy has been revised, constitutes your acceptance of the revised policy and you consent to us collecting, holding, using, disclosing and managing your Information in the way described in this Privacy Policy or permitted under the Privacy Act.
 
 If you do not agree with the practices described in this Privacy Policy, please do not provide us with your Information or interact with our Website.
 
