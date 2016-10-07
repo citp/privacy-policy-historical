@@ -1,24 +1,27 @@
-> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430220956id_/http%3A//www.nintex.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007201637id_/http%3A//www.nintex.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintex
 
-December 19, 2013
+**This Privacy Policy applies to[www.nintex.com](https://web.archive.org/ "www.nintex.com") and [community.nintex.com](https://community.nintex.com/ "community.nintex.com") owned and operated by Nintex Global Ltd. and its affiliates.**
 
-We view your personal privacy as an important issue, and are committed to respecting and protecting your personal information. This online Privacy Policy is provided to inform you of the kinds of personal information that Nintex gathers; and how it is held, used and managed. As this online Privacy Policy forms part of the terms of use of the nintex.com website ("Site"), we encourage you to periodically check for updates.
+May 27, 2016
 
-[](https://privacy.truste.com/privacy-seal/Nintex-Pty-Ltd/validation?rid=040392bc-22a3-4b4b-9141-d700ab4ccc04 "Truste certified")
+Nintex Global Ltd. and its affiliates (“Nintex”, alternatively “we”, “us” and “our”) are committed to respecting and protecting your personal information. This online Privacy Policy is provided to advise you of the personal information Nintex may gather and how this information is held, used and managed. This Privacy Policy applies to the Nintex.com website (the “Site”), the Nintex Community website, the   
+Nintex Mobile Application, and the Nintex Workflow Platform (collectively, the “Services”). As this online Privacy Policy forms part of the terms of use of the Services, nintex.com website ("Site"), the Nintex Community, located at community.nintex.com, the Nintex Mobile Application, and the Nintex Workflow platform, we encourage you to periodically check for updates.
 
-Nintex has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program-requirements "TRUSTe's Program Requirements") and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirement") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Questions%20Regarding%20Privacy%20Policy). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe").
+[](https://privacy.truste.com/privacy-seal/Nintex-Pty-Ltd/validation?rid=040392bc-22a3-4b4b-9141-d700ab4ccc04)
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our website www.nintex.com and our service Nintex Live. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Nintex. The TRUSTe certification does not cover the Nintex downloadable software.
+Nintex has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe programs viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Questions%20Regarding%20Privacy%20Policy "Questions or complaints regarding our Privacy Policy or practices"). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe").
 
-**We Self-Certify Compliance with:**
+The TRUSTe certification covers our collection, use and disclosure of information we collect through our website www.nintex.com and our Services and does not cover information collected through our mobile application. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Nintex. The TRUSTe certification does not cover any Nintex downloadable software. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Nintex.
 
-[](https://safeharbor.export.gov/list.aspx "Safe Harbor")
+### We Self-Certify Compliance With:
 
-Nintex complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Nintex has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nintex’s certification, please visit <http://export.gov/safeharbor/>.
+[](https://safeharbor.export.gov/list.aspx)
 
-###  Information Obtained by Nintex
+Nintex complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Nintex adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nintex’s certification, please visit [Safe Harbor](https://export.gov/safeharbor/ "Safe Harbor").
+
+### Information Obtained by Nintex
 
 **Personal information you provide:** We store the personal information you enter on the Nintex website or give to Nintex in other ways. We currently obtain personal information through:
 
@@ -37,43 +40,41 @@ Nintex complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss 
   * identify you when you sign-into your Nintex Connect account;
   * send you information you have requested, such as our newsletters and alerts;
   * carry out statistical analysis of the Nintex website and the people visiting, in order to improve the website and our services; and
-  * contact you directly, or via one of our distribution partners, following the supply of personal information. If you wish to stop all Nintex correspondence please contact [inquiries@nintex.com](mailto:inquiries@nintex.com)
+  * contact you directly, or via one of our distribution partners, following the supply of personal information. If you wish to stop all Nintex correspondence please contact [inquiries@nintex.com](mailto:inquiries@nintex.com "Stop all Nintex correspondence")
 
 
 
-**Automatic collection - Cookies:** We may place a feature on your browser called a cookie to assign your computer a user ID. Cookies are pieces of information that include a unique reference code that an internet site transfers to your device to store and sometimes track information about you. Cookies do not contain information by which Nintex can identify you personally. They identify your computer to our servers. A website cannot use a cookie to read other data from your hard disk or read cookie files created by other websites.
+**Device Information:** When you download and use our Services, Nintex automatically collects information on the type of device you use and your operating system version.
 
-The Nintex website uses cookies for the following reasons:
+**Geo-Location** : Nintex does not ask for, access, or track any location-based information from your mobile device at any time while downloading or using our Mobile Apps or Services.
 
-  * **Necessary session management** – to manage your session on the Nintex website so that you can move easily from one page to another within the website and that your page requests are loaded in a smooth, consistent and secure manner.
-  * **Performance** – to track user traffic patterns using statistical information generated from how visitors use the Nintex website and to better serve you when you revisit the Nintex website.
-  * **Functionality** – to authenticate your sign-in to those parts of the website that are for registered users, to enable you to submit forms or other information through the website or initiate downloads of content and otherwise store any preferences or selections you set through the website.
+### Automatic Collection – Cookies and Other Tracking Technologies
 
+In common with most other websites, Nintex and its affiliates, analytics partners, marketing partners, or service providers use cookies and similar technologies to analyze trends and to manage your session on the Nintex website and Nintex Connect.
 
+Tracking technologies are used to make your visits easier in several ways: necessary session management; performance enhancement; and functionality. Cookies and other similar technologies help manage your session so that you can move easily from one page to another, so that your page requests are loaded in a smooth, consistent, and secure manner, and to track user traffic patterns using statistics from users’ visits to the Nintex website. These technologies also make your next visit easier by authenticating sign-ins to the parts of the site that are for registered users, to enable you to submit forms or other information through the website, to initiate downloads of content, and otherwise store any preferences or selections you set through the website. Finally, these technologies make the site more useful. This remembered information helps us understand how people use the website and gives us explicit information about the technologies that we use and your choices when it comes to these technologies. As true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to any other information we collect about you.
 
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+Cookies are small text files that are placed in visitors’ computer browsers to store their preferences. To learn more about cookies, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/ "Learn more about cookies"), which includes additional useful information and how to block cookies using different types of browser. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. Please note, however, that by blocking or deleting cookies used on the Nintex website, certain features of the website may not function correctly and you may not be able to take full advantage of the website.
 
-In addition to cookies we may use Pixel Gifs/web beacons, images and scripts which work with cookies. These may be used by us or third parties in respect of your use of the Nintex website or within the body of our newsletters so we or third parties can understand which parts of the Site are visited or whether particular content is of interest.
+Our site contains links to other websites, including those of our partners, whose information practices may be different from ours. Visitors should consult those other third party websites’ privacy notices, since those websites are not covered by this Privacy Policy and may follow different procedures. From time to time, we also partner with third parties who may place cookies on your browser when you visit our website, may send their own cookies to your cookie file, and may use those cookies to provide targeted advertising based on your interests and previous browsing history. If you wish to not have this information used for the purpose of serving you interest-based ads, you may [opt-out here](https://preferences-mgr.truste.com/ "Opt-out") (or if located in the European Union, [click here](https://www.youronlinechoices.eu/ "Opt-out \(stop all Nintex correspondence\)")). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-[Detailed descriptions of all the cookies used on our websites, including third party cookies](https://web.archive.org/company/legal "Detailed descriptions of all the cookies used on our websites").
+We use Local Shared Objects such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
-You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Learn more about cookies") which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on the Nintex website, certain features of the website may not function correctly and you may not be able to take full advantage of the website.
+The information above has been provided to give clear and comprehensive information about Nintex’s use of cookies and similar technologies. If you choose to use the Services without blocking or disabling cookies or opting out of these technologies, you will indicate your consent to our use (in accordance with this Privacy Policy) of any personal information that we collect using these technologies. If you do not consent to the use of these technologies, please be sure to block or disable them using your browser settings, the opt-out links above, or the settings on your mobile device.
 
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personal information about your activities on this and other websites to provide you targets advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt-out here](http://preferences-mgr.truste.com/ "Opt-out"). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+### Mobile Analytics
 
-###  Information Collected Through the Nintex Live Product
+Nintex uses mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and from where the application was downloaded. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-Nintex collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal information it processes. Nintex works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.
+### Information Collected Through Nintex Live and the Workflow Platform
 
-We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
+Nintex collects information under the direction of its Users and has no direct relationship with the individuals whose personal information it processes. Nintex works with its Users to help them provide notice to their customers concerning, the purpose for which personal information is collected. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Nintex’s User (the data controller). If the User requests Nintex to remove the data, we will respond to their request within 30 days. If you are a customer of one of our Users and would no longer like to be contacted by that User, please contact them directly.
 
-Nintex may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+Nintex may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Users. Nintex will retain personal data we process on behalf of our User for as long as needed to provide services to our Client. Nintex will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Nintex has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Nintex’s Client (the data controller). If the Client requests Nintex to remove the data, we will respond to their request within 30 days.
+### Information Sharing
 
-Nintex will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Nintex will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Information Sharing:** We may disclose aggregate statistics about visitors to the Site in order to describe our services to prospective partners, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personal information.
+We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personal information to third parties. We may disclose aggregate statistics about visitors to the Site in order to describe our services to prospective partners, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personal information.
 
 We may also disclose your personal information:
 
@@ -85,132 +86,72 @@ We may also disclose your personal information:
 
 
 
-We use service providers to provide certain services in support of the Site. These service providers may need to have access to your information in order to provide their services.
+We use service providers, including a customer relationship management software provider, marketing automation provider, social community software provider, gamification service provider, and website analytics provider, to provide certain services in support of the Site. These service providers may need to have access to your information in order to provide their services.
 
 Certain services identified on this site are offered by business partners. If you wish to take up those services you will need to share your information with them in order to receive these services. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-###  Message Boards, Blogs, and Other Public Forums
+### Public Forums
 
-We may make message boards, blogs and other such user generated content facilities available to users of the website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our website becomes public information and you should always be careful when deciding to disclose your personal information. To request removal of your personal information from our blog or community forum, contact us at [support@nintex.com](mailto:support@nintex.com?subject=Remove%20Personal%20Info%20From%20Community). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-###  Social Media Features
+### Social Media Features
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
-###  Tell-A-Friend
+### Tell-A-Friend
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Nintex stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Remove%20Tell-A-Friend%20Info) to request that we remove this information from our database.
+Your friend may contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Remove%20Tell-A-Friend%20Info "Remove information from our database") to request that we remove this information from our database.
 
-###  Choice/Opt-Out
+### Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Unsubscribe%20From%20Newsletter%20and%20Marketing%20Emails).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Unsubscribe%20From%20Newsletter%20and%20Marketing%20Emails "Stop receiving our newsletter or marketing emails").
 
-###  Testimonials
+### Testimonials
 
-With your consent we may post your testimonial along with your name.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name.
 
-###  Access to Personally Identifiable Information
+### Access to Personally Identifiable Information
 
-If your personal information changes, or if you no longer desire our service, you may update, amend, ask to have it removed from a public forum or testimonial on our site or deactivate it by emailing our Customer Support at [support@nintex.com](mailto:support@nintex.com?subject=Update%20Personal%20Info) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may update, amend, ask to have it removed from a public forum or testimonial on our site or deactivate it by emailing our Customer Support at [support@nintex.com](mailto:support@nintex.com?subject=Update%20Personal%20Info "Email Customer Support") or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
-###  Data Retention
+You have control of your privacy at all times, you may indicate who is able to see your information by logging into your account and updating your Privacy settings within the “Privacy” settings tab of your profile. You may revoke access to some or all of your information at any time.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Data%20Retention:%20Cancel%20Account). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Once you have created an account you may upload a photo of yourself. Please note that this photo may be viewable by other users of the site. You may, at any time, remove your photo by logging into your account and deleting it.
 
-###  Links to Other Sites
+### Data Retention
 
-You may access third party websites and services through this website. These websites are not subject to Nintex’s Privacy Policy. You should review the privacy policy of each individual website you access via hyperlinks from this web site, and assess whether the policy of each website is satisfactory to you before you use that website.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Data%20Retention:%20Cancel%20Account "Data Retention: Cancel Account"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-###  Data Storage and International Transfers
+### Links to Other Sites
+
+You may access third party websites and services through this website. If you submit personal information to any of those sites, your information is governed by their privacy policies. These websites are not subject to Nintex’s Privacy Policy. You should review the Privacy Policy of each individual website you access via hyperlinks from this web site, and assess whether the policy of each website is satisfactory to you before you use that website.
+
+### Data Storage and International Transfers
 
 Information that you submit via the Site is held on servers in the USA and Australia. This information may be transferred to other countries, for example to other of our Nintex offices or where one of our service providers or partners is located in another country. If we transfer your information in this way, we will take steps to ensure that your privacy rights continue to be protected.
 
-###  Security
+### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as accessing our platforms), we encrypt the transmission of that information using secure socket layer technology (SSL).
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Security "Security").
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Security%20Questions "Contact Us For Questions About Security").
+### Updating This Privacy Policy
 
-###  Updating This Privacy Policy
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-###  Resolving Privacy Issues
+### Resolving Privacy Issues
 
 Should you have any concerns regarding the Nintex Privacy Policy or you wish to access or update your information or raise any issues with Nintex, please [contact us](https://web.archive.org/company/contact-us "Contact Us For Privacy Policy Questions") and we will do our best to resolve your issue.
 
-### Nintex Offices
+**Download the Nintex Privacy Policy:**
 
-* * *
+    * [Chinese (Traditional)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de/nintex-privacy-policy-zhtw.ashx?la=en "Download the Nintex Privacy Policy \(Chinese - Traditional\)")
+    * [Dutch (The Netherlands)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de/nintex-privacy-policy-nl.ashx?la=en "Download the Nintex Privacy Policy \(Dutch - The Netherlands\)")
+    * [French (France)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de/nintex-privacy-policy-fr.ashx?la=en "Download the Nintex Privacy Policy \(French - France\)")
+    * [German (Germany)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de.ashx?la=en "Download the Nintex Privacy Policy \(German - Germany\)")
+    * [Japanese (Japan)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de/nintex-privacy-policy-jajp.ashx?la=en "Download the Nintex Privacy Policy \(Japanese - Japan\)")
+    * [Portuguese (Brazilian)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de/nintex-privacy-policy-ptbr.ashx?la=en "Download the Nintex Privacy Policy \(Portuguese - Brazilian\)")
+    * [Spanish (Latin American)](https://web.archive.org/-/media/corporate/sections/company/legal/nintex-privacy-policy-de/nintex-privacy-policy-esla.ashx?la=en "Download the Nintex Privacy Policy \(Spanish - Latin American\)")
 
-#### Americas Offices
 
-**Nintex Corporate/HQ**  
-10800 NE 8th Street, Suite 400  
-Bellevue, WA 98004  
-**Phone** : +1 (425) 324 2400  
-**Fax** : +1 (425) 458 0105
-
-**Drawloop  
-**_**Now Part of Nintex**_  
-1 Post, Suite 175  
-Irvine, California 92618  
-**Phone** : +1 (949) 242-0455, option 1  
-**Toll Free** : +1 (877) 462-LOOP (5667), option 1
-
-#### Europe, Middle East and Africa Office
-
-Nintex UK Ltd  
-Ground Floor  
-138 Fetter Lane  
-London, EC4A 1BT  
-United Kingdom  
-**Phone** : +44 (0) 20 3693 0200  
-**Fax** : +44 (0) 20 3002 5613
-
-#### Middle East Office
-
-Nintex Middle East FZ-LLC  
-Dubai Internet City, Building 16  
-Ground Floor, Office 09  
-Dubai, United Arab Emirates
-
-#### Asia Pacific Office
-
-Nintex Pty Ltd  
-Level 15, 595 Collins Street  
-Melbourne 3000  
-Victoria, Australia  
-**Phone** : +61 3 9912 1800  
-**Fax** : +61 3 9912 1812
-
-#### Hong Kong Office
-
-28/F., AIA Central, No. 1 Connaught Road  
-Central, Hong Kong  
-**Phone** : +852 2824 8468
-
-#### Japan Office
-
-Nintex Japan K.K.  
-4/F Shinagawa East One Tower  
-2-16-1 Konan, Minato-ku, Tokyo 108-0075  
-Japan  
-**Phone** : +81 3 6890 8247
-
-#### Malaysia Office
-
-Suite 8-3  
-Level 8, Menara Cimb  
-Jalan Stesen Sentral 2  
-KL Sentral  
-Kuala Lumpur 50470  
-Malaysia
-
-#### Singapore Office
-
-Level 17-01, 12 Marina Boulevard  
-Marina Bay Financial Centre Tower 3  
-Singapore 01982
