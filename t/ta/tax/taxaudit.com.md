@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607234604id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007172935id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Guarantee | TaxAudit.com
 
