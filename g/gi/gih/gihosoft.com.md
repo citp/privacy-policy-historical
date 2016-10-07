@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gihosoft.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427234950id_/http%3A//www.gihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gihosoft.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007204228id_/https%3A//www.gihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Gihosoft Privacy Policy - Gihosoft Studio
 
@@ -26,7 +26,7 @@ We do not sell, trade, or rent users personal identification information to any 
 
 ## About Cookies
 
-Gihosoft.com uses cookies on our website to collect information about website traffic. A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. The cookies is only used to track page popularity, traffic flows and etc to enhance the user experience of our website. You may choose to refuse cookies in web browser.
+Gihosoft.com uses cookies on our website to collect information about website traffic. A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. The cookies is only used to track page popularity, traffic flows and etc to enhance the user experience of our website. You may choose to refuse cookies in web browser.
 
 ## Changes to This Policy
 
@@ -34,4 +34,4 @@ Gihosoft has the discretion to change this privacy policy any time without notif
 
 ## Contact Gihosoft
 
-If you have any question about this privacy statement, or queries about our software, or suggestions about us, please contact us at: support#gihosoft.com ( please replace " # " with " @ " ).
+If you have any question about this privacy statement, or queries about our software, or suggestions about us, please contact us at: support#gihosoft.com ( please replace ” # ” with ” @ ” ).
