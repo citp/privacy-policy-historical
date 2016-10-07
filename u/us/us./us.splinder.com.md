@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us.splinder.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510043206id_/http%3A//us.peeplo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us.splinder.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008000421id_/http%3A//us.peeplo.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Articles and posts about privacy from the best blogs
 
