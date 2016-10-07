@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebi.ac.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623162501id_/http%3A//www.ebi.ac.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebi.ac.uk privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007175317id_/http%3A//www.ebi.ac.uk/about/privacy) for the most accurate reproduction.*
 
-# EBI Privacy statement < About us < EMBL-EBI
+# EBI Privacy statement | European Bioinformatics Institute
 
 ## What information does EBI collect about you?
 
