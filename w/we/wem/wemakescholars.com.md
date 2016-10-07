@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wemakescholars.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515005405id_/http%3A//www.wemakescholars.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemakescholars.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007042051id_/http%3A//www.wemakescholars.com/privacy-policy) for the most accurate reproduction.*
 
-# Best Scholarship and Internship Opportunities available globally | WMS
+# Privacy Policy|WeMakeScholars
 
 We recognize that your privacy is very important and will take it seriously. Hence, we strive to provide a safe, secure user experience. This Privacy Policy describes WeMakeScholars.com’s policies and procedures on the collection, use and disclosure of your information. The terms "we", "us", "our", and "WeMakeScholars" refer to WeMakeScholars Inc., incorporated in India. The terms “Site”, “this website” refers to “wemakescholars.com”.
 
@@ -20,7 +20,7 @@ If you apply to become a mentor, then you may have to submit your scanned degree
 
 In addition we may indirectly collect information about you when you use certain third party services on this website. We also gather or may gather certain information about your use of our Site, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is or may be collected by us. This information can include without limitation your IP address, device type, unique device identifier, browser type, domain names, numbers of pages viewed, length of time spent, date and time and referring or exit websites. We may also capture other data, such as search criteria and results. We also use log files to build pictures of how our Site is used that help us to monitor and improve the service. We cannot identify you from your log files. As we adopt additional technology, we may also gather additional information through other methods.
 
-Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this Site. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites.
+Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this Site. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser\'s help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites.
 
 You also provide us information in the form of user content you post to the Service. Your posts, comments, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name and basic information. This information may be searched by search engines and be republished elsewhere on the Web. You own complete right on the information you post on this website. But WeMakeScholars has the rights to use this content for promotional or other related purposes.
 
@@ -28,7 +28,7 @@ If you correspond with us by email, we may retain the content of your email mess
 
 Please remember that if you post any of your personal information in public areas of Wemakescholars, such as in discussion boards, such information may be collected and used by others over whom Wemakescholars has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of this website.
 
-If you choose to use our “Invite” option to invite a friend to the Service, we may ask you for that person's email address and automatically send an email invitation. If you use your Facebook or g+ to invite friends, we will ask for your permission to collect certain information from your SNS account such as contacts, friends, followers and we may also collect and store your SNS user ID. We use this information to send invitations, to register your friend if your invitation is accepted, to track the success of our invitation service, and to identify your friends on WeMakeScholars.com.
+If you choose to use our “Invite” option to invite a friend to the Service, we may ask you for that person\'s email address and automatically send an email invitation. If you use your Facebook or g+ to invite friends, we will ask for your permission to collect certain information from your SNS account such as contacts, friends, followers and we may also collect and store your SNS user ID. We use this information to send invitations, to register your friend if your invitation is accepted, to track the success of our invitation service, and to identify your friends on WeMakeScholars.com.
 
 _Access to and correction of personal information_
 
@@ -38,7 +38,7 @@ Users and Mentors can access and alter their personal profiles at any time throu
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, mobile number and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
 
-We may share or disclose your information with your consent in conditions such as if you book tickets for an event through this website. We cannot control third parties' use of your information.
+We may share or disclose your information with your consent in conditions such as if you book tickets for an event through this website. We cannot control third parties\' use of your information.
 
 We may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property.
 
@@ -52,7 +52,7 @@ We may allow third-party ad servers or ad networks to serve advertisements on th
 
 #### Transactional information
 
-Any information related to the transaction you do through this website such as your card details, bank details or other secret information, are not saved by WeMakeScholars as you fill all the payment related information on your bank's site. We accept Visa and Master Credit Card, Debit Cards and Net banking as mode of payments which are processed through our payment gateway partner Avenues (India) Pvt Ltd.
+Any information related to the transaction you do through this website such as your card details, bank details or other secret information, are not saved by WeMakeScholars as you fill all the payment related information on your bank\'s site. We accept Visa and Master Credit Card, Debit Cards and Net banking as mode of payments which are processed through our payment gateway partner Avenues (India) Pvt Ltd.
 
 #### Children
 
@@ -68,7 +68,7 @@ Wemakescholars follows a double opt-in policy where after submitting your email 
 
 #### Opt-out policy
 
-Every newsletter and promotional communication from Wemakescholars contains an 'edit email preferences' link that you can click to change what do you want to receive from us on your email.
+Every newsletter and promotional communication from Wemakescholars contains an \'edit email preferences\' link that you can click to change what do you want to receive from us on your email.
 
 #### Links to other websites
 
