@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enrollbusiness.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314192451id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enrollbusiness.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007183918id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - EnrollBusiness
 
