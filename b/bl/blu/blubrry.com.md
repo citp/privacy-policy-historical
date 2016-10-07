@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608181524id_/http%3A//create.blubrry.com/resources/about-blubrry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007091505id_/http%3A//create.blubrry.com/resources/about-blubrry/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blubrry - Podcast Hosting, Statistics, Syndication Tools and Directory
+# Privacy Policy - Blubrry Podcasting - Podcast Hosting, Statistics, WordPress Hosting, Syndication Tools and Directory
 
 RawVoice (parent company of Blubrry) is committed to protecting your privacy. We use the limited amount of information collected about you to enable the functionality of the Websites. These functions include letting you log in, setting up an account, purchase content, accessing your content and/or statistics and keeping you notified of news and changes to the Websites and Services. The Company may use personally identifiable information about you to improve our service, to statistically analyze site usage, to improve our content and product offerings and to customize our site’s content and layout. We believe these uses allow us to improve our site and better tailor it to meet our users’ needs.
 
