@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberrynews.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328023430id_/http%3A//lifeonmymobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberrynews.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007193900id_/http%3A//lifeonmymobile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Life On My Mobile
 
