@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurgroup.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529145213id_/https%3A//www.blurgroup.com/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurgroup.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007020133id_/https%3A//www.blurgroup.com/cookies) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | blur Group
 
