@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604011654id_/https%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007080600id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
 
 # Broker free Apartments, shared accommodation, pg, houses for rent. NoBroker helps in renting apartment without broker
 
@@ -30,83 +30,21 @@ or
 
 _* we remember our promise of no posts on your wall_
 
+##### One step sign-up to get owner details
+
+Or use your email
+
+is linked with the number . 
+
+Do you want to update your number to ?
+
+Phone number successfully updated
+
 Negotiate rent
 
 Schedule a visit
 
 Custom Message
-
-Basic Free
-
-New Property Alerts
-
-Weekly
-
-Personalised Recommendations
-
-Basic Free
-
-New Property Alerts
-
-Weekly
-
-Date of Purchase
-
-11/3/2015
-
-Freedom 999
-
-New Property Alerts
-
-Daily
-
-Personalised Recommendations
-
-Freedom 999
-
-New Property Alerts
-
-Daily
-
-Online Rental Agreement
-
-25% OFF
-
-Personalised Recommendations
-
-Date of Purchase
-
-11/3/2015
-
-Relax 1999
-
-Most Popular 
-
-New Property Alerts
-
-Instant
-
-Personalised Recommendations
-
-Relax 1999
-
-New Property Alerts
-
-Instant
-
-Online Rental Agreement
-
-50% OFF
-
-Personalised Recommendations
-
-Date of Purchase
-
-11/3/2015
-
-Personal Manager
-
-For assistance call us at : +91-70-223-223-71 .*All Plans are Valid for 3 months period, terms and conditions apply
 
 Basic Free
 
@@ -160,9 +98,9 @@ New Property Alerts
 
 Instant
 
-Online Rental Agreement
+Online Rental Agreement Excluding Govt. Charges
 
-25% OFF
+FREE
 
 Personalised Recommendations
 
@@ -174,68 +112,7 @@ Date of Purchase
 
 You have successfully subscribed to our rental Plan. Enjoy the Benefits. 
 
-For assistance call us at : +91-70-223-223-71 . *All Plans are Valid for 3 months period, terms and conditions apply
-
-Relax
-
-Most Popular 
-
-  * Contacts owners and schedules appointments
-
-  * Negotiates rent on your behalf
-
-  * Provides city level expertise
-
-  * Organises online rental agreement
-
-
-
-
-New Property Alerts
-
-Instant
-
-Personalised Recommendations
-
-Relax 1999
-
-New Property Alerts
-
-Instant
-
-Personalised Recommendations
-
-Date of Purchase
-
-11/3/2015
-
-Personal Manager
-
-Freedom
-
-New Property Alerts
-
-Daily
-
-Personalised Recommendations
-
-Freedom 999
-
-New Property Alerts
-
-Daily
-
-Personalised Recommendations
-
-Date of Purchase
-
-11/3/2015
-
-For assistance call us at : +91-70-223-223-71 .*All Plans are Valid for 3 months period
-
-### Ashish Jain (Bangalore)
-
-I used NoBroker relax plan for my house search in Bangalore, and for the first time in my house hunt I was not worried about calling or meeting the owner. Pushpak , my relationship manager was really helpful and knows Bangalore quite well. Helped me find a place near my kids school and wife's office. I think with relax plan NoBroker has removed the discomfort out of house search. Will surely recommend this plan to my friends. 
+For assistance call us at : +91 92417-00000 . *All Plans are Valid for 3 months period, terms and conditions apply
 
 Click below to post your property for rent
 
