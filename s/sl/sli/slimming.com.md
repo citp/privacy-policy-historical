@@ -1,64 +1,43 @@
-> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430071749id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007124937id_/http%3A//www.slimming.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy Policy | Slimming.com
+# Privacy & Security
 
-Slimming.com Ltd. has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online.
+When you place an order, we will require your name, home address, telephone number, credit / debit card number and card expiry date. Without this information we will not be able to process your request or notify you of your order acceptance. 
 
-### Consent for Collection, Use and Disclosure
+A contact telephone number is also required so that we can contact you in the event that there is a problem with your order. We may, unless you advise us otherwise, pass this contact number to our couriers or other agents in case they need to contact you to arrange the processing or delivery. 
 
-1\. Your use of the Slimming.com Ltd. site and/or your registration for Slimming.com Ltd. products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Slimming.com Ltd. site. A customer may withdraw his or her consent for collection, use and disclosure at any time by sending an email to unsubscribe@slimming.com. Please note that, if you do, Slimming.com Ltd. may suspend its provision of products and services to you. 
+Security Of Your Information
 
-### Accountability
+Our website uses the latest in secure server software to protect your information whenever you place an order or access your account information. This software encrypts all information you input before it is transferred, to minimise the risk of the data being intercepted before it is received by our systems. 
 
-2\. Slimming.com Ltd. collects, at the time of your registration and your sign-on to its web site, certain personal information (information that personally identifies you) including but not limited to your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses).
+We also follow a tight security procedure as required under UK Data Protection Legislation (the Data Protection Act 1998) to protect the information that we store about you from unauthorised access. We may wish to pass your details to trusted third-parties that we believe may be of interest to you. If you would prefer not to enjoy this service then please contact us to inform us of your preference. 
 
-### Purposes for collecting personal information
+Internal Confidentiality Within Slimming.com
 
-3\. Slimming.com Ltd. collects and uses personal information for the following Identified Purposes:   
-3(a). to understand customer needs regarding Slimming.com Ltd.' services;   
-3(b). to develop and provide our web site and our products and services for our customers;   
-3(c). to fulfill your requests for products, services or information;   
-3(d). to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from Slimming.com Ltd., its partners and third parties;   
-3(e). to comply with any applicable law, regulation, legal process or government request;   
-3(f). to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the Slimming.com Ltd. site or any Slimming.com Ltd. product or service;   
-3(g). to protect the services, products or rights of Slimming.com Ltd., including but not limited to the security or integrity of the Slimming.com Ltd. site; and   
-3(h). to identify and resolve technical problems concerning Slimming.com Ltd.' site, products and services. 
+At Slimming.com we will protect your privacy in 3 ways:
 
-3.1. Slimming.com Ltd. also uses personal information in an aggregate form (i.e., not individually attributable to you) for its business analysis, operational, marketing and other promotional purposes. If we hire other companies to provide some products or services on our behalf, then we will only provide those companies the personal information they need for the Identified Purposes, and we will limit their rights to use and further disclose your personal information as appropriate in the course of their work for us.
+  * Access to customer account information is limited to those who need access for the performance of their job
+  * We use full login and password controls on our sales control system.
+  * Confidentiality and database access controls are reviewed periodically and updated as required to further protect your personal data.
 
-### Limiting the collection of personal information
 
-4\. Slimming.com Ltd. limits its collection of personal information to only that information which is necessary for the Identified Purposes. Slimming.com Ltd. does not direct its site to, nor does it knowingly collect any personal information from children under the age of thirteen.
 
-### Disclosure, processing and retention
+If, for any reason, you are unsure about the personal / account information we are holding in your name, please contact us. We will happily review your file and update the records if required. You can contact us by email or by phone. Alternatively, this information can be checked and reviewed on line once you have signed in. 
 
-5\. Slimming.com Ltd. does not sell, rent or disclose your personal information to anyone else, except:   
-5(a). to someone you have designated to act as your agent, for one or more of the Identified Purposes (listed in Section 2, above);   
-5(b). to Slimming.com Ltd.' employees, independent contractors, subsidiaries, consultants, business associates, service providers, suppliers and agents, acting on Slimming.com Ltd.'s behalf for any of the Identified Purposes;   
-5(c). as necessary if Slimming.com Ltd. has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with Slimming.com Ltd.' rights or property, other users of Slimming.com Ltd.' web site, products or services, or anyone else that could be harmed by such activities; and   
-5(d). to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. 
+Our cookies do not contain any personal information about you and are used only to determine your browser and user preferences for our site. We believe that this can greatly assist us in providing you with the service that you desire and to enhance your browsing experience. However, if you prefer, your browser software should enable you not to accept cookies. You should still be able to use our site without cookies enabled.
 
-5.1. In addition, as we continue to develop our business, we may sell or buy other businesses or entities, or we may merge with another company. In such transactions, personal information may be one of the transferred business assets. Also, in the event that Slimming.com Ltd. or substantially all of its assets are acquired, your personal information may be one of the transferred assets. Your information may be stored and processed in the U.K., or in any other country in which Slimming.com Ltd. or its subsidiaries or agents maintain facilities. By using this web site, you consent to any such transfer of information outside of your country. After your account becomes inactive (that is, if you request to be removed from our database), Slimming.com Ltd. will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove Slimming.com Ltd.' compliance with any applicable law.
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) for a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
 
-### Accuracy of personal information
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. A list of all the cookies used on this website by category is set out below.
 
-6\. Slimming.com Ltd. will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing Slimming.com Ltd. about changes to their personal information. You can do this by calling UK: 01159 34 99 34 & US: +4401159 34 99 34. Slimming.com Ltd. will use new or updated personal information it receives from customers to update its own records.
+**Performance Cookies:** These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. By using our website, you agree that we can place these types of cookies on your device. A list of all the cookies used on this website by category is set out below.
 
-### Security
+**Targeting Cookies:** These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. By using our website, you agree that we can place these types of cookies on your device. If you want to stop the use of targeting cookies, [please visit this page on Google](https://www.google.com/settings/ads/onweb).
 
-7\. Slimming.com Ltd. will use reasonable efforts to protect customers' personal information. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input on Slimming.com wherever you see the secure padlock symbol.
+Your use of this website signifies your consent to the collection, processing and use of personal information by us for the purpose of administering and dealing with your order or account, market research, processing your payments, credit reference checking and fraud detection, and for marketing purposes as outlined above.
 
-### Access to personal information
+Any changes to our privacy policy will be posted on this website to ensure that you are fully informed of your rights and can notify us of any changes to your preferences. Credit Card Security * please can this be centralised, bigger font size with lines either side – similar to the carousel titles on the homepage – please can the links below link to the external sites*
 
-8\. Slimming.com Ltd. will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling UK: 01159 34 99 34 & US: +44 1159 34 99 34 or writing to 
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not store your credit card numbers when you place an order, nor do we allow you to store this number in your account. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. We use PGP software to encrypt your details as they are transferred to our database. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to log off when you finish using a shared computer.
 
-Slimming.com Ltd.   
-11 Castle Quay   
-Castle Boulevard   
-Nottingham   
-NG7 1FW   
-England
-
-If Slimming.com Ltd. is not able to provide access to some aspect of a customer's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney-client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
-
-Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting Slimming.com Ltd. as described above. Slimming.com Ltd. will promptly correct such personal information.
+Please note that Slimming.com may at times contain links to other sites and occasionally allows other sites to be co-branded with us. Web sites that are linked to us may have privacy policies which differ from that of Slimming.com. 
