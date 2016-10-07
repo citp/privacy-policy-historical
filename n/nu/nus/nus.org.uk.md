@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091402id_/http%3A//www.nus.org.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007123101id_/http%3A//www.nus.org.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: www.nus.org.uk
 
