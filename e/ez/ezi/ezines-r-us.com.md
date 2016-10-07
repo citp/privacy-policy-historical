@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezines-r-us.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521082332id_/http%3A//ezines-r-us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezines-r-us.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007203502id_/http%3A//ezines-r-us.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Ezines-R-Us.com
 
