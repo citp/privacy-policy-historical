@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606061124id_/http%3A//sixpackshortcuts.com/desktop/ihfl/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007020912id_/http%3A//sixpackshortcuts.com/desktop/ihfl/main/privacypolicy) for the most accurate reproduction.*
 
 # INSANE HOME FAT LOSS
 
