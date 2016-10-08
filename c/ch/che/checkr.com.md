@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkr.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221221211id_/https%3A//checkr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkr.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008025326id_/https%3A//checkr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Checkr
 
