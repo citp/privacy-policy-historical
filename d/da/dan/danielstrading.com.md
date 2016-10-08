@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320072200id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008193212id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
