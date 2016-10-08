@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623190804id_/https%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008044009id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Praetorian Digital
 
 San Francisco, CA 94111
 
-Toll Free: 866/402-4371
+Toll Free: 888-765-4231 ext 8328
 
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy applies to [www.FireRescue1.com](http://www.firerescue1.com/) (“FireRescue1”) sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
