@@ -1,481 +1,590 @@
-<!--The following is the downloaded HTML source of the dotcloud.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316150722id_/https%3A//www.dotcloud.com/privacy.html) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html lang="en"><head>
-        
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="dotCloud is the application Platform which enables developers to deploy, manage and scale their applications. It supports all languages including PHP, Python, Ruby, Java, Nodejs, Perl and any other through custom services.">
-        <meta name="keywords" content="cloud,platform,paas,reliability,scaling,python,ruby,php,java,nodejs,perl,mongodb,mysql,redis,postgresql">
-        <title>dotCloud - Privacy</title>
-
-        <link rel="shortcut icon" href="/static/img/favicon.ico">
-        <link rel="stylesheet" href="/static/css_2012/bootstrap.css" type="text/css">
-        <link rel="stylesheet" href="/static/css_2012/page_style_bootstrap1.css" type="text/css">
-		<link rel="stylesheet" href="/static/css_2012/font-awesome.css" type="text/css">
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/js_2012/libs/jquery.js"></script>
-        <script type="text/javascript" src="/static/js_2012/libs/jquery.cookie.js"></script>
-		<script type="text/javascript" src="/static/js_2012/libs/widgets/jquery.easing.1.3.js"></script>
-		<script type="text/javascript" src="/static/js_2012/libs/widgets/jquery.bxSlider.min.js"></script>
-        <script type="text/javascript" src="/static/js_2012/email_form.js"></script>
-		<script type="text/javascript" src="/static/js_2012/widgets.js"></script>
-		<script type="text/javascript" src="/static/js_2012/libs/bootstrap/bootstrap.js"></script>
-		<script type="text/javascript" src="/static/js_2012/libs/bootstrap/bootstrap-transition.js"></script>
-        <script type="text/javascript" src="/static/js_2012/glue.js"></script>
-    </head>
-
-    <body>
-		<div class="modal hide" id="myModal">
-		    <div class="modal-header">
-			    <button type="button" class="close" data-dismiss="modal">×</button>
-			    <h3>Start deploying your applications</h3>
-				<p>Build your ideal application stack by combining powerful cloud services.</p>
-		    </div>
-		    <div class="modal-body">
-			<form action="/accounts/register2/" method="post" class="register">
-		         <div id="register_account">
-		             <input type="hidden" name="csrfmiddlewaretoken">
-		         </div>
-		         <div class="span1">
-					<label> Email: </label>
-				</div>
-				<div class="span4">
-			        <input type="text" placeholder="Your email address" value="" maxlength="75" class="email" name="email"><br>
-			         <button type="submit" value="Try it now" class=" btn btn-success btn-large">Sign up</button>
-		         </div>
-		     </form>
-		    </div>
-		</div>
-		
-		<div class="modal hide" id="Login">
-			<div class="modal-header">
-			    <button type="button" class="close" data-dismiss="modal">×</button>
-			    <h3>Login</h3>
-		    </div>
-			<div class="modal-body">
-				<form method="POST" action="/accounts/login/?next=/dashboard">
-				    <div style="display:none">
-				        <input type="hidden" name="csrfmiddlewaretoken">
-				    </div>
-				      <table>
-				          <tbody><tr>
-				          <th><label for="id_username">Username or Email:</label></th>
-				          <td><input id="id_username" type="text" name="username" maxlength="75"></td>
-				          </tr>
-				          <tr>
-				          <th><label for="id_password">Password:</label></th>
-				          <td><input type="password" name="password" id="id_password"></td>
-				          </tr>
-				      </tbody></table>
-					<button class="btn btn-primary" type="submit" id="submit">Log in </button>
-				      &nbsp;&nbsp;<a id="forgot" href="passwordreset.html">Forgot password?</a>
-			    </form>
-			</div>
-		</div>
-
-        <div class="container">
-            <div class="top-right-nav">
-                <ul class="secondary-nav">
-			<li class="loggedout"><a data-toggle="modal" href="#Login"> Log in </a></li>
-                    <li>
-                        <a href="http://blog.dotcloud.com" target="_blank">
-                            Blog
-                        </a>
-                    </li>
-                    <li>
-                        <a href="http://docs.dotcloud.com" target="_blank">
-                            Docs
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/help.html" target="_blank" rel="tooltip" data-placement="bottom" data-original-title="up">
-                                <span class="status up"></span>
-                            Status &amp; Help
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <div id="logo" class="">
-                    <a href="/index.html"><img src="/static/img/logo.png" alt="dotCloud Logo"></a>
-                </div>
-                <div class="pull-right">
-                    <span class="loggedout">
-                        <a href="https://next.dotcloud.com/sign-up" class="btn btn-success btn-primary">Sign up</a>
-            	    </span>
-            	    <span class="loggedout">
-                        <a href="#Login" data-toggle="modal" class="btn btn-primary">Log in</a>
-                    </span>
-                    <span class="dropdown">
-                	    <a href="#" class="btn btn-primary loggedin dropdown-toggle" data-toggle="dropdown" style="display: none;">
-                	        Dashboard<b class="caret"></b>
-                	    </a>
-                	    <ul id="padlock" class="dropdown-menu">
-                            <li>
-                                <a class="loggedin" href="https://dashboard.dotcloud.com" style="display: none;">Dashboard</a>
-                                <a class="loggedin" href="/settings/" style="display: none;">Settings</a>
-                                <a class="loggedin" href="/accounts/logout?next=/" style="display: none;">Sign out</a>
-                            </li>
-                        </ul>
-                    </span>
-
-                </div>
-                <div class="nav-bar-main">
-                    <ul id="navigation-bar">
-                        <li class="nav-item"><a href="/index.html"><i class="icon-home"></i></a></li>
-                        <li class="nav-item"><a href="/howitworks.html">How it works</a></li>
-                        <li class="nav-item"><a href="/whosusingit.html">Who's using it</a></li>
-                        <li class="nav-item"><a href="/pricing.html">Pricing</a></li>
-                        <li class="nav-item"><a href="/about.html">About</a></li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="span12 ">
-                    <div class="page-header">
-                    <h1>Privacy</h1>
-                    </div>
-                </div>
-            </div>
-            <!-- put in sub-nav styling in ul or li? -->
-	   
-            <div class="row sub-nav" style="visibility:hidden;">
-                <div class="span12">
-                    <ul>
-			<li><a href="/about.html">About</a></li>
-                    </ul>
-                </div>
-            </div>
-	    
-            <div class="row">
-                <div class="span12">
-
-<link rel="stylesheet" href="/static/css/content_style.css" type="text/css">
-<div class="row description">
-  <div class="span12">
-<p>
-    &nbsp;</p>
-<p>
-    <strong>dotCloud Privacy Policy </strong></p>
-
-<p>
-This Privacy Policy is effective August 1, 2014.
-</p>
-
-<p>
-cloudControl, Inc. (“dotCloud” or the “Company”) is committed to protecting the privacy of your information. We provide this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our website (the “Website”) collected via the Website, email, SMS, telephone, WAP or other means. This Privacy Policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly for any changes.  By using or accessing the Website, you are accepting the practices described in this Privacy Policy, and  you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
-</p>
-
-<p>
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy [at] dotCloud [dot] com.
-</p>
-
-
-<p>
-1. Website Covered 
-</p>
-
-<p>
-This Privacy Policy covers the information practices of http://www.dotCloud.com.
-</p>
-
-
-<p>
-2. Information Collected 
-</p>
-
-<p>
-dotCloud offers a variety of services that are collectively referred to as the “Services.” dotCloud collects information from individuals who visit the Company’s Website (“Visitors”) and individuals who register to use the Services (“Customers”).
-</p>
-
-<p>
-When expressing an interest in obtaining additional information about the Services or registering to use the Services, dotCloud may require you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, dotCloud may require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). dotCloud may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About dotCloud Customers.”
-</p>
-
-<p>
-As you navigate the Company’s Website, dotCloud may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Website Navigational Information”). Website Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Website (such as the Web pages viewed and the links clicked).
-</p>
-
-<p>
-By choosing to provide any information to dotCloud, you are giving the Company permission to use and store such information consistent with this privacy policy.  
-</p>
-
-<p>
-The Company also collects and uses personal data regarding its employees (“Employee Data”), which may include: name, address, job title and other job information, location, compensation information, identification number, employment history, and copy of employment agreement.
-</p>
-
-
-<p>
-3. Use of Information Collected 
-</p>
-
-<p>
-The Company uses Data About dotCloud Customers to perform the services requested. The Company may also use Data About dotCloud Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
-</p>
-
-<p>
-dotCloud uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
-</p>
-
-<p>
-dotCloud uses Website Navigational Information to operate and improve the Company’s Website. The Company may also use Website Navigational Information alone or in combination with Data About dotCloud Customers to provide personalized information about the Company.
-</p>
-
-<p>
-Employee Data is only used for the for the purposes of facilitating the performance of certain administrative tasks and functions relating to general employment and for processing and investigating reports under the Company’s codes and policies ( “Employee Data Purposes”).
-</p>
-
-
-<p>
-4. Website Navigational Information 
-</p>
-
-<p>
-dotCloud may use commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Website (“Website Navigational Information”). This section describes the types of Website Navigational Information that may be collected on the Company’s Website and how this information may be used.
-</p>
-
-<p>
-4.1 Cookies - dotCloud may use cookies to make interactions with the Company’s Website easy and meaningful. When you visit the Company’s Website, dotCloud’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to dotCloud, either by responding to a promotional offer, opening an account, or filling out a Web form, you remain anonymous to the Company. dotCloud uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
-</p>
-
-<p>
-If you have chosen to identify yourself to dotCloud, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests. Session cookies are required to use the Services.
-</p>
-
-<p>
-dotCloud may use persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Website. When you purchase the Services or provide the Company with personal information, a unique identifier is assigned to you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies.  You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Website, but you will not be able to successfully use the Services.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
-</p>
-
-<p>
-dotCloud may use information from session and persistent cookies in combination with Data About dotCloud Customers to provide you with information about the Company and the Services.
-</p>
-
-<p>
-4.2 Web Beacons - dotCloud may use Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Website and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Website tied to the Web beacon, and a description of a Website tied to the Web beacon. For example, dotCloud may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Website. dotCloud uses Web beacons to operate and improve the Company’s Website and email communications.
-</p>
-
-<p>
-dotCloud may use information from Web beacons in combination with Data About dotCloud Customers to provide you with information about the Company and the Services.
-</p>
-
-<p>
-4.3 Flash Cookies - dotCloud may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom the Company partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
-</p>
-
-<p>
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies.
-</p>
-
-<p>
-4.4 IP Addresses - When you visit dotCloud’s Website, the Company may collect your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, dotCloud may uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Website.
-</p>
-
-<p>
-4.5 Third Party Cookies - From time-to-time, dotCloud may engage third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Website. dotCloud may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
-</p>
-
-<p>
-dotCloud may also contract with third-party advertising networks that collect IP addresses and other Website Navigational Information on the Company’s Website and emails and on third-party Websites. Ad networks follow your online activities over time by collecting Website Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Websites. This process also helps us manage and track the effectiveness of our marketing efforts.
-</p>
-
-
-<p>
-5. Public Forums, Refer a Friend, and Customer Testimonials 
-</p>
-
-<p>
-dotCloud may provide bulletin boards, blogs, or chat rooms on the Company’s Website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. dotCloud is not responsible for the personal information you choose to submit in these forums.
-</p>
-
-<p>
-Customers and Visitors may elect to use the Company’s referral program to inform friends about the Company’s Website. When using the referral program, the Company requests the friend’s name and email address. dotCloud will automatically send the friend a one-time email inviting him or her to visit the Company’s Website. dotCloud does not store this information.
-</p>
-
-<p>
-dotCloud may post a list of Customers and testimonials on the Company’s Website that contain information such as Customer names and titles. dotCloud obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
-</p>
-
-
-<p>
-6. Sharing of Information Collected 
-</p>
-
-<p>
-dotCloud may share Data About dotCloud Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. dotCloud may also share Data About dotCloud Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this Privacy Policy, dotCloud does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
-</p>
-
-<p>
-From time to time, dotCloud may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from dotCloud, the Company may share Data About dotCloud Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s), once dotCloud has notified you of the information to be shared and obtained your consent to the sharing of the information. dotCloud does not control our business partners’ use of the Data About dotCloud Customers we collect, and their use of the information will be in accordance with their own privacy policies
-</p>
-
-<p>
-dotCloud may use third-party service providers to manage credit card processing. Such service providers will not be permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
-</p>
-
-<p>
-dotCloud reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
-</p>
-
-<p>
-Employee Data is only disclosed to third parties for the Employee Data Purposes. In no case does the Company disclose to third parties Employee Data for any incompatible purpose without first notifying the data subject and providing the data subject with an opportunity to affirmatively opt-out or object to such use or disclosure.
-</p>
-
-
-<p>
-7. Users from outside the United States
-</p>
-
-<p>
-dotCloud and its Services are based in the U.S., and the Company’s offices are headquartered in the U.S.  Please be aware that information you provide to dotCloud that it obtains as a result of your use of the Services may be processed and transferred to the U.S. and be subject to U.S. law. This information may also be processed by staff working for the Company or for one of its suppliers in the U.S.   The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence.  By using the Website, participating in any of the Services, or by providing dotCloud with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S. dotCloud will take all steps reasonably necessary to ensure that you data is treated securely in accordance with this privacy policy.
-</p>
-
-
-<p>
-8. Communications Preferences; Opt Out Policy 
-</p>
-
-<p>
-dotCloud offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to privacy [at] dotCloud [dot] com. If, at any time after registering, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. Please contact us as specified herein.
-</p>
-
-
-<p>
-9. Correcting and Updating Your Information 
-</p>
-
-<p>
-Customers may view, update or change their registration information by logging in to their accounts at http://www.dotCloud.com. Requests to access, change, or delete your information will be handled within 30 days.
-</p>
-
-
-<p>
-10. Security 
-</p>
-
-<p>
-dotCloud uses appropriate administrative, technical, and physical security measures to protect Data About dotCloud Customers.  However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your personal information despite our efforts. You should note that in using the Website and our related services, your information will travel through third party infrastructures which are not under our control.
-</p>
-
-<p>
-We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.
-</p>
-
-
-<p>
-11. Change of Control 
-</p>
-
-<p>
-As dotCloud develops its business, it may buy or sell assets or business offerings. Data About dotCloud Customers is generally one of the transferred business assets in these types of transactions. dotCloud may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
-</p>
-
-
-<p>
-12. US-EU and US-Swiss Safe Harbor Framework 
-</p>
-
-<p>
-dotCloud complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  dotCloud has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view dotCloud's certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/ </a>. 
-</p>
-
-<p>
-In compliance with the Safe Harbor Principles, dotCloud commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should contact dotCloud at: dotCloud Privacy, 530 Lytton Ave, 2nd Fl., Palo Alto, CA 94301.
-</p>
-
-<p>
-dotCloud will review all audit requests submitted in writing or through email for the purpose of determining whether or not its procedures and protocols being used are consistent with the US-EU Safe Harbor Framework.  It is dotCloud’s policy to routinely monitor and check its compliance procedures and protocols. Should the Company determine inconsistency with any such procedures or protocol, dotCloud will take necessary steps to address and correct the inconsistency.  If dotCloud is unable to resolve the conflict with the individual or customer/client filing the complaint, it will mediate such said conflict in front of a panel of the American Arbitration Association.  dotCloud will self certify with the Department of Commerce for the purpose of renewing its Safe Harbor Privacy Policy on an annual basis and confirming its continued commitment to the protection and privacy of personal data.
-</p>
-
-
-<p>
-13. Contacting Us 
-</p>
-
-<p>
-Questions regarding this Privacy Policy or the information practices of the Website should be directed to privacy [at] dotCloud [dot] com or by mailing dotCloud Privacy, 530 Lytton Ave, 2nd Fl., Palo Alto, CA 94301.
-</p>
-</div>
-</div>
-
-                </div>
-            </div>
-        </div>
-        <br>
-        <div class="last-ditch">
-            <div class="container">
-                <div class="row">
-                    <div class="span12">
-                            <table class="center">
-                                <tbody><tr>
-                                    <td class="span4"><h5>Put your application live in minutes.</h5>Starting at $4.32/month</td>
-                                    <td class="span2">
-                                        <a href="https://next.dotcloud.com/sign-up" type="button" class="btn btn-success btn-large btn-primary">Sign up</a>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <footer>
-			<div class="container">
-				<div class="row">
-					<div class="span2">
-						<h5>Get in touch</h5>
-						<a href="https://github.com/dotcloud" target="_blank"><i class="icon-github"></i> GitHub</a><br>
-						<a href="http://twitter.com/dot_cloud" target="_blank"><i class="icon-twitter"></i> Twitter</a><br>
-		                <a href="http://www.facebook.com/pages/DotCloud/185237391502737" target="_blank"><i class="icon-facebook"></i>  Facebook</a> <br>
-		                <a href="http://blog.dotcloud.com/" target="_blank"><i class="icon-rss"></i>  Blog</a><br>
-		                <a href="mailto:support@dotcloud.com"><i class="icon-envelope-alt"></i> Email</a><br>
-					</div>
-					<div class="span2">
-						<h5>Product</h5>
-						<ul class="unstyled">	
-							<li><a href="/index.html">Home</a></li>
-							<li><a href="/howitworks.html">How it works</a></li>
-							<li><a href="/whosusingit.html">Who's using it</a></li>
-							<li><a href="/pricing.html">Pricing</a></li>
-							<li><a href="/pricingfaq.html">FAQs</a></li>
-						</ul>
-					</div>
-					<div class="span2">
-						<h5>cloudControl Inc.</h5>
-						<ul class="unstyled">
-						    <li><a href="https://www.cloudControl.com">cloudControl PaaS</a></li>
-						    <li><a href="http://www.whitelabelpaas.info">White Label PaaS</a></li>
-						</ul>
-					</div>
-					
-					<div class="span6 right-align">
-						<img src="/static/img/logo_160x80.png" alt="dotCloud logo">
-						<p>© 2014 cloudControl Inc.</p>
-		                <a href="/terms.html">Terms of Service</a> · <a href="/privacy.html">Privacy Policy</a>
-					</div>
-				</div>
-				<div class="row">
-					<div class="span12 right-align" itemscope="" itemtype="http://data-vocabulary.org/Organization">
-						<p>
-						    <i class="icon-map-marker"></i> <strong><span itemprop="name">cloudControl Inc.</span>, </strong>
-						    <span itemprop="address" itemscope="" itemtype="http://data-vocabulary.org/Address">
-                                <span itemprop="street-address">530 Lytton Ave, 2nd Fl.</span>, <span itemprop="locality">Palo Alto</span>, <span itemprop="region">CA</span>
-                            </span>
-						</p>
-					</div>
-				</div>
-			</div>
-        </footer>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-25588617-12', 'auto');
-  ga('send', 'pageview');
-
+<!--The following is the downloaded HTML source of the dotcloud.com privacy policy that was archived on 2016-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161008081528id_/https%3A//www.docker.com/docker-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PSVHG8"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/IyBu5RsBo9R8UuqWPhCkO8yEHXeZYnKa/analytics.min.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" type="text/javascript" src="//sjrtp7-cdn.marketo.com/rtp-api/v1/rtp.js?aid=dockerinc"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta name="description" content="Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.">
+<meta name="keywords" content="docker privacy, docker privacy policy, privacy contract">
+<link rel="canonical" href="http://www.docker.com/docker-privacy-policy">
+<link rel="shortlink" href="http://www.docker.com/node/56">
+<meta property="og:site_name" content="Docker">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.docker.com/docker-privacy-policy">
+<meta property="og:title" content="Docker Privacy Policy">
+<meta property="og:description" content="This Privacy Policy is effective October 29, 2013.">
+<meta property="og:updated_time" content="2016-06-06T07:13:06-07:00">
+<meta property="og:image" content="http://www.docker.com/sites/default/files/social/docker-facebook-share.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@docker">
+<meta name="twitter:url" content="http://www.docker.com/docker-privacy-policy">
+<meta name="twitter:title" content="Docker Privacy Policy">
+<meta name="twitter:description" content="This Privacy Policy is effective October 29, 2013.">
+<meta name="twitter:image:src" content="http://www.docker.com/sites/default/files/social/docker-twitter-share.png">
+<meta property="article:published_time" content="2015-06-05T15:42:14-07:00">
+<meta property="article:modified_time" content="2016-06-06T07:13:06-07:00">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Docker Legal Terms - Privacy Policy</title>
+	<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png">
+	<link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicons/manifest.json">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+			<style>
+.is_not_retina .dockercon16 .retina{
+	display:none!important;
+}
+.is_retina .dockercon16 .image_simple{
+	display:none!important;
+}
+	</style>
+
+<!-- RTP tag --> 
+<script type="text/javascript">
+(function(c,h,a,f,i,e){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+ c[a].a=i;c[a].e=e;var g=h.createElement("script");g.async=true;g.type="text/javascript";
+ g.src=f+'?aid='+i;var b=h.getElementsByTagName("script")[0];b.parentNode.insertBefore(g,b);
+ })(window,document,"rtp","//sjrtp7-cdn.marketo.com/rtp-api/v1/rtp.js","dockerinc");
+ 
+rtp('send','view');
+rtp('get', 'campaign',true);
 </script>
+<!-- End of RTP tag -->
+<!-- Munchkin tag --> 
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('929-FJL-178');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script>
+<!-- End of Munchkin tag -->
 
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/allcss.css"> 
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/allcss1.css"> 
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/allcss2.css"> 
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/menu.css">
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/app2.css">
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/responsive.css">
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/p2p.css">
+	<link rel="stylesheet" href="/sites/all/themes/docker/assets/css/mobile_responsive.css">
+	<script async="" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+		<!--[if gt IE 7]> 
+	<script type="text/javascript" src="//cdn.captora.com/js/track.js"></script>
+	<script>
+	var _prum = [['id', '56f7edaeabe53d203e357b1a'],
+				 ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+		var s = document.getElementsByTagName('script')[0]
+		  , p = document.createElement('script');
+		p.async = 'async';
+		p.src = '//rum-static.pingdom.net/prum.min.js';
+		s.parentNode.insertBefore(p, s);
+	})();
+	</script>
+	<![endif]-->
+<script>
+var _prum = [['id', '5787ab06abe53d133a6a895e'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-56 node-type-legal path-docker-privacy-policy" ng-app="Docker" ng-controller="DockerController">
+		<div class="off-canvas-wrap" data-offcanvas="">
+		<div class="inner-wrap">
+			<header class="main-header">
+		<div class="top-right-bg"></div>
+	<!-- navigation -->
+	<!-- mobile navigation -->
+	<div class="header">
+		<div class="fixed_div">
+			<div class="burger-container">
+				<div id="burger">
+					<div class="bar topBar"></div>
+					<div class="bar btmBar"></div>
+				</div>
+			</div>
+			<nav class="user-links">
+				<a href="https://cloud.docker.com/login/">Log-In</a>
+				<a href="https://cloud.docker.com/">Sign-Up</a>
+			</nav>
+			<div class="icon icon-apple">
+				<a href="/"><img class="brand-full" src="/sites/all/themes/docker/assets/images/brand-full.svg"></a>
+				<a href="/"><img class="brand-simple" src="/sites/all/themes/docker/assets/images/brand.svg"></a>
+			</div> 
+		</div> 
+		<div class="scroll_div">
+			<ul class="nav-main"><li class="first leaf"><a href="/what-docker">What is Docker?</a></li>
+<li class="expanded has-submenu"><a href="/enterprise">Enterprise</a><ul class="nav-main"><li class="first leaf"><a href="/enterprise">Solutions</a></li>
+<li class="leaf"><a href="/enterprise">Overview</a></li>
+<li class="leaf"><a href="http://www.docker.com/products/docker-datacenter">Docker Datacenter</a></li>
+<li class="leaf"><a href="https://www.docker.com/products/docker-engine">Docker Engine</a></li>
+<li class="leaf"><a href="/customers">Customers</a></li>
+<li class="collapsed"><a href="/use-cases">Use Cases</a></li>
+<li class="leaf"><a href="/industry-government">For Government</a></li>
+<li class="last collapsed"><a href="/products/resources">Resources</a></li>
+</ul></li>
+<li class="leaf"><a href="/products/overview">Get Docker</a></li>
+<li class="leaf"><a href="/pricing">Pricing</a></li>
+<li class="leaf double-navstyle secondlast"><a href="/technologies/overview">Open Source</a></li>
+<li class="last expanded has-submenu"><a href="/company">Company</a><ul class="nav-main"><li class="first leaf"><a href="/company">Company</a></li>
+<li class="leaf"><a href="/company">Overview</a></li>
+<li class="leaf"><a href="/careers">Careers</a></li>
+<li class="last leaf"><a href="/company/news-and-press">News &amp; Press</a></li>
+</ul></li>
+</ul>			<ul class="nav-global"><li class="first leaf"><a href="https://docs.docker.com/" target="_blank">Docs</a></li>
+<li class="leaf"><a href="/community/events">Events</a></li>
+<li class="leaf"><a href="/docker-community">Community</a></li>
+<li class="leaf"><a href="/docker-support-services">Support</a></li>
+<li class="leaf"><a href="https://training.docker.com/" target="_blank">Training</a></li>
+<li class="leaf"><a href="/partners/partner-program">Partners</a></li>
+<li class="leaf"><a href="http://blog.docker.com/" target="_blank">Blog</a></li>
+<li class="leaf"><a href="https://cloud.docker.com/login/" target="_blank">Log-In</a></li>
+<li class="last leaf"><a href="https://cloud.docker.com/" target="_blank">Sign-up</a></li>
+</ul> 
+			<div class="shop icon icon-bag"></div>
+		</div>
+	</div>
+	<!-- mobile navigation end -->
+	<!-- full width navigation -->
+	<div class="container">
+		<div class="row desktop">
+			<div class="col-xs-2">
+				<a href="/"><img class="logo" src="/sites/all/themes/docker/assets/images/brand-full.svg"></a>
+				<a href="/"><img class="logo_safari" src="/sites/all/themes/docker/assets/images/brand-full.svg"></a>
+			</div>
+			<div class="col-xs-10">
+				<ul class="nav-global"><li class="first leaf menu-mlid-603"><a href="https://docs.docker.com/" target="_blank">Docs</a></li>
+<li class="leaf menu-mlid-1997"><a href="/community/events">Events</a></li>
+<li class="leaf menu-mlid-1998"><a href="/docker-community">Community</a></li>
+<li class="leaf menu-mlid-1999"><a href="/docker-support-services">Support</a></li>
+<li class="leaf menu-mlid-402"><a href="https://training.docker.com/" target="_blank">Training</a></li>
+<li class="leaf menu-mlid-2000"><a href="/partners/partner-program">Partners</a></li>
+<li class="leaf menu-mlid-602"><a href="http://blog.docker.com/" target="_blank">Blog</a></li>
+<li class="leaf menu-mlid-2001"><a href="https://cloud.docker.com/login/" target="_blank">Log-In</a></li>
+<li class="last leaf menu-mlid-2002"><a href="https://cloud.docker.com/" target="_blank">Sign-up</a></li>
+</ul><ul class="nav-main"><li class="first leaf menu-mlid-398"><a href="/what-docker">What is Docker?</a></li>
+<li class="expanded menu-mlid-1059 has-submenu"><a href="/enterprise">Enterprise</a><ul class="nav-main"><li class="first leaf menu-mlid-1064"><a href="/enterprise">Solutions</a></li>
+<li class="leaf menu-mlid-2365"><a href="/enterprise">Overview</a></li>
+<li class="leaf menu-mlid-3168"><a href="http://www.docker.com/products/docker-datacenter">Docker Datacenter</a></li>
+<li class="leaf menu-mlid-3327"><a href="https://www.docker.com/products/docker-engine">Docker Engine</a></li>
+<li class="leaf menu-mlid-1034"><a href="/customers">Customers</a></li>
+<li class="collapsed menu-mlid-993"><a href="/use-cases">Use Cases</a></li>
+<li class="leaf menu-mlid-1587"><a href="/industry-government">For Government</a></li>
+<li class="last collapsed menu-mlid-985"><a href="/products/resources">Resources</a></li>
+</ul></li>
+<li class="leaf menu-mlid-954"><a href="/products/overview">Get Docker</a></li>
+<li class="leaf menu-mlid-1055"><a href="/pricing">Pricing</a></li>
+<li class="leaf menu-mlid-2005 double-navstyle secondlast"><a href="/technologies/overview">Open Source</a></li>
+<li class="last expanded menu-mlid-397 has-submenu"><a href="/company">Company</a><ul class="nav-main"><li class="first leaf menu-mlid-698"><a href="/company">Company</a></li>
+<li class="leaf menu-mlid-2366"><a href="/company">Overview</a></li>
+<li class="leaf menu-mlid-622"><a href="/careers">Careers</a></li>
+<li class="last leaf menu-mlid-1086"><a href="/company/news-and-press">News &amp; Press</a></li>
+</ul></li>
+</ul><div id="block-block-20" class="block block-block">
+				<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+  analytics.load("IyBu5RsBo9R8UuqWPhCkO8yEHXeZYnKa");
+  analytics.page()
+  }}();
+
+//--><!]]>
+</script></div>			</div>
+		</div>
+	</div>
+	<!-- full width navigation end -->
+
+</header>									<div class="page-content dockercon16">
+ 
+<section class="title_section darkblue">
+<div class="dockercon16_padding"></div>
+  <div class="container">
+  	<div class="row">          
+						<div class="col-xs-12 col-sm-12 col-md-12"> 
+			<h1>Docker Legal Terms</h1>
+			<p class="max-width700">In this section you will find all of the relevant legal terms associated with Docker products and services. Please click the appropriate link to view the document.</p>
+					</div>
+			</div>
+  </div>
+</section>
+
+	
+<div class="">
+	<div class="container"> 
+		<div class="row"> 
+			<div class="col-xs-12 col-sm-2 col-md-2 sidebarnav_section"> 
+  <div class="region region-sidebar">
+    <ul class="menu"><li class="first leaf menu-mlid-505"><a href="/docker-terms-service" title="">Terms of Service</a></li>
+<li class="leaf menu-mlid-516"><a href="/docker-software-end-user-subscription-agreement" title="">EUSA</a></li>
+<li class="leaf menu-mlid-524"><a href="/docker-cve-database">CVE Database</a></li>
+<li class="leaf menu-mlid-519"><a href="/components-licenses">Components &amp; Licenses</a></li>
+<li class="leaf menu-mlid-517"><a href="/docker-software-evaluation-agreement">Evaluation Agreement</a></li>
+<li class="leaf menu-mlid-523"><a href="/brand-guidelines">Marks and Logos</a></li>
+<li class="leaf active-trail active menu-mlid-521"><a href="/docker-privacy-policy" class="active-trail active">Privacy Policy</a></li>
+<li class="leaf menu-mlid-518"><a href="/subscription-services">Subscription Services</a></li>
+<li class="leaf menu-mlid-522"><a href="/trademark-guidelines">Trademark Guidelines</a></li>
+<li class="last leaf menu-mlid-1728"><a href="/node/6605/">Master Services &amp; Subscription Agreement</a></li>
+</ul>  </div>
+			</div>
+			<div class="col-xs-12 col-sm-10 col-md-10 floatleft padding_50_0"> 
+			<section class="legal_content_section">
+				<h1>Docker Privacy Policy</h1>
+				<p>This Privacy Policy is effective October 29, 2013.</p>
+
+<p>Docker, Inc. (“Docker” or the “Company”) is committed to protecting the privacy of your information. We provide this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our website (the “Website”) collected via the Website, email, SMS, telephone, WAP or other means. This Privacy Policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly for any changes. By using or accessing the Website, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.</p>
+
+<p>If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy [at] docker [dot] com.</p>
+
+<ol><li><p>Website Covered
+This Privacy Policy covers the information practices of <span class="s1"><a href="http://www.docker.com">www.docker.com</a></span> and all of its respective sub-domains.</p></li>
+<li><p>Information Collected
+Docker offers a variety of services that are collectively referred to as the “Services.” Docker collects information from individuals who visit the Company’s Website (“Visitors”) and individuals who register to use the Services (“Customers”).
+When expressing an interest in obtaining additional information about the Services or registering to use the Services, Docker may require you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, Docker may require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). Docker may also ask you to provide additional information, such as company annual revenues, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Docker Customers.”
+As you navigate the Company’s Website, Docker may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Website Navigational Information”). Website Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Website (such as the Web pages viewed and the links clicked).
+By choosing to provide any information to Docker, you are giving the Company permission to use and store such information consistent with this privacy policy.
+The Company also collects and uses personal data regarding its employees (“Employee Data”), which may include: name, address, job title and other job information, location, compensation information, identification number, employment history, and copy of employment agreement.</p></li>
+<li><p>Use of Information Collected
+The Company uses Data About Docker Customers to perform the services requested. The Company may also use Data About Docker Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
+Docker uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
+Docker uses Website Navigational Information to operate and improve the Company’s Website. The Company may also use Website Navigational Information alone or in combination with Data About Docker Customers to provide personalized information about the Company.
+Employee Data is only used for the for the purposes of facilitating the performance of certain administrative tasks and functions relating to general employment and for processing and investigating reports under the Company’s codes and policies ( “Employee Data Purposes”).</p></li>
+<li><p>Website Navigational Information
+Docker may use commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Website (“Website Navigational Information”). This section describes the types of Website Navigational Information that may be collected on the Company’s Website and how this information may be used.</p>
+
+<p>4.1 Cookies - Docker may use cookies to make interactions with the Company’s Website easy and meaningful. When you visit the Company’s Website, Docker’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Docker, either by responding to a promotional offer, opening an account, or filling out a Web form, you remain anonymous to the Company. Docker uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
+If you have chosen to identify yourself to Docker, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests. Session cookies are required to use the Services.
+Docker may use persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company’s Website. When you purchase the Services or provide the Company with personal information, a unique identifier is assigned to you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. If you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Website, but you will not be able to successfully use the Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+Docker may use information from session and persistent cookies in combination with Data About Docker Customers to provide you with information about the Company and the Services.</p>
+
+<p>4.2 Web Beacons - Docker may use Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Website and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Website tied to the Web beacon, and a description of a Website tied to the Web beacon. For example, Docker may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Website. Docker uses Web beacons to operate and improve the Company’s Website and email communications.
+Docker may use information from Web beacons in combination with Data About Docker Customers to provide you with information about the Company and the Services.</p>
+
+<p>4.3 Flash Cookies - Docker may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom the Company partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies.</p>
+
+<p>4.4 IP Addresses - When you visit Docker’s Website, the Company may collect your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Docker may uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Website.</p>
+
+<p>4.5 Third Party Cookies - From time-to-time, Docker may engage third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Website. Docker may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
+Docker may also contract with third-party advertising networks that collect IP addresses and other Website Navigational Information on the Company’s Website and emails and on third-party Websites. Ad networks follow your online activities over time by collecting Website Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Websites. This process also helps us manage and track the effectiveness of our marketing efforts.</p></li>
+</ol><ol start="5"><li>
+Public Forums, Refer a Friend, and Customer Testimonials
+Docker may provide bulletin boards, blogs, or chat rooms on the Company’s Website. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Docker is not responsible for the personal information you choose to submit in these forums.
+Customers and Visitors may elect to use the Company’s referral program to inform friends about the Company’s Website. When using the referral program, the Company requests the friend’s name and email address. Docker will automatically send the friend a one-time email inviting him or her to visit the Company’s Website. Docker does not store this information.
+Docker may post a list of Customers and testimonials on the Company’s Website that contain information such as Customer names and titles. Docker obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+</li>
+
+<li>Sharing of Information Collected
+Docker may share Data About Docker Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Docker may also share Data About Docker Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this Privacy Policy, Docker does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
+From time to time, Docker may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Docker, the Company may share Data About Docker Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s), once Docker has notified you of the information to be shared and obtained your consent to the sharing of the information. Docker does not control our business partners’ use of the Data About Docker Customers we collect, and their use of the information will be in accordance with their own privacy policies
+Docker may use third-party service providers to manage credit card processing. Such service providers will not be permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
+Docker reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+Employee Data is only disclosed to third parties for the Employee Data Purposes. In no case does the Company disclose to third parties Employee Data for any incompatible purpose without first notifying the data subject and providing the data subject with an opportunity to affirmatively opt-out or object to such use or disclosure.
+</li>
+
+<li>Users from outside the United States
+Docker and its Services are based in the U.S., and the Company’s offices are headquartered in the U.S. Please be aware that information you provide to Docker that it obtains as a result of your use of the Services may be processed and transferred to the U.S. and be subject to U.S. law. This information may also be processed by staff working for the Company or for one of its suppliers in the U.S. The privacy and data protection laws in the U.S. may not be equivalent to such laws in your country of residence. By using the Website, participating in any of the Services, or by providing Docker with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S. Docker will take all steps reasonably necessary to ensure that you data is treated securely in accordance with this privacy policy.
+</li>
+
+<li>Communications Preferences; Opt Out Policy
+Docker offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to privacy [at] Docker [dot] com. If, at any time after registering, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. Please contact us as specified herein.
+</li>
+
+<li>Correcting and Updating Your Information
+Customers may view, update or change their registration information by logging in to their accounts at <span class="s1"><a href="http://www.docker.com">www.docker.com</a></span>. Requests to access, change, or delete your information will be handled within 30 days.
+</li>
+
+<li>Security
+Docker uses appropriate administrative, technical, and physical security measures to protect Data About Docker Customers. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your personal information despite our efforts. You should note that in using the Website and our related services, your information will travel through third party infrastructures which are not under our control.
+We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.
+</li>
+
+<li>Change of Control
+As Docker develops its business, it may buy or sell assets or business offerings. Data About Docker Customers is generally one of the transferred business assets in these types of transactions. Docker may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+</li>
+
+<li>US-EU and US-Swiss Safe Harbor Framework
+Docker’s platform complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Docker has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Docker's certification, please visit <span class="s2"><a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a></span><span class="s3"> </span>.
+In compliance with the Safe Harbor Principles, Docker commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should contact Docker at: Docker Privacy, 475 Brannan St suite 310, San Francisco, CA 94104.
+Docker will review all audit requests submitted in writing or through email for the purpose of determining whether or not its procedures and protocols being used are consistent with the US-EU Safe Harbor Framework. It is Docker’s policy to routinely monitor and check its compliance procedures and protocols. Should the Company determine inconsistency with any such procedures or protocol, Docker will take necessary steps to address and correct the inconsistency. If Docker is unable to resolve the conflict with the individual or customer/client filing the complaint, it will mediate such said conflict in front of a panel of the American Arbitration Association. Docker will self certify with the Department of Commerce for the purpose of renewing its Safe Harbor Privacy Policy on an annual basis and confirming its continued commitment to the protection and privacy of personal data.
+</li>
+
+<li>Contacting Us
+Questions regarding this Privacy Policy or the information practices of the Website should be directed to privacy [at] docker [dot] com or by mailing Docker Privacy, 475 Brannan St suite 310, San Francisco, CA 94104.
+</li>
+</ol><br><br>			</section> 
+			</div>
+		</div>
+	</div>
+</div>
+
+ 
+</div>			<a class="exit-off-canvas"></a>
+		</div>
+	</div>
+
+	<div class="moby_footer">
+<i class="moby"></i>
+</div>
+<footer class="main_footer">
+	<div class="container">
+		<div class="top_footer">
+			<div class="row">
+				<div class="col-xs-12 col-sm-5 col-md-5 col-sm-push-3 col-md-push-3">
+					<h6>Connect</h6>
+					<p>Subscribe to our newsletter</p>
+					<div class=" newsletter"> 
+						<script src="//app-sj05.marketo.com/js/forms2/js/forms2.min.js"></script>
+						<form id="mktoForm_1038"></form>
+						<script>
+							MktoForms2.loadForm("//app-sj05.marketo.com", "929-FJL-178", 1038, function(form) {
+								form.onSuccess(function(values, followUpUrl) {
+									location.href = "/thank-you-subscribing-docker-newsletter";
+									return false;
+								});
+							});
+							MktoForms2.whenReady(function(form){
+							/*	$('#mktoForm_1038 #Email').attr('placeholder', 'Enter your email'); */
+							});
+						</script> 
+					</div>
+					<ul class="social-icons">
+						<li class="facebook"><a target="_blank" href="https://www.facebook.com/docker.run">facebook</a></li>
+						<li class="google"><a target="_blank" href="https://plus.google.com/u/0/communities/108146856671494713993">google-plus</a></li>
+						<li class="github"><a target="_blank" href="https://github.com/docker/docker">github</a></li>
+						<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/company/docker">linkedin</a></li>
+						<li class="youtube"><a target="_blank" href="http://www.youtube.com/user/dockerrun">youtube</a></li>
+						<li class="reddit"><a target="_blank" href="http://www.reddit.com/r/docker">reddit</a></li>
+						<li class="twitter"><a target="_blank" href="http://twitter.com/docker">twitter</a></li>
+						<li class="slideshare"><a target="_blank" href="http://www.slideshare.net/docker">slideshare</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-6 col-sm-3 col-md-3 col-sm-pull-5 col-md-pull-5 sm-margin-top-40">
+				<h6>Docker</h6>
+					<ul class="menu"><li class="first leaf"><a href="/products/overview">Get Started</a></li>
+<li class="leaf"><a href="https://docs.docker.com/" target="_blank">Docs</a></li>
+<li class="leaf"><a href="http://blog.docker.com/" target="_blank">Blog</a></li>
+<li class="leaf"><a href="https://training.docker.com/" target="_blank">Training</a></li>
+<li class="leaf"><a href="https://www.docker.com/docker-support-services">Support &amp; Services</a></li>
+<li class="leaf"><a href="https://goto.docker.com/contact-us.html">Contact Sales</a></li>
+<li class="last leaf"><a href="/open-source">Open Source</a></li>
+</ul>				</div>
+				<div class="col-xs-6 col-sm-4 col-md-4 sm-margin-top-40">
+					<h6>Related Links</h6>
+					<!--8df6590d0d74f73adbfe5f8379f58893-->
+<ul class="cp_linklist">
+	<li><a href="https://www.docker.com/cp/container-orchestration-engines">Container Orchestration Engines</a></li>
+	<li><a href="https://www.docker.com/cp/docker-and-k8s">Docker And K8s</a></li>
+	<li><a href="https://www.docker.com/cp/docker-and-aws">Docker And Aws</a></li>
+	<li><a href="https://www.docker.com/cp/container-management-deployment">Container Management Deployment</a></li>
+	<li><a href="https://www.docker.com/cp/container-management-orchestration">Container Management Orchestration</a></li>
+	<li><a href="https://www.docker.com/cp/container-management">Container Management</a></li>
+</ul>
+					<div id="block-block-5" class="block block-block">
+				<script>
+<!--//--><![CDATA[// ><!--
+
+var   BuyButtonURL_0 = 'https://hub.docker.com'
+,	BuyButtonURL_1 = 'https://hub.docker.com/account/billing-plans/create-subscription/?plan=index_personal_micro'
+,	BuyButtonURL_2 = 'https://hub.docker.com/account/billing-plans/create-subscription/?plan=index_personal_small'
+,	BuyButtonURL_3 = 'https://hub.docker.com/account/billing-plans/create-subscription/?plan=index_personal_medium'
+,	BuyButtonURL_4 = 'https://hub.docker.com/account/billing-plans/create-subscription/?plan=index_personal_large'
+,	BuyButtonURL_5 = 'https://hub.docker.com/account/billing-plans/create-subscription/?plan=index_personal_xlarge'
+,	BuyButtonURL_6 = 'https://hub.docker.com/account/billing-plans/create-subscription/?plan=index_personal_xxlarge'
+,	BuyButtonURL_cloud_starter = 'https://hub.docker.com/enterprise/cloud-starter/'
+,	BuyButtonURL_inquiry = 'http://goto.docker.com/sales-inquiry.html'
+,	buybuttontxt_signup = 'Sign Up'
+,	BuyButtontxt_buy = 'Buy'
+,	buybuttontxt_quote = 'Request Quote'
+,	RepoPricing_free = '<span>Free'
+,	RepoPricing_CriticalSupport = 'Call toll free at 888-214-4258, or'
+,	PricingInfo_Text = ' Private Repos & Parallel Builds<li>Community Hub Support'
+,	PricingInfo_freeText = ' Private Repo & Parallel Build<li>Community Hub Support'
+,	PricingInfo_CommercialSupportText = ' Private Repos & Parallel Builds<li>Up to 10 Docker Engines<li>Email Support'
+,	PricingInfo_CriticalSupportText = ' Private Repos & Parallel Builds<li>Starting at 10 Docker Engines<li>Mon-Fri Same Business Day <br>or 24/7 Critical Support';
+
+
+//--><!]]>
+</script><!--[if IE]>
+<style>
+hr.moby::after {
+    background: url("../images/moby-tiny.png") no-repeat;
+}
+</style>
+<![endif]--><style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+
+
+/*--><!]]>*/
+</style></div><div id="block-block-1" class="block block-block">
+				<!-- Ethnio High Traffic Activation Code -->
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+if(Math.floor(Math.random()*4)==0) document.write('<script type=\"text/javascript\" language=\"javascript\" src=\"//ethn.io/71802.js\" async=\"true\" charset=\"utf-8\"><\/script>');
+//--><!]]>
+</script><script type="text/javascript" language="javascript" src="//ethn.io/71802.js" async="true" charset="utf-8"></script></div><div id="block-block-13" class="block block-block">
+				<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+.node-type-front-page .dockercon16 section.title_section.darkblue a.button{
+    margin-left: 0;
+}
+section.livedockercon_section.section .right a.button.darkblue-btn {
+    max-width: 100%;
+}
+.sidebarnav_section ul {
+    display: block;
+}
+@media (max-width: 767px) {
+div.dockercon_registation_section .cross-btn {
+    width: inherit;
+}
+section.title_section.darkblue img {
+    max-height: 250px;
+}
+.dockercon16 section.title_section .textalign-left a.button, .dockercon16 section.title_section .textalign-left a.button+a.button {
+    margin: 20px 0;
+}
+}
+
+/*--><!]]>*/
+</style></div>				</div>
+			</div>
+		</div>
+		<div class="bottom_footer">
+			<div class="footer-nav">
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-5 col-md-push-7">
+		<nav class="primary-footer-sub-nav">
+			<ul class="menu"><li class="first leaf"><a href="/products/docker-hub">Hub</a></li>
+<li class="leaf"><a href="http://www.cafepress.com/docker/">Swag</a></li>
+<li class="leaf"><a href="http://status.docker.com/">Status</a></li>
+<li class="leaf"><a href="/docker-security">Security</a></li>
+<li class="leaf"><a href="/legal">Legal</a></li>
+<li class="last leaf"><a href="https://www.docker.com/company/contact">Contact</a></li>
+</ul>		</nav>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-7 col-md-pull-5">
+		<p>
+		Build, Ship, Run. An open platform for distributed applications for developers and sysadmins		</p> 
+	</div>
+</div>
+			</div>
+			<div class="footer-copyright">
+				<p class="copyright">
+					Copyright © 2016 Docker Inc. All rights reserved.				</p>
+			</div>
+		</div>
+	</div>
+</footer>
+		<script src="/sites/all/themes/docker/assets/js/alljs.js"></script>
+	<script async="" src="/sites/all/themes/docker/assets/js/app.js"></script>
+		<!-- Google Tag Manager --> 
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PSVHG8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PSVHG8');</script>
+	<!-- End Google Tag Manager -->
+	<script>
+	$(document).ready(function() {
+$(".livedockercon_section .video_container a.play_btn").click(function() {
+	console.log('a');
+  $(".video_container").animate({
+    opacity: "0"
+  }, 1000, "linear", function() {
+	$(this).css('z-index','0');
+  });
+  $("#docker-con-video-iframe").show("fast", function() {
+	  var getSRC =  $(this).attr('src');
+	  var newSRC = getSRC.replace("autoplay=false", "autoplay=true");
+    $(this).attr('src', newSRC).animate({ opacity: "1" }, 1000);
+  });
+});
+	});
+$(window).load(function() {
+/*  $('.pricing-tables > li.standard').css({ transform: "scale(1.05)" }); */
+});
+	</script>
+	
+	<!-- window sticky -->
+<script>
+	$(window).scroll(function() {    
+	    var scroll = $(window).scrollTop();
+	     //console.log(scroll);
+	    if (scroll >= 50) {
+	        //console.log('a');
+	        $(".header").addClass("change");
+	    } else {
+	        //console.log('a');
+	        $(".header").removeClass("change");
+	    }
+	});
+</script>
+<!-- menu -->
+<script>
+(function(){
+    var burger = document.querySelector('.burger-container'),
+        header = document.querySelector('.header');
+        body = document.querySelector('body');
     
-
+    burger.onclick = function() {
+        header.classList.toggle('menu-opened');
+        body.classList.toggle('overflow-hidden');
+    }
+}());
+</script>
+<!-- mobile nav -->
+<script>
+	$(document).ready(function() {
+	    $('.subnav').hide();
+	    $('#element').click(function() {
+	        $('.subnav').slideToggle(100);
+	        return false;
+	    });
+	});
+</script>
+<script>
+	$(document).ready(function() {
+	    $('.subnav2').hide();
+	    $('#element2').click(function() {
+	        $('.subnav2').slideToggle(100);
+	        return false;
+	    });
+	});
+</script>
+<!-- end window sticky -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1ceb24fd1c","applicationID":"9142893","transactionName":"YVVaZRcCXRVTAUALWlgfeVIRClwIHQxbBlBpQFlWADxFD1cV","queueTime":0,"applicationTime":484,"atts":"TRJZE18YThs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
