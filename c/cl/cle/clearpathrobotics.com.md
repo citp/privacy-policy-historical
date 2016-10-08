@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpathrobotics.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519124403id_/http%3A//www.clearpathrobotics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpathrobotics.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008191127id_/https%3A//www.clearpathrobotics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Clearpath Robotics
 
