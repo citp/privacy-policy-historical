@@ -1,73 +1,54 @@
-> *The following text is extracted and transformed from the thetechherald.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531193353id_/http%3A//www.thetechherald.com/article.php/200807/97) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechherald.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008093151id_/http%3A//www.thetechherald.com/privacy) for the most accurate reproduction.*
 
-# The Tech Herald - Privacy
+# Privacy
 
-Feb 11 2008, 19:11
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:).
 
- **Introduction**   
-The Tech Herald.com takes your privacy seriously and we endeavour to comply with the privacy rules set out in USA under the Safe Harbour specification as well as The Data Protection Act in the UK.
+At www.thetechherald.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.thetechherald.com and how we use it.
 
-We also aim to have a transparent policy and have attempted in this document to lay out fully the ways in which we gather, store and use information provided by you to the site.
+**Log Files**  
+Like many other Web sites, www.thetechherald.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Collection of your Personal Information**
+**Cookies and Web Beacons**  
+www.thetechherald.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining the site, becoming a subscriber, signing up for an event, or when purchasing and/or registering to use The Tech Herald services or products. Personal information collected by The Tech Herald.com is often limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested. Optional demographic information is also requested for some services.
+**DoubleClick DART Cookie**
 
-For example: If you choose a service or transaction that requires payment, such as subscribing to access a subscriber only service from the Web site, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number. Credit card information is never stored by The Tech Herald itself and is instead handled by secure third parties. You will always be able to access any payment details and amend or cancel them yourself.  
-The Tech Herald.com also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to improve the relevance of content, and to provide statistics regarding use of The Tech Herald.com.
+→ Google, as a third party vendor, uses cookies to serve ads on www.thetechherald.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.thetechherald.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-The Tech Herald.com also collects information about which pages our customers visit within The Tech Herald.com. This site usage data is is never linked with personal information unless a user consents as described below.
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-The Tech Herald.com uses its own membership and subscription system. When you sign in to this site using this system, you will be asked to provide your login and a password to sign you in. 
+  * Google
 
-To learn more about free membership and paid subscription, the information stored in your profile, and how The Tech Herald uses and protects your personal information, please read the our Terms and Conditions.
 
-**How we use your Personal Information**
 
-We use your personal information for the following purposes:  
-• To ensure our site content is relevant to your needs and interests. 
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.thetechherald.com._
 
-• To deliver services, such as updates, newsletters, pre-delivered content, that you request, subscribe to or purchase. 
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.thetechherald.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-• To allow you access to restricted areas of our site as appropriate.
+www.thetechherald.com has no access to or control over these cookies that are used by third-party advertisers.
 
-We will merge site-usage data with anonymous demographic information for research and marketing purposes, and we may use this information in aggregate to provide more relevant content. In some restricted sections of The Tech Herald.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site usage data.
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thetechherald.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We occasionally hire other companies to provide services on our behalf, including packaging, mailing and delivering purchases, and delivery of content. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-The Tech Herald may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The Tech Herald (WOTR Ltd) or the site; (b) protect and defend the rights or property of The Tech Herald and its Web sites, or (c) act in urgent circumstances to protect the personal safety of The Tech Herald employees, users, or members of the public.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+www.thetechherald.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.thetechherald.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-Your information may be stored and processed in the United Kingdom, United States or any other country in which The Tech Herald or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. The Tech Herald abides by the safe harbor(link) framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. As well as the Data Protection Act(link) in the UK where WOTR Ltd is registered.
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-**Security of your Personal Information**
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-The Tech Herald.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-**Children's Personal Information**
-
-The Tech Herald.com is a general audience site and does not knowingly collect any personal information from children under 13 years old.
-
-**Protecting Children**
-
-The Tech Herald is committed to protecting children from any content inappropriate for them to view or from anything which their parents do not want them to see. To this end all our forums are moderated and staff are trained to watch for any inappropriate behaviour. We also endevour to stop childern under 13 from accessing certain parts of the site by requiring confirmation of age.
-
-The site is aimed at a general audience and has a strict policy against obscenity, racism, bigotry or sexism. However, it does review media and arts which cover a broad spectrum of subjects and have a varety of ratings. So we feel there is some content not appropriate for children under 13 years old.
-
-We cannot accept any responsiilty for persons accessing parts of the site against the wishes of their parents where we have been given false information. If you are concerned about anything you see on the site please do not hesitate to contact us. We can also provide some limited advise on protecting your children from inappriate content.
-
-**Use of Cookies**
-
-When someone visits the site, a cookie is placed on the your computer  or is read if the customer has visited the site previously. One use of cookies is to assist in the collection of the site visitation statistics described above.  
-We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read and so improve the service. It is collected in aggregate form and never linked with your personal information.
-
-Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a The Tech Herald.com Web page. We do not use this technology to access your personally identifiable information on The Tech Herald.com; it is a tool we use to compile aggregated statistics about The Tech Herald.com Web site usage. We may share aggregated site statistics with partner companies but do not allow other companies to place clear gifs on our sites.
-
-We also uses cookies in connection with our membership and subscriber services.  
-If you choose to not have your browser accept cookies from the The Tech Herald.com Web site, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to access the full services and content on the site.
-
-**Changes to this Statement**
-
-The Tech Herald.com will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, The Tech Herald.com will notify you by placing a prominent notice on the Web site.
-
-**Contact Information**  
-We welcome your comments regarding this privacy statement, please [contact us by e-mail, or postal mail](http://www.thetechherald.com/article.php/200806/49). 
+**Update**  
+This Privacy Policy was last updated on: Tuesday, March 15th, 2016.  
+[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
