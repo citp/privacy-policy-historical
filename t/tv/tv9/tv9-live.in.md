@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tv9-live.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515081207id_/http%3A//www.tv9-live.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv9-live.in privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008151727id_/http%3A//www.tv9-live.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Disclaimer:  **We are not associated or endorsed with TV9 or associated TV networks.
+**Disclaimer:  **We are not associated or endorsed with TV9 or associated TV networks. This site is intended to be an informative program and channel guide for a leading news channel. Please contact us if there are any issues with the site.
 
 This Privacy Policy governs the manner in which TV9-Live.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.tv9-live.in/> website (“Site”). This privacy policy applies to the Site and all products and services offered by TV9-Live.in.
 
