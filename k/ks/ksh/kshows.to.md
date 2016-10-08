@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kshows.to privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528193951id_/http%3A//kshows.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshows.to privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008163312id_/http%3A//kshows.to/privacy) for the most accurate reproduction.*
 
 # Kshow - Korean Show for everyone.
 
