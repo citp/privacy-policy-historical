@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl6t.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606041344id_/http%3A//ccl6t.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl6t.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008045841id_/http%3A//ccl6t.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
