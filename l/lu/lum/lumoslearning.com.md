@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075402id_/https%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008133031id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - Lumos Learning
+# Privacy | Lumos Learning
 
 **IMPORTANT:
 
@@ -10,7 +10,7 @@ THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.
 
 **Effective date : 05/07/2016**
 
-www.lumoslearning.com (herein referred to as Website) is owned, managed and operated by Lumos Information Services, (hereinafter referred to as Company or We or Us or Our) a Limited Liability Company registered in New Jersey, USA with the registered address at PO Box 1575, Piscataway, NJ 08855.
+www.www.lumoslearning.com (herein referred to as Website) is owned, managed and operated by Lumos Information Services, (hereinafter referred to as Company or We or Us or Our) a Limited Liability Company registered in New Jersey, USA with the registered address at PO Box 1575, Piscataway, NJ 08855.
 
 The Privacy Policy (hereinafter referred to as Policy) outlines the Company practices, policies and procedures concerning the collection, use, and protection of information collected from the users of this Website, in whatever capacity they use this Website (herein referred to as User, You or Your). We are committed to protecting your online privacy while you use this Website as a visitor or registered user.
 
