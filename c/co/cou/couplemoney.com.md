@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couplemoney.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608132138id_/http%3A//couplemoney.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplemoney.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008142952id_/http%3A//couplemoney.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couple Money
 
@@ -22,3 +22,7 @@ We also use third party advertisements on Couple Money to support our site. Some
 Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+### Build Up Your Marriage and Wealth
+
+Learn how you two can build up your wealth, together - get free money guides to jump-start your savings, pay off your debt faster, while still having time for fun as a couple!
