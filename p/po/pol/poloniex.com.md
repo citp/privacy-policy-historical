@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poloniex.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604061531id_/https%3A//www.poloniex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poloniex.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008181451id_/https%3A//www.poloniex.com/privacy) for the most accurate reproduction.*
 
 # Poloniex - Bitcoin/Cryptocurrency Exchange - Privacy Policy
 
