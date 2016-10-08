@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317015718id_/https%3A//www.parkcameras.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcameras.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008053801id_/https%3A//www.parkcameras.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Park Cameras Online
+# Privacy Policy | Park Cameras - Protecting Your Privacy
 
 Park Cameras Ltd. are committed to protecting your privacy. You can visit and use our website without giving any personal information. However, due to the ordering process, certain information given by you at the time of ordering is collected lawfully and in accordance with the Data Protection Act 1998, solely by Park Cameras Ltd. This personal information will include your name, address, contact details including your e-mail address, and credit card details. The information we take through our website is used only for the purpose of processing your request and to communicate with you on any matters relating to the provision of the service in general. Information and statistics may also be used for the purpose of monitoring site usage. These statistics will not include any information that can be used to identify any one individual.
 
