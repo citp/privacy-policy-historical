@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebird.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422102125id_/https%3A//www.riamoneytransfer.com/bluebird/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebird.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008052837id_/https%3A//www.riamoneytransfer.com/bluebird/legal/privacy-policy) for the most accurate reproduction.*
 
 # Ria Money Transfer Privacy Policy <br>American Express Bluebird®</br>
 
@@ -24,7 +24,7 @@ Ria has taken preventative measures to restrict access to sensitive data and pri
 
 ## Safe Harbor Principles
 
-Ria adheres to the Safe Harbor Principles issued by the United States Department of Commerce and accepted by European Data Protection Authorities for the protection of personally identifiable information and personal data received from the European Union. For further information on Safe Harbor, please go to [www.export.gov/safeharbor.](https://web.archive.org/web/20160422102125id_/https%3A//www.riamoneytransfer.com/bluebird/legal/www.export.gov/safeharbor)
+Ria adheres to the Safe Harbor Principles issued by the United States Department of Commerce and accepted by European Data Protection Authorities for the protection of personally identifiable information and personal data received from the European Union. For further information on Safe Harbor, please go to [www.export.gov/safeharbor.](https://web.archive.org/web/20161008052837id_/https%3A//www.riamoneytransfer.com/bluebird/legal/www.export.gov/safeharbor)
 
 ##  Questions 
 
