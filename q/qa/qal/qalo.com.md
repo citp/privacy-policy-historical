@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qalo.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611060610id_/http%3A//qalo.com/pages/qalo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qalo.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008041750id_/http%3A//qalo.com/pages/qalo-privacy-policy) for the most accurate reproduction.*
 
 # QALO - Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to the www.qaloring.com and QALO LLC ("the Company") and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to QALO LLC include www.qaloring.com, QALO and "the company". The company website is a athletic jewelry site. By using the company website, you consent to the data practices described in this statement. This privacy policy applies to these sites and other sites, mobile apps or other online services we operate that link to this policy (collectively, referred to below as the site).
+Protecting your private information is our priority. This Statement of Privacy applies to the www.qalo.com and QALO LLC ("the Company") and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to QALO LLC include www.qaloring.com, QALO and "the company". The company website is an athletic jewelry site. By using the company website, you consent to the data practices described in this statement. This privacy policy applies to these sites and other sites, mobile apps or other online services we operate that link to this policy (collectively, referred to below as the site).
 
 **Collection of your Personal  Information**
 
@@ -42,7 +42,7 @@ The Company does not knowingly collect personally identifiable information from 
 
 **Disconnecting your QALO Account from Third Party Websites**
 
-You will be able to connect your company account to third party accounts. BY CONNECTING YOUR Company ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. If you are uncomfortable with your public profiles, such as facebook or twitter, being mentioned in our blog then please let us know prior to posting material in our blog. A blog post, with you involved, would not be put up without your permission in the first place.. 
+You will be able to connect your company account to third party accounts. BY CONNECTING YOUR Company ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. If you are uncomfortable with your public profiles, such as facebook or twitter, being mentioned in our blog then please let us know prior to posting material in our blog. A blog post, with you involved, would not be put up without your permission in the first place.
 
 **Opt-Out & Unsubscribe**
 
@@ -62,9 +62,9 @@ QALO LLC
 
 _________________ 
 
-391 S. Glassell St. 
+3011 S Croddy Way 
 
-Orange, CA 92866
+Santa Ana, CA 92704
 
 (714) 464-3252
 
