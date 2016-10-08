@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cities2night.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607195012id_/http%3A//cities2night.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cities2night.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008062416id_/http%3A//cities2night.com/corporate/privacy) for the most accurate reproduction.*
 
 # Cities2Night.com | The Global Leader in Events, Happy Hours, Articles, Nightlife and more...
 
