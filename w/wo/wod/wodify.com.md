@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wodify.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224608id_/http%3A//www.wodify.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wodify.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008053358id_/http%3A//www.wodify.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wodify Privacy Policy - Software for Box Owners and their Athletes
 
