@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213206id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008203244id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | Winn-Dixie
 
