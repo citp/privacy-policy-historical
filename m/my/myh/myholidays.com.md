@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the myholidays.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604051429id_/http%3A//www.myholidays.com/common/QA/UI/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myholidays.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008174437id_/http%3A//www.myholidays.com/common/QA/UI/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # myholidays-PrivacyPolicy
 
-#### Privacy Policy and Cookies
+####  Privacy Policy and Cookies
 
 At myholidays.com (MH) we respect your need to understand how your personal information is dealt with. We have set out this Privacy Policy to familiarize you with our practices and demonstrate our commitment to your privacy. We may change the content of this website at any time whenever it deems appropriate and necessary in our opinion without prior notice and consequently our privacy policy may change at any time in the future. You agree to revisit the privacy policy page regularly and your continued access to or use of the website will mean that you agree to the changes.
 
   
 
 
-#### Personal Information
+####  Personal Information
 
   
 
@@ -37,7 +37,7 @@ We may use personal information to send you important notices and communications
   
 
 
-#### Cookies and Other Tracking Technologies
+####  Cookies and Other Tracking Technologies
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. This feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognize the computer used to access MH website. Most Web browsers automatically accept cookies, by changing the options on your web browser or using certain software programs, you can control and delete how and whether cookies will be accepted by your browser. You can also edit your browser options to choose not to receive cookies in future. Cookies do not store any personally identifiable information about you (e.g., name, address, etc.).
 
