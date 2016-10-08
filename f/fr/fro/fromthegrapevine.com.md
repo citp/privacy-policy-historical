@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromthegrapevine.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629013351id_/http%3A//www.fromthegrapevine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthegrapevine.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008135950id_/http%3A//www.fromthegrapevine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | From the Grapevine
 
