@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the rava.pk privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520233316id_/http%3A//rava.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rava.pk privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008140913id_/http%3A//rava.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rava.pk
+# Privacy Policy - rava.pk
 
 All information shared over the internet raises privacy concerns. When dealing with websites, such concerns are heightened. This privacy policy has been created to allay those concerns; to ensure  
 our visitors that the information that they provide is safe and secure.
 
 By visiting Rava, you are implicitly accepting the privacy policy described below.
 
-**Personal Information**
+ **Personal Information**
 
 Rava does not require or seek any personal information from its visitors. You ae free to view the various videos and content available at our website without entering any personal information.
 
-Until it is explicitly stated in our privacy policy, we will never seek your personal information.The only personal information that you can share at Rava is of your email address, if you choose to subscribe to our newsletter. The newsletter contains latest news and updates from Rava that are relevant to our visitors. You can choose to unsubscribe from the newsletter at any point you wish by clicking on the link at the bottom of the newsletter; or by sending an email to [Contact us](https://web.archive.org/web/20160520233316id_/http%3A//rava.pk/contact/) with ‘Unsubscribe’ in the subject line.
+Until it is explicitly stated in our privacy policy, we will never seek your personal information.The only personal information that you can share at Rava is of your email address, if you choose to subscribe to our newsletter. The newsletter contains latest news and updates from Rava that are relevant to our visitors. You can choose to unsubscribe from the newsletter at any point you wish by clicking on the link at the bottom of the newsletter; or by sending an email to [Contact us](https://web.archive.org/web/20161008140913id_/http%3A//rava.pk/contact/) with ‘Unsubscribe’ in the subject line.
 
-**Cookies**
+ **Cookies**
 
 Rava does not use cookies. This also means your IP address, browser history, clicking details, and other information isn’t logged on our servers.
 
-**Children**
+ **Children**
 
 Rava is meant only for audience above the age of 13. However, children under the age of 13 may browse the site and view the content under adult supervision.
 
-**Advertiser**
+ **Advertiser**
 
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by the ad companies, and we do not have access to this information.
 
@@ -35,4 +35,4 @@ Rava uses third-party content as well, thus creating links of other websites. If
 
 Rava is not responsible for third-party hyperlinks and websites; and this privacy policy is your implicit acknowledgement that we do not have any liability in that context.
 
-You can also contact us at [Contact us](https://web.archive.org/web/20160520233316id_/http%3A//rava.pk/contact/) for details or in case of queries.
+You can also contact us at [Contact us](https://web.archive.org/web/20161008140913id_/http%3A//rava.pk/contact/) for details or in case of queries.
