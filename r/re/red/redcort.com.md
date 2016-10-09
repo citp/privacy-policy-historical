@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205070617id_/http%3A//www.redcort.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009110330id_/https%3A//www.redcort.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Redcort Software Inc.
 
 ### We Value Your Privacy
 
-Redcort Software is completely committed to your privacy. The following statements disclose our information gathering and dissemination practices:
+Access to and use of this Site are subject to all applicable international, federal, state and local laws and regulations. User agrees not to use the Site in any way that violates such laws or regulations.
 
 ### Privacy
 
@@ -20,7 +20,7 @@ Our site uses order forms for customers to request information, products, and se
 
 ### Choice / Opt Out
 
-To remove your information from our database and assure you receive no future communications or service, [contact us here](https://web.archive.org/contact).
+To remove your information from our database and assure you receive no future communications or service, [contact us here](https://www.redcort.com/contact).
 
 ### Other Sites
 
@@ -28,4 +28,4 @@ This site contains links to other web sites that are not affiliated with Redcort
 
 ### Further Information
 
-If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://web.archive.org/contact).
+If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://www.redcort.com/contact).
