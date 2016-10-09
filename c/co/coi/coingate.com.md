@@ -1,11 +1,49 @@
-> *The following text is extracted and transformed from the coingate.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725050535id_/http%3A//coingate.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coingate.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009183631id_/https%3A//coingate.com/privacy) for the most accurate reproduction.*
 
-# coingate.com - "It All Starts With The NAME At NameStore.com"
+# Privacy Policy - CoinGate
 
-Privacy Policy
+Coingate.com is a website created and owned by JSC “Virtualios valiutos”, registered in Ukmerges street 315B, Vilnius, Lithuania, registration code: 303423510. This Privacy Policy explains how personal information of visitors and users is collected and used on coingate.com.
 
-SmartName.com (or NameMedia) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties.
+When you are visiting coingate.com, we collect standard web log information, such as your IP address, operating system, browser type and version, and other non-personally identifiable information. This information is used to optimize your experience using coingate.com and to provice statistics of how coingate.com is used. This information may be kept indefinitely. 
 
-SmartName.com (or NameMedia) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind.
+Coingate.com also uses cookies, which are tiny text files, to store information on your computer. Cookies are used to make coingate.com functional and it may not work correctly if cookies are disabled. To find out how to manage cookies in your browser, please visit one of the links below: 
 
-SmartName.com (or NameMedia) or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+  * Mozilla Firefox - <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+  * Google Chrome - <https://support.google.com/chrome/answer/95647>
+  * Opera - <http://www.opera.com/help/tutorials/security/privacy>
+  * Internet Explorer - <http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies>
+
+
+
+Coingate.com also uses third-party services, which may collect some information about you. You should read Privacy Policy of those services, to find out more about how and what information they collect: 
+
+  * Google Analytics - <http://www.google.com/policies/privacy>
+  * Groove - <https://www.groovehq.com/our/privacy>
+
+
+
+When you register on coingate.com, we collect additional information about you:
+
+  * Your full name
+  * Name and physical address of the company you represent
+  * E-mail address
+  * Telephone number
+
+
+
+This information (except e-mail) can be changed by visiting <https://coingate.com/account/settings> while logged in. If you wish to change your e-mail, please [contact our support](mailto:support@coingate.com). This information may be kept indefinitely, but you can request for it to be deleted by [contacting our support](mailto:support@coingate.com). Please note, that we will not be able to delete your information if you have already had any orders or any money moving through your account. 
+
+To be able to make withdrawals, we ask you to go through our verification process. To do this, we may ask you to send us the following verification documents: 
+
+  * Signed copy of your company incorporation certificate
+  * Valid copy of applicant's government Photo ID document
+  * Company utility bill
+  * Power of Attorney allowing applicant to co-operate with CoinGate on company's behalf (if applicant is different from company's Director)
+
+
+
+This information may be kept indefinitely, but you can request for it to be deleted by contacting our support. Please note, that we will not be able to delete your information if you have already had any orders or any money moving through your account. 
+
+We will never sell, give or otherwise disclose any of the information about you to any third-parties, except to comply with a court order or legal process, or where required by law. 
+
+This Privacy Policy may be changed without prior notice. All changes will be reflected in this document immediately. In the event of a major change, we will inform our registered users by e-mail or by other available means of contact. 
