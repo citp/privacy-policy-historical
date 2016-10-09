@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the enterprise.com privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531124321id_/http%3A//www.enterprise.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enterprise.com privacy policy that was archived on 2016-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161009205127id_/https%3A//www.enterprise.com/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENUS.NULL) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
 
+<!--Fri Oct 07 13:43:12 CDT 2016 -->
 
 
 
@@ -12,40 +13,52 @@
 
 
 
-<!--  client libs for external libraries -->
-
-    
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-05-26-12-07/prod-libs.min.js"></script>
+<link rel="icon" type="image/ico" href="/etc/designs/ecom/dist/favicon.ico">
 
 
+    <!--[if IE]>
+    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main-ie.min.css" type="text/css"/>
 
-
-
-
-<!-- Keep it empty for basepage -->
-
-
-<!--[if IE]>
-    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-05-26-12-07/main-ie.min.css" type="text/css"/>
-
-<![endif]-->
+    <![endif]-->
 
 <!--[if !IE]><!-->
+
     
-    
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-05-26-12-07/main.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main.min.css" type="text/css">
 
 
 
 <!--<![endif]-->
 
-<link rel="icon" type="image/ico" href="/etc/designs/ecom/dist/favicon.ico">
-<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2016-05-26-12-07">
-<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2016-05-26-12-07">
+    
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/icons.min.css" type="text/css">
+
+
+
+
+<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2016-10-04-11-43">
+
+<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2016-10-04-11-43">
+
+<!-- Keep it empty for basepage -->
+
+
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/jquery.min.js"></script>
+
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript">
     var enterprise = {
+        _globals: [],
         transmission: "Automatic",
         analytics: {
             pageName: "Privacy Policy",
@@ -66,11 +79,11 @@
         },
         services: {
 //            path: "https://prd.webapi.enterprise.com/enterprise-ewt/ecom-service"
-          //  path: "https://int2.webapi.enterprise.com/enterprise-ewt/ecom-service"
+            //  path: "https://int2.webapi.enterprise.com/enterprise-ewt/ecom-service"
             path: "https://prd.webapi.enterprise.com/enterprise-ewt" + "/ecom-service"
         },
         solr: {
-           // path: 'https://xqa1.location.enterprise.com/enterprise-sls'
+            // path: 'https://xqa1.location.enterprise.com/enterprise-sls'
             path: "https://prd.location.enterprise.com/enterprise-sls"
             // path: "https://qa-solr5-ehil.ctmsp.com/solr-locations-search"
         },
@@ -81,6 +94,9 @@
         prepayUrl: {
             path: "https://sps.farepayment.com/chdp/html/register"
         },
+        epPaymentPanguiUrl: {
+            path: ""
+        },
         age: [{"value":"18","label":"18","selected":false},{"value":"19","label":"19","selected":false},{"value":"20","label":"20","selected":false},{"value":"21","label":"21","selected":false},{"value":"22","label":"22","selected":false},{"value":"23","label":"23","selected":false},{"value":"24","label":"24","selected":false},{"value":"25","label":"25+","selected":true}],
         acceptPrivacyRequired: false,
         hidePrepay: false,
@@ -88,7 +104,8 @@
         hideRedemptionModify: true,
         hidePrepayModify: false,
         inResEnrollment: true,
-        disableIpRedirect: true,
+        disableIpRedirect: false,
+        hideEpPaymentOptions: false,
         fareOfficeFormId: "4",
         defaultPaymentOption: "",
         exoticCarsUrl: "https://exoticcars.enterprise.com",
@@ -97,18 +114,43 @@
         primaryCurrency: "",
         selectedCurrency: "",
         utilities: {},
-        selectors:"",
+        selectors: "",
         prod: "true",
         mvt: {
             carSelect: false
+        },
+        currentDomain: "ecom",
+        lookAndFeelForwardMap: {"EC":"ec-unauthenticated-loyalty-landing-page.html","usaa.com":"corporate-accounts/usaa.html","fedex.com":"corporate-accounts/fedex.html"},
+        b2b: "",
+        fedexSequenceIds: {
+            "": 'alphaCode',
+            "3": 'costCenter',
+            "2": 'employeeId',
+            "1": 'requisitionNo'
         }
     };
+
+    enterprise.settings = {
+        browserThresholds: {
+            msie: 10,
+            firefox: 47,
+            safari: 8,
+            chrome: 51
+        },
+        browserClientSideRedirect: true,   // @todo: make dynamic feature flag
+        browserClientSideDetection: true,       // @todo: are we doing a client-side browser detection?
+        browserServerSideDetection: true,   // @todd: are we doing server-side detection?
+        browserUpgradeUrl: "browsernotice.html"
+    };
+    enterprise.settings.browserUpgradeUrl = enterprise.aem.path + '/' + enterprise.settings.browserUpgradeUrl;
+    enterprise.languagesByDomain = {"ecom":["en_us","es_us"],"co-ca":["en_ca","fr_ca"],"co-uk":["en_gb"],"co-ie":["en_gb"],"co-de":["de_de","en_gb"],"co-fr":["fr_fr","en_gb"],"co-es":["es_es","en_gb"]};
 </script>
-<script src="/en.i18nmap.js?v=2016-05-26-12-07"></script>
+
 
     <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
     <!-- This is prod -->
     <script src="//assets.adobedtm.com/637ae9c62c9fe0a9a2fd27b1350da0b838190621/satelliteLib-64715503a5c3f03a9c38350e5a8825412fb1d39a.js"></script>
+
 
 
 
@@ -121,12 +163,13 @@
 <![endif]-->
 
 
+
     
 
 
 <title>Privacy Policy - Enterprise Rent-A-Car</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 <meta name="google-site-verification" content="7GSyLgfLCf6OiS_yaEhfQV8xM_S-v0G3uHUvS140qrc">
 <meta name="msvalidate.01" content="B16DAE08DD118EF0B1A7D8A91199A837">
 <meta name="description" content="Get information the Enterprise Rent-A-Car global privacy policy.">
@@ -140,6 +183,8 @@
 
 
 
+
+
     <link rel="canonical" href="https://www.enterprise.com/en/privacy-policy.html">
 
 
@@ -149,48 +194,64 @@
     
 
 <body class="en_us Privacy Policy">
+    <!--[if IE]><i id="msie" style="display:none;"></i><![endif]-->
 	<header class="cf"><div>
 </div>
 
+    
 
     <!-- Ad Choices Banner-->
     <div>
 </div>
 
-
-
-
     <div class="master-nav">
-        <div class="logo">
-            <a href="/en.html"><img src="/content/dam/ecom/logo-enterprise.png" alt="enterprise"></a>
-        </div>
-        <div class="mobile-logo">
-            <a href="/en.html"><i class="icon icon-nav-mobile-e-icon-white"></i></a>
-        </div>
-        <div class="nav-container"><div class="outer-nav">
-    <nav class="nav" id="utility-nav" role="menubar">
+        <div class="header-nav">
+            <div class="header-nav-left">
+                <div class="logo header-nav-item">
+                    
+                    
+                        <a class="header-logo-link" href="/en.html">
+                            <img src="/content/dam/ecom/logo-enterprise.png" alt="enterprise">
+                        </a>
+                    
+                    
+                </div>
+                <div class="mobile-logo header-nav-item">
+                    
+                    
+                        <a class="header-logo-link" href="/en.html">
+                            <i class="icon icon-nav-mobile-e-icon-white"></i>
+                            <span>Enterprise</span>
+                            
+                        </a>
+                    
+                </div>
+                <div id="codebanner-container" class="header-nav-item"></div>
+            </div>
+            <div class="header-nav-right">
+                <nav class="header-nav-item" id="utility-nav">
         <ul class="utility-nav">
           <li tabindex="-1" class="career-section">
             <div class="careerlink career">
-<a role="menuitem" href="http://go.enterpriseholdings.com/find-us/recruiters/?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENUS" target="_blank">Careers</a></div>
+<a role="menuitem" href="http://go.enterpriseholdings.com?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENUS" target="_blank">Careers</a></div>
 </li>
-          <li tabindex="0" role="menuitem" class="help">
+          <li class="help">
               <div class="help">
-<div class="utility-nav-label">
-	Help
+<div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="contactInfo">
+	<span class="utility-nav-label">Help</span>
 	<i class="icon icon-utility-notch"></i>
 </div>
-<div class="utility-nav-content col-2">
+<div id="contactInfo" class="utility-nav-content col-2">
 	<fieldset role="menu">
 		
-			<div class="field-container" role="menuitem">
-				<div class="title">Customer Support</div>
-				<a href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Header-_-help.support-_-ENUS" target="_blank" class="btn">Customer Support</a>
+			<div class="field-container">
+				<div class="title">Help &amp; FAQs</div>
+				<a href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Header-_-help.support-_-ENUS" target="_blank" class="btn">Get Answers</a>
 				
 			</div>
 		
-			<div class="field-container" role="menuitem">
-				<div class="title">Contact Us</div>
+			<div class="field-container">
+				<div class="title">Need to Reach Us?</div>
 				<a href="/en/help/contact.html?icid=header.info.help-_-support-_-ENUS.NULL" class="btn">Contact Us</a>
 				
 			</div>
@@ -199,30 +260,31 @@
 </div>
 </div>
 </li>
-          <li tabindex="0" role="menuitem" class="currency">
+          <li class="currency">
               
 
-    <div class="utility-nav-label" data-currency="usd">
-        <span>USD ($)</span>
+    <div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="currencySelector" data-currency="usd">
+        <span class="utility-nav-label">USD ($)
+        </span>
         <i class="icon icon-utility-notch"></i>
     </div>
-    <div class="utility-nav-content">
-        <fieldset role="menu">
+    <div id="currencySelector" class="utility-nav-content">
+        <fieldset>
             <legend>Currency Selector</legend>
             <div class="field-container">
                 <div class="title">Select Your Currency</div>
-                <label tabindex="0" class="selected" role="menuitem">
-                    <input type="radio" name="currency" value="usd" checked="">
+                <label tabindex="0" class="selected currency-button" for="usd">
+                    <input type="radio" name="currency" value="usd" id="usd" checked="">
                     USD ($)
                     <i class="icon icon-checkmark-circle-green"></i>
                 </label>
-                <label tabindex="0" role="menuitem">
-                    <input type="radio" name="currency" value="cad">
+                <label tabindex="0" class="currency-button" for="cad">
+                    <input type="radio" name="currency" id="cad" value="cad">
                     CAD ($)
                     <i class="icon icon-checkmark-circle-green"></i>
                 </label>
-                <label tabindex="0" role="menuitem">
-                    <input type="radio" name="currency" value="eur">
+                <label tabindex="0" class="currency-button" for="eur">
+                    <input type="radio" name="currency" id="eur" value="eur">
                     EUR (€)
                     <i class="icon icon-checkmark-circle-green"></i>
                 </label>
@@ -256,31 +318,31 @@
 <script>
     var CurrencySelectorModule = (function ($) {
         var $radioGroup,
-            $currencyLabel,
-            $currencyNode,
-            endpointPrefix = enterprise.services.path,
-            endpoint = endpointPrefix + "/changecurrency/",
-            credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
+                $currencyLabel,
+                $currencyNode,
+                endpointPrefix = enterprise.services.path,
+                endpoint = endpointPrefix + "/changecurrency/",
+                credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
 
         function init() {
             var cookieCurrency = getCookie();
 
             $radioGroup = $("input[name='currency']");
             $currencyNode = $(".currency");
-            $currencyLabel = $currencyNode.find('.utility-nav-label span');
+            $currencyLabel = $currencyNode.find('.utility-nav-label');
             enterprise.selectedCurrency = $currencyLabel.data('currency');
             attachListeners();
 
             if (cookieCurrency) {
                 //Visually set the checked element
                 $radioGroup .removeClass('selected')
-                            .filter(':checked')
-                            .prop('checked', false)
-                            .closest('label');
+                        .filter(':checked')
+                        .prop('checked', false)
+                        .closest('label');
                 $radioGroup .filter('[value='+cookieCurrency+']')
-                            .prop('checked', true)
-                            .closest('label')
-                            .addClass('selected');
+                        .prop('checked', true)
+                        .closest('label')
+                        .addClass('selected');
                 //Trigger change
                 changeCurrency(cookieCurrency);
             }
@@ -292,12 +354,12 @@
 
         function getCookie() {
             var cookie = document.cookie
-                .split(';')
-                .filter(function(keyVal){
-                    keyVal = keyVal.split('=');
+                    .split(';')
+                    .filter(function(keyVal){
+                        keyVal = keyVal.split('=');
 
-                    return keyVal[0].replace(' ', '') === 'view_currency_code';
-                });
+                        return keyVal[0].replace(' ', '') === 'view_currency_code';
+                    });
 
             return cookie.length && cookie[0].split('=')[1];
         }
@@ -314,11 +376,11 @@
             var selectedSymbol = enterprise.utilities.symbolMap[selectedVal] || "$";
 
             $radioGroup
-                .filter(':checked')
-                .closest('label')
-                .addClass('selected')
-                .siblings()
-                .removeClass('selected');
+                    .filter(':checked')
+                    .closest('label')
+                    .addClass('selected')
+                    .siblings()
+                    .removeClass('selected');
 
             $.ajax({
                 method: "GET",
@@ -333,9 +395,9 @@
                     $currencyLabel.text(selectedVal + " (" + selectedSymbol + ")");
                     // $currencyNode.removeClass('active');
                     $currencyNode
-                        .filter('.active')
-                        .trigger('focus')
-                        .trigger('click');
+                            .filter('.active')
+                            .trigger('focus')
+                            .trigger('click');
                     enterprise.selectedCurrency = selectedVal;
                 }
             });
@@ -352,44 +414,60 @@
     });
 </script>
 </li>
-          <li tabindex="0" role="menuitem" class="language">
-              <div class="countrylanguageselector countrylanguage">
+          <li class="language">
+                  <div class="countrylanguageselector countrylanguage">
 <div>
-	<div class="utility-nav-label country-language-label">
-		<i class="icon icon-nav-globe-green"></i>
-		USA (<span>en</span>)
+
+	<div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="languageSelector">
+		<span class="utility-nav-label"><i class="icon icon-nav-globe-green"></i>
+		USA (en</span>)
 		<i class="icon icon-utility-notch"></i>
 	</div>
-	<div class="utility-nav-content">
+	<div id="languageSelector" class="utility-nav-content">
 		<fieldset>
 			<legend>Language Selector</legend>
 			<div class="field-container language-select">
 				<div class="title">Select a Language</div>
 				
-					
-					<div data-country="usa" class="active">
+					<div data-country="esp">
 						
 							<label>
-								<a class="selected country-language-href" href="/en/home.html">
-									English
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-
-							
-
-						
-							<label>
-								<a class=" country-language-href" href="/es/home.html">
+								<a class=" country-language-href" href="https://www.enterprise.es/es.html">
 									Spanish
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
 							</label>
-
-							
-
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.es/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
 						
 					</div>
+					
+
+
+				
+					<div data-country="deu">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.de/de.html">
+									German
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.de/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
 
 
 				
@@ -405,6 +483,27 @@
 							<label>
 								<a class=" country-language-href" href="https://www.enterprise.ca/fr.html">
 									French
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="fra">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.fr/fr.html">
+									French
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.fr/en.html">
+									English
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
 							</label>
@@ -442,66 +541,30 @@
 
 
 				
-					<div data-country="deu">
+					
+					<div data-country="usa" class="active">
 						
 							<label>
-								<a class=" country-language-href" href="https://www.enterprise.de/de.html">
-									German
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.de/en.html">
+								<a class="selected country-language-href" href="/en/home.html">
 									English
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
 							</label>
-						
-					</div>
-					
 
+							
 
-				
-					<div data-country="fra">
 						
 							<label>
-								<a class=" country-language-href" href="https://www.enterprise.fr/fr.html">
-									French
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.fr/en.html">
-									English
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-					</div>
-					
-
-
-				
-					<div data-country="esp">
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.es/es.html">
+								<a class=" country-language-href" href="/es/home.html">
 									Spanish
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
 							</label>
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.es/en.html">
-									English
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
+
+							
+
 						
 					</div>
-					
 
 
 				
@@ -511,448 +574,25 @@
 </div>
 </div>
 </li>
-          </ul>
+            </ul>
     </nav>
 
-    <nav class="nav" id="mobile-nav">
+    <div class="header-nav-item sign-in">
+          <div id="login-container">
+              <a href="/en/account.html">Sign In</a>
+          </div>
+      </div>
+    <nav class="header-nav-item" id="mobile-nav" aria-expanded="false">
         <ul class="mobile-nav">
             <li class="primary-nav-toggle">
-                <button id="mobile-toggle"><i class="icon icon-hamburger-white"></i></button>
+                <button id="mobile-toggle" aria-label="Explore Enterprise Menu Options">
+                    <i class="icon icon-hamburger-white"></i>
+                </button>
             </li>
         </ul>
     </nav>
 
-    <div class="sign-in">
-        <div id="login-container">
-            <a href="/en/account.html">Sign In</a>
-        </div>
-    </div>
-</div>
-
-<nav class="nav" id="primary-nav">
-
-    <ul class="primary-nav active-cols-6">
-        <li tabindex="0" role="menuitem" class="primary-item"><div class="megamenu megamenu-rent"><div class="primary-nav-label">Rent</div>
-<div class="primary-nav-content">
-	<div class="menu cols-4">
-		<div class="nav-section" role="menu">
-			<div class="title">Reservations<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental.html?icid=header.rent.reservations-_-car.rental-_-ENUS.NULL">
-						Start a Car Reservation</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Header-_-rent.truck-_-en_US">
-						Start a Moving Truck or Van Reservation<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/reserve/view-modify-cancel.html?icid=header.rent.reservations-_-modify-_-ENUS.NULL">
-						View/Modify/Cancel</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://legacy.enterprise.com/car_rental/ticketReceiptRequest.do?cm_mmc=EnterpriseWebsite-_-Header-_-rent.receipts-_-ENUS">
-						Get a Receipt<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/one-way.html?icid=header.rent.reservations-_-oneway-_-ENUS.NULL">
-						One-Way Car Rentals</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/long-term.html?icid=header.rent.reservations-_-long.term-_-ENUS.NULL">
-						Month or More Rentals®</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Vehicles<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/vehicles/us.html?icid=header.rent.vehicles-_-us.vehicles-_-ENUS.NULL">
-						Cars, SUVs, Trucks, Minivans &amp; Vans</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/vehicles.html#vhPersonalTab?cm_mmc=EnterpriseWebsite-_-Header-_-vehicles.personal-_-en_US">
-						Moving Trucks &amp; Vans<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/exotics.html?icid=header.rent.vehicles-_-exotics-_-ENUS.NULL">
-						Exotic Cars</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Replacement Vehicles<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/insurance-replacement.html?icid=header.rent.replacement-_-insurance.replacement-_-ENUS.NULL">
-						Information About Replacement Vehicles</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Businesses<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/business-car-rental.html?icid=header.rent.business-_-business.rental-_-ENUS.NULL">
-						Solutions for Business</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/businessUse.html?cm_mmc=EnterpriseWebsite-_-Header-_-vehicles.business-_-en_US">
-						Enterprise Truck Rental<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.efleets.com/?cm_mmc=EnterpriseWebsite-_-Header-_-rent.efleet-_-en_US">
-						Manage Your Fleet<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-rent-weekend-special-us-v2.jpg.wrend.1280.720.jpeg)">
-	</div>
-</div>
-</div>
-</li>
-        <li tabindex="0" role="menuitem" class="primary-item"><div class="megamenu megamenu-own"><div class="primary-nav-label">Buy</div>
-<div class="primary-nav-content">
-	<div class="menu cols-2">
-		<div class="nav-section" role="menu">
-			<div class="title">Buy a Car<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"><p>Visit our Enterprise Car Sales site to browse our inventory of more than 6,000 vehicles nationwide.</p>
-</div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.browse-_-ENUS">
-						Browse Selection<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/ti-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavTradeIn&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.appraisal-_-ENUS">
-						Free Trade-In Appraisal<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/locations?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavLoc&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.locator-_-ENUS">
-						Store Locator<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/under-15k-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=Nav15k&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.under-_-ENUS">
-						Vehicles Under $15,000<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">About Enterprise Car Sales<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"><p>We have more than 250 makes and models of quality used cars, trucks, vans and SUVs to choose from—all at great prices and backed by one of the industry's best used vehicle warranties.</p>
-</div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/used-cars.html?icid=header.buy.about-_-car.sales-_-ENUS.NULL">
-						Learn More</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-buy.jpg.wrend.1280.720.jpeg)">
-	</div>
-</div>
-</div>
-</li>
-        <li tabindex="0" role="menuitem" class="primary-item"><div class="megamenu megamenu-share"><div class="primary-nav-label">Share</div>
-<div class="primary-nav-content">
-	<div class="menu cols-2">
-		<div class="nav-section" role="menu">
-			<div class="title">Car Sharing<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"><p>Find a program near you and sign up on the Enterprise CarShare site.</p>
-</div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/carshare.html?icid=header.share.carshare-_-carshare-_-ENUS.NULL">
-						About Enterprise CarShare</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.com/us/en/home.html?cm_mmc=EnterpriseWebsite-_-Header-_-share.carshare-_-ENUS">
-						Start Car Sharing<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Ride Sharing<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"><p>Find a program near you and sign up on the Enterprise Rideshare site.</p>
-</div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/rideshare.html?icid=header.share.rideshare-_-rideshare-_-ENUS.NULL">
-						About Enterprise Rideshare</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterpriserideshare.com/vanpool/en.html?cm_mmc=EnterpriseWebsite-_-Header-_-share.rideshare-_-ENUS">
-						Start Ride Sharing<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-share.jpg.wrend.1280.720.jpeg)">
-	</div>
-</div>
-</div>
-</li>
-        <li tabindex="0" role="menuitem" class="primary-item"><div class="megamenu megamenu-learn"><div class="primary-nav-label">Learn</div>
-<div class="primary-nav-content">
-	<div class="menu cols-4">
-		<div class="nav-section" role="menu">
-			<div class="title">The Company<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about.html?icid=header.learn.company-_-about-_-ENUS.NULL">
-						About Us</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/corporate-culture.html?icid=header.learn.company-_-corporate.culture-_-ENUS.NULL">
-						Meet our People</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/supporting-veterans.html?icid=header.learn.company-_-supporting.veterans-_-ENUS.NULL">
-						Supporting Those in Service</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/mobility-solutions.html?icid=header.learn.company-_-mobility.solutions-_-ENUS.NULL">
-						Total Mobility Solutions</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.drivealliance.com?cm_mmc=EnterpriseWebsite-_-Header-_-learn.drive-_-ENUS">
-						Drive Alliance®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Header-_-learn.holdings-_-ENUS">
-						Enterprise Holdings®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://go.enterpriseholdings.com/find-us/recruiters/?cm_mmc=EnterpriseWebsite-_-Header-_-learn.careers-_-ENUS">
-						Careers<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Inspiration<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/inspiration.html?icid=header.learn.inspiration-_-inspiration-_-ENUS.NULL">
-						Travel &amp; Lifestyle</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sustainability.html?icid=header.learn.inspiration-_-sustainability-_-ENUS.NULL">
-						Sustainability</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/renewable-fuels.html?icid=header.learn.inspiration-_-renewable.fuel-_-ENUS.NULL">
-						Renewable Fuel Research</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Loyalty<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/loyalty.html?icid=header.learn.loyalty-_-loyalty-_-ENUS.NULL">
-						Enterprise Plus® Program</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/enroll.html?icid=header.learn.loyalty-_-enroll-_-ENUS.NULL">
-						Join Enterprise Plus®</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Sponsorships<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sponsorships/ncaa.html?icid=nav.header-_-ncaa.landing-_-ENUS.NULL?icid=header.learn.sponsorships-_-ncaa.landing-_-ENUS.NULL">
-						NCAA®</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sponsorships/ncaa/march-madness.html?icid=header.learn.sponsorships-_-march.madness-_-ENUS.NULL">
-						March Madness®</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sponsorships/nhl.html?icid=header.learn.sponsorships-_-nhl.landing-_-ENUS.NULL">
-						NHL</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sponsorships/entertainment.html?icid=header.learn.sponsorships-_-entertainment-_-ENUS.NULL">
-						Entertainment</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-learn.jpg.wrend.1280.720.jpeg)">
-	</div>
-</div>
-</div>
-</li>
-        <li tabindex="0" role="menuitem" class="primary-item"><div class="megamenu-locations megamenu"><div class="primary-nav-label">Locations</div>
-<div class="primary-nav-content">
-	<div class="menu cols-2">
-		<div class="nav-section" role="menu">
-			<div class="title">Car Rental Locations<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/locations/us.html?icid=header.locations.rental-_-us.locations-_-ENUS.NULL">
-						United States Car Rental Locations</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/locations.html?icid=header.locations.rental-_-international.locations-_-ENUS.NULL">
-						International Car Rental Locations</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Other Locations<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Header-_-locations.truck-_-ENUS">
-						Truck Rental Locations</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP?cm_mmc=EnterpriseWebsite-_-Header-_-locations.carsales-_-ENUS">
-						Car Sales Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/exotics.html?icid=header.locations.other-_-exotics-_-ENUS.NULL">
-						Exotic Car Rental Locations</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.com/us/en/locations.html?cm_mmc=EnterpriseWebsite-_-Header-_-locations.carshare-_-ENUS">
-						CarShare Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-locations.jpg.wrend.1280.720.jpeg)">
-	</div>
-</div>
-</div>
-</li>
-        <li tabindex="0" role="menuitem" class="primary-item"><div class="megamenu megamenu-business"><div class="primary-nav-label">For Business</div>
-<div class="primary-nav-content">
-	<div class="menu cols-2">
-		<div class="nav-section" role="menu">
-			<div class="title">Solutions for Business<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/business-car-rental.html?icid=header.business.solutions-_-business.rental-_-ENUS.NULL">
-						Enterprise Business Rental Program</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Header-_-business.trucks-_-ENUS">
-						Enterprise Truck Rental<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section" role="menu">
-			<div class="title">Enterprise Fleet Management<i class="icon icon-nav-carrot-white"></i></div>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.efleets.com/?cm_mmc=EnterpriseWebsite-_-Header-_-nav-_-en_US?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.learn-_-ENUS">
-						Learn More<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.efleets.com/contact?cm_mmc=EnterpriseWebsite-_-Header-_-nav-_-en_US?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.contact-_-ENUS">
-						Contact Us<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://login.efleets.com/fleets/Home.action?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.client-_-ENUS">
-						Client Login<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-us-for-business.jpg.wrend.1280.720.jpeg)">
-	</div>
-</div>
-</div>
-</li>
-    </ul>
-    <div class="mobile-utility">
+    <div class="mobile-utility header-nav-item">
         <div class="help mobilehelp"><div class="mobile-utility-item">
     <a href="/en/help/contact.html">
         <i class="icon icon-nav-assistance-1-white"></i>
@@ -962,6 +602,18 @@
 </div>
 <div class="countryLanguage mobilecountrylanguageselector"><div>
 	<select onchange="window.location=this.value">
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
 		
 			
 				
@@ -978,18 +630,6 @@
 				
 				
 			
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
 		
 	</select>
 </div></div>
@@ -1043,32 +683,453 @@
 	MobileCurrencySelectorModule.init();
 </script></div>
 </div>
+
+            </div>
+        </div>
+        <div class="nav-container"><nav class="nav" id="primary-nav">
+    <ul class="primary-nav active-cols-6" role="menu">
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-rent"><div class="primary-nav-label">Rent</div>
+<div class="primary-nav-content">
+	<div class="menu cols-4">
+		<div class="nav-section" role="menu">
+			<div class="title">Reservations<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental.html?icid=header.rent.reservations-_-car.rental-_-ENUS.NULL">
+						Start a Car Reservation</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Header-_-rent.truck-_-en_US">
+						Start a Moving Truck or Van Reservation<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/reserve/view-modify-cancel.html?icid=header.rent.reservations-_-modify-_-ENUS.NULL">
+						View/Modify/Cancel</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://legacy.enterprise.com/car_rental/ticketReceiptRequest.do?cm_mmc=EnterpriseWebsite-_-Header-_-rent.receipts-_-ENUS">
+						Get a Receipt<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/one-way.html?icid=header.rent.reservations-_-oneway-_-ENUS.NULL">
+						One-Way Car Rentals</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/long-term.html?icid=header.rent.reservations-_-long.term-_-ENUS.NULL">
+						Month or More Rentals®</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Vehicles<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/vehicles/us.html?icid=header.rent.vehicles-_-us.vehicles-_-ENUS.NULL">
+						Cars, SUVs, Trucks, Minivans &amp; Vans</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/vehicles.html#vhPersonalTab?cm_mmc=EnterpriseWebsite-_-Header-_-vehicles.personal-_-en_US">
+						Moving Trucks &amp; Vans<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/exotics.html?icid=header.rent.vehicles-_-exotics-_-ENUS.NULL">
+						Exotic Cars</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Replacement Vehicles<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/insurance-replacement.html?icid=header.rent.replacement-_-insurance.replacement-_-ENUS.NULL">
+						Information About Replacement Vehicles</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Businesses<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/business-car-rental.html?icid=header.rent.business-_-business.rental-_-ENUS.NULL">
+						Solutions for Business</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/businessUse.html?cm_mmc=EnterpriseWebsite-_-Header-_-vehicles.business-_-en_US">
+						Enterprise Truck Rental<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.efleets.com/?cm_mmc=EnterpriseWebsite-_-Header-_-rent.efleet-_-en_US">
+						Manage Your Fleet<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-rent-weekend-special.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-own"><div class="primary-nav-label">Buy</div>
+<div class="primary-nav-content">
+	<div class="menu cols-2">
+		<div class="nav-section" role="menu">
+			<div class="title">Buy a Car<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"><p>Visit our Enterprise Car Sales site to browse our inventory of more than 6,000 vehicles nationwide.</p>
+</div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.browse-_-ENUS">
+						Browse Selection<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/ti-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavTradeIn&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.appraisal-_-ENUS">
+						Free Trade-In Appraisal<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/locations?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavLoc&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.locator-_-ENUS">
+						Store Locator<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/under-15k-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=Nav15k&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.under-_-ENUS">
+						Vehicles Under $15,000<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">About Enterprise Car Sales<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"><p>We have more than 250 makes and models of quality used cars, trucks, vans and SUVs to choose from—all at great prices and backed by one of the industry's best used vehicle warranties.</p>
+</div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/used-cars.html?icid=header.buy.about-_-car.sales-_-ENUS.NULL">
+						Learn More</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-buy.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-share"><div class="primary-nav-label">Share</div>
+<div class="primary-nav-content">
+	<div class="menu cols-2">
+		<div class="nav-section" role="menu">
+			<div class="title">Car Sharing<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"><p>Find a program near you and sign up on the Enterprise CarShare site.</p>
+</div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/carshare.html?icid=header.share.carshare-_-carshare-_-ENUS.NULL">
+						About Enterprise CarShare</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.com/us/en/home.html?cm_mmc=EnterpriseWebsite-_-Header-_-share.carshare-_-ENUS">
+						Start Car Sharing<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Ride Sharing<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"><p>Find a program near you and sign up on the Enterprise Rideshare site.</p>
+</div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/rideshare.html?icid=header.share.rideshare-_-rideshare-_-ENUS.NULL">
+						About Enterprise Rideshare</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterpriserideshare.com/vanpool/en.html?cm_mmc=EnterpriseWebsite-_-Header-_-share.rideshare-_-ENUS">
+						Start Ride Sharing<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-share.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-learn"><div class="primary-nav-label">Learn</div>
+<div class="primary-nav-content">
+	<div class="menu cols-4">
+		<div class="nav-section" role="menu">
+			<div class="title">The Company<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about.html?icid=header.learn.company-_-about-_-ENUS.NULL">
+						About Us</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/corporate-culture.html?icid=header.learn.company-_-corporate.culture-_-ENUS.NULL">
+						Meet our People</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/supporting-veterans.html?icid=header.learn.company-_-supporting.veterans-_-ENUS.NULL">
+						Supporting Those in Service</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/mobility-solutions.html?icid=header.learn.company-_-mobility.solutions-_-ENUS.NULL">
+						Total Mobility Solutions</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.drivealliance.com?cm_mmc=EnterpriseWebsite-_-Header-_-learn.drive-_-ENUS">
+						Drive Alliance®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Header-_-learn.holdings-_-ENUS">
+						Enterprise Holdings®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://go.enterpriseholdings.com/find-us/recruiters/?cm_mmc=EnterpriseWebsite-_-Header-_-learn.careers-_-ENUS">
+						Careers<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Inspiration<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/inspiration.html?icid=header.learn.inspiration-_-inspiration-_-ENUS.NULL">
+						Travel &amp; Lifestyle</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/sustainability.html?icid=header.learn.inspiration-_-sustainability-_-ENUS.NULL">
+						Sustainability</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/renewable-fuels.html?icid=header.learn.inspiration-_-renewable.fuel-_-ENUS.NULL">
+						Renewable Fuel Research</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Loyalty<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/loyalty.html?icid=header.learn.loyalty-_-loyalty-_-ENUS.NULL">
+						Enterprise Plus® Program</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/enroll.html?icid=header.learn.loyalty-_-enroll-_-ENUS.NULL">
+						Join Enterprise Plus®</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Sponsorship<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/sponsorships/ncaa.html">
+						NCAA®</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/sponsorships/nhl.html">
+						NHL</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/sponsorships/entertainment.html">
+						Entertainment</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-learn.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu-locations megamenu"><div class="primary-nav-label">Locations</div>
+<div class="primary-nav-content">
+	<div class="menu cols-2">
+		<div class="nav-section" role="menu">
+			<div class="title">Car Rental Locations<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/locations/us.html?icid=header.locations.rental-_-us.locations-_-ENUS.NULL">
+						United States Car Rental Locations</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/locations.html?icid=header.locations.rental-_-international.locations-_-ENUS.NULL">
+						International Car Rental Locations</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Other Locations<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisetrucks.com/truckrental/en_US/locations.html">
+						Truck Rental Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP?cm_mmc=EnterpriseWebsite-_-Header-_-locations.carsales-_-ENUS">
+						Car Sales Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/exotics.html?icid=header.locations.other-_-exotics-_-ENUS.NULL">
+						Exotic Car Rental Locations</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.com/us/en/locations.html?cm_mmc=EnterpriseWebsite-_-Header-_-locations.carshare-_-ENUS">
+						CarShare Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-locations.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-business"><div class="primary-nav-label">For Business</div>
+<div class="primary-nav-content">
+	<div class="menu cols-2">
+		<div class="nav-section" role="menu">
+			<div class="title">Solutions for Business<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/business-car-rental.html?icid=header.business.solutions-_-business.rental-_-ENUS.NULL">
+						Enterprise Business Rental Program</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Header-_-business.trucks-_-ENUS">
+						Enterprise Truck Rental<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Enterprise Fleet Management<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.efleets.com/?cm_mmc=EnterpriseWebsite-_-Header-_-nav-_-en_US?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.learn-_-ENUS">
+						Learn More<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://www.efleets.com/contact?cm_mmc=EnterpriseWebsite-_-Header-_-nav-_-en_US?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.contact-_-ENUS">
+						Contact Us<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="http://login.efleets.com/fleets/Home.action?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.client-_-ENUS">
+						Client Login<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/nav/nav-us-for-business.jpg)">
+	</div>
+</div>
+</div>
+</li>
+    </ul>
 </nav>
 </div>
     </div>
 
-
 </header>
-    <section><!-- Breadcrumb Band -->
+    <div><!-- Breadcrumb Band -->
 <div>
-	<nav class="band breadcrumb-band">
-		<div class="cf">
-			<ul>
-				
-					<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-						<a href="/en/home.html" itemprop="url">
-							<span itemprop="title">Home</span>
-						</a><span> / </span>
-					</li>
-				
-				<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a class="current" href="/en/privacy-policy.html" itemprop="url">
-						<span itemprop="title">Privacy Policy</span>
-					</a>
-				</li>
-			</ul>
-		</div>
-	</nav>
+    <nav class="band breadcrumb-band">
+        <div class="cf">
+            <ul>
+                
+                    <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" id="/content/ecom/en/home.html" itemref="/content/ecom/en/privacy-policy.html">
+                        <a href="/en/home.html" itemprop="url"><span itemprop="title">Home</span></a><span role="presentation" aria-hidden="true"> / </span>
+                    </li>
+                    
+                
+                    
+                    <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" id="/content/ecom/en/privacy-policy.html" itemprop="child">
+                        <a class="current" href="/en/privacy-policy.html" itemprop="url">
+                            <span itemprop="title">Privacy Policy</span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </nav>
 </div>
 
 <!-- AddThis Social Band -->
@@ -1085,20 +1146,24 @@
             
             
             <div>
-                <h1>Global Privacy Policy</h1>
+                <h1>GLOBAL PRIVACY POLICY</h1>
 
-<p>This policy was last updated on <b>March 14, 2016.</b></p>
+<p>This policy was last updated on <b>September 26, 2016.</b></p>
 
-<p>At Enterprise Holdings, Inc., through our <a href="/en/privacy-policy/subsidiaries.html" target="_blank">subsidiaries</a> operating under the Enterprise Rent-A-Car, Truck Rental, Car Sales, RideShare, and CarShare, Alamo Rent A Car, National Car Rental, and at Enterprise Fleet Management, Inc., (collectively, "<b>EHI</b>", "<b>we</b>", "<b>our</b>" or "<b>us</b>"), we respect your privacy. We implemented this privacy policy ("<b>Privacy Policy</b>") to explain to you how we use and protect the personal information we may gather from and about our customers by means of our websites, mobile applications, online booking widgets (i.e. online booking applications run by our third-party partners such as hotel providers, airlines, etc), our corporate, rental, and sales locations, and from third-party sources. By using our websites or mobile applications, you consent to the collection, use, and disclosure of your information, as described in this Privacy Policy.</p>
+<p>&nbsp;</p>
+
+<div><a href="//privacy.truste.com/privacy-seal/validation?rid=ccf357c3-0d33-473a-ae05-1eac9f17a02c" title="TRUSTe Privacy" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/seal?rid=ccf357c3-0d33-473a-ae05-1eac9f17a02c" alt="TRUSTe Privacy"></a></div>
+
+<p>&nbsp;</p>
+
+<p>At Enterprise Holdings, Inc., through our <a href="/en/privacy-policy/subsidiaries.html" target="_blank">subsidiaries</a> operating the Enterprise Rent-A-Car, National Car Rental and Alamo Rent A Car brands as well as Truck Rental, Car Sales, RideShare, and CarShare, and at Enterprise Fleet Management, Inc., (collectively, "Enterprise Holdings", "we", "our" or "us"), we respect your privacy. We implemented this privacy policy ("Privacy Policy") to explain to you how we use and protect the personal information we may gather from and about our customers by means of our websites, mobile applications, online booking widgets (i.e. online booking applications run by our third-party partners such as hotel providers, airlines, etc), our corporate, rental, and sales locations, and from third-party sources. By using our websites or mobile applications, you consent to the collection, use, and disclosure of your information, as described in this Privacy Policy.</p>
 
 
-<p>To identify who the data controller is in respect of your personal data, please see <a href="#anchor1">Data Controllers and Contact Details by Country</a>.</p>
+<p>To identify who the data controller is in respect of your personal data, please see <a href="https://www.enterprise.com/en/privacy-policy.html?icid=footer.legal-privacy-ENUS.NULL#anchor1" target="_blank">Data Controllers and Contact Details by Country</a>.</p>
 
+<p>The nature of the business and operations require us to share your reservation and booking information with our franchisees or licensees, which are owned and operated by independent Entities ("Licensees"). For these transactions, the Licensee is an independent data controller and may maintain its own privacy policy in respect of the rental data that you provide to the Licensee. You are encouraged to check the privacy policy of the Licensee that is applicable to your transaction.</p>
 
-<p>The nature of our business and our operations may require us to share your reservation and booking information with our franchisees or licensees, which are owned and operated by independent licensees ("<a href="/en/privacy-policy/licensees.html" target="_blank">Licensees</a>"). For these transactions, the Licensee is an independent data controller and maintains its own privacy policy in respect of the rental data that you provide to the Licensee. You are encouraged to check the privacy policy of the Licensee that is applicable to your transaction.</p>
-
-
-<p>EHI has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@ehi.com">privacy@ehi.com</a> and we will respond to you within a reasonable period of time unless otherwise required by law. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a> or in Canada you may contact the Privacy Commissioner of Canada by visiting <a href="https://www.priv.gc.ca/cu-cn/index_e.asp" target="_blank">https://www.priv.gc.ca/cu-cn/index_e.asp</a> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3. To view the digital properties covered by the TRUSTe program, please click <a href="/en/privacy-policy/truste-certified.html" target="_blank">here</a>.</p>
+<p>&nbsp;</p>
 
 <p><a href="#anchor4">The Types of Information We Collect</a><br>
 <a href="#anchor5">How We Use This Information</a><br>
@@ -1107,18 +1172,16 @@
 <a href="#anchor8">Data Security and Integrity</a><br>
 <a href="#anchor9">Global Data Transfers and Processing</a><br>
 <a href="#anchor10">Changes in Terms</a><br>
-<a href="#anchor2">Contacting EHI</a><br>
-<a href="/en/privacy-policy/cookie-policy.html" target="_blank">Online Tracking and Advertisements</a><br>
-<br>
-</p>
+<a href="#anchor2">Contacting Us</a><br>
+<a target="_blank" href="/en/privacy-policy/cookie-policy.html">Online Tracking and Advertisements</a></p>
 
 <h2><a name="anchor4"></a>The Types of Information We Collect</h2>
 
 <h3>Information Collected About You</h3>
 
-<p>You may provide us with certain information in connection with a transaction or in your interactions with our websites and at our EHI-branded locations. When you are asked to provide personal information, you may decline. If you choose not to provide the information, you may not be able to use some products or services. The personal information we may collect includes:</p>
+<p>You may provide us with certain information in connection with a transaction or in your interactions with our websites and at our locations. When you are asked to provide personal information, you may decline. If you choose not to provide the information, you may not be able to use some products or services. The personal information we may collect includes:</p>
 
-<ul>
+<ul style="padding-left: 5.0%;padding-right: 15.0%;">
 <li>Your name, contact information, driver’s license number and expiration date, emergency contact information, and date of birth;</li>
 <li>Vehicle rental information, including the location of where the vehicle is rented, date of rentals, type of rental, and your preferences;</li>
 <li>Your credit card details, Enterprise, Alamo, or National rewards information, online user accounts details, membership/corporate ID numbers, passport information, and frequent flyer or travel partner affiliations;</li>
@@ -1128,9 +1191,9 @@
 <li>Additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents, Car Sales lead providers or similar providers).</li>
 </ul>
 
-<p>With your consent we may access location-based information from your mobile device or based on your IP address. We may also use your mobile device location information to provide you with notifications with your consent. We do not use this information to specifically locate you for any reason other than to provide you the service. If you have allowed us to utilize your location information in the past and wish to revoke the permissions, please turn off location services at the device level. With your consent, our application may utilize your device’s camera feature to upload photos (such as your receipts) to the application. If you have allowed the application to utilize your camera and wish to revoke the permissions to do so, please do so at the device level.</p>
+<p>With your consent, we may access location-based information from your mobile device or based on your IP address. We may also use your mobile device location information to provide you with notifications with your consent. We do not use this information to specifically locate you for any reason other than to provide you the service. If you have allowed us to utilize your location information in the past and wish to revoke the permissions, please turn off location services at the device level. With your consent, our application may utilize your device’s camera feature to upload photos (such as your receipts) to the application. If you have allowed the application to utilize your camera and wish to revoke the permissions to do so, please do so at the device level.</p>
 
-<p>In certain areas of our sites, we provide you the ability to enter your friend’s name and contact information in order for EHI to send your friend a one-time email inviting him or her to visit the sites. We also provide you the ability to enter a friend’s or other individual’s name and contact information in order to make bookings for that friend or other individual. You must have obtained the consent of your friends before making such submissions. The information you provide will not be used for any further marketing purpose unless your friend requests services or we otherwise obtain consent from that person. Please be aware that when you use any send-to-a-friend functionality on our sites, your name and e-mail address may be included in the communication sent to your friend.</p>
+<p>In certain areas of our sites, we provide you the ability to enter your friend’s name and contact information in order for us to send your friend a one-time email inviting him or her to visit the sites. We also provide you the ability to enter a friend’s or other individual’s name and contact information in order to make bookings for that friend or other individual. You must have obtained the consent of your friends before making such submissions. The information you provide will not be used for any further marketing purpose unless your friend requests services or we otherwise obtain consent from that person. Please be aware that when you use any send-to-a-friend functionality on our sites, your name and e-mail address may be included in the communication sent to your friend.</p>
 
 <h3>Information Collected and Stored Automatically</h3>
 
@@ -1139,24 +1202,24 @@
 <h3>Cookies &amp; Pixel Tracking</h3>
 
 
-<p>EHI and our partners use cookies, pixel tags, etags, HTML 5 storage and similar technologies on most of our sites and in promotional emails which we may send to you. We use them to monitor and understand your use of our websites and services; improve your user experience and enable personalized features and content; optimize our advertisements and marketing and see which email promotions were of interest to you; and assist third-party advertising companies to serve ads on our behalf across the Internet. At this time, EHI websites do not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser. However, you have other options for preventing or limiting the use of cookies and similar technologies. To learn how to manage privacy and storage settings for Flash cookies, please <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">click here</a>. To learn more, please see our <a href="/en/privacy-policy/cookie-policy.html" target="_blank">Online Tracking and Advertising</a> page.</p>
+<p>Enterprise Holdings and our partners use cookies, pixel tags, etags, HTML 5 storage and similar technologies on most of our sites and in promotional emails which we may send to you. We use them to monitor and understand your use of our websites and services; improve your user experience and enable personalized features and content; optimize our advertisements and marketing and see which email promotions were of interest to you; and assist third-party advertising companies to serve ads on our behalf across the Internet. At this time, our websites do not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser. However, you have other options for preventing or limiting the use of cookies and similar technologies. To learn how to manage privacy and storage settings for Flash cookies, please <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">click here</a>. To learn more, please see our <a href="/en/privacy-policy/cookie-policy.html" target="_blank">Online Tracking and Advertising</a> page.</p>
 
-<h3><b>Vehicle Operation and Location Data</b></h3>
+<h3>Vehicle Operation and Location Data</h3>
 
-<p>EHI vehicles may be equipped with OnStar or another vehicle telematics system (“Telematics System”). Some or all Telematics System functionality may or may not be active during rental periods. Telematics Systems may provide use, disclosure of, or access to (1) location information, (2) crash notification and related crash data and, (3) operational condition, mileage, diagnostic and performance reporting of vehicles (“Telematics Data”), as permitted by law.</p>
+<p>Enterprise Holdings’ vehicles may be equipped with OnStar or another vehicle telematics system (“Telematics System”). Some or all Telematics System functionality may or may not be active during rental periods. Telematics Systems may provide use, disclosure of, or access to (1) location information, (2) crash notification and related crash data and, (3) operational condition, mileage, diagnostic and performance reporting of vehicles (“Telematics Data”), as permitted by law.</p>
 
 <p>Use of the Telematics System is subject to the terms and conditions and privacy policy posted by the applicable Telematics Systems provider and/or vehicle manufacturer (in the case of OnStar, information is available at www.onstar.com), which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices, descriptions of use and sharing of information, and user responsibilities.</p>
 
 <h3>Children’s Privacy</h3>
 
 
-<p>Our websites and online marketing are not directed to, and Enterprise does not knowingly collect personal information from, children under the age of 18 or your country’s age of minority. If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it, please email us at <a href="mailto:customerservice@erac.com">customerservice@erac.com</a>.</p>
+<p>Our websites and online marketing are not directed to, and Enterprise Holdings does not knowingly collect personal information from, children under the age of 18 or your country’s age of minority. If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it, please email us at <a href="mailto:privacy@ehi.com">privacy@ehi.com</a>.</p>
 
 <h2><a name="anchor5"></a>How We Use This Information</h2>
 
 <p>We use the information we collect for the following purposes:</p>
 
-<ul>
+<ul style="padding-left: 5.0%;padding-right: 15.0%;">
 <li>To assist the transactions that you request, such as reserving and renting motor vehicles.</li>
 <li>To verify a valid ID when submitting a photo of yourself and drivers license for one of our CarSharing, afterhours or expedited rental services. We do not store this information for any other purpose.</li>
 <li>To service your account or membership with us, respond to your questions and contact you when necessary.</li>
@@ -1173,11 +1236,11 @@
 <h2><a name="anchor6"></a>How Your Information May Be Shared</h2>
 
 
-<p>We may disclose the information we collect from and about you to our subsidiaries for the purpose of providing the transactions you have requested and for marketing purposes. In addition to those stated within this Policy, Telematics Data from rental vehicles may be disclosed to, accessed by or used by EHI, our affiliates, emergency service providers, others who may assist in responding to an accident, telematics service operators, or those with whom we have a legal or contractual obligation to provide such data. Our affiliates and our subsidiary employees in our IT, marketing, operations and customer service divisions may use your information, as described in this Policy. To update your marketing preferences please see the <a href="#anchor2">Contacting EHI</a> section below.</p>
+<p>We may disclose the information we collect from and about you to our subsidiaries for the purpose of providing the transactions you have requested and for marketing purposes. In addition to those stated within this Policy, Telematics Data from rental vehicles may be disclosed to, accessed by or used by Enterprise Holdings, our affiliates, emergency service providers, others who may assist in responding to an accident, telematics service operators, or those with whom we have a legal or contractual obligation to provide such data. Our affiliates and our subsidiary employees in our IT, marketing, operations and customer service divisions may use your information, as described in this Policy. To update your marketing preferences please see the <a href="#anchor2">Contacting Us</a> section below.</p>
 
 <p>We also may disclose your information to other third parties: (1) when required by law or in response to legal process; (2) without legal process in response to a request from law enforcement relating to a criminal investigation; (3) to protect our rights, privacy, safety or property, or of the public; (4) for administrative, technical support or other business purposes to facilitate our transactions with you (i.e. for your insurance replacement, corporate rental or through one of our partners), analyze our data, conduct mobile analytics services, or to maintain and improve our services (subject to confidentiality agreements as appropriate); (5) to permit us to pursue available remedies or limit damage that we may sustain; (6) to enforce the terms of any rental agreement or our websites’ terms and conditions; (7) to assist with the administration of frequent flyer or other rewards programs; (8) to process your transaction with our subsidiaries, affiliates or licensee/franchisee located in the country in which you place your reservation; (9) if the rights of another individual might be violated and (10) otherwise with your consent.</p>
 
-<p>Personal information may also be subject to transfer to another company in the event of a transfer, change of ownership, reorganization or assignment of all or part of EHI, our subsidiaries/affiliated companies or our assets. This will occur provided that the parties have entered into an agreement under which the collection, use and disclosure of the information is limited to those purposes of the business transaction, including a determination whether or not to proceed with the business transaction. You will be notified via email or prominent notice on our websites for thirty (30) days of any such change in ownership or control of your personal information.</p>
+<p>Personal information may also be subject to transfer to another company in the event of a transfer, change of ownership, reorganization or assignment of all or part of Enterprise Holdings’ businesses or assets. This will occur provided that the parties have entered into an agreement under which the collection, use and disclosure of the information is limited to those purposes of the business transaction, including a determination whether or not to proceed with the business transaction. You will be notified via email or prominent notice on our websites for thirty (30) days of any such change in ownership or control of your personal information.</p>
 
 <p>We may disclose your personal information to third-party service providers (such as a payment processor to bill you for goods or services, an email provider to send email communications to you on our behalf, or the provider of our live chat feature in order to offer you customer service). These service providers may be located in a country different from your country of residence, such as the United States or a European Union member country. These service providers are contractually required to maintain the confidentiality and security of your information. However, your information may be accessible to U.S. or EU authorities in accordance with applicable laws.</p>
 
@@ -1186,12 +1249,12 @@
 <h3><a name="anchor7"></a>Choices You Can Make About Your Information</h3>
 
 
-<p>Throughout our websites, we provide choices about the collection, use, and sharing of your information. For example, you must affirmatively request to receive email advertisements from us, our affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. You may choose to opt back in to our email advertisements at any time, in which case your most recent action will prevail. We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the <a href="#anchor2">Contacting EHI</a> section below.</p>
+<p>Throughout our websites, we provide choices about the collection, use, and sharing of your information. For example, you must affirmatively request to receive email advertisements from us, our affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. You may choose to opt back in to our email advertisements at any time, in which case your most recent action will prevail. We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the <a href="#anchor2">Contacting Us</a> section below.</p>
 
 <h3>Testimonials</h3>
 
 
-<p>We may post customer testimonials/comments/reviews on our websites which may contain personally identifiable information. We will obtain your consent via email prior to posting the testimonial. To request the removal of your testimonial, please contact us through one of the methods listed below in the <a href="#anchor2">Contacting EHI</a> section.</p>
+<p>We may post customer testimonials/comments/reviews on our websites which may contain personally identifiable information. We will obtain your consent via email prior to posting the testimonial. To request the removal of your testimonial, please contact us through one of the methods listed below in the <a href="#anchor2">Contacting Us</a><u> </u>section.</p>
 
 <h3>Linked Sites</h3>
 
@@ -1205,32 +1268,49 @@
 
 <h2><a name="anchor9"></a>Global Data Transfers and Processing</h2>
 
+<p>We will use your information in the country in which your service and transaction occurs. Please be aware that, unless prohibited by law, your use or continued use of our websites and mobile applications signifies your express consent that information may be transferred to or stored on servers and processed outside the country of your residence, including any of the countries where we do business. Please also be aware that the privacy laws of the United States or other countries where information may be stored may not be as comprehensive or offer as much protection as the laws of other countries including your country of residence. You may request us not to make such transfers, but if you do, we may not be able to provide some or all of our products or services to you.</p>
 
-<p>We will use your information in the country in which your service and transaction occurs. Please be aware that, unless prohibited by law, your use or continued use of our websites and mobile applications signifies your express consent that information may be transferred to or stored on servers and processed outside the country of your residence, <a href="/en/privacy-policy/licensees.html" target="_blank">including any of the countries where we do business</a>. Please also be aware that the privacy laws of the United States or other countries where information may be stored may not be as comprehensive or offer as much protection as the laws of other countries including your country of residence. You may request us not to make such transfers, but if you do, we may not be able to provide some or all of our products or services to you.</p>
+<p>Enterprise Holdings and its wholly owned <a href="/en/privacy-policy/subsidiaries.html" target="_blank">subsidiaries</a> participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework. Enterprise Holdings is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the <a href="https://www.privacyshield.gov/list" target="_blank">U.S. Department of Commerce’s Privacy Shield List </a>.</p>
 
-<p>When transferring personal data to countries outside the European Economic Area, we comply with European Union law by transferring to recipients who abide by Safe Harbor Principles, as set forth by the U.S. Department of Commerce, or by using standard contract clauses approved by the European Commission, or by adopting other means to ensure that adequate safeguards are applied, or by obtaining your consent.</p>
+<p>Enterprise Holdings is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Enterprise Holdings complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.</p>
+
+
+<p>With respect to personal data received<b> </b>or<b> </b>transferred pursuant to the Privacy Shield Framework, Enterprise Holdings is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Enterprise Holdings may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.<br>
+<br>
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>, or in Canada, you may contact the Privacy Commissioner of Canada by visiting <a href="https://www.priv.gc.ca/cu-cn/index_e.asp" target="_blank">https://www.priv.gc.ca/cu-cn/index_e.asp</a> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3.</p>
+
+
+<p>Under certain conditions, more fully described on the Privacy Shield website [<a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+
+
+<p>To view the digital properties that comply with Privacy Shield, please click <a href="/en/privacy-policy/truste-certified.html" target="_blank">here</a>.</p>
+
+
+<p>We abide by the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Economic Area and Switzerland. Enterprise Holdings has certified that it adheres to the relevant Safe Harbor Privacy Principles. To learn more about the Safe Harbor program and to view EHI’s certification, please visit the Department of Commerce’s Safe Harbor website at <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
+
+<p>When transferring personal data to countries outside the European Economic Area, we comply with European Union law by using standard contract clauses approved by the European Commission, or by adopting other means to ensure that adequate safeguards are applied, or by obtaining your consent.</p>
 
 <h2><a name="anchor10"></a>Changes in Terms</h2>
 
-<p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<p>We may update this privacy policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
 
-<h2><a name="anchor2"></a>Contacting EHI</h2>
+<h2><a name="anchor2"></a>Contacting Us</h2>
 
 
-<p>The accuracy and completeness of the information we collect is very important to us and we make efforts to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to opt-out of direct marketing or review, amend, correct, update or delete personally identifiable information we have collected about you or limit how we use it contact us at the information provided below. In addition to rights to review, amend, correct, update and delete personal data, you may also have rights to object to some processing of personal data. Please also contact us if you have any questions about privacy on our websites. You may contact us via email at <a href="mailto:customerservice@erac.com">customerservice@erac.com</a>, and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days, unless a shorter period is required. If that is the case, local legal requirements would apply.</p>
+<p>The accuracy and completeness of the information we collect is very important to us and we make efforts to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to opt-out of direct marketing or review, amend, correct, update or delete personally identifiable information we have collected about you or limit how we use it, contact us at the information provided below. In addition to rights to review, amend, correct, update and delete personal data, you may also have rights to object to some processing of personal data. Please also contact us if you have any questions about privacy on our websites. You may contact us via email at <a href="mailto:privacy@ehi.com">privacy@ehi.com</a>, and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days, unless a shorter period is required. If that is the case, local legal requirements would apply.</p>
 
 <p>We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.</p>
 
 <h3><a name="anchor1"></a>DATA CONTROLLERS AND CONTACT INFORMATION BY COUNTRY:</h3>
 
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellspacing="0" cellpadding="2" border="1">
 <tbody><tr><td valign="top" colspan="3"><p><b>If you are making a rental, or visiting a website or mobile site, in the following countries, the data controller will be listed as below.</b></p>
 </td>
 </tr><tr><td width="170" valign="top"><p><b>Country</b></p>
 </td>
 <td width="180" valign="top"><p><b>Data Controller</b></p>
 </td>
-<td width="316" valign="top"><p><b>Contract Information</b></p>
+<td width="316" valign="top"><p><b>Contact Information</b></p>
 </td>
 </tr><tr><td width="170" valign="top"><p>United States of America</p>
 </td>
@@ -1244,31 +1324,30 @@
 <td width="180" valign="top"><p>Enterprise Rent-A-Car Canada Company</p>
 </td>
 <td width="316" valign="top"><p>Enterprise, Internet Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105</p>
-<p>Canadian Customers may also seek advise from the Office of the Privacy Commissioner of Canada (at 1-800-282-1376 or info@privcom.gc.ca)</p>
-</td>
+Canadian Customers may also seek advice from the Office of the Privacy Commissioner of Canada (at 1-800-282-1376 or info@privcom.gc.ca)</td>
 </tr><tr><td width="170" valign="top"><p>United Kingdom</p>
 </td>
 <td width="180" valign="top"><p>Enterprise Rent-A-Car UK Limited</p>
 </td>
-<td width="316" valign="top"><p>Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY.</p>
+<td width="316" valign="top"><p>Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9FB.</p>
 </td>
 </tr><tr><td width="170" valign="top"><p>Ireland</p>
 </td>
 <td width="180" valign="top"><p>ERAC Ireland Limited</p>
 </td>
-<td width="316" valign="top"><p>ERAC Ireland, Head Office Motokov Complex, Longmile Road, West Dublin, Dublin 12.</p>
+<td width="316" valign="top"><p>Unit 4 Lyncon Court, Snugborough Road, Blanchardstown Business Park, Dublin 15</p>
 </td>
 </tr><tr><td width="170" valign="top"><p>Germany</p>
 </td>
-<td width="180" valign="top"><p>Enterprise Autovermietung Deutschland GmbH</p>
+<td width="180" valign="top"><p>Enterprise Autovermietung Deutschland B.V. &amp; Co. KG</p>
 </td>
 <td width="316" valign="top"><p>Enterprise, Internet Privacy Questions, Mergenthaler Allee 35-37, 65760 Eschborn.</p>
 </td>
 </tr><tr><td width="170" valign="top"><p>France</p>
 </td>
-<td width="180" valign="top"><p>Citer, S.A.</p>
+<td width="180" valign="top"><p>Enterprise Holdings France S.A.</p>
 </td>
-<td width="316" valign="top"><p>Enterprise, Internet Privacy Questions, 165 bis, rue de Vaugirard, B.P. 36-75721 Paris Cedex 15.</p>
+<td width="316" valign="top"><p>Enterprise, Internet Privacy Questions, 37 rue du Colonel Pierre Avia, Paris, 75015</p>
 </td>
 </tr><tr><td width="170" valign="top"><p>Spain</p>
 </td>
@@ -1282,13 +1361,13 @@
 </td>
 <td width="180" valign="top"><p><b>Data Controller</b></p>
 </td>
-<td width="316" valign="top"><p><b>Contract Information</b></p>
+<td width="316" valign="top"><p><b>Contact Information</b></p>
 </td>
 </tr><tr><td width="170" valign="top"><p>Albania, Austria, Belgium, Bosnia. Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Montenegro, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Switzerland, Turkey</p>
 </td>
 <td width="180" valign="top"><p>EAN Data Services UK Limited</p>
 </td>
-<td width="316" valign="top"><p>Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY</p>
+<td width="316" valign="top"><p>Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9FB</p>
 <p>&nbsp;</p>
 </td>
 </tr><tr><td valign="top" colspan="3"><p><b>If you are located within the European Economic Area and you use a “pre-pay” function, the controller for your payment information is listed below.</b></p>
@@ -1297,14 +1376,15 @@
 </td>
 <td width="180" valign="top"><p><b>Data Controller</b></p>
 </td>
-<td width="316" valign="top"><p><b>Contract Information</b></p>
+<td width="316" valign="top"><p><b>Contact Information</b></p>
 </td>
 </tr><tr><td width="170" valign="top"><p>European Economic Area</p>
 </td>
 <td width="180" valign="top"><p>EAN Data Services UK Limited</p>
 </td>
-<td width="316" valign="top"><p>Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY</p>
-<p>&nbsp;</p>
+<td width="316" valign="top"><p>Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9FB</p>
+</td>
+</tr><tr><td valign="top" colspan="3"><p><b>For all other global locations, if you make a rental in one of these countries, the controller for the rental will be the licensee identified in the rental agreement.</b></p>
 </td>
 </tr></tbody></table>
 
@@ -1326,240 +1406,283 @@
 <!-- AddThis Social Band -->
 <div class="bottom"></div>
 
-
-
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-05-26-12-07/home.min.js"></script>
-
-
-</section>
+</div>
     <footer class="cf">
 	<div class="logo">
 		<a href="/en.html"><img src="/content/dam/ecom/logo-enterprise.png" alt="Enterprise"></a>
 	</div>
 <nav class="nav" id="footer-nav">
-    <div class="g g-4up">
-         <div class="gi">
-            <div class="footermenu footer-1"><ul tabindex="0">
-		<li class="title" role="heading">RESERVATIONS</li>
-		<li>
-		    <a href="/en/car-rental.html?icid=footer.reservations-_-car.rental-_-ENUS.NULL">Start a Reservation</a>
-	    </li>
-		<li>
-		    <a href="/en/reserve/view-modify-cancel.html?icid=footer.reservations-_-modify-_-ENUS.NULL">View/Modify/Cancel</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/ticketReceiptRequest.do?cm_mmc=EnterpriseWebsite-_-Footer-_-reservations.receipts-_-ENUS">Get a Receipt</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Footer-_-reservations.truck-_-ENUS">Start a Moving Truck or Van Reservation</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">ENTERPRISE PLUS®</li>
-		<li>
-		    <a href="/en/account.html?icid=footer.enterprise.plus-_-account-_-ENUS.NULL">Sign In</a>
-	    </li>
-		<li>
-		    <a href="/en/loyalty.html?icid=footer.enterprise.plus-_-loyalty-_-ENUS.NULL">Learn More About Enterprise Plus®</a>
-	    </li>
-		<li>
-		    <a href="/en/enroll.html?icid=footer.enterprise.plus-_-enroll-_-ENUS.NULL">Join Enterprise Plus®</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">CAR RENTAL LOCATIONS</li>
-		<li>
-		    <a href="/en/car-rental/locations/us.html?icid=footer.locations-_-us.locations-_-ENUS.NULL">U.S. Car Rental Locations</a>
-	    </li>
-		<li>
-		    <a href="/en/car-rental/locations.html?icid=footer.locations-_-international.locations-_-ENUS.NULL">International Car Rental Locations</a>
-	    </li>
-		</ul>
-	</div>
+        <div class="g g-4up">
+             <div class="gi">
+                <div class="footermenu footer-1"><div class="hide">RESERVATIONS</div>
+        <h2 class="title-static">RESERVATIONS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="RESERVATIONS-list" aria-expanded="false">
+          RESERVATIONS</div>
+
+        <ul id="RESERVATIONS-list">
+      		<li>
+      		    <a href="/en/car-rental.html?icid=footer.reservations-_-car.rental-_-ENUS.NULL">Start a Reservation</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/reserve/view-modify-cancel.html?icid=footer.reservations-_-modify-_-ENUS.NULL">View/Modify/Cancel</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/ticketReceiptRequest.do?cm_mmc=EnterpriseWebsite-_-Footer-_-reservations.receipts-_-ENUS">Get a Receipt</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US.html?cm_mmc=EnterpriseWebsite-_-Footer-_-reservations.truck-_-ENUS">Start a Moving Truck or Van Reservation</a>
+      	    </li>
+        	</ul>
+      <div class="loyalty-not-available"><div class="hide">ENTERPRISE PLUS®</div>
+        <h2 class="title-static">ENTERPRISE PLUS®</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="ENTERPRISEPLUS®-list" aria-expanded="false">
+          ENTERPRISE PLUS®</div>
+
+        <ul id="ENTERPRISEPLUS®-list">
+      		<li>
+      		    <a class="loyalty-not-available" href="/en/account.html?icid=footer.enterprise.plus-_-account-_-ENUS.NULL">Sign In</a>
+      	    </li>
+        	<li>
+      		    <a class="loyalty-not-available" href="/en/loyalty.html?icid=footer.enterprise.plus-_-loyalty-_-ENUS.NULL">Learn More About Enterprise Plus®</a>
+      	    </li>
+        	<li>
+      		    <a class="loyalty-not-available" href="/en/enroll.html?icid=footer.enterprise.plus-_-enroll-_-ENUS.NULL">Join Enterprise Plus®</a>
+      	    </li>
+        	</ul>
+      </div><div class="hide">CAR RENTAL LOCATIONS</div>
+        <h2 class="title-static">CAR RENTAL LOCATIONS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="CARRENTALLOCATIONS-list" aria-expanded="false">
+          CAR RENTAL LOCATIONS</div>
+
+        <ul id="CARRENTALLOCATIONS-list">
+      		<li>
+      		    <a href="/en/car-rental/locations/us.html?icid=footer.locations-_-us.locations-_-ENUS.NULL">U.S. Car Rental Locations</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-rental/locations.html?icid=footer.locations-_-international.locations-_-ENUS.NULL">International Car Rental Locations</a>
+      	    </li>
+        	</ul>
+      </div>
 </div>
-         <div class="gi">
-            <div class="footermenu footer-2"><ul tabindex="0">
-		<li class="title" role="heading">VEHICLES</li>
-		<li>
-		    <a href="/en/car-rental/vehicles/us/cars.html?icid=footer.vehicles-_-us.cars-_-ENUS.NULL">Cars</a>
-	    </li>
-		<li>
-		    <a href="/en/car-rental/vehicles/us/suvs.html?icid=footer.vehicles-_-us.suvs-_-ENUS.NULL">SUVs</a>
-	    </li>
-		<li>
-		    <a href="/en/car-rental/vehicles/us/trucks.html?icid=footer.vehicles-_-us.trucks-_-ENUS.NULL">Trucks</a>
-	    </li>
-		<li>
-		    <a href="/en/car-rental/vehicles/us/vans.html?icid=footer.vehicles-_-us.vans-_-ENUS.NULL">Minivans &amp; Vans</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/vehicles.html#vhPersonalTab?cm_mmc=EnterpriseWebsite-_-Footer-_-vehicles.truck-_-ENUS">Moving Trucks &amp; Vans</a>
-	    </li>
-		<li>
-		    <a href="/en/exotics.html?icid=footer.vehicles-_-exotics-_-ENUS.NULL">Exotic Cars</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">BUY</li>
-		<li>
-		    <a target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=FooterHP&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-buy.carsales-_-EN_US">Enterprise Car Sales</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">SHARE</li>
-		<li>
-		    <a target="_blank" href="https://www.enterprisecarshare.com/us/en/home.html?cm_mmc=EnterpriseWebsite-_-Footer-_-share.carshare-_-ENUS">Enterprise CarShare</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterpriserideshare.com/vanpool/en.html?cm_mmc=EnterpriseWebsite-_-Footer-_-share.rideshare-_-ENUS">Rideshare by Enterprise</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">INSPIRATION</li>
-		<li>
-		    <a href="/en/inspiration.html?icid=footer.inspiration-_-inspiration-_-ENUS.NULL">Travel &amp; Lifestyle</a>
-	    </li>
-		<li>
-		    <a href="/en/about/sustainability.html?icid=footer.inspiration-_-sustainability-_-ENUS.NULL">Sustainability</a>
-	    </li>
-		<li>
-		    <a href="/en/about/renewable-fuels.html?icid=footer.inspiration-_-renewable.fuel-_-ENUS.NULL">Renewable Fuel Research</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">INTERNATIONAL WEBSITES</li>
-		<li>
-		    <a target="_blank" href="https://www.enterpriserentacar.ca?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.canada-_-ENUS">Enterprise Canada</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterprise.fr?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.france-_-ENUS">Enterprise France</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterprise.de?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.germany-_-ENUS">Enterprise Germany</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterprise.ie?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.ireland-_-ENUS">Enterprise Ireland</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterprise.es?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.spain-_-ENUS">Enterprise Spain</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterprise.co.uk?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.uk-_-ENUS">Enterprise U.K.</a>
-	    </li>
-		<li>
-		    <a href="/en/car-rental/locations.html?icid=footer.international.sites-_-international.locations-_-ENUS.NULL#country">Other Enterprise Websites</a>
-	    </li>
-		</ul>
-	</div>
+             <div class="gi">
+                <div class="footermenu footer-2"><div class="hide">VEHICLES</div>
+        <h2 class="title-static">VEHICLES</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="VEHICLES-list" aria-expanded="false">
+          VEHICLES</div>
+
+        <ul id="VEHICLES-list">
+      		<li>
+      		    <a href="/en/car-rental/vehicles/us/cars.html?icid=footer.vehicles-_-us.cars-_-ENUS.NULL">Cars</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-rental/vehicles/us/suvs.html?icid=footer.vehicles-_-us.suvs-_-ENUS.NULL">SUVs</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-rental/vehicles/us/trucks.html?icid=footer.vehicles-_-us.trucks-_-ENUS.NULL">Trucks</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-rental/vehicles/us/vans.html?icid=footer.vehicles-_-us.vans-_-ENUS.NULL">Minivans &amp; Vans</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/vehicles.html#vhPersonalTab?cm_mmc=EnterpriseWebsite-_-Footer-_-vehicles.truck-_-ENUS">Moving Trucks &amp; Vans</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/exotics.html?icid=footer.vehicles-_-exotics-_-ENUS.NULL">Exotic Cars</a>
+      	    </li>
+        	</ul>
+      <div class="hide">BUY</div>
+        <h2 class="title-static">BUY</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="BUY-list" aria-expanded="false">
+          BUY</div>
+
+        <ul id="BUY-list">
+      		<li>
+      		    <a target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=FooterHP&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-buy.carsales-_-EN_US">Enterprise Car Sales</a>
+      	    </li>
+        	</ul>
+      <div class="hide">SHARE</div>
+        <h2 class="title-static">SHARE</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="SHARE-list" aria-expanded="false">
+          SHARE</div>
+
+        <ul id="SHARE-list">
+      		<li>
+      		    <a target="_blank" href="https://www.enterprisecarshare.com/us/en/home.html?cm_mmc=EnterpriseWebsite-_-Footer-_-share.carshare-_-ENUS">Enterprise CarShare</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterpriserideshare.com/vanpool/en.html?cm_mmc=EnterpriseWebsite-_-Footer-_-share.rideshare-_-ENUS">Rideshare by Enterprise</a>
+      	    </li>
+        	</ul>
+      <div class="hide">INSPIRATION</div>
+        <h2 class="title-static">INSPIRATION</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="INSPIRATION-list" aria-expanded="false">
+          INSPIRATION</div>
+
+        <ul id="INSPIRATION-list">
+      		<li>
+      		    <a href="/en/inspiration.html?icid=footer.inspiration-_-inspiration-_-ENUS.NULL">Travel &amp; Lifestyle</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/sustainability.html?icid=footer.inspiration-_-sustainability-_-ENUS.NULL">Sustainability</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/renewable-fuels.html?icid=footer.inspiration-_-renewable.fuel-_-ENUS.NULL">Renewable Fuel Research</a>
+      	    </li>
+        	</ul>
+      <div class="hide">INTERNATIONAL WEBSITES</div>
+        <h2 class="title-static">INTERNATIONAL WEBSITES</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="INTERNATIONALWEBSITES-list" aria-expanded="false">
+          INTERNATIONAL WEBSITES</div>
+
+        <ul id="INTERNATIONALWEBSITES-list">
+      		<li>
+      		    <a target="_blank" href="https://www.enterpriserentacar.ca?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.canada-_-ENUS">Enterprise Canada</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.fr?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.france-_-ENUS">Enterprise France</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.de?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.germany-_-ENUS">Enterprise Germany</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.ie?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.ireland-_-ENUS">Enterprise Ireland</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.es?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.spain-_-ENUS">Enterprise Spain</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.co.uk?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.uk-_-ENUS">Enterprise U.K.</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-rental/locations.html?icid=footer.international.sites-_-international.locations-_-ENUS.NULL#country">Other Enterprise Websites</a>
+      	    </li>
+        	</ul>
+      </div>
 </div>
-         <div class="gi">
-            <div class="footermenu footer-3"><ul tabindex="0">
-		<li class="title" role="heading">PROMOTIONS</li>
-		<li>
-		    <a href="/en/car-rental/deals.html?icid=footer.promotions-_-deals-_-ENUS.NULL">All Deals &amp; Coupons</a>
-	    </li>
-		<li>
-		    <a href="/en/car-rental/deals/weekend-specials.html?icid=footer.promotions-_-weekend.special-_-ENUS.NULL">Weekend Rentals</a>
-	    </li>
-		<li>
-		    <a href="https://legacy.enterprise.com/car_rental/deeplinkmap.do?bid=006&amp;bid=006?cm_mmc=EnterpriseWebsite-_-Footer-_-promotions.emails-_-ENUS">Sign Up For Email Specials</a>
-	    </li>
-		<li>
-		    <a href="/en/about/travel-partners.html?icid=footer.promotions-_-travel.partners-_-ENUS.NULL">Travel Partners</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">CUSTOMER SERVICE</li>
-		<li>
-		    <a target="_blank" href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Footer-_-customer.support-_-ENUS">Customer Support</a>
-	    </li>
-		<li>
-		    <a href="/en/help/contact.html?icid=footer.customer.service-_-contact-_-ENUS.NULL">Contact Us</a>
-	    </li>
-		<li>
-		    <a href="/en/help/customers-with-disabilities.html?icid=footer.customer.service-_-disabilities-_-ENUS.NULL">Customers with Disabilities</a>
-	    </li>
-		<li>
-		    <a href="/en/sitemap.html?icid=footer.customer.service-_-site.map-_-ENUS.NULL">Site Map</a>
-	    </li>
-		<li>
-		    <a href="/en/help/safety-recall-policy.html?icid=footer.customer.service-_-recall.policy-_-ENUS.NULL">Safety Recall Information</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">THE COMPANY</li>
-		<li>
-		    <a href="/en/about.html?icid=footer.company-_-about-_-ENUS.NULL">About Us</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.holdings-_-ENUS">Enterprise Holdings®</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://go.enterpriseholdings.com/find-us/recruiters/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.careers-_-ENUS">Careers</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://www.enterpriseholdings.com/press-room/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.press-_-ENUS">Press</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://www.drivealliance.com?cm_mmc=EnterpriseWebsite-_-Footer-_-company.drive-_-ENUS">Drive Alliance®</a>
-	    </li>
-		<li>
-		    <a href="/en/about/enterprise-affiliate.html?icid=footer.company-_-affiliate.programs-_-ENUS.NULL">Affiliate Programs</a>
-	    </li>
-		<li>
-		    <a href="/en/about/youth-sports.html?icid=footer.company-_-youth.sports-_-ENUS.NULL">Youth Sports Fundraising</a>
-	    </li>
-		</ul>
-	</div>
+             <div class="gi">
+                <div class="footermenu footer-3"><div class="hide">PROMOTIONS</div>
+        <h2 class="title-static">PROMOTIONS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="PROMOTIONS-list" aria-expanded="false">
+          PROMOTIONS</div>
+
+        <ul id="PROMOTIONS-list">
+      		<li>
+      		    <a href="/en/car-rental/deals.html?icid=footer.promotions-_-deals-_-ENUS.NULL">All Deals &amp; Coupons</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/email-specials.html">Sign Up For Email Specials</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/travel-partners.html?icid=footer.promotions-_-travel.partners-_-ENUS.NULL">Travel Partners</a>
+      	    </li>
+        	</ul>
+      <div class="hide">CUSTOMER SERVICE</div>
+        <h2 class="title-static">CUSTOMER SERVICE</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="CUSTOMERSERVICE-list" aria-expanded="false">
+          CUSTOMER SERVICE</div>
+
+        <ul id="CUSTOMERSERVICE-list">
+      		<li>
+      		    <a target="_blank" href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Footer-_-customer.support-_-ENUS">Customer Support</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/help/contact.html?icid=footer.customer.service-_-contact-_-ENUS.NULL">Contact Us</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/help/customers-with-disabilities.html?icid=footer.customer.service-_-disabilities-_-ENUS.NULL">Customers with Disabilities</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/sitemap.html?icid=footer.customer.service-_-site.map-_-ENUS.NULL">Site Map</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/help/safety-recall-policy.html?icid=footer.customer.service-_-recall.policy-_-ENUS.NULL">Safety Recall Information</a>
+      	    </li>
+        	</ul>
+      <div class="hide">THE COMPANY</div>
+        <h2 class="title-static">THE COMPANY</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="THECOMPANY-list" aria-expanded="false">
+          THE COMPANY</div>
+
+        <ul id="THECOMPANY-list">
+      		<li>
+      		    <a href="/en/about.html?icid=footer.company-_-about-_-ENUS.NULL">About Us</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.holdings-_-ENUS">Enterprise Holdings®</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://go.enterpriseholdings.com/find-us/recruiters/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.careers-_-ENUS">Careers</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://www.enterpriseholdings.com/press-room/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.press-_-ENUS">Press</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/enterprise-affiliate.html?icid=footer.company-_-affiliate.programs-_-ENUS.NULL">Affiliate Programs</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/youth-sports.html?icid=footer.company-_-youth.sports-_-ENUS.NULL">Youth Sports Fundraising</a>
+      	    </li>
+        	</ul>
+      </div>
 </div>
-         <div class="gi">
-            <div class="footermenu footer-4"><ul tabindex="0">
-		<li class="title" role="heading">BUSINESSES</li>
-		<li>
-		    <a href="/en/business-car-rental.html?icid=footer.businesses-_-business.rental-_-ENUS.NULL">Solutions for Business</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/deeplinkmap.do?bid=056&amp;dcpCode=FRANCHISE&amp;country=us&amp;language=en?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.franchise-_-ENUS">Global Franchise Opportunities</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/deeplinkmap.do?bid=022&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.aviation-_-ENUS">General Aviation</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/businessUse.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.truck-_-ENUS">Enterprise Truck Rental</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/travelAgent.do?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.travel-_-ENUS">Travel Agents</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterprisecarshare.com/us/en/programs/business.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.carshare-_-ENUS">Enterprise CarShare</a>
-	    </li>
-		<li>
-		    <a target="_blank" href="https://www.enterpriserideshare.com/vanpool/en.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.rideshare-_-ENUS">RideShare</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading">SPONSORSHIPS</li>
-		<li>
-		    <a href="/en/about/sponsorships/ncaa.html?icid=footer.sponsorships-_-ncaa.landing-_-ENUS.NULL">NCAA®</a>
-	    </li>
-		<li>
-		    <a href="/en/about/sponsorships/ncaa/march-madness.html?icid=footer.sponsorships-_-march.madness-_-ENUS.NULL">March Madness®</a>
-	    </li>
-		<li>
-		    <a href="/en/about/sponsorships/nhl.html?icid=footer.sponsorships-_-nhl.landing-_-ENUS.NULL">NHL</a>
-	    </li>
-		<li>
-		    <a href="/en/about/sponsorships/entertainment.html?icid=footer.sponsorships-_-entertainment-_-ENUS.NULL">Entertainment</a>
-	    </li>
-		</ul>
-	<ul tabindex="0">
-		<li class="title" role="heading"></li>
-		<li>
-		    <a target="_blank" href="https://legacy.enterprise.com?cm_mmc=EnterpriseWebsite-_-Footer-_-other.legacy-_-ENUS">Go to classic Enterprise website</a>
-	    </li>
-		</ul>
-	</div>
+             <div class="gi">
+                <div class="footermenu footer-4"><div class="hide">BUSINESSES</div>
+        <h2 class="title-static">BUSINESSES</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="BUSINESSES-list" aria-expanded="false">
+          BUSINESSES</div>
+
+        <ul id="BUSINESSES-list">
+      		<li>
+      		    <a href="/en/business-car-rental.html?icid=footer.businesses-_-business.rental-_-ENUS.NULL">Solutions for Business</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/deeplinkmap.do?bid=056&amp;dcpCode=FRANCHISE&amp;country=us&amp;language=en?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.franchise-_-ENUS">Global Franchise Opportunities</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/deeplinkmap.do?bid=022&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.aviation-_-ENUS">General Aviation</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/businessUse.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.truck-_-ENUS">Enterprise Truck Rental</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/travelAgent.do?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.travel-_-ENUS">Travel Agents</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprisecarshare.com/us/en/programs/business.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.carshare-_-ENUS">Enterprise CarShare</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterpriserideshare.com/vanpool/en.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.rideshare-_-ENUS">RideShare</a>
+      	    </li>
+        	</ul>
+      <div class="hide">SPONSORSHIPS</div>
+        <h2 class="title-static">SPONSORSHIPS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="SPONSORSHIPS-list" aria-expanded="false">
+          SPONSORSHIPS</div>
+
+        <ul id="SPONSORSHIPS-list">
+      		<li>
+      		    <a href="/en/about/sponsorships/ncaa.html?icid=footer.sponsorships-_-ncaa.landing-_-ENUS.NULL">NCAA®</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/sponsorships/ncaa/march-madness.html?icid=footer.sponsorships-_-march.madness-_-ENUS.NULL">March Madness®</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/sponsorships/nhl.html?icid=footer.sponsorships-_-nhl.landing-_-ENUS.NULL">NHL</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/sponsorships/entertainment.html?icid=footer.sponsorships-_-entertainment-_-ENUS.NULL">Entertainment</a>
+      	    </li>
+        	</ul>
+      <div class="hide"></div>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="-list" aria-expanded="false">
+          </div>
+
+        <ul id="-list">
+      		<li>
+      		    <a target="_blank" href="https://legacy.enterprise.com?cm_mmc=EnterpriseWebsite-_-Footer-_-other.legacy-_-ENUS">Go to classic Enterprise website</a>
+      	    </li>
+        	</ul>
+      </div>
 <div class="gettheapp"><div class="get-app">
     <p>Get the Enterprise Mobile App</p>
     <div class="badge-icon">
@@ -1574,8 +1697,8 @@
     </div>    
 </div></div>
 </div>
-    </div>
-</nav>
+        </div>
+    </nav>
 <div class="drivealliance">
 <div class="base colors white g g-2up">
 	<div class="gi left">
@@ -1608,16 +1731,6 @@
 		</div>
 		<div class="links g g-3up links-footer">
 			<ul>
-				
-					
-					
-				
-					<li>
-						<a target="_blank" href="https://www.drivealliance.com/?cm_mmc=EnterpriseWebsite-_-Footer-_-other.drive-_-ENUS">Drive Alliance®
-							
-						</a>
-					</li>
-					
 				
 					<li>
 						<a target="_blank" href="/en/help/terms-of-use.html?icid=footer.legal-_-terms-_-ENUS.NULL">Terms of Use
@@ -1658,7 +1771,7 @@
 		</div>
 	</div>
 	<div class="gi right">
-		<a href="https://www.drivealliance.com/?cm_mmc=EnterpriseWebsite-_-Footer-_-logo.drive-_-ENUS" target="_blank" class="footer-drive-alliance" title="drive alliance">
+		<a target="_blank" class="footer-drive-alliance" title="drive alliance">
 			<img src="/etc/designs/ecom/dist/img/footer-drive-alliance.png" alt="Drive Alliance: Enterprise, National and Alamo">
 		</a>
 	</div>
@@ -1677,25 +1790,57 @@
             <div class="modal-body"></div>
         </div>
     </div>
-    
-    
-    
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-05-26-12-07/nav.min.js"></script>
-
 
 
     
 
+    <!--  client libs for external libraries -->
     
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-05-26-12-07/icons.min.css" type="text/css">
+        
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/prod-libs.min.js"></script>
 
+
+
+    
+    
+
+    <script src="/en.i18nmap.js?v=2016-10-04-11-43"></script>
+
+    
+      
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/home.min.js"></script>
+
+
+
+
+      
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/nav.min.js"></script>
+
+
+
+
+      
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/content.min.js"></script>
+
+
+
+
+      
+    
+
+    
 
 
     
         <!-- This is prod -->
-       <script>_satellite.pageBottom();</script>
+        <script>_satellite.pageBottom();</script>
     
     
+
+
 
 </body></html>
