@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426000104id_/https%3A//www.aegon.co.uk/support/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009090717id_/https%3A//www.aegon.co.uk/support/faq/privacy.html) for the most accurate reproduction.*
 
 # Privacy, data protection and cookies
 
