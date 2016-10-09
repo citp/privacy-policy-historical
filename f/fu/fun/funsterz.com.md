@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funsterz.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609203313id_/http%3A//www.funsterz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsterz.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009232541id_/http%3A//www.funsterz.com/privacy-policy) for the most accurate reproduction.*
 
 # Funsterz.com – Amazing Videos, Amazing Funny Pictures, Crazy Videos, Funny Photos Privacy Policy - Funsterz.com - Amazing Videos, Amazing Funny Pictures, Crazy Videos, Funny Photos
 
