@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315100748id_/https%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009220155id_/https%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 3D Issue Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy governs the manner in which 3D Issue collects, uses, maintai
 
 Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
 
 Non-personal identification information
 
@@ -20,13 +20,13 @@ How we use collected information
 
 3D Issue may collect and use users personal information for the following purposes:
 
-\- To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
+– To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+– To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-\- To improve our Site. We may use feedback you provide to improve our products and services.
+– To improve our Site. We may use feedback you provide to improve our products and services.
 
-\- To send periodic emails. We may use the email address to respond to inquiries, questions, and/or other requests. We may contact you to inform you of company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our Site.
+– To send periodic emails. We may use the email address to respond to inquiries, questions, and/or other requests. We may contact you to inform you of company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our Site.
 
 How we protect your information
 
