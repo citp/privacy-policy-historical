@@ -1,74 +1,130 @@
-> *The following text is extracted and transformed from the shinola.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925080448id_/http%3A//www.shinola.com/customer-service/general-resources/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinola.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009143414id_/http%3A//www.shinola.com/shop/customer-service/general-resources/privacy-policy) for the most accurate reproduction.*
 
-# Customer Information Protection | Shinola.com
+# Privacy Policy | Shinola® Detroit
 
-### **Security & Privacy**
+The following is the Security and Privacy policy (the “Policy”) of **** the [www.shinola.com](http://www.shinola.com/) website (the “Site”) operated by Shinola/Detroit, LLC (the “Company”), having its head offices at 485 W. Milwaukee St., Detroit, MI.  The Company and all of its affiliates, including without limitation, Bedrock Manufacturing Company, LLC, Bedrock Manufacturing Europe, B.V., Bedrock Manufacturing Europe, GmbH, and Bedrock Manufacturing UK, Ltd. (collectively, “Shinola”) are part of and subject to this Policy.
 
-#### **Privacy**
+By using this Site you consent to the collection and use of your Personal Information (as defined below) by Shinola consistent with applicable data protection laws and this Policy. If you feel you have objections to this Policy, you should not access the Site. ****
 
-Shinola respects the privacy of every individual who visits any of our websites or online areas, and we are committed to protecting the privacy of everyone involved, specially our visitors and our customers. We have created this Policy in order to make you aware of the type of information that we collect, specifically with regards to your rights to and our responsibilities in safeguarding it … responsibilities that we take very seriously.
+1 Privacy
 
-#### **Collection and Use of Personal Information**
+1.1 Shinola (“we”) respects the privacy of individuals (“you”) who visit any of our Site or online areas, and we are committed to compliance with data protection laws and protecting the privacy of everyone involved, especially our visitors and our customers. We have created this Policy in order to make you aware of the type of information that we collect from you through your use of our Site and how we use that information.  This privacy policy also sets out your rights to and our responsibilities in safeguarding information we collect.
 
-We collect identifiable personal information, including names, postal addresses, email addresses, billing information, etc., (“Personal Information”) when voluntarily submitted to us by our visitors.  You are free to browse any of our public-facing sites without submitting personal information.  This information will be used for our business purposes only, these Terms will continue to cover information we may collect about you during the course of our relationship as well as after the relationship has ended.
+1.2 This Privacy Policy is intended to explain our privacy practices and covers the following areas: 
 
-  * Shinola will not sell, trade, or rent your information to anyone.
+(a) Personal information about you we may hold or collect
 
-  * When you place an order on the Site, you must provide your first and last name, a valid email address, phone number, billing address, shipping address, and credit card number. We will use this information to fulfill the order you place and to communicate with you about it.
+(b) How we may use your Personal Information
 
-  * Shinola uses your information for four (4) purposes: (1) to fulfill the orders you place on the Site, (2) to answer any customer service inquiries that you may have, (3) to contact you about special offers, Shinola news and new products and (4) to understand the shopping habits of our customers to better serve them in the future.
+(c) Who we may disclose your Personal Information to
 
-  * Shinola will send Personal Information about a user to other companies or people when: we have the applicable user’s consent to share the information; we need to send the information to companies who work on behalf of Shinola to provide a product or service to the applicable user  (e.g. providing Personal Information to a third-party for the purpose of fulfilling an order); we are required to do so under legal, regulatory or governmental order.
+(d) How we protect your Personal Information
 
-  * To have your name removed from this list, please send email to [customerservice@shinola.com](mailto:customerservice@shinola.com). Please provide us with the exact email address you used to register or to place an order with us and we will remove the email and any related Personal Information from our files.
+(e) Contacting us & your rights to access and update your Personal Information
 
+(f) Our Cookies Policy
 
+(g) How changes to this Policy and the Cookies Policy will be made
 
+2 Collection of Personal Information
 
-#### Cookies
+2.1 We collect the following identifiable Personal Information, which may include names, postal addresses, email addresses, billing information, etc., (“Personal Information”):
 
-Shinola uses cookies to improve your user experience on our Site by enabling our Site to ‘remember’ you or your preferences, either for the duration of a single visit (using "session cookies") or during additional, future visits ("persistent cookies").
+(a) Information you provide to us by filling in forms or which you upload on the Site.  When you place an order on the Site, certain information must be provided including your first and last name, a valid email address, phone number, billing address, shipping address, and credit or debit card information. We will use this information to fulfill the order you place and to communicate with you about it.
 
-Cookies can help you navigate between pages efficiently and store your preferences or settings, thereby making the interaction between you and our Site faster and easier.  If a Site doesn’t use cookies, it will think you are a new visitor every time you move to a new page on the Site.  Our Site uses cookies to keep track of your shopping cart and to honor your preferences.
+(b) If you contact us or if we contact you, we may keep a record of that correspondence or details of any conversation we may have with you. Calls may be recorded.
 
-Our Site may also use cookies to enable us to target our advertising or marketing messages based on your location, shopping and/or browsing habits.
+(c) We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-#### What is inside a cookie?
+(d) Details of your visits to the Site and information collected through cookies and other tracking technologies including, but not limited to, your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access in accordance with our Cookies Policy. Although this information is generally non-identifying, where it can be used to identify you we treat it subject to the same safeguards that we apply to personal information.
 
-A cookie is a small text file stored on your computer or device by a website.  Only the website issuing a cookie will be able to read the contents of that cookie.  Each and every cookie is unique to your web browser.  It will contain some anonymous information such as a unique identifier and the site name and some digits and numbers.  It allows a website to remember things like your preferences or to remember who you are on return visits.
+(e) From third parties as set out below.
 
-#### What to do if you don’t want cookies to be set:
+2.2 You are free to browse any of our public-facing sites without submitting Personal Information.
 
-It is possible to block some or all cookies, or even to delete cookies that have already been set; but you might lose some or all of the Site’s functionality.
+2.3 However, you will have to submit certain Personal Information should you:
 
-#### To manage cookies on your browser please see the below articles:
+(a) Place on order to purchase products on the Site;
 
-All Internet Explorer Versions: <http://support.microsoft.com/kb/278835>
+(b) Submit an information request using our “Contact Us” form;
 
-Google Chrome: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+(c) Sign up to our newsletter; or
 
-Mozilla Firefox: <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
+(d) Sign up for stock alerts or notifications.
 
-Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
+2.4 We do not knowingly collect, maintain, or use Personal Information from our Site about children under the age of thirteen (13). Persons under the age of thirteen (13) should not use our Site without supervision from a responsible adult. We will never request Personal Information from a child under the age of thirteen (13) without fully complying with the Children’s Online Privacy and Protection Act (COPPA) and any other applicable legislation,  nor without requesting verifiable parental consent. If we are made aware that a child under the age of thirteen (13) has sent Personal Information to us without prior parental consent, we will remove her or his Personal Information from our files. ****
 
-Safari 5.1 (Lion): <http://support.apple.com/kb/PH5042>
+3 Use of Personal Information
 
-#### Children’s Online Privacy and Protection Act (COPPA)
+3.1 Personal Information we collect from you will be used for our business purposes only.  This Privacy Policy will continue to cover information we may collect about you during the course of our relationship as well as after our relationship has ended.
 
-We do not knowingly collect, maintain, or use Personal Information from our Site about children under the age of thirteen (13).  Persons under the age of 13 should not use our Site without supervision from a responsible adult.  We will never request Personal Information from a child under the age of thirteen (13) without fully complying with the aspects of COPPA with without requesting verifiable parental consent. If we are made aware that a child under the age of thirteen (13) has sent Personal Information to us without prior parental consent, we will remove her or his Personal Information from our files.
+3.2 Shinola uses your information:
 
-#### For Residents of California (As provided by California Civil Code Section 1798.83)
+(a) To fulfill the orders you place on the Site or notify you of orders not completed.
 
-Under California law, California residents who have an established business relationship with Shinola may make a written request to Shinola about whether Shinola has disclosed any Personal Information to any third parties for the third parties’ direct marketing purposes during the prior calendar year.  
+(b) To answer any customer service inquiries or requests that you may have.
 
-Shinola adopts and discloses to the public (in these Terms and in this Privacy Policy) a policy of not disclosing your Personal Information to third parties for their direct marketing purposes unless you first affirmatively agrees to the disclosure.
+(c) To contact you about special offers, Shinola news, changes to our products and new products.
 
-Additionally, Shinola provides a cost-free means to opt-out of such sharing. If you do not want Shinola to disclose information to other companies for their marketing purposes after you have already affirmatively agreed to the disclosure, you may also send an email to [customerservice@shinola.com](mailto:customerservice@shinola.com) instructing us to no longer share your Personal Information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
+(d) To understand the shopping habits of our customers to better serve them in the future.
 
-#### **Security**
+(e) To ensure that content from our site is presented in the most effective manner for you and your device.
 
-We want you to have an enjoyable and secure shopping experience on our Site.  As such, protecting any billing information you submit is important to us.  We use the 128-bit Secure Socket Layer (SSL) protocol to protect the security of the order information you place with us via our Site as it is transmitted to our server.  SSL technology encrypts your information to protect it from being deciphered by anyone other than Shinola.
+(f) We may also use your information for marketing our own and selected third parties' products and services to you by post, email, SMS, phone and fax and, where required by law, we will ask for your consent at the time we collect your data to conduct any of these types of marketing.
 
-If you want to double-check for security, when placing your order, you will notice that the “http” in the web address will be replaced by “https”.  Secure pages slow down websites so you will only see this on checkout pages.
+3.3 We will provide an option to unsubscribe or opt-out of further communication on any electronic marketing communication sent to you or you may opt out by contacting us, as set out below.
 
-#### **PLEASE CONTACT CUSTOMER SERVICE WITH ANY QUESTIONS REGARDING OUR TERMS OF USE AND PRIVACY POLICY:[customerservice@shinola.com](mailto:customerservice@shinola.com)**
+4 Third party disclosures
+
+4.1 We may permit selected third parties and agents to use your Personal Information, only for the purposes set out above.  Such third parties will be subject to obligations to process such information in compliance with the same safeguards that we deploy. Specific examples of possible third party use of your Personal Information are set out below.  All such disclosures will only be made in accordance with applicable laws.
+
+4.2 We may need to disclose your Personal Information to companies who work on behalf of Shinola in order to provide a product or service to you, or to fulfill an order.
+
+4.3 We may disclose your Personal Information to third parties, and you consent to the same if (i) we are required to do so by law or legal process, including a validly issued subpoena, warrant or court order; (ii) we are required to do so by law enforcement authorities or other government officials; (iii) we believe disclosure is necessary or appropriate to prevent physical harm, financial loss or injury to, or interference with, our rights or property or right or property of our users or others, or in connection with an investigation of suspected or actual illegal activity; (iv) we reasonably believe that you have used the Site or information obtained from the Site in order to commit unlawful acts or acts that may endanger the health and/or safety of the public; and/or (v) we believe the law in good faith requires such disclosure.
+
+4.4 In the event that the Shinola (or a part thereof) is (i) subject to negotiations for the sale of its business, (ii) is sold to a third party, (iii) undergoes a re-organization, or (iv) in the unlikely event proceeds through any insolvency or bankruptcy proceedings, you agree that any of your Personal Information which it holds may be disclosed to such party (or its advisors) as part of any due diligence process or transferred to that re-organized entity or third party and used for the same purposes or for the purpose of analyzing any proposed sale or re-organization. Such disclosure of Personal Information will be limited to what is necessary to achieve the goal of the business transaction and we will enter into a confidentiality and non-disclosure agreement with the other party(ies) in order to protect the confidentiality and ensure safe destruction of all Personal Information if the business transaction is not concluded.
+
+4.5 Shinola will not sell, trade, or rent your information to anyone.
+
+5 For residents of California (as provided by California Civil Code Section 1798.83)
+
+5.1 Under California law, California residents who have an established business relationship with Shinola may make a written request to Shinola about whether Shinola has disclosed any Personal Information to any third parties for the third parties’ direct marketing purposes during the prior calendar year.
+
+5.2 Shinola adopts and discloses to the public (in this Policy) a policy of not disclosing your Personal Information to third parties for their direct marketing purposes unless you first affirmatively agree to the disclosure.
+
+5.3 Additionally, Shinola provides a cost-free means to opt-out of such sharing. If you do not want Shinola to disclose information to other companies for their marketing purposes after you have already affirmatively agreed to the disclosure, you may also send an email to [privacy@shinola.com](mailto:privacy@shinola.com) instructing us to no longer share your Personal Information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and emails addresses that you have provided to us.
+
+6 Transmission, storage and security of your Personal Information
+
+6.1 No data transmission over the Internet or website can be guaranteed to be secure from intrusion. However, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Personal Information in accordance with applicable data protection legislative requirements. We also limit access to Personal Information by our own employees to those individuals who are authorized for the proper handling of such information.
+
+6.2 We want you to have an enjoyable and secure shopping experience on our Site. As such, protecting any billing information you submit is important to us. We use the 128-bit Secure Socket Layer (“SSL”) protocol to protect the security of the order information you place with us via our Site as it is transmitted to our server. SSL technology encrypts your information to protect it from being deciphered by anyone other than Shinola.
+
+6.3 If you want to double-check for security, when placing your order, you will notice that the “http” in the web address will be replaced by “https”. Secure pages slow down websites so you will only see this on checkout pages.
+
+6.4 We will retain your Personal Information for as long as is necessary for the processing purpose for which they were collected. Certain details and correspondence may be retained until the time limit for any legal challenges to the supply of the services has expired or in order to comply with regulatory requirements regarding the retention of such data. Data may also be retained for or included in analysis carried out by us with respect to our business.
+
+7 Cookies Policy
+
+7.1 We use cookies as set out in our [Cookies Policy](https://web.archive.org/shop/cookie-policy) and any Personal Information obtained from such cookies in accordance with this Policy.
+
+8 Changes
+
+8.1 We may change the content of the Site or our services without notice, and consequently this Policy and/or Cookies Policy may change at any time in the future. We will take reasonable steps to notify you of material changes to this Policy or the Cookies Policy by posting the revised policy with the date it was revised on the applicable page. Your continuing business relationship with us, the fact that you provide Personal Information to us and your continued use (including access, growing and/or use of any interactive feature) of our Site constitute your agreement to this Policy and the Cookies Policy and any updates thereto. We therefore encourage you to review both policies it from time to time to stay informed of how we are using Personal Information.
+
+9 Your rights and Contacting Us
+
+9.1 We are the data controller in respect of your Personal Information processed by us under this Privacy Policy. We will use reasonable endeavors to ensure that your Personal Information is accurate.
+
+9.2 You have the right to access, update and correct inaccuracies in your Personal Information in our custody and control, subject to certain exceptions or restrictions prescribed by law. This includes: (i) asking us to correct or update any such Personal Information; or (ii) requesting that such Personal Information be unsubscribed from an e-mail or other electronic marketing data base.
+
+9.3 To access, update or correct any inaccuracies in your Personal Information you may contact us at [privacy@shinola.com](mailto:privacy@shinola.com). In addition, each time we send you an e-mail or any other type of electronic marketing message, you will be given the option to unsubscribe by simply clicking the unsubscribe link. We may, however, continue to contact you via e-email for administrative or information purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any promotions or contests you have already participated in or have already entered, goods and/or services you have ordered, or other transactions you have undertaken with us.
+
+9.4 We can be contacted in relation to your rights or any questions you may have in respect of this Privacy Policy or our processing of your Personal Information at the following addresses:
+
+Email: [**privacy@shinola.com**](mailto:customerservice@shinola.com)
+
+**Shinola/Detroit  
+485 W. Milwaukee  
+Detroit, MI 48202  
+Attn: Privacy Policy**
