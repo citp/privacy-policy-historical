@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evans.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610111611id_/http%3A//www.evans.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33054%26storeId%3D12553%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D529991%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evans.co.uk privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009232130id_/http%3A//www.evans.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33054%26storeId%3D12553%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D529991%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy & Cookies - Evans
 
@@ -38,6 +38,12 @@ In an attempt to provide you with increased value, we may from time to time incl
 
 **Sale of assets  
 **In the unlikely event that Evans or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+
+**Klarna**
+
+We work with Klarna AB to offer our customers more convenient methods of payment. Klarna AB (“Klarna”) is a provider of financial services. Klarna's principal place of business is at Sveavägen 46, 111 34 Stockholm, Sweden. Klarna is registered with the Swedish companies register under the registration number 556737-0431 and licensed by and under the supervision of the Swedish Financial Supervisory Authority (www.fi.se), Box 7821, 10397 Stockholm, Sweden, and the Swedish Data Protection Authority (http://www.datainspektionen.se/in-english/), Box 8114, 10420 Stockholm, Sweden.
+
+We need to provide Klarna with certain information about you and the order to enable Klarna to assess whether you qualify for their credit products. We need to transfer to Klarna account details such as your name, address, email address, phone number, and payment history, as well as your order details, such as payment method, shipping details, what was ordered, and similar. This will not be done if you do not select Klarna as your payment method. The further use of this data will be governed by Klarna’s [Privacy Policy](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy)
 
 **COOKIE POLICY**
 
