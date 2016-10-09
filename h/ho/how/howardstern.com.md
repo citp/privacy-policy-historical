@@ -1,137 +1,135 @@
-> *The following text is extracted and transformed from the howardstern.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328022810id_/https%3A//www.howardstern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howardstern.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009130606id_/https%3A//www.howardstern.com/privacy) for the most accurate reproduction.*
 
-# The Official Site of Howard Stern | HowardStern.com
+# Privacy Policy | Howard Stern
 
-Date of Last Revision: June 11, 2013
+**Privacy Policy**
 
- **Purpose**
+ **Effective Date: September 1, 2016**
 
-The Howard Stern Production Company, Inc. respects and protects the privacy of our users.
+This Privacy Policy (" _Policy_ ") describes the privacy practices for our current and future online and mobile websites, platforms, services, applications, and any affiliated sites and associated applications with the www.HowardStern.com website (the " _Site_ "), which is owned by The Howard Stern Production Company, Inc. (" _HSP_ ") and operated by WRI Tx (" _Company_ ") (" _HSP_ " and " _Company_ " shall be collectively referred to as " _we_ ," " _us_ ," " _our_ "). This Policy applies only to information we collect on the Site. This Policy does not apply to information that we collect offline or on any other Company websites or apps, including websites you may access through this Site or you provide to or is collected by any third party. Our websites and apps and these third parties may have their own privacy policies, which we encourage you to read before providing information on or through them.
 
-The purpose of this Privacy Policy is to disclose to you what information The Howard Stern Production Company, Inc. may collect from visitors to our website, HowardStern.com, its affiliate sites, subdomains, mobile versions, and any associated applications that are owned and/or operated by The Howard Stern Production Company, Inc. (collectively, the "Site"), and how we collect, use and share this information. In this Privacy Policy , The Howard Stern Production Company, Inc. is referred to as "HSP" "us," "we," or "our," as the context requires.
+Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not use the Site. By using the Site, you agree to this Policy. This Policy may change from time to time. Your continued use of the Site after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates.
 
-Please read this Privacy Policy carefully. This Privacy Policy applies to all users ("you") of the Site. By using our services and the Site, including any content posted on the Site, you signify your acceptance of our [Terms of Service](https://www.howardstern.com/terms), including this Privacy Policy. If you do not agree to the Terms of Service, you must stop accessing or using our Site. Please contact us with any questions or concerns about this Privacy Policy at [Webmaster@HowardStern.com](mailto:Webmaster@HowardStern.com) .
+ **Children under the Age of 13**
 
-Minors Prohibited: The Site is not directed to individuals under the age of eighteen (18), if you are under the age of eighteen (18) you are not authorized to access or use the Site.
+The Site is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [Webmaster@HowardStern.com](mailto:Webmaster@HowardStern.com).
 
-NOTICE: Visit www.OnGuardOnline.gov for tips from the Federal Trade Commission on protecting children's privacy online.
+ **Information We Collect and How We Collect It**
 
- **Changes to Privacy Policy**
+We may collect information from and about users of our Site directly from you when you provide it to us and/or automatically when you use the Site.
 
-We may, in our sole discretion, modify or revise this Privacy Policy at any time. Such changes or updates are effective immediately after we give notice of the change or update, which we may do so by revising the "Date of Last Revision" date of this Privacy Policy or by otherwise posting on the Site, or by email, conventional mail and/or by any other means that provides reasonable notice. If registered with our Site, you must provide us with your correct email address and make sure that email from us is not filtered from your inbox by your ISP or email software. You agree that your use of the Site, after the date such notice is posted, means that you accept and agree to be bound by such modifications or revisions to the Privacy Policy. You agree that we shall not be liable to you for any damages that might result form any changes to the Privacy Policy, if any.
+ _Information You Provide to Us_.
 
- **Information You Provide**
+When you register with or use this Site, we may ask you to provide information by which you may be personally identified, such as name, postal address, e-mail address, telephone number, credit card number, geolocation, device identification number, or any other identifier by which you may be contacted online or offline (" _personal information_ "), or that is about you but individually does not identify you.
 
- _ **Personally Identifiable Information**_
+This information includes: (i) Information that you provide by filling in forms on the Site. This includes information provided at the time of registering to use the Site, subscribing to our service, posting material, and requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with the Site; (ii) records and copies of your correspondence (including e-mail addresses and phone numbers), if you contact us; (iii) Your responses to surveys that we might ask you to complete for research purposes; (iv) Details of transactions you carry out through the Site and of the fulfillment of your orders (note that you may be required to provide financial information before placing an order through the Site); (v) Your search queries on the Site; and (vi) Your appearance at events where you use a QR code at the event location to indicate to us that you attended the event. You may also post certain public content, such as testimonials, forum posts, and comments, to the Site. Any such content you post may be viewable by the general public and is governed by our Terms of Use. You may be able to access features of the Site by using your Facebook or other social media accounts. Your privacy settings on your Facebook or other social media accounts, as well as the social media companies' respective privacy policies, will determine the personal and other information that may be shared with us when you access the Site.
 
-Personally Identifiable Information is information that identifies a specific user, such as your first and last name, home address (including zip code), email address, telephone number, date of birth, and gender. Personally Identifiable Information also includes credit card billing information that you may provide to purchase merchandise. When you register for a user account or engage in certain activities on the Site, we may ask you to provide certain Personally Identifiable Information about yourself. Depending on the activity, some of the information we ask you to provide is mandatory and some is voluntary. If you do not provide the mandatory information for a particular activity requiring disclosure of such information, you will not be permitted to engage in that activity. Examples of activities in which we collect Personally Identifiable Information on the Site include but are not limited to (1) registering for a user account, (2) requesting newsletters or other communications, (3) purchasing merchandise, (4) submitting Your Content, as that term is defined in our Terms of Service, and (5) contests, sweepstakes and promotions. You may also post certain public content, such as testimonials, forum posts, and comments, to our Site. Any such content you post may be viewable by the general public and is governed by our [Terms of Service](http://www.howardstern.com/terms-of-service).
+ _Automatic Information Collection And Tracking_.
 
- _ **Non-Personally Identifiable Information**_
+When you access and use the Site, it may use technology to automatically collect certain information, including but not limited to:
 
-Non-Personally Identifiable Information is information that does not identify a specific user. This type of information may include the Uniform Resource Locator ("URL") of the website you visited before coming to our Site, the URL of the website you visit after leaving our Site, the type of browser you are using and your Internet Protocol ("IP") address. We may automatically collect this information when you visit our Site through the use of electronic tools like cookies and web beacons or pixel tags.
+· **Usage Details.** When you access and use the Site, we may automatically collect the domain name and host from which you access the Internet and the Internet address of the website from which you direct-linked to the Site, the date and time you access the Site and pages you visit, traffic data, location data, logs and other communication data and the resources that you access and use on or through the Site.
 
-We may save "cookies" to your computer--small data files that are transferred when you allow your browser to accept cookies. Cookies automatically identify your browser to our Site whenever you visit, and save your passwords, preferences, and other information. By tracking how and when you use various features of our Site, cookies help us improve our Site. Accepting cookies allows you, among other things, to personalize your experience on our Site. Cookies may also allow our Site to present personalized advertising to you. Third-party advertising companies may place separate cookies on your computer, and we have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Site only, and does not cover the use of cookies by any third-party advertising company. The use of advertising cookies sent by third-party servers is standard in the industry. You can generally opt out of providing this information by turning cookies off in your browser. Some portions of our Site, however, may not function correctly if you have turned cookies off. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Site pages and promotions, or we may allow our third-party service providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Site, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Site, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Partners for the same purposes.
+· **Device Information.** We may collect information about your computer's or device's IP address and information about its operating system, platform, location, and the web browser type and version you use.
 
-We may collect IP addresses or click-stream data for purposes of system administration, to improve our Site, and to report aggregate information internally or to sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request pages from our Site, our computers log your IP address.
+· **Location and Other Information.** We may collect real-time information about the location of your device as well as demographic, usage patterns and other non-personally identifiable profile information about you.
 
-Click-stream data is information collected by our computers when you request pages from our Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us determine, among other things, how visitors arrive at our Site, what type of content is most popular, and what type of visitors in the aggregate are interested in particular kinds of content and advertising.
+We also may use technologies to collect information about your usage of the Site over time. We do not respond to web browser "do not track" signals.
 
- **Information Provided Through Social Network Platforms**
+ _Information Collection And Tracking Technologies_. The technologies we use for automatic information collection may include:
 
-If you access our services on a "social network platform" (including, but not limited to, Facebook and Twitter), we will access and store the information explicitly allowed by the social network platform by their Terms of Service, once you give us permission to do so, through an interface provided by the social network platform. HSP activities that may be accessible via a social network platform include sweepstakes, contests, promotions, games, forums, and other activities that may be available on the Site. If you have registered for a HSP account, the information provided to us by social network platforms may be associated and stored with your HSP account information. As we do not have control over the user interface provided by social network platforms, we do not take any responsibility for any changes or problems with the interface or exchange of information provided by any of these social network platforms.
+· **Cookies.** Most web browsers are set up to accept cookies. A cookie is a small file placed on your computer's hard drive through your web browser to enable our systems to recognize your browser. While you may block or disable cookies, if you do, the Site may not function and appear as designed.
+
+· **Web Beacons.** Pages of the Site or our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related statistics (for example, recording the popularity of certain content and verifying system and server integrity).
+
+ **Third-party Information Collection**
+
+When you use the Site or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties may include: advertisers, ad networks and ad servers, analytics companies your device manufacturer, etc.
+
+These third parties may use tracking technologies to collect information about you when you use this Site. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, apps and other online services or websites. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+We do not control these third parties' tracking technologies or how they may be used. If you would like more information about this practice and to know your choices about not having this information used by these third-parties, please go to [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/).
 
  **How We Use Your Information**
 
-We use Personally Identifiable Information to enhance your user experience of the Site, improve the operation of the Site, deliver services to you and improve our service offerings, improve our marketing and promotional efforts, analyze Site use, process purchases of products, and facilitate your experience with third-parties. If you use our Site to request that we send information to another person, we may store your Personally Identifiable Information, and the Personally Identifiable information of the recipient you specify, and we may use that recipient's contact information to allow him or her to access the information specified in your request. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you (including our Site Terms of Service and this Privacy Policy), comply with applicable laws, and cooperate with law enforcement activities.
+We use information that we collect about you or that you provide to us, including any personal information, to:
 
-When you purchase a product or service on our Site, you grant us permission to access your billing information. This Personally Identifiable Information for billing is stored on a secure server. We will use your Personally Identifiable Information to send you information concerning your product purchase, including a confirmation email and any notices about problems with your payment method. Personally Identifiable Information provided as part of a purchase you make from us is only used as necessary to complete the transaction and to provide you with tools to manage and monitor your transactions.
+· Provide you with the Site and its contents, and any other information, products or services that you request from us.
 
-We use Non-Personally Identifiable Information to troubleshoot technical issues, administer the Site, analyze trends, gather demographic information, comply with applicable laws, and cooperate with law enforcement activities. We may also share this information with our authorized third-party service providers and advertisers in order to measure the overall effectiveness of our online advertising, content, and programming.
+· Fulfill any other purpose for which you provide it.
 
- **Disclosure of Personally Identifiable Information**
+· Give you notices about your account or subscription, including any expiration and renewal notices.
 
-We will not share your Personally Identifiable Information with third-parties without your permission except in the following situations:
+· Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
 
-• to enforce our Terms of Service;
+· Notify you when Site updates are available, and of changes to any products or services we offer or provide though it.
 
-• if we believe in good faith that it is required by law enforcement or judicial authorities, or if it is necessary to comply with other legal requirements;
+The usage information we collect helps us to improve our Site and to deliver a better and more personalized experience by enabling us to:
 
-• if it is necessary to respond to an emergency that we believe involves potential threats to the safety of persons or property;
+· Estimate our audience size and usage patterns.
 
-• to prevent or investigate suspected fraud, illegal activity, violations of our Terms of Service, or activity that we believe in good faith may expose us to legal liability;
+· Store information about your preferences, allowing us to customize our Site according to your individual interests.
 
-• to provide information to trusted third-party service providers for the sole purpose of processing Personally Identifiable Information in connection with the completion of a purchase from us;
+· Speed up your searches.
 
-• to enable trusted third-parties that provide services on our behalf or with whom we have collaborated to offer a particular service; or
+· Recognize you when you use the Site.
 
-• during any merger, acquisition, or transfer of substantially all our assets, or during negotiations for such an event.
+We may also use your information to contact you about our own and third parties' goods and services that may be of interest to you. We may use the information we collect to display advertisements to our advertisers' target audiences. If you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-We encourage our trusted third-party service providers to adopt and post privacy policies that offer the same level of protection of your Personally Identifiable Information. However, the use of your Personally Identifiable Information by such parties is controlled by those parties and thus, not subject to our control.
+ **Disclosure of Your Information**
 
- **Disclosure of Non-Personally Identifiable Information**
+We may disclose aggregated and de-identified information about our users without restriction. In addition, we may disclose personal information that we collect or you provide:
 
-We may disclose or share Non-Personally Identifiable Information with our partners, affiliates and advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with "third-party advertisers" and other parties as provided herein.
+· To our subsidiaries and affiliates.
 
-We may use trusted third-party service providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our users to administer our Site and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our users. Such data is collected on our behalf, and is owned and used by us.
+· To contractors, service providers, content providers, and other third parties we use to support our business.
 
- **Our Security Procedures**
+· To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our App users is among the assets transferred.
 
-We have implemented security measures to protect your Personally Identifiable Information from loss, misuse, and alteration. We use industry-standard practices to safeguard the confidentiality of your Personally Identifiable Information. You can access your Personally Identifiable Information on our Site through your HSP account login and password. We recommend that you do not share your password with anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. We encrypt certain sensitive information (such as credit card information) using Secure Socket Layer (SSL) technology to ensure that your Personally Identifiable Information is safe as it is transmitted to us.
+· To third parties to personalize services and products offered to you.
 
-Perfect security, however, does not exist on the Internet. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies which do the same, we cannot guarantee the security of any information transmitted to or from the Site. We are also not responsible for any information you share with other users of our Site or with third-parties, including advertisers, sponsors, or partners who are linked on our Site.
+· To fulfill the purpose for which you provide it.
 
- **Your Control of Personally Identifiable Information**
+· For any other purpose disclosed by us when you provide the information.
 
-You may limit the collection and use of different elements of your Personally Identifiable Information by not participating in those activities for which we collect Personally Identifiable Information, as described above. You may choose to discontinue the collection, use, and disclosure of your Personally Identifiable Information by limiting or discontinuing your use of our Site.
+· With your consent.
 
-We believe that you should have the ability to edit the Personally Identifiable Information you provide to us. You can access and update your Personally Identifiable Information by logging into our Site and modifying your HSP profile. You may delete your account and opt out of any further communications from us by either:
+· To comply with any court order, law or legal process, including to respond to any government or regulatory request.
 
-• clicking on the links provided in our email communications for that purpose; or
+· To enforce our rights arising from any contracts entered into between you and us, including the Terms of Use, this Policy, and for billing and collection.
 
-• sending an email request to [email address].
+· To protect safety and integrity of the Site, its users, the public or other parties as is deemed appropriate, in its sole discretion.
 
-You agree to maintain accurate contact information and to promptly update your Personally Identifiable Information if it changes. You may ask to have the information in your HSP account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions (i.e., purchases) on the Site. In addition, it may be impossible for us to completely delete all of your information because we periodically backup the Site information stored on our servers.
+· To protect and defend our rights or property, you, or other third parties from fraud, abuse, or violation of the Terms and of Use or illegal acts.
 
- **Minors**
+· If we believe disclosure is necessary or appropriate to protect our rights, property, or safety or that of our customers, users, contractors or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-The Site is only intended for individuals at least 18 years old who have the legal capacity to validly enter into a contract. If you are under the age of 18, you are not authorized to access or use our Site. In compliance with the Children's Online Privacy Protection Act, we will not knowingly permit persons under the age of 13 to provide Personally Identifiable Information to us. If we later learn that you are under the age of 13, we will take appropriate steps to remove your Personally Identifiable Information from our database and restrict you from accessing our Site. We do not knowingly collect personal information from anyone under the age of 13, and no part of the Site is designed or intended to attract anyone under the age of 13. We do not sell products for purchase by children. We do not knowingly provide any Personally Identifiable Information about minors under the age of 13, regardless of its source, to third parties, nor is such information knowingly used by us for any marketing or promotional purposes.
+ ** _Social Media Plug-ins_**
 
-Any parent of a minor child who has improperly registered to use our Site or otherwise provided Personally Identifiable Information to the Site may contact us at any time to request removal of his/her child's Personally Identifiable Information. To make such a request, please send us an email at [Webmaster@HowardStern.com](mailto:Webmaster@HowardStern.com) with "Parental Review Request" in the subject line of the message and include the following:
+We may integrate social media application program interfaces or plug-ins (" _Plug-ins_ ") from social networks, including Facebook, Twitter, Instagram, Tumblr, Pinterest and others, into our Site. Plug-ins may transfer information about you to the Plug-in's respective platform without action by you. This information may include your platform user identification number, which website you are on, and more. Interacting with a Plug-in will transmit information directly to that Plug-in's social network and that information may be visible by others on that platform. Plug-ins are controlled by the respective platform's privacy policy, and not by our Policy.
 
-• your child's first name and last initial, username and password;
+ ** _Processing Your Information_**
 
-• your first and last name;
+The Site is hosted in the United States, and governed by and operated in accordance with US law. Your use of the Site from the European Union or any other place in the world means you agree to transfer, store and process your personal information to and in the United States, which laws may not provide the same level of protection of those in the country from which you access the Site. We may limit the availability of the Site or any service or product described on the Site to any person or geographic area at any time. If you choose to access the Site from outside the United States, you do so at your own risk.
 
-• your email address;
+ **Your California Privacy Rights**
 
-• a statement detailing your exact request (i.e., whether you would like your child's Personally Identifiable Information deleted from our servers, and/or whether you would like us to prohibit your child from re-registering with the Services and/or providing us with any further Personally Identifiable Information at a later date); and
+California Civil Code Section 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Alternatively, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. If you wish to opt-out of our sharing of your personal information with third parties for the third parties' direct marketing purposes or to find out more about your opt-out rights, please contact us at [Webmaster@HowardStern.com](mailto:Webmaster@HowardStern.com).
 
-• a statement by you, certifying that you are the parent or legal guardian of the child whose information you are requesting.
+ **Data Security**
 
-We will respond to all such requests and inform the parent of our compliance with his/her request as soon as is commercially practicable, but typically within 3 business days.
-
- **Third-Party Sites**
-
-This Privacy Policy addresses only the use and disclosure of information that we collect. Other Sites, including advertisers, sponsors, Affiliates and Partners linked to from our Site, may have their own policies that are not addressed or controlled by this Privacy Policy. Please note that if you provide any information directly to parties other than us, including Sites linked to our Site, different rules may apply to the use or disclosure of the personally identifiable information you disclose to those parties. We encourage you to investigate and ask questions before disclosing personally identifiable information to third-parties.
-
- **International Users**
-
-If you are accessing our Site from outside of the United States, your Personally Identifiable Information will be transferred to the United States. Regardless of where that information is collected or transferred, it will be treated in accordance with this Privacy Policy.
-
- **Communications to or from our Site**
-
-WE MAKE NO GUARANTEE OF CONFIDENTIALITY OR PRIVACY OF ANY COMMUNICATION OR INFORMATION TRANSMITTED TO OR FROM THE WEBSITE. You acknowledge that any content you post on the Site is a public and not a private communication. Others may read and view your communication without your knowledge.
-
-We do not control or endorse the content, messages or information posted by third-party users. We will not be liable for the privacy of any of your or any other third-party postings to the Site and specifically disclaim any liability resulting from such postings and communications, including any objectionable content.
+We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the personal information we collect online. These safeguards vary based on the sensitivity of the personal information that we collect and store. But the safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. You should not share your password with anyone. Unfortunately, the transmission of information via the Internet and mobile platforms is not completely secure. Although we take reasonable precautions to protect your personal information, we cannot guarantee the security of your personal information. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide.
 
  **Limitation of Liability**
 
-By providing us with any Personally Identifiable Information, you expressly and unconditionally release and hold harmless Howard Stern Production, Inc. and each of its subsidiaries, affiliates, directors, officers, employees and agents (collectively, the "Releasees") from any and all liability for any injuries, loss, or damage of any kind arising from or in connection with the use or misuse of the collected Personally Identifiable Information, as further detailed in our Terms of Service. In addition, while we take efforts to ensure the appropriate use of data provided to third-party companies, promotional partners, or vendors, the Releasees are not liable for any injuries, loss, or damage of any kind arising from or in connection with the use or misuse of your collected Personally Identifiable Information by any third-parties.
+TO THE FULLEST EXTENT ALLOWABLE UNDER APPLICABLE LAW, (A) IN NO EVENT SHALL COMPANY BE LIABLE TO YOU WITH RESPECT TO (1) USE OF THE SITE, CONTENT OR SERVICES OR (2) DIRECT DAMAGES IN AMOUNTS THAT IN THE AGGREGATE EXCEED THE GREATER OF THE AMOUNT ACTUALLY PAID BY YOU, IF ANY, FOR THE SUBSCRIPTION SERVICES OR US$100.00, AND (B) IN NO EVENT SHALL COMPANY BE LIABLE TO YOU FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SITE, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOSS OR CORRUPTION OF DATA, BREACH OF PRIVACY OR SECURITY, TRANSMISSION OF PERSONAL DATA OR FAILURE OR MALFUNCTION OF YOUR DEVICE. YOUR SOLE REMEDY UNDER THESE TERMS IS TO CEASE USE OF THE SITE. COMPANY DISCLAIMS ANY AND ALL LIABILITY OF ANY KIND FOR ANY UNATHORIZED ACCESS TO OR USE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION. BY ACCESSING THE SITE, YOU ACKNOWLEDGE AND AGREEE TO COMPANY'S DISCLAIMER OF SUCH LIABILITY. IF YOU DO NOT AGREE, YOU SHOULD NOT ACCESS OR USE THE SITE. ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OR SITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
 
- **Contact Us**
+ **Changes to Our Policy**
 
-If you have any questions regarding this Privacy Policy, please contact us at:
+We may update our Policy from time to time. Non-material changes will take effect immediately. If we make material changes, we will notify you by email (at the email address you have provided to us) or through notice on the home page of the Site, and will also indicate as much at the top of this page. Material changes will take effect 30 days after such notice. We encourage you to review this Policy at least every 30 days to check for material changes.
 
-Jason Kaplan, 1221 Avenue of the Americas, 36th Floor, New York, NY 10020
+ **Contact Information**
 
-[Webmaster@HowardStern.com](mailto:Webmaster@HowardStern.com)
+ **Privacy Concerns**. If you have any concern or complaint about privacy on the Site, please contact us at WRI Tx, Attn: Legal Affairs, Pacific Design Center, Red Building, 750 North San Vicente Blvd, 9th Floor, West Hollywood, CA 90069 U.S.A. or email us at [Webmaster@HowardStern.com](mailto:Webmaster@HowardStern.com). We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
+
+© The Howard Stern Production Company, Inc. All rights reserved
