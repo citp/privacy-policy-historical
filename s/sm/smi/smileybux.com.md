@@ -1,85 +1,53 @@
-> *The following text is extracted and transformed from the smileybux.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515185157id_/http%3A//www.smileybux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileybux.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009174953id_/http%3A//www.texasholdem.com/%3Fpage_id%3D3328) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TexasHoldEm.com
 
-This document was last updated on October 02, 2010.
+TexasHoldEm.com is committed to maintaining the trust and confidence of its Players and visitors to its Website. We are also committed to the security of the data we collect. The purpose of this Privacy Policy is to enable you to understand when we collect and use information about you, the actions we take to protect your privacy and our commitment to data security.   This Privacy Policy should be read in conjunction with the Terms and Conditions located on the Website. Periodically we may make changes to this Privacy Policy that will include changes to this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it. We encourage you to visit this page regularly.
 
-* * *
+**1\. Information Collected  
+**  
+When you visit TexasHoldEm.com there are two types of information that you may provide us with: (a) personal information you knowingly choose to disclose that is collected on an individual basis and (b) website use information that is collected as you and others browse our Website. In general, you can visit our Website at www.TexasHoldEm.com without revealing any personal information about yourself. (a) Personal Information Personal Information is any information that may be used to identify an individual, including but not limited to first & last name, contact details including mailing address, email address and phone numbers and credit card information (“Personal Information”). If you are only browsing the Website you will not be asked to provide any Personal Information. If you choose to download the TexasHoldEm.com client and open a  Free Player account, you will need to provide us with Personal Information. We do not collect Personal Information about you at TexasHoldEm.com unless you voluntarily provide it to us. (b) Website Information When you interact with our Website, our servers keep an activity log unique to you that collects certain information including: IP address, time and date of access, web pages visited and type of browser used. This is not considered Personal Information. The Website uses your IP address to administer our Website, diagnose problems with our server, track activity within our Website and collect demographic data. The demographic data we collect is used to enhance features on our Website. IP addresses may also be used by TexasHoldEm.com to prevent and investigate collusion.
 
-## Section 1. Acknowledgement and Acceptance of Terms.
+**2\. How Do We Use Your Information?  
+**  
+We use the Personal Information you provide us for the purpose of administering our business and providing customer support.  This may entail disclosure to any company within the TexasHoldEm.com group of companies and their employees who have a need to know such information, as well as any potential purchasers or investors in any company within the TexasHoldEm.com group of companies. Your Personal Information may also be shared with our affiliates, subsidiaries or agents for technical support and to process the transactions you initiate on the Website. It may also be provided to any third parties which provide services to TexasHoldEm.com in order for us to provide you with services, including by way of example payment processors, data verifiers, and auditors Occasionally, we may use the Personal Information you’ve given us to notify you about important changes to our Website, new services and special offers we think you will find valuable. You will be given the opportunity to notify us of your desire not to receive these offers by clicking on an unsubscribe link when you receive an offer. We may also, from time to time, request information from you via surveys or contests. Participation in any survey or contest is entirely voluntary and you have the choice of whether or not to take part. By accepting any contest prize or winnings from TexasHoldEm.com, you consent to the use of your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. TexasHoldEm.com will not sell or share your Personal Information except as set forth in this Privacy Policy.
 
-We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+**3\. Security  
+**  
+While connected to the Website, privacy of all information exchanges is protected using the international standard SSLv3/TLSv1. This security system uses encrypted algorithms to ensure that your Personal Information remains private. Along with your name, credit card numbers and passwords, game play information also passes through this encryption.
 
-* * *
+**4\. Legal Disclosure  
+**  
+We may disclose your Personal Information if requested to do so by legal authorities, if required to do so by law, or if we believe in good faith that such action is required to (a) conform to the applicable laws or to comply with any legal process served on us; (b) protect or defend our rights or property; or (c) act to protect the personal safety of the public.
 
-## Section 2. Participating Merchant Policies
+**5\. Opting Out  
+**  
+You may opt out of receiving any promotional communication from TexasHoldEm.com by choosing to opt out where such option is made available on the Website or in an email you receive from us or at any time by emailing us at [support@TexasHoldEm.com](mailto:privacy@tropicalpoker.com). In addition you may email us at any time to request a copy of the Personal Information you have given us, to confirm the accuracy of the Personal Information we have collected about you, to update your Personal Information or if have a concern about the use of your Personal Information.  We may  levy a small charge to cover the cost of administration
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+**6\. Cookies  
+**  
+Cookies are small text files that are stored on your computer when you visit certain web pages that record your preferences. The Website uses cookies to track usage of the Website and to compile statistical data on your use of our Website. We also may use cookies to improve the Website. Most web browsers allow you to restrict or allow the use of cookies. You are not obligated to accept the cookie from the Website however, if you choose to decline cookies, you may not be able to enjoy all of the interactive features the Website offers.
 
-* * *
+**7\. Protection of Children  
+**  
+The Website and its products are not intended for or directed to persons under the age of 18.  We do not knowingly collect any Personal Information from children.  Any person who provides their Personal Information to us represents to us that they are 18 years of age or older. It is our policy to adhere to the Children’s Online Privacy Protection Act and to use our best efforts to comply with that Act. To read the Children’s Online Privacy Protection Act visit: http://www.ftc.gov/ogc/coppa1.htm
 
-## Section 3. Information We Collect and How We Use It
+**8\. Third Party Coverage  
+**  
+This Privacy Policy applies to the Website. We cannot ensure the protection of any information or images that your provide to a third party web site that links to or from the Website or any information collected by any third party administering our affiliate program or any other program as these third party web sites are owned and operated independently of TexasHoldEm.com.
 
-Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
+**9\. International Transfers  
+**  
+Personal Information collected by TexasHoldEm.com may be stored and processed in any country in which we, our subsidiaries or our affiliates maintains facilities and by using the Website and software you consent to any transfer of Personal Information outside of your home country.
 
-* * *
+**10\. Retention  
+**  
+Your Personal Information will not be stored for any longer period than is necessary for the purposes for which it was collected.
 
-## a. Web Server Logs
+**11\. Legal Disclaimer  
+**  
+TexasHoldEm.com operates on an “As Is” basis, without liability of any kind. We are not responsible for events beyond our control. Due to the complexity and constantly changing nature of the Internet, technology and our business we cannot fully guarantee that loss, misuse or alteration of data will not occur. TexasHoldEm.com is not liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
-
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
-
-
-
-* * *
-
-## b. Use of Cookies
-
-This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-* * *
-
-## c. Use of Personal Information
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-* * *
-
-  * To fulfill your service requests for services,
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
-
-
-
-* * *
-
-Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
-
-* * *
-
-## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
-
-This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
-
-* * *
-
-## 5\. Accessing Web Account Information
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
-
-* * *
-
-## 6\. Changes to this Statement
-
-We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-* * *
+**12\. Consent to the Privacy Policy  
+**  
+By creating an account at TexasHoldEm.com, you agree to the terms of this Privacy Policy. Your continued use of the Web site and software constitutes your agreement to this Privacy Policy and any updates. Visit this page frequently to view the most recent version of TexasHoldEm.com’s Privacy Policy. TexasHoldEm.com Privacy Policy last updated:  August 2011
