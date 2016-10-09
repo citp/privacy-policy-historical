@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightspace.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101321id_/http%3A//www.brightspace.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightspace.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009140920id_/https%3A//www.d2l.com/legal/privacy) for the most accurate reproduction.*
 
-# D2L Privacy Statement | Brightspace
+# D2L Privacy Statement | D2L
 
 ## General
 
@@ -44,7 +44,7 @@ When you post a comment on our company blog, you share information within your c
 
 ### Cookies and Web Beacons
 
-Like most web sites, we use technologies, such as cookies and web beacons, to collect information about the pages you view, the links you click and other actions you take in using Brightspace offerings and D2L Web sites. More information regarding our use of cookies can be found here: <http://www.brightspace.com/legal/cookies-policy/>.
+Like most web sites, we use technologies, such as cookies and web beacons, to collect information about the pages you view, the links you click and other actions you take in using Brightspace offerings and D2L Web sites. More information regarding our use of cookies can be found here: <https://www.d2l.com/legal/cookies-policy/>.
 
 ### Information Collected by Your Organization or Third Parties
 
@@ -62,7 +62,7 @@ We use your information to operate and improve Brightspace offerings and D2L Web
 
 Some Brightspace offerings are accompanied by interactive features such as chat rooms, forums, messaging and other ways to share. If you are an enterprise user, permissions as to what features are enabled and who has access to those features is determined by your Organization. If you are a consumer user, it is your choice whether to use the available functionalities.
 
-If you submit information through a D2L Web site, Personal Information you submit may be used to provide the Brightspace offerings that you requested, and may also be used for related activities. Related activities may include sharing your information with sales or marketing personnel who may contact you with further information that may be of interest to you.
+If you submit information through a D2L Web site, Personal Information you submit may be used to provide the Brightspace offerings that you requested, and may also be used for activities related to the purpose for which you’ve submitted the information.
 
 When you receive newsletters or promotional emails from us, we may use web beacons, customized links or similar technologies to determine whether the email has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
@@ -159,4 +159,4 @@ Kitchener, Ontario N2G 1H6  Canada
 
 cc: Legal Department
 
-Last Modified: 07/03/2015
+Last Modified: 28/04/2016
