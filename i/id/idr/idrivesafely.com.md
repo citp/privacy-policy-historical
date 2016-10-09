@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331175544id_/https%3A//www.idrivesafely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009231350id_/https%3A//www.idrivesafely.com/privacy-policy) for the most accurate reproduction.*
 
 # I Drive Safely - Privacy Policy & Notifications
 
