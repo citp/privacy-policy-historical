@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentlemenoftheroad.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314155445id_/http%3A//www.gentlemenoftheroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentlemenoftheroad.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009151914id_/http%3A//www.gentlemenoftheroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-policy - Gentlemen of the Road
 
