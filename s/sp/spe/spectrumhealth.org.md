@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spectrumhealth.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325023124id_/http%3A//www.spectrumhealth.org/WebSitePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrumhealth.org privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009140449id_/http%3A//www.spectrumhealth.org/website-privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy Grand Rapids, Michigan (MI) - Spectrum Health
+# Website Privacy Policy
 
 **SPECTRUMHEALTH.ORG PRIVACY POLICY**
 
@@ -19,7 +19,7 @@ For example, we request information from you when you:
 
 In the instances above, we may ask for your name, e-mail address, billing address, home address and credit card information, as well as other similar personal information that is needed to make a donation and to register, subscribe, or request several of the services we offer.
 
-We receive and store certain types of information whenever you visit our Site through the use of "cookies." A "cookie" is an element of data that a Web site can send to your browser, which may then be stored on your system and is used to provide you with tailored information from a Web site. In most instances, you can set your browser to notify you when you receive a cookie, giving you a chance to decide whether to accept it. We use cookies information to analyze how frequently areas of the Site are being viewed, for automatic user recognition, and to improve your overall on-line experience with us.
+We receive and store certain types of information whenever you visit our Site through the use of "cookies." A "cookie" is an element of data that a Web site can send to your browser, which may then be stored on your system and is used to provide you with tailored information from a Web site. In most instances, you can set your browser to notify you when you receive a cookie, giving you a chance to decide whether to accept it. We use cookies information to analyze how frequently areas of the Site are being viewed, for automatic user recognition, and to improve your overall online experience with us.
 
 If you choose to correspond further with us through e-mail, we reserve the right to retain the content of your e-mail messages together with your e-mail addresses and our responses.
 
