@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungeeks.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322160601id_/http%3A//www.samsungeeks.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungeeks.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010010505id_/http%3A//www.samsungeeks.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ SAMSUNGEEKS
 
