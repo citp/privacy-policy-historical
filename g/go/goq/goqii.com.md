@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goqii.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140655id_/http%3A//www.goqii.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goqii.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009030618id_/http%3A//goqii.com/us-eng/privacypolicy) for the most accurate reproduction.*
 
 # Welcome to GOQii Life
 
@@ -10,13 +10,13 @@ We know that the privacy of your personal information is very important to you. 
 **Information We Collect:**
 * When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
 
-### Personal Data That You Provide Through the Site: 
+#### Personal Data That You Provide Through the Site: 
 
   * We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, collect, store or transfer data using the GOQii Band, post information or comments, respond to one of our surveys or questionnaires, register for access to GOQii Services, allow us to access your location information (such as by using the GPS on your mobile device or the GOQii Band), or use certain GOQii Services. Wherever GOQii collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
 **By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of GOQii and the authorized third parties referred to herein located in the United States.**
 
-### Other Information: 
+#### Other Information: 
 
   *     * _Non-Identifiable Data:_
 
@@ -44,19 +44,19 @@ If GOQii intends on using any Personal Data in any manner that is not consistent
 **Our Disclosure of Your Personal Data and Other Information:**
 * GOQii is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
-### Business Transfers: 
+#### Business Transfers: 
 
   * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
-### Related Companies: 
+#### Related Companies: 
 
   * We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
 
-### Agents, Consultants and Related Third Parties: 
+#### Agents, Consultants and Related Third Parties: 
 
   * GOQii, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
 
-### Legal Requirements: 
+#### Legal Requirements: 
 
   * GOQii may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of GOQii, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
 
@@ -86,7 +86,7 @@ You may also have the option of posting your Services activities to Social Media
 * Your information may be transferred to — and maintained on —servers located outside of your state, province or country. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
 **Other Terms and Conditions:**
-* Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/web/20150607140655id_/http%3A//www.goqii.com/terms.html). 
+* Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/us-en/userterms). 
 
 **Changes to GOQii’s Privacy Policy:**
 * The Site and our business may change from time to time. As a result, at times it may be necessary for GOQii to make changes to this Privacy Policy. GOQii reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
@@ -95,3 +95,34 @@ You may also have the option of posting your Services activities to Social Media
 * You may change or update information in your profile, or delete your account entirely. To keep your Personal Data accurate, current, and complete, please update your profile or contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site. 
 
 Please also feel free to contact us if you have any questions about GOQii’s Privacy Policy or the information practices of this Site.
+
+**Doctor Policy**
+* GOQii Health Service connects you with GOQii Doctors (General Practitioners) to help and advise you on all routine medical and lifestyle challenges. GOQii Health is not for medical care. On the GOQii Health Service no formal medical diagnosis, treatment, or prescriptions will be provided.
+
+ALL INFORMATION PROVIDED ON GOQII HEALTH SERVICE OR IN CONNECTION WITH ANY COMMUNICATIONS SUPPORTED BY GOQII HEALTH SERVICE, INCLUDING BUT NOT LIMITED TO COMMUNICATIONS WITH GOQii IS INTENDED TO BE FOR GENERAL INFORMATIONAL PURPOSES ONLY, GOQii HEALTH SERVICE IS NOT A SUBSTITUTE FOR PROFESSIONAL MEDICAL DIAGNOSIS OR TREATMENT; AND RELIANCE ON ANY INFORMATION PROVIDED BY GOQii HEALTH SERVICE IS SOLELY AT YOUR OWN RISK.
+
+GOQii and any advice given to you by GOQii is intended for use only by individuals healthy enough to perform exercise. While our GOQii Doctors’ & health  recommendations consider several factors specific to each individual, including anthropometric data, fitness goals, and lifestyle factors, we are not a medical organization, and our recommended workout plans, diets, exercises should not be misconstrued as medical advice, prescriptions, or diagnoses. Consider the risks involved and consult with your medical professional before engaging in any physical activity. GOQii is not responsible or liable for any injuries or damages you may sustain that result from your use of, or inability to use, the features of GOQii or your coach’s or GOQii Health Service advice. You should discontinue exercise in cases where it causes pain or severe discomfort, and should consult a medical expert prior to returning to exercise in such cases. If you are greater than 35 years of age, or if you have not been physically active for more than 1 year, or if you have any medical history that may put you at risk, including, without limitation, one or more the following conditions, you are required to seek approval from a qualified healthcare practitioner prior to using GOQii or acting on your coach’s advice: heart disease, high blood pressure, family history of high blood pressure or heart disease, chest pain caused by previous exercise, dizziness or loss of consciousness caused by previous exercise, bone or joint problems, diabetes, high cholesterol, obesity, arthritis. We reserve the right to deny you access to GOQii,  your coach or our health services for any reason or no reason, including if we determine, in our sole discretion, that you have certain medical conditions
+
+**What We Do and What We Don't Do (GOQii Health Service)** **We Don't Practice Medicine (GOQii Health Service)**
+* The use of GOQii Health Service is for informational and educational purposes only and is not for professional medical advice. No prescriptions will be given on the Service. You agree and understand that using GOQii Health Service cannot be substituted for personal medical attention, diagnosis or in person treatment by a qualified medical professional.
+
+**We Cannot Be Substituted for your Primary Care Physician (GOQii Health Service)**
+* GOQii Doctor on GOQii Health Service are not "your" doctor, physician, or healthcare provider. When you participate in a Consult on GOQii Health Service, you understand and agree that GOQii Doctors on GOQii Health Service are not your Primary Care Physician and you agree not to use GOQii Health Service as a substitute for interactions with your Primary Care Physician. GOQii Health Service contains Content, and may help you identify services or may offer services. Everything on GOQii Health Service, including Content accessed or Services provided through GOQii Health Service, are for your information, and should be used for informational purposes only. This means that Content and Services are not a substitute for medical advice, diagnosis, treatment, or care from your physician. 
+**We Don't Provide Personal Diagnosis, Treatment or Prescriptions (GOQii Health Service)**
+* Interactions on GOQii Health Service do not constitute the practice of medicine and consultations cannot be used for providing a formal medical diagnosis, for a physical examination, for obtaining prescriptions, or for treatment. Do not use GOQii Health Service to diagnose or treat a medical condition. Please see your doctor in person if you are looking for a personal medical evaluation, diagnosis, or prescription.
+**We Support Your Health Decisions (GOQii Health Service)**
+* GOQii Health Service is structured to support the health decisions and choices that you make. These decisions and choices are yours, and we believe that you are the best person to decide about your health and that these decisions should be made in connection with the advice you receive from your own doctor. Always use common sense when making health decisions. GOQii Health Services cannot make decisions for you.
+**We Offer a One Time Doctor Consult, Not a Continued Interaction (GOQii Health Service)**
+* The use of GOQii Health Service is not a continued interaction. A doctor- patient relationship is not formed between You and Us, or between You and other Users at any point during your use of GOQii Health Service.
+**We're Not For Use in Emergencies**
+* Never use GOQii Health Service in a potential or actual medical emergency.
+**We Need Complete Information**
+* GOQii Health can only advise you based on what you've described. Please ensure you share accurate and complete information.
+**GOQii Health Locker**
+* Your medical records includes your consultation with GOQii Health, your medical documents, HRA Reports. You agree to the entry of your Health records into the GOQii, Inc. database and would be shared with GOQii including your GOQii Coach and GOQii Doctor, or based on your choice kept private. You understand that all reasonable measures have been taken to safeguard your health information, but no computer or phone system is totally secure. GOQii, Inc. recognizes your privacy and, in accordance with our Privacy Policy Statement, will not release information to anyone without your written authorization or as required by law.
+**Quality Assurance**
+* You understand that records related to these consults may be reviewed under a GOQii quality assurance program. Records of GOQii Quality Assurance Team records subject to confidentiality. All chats, emails, audio & video calls are recorded and monitored for quality and training purposes.
+* Remember... Always consult your doctor Consult your doctor or your healthcare provider if you have any questions about a symptom or a medical condition, and before starting or stopping any treatment directed by your physician or your healthcare provider, or before taking any drug or changing your diet. Always... 
+* SEEK THE ADVICE OF YOUR DOCTOR OR YOUR OTHER QUALIFIED HEALTHCARE PROVIDER WHENEVER YOU HAVE A PERSONAL QUESTION ABOUT A MEDICAL CONDITION OR SYMPTOM. NEVER DISREGARD PROFESSIONAL MEDICAL ADVICE, OR DELAY SEEKING MEDICAL ADVICE OR TREATMENT, BECAUSE OF SOMETHING YOU READ OR LEARN ON GOQii DOCTOR SERVICE.
+**We May Update this Agreement**
+* These Terms of Use may change. Because your use of GOQii Health Service means you agree to these Terms of Use, if we revise and update these Terms of Use, your continued use of GOQii Health Service will mean that you accept those changes. You choose whether or not you use GOQii Health Service. If you do not agree to all of these Terms of Use, please do not use GOQii Health Service.
