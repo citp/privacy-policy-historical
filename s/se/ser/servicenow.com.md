@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicenow.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622025530id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicenow.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009230905id_/http%3A//www.servicenow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | IT Service Management Software, SaaS | ServiceNow
 
@@ -57,7 +57,8 @@ We use “cookies” to help us improve our Website. A cookie is a small file st
 
 
 
-ServiceNow’s third parties may use JavaScript to collect IP addresses from our Visitors and our hosting provider may also collect server logs. Information gathered through these automated means may be associated with the personal information you previously submitted on our Website.
+ServiceNow’s third parties may use JavaScript to collect IP addresses from our Visitors and our hosting provider may also collect server logs. Information gathered through these automated means may be associated with the personal information you previously submitted on our Website.  
+[Cookies Policy](https://web.archive.org/cookie-policy.html)
 
 **How We Use Information Collected**   
 We may use information that we collect about Visitors for the following purposes:
@@ -105,7 +106,8 @@ ServiceNow may store and process any information collected in connection with th
 We provide certain choices regarding the information Visitors provide to us. We have created mechanisms to provide you with the following control over your information when using our Website. If you do not wish to have your e‑mail address used for promotional purposes by ServiceNow, you may withdraw consent at a later time by clicking on the “unsubscribe” link located in the emails sent by ServiceNow. 
 
 **_Cookies_**   
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. You may refuse to accept cookies by activating the appropriate setting on your browser. You may also set your browser to alert you when cookies are being sent. However, if you do so, please note that some parts of our Website may then be inaccessible or function improperly.
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. You may refuse to accept cookies by activating the appropriate setting on your browser. You may also set your browser to alert you when cookies are being sent. However, if you do so, please note that some parts of our Website may then be inaccessible or function improperly.  
+[Cookies Policy](https://web.archive.org/cookie-policy.html)
 
 **_Do Not Track_**   
 While ServiceNow attempts to honor do not track (“DNT”) instructions we receive from a Visitor’s browser, we cannot guarantee that ServiceNow will always respond to such signals, in part, because of the lack of common industry standard for DNT technology. We continue to monitor developments in DNT technology and stay apprised of DNT industry standards as they evolve.
