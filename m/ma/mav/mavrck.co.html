@@ -1,0 +1,564 @@
+<!--The following is the downloaded HTML source of the mavrck.co privacy policy that was archived on 2016-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161009154526id_/http%3A//www.mavrck.co/legal/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580405100000/392015.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+	
+
+<!--Shortcut icon-->
+	<link rel="shortcut icon" href="http://www.mavrck.co/wp-content/uploads/2014/11/mavrck_icon.png">
+
+
+<title>Privacy Policy | Influencer Marketing Platform and Activation Engine | Mavrck</title>
+
+
+<!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin -->
+<meta name="robots" content="NOODP,NOYDIR">
+<meta name="description" content="PRIVACY POLICY This Privacy Policy was last updated on September 23, 2016 Our Policy: Welcome to the web site of Apifia Inc. d/b/a MAVRCK (“MAVRCK,” “we,” “us,” and/or “our”). MAVRCK owns and operates certain web sites, including&nbsp;http://www.mavrck.">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Privacy Policy">
+<meta property="twitter:description" content="PRIVACY POLICY This Privacy Policy was last updated on September 23, 2016 Our Policy: Welcome to the web site of Apifia Inc. d/b/a MAVRCK (“MAVRCK,” “we,” “us,” and/or “our”). MAVRCK owns and operates certain web sites, including&nbsp;http://www.mavrck.">
+<link rel="publisher" type="text/html" title="Influencer Marketing Platform and Activation Engine | Mavrck" href="http://www.mavrck.co">
+<link rel="author" type="text/html" title="Sean Naegeli" href="http://www.mavrck.co/author/seanmavrck-co/">
+<!-- END Metadata added by Add-Meta-Tags WordPress plugin -->
+
+
+<!-- All in One SEO Pack 2.3.9.2 by Michael Torbert of Semper Fi Web Design[390,476] -->
+<meta name="description" content="PRIVACY POLICY This Privacy Policy was last updated on September 23, 2016 Our Policy: Welcome to the web site of Apifia Inc. d/b/a MAVRCK (“MAVRCK,”">
+
+<link rel="canonical" href="http://www.mavrck.co/legal/privacypolicy/">
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Influencer Marketing Platform and Activation Engine | Mavrck » Feed" href="http://www.mavrck.co/feed/">
+<link rel="alternate" type="application/rss+xml" title="Influencer Marketing Platform and Activation Engine | Mavrck » Comments Feed" href="http://www.mavrck.co/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Influencer Marketing Platform and Activation Engine | Mavrck » Privacy Policy Comments Feed" href="http://www.mavrck.co/legal/privacypolicy/feed/">
+<meta property="og:site_name" content="Influencer Marketing Platform and Activation Engine | Mavrck"><meta property="og:url" content="http://www.mavrck.co/legal/privacypolicy/"><meta property="og:title" content="Privacy Policy"><meta property="og:type" content="article"><style type="text/css">.wf-gmp-canvas img{max-width:none!important;}.gmp_infowindow{min-width:100px;max-width:350px;}.wf-gmp-canvas>div:first-child{width:100%;} .gmp_directions{margin:5px}.gmp_directions input[type=submit]:hover{color:#000;font-weight:700}.gmp_switch img{margin:4px}.gmp_directions input[type=submit]{display:inline-block;text-transform:none;border:1px solid #dcdcdc;text-align:center;color:#444;font-size:13px;font-weight:400;padding:0 8px;line-height:27px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-webkit-transition:all .218s;-moz-transition:all .218s;-o-transition:all .218s;transition:all .218s;background-color:#f5f5f5;background-image:-webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));background-image:-webkit-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-moz-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-ms-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:-o-linear-gradient(top,#f5f5f5,#f1f1f1);background-image:linear-gradient(top,#f5f5f5,#f1f1f1);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5f5f5', EndColorStr='#f1f1f1')}.gmp_directions input[type=text]{width:160px;display:inline;background-color:#fff;padding:4px;border:1px solid #d9d9d9;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;line-height:16px;margin:3px;color:#000;font-family:arial,helvetica,sans-serif;font-size:13px}</style>
+<link rel="stylesheet" id="owl_style-css" href="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/css/owl.carousel.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="owl_style_2-css" href="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/css/owl.theme.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="owl_style_3-css" href="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/css/owl.transitions.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="swipebox_css-css" href="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/css/swipebox.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="grid_fallback-css" href="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/css/grid_fallback.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="grid_style-css" href="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/css/grid_style.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.mavrck.co/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5.1" type="text/css" media="all">
+<style type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="http://www.mavrck.co/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.15.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.mavrck.co/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="rgs-css" href="http://www.mavrck.co/wp-content/themes/salient/css/rgs.css?ver=6.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://www.mavrck.co/wp-content/themes/salient/css/font-awesome.min.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="http://www.mavrck.co/wp-content/themes/salient/style.css?ver=7.0.7" type="text/css" media="all">
+<link rel="stylesheet" id="pretty_photo-css" href="http://www.mavrck.co/wp-content/themes/salient/css/prettyPhoto.css?ver=7.0.1" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='nectar-ie8-css'  href='http://www.mavrck.co/wp-content/themes/salient/css/ie8.css?ver=4.0' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="responsive-css" href="http://www.mavrck.co/wp-content/themes/salient/css/responsive.css?ver=7.0.7" type="text/css" media="all">
+<link rel="stylesheet" id="skin-ascend-css" href="http://www.mavrck.co/wp-content/themes/salient/css/ascend.css?ver=7.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="redux-google-fonts-salient_redux-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300&amp;ver=1469042733" type="text/css" media="all">
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/js/owl.carousel.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/js/jquery.swipebox.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/js/modernizr.custom.26633.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/js/jquery.gridrotator.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/enjoy-instagram-instagram-responsive-images-gallery-and-carousel/js/ios-orientationchange-fix.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.1"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.1"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/revslider-whiteboard-addon/public/assets/js/revolution.addon.whiteboard.min.js?ver=1.0.3"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/themes/salient/js/modernizr.js?ver=2.6.2"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/js_composer_salient/assets/lib/bower/progress-circle/ProgressCircle.min.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/js_composer_salient/assets/lib/vc_chart/jquery.vc_chart.min.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/wp-charts/js/Chart.min.js?ver=4.0"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mavrck.co/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mavrck.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.0">
+<link rel="shortlink" href="http://www.mavrck.co/?p=2350">
+	<script type="text/javascript">
+		jQuery(function($) {
+			$(".swipebox_grid").swipebox({
+				hideBarsDelay : 0
+			});
+
+		});
+
+		jQuery(function(){
+			/*
+			jQuery(document.body)
+				.on('click touchend','#swipebox-slider .current img', function(e){
+					jQuery('#swipebox-next').click();
+					return false;
+				})
+				.on('click touchend','#swipebox-slider .current', function(e){
+					jQuery('#swipebox-close').trigger('click');
+				});
+			*/
+		});
+
+	</script>
+<style type="text/css">body a{color:#ffb300;}#header-outer:not([data-lhe="animated_underline"]) header#top nav > ul > li > a:hover,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu > li.sfHover > a,header#top nav > ul > li.button_bordered > a:hover,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current-menu-item > a,header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator i,header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator i,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current_page_ancestor > a,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current-menu-ancestor > a,#header-outer:not([data-lhe="animated_underline"]) header#top nav .sf-menu li.current_page_item > a,body header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],.sf-menu li ul li.sfHover > a .sf-sub-indicator [class^="icon-"],ul.sf-menu > li > a:hover > .sf-sub-indicator i,ul.sf-menu > li > a:active > .sf-sub-indicator i,ul.sf-menu > li.sfHover > a > .sf-sub-indicator i,.sf-menu ul li.current_page_item > a,.sf-menu ul li.current-menu-ancestor > a,.sf-menu ul li.current_page_ancestor > a,.sf-menu ul a:focus,.sf-menu ul a:hover,.sf-menu ul a:active,.sf-menu ul li:hover > a,.sf-menu ul li.sfHover > a,.sf-menu li ul li a:hover,.sf-menu li ul li.sfHover > a,#footer-outer a:hover,.recent-posts .post-header a:hover,article.post .post-header a:hover,article.result a:hover,article.post .post-header h2 a,.single article.post .post-meta a:hover,.comment-list .comment-meta a:hover,label span,.wpcf7-form p span,.icon-3x[class^="icon-"],.icon-3x[class*=" icon-"],.icon-tiny[class^="icon-"],body .circle-border,article.result .title a,.home .blog-recent .col .post-header a:hover,.home .blog-recent .col .post-header h3 a,#single-below-header a:hover,header#top #logo:hover,.sf-menu > li.current_page_ancestor > a > .sf-sub-indicator [class^="icon-"],.sf-menu > li.current-menu-ancestor > a > .sf-sub-indicator [class^="icon-"],body #mobile-menu li.open > a [class^="icon-"],.pricing-column h3,.pricing-table[data-style="flat-alternative"] .pricing-column.accent-color h4,.pricing-table[data-style="flat-alternative"] .pricing-column.accent-color .interval,.comment-author a:hover,.project-attrs li i,#footer-outer #copyright li a i:hover,.col:hover > [class^="icon-"].icon-3x.accent-color.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,#header-outer .widget_shopping_cart .cart_list a,.woocommerce .star-rating,.woocommerce-page table.cart a.remove,.woocommerce form .form-row .required,.woocommerce-page form .form-row .required,body #header-secondary-outer #social a:hover i,.woocommerce ul.products li.product .price,body .twitter-share:hover i,.twitter-share.hovered i,body .linkedin-share:hover i,.linkedin-share.hovered i,body .google-plus-share:hover i,.google-plus-share.hovered i,.pinterest-share:hover i,.pinterest-share.hovered i,.facebook-share:hover i,.facebook-share.hovered i,.woocommerce-page ul.products li.product .price,.nectar-milestone .number.accent-color,header#top nav > ul > li.megamenu > ul > li > a:hover,header#top nav > ul > li.megamenu > ul > li.sfHover > a,body #portfolio-nav a:hover i,span.accent-color,.nectar-love:hover i,.nectar-love.loved i,.portfolio-items .nectar-love:hover i,.portfolio-items .nectar-love.loved i,body .hovered .nectar-love i,header#top nav ul #search-btn a:hover span,header#top nav ul .slide-out-widget-area-toggle a:hover span,#search-outer #search #close a span:hover,.carousel-wrap[data-full-width="true"] .carousel-heading a:hover i,#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,.portfolio-filters-inline .container ul li a.active,body [class^="icon-"].icon-default-style,.svg-icon-holder[data-color="accent-color"],.team-member a.accent-color:hover,.ascend .comment-list .reply a,.wpcf7-form .wpcf7-not-valid-tip,.text_on_hover.product .add_to_cart_button,.blog-recent[data-style="minimal"] .col > span,.blog-recent[data-style="title_only"] .col:hover .post-header .title,.woocommerce-checkout-review-order-table .product-info .amount,.tabbed[data-style="minimal"] > ul li a.active-tab,.masonry.classic_enhanced article.post .post-meta a:hover i,.masonry.classic_enhanced article.post .post-meta .icon-salient-heart-2.loved,.single #single-meta ul li:not(.meta-share-count):hover i,.single #single-meta ul li:not(.meta-share-count):hover a,.single #single-meta ul li:not(.meta-share-count):hover span,.single #single-meta ul li.meta-share-count .nectar-social a:hover i,#project-meta #single-meta ul li > a,#project-meta ul li.meta-share-count .nectar-social a:hover i,#project-meta ul li:not(.meta-share-count):hover i,#project-meta ul li:not(.meta-share-count):hover span{color:#ffb300!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.accent-color.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,.ascend #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap:not(.has_products) .icon-salient-cart{color:#ffb300!important;}.orbit-wrapper div.slider-nav span.right,.orbit-wrapper div.slider-nav span.left,.flex-direction-nav a,.jp-play-bar,.jp-volume-bar-value,.jcarousel-prev:hover,.jcarousel-next:hover,.portfolio-items .col[data-default-color="true"] .work-item:not(.style-3) .work-info-bg,.portfolio-items .col[data-default-color="true"] .bottom-meta,.portfolio-filters a,.portfolio-filters #sort-portfolio,.project-attrs li span,.progress li span,.nectar-progress-bar span,#footer-outer #footer-widgets .col .tagcloud a:hover,#sidebar .widget .tagcloud a:hover,article.post .more-link span:hover,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,#pagination .next a:hover,#pagination .prev a:hover,.comment-list .reply a:hover,input[type=submit]:hover,input[type="button"]:hover,#footer-outer #copyright li a.vimeo:hover,#footer-outer #copyright li a.behance:hover,.toggle.open h3 a,.tabbed > ul li a.active-tab,[class*=" icon-"],.icon-normal,.bar_graph li span,.nectar-button[data-color-override="false"].regular-button,.nectar-button.tilt.accent-color,body .swiper-slide .button.transparent_2 a.primary-color:hover,#footer-outer #footer-widgets .col input[type="submit"],.carousel-prev:hover,.carousel-next:hover,.blog-recent .more-link span:hover,.post-tags a:hover,.pricing-column.highlight h3,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight h3 .highlight-reason,.pricing-table[data-style="flat-alternative"] .pricing-column.accent-color:before,#to-top:hover,#to-top.dark:hover,body[data-button-style="rounded"] #to-top:after,#pagination a.page-numbers:hover,#pagination span.page-numbers.current,.single-portfolio .facebook-share a:hover,.single-portfolio .twitter-share a:hover,.single-portfolio .pinterest-share a:hover,.single-post .facebook-share a:hover,.single-post .twitter-share a:hover,.single-post .pinterest-share a:hover,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,article.format-status .post-content .status-inner,article.post.format-aside .aside-inner,body #header-secondary-outer #social li a.behance:hover,body #header-secondary-outer #social li a.vimeo:hover,#sidebar .widget:hover [class^="icon-"].icon-3x,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,article.post.quote .content-inner .quote-inner .whole-link,.masonry.classic_enhanced article.post.quote.wide_tall .post-content a:hover .quote-inner,.masonry.classic_enhanced article.post.link.wide_tall .post-content a:hover .link-inner,.iosSlider .prev_slide:hover,.iosSlider .next_slide:hover,body [class^="icon-"].icon-3x.alt-style.accent-color,body [class*=" icon-"].icon-3x.alt-style.accent-color,#slide-out-widget-area,#slide-out-widget-area-bg.fullscreen,#header-outer .widget_shopping_cart a.button,body[data-button-style="rounded"] .wpb_wrapper .twitter-share:before,body[data-button-style="rounded"] .wpb_wrapper .twitter-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .nectar-social:hover > *:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share.hovered:before,#header-outer a.cart-contents .cart-wrap span,.swiper-slide .button.solid_color a,.swiper-slide .button.solid_color_2 a,.portfolio-filters,button[type=submit]:hover,#buddypress button:hover,#buddypress a.button:hover,#buddypress ul.button-nav li.current a,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before,#buddypress a.button:focus,.text_on_hover.product a.added_to_cart,.woocommerce div.product .woocommerce-tabs .full-width-content ul.tabs li a:after,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.minus,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.plus,.woocommerce .span_4 input[type="submit"].checkout-button,.portfolio-filters-inline[data-color-scheme="accent-color"],body[data-fancy-form-rcs="1"] [type="radio"]:checked + label:after,.select2-container .select2-choice:hover,.select2-dropdown-open .select2-choice,header#top nav > ul > li.button_solid_color > a:before,#header-outer.transparent header#top nav > ul > li.button_solid_color > a:before,.tabbed[data-style="minimal"] > ul li a:after,.twentytwenty-handle,.twentytwenty-horizontal .twentytwenty-handle:before,.twentytwenty-horizontal .twentytwenty-handle:after,.twentytwenty-vertical .twentytwenty-handle:before,.twentytwenty-vertical .twentytwenty-handle:after,.masonry.classic_enhanced .posts-container article .meta-category a:hover,.masonry.classic_enhanced .posts-container article .video-play-button,.bottom_controls #portfolio-nav .controls li a i:after,.bottom_controls #portfolio-nav ul:first-child li#all-items a:hover i,.nectar_video_lightbox.nectar-button[data-color="default-accent-color"],.nectar_video_lightbox.nectar-button[data-color="transparent-accent-color"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] blockquote.is-selected p,.nectar-recent-posts-slider .container .strong span:before,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a:hover,.single .heading-title[data-header-style="default_minimal"] .meta-category a:hover,body.single-post .sharing-default-minimal .nectar-love.loved,.nectar-fancy-box:after{background-color:#ffb300!important;}.col:hover > [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:hover > [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered{background-color:#ffb300!important;}.bottom_controls #portfolio-nav ul:first-child li#all-items a:hover i{box-shadow:-.6em 0 #ffb300,-.6em .6em #ffb300,.6em 0 #ffb300,.6em -.6em #ffb300,0 -.6em #ffb300,-.6em -.6em #ffb300,0 .6em #ffb300,.6em .6em #ffb300;}.tabbed > ul li a.active-tab,body[data-form-style="minimal"] label:after,body .recent_projects_widget a:hover img,.recent_projects_widget a:hover img,#sidebar #flickr a:hover img,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,#footer-outer #flickr a:hover img,body[data-button-style="rounded"] .wpb_wrapper .twitter-share:before,body[data-button-style="rounded"] .wpb_wrapper .twitter-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share:before,body[data-button-style="rounded"] .wpb_wrapper .facebook-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share:before,body[data-button-style="rounded"] .wpb_wrapper .google-plus-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .nectar-social:hover > *:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share:before,body[data-button-style="rounded"] .wpb_wrapper .pinterest-share.hovered:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share:before,body[data-button-style="rounded"] .wpb_wrapper .linkedin-share.hovered:before,#featured article .post-title a:hover,#header-outer[data-lhe="animated_underline"] header#top nav > ul > li > a:after,body #featured article .post-title a:hover,div.wpcf7-validation-errors,body[data-fancy-form-rcs="1"] [type="radio"]:checked + label:before,body[data-fancy-form-rcs="1"] [type="radio"]:checked + label:after,body[data-fancy-form-rcs="1"] input[type="checkbox"]:checked + label > span,.select2-container .select2-choice:hover,.select2-dropdown-open .select2-choice,#header-outer:not(.transparent) header#top nav > ul > li.button_bordered > a:hover:before,.single #single-meta ul li:not(.meta-share-count):hover a,.single #project-meta ul li:not(.meta-share-count):hover a{border-color:#ffb300!important;}.default-loading-icon:before{border-top-color:#ffb300!important;}#header-outer a.cart-contents span:before{border-color:transparent #ffb300!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .hovered .circle-border,body #sidebar .widget:hover .circle-border,body .testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accent-color"] blockquote .bottom-arrow:after,.portfolio-items[data-ps="6"] .bg-overlay,.portfolio-items[data-ps="6"].no-masonry .bg-overlay{border-color:#ffb300;}.gallery a:hover img{border-color:#ffb300!important;}@media only screen and (min-width :1px) and (max-width :1000px){body #featured article .post-title > a{background-color:#ffb300;}body #featured article .post-title > a{border-color:#ffb300;}}.nectar-button.regular-button.extra-color-1,.nectar-button.tilt.extra-color-1{background-color:#1f1f1f!important;}.icon-3x[class^="icon-"].extra-color-1:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-1,.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style),body .icon-3x[class*=" icon-"].extra-color-1:not(.alt-style) .circle-border,.woocommerce-page table.cart a.remove,#header-outer .widget_shopping_cart .cart_list li a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,.nectar-milestone .number.extra-color-1,span.extra-color-1,.team-member ul.social.extra-color-1 li a,.stock.out-of-stock,body [class^="icon-"].icon-default-style.extra-color-1,.team-member a.extra-color-1:hover,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-1 h3,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-1 h4,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-1 .interval,.svg-icon-holder[data-color="extra-color-1"]{color:#1f1f1f!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.col:hover > [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-1:hover,body .col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .col:not(#post-area):not(#sidebar):not(.span_12):hover a [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.portfolio-filters-inline[data-color-scheme="extra-color-1"],.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-1:before,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-1 h3 .highlight-reason,.nectar-button.nectar_video_lightbox[data-color="default-extra-color-1"],.nectar_video_lightbox.nectar-button[data-color="transparent-extra-color-1"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] blockquote.is-selected p,.nectar-fancy-box[data-color="extra-color-1"]:after{background-color:#1f1f1f!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-1,body [class*=" icon-"].icon-3x.alt-style.extra-color-1,[class*=" icon-"].extra-color-1.icon-normal,.extra-color-1.icon-normal,.bar_graph li span.extra-color-1,.nectar-progress-bar span.extra-color-1,#header-outer .widget_shopping_cart a.button,.woocommerce ul.products li.product .onsale,.woocommerce-page ul.products li.product .onsale,.woocommerce span.onsale,.woocommerce-page span.onsale,.woocommerce-page table.cart a.remove:hover,.swiper-slide .button.solid_color a.extra-color-1,.swiper-slide .button.solid_color_2 a.extra-color-1,.toggle.open.extra-color-1 h3 a{background-color:#1f1f1f!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered,.no-highlight.extra-color-1 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered{color:#1f1f1f!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-1.hovered .circle-border,.woocommerce-page table.cart a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,body #sidebar .widget:hover .extra-color-1 .circle-border,.woocommerce-page table.cart a.remove,body .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-1"] blockquote .bottom-arrow:after{border-color:#1f1f1f;}.pricing-column.highlight.extra-color-1 h3{background-color:#1f1f1f!important;}.nectar-button.regular-button.extra-color-2,.nectar-button.tilt.extra-color-2{background-color:#00608f!important;}.icon-3x[class^="icon-"].extra-color-2:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-2:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-2,body .icon-3x[class*=" icon-"].extra-color-2 .circle-border,.nectar-milestone .number.extra-color-2,span.extra-color-2,.team-member ul.social.extra-color-2 li a,body [class^="icon-"].icon-default-style.extra-color-2,.team-member a.extra-color-2:hover,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-2 h3,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-2 h4,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-2 .interval,.svg-icon-holder[data-color="extra-color-2"]{color:#00608f!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-2:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style),.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-2 h3 .highlight-reason,.nectar-button.nectar_video_lightbox[data-color="default-extra-color-2"],.nectar_video_lightbox.nectar-button[data-color="transparent-extra-color-2"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] blockquote.is-selected p,.nectar-fancy-box[data-color="extra-color-2"]:after{background-color:#00608f!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-2,body [class*=" icon-"].icon-3x.alt-style.extra-color-2,[class*=" icon-"].extra-color-2.icon-normal,.extra-color-2.icon-normal,.bar_graph li span.extra-color-2,.nectar-progress-bar span.extra-color-2,.woocommerce .product-wrap .add_to_cart_button.added,.woocommerce-message,.woocommerce-error,.woocommerce-info,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.swiper-slide .button.solid_color a.extra-color-2,.swiper-slide .button.solid_color_2 a.extra-color-2,.toggle.open.extra-color-2 h3 a,.portfolio-filters-inline[data-color-scheme="extra-color-2"],.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-2:before{background-color:#00608f!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered,.no-highlight.extra-color-2 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered{color:#00608f!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-2.hovered .circle-border,body #sidebar .widget:hover .extra-color-2 .circle-border,body .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-2"] blockquote .bottom-arrow:after{border-color:#00608f;}.pricing-column.highlight.extra-color-2 h3{background-color:#00608f!important;}.nectar-button.regular-button.extra-color-3,.nectar-button.tilt.extra-color-3{background-color:#86b742!important;}.icon-3x[class^="icon-"].extra-color-3:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-3:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-3,body .icon-3x[class*=" icon-"].extra-color-3 .circle-border,.nectar-milestone .number.extra-color-3,span.extra-color-3,.team-member ul.social.extra-color-3 li a,body [class^="icon-"].icon-default-style.extra-color-3,.team-member a.extra-color-3:hover,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-3 h3,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-3 h4,.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-3 .interval,.svg-icon-holder[data-color="extra-color-3"]{color:#86b742!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-3:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style),.portfolio-filters-inline[data-color-scheme="extra-color-3"],.pricing-table[data-style="flat-alternative"] .pricing-column.extra-color-3:before,.pricing-table[data-style="flat-alternative"] .pricing-column.highlight.extra-color-3 h3 .highlight-reason,.nectar-button.nectar_video_lightbox[data-color="default-extra-color-3"],.nectar_video_lightbox.nectar-button[data-color="transparent-extra-color-3"]:hover,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] .flickity-page-dots .dot.is-selected:before,.testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] blockquote.is-selected p,.nectar-fancy-box[data-color="extra-color-3"]:after{background-color:#86b742!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-3,body [class*=" icon-"].icon-3x.alt-style.extra-color-3,.extra-color-3.icon-normal,[class*=" icon-"].extra-color-3.icon-normal,.bar_graph li span.extra-color-3,.nectar-progress-bar span.extra-color-3,.swiper-slide .button.solid_color a.extra-color-3,.swiper-slide .button.solid_color_2 a.extra-color-3,.toggle.open.extra-color-3 h3 a{background-color:#86b742!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered,.no-highlight.extra-color-3 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered{color:#86b742!important;}body .col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-3.hovered .circle-border,body #sidebar .widget:hover .extra-color-3 .circle-border,body .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] blockquote .bottom-arrow:after,body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="extra-color-3"] blockquote .bottom-arrow:after{border-color:#86b742;}.pricing-column.highlight.extra-color-3 h3{background-color:#86b742!important;}html .container-wrap,.project-title,html .ascend .container-wrap,html .ascend .project-title,html body .vc_text_separator div,html .carousel-wrap[data-full-width="true"] .carousel-heading,html .carousel-wrap span.left-border,html .carousel-wrap span.right-border,html #page-header-wrap,html .page-header-no-bg,html #full_width_portfolio .project-title.parallax-effect,html .portfolio-items .col,html .page-template-template-portfolio-php .portfolio-items .col.span_3,html .page-template-template-portfolio-php .portfolio-items .col.span_4{background-color:#ffffff;}#call-to-action{background-color:#ECEBE9!important;}#call-to-action span{color:#4B4F52!important;}body #slide-out-widget-area-bg{background-color:rgba(0,0,0,0.8);}</style><style type="text/css"> #header-outer{padding-top:20px;}#header-outer #logo img{height:40px;}header#top nav > ul > li > a{padding-bottom:30px;padding-top:10px;}#header-outer .cart-menu{padding-bottom:30px;padding-top:30px;}header#top nav > ul li#search-btn,header#top nav > ul li.slide-out-widget-area-toggle{padding-bottom:9px;padding-top:10px;}header#top .sf-menu > li.sfHover > ul{top:20px;}.sf-sub-indicator{height:20px;}#header-space{height:114px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:114px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px){body:not(.ascend)[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"] header#top,body.ascend[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"][data-full-width="false"] header#top{padding-bottom:20px;}}@media only screen and (max-width:1000px){body header#top #logo img,#header-outer[data-permanent-transparent="false"] #logo .dark-version{height:24px!important;}header#top .col.span_9{min-height:48px;line-height:28px;}}body #header-outer,body[data-header-color="dark"] #header-outer{background-color:rgba(0,0,0,100);}.nectar-slider-loading .loading-icon,.portfolio-loading,#ajax-loading-screen .loading-icon,.loading-icon,.pp_loaderIcon{background-image:url("");}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:18px!important;line-height:31.2px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:13.2px!important;line-height:24px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:10px!important;line-height:17.52px!important;}}#header-space{background-color:#ffffff}@media only screen and (min-width:1000px){.container,.woocommerce-tabs .full-width-content .tab-container,.nectar-recent-posts-slider .flickity-page-dots{max-width:1425px;width:100%;margin:0 auto;padding:0 90px;}body .container .page-submenu.stuck .container:not(.tab-container),.nectar-recent-posts-slider .flickity-page-dots{padding:0 90px!important;}.swiper-slide .content{padding:0 90px;}body .container .container:not(.tab-container):not(.recent-post-container){width:100%!important;padding:0!important;}body .carousel-heading .container{padding:0 10px!important;}body .carousel-heading .container .carousel-next{right:10px;}body .carousel-heading .container .carousel-prev{right:35px;}.carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:90px;}.carousel-wrap[data-full-width="true"] .carousel-heading{margin-left:-20px;margin-right:-20px;}.carousel-wrap[data-full-width="true"] .carousel-next{right:90px!important;}.carousel-wrap[data-full-width="true"] .carousel-prev{right:115px!important;}.carousel-wrap[data-full-width="true"]{padding:0!important;}.carousel-wrap[data-full-width="true"] .caroufredsel_wrapper{padding:20px!important;}#search-outer #search #close a{right:90px;}#boxed,#boxed #header-outer,#boxed #header-secondary-outer,#boxed #slide-out-widget-area-bg.fullscreen,#boxed #page-header-bg[data-parallax="1"],#boxed #featured,body[data-footer-reveal="1"] #boxed #footer-outer,#boxed .orbit > div,#boxed #featured article,.ascend #boxed #search-outer{max-width:1400px!important;width:90%!important;min-width:980px;}body[data-hhun="1"] #boxed #header-outer:not(.detached),body[data-hhun="1"] #boxed #header-secondary-outer{width:100%!important;}#boxed #search-outer #search #close a{right:0!important;}#boxed .container{width:92%;padding:0;}#boxed #footer-outer #footer-widgets,#boxed #footer-outer #copyright{padding-left:0;padding-right:0;}#boxed .carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:35px;}#boxed .carousel-wrap[data-full-width="true"] .carousel-next{right:35px!important;}#boxed .carousel-wrap[data-full-width="true"] .carousel-prev{right:60px!important;}}.pagination-navigation{-webkit-filter:url("http://www.mavrck.co/legal/privacypolicy/#goo");filter:url("http://www.mavrck.co/legal/privacypolicy/#goo");}.single #single-below-header span{font-size:18px;}#page-header-bg h1{line-height:52px !important;}.single #single-below-header{margin-top:15px !important;margin-bottom:50px !important;}.post-password-form{padding:20px;width:400px;display:block;margin:0 auto;}.post-password-form input[type="submit"]{margin:15px 0 0 0;border-radius:2px !important;}.hubspot-form-button{border-radius:5px 5px 5px 5px;-moz-border-radius:5px 5px 5px 5px;-webkit-border-radius:5px 5px 5px 5px;-o-border-radius:5px 5px 5px 5px;box-shadow:0 -3px rgba(0,0,0,0.1) inset;-moz-box-shadow:0 -3px rgba(0,0,0,0.1) inset;-webkit-box-shadow:0 -3px rgba(0,0,0,0.1) inset;-o-box-shadow:0 -3px rgba(0,0,0,0.1) inset;transition:opacity 0.3s linear;-moz-transition:opacity 0.3s linear;-webkit-transition:opacity 0.3s linear;-o-transition:opacity 0.3s linear;color:#FFFFFF;font-family:'OpenSansbold';font-size:13px;letter-spacing:2px !important;padding:15px 22px;position:relative;text-transform:uppercase;top:-3px;margin-bottom:10px;margin-left:7px;opacity:1;line-height:20px;background-color:#ffb300;display:inline-block;}input[type=submit],button[type=submit]{background-color:#ffb300;padding:7px 11px;border:none;color:#fff;cursor:pointer;transition:all 0.2s linear 0s;-moz-transition:all 0.2s linear 0s;-webkit-transition:all 0.2s linear 0s;-o-transition:all 0.2s linear 0s;width:auto;font-size:12px;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;-o-border-radius:2px;}.hs-form fieldset.form-columns-2 .input{margin-right:20px !important;}.hs-form .actions{background:transparent;margin-top:0 !important;margin-bottom:0 !important;padding:0 0 0 20px !important;border-top:0;-moz-border-radius:0 0 3px 3px;-webkit-border-radius:0;border-radius:0 0 3px 3px;}body .full-width-content.parallax_section .row-bg,body .full-width-section.parallax_section .row-bg{background-attachment:fixed !important;}</style><style type="text/css"> body,.toggle h3 a,body .ui-widget,table,.bar_graph li span strong,#slide-out-widget-area .tagcloud a,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.row .col.section-title .nectar-love span,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2,.sharing-default-minimal .nectar-social .social-text,body .sharing-default-minimal .nectar-love{font-family:Open Sans;font-size:18px;line-height:22px;font-weight:300;}.bold,strong,b{font-family:Open Sans;font-weight:600;}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{line-height:22px!important;}header#top nav > ul > li > a{font-family:Open Sans;font-size:16px;line-height:22.4px;}#header-outer[data-lhe="animated_underline"] header#top nav > ul > li > a,header#top nav > ul > li.button_solid_color > a,body #header-outer.transparent header#top nav > ul > li.button_solid_color > a,#header-outer[data-lhe="animated_underline"] header#top nav > ul > li.button_solid_color > a{margin-left:13px!important;margin-right:13px!important;}#header-outer[data-lhe="default"] header#top nav > ul > li > a{padding-left:13px;padding-right:13px;}header#top nav > ul > li.button_solid_color > a,body #header-outer.transparent header#top nav > ul > li.button_solid_color > a,#header-outer[data-lhe="animated_underline"] header#top nav > ul > li.button_solid_color > a{padding-left:23px!important;padding-right:23px!important;}header#top nav > ul > li.button_solid_color > a:before,#header-outer.transparent header#top nav > ul > li.button_solid_color > a:before{height:27.4px;}header#top nav > ul > li.button_bordered > a:before,#header-outer.transparent header#top nav > ul > li.button_bordered > a:before{height:37.4px;}header#top .sf-menu li ul li a,#header-secondary-outer nav > ul > li > a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{font-family:Open Sans;}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:Open Sans!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1,.full-width-content .recent-post-container .inner-wrap h2{font-family:Open Sans;font-size:36px;line-height:36px;font-weight:300;}@media only screen and (max-width:1300px) and (min-width:1000px){body .row .col.section-title h1,body h1,.full-width-content .recent-post-container .inner-wrap h2{font-size:25.2px;line-height:25.2px;}}@media only screen and (max-width:1000px) and (min-width:690px){body .row .col.section-title h1,body h1{font-size:23.4px;line-height:23.4px;}.full-width-content .recent-post-container .inner-wrap h2{font-size:21.6px;line-height:21.6px;}}@media only screen and (max-width:690px){body .row .col.section-title h1,body h1{font-size:21.6px;line-height:21.6px;}.full-width-content .recent-post-container .inner-wrap h2{font-size:16.2px;line-height:16.2px;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span,.woocommerce .full-width-tabs #reviews h3,.row .col.section-title h2{font-family:Open Sans;font-size:28px;line-height:28px;font-weight:300;}@media only screen and (max-width:1300px) and (min-width:1000px){body h2{font-size:23.8px;line-height:23.8px;}.row .span_2 h2,.row .span_3 h2,.row .span_4 h2,.row .vc_col-sm-2 h2,.row .vc_col-sm-3 h2,.row .vc_col-sm-4 h2{font-size:19.6px;line-height:19.6px;}}@media only screen and (max-width:690px){.col h2{font-size:16.8px;line-height:16.8px;}}body h3,.row .col h3,.toggle h3 a,.ascend #respond h3,.ascend h3#comments,.woocommerce ul.products li.product.text_on_hover h3,.masonry.classic_enhanced .masonry-blog-item h3.title{}@media only screen and (min-width:1000px){.ascend .comments-section .comment-wrap.full-width-section > h3,.blog_next_prev_buttons[data-post-header-style="default_minimal"] .col h3{font-size:;line-height:;}.masonry.classic_enhanced .masonry-blog-item.large_featured h3.title{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){body .portfolio-items.constrain-max-cols.masonry-items .col.elastic-portfolio-item h3{font-size:;line-height:;}}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.row .span_2 h3,.row .span_3 h3,.row .span_4 h3,.row .vc_col-sm-2 h3,.row .vc_col-sm-3 h3,.row .vc_col-sm-4 h3{font-size:;line-height:;}}body h4,.row .col h4,.portfolio-items .work-meta h4,.portfolio-items .col.span_3 .work-meta h4,#respond h3,h3#comments,.portfolio-items[data-ps="6"] .work-meta h4{}@media only screen and (min-width:690px){.portfolio-items[data-ps="6"] .wide_tall .work-meta h4{font-size:;line-height:;}}body h5,.row .col h5,.portfolio-items .work-item.style-3-alt p{}body .wpb_column > .wpb_wrapper > .morphing-outline .inner > h5{font-size:;}body h6,.row .col h6{}body i,body em,.masonry.meta_overlaid article.post .post-header .meta-author > span,#post-area.masonry.meta_overlaid article.post .post-meta .date,#post-area.masonry.meta_overlaid article.post.quote .quote-inner .author,#post-area.masonry.meta_overlaid article.post.link .post-content .destination{}form label,.woocommerce-checkout-review-order-table .product-info .amount,.woocommerce-checkout-review-order-table .product-info .product-quantity,.nectar-progress-bar p,.nectar-progress-bar span strong i,.nectar-progress-bar span strong,.testimonial_slider blockquote span{}.nectar-dropcap{}body #page-header-bg h1,html body .row .col.section-title h1,.nectar-box-roll .overlaid-content h1{font-family:Open Sans;font-size:50px;line-height:50px;font-weight:300;}@media only screen and (min-width:690px) and (max-width:1000px){#page-header-bg .span_6 h1,.overlaid-content h1{font-size:35px!important;line-height:39px!important;}}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:42.5px;line-height:42.5px;}}@media only screen and (min-width:1300px) and (max-width:1500px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:45px;line-height:45px;}}@media only screen and (max-width:690px){#page-header-bg.fullscreen-header .span_6 h1,.overlaid-content h1{font-size:22.5px!important;line-height:22.5px!important;}}body #page-header-bg .span_6 span.subheader,body .row .col.section-title > span,.nectar-box-roll .overlaid-content .subheader{}@media only screen and (min-width:1000px) and (max-width:1300px){body #page-header-bg:not(.fullscreen-header) .span_6 span.subheader,body .row .col.section-title > span{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}@media only screen and (max-width:690px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}body #slide-out-widget-area .inner .off-canvas-menu-container li a,body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{}@media only screen and (min-width:690px) and (max-width:1000px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}@media only screen and (max-width:690px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}#slide-out-widget-area .menuwrapper li small{}@media only screen and (min-width:690px) and (max-width:1000px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}@media only screen and (max-width:690px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}.swiper-slide .content h2{font-family:Lovelo,sans-serif;font-size:110px;line-height:100px;}@media only screen and (min-width:1000px) and (max-width:1300px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:88px!important;line-height:80px!important;}}@media only screen and (min-width:690px) and (max-width:1000px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:66px!important;line-height:60px!important;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:55px!important;line-height:50px!important;}}#featured article .post-title h2 span,.swiper-slide .content p,#portfolio-filters-inline #current-category,body .vc_text_separator div{font-family:Open Sans;}#portfolio-filters-inline ul{line-height:;}.swiper-slide .content p.transparent-bg span{}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,body .full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}.testimonial_slider blockquote,.testimonial_slider blockquote span,blockquote{font-family:Open Sans;font-weight:300;}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav > ul > li.megamenu > ul > li > a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading,#infscr-loading div,#page-header-bg .author-section a,.ascend input[type="submit"],.ascend button[type="submit"],.widget h4,.text-on-hover-wrap .categories a,.text_on_hover.product .add_to_cart_button,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.qty,.woocommerce-page #respond input#submit,.meta_overlaid article.post .post-header h2,.meta_overlaid article.post.quote .post-content h2,.meta_overlaid article.post.link .post-content h2,.meta_overlaid article.post.format-status .post-content h2,.meta_overlaid article .meta-author a,.pricing-column.highlight h3 .highlight-reason,.blog-recent[data-style="minimal"] .col > span,.masonry.classic_enhanced .posts-container article .meta-category a,.nectar-recent-posts-slider .container .strong,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a,.single .heading-title[data-header-style="default_minimal"] .meta-category a,.nectar-fancy-box .link-text{font-weight:normal;}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject,.testimonial_slider blockquote span{}article.post .post-meta .month{line-height:-6px!important;}</style>
+		<!-- A font fabric font - http://fontfabric.com/lovelo-font/ -->
+		<style> @font-face { font-family: 'Lovelo'; src: url('http://www.mavrck.co/wp-content/themes/salient/css/fonts/Lovelo_Black.eot'); src: url('http://www.mavrck.co/wp-content/themes/salient/css/fonts/Lovelo_Black.eot?#iefix') format('embedded-opentype'), url('http://www.mavrck.co/wp-content/themes/salient/css/fonts/Lovelo_Black.woff') format('woff'),  url('http://www.mavrck.co/wp-content/themes/salient/css/fonts/Lovelo_Black.ttf') format('truetype'), url('http://www.mavrck.co/wp-content/themes/salient/css/fonts/Lovelo_Black.svg#loveloblack') format('svg'); font-weight: normal; font-style: normal; } </style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.mavrck.co/wp-content/plugins/js_composer_salient/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.mavrck.co/wp-content/plugins/js_composer_salient/assets/css/vc-ie8.min.css" media="screen"><![endif]--><!--[if lte IE 8]><script src="http://www.mavrck.co/wp-content/plugins/wp-charts/js/excanvas.compiled.js"></script><![endif]-->	<style>
+    			/*wp_charts_js responsive canvas CSS override*/
+    			.wp_charts_canvas {
+    				width:100%!important;
+    				max-width:100%;
+    			}
+
+    			@media screen and (max-width:480px) {
+    				div.wp-chart-wrap {
+    					width:100%!important;
+    					float: none!important;
+						margin-left: auto!important;
+						margin-right: auto!important;
+						text-align: center;
+    				}
+    			}
+    		</style><meta name="generator" content="Powered by Slider Revolution 5.2.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!--
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>-->
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=235359,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=235359&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161009154526id_%2Fhttp%3A%2F%2Fwww.mavrck.co%2Flegal%2Fprivacypolicy%2F&amp;r=0.11421469681190954" type="text/javascript"></script>
+
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 65118179]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+</head>
+
+
+<body class="page page-id-2350 page-child parent-pageid-2342 page-template-default ascend wpb-js-composer js-comp-ver-4.11.2 vc_responsive " ng-app="calculoid" data-footer-reveal="false" data-footer-reveal-shadow="none" data-cae="linear" data-cad="650" data-aie="none" data-ls="pretty_photo" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-is="minimal" data-button-style="default" data-header-inherit-rc="false" data-header-search="true" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-loading-animation="spin" data-bg-header="false" data-ext-responsive="true" data-header-resize="1" data-header-color="dark" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56661828-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+
+	<div id="header-secondary-outer" data-full-width="false" data-permanent-transparent="false">
+		<div class="container">
+			<nav>
+									<ul id="social">
+																																																																																																																							</ul>
+								
+									<ul class="sf-menu">	
+				   	   <li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a href="http://info.mavrck.co/contact-us">Contact Us</a></li>
+				    </ul>
+								
+			</nav>
+		</div>
+	</div>
+
+ <div id="header-space" data-header-mobile-fixed="1"></div> 
+
+<div id="header-outer" data-has-menu="true" data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#1f1f1f" data-format="centered-menu" data-permanent-transparent="false" data-cart="false" data-transparency-option="" data-shrink-num="6" data-full-width="false" data-using-secondary="1" data-using-logo="1" data-logo-height="40" data-m-logo-height="24" data-padding="20" data-header-resize="1">
+	
+		
+	<header id="top">
+		
+		<div class="container">
+			
+			<div class="row">
+				  
+				<div class="col span_3">
+					
+					<a id="logo" href="http://www.mavrck.co">
+						
+						<img class="stnd default-logo" alt="Influencer Marketing Platform and Activation Engine | Mavrck" src="http://www.mavrck.co/wp-content/uploads/2014/11/mavrck-logo.png"><img class="retina-logo " alt="Influencer Marketing Platform and Activation Engine | Mavrck" src="http://www.mavrck.co/wp-content/uploads/2014/11/mavrck-logo.png"> 
+					</a>
+
+				</div><!--/span_3-->
+				
+				<div class="col span_9 col_last">
+					
+										
+											<div class="slide-out-widget-area-toggle">
+							<div> <a href="#sidewidgetarea" class="closed"> <i class="icon-reorder"></i> </a> </div> 
+       					</div>
+										
+					<nav>
+						<ul class="buttons" data-user-set-ocm="1">
+							<li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span></a></div> </li>
+						
+															<li class="slide-out-widget-area-toggle">
+									<div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div> 
+       							</li>
+													</ul>
+						<ul class="sf-menu">	
+							<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://www.mavrck.co/">Platform</a></li>
+<li id="menu-item-4278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4278"><a href="http://www.mavrck.co/case-studies/">Case Studies</a></li>
+<li id="menu-item-1206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1206"><a href="http://www.mavrck.co/grader/">Fan Grader</a></li>
+<li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-760"><a href="http://www.mavrck.co/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-9154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9154"><a href="http://www.mavrck.co/about-us/">About Us</a></li>
+	<li id="menu-item-9151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9151"><a href="http://www.mavrck.co/careers/">Careers</a></li>
+	<li id="menu-item-9153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9153"><a href="http://www.mavrck.co/press/">Press</a></li>
+</ul>
+</li>
+<li id="menu-item-9302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9302"><a href="http://www.mavrck.co/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="http://www.mavrck.co/blog/">Blog</a></li>
+	<li id="menu-item-9303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9303"><a href="http://www.mavrck.co/case-studies/">Case Studies</a></li>
+	<li id="menu-item-9304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9304"><a href="http://www.mavrck.co/grader/">FREE Facebook Fan Grader</a></li>
+</ul>
+</li>
+<li id="menu-item-7949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7949"><a href="http://info.mavrck.co/request-a-mavrck-demo">Book a Demo</a></li>
+						</ul>
+						
+					</nav>
+					
+				</div><!--/span_9-->
+			
+			</div><!--/row-->
+			
+		</div><!--/container-->
+		
+	</header>
+	
+	
+	<div class="ns-loading-cover"></div>		
+	
+
+</div><!--/header-outer-->
+
+
+<div id="search-outer" class="nectar">
+		
+	<div id="search">
+	  	 
+		<div class="container">
+		  	 	
+		     <div id="search-box">
+		     	
+		     	<div class="col span_12">
+			      	<form action="http://www.mavrck.co" method="GET">
+			      		<input type="text" name="s" id="s" value="Start Typing..." data-placeholder="Start Typing...">
+			      	</form>
+			      			        </div><!--/span_12-->
+			      
+		     </div><!--/search-box-->
+		     
+		     <div id="close"><a href="#"><span class="icon-salient-x" aria-hidden="true"></span></a></div>
+		     
+		 </div><!--/container-->
+	    
+	</div><!--/search-->
+	  
+</div><!--/search-outer--> 
+
+<div id="mobile-menu" data-mobile-fixed="1">
+	
+	<div class="container">
+		<ul>
+			<li><a href="">No menu assigned!</a></li>		
+		</ul>
+	</div>
+	
+</div>
+
+<div id="ajax-loading-screen" data-disable-fade-on-click="0" data-effect="standard" data-method="standard">
+	
+			<span class="loading-icon spin"> 
+			<span class="default-loading-icon spin"></span> 
+		</span>
+	</div>
+
+<div id="ajax-content-wrap">
+
+
+
+
+
+<div class="container-wrap">
+	
+	<div class="container main-content">
+		
+		<div class="row">
+			
+						
+							
+				
+<!-- BEGIN Microdata added by Add-Meta-Tags WordPress plugin -->
+<!-- Scope BEGIN: Article -->
+<div itemscope="" itemtype="http://schema.org/Article" itemref="comments">
+<!-- Scope BEGIN: Organization -->
+<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta itemprop="name" content="Influencer Marketing Platform and Activation Engine | Mavrck">
+<meta itemprop="description" content="Harness the Power of Your Most Influential Customers on Social">
+<meta itemprop="url" content="http://www.mavrck.co">
+</span> <!-- Scope END: Organization -->
+<!-- Scope BEGIN: Person -->
+<span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<meta itemprop="name" content="Sean Naegeli">
+<meta itemprop="image" content="http://www.gravatar.com/avatar/27c1fb9bb0db7f6867ae593e943cea04?s=128">
+<meta itemprop="url" content="http://www.mavrck.co/author/seanmavrck-co/">
+</span> <!-- Scope END: Person -->
+<meta itemprop="url" content="http://www.mavrck.co/legal/privacypolicy/">
+<meta itemprop="datePublished" content="2015-04-22T01:41:28+00:00">
+<meta itemprop="dateModified" content="2016-09-24T13:12:43+00:00">
+<meta itemprop="copyrightYear" content="2015">
+<meta itemprop="inLanguage" content="en_US">
+<meta itemprop="name" content="Privacy Policy">
+<meta itemprop="headline" content="Privacy Policy">
+<meta itemprop="description" content="PRIVACY POLICY This Privacy Policy was last updated on September 23, 2016 Our Policy: Welcome to the web site of Apifia Inc. d/b/a MAVRCK (“MAVRCK,” “we,” “us,” and/or “our”). MAVRCK owns and operates certain web sites, including&nbsp;http://www.mavrck.">
+<div itemprop="articleBody">
+<p><strong>PRIVACY POLICY</strong></p>
+<p>This Privacy Policy was last updated on September 23, 2016</p>
+<p><strong>Our Policy:</strong></p>
+<p>Welcome to the web site of Apifia Inc. d/b/a MAVRCK (“<strong>MAVRCK</strong>,” “<strong>we</strong>,” “<strong>us</strong>,” and/or “<strong>our</strong>”). MAVRCK owns and operates certain web sites, including&nbsp;http://www.mavrck.co&nbsp;(the “<strong>Web Sites</strong>”), and makes available other marketing and promotional services, including through various “community” web sites affiliated with Brands (as defined below) (collectively, the Web Sites and such services, including any future features and applications, the “<strong>MAVRCK Services</strong>”). The MAVRCK Services are designed to offer users of the MAVRCK Services (collectively, “<strong>Users</strong>,” “<strong>you</strong>,” or “<strong>your</strong>”) the opportunity to connect with each other and the third parties to which MAVRCK provides marketing and promotional services (“<strong>Brands</strong>”), share information about and opinions on products and services offered by our Brands, and participate in certain sweepstakes, contests, challenges and other promotions (“<strong>Promotions</strong>”). This Privacy Policy sets forth MAVRCK’s policy with respect to information including personally identifiable data, such as your name, address, email address or phone number, (“<strong>Personal Data</strong>”) and other information that is collected from Users.</p>
+<p><strong>Information We Collect:</strong></p>
+<p>When you interact with us through the MAVRCK Services, we may collect Personal Data and other information from you, as further described below:</p>
+<p><strong>Personal Data That You Provide Through the MAVRCK Services:&nbsp;</strong>We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the MAVRCK Services or use certain MAVRCK Services, including when done so through their integration into social media services, such as Facebook and Twitter (“<strong>Social Media Services</strong>”).&nbsp; Data collected may include: First Name, Last Name, Profile Photo, Email, Birthday, Gender, Location, Hometown, Current City, Current State, Current Country, Brands you mention, Topics/Keywords you use, and your social post performance.</p>
+<p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data through the MAVRCK Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of MAVRCK and the authorized third parties, including our Brands, as set forth below.</strong></p>
+<p><strong>Other Information:</strong></p>
+<p><em><strong>Passively Collected Data:&nbsp;</strong></em>When you interact with the MAVRCK Services, we and third parties that provide functionality on the Services, may engage, receive, collect and store certain types of information through automatic data collection tools including cookies, pixel tags, web beacons, embedded web links and similar technology. &nbsp;Such information, which is collected passively using various technologies, may include but is not limited to your Internet Protocol (IP) address, information about your device, referring/exit pages and URLs and number of clicks. MAVRCK may store such information itself or such information may be included in databases owned and maintained by MAVRCK affiliates, Brands, agents or service providers. The MAVRCK Services may use such information and pool it with other information to track, for example, the total number of Users, the number of visitors to each page of our Web Sites, and the domain names of our Users’ internet service providers.</p>
+<p>In operating the MAVRCK Services, we may set or access small pieces of data called “cookies” on your computer. A cookie is a piece of information that the computer that hosts our MAVRCK Services gives to your browser when you access the MAVRCK Services. Our cookies help provide additional functionality to the MAVRCK Services and help us analyze Web Site usage more accurately. For instance, the MAVRCK Services may set a cookie on your browser that allows you to access the MAVRCK Services without needing to remember and then enter a password more than once during a visit to a given MAVRCK Service. MAVRCK also permits third parties, including our Brands, to show advertisements on some of the MAVRCK Services and to set and access their cookies on your computer. Third parties’ use of their cookies is subject to their respective privacy policies and these third parties do not have access to MAVRCK’s cookies. &nbsp;Most browsers allow you to block and delete cookies. However, if you block cookies, some portions of our Services may not work properly. The MAVRCK Services do not respond to Do Not Track signals.</p>
+<p><em><strong>Aggregated Data:&nbsp;</strong></em>We may anonymize and aggregate data collected through the MAVRCK Services and use it for any purpose. Such information does not identify you individually.</p>
+<p><strong>Our Use of Your Personal Data and Other Information:</strong></p>
+<p>MAVRCK uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.</p>
+<p>In general, MAVRCK uses information for the following purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve the MAVRCK Services, contact you, conduct research, and provide reporting to third parties, including our Brands. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the MAVRCK Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. MAVRCK and our Brands may also use your Personal Data and other personally non-identifiable information collected through the MAVRCK Services to help us improve the content and functionality of the MAVRCK Services and to better understand our users. MAVRCK may use this information to contact you in the future to tell you about services or products we believe will be of interest to you or other MAVRCK Services-related announcements. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. MAVRCK reserves the right to send you notifications regarding your account even if you opt-out of all voluntary email notifications.</p>
+<p><strong>Our Disclosure of Your Personal Data and Other Information:</strong></p>
+<p>We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:</p>
+<p><strong>Business Transfers:</strong>&nbsp;As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, financing due diligence, dissolution or similar event, Personal Data may be part of the transferred assets.</p>
+<p><strong>Brands:&nbsp;</strong>Many of the MAVRCK Services are offered in connection with a specific Brand.&nbsp; MAVRCK uses the information you provide, including Personal Data, and shares that information with Brands who provide you content targeted to your interests, including opportunities to participate in community forums and other interactive experiences, unless you object as described below.&nbsp;&nbsp; Brands may use and disclose the Personal Data it receives from MAVRCK Services according to the Brand’s individual privacy policies.</p>
+<p><strong>Agents, Service Providers:</strong>&nbsp;MAVRCK, like many businesses, sometimes hires other companies to perform certain business-related functions and to help us understand and improve the use of our Services. Examples of such functions include mailing information, database storage and management, MAVRCK Services hosting, processing payments, and direct marketing campaigns. We may share any information we receive with vendors and service providers retained in connection with providing the MAVRCK Services on our behalf and under our instructions. For Personal Data transferred to us from European Union (“<strong>EU</strong>”) or European Economic Area (“<strong>EEA</strong>”) member countries under the EU-US Privacy Shield, we will remain liable under the Privacy Shield Principles if third-party agents or service providers that we engage to process the Personal Data on our behalf do so in a manner inconsistent with the Privacy Shield Principles, unless we will prove that we are not responsible. (Please see further the “Users in the EU and the EEA” section below.)</p>
+<p><strong>Legal Requirements:&nbsp;</strong>MAVRCK may disclose your Personal Data if required to do so by law, in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of MAVRCK or our Brands, (iii) act in urgent circumstances to protect the personal safety of users of the MAVRCK Services or the public, (iv) protect against legal liability or suspected fraud, or (v) investigate, prevent, or take action regarding violations of MAVRCK’s Terms of Use.</p>
+<p>For information on your choices and means for limiting use and disclosure of your Personal Data, please see the “Users’ Rights; Contacting MAVRCK” section below.</p>
+<p><strong>Account Deactivation and Deletion: </strong></p>
+<p>If you no longer desire to use the MAVRCK Services, you may deactivate or delete your account by sending an email to support@mavrck.co. Note that de-activating your account with MAVRCK may not fully remove the data collected from Facebook and other Social Media Services, or the data held or collected by Brands.</p>
+<p><strong>Exclusions:</strong></p>
+<p>This Privacy Policy does not apply to any information collected by MAVRCK other than Personal Data collected through the MAVRCK Services. This Privacy Policy shall not apply to any unsolicited information you provide to MAVRCK through the MAVRCK Services or through any other means. This includes, but is not limited to, questions, comments, suggestions, ideas, feedback or other information posted provided by a User to MAVRCK or posted by a User to any public areas of the MAVRCK Services, including those integrated with or into Social Media Services (<em>e.g.</em>, bulletin boards, community web sites, or your Facebook wall); any ideas for new products or modifications to existing products; and other unsolicited submissions (collectively, “<strong>Unsolicited Information</strong>”). All Unsolicited Information shall be deemed to be non-confidential and MAVRCK shall be free to reproduce, use, disclose, and distribute such Unsolicited Information for any purpose, commercial or otherwise, to others without limitation or attribution.</p>
+<p><strong>Children:</strong></p>
+<p>MAVRCK does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the MAVRCK Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the MAVRCK Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to MAVRCK through the MAVRCK Services, please contact us, and we will endeavor to delete that information from our databases.</p>
+<p><strong>Links to Other Web Sites:</strong></p>
+<p>This Privacy Policy applies only to the MAVRCK Services. The MAVRCK Services may contain links to other web sites or provide you the opportunity to post to third party sites not operated or controlled by MAVRCK (the “<strong>External Sites</strong>”). The policies and procedures we described here do not apply to the External Sites. The links from the MAVRCK Services do not imply that MAVRCK endorses or has reviewed the External Sites. We suggest contacting those sites directly for information on their privacy policies.</p>
+<p><strong>Social Media:</strong></p>
+<p>Through the MAVRCK Services, you may choose to access certain Social Media Services. When you elect to access and use the Social Media Services, you will be sharing your information (which will include Personal Data) with those Social Media Services. As with other External Sites, the information that you share with the Social Media Services will be governed by the privacy policies and terms of service of the providers of such Social Media Services and not by the MAVRCK’s policies and procedures. You may also be able to modify your privacy settings with these Social Media Services to, for example, control what information the Social Media Services disclose to other entities, including MAVRCK. When you provide MAVRCK access to your Social Media Services account, we will collect relevant information necessary to enable the MAVRCK Services to access that Social Media Service, however you will provide your login information, like your password, directly to such Social Media Service (and not to MAVRCK).</p>
+<p>As part of the integration of the MAVRCK Services with your Social Media Services account, the Social Media Service will provide MAVRCK with access to certain information that you have provided to such Social Media Service, including but not limited to post-related meta data from your Facebook wall (<em>e.g.</em>, post type, date of creation, date of update, post creator, permanent link, and the number of “Likes” and “Comments”). To access your Social Media Services account, we provide a link that directs you to a Social Media Service, like Facebook, where you may access the MAVRCK Services directly. We will use, store and disclose such information in accordance with this Privacy Policy and, if and to the extent applicable, the policies of such Social Media Services. However, please remember that the manner in which Social Media Services use, store and disclose your information is governed by the policies of the applicable Social Media Services provider, and, as a result, MAVRCK shall not have any liability or responsibility for the privacy practices or other actions of Social Media Services that may be enabled within and/or otherwise accessible through the MAVRCK Services.</p>
+<p><strong>Security:</strong></p>
+<p>You use MAVRCK at your own risk. MAVRCK takes reasonable and appropriate measures to protect the Personal Data provided via the MAVRCK Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error-free. In particular, email sent to or from the MAVRCK Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to MAVRCK via the Internet. We cannot control the actions of other Users with whom you may choose to share information. Therefore, we cannot, and do not, guarantee that information or content posted by a User on or through the MAVRCK Services will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the MAVRCK Services or Social Media Services.</p>
+<p><strong>Other Terms and Conditions:</strong></p>
+<p>Your access to and use of the MAVRCK Services is subject to any additional terms applicable to such MAVRCK Services that may be posted on the MAVRCK Services from time to time, including without limitation, MAVRCK’s Terms of Use available athttp://www.mavrck.co/legal/terms-of-use&nbsp;and additional terms and conditions set forth by our Brands, including those related to Promotions.</p>
+<p><strong>Changes to MAVRCK’s Privacy Policy:</strong></p>
+<p>The MAVRCK Services and our business may change from time to time. As a result, at times it may be necessary for MAVRCK to make changes to this Privacy Policy. MAVRCK reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. MAVRCK strives to provide notifications to Users in a timely manner, but is not responsible for lost or late notifications. If the changes are significant, we will, in our sole discretion, post a notice on the homepage of our Web Sites or notify you at the email address we have on file for your account and provide you with an opportunity to opt-out of your continued use of our Services. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the MAVRCK Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
+<p><strong>International Users</strong></p>
+<p><strong>If you are using the MAVRCK Services from outside of the United States, you expressly acknowledge and agree that your Personal Data and other information will be processed in the United States and in other third countries. Privacy and data security laws may be&nbsp; less stringent than or otherwise different from the laws in effect in your country of residence. &nbsp;You expressly agree to the processing of your Personal Data and other information in accordance with this Policy. If you are using the MAVRCK Services from the EU or the EEA, your Personal Data will be processed in accordance with the Privacy Shield Principles as explained below.</strong></p>
+<p><strong>Users in the EU and the EEA</strong></p>
+<p>MAVRCK complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from EU and EEA member countries. MAVRCK has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. MAVRCK’s participation in the Privacy Shield applies to all Personal Data MAVRCK receives from the EU and EEA that is subject to this Privacy Policy and MAVRCK commits to comply with the Privacy Shield Principles in respect of such Personal Data. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.</p>
+<p>MAVRCK is subject to the investigatory and enforcement powers of the Federal Trade Commission and of other relevant US statutory bodies authorized to verify and ensure compliance with the Privacy Shield Principles.</p>
+<p><strong>Users’ Rights; Contacting MAVRCK:</strong></p>
+<p>You have the right to access the Personal Data in our possession that you have previously submitted via the MAVRCK Services and to correct, change or delete your Personal Data if it is not accurate, outdated or has been processed in violation of the Privacy Shield Principles. You have also the right to object to the disclosure of your information to third parties as described in this Privacy Policy, except for disclosures made to agents and service providers, as well as to the use of your information for a purpose that is materially different from the purposes for which it was originally collected or subsequently authorized by you. You may contact us as specified below. We will take reasonable steps to answer to your requests.</p>
+<p>Please also feel free to contact us if you have any questions about this Privacy Policy or the information practices of the MAVRCK Services.</p>
+<p>You may contact us at&nbsp;privacy@mavrck.co or by regular mail addressed to:</p>
+<p>Apifia, Inc. dba Mavrck</p>
+<p>100 N. Washington St. First Floor</p>
+<p>Boston, MA 02114</p>
+<p><strong>Your California Privacy Rights:</strong></p>
+<p>Applicable California privacy legislation permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request to access such information, please contact us as follows: email your name, social media URL’s, and information request to&nbsp;privacy@mavrck.co. Within thirty (30) days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.</p>
+<p><strong>Complaints:</strong></p>
+<p>In compliance with the EU-US Privacy Shield Principles, MAVRCK commits to resolve complaints about your privacy and our collection or use of your Personal Data.&nbsp; EU individuals with inquiries or complaints regarding this Privacy Policy should first contact MAVRCK at:</p>
+<p>ChiefPrivacyOfficer@Mavrck.co</p>
+<p>MAVRCK has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.</p>
+<p>If a complaint cannot be resolved by any of the mechanisms described above, you also have a right, under certain conditions, to invoke binding arbitration under the Privacy Shield Panel as further explained in the Privacy Shield Principles. If you want to initiate this arbitration procedure, you are required to first formally notify us of your intention to do so by writing at&nbsp;privacy@mavrck.co. Please remember to include in your notice a summary of the steps you have already taken to resolve your complaint and a description of the alleged violation. For additional information about the arbitration process please visit the Privacy Shield website: www.privacyshield.gov.</p>
+
+</div> <!-- Itemprop END: articleBody -->
+</div> <!-- Scope END: Article -->
+<!-- END Microdata added by Add-Meta-Tags WordPress plugin -->
+	
+							
+	
+		</div><!--/row-->
+		
+	</div><!--/container-->
+	
+</div>
+
+<div id="footer-outer" data-midnight="light" data-using-widget-area="true">
+	
+	
+			
+	<div id="footer-widgets">
+		
+		<div class="container">
+			
+			<div class="row">
+				
+								
+				<div class="col span_4">
+				      <!-- Footer widget area 1 -->
+		              <div id="text-2" class="widget widget_text"><h4>Locations</h4>			<div class="textwidget"><strong>Headquarters</strong><br>
+100 North Washington St<br>
+First Floor<br>
+Boston MA, 02114<br></div>
+		</div><div id="nav_menu-8" class="widget widget_nav_menu"><div class="menu-legal-container"><ul id="menu-legal" class="menu"><li id="menu-item-8994" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2350 current_page_item menu-item-8994"><a href="http://www.mavrck.co/legal/privacypolicy/">Privacy Policy</a></li>
+<li id="menu-item-8996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8996"><a href="http://www.mavrck.co/legal/terms-of-use/">Terms of Use</a></li>
+</ul></div></div>				</div><!--/span_3-->
+				
+				<div class="col span_4">
+					 <!-- Footer widget area 2 -->
+		             <div id="nav_menu-2" class="widget widget_nav_menu"><h4>Company</h4><div class="menu-company-footer-container"><ul id="menu-company-footer" class="menu"><li id="menu-item-766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href="http://www.mavrck.co/about-us/">About Us</a></li>
+<li id="menu-item-4279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4279"><a href="http://www.mavrck.co/case-studies/">Case Studies</a></li>
+<li id="menu-item-2566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2566"><a href="http://www.mavrck.co/press/">Press</a></li>
+<li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="http://www.mavrck.co/careers/">Careers</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="http://info.mavrck.co/contact-us">Contact Us</a></li>
+</ul></div></div>				     
+				</div><!--/span_3-->
+				
+									<div class="col span_4">
+						 <!-- Footer widget area 3 -->
+			              <div id="nav_menu-5" class="widget widget_nav_menu"><h4>Resources</h4><div class="menu-resources-footer-container"><ul id="menu-resources-footer" class="menu"><li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="http://www.mavrck.co/blog/">Mavrck Marketing Blog</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="/grader">Facebook Fan Grader</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://info.mavrck.co/the-ultimate-guide-to-influence-marketing">The Ultimate Guide to Influence Marketing</a></li>
+<li id="menu-item-9111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9111"><a href="http://info.mavrck.co/rise-of-the-micro-influencers-white-paper">The Rise of the Micro-Influencers White Paper</a></li>
+<li id="menu-item-5392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5392"><a href="http://eepurl.com/bKOrkz">Subscribe To #SubjectToChange</a></li>
+</ul></div></div>					     
+					</div><!--/span_3-->
+								
+								
+			</div><!--/row-->
+			
+		</div><!--/container-->
+	
+	</div><!--/footer-widgets-->
+	
+	
+	
+		<div class="row" id="copyright">
+			
+			<div class="container">
+				
+				<div class="col span_5">
+					
+											<p>© 2016 Influencer Marketing Platform and Activation Engine | Mavrck. All Rights Reserved, Mavrck </p>
+										
+				</div><!--/span_5-->
+				
+				<div class="col span_7 col_last">
+					<ul id="social">
+																																																																																																																							</ul>
+				</div><!--/span_7-->
+			
+			</div><!--/container-->
+			
+		</div><!--/row-->
+		
+		
+</div><!--/footer-outer-->
+
+
+
+	<div id="slide-out-widget-area-bg" class="slide-out-from-right dark"></div>
+	<div id="slide-out-widget-area" class="slide-out-from-right" data-back-txt="Back">
+
+		
+		<div class="inner">
+
+		  <a class="slide_out_area_close" href="#"><span class="icon-salient-x icon-default-style"></span></a>
+
+
+		   <div id="text-4" class="widget widget_text"><h4>About Mavrck</h4>			<div class="textwidget"><p>We all know word-of-mouth is the most effective form of marketing, but word-of-mouth automation at scale has always been a challenge. At Mavrck, we harness the power of human-to-human marketing at scale by tapping into your most valuable asset: existing customers with influence. </p>
+<p>By focusing on influential customers who engage a high percentage of their friends around a brand's relevant topics or keywords, Mavrck's patented micro-influencer marketing platform powers consumer brands like Hershey's, Sears and Unilever to discover and activate millions of their micro-influencers to distribute content and drive conversions across social networks. </p>
+<p>On average, our "always-on" activation engine will get 3 friends to convert for every 1 micro-influencer activated.</p>
+</div>
+		</div>
+		</div>
+
+		
+	</div>
+
+
+</div> <!--/ajax-content-wrap-->
+
+
+	<a id="to-top" class=""><i class="icon-angle-up"></i></a>
+
+
+
+
+
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.0.0 -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+(function(d,s,i,r) {
+  if (d.getElementById(i)){return;}
+  var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
+  n.id=i;n.src = '//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/392015.js';
+  e.parentNode.insertBefore(n, e);
+})(document, "script", "hs-analytics", 300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var MyAcSearch = {"url":"http:\/\/www.mavrck.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/themes/salient/nectar/assets/functions/ajax-search/wpss-search-suggest.js"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/themes/salient/js/prettyPhoto.js?ver=7.0.1"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/themes/salient/js/superfish.js?ver=1.4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"http:\/\/www.mavrck.co\/wp-admin\/admin-ajax.php","postID":"2350","rooturl":"http:\/\/www.mavrck.co","pluginPages":[],"disqusComments":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/themes/salient/js/init.js?ver=7.0.7"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/themes/salient/js/infinitescroll.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.15.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-includes/js/comment-reply.min.js?ver=4.0"></script>
+<script type="text/javascript" src="http://www.mavrck.co/wp-content/plugins/wp-charts/js/functions.js?ver=4.0"></script>
+	
+
+<!--
+<script src="http://www.mavrck.co/wp-content/uploads/2015/06/brand-battle-easter-charts.js"></script>
+<script src="http://www.mavrck.co/wp-content/uploads/2015/06/brand-battle-bbq-charts.js"></script>
+<script src="http://www.mavrck.co/wp-content/uploads/2015/07/brand-battle-video-streamers-charts.js"></script>
+<script src="http://www.mavrck.co/wp-content/uploads/2015/07/brand-battle-bts-charts.js"></script>
+-->
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6759b1f7d3","applicationID":"21464571","transactionName":"blNRYkVQDUVXAUBaV1cZclVDWAxYGRJVVF0=","queueTime":0,"applicationTime":596,"atts":"QhRSFA1KHks=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
