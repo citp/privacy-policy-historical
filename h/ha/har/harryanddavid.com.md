@@ -1,165 +1,157 @@
-> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625214007id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010065814id_/https%3A//www.harryanddavid.com/About-Us-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# About Us - Privacy Policy
 
-Effective: December 30, 2013
+Last Updated June 29, 2016
 
-Harry & David and all of our brands recognize that your privacy is important to you and are committed to maintaining and using your information responsibly. Our privacy policy describes the information we collect and how we use it. 
+The 1-800-FLOWERS.COM® family of brands, recognizes and respects the importance of maintaining the privacy of our customers, registered members, gift recipients and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
-For privacy-related issues, please contact us at:
+  * the personal information we may collect from you when you visit our Website, respond to our emails, place orders via mail or fax, use our mobile applications, place orders through social media applications (such as our Facebook App) or otherwise contact us via telephone, text (SMS, MMS), email, fax or mail (collectively, our "Service"),
+  * why we gather information from you,
+  * how we collect it,
+  * how we use it, and
+  * the choices you have regarding our use of personal information you have provided.
 
-**Harry & David**: 
 
-Call:
-    1-877-322-1200
 
-Fax:
-    1-800-648-6640
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/About-Us-Terms-of-Use), which governs your use of our website located at www.1800flowers.com (the "Website") and the Service. The Service is operated by 800-Flowers, Inc. (the "Company"). This Privacy Policy does not cover information you provide to our Company-owned or franchised retail stores.
 
-Mail:
-     Harry & David  
-Attn: Internet Services Department  
-2500 S Pacific HWY  
-PO Box 9100  
-Medford, OR 97501-2675 
+Please Note:
 
-**Wolferman’s** : 
+You must be 18 years or older and the age of majority in your place of residence to use, subscribe or register as a member (or 21 years or older in the event that you place a request for transmission of an order for a product containing alcohol). The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age.
 
-Call:
-    1-800-798-6241
+**Why do we gather information?**
 
-Fax:
-    1-800-999-7548
+The Company and the Service gathers personal information to help improve our products and customer service, to communicate with you, to process your orders, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from the 1-800-FLOWERS.COM® family of brands, Company Affiliates (as that term is defined below and in our [Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)) and selected third parties.
 
-Mail:
-     Wolferman's  
-Attn: Internet Services Department  
-2500 S Pacific HWY  
-PO Box 9100  
-Medford, OR 97501-0700 
+**What information do we gather?**
 
-**Cushman’s Fruit Company** : 
+We collect information through our Website, emails, mail, fax, telephone, mobile devices and applications and social media applications (such as our Facebook App) including when you:
 
-Call:
-    1-800-776-7575
+  * visit our Website and use our Apps
+  * place an order,
+  * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and
+  * engage in other activities, services, products and resources we make accessible to our customers, members or users.
 
-Fax:
-    1-800-776-4329
 
-Mail:
-     Cushman’s Fruit Company  
-Attn: Internet Services Department  
-2500 S Pacific HWY  
-PO Box 9100  
-Medford, OR 97501-0700 
 
-Our toll-free customer service lines are available 5:00am–9:00pm PST Monday–Friday, and 6:00am–8:00pm PST on Saturday and Sunday (subject to change). 
+Depending on how you are interact with us, we collect some or all of the following types of information:
 
-By providing personal information through this Website you explicitly agree to our collection and use of all such information as described in this privacy policy. You agree that we may use the personal information you provide to respond to your inquiries, process orders, contact you regarding customer service, let you know about products or services which may be of interest to you or to personalize our service to meet your needs or preferences. This may involve sharing certain information with affiliated companies or third parties. You also agree that we may share your personal information with our affiliated companies and third parties as described in this Privacy Policy. You further agree that the information you provide is current, accurate and complete and that you will update it if there are any changes. 
+  * your name, address, telephone number, email address, user ID and contact information,
+  * billing information (credit/debit card number, expiration date, CVV code, alternate or additional billing information and billing address),
+  * gender and birth date, if you choose, or are otherwise required to, enter such information, interests,
+  * products purchased and occasion type (for example, Mother's Day),
+  * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles),
+  * Message and gift recipients' names, addresses, telephone numbers and email addresses,
+  * device information - information about your mobile device, including platform information and device location
+  * application information - application information, including which of your applications are used, how your applications are used and the duration of use of your application,
+  * network information – network information, including IP address, network carrier and country code, browsing information, such as how you interact with the Services; and
+  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)).
 
-### Information We Collect
 
-We may collect information (including name, address, telephone number, email address, IP address, user name, password, answer to security questions, information about your company or business, name and contact information about gift recipients, and, when necessary, date of birth and credit card and/or other payment/ordering information) when you: 
 
-  * Place an order from our catalogs or on our Websites
-  * Make a purchase at one of our retail stores
-  * Return an item or make an exchange
-  * Inquire about our services or products
-  * Subscribe to receive communications from us via email or register for an account on our Websites
-  * Join the Harry & David Preferred Customer Program
-  * Participate in one of our surveys, contests or other marketing events
-  * Are referred to us though a marketing promotion or third-party business relationship
-  * Request one of our catalogs 
-  * Are sent our products as a gift 
-  * Enroll in our Affiliate Program 
-  * Submit information for employment consideration 
+Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Other Members do not have the right to view and edit your Address Book entries.
 
+**How we use "Cookies" and "Action Tags".**
 
+A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly.
 
-We also may gather information about how visitors navigate through our Websites by using clickstream data gathered with “cookies” and/or other online tools such as “pixel tags.” See Cookies for further information. 
+We have relationships with third parties who may collect or receive non-personal information directly from the cookies placed by our Services on your computer to assist in analyzing our business and customers.
 
-### Using the Information We Collect
+Our Service may also use a common web technology called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags may be used to provide data to third parties for tracking purposes. However, our Service does not use action tags to collect or transfer personal information. In addition, third parties may set their own cookies and tags through our Services (such as through interest-based advertising, described below). We do not control such third parties or their privacy practices. If you do not want third parties to be able to use such methods, you should modify your browser settings to limit such access.
 
-The use of your information is subject to the privacy policy and terms of use in effect at the time you use this Website. We collect information that allows us, among other things, to: 
+**Interest-based advertising**
 
-  * Send you catalogs and newsletters and/or communicate promotional offers that may be of interest to you about all of our Harry & David brands or third parties 
-  * Process and fill your orders 
-  * Contact you regarding the processing of your order 
-  * Improve our products and services 
-  * Send a catalog to a gift recipient 
+Other Services
 
+Advertisements for our products and services may appear on third party websites around the Internet. Some websites and services deliver these advertisements based upon data that has been previously collected about your past behavior online. For example, if you have viewed websites about gift baskets, these websites or services may display to you an advertisement for our gift baskets. This kind of targeted advertising is sometimes called interest-based or online behavioral advertising. It is generally not based upon your personal information (such as your name or email address), but rather, upon your online activities. We do not control such third party websites or services on which these advertisements appear. Further, we do not control how they collect and use data about your online activities.
 
+We collect data from you for use in interest-based advertising when you use our Services. Other companies may serve interest-based advertisements on our Services. We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance ([www.aboutads.info](https://www.aboutads.info/)).
 
-We may use aggregated data that does not identify you personally for any purposes, including without limitation, research, commercial purposes or improving our Websites. We may use your email address to contact you to respond to your inquiries, to provide notices to you or to give you information about our products or services. 
+You may opt-out of being tracked online by certain companies who are listed at [www.aboutads.info/choices/](https://www.aboutads.info/choices/) OR [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers.
 
-### Information We Share with Others
+**How we use the information we collect**
 
-We may partner with another party to provide specific services for us, such as credit card processing, shipping, promotional or other support services. We will provide contact or other information necessary for the third party to provide these services for us. These parties are generally not allowed to use personally identifiable information except for the purpose of providing these services. 
+We use information we collect to communicate with you, to process your orders, to improve our products and services, to conduct research, to provide an enhanced and more personalized shopping experience, to inform you and your gift and message recipients of offers and discounts from the 1-800-FLOWERS.COM® family of brands and Company Affiliates to enable you to receive credits for purchases under loyalty or buying programs which you have joined. In addition, we may make such information (except for credit/debit card numbers, expiration dates and CVV codes, unless you consent otherwise), including aggregated information, available to selected third parties including, but not limited to, those who share or rent information for direct marketing purposes. You may opt-out of such third party sharing of your personal information by following the instructions set forth in the How to Limit the Use of Personal Information section below.
 
-We may share customer information with our affiliated companies. We may also share and cross-reference our customer information with other companies that provide goods or services that may be of interest to you. If you prefer that we not share this information, please follow the instructions in Your Choices below. 
+Please Note:
 
-We may share personally identifiable information with unaffiliated third parties if (1) you request or authorize it, (2) the information is provided to help complete a transaction for you, (3) the information is provided to comply with the law, applicable regulations, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our rights, property or safety, or the rights, property or safety of our users or others, (4) the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that we sell assets to another party, customer information may be one of the transferred assets), (5) the information is provided to our agents, outside vendors or service providers to perform functions on our behalf, (6) the third parties provide goods or services that we believe may be of interest to you, or (7) the information is provided to such third parties as otherwise described in this privacy policy. 
+We may provide your information to our Company Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Privacy Policy, they are required to comply with this Privacy Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, 800-Flowers, Inc. 
 
-### Your Choices
+We may also share your information with our subcontractors, agents, consultants, financial institutions, credit/debit card payment processors, business partners, vendors and service providers, but we generally only authorize them to use such information for our benefit, for instance, to process your order and to better communicate and provide appropriate offers to you as a consumer. We may transfer your information in connection with the sale, lease, license, assignment (of part or all of our business), merger, reorganization or change of control of us or the division responsible for the Service with which your information is associated, or as part of a bankruptcy proceeding. 
 
-**Remove Your Name From Our Lists At Any Time**
+We may combine information we receive from you via our Service with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
-If you prefer not to receive catalogs or other communications from Harry & David or one of our brands via U.S. mail or telephone, please email Customer Service or contact us at the address shown above. 
+We may use your information to match it with other public and private data sources in order to enhance our records, such as appending addition information to your profile, or the records of our business partners. We also may work with other providers who also possess your information in order to engage in advertising and other promotional services, such as sharing your personal information with a third party who also has your personal information in order to enhance one or both of our advertising or promotional endeavors.
 
-Because customer communications are often prepared well in advance of deployment (sometimes several months before the communication is made), you may continue to receive some communications after you send us a request not to use your information. We appreciate your patience during this time. 
+We reserve the right to disclose information we collect from you, or that you provide to us, as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Service, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)).
 
-If you no longer wish to receive email communications from us regarding our Websites, partner offers, special offers or services, products, and/or newsletters, you may choose to stop receiving these emails at any time. Information on how to opt out of receiving marketing email is provided in every email, or you may email Customer Service, or you may write us at the address provided above. Please be sure to include your full name, email address, and specifically what type of information you do not want to receive. If you opt out of receiving marketing email, we will continue to send you emails regarding order confirmation and shipment notification when you place an order with us. 
+**Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us and with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
 
-Please Note: If you are a member of the Harry & David Preferred Customer Program and you opt out of receiving communications via email, this may reduce or eliminate the offers and other promotional benefits you receive as a Preferred Customer. 
+**Consent to Transfer and Submission**
 
-**Your California Rights**
+Our Service is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to and stored in the United States. By using the Services or otherwise providing us with information, you hereby consent to this transfer.
 
-Harry & David and our brands may disclose your personal information to third parties for their use in marketing to you unless you tell us not to. In order to opt out of such sharing or for further information, please write to us at Harry & David, PO Box 712, Medford, OR 97501. Please be sure to include your full name, address, email address and specifically what type of information you do not want to receive. Please allow up to 6 to 8 weeks to process your request from the date of receipt. 
+Although personal information collected by us through the our Service will be used by us in accordance with this Privacy Policy, laws generally applicable to the protection of personal data in the U.S. may not be as stringent as those in other countries.
 
-### Cookies
+**Links to Other Web Sites**
 
-A cookie is a piece of data stored on your hard drive that contains information about your computer. Cookies may be used to enable us to track and target your interests for the purpose of enhancing your experience on our Websites. Some cookies are deleted once you leave our Website (“Session cookies”) while other cookies remain after your leave our Website (“Persistent cookies”) so that you are recognized when you return to the Website. We may use persistent cookies to enable us to provide services to you, including, “Remember Me,” order history, address book, My Gift History, etc. If you would like to deactivate our ability to analyze your browsing activity, please email Customer Service. We may also use technologies such as our own cookies to provide you with enhanced online display advertising. To opt out of advertising provided by Harry & David, click [here](https://dtmc.harryanddavid.com/adinfo/adchoices_fpc.html?cid=2557&cname=Harry%20%26%20David&cmagic=168082&clogo=harry_and_david.png). If you reject certain cookies, you may still browse our Website; however, you may not be able to purchase or have access to all of our services. 
+The 1-800-FLOWERS.COM® family of brands wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party services, you will be subject to the privacy policies and terms of use of those services, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other service.
 
-We currently do not employ technology that responds to “do-not-track” signals from your browser. We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on this Website. These companies may collect information about your online activities over time and across different websites when you use our site and use such information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services. This information is collected through the use of pixel tags or cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [http://www.networkadvertising.org/](https://www.networkadvertising.org/). 
+We may provide you with the ability to log into our Service using a social media account, such as Facebook Connect. We do not control the activities of such social media services and have no control over the data they collect or their privacy practices. You should review their privacy practices before using any such social media service.
 
-### Changing or Deleting Information
+**Security and Passwords**
 
-To update your customer information, please either email Customer Service, contact us at the address above, or, if you have registered for an Account on our Website, you may also update your customer information by accessing the Account Services section located on the My Account tab at the top of our Web page. You can direct us to remove your name from our lists by following the instructions in Your Choices above. 
+If you place an order on our website, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the website is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
 
-For your security you will be asked to provide certain information to identify yourself before we will accept changes to your information. To help us more effectively respond to any request by you with regard to use of your customer information, we ask that you contact us personally (e.g. via your email address as listed in our customer records or via a letter signed by you) rather than utilizing a third party to do so. If we receive a request from a third party regarding, or requesting a change in, use of your customer information, we reserve the right, in our sole discretion, to not grant the request from such third party (unless required to do so by law) and/or to require that you personally confirm the third party request. 
+Portions of the Service (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Service (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts.
 
-### Sweepstakes
+**How to Limit Use of Your Contact Information**
 
-From time to time we may offer promotions, contests or sweepstakes on our Website. If you choose to participate we may collect information including your name, address, age, telephone number, email address or other contact information. We may also request other information some of which may be optional. Participation is subject to the Official Rules governing that promotion. The information may be used to conduct the promotion and for other business purposes which may include marketing and may be shared with our affiliates, vendors, or third parties in accordance with this privacy policy and the Official Rules. 
+We want to communicate with you only to the extent you want to hear from us.
 
-### Child Privacy
+Any promotional email we send to you or your gift or message recipients will include a link to use to unsubscribe or opt-out of receiving further promotional emails from the sender.
 
-Our Websites are not designed to appeal to minors, and you are required to be 18 years of age in order to use this Website or provide information to us. Therefore we do not knowingly attempt to solicit or receive any information from children under 18. 
+If you wish to set your preferences concerning promotional communications, or you prefer not to have your contact information shared with third parties, please let us know by emailing, writing or calling us as described below and identify your preferences regarding promotional communications and the sharing of your contact information. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
 
-### Security
+Emailing us at: [remove@reply.1800flowers.com](mailto:remove@reply.1800flowers.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or
 
-We use encryption technologies when transferring and receiving data from you through our Websites. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you. Because data transmission over the internet is never 100% secure we cannot guarantee the security of any information you transmit to us or from our Websites and therefore you use our Websites at your own risk. 
+Writing to us at:
 
-You play a significant role in protecting your information. After you register on our Website you are responsible for protecting the security of your user name and password. You are responsible for any transaction made using your user name and password. 
+Customer Satisfaction Department  
+1-800-FLOWERS.COM  
+One Old Country Road  
+Suite 500  
+Carle Place, NY 11514
 
-If you need to communicate with us regarding your credit card or other payment information please contact us by mail at the address above. 
+Telephoning us at _1-800-Flowers_ (1-800-356-9377)
 
-We are not responsible for maintaining the confidentiality of any non-public information that you provide us or post on the Website. If there is information that you wish to protect from disclosure to others, please do not provide it to us. 
+(Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call).
 
-### Links to Other Sites
+**Your California Privacy Rights**
 
-Our Website may contain links to other sites over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. We encourage you to review the privacy policy at any site you visit. 
+California law permits customers, who are residents of California, to request information about your personal information, if any, that the 1-800-FLOWERS.COM® family of brands discloses to third parties for the third parties’ direct marketing purposes. To make such a request, please write to us at:
 
-### Notification of Changes
+1-800-Flowers.com  
+One Old Country Road  
+Suite 500  
+Carle Place, NY 11514  
+Attn: General Counsel
 
-The use of your information is subject to the privacy policy in effect at the time of use. We may amend this privacy policy from time to time. We post the current effective date of this policy at the top of the policy. Changes to the policy will be posted in the revised privacy policy with a new effective date on our Websites. We encourage you to review our privacy policy periodically, because by visiting our Website you agree to accept any such changes. 
+**Corrections**
 
-### Website Terms of Use
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [update@1800flowers.com](mailto:update@1800flowers.com).
 
-This privacy policy is part of our Terms of Use. Any dispute over privacy is subject to this Privacy Policy and our Terms of Use. 
+Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page.
 
-### Questions or Comments?
+**Your Consent and Changes to this Policy**
 
-This Website is owned by Harry & David. For questions, comments, or assistance, we invite you to write us at the address provided above or contact us. 
+Subject to the above provisions, by using our Website and the Service, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy and Terms of Use from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will also post changes on this page, and will endeavor to post any material changes on our website at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
 
-©2012, Harry and David, LLC. All rights reserved.
+The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each).
+
+By using the Website and the Service, after such changes take effect, you agree to be legally bound and to abide by the revised Privacy Policy and Terms of Use, of which this policy is a part.
+
+**Your Comments**
+
+1-800-FLOWERS.COM® family of brands welcomes feedback concerning this Privacy Policy. Please send your comments and questions to: [feedback@1800flowers.com](mailto:feedback@1800flowers.com).
