@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624143034id_/https%3A//classics.autotrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010171631id_/https%3A//classics.autotrader.com/privacy-policy) for the most accurate reproduction.*
 
 # Autotrader Classics
 
