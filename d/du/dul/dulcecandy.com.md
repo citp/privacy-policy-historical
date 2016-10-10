@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dulcecandy.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401165924id_/http%3A//dulcecandy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulcecandy.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010131536id_/http%3A//dulcecandy.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Dulce Candy
 
