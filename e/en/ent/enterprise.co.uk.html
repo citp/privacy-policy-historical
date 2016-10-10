@@ -1,40 +1,64 @@
-<!--The following is the downloaded HTML source of the enterprise.co.uk privacy policy that was archived on 2016-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316035053id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enterprise.co.uk privacy policy that was archived on 2016-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161010120112id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENGB.NULL) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html><html><head>
     
 
+<!--Fri Oct 07 15:45:30 CDT 2016 -->
 
 
 
 
 
-
-
-
-<!--  client libs for external libraries -->
-
-    
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-02-12-12-59/prod-libs.min.js"></script>
-
-
-
-
-
-
-
-    
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-02-12-12-59/main.min.css" type="text/css">
 
 
 
 <link rel="icon" type="image/ico" href="/etc/designs/ecom/dist/favicon.ico">
-<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2016-02-12-12-59">
-<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2016-02-12-12-59">
+
+
+    <!--[if IE]>
+    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main-ie.min.css" type="text/css"/>
+
+    <![endif]-->
+
+<!--[if !IE]><!-->
+
+    
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main.min.css" type="text/css">
+
+
+
+<!--<![endif]-->
+
+    
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/icons.min.css" type="text/css">
+
+
+
+
+<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2016-10-04-11-43">
+
+<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2016-10-04-11-43">
+
+<!-- Keep it empty for basepage -->
+
+
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/jquery.min.js"></script>
+
+
+
+
+
+
+
+
+
+
 
 <script type="text/javascript">
     var enterprise = {
+        _globals: [],
         transmission: "Manual",
         analytics: {
             pageName: "basepage",
@@ -55,13 +79,13 @@
         },
         services: {
 //            path: "https://prd.webapi.enterprise.com/enterprise-ewt/ecom-service"
-//            path: "https://int2.webapi.enterprise.com/enterprise-ewt/ecom-service"
+            //  path: "https://int2.webapi.enterprise.com/enterprise-ewt/ecom-service"
             path: "https://prd.webapi.enterprise.co.uk/enterprise-ewt" + "/ecom-service"
         },
         solr: {
-//            path: 'https://xqa1.location.enterprise.com/enterprise-sls'
+            // path: 'https://xqa1.location.enterprise.com/enterprise-sls'
             path: "https://prd.location.enterprise.com/enterprise-sls"
-//             path: "https://qa-solr5-ehil.ctmsp.com/solr-locations-search"
+            // path: "https://qa-solr5-ehil.ctmsp.com/solr-locations-search"
         },
 
         legacy: {
@@ -70,13 +94,18 @@
         prepayUrl: {
             path: "https://sps.farepayment.com/chdp/html/register"
         },
+        epPaymentPanguiUrl: {
+            path: ""
+        },
         age: [{"value":"25","label":"25","selected":false},{"value":"26","label":"26","selected":false},{"value":"27","label":"27","selected":false},{"value":"28","label":"28","selected":false},{"value":"29","label":"29","selected":false},{"value":"30","label":"30+","selected":true}],
         acceptPrivacyRequired: false,
         hidePrepay: false,
         hideRedemption: false,
         hideRedemptionModify: true,
+        hidePrepayModify: false,
         inResEnrollment: true,
-        disableIpRedirect: true,
+        disableIpRedirect: false,
+        hideEpPaymentOptions: false,
         fareOfficeFormId: "2",
         defaultPaymentOption: "paynow",
         exoticCarsUrl: "https://exoticcars.enterprise.co.uk",
@@ -84,17 +113,44 @@
         primaryCurrencySymbol: "£",
         primaryCurrency: "",
         selectedCurrency: "",
-        currencySymbolPlacement: "left",
-
         utilities: {},
-        prod: "true"
+        selectors: "",
+        prod: "true",
+        mvt: {
+            carSelect: false
+        },
+        currentDomain: "co-uk",
+        lookAndFeelForwardMap: {},
+        b2b: "",
+        fedexSequenceIds: {
+            "": 'alphaCode',
+            "": 'costCenter',
+            "": 'employeeId',
+            "": 'requisitionNo'
+        }
     };
+
+    enterprise.settings = {
+        browserThresholds: {
+            msie: 10,
+            firefox: 47,
+            safari: 8,
+            chrome: 51
+        },
+        browserClientSideRedirect: true,   // @todo: make dynamic feature flag
+        browserClientSideDetection: true,       // @todo: are we doing a client-side browser detection?
+        browserServerSideDetection: true,   // @todd: are we doing server-side detection?
+        browserUpgradeUrl: "browsernotice.html"
+    };
+    enterprise.settings.browserUpgradeUrl = enterprise.aem.path + '/' + enterprise.settings.browserUpgradeUrl;
+    enterprise.languagesByDomain = {"ecom":["en_us","es_us"],"co-ca":["en_ca","fr_ca"],"co-uk":["en_gb"],"co-ie":["en_gb"],"co-de":["de_de","en_gb"],"co-fr":["fr_fr","en_gb"],"co-es":["es_es","en_gb"]};
 </script>
-<script src="/en.i18nmap.js?v=2016-02-12-12-59"></script>
+
 
     <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
     <!-- This is prod -->
     <script src="//assets.adobedtm.com/637ae9c62c9fe0a9a2fd27b1350da0b838190621/satelliteLib-64715503a5c3f03a9c38350e5a8825412fb1d39a.js"></script>
+
 
 
 
@@ -106,12 +162,14 @@
 </style>
 <![endif]-->
 
+
+
     
 
 
 <title>Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 <meta name="google-site-verification" content="sWFJSLW1KrkdsXpDZtmaztsXkp9Tk-WzsAOm2NhKdTQ">
 <meta name="msvalidate.01" content="B16DAE08DD118EF0B1A7D8A91199A837">
 
@@ -119,8 +177,9 @@
 
 
 
-
 <meta property="og:url" content="https://www.enterprise.co.uk/en/privacy-policy.html">
+
+
 
 
 
@@ -135,41 +194,65 @@
     
 
 <body class="en_gb basepage">
-	<header class="cf">
+    <!--[if IE]><i id="msie" style="display:none;"></i><![endif]-->
+	<header class="cf"><div>
+</div>
+
+    
+
+    <!-- Ad Choices Banner-->
+    <div>
+</div>
 
     <div class="master-nav">
-        <div class="logo">
-            <a href="/en.html"><img src="/content/dam/ecom/logo-enterprise-rent-a-car.png" alt="enterprise"></a>
-        </div>
-        <div class="mobile-logo">
-            <a href="/en.html"><i class="icon icon-nav-mobile-e-icon-white"></i></a>
-        </div>
-        <div class="nav-container">
-<div class="outer-nav">
-    <nav class="nav" id="utility-nav">
+        <div class="header-nav">
+            <div class="header-nav-left">
+                <div class="logo header-nav-item">
+                    
+                    
+                        <a class="header-logo-link" href="/en.html">
+                            <img src="/content/dam/ecom/logo-enterprise-rent-a-car.png" alt="enterprise">
+                        </a>
+                    
+                    
+                </div>
+                <div class="mobile-logo header-nav-item">
+                    
+                    
+                        <a class="header-logo-link" href="/en.html">
+                            <i class="icon icon-nav-mobile-e-icon-white"></i>
+                            <span>Enterprise</span>
+                            
+                        </a>
+                    
+                </div>
+                <div id="codebanner-container" class="header-nav-item"></div>
+            </div>
+            <div class="header-nav-right">
+                <nav class="header-nav-item" id="utility-nav">
         <ul class="utility-nav">
-        <li tabindex="9" class="career-section">
+          <li tabindex="-1" class="career-section">
             <div class="careerlink career">
-<a href="https://www.enterprisealive.co.uk/" target="_blank">Careers</a></div>
+<a role="menuitem" href="https://www.enterprisealive.co.uk/?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENGB" target="_blank">Careers</a></div>
 </li>
-        <li tabindex="6" class="help">
-            <div class="help">
-<div class="utility-nav-label">
-	Help
+          <li class="help">
+              <div class="help">
+<div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="contactInfo">
+	<span class="utility-nav-label">Help</span>
 	<i class="icon icon-utility-notch"></i>
 </div>
-<div class="utility-nav-content col-2">
-	<fieldset>
+<div id="contactInfo" class="utility-nav-content col-2">
+	<fieldset role="menu">
 		
 			<div class="field-container">
-				<h4>Customer Support</h4>
-				<a href="https://enterprise.custhelp.com" target="_blank" class="btn">Customer Support</a>
+				<div class="title">Customer Support</div>
+				<a href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Header-_-help.support-_-ENGB" target="_blank" class="btn">Customer Support</a>
 				
 			</div>
 		
 			<div class="field-container">
-				<h4>Contact Us</h4>
-				<a href="/en/help/contact.html" class="btn">Contact Us</a>
+				<div class="title">Contact Us</div>
+				<a href="/en/help/contact.html?icid=header.info.help-_-contact-_-ENGB.NULL" class="btn">Contact Us</a>
 				
 			</div>
 		
@@ -177,30 +260,31 @@
 </div>
 </div>
 </li>
-        <li tabindex="8" class="currency">
-            
+          <li class="currency">
+              
 
-    <div class="utility-nav-label" data-currency="gbp">
-        <span>GBP (£)</span>
+    <div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="currencySelector" data-currency="gbp">
+        <span class="utility-nav-label">GBP (£)
+        </span>
         <i class="icon icon-utility-notch"></i>
     </div>
-    <div class="utility-nav-content">
+    <div id="currencySelector" class="utility-nav-content">
         <fieldset>
             <legend>Currency Selector</legend>
             <div class="field-container">
-                <h4>Select Your Currency</h4>
-                <label class="selected">
-                    <input type="radio" name="currency" value="gbp" checked="">
+                <div class="title">Select Your Currency</div>
+                <label tabindex="0" class="selected currency-button" for="gbp">
+                    <input type="radio" name="currency" value="gbp" id="gbp" checked="">
                     GBP (£)
                     <i class="icon icon-checkmark-circle-green"></i>
                 </label>
-                <label>
-                    <input type="radio" name="currency" value="eur">
+                <label tabindex="0" class="currency-button" for="eur">
+                    <input type="radio" name="currency" id="eur" value="eur">
                     EUR (€)
                     <i class="icon icon-checkmark-circle-green"></i>
                 </label>
-                <label>
-                    <input type="radio" name="currency" value="usd">
+                <label tabindex="0" class="currency-button" for="usd">
+                    <input type="radio" name="currency" id="usd" value="usd">
                     USD ($)
                     <i class="icon icon-checkmark-circle-green"></i>
                 </label>
@@ -234,31 +318,31 @@
 <script>
     var CurrencySelectorModule = (function ($) {
         var $radioGroup,
-            $currencyLabel,
-            $currencyNode,
-            endpointPrefix = enterprise.services.path,
-            endpoint = endpointPrefix + "/changecurrency/",
-            credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
+                $currencyLabel,
+                $currencyNode,
+                endpointPrefix = enterprise.services.path,
+                endpoint = endpointPrefix + "/changecurrency/",
+                credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
 
         function init() {
             var cookieCurrency = getCookie();
 
             $radioGroup = $("input[name='currency']");
             $currencyNode = $(".currency");
-            $currencyLabel = $currencyNode.find('.utility-nav-label span');
+            $currencyLabel = $currencyNode.find('.utility-nav-label');
             enterprise.selectedCurrency = $currencyLabel.data('currency');
             attachListeners();
 
             if (cookieCurrency) {
                 //Visually set the checked element
                 $radioGroup .removeClass('selected')
-                            .filter(':checked')
-                            .prop('checked', false)
-                            .closest('label');
+                        .filter(':checked')
+                        .prop('checked', false)
+                        .closest('label');
                 $radioGroup .filter('[value='+cookieCurrency+']')
-                            .prop('checked', true)
-                            .closest('label')
-                            .addClass('selected');
+                        .prop('checked', true)
+                        .closest('label')
+                        .addClass('selected');
                 //Trigger change
                 changeCurrency(cookieCurrency);
             }
@@ -270,12 +354,12 @@
 
         function getCookie() {
             var cookie = document.cookie
-                .split(';')
-                .filter(function(keyVal){
-                    keyVal = keyVal.split('=');
+                    .split(';')
+                    .filter(function(keyVal){
+                        keyVal = keyVal.split('=');
 
-                    return keyVal[0].replace(' ', '') === 'view_currency_code';
-                });
+                        return keyVal[0].replace(' ', '') === 'view_currency_code';
+                    });
 
             return cookie.length && cookie[0].split('=')[1];
         }
@@ -292,11 +376,11 @@
             var selectedSymbol = enterprise.utilities.symbolMap[selectedVal] || "$";
 
             $radioGroup
-                .filter(':checked')
-                .closest('label')
-                .addClass('selected')
-                .siblings()
-                .removeClass('selected');
+                    .filter(':checked')
+                    .closest('label')
+                    .addClass('selected')
+                    .siblings()
+                    .removeClass('selected');
 
             $.ajax({
                 method: "GET",
@@ -309,7 +393,11 @@
                 },
                 success: function (response, textStatus, request) {
                     $currencyLabel.text(selectedVal + " (" + selectedSymbol + ")");
-                    $currencyNode.removeClass('active');
+                    // $currencyNode.removeClass('active');
+                    $currencyNode
+                            .filter('.active')
+                            .trigger('focus')
+                            .trigger('click');
                     enterprise.selectedCurrency = selectedVal;
                 }
             });
@@ -326,322 +414,25 @@
     });
 </script>
 </li>
-        </ul>
+          </ul>
     </nav>
 
-    <nav class="nav" id="mobile-nav">
+    <div class="header-nav-item sign-in">
+          <div id="login-container">
+              <a href="/en/account.html">Sign In</a>
+          </div>
+      </div>
+    <nav class="header-nav-item" id="mobile-nav" aria-expanded="false">
         <ul class="mobile-nav">
             <li class="primary-nav-toggle">
-                <button id="mobile-toggle"><i class="icon icon-hamburger-white"></i></button>
+                <button id="mobile-toggle" aria-label="Explore Enterprise Menu Options">
+                    <i class="icon icon-hamburger-white"></i>
+                </button>
             </li>
         </ul>
     </nav>
 
-    <div class="sign-in">
-        <div id="login-container">
-            <a href="/en/account.html">Sign In</a>
-        </div>
-    </div>
-</div>
-
-<nav class="nav" id="primary-nav">
-
-    <ul class="primary-nav active-cols-6">
-        <li tabindex="1" class="primary-item"><div class="megamenu megamenu-rent"><div class="primary-nav-label">Hire</div>
-<div class="primary-nav-content">
-	<div class="menu cols-4">
-		<div class="nav-section">
-			<h4 class="title">Hires<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire.html">
-						Car Hire</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire/one-way-car-hire.html">
-						One-Way Car and Van Hire</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire/long-term-car-hire.html">
-						Month or More Car Hire</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/reserve/view-modify-cancel.html">
-						View/Modify/Cancel</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://legacy.enterprise.co.uk/car_rental/ticketReceiptRequest.do">
-						Get a Receipt<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Vehicles for Hire<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire/vehicles/uk.html">
-						Cars, People Carriers &amp; SUVs</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/van-hire.html">
-						Van Hire</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/exotic-car-hire.html">
-						Exotic Cars</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Replacement Vehicles<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire/insurance-replacement.html">
-						Information for Replacement Vehicle Partners</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Businesses<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/business-car-hire.html">
-						Solutions for Business</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/flex-e-rent.html">
-						Flex-E-Rent</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/sustainability/sustainability-3car-line-up.jpg)">
-	</div>
-</div></div>
-</li>
-        <li tabindex="2" class="primary-item"><div class="megamenu megamenu-own"><div class="primary-nav-label">Share</div>
-<div class="primary-nav-content">
-	<div class="menu cols-1">
-		<div class="nav-section">
-			<h4 class="title">Car Sharing<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/carshare.html">
-						About Enterprise CarShare</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.co.uk/gb/en/home.html">
-						Start Car Sharing<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/carshare/carshare-thumb-uk.jpg)">
-	</div>
-</div></div>
-</li>
-        <li tabindex="3" class="primary-item"><div class="megamenu megamenu-share"><div class="primary-nav-label">Locations</div>
-<div class="primary-nav-content">
-	<div class="menu cols-2">
-		<div class="nav-section">
-			<h4 class="title">Car &amp; Van Hire Locations<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire/locations/uk.html">
-						UK Car and Van Hire Locations</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-hire/locations.html">
-						International Car Hire Locations</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Other Locations<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.co.uk/gb/en/locations.html">
-						CarShare Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/locations/uk/uk-edinburgh.jpg)">
-	</div>
-</div></div>
-</li>
-        <li tabindex="4" class="primary-item"><div class="megamenu megamenu-learn"><div class="primary-nav-label">For Business</div>
-<div class="primary-nav-content">
-	<div class="menu cols-1">
-		<div class="nav-section">
-			<h4 class="title">Solutions for Business<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/business-car-hire.html">
-						Business Car Hire</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/flex-e-rent.html">
-						Flex-E-Rent</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterprisecarshare.co.uk/gb/en/programs/business.html">
-						CarShare<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://legacy.enterprise.co.uk/car_rental/travelAgent.do">
-						Travel Agents<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/business-rentals/business-rental-band.jpg)">
-	</div>
-</div></div>
-</li>
-        <li tabindex="5" class="primary-item"><div class="megamenu-locations megamenu"><div class="primary-nav-label">Learn</div>
-<div class="primary-nav-content">
-	<div class="menu cols-3">
-		<div class="nav-section">
-			<h4 class="title">The Company<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about.html">
-						About Us</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/corporate-culture.html">
-						Life at Enterprise</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/mobility-solutions.html">
-						Total Mobility Solutions</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.enterpriseholdings.com/">
-						Enterprise Holdings®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisealive.co.uk">
-						Careers<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Loyalty<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/loyalty.html">
-						Enterprise Plus® Programme</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/enroll.html">
-						Join Enterprise Plus®</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Sponsorship<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sponsorships/uefa/europa-league-promotion.html">
-						Win a VIP UEFA Europa League Experience</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sponsorships/uefa.html">
-						UEFA Europa League</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/common/homepage-us/us-homepage-alt-tile-temp.jpg)">
-	</div>
-</div></div>
-</li>
-        <li tabindex="6" class="primary-item"><div class="megamenu megamenu-business"><div class="primary-nav-label">Inspiration</div>
-<div class="primary-nav-content">
-	<div class="menu cols-2">
-		<div class="nav-section">
-			<h4 class="title">Exploration<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/inspiration.html">
-						Inspiration</a>
-				</li>
-				</ul>
-		</div>
-		<div class="nav-section">
-			<h4 class="title">Sustainability<i class="icon icon-nav-carrot-white"></i></h4>
-			<div class="nav-section-text"></div>
-			<ul class="sub-menu">
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sustainability.html">
-						Sustainability</a>
-				</li>
-				<li>
-					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/renewable-fuels.html">
-						Renewable Fuel Research</a>
-				</li>
-				</ul>
-		</div>
-		</div>
-	<div class="promo" style="background-image: url(/content/dam/ecom/general/Homepage/inspiration-whitbey-uk.jpg)">
-	</div>
-</div></div>
-</li>
-    </ul>
-    <div class="mobile-utility">
+    <div class="mobile-utility header-nav-item">
         <div class="help mobilehelp"><div class="mobile-utility-item">
     
         <i class="icon icon-nav-assistance-1-white"></i>
@@ -699,33 +490,350 @@
 	MobileCurrencySelectorModule.init();
 </script></div>
 </div>
+
+            </div>
+        </div>
+        <div class="nav-container"><nav class="nav" id="primary-nav">
+    <ul class="primary-nav active-cols-6" role="menu">
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-rent"><div class="primary-nav-label">Hire</div>
+<div class="primary-nav-content">
+	<div class="menu cols-4">
+		<div class="nav-section" role="menu">
+			<div class="title">Hires<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire.html?icid=header.hire.hires-_-car.hire-_-ENGB.NULL">
+						Car Hire</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire/one-way-car-hire.html?icid=header.hire.hires-_-oneway-_-ENGB.NULL">
+						One-Way Car and Van Hire</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire/long-term-car-hire.html?icid=header.hire.hires-_-month.more-_-ENGB.NULL">
+						Month or More Car Hire</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/reserve/view-modify-cancel.html?icid=header.hire.hires-_-modify-_-ENGB.NULL">
+						View/Modify/Cancel</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://legacy.enterprise.co.uk/car_rental/ticketReceiptRequest.do?cm_mmc=EnterpriseWebsite-_-Header-_-hire.receipts-_-ENGB">
+						Get a Receipt<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Vehicles for Hire<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire/vehicles/uk.html?icid=header.hire.vehicles-_-uk.vehicles-_-ENGB.NULL">
+						Cars, People Carriers &amp; SUVs</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/van-hire.html?icid=header.hire.vehicles-_-van.hire-_-ENGB.NULL">
+						Van Hire</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/exotic-car-hire.html?icid=header.hire.vehicles-_-exotics-_-ENGB.NULL">
+						Exotic Cars</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Replacement Vehicles<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire/insurance-replacement.html?icid=header.hire.replacement-_-insurance.replacement-_-ENGB.NULL">
+						Information for Replacement Vehicle Partners</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Businesses<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/business-car-hire.html?icid=header.hire.businesses-_-business.hire-_-ENGB.NULL">
+						Solutions for Business</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/flex-e-rent.html?icid=header.hire.businesses-_-flexerent-_-ENGB.NULL">
+						Flex-E-Rent</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/Navigation/UK/uk-rent.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-own"><div class="primary-nav-label">Car Club</div>
+<div class="primary-nav-content">
+	<div class="menu cols-1">
+		<div class="nav-section" role="menu">
+			<div class="title">Car Club<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-club.html?icid=header.share.carshare-_-car.club-_-ENGB.NULL">
+						About Enterprise Car Club</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisecarclub.co.uk/join/?cm_mmc=EnterpriseWebsite-_-Header-_-share.carclub-_-ENGB">
+						Join the club<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/Navigation/UK/uk-share.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-share"><div class="primary-nav-label">Locations</div>
+<div class="primary-nav-content">
+	<div class="menu cols-2">
+		<div class="nav-section" role="menu">
+			<div class="title">Car &amp; Van Hire Locations<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire/locations/uk.html?icid=footer.locations-_-uk.locations-_-ENGB.NULL">
+						UK Car and Van Hire Locations</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-hire/locations.html?icid=footer.locations-_-international.locations-_-ENGB.NULL">
+						International Car Hire Locations</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Other Locations<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisecarclub.co.uk/vehicles/?cm_mmc=EnterpriseWebsite-_-Header-_-locations.carclub-_-ENGB">
+						Car Club Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/Navigation/UK/uk-locations.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-learn"><div class="primary-nav-label">For Business</div>
+<div class="primary-nav-content">
+	<div class="menu cols-1">
+		<div class="nav-section" role="menu">
+			<div class="title">Solutions for Business<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/business-car-hire.html?icid=header.business.solutions-_-business.rental-_-ENGB.NULL">
+						Business Car Hire</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/flex-e-rent.html?icid=header.business.solutions-_-flexerent-_-ENGB.NULL">
+						Flex-E-Rent</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisecarclub.co.uk/business/?cm_mmc=EnterpriseWebsite-_-Header-_-business.carclub-_-ENGB">
+						Car Club<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://legacy.enterprise.co.uk/car_rental/travelAgent.do?cm_mmc=EnterpriseWebsite-_-Header-_-business.travel-_-ENGB">
+						Travel Agents<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/Navigation/UK/uk-business.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu-locations megamenu"><div class="primary-nav-label">Learn</div>
+<div class="primary-nav-content">
+	<div class="menu cols-4">
+		<div class="nav-section" role="menu">
+			<div class="title">The Company<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about.html?icid=header.learn.company-_-about-_-ENGB.NULL">
+						About Us</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/corporate-culture.html?icid=header.learn.company-_-corporate.culture-_-ENGB.NULL">
+						Life at Enterprise</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/mobility-solutions.html?icid=header.learn.company-_-mobility.solutions-_-ENGB.NULL">
+						Total Mobility Solutions</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Header-_-company.holdings-_-ENGB">
+						Enterprise Holdings®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a class="external-link" target="_blank" href="https://www.enterprisecarclub.co.uk/business/">
+						Careers<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+						</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Loyalty<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/loyalty.html?icid=header.learn.loyalty-_-loyalty-_-ENGB.NULL">
+						Enterprise Plus® Programme</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/enroll.html?icid=header.learn.loyalty-_-enroll-_-ENGB.NULL">
+						Join Enterprise Plus®</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Sponsorship<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/sponsorships/uefa.html?icid=header.learn.sponsorships-_-uefa.landing-_-ENGB.NULL">
+						UEFA Europa League</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Hints and Tips<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/driving-abroad.html">
+						Driving in Europe</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/utilitarian/emea/Navigation/UK/uk-learn.jpg)">
+	</div>
+</div>
+</div>
+</li>
+        <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-business"><div class="primary-nav-label">Inspiration</div>
+<div class="primary-nav-content">
+	<div class="menu cols-2">
+		<div class="nav-section" role="menu">
+			<div class="title">Exploration<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/inspiration.html?icid=header.inspiration.exploration-_-inspiration-_-ENGB.NULL">
+						Inspiration</a>
+				</li>
+				</ul>
+		</div>
+		<div class="nav-section" role="menu">
+			<div class="title">Sustainability<i class="icon icon-nav-carrot-white"></i></div>
+			<div class="nav-section-text"></div>
+			<ul class="sub-menu">
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/sustainability.html?icid=header.inspiration.sustainability-_-sustainability-_-ENGB.NULL">
+						Sustainability</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/about/renewable-fuels.html?icid=header.inspiration.sustainability-_-renewable.fuel-_-ENGB.NULL">
+						Renewable Fuel Research</a>
+				</li>
+				</ul>
+		</div>
+		</div>
+	<div class="promo" style="background-image: url(/content/dam/ecom/utopian-travel-articles/explore/explore-beyond-malaga-feature.jpg)">
+	</div>
+</div>
+</div>
+</li>
+    </ul>
 </nav>
 </div>
     </div>
 
-
 </header>
-    <section><!-- Breadcrumb Band -->
+    <div><!-- Breadcrumb Band -->
 <div>
-	<nav class="band breadcrumb-band">
-		<div class="cf">
-			<ul>
-				
-					<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-						<a href="/en/home.html" itemprop="url">
-							<span itemprop="title">Home</span>
-						</a><span> / </span>
-					</li>
-				
-				<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a class="current" href="/en/privacy-policy.html" itemprop="url">
-						<span itemprop="title">Privacy Policy</span>
-					</a>
-				</li>
-			</ul>
-		</div>
-	</nav>
+    <nav class="band breadcrumb-band">
+        <div class="cf">
+            <ul>
+                
+                    <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" id="/content/co-uk/en/home.html" itemref="/content/co-uk/en/privacy-policy.html">
+                        <a href="/en/home.html" itemprop="url"><span itemprop="title">Home</span></a><span role="presentation" aria-hidden="true"> / </span>
+                    </li>
+                    
+                
+                    
+                    <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" id="/content/co-uk/en/privacy-policy.html" itemprop="child">
+                        <a class="current" href="/en/privacy-policy.html" itemprop="url">
+                            <span itemprop="title">Privacy Policy</span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </nav>
 </div>
+
+<!-- AddThis Social Band -->
+<div class="cf"></div>
+
+<!-- HEADER BAND -->
+
 
 <div><div class="textband section"><section class="band text-band">
     <section class="g g-4up">
@@ -733,7 +841,6 @@
         <section class="gi"><br></section>
         <section class="gi gi-2-4">
             
-
             
             <div>
                 <h1>Global Privacy Policy</h1>
@@ -974,111 +1081,246 @@
 </div>
 
 
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-02-12-12-59/home.min.js"></script>
+<!-- AddThis Social Band -->
+<div class="bottom"></div>
 
-
-</section>
+</div>
     <footer class="cf">
 	<div class="logo">
 		<a href="/en.html"><img src="/content/dam/ecom/logo-enterprise-rent-a-car.png" alt="Enterprise"></a>
 	</div>
 <nav class="nav" id="footer-nav">
-    <div class="g g-4up">
-         <div class="gi">
-            <div class="footermenu footer-1"><ul>
-		<li class="title">RESERVATIONS</li>
-		<li><a href="/en/car-hire.html">Car Hire</a></li>
-		<li><a href="/en/reserve/view-modify-cancel.html">View/Modify/Cancel</a></li>
-		<li><a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/ticketReceiptRequest.do">Get a Receipt</a></li>
-		</ul>
-	<ul>
-		<li class="title">ENTERPRISE PLUS®</li>
-		<li><a href="/en/account.html">Sign In</a></li>
-		<li><a href="/en/loyalty.html">Learn More About Enterprise Plus®</a></li>
-		<li><a href="/en/enroll.html">Join Enterprise Plus®</a></li>
-		</ul>
-	<ul>
-		<li class="title">CAR HIRE LOCATIONS</li>
-		<li><a href="/en/car-hire/locations/uk.html">UK Car Hire Locations</a></li>
-		<li><a href="/en/car-hire/locations.html">International Car Hire Locations</a></li>
-		</ul>
-	</div>
+        <div class="g g-4up">
+             <div class="gi">
+                <div class="footermenu footer-1"><div class="hide">RESERVATIONS</div>
+        <h2 class="title-static">RESERVATIONS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="RESERVATIONS-list" aria-expanded="false">
+          RESERVATIONS</div>
+
+        <ul id="RESERVATIONS-list">
+      		<li>
+      		    <a href="/en/car-hire.html?icid=footer.reservations-_-car.hire-_-ENGB.NULL">Car Hire</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/reserve/view-modify-cancel.html?icid=footer.reservations-_-modify-_-ENGB.NULL">View/Modify/Cancel</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/ticketReceiptRequest.do?cm_mmc=EnterpriseWebsite-_-Footer-_-reservations.receipts-_-ENGB">Get a Receipt</a>
+      	    </li>
+        	</ul>
+      <div class="loyalty-not-available"><div class="hide">ENTERPRISE PLUS®</div>
+        <h2 class="title-static">ENTERPRISE PLUS®</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="ENTERPRISEPLUS®-list" aria-expanded="false">
+          ENTERPRISE PLUS®</div>
+
+        <ul id="ENTERPRISEPLUS®-list">
+      		<li>
+      		    <a href="/en/account.html?icid=footer.enterprise.plus-_-account-_-ENGB.NULL">Sign In</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/loyalty.html?icid=footer.enterprise.plus-_-loyalty-_-ENGB.NULL">Learn More About Enterprise Plus®</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/enroll.html?icid=footer.enterprise.plus-_-enroll-_-ENGB.NULL">Join Enterprise Plus®</a>
+      	    </li>
+        	</ul>
+      </div><div class="hide">CAR HIRE LOCATIONS</div>
+        <h2 class="title-static">CAR HIRE LOCATIONS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="CARHIRELOCATIONS-list" aria-expanded="false">
+          CAR HIRE LOCATIONS</div>
+
+        <ul id="CARHIRELOCATIONS-list">
+      		<li>
+      		    <a href="/en/car-hire/locations/uk.html?icid=footer.locations-_-uk.locations-_-ENGB.NULL">UK Car Hire Locations</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-hire/locations.html?icid=footer.locations-_-international.locations-_-ENGB.NULL">International Car Hire Locations</a>
+      	    </li>
+        	</ul>
+      </div>
 </div>
-         <div class="gi">
-            <div class="footermenu footer-2"><ul>
-		<li class="title">Vehicles</li>
-		<li><a href="/en/car-hire/vehicles/uk/cars.html">Cars</a></li>
-		<li><a href="/en/car-hire/vehicles/uk/suvs.html">SUVs</a></li>
-		<li><a href="/en/car-hire/vehicles/uk/people-carriers.html">People Carriers</a></li>
-		<li><a href="/en/car-hire/vehicles/uk/vans.html">Vans</a></li>
-		</ul>
-	<ul>
-		<li class="title">SHARE</li>
-		<li><a target="_blank" href="https://www.enterprisecarshare.co.uk/gb/en/home.html">Enterprise CarShare</a></li>
-		</ul>
-	<ul>
-		<li class="title">INSPIRATION</li>
-		<li><a href="/en/inspiration.html">Travel &amp; Lifestyle</a></li>
-		<li><a href="/en/about/sustainability.html">Sustainability</a></li>
-		<li><a href="/en/about/renewable-fuels.html">Renewable Fuel Research</a></li>
-		</ul>
-	<ul>
-		<li class="title">INTERNATIONAL WEBSITES</li>
-		<li><a target="_blank" href="https://www.enterprise.ie">Enterprise Ireland</a></li>
-		<li><a target="_blank" href="https://www.enterprise.de">Enterprise Germany</a></li>
-		<li><a target="_blank" href="https://www.enterprise.fr">Enterprise France</a></li>
-		<li><a target="_blank" href="https://www.enterprise.es">Enterprise Spain</a></li>
-		<li><a target="_blank" href="https://www.enterprise.com">Enterprise United States</a></li>
-		<li><a target="_blank" href="https://www.enterpriserentacar.ca">Enterprise Canada</a></li>
-		<li><a href="/en/car-hire/locations.html">Other Enterprise Websites</a></li>
-		</ul>
-	</div>
+             <div class="gi">
+                <div class="footermenu footer-2"><div class="hide">Vehicles</div>
+        <h2 class="title-static">Vehicles</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="Vehicles-list" aria-expanded="false">
+          Vehicles</div>
+
+        <ul id="Vehicles-list">
+      		<li>
+      		    <a href="/en/car-hire/vehicles/uk/cars.html?icid=footer.vehicles-_-uk.cars-_-ENGB.NULL">Cars</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-hire/vehicles/uk/suvs.html?icid=footer.vehicles-_-uk.suvs-_-ENGB.NULL">SUVs</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-hire/vehicles/uk/people-carriers.html?icid=footer.vehicles-_-uk.people.carriers-_-ENGB.NULL">People Carriers</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-hire/vehicles/uk/vans.html?icid=footer.vehicles-_-uk.vans-_-ENGB.NULL">Vans</a>
+      	    </li>
+        	</ul>
+      <div class="hide">Car Club</div>
+        <h2 class="title-static">Car Club</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="CarClub-list" aria-expanded="false">
+          Car Club</div>
+
+        <ul id="CarClub-list">
+      		<li>
+      		    <a target="_blank" href="https://www.enterprisecarclub.co.uk/?cm_mmc=EnterpriseWebsite-_-Footer-_-share.carclub-_-ENGB">Enterprise Car Club</a>
+      	    </li>
+        	</ul>
+      <div class="hide">INSPIRATION</div>
+        <h2 class="title-static">INSPIRATION</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="INSPIRATION-list" aria-expanded="false">
+          INSPIRATION</div>
+
+        <ul id="INSPIRATION-list">
+      		<li>
+      		    <a href="/en/inspiration.html?icid=footer.inspiration-_-inspiration-_-ENGB.NULL">Travel &amp; Lifestyle</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/sustainability.html?icid=footer.inspiration-_-sustainability-_-ENGB.NULL">Sustainability</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/renewable-fuels.html?icid=footer.inspiration-_-renewable.fuel-_-ENGB.NULL">Renewable Fuel Research</a>
+      	    </li>
+        	</ul>
+      <div class="hide">INTERNATIONAL WEBSITES</div>
+        <h2 class="title-static">INTERNATIONAL WEBSITES</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="INTERNATIONALWEBSITES-list" aria-expanded="false">
+          INTERNATIONAL WEBSITES</div>
+
+        <ul id="INTERNATIONALWEBSITES-list">
+      		<li>
+      		    <a target="_blank" href="https://www.enterprise.ie?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.ireland-_-ENGB">Enterprise Ireland</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.de?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.germany-_-ENGB">Enterprise Germany</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.fr?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.france-_-ENGB">Enterprise France</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.es?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.spain-_-ENGB">Enterprise Spain</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterprise.com?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.us-_-ENGB">Enterprise United States</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterpriserentacar.ca?cm_mmc=EnterpriseWebsite-_-Footer-_-sites.canada-_-ENGB">Enterprise Canada</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/car-hire/locations.html?icid=footer.international.sites-_-international.locations-_-ENGB.NULL">Other Enterprise Websites</a>
+      	    </li>
+        	</ul>
+      </div>
 </div>
-         <div class="gi">
-            <div class="footermenu footer-3"><ul>
-		<li class="title">PROMOTIONS</li>
-		<li><a href="/en/car-hire/deals.html">All Deals &amp; Coupons</a></li>
-		<li><a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/deeplinkmap.do?bid=006&amp;emailsignup=Y">Sign Up For Email Specials</a></li>
-		<li><a href="/en/about/travel-partners.html">Travel Partners</a></li>
-		</ul>
-	<ul>
-		<li class="title">CUSTOMER SERVICE</li>
-		<li><a target="_blank" href="https://enterprise.custhelp.com">Customer Support</a></li>
-		<li><a href="/en/help/contact.html">Contact Us</a></li>
-		<li><a href="/en/help/customers-with-disabilities.html">Customers with Disabilities</a></li>
-		<li><a href="/en/sitemap.html">Site Map</a></li>
-		</ul>
-	<ul>
-		<li class="title">THE COMPANY</li>
-		<li><a href="/en/about.html">About Us</a></li>
-		<li><a href="/en/about/brad-and-dave.html">Brad and Dave</a></li>
-		<li><a href="/en/about/mobility-solutions.html">Total Mobility Solutions</a></li>
-		<li><a target="_blank" href="https://www.enterpriseholdings.com/">Enterprise Holdings®</a></li>
-		<li><a target="_blank" href="http://www.enterprisealive.co.uk">Careers</a></li>
-		</ul>
-	</div>
+             <div class="gi">
+                <div class="footermenu footer-3"><div class="hide">PROMOTIONS</div>
+        <h2 class="title-static">PROMOTIONS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="PROMOTIONS-list" aria-expanded="false">
+          PROMOTIONS</div>
+
+        <ul id="PROMOTIONS-list">
+      		<li>
+      		    <a href="/en/car-hire/deals.html?icid=footer.promotions-_-deals-_-ENGB.NULL">All Deals &amp; Coupons</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/email-specials.html?icid=footer.promotions-_-email.special-_-ENGB.NULL">Sign Up For Email Specials</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/travel-partners.html?icid=footer.promotions-_-travel.partners-_-ENGB.NULL">Travel Partners</a>
+      	    </li>
+        	</ul>
+      <div class="hide">CUSTOMER SERVICE</div>
+        <h2 class="title-static">CUSTOMER SERVICE</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="CUSTOMERSERVICE-list" aria-expanded="false">
+          CUSTOMER SERVICE</div>
+
+        <ul id="CUSTOMERSERVICE-list">
+      		<li>
+      		    <a target="_blank" href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Footer-_-service.support-_-ENGB">Customer Support</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/help/contact.html?icid=footer.customer.service-_-contact-_-ENGB.NULL">Contact Us</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/help/disabled-customers.html?icid=footer.customer.service-_-disabilities-_-ENGB.NULL">Disabled Customers</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/sitemap.html?icid=footer.customer.service-_-site.map-_-ENGB.NULL">Site Map</a>
+      	    </li>
+        	</ul>
+      <div class="hide">THE COMPANY</div>
+        <h2 class="title-static">THE COMPANY</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="THECOMPANY-list" aria-expanded="false">
+          THE COMPANY</div>
+
+        <ul id="THECOMPANY-list">
+      		<li>
+      		    <a href="/en/about.html?icid=footer.learn.company-_-about-_-ENGB.NULL">About Us</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/brad-and-dave.html?icid=footer.learn.company-_-brad.dave-_-ENGB.NULL">Brad and Dave</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/about/mobility-solutions.html?icid=footer.learn.company-_-mobility.solutions-_-ENGB.NULL">Total Mobility Solutions</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.holdings-_-ENGB">Enterprise Holdings®</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="http://www.enterprisealive.co.uk?cm_mmc=EnterpriseWebsite-_-Footer-_-company.careers-_-ENGB">Careers</a>
+      	    </li>
+        	</ul>
+      </div>
 </div>
-         <div class="gi">
-            <div class="footermenu footer-4"><ul>
-		<li class="title">BUSINESSES</li>
-		<li><a href="/en/business-car-hire.html">Solutions for Business</a></li>
-		<li><a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/deeplinkmap.do?bid=056&amp;dcpCode=FRANCHISE&amp;cnty=gb&amp;language=en&amp;language=en">Global Franchise Opportunities</a></li>
-		<li><a target="_blank" href="https://www.enterprise.co.uk/car_rental/deeplinkmap.do?bid=022">General Aviation</a></li>
-		<li><a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/travelAgent.do">Travel Agents</a></li>
-		<li><a href="/en/flex-e-rent.html">Flex-e-Rent</a></li>
-		<li><a target="_blank" href="https://www.enterprisecarshare.co.uk/gb/en/programs/business.html">CarShare</a></li>
-		</ul>
-	<ul>
-		<li class="title">SPONSORSHIPS</li>
-		<li><a href="/en/about/sponsorships/uefa/europa-league-promotion.html">Win a VIP UEFA Europa League Experience</a></li>
-		<li><a href="/en/about/sponsorships/uefa.html">UEFA Europa League</a></li>
-		</ul>
-	<ul>
-		<li class="title"></li>
-		<li><a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/home.do">Go to classic Enterprise website</a></li>
-		</ul>
-	</div>
+             <div class="gi">
+                <div class="footermenu footer-4"><div class="hide">BUSINESSES</div>
+        <h2 class="title-static">BUSINESSES</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="BUSINESSES-list" aria-expanded="false">
+          BUSINESSES</div>
+
+        <ul id="BUSINESSES-list">
+      		<li>
+      		    <a href="/en/business-car-hire.html?icid=footer.businesses-_-business.rental-_-ENGB.NULL">Solutions for Business</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/deeplinkmap.do?bid=056&amp;dcpCode=FRANCHISE&amp;cnty=gb&amp;language=en&amp;language=en?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.franchise-_-ENGB">Global Franchise Opportunities</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/deeplinkmap.do?bid=022&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.aviation-_-ENGB">General Aviation</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/travelAgent.do?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.travel-_-ENGB">Travel Agents</a>
+      	    </li>
+        	<li>
+      		    <a href="/en/flex-e-rent.html?icid=footer.businesses-_-flexerent-_-ENGB.NULL">Flex-e-Rent</a>
+      	    </li>
+        	<li>
+      		    <a target="_blank" href="https://enterprisecarclub.co.uk/?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.carclub-_-ENGB">Enterprise Car Club</a>
+      	    </li>
+        	</ul>
+      <div class="hide">SPONSORSHIPS</div>
+        <h2 class="title-static">SPONSORSHIPS</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="SPONSORSHIPS-list" aria-expanded="false">
+          SPONSORSHIPS</div>
+
+        <ul id="SPONSORSHIPS-list">
+      		<li>
+      		    <a href="/en/about/sponsorships/uefa.html?icid=footer.sponsorships-_-uefa.landing-_-ENGB.NULL">UEFA Europa League</a>
+      	    </li>
+        	</ul>
+      <div class="hide"></div>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="-list" aria-expanded="false">
+          </div>
+
+        <ul id="-list">
+      		<li>
+      		    <a target="_blank" href="https://legacy.enterprise.co.uk/car_rental/home.do?cm_mmc=EnterpriseWebsite-_-Footer-_-other.legacy-_-ENGB">Go to classic Enterprise website</a>
+      	    </li>
+        	</ul>
+      </div>
 <div class="gettheapp"><div class="get-app">
     <p>Get the Enterprise Mobile App</p>
     <div class="badge-icon">
@@ -1093,8 +1335,8 @@
     </div>    
 </div></div>
 </div>
-    </div>
-</nav>
+        </div>
+    </nav>
 <div class="drivealliance">
 <div class="base colors white g g-2up">
 	<div class="gi left">
@@ -1107,7 +1349,7 @@
 				</li>
 			
 				<li>
-					<a class="icon icon-footer-twitter-color" target="_blank" href="https://twitter.com/enterprise" title="Twitter">
+					<a class="icon icon-footer-twitter-color" target="_blank" href="https://twitter.com/UKEnterprise" title="Twitter">
 						Twitter
 					</a>
 				</li>
@@ -1117,53 +1359,47 @@
 						Youtube
 					</a>
 				</li>
-			
-				<li>
-					<a class="icon icon-footer-googleplus-color" target="_blank" href="https://plus.google.com/+EnterpriseRentACar" title="Google+">
-						Google+
-					</a>
-				</li>
 			</ul>
 		</div>
 		<div class="links g g-3up links-footer">
-			<div>
+			<ul>
 				
-					
-						<a target="_blank" href="/en/help/terms-and-conditions.html">Terms of Use
+					<li>
+						<a target="_blank" href="/en/help/terms-and-conditions.html?icid=footer.legal-_-terms-_-ENGB.NULL">Terms of Use
 							
 						</a>
-					
+					</li>
 					
 				
-					
-						<a target="_blank" href="/en/privacy-policy.html">Privacy Policy
+					<li>
+						<a target="_blank" href="/en/privacy-policy.html?icid=footer.legal-_-privacy-_-ENGB.NULL">Privacy Policy
 							
 						</a>
-					
+					</li>
 					
 				
-					
-						<a target="_blank" href="/en/privacy-policy/cookie-policy.html">Cookie Policy
+					<li>
+						<a target="_blank" href="/en/privacy-policy/cookie-policy.html?icid=footer.legal-_-cookie-_-ENGB.NULL">Cookie Policy
 							
 						</a>
-					
+					</li>
 					
 				
-					
-						<a target="_blank" href="http://preferences-mgr.truste.com/?type=enterprise&amp;affiliateId=82">Ad Choices
+					<li>
+						<a target="_blank" href="http://preferences-mgr.truste.com/?type=enterprise&amp;affiliateId=82?cm_mmc=EnterpriseWebsite-_-Footer-_-legal.truste-_-ENGB">Ad Choices
 							<i class="icon icon-ad-choices"></i>
 						</a>
-					
+					</li>
 					
 				
 					
-					
+					<li>
 						<a target="_blank">© 2016 Enterprise Holdings, Inc.
 							
 						</a>
-					
+					</li>
 				
-			</div>
+			</ul>
 		</div>
 	</div>
 	<div class="gi right">
@@ -1186,25 +1422,57 @@
             <div class="modal-body"></div>
         </div>
     </div>
-    
-    
-    
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-02-12-12-59/nav.min.js"></script>
-
 
 
     
 
+    <!--  client libs for external libraries -->
     
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-02-12-12-59/icons.min.css" type="text/css">
+        
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/prod-libs.min.js"></script>
 
+
+
+    
+    
+
+    <script src="/en.i18nmap.js?v=2016-10-04-11-43"></script>
+
+    
+      
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/home.min.js"></script>
+
+
+
+
+      
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/nav.min.js"></script>
+
+
+
+
+      
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/content.min.js"></script>
+
+
+
+
+      
+    
+
+    
 
 
     
         <!-- This is prod -->
-       <script>_satellite.pageBottom();</script>
+        <script>_satellite.pageBottom();</script>
     
     
+
+
 
 </body></html>
