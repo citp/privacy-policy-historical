@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetotc.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608230414id_/http%3A//www.wallstreetotc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetotc.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010044042id_/http%3A//www.wallstreetotc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Wall Street OTC
 
