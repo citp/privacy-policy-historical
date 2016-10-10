@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzztales.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531234126id_/http%3A//buzztales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztales.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010170249id_/http%3A//buzztales.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BuzzTales
 
@@ -55,3 +55,5 @@ Please remember that BuzzTales does not have access to, or control over, the inf
 These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
 
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
+
+o 
