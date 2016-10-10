@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619165356id_/http%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011010945id_/https%3A//www.arnoldclark.com/cookies) for the most accurate reproduction.*
 
 # Cookies policy | Arnold Clark
 
@@ -122,7 +122,7 @@ _utmb | Persistent, Third Party | Google Analytics cookies that contain timestam
 _utmc | Session Third Party | Google Analytics cookies that contain timestamps of time you enter and leave our website.  
 _utmz | Persistent, Third Party | Google Analytics cookie that tracks which search engine you have used to come to this website, which keyword(s) you used to find the website, which link(s) you have clicked on within the website and where you were located when you clicked that link.  
   
-To find out even more about cookies, visit [//www.aboutcookies.org/](https://www.aboutcookies.org/)
+To find out even more about cookies, visit [http://www.aboutcookies.org/](https://www.aboutcookies.org/)
 
 ## IP Addresses
 
