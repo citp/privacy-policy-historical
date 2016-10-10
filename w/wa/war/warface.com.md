@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the warface.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321021845id_/https%3A//www.warface.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warface.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010120821id_/https%3A//www.warface.com/en/privacy) for the most accurate reproduction.*
 
 # Warface
 
 **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE ANY ONLINE GAME, SERVICE or WEBSITE FROM CRYTEK YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS**.
 
-CRYTEK respects your privacy and understands the importance of protecting your personal information. We will only collect information we need to fulfill your requests and our legitimate business objectives. We will never send you marketing communications without your consent, and we will never share your personal information with third parties that are not bound by our privacy policy unless you tell us we can. By registering for a CRYTEK Account, we may transfer and store your account information in Germany. By registering, you agree that CRYTEK may process your data in accordance with the following privacy policy and that you will abide by CRYTEK's Terms of Service. BY REGISTERING FOR A CRYTEK ACCOUNT, USING THIS SITE AND/OR ANY OF CRYTEK'S ONLINE OR MOBILE PRODUCTS AND SERVICES, YOU AGREE TO THE CRYTEK ONLINE PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY CRYTEK SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our Privacy Policy, we will post those changes to this Privacy Policy, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material or significant changes to this Privacy Policy, we will notify you by email and/or by a notice at [www.crytek.com/privacy](http://www.crytek.com/privacy) and/or during log in. Revisions to terms affecting existing CRYTEK Services shall be effective thirty (30) days after posting at [www.crytek.com/privacy](http://www.crytek.com/privacy). Your continued use of our online and mobile products and services will signify your acceptance of the changes to our Privacy Policy. You will always have the option to require an overview including all collected data by sending a mail to privacy@crytek.com.
+CRYTEK respects your privacy and understands the importance of protecting your personal information. We will only collect information we need to fulfill your requests and our legitimate business objectives. We will never send you marketing communications without your consent, and we will never share your personal information with third parties that are not bound by our privacy policy unless you tell us we can. By registering for a CRYTEK Account, we may transfer and store your account information in Germany. By registering, you agree that CRYTEK may process your data in accordance with the following privacy policy and that you will abide by CRYTEK's Terms of Service. BY REGISTERING FOR A CRYTEK ACCOUNT, USING THIS SITE AND/OR ANY OF CRYTEK'S ONLINE OR MOBILE PRODUCTS AND SERVICES, YOU AGREE TO THE CRYTEK ONLINE PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY CRYTEK SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our Privacy Policy, we will post those changes to this Privacy Policy, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material or significant changes to this Privacy Policy, we will notify you by email and/or by a notice at [www.crytek.com/privacy](http://www.crytek.com/privacy) and/or during log in. Revisions to terms affecting existing CRYTEK Services shall be effective thirty (30) days after posting at [www.crytek.com/privacy](http://www.crytek.com/privacy). Your continued use of our online and mobile products and services will signify your acceptance of the changes to our Privacy Policy. You will always have the option to require an overview including all collected data by sending a mail to privacy@crytek.de.
 
 ### I. CRYTEK Privacy Policy: Introduction
 
@@ -57,17 +57,51 @@ Cookies are small files applied to your Internet browser to track movements with
 
 #### 2\. Third Party Ad Serving Technology
 
-The companies that serve the ads that may appear on our websites may also collect information regarding your activities online, including the sites you visit. For more information on such services or to opt out of those services, please visit such services’ websites.
+The companies that serve the ads that may appear on our websites may also collect information regarding your activities online, including the sites you visit. For more information on such services or to opt out of those services, please visit such services' websites.
 
 #### 3\. Analytic Metrics Tool and Other Technologies
 
 CRYTEK also uses its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services and/or play our games on your PC, console and/or mobile device.
 
+ ** _Google Analytics_**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+You may also prevent Google Analytics from collecting and storing your information by downloading and installing the Google Analytics Opt-out Browser Add-On under the following link <http://tools.google.com/dlpage/gaoptout?hl=en>.
+
+ ** _Easy Anti-Cheat_**
+
+CRYTEK uses EasyAntiCheat anti-cheat service (“EasyAntiCheat"), which is operated by a third-party service provider offering services to CRYTEK. EasyAntiCheat has a client software (“Client") that is integrated into Warface. When you start Warface, the Client will automatically load and install its latest version to your computer. When you are using Warface on your computer EasyAntiCheat is monitoring the computer, analyzing the game binaries and scanning the memory of the computer for the purpose of detecting and preventing cheating in Warface (“Purpose"). For the Purpose EasyAntiCheat is storing information regarding cheating methods used in Warface (“Cheat Data"). By installing, copying, or otherwise using Warface, you give your consent that EasyAntiCheat may gather, store and publish Cheat Data for the sole purpose of the Purpose. The Cheat Data will be used solely for the Purpose including but not limited to identifying and banning players who are cheating in computer games, analyzing cheating behavior and cheating codes as well as sharing data about cheats with affiliates of EasyAntiCheat. _Storage of Data_
+
+For the Purpose EasyAntiCheat is storing information regarding cheating methods used in the Game (“Cheat Data").
+
+There are three steps in how user specific data is stored and processed.
+
+1.Analysis: Cheat Data is sent from the user computer and processed on EasyAntiCheat's back-end. If nothing abnormal is found, the Cheat Data is discarded.
+
+2.Red flag analysis: If abnormal unknown patterns are found, EasyAntiCheat stores those pieces of memory for manual analysis. If the pattern doesn't proof to repeat itself and/or not to be a cheat, EasyAntiCheat discards it usually within one month and at most within three months.
+
+3.If known cheat pattern is found, that piece of memory is stored indefinitely as evidence. In extreme cases, this also allows EasyAntiCheat to re-evaluate bans that may have been triggered by e.g. software incompatibility issues.
+
+For the sake of clarity, EasyAntiCheat only handles data relevant to the identification of cheats. Other than that, EasyAntiCheat does not store any data on individual users and has no intent to ever do so.
+
+ _Third–party data sharing_
+
+The Cheat Data will be used solely for the Purpose including but not limited to identifying and banning players who are cheating in computer games, analyzing cheating behavior and cheating codes as well as sharing data about cheats with affiliates of EasyAntiCheat.
+
+EasyAntiCheat sese two ways in which EasyAntiCheat may end up sharing game specific and/or user specific data with third parties.
+
+-Anyone can query our web API with GUIDs to get the ban status. EasyAntiCheat provides ban reason, ban time, and game server on which was cheated. The purpose is to be transparent and not be flooded with email requests on each ban wave.
+
+-EasyAntiCheat may hire services that could be considered as 3rd party, e.g. freelance coders. The purpose is to develop competent anti-cheat software.
+
+For the sake of clarity, EasyAntiCheat will never share any game specific data with external parties without your full consent.
+
 ### IV. What Happens To The Information CRYTEK Collects?
 
 #### A. How CRYTEK Uses Your Information
 
-CRYTEK uses your information to operate CRYTEK’s games, fulfill your specific requests, and purchase orders and to send you purchase confirmation and other account-related information. In addition, if you choose to receive communications from us about CRYTEK products and news, the personal information you provide will allow us to send you messages about things including new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. You may also later opt out of this service from CRYTEK. Your participation in tournaments or other online game events is also conditional upon our collection, use, storage, transmission and public display of statistical data (such as your scores, rankings and achievements) generated through your participation.
+CRYTEK uses your information to operate CRYTEK's games, fulfill your specific requests, and purchase orders and to send you purchase confirmation and other account-related information. In addition, if you choose to receive communications from us about CRYTEK products and news, the personal information you provide will allow us to send you messages about things including new products, features, enhancements, special offers, upgrade opportunities, contests and events of interest. You may also later opt out of this service from CRYTEK. Your participation in tournaments or other online game events is also conditional upon our collection, use, storage, transmission and public display of statistical data (such as your scores, rankings and achievements) generated through your participation.
 
 #### B. Will CRYTEK Share My Information With Third Parties?
 
@@ -81,11 +115,11 @@ CRYTEK is a global organization and the majority of the computer systems on whic
 
 ### VI. How Does CRYTEK Protect Your Personal Information?
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact the Privacy Policy Administrator via email at [privacy@crytek.com](mailto:\(privacy@crytek.de\)).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact the Privacy Policy Administrator via email at [privacy@crytek.de](mailto:\(privacy@crytek.de\)).
 
 ### VII. Review, Correction of Your Information, Requesting Removal from Mailing Lists and Deactivating Your Account
 
-You can correct, update or delete your account information at any time by logging on our site and navigating to "My Account," "View My Profile" or other account settings. Should you be unable to log in contact [privacy@crytek.com](mailto:\(privacy@crytek.de\)). We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.
+You can correct, update or delete your account information at any time by logging on our site and navigating to "My Account," "View My Profile" or other account settings. Should you be unable to log in contact [privacy@crytek.de](mailto:\(privacy@crytek.de\)). We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.
 
 VIII. Public Information Including User Generated Content, Online Forums, Blogs and Profiles
 
@@ -95,14 +129,14 @@ You should be aware that any personally identifiable information you submit in t
 
 If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to CRYTEK services. Please see our regulations at [www.crytek.com/terms](http://www.crytek.com/terms) on this point and for other guidelines about posting content on our Service.
 
-### IX. Third Party Sites.
+### VIII. Third Party Sites.
 
 Crytek Services may contain advertising or services which link to other websites such as Twitter, Facebook and YouTube. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. If you click on a link to a third party site, including on an advertisement, you will leave the CRYTEK site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as CRYTEK. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to a CRYTEK site, you should consult that site's privacy policy before providing any personal information.
 
-### X. Products Offered In Partnership with Third Party(s)
+### IX. Products Offered In Partnership with Third Party(s)
 
 Members may register for other services from our site(s). Certain products and/or services available on our service are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services.
 
-### XI. Contact Information
+### X. Contact Information
 
-If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at [privacy@crytek.com](mailto:privacy@crytek.de).
+If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at [privacy@crytek.de](mailto:privacy@crytek.de).
