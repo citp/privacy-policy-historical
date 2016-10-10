@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424032630id_/http%3A//help.ft.com/tools-services/financial-times-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010125214id_/http%3A//help.ft.com/tools-services/financial-times-privacy-policy) for the most accurate reproduction.*
 
 # Financial Times privacy policy | FT Help | FT.com
 
@@ -92,7 +92,7 @@ We also use information in aggregate form (so that no individual user is identif
 
 
 
-We use technology on the registration, subscription and manage my account pages of some of our websites, which may record user movements, including page scrolling, mouse clicks and text entered. It will not record financial information such as credit or debit card details. The data we collect in this way helps us to identify usability issues, to improve the assistance and technical support we can provide to users and is also used for aggregated and statistical reporting purposes.
+We use technology on some of the pages of our websites, which may record user movements, including page scrolling, mouse clicks and text entered. It will not record financial information such as credit or debit card details. The data we collect in this way helps us to identify usability issues, to improve the assistance and technical support we can provide to users and is also used for aggregated and statistical reporting purposes.
 
 **Use of Cookies and Other Tracking Devices**
 
