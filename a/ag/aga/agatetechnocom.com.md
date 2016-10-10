@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agatetechnocom.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404223733id_/http%3A//www.agatetechnocom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agatetechnocom.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010125422id_/http%3A//www.agatetechnocom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Professional web development and web design service India | SEO service India
 
