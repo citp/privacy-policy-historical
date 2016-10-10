@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awpcp.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412094903id_/http%3A//awpcp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awpcp.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010162544id_/http%3A//awpcp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AWPCP.com
 
