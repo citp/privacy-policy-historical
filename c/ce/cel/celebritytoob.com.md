@@ -1,113 +1,135 @@
-> *The following text is extracted and transformed from the celebritytoob.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052224id_/http%3A//celebritytoob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritytoob.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010203235id_/http%3A//celebritytoob.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Celebrity Toob
+# celebritytoob.com | Privacy Policy
 
-Privacy Policy
+**What information do we collect?**
 
-Last updated June 1, 2011.
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-Celebritytoob.com is an interactive online service operated by Blogstand Media, LLC (“ **Blogstand** “, “ **us** “, “ **we** “, or “ **our** “). This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-We have adopted this Privacy Policy to explain what information may be collected on our Website, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-We generally keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Blogstand will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
+ **DoubleClick DART Cookie**
 
-**A. INFORMATION WE COLLECT**
+.:: Google, as a third party vendor, uses cookies to serve ads on celebritytoob.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to celebritytoob.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-Our Website typically collects two (2) kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you that we automatically collect when you visit our Website or that you provide us.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-(1) Personally Identifiable Information:
 
-Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. As a general policy, we do not automatically collect your personally identifiable information when you visit our Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website. For instance, you may: (a) provide your name, mail/shipping address, e-mail address, credit card number and phone number when registering with our Website, using our online store or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a product rating and recommendation on our Website. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer or gain access to certain content on our Website.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on celebritytoob.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-(2) Non-Personal Information:
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We and/or our third party service providers also automatically collect certain non-personal information from you when you access our Website.
+celebritytoob.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-**B. HOW WE USE & SHARE THE INFORMATION COLLECTED**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. celebritytoob.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-(1) Personally Identifiable Information:
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, to provide you with information or services or process transactions that you have requested or agreed to receive, to provide you with marketing or promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“ **affiliated companies** “), to communicate with you about content or other information you have posted or shared with us via our Website or with regard to your use of the Website and, in our discretion, changes to the Website and/or Website policies, for internal business purposes, or for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy. You may opt-out from receiving future promotional information from us, or direct that we not share your information in the future with any affiliated companies or third parties for their direct marketing purposes, as set forth below in Section I.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to third parties without your consent.
+**What do we use your information for?**
 
-(2) Non-Personal Information:
+Any of the information we collect from you may be used in one of the following ways: 
 
-In addition to any personally identifiable information or other information that you choose to provide to us on the Website, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically collect certain web site usage information whenever you visit or interact with the Website. This information may include browser type, operating system, the page served, the time, the source of the request, the preceding page view, and other similar information. We may use this usage information for a variety of purposes, including to enhance or otherwise improve the Website. In addition, we may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively, referred to herein as a “ **Device Identifier** “). A Device Identifier is a number that is automatically assigned to your Computer, and we may identify your device by its Device Identifier. When analyzed, usage information helps us determine how our Website is used, such as what types of visitors arrive at the Website, what type of content is most popular, what type of content you may find most relevant and what type of visitors are interested in particular kinds of content and advertising. We may associate your Device Identifier or web site usage information with the personally identifiable information you provide, but we will treat the combined information as personally identifiable information. Web site usage information may be collected using various methods, such as the following:
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Web Beacons. Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Website, to monitor how users navigate the Website, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Cookies. A cookie is a data file placed on a Computer when it is used to visit the Website. Cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the Website. You may be able to remove, reject and/or disable some types of cookies using your browser’s preferences or other programs. Some features of the Website may not function properly or may operate slowly if you disable, delete, or refuse to accept cookies. Some of the cookies we use may be “Flash” cookies. A Flash cookie is a data file placed on a Computer via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Computer. While they are harmless, depending on your browser, these cookies may not be deleted when your cookies are deleted or disabled and, in some instances, they may cause your cookies to reappear in your browser. Please check your browser to determine where these types of cookies are stored and how they may be deleted or disabled.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Mobile Device Identifiers. Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such device information if you access the Website through mobile devices. Certain features of our Website may require collection of mobile phone numbers, and we may associate that phone number to mobile device identification information. Additionally, some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service. Depending on the provider, we or our third-party service providers may receive this information.
+\- To process transactions
 
-Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Website, such as the links you click on. The code is temporarily downloaded onto your Computer from our web server or a third-party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Information collected through passive means may be non-identifying or may be associated with you. In the latter case it will be treated as personally identifiable information.
+\- To administer a contest, promotion, survey or other site feature
 
-We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
 
-(3) Information You Provide About A Third Party
+\- To send periodic emails
 
-If you send someone else a communication from the Website, such as sending Website content to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise. Please be aware that when you use any send-to-a-friend functionality on our Website, your e-mail address may be included in the communication sent to your friend.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
 
-(4) Information Third Parties Provide About You
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Website. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information.
+ **How do we protect your information?**
 
-**C. OTHER USES**
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
 
-(1) E-mail Communications:
+**Do we use cookies?**
 
-If you send us an e-mail with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personally identifiable information, such as passwords, social security numbers or bank account information, to us by e-mail. Further, we may send you e-mail under the following circumstances: (a) if you request a particular service or sign up for a feature that involves e-mail communications; (b) if it relates to purchases you have made with us (e.g., product updates, customer support, etc.); (c) if we are sending you information about our other products and services; (d) if you consented to being contacted by e-mail for a particular purpose; (e) if you send us an e-mail, post information on the Website (i.e., a blog) or otherwise submit information to us electronically, we may e-mail you to follow-up or otherwise communicate with you with respect thereto; (f) to provide you legal notices or notices with respect to your use of the Website; or (g) to otherwise facilitate a transaction between us. In certain instances, we may provide you with tools on the Website that will allow you to set your preferences for receiving e-mail communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial e-mail communications from us by clicking the “unsubscribe” link or following the other instructions included at the bottom of most e-mails we send, or as provided below in Section I; provided, however, we reserve the right to send you transactional e-mails such as customer service communications.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-(2) Transfer of Assets:
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-(3) Other:
+ **Do we disclose any information to outside parties?**
 
-Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counter-notices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-(4) Sweepstakes Contests and Promotions:
+**Third party links**
 
-We may offer sweepstakes, contests, and other promotions through the Website that may require registration. By entering any promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. If you choose to enter a sweepstakes, contest or other promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the promotion’s official rules, such as on a winners list.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-(5) Third Party Ad Server Networks:
+ **California Online Privacy Protection Act Compliance**
 
-The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to the Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your Computer and track certain behavioral information regarding users of your Computer via a Device Identifier. These third party cookies and other technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons, and other third party technologies are governed by each third party’s specific privacy policy, not this one.  **While we may use a variety of companies to serve advertisements on the Website, you may wish to visit**<http://www.networkadvertising.org/optout_nonppii.asp>,  **which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.**  Opting out of one or more NAI members only means that those NAI members will no longer be able to deliver targeted content and/or ads to you, which will affect this and other web sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI opt-out may not, or may no longer, be effective. Additional information is available on the NAI’s web site accessible by the above link.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**D. PUBLIC FORUMS**
+ **Childrens Online Privacy Protection Act Compliance**
 
-We may offer chat rooms, message boards, bulletin boards or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personally identifiable information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**E. CHILDREN**
+ **Online Privacy Policy Only**
 
-The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at privacy@bcmediagroup.com. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-**F. KEEPING YOUR INFORMATION SECURE**
+**Your Consent**
 
-We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
+By using our site, you consent to our web site privacy policy. 
 
-**G. OTHER SITES/LINKS**
+**Changes to our Privacy Policy**
 
-Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-**H. THIRD PARTY APPLICATIONS**
+**Contacting Us**
 
-Third party applications may be available via the Website. The owners of these applications (“ **Third Party Owners** “) may collect personally identifiable information from you and may have their own policies and practices. We are not responsible for how Third Party Owners or their applications use your personally identifiable information. These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. We are not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it.
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
 
-**I. CONTACT & OPT-OUT INFORMATION**
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
 
-The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at privacy@bcmediagroup.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.
+celebritytoob.com 
 
-We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. Also, please note that it is not always possible to completely change, remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Website such as in forums or blogs, these communications are generally not removed by us.
+Email:  
+contact@celebritytoob.com  
 
-**J. CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES**
-
-The Website is operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Website or providing us with any information, you consent to this transfer and processing of your information in the United States.
-
-**K. SOLE STATEMENT**
-
-This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
