@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxhp.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408132540id_/https%3A//www.oxhp.com/main/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxhp.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010051035id_/https%3A//www.oxhp.com/main/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Home > Privacy Policy
 
