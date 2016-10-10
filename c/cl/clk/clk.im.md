@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126010415id_/http%3A//clk.im/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010131418id_/https%3A//clkim.com/privacy) for the most accurate reproduction.*
 
-# Clk.im | Privacy
+# 
 
-## **_Clk.im Website Privacy Policy_**
+## **_Clkim Website Privacy Policy_**
 
-Last Revised: March 2, 2015
+Last Revised: September 19, 2016
 
-Clk.im, Ltd. (“ **Clk.im** ", " **Company** ", “ **we** ” or " **us** ") respects the privacy of the users of its website at: <http://clk.im/> (including its sub-domains) (the " **Site** ") and Services ( **“User** ” or **“you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services **.**
+Clkim, Ltd. (“ **Clkim** ", " **Company** ", “ **we** ” or " **us** ") respects the privacy of the users of its website at: <http://clkim.com/> (including its sub-domains) (the " **Site** ") and Services ( **“User** ” or **“you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services **.**
 
-Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <http://clk.im/page/terms> ( **"TOU"** ), into which this Privacy Policy is incorporated by reference.
+Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <http://clkim.com/terms> ( **"TOU"** ), into which this Privacy Policy is incorporated by reference.
 
 ### **1.** ** _Your Consent (PLEASE READ CAREFULLY!)_**
 
@@ -26,7 +26,7 @@ b. The second type of information is individually identifiable information ( **�
 
 ·Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User. Users who are interested in opening an Account may be requested to provide the following details via the registration form: full name, e-mail and to choose a password.
 
-·Alternatively, the User can open an Account and signup to the Services via existing third party accounts (e.g., Facebook) used by him/her (" **Social Network Account** "). In the event that a User registers to the Services through his/her existing Social Network Account, then such Social Network Account provides us with access to certain information about such User as is stored in the User’s Social Network Account, namely, certain public information (e.g. full name, email, user ID and any other information which the User made public) and/or any other information which is detailed and displayed to the User in the notice which appears during the "Log in" with such Social Network Account process. Please read carefully such notice in order to understand what information is available to Clk.im via the Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account (such as, Facebook UserID, User access token) in order to collect and/or store, to the extent legally permissible, your full name and e-mail. Other than the abovementioned information, we do not collect or store any other information made available to us through your Social Network Account. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason. 
+·Alternatively, the User can open an Account and signup to the Services via existing third party accounts (e.g., Facebook) used by him/her (" **Social Network Account** "). In the event that a User registers to the Services through his/her existing Social Network Account, then such Social Network Account provides us with access to certain information about such User as is stored in the User’s Social Network Account, namely, certain public information (e.g. full name, email, user ID and any other information which the User made public) and/or any other information which is detailed and displayed to the User in the notice which appears during the "Log in" with such Social Network Account process. Please read carefully such notice in order to understand what information is available to Clkim via the Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account (such as, Facebook UserID, User access token) in order to collect and/or store, to the extent legally permissible, your full name and e-mail. Other than the abovementioned information, we do not collect or store any other information made available to us through your Social Network Account. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason. 
 
 ·The following information may be gathered from the User directly by Online Payment Services in order to facilitate the transactions made available by the Services: e-mail, ID/SSN, payment information (i.e. bank account number, credit card or debit card numbers). THE FINANCIAL INFORMATION DESCRIBED ABOVE IS NOT COLLECTED BY THE COMPANY.
 
@@ -82,7 +82,7 @@ We cannot ensure that third parties who gained access to the Personal Informatio
 
 ### **7.** ** _Minors_**
 
-The Site or Services are intended for Users over the age of thirteen (13). Therefore, the Company does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site or Services. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Clk.im at: [info@clkim.com](mailto:info@clkim.com) if you have reasons to suspect that we collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible.
+The Site or Services are intended for Users over the age of thirteen (13). Therefore, the Company does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site or Services. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Clkim at: [info@clkim.com](mailto:info@clkim.com) if you have reasons to suspect that we collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible.
 
 ### **8.** ** _Security_**
 
@@ -94,7 +94,7 @@ Payments to or from the Company are processed via Online Payment Services. The u
 
 ### **10.** ** _Third Party Service Providers_**
 
-We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Clk.im uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and <http://www.google.com/intl/en/analytics/privacyoverview.html>, Clickbank which privacy policy is located at <https://accounts.clickbank.com/privacy.html> and Paypal which privacy policy is located at   <https://www.paypal.com/il/webapps/mpp/ua/legalhub-full> . However, Clk.im does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices.
+We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Clkim uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and <http://www.google.com/intl/en/analytics/privacyoverview.html>, Clickbank which privacy policy is located at <https://accounts.clickbank.com/privacy.html> and Paypal which privacy policy is located at   <https://www.paypal.com/il/webapps/mpp/ua/legalhub-full> . However, Clkim does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices.
 
 ### **11.** ** _Tracking Technologies_**
 
@@ -110,7 +110,7 @@ We may transfer information collected about you, including Personal Information,
 
 ### **14.** ** _Direct Marketing_**
 
-You hereby agree that we may use your contact details you provided us with for the purpose of informing you regarding our products and services which may interest and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided. You may withdraw your consent via sending a written notice to Clk.im by e-mail to the following e-mail address: [support@clkim.com](mailto:support@clkim.com) or alternatively following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.
+You hereby agree that we may use your contact details you provided us with for the purpose of informing you regarding our products and services which may interest and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided. You may withdraw your consent via sending a written notice to Clkim by e-mail to the following e-mail address: [support@clkim.com](mailto:support@clkim.com) or alternatively following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.
 
 ### **15.** ** _Changes to the Privacy Policy_**
 
