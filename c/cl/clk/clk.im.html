@@ -1,45 +1,67 @@
-<!--The following is the downloaded HTML source of the clk.im privacy policy that was archived on 2015-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151126010415id_/http%3A//clk.im/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clk.im privacy policy that was archived on 2016-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161010131418id_/https%3A//clkim.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><!-- BEGIN HEAD --><head>
-    <base href="http://clk.im">
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <title>Clk.im |     Privacy
-</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://script.crazyegg.com/pages/scripts/0015/6610.js?439021" async="" type="text/javascript"></script><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQ8GU1JSGwoFU1ZQBgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta content="" name="description">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/ico/favicon.png?v=1023">
 
-    <meta property="og:title" content="Link Shortening Supercharged">
-    <meta property="og:image" content="http://clk.im/assets/frontend/base/img/content/backgrounds/bg56b.jpg">
-    <meta property="og:url" content="http://clk.im">
-    <meta property="og:description" content="White label link shortener for Social Media Managers">
+    <title>            
+    </title>
 
-    <!-- BEGIN GLOBAL MANDATORY STYLES -->
-    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all" rel="stylesheet" type="text/css">
+    <link rel="manifest" href="/manifest.json">
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d10lpsik1i8c69.cloudfront.net/w.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+        appId: "4dde4db0-7cfc-4d19-a226-b18ea9abcfde",
+        safari_web_id: '',
+        autoRegister: false,
+        notifyButton: {
+            enable: true, /* Set to false to hide */
+            position: 'bottom-left'
+        }
+    }]);
+</script>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/css/bootstrap.min.css?v=1023" rel="stylesheet">
 
-    <link rel="stylesheet" href="http://clk.im/assets/frontend/plugins/socicon/socicon.css">
-    <link href="http://clk.im/assets/frontend/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/animate/animate.min.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/revo-slider/css/settings.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/owl-carousel/owl.theme.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/owl-carousel/owl.transitions.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/plugins/fancybox/jquery.fancybox.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/base/css/plugins.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/base/css/components.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/base/css/themes/green3.css" rel="stylesheet">
-<link href="http://clk.im/assets/frontend/base/css/custom.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/css/ie10-viewport-bug-workaround.css?v=1023" rel="stylesheet">
 
-    <link rel="icon" href="http://clk.im/favicon.png" type="image/x-icon">
+    <!-- Jssor slider -->
+    <link href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/css/jssor.css?v=1023" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/css/style.css?v=1023" rel="stylesheet">
+
+    <!-- Theme skins -->
+    <link id="skin" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/skins/clkim.css?v=1023" rel="stylesheet">
+
+    <!-- Favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-57x57.png?v=1023">
+<link rel="apple-touch-icon" sizes="60x60" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-60x60.png?v=1023">
+<link rel="apple-touch-icon" sizes="72x72" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-72x72.png?v=1023">
+<link rel="apple-touch-icon" sizes="76x76" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-76x76.png?v=1023">
+<link rel="apple-touch-icon" sizes="114x114" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-114x114.png?v=1023">
+<link rel="apple-touch-icon" sizes="120x120" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-120x120.png?v=1023">
+<link rel="apple-touch-icon" sizes="144x144" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-144x144.png?v=1023">
+<link rel="apple-touch-icon" sizes="152x152" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-152x152.png?v=1023">
+<link rel="apple-touch-icon" sizes="180x180" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/apple-icon-180x180.png?v=1023">
+<link rel="icon" type="image/png" sizes="192x192" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/android-icon-192x192.png?v=1023">
+<link rel="icon" type="image/png" sizes="32x32" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/favicon-32x32.png?v=1023">
+<link rel="icon" type="image/png" sizes="96x96" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/favicon-96x96.png?v=1023">
+<link rel="icon" type="image/png" sizes="16x16" href="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/favicon/favicon-16x16.png?v=1023">
     <script>
         var gParams = {
-            base_url: 'http://clk.im'
+            base_url: 'https://clkim.com/',
+            account_url: 'https://dashboard.clkim.com',
+            api_url: 'https://api.clkim.com'
         }
     </script>
 
@@ -53,134 +75,307 @@
     ga('create', 'UA-55270039-1', 'auto');
     ga('send', 'pageview');
 
-</script>
+</script><!-- end Google Analytics -->
+    <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+                0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+            for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+        mixpanel.init("a3835c3551406eabd96a29c6f5727290");</script><!-- end Mixpanel -->
 
-<!-- Facebook Pixel Code -->
-<script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-            document,'script','//connect.facebook.net/en_US/fbevents.js');
 
-    fbq('init', '684081668323994');
-    fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none"
-               src="https://www.facebook.com/tr?id=684081668323994&ev=PageView&noscript=1"
-            /></noscript>
-<!-- End Facebook Pixel Code -->
+        <style>
+        article.post p {
+            font-size:16px;
+            color:#000000;
+        }
+    </style>
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="">
-<!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
-<!-- BEGIN: HEADER -->
-<header class="c-layout-header c-layout-header-2 c-layout-header-dark-mobile c-header-transparent-dark" data-minimize-offset="80">
-    <div class="c-navbar">
+
+<body style="position: relative">
+
+<!-- Start Navbar -->
+<div id="navbar">
+    <nav class="navbar yamm navbar-dark navbar-fixed-top">
+        <div class="container" style="position:relative">
+
+            <div class="actions">
+                <a href="http://help.clkim.com" target="_blank" class="white">Support</a>
+                &nbsp;|&nbsp;
+                                    <a href="#" data-toggle="modal" data-target="#modal-login" style="font-weight:bold;color:#5acb2d">Login</a>
+                
+            </div>
+
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://clkim.com/"><img src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/logo-white.png?v=1023" alt="theme logo" style="width:121px;"></a>
+            </div>
+
+
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right" style="margin-top:10px">
+                    <li class="active"><a href="https://clkim.com/#branded-links" class="scroll-to">Branded Links</a></li>
+                    <li><a href="https://clkim.com/#smart-redirects" class="scroll-to">Smart Redirects</a></li>
+                    <li><a href="https://clkim.com/#retargeting" class="scroll-to">Retargeting on Click</a></li>
+                    <li><a href="https://clkim.com/#link-monetization" class="scroll-to">Link Monetization</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">More <span class="caret"></span></a>
+                        <ul class="dropdown-menu" style="display: none;">
+                            <li><a href="https://clkim.com/#pricing" class="scroll-to">Pricing</a></li>
+                            <li><a href="https://clkim.com/#features" class="scroll-to">Features</a></li>
+                            <li><a href="http://clk.im/faq" target="_blank">FAQ</a></li>
+                            <li><a href="https://clkim.com/contact">Contact</a></li>
+                            <li>
+                                <a href="javascript:;" class="trigger">Detailed Plans</a>
+                                <ul class="dropdown-menu sub-menu1" style="display: none;">
+                                    <li><a href="https://clkim.com/pages/core">Clkim Core</a></li>
+                                    <li><a href="https://clkim.com/pages/starter">Clkim Starter</a></li>
+                                    <li><a href="https://clkim.com/pages/business">Clkim Business</a></li>
+                                    <li><a href="https://clkim.com/pages/expert">Clkim Expert</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div><!--/.nav-collapse -->
+
+        </div>
+    </nav>
+</div>
+<!-- End Navbar -->
+
+    <!-- Start Inner head -->
+    <div class="parallax inner-head">
         <div class="container">
-            <!-- BEGIN: BRAND -->
-            <div class="c-navbar-wrapper clearfix">
-                <div class="c-brand c-pull-left">
-                    <a href="http://clk.im" class="c-logo">
-                        <span style="color:white;font-size:30px;"><i class="glyphicon glyphicon-new-window"></i> Clk.im</span>
-                    </a>
-                    <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">
-                        <span class="c-line"></span>
-                        <span class="c-line"></span>
-                        <span class="c-line"></span>
-                    </button>
-                    <button class="c-topbar-toggler" type="button">
-                        <i class="fa fa-ellipsis-v"></i>
-                    </button>
+            <div class="row">
+                <div class="col-md-12">
+                    <i class="fa fa-list-ol"></i>
+                    <h4 style="margin-top:15px">            Privacy
+    </h4>
+                    <!--<ol class="breadcrumb">
+                        <li><a href="#">Home</a></li>
+                        <li class="active">Singlepost</li>
+                    </ol>-->
                 </div>
-                <!-- END: BRAND -->
-                <!-- BEGIN: HOR NAV -->
-                <!-- BEGIN: LAYOUT/HEADERS/MEGA-MENU -->
-                <!-- BEGIN: MEGA MENU -->
-                <!-- Dropdown menu toggle on mobile: c-toggler class can be applied to the link arrow or link itself depending on toggle mode -->
-                <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-theme c-fonts-uppercase c-fonts-bold">
-                    <ul class="nav navbar-nav c-theme-nav">
-                        <li>
-                            <a href="http://clk.im/page/what-is-clkim" class="c-link dropdown-toggle">What is Clk.im<span class="c-arrow c-toggler"></span></a>
-                        </li>
-                        <li>
-                            <a href="http://clk.im/features" class="c-link dropdown-toggle">Features<span class="c-arrow c-toggler"></span></a>
-                        </li>
-                        <li class="c-menu-type-classic">
-                            <a href="http://clk.im/pricing" class="c-link dropdown-toggle">Pricing<span class="c-arrow c-toggler"></span></a>
-                        </li>
+            </div>
+        </div>
+    </div>
+    <!-- End Inner head -->
 
-                        
-                                <li>
-                                    <a href="javascript:;" data-toggle="modal" data-target="#signup-form" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-white c-btn-circle c-btn-uppercase c-btn-sbold"><i class="icon-user-follow"></i> Sign up</a>
+    <!-- Start contain wrapp -->
+    <div class="contain-wrapp padding-bot60">
+        <div class="container">
+            <div class="row">
+                
+    <!-- Start article -->
+    <div class="col-md-12 col-sm-12">
+        <!-- Start post 1 -->
+        <article class="post">
 
-                                </li>
-                                <li>
-                                    <a href="javascript:;" data-toggle="modal" data-target="#login-form" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-white c-btn-circle c-btn-uppercase c-btn-sbold"><i class="icon-user"></i> Login</a>
-                                </li>
+            <div class="post-heading">
+                <h5><a href="#">&nbsp;</a></h5>
+            </div>
+                            <h2 dir="LTR" style="margin-left: 21.3pt;"><strong><u>Clkim Website Privacy Policy </u></strong></h2>
+<p dir="LTR" style="margin-left: 21.3pt;">Last Revised: September 19, 2016</p>
+<p dir="LTR" style="margin-left: 21.3pt;">Clkim, Ltd. (“<strong>Clkim</strong>", "<strong>Company</strong>", “<strong>we</strong>” or "<strong>us</strong>") respects the privacy of the users of its website at: <a href="http://clkim.com/">http://clkim.com/</a> (including its sub-domains) (the "<strong>Site</strong>") and Services (<strong>“User</strong>” or <strong>“you</strong>”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services<strong>.</strong></p>
+<p dir="LTR" style="margin-left: 21.3pt;">Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <a href="http://clkim.com/terms">http://clkim.com/terms</a> (<strong>"TOU"</strong>), into which this Privacy Policy is incorporated by reference<span dir="RTL">.</span></p>
+<h3 dir="LTR"><strong>1.</strong><strong><u>Your Consent (PLEASE READ CAREFULLY!)</u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">BY(A) ENTERING, CONNECTING TO, ACCESSING OR USING THE SITE, (B) OPENING AN ACCOUNT, (C) ACTIVELY USING THE SERVICES FOR THE PURPOSE OF SHORTENING URLS, MANAGING AND MONETIZING SUCH URLS BY USING ADS, AND/OR (D) EXPOSING YOURSELF TO URLS AND/OR TO ADS MADE AVAILABLE VIA THE SERVICES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE "<strong>PRIVACY POLICY</strong>"), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT ENTER INTO, CONNECT TO, ACCESS OR USE THE SITE OR SERVICES.</p>
+<h3 dir="LTR"><strong>2.</strong><strong><u>Which information we may collect on our Users? </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">We may collect two types of data and information from our Users:</p>
+<p dir="LTR">a. The first type of information is non-identifiable and anonymous information (“<strong>Non-personal Information</strong>”). <strong>We are not aware of the identity of the User from whom we have collected the Non-personal Information.</strong> Non-Personal Information is any unconcealed information which does not enable identification of an individual User, and which is available to us while such User is entering and/or using the Site or Services. Non-personal Information which is being gathered consists of technical information, behavioral information and aggregated information, and may contain, among other things, the activity of the User on the Site or Services, type of operating system, User's 'click-stream' or searches on the Site or Services, type and version of browser or device, keyboard language, screen resolution, internet connectivity, details regarding User traffic and advertising delivery, etc. With respect to URLs, we may collect the following metrics: time and date of creation, the applicable User Account, referring websites or services, history of sharing the URLs via third party sites or services (including Social Networks), etc.</p>
+<p dir="LTR">b. The second type of information is individually identifiable information (<strong>“Personal Information</strong>”).<strong> This information may identify an individual or may be of a private and/or sensitive nature</strong>.</p>
+<p dir="LTR">·Users of the Site or Services automatically provide their IP address (or Mac Address, as applicable) mainly for enhancing the User's experience and for geolocation and security purposes as further detailed below.</p>
+<p dir="LTR">·Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User. Users who are interested in opening an Account may be requested to provide the following details via the registration form: full name, e-mail and to choose a password.</p>
+<p dir="LTR">·Alternatively, the User can open an Account and signup to the Services via existing third party accounts (e.g., Facebook) used by him/her ("<strong>Social Network Account</strong>"). In the event that a User registers to the Services through his/her existing Social Network Account, then such Social Network Account provides us with access to certain information about such User as is stored in the User’s Social Network Account, namely, certain public information (e.g. full name, email, user ID and any other information which the User made public) and/or any other information which is detailed and displayed to the User in the notice which appears during the "Log in" with such Social Network Account process. Please read carefully such notice in order to understand what information is available to Clkim via the Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account (such as, Facebook UserID, User access token) in order to collect and/or store, to the extent legally permissible, your full name and e-mail. Other than the abovementioned information, we do not collect or store any other information made available to us through your Social Network Account. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason.&nbsp;</p>
+<p dir="LTR">·The following information may be gathered from the User directly by Online Payment Services in order to facilitate the transactions made available by the Services: e-mail, ID/SSN, payment information (i.e. bank account number, credit card or debit card numbers). THE FINANCIAL INFORMATION DESCRIBED ABOVE IS NOT COLLECTED BY THE COMPANY.</p>
+<p dir="LTR">·Personal Information may also be collected from the details the User may provide in the Contact Form on the Site, which includes the User's e-mail address and free text. Furthermore, the User may optionally provide his/her full name. Additional information may be requested in the future.</p>
+<p dir="LTR">For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.</p>
+<p dir="LTR"><strong>We do not collect any Personal Information from you or related to you without your approval, which is obtained, inter alia, through your active acceptance to the Terms of Use and the Privacy Policy.</strong></p>
+<h3 dir="LTR"><strong>3.</strong><strong><u>How Do We Collect Information on Our Users?&nbsp; </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">There are two main methods we use:</p>
+<p dir="LTR">a. <strong>We collect information through your entry and use of the Site or Services</strong>. In other words, when you are using the Site or Services we are aware of it and may gather, collect and store the information relating to such usage, either independently or through the help of third-party service providers as detailed below.</p>
+<p dir="LTR">b. <strong>We collect information which you provide us voluntarily</strong>. We collect Personal Information when you, at your discretion, decide to provide us when opening an Account. We may also collect Personal Information when you register and open an Account through your Social Network Account. When registering through your Social Network Account, you agree to grant us access to Personal Information stored in your Social Network Account, as detailed above. We may also collect Personal information which you voluntarily provide when you fill in the Contact Form on the Site. We may gather, collect and store the Personal Information either independently or through the help of our authorized third-party service providers as detailed below.&nbsp;</p>
+<h3 dir="LTR"><strong>4.</strong><strong><u>What are the Purposes of the Collection of Information? </u></strong></h3>
+<p dir="LTR" style="margin-left: -14.7pt;">&nbsp;&nbsp; We collect Non-personal Information and Personal Information in order to provide the Services.</p>
+<p dir="LTR" style="margin-left: 21.3pt;">Non-personal Information is collected in order to, inter alia:&nbsp;&nbsp;</p>
+<ul>
+<li dir="LTR">Use it for statistical and research purposes and for customization and improvement of our Services.</li>
+<li dir="LTR">Improve our metrics and the quality of the Services and gather statistics for commercial purposes.</li>
+</ul>
+<p dir="LTR" style="margin-left: .25in;">Personal Information is collected in order to:&nbsp;&nbsp;</p>
+<ul>
+<li dir="LTR">Improve the quality of the Site or Services by formulating, customizing and enhancing the User's experience.</li>
+<li dir="LTR">Verify the User's identity when he/she signs in to the Services, as well as verifying User's identity for the purpose of dealing with fraudulent use of our Services.</li>
+<li dir="LTR">Be able to inform you regarding our products and services which may interest you, and to send to you other marketing material, transmitted to you through the contact information you provided us.</li>
+<li dir="LTR">Enable the User to use the Social Features.</li>
+<li dir="LTR">Be able to contact Users for the purpose of providing them with technical assistance and support.</li>
+<li dir="LTR">Determine general geolocation information (i.e., country) from which the User's computer or device is connected to the Internet in order to serve the Ads and Services to Users by location, as well as in order to safeguard our Site and Services.&nbsp;</li>
+</ul>
+<p dir="LTR" style="margin-left: .5in;">&nbsp;</p>
+<h3 dir="LTR"><strong>5.</strong><strong><u>Sharing Information with Third Parties</u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">We may employ individuals and companies to perform functions on our behalf (e.g. processing credit card payments, analyzing data, providing Ads, etc.). We may share certain Personal Information with such third parties so they could perform their functions for the Company with respect to the Services.</p>
+<p dir="LTR" style="margin-left: 21.3pt;">&nbsp;The Company may also share Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests; (e) respond to claims that any content available on the Site or Services violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of the Company, its Users, or the general public; (h) when the Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold, store and/or manage your Personal Information through the Company's authorized third parties service providers (including, as applicable, their affiliates as necessary to provide us with the requested services), as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) cooperate with third parties for the purpose of enhancing the User's experience; and/or (k) pursuant to your explicit approval prior to the disclosure.</p>
+<p dir="LTR" style="margin-left: 21.3pt;">For avoidance of doubt, the Company may transfer and disclose <u>Non-personal Information</u> to third parties at its own discretion.</p>
+<h3 dir="LTR"><strong>6.</strong><strong><u>Deletion or Modification of Personal Information</u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">If for any reason you wish to delete or modify your Personal Information please send us an e-mail with adequate detail of your request to <a href="mailto:support@clkim.com">support@clkim.com</a><strong><em>,</em></strong> and we will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for as long as reasonably required for the purposes of which such Personal Information was collected, including without limitation, for future analytics and analysis, in order to comply with our legal or business requirements or obligations and to resolve disputes or to enforce our Terms, all as permitted under any applicable privacy laws. Aggregated and/or anonymous information derived from your use of your Account, the Site and/or Services may remain on our servers indefinitely.</p>
+<p dir="LTR" style="margin-left: 21.3pt;">We cannot ensure that third parties who gained access to the Personal Information deleted your Personal Information and cannot monitor their use of such information.</p>
+<h3 dir="LTR"><strong>7.</strong><strong><u>Minors</u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">The Site or Services are intended for Users over the age of thirteen (13). Therefore, the Company does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site or Services. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Clkim at: <a href="mailto:info@clkim.com">info@clkim.com</a> if you have reasons to suspect that we collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible.</p>
+<h3 dir="LTR"><strong>8.</strong><strong><u>Security </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">We take reasonable measures to maintain the security and integrity of our Site, Services and User information and prevent unauthorized access to it or use thereof through generally accepted industry standard technologies and internal procedures. Please note, however, that there are inherent risks in transmission of information over the Internet or other methods of electronic storage and we cannot guarantee that unauthorized access or use of your Personal Information will never occur.</p>
+<h3 dir="LTR"><strong>9.</strong><strong><u>Payment </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">Payments to or from the Company are processed via Online Payment Services. The use of the Online Payment Services is at your sole discretion and liability. IT IS YOUR RESPONSIBILITY TO ABIDE BY ALL THE TERMS SPECIFIED BY THE ONLINE PAYMENT SERVICES' PROVIDERS IN THEIR TERMS OF USE AND PRIVACY POLICIES, INCLUDING BUT NOT LIMITED TO ANY AGE RESTRICTIONS SPECIFIED THEREIN. You acknowledge that you are fully assuming the risks of conducting any transactions via the Online Payment Services in connection with the Services.</p>
+<h3 dir="LTR"><strong>10.</strong><strong><u>Third Party Service Providers </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Clkim uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and <a href="http://www.google.com/intl/en/analytics/privacyoverview.html">http://www.google.com/intl/en/analytics/privacyoverview.html</a>, Clickbank which privacy policy is located at <a href="https://accounts.clickbank.com/privacy.html">https://accounts.clickbank.com/privacy.html</a> and Paypal which privacy policy is located at &nbsp;&nbsp;<a href="https://www.paypal.com/il/webapps/mpp/ua/legalhub-full">https://www.paypal.com/il/webapps/mpp/ua/legalhub-full</a> . However, Clkim does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices.</p>
+<h3 dir="LTR"><strong>11.</strong><strong><u>Tracking Technologies </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">When you access or use the Site or Services, the Company may and may allow authorized third party service providers (e.g. third party advertisers) to place or recognize industry-wide technologies such as cookies and/or other tracking technologies ("<strong>Tracking Technologies</strong>"). Such Tracking Technologies are stored on your computer. Tracking Technologies may enable, inter alia, automatic activation of certain features, and make your experience and usage simpler, convenient and effortless. We and/or our authorized third party service providers may use both session cookies (which expire once you close the Site or leave the Services) and persistent cookies (which stay on User's device until he/she deletes them). It is easy to prohibit and/or delete the Tracking Technologies. For example, most browsers will allow&nbsp;you&nbsp;to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if&nbsp;you&nbsp;block or erase Tracking Technologies, your online experience may be limited. Such Tracking Technologies may store non-personal information (such as the different pages viewed by a User within the Site) as well as User persistent identifier and geo-location data, which will be collected in accordance with the terms specified herein.</p>
+<h3 dir="LTR"><strong>12.</strong><strong><u>Social Features</u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">Our Site may include social media features ("<strong>Social Features</strong>"), for example the Facebook Like and Share buttons. The Social Features are operated or allow for social integration with certain third party social networks or third party platforms (“<strong>Social Network</strong>” or “<strong>Platform</strong>”). These Social Networks and Platforms are created and maintained by third parties who are not affiliated with and/or controlled by the Company. If you enable this integration with such Social Networks and Platforms, your use of the Social Features is subject to the applicable third party Social Network’s or Platform’s terms of use and privacy policies. You should ensure that you read their terms of use and privacy policies to understand how they treat your information and in order to understand the methods for changing the privacy or sharing settings on such services. If you do not agree to the practices described in such terms you should not allow our Site or Services to interact with such Social Networks or Platforms, however you may find that you are not able to enjoy all the features that may be made available via our Site or Services. You understand that where you allow interaction with any third party Social Network or Platform, we may share data about you with your contacts (and vice versa) in order that you may enjoy social elements. This data may include, without limitation, your name and your social media profile picture. By using the Social Features you hereby agree and understand that the applicable Social Networks or Platforms may collect certain Personal Information, such as your IP address, Non-personal Information and may set cookies and/or other web tracking technologies to enable the functionality of the Social Features. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the Social Features. You hereby understand and agree that when you share content via Social Networks or Platforms that your content may become public and others may re-post-it.</p>
+<h3 dir="LTR"><strong>13.</strong><strong><u>International Data Transfer </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">We may transfer information collected about you, including Personal Information, to affiliated entities, or to other third party service provides (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that we may transfer such information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to such transfer of information.</p>
+<h3 dir="LTR"><strong>14.</strong><strong><u>Direct Marketing </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">You hereby agree that we may use your contact details you provided us with for the purpose of informing you regarding our products and services which may interest and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided. You may withdraw your consent via sending a written notice to Clkim by e-mail to the following e-mail address: <a href="mailto:support@clkim.com">support@clkim.com</a> or alternatively following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.</p>
+<h3 dir="LTR"><strong>15.</strong><strong><u>Changes to the Privacy Policy </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">The terms of this Privacy Policy will govern the use of the Site and Services and any information collected therein. The Company reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by e-mail, whichever is the earlier. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes. In the event that the Terms should be amended to comply with any legal requirements, the amendments may take effect immediately, or as required by the law and without any prior notice.</p>
+<h3 dir="LTR"><strong>16.</strong><strong><u>Got any Questions? </u></strong></h3>
+<p dir="LTR" style="margin-left: 21.3pt;">If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address: <a href="mailto:info@clkim.com">info@clkim.com</a> and we will make an effort to reply within a reasonable timeframe.</p>
+<p dir="LTR" style="margin-left: 21.3pt;">&nbsp;</p>
+            
+            
+        </article>
+        <!-- End post 1 -->
+
+        <div class="divider  margintop20 marginbot40"></div>
+
+    </div>
+    <!-- End article -->
+
+            </div>
+        </div>
+    </div>
+    <!-- End contain wrapp -->
 
 
-                            
+    
+<!-- Start footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <div class="widget">
+                    <h5>About Us</h5>
+                    <img src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/logo-icon-2.png?v=1023" style="width:64px;height:60px;" class="alignleft" alt="">
+
+                    <p>
+                        Clkim was built to enable non-technical users to shorten, share and monetize their content in an elegant &amp; highly effective way.<br>
+                        Our technology was hand crafted by industry experts, fine tuned by our community and tailored to your needs.
+                    </p>
+
+                    <a href="https://www.facebook.com/clkimssp" target="_blank"><i class="fa fa-facebook fa-2x icon-square"></i></a>
+                    <a href="https://twitter.com/clkimssp" target="_blank"><i class="fa fa-twitter fa-2x icon-square"></i></a>
+                    <a href="https://plus.google.com/+ClkImSSP" target="_blank"><i class="fa fa-google-plus fa-2x icon-square"></i></a>
+                    <a href="https://www.youtube.com/channel/UCbnJiftJAkWDz4gkahmbULg" target="_blank"><i class="fa fa-youtube fa-2x icon-square"></i></a>
+                    <a href="https://www.linkedin.com/company/clk-im" target="_blank"><i class="fa fa-linkedin fa-2x icon-square"></i></a>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <div class="widget">
+                    <h5>&nbsp;</h5>
+                    <ul class="list-icons link-list">
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/team">Team</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/page/about">About Us</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/contact">Contact Us</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/jobs">Jobs</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="http://blog.clkim.com" target="_blank">Blog</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/referral-program">Referral Program</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/page/integrations">Integrations</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/#features">Features</a></li>
+
                     </ul>
-                </nav>
-                <!-- END: MEGA MENU -->
-                <!-- END: LAYOUT/HEADERS/MEGA-MENU -->
-                <!-- END: HOR NAV -->
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <div class="widget">
+                    <h5>&nbsp;</h5>
+                    <ul class="list-icons link-list">
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/pages/videos">Video Tutorials</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/#pricing">Pricing</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/pricing/compare">Compare Plans</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/page/compare-services">Compare Services</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/page/clkim-for-brands">Clkim for Brands</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/terms">Terms &amp; Conditions</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/privacy">Privacy Policy</a></li>
+                        <li><i class="fa fa-angle-double-right"></i> <a href="https://clkim.com/cookies-policy">Cookies Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <div class="widget">
+                    <h5>Integration tools</h5>
+                    <ul class="photostream">
+                        <li><i class="fa fa-star fa-2x icon-square icon-bordered" title="Browser Bookmarklet"></i></li>
+                        <li><i class="fa fa-wordpress fa-2x icon-square icon-bordered" title="WordPress Plugin"></i></li>
+                        <li><i class="fa fa-chrome fa-2x icon-square icon-bordered" title="Chrome Extension"></i></li>
+                        <li><i class="fa fa-firefox fa-2x icon-square icon-bordered" title="FireFox extension"></i></li>
+                        <li><i class="fa fa-code fa-2x icon-square icon-bordered" title="Developers API"></i></li>
+                        <li><i class="fa fa-android fa-2x icon-square icon-bordered" title="Android App"></i></li>
+                        <li><i class="fa fa-apple fa-2x icon-square icon-bordered" title="iOS App"></i></li>
+                        <li><i class="fa fa-question fa-2x icon-square icon-bordered" title="Coming Soon"></i></li>
+                        <li><i class="fa fa-question fa-2x icon-square icon-bordered" title="Coming Soon"></i></li>
+                        <li><i class="fa fa-question fa-2x icon-square icon-bordered" title="Coming Soon"></i></li>
+                    </ul>
+                </div>
+                <div class="widget">
+                    <a href="#" class="btn btn-primary show-zopim">Chat with us</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container">
+                <div class="subfooter">
+                    <p>2016 © Copyright <a href="http://clkim.com">Clkim Ltd.</a> Made with  ❤ in Jerusalem.</p>
+                </div>
             </div>
         </div>
     </div>
-</header><!-- END: HEADER -->
-<!-- END: LAYOUT/HEADERS/HEADER-1 -->
-<!-- BEGIN: CONTENT/USER/FORGET-PASSWORD-FORM -->
-<div class="modal fade c-content-login-form" id="forget-password-form" role="dialog">
-    <div class="modal-dialog">
-        <div class="modal-content c-square">
-            <div class="modal-header c-no-border">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-            </div>
-            <div class="modal-body">
-                <h3 class="c-font-24 c-font-sbold">Password Recovery</h3>
-                <p>
-                    To recover your password please fill in your email address
-                </p>
-                <form method="POST" action="http://clk.im/password/email" accept-charset="UTF-8" class="form-pass-reset" id=""><input name="_token" type="hidden" value="rW189b7eDWvl05YIzYo414psSHAXDmjIcNb1RftK">
-                    <div id="form-pass-reset-response"></div>
-                    <div class="form-group">
-                        <label for="forget-email" class="hide">Email</label>
-                        <input type="email" name="email" class="form-control input-lg c-square" id="forget-email" placeholder="Email">
-                    </div>
-                    <div class="form-group">
-                        <button type="submit" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square c-btn-login">Submit</button>
-                        <a href="javascript:;" class="c-btn-forgot" data-toggle="modal" data-target="#login-form" data-dismiss="modal">Back To Login</a>
-                    </div>
-                </form>
-            </div>
-            <div class="modal-footer c-no-border">
-                <span class="c-text-account">Don't Have An Account Yet ?</span>
-                <a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn c-btn-dark-1 btn c-btn-uppercase c-btn-bold c-btn-slim c-btn-border-2x c-btn-square c-btn-signup">Signup!</a>
-            </div>
-        </div>
-    </div>
-</div><!-- END: CONTENT/USER/FORGET-PASSWORD-FORM -->
-<!-- BEGIN: CONTENT/USER/SIGNUP-FORM -->
-<div class="modal fade c-content-login-form" id="signup-form" role="dialog">
-    <div class="modal-dialog">
-        <div class="modal-content c-square">
-            <div class="modal-header c-no-border">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-            </div>
-            <div class="modal-body">
-                <h3 class="c-font-24 c-font-sbold">Create An Account</h3>
-                <p>
-                    Please fill in below form to create an account with us
-                </p>
-                <form method="POST" action="http://clk.im/register" accept-charset="UTF-8" class="form-signup" id=""><input name="_token" type="hidden" value="rW189b7eDWvl05YIzYo414psSHAXDmjIcNb1RftK">
+</footer>
+<!-- End footer -->
 
-                    <input type="hidden" name="product">
+<!-- Modals -->
+<div class="modal fade" id="modal-login" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+                <h4>Login with one click</h4>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="https://clkim.com/login/facebook" class="btn btn-blue btn-icon btn-lg" style="width:100%">Facebook <i class="fa fa-facebook"></i></a>
+                    </div>
+                    <div class="col-md-6">
+                        <a href="https://clkim.com/login/google" class="btn btn-blue btn-icon btn-lg" style="width:100%">Google <i class="fa fa-google"></i></a>
+                    </div>
+                </div>
+
+                <div class="row">&nbsp;</div>
+
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h6>- or login with your email -</h6>
+                    </div>
+                </div>
+
+                <form method="POST" action="https://clkim.com/login" accept-charset="UTF-8" class="form-login" id=""><input name="_token" type="hidden" value="oqUGj93E4yRR8hCsCeC1MzU1nSlJh8RW7RezxOWp">
+
                     <div id="form-signup-response" class=""></div>
-
-                    <div class="form-group">
-                        <label for="signup-firstname" class="hide">Email</label>
-                        <input type="text" name="first_name" class="form-control input-lg c-square" id="" placeholder="First Name">
-                    </div>
 
                     <div class="form-group">
                         <label for="signup-email" class="hide">Email</label>
@@ -192,444 +387,264 @@
                         <input type="password" name="password" class="form-control input-lg c-square" id="signup-password" placeholder="Password">
                     </div>
 
+
+                    <div class="row">
+                        <div class="pull-right">
+                            <button class="btn btn-primary btn-lg" type="submit">Login</button>
+                        </div>
+                        <div class="pull-left">
+                            <a href="#" class="show-pass-reset">Forgot your password?</a>
+                        </div>
+                    </div>
+
+
+                </form>
+
+
+            </div>
+
+        </div>
+    </div>
+</div><div class="modal fade" id="modal-pass-reset" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+                <h4>Password Recovery</h4>
+                <p>
+                    To recover your password please fill in your email address
+                </p>
+
+                <div class="row">&nbsp;</div>
+
+                <form method="POST" action="https://clkim.com/password/email" accept-charset="UTF-8" class="form-pass-reset" id=""><input name="_token" type="hidden" value="oqUGj93E4yRR8hCsCeC1MzU1nSlJh8RW7RezxOWp">
+
+                    <div class="response"></div>
+
                     <div class="form-group">
-                        <label for="signup-cpassword" class="hide">Confirm Password</label>
-                        <input type="password" name="cpassword" class="form-control input-lg c-square" id="signup-cpassword" placeholder="Verify Password">
+                        <label for="signup-email" class="hide">Email</label>
+                        <input type="email" name="email" class="form-control input-lg c-square" id="" placeholder="Email">
+                    </div>
+
+                    <div class="row">
+                        <div class="pull-right">
+                            <img class="loading" src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/AjaxLoader.gif?v=1023" alt="Please wait" style="display:none;margin-right:20px">
+                            <button class="btn btn-primary btn-lg btn-submit" type="submit">Submit</button>
+                            <button class="btn btn-primary btn-lg btn-close" data-dismiss="modal" style="display: none;">Close</button>
+                        </div>
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</div><div class="modal fade" id="modal-signup" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-body">
+
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
+
+                <h3><span style="color:#3eb5e1">Create</span> an Account</h3>
+                <h4>Signup with one click</h4>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="https://clkim.com/login/facebook" class="btn btn-blue btn-icon btn-lg" style="width:100%">Facebook <i class="fa fa-facebook"></i></a>
+                    </div>
+                    <div class="col-md-6">
+                        <a href="https://clkim.com/login/google" class="btn btn-blue btn-icon btn-lg" style="width:100%">Google <i class="fa fa-google"></i></a>
+                    </div>
+                </div>
+
+                <div class="row">&nbsp;</div>
+
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h6>- or signup with your email -</h6>
+                    </div>
+                </div>
+
+                <form method="POST" action="https://clkim.com/register" accept-charset="UTF-8" class="form-signup"><input name="_token" type="hidden" value="oqUGj93E4yRR8hCsCeC1MzU1nSlJh8RW7RezxOWp">
+
+                    <div class="response"></div>
+
+                    <div class="form-group">
+                        <label for="signup-plan" class="hide">Select a plan</label>
+                        <select name="plan" id="plan" class="form-control input-lg c-square">
+                            <option value="19">Clkim Core Package</option>
+                            <option value="1">Starter Package</option>
+                            <option value="3">Business Package</option>
+                            <option value="5">Expert Package</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="signup-firstname" class="hide">First Name</label>
+                        <input type="text" name="first_name" class="form-control input-lg c-square" id="" placeholder="First Name">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="signup-email" class="hide">Email</label>
+                        <input type="email" name="email" class="form-control input-lg c-square" id="" placeholder="Email">
                     </div>
 
                     <div class="checkbox">
                         <label>
-                            <input type="checkbox" name="terms" value="1"> I agree to the <a href="http://clk.im/page/terms" target="_blank">terms and conditions</a>
+                            <input type="checkbox" name="terms" value="1"> I agree to the <a href="#" target="_blank">terms and conditions</a>
                         </label>
                     </div>
-                <div class="clearfix">
-                    <div class="c-content-divider c-divider-sm c-icon-bg c-bg-grey c-margin-b-20">
-                        <span>or signup with</span>
-                    </div>
-                    <ul class="c-content-list-adjusted">
-                        <li>
-                            <a href="http://clk.im/login/facebook" class="btn btn-block c-btn-square btn-social btn-facebook">
-                                <i class="fa fa-facebook"></i>Facebook </a>
-                        </li>
-                        <li>
-                            <a href="http://clk.im/login/google" class="btn btn-block c-btn-square btn-social btn-google">
-                                <i class="fa fa-google"></i>Google </a>
-                        </li>
-                    </ul>
-                </div>
-                    <div class="form-group">
-                        <button id="btn-signup" type="submit" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square c-btn-login">Signup</button>
-                        <button id="loading-btn-signup" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square" style="display: none"><img id="loading-btn-login" src="http://clk.im/assets/img/loading/loading4.gif" alt=""></button>
 
-                        <a href="javascript:;" class="c-btn-forgot" data-toggle="modal" data-target="#login-form" data-dismiss="modal">Back To Login</a>
+                    <div class="row">
+                        <div class="pull-right">
+                            <img class="loading" src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/img/AjaxLoader.gif?v=1023" alt="Please wait" style="display:none;margin-right:20px">
+                            <button class="btn btn-primary btn-lg btn-submit" type="submit">Sign up</button>
+                        </div>
                     </div>
+
+
                 </form>
+
+
             </div>
+
         </div>
     </div>
-</div><!-- END: CONTENT/USER/SIGNUP-FORM -->
-<!-- BEGIN: CONTENT/USER/LOGIN-FORM -->
-<div class="modal fade c-content-login-form" id="login-form" role="dialog">
-    <div class="modal-dialog">
-        <div class="modal-content c-square">
-            <div class="modal-header c-no-border">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-            </div>
+</div><div class="modal fade" id="modal-complete" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
             <div class="modal-body">
-                <h3 class="c-font-24 c-font-sbold">Good Afternoon!</h3>
-                <p>
-                    Let's make today a great day!
-                </p>
-                <form method="POST" action="http://clk.im/login" accept-charset="UTF-8" class="form-login" id=""><input name="_token" type="hidden" value="rW189b7eDWvl05YIzYo414psSHAXDmjIcNb1RftK">
-                <input type="hidden" name="product">
-                <div id="form-login-response" class=""></div>
-                <div class="form-group">
-                        <label for="login-email" class="hide">Email</label>
-                        <input type="email" name="email" class="form-control input-lg c-square" id="login-email" placeholder="Email">
-                    </div>
-                    <div class="form-group">
-                        <label for="login-password" class="hide">Password</label>
-                        <input type="password" name="password" class="form-control input-lg c-square" id="login-password" placeholder="Password">
-                    </div>
-                    <div class="form-group">
-                        <div class="c-checkbox">
-                            <input type="checkbox" name="remember" value="1" id="login-rememberme" class="c-check">
-                            <label for="login-rememberme" class="c-font-thin c-font-17">
-                                <span></span>
-                                <span class="check"></span>
-                                <span class="box"></span>
-                                Remember Me </label>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <button id="btn-login" type="submit" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square c-btn-login">Login</button>
-                        <button id="loading-btn-login" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square" style="display: none"><img id="loading-btn-login" src="http://clk.im/assets/img/loading/loading4.gif" alt=""></button>
 
-                        <a href="javascript:;" data-toggle="modal" data-target="#forget-password-form" data-dismiss="modal" class="c-btn-forgot">Forgot Your Password ?</a>
-                    </div>
-                    <div class="clearfix">
-                        <div class="c-content-divider c-divider-sm c-icon-bg c-bg-grey c-margin-b-20">
-                            <span>or login with</span>
-                        </div>
-                        <ul class="c-content-list-adjusted">
-                            <li>
-                                <a href="http://clk.im/login/facebook" class="btn btn-block c-btn-square btn-social btn-facebook">
-                                    <i class="fa fa-facebook"></i>Facebook </a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/login/google" class="btn btn-block c-btn-square btn-social btn-google">
-                                    <i class="fa fa-google"></i>Google </a>
-                            </li>
-                        </ul>
-                    </div>
-                </form>
-            </div>
-            <div class="modal-footer c-no-border">
-                <span class="c-text-account">Don't Have An Account Yet ?</span>
-                <a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn c-btn-dark-1 btn c-btn-uppercase c-btn-bold c-btn-slim c-btn-border-2x c-btn-square c-btn-signup">Signup!</a>
-            </div>
-        </div>
-    </div>
-</div><!-- END: CONTENT/USER/LOGIN-FORM -->
-<!-- BEGIN: PAGE CONTAINER -->
-<div class="c-layout-page">
-    
-    <!-- YOAVREF IS:  -->
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span></button>
 
-    <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-1 -->
-    <div class="c-layout-breadcrumbs-1 c-fonts-uppercase c-fonts-bold c-bordered c-bordered-both">
-        <div class="container">
-            <div class="c-page-title c-pull-left">
-                <h3 class="c-font-uppercase c-font-bold">Privacy</h3>
-            </div>
-            <ul class="c-page-breadcrumbs c-theme-nav c-pull-right c-fonts-regular">
-                <li>
-                    <a href="http://clk.im">Clk.im</a>
-                </li>
-                <li>
-                    /
-                </li>
-                <li class="c-state_active">
-                    Privacy
-                </li>
-            </ul>
-        </div>
-    </div>
-    <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-1 -->
-    <!-- BEGIN: PAGE CONTENT -->
-    <!-- BEGIN: BLOG LISTING -->
-    <div class="c-content-box c-size-md">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-9">
-                    <div class="c-content-blog-post-1-view">
-                        <div class="c-content-blog-post-1">
-                            <div class="c-title c-font-bold c-font-uppercase">
-                                <a href="#">Privacy</a>
-                            </div>
-                            <div class="c-desc">
-                                <h2 dir="LTR" style="margin-left: 21.3pt;"><strong><u>Clk.im Website Privacy Policy </u></strong></h2>
-
-<p dir="LTR" style="margin-left:21.3pt">Last Revised: March 2, 2015</p>
-
-<p dir="LTR" style="margin-left:21.3pt">Clk.im, Ltd. (“<strong>Clk.im</strong>", "<strong>Company</strong>", “<strong>we</strong>” or "<strong>us</strong>") respects the privacy of the users of its website at: <a href="http://clk.im/">http://clk.im/</a> (including its sub-domains) (the "<strong>Site</strong>") and Services (<strong>“User</strong>” or <strong>“you</strong>”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you visit and/or use our Site and Services<strong>.</strong></p>
-
-<p dir="LTR" style="margin-left:21.3pt">Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use at <a href="http://clk.im/page/terms">http://clk.im/page/terms</a> (<strong>"TOU"</strong>), into which this Privacy Policy is incorporated by reference<span dir="RTL">.</span></p>
-
-<h3 dir="LTR"><strong>1.</strong><strong><u>Your Consent (PLEASE READ CAREFULLY!)</u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">BY(A) ENTERING, CONNECTING TO, ACCESSING OR USING THE SITE, (B) OPENING AN ACCOUNT, (C) ACTIVELY USING THE SERVICES FOR THE PURPOSE OF SHORTENING URLS, MANAGING AND MONETIZING SUCH URLS BY USING ADS, AND/OR (D) EXPOSING YOURSELF TO URLS AND/OR TO ADS MADE AVAILABLE VIA THE SERVICES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE "<strong>PRIVACY POLICY</strong>"), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, PLEASE DO NOT ENTER INTO, CONNECT TO, ACCESS OR USE THE SITE OR SERVICES.</p>
-
-<h3 dir="LTR"><strong>2.</strong><strong><u>Which information we may collect on our Users? </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">We may collect two types of data and information from our Users:</p>
-
-<p dir="LTR">a. The first type of information is non-identifiable and anonymous information (“<strong>Non-personal Information</strong>”). <strong>We are not aware of the identity of the User from whom we have collected the Non-personal Information.</strong> Non-Personal Information is any unconcealed information which does not enable identification of an individual User, and which is available to us while such User is entering and/or using the Site or Services. Non-personal Information which is being gathered consists of technical information, behavioral information and aggregated information, and may contain, among other things, the activity of the User on the Site or Services, type of operating system, User's 'click-stream' or searches on the Site or Services, type and version of browser or device, keyboard language, screen resolution, internet connectivity, details regarding User traffic and advertising delivery, etc. With respect to URLs, we may collect the following metrics: time and date of creation, the applicable User Account, referring websites or services, history of sharing the URLs via third party sites or services (including Social Networks), etc.</p>
-
-<p dir="LTR">b. The second type of information is individually identifiable information (<strong>“Personal Information</strong>”).<strong> This information may identify an individual or may be of a private and/or sensitive nature</strong>.</p>
-
-<p dir="LTR">·Users of the Site or Services automatically provide their IP address (or Mac Address, as applicable) mainly for enhancing the User's experience and for geolocation and security purposes as further detailed below.</p>
-
-<p dir="LTR">·Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User. Users who are interested in opening an Account may be requested to provide the following details via the registration form: full name, e-mail and to choose a password.</p>
-
-<p dir="LTR">·Alternatively, the User can open an Account and signup to the Services via existing third party accounts (e.g., Facebook) used by him/her ("<strong>Social Network Account</strong>"). In the event that a User registers to the Services through his/her existing Social Network Account, then such Social Network Account provides us with access to certain information about such User as is stored in the User’s Social Network Account, namely, certain public information (e.g. full name, email, user ID and any other information which the User made public) and/or any other information which is detailed and displayed to the User in the notice which appears during the "Log in" with such Social Network Account process. Please read carefully such notice in order to understand what information is available to Clk.im via the Social Network Account. We may collect your login information and other relevant information necessary to enable us to access your Social Network Account (such as, Facebook UserID, User access token) in order to collect and/or store, to the extent legally permissible, your full name and e-mail. Other than the abovementioned information, we do not collect or store any other information made available to us through your Social Network Account. You hereby agree that such information will be stored even after the linkage to your Social Network Account expires, for any reason.&nbsp;</p>
-
-<p dir="LTR">·The following information may be gathered from the User directly by Online Payment Services in order to facilitate the transactions made available by the Services: e-mail, ID/SSN, payment information (i.e. bank account number, credit card or debit card numbers). THE FINANCIAL INFORMATION DESCRIBED ABOVE IS NOT COLLECTED BY THE COMPANY.</p>
-
-<p dir="LTR">·Personal Information may also be collected from the details the User may provide in the Contact Form on the Site, which includes the User's e-mail address and free text. Furthermore, the User may optionally provide his/her full name. Additional information may be requested in the future.</p>
-
-<p dir="LTR">For avoidance of doubt, any Non-Personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.</p>
-
-<p dir="LTR"><strong>We do not collect any Personal Information from you or related to you without your approval, which is obtained, inter alia, through your active acceptance to the Terms of Use and the Privacy Policy.</strong></p>
-
-<h3 dir="LTR"><strong>3.</strong><strong><u>How Do We Collect Information on Our Users?&nbsp; </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">There are two main methods we use:</p>
-
-<p dir="LTR">a. <strong>We collect information through your entry and use of the Site or Services</strong>. In other words, when you are using the Site or Services we are aware of it and may gather, collect and store the information relating to such usage, either independently or through the help of third-party service providers as detailed below.</p>
-
-<p dir="LTR">b. <strong>We collect information which you provide us voluntarily</strong>. We collect Personal Information when you, at your discretion, decide to provide us when opening an Account. We may also collect Personal Information when you register and open an Account through your Social Network Account. When registering through your Social Network Account, you agree to grant us access to Personal Information stored in your Social Network Account, as detailed above. We may also collect Personal information which you voluntarily provide when you fill in the Contact Form on the Site. We may gather, collect and store the Personal Information either independently or through the help of our authorized third-party service providers as detailed below.&nbsp;</p>
-
-<h3 dir="LTR"><strong>4.</strong><strong><u>What are the Purposes of the Collection of Information? </u></strong></h3>
-
-<p dir="LTR" style="margin-left:-14.7pt">&nbsp;&nbsp; We collect Non-personal Information and Personal Information in order to provide the Services.</p>
-
-<p dir="LTR" style="margin-left:21.3pt">Non-personal Information is collected in order to, inter alia:&nbsp;&nbsp;</p>
-
-<ul>
-	<li dir="LTR">Use it for statistical and research purposes and for customization and improvement of our Services.</li>
-	<li dir="LTR">Improve our metrics and the quality of the Services and gather statistics for commercial purposes.</li>
-</ul>
-
-<p dir="LTR" style="margin-left:.25in">Personal Information is collected in order to:&nbsp;&nbsp;</p>
-
-<ul>
-	<li dir="LTR">Improve the quality of the Site or Services by formulating, customizing and enhancing the User's experience.</li>
-	<li dir="LTR">Verify the User's identity when he/she signs in to the Services, as well as verifying User's identity for the purpose of dealing with fraudulent use of our Services.</li>
-	<li dir="LTR">Be able to inform you regarding our products and services which may interest you, and to send to you other marketing material, transmitted to you through the contact information you provided us.</li>
-	<li dir="LTR">Enable the User to use the Social Features.</li>
-	<li dir="LTR">Be able to contact Users for the purpose of providing them with technical assistance and support.</li>
-	<li dir="LTR">Determine general geolocation information (i.e., country) from which the User's computer or device is connected to the Internet in order to serve the Ads and Services to Users by location, as well as in order to safeguard our Site and Services.&nbsp;</li>
-</ul>
-
-<p dir="LTR" style="margin-left:.5in">&nbsp;</p>
-
-<h3 dir="LTR"><strong>5.</strong><strong><u>Sharing Information with Third Parties</u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">We may employ individuals and companies to perform functions on our behalf (e.g. processing credit card payments, analyzing data, providing Ads, etc.). We may share certain Personal Information with such third parties so they could perform their functions for the Company with respect to the Services.</p>
-
-<p dir="LTR" style="margin-left:21.3pt">&nbsp;The Company may also share Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User's support requests; (e) respond to claims that any content available on the Site or Services violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of the Company, its Users, or the general public; (h) when the Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold, store and/or manage your Personal Information through the Company's authorized third parties service providers (including, as applicable, their affiliates as necessary to provide us with the requested services), as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) cooperate with third parties for the purpose of enhancing the User's experience; and/or (k) pursuant to your explicit approval prior to the disclosure.</p>
-
-<p dir="LTR" style="margin-left:21.3pt">For avoidance of doubt, the Company may transfer and disclose <u>Non-personal Information</u> to third parties at its own discretion.</p>
-
-<h3 dir="LTR"><strong>6.</strong><strong><u>Deletion or Modification of Personal Information</u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">If for any reason you wish to delete or modify your Personal Information please send us an e-mail with adequate detail of your request to <a href="mailto:support@clkim.com">support@clkim.com</a><strong><em>,</em></strong> and we will make reasonable efforts to modify or delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for as long as reasonably required for the purposes of which such Personal Information was collected, including without limitation, for future analytics and analysis, in order to comply with our legal or business requirements or obligations and to resolve disputes or to enforce our Terms, all as permitted under any applicable privacy laws. Aggregated and/or anonymous information derived from your use of your Account, the Site and/or Services may remain on our servers indefinitely.</p>
-
-<p dir="LTR" style="margin-left:21.3pt">We cannot ensure that third parties who gained access to the Personal Information deleted your Personal Information and cannot monitor their use of such information.</p>
-
-<h3 dir="LTR"><strong>7.</strong><strong><u>Minors</u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">The Site or Services are intended for Users over the age of thirteen (13). Therefore, the Company does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site or Services. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Clk.im at: <a href="mailto:info@clkim.com">info@clkim.com</a> if you have reasons to suspect that we collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible.</p>
-
-<h3 dir="LTR"><strong>8.</strong><strong><u>Security </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">We take reasonable measures to maintain the security and integrity of our Site, Services and User information and prevent unauthorized access to it or use thereof through generally accepted industry standard technologies and internal procedures. Please note, however, that there are inherent risks in transmission of information over the Internet or other methods of electronic storage and we cannot guarantee that unauthorized access or use of your Personal Information will never occur.</p>
-
-<h3 dir="LTR"><strong>9.</strong><strong><u>Payment </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">Payments to or from the Company are processed via Online Payment Services. The use of the Online Payment Services is at your sole discretion and liability. IT IS YOUR RESPONSIBILITY TO ABIDE BY ALL THE TERMS SPECIFIED BY THE ONLINE PAYMENT SERVICES' PROVIDERS IN THEIR TERMS OF USE AND PRIVACY POLICIES, INCLUDING BUT NOT LIMITED TO ANY AGE RESTRICTIONS SPECIFIED THEREIN. You acknowledge that you are fully assuming the risks of conducting any transactions via the Online Payment Services in connection with the Services.</p>
-
-<h3 dir="LTR"><strong>10.</strong><strong><u>Third Party Service Providers </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Clk.im uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and <a href="http://www.google.com/intl/en/analytics/privacyoverview.html">http://www.google.com/intl/en/analytics/privacyoverview.html</a>, Clickbank which privacy policy is located at <a href="https://accounts.clickbank.com/privacy.html">https://accounts.clickbank.com/privacy.html</a> and Paypal which privacy policy is located at &nbsp;&nbsp;<a href="https://www.paypal.com/il/webapps/mpp/ua/legalhub-full">https://www.paypal.com/il/webapps/mpp/ua/legalhub-full</a> . However, Clk.im does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices.</p>
-
-<h3 dir="LTR"><strong>11.</strong><strong><u>Tracking Technologies </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">When you access or use the Site or Services, the Company may and may allow authorized third party service providers (e.g. third party advertisers) to place or recognize industry-wide technologies such as cookies and/or other tracking technologies ("<strong>Tracking Technologies</strong>"). Such Tracking Technologies are stored on your computer. Tracking Technologies may enable, inter alia, automatic activation of certain features, and make your experience and usage simpler, convenient and effortless. We and/or our authorized third party service providers may use both session cookies (which expire once you close the Site or leave the Services) and persistent cookies (which stay on User's device until he/she deletes them). It is easy to prohibit and/or delete the Tracking Technologies. For example, most browsers will allow&nbsp;you&nbsp;to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if&nbsp;you&nbsp;block or erase Tracking Technologies, your online experience may be limited. Such Tracking Technologies may store non-personal information (such as the different pages viewed by a User within the Site) as well as User persistent identifier and geo-location data, which will be collected in accordance with the terms specified herein.</p>
-
-<h3 dir="LTR"><strong>12.</strong><strong><u>Social Features</u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">Our Site may include social media features ("<strong>Social Features</strong>"), for example the Facebook Like and Share buttons. The Social Features are operated or allow for social integration with certain third party social networks or third party platforms (“<strong>Social Network</strong>” or “<strong>Platform</strong>”). These Social Networks and Platforms are created and maintained by third parties who are not affiliated with and/or controlled by the Company. If you enable this integration with such Social Networks and Platforms, your use of the Social Features is subject to the applicable third party Social Network’s or Platform’s terms of use and privacy policies. You should ensure that you read their terms of use and privacy policies to understand how they treat your information and in order to understand the methods for changing the privacy or sharing settings on such services. If you do not agree to the practices described in such terms you should not allow our Site or Services to interact with such Social Networks or Platforms, however you may find that you are not able to enjoy all the features that may be made available via our Site or Services. You understand that where you allow interaction with any third party Social Network or Platform, we may share data about you with your contacts (and vice versa) in order that you may enjoy social elements. This data may include, without limitation, your name and your social media profile picture. By using the Social Features you hereby agree and understand that the applicable Social Networks or Platforms may collect certain Personal Information, such as your IP address, Non-personal Information and may set cookies and/or other web tracking technologies to enable the functionality of the Social Features. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the Social Features. You hereby understand and agree that when you share content via Social Networks or Platforms that your content may become public and others may re-post-it.</p>
-
-<h3 dir="LTR"><strong>13.</strong><strong><u>International Data Transfer </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">We may transfer information collected about you, including Personal Information, to affiliated entities, or to other third party service provides (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that we may transfer such information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to such transfer of information.</p>
-
-<h3 dir="LTR"><strong>14.</strong><strong><u>Direct Marketing </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">You hereby agree that we may use your contact details you provided us with for the purpose of informing you regarding our products and services which may interest and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided. You may withdraw your consent via sending a written notice to Clk.im by e-mail to the following e-mail address: <a href="mailto:support@clkim.com">support@clkim.com</a> or alternatively following the instructions for removing yourself from the mailing list which are available in the e-mail transmitted to you.</p>
-
-<h3 dir="LTR"><strong>15.</strong><strong><u>Changes to the Privacy Policy </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">The terms of this Privacy Policy will govern the use of the Site and Services and any information collected therein. The Company reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by e-mail, whichever is the earlier. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes. In the event that the Terms should be amended to comply with any legal requirements, the amendments may take effect immediately, or as required by the law and without any prior notice.</p>
-
-<h3 dir="LTR"><strong>16.</strong><strong><u>Got any Questions? </u></strong></h3>
-
-<p dir="LTR" style="margin-left:21.3pt">If you have any questions (or comments) concerning this Privacy Policy, you are most welcome to send us an email to the following address: <a href="mailto:info@clkim.com">info@clkim.com</a> and we will make an effort to reply within a reasonable timeframe.</p>
-
-<p dir="LTR" style="margin-left:21.3pt">&nbsp;</p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <!-- BEGIN: CONTENT/BLOG/BLOG-SIDEBAR-1 -->
-                    <div class="c-content-ver-nav">
-                        <div class="c-content-title-1 c-theme c-title-md c-margin-t-40">
-                            <h3 class="c-font-bold c-font-uppercase">Quick Links</h3>
-                            <div class="c-line-left c-theme-bg">
-                            </div>
-                        </div>
-                        <ul class="c-menu c-arrow-dot1 c-theme">
-                            <li>
-                                <a href="http://clk.im/page/tips-and-tricks">Tips &amp; Tricks</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/integrations">Integrations</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/features">Features</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/payout-rates">Monetization</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/referral-program">Affiliates</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- END: CONTENT/BLOG/BLOG-SIDEBAR-1 -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END: BLOG LISTING  -->
-    <!-- END: PAGE CONTENT -->
-
-    </div>
-<!-- END: PAGE CONTAINER -->
-<!-- BEGIN: LAYOUT/FOOTERS/FOOTER-6 -->
-<a name="footer"></a>
-<footer class="c-layout-footer c-layout-footer-6 c-bg-grey-1">
-    <div class="container">
-        <div class="c-prefooter c-bg-white">
-
-            <div class="c-body">
                 <div class="row">
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="c-content-title-1 c-title-md">
-                            <h3 class="c-font-uppercase c-font-bold">Navigate</h3>
-                            <div class="c-line-left hide">
-                            </div>
+                    <div class="col-md-12">
+                        <div class="alert alert-success text-center">
+                            <h4>
+                                An Activation email has been sent to your e-mail.
+                            </h4>
+                            <h5 style="color:white">please activate your account</h5>
+                            <button class="btn btn-primary" data-dismiss="modal">OK Thanks</button>
                         </div>
-                        <ul class="c-links c-theme-ul">
-                            <li>
-                                <a href="http://clk.im/page/about">About Clk.im</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/privacy">Privacy Policy</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/terms">Terms &amp; Conditions</a>
-                            </li>
-                            <li>
-                                <a href="http://blog.clk.im">Blog</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/contact">Contact Us</a>
-                            </li>
-                        </ul>
-                        <ul class="c-links c-theme-ul">
-                            <li>
-                                <a href="http://clk.im/page/payout-rates">Monetization</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/referral-program">Affiliates</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/tips-and-tricks">Tips &amp; Tricks</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/page/integrations">Integrations</a>
-                            </li>
-                            <li>
-                                <a href="http://clk.im/features">Features</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-5 col-sm-6 col-xs-12">
-                        <div class="c-content-title-1 c-title-md">
-                            <h3 class="c-font-uppercase c-font-bold">Latest Tweets</h3>
-                            <div class="c-line-left hide">
-                            </div>
-                        </div>
-                        <div class="c-twitter">
-                            <a class="twitter-timeline" href="https://twitter.com/clkimssp" data-widget-id="649311388356079617" data-tweet-limit="2" data-chrome="noheader nofooter noscrollbar noborders transparent">Loading tweets by @ClkimSSP...</a>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-12">
-                        <div class="c-content-title-1 c-title-md">
-                            <h3 class="c-font-uppercase c-font-bold">Contact Us</h3>
-                            <div class="c-line-left hide">
-                            </div>
-                        </div>
-                        <p class="c-address c-font-16 c-font-regular">
-                        </p><div class="socicon" style="margin-bottom:10px">
-                            <a href="https://www.facebook.com/clkimssp" class="socicon-btn socicon-btn-circle socicon-solid c-bg-grey-1 c-font-grey-2 c-theme-on-hover socicon-facebook tooltips" data-original-title="Facebook" data-container="body"></a>
-                            <a href="https://twitter.com/clkimssp" class="socicon-btn socicon-btn-circle socicon-solid c-bg-grey-1 c-font-grey-2 c-theme-on-hover socicon-twitter tooltips" data-original-title="Twitter" data-container="body"></a>
-                            <a href="https://www.youtube.com/channel/UCbnJiftJAkWDz4gkahmbULg" class="socicon-btn socicon-btn-circle socicon-solid c-bg-grey-1 c-font-grey-2 c-theme-on-hover socicon-youtube tooltips" data-original-title="Youtube" data-container="body"></a>
-                            <a href="https://www.linkedin.com/company/clk-im" class="socicon-btn socicon-btn-circle socicon-solid c-bg-grey-1 c-font-grey-2 c-theme-on-hover socicon-linkedin tooltips" data-original-title="Linkedin" data-container="body"></a>
-                        </div>
-                             Email: <a href="mailto:info@clkim.com"><span class="c-theme-color">info@clkim.com</span></a>
-                            <br> Skype: <a href="skype:clk.im"><span class="c-theme-color">clk.im</span></a>
-                        <p></p>
                     </div>
                 </div>
-            </div>
-            <div class="c-line">
-            </div>
-            <div class="c-foot">
-                <div class="row">
-                    <div class="col-md-7">
-                        <div class="c-content-title-1 c-title-md">
-                            <h3 class="c-font-uppercase c-font-bold">About <span class="c-theme-font">Clk.im</span></h3>
-                            <div class="c-line-left hide">
-                            </div>
-                        </div>
-                        <p class="c-text c-font-16 c-font-regular">
-                            Clkim is the leading White Label URL Shortening Platform built <br>to serve the millions of StartUps and marketers roaming our world.
-                        </p>
-                    </div>
-                    <div class="col-md-5">
-                        <div class="c-content-title-1 c-title-md">
-                            <h3 class="c-font-uppercase c-font-bold">Subscribe to Newsletter</h3>
-                            <div class="c-line-left hide">
-                            </div>
-                        </div>
-                        <div class="c-line-left hide">
-                        </div>
-                        <form method="POST" action="http://clk.im/newsletter" accept-charset="UTF-8" class="form-newsletter" id=""><input name="_token" type="hidden" value="rW189b7eDWvl05YIzYo414psSHAXDmjIcNb1RftK">
-                            <div id="form-newsletter-response"></div>
-                            <div class="input-group input-group-lg c-square">
-                                <input type="email" name="email" class="form-control c-square c-font-grey-3 c-border-grey c-theme" placeholder="Your Email Here">
-							<span class="input-group-btn">
-							    <button class="btn c-theme-btn c-theme-border c-btn-square c-btn-uppercase c-font-16" type="submit">Subscribe</button>
-							</span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="c-postfooter c-bg-dark-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="c-copyright c-font-grey">
-                        2015 © Clkim LTD <span class="c-font-grey-3">Made With ❤ in Jerusalem</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer><!-- END: LAYOUT/FOOTERS/FOOTER-6 -->
-<!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-<div class="c-layout-go2top">
-    <i class="icon-arrow-up"></i>
-</div>
-<!-- END: LAYOUT/FOOTERS/GO2TOP -->
 
-<!-- AdRoll -->
+            </div>
+
+        </div>
+    </div>
+</div><!-- end Modals -->
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/jquery.min.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/bootstrap.min.js?v=1023'"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/jquery.easing-1.3.min.js?v=1023"></script>
+
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/ie8-responsive-file-warning.js?v=1023"></script><![endif]-->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/ie-emulation-modes-warning.js?v=1023"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/html5shiv.min.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/respond.min.js?v=1023"></script>
+<![endif]-->
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/ie10-viewport-bug-workaround.js?v=1023"></script>
+
+<!-- Custom form -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/form/jcf.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/form/jcf.scrollable.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/form/jcf.select.js?v=1023"></script>
+
+<!-- Custom checkbox and radio -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/checkator/fm.checkator.jquery.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/checkator/setting.js?v=1023"></script>
+
+<!-- PrettyPhoto -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/prettyPhoto/jquery.prettyPhoto.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/prettyPhoto/setting.js?v=1023"></script>
+
+<!-- Parallax -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/parallax/jquery.parallax-1.1.3.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/parallax/setting.js?v=1023"></script>
+
+<!-- masonry -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/masonry/masonry.min.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/masonry/masonry.filter.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/masonry/setting.js?v=1023"></script>
+
+<!-- Progres circle -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/classyloader/jquery.classyloader.min.js?v=1023"></script>
+
+<!-- owl carousel
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/owlcarousel/owl.carousel.min.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/owlcarousel/setting.js?v=1023"></script>-->
+
+<!-- JavaScript animatedBg -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/animatedBg/animatedBg-setting.js?v=1023"></script>
+
+<!-- ticker -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/ticker/ticker.js?v=1023"></script>
+
+<!-- Twitter -->
+<!--[if lte IE 9]>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/tweecool/jquery.xdomainrequest.min.js?v=1023"></script>
+<![endif]-->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/tweecool/tweecool.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/tweecool/setting.js?v=1023"></script>
+
+<!-- JavaScript totop -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/totop/jquery.ui.totop.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/totop/setting.js?v=1023"></script>
+
+
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/vendor/jquery.form.min.js?v=1023"></script>
+
+<!-- Custom javaScript for this theme -->
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/custom.js?v=1023"></script>
+
+
+
+
+
+    <!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-55270039-1', 'auto');
+    ga('send', 'pageview');
+
+</script><!-- end Google Analytics -->
+    <!-- LuckyOrange -->
+<script type="text/javascript">
+    window.__lo_site_id = 57922;
+    (function() {
+        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+    })();
+</script>
+<!-- end LuckyOrange -->    <!-- AdRoll -->
 <script type="text/javascript">
     adroll_adv_id = "WQ6E457SWZD5LHJX7IKFQW";
     adroll_pix_id = "W3HMEIQL7RD4LDQDDB43SE";
+    // OPTIONAL: provide email to improve user identification /
+    // adroll_email = "username@example.com"; /
     (function () {
-        var oldonload = window.onload;
-        window.onload = function(){
-            __adroll_loaded=true;
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.adroll_loaded){adroll_loaded=true;setTimeout(_onload, 50);return}
             var scr = document.createElement("script");
             var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
             scr.setAttribute('async', 'true');
@@ -637,48 +652,32 @@
             scr.src = host + "/j/roundtrip.js";
             ((document.getElementsByTagName('head') || [null])[0] ||
             document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            if(oldonload){oldonload()}};
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
     }());
-</script><!-- BEGIN: LAYOUT/BASE/BOTTOM -->
-<!-- BEGIN: CORE PLUGINS -->
-<!--[if lt IE 9]>
-<script src="../assets/frontend/global/plugins/excanvas.min.js"></script>
-<![endif]-->
-
-<script src="http://clk.im/assets/frontend/plugins/jquery.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/jquery-migrate.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/bootstrap/js/bootstrap.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/jquery.easing.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/revo-slider/js/jquery.themepunch.tools.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/revo-slider/js/jquery.themepunch.revolution.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/owl-carousel/owl.carousel.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/counterup/jquery.waypoints.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/counterup/jquery.counterup.min.js"></script>
-<script src="http://clk.im/assets/frontend/plugins/fancybox/jquery.fancybox.pack.js"></script>
-<script src="http://clk.im/assets/vendor/jquery.form.min.js"></script>
-<script src="http://clk.im/assets/frontend/base/js/components.js"></script>
-<script src="http://clk.im/assets/frontend/base/js/app.js"></script>
-<script src="http://clk.im/assets/frontend/base/js/core.js"></script>
-
-
+</script>
+<!-- end AdRoll -->    <!-- Facebook Pixel Code -->
 <script>
-    $(document).ready(function() {
-        App.init(); // init core
-    });
-</script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '684081668323994');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=684081668323994&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->    <!-- Start of clkim Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","clkim.zendesk.com");
+    /*]]>*/</script>
+<!-- End of clkim Zendesk Widget script -->
 
-<!-- BEGIN: PAGE SCRIPTS -->
-<!-- END: PAGE SCRIPTS -->
 
-<!-- CrazyEgg -->
-<script type="text/javascript">
-    setTimeout(function(){var a=document.createElement("script");
-        var b=document.getElementsByTagName("script")[0];
-        a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0015/6610.js?"+Math.floor(new Date().getTime()/3600000);
-        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
 
-<!-- END: LAYOUT/BASE/BOTTOM -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b6dcb79e1d","applicationID":"9577218","transactionName":"ZVEGNkRUWUAEAEIIXVwbJQFCXFhdSiJGEW56QBASanZYXRERWQ1eV0YXPmFQVUAMF1MiXVxAFg1aWVJBJRNXBlc=","queueTime":0,"applicationTime":40,"atts":"SRYFQAxOSk4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
+
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/js/events.js?v=1023"></script>
+<script src="//d1u2287o70pvwq.cloudfront.net/assets/frontend/js/core.js?v=1023"></script>
+
+
 </body></html>
