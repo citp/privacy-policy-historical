@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sherrihill.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906110651id_/https%3A//www.sherrihill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherrihill.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010115635id_/https%3A//www.sherrihill.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Sherri Hill
+# Privacy - SHERRI HILL
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -60,4 +60,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@sherrihill.com or by mail at 9011 Tuscany Way, Austin, TX 78754.  
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@sherrihill.com or by mail at 9011 Tuscany Way, Austin, TX 78754. 
