@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the raygun.io privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310023859id_/https%3A//raygun.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raygun.io privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010093750id_/https%3A//raygun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Raygun
 
-Get 30 days on us – no credit card required
-
-[ ](https://web.archive.org/)
-
-[ ](https://web.archive.org/)
+## Raygun Limited Privacy Policy
 
 _Last updated: December 2014_
 
