@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabookstore.net privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420173349id_/https%3A//www.indiabookstore.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabookstore.net privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010053848id_/https%3A//www.indiabookstore.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IndiaBookStore.net
 
