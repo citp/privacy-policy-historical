@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403025443id_/http%3A//www.bankinnovation.net/%3Fp%3D266) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010184354id_/http%3A//www.bankinnovation.net/%3Fp%3D266) for the most accurate reproduction.*
 
 # Privacy Statement | Bank Innovation
 
@@ -34,7 +34,8 @@ Share It:
 
   * [](http://twitter.com/intent/tweet?text=Privacy%20Statement%20-%20http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&title=Privacy%20Statement&source=Bank+Innovation+The+Future+of+Fintech&summary=Information%20We%20Gather%0D%0A%0D%0AThe%20following%20information%20is%20gathered%20from%20our%20website%20visitors%3A%0D%0A%0D%0A%09IP%20address%0D%0A%0D%0AHow%20We%20Use%20the%20Information%20We%20Gather%0D%0A%0D%0AWe%20use%20the%20information%20to%20enhance%20your%20visitor%20experience.%0D%0A%0D%0AThe%20People%20That%20Are%20Given%20Access%20to%20This "LinkedIn")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Statement&body=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&title=Privacy%20Statement "Reddit")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&t=Privacy%20Statement "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Statement&body=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   * 
 
