@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgojackpot.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127001138id_/https%3A//csgojackpot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgojackpot.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010105738id_/https%3A//csgojackpot.com/privacy-policy) for the most accurate reproduction.*
 
 # CS:GO Jackpot
 
