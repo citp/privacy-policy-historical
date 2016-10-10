@@ -1,62 +1,124 @@
-> *The following text is extracted and transformed from the chargify.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318155233id_/https%3A//www.chargify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargify.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010145209id_/https%3A//www.chargify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chargify
 
-**Information Collection**. Chargify, LLC is the sole owner of the information collected on [http://chargify.com](https://web.archive.org/web/20150318155233id_/https://www.chargify.com/privacy-policy/index.html). Chargify collects information from our users at several different points on our Web site.
+## Information Collection
 
-**Order** We request information from the user on our order form. A user must provide contact information (such as name and email). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+Chargify, LLC is the sole owner of the information collected on http://chargify.com. Chargify collects information from our users at several different points on our Web site.
 
-**Information Use** Information collected is used only for setting up service and conveying information about user accounts and upcoming features and benefits of Chargify programs. 
+## Order
 
-**Profile** We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+We request information from the user on our order form. A user must provide contact information (such as name and email). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
-**Cookies** A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies on this site.
+## Information Use
 
-**Log Files** Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called “analog 4.13” that uses log files to analyze user movement.
+Information collected is used only for setting up service and conveying information about user accounts and upcoming features and benefits of Chargify programs.
 
-### Communications from the Site
+## Profile
+
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+
+## Cookies
+
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies on this site.
+
+## Log Files
+
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called “analog 4.13” that uses log files to analyze user movement.
+
+## Communications from the Site
 
 **Special Offers and Updates**
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter.
 
-**Service Announcements** On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+**Service Announcements**
 
-**Customer Service** We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or through Chargify.com.
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
 
-### Sharing
+**Customer Service**
 
-**Legal Disclaimer** Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or through Chargify.com.
 
-**Third Party Advertisers** Chargify DOES NOT share Web site usage information about users with a reputable third party. Chargify may share general customer information but never call records or usage statistics to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
+## Sharing
 
-**Service Providers** We do not partner with other third party Systems to provide toll free services. When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+**Legal Disclaimer**
 
-**Business Transitions** In the event Chargify goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-**Links** This Web site contains links to other sites. Please be aware that we, Chargify, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+**Third Party Advertisers**
 
-**Surveys & Contests** From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
+Chargify DOES NOT share Web site usage information about users with third parties. If we were to engage in any onward transfers with third parties, we would provide you with an opt-out choice. Chargify may share general customer information but never call records or usage statistics to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Chargify is potentially liable.
 
-**Chat Rooms, Message Boards, and Public Forums** Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+**Service Providers**
 
-**Security** This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+We do not partner with other third party Systems to provide toll free services. When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. 
+**Business Transitions**
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment. 
+In the event Chargify goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-**Supplementation of Information** In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+## Links
 
-**Address Verification** We use Authorize.net to verify a user’s address for credit card authentication purposes.
+This Web site contains links to other sites. Please be aware that we, Chargify, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-**Correcting/Updating/Deleting/Deactivating Personal Information** If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. These could be done through the Administration module on Chargify.com.
+## Surveys & Contests
 
-**Notification of Changes** If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.
 
-**Contact Information** If users have any questions or suggestions regarding our privacy policy, please contact us at:
+## Chat Rooms, Message Boards, and Public Forums
 
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+
+## Children
+
+The Website and Services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and Services, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' or guardians’ permission to use Website and our related services. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@chargify.com](mailto:support@chargify.com).
+
+## EU-U.S. Privacy Shield Framework
+
+Chargify complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Chargify has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+
+In compliance with the EU-US Privacy Shield Principles, Chargify commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Chargify at support@chargify.com, 1-800-401-2414 (inside the US) or 1-617-249-4603 (outside the US).
+
+Chargify has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.  
+Chargify is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+## California Online Privacy Protection Act
+
+Chargify is in compliance with the California Online Privacy Protection Act.
+
+## Security
+
+This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment.
+
+## Supplementation of Information
+
+In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+
+## Address Verification
+
+We use Authorize.net to verify a user’s address for credit card authentication purposes.
+
+## Correcting/Updating/Deleting/Deactivating Personal Information
+
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. These could be done through the Administration module on chargify.com.
+
+Chargify users have a right to access their data that is stored within the Chargify platform. Contact us at the information below to request a copy of the stored information. All inquired for stored data can be made by submitting a request to support@chargify.com. Please note that only a currently qualified user of the relevant Chargify account may request a copy of the associated information.
+
+## Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+## Contact Information
+
+If users have any questions or suggestions regarding our privacy policy, please contact us at:  
 1-800-401-2414  
-197 1st Avenue, Suite 200  
-Needham, MA 02494  
-[http://chargify.com](http://chargify.com/)
+2795 East Bidwell Street, #100-347  
+Folsom, CA 95630  
+http://chargify.com
