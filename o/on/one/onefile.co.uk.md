@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610204118id_/http%3A//www.onefile.co.uk/policies/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011005718id_/http%3A//www.onefile.co.uk/policies/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - OneFile
 
@@ -76,4 +76,4 @@ If at any time you believe that we have not adhered to the terms of this Privacy
 
 This policy was last updated on 27 November 2014.
 
-We use cookies to ensure you receive the best experience on our website. By using this site you're agreeing to our [cookies policy](https://web.archive.org/web/20160610204118id_/http%3A//www.onefile.co.uk/policies/privacy/index.html).
+We use cookies to ensure you receive the best experience on our website. By using this site you're agreeing to our [cookies policy](https://web.archive.org/web/20161011005718id_/http%3A//www.onefile.co.uk/policies/privacy/index.html).
