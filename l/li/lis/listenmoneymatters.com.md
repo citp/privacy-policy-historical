@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listenmoneymatters.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406055226id_/https%3A//www.listenmoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listenmoneymatters.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010081532id_/https%3A//www.listenmoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Listen Money Matters
 
