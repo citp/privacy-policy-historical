@@ -1,355 +1,697 @@
-<!--The following is the downloaded HTML source of the sherrihill.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906110651id_/https%3A//www.sherrihill.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sherrihill.com privacy policy that was archived on 2016-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161010115635id_/https%3A//www.sherrihill.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcDV19TGwcFV1lRBgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"f5b1d5af6a","agent":"js-agent.newrelic.com/nr-686.min.js","transactionName":"NFYDMkBRCEQCAUcLDA0cJxNcUxJeDAwcEgIEVhJIRFkDQBBYQAsOE18EOUJRAVI=","applicationID":"4538311","errorBeacon":"bam.nr-data.net","applicationTime":457}</script>
-    <link rel="icon" type="image/png" href="/static//skin/favicon.ico">
-    
-        <title>Privacy Statement -
-            Sherri Hill</title>
-    
-    <script src="/static/skin/bower_components/foundation/js/vendor/jquery.js" type="text/javascript"></script>
-    <script src="/static/skin/bower_components/jquery.cookie/jquery.cookie.js" type="text/javascript"></script>
-    
-    
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="apple-itunes-app" content="app-id=1067976516, affiliate-data=website">
 
-    <script src="//use.typekit.net/mmk8qbg.js"></script>
-    <script>try {
-        Typekit.load();
-    } catch (e) {
-    }
-    </script>
-    
-        
-            
-                <link rel="alternate" hreflang="en" href="http://www.sherrihill.com/privacy/">
-            
-        
-            
-                <link rel="alternate" hreflang="es" href="http://www.sherrihill.com/es/privacy/">
-            
-        
-            
-                <link rel="alternate" hreflang="hr" href="http://www.sherrihill.com/hr/privacy/">
-            
-        
-            
-                <link rel="alternate" hreflang="tr" href="http://www.sherrihill.com/tr/privacy/">
-            
-        
-    
+    <link rel="icon" type="image/png" href="/content/favicon.ico">
+    <title>
+    Privacy - SHERRI HILL    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script src="/static/skin/js/search_autocomplete.js" type="text/javascript"></script>
-    
+    <style></style>
+    <meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="">
+<style></style>
 
-
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//d250wtlu7i24bo.cloudfront.net/js/jquery.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/unslider-min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/foundation-icons.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/foundation-select.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/i18n.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/jquery.modal.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/unslider.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/unslider-dots.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/slick.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/home.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/mejs-skins.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/app.css" type="text/css">
+	<link rel="stylesheet" href="/content/addons/feathers/sherrihill/css/home-redesign.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/shop_promo.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/category.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/pages.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/storelocator.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/search.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/product_detail.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/instagram.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/fashion.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/shim.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/controls.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/mediaelementplayer.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/font-awesome/css/font-awesome.min.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/proxima.css" type="text/css">
+	<link rel="stylesheet" href="//d250wtlu7i24bo.cloudfront.net/css/catfilter.css" type="text/css">
 <script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_c5MGA8CnAImlmg9Vpk7m3_QAq3GqemEHNutlX5pzKaI15lrQjmAy6flGq2iWdjUX">
     {
         lang:"en"
     }
 </script>
+<style>
+.contain-to-grid .top-bar {
+    margin-bottom: 0;
+    -moz-transition: position 1s cubic-bezier(0.45, 0.05, 0.55, 0.95);
+    -webkit-transition: position 1s cubic-bezier(0.45, 0.05, 0.55, 0.95);
+    -o-transition: position 1s cubic-bezier(0.45, 0.05, 0.55, 0.95);
+    transition: position 1s cubic-bezier(0.45, 0.05, 0.55, 0.95);
+}
+
+.gigya-screen h2 {
+	color: black !important;
+}
+/*#wrap > div.contain-to-grid.scroll > nav > section > ul > li {
+	width:12%;
+}
+#wrap > div.contain-to-grid.scroll > nav > section > ul > li {
+	width:12%;
+}*/
+@media only screen and (max-device-width: 800px){
+    html.gigya-mobile-modal-mode { overflow; visible; }
+    .gigya-screen-dialog-mobile { height: auto !important; }
+    
+
+}
+/*@media screen and (min-width: 800px) {
+#wrap > div.contain-to-grid.scroll > nav > section > ul > li:nth-child(1) {
+	width:14%;
+}
+#wrap > div.contain-to-grid > nav > section > ul > li:nth-child(1) {
+	width:18%
+}
+}*/
+@media only screen and (max-width: 800px) {
+        body .contain-to-grid .top-bar .top-bar-section label { padding: 5px 15px; }
+}
+    
+@media screen and (min-width: 1039px) { 
+ #wrap > div.contain-to-grid.scroll > nav > section > ul > li {
+    width:13%;
+} 
+  }
+  
+  @media only screen and (max-width: 1200px) {
+    body .contain-to-grid.scroll .top-bar .top-bar-section ul.top-bar-section-primary li a { font-size: 13px; }
+    }
+
+@media screen and (max-width: 800px) {
+    #top .logo-container { width: 190px !important; }
+ 	#top .logo-container { width: 190px !important; }
+	.top-bar-section-primary li { width: 100% !important; }
+}
+ @media only screen and (max-width: 1025px) {
+    body .contain-to-grid.scroll .top-bar .top-bar-section ul.top-bar-section-primary li a,
+    body .contain-to-grid .top-bar .top-bar-section li>a { font-size: 12px; }
+    
+  }
+  
+  @media only screen and (max-width: 992px) {
+    body .contain-to-grid.scroll .top-bar .top-bar-section ul.top-bar-section-primary li a,
+   body .contain-to-grid .top-bar .top-bar-section li>a { font-size: 11px; }
+  }
+.gigya-style-modern div.gigya-screen-dialog-main { overflow: visible !important; }
+  
+  @media screen and (max-width: 800px) {
+    #gigya-modal-plugin-container-showScreenSet_social_0_uiContainer,
+    .gigya-screen .gigya-social-login-container { height: 110px !important; }
+}
+
+.top-bar-section .dropdown { z-index: 99999; }
+#top { position: relative; }
+
+@media (max-width:320px) {
+ input[type="checkbox"]+label, input[type="radio"]+label {
+     margin-left: 0.1rem;
+     margin-right: 0.5rem;
+ }
+}
+
+.gigya-label-text.gigya-checkbox-text {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -3px;
+}
+
+@media only screen 
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+    .gigya-screen.portrait .gigya-layout-row .gigya-layout-cell.responsive.with-social-login,
+    .gigya-screen.portrait .gigya-layout-row .gigya-layout-cell.responsive.with-site-login {
+        float: left;
+        min-width: 45%;
+        width: 45%;
+    }
+    .gigya-screen.portrait {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+    .gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-divider {
+        height: 81px;
+        background-repeat: repeat-x;
+        position: static;
+    }
+    .gigya-screen.portrait .gigya-layout-row.with-divider .gigya-layout-cell.responsive.with-divider {
+        float: left !important;
+        min-width: 10%;
+        width: 10%;
+        height: 100vh;
+    }
+    #gigya-login-screen {
+        background-position: 30% 10% !important;
+    }
+    .gigya-screen .gigya-checkbox-text {
+        font-size: 12px !important;
+    }
+    .gigya-screen .gigya-composite-control {
+        font-size: 12px !important;
+    }
+    input[type="checkbox"]+label {
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+    .gigya-screen input[type=checkbox] {
+        vertical-align: top;
+    }
+    .gigya-label-text.gigya-checkbox-text {
+        vertical-align: top;
+        margin-top: -3px;
+        display: inline-block;
+    }
+}
+
+@media (max-width:320px) {
+    input[type="checkbox"]+label, input[type="radio"]+label {
+        margin-left: 0.1rem;
+        margin-right: 0.5rem;
+    }
+    .gigya-style-modern div.gigya-screen-dialog-main {
+        /*max-width: 93vw;*/
+        /*overflow: auto;*/
+    }
+    .gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-divider {
+        height: 55px !important;
+    }
+}
+
+.gigya-label-text.gigya-checkbox-text {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -3px;
+}
+@media only screen 
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+    .gigya-screen.portrait .gigya-layout-row .gigya-layout-cell.responsive.with-social-login,
+    .gigya-screen.portrait .gigya-layout-row .gigya-layout-cell.responsive.with-site-login {
+        float: left !important;
+        min-width: 46% !important;
+        width: 46% !important;
+    }
+    .gigya-screen.portrait {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        padding-top: 20px !important;
+    }
+    .gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-divider {
+        position: static !important;
+    }
+    .gigya-screen.portrait .gigya-layout-row.with-divider .gigya-layout-cell.responsive.with-divider {
+        float: left !important;
+        min-width: 8% !important;
+        width: 8% !important;
+        height: 100vh !important;
+    }
+    .gigya-screen.portrait .gigya-layout-row.with-divider .gigya-layout-cell.responsive.with-divider span{
+        font-size: 15px !important;
+    }
+    #gigya-login-screen {
+        background-position: 30% 10% !important;
+    }
+    .gigya-screen .gigya-checkbox-text {
+        font-size: 11px !important;
+    }
+    .gigya-screen .gigya-composite-control {
+        font-size: 11px !important;
+    }
+    input[type="checkbox"]+label {
+        margin-left: 0rem !important;
+        margin-right: 0rem !important;
+    }
+    .gigya-screen input[type=checkbox] {
+        vertical-align: top !important;
+    }
+    .gigya-label-text.gigya-checkbox-text {
+        vertical-align: top !important;
+        margin-top: -3px !important;
+        display: inline-block !important;
+    }
+    .gigya-style-modern.gigya-screen-dialog {
+        width: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+    }
+    .gigya-style-modern div.gigya-screen-dialog-main {
+        max-height: 100vh !important;
+        max-width: 100vw !important;
+    }
+    .gigya-screen.portrait {
+        width: 100% !important;
+    }
+}
+
+.gigya-label-text.gigya-checkbox-text {
+    display: inline-block !important;
+}
+
+.gigya-screen input[type=checkbox] {
+    vertical-align: top !important;
+    margin-top: 2px !important;
+}
+@media (max-width: 920px) {
+    .gigya-screen input[type=checkbox] {
+        margin-top: -2px !important;
+    }
+}
+
+#product_list ul li .labelrow button {
+	padding: initial !important;
+}
+</style>
 <script type="text/javascript" src="https://cdns.gigya.com/js/gigyaGAIntegration.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1">
-    <meta property="fb:app_id" content="791064060932570">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1">
     
-    
-    
-
-    
-        <link rel="stylesheet" href="/static/skin/stylesheets/app.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/category.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/nav.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/storelocator.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/search.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/product_detail.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/instagram.css">
-        <link rel="stylesheet" href="/static/skin/stylesheets/i18n.css">
-        <link rel="stylesheet" href="/static/skin/foundation-icons/foundation-icons.css">
-    
-
-
-    
-
-
-
-    
-
-    
+<link rel="alternate" hreflang="en" href="https://www.sherrihill.com/privacy">
+<link rel="alternate" hreflang="es" href="https://www.sherrihill.com/es/privacy">
 
     <meta name="google-site-verification" content="gXm0AT2nAwUcou02vtFNTYmXn24aP4pDlW6KiNG4L6A">
-<meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large"><meta class="foundation-mq-medium"><meta class="foundation-mq-small"><style></style><meta class="foundation-mq-topbar"></head>
 
-<body class="games">
-
-
-    
-
-
+<script type="application/ld+json">
+[{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Sherri Hill",
+  "alternateName": "Sherri Hill, Inc",
+  "url": "https://www.sherrihill.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.sherrihill.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+},
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://www.sherrihill.com",
+  "contactPoint" : [{
+    "@type" : "ContactPoint",
+    "telephone" : "+1-512-610-1200",
+    "contactType" : "Customer Service",
+    "areaServed" : "US",
+    "contactOption" : "TollFree",
+    "availableLanguage" : "English"
+  }],
+  "sameAs" : [ "https://www.facebook.com/sherrihilldresses",
+               "https://twitter.com/SherriHill",
+               "https://www.youtube.com/user/sherrihill",
+               "http://sherrihill.tumblr.com",
+               "https://www.instagram.com/sherrihill",
+               "https://www.pinterest.com/sherrihill",
+               "https://plus.google.com/+sherrihill",
+               "https://m.facebook.com/sherrihilldresses",
+               "https://mobile.twitter.com/sherrihill",
+               "https://www.linkedin.com/company/sherri-hill-inc"
+               ]
+}]
+</script>
+    </head>
+    <body class="home white home" style="height:100%;">
+<div class="scroll-spacer"></div>
+        
+	
+<style>
+@media screen and (max-width: 640px) { .top-nav-alert > p { font-size: 11px !important; } }
+</style>    
     <div id="wrap">
-        
-
-
-<div class="contain-to-grid sticky">
-    <div id="top">
-        <div class="row logo-container">
-            <div class="logo small-3 large-3 columns">
-                <div class="hide-for-small">
-                    <div class="row language-switcher">
-                        <div class="medium-6 columns text-right no-padding pick-language hide-for-small">Language:</div>
-                        <div class="medium-6 small-12 columns left no-padding">
-                            
-
-
-
-    
-    
-    <form id="setlangform" action="/i18n/setlang/" method="post"><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="WgLhyVO21DjzNPqjeMK69kWF1pm8olvZ"></div>
-        <select onchange="this.form.submit()" name="language">
-            
-                <option selected="" value="en">English</option>
-            
-                <option value="es">Español</option>
-            
-                <option value="hr">Hrvatski</option>
-            
-                <option value="tr">Türk</option>
-            
-        </select>
-    </form>
-
-
-                        </div>
-                    </div>
-                
-                </div>
-            </div>
-
-            <div class="logo large-6 columns">
-                <a href="/" title="Home">SHERRI HILL</a>
-            </div>
-            
-
-                <div class="user-corner small-12 medium-12 large-3 columns">
-                    
-                        
-                        
-                            <div class="top-login-link centered">
-                                <a class="nav-account-link" href="/auth/login?next=/privacy/">SIGN IN
-                                    / REGISTER</a>
-                            </div>
-                        
-                    
-                </div>
-            
-
+<div class="contain-to-grid clearfix">
+<div id="top" class="clearfix">
+  <div class="row logo-container">
+    <div class="medium-3 large-3 columns hide-for-small hide-for-sticky">
+      <div class="row language-switcher large-collapse medium-collapse">
+        <div class="medium-3 columns pick-language"> Language: </div>
+        <div class="medium-9 columns no-padding">
+          <form id="setlangform" action="/" method="post">
+            <select onchange="this.form.submit()" name="language">
+              <option value="en">English</option>
+<!--              <option value="de" >Deutsch</option>-->
+              <option value="es">Español</option>
+<!--              <option value="hr" >Hrvatski</option>
+              <option value="tr" >Türk</option>-->
+            </select>
+          </form>
         </div>
-        <a href="#" class="mobile-search-button sherri-search-icon">&nbsp;</a>
+      </div>
     </div>
-    <nav class="top-bar" data-topbar="">
+    <div class="medium-4 show-for-large-up large-4 columns shopping-bag-large-screen text-right" style="font-size: 12px;position: relative;top: 5px;">
+&nbsp;
+	</div>
 
-        <ul class="title-area">
-            <li class="name">
-                <a style="display:none;" class="" href="#">&nbsp;</a>
-            </li>
-            <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+    <div class="small-12 hide-for-large">
+      <div class="logo"> <a target="_parent" href="/" title="Home">SHERRI HILL</a> </div>
+      <div class="user-corner small-12 medium-12 large-3 columns">
+        			<div class="top-login-link centered"> 
+				<a class="nav-account-link" target="_parent" href="#" onclick="showLogin();return false">SIGN IN / REGISTER</a>
+			</div>
+		
+      </div>
+    </div>
+    <div class="medium-5 large-5 columns hide-for-small hide-for-medium float-right-sticky">
+      <div class="row text-right">
+        <div class="medium-12 large-12 columns no-padding">
+          <div class="user-search" style="display: inline-block;">
+            <form id="sherri-nav-search" class="autocomplete-me" method="get" action="/search" autocomplete="off">
+              <div class="nav-search-input">
+                <input type="text" name="q" id="id_q" placeholder="" style="color: white;text-shadow: none;">
+              </div>
+            </form>
+          </div>
+                          <div class="user-corner" style="display:inline-block; padding-left: 10px;">
+			<div class="top-login-link centered"> 
+				<a class="nav-account-link" target="_parent" href="#" onclick="showLogin();return false">SIGN IN / REGISTER</a>
+			</div>
+			</div>
+		        </div>
+      </div>
+    </div>
+  </div>
+  <a href="javascript:void(0)" class="mobile-search-button sherri-search-icon">&nbsp;</a> </div>
+<nav class="top-bar " data-topbar="">
+  <div id="top-logo" class="hide-for-small hide-for-medium hide-for-small">
+    <div class="logo centered"> <a target="_parent" href="/" title="Home">SHERRI HILL</a> </div>
+  </div>
+  <ul class="title-area">
+    <li class="name"> <a style="display:none;" class="" href="#/">&nbsp;</a> </li>
+    <li class="toggle-topbar menu-icon"> <a href="#/"></a> </li>
+  </ul>
+  <section class="top-bar-section clearfix">
+    
+    <ul class="top-bar-section-primary clearfix">
 
-        </ul>
-        
-    <section class="top-bar-section">
-            <ul>
-                <li class="has-dropdown search hide-for-small not-click">
-                    <a href="#">
+	
+		<li class="primary has-dropdown fashion"><a href="#">Fashion</a>   
+				<ul class="dropdown">
+				<li><label>Collections</label></li>
+				<li><a title="Fall 2016" href="/collections/fall-2016">Fall 2016</a></li><li><a title="Simply Sherri" href="/collections/simply-sherri-fall-2016">Simply Sherri</a></li><li><a title="Spring 2016" href="/collections/spring-2016">Spring 2016</a></li><li><a title="Bridal 2016" href="/collections/bridal-2016">Bridal 2016</a></li><li><a title="Prom dresses 2016" href="/collections/prom-dresses">Prom dresses 2016</a></li><li><a title="Spring 2015" href="/collections/spring-2015">Spring 2015</a></li><li><a title="Fall 2015" href="/collections/fall-2015">Fall 2015</a></li>
+				<li><label>Accessories</label></li>
+				<li><a title="iPhone Cases" href="/style/iphone-6-case-iphone-6-case/">iPhone Cases</a></li>
+				</ul>
+	
+	</li>
+  
+	
+		<li class="primary  fashion"><a target="_parent" href="/celebrities">Celebrities Spotted</a>   
+	
+	</li>
+  
+	
+		<li class="primary  fashion"><a target="_parent" href="/storelocator/">Find a Store</a>   
+	
+	</li>
+  
+	
+		<li class="primary  fashion"><a target="_parent" href="/backstage-pass">Backstage Pass</a>   
+	
+	</li>
+  
+	
+		<li class="primary  fashion"><a target="_parent" href="/fashion-week">Fashion Week</a>   
+	
+	</li>
+  
+	
+		<li class="primary  has-dropdown  fashion"><a target="_parent" href="#">The Brand</a>   
+	
+	  
+    <ul class="dropdown">
+
+		<li><a title="ABOUT" target="_parent" href="/brand/about-sherri-hill">ABOUT</a>   
+            
+        </li>
+
+  
+		<li><a title="#Sherrihill" target="_parent" href="/social/?trends=sherrihill&amp;recent=1">#Sherrihill</a>   
+            
+        </li>
+
+    </ul>
+
+</li>
+
+                <li class="primary sticky-search search  has-cart" style="width: 5%;">
+                    <a href="javascript:void(0)">
                         <i class="sherri-search-icon">&nbsp;</i>
                     </a>
-                    <ul class="dropdown navsearch large"><li class="title back js-generated"><h5><a href="javascript:void(0)">« 
-                        <i class="sherri-search-icon">&nbsp;</i>
-                    </a></h5></li>
-
-                    </ul>
                 </li>
-                <li class="has-dropdown fashion not-click"><a href="#">FASHION</a>
-                    <ul class="dropdown"><li class="title back js-generated"><h5><a href="javascript:void(0)">« FASHION</a></h5></li>
-                        <li><label>Collections</label></li>
-                        
-
-                            <li><a title="Fall 2015" href="/collections/fall-2015/">Fall 2015</a></li>
-
-                        
-
-                            <li><a title="Prom Dresses 2015" href="/collections/prom-dresses/">Prom Dresses 2015</a></li>
-
-                        
-
-                            <li><a title="Spring 2015" href="/collections/spring-2015/">Spring 2015</a></li>
-
-                        
-
-                            <li><a title="Fall 2014" href="/collections/fall-2014/">Fall 2014</a></li>
-
-                        
-
-                            <li><a title="Spring 2014" href="/collections/spring-2014/">Spring 2014</a></li>
-
-                        
-
-                            <li><a title="Fall 2013" href="/collections/fall-2013/">Fall 2013</a></li>
-
-                        
-
-                            <li><a title="Spring 2013" href="/collections/spring-2013/">Spring 2013</a></li>
-
-                        
-                    </ul>
-                </li>
-                <li class="celebrity"><a href="/celebrities">CELEBRITIES SPOTTED</a>
-                </li><li class="stores"><a href="/storelocator">FIND A STORE</a>
-                </li>
-                <li class="backstage"><a href="/backstage">BACKSTAGE PASS</a>
-                </li>
-                <li class="fashionweek"><a href="/fashion-week">FASHION WEEK</a>
-                </li>
-                <li class="has-dropdown brand not-click"><a href="#">THE BRAND</a>
-                    <ul class="dropdown"><li class="title back js-generated"><h5><a href="javascript:void(0)">« THE BRAND</a></h5></li>
-                        <li>
-                            <a href="/brand/about-sherri-hill">ABOUT</a>
-                        </li>
-                        <li>
-                            <a href="/social/">#SherriHill</a>
-                        </li>
-                        <li><a href="/blog/">Blog</a></li>
-                    </ul>
-                </li>
-                <li class="has-dropdown has-form show-for-small-only not-click">
-                    
-
-
-
-    
-    
-    <form id="setlangform" action="/i18n/setlang/" method="post"><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="WgLhyVO21DjzNPqjeMK69kWF1pm8olvZ"></div>
-        <select onchange="this.form.submit()" name="language">
-            
-                <option selected="" value="en">English</option>
-            
-                <option value="es">Español</option>
-            
-                <option value="hr">Hrvatski</option>
-            
-                <option value="tr">Türk</option>
-            
-        </select>
-    </form>
-
-
-                </li>
-            </ul>
-        </section></nav>
-    <div class="small-12 columns search-page-form no-padding"><form id="search" class=" autocomplete-me" method="get" action="/searcher" autocomplete="off"><div class="row collapse search-input-wrapper"><div class="small-10 medium-11 columns search-input"><input type="text" placeholder="Enter a style # or collection..." name="q" id="id_q"></div><div class="small-2 medium-1 columns submit-input"><a onclick="document.getElementById('search').submit();" href="#" class="submit-input hvr-sweep-to-right postfix">Go</a></div></div></form></div>
-</div>
-        <div id="content" class="row">
-            <div class="small-12 columns">
-                <div class="row">
-                    
-                        <div class="small-11 columns">
-                    <nav class="breadcrumbs base" role="menubar" aria-label="breadcrumbs">
-                        
-                    </nav>
-                    </div>
-                    
-
-                    </div>
-                    
-                    
-                </div>
-
-                <div class="small-12 columns small-no-padding">
-                    
-                    
-    <div class="small-11 small-centered medium-10 large-12 large-uncentered columns brand-body">
-                <h1>Privacy Statement</h1>
-        
-        <p>SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?</p>
-<p>When you browse our website, we automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.</p>
-<p>Email marketing: With your permission, we may send you emails about our store, new products and other updates.</p>
-<p>SECTION 2 - CONSENT</p>
-<p>How do you get my consent?</p>
-<p>If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.</p>
-<p>How do I withdraw my consent?</p>
-<p>If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at info@sherrihill.com or mailing us at: 9011 Tuscany Way, Austin, TX 78754.</p>
-<p>SECTION 3 - DISCLOSURE</p>
-<p>We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.</p>
-<p>SECTION 4 - THIRD-PARTY SERVICES</p>
-<p>In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.</p>
-<p>However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.</p>
-<p>For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.</p>
-<p>In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.</p>
-<p>As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.</p>
-<p>&nbsp;</p>
-<p>Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.</p>
-<p>Links</p>
-<p>When you click on links on our website, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.</p>
-<p>SECTION 6 - SECURITY</p>
-<p>To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.</p>
-<p>If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.</p>
-<p>SECTION 7 - COOKIES</p>
-<p>Like most interactive web sites this Company’s website [or ISP] uses cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate partners may also use cookies.</p>
-<p>SECTION 8 - AGE OF CONSENT</p>
-<p>By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.</p>
-<p>SECTION 9 - CHANGES TO THIS PRIVACY POLICY</p>
-<p>We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.</p>
-<p>QUESTIONS AND CONTACT INFORMATION</p>
-<p><a name="_GoBack"></a>If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@sherrihill.com or by mail at 9011 Tuscany Way, Austin, TX 78754. &nbsp;</p>
+    </ul>
+<li class="primary has-dropdown has-form mobile-language-switcher">
+	<form id="setlangform" action="" method="post">
+		<select onchange="this.form.submit()" name="language">
+		  <option value="en">English</option>
+<!--		  <option value="de" >Deutsch</option>-->
+		  <option value="es">Español</option>
+<!--		  <option value="hr" >Hrvatski</option>
+		  <option value="tr" >Türk</option>-->
+		</select>
+	</form>
+</li>
+  </section>
+</nav>
+<div class="small-12 columns search-page-home user-search search-page-form no-padding nav-search-input">
+  <form id="search" class="autocomplete-top" method="get" action="/search" autocomplete="off">
+    <div class="row collapse search-input-wrapper" style="height: 42px;">
+      <div class="small-12 medium-12 columns search-input">
+        <input type="text" placeholder="Enter a style # or collection..." name="q" id="id_q">
+      </div>
+      <div class="small-2 medium-1 columns submit-input"> <a onclick="document.getElementById('search').submit();" href="#" class="submit-input hvr-sweep-to-right postfix" style="border-left: 1px solid #202020;">Go</a> </div>
     </div>
+  </form>
+</div>
+</div>
 
-
-                </div>
-
-            </div>
+<div class="small-12 columns">
+	<div class="row">
+		<div class="small-11 columns">
+			<nav class="breadcrumbs base" role="menubar" aria-label="breadcrumbs">
+					<li><a href="/">Home</a></li>
+				
+					
+				
+					
+					
+					<li>
+						
+							Privacy
+						
+					</li>
+					
+					
+				
+			</nav>
         </div>
-        
+	</div>
+</div>
+
+<div id="content" class="row">
+
+
+        <div class="small-12 columns small-no-padding ">
+		<div class="small-11 small-centered medium-10 large-12 large-uncentered columns brand-body">
+                    <h1>Privacy Statement</h1>
+
+<p>SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?</p><p>When you browse our website, we automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.</p><p>Email marketing: With your permission, we may send you emails about our store, new products and other updates.</p><p>SECTION 2 - CONSENT</p><p>How do you get my consent?</p><p>If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.</p><p>How do I withdraw my consent?</p><p>If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at info@sherrihill.com or mailing us at: 9011 Tuscany Way, Austin, TX 78754.</p><p>SECTION 3 - DISCLOSURE</p><p>We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.</p><p>SECTION 4 - THIRD-PARTY SERVICES</p><p>In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.</p><p>However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.</p><p>For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.</p><p>In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.</p><p>As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.</p><p>Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.</p><p>Links</p><p>When you click on links on our website, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.</p><p>SECTION 6 - SECURITY</p><p>To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.</p><p>If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.</p><p>SECTION 7 - COOKIES</p><p>Like most interactive web sites this Company’s website [or ISP] uses cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate partners may also use cookies.</p><p>SECTION 8 - AGE OF CONSENT</p><p>By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.</p><p>SECTION 9 - CHANGES TO THIS PRIVACY POLICY</p><p>We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.</p><p>QUESTIONS AND CONTACT INFORMATION</p><p><a name="_GoBack"></a>If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@sherrihill.com or by mail at 9011 Tuscany Way, Austin, TX 78754.  </p><section></section>
+
+  </div>
+  <!-- end class="small-12 columns small-no-padding" --> 
+</div>
+</div>
+</div>
+
+<script src="//d250wtlu7i24bo.cloudfront.net/js/bower_components/foundation/js/foundation.min.js" type="text/javascript"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.accordion.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/bower_components/foundation/js/vendor/modernizr.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/jquery.modal.min.js" type="text/javascript"></script>
+	<script src="/content/addons/feathers/sherrihill/js/category-filters-v2.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/endless-pagination.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/social_posts.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/slick.min.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/app.js" type="text/javascript"></script>
+	<script src="/content/addons/feathers/sherrihill/js/geo.js" type="text/javascript"></script>
+	<script src="/content/addons/feathers/sherrihill/js/home_redesign.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/home.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/search_autocomplete.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/search_autocomplete_top.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/tabbedcontent.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/mediaelement-and-player.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/foundation.dropdown.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/foundation.topbar.js" type="text/javascript"></script>
+	<script src="//d250wtlu7i24bo.cloudfront.net/js/foundation.reveal.js" type="text/javascript"></script>
+	<script type="text/javascript">$(function () {
+											$('.homepage-instagram-slidere').slick(
+											{
+												responsive: [
+												{
+													breakpoint: 640,
+													settings: {
+														slidesToShow: 12,
+													}
+												},
+												],
+												slidesToShow: 12,
+												slidesToScroll: 1,
+												arrows: true,
+												adaptiveHeight: false,
+												infinite: false
+											}
+											);
+      									
+										});</script>
+<script src="/content/addons/feathers/infinitescroll/js/jquery.infinitescroll.min.js" type="text/javascript"></script>
+	<script src="/content/addons/feathers/infinitescroll/js/perch.scrolling.js" type="text/javascript"></script>
+
 
 <div id="footer">
-    
-    
-    <div class="row footer">
-        <div class="small-centered medium-4 medium-uncentered medium-pull-0 columns footer-links find-store-footer-link">
-            <a href="/storelocator" title="Find a Store">FIND A STORE</a>
-        </div>
-        <div class="small-centered medium-4 medium-uncentered medium-push-4 columns footer-icons">
-            <span class="lets-be show-for-large-up">LET'S BE SOCIAL</span>
-            <span>
-            <a rel="nofollow" title="follow us on Twitter" href="https://twitter.com/SherriHill" target="_blank">
-                <i class="fa fa-twitter"></i>
-            </a>
-                    <a rel="nofollow" title="follow us on Facebook" href="https://www.facebook.com/sherrihilldresses" target="_blank">
-                        <i class="fa fa-facebook"></i>
-                    </a>
+<div class="footer-newsletter footer hide-for-small ">
+  <div class="footer-wrapper">
+    <div class="row">
+      <div class="medium-12 columns">
+        <div class="footer-widget">
+          <div class="footer-widget-title ribbon">
+          
 
-                    <a rel="nofollow" title="follow us on Pinterest" href="http://www.pinterest.com/sherrihill/" target="_blank">
-                        <i class="fa fa-pinterest"></i>
-                    </a>
+              <div id="mc_embed_signup_scroll">
+                <div class="row">
+                  <div class="small-12 large-12 email-input columns text-center"> <span class="newsletter-label">SIGN UP TO RECEIVE SHERRI HILL UPDATES</span>
+					<span style="display: inline-flex;">
+<form id="form1_subscribe" action="/privacy" method="post">
+	
 
-                    <a rel="nofollow" title="follow us on Instagram" href="http://instagram.com/sherrihill" target="_blank">
-                        <i class="fa fa-instagram"></i>
-                    </a>
-                    <a rel="nofollow" title="follow us on Youtube" href="https://www.youtube.com/user/SherriHill" target="_blank">
-                        <i class="fa fa-youtube"></i>
-                    </a>
-        </span>
+	<div>
+		<input id="form1_email" name="email" class="email theme-default-input newsletter-input" placeholder="Enter Email Address" type="email" required="required">
+		
+		<button name="subscribe" id="mc-embedded-subscribe" type="submit" class="home-subscribe-button button tiny" style="background: transparent; margin-bottom: 0; padding: 0; "> </button>
+	</div>
+	<div style="display:none">
+		<input id="form1_btnsubmit" name="btnsubmit" value="Submit" type="submit"><input type="hidden" name="cms-form" value="c3Vic2NyaWJlOnBlcmNoX21haWxjaGltcDovdGVtcGxhdGVzL21haWxjaGltcC9mb3Jtcy9zdWJzY3JpYmUuaHRtbDoxNDc2MTAwNTk1">
+		<input id="form1_confirm" name="confirm" value="1" type="hidden">
+		<input id="form1_list" name="list" value="d8b7779c26" type="hidden">
+	</div>	
+
+</form>
+</span>                  </div>
+                </div>
+              </div>
+          </div>
         </div>
-        <div class="small-centered medium-4 medium-uncentered text-center medium-pull-4 columns footer-links faq-links">
-            <a href="/faq" title="Frequently Asked Questions">FAQ</a>
-            <a href="/terms-service" title="Terms of Service">Terms of Service</a>
-            <a href="/privacy" title="Privacy Statement">Privacy</a>
-            <a href="/contact" title="Contact">Contact</a>
-        </div>
+      </div>
     </div>
+  </div>
 </div>
-
-
+<div class="footer-content footer">
+  <div class="footer-wrapper">
+    <div class="row">
+      <div class="small-12 medium-4 columns hide-for-small ">
+        <div class="footer-widget with-menu">
+          <p class="footer-widget-title">Fashion</p>
+          <ul>
+          <li><a href="/collections/fall-2016">Fall 2016</a></li><li><a href="/collections/simply-sherri-fall-2016">Simply Sherri</a></li><li><a href="/collections/spring-2016">Spring 2016</a></li><li><a href="/collections/bridal-2016">Bridal 2016</a></li><li><a href="/collections/prom-dresses">Prom Dresses 2016</a></li><li><a href="/collections/spring-2015">Spring 2015</a></li><li><a href="/collections/fall-2015">Fall 2015</a></li>          </ul>
+        </div>
+      </div>
+      <div class="small-12 medium-5 columns">
+        <div class="footer-widget with-menu hide-for-small ">
+          <p class="footer-widget-title">THE BRAND</p>
+          <ul>
+<li><a title="ABOUT" target="_parent" href="/brand/about-sherri-hill">ABOUT</a></li><li><a title="#Sherrihill" target="_parent" href="/social/?trends=sherrihill&amp;recent=1">#Sherrihill</a></li><li><a title="Become a Retailer" target="_blank" href="http://www.sherrihill.net/store/newstore">Become a Retailer</a></li>          </ul>
+        </div>
+        <div class="footer-widget">
+          <p class="footer-widget-title"> <a target="_parent" href="/storelocator" style="color:white;"> <img width="17px" src="/content/addons/feathers/sherrihill/images/loc.png">&nbsp;&nbsp;FIND A STORE </a> </p>
+        </div>
+      </div>
+      <div class="small-12 medium-3 columns">
+        <div class="footer-widget">
+          <p class="footer-widget-title">CONNECT WITH US</p>
+          <ul class="footer-widget-social">
+            <li> <a rel="nofollow" title="follow us on Twitter" target="_blank" href="https://twitter.com/SherriHill"> <i class="fa fa-twitter"></i> </a> </li>
+            <li> <a rel="nofollow" title="follow us on Facebook" target="_blank" href="https://www.facebook.com/sherrihilldresses"> <i class="fa fa-facebook"></i> </a> </li>
+            <li> <a rel="nofollow" title="follow us on Pinterest" target="_blank" href="http://www.pinterest.com/sherrihill/"> <i class="fa fa-pinterest"></i> </a> </li>
+            <li> <a rel="nofollow" title="follow us on Instagram" target="_blank" href="http://instagram.com/sherrihill"> <i class="fa fa-instagram"></i> </a> </li>
+            <li> <a rel="nofollow" title="follow us on Youtube" target="_blank" href="https://www.youtube.com/user/SherriHill"> <i class="fa fa-youtube-play"></i> </a> </li>
+          </ul>
+        </div>
+        <div class="footer-widget hide-for-small " style="padding-top:40px">
+          <p class="footer-widget-title">SEARCH</p>
+          <form id="sherri-nav-search" method="get" action="/search" autocomplete="off">
+            <input style="font-size: 12px; padding-left: 15px; text-shadow: none;" class="theme-default-input" type="text" name="q" id="id_q" placeholder="">
+          </form>
+        </div>
         
-            
-                
-                
+      </div>
+    </div>
+  </div>
+</div>
+<style type="text/css">
+	@media only screen and (max-width:640px){
+		#footer .footer-wrapper {
+			width: 100% !important;
+		}
+		body #footer .footer-bottom-menu li a {
+			font-size: 10px;
+		}
+		body #footer .footer-bottom-menu li {
+			font-size: 10px !important;
+			padding-right: 15px;
+		}
+		body #footer .columns { line-height: 1; }
+				#footer .footer-bottom { padding: 10px 0 8px; }
+				.footer-bottom .footer-bottom-copyright { display: none !important; }
+				.footer-copyright-mobile { background: #000; border-top: 1px solid 0000222; }
+				.footer-copyright-mobile .footer-bottom-copyright { display: block !important; margin: 0; text-align: center; padding: 10px 0; }
+				.footer-copyright-mobile .footer-bottom-copyright li { float: none !important; display: inline-block !important; margin: 0; padding: 0 !important; font-size: 11px !important; }
+
+	}
+	@media only screen and (min-width:640px){
+		.footer-copyright-mobile .footer-bottom-copyright { display: none !important; }
+	}
+</style>
+<div class="footer-bottom">
+  <div class="footer-wrapper">
+    <div class="row">
+      <div class="medium-12 large-12 columns">
+        <ul class="footer-bottom-copyright">
+          <li class="no-padding"><a href="#">© SHERRI HILL 2016</a></li>
+        </ul>
+        <ul class="footer-bottom-menu">
+          <li><a target="_parent" href="/faq" title="Frequently Asked Questions">FAQ</a></li>
+          <li class="show-for-medium-up"><a target="_parent" href="/terms-service">TERMS OF SERVICE</a></li>
+          <li class="show-for-small-only"><a target="_parent" href="/terms-service">TERMS</a></li>
+          <li><a target="_parent" href="/privacy">PRIVACY</a></li>
+          <!--<li><a target="_parent" href="#/retailer">RETAILER LOGIN</a></li>-->
+          <li class="no-padding"><a target="_parent" href="/contact-us">CONTACT</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer-copyright-mobile clearfix"></div>
+<script>
+     $(document).ready(function(){
+      $('.footer-bottom-copyright').clone().appendTo('.footer-copyright-mobile'); 
+     }); 
+ </script>
+
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-27096488-1']);
@@ -362,82 +704,4 @@
   })();
 </script>
 
-
-            
-        
-
-        
-            <script src="/static/skin/bower_components/foundation/js/vendor/fastclick.js"></script>
-        
-        <script src="/static/skin/bower_components/foundation/js/vendor/modernizr.js"></script>
-        <script src="/static/skin/bower_components/foundation/js/foundation.min.js"></script>
-        <script src="/static/slick/slick.min.js"></script>
-        <script src="/static/skin/js/app.js"></script>
-        <script>
-            jQuery(function () {
-                sherri.gigya_login_return_url = "/auth/login/return/";
-
-                sherri.static_url = "/static/"
-                
-            })
-        </script>
-        
-<div id="GigyaMessage">
-<div class="row">
-    <div class="small-12 columns message-content">
-
-        <div class="row">
-            <div class="small-3 medium-2 columns badge-info">
-                <div class="row badge-row">
-                    <div class="small-12 columns badge">
-                        <img width="70px" height="63px" src="">
-                    </div>
-                    <div class="small-12 columns level-title"></div>
-                </div>
-
-            </div>
-            <div class="small-4 medium-5 columns about-achievement">
-                <div class="greeting"></div>
-                <div class="congrats"></div>
-                <div class="hide-for-small message-extra"></div>
-            </div>
-            <div class="small-3 medium-4 columns message-next-level">
-                <div class="row">
-                    <div class="small-3 columns lock"><i class="fa fa-lock"></i></div>
-                    <div class="small-9 columns points-to-unlock">
-                        <div class="row">
-                            <div class="small-12 medium-12 columns points-to-go"></div>
-
-                            <div class="medium-12 columns more-points">more points to unlock</div>
-                            <div class="small-12 medium-12 columns to-unlock"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="small-2 medium-1 columns">
-                <a href="#" title="Close" class="close-message right" onclick="sherri.closeMessage()"><i class="fa fa-close"></i></a>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-
-        
-    
-
-
-
-        <script type="text/javascript" src="/static/skin/js/pages.js"></script>
-    
-
-        <script>
-            sherri.next_url = "";
-            sherri.ga_account = "UA-27096488-1";
-            sherri.user_language = "en";
-        </script>
-
-    
-
-
-
-</body></html>
+</div></body></html>
