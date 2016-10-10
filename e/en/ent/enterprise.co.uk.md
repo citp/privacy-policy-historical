@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316035053id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010120112id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENGB.NULL) for the most accurate reproduction.*
 
 # Privacy Policy
 
