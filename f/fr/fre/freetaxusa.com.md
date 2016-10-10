@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515012432id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetaxusa.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010163847id_/http%3A//www.freetaxusa.com/privacy.jsp) for the most accurate reproduction.*
 
 # FreeTaxUSA® Privacy Policy Regarding Free Tax Preparation and E-file
 
-[](https://privacy.truste.com/privacy-seal/TaxHawk,-Inc-/validation?rid=c42c3969-4ba9-45a8-a024-d06b6af0032e "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=c42c3969-4ba9-45a8-a024-d06b6af0032e "TRUSTe Privacy Certification")
 
-_Effective: 10/20/2015_
+_Effective: 07/19/2016_
 
 This privacy statement applies to www.FreeTaxUSA.com which is owned and operated by TaxHawk, Inc. This privacy statement describes how TaxHawk, Inc. collects and uses the personally identifiable information you provide on our web site: www.FreeTaxUSA.com ("FreeTaxUSA"). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information. FreeTaxUSA.com treats your financial and personally identifiable information as confidential and will not sell or rent any information.
 
-TaxHawk, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.FreeTaxUSA.com](https://web.archive.org/index.jsp).
+The TRUSTe program covers only information that is collected through this Web site, [www.FreeTaxUSA.com](https://web.archive.org/index.jsp), and does not cover information that may be collected through software downloaded from the website.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Information Collection and Use
 
@@ -60,7 +60,7 @@ We will retain your information for as long as needed to provide you services. W
 
 Legal Disclosures
 
-Though every effort is made to preserve user privacy, FreeTaxUSA.com may need to disclose personally identifiable information when required by law wherein we have a good-faith belief that such action is necessary to protect our rights, protect your safety or the safety of others, to investigate fraud, to comply with a current judicial proceeding, a court order, respond to a government request or legal process served on our website.
+Though every effort is made to preserve user privacy, FreeTaxUSA.com may need to disclose personally identifiable information when required by law wherein we have a good-faith belief that such action is necessary to protect our rights, protect your safety or the safety of others, to investigate fraud, to comply with a current judicial proceeding, a court order, respond to a government request, bankruptcy proceeding or similar legal process served on our website.
 
 Information Sharing
 
