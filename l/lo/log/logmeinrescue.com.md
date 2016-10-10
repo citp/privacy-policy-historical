@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logmeinrescue.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316200231id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logmeinrescue.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011013603id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
 
 # LogMeIn - Privacy Policy
 
