@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618092418id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011004548id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
 
 # Socialserve.com - Privacy Guidelines
 
@@ -61,11 +61,11 @@ Socialserve.com takes our users' and clients' privacy seriously. As a nonprofit 
 
 
 Copyright © 2016 - [Emphasys Software](http://emphasyshfa.com/) - All rights reserved  
-Email: [info@socialserve.com](https://www.socialserve.com/SendEmail.html?type=Questions "Email Socialserve.com") - Socialserve.com - PO Box 35305 - Charlotte, NC 28235 
+Email: [info@socialserve.com](https://web.archive.org/SendEmail.html?type=Questions "Email Socialserve.com") - Socialserve.com - PO Box 35305 - Charlotte, NC 28235 
 
 Phone: 704.334.8722 - Fax: 704.334.0779   
 Toll-Free: 1.877.428.8844 \- Toll-Free Fax: 1.866.265.7811 \- TDD/TTY: 7-1-1 [ [ Relay Service](https://www.fcc.gov/encyclopedia/telecommunications-relay-services-directory) ]   
-Page Loaded: 06/18/16 05:24 (Eastern Time) - Version 4.0
+Page Loaded: 10/10/16 20:45 (Eastern Time) - Version 4.0
 
 [](http://portal.hud.gov/hudportal/HUD/program_offices/fair_housing_equal_opp/FHLaws/yourrights "Fair Housing Act of 1968") [](https://www.disability.gov/ "Universally Accessible")   
 
