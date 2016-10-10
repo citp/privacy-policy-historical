@@ -1,84 +1,85 @@
-> *The following text is extracted and transformed from the pachube.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116153914id_/https%3A//cosm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pachube.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011013603id_/https%3A//secure.logmein.com/policies/privacy.aspx) for the most accurate reproduction.*
 
-# Cosm - Privacy Policy
+# LogMeIn - Privacy Policy
 
-Your privacy is important to Cosm Ltd. This privacy statement provides information about the personal information that Cosm Ltd. collects, and the ways in which Cosm Ltd. uses that personal information.
+Last Updated: December 2015 
 
-### Personal information collection
+LogMeIn, Inc. and its subsidiaries (together hereinafter referred to as "LogMeIn," "we," "us" or "our"), are committed to protecting the privacy of those individuals who visit our websites (the "Websites") and register to use our applications and services ("Services"). This policy describes our privacy practices and how we use and collect the personal information that you share with us when browsing our Website(s) and/or registering an account with us.
 
-As you navigate through this Website, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your internet browser automatically transmits some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer or mobile device is currently using; the date and time you access the Website and the pages that you access while at the Website. This information is used for internal/external marketing purposes, to analyze trends and to improve our Website, products and services. Our Website may also collect anonymous information from your computer or mobile device through cookies and internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this Website might not work without cookies. 
+## International Use & Safe Harbor Statement
 
-### Choice/Opt-Out
+LogMeIn is headquartered in the United States of America. Therefore, personal information that we collect and maintain may be transferred to or controlled and processed in the United States of America and/or other countries around the world. By providing us with personal information and by using our Website(s) and Services, you consent to this transfer. We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored, however you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts, law enforcement and/or regulatory agencies of the United States who have valid jurisdiction over LogMeIn to obtain disclosure of your personal information subject to a valid subpoena, court order or similar official request. 
 
-You may elect to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Policy unless you take affirmative action to opt out at the point of collection. Opt-out is the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by the opt-out choice. You may opt out at the point of collection when personal information is collected, or you may do so at any time by sending an email request to [support@cosm.com](mailto:support@cosm.com?subject=Opt%20Out) (please indicate "Opt Out" in the subject line) or by sending a written request to the address provided below. In some cases, we will provide you with the opportunity to "opt in". This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted. 
+LogMeIn continues to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. LogMeIn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LogMeIn's certification, please visit <http://www.export.gov/safeharbor/>.
 
-### Information we don't collect
+## How and When Information is Collected
 
-When purchasing services from Cosm Ltd. we may ask for your credit/debit card details in order to process recurring payments for services, however we will **never store these details on our systems, they will only ever be stored by our fully[PCI](http://en.wikipedia.org/wiki/PCI_DSS) compliant payment processing partners.**
+Generally, you can browse through our Website(s) without providing us with any personally identifiable information about yourself. However, as you navigate through our Website(s) and/or use our Services, certain anonymous information may be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, unique IDs, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your internet browser automatically transmits some of this anonymous information, such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer or mobile device is currently using; the date and time you access the Website and the pages that you access while at the Website. This information is used by us for internal business purposes, to analyze trends and to improve upon our Website, products and Services. Other anonymous information may be collected from your computer or mobile device through tracking technologies that we employ on our Websites such as cookies, unique IDs and internet tags or web beacons. You may set your browser to notify you when a tracking cookie is sent or to refuse cookies altogether, but please be aware that certain features of our Website(s) may not work without cookies enabled.
 
-### Using personal information
+LogMeIn also collects and uses the personal information that you proactively provide to us when you:  
+•   Register an account with us to use any of our Services on a paid or free/trial basis;  
+•   Register for any webinars, seminars or similar online programs or events hosted or sponsored by LogMeIn;  
+•   Enter any of our contests, sweepstakes or other promotions;  
+•   Respond to any LogMeIn surveys, emails, questionnaires or similar online forms; or  
+•   Contact us to request information or otherwise correspond with us. 
 
-Cosm Ltd. may use your personal information to:
+We may also receive personal information from our business partners and vendors and, so long as it has been collected in accordance with applicable laws and acceptable privacy practices consistent with this Policy, we may aggregate such information with the information we collect from you ourselves to help us form a more complete user profile for you.
 
-  * Administer this website;
-  * Personalize the website for you;
-  * Enable your access to and use of the website services;
-  * Supply to you services that you purchase;
-  * Collect payments from you;
-  * Send you communications about the service;
+## Our Use of Cookies and Tracking Technologies
 
+LogMeIn uses cookies to help us track and analyze user traffic patterns. A "Cookie" is a small data file that certain websites write to your hard drive when you visit them. Cookies cannot be used to run programs or deliver viruses to your computer. A cookie file can contain information such as a unique user ID that a website uses to track the pages you've visited, but the only personal information a cookie can contain is information you elect to supply yourself. A cookie can't read data off your hard disk or read cookie files created by other websites. Cookies can help save you time, for example, if you personalize a web page, or navigate within a website, a cookie recalls your specific information for future visits.
 
+In addition to cookies, our Website(s) use a variety of other methods and tools for tracking purposes, including Internet tags and web beacons, which are small pieces of data that are embedded in images and pages of our Websites. While most web browsers automatically accept cookies, many browsers allow you to modify your browser setting to decline cookies and/or "opt-out" of tracking technologies. Please note however, if a visitor turns off cookies such visitor may find some of the functionality of our website and/or our services and Apps, to be reduced or impired.
 
-Where Cosm Ltd. discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
+We also utilize both proprietary and third party analytics tools, such as Google Analytics, to gather information designed to help us gain insight into how visitors interact with and use our Websites and Services. You can prevent your data from being collected by Google Analytics on our Websites by installing the Google Analytics opt-out browser add-on, which is available [here](https://tools.google.com/dlpage/gaoptout). We may also use certain Google Analytics Advertising features which provide interest-based ads based on your visit to our Websites or other websites. You can manage the Google ads you see and opt-out of interest-based ads through Google's Ad Settings [here](https://www.google.com/settings/u/0/ads/authenticated).
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Cosm Ltd. may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+## How We Use Information Collected
 
-Cosm Ltd. agree to abide by the communications preferences you set up in your profile and will not use your email address for unsolicited emails. We will never sell your email address to third parties.
+LogMeIn uses the information we collect for our own general business purposes, which may include:  
+•   to help us analyze, research, report on and improve upon the Services we provide;  
+•   to fulfill your requests and/or orders for certain products, services and support;  
+•   to market our Services, or the services of our third party business partners, to you and keep you up to date on our latest product updates, announcements, and special offers. You may opt out of receiving these communications at any time (see "Choice/Opt-Out" below). 
 
-### Securing your data
+## Information Sharing and Disclosure
 
-Cosm Ltd. will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+Unless you opt-in, LogMeIn will not transfer your personal information to third parties, except we may transfer your personal information without your consent to the extent required to do so by law or in the good faith belief that such action is necessary to: (i) conform to the edicts of law or comply with legal process served on LogMeIn or the site; (ii) protect or defend the rights or property of LogMeIn; (iii) act in urgent circumstances to protect the personal safety, property, or privacy of LogMeIn's employees, users of LogMeIn's products or service, or members of the public; or (iv) effect a transaction, restructuring or proceeding that transfers to a third party the assets or line of business to which the information pertains. If you choose to provide us with your personal information, we may transfer that information within LogMeIn or to LogMeIn's third party service providers with your permission. In addition, LogMeIn may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of LogMeIn to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners (unless you have opted out of these types of communications).
 
-Cosm Ltd. will store the personal information you provide on its secure servers.
+In addition, we may share non-identifiable aggregate information about our users (for example, the proportion of male and female users) with advertisers, business partners, and other third parties in an effort to customize or enhance the content and advertising on our Website for our users.
 
-Information relating to electronic transactions entered into via this website will be protected by encryption technology.
+## Choice/Opt-Out
 
-### Data ownership
+Unless you take affirmative action to "opt-out" of receiving marketing and promotional materials at the point of data collection, we assume that you have given us your consent to collect and use your information in accordance with this Policy. The "opt-out" checkbox is the means by which you give us, or decline to give us, your consent to use your personal information for the purpose(s) covered by the applicable opt-out choice. You may indicate your desire to "opt-out": (i) at the point of data collection when your personal information is entered by using the "opt-out" checkbox, (ii) when you receive marketing and promotional communications from us by clicking the "unsubscribe" hyperlink and following the instructions, or (iii) at any time by sending an email request to support@logmein.com (please indicate "Opt-Out" in the subject line) or by sending a written request to our address as provided below ("Contact Us").
 
-Your data belongs to you and you are free at any time to download an archive of it should you choose to discontinue using the services provided by LogMeIn Cosm Ltd. Additionally, if requested, all personal data linked to you will be removed from the service.
+In certain cases, we will provide you with the opportunity to "opt-in". This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted. You may also stop the collection of personally identifiable information in connection with your use of our Services by stopping your use of them.
 
-By using the services provided by Cosm Ltd. you agree to allow Cosm Ltd. access to your data. We will at all times respect the privacy settings as set in your account
+## Your Ability to Review and Delete Information
 
-### Cross-border data transfers
+You can always ask to review any personal information that we have collected from you, have us update, correct or delete this information and/or instruct us not to use this information in the future. If you wish to exercise this right, simply contact us (see below).
 
-Information that Cosm Ltd. collects may be stored and processed in and transferred between any of the countries in which Cosm Ltd. operates to enable the use of the information in accordance with this privacy policy.
+## Data Security
 
-In addition, personal information that you deem non-private and that you submit for publication on the website will be published on the internet and may be available around the world.
+Your personal information is protected for your privacy and security. LogMeIn safeguards the security and confidentiality of the data you send us with physical, technical, and managerial procedures. Please be aware that, despite our best efforts, no security measures are perfect or impenetrable. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, take advantage of multi-factor authentication features where available and make sure you use an up-to-date and secure browser.
 
-You agree to such cross-border transfers of personal information.
+## Third Party Sites
 
-### Updating this statement
+Our Websites may contain links to websites operated by third-parties. Some of these third-party sites may be co-branded with a LogMeIn logo even though they are not operated or maintained by LogMeIn. Although we choose our business partners carefully, LogMeIn is not responsible for the privacy practices of websites operated by third parties that are linked to our Websites. Once you have left our Websites, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
 
-Cosm Ltd. may update this privacy policy by posting a new version on this website. 
+## Changes to this Privacy Policy
 
-You should check <https://cosm.com/privacy> occasionally to ensure you are familiar with any changes.
+LogMeIn may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
 
-### Other websites
+## Children's Privacy
 
-This website contains links to other websites.
+Our website is a general audience site that does not target and is not intended for children under the age of 13. LogMeIn does not knowingly solicit or maintain personal information pertaining to children under the age of 13.
 
-Cosm Ltd. is not responsible for the privacy policies or practices of any third party.
+## Contact Us
 
-### Contact Cosm Ltd.
+LogMeIn welcomes your comments regarding this privacy statement and our privacy practices. If you have reason to believe that LogMeIn has not adhered to this privacy statement, please contact us electronically at legal@logmein.com or at the address provided below:
 
-If you have any questions about this privacy policy or Cosm Ltd.'s treatment of your personal information, please contact us:
+LogMeIn, Inc.
 
-  * by email to [support@cosm.com](mailto:support@cosm.com) or
-  * by post to LogMeIn Pachube Ltd., 3 Scrutton St, London EC2A 4HF.
-  * by telephone at +44(0) 20 3441 1343
+Attention: General Counsel
 
-
-
-### This privacy statement
-
-This privacy statement is based on a precedent created by [employmentlawcontracts.co.uk](http://employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://freenetlaw.com/).
+320 Summer Street Suite 100  
+Boston, MA 02210  
+U.S.A. 
