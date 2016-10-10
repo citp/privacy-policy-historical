@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228224418id_/http%3A//www.mochacity.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010021802id_/http%3A//www.mochacity.com/support/privacy) for the most accurate reproduction.*
 
 # Your Privacy on MochaCity
 
