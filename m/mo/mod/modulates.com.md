@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modulates.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609101320id_/http%3A//www.modulates.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modulates.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010093133id_/http%3A//www.modulates.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Modulates.com
 
