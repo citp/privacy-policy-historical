@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4premium.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054407id_/http%3A//www.cam4premium.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4premium.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011220817id_/http%3A//www.cam4premium.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Cam4Premium - Privacy Policy
 
