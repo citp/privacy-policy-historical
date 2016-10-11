@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoonhd.website privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622163204id_/http%3A//cartoonhd.website/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonhd.website privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011134840id_/http%3A//cartoonhd.website/pages/privacy) for the most accurate reproduction.*
 
-# Cartoon HD - Watch TV Shows and Movies Online Free
+# Cartoon HD - Watch TV Shows Online Free | Watch Movies Online Free
 
 ### Cartoon HD Privacy Policy
 
