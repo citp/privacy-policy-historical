@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the io-media.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610121030id_/http%3A//www.io-media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the io-media.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011044231id_/http%3A//www.io-media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IOMEDIA
 
