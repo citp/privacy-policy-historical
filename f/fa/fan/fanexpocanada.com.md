@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611205403id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011150150id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Expo Canada
 
