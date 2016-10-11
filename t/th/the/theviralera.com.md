@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theviralera.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125605id_/http%3A//theviralera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theviralera.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011200501id_/http%3A//theviralera.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Viral Era
+# None
 
 This privacy policy sets out how theviralera uses and protects any information that you give us when you use this website.  
 theviralera is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
