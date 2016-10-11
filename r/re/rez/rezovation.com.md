@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rezovation.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616213724id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezovation.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011025823id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
