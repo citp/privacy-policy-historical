@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webbusinessbasics.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324203841id_/http%3A//webbusinessbasics.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbusinessbasics.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011234744id_/http%3A//webbusinessbasics.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Web Business Basics Privacy Policy
 
