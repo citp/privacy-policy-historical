@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppok.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603071819id_/http%3A//www.shoppok.com/newyork/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppok.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011121128id_/http%3A//www.shoppok.com/newyork/help/privacy_policy) for the most accurate reproduction.*
 
 # My Place : Help Newyork Classified | Shoppok.Com
 
