@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atproperties.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618062619id_/http%3A//www.atproperties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atproperties.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011173852id_/http%3A//www.atproperties.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | @properties
 
@@ -50,7 +50,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Contact Us
 
-If you have questions regarding our Privacy Policy, or if you wish to update the personal information you have provided to us, you may do so by [contacting us here](https://web.archive.org/web/20160618062619id_/http%3A//www.atproperties.com/contact-us).
+If you have questions regarding our Privacy Policy, or if you wish to update the personal information you have provided to us, you may do so by [contacting us here](https://web.archive.org/web/20161011173852id_/http%3A//www.atproperties.com/contact-us).
 
 #### Updates and Effective Date
 
