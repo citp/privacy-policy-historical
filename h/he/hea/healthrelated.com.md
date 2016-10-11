@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthrelated.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604142820id_/http%3A//healthrelated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthrelated.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011025755id_/http%3A//healthrelated.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Health Related
 
