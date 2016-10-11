@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218132206id_/http%3A//www.qad.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qad.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011235211id_/http%3A//www.qad.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Terms | QAD
 
-This Privacy Policy sets forth the standards QAD is committed to comply with when personal data is collected and processed by QAD. “Personal Data” or "Personally Identifiable Information" is information about you, such as name, address, email address, user ID, mailing address, and so on.
+This Privacy Policy sets forth the standards QAD it is committed to comply with when personal data are collected and processed by QAD. “Personal Data” or "Personally Identifiable Information" is information about you, such as name, address, e-mail address, user ID, mailing address, and so on.
 
 **Personal Data Processing**
 
 QAD may process personal data for various purposes and in various contexts. QAD processes personal data when:
 
-  * You visit our website www.qad.com or other QAD websites
-  * We provide services, such as cloud, support or consultancy services, to our customers
-  * We maintain contacts with our customers or prospects
-  * We market our products or services to our customers or prospects
-  * We perform corporate functions, such as HR, Finance and IT functions
+  * you visit our website qad.com or other QAD websites.
+  * we provide services, such as cloud, support or consultancy services, to our customers.
+  * we maintain contacts with our customers or prospects.
+  * we market our products or services to our customers or prospects.
+  * we perform corporate functions, such as HR, Finance and IT functions.
 
 
 
@@ -22,15 +22,11 @@ As a global company, QAD operates in a number of countries around the world. As 
 
 **QAD Websites**
 
-QAD does not collect personally identifiable information — including your email address — unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your email address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Policy. In some circumstances, QAD may share information you voluntarily provide us with authorized business partners.
+QAD does not collect personally identifiable information — including your e-mail address — unless we first ask you for it. On some of our sites, we may request that you voluntarily supply us with information, including your e-mail address, street address, telephone number or other information so that we may enhance your site visit or follow up with you after your visit. Whether you provide any information is entirely up to you. If you have voluntarily provided information, you have consented to the collection and use of your personally identifiable information as described in this Privacy Policy. In some circumstances, QAD may share information you voluntarily provide to us with authorized business partners.
 
-QAD makes available communication and collaboration tools to users of the QAD websites; if you decide to use such tools, you acknowledge and agree that other users of the QAD website may have access to your personally identifiable information (e.g. because it has been added to an address book). We do not sell or rent personally identifiable information collected through our website(s) to anyone. You hereby agree that you will not use any personally identified information available on a QAD website for any purposes other than the purpose for which it is made available on the website.
+QAD makes available communication and collaboration tools to users of the QAD websites; if you decide to use such tools, you acknowledge and agree that other users of the QAD website may have access to your personally identifiable information (e.g. because it has been added to an address book or displayed on a forum). We do not sell or rent personally identifiable information collected through our website(s) to anyone. You hereby agree that you will not use any personally identified information available on a QAD website for any purposes other than the purpose for which it is made available on the website.
 
-During the period you are logged onto our site we log IP addresses, browser and platform types, domain names, access times, referral addresses, and your activity while using or reviewing our site.
-
-Some QAD sites, like many other commercial web sites, may utilize a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. If you are simply browsing a QAD informational site, a cookie may be used to identify your browser as one that has visited the site before.
-
-We may also make use of memory-based cookies in support of authenticating the user of certain QAD web applications. Similarly, if you are a registered user of a site providing service to QAD clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize QAD services which require registration if you reject cookies. We do not follow your browsing path outside of the QAD site, except for referral data discussed above. Advertising networks that serve ads onto our web site may also use their own cookies. We have no access or control over these cookies.
+During the period you are logged onto our site we log IP addresses, browser and platform types, domain names, access times, referral addresses, and your activity while using or reviewing our site. Some QAD sites, like many other commercial web sites, may utilize a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. If you are simply browsing a QAD informational site, a cookie may be used to identify your browser as one that has visited the site before. We may also make use of memory-based cookies in support of authenticating the user of certain QAD web applications. Similarly, if you are a registered user of a site providing service to QAD clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize QAD services which require registration if you reject cookies. We do not follow your browsing path outside of the QAD site, except for referral addresses as mentioned above. Advertising networks that serve ads onto our web site may also use their own cookies. We have no access or control over these cookies.
 
 QAD sites may contain links to other sites, including those of our authorized business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites.
 
@@ -38,15 +34,15 @@ QAD sites may contain links to other sites, including those of our authorized bu
 
 QAD provides consultancy, support and Cloud services. QAD processes personal data in the context of such services solely for the benefit of its customers, for instance to provide advice or to address a support issue. QAD will not use personal data obtained from customers in the context of the provision of services for any other purpose, except as provided in the contractual agreement between QAD and customer.
 
-When using QAD Cloud services, customers will input electronic data into the QAD systems. QAD may access such data for the purposes of providing the service, including the prevention or resolution of technical problems, responding to support issues, responding to customer’s instructions or as may be required by law, all in accordance with the terms of the agreement(s) between QAD and you.
+When using QAD Cloud services, customers will input data into the QAD systems. QAD may access such data for the purposes of providing the service, including the prevention or resolution of technical problems, responding to support issues, responding to customer’s instructions or as may be required by law, all in accordance with the terms of the agreement(s) between QAD and you. 
 
-QAD processes data obtained from its customers in the context of the provision of services under the direction of its Customers, and has no direct control or ownership of the personal data it processes. Customers are responsible for complying with any regulations or laws that require providing notice, disclosure and/or obtaining consent prior to transferring the data to QAD for processing purposes.
+QAD processes data obtained from its customers in the context of the provision of services under the direction of its Customers, and has no direct control or ownership of the personal data it processes. Customers are responsible for complying with any regulations or laws that require providing notice, disclosure and/or obtaining consent prior to transferring the data to QAD for processing purposes. 
 
 QAD works with authorized business partners and third party suppliers to provide optimal services to its customers. It is possible that partners or suppliers process personal data (e.g. the partners QAD uses for hosting its Cloud services). QAD will only share personal data with partners or suppliers if and when required for the performance of services and under the condition that partners and suppliers shall only use the personal data to perform services for the benefit of the customer and shall comply with all applicable laws and regulations.
 
 **QAD Contacts with Customers or Prospects**
 
-QAD regularly reaches out to its customers, directly or indirectly, be it to maintain existing contacts or establish new contacts or to be able to perform regularly occurring functions, such as working with customers to understand their requirements, invoicing of maintenance or recurring services, etc. QAD may share personal data with its authorized business partners to facilitate such contacts.
+QAD regularly reaches out to its customers and prospects, directly or indirectly, be it to maintain existing contacts or establish new contacts or to be able to perform regularly occurring functions, such as working with customers to understand their requirements, invoicing of maintenance or recurring services, etc. QAD may share personal data with its authorized business partners to facilitate such contacts.
 
 **QAD Marketing**
 
@@ -54,11 +50,11 @@ QAD markets its products and services to customers and prospects. In marketing i
 
 **QAD Corporate Functions**
 
-As any company, QAD has various departments tasked with performing various corporate functions. Examples are the HR, Finance, Legal and IT departments. QAD may process personal data regarding its employees, contractors, suppliers or customers to be able to perform these functions and only to the extent required to perform these functions. Personal data may be processed to determine whether the various QAD corporate policies (e.g. policies regarding use of the QAD IT environment, the morals and ethics policies, etc.) are being complied with.
+As any company, QAD has various departments tasked with performing various corporate functions. Examples are the HR, Finance, Legal and IT departments. QAD may process personal data regarding its employees, contractors, suppliers or customers to be able to perform these functions and only to the extent required to perform these functions. Personal data may be processed to determine whether the various QAD corporate policies (e.g. policies regarding use of the QAD IT environment, the morals and ethics policies, etc.) are being complied with. QAD may use external parties to support its corporate functions.
 
 **Special Cases**
 
-QAD may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others.
+QAD may also disclose information in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process (e.g. in response of lawful requests by public authorities); (b) protect and defend our rights or property; (c) enforce the Web site Terms and Conditions of Use; or (d) act to protect the interests of our users or others.
 
 **Security**
 
@@ -68,14 +64,18 @@ QAD uses reasonable commercial efforts to protect your personal data. This inclu
 
 QAD will keep your personal information only as long as needed for the purposes for which it was collected, or as permitted by law. QAD will take appropriate steps to make sure the personal data in our records is accurate.
 
+**Onward Transfer**
+
+QAD may transfer data to third parties, such as business partners (e.g. a QAD distributor) or to organizations QAD has engaged to assist QAD in performing one or more tasks for the benefit of QAD (e.g. an external email provider) or its customers (e.g. a hosting provider). In any case of onward transfer to third parties, QAD is potentially liable for any damages that may result from such onward transfer.
+
 **Access to Personal Data**
 
-If you wish to access, correct or delete your personal data, please direct any requests to [privacy@qad.com](mailto:privacy@qad.com). Please note that an individual who seeks access to or wishes to correct or delete personal data processed in a QAD Cloud environment or to data QAD processes for the benefit of a customer in the context of the provision of services, should direct his or her query to the QAD customer responsible for the personal data (i.e. to the data controller). If such a query is sent to QAD directly, QAD will forward it to the customer.
+If you wish to access, correct or delete your personal data, or if you wish to obtain information on and/or restrict the use of your personal data, please direct any requests to [privacy@qad.com](mailto:privacy@qad.com). Please note that an individual who seeks access to or wishes to correct or delete personal data processed in a QAD Cloud environment or to data QAD processes for the benefit of a customer in the context of the provision of services, should direct his or her query to the QAD customer responsible for the personal data (i.e. to the data controller). If such a query is sent to QAD directly, QAD will forward it to the customer.
 
-**Safe Harbor Program Statement**
+**Privacy Shield**
 
-QAD complies with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: [http://export.gov/safeharbor](http://export.gov/safeharbor).
+QAD complies with the Privacy Shield requirements and the underlying principles regarding the collection, use, and retention of data exported from the European Union. The EU-U.S. Privacy Shield Framework was designed by the U.S. Department of Commerce and European Commission to provide companies on both sides of the Atlantic with a mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States in support of transatlantic commerce. Information regarding the privacy Shield can be found at: <https://www.privacyshield.gov/welcome>. A list of all parties that have subscribed to the principles of the Privacy Shield is available at: <https://www.privacyshield.gov/list>.
 
 **Conflicts and Dispute Resolutions**
 
-QAD is committed to resolving any conflicts or disputes that may arise in relation to QAD’s Privacy Policy. For any issues that may arise in the European Union, QAD has submitted to the authority of the European Data Protection Authorities as part of its compliance with the Safe Harbor Framework. For issues that may arise outside of the European Union, parties shall agree on an appropriate means of dispute resolution, or, failing such agreement, the dispute shall be brought before a competent court.
+QAD is committed to resolving any conflicts or disputes that may arise in relation to QAD’s Privacy Policy. For any issues that may arise in the European Union, QAD has submitted to the authority of the European Data Protection Authorities as part of its compliance with the Privacy Shield. Under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel. Additionally, QAD acknowledges that it is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). For issues that may arise outside of the European Union, parties shall agree on an appropriate means of dispute resolution, or, failing such agreement, the dispute shall be brought before a competent court. 
