@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324135645id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012013255id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURITY) for the most accurate reproduction.*
 
 # Stumps Site Security
 
 At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security.
 
 We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties.
+
+  
+
 
 Our servers use SSL (Secure Sockets Layer). This is an advanced technology that **encrypts all of the information you send us** (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet.
 
@@ -67,7 +70,7 @@ Please note: we will NOT sell, rent or share your e-mail address or password wit
 
 If you do not want to receive our catalog at any time, please let us know. Be sure to provide your exact name and address (as it appears on the catalog mailing label), or send us the actual mailing label from the catalog. Please allow 6-8 weeks for us to update our mailing lists.
 
-Mail your request to:
+_Mail your request to:_
 
 Stumps Party  
 Attn: Customer Service  
@@ -84,7 +87,7 @@ We will occasionally share our customers' mailing and other information with sel
 
 We may employ other companies to provide similar marketing services on our behalf. With our approval, these third parties may also place "cookies" for analysis purposes. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies will only have access to non-personal information about your visit or transaction, such as the URLS which lead you to and around our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.
 
-To remove your name from mailing lists of other printed catalogs that belong to the Direct Marketing Association, write to:
+_To remove your name from mailing lists of other printed catalogs that belong to the Direct Marketing Association, write to:_
 
 Mail Preference Department  
 Direct Marketing Association  
