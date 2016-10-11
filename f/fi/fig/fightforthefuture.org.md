@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529071028id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011113516id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We do not sell our email list. We do not share or distribute your contact inform
 
 For petitions, open letters, or similar public communications that you’ve signed or completed, we treat your name, city, state, and comments as public information. We will not make your street address publicly available, but we may transmit it to public officials as part of a petition or open letter.
 
-We may have joint campaigns with cooperating organizations and in those cases will explicitly state that we are doing so. In those cases, if your information will be shared with another organization in order to facilitate email delivery, list management, and other stated purposes, we will explicitly make notice on any campaign or website that this organization owns before you submit any of your information. If you are submitting your information to one of these campaigns or websites, you are opting into the sharing of your information for the stated purposes and will be treated as so. We will only share information which you submit at the time of notice and will not share any person’s information obtained from other past or future campaigns, knowingly or on purpose.
+If you enter your information as part of a clearly-labeled “joint action” with another organization, we may share your name, email and other information you have entered with the partner organization(s) for that particular action. If you are submitting your information to one of these campaigns or websites, you are opting into the sharing of your information for the stated purposes and will be treated as so.
 
 We sometimes carry out our business or operate our website using third party tools or services. Information may be shared with the operators of those tools or services in connection with our use of those tools or services to carry out business or operate our website.
 
@@ -16,4 +16,4 @@ We sometimes carry out our business or operate our website using third party too
 
 Your credit card information will be used only for transactions through our secure online payment system. Fight for the Future does not retain credit card information.
 
-**Last changed: 10/2015**
+**Last changed: 6/2016**
