@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugaboo.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601003941id_/https%3A//www.bugaboo.com/US/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugaboo.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012005249id_/https%3A//www.bugaboo.com/US/en_US/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -22,10 +22,15 @@ Cookies from Google: Since Bugaboo’s website uses Google.com’s platform, you
 
 **Who to Contact for Personal Information Removal** : If you have submitted personally identifiable information through bugaboo.com and would like Bugaboo to delete that information from our records, please contact us:
 
-Web site Relations   
-Bugaboo North America Inc   
-1160 E. Mariposa Avenue, El Segundo,   
-California 90245
+Web site Relations
+
+Bugaboo North America Inc.
+
+2150 Park Place Suite 150
+
+El Segundo, CA 90245
+
+USA
 
 [myaccount@bugaboo.com](mailto:myaccount@bugaboo.com)
 
