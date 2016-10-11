@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frame.io privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314174128id_/https%3A//app.frame.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frame.io privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011235734id_/https%3A//app.frame.io/privacy) for the most accurate reproduction.*
 
 # Frame.io
 
