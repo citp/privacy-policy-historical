@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamlite.co.in privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413230846id_/http%3A//www.steamlite.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamlite.co.in privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011214403id_/http%3A//www.steamlite.co.in/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
