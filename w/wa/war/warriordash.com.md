@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriordash.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411025333id_/https%3A//www.warriordash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriordash.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011193527id_/https%3A//www.warriordash.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Warrior Dash | The 5k Obstacle Course Race Series
 
