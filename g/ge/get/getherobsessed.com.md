@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getherobsessed.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612033325id_/http%3A//getherobsessed.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getherobsessed.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011145952id_/http%3A//getherobsessed.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,7 +72,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://web.archive.org/web/20160612033325id_/http%3A//getherobsessed.com/disclaimer/index.html).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://web.archive.org/web/20161011145952id_/http%3A//getherobsessed.com/disclaimer/index.html).
 
 **Your Consent**
 
