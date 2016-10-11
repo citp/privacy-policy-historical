@@ -1,111 +1,43 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614234549id_/http%3A//www.inetu.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011152349id_/https%3A//www.viawest.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | INetU
+# Privacy Statement | Viawest
 
-**Privacy Policy**
+We at ViaWest are concerned about and committed to protecting the privacy of you, our website visitors, as well as our customers and our employees. To that end, we have established this Privacy Policy as a commitment to maintain the privacy of your personal information.
 
- 
+### Use of Personal Information
 
-**Information Collection & Use**  
-INetU Managed Hosting (“INetU”) is the sole owner of the information collected on www.inetu.net. INetU Managed Hosting collects personally identifiable information (PII) from our users at several different points on our Web site. This Privacy Policy covers the collection, use and disclosure of information collected through the website, the Client Center Web application owned and operated by INetU and the associated Services we provide for our clients. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information. The use of information collected through our Services shall be limited to the purpose of providing the Services for which our Clients have engaged INetU.
+We may gather information about you through our website in three ways. First, we may collect and store some personally identifiable information (such as your name, telephone number, and e-mail address) that you provide to us through surveys, job applications, contests, service orders, or inquiries on this site. Second, we may collect and store information about your visit to this site in collective or aggregated data that does not identify you specifically. Third, we may collect and store information through the use of "cookies." The term "cookies" refers to lines of text that are transmitted to your web browser when you click on a site, providing a way for a server to recall a previous request or previous registration, or keep track of a transaction as it progresses, so that information does not have to be repeated. We use all of this information to help maintain accurate accounts, to provide and to change services, to provide accurate billing and shipping, to answer your inquiries, to market our services and products, and to help make our website useful to you. We do not market to or collect personal information about children under 13 years of age.
 
-  **Information Related To Data Collected Through The INetU Services**  
-INetU collects and processes 3rd party personally identifiable information under the direction of our Clients. We have no ownership of this information or any direct relationship with individuals whose personally identifiable information may be processed as part of providing our Services.  
-An individual who seeks access to their data, seeks to correct, amend or delete inaccurate data or wishes to opt-out of communications from a INetU Client should direct his/her query to the INetU Client he/she interacts with directly (the data controller). If an INetU Client requests that we remove personally identifiable information on their behalf, we will respond to their request within 30 days.  
-INetU may transfer personally identifiable information to other companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.  
-INetU will retain personal data we process on behalf of our Clients for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
-Clients who use the services offered on our Site may submit the personally identifiable information of other individuals at their organization to register them as authorized users. It is the Client’s obligation, as the data controller, to inform its authorized users about the purposes for which information about them is collected and may be used on this Service. Authorized users can update or remove their account information at any time by logging into the Site and editing their account information, or by contacting their administrator.
+### Sharing Information
 
-  **Contact Forms**  
-When you complete a contact form, we require that you provide certain personally identifiable information, including your name, email address, company, address, job responsibilities and phone number. This information is necessary to enable us to contact you.  
-We may use your personally identifiable information to:
+The information that we obtain from you is generally necessary for us to provide your services and to design new services for your future use. As a general rule, ViaWest will not sell, trade, or disclose to third parties personal information gathered online about you without your consent. The only exceptions to this rule are: (1) when we work with affiliated businesses, partners, or agents to develop a relationship with you or to perform services for you on our behalf or (2) as may be required by lawful requests by public authorities such as through a subpoena, search warrant, or other legal process, including to meet national security or law enforcement requirements, or in the case of imminent physical harm to you or others. In the case of (1) above, we require the relevant businesses, partners, or agents to adhere to our policies regarding the use and protection of your personal information.
 
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
+### E-mail Communication
 
+We and our affiliated businesses, partners, and agents may use e-mail to communicate to our customers, respond to visitors' e-mails, or to inform you about events or new products. We will not send commercial solicitations via e-mail to you if you request that they not be sent.
 
+### Choice
 
-Upon submitting a contact form, your name and email address will be included on our newsletter mailing list.
+You may choose to "opt out" of (a) any third-party sharing of personal information by ViaWest (except pursuant to item (2) of "Sharing Information" above) or email communication as permitted above or (b) ViaWest's use of personal information you feel is incompatible with the purpose(s) for which it was originally collected or authorized by you. If you wish to "opt out," please contact ViaWest with such request via email at [privacy@viawest.com](https://web.archive.org/web/20161011152349id_/https%3A//www.viawest.com/privacy@viawest.com) or via mail at 6400 S. Fiddler's Green Circle, Greenwood Village, CO, 80111 Attn: General Counsel. ViaWest does not intend to collect any "sensitive information," however in the event that ViaWest does collect any "sensitive information," you will be given an affirmative "opt in" choice for any third-party sharing of such information by ViaWest or if it is to be used for a purpose other than that for which it was originally collected or authorized by you.
 
-  **Service-Related Announcements**  
-All INetU clients are connected to our Client Center. The Client Center has automatic alert functionality that will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if there is a service window for maintenance, we might send you an email.
+### Access
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. Please see "Choice/ Opt-out" section below.
+If you wish to obtain a copy of the personal information collected by ViaWest or to correct, amend, or delete personal information collected by ViaWest, please contact ViaWest with such request via email at [privacy@viawest.com](mailto:privacy@viawest.com) or via mail at 6400 S. Fiddler's Green Circle, Greenwood Village, CO, 80111 Attn: General Counsel.
 
-  **Information Sharing & Disclosure**  
-We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy.  However, we do not share, sell, rent or trade PII with third parties for their promotional purposes.  
-**Service Providers**  
-We may provide your personally identifiable information to companies that provide services to help us with our business activities such as processing a job application or offering customer service. For example, We use a third party mail agent for all newsletter correspondences. We will share your email address and name. These companies are authorized to use your personally identifiable information _only as necessary to provide_ these services to us and are contractually obligated to keep your information confidential.  
-**Legal Disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, and/or to comply with a judicial proceeding, court order, or legal process served on our company.  
-**Business Transitions**  
-In the event INetU goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personally identifiable information.
+### Security
 
-  **Choice/Opt-Out**  
-We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes when we ask for this information. For example, when you complete an online inquiry form you have the opportunity to opt-out of receiving our newsletter or any other promotional materials.
+ViaWest exercises generally accepted industry standards to protect the personal information provided to or collected by us. In the case of item (1) of "Sharing Information" above, we require the relevant businesses, partners, or agents to adhere to our policies regarding the use and protection of your personal information.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in these emails or by emailing us at [privacy@inetu.net](mailto:privacy@inetu.net), or you may contact us at 610-266-7441 or 744 Roble Rd, Allentown PA 18109 to opt-out.
+### EU-U.S. Privacy Shield Framework
 
-  **Log Files**  
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+ViaWest complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. ViaWest has certified to the Department of Commerce that it adheres to the Privacy Shield Principles, and accordingly is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. ViaWest commits to cooperate with EU data protection authorities (DPAs) with regard to human resources data transferred from the EU in the context of the employment relationship. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/ 
 
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+Our accountability for personal data that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process personal data on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
-  **Security**  
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us both during transmission and once we receive it. INetU's facilities are monitored 24X7X365 using live CCTV systems. Our network is protected by best of breed technology including a secure firewall. When you enter sensitive information (such as log-in credentials) on our web application portal, we encrypt the transmission of that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+In compliance with the Privacy Shield Principles, ViaWest commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact ViaWest via email at [privacy@viawest.com](mailto:privacy@viawest.com) or via mail at 6400 S. Fiddler's Green Circle, Greenwood Village, CO, 80111 Attn: General Counsel.
 
-    **Tracking Technologies**  
-Technologies such as: cookies, beacons, tags and scripts are used by INetU and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers  [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
-We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.  
-We use local storage objects (LSOs) such as HTML5 to store content information and preferences [or – other uses].  
-Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 to collect and store information.
+ViaWest has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the American Arbitration Association at [www.adr.org](http://www.adr.org/) for more information or to file a complaint. The services of the American Arbitration Association are provided at no cost to you. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
 
-  **Behavioral Targeting / Re-Targeting**  
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) ([or if located in the European Union click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+### Modifications/Enforcement
 
-  **Public Forums**  
-Our Web site offers publicly accessible blogs and/or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Anytime you post on our blog please be aware that you are posting using a third party application and we have no access or control over this information. To request removal of your personally identifiable information from our blog, you can both log into the third party application and remove your comment or you can contact the appropriate third party application. Your interaction with these features is governed by the privacy policy of the company providing it.
-
-  **Testimonials**  
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to request to have your testimonial remove please contact us at [privacy@inetu.net](mailto:privacy@inetu.net).
-
-  **Referrals**  
-You have the ability to refer third parties to our Partner program or certain job opportunities on the site, using their personal and company information.  If you choose to use these referral mechanisms, we will automatically send the referred party a one-time email inviting him or her to visit the site. INetU stores this information for the sole purpose of sending this one-time email and tracking the success of our referral programs. The referred party may contact us at [privacy@inetu.net](mailto:privacy@inetu.net) to request that we remove this information from our database.
-
-  **Links To Other Sites**  
-Our Web site and Client Center contain links to other sites that are not owned or controlled by INetU. Please be aware that INetU is not responsible for the privacy practices of such other sites. We encourage you read the privacy statements of sites that are linked to ours. This privacy statement applies only to information collected by this Web site.
-
-  **Social Media Widgets**  
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-  **Single Sign-In/Fill-Out Using Social Media**  
-You can log in and auto-populate certain forms on our site using sign-in services such as Facebook, Twitter or LinkedIn Connect. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name, email address, other company and demographic profile information, in order to fill out a job application for example. These services may also give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-  **Access To Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by contacting us by telephone or postal mail: 744 Roble Rd, Allentown, PA 18109 610-266-7441. We will respond to your request within 30 days.
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-  **Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page, prior to the change taking effect.
-
-  **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us by emailing us at [privacy@inetu.net](mailto:privacy@inetu.net), or you may contact us at 610-266-7441 or mail:  
-INetU  
-744 Roble Rd  
-Allentown PA 18109
-
-  **TRUSTe**  
-INetU Managed Hosting has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/)including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers information that is collected through this Web site, www.inetu.com and the Client Center Web Application associated with the Site. IT does not cover information collected through mobile applications, devices or any third party entities. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@inetu.net](mailto:privacy@inetu.net), 610-266-7441, 744 Roble Rd, Allentown PA 18109.  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-  **U.S.—E.U. Safe Harbor and U.S.—Swiss Safe Harbor**  
-INetU Managed Hosting complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. INetU Managed Hosting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view INetU Managed Hosting’s certification, please visit <http://www.export.gov/safeharbor/>
-
- 
+ViaWest reserves the right to modify this Privacy Policy from time to time without notice in ViaWest's sole discretion. Such modifications shall be effective when posted. If you have any inquiries or concerns regarding ViaWest's privacy policy or our compliance with this privacy policy, please contact ViaWest via email at [privacy@viawest.com](mailto:privacy@viawest.com) or via mail at 6400 S. Fiddler's Green Circle, Greenwood Village, CO, 80111 Attn: General Counsel. If you believe that ViaWest has operated in a manner inconsistent with or in violation of this Privacy Policy, please contact ViaWest immediately, via email at [privacy@viawest.com](mailto:privacy@viawest.com) or via mail at 6400 S. Fiddler's Green Circle, Greenwood Village, CO, 80111 Attn: General Counsel, to remedy the inconsistency or problem. If the inconsistency or problem is not remedied by ViaWest to your satisfaction, please contact the American Arbitration Association at [www.adr.org](http://www.adr.org/) for an independent review and resolution of the issue.
