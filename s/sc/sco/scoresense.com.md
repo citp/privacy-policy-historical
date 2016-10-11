@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315115036id_/https%3A//www.scoresense.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011094301id_/https%3A//www.scoresense.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # ScoreSense
 
@@ -70,6 +70,6 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 We invite you to learn more about your privacy rights on the Internet. The following resources provide an array of information and services you might find helpful and informative. Electronic Privacy and Information Center (EPIC) EPIC is a public interest research center in Washington, DC. Established in 1994, EPIC works in association with Privacy International, an international human rights group based in London, and is a member of the Global Internet Liberty Campaign and the Internet Privacy Coalition. The Federal Trade Commission (FTC) The Federal Trade Commission enforces a variety of federal antitrust and consumer protection laws. The commission works to enhance the smooth operation of the marketplace by eliminating acts or practices that are unfair or deceptive. National Fraud Information Center (NFIC) The National Fraud Information Center is a project of the National Consumers League, America's oldest nonprofit consumer organization. NFIC helps consumers report fraud and offers advice on how to avoid being victimized. The Privacy Rights Clearinghouse (PRC) PRC provides consumers with valuable information on protecting their personal privacy.
 
-©2015 ScoreSense®. All Rights Reserved  
+©2001-2016 One Technologies, LLC. All rights reserved.  
 
 Last updated: 7/9/2014
