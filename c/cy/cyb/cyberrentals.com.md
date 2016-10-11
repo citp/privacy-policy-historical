@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217153440id_/http%3A//www.homeaway.com/info/about-us/company-info/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberrentals.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011025823id_/https%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
@@ -14,7 +14,7 @@ The terms “users” or “you” as used in this Privacy Policy, refer to trav
 
 We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at 
 
-[_Terms & Conditions_](http://www.homeaway.com/info/about-us/legal/terms-conditions)
+[_Terms & Conditions_](https://www.homeaway.com/info/about-us/legal/terms-conditions)
 
 .
 
@@ -158,7 +158,7 @@ You may opt-out of receiving marketing communications from us by the following m
 2.    Follow the instructions included in each communication or newsletter;  
 3.    Use the 
 
-[_Unsubscribe function_](http://www.homeaway.com/newsletter/subscribe)
+[_Unsubscribe function_](https://www.homeaway.com/newsletter/subscribe)
 
 ; or  
 4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
