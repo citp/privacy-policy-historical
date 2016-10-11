@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624053413id_/https%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011234455id_/https%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
 
 # The University
 
@@ -20,7 +20,7 @@ You may also wish to consult our;
 
   * [Freedom of Information Policy](https://web.archive.org/ar/ro/recordsmanagement/freedomofinformation/index.php.en)
   * [Data Protection Policy](https://web.archive.org/ar/ro/recordsmanagement/dataprotection/DPPolicy.php.en)
-  * [Privacy Policy (Website)](https://web.archive.org/web/20160624053413id_/https%3A//www.bangor.ac.uk/corporate/cookies/Privacy%20Policy.pdf)
+  * [Privacy Policy (Website)](https://web.archive.org/web/20161011234455id_/https%3A//www.bangor.ac.uk/corporate/cookies/Privacy%20Policy.pdf)
 
 
 
