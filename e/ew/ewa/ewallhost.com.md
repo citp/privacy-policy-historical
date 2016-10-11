@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ewallhost.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027060659id_/https%3A//www.ewallhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewallhost.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011172550id_/https%3A//www.ewallhost.com/privacy-policy) for the most accurate reproduction.*
 
-# eWall Hosting Services - Privacy Policy
+# eWallHost Web Services Pvt. Ltd. - Privacy Policy
 
 Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy.
 
 #### __Your Information
 
-When you sign up for any of our services we will ask you to provide contact information for your convenience as well as legal reasons. This will include name, home address, e-mail addresses and payment details (credit or debit card and PayPal). If you need support our staff may need to know information to solve the problem such as operating system, browser software and editing software. When you visit this website we do record certain information using Google Analytics such as your location, browser version, ip address, screen resolution, operating system and flash support. This is so we can continue to provide the most convenient web site for all our visitors. Our website is protected by a Secure Sockets Layer (SSL) and verified by Equifax. This helps prevent eavesdropping on our website, just look for the padlock.
+When you sign up for any of our services we will ask you to provide contact information for your convenience as well as for legal reasons. This will include name, home address, e-mail addresses and payment details (credit or debit card and PayPal). if you need any support, our staff may need to know information to solve the problem such as operating system, browser software and editing software. When you visit this website we do record certain information using Google Analytics such as your location, browser version, ip address, screen resolution, operating system and flash support. This is so we can continue to provide the most convenient web site for all our visitors. Our website is protected by a Secure Sockets Layer (SSL) and verified by COMODO CA Limited. This helps prevent eavesdropping on our website, just look for the padlock.
 
 #### __How Your Information Is Used
 
@@ -18,11 +18,11 @@ We will use your personal identifiable information in the following ways.
 
 \- To improve our service and the marketing of our service. This could include using your demographic location to improve targeting of our website and customise your visit.
 
-We will NEVER provide your personally identifiable information to any persons other than A law enforcement or regulatory agency at their request, third parties who provide services on our behalf such as payment processing, only if they agree not to miss use this information.
+We will NEVER provide your personally identifiable information to any persons other than A law enforcement or regulatory agency at their request, third parties who provide services on our behalf such as payment processing, only if they agree not to misuse this information.
 
-We do not under any circumstances apart from the above give away or sell your information to any third parties.
+We do not under any circumstances, apart from the above, give away or sell your information to any third parties.
 
-Your personal information is safe with us, your information is safely encrypted using SSI. Our service is not available to anyone under the age of 13, never will we intentionally maintain information about anyone under the age of 13.
+Your personal information is safe with us, your information is safely encrypted using SSL. Our service is not available to anyone under the age of 13, never will we intentionally maintain information about anyone under the age of 13.
 
 #### __Cookies
 
@@ -42,15 +42,15 @@ When we receive email, we use return email addresses to reply with the informati
 
 #### __Newsletter
 
-We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
+We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month, so it will certainly contain allot of useful information and any offers we have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
 
 ####  Information Sharing and Disclosure
 
-We collect information from our website visitors using Google Analytics. We use this information to better design our Web site and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
+We collect information from our website visitors using Google Analytics. We use this information to better design our website and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
 
 #### __Personally Identifiable Information
 
-eWallHost does not share, sell, rent, or trade personally identifiable information with third parties. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+eWallHost does not share, sell, rent, or trade personally identifiable information with third parties. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy and also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 #### __How You Can Access /Correct Your Information
 
@@ -74,4 +74,4 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 #### __Changes To This Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our contact form.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places, we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our contact form.
