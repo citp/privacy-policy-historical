@@ -1,18 +1,55 @@
-> *The following text is extracted and transformed from the aynrand.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317124945id_/https%3A//www.aynrand.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aynrand.org privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011212758id_/https%3A//www.aynrand.org/privacy-policy) for the most accurate reproduction.*
 
 # Ayn Rand Institute Privacy Policy | AynRand.org
 
-**Last Updated: January 17, 2014**
+**Last Updated: April 26, 2016**
 
-This Ayn Rand Institute Privacy Policy (“Privacy Policy”) is a legal notice about how the Ayn Rand Institute (“ARI,” “we,” “us,” “our”) will use personal information collected on the Ayn Rand Institute website, located at http://aynrand.org (the “Site”). The information below outlines the information we collect, the methods we employ for data collection, how we may use that information, the persons to whom the personal information may be disclosed and the security measures taken to protect the personal information. 
+This Ayn Rand Institute Privacy Policy (“Privacy Policy”) is a legal notice about how the Ayn Rand Institute (“ARI,” “we,” “us,” “our”) will use the personal information of individuals (“Users,” “Visitors”) collected on the Ayn Rand Institute websites, located at [https://aynrand.org](https://aynrand.org/), [https://ari.aynrand.org](https://ari.aynrand.org/), [https://campus.aynrand.org](https://campus.aynrand.org/), [http://aynrandeurope.org](http://aynrandeurope.org/) and <https://estore.aynrand.org/> (the “Sites”). The information below outlines the information we collect, the methods we employ for data collection, how we may use that information, the persons to whom the personal information may be disclosed and the security measures taken to protect the personal information. 
 
 At ARI, we take the privacy of our visitors and members very seriously. Please read this Privacy Policy to learn more about how we treat personally identifiable information. We provide this Privacy Policy because you have a right to know what information we collect and with what methods, how it is protected and used and the circumstances under which it may be disclosed. If you have comments, questions, concerns or complaints about our Privacy Policy, please contact us via email at [webmaster@aynrand.org](mailto:webmaster@aynrand.org)
 
-By continuing to use the Site, you acknowledge that you have read and agree to this Privacy Policy. For more information about ARI’s Site policies, please refer to ARI’s [Terms of Conditions and Services](https://www.aynrand.org/terms-and-conditions). ** **
+By continuing to use the Site, you acknowledge that you have read and agree to this Privacy Policy. For more information about ARI’s Site policies, please refer to ARI’s [Terms of Conditions and Services](https://ari.aynrand.org/terms-and-conditions). ** **
 
-**DATA PRIVACY BEST PRACTICES**
+**DATA PRIVACY BEST PRACTICES IN THE UNITED STATES**
 
-While there is no comprehensive framework in the United States regulating data privacy practices on the Internet, ARI has modeled its Privacy Policy on the data privacy best practices promulgated by the Federal Trade Commission's Fair Information Practice Principles, currently available [here](http://www.ftc.gov/sites/default/files/documents/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission-report/privacy2000text.pdf), the Generally Accepted Privacy Principles (GAPP), available [here](http://www.aicpa.org/interestareas/informationtechnology/resources/privacy/generallyacceptedprivacyprinciples/downloadabledocuments/gapp_bus_%200909.pdf), and the Organisation for Economic Co-operation and Development’s (OECD) Guidelines on the Protection of Data Privacy, available [here](http://www.oecd.org/internet/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm). ** **
+While there is no comprehensive framework in the United States regulating data privacy practices on the Internet, ARI has modeled its Privacy Policy on the data privacy best practices promulgated by the Federal Trade Commission's Fair Information Practice Principles, currently available [here](https://www.ftc.gov/sites/default/files/documents/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission-report/privacy2000text.pdf), the Generally Accepted Privacy Principles (GAPP), available [here](http://www.aicpa.org/interestareas/informationtechnology/resources/privacy/generallyacceptedprivacyprinciples/downloadabledocuments/gapp_bus_%200909.pdf), and the Organisation for Economic Co-operation and Development’s (OECD) Guidelines on the Protection of Data Privacy, available [here](http://www.oecd.org/internet/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm). 
+
+**DATA PRIVACY BEST PRACTICES IN THE EUROPEAN UNION (EU)**
+
+Since before the new EU Privacy Shield, ARI modeled its Privacy Policy on the data privacy best practices promulgated by the Federal Trade Commission's Fair Information Practice Principles, currently available [here](https://www.ftc.gov/sites/default/files/documents/reports/privacy-online-fair-information-practices-electronic-marketplace-federal-trade-commission-report/privacy2000text.pdf), the Generally Accepted Privacy Principles (GAPP), available [here](http://www.aicpa.org/interestareas/informationtechnology/resources/privacy/generallyacceptedprivacyprinciples/downloadabledocuments/gapp_bus_%200909.pdf), and the Organisation for Economic Co-operation and Development’s (OECD) Guidelines on the Protection of Data Privacy, available [here](http://www.oecd.org/internet/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm). 
+
+As of October 6, 2015, the European Court of Justice invalidated the Safe Harbor Framework in the decision _Maximillian Schrems v. Data Protection Commissioner_ (Case C-362/14).
+
+On February 2, 2016, the EU and US announced a new data transfer deal, the EU-US Privacy Shield. As ARI receives further information on compliance with this new program, ARI will ensure it meets its standards. ARI retains and reiterates its commitment to Internet user privacy for users across the globe.
+
+The following are ARI’s promises to each User:
+
+(1)     **Notice.** When ARI collects your personal information, we give you timely and appropriate notice describing what personal information we are collecting, how we will use it and the types of third parties with whom we may share it. This notice is located in this policy. 
+
+(2)     **Choice.** ARI will give you choices about the ways we use and share your personal information, and we will respect the choices you make. Please recognize that ARI is a system that provides many links to third party sites and, as such, we advise and encourage them to take appropriate action with respect to their own privacy standards.
+
+(3)     **Relevance.** ARI will collect only as much personal information as is required to meet the specific, identified purposes as listed in this Policy, and we will not use it for other purposes without obtaining your consent.
+
+(4)     **Retention.** ARI will keep your personal information only as long as we need it for the purposes for which we collect it, or as permitted by law.
+
+(5)     **Accuracy.** ARI will take appropriate steps to make sure your personal information in our records is accurate, as much as is within the power of ARI.
+
+(6)     **Access.** ARI will provide ways for you to access your personal information as quickly as possible upon request, as required by law, so you can correct inaccuracies. Please use the address below to request access to your information.
+
+(7)     **Security.** ARI will take appropriate physical, technical and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. 
+
+(8)     **Sharing.** Except as described herein, ARI will not share your personal information with third parties without your consent. 
+
+(9)     **International Transfer.** If ARI is used to transfer your personal information to another country, ARI will take appropriate measures to protect your privacy and the personal information transferred.
+
+(10)     **Enforcement.** ARI will regularly review how we are meeting these privacy promises, and we provide an independent way to resolve complaints about our privacy practices (see below).
+
+To access your information, ask questions about our privacy practices or issue a complaint, contact us at:
+
+The Ayn Rand Institute  
+ATTN: Data Privacy Supervisor  
+2121 Alton Parkway, Suite 250  
+Irvine, California 92606-4926 
 
 **INFORMATION WE COLLECT**
 
@@ -89,19 +126,29 @@ We may use information collected on the ARI Site to perform the standard service
 
 In order to improve the experience for our users, ARI may offer you the ability to sign up for optional email communications, such as updates from ARI, periodic newsletters or invitations to events. These communications are enhancements to the ARI service and are entirely optional. ARI will ask for your consent before sending you promotional communications and will make it easy for you to unsubscribe from these communications.
 
+**_Our Commitment to Our Contributors_**
+
+We will not sell, share or trade our contributors’ names or personal information with any outside entity, nor send mailings to our donors on behalf of other organizations. In limited circumstances we may, with your permission, share your information with two organizations closely affiliated with ARI: ARI-Canada and the Anthem Foundation for Objectivist Scholarship.
+
+This policy applies to all information received by ARI, both online and offline, on any Platform (“Platform,” includes the ARI website and mobile applications), as well as any electronic, written or oral communications.
+
+To the extent any contributions are processed through a third-party service provider, our donors’ information will only be used for purposes necessary to process the contribution.
+
 **_Identification of Authors_** __
 
 The ARI Site may offer opportunities for you to comment on content found on the ARI Site, engage in dialogue, share information and may allow you to submit original content. When you make a contribution to the Site you may be identified by your ARI Site account username or the name under which you choose to post. 
 
 **_Marketing Information_**
 
-We use marketing information to help us better plan our Site and services to meet your needs; to measure and improve our Site’s services and features; to communicate with you by email to provide you with customer support, to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our [Terms of Conditions and Services](https://www.aynrand.org/terms-and-conditions)) and to enforce our Terms of Conditions and Services. We also use a variety of technological systems to detect and address anomalous activity and to screen content to prevent certain abuses such as spam.
+We use marketing information to help us better plan our Site and services to meet your needs; to measure and improve our Site’s services and features; to communicate with you by email to provide you with customer support, to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our [Terms of Conditions and Services](https://ari.aynrand.org/terms-and-conditions)) and to enforce our Terms of Conditions and Services. We also use a variety of technological systems to detect and address anomalous activity and to screen content to prevent certain abuses such as spam.
 
 **_Site Statistics,_** ** _Internal Reporting and Analysis_** __
 
 ARI may use information collected from web log and cookie files to analyze and publish anonymous, non-personal, aggregate statistics that may help us to analyze how the Site and its services are being accessed and used, to improve Site performance and delivery, to analyze learning outcomes and preferences and to analyze and mitigate Site and data security risks. ARI may also track and publish anonymized aggregate information, such as the total number of users who have viewed a particular web page. ARI will publish this data in aggregate form only and will not tie it to any personally identifiable information.
 
 **HOW INFORMATION IS SHARED AND DISCLOSED**
+
+In order to better understand the impact and reach of our programs, ARI shares information about our program participants with our affiliates and select organizations or entities with which we have an established relationship. Such information is never sold. By sharing your information with ARI, you agree that we may use your information to contact you about other activities, with educational materials or opportunities, as disclosed to you at the point of collection, or in any other manner that advances our educational and charitable purposes. We may share or transfer your information with our affiliates and any other organizations or entities for similar purposes.
 
 **_On Public Forums, Discussion Boards or Message Boards_** __
 
@@ -164,22 +211,9 @@ This policy does not cover the privacy practices of any third parties that we do
 
 **A NOTE TO INTERNATIONAL USERS**
 
-While the ARI Site is currently intended for and directed towards users in the United States, from time to time ARI may collect information from international users. ARI has implemented data privacy practices consistent with the data privacy principles outlined in the [OECD Privacy Guidelines](http://www.oecd.org/internet/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm#part2), the APEC Privacy Framework and the Federal Trade Commission’s Data Privacy Principles. Privacy regulations change rapidly, and ARI strives to maintain the highest data privacy practices consistent with domestic and international regulations.
+While the [https://aynrand .org](https://aynrand%20.org/), [https://ari.aynrand.org](https://ari.aynrand.org/) and [https://campus.aynrand.org](https://campus.aynrand.org/) ARI Sites are currently intended for and directed towards users in the United States, from time to time ARI may collect information from international users. ARI has implemented data privacy practices consistent with the data privacy principles outlined in the [OECD Privacy Guidelines](http://www.oecd.org/internet/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm), the APEC Privacy Framework and the Federal Trade Commission’s Data Privacy Principles. Privacy regulations change rapidly, and ARI strives to maintain the highest data privacy practices consistent with domestic and international regulations. Users in the European Union should refer to the above Data Privacy Best Practices in the European Union section regarding ARI’s promises to each EU User.
 
 If you are accessing this Site from outside the United States, please be aware that by using the Site, you are consenting to ARI’s collection of your personal information as outlined in this Privacy Policy. If you are an international user and believe that your data was collected in error, please contact us at[ webmaster@aynrand.org](mailto:%20webmaster@aynrand.org). 
-
-**_EU-U.S. Safe Harbor Certification_**
-
-ARI is currently seeking EU-U.S. Safe Harbor certification. In the interim, ARI strives to adhere to the highest standard of data privacy practices by abiding by the major privacy principles outlined in the European Union Data Privacy Directive. These principles include:
-
-  * _Fairness_. Process data “fairly and lawfully.”
-  * _Specific purpose_. Ensure that data are processed and stored “for specified, explicit, and legitimate purposes and not further processed in a way incompatible with those purposes.”
-  * _Restricted Use_. Ensure that data are “adequate and relevant, and not excessive in relation to” the purposes they are for which they are collected.
-  * _Accuracy_. Ensure that data are “accurate and, where necessary, kept up-to-date,” so that “every reasonable step [is] taken to ensure” errors are “erased or rectified.”
-  * _Destruction._ Maintain personal data “no longer than necessary” for the purposes for which the data were collected and processed. __
-  * _Security_. Data must be processed with adequate “security” (a “controller must implement appropriate technical and organizational measures to protect personal data against . . . destruction or . . . loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network. . . .”).
-
-
 
 **UPDATES TO OUR PRIVACY POLICY**
 
