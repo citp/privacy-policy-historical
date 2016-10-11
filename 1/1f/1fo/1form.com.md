@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408205932id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1form.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011182402id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -23,7 +23,7 @@ realestate.com.au and REA Group are together known as “REA” or “we”, “
 
 This Privacy Policy sets out the manner in which we collect, use, disclose and manage personal information. By using the Websites and the REA Group Website, subscribing to our services or entering into an agreement with us in relation to the Websites, you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy.
 
-We may modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. We welcome your comments and [feedback](https://about.realestate.com.au/contact-us/).
+We may modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. If you are a customer and the modification would result in a material change to either party’s rights or obligations and, for that reason, may cause you material detriment, we will give you at least 30 days’ written notice via email before the modification is to take effect and you may terminate your agreement with us during this period if you consider that the modification will cause you material detriment. For non-material changes we make that would not cause material detriment to a customer, we will give customers at least 30 days’ written notice via [Agent Admin](https://secure.realestate.com.au/sign_in) or for Media customers via the [Media Centre](http://media.realestate.com.au/), before the modification is to take effect, but customers may not terminate as a result of this modification during this period.
 
 **RESPECTING INFORMATION PRIVACY**
 
@@ -159,7 +159,9 @@ If you request information from any organisation through our Websites, you will 
 
 **DISCLOSURE AND STORAGE OF PERSONAL INFORMATION OUTSIDE AUSTRALIA**
 
-Personal information submitted by REA’s customers and visitors to our Websites and the REA Group Website may be held on servers located in Australia or in the data centres of REA’s outsourced data processors with data centres in Australia, the United States of America, Europe and Asia. We transfer data outside of Australia to our service providers in order to obtain secure storage, back-up and data retrieval services. REA has implemented policies and procedures to safeguard the secure storage and processing of data with its related companies and has verified the security arrangements of its outsourced data processors. When you provide us with your personal information you give us your consent to store your personal information outside of Australia for the purposes described above.
+Personal information submitted by REA’s customers and visitors to our Websites and the REA Group Website may be held on servers located in Australia or in the data centres of REA’s outsourced data processors with data centres in Australia, the United States of America, Europe and Asia. We transfer data outside of Australia to our service providers in order to obtain secure storage, back-up and data retrieval services and to provide services. REA has implemented policies and procedures to safeguard the secure storage and processing of data with its related companies and has verified the security arrangements of its outsourced data processors. When you provide us with your personal information you give us your consent to store your personal information outside of Australia for the purposes described above.
+
+Where we have obtained your consent to do so, we may also share your personal information with our service providers and other third parties located outside Australia so that they can provide you with any products or services requested by you, including contacting you in relation to the products or services. As these entities are located outside of Australia, they are not required to comply with the Privacy Act and you will not be able to seek any redress under the Privacy Act in connection with the use of your information.
 
 **SECURITY**
 
@@ -185,7 +187,7 @@ For more information about privacy issues in Australia and protecting your priva
 
 We use cookies, web beacons and measurement software and tools on the Websites and REA Group Website and so do our services providers and third parties such as our analytics, advertising or ad serving partners. We use and disclose the information collected through the use of cookies, web beacons and measurement software and tools in accordance with this Privacy Policy. This includes using the information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. We may allow other third parties to use their own cookies and web beacons to collect information about your visits to the Websites and REA Group Website.
 
-We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons) to provide better or more relevant services and advertising to you on the Websites and REA Group Website. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
+We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons) and use analytics services such as Firebase Analytics to provide better or more relevant services and advertising to you on the Websites, the REA Group Website and third party websites. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
 
 **COOKIE CHOICES**
 
@@ -265,4 +267,4 @@ If you are not satisfied with our handling of your complaint, you can refer your
 
 COSL offers consumers an accessible, independent and fair dispute resolution service. You can contact COSL at 1800 555 727, online at cosl.com.au or write to them at Credit Ombudsman Service Ltd, PO Box A252, South Sydney, NSW 1235.
 
-**Last update 16 June 2015**
+**Last update 4 August 2016**
