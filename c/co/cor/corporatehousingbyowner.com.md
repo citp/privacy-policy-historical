@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314234903id_/https%3A//www.corporatehousingbyowner.com/privacy-policy-for-corporate-housing-by-owner) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011110120id_/https%3A//www.corporatehousingbyowner.com/privacy-policy-for-corporate-housing-by-owner) for the most accurate reproduction.*
 
 # Privacy Policy for Corporate Housing by Owner
 
-  
 Your privacy is our priority at corporate housing by owner, and we go to great lengths to protect it. Corporate housing by owner privacy policy covers the collection and use of personal information that may be collected by corporate housing by owner anytime you interact with corporate housing by owner, such as when you visit our website, when you purchase corporate housing by owner services, or when you call our customer service associates.
 
 **Why do we collect personal information?**  
