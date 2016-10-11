@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caliente.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413090855id_/http%3A//www.caliente.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caliente.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011032853id_/http%3A//caliente.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Latin Dating Site - Meet Hispanic and Latin Singles on Caliente.com
 
