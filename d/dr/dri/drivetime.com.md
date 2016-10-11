@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173922id_/https%3A//www.drivetime.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012001211id_/https%3A//www.drivetime.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | DriveTime.com
 
@@ -86,7 +86,7 @@ These practices and policies are subject to change, but we will communicate any 
 
 If you have any questions about this privacy statement, please contact:
 
-Compliance Team, 4020 E. Indian School Road, Phoenix, AZ 85018 or [privacy@drivetime.com](mailto:privacy@drivetime.com). Make sure to include enough information so that we can help you, such as your name, contact information, and the specific website mobile site, application, and/or other service you are contacting us about.
+Compliance Team, 1720 West Rio Salado Parkway, Tempe, AZ, 85281 or [privacy@drivetime.com](mailto:privacy@drivetime.com). Make sure to include enough information so that we can help you, such as your name, contact information, and the specific website mobile site, application, and/or other service you are contacting us about.
 
 If you don’t agree to the terms contained in this privacy policy, you must immediately exit the website.
 
@@ -95,6 +95,5 @@ If you don’t agree to the terms contained in this privacy policy, you must imm
   * [Privacy Policy Flyer](https://az528617.vo.msecnd.net/commondrivetimeprod/PrivacyPolicy.pdf)
   * [Supplement-California Privacy Notice](https://az528617.vo.msecnd.net/commondrivetimeprod/CaliforniaPrivacyNotice.pdf)
   * [Supplement-California/Vermont Privacy Notice](https://az528617.vo.msecnd.net/commondrivetimeprod/VermontPrivacyNotice.pdf)
-  * [SMS Privacy Policy & Terms](https://az528617.vo.msecnd.net/commondrivetimeprod/SMSTermsConditionsv1.pdf)
 
 
