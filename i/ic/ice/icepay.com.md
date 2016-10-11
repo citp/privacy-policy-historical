@@ -1,44 +1,62 @@
-> *The following text is extracted and transformed from the icepay.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629224329id_/https%3A//www.icepay.com/images/pdf/privacy-policy/privacy-policy-icepay-en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icepay.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012004850id_/https%3A//icepay.com/downloads/pdf/company/Privacy-Policy_INT.pdf) for the most accurate reproduction.*
 
 # Privacy Policy ICEPAY
 
-                                                                                          Privacy Policy ICEPAY
-                                                                                                          th
-                                                                                  (Last updated March 13 , 2013)
 Privacy Policy ICEPAY
 Privacy Statement
-ICEPAY respects your privacy and asserts that your personal data will be treated confidentially. Respect for
-the privacy of (potential) customers is the starting point for all ICEPAY’s activities. ICEPAY will use your
-personal data in accordance with the applicable legislation. This statement is part of the code of conduct that
-the employees of ICEPAY endorse and comply to.
+ICEPAY respects your privacy and all personal data will be treated confidentially.
+Respect for the privacy of customers is the starting point for all ICEPAY activities.
+ICEPAY will use your personal data in accordance with the applicable legislation. This
+statement is part of the code of conduct that the employees of ICEPAY endorse and
+comply to.
 Your personal data
-ICEPAY uses the personal information about you to provide to perform financial transactions, maintain, and
-improve our services and to deliver the information and support you request, including technical notices,
-security alerts, and support and administrative messages. In addition, your data is used to protect our rights
-and property; to verify your identity; to investigate and prevent fraud or other illegal activities; and for any
-other purpose disclosed to you in our Terms of Service.
-We only share your personal data with third parties if we believe that disclosure is reasonably necessary to
-comply with any applicable law, regulation, legal process, or governmental request; to enforce applicable
-user agreements or policies; to protect the security or integrity of our services; and to protect us, our users
-or the public from harm or illegal activities.
-Delete or correct personal data
-You can contact the Compliance Department of ICEPAY to inquire about the personal data we have on
-record. You may update you information or correct inaccuracies by contacting the Compliance Department:
-Mail:                    compliance@icepay.com
-Postal Address:          ICEPAY Att. Compliance
-                         Nachtwachtlaan 20
-                         1058 EA Amsterdam
-We kindly remind you that by changing or deleting your personal information may limit the use of the
-services offered by ICEPAY. Changing or deleting your personal data will not affect the contractual agreement
-with ICEPAY, this agreement remains unchanged for the agreed duration. Even after you deactivate your
-ICEPAY account, we may retain archived copies of information about you and your transactions for a period
-of time that is consistent with applicable law.
+Our registration forms request users to provide us with personal and business
+information, such as name, address, and email and company activities. ICEPAY
+registers this personal information to perform financial transactions, maintain and
+improve our services and to deliver the information and support you request.
+Additionally your data is used to verify your identity, to investigate and prevent fraud
+or other illegal activities, to protect our rights and property and for any other purpose
+mentioned in our Terms and Conditions.
+Your personal data may be shared with third parties/recipients:
+      If we believe that disclosure is reasonably necessary to comply with any
+         applicable law, regulation, legal process or governmental request,
+      To complete an application or process (requested by you).
+Management of personal data
+You can view and change your personal data at all times by logging in to the ICEPAY
+portal (except for changing the Company name). All change requests will be reviewed
+by our Underwriting Department and approved if correct. Our Customer Service
+Department may be contacted during office hours for all general questions. Our
+Compliance Department may be contacted for escalated issues regarding privacy.
+Compliance Department                                      Customer Service
+compliance@icepay.com                                      info@icepay.com
+ICEPAY B.V., Att. Compliance                               ICEPAY B.V.
+Nachtwachtlaan 20                                          Nachtwachtlaan 20
+1058 EA Amsterdam                                          1058 EA Amsterdam
+The Netherlands                                            The Netherlands
+Privacy Policy ICEPAY | 18.05.2015
+                                                                                          1
+
+
+We kindly remind you that changing or deleting your personal information may limit
+the use of the services offered by ICEPAY. Changing or deleting your personal data will
+not affect your contractual agreement with ICEPAY. This agreement remains
+unchanged for the agreed duration. According to Dutch law, copies of documentation
+and information about you and your transactions are archived for a period of 5 years
+and stored in a location in the Netherlands, even after deactivation of your account.
 Cookies
-Starting January 1st 2013 new regulations apply to the use of ‘Cookies’. Cookies are used by ICEPAY to
-optimize our service to you. For detailed information on our cookie policy, please refer to the cookie
-statement on the homepage of the ICEPAY website.
+Our website uses cookies. Cookies are small data files that enable us to store certain
+login information and directly connect with the system of the user. Cookies cannot be
+used to identify individuals, only devices and facilitate a more user friendly service like
+preferences etc. Every visitor can set up their computer to prevent cookies from being
+accepted. For detailed information on cookie us, please refer to the ICEPAY Cookies
+page.
 Security
-We take reasonable measures, including administrative, technical, and physical safeguards, to help protect
-personal information from loss, theft, unauthorized access, and misuse.
-                                ICEPAY B.V., Nachtwachtlaan 20, 1058 EA Amsterdam                    Pagina 1 van 1
-                                   Website: www.icepay.nl, E-mail: info@icepay.nl
+We take reasonable measures, including administrative, technical, and physical
+safeguards to help protect information from loss, theft, unauthorized access and
+misuse.
+Privacy Policy updates
+ICEPAY reserves the right to change this privacy policy at all times. It is your
+responsibility to periodically verify the applicable policy and to comply with the most
+recent version. All changes will be posted on our website.
+Privacy Policy ICEPAY | 18.05.2015
+                                                                                           2
