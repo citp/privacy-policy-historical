@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmelater.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315034217id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmelater.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011133934id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
 
 # Bill Me Later
 
