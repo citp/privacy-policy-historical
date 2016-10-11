@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503094853id_/http%3A//www.supershuttle.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011025303id_/http%3A//www.supershuttle.com/Privacy) for the most accurate reproduction.*
 
-# SuperShuttle® Online Reservations - LAX SFO LAS DIA PHX BWI DFW TPA JFK JAX CDG IAD SAN DCA SMF MCI IAH LGA MSP EWR AUS SNA HOU BUR DAL OAK ONT LGB SJC ISP PTP PIE ORY MIA MCO Airport
+# Airport Shuttle Service | Shared Ride | Book Online Transportation
 
 SuperShuttle is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SuperShuttle Web site and governs data collection and usage. By using the SuperShuttle website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ SuperShuttle will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-SuperShuttle welcomes your comments regarding this Statement of Privacy. If you believe that SuperShuttle has not adhered to this Statement, please contact SuperShuttle at [spandit@saatechnosolutions.com](mailto:spandit@saatechnosolutions.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+SuperShuttle welcomes your comments regarding this Statement of Privacy. If you believe that SuperShuttle has not adhered to this Statement, please contact SuperShuttle at [spandit@plexitech.in](mailto:spandit@plexitech.in). We will use commercially reasonable efforts to promptly determine and remedy the problem.
