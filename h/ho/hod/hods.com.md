@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hods.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507053749id_/http%3A//hods.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hods.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011233014id_/http%3A//hods.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
