@@ -1,66 +1,69 @@
-> *The following text is extracted and transformed from the lifemojo.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014000509id_/http%3A//www.lifemojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemojo.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011181247id_/http%3A//www.lifemojo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - LifeMojo.com
 
-We value the trust you place in LifeMojo.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time. To make sure you are aware of any changes, please review this policy periodically.
+This Privacy Policy governs the manner in which lifemojo.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the lifemojo.com website (“Site”). This privacy policy applies to the Site and all products and services offered by lifemojo.com.
 
-LifeMojo.com is operated by LifeMojo Health Solutions Pvt. Ltd. and its subsidiaries; all references to "LifeMojo.com", "flab.in", "istrait.com", "we", or "us", include LifeMojo Health Solutions Pvt. Ltd. and its subsidiaries
+Personal identification information
 
-### 1\. Collection of Personally Identifiable Information
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We collect personally identifiable information (email address) from you when you set up a free account with lifeMojo.com. While you can browse some sections of our site without being a registered member, certain activities (such as searching for properties, viewing property contact information, and registering a property) do require registration.
+Non-personal identification information
 
-We do use your contact information to send you offers. You may always opt-out of receiving such information; see the _Choice/Opt-Out_ section below.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### 2\. Use of Demographic and Profile Data
+Web browser cookies
 
-We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.
+How we use collected information
 
-We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.
+lifemojo.com may collect and use Users personal information for the following purposes:
 
-We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.
+  * _– To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _– To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-### Cookies
 
-A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. lifeMojo.com places both permanent and temporary cookies in your computer's hard drive. lifeMojo.com's cookies do not contain any of your personally identifiable information.
 
-### 3\. Sharing of personal information
+How we protect your information
 
-We may share personal information withour other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-lifeMojo.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+Sharing your personal information
 
-### 4\. User Generated Content
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-You may elect to submit User Generated Content via the Website. If at any time you share User Generated Content on areas of the site that are generally accessible to other Website users, such content is considered "Public User Generated Content." If you share Personal Information with LifeMojo that you do not share on public areas of the Website, such content is considered "Private User Generated Content."
+Third party websites
 
-You have control over what information about yourself you choose to share on the Website. Please be aware that when you post Public User Generated Content on the Website, such content may be viewed by other users and by the general public, including any such content that contains Personal Information. All such sharing of information and content is done at your own risk.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-We may use User Generated Content in accordance with the User Generated Content License set forth in the Terms of Use, provided that (i) we will not distribute or display your Private User Generated Content other than in the areas of the Website to which you have submitted such content and (ii) if we distribute Public User Generated Content to third parties for publication in print media, we will not associate your Personal Information with such Public User Generated Content without your permission.
+Advertising
 
-You may modify or delete your User Generated Content in accordance with the instructions on the Website. Please be aware that even if LifeMojo deletes such User Generated Content from its 'live' databases, such information may still be stored on other databases (including those kept for archival purposes). We will not retrieve deleted content from our archives in order to publish it on the Website or elsewhere, but please be aware that any Public User Generated Content that you delete but that has been published or distributed in media other than the Website prior to deletion may remain publicly available on areas other than the Website in accordance with the User Generated Content License.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-### 5\. Links to Other Sites
+Google Adsense
 
-Our site links to other websites that may collect personally identifiable information about you. lifeMojo.com is not responsible for the privacy practices or the content of those linked websites.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-### 6\. Security Precautions
+Changes to this privacy policy
 
-Our site has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+lifemojo.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### 7\. Choice/Opt-Out
+Your acceptance of these terms
 
-lifeMojo.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://veepy.com/privacy_policy.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-To remove your contact information from all lifeMojo.com lists and newsletters, Please contact us at the address below.
+Contacting us
 
-### 8\. Questions?
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+lifemojo.com
 
-Questions regarding this statement should be directed to the following address:  
-**LifeMojo.com**  
-info@lifemojo.com  
+Almadon 18 NYC  
++1 87666385  
+contact@lifemojo.com
 
+This document was last updated on April 08, 2015
