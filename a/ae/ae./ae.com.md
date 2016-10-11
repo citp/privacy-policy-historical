@@ -1,186 +1,144 @@
-> *The following text is extracted and transformed from the ae.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229222532id_/http%3A//www.ae.com/web/help/privacy_policy.jsp%3Ftopic%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ae.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011233634id_/https%3A//www.ae.com/content/help/privacy-notices%3Fnavdetail%3Dfooter%3Ac5%3Ap1) for the most accurate reproduction.*
 
-# - Help: Privacy Policy - American Eagle Outfitters
+# American Eagle Outfitters Men's & Women's Clothing, Shoes & Accessories
 
-##  U.S. Privacy Policy 
+UPDATED AS OF: March 7, 2016
 
-American Eagle Outfitters, Inc. and its brands, which include but are not limited to American Eagle Outfitters, aerie, 77 Kids, and Martin + Osa stores or web sites (collectively, "AE"), respect your personal information and your right to privacy. We may change or add to this privacy policy at any time without notice, so we encourage you to review it periodically. AE reserves the right to vary this policy state by state as required by law. We do not sell or rent your personal information to third parties. We may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. By purchasing our products or using our services or website, you consent to the collection, use and disclosure of your personal information in accordance with the following privacy policy. 
+American Eagle Outfitters, Inc. and its affiliates and subsidiaries (collectively, "AEO", "we", "us", or "our") are committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read this Privacy Notice (this "Notice") to learn how we collect, protect, share and use your information. This Notice applies to information obtained in connection with our technology platforms, including, without limitation, our websites, mobile/tablet sites, web pages, social media presence, marketing campaigns, applications, our stores and other AEO controlled digital properties that link to this Notice (collectively, the "Platforms"). By purchasing our products/services, visiting our stores, providing us information or by accessing our Platforms, you consent to the collection, use and disclosure of your personal information in accordance with this Notice.
 
-###  This privacy policy will tell you: 
+This Notice does not create a contractual obligation between you and AEO, and it is subject to our [Terms of Use](https://web.archive.org/web/help/terms_of_use.jsp?topic=1&navdetail=footer:utility:p1). If you have questions about this Notice, please contact us at [custserv@ae.com](mailto:custserv@ae.com).
 
-  * What information is collected by AE
-  * How we may use and share information
-  * How we protect the information
-  * How you may contact AE
+Note, when applying for an AEO Credit Card, issued by Synchrony Bank, additional privacy policies may apply to information collected during such process.
 
+1\. INFORMATION COLLECTED.
 
+ **Information Provided.**
 
-###  AE POINTS OF CONTACT 
+We receive and may keep information voluntarily provided when you navigate our Platforms, make a purchase, utilize our services, apply for an AEO Credit Card, create/maintain an AEO account, register with or otherwise contact us, take part in a special promotion, customer research, contest or sweepstakes, or otherwise provide or submit information.As part of such information collected, we or our Vendors (as defined below) may collect "Personal Information" (information that may be used to identify you as an individual) such as your name, e-mail address, telephone number, home address, payment information (e.g., account information or credit card number), or social security number (e.g., if you are applying for an AEO credit card, issued by Synchrony Bank). The types of Personal Information collected may vary depending on your navigation and use of the Platforms. For example, we will collect your credit card number and other payment related information in connection with your purchase of products and/or services through the Platforms.
 
-The AE points of contact include, but are not limited to: 
+We may also receive and keep information you provide to us regarding other people. For example, you may provide us with the name and address for a gift recipient. When you provide us with the Personal Information about the intended recipient of a shipment, we use that information for the purposes of processing the shipment and, in some cases, to communicate with the intended recipient. We rely on you to obtain the intended recipient's consent to our use of their Personal Information for these limited purposes.
 
-  * AE stores, our AE merchandise sales websites (ae.com, aerie.com, 77kids.com, and martinandosa.com), AE's customer service line for ordering products, and communications with AE's customer relations department;
-  * Any other website or on-line service that may be provided from time to time by AE or on behalf of AE such as: 
-    * The customer loyalty website at aeallaccesspass.com
-    * The AE Credit Card website at ae.com. This policy does not apply to information collected when you apply for an AE Credit Card (issued by GE Money Bank)
-  * Mobile Devices.
+ **Information We Receive from Third Parties.**
 
+In our efforts to maintain accurate and complete information, we utilize third party entities to assist us with updating and maintaining current contact information (e.g., National Change of Address or NCOA).We may also receive Personal Information and other information from sources assisting us with updating, improving and/or analyzing our records or with detecting fraud or theft.Additionally, we may receive information from various consumer reporting agencies and related service providers.
 
+Also, we may receive information about you from other third parties. For example, if you are on another website and you opt-in to receive information from AEO, that website will submit to us your e-mail address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information (as defined herein) and Personal Information such as lists of your friends, "likes", comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platforms to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their "connections", or if information about you is otherwise accessible through your "connections" web page, profile page, or similar page on a social networking or other third party website or interactive service.
 
-###  WHAT INFORMATION DO WE COLLECT? 
+Information Collected Automatically.
 
-###  Consumer Information 
+ _Usage Information._ Whenever you visit or interact with the Platforms, we, as well as third-party advertisers, vendors and/or service providers (collectively, "Vendors"), may use a variety of technologies that automatically or passively collect information ("Automated Technologies") about how the Platforms are navigated, accessed and used ("Usage Information"). Usage Information may include browser type, device type and characteristics, Device Identifiers (as defined below), operating system, application version, the pages served, the time/date, your geo-location, the preceding page views, and your use of and pathway through the Platforms. This information helps us administer our Platforms, keep our Platforms fresh and interesting, recognize you and your Device, personalize and tailor content, diagnose problems with our servers, analyze trends, gather broad demographic information for business or aggregate use, and enable our online presence to operate properly and efficiently for you and for your individual customer experience.
 
-We receive and may keep information voluntarily given to us when you decided to make an AE purchase, apply for an AE Credit Card, register on an AE website, take part in a special promotion, or provide any other information or unique preferences to better serve you. This information may include: 
+ _Device Identifier._ We or our Vendors may automatically collect your IP address or other unique identifier ("Device Identifier") for the "Device" (e.g., computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is usually a number that is assigned to your Device when you access a Platform or its servers, permitting identification of your Device by its Device Identifier.
 
-  * Your name, postal address and phone number
-  * Date of birth
-  * Your e-mail address
-  * Your mobile phone number
-  * Your credit card, AE Gift Card or AE All-Access Pass Loyalty Card number
-  * Proof of your identity
-  * *Any other information that AE may voluntarily collect from you from time to time on its website or through alternate means. It might also include information you provide us about other people. For example, you may provide us with some of the same information as above (name and address) for a merchandise gift recipient. When you provide us with personal information about the intended recipient of a shipment, we use that information for the purposes of processing the shipment and, in some cases, to communicate with the intended recipient to provide information pertaining to the status of the shipment. We rely on you to obtain the intended recipient's consent to our use of their personal information for these limited purposes.
+ _Automated Technologies._ The Automated Technologies used on the Platforms to collect Usage Information include, but are not limited to, _cookies_ (data files placed on a Device when it is used to visit the Platforms), _mobile analytics software_ , _pixel tags_ (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a Platform to indicate that a page or e-mail has been viewed), and _similar technologies_. Both **session cookies** (which expire once you close your web browser) and **persistent cookies** (which remain on your Device, sometimes until you delete them) may be used. Please remember, some Automated Technologies may tell your browser to get content from another server.
 
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your Device browser settings to notify you when your Device receives a cookie, which lets you choose whether or not to accept it; or (ii) set your Device browser to automatically reject any cookie. However, please be aware that if you disable or reject cookies, some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your AEO account. Please note, even if you choose to restrict or modify your settings, you may still see or receive AEO advertisements via our Platforms and on other sites, but such advertisements will not be based upon your browsing history.
 
+AEO does not respond to "do-not-track" setting in user's web browser, and our Platforms may continue to collect information in the manner described in this Notice. You can also learn more about cookies by visiting [allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browsers.
 
-###  Information from Other Sources 
+2\. USE OF THE INFORMATION COLLECTED.
 
-We may receive information about you from other sources such as updated address information. This information may help us to improve our ability to serve your needs such as ensuring the accurate delivery of direct mail materials. 
+We or our Vendors may place Automated Technologies on your Device for a variety of reasons, including security purposes (including protecting the integrity of the Platforms and our stores), Platform navigation, and marketing and analytics purposes (including allowing the selection of personalized ads or offers believed to appeal to you, based on your interests, preferences, location, or demographic information). Additionally, Automated Technologies may also be used to associate you with social networking sites (e.g., Facebook and Twitter), and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites.
 
-###  Use of Cookies and Other Technology 
+The information collected via the Platforms is used to provide you service and answer your questions and requests; maintain our loyalty programs; provide you with access to certain areas and features of the Platforms; verify your identity; deliver merchandise and services ; conduct research, analysis, and surveys; communicate with you about your account and activities on the Platforms; tailor content, advertisements, and offers served to you; alert you to products (including recalls); serve you our promotional information and that of our partners, we think may be of interest to you; improve the Platforms; comply with license and legal obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may also use the information we collect to administer giveaways, contests, birthday programs and similar promotions, and special customer recognition programs, including our loyalty program(s).
 
-We want you to be aware that certain online tools exist to help us serve and recognize you when you visit one of our websites. For your convenience, to help us personalize your experience or better serve your needs, we may receive and store certain types of information when you visit one of our websites. You may be familiar with the term "cookies." These cookies may be placed on your computer when you click on an AE e-mail, banner, or on the site directly. We use this information to understand how users navigate to and around our websites, view product pages, access content and make purchases. 
+In using your information, we may combine certain Personal Information, customer information and Usage Information collected online and offline, including information collected from third parties.
 
-###  ONCE INFORMATION IS RECEIVED, HOW IS IT USED AND/OR SHARED? 
+3\. SHARING OF INFORMATION.
 
-###  Within AE 
+Except as described in this Notice, we will not provide any of your Personal Information to any third parties without your consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Notice, including in the following circumstances:
 
-Information we collect from you may be shared between all points of contact within AE and its subsidiaries. We use this information to offer you special offers, new products, and services and may share your information with sister companies. In addition, AE may use such information to: 
+ **Third Parties Providing Services on Our Behalf.** We may share your Personal Information with Vendors that perform functions on our behalf or assist with our business operations, such as those that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and "powered by" partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers. For example, Synchrony Bank manages an online credit center. When you visit the web site, Synchrony Bank receives the information you provide for the purpose of assisting AEO with the administration and management of the AEO Credit Card. Synchrony Bank may have its own policies that govern the site when you apply for a credit card.
 
-  * Provide you with timely and reliable fulfillment of requests
-  * Do all things necessary to administer those services
-  * Deliver merchandise and services that you purchase online
-  * Register you on ae.com
-  * Facilitate payment for your purchases
-  * Confirm your orders and delivery information
-  * Respond to your customer service inquiries or requests
-  * Communicate offers, benefits and featured items to you
-  * Administer giveaways, contests, birthday programs and similar promotions
-  * Administer special customer recognition programs such as AE All-Access Pass
-  * Find and stock the products you want
-  * Customize your shopping experience and other uses as determined by AE
+ **Your Agreement to Have Your Personal Information Shared.** While utilizing our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
+ **Business Transfers.** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that AEO is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
+Legal Disclosure. We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our [Terms of Use](https://web.archive.org/web/help/terms_of_use.jsp?topic=1&navdetail=footer:utility:p1) or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.
 
-###  Outside AE 
+You may ask us not to use your Personal Information to provide you with marketing information or offers, or not to send you newsletters, marketing e-mails or other communications, by: (i) modifying your registered user information on the Platforms; (ii) sending us an e-mail at custserv@ae.com; (iii) contacting us by mail American Eagle Outfitters, c/o Customer Relations, 77 Hot Metal St., Pittsburgh, PA 15203, or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
-Certain business services are performed on AE's behalf and at AE's request by other companies. We may share your information with selected vendors that perform services for AE or to others for other marketing purposes. To perform these services, these companies may, at times, utilize some of the information you have provided AE. This information is used for the purposes AE has requested such as maintaining our database, administering and monitoring e-mails, and contest administration. aeallaccesspass.com is a limited availability website managed by our loyalty program partner. When you visit the site and choose to enter your loyalty program member number and password, our loyalty program partner receives all information on your use of the site relating specifically to this program so that they can help AE administer and manage this program. GE Money Bank manages the AE Credit Card website at ae.com. When you visit the web site, GE Money Bank receives the information you provide for the purpose of assisting AE with the administration and management of the AE Credit Card. GE Money Bank may have its own policies that govern the site when you apply for a credit card. We may also share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud that has already taken place. In addition, AE reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so. In all cases, this information is not provided to these entities for purposes of marketing to an AE customer. 
+If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always be possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
-###  Retention of Personal Information 
+Additionally, we may refuse requests that are unreasonably repetitive, require disproportionate technical efforts, risk the privacy of others, or are impractical.
 
-AE retains your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Your consent to such purposes(s) remains valid after any termination of our relationship with you. 
+5\. ADVERTISING/BEHAVIORAL TARGETING.
 
-###  Right to Transfer 
+We may use third party ad network providers to help present ads on the Platforms or other sites, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. Such providers may place and access Automated Technologies on your Device to serve you ads or other content personalized to your interests, which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of Automated Technologies by these providers is subject to their own privacy policies, not ours.
 
-AE also reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale (including, but not limited to, liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of AE or of any of the business, assets or shares of AE or a division thereof. AE may decide to retain a copy of the information after the sale or transfer for any use. 
+The Platforms are intended for "general audiences" and are not directed to children under the age of 13. We do not knowingly collect, use or disclose Personal Information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
 
-###  HOW TO CONTACT AE 
+7\. SECURITY OF YOUR INFORMATION AND IDENTITY THEFT DETECTION PROGRAM.
 
-###  How do I make choices about receiving promotional communications?
+We take information security seriously and use a variety of security measures to help protect your Personal Information and online transactions. We utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet. Your personal online and mobile account(s) with us are password protected, with restricted online access.
 
-American Eagle Outfitters, Inc. and our brands, American Eagle Outfitters, aerie, 77 Kids, and Martin + Osa, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service via telephone, postal mail, e-mail or through an AE brand website as described below.
+In addition, AEO has a program (the "Red Flag Program") designed to comply with the Red Flag Rules promulgated by the Federal Trade Commission under the Fair and Accurate Credit transactions Act of 2003. Pursuant to the Red Flag Program, AEO has identified specific patterns, practices, and forms of activity to be Red Flags signaling possible identity theft. In the instance that AEO has identified a Red Flag, AEO will follow the Red Flag Program closely to protect you against identity theft. For complete Program details please visit [www.ftc.gov.](http://www.ftc.gov/)
 
-When contacting customer service, please be sure to include your full name and the email address you used when you registered with or made a purchase from the AE brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from AE.
+Additionally, we use a variety of security measures to help protect your information that we maintain at our facilities, including physical, administrative and technical controls (that are consistent with retail practices) in an attempt to mitigate such risks. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. We encourage you to take your own steps to protect your personal information and prevent identity theft.
 
-If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.
+The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an e-mail or social networking page).
 
-Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
+The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Notice.
 
-###  Postal Mail 
+9\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.
 
-If you do not want to receive promotional mail from AE via postal service, send a letter stating this with your name and address to custserv@ae.com, or to our mailing address below. You can also call us at 1-888-232-4535 with your request. 
+Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
 
-###  E-mails 
+In furtherance of the EU Data Protection Directive 95/46/EC (the "Directive"), AEO participates in the EU and Swiss Safe Harbor Framework (as established by the U.S. Department of Commerce) regarding the processing of personal information from the European Economic Area ("Safe Harbor"). AEO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement ("Certification"). To learn more about the Safe Harbor program, and to view our certification page, please visit [ http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/) In light of recent European Court of Justice actions, AEO maintains its Certification but has taken additional steps to properly evidence adherence to the Directive. Such additional steps include revaluating our data flows, entering into an Inter-Company Agreement detailing the processing of certain personal data, and working to ensure that necessary Controller obligations are being passed through to various service providers.
 
-When you fill out one of our forms or other requests for information, you may choose to receive e-mail that informs you about new merchandise in our stores or online, as well as special offers and promotions. In addition, we may send you e-mails to help us learn more about you and your preferences. If, after you have shared your e-mail address with AE, you decide that you do not want to receive e-mail from AE, you have several options to let us know of your preferences: 
+In compliance with Safe Harbor, AEO commits to resolve complaints about your privacy and our collection and use of your personal information. If you have complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with ICDR/AAA, please visit their website at [http://info.adr.org/safeharbor/](http://info.adr.org/safeharbor) for filing information. If you are faxing or mailing ICDR/AAA to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with us. The ICDR/AAA dispute resolution process shall be conducted in English.
 
-  * You can go to ae.com, access your AE Account profile, uncheck the box marked "Send me e-mails with ae.com promotions" and follow the instructions
-  * If you are a participant in our customer loyalty program, call 1-800-340-0532
-  * You can discontinue promotional e-mails by clicking on the hyperlink shown in all AE e-mails and follow the instructions to indicate your unsubscribe preference
-  * Contact AE customer relations
+We may update this Notice to reflect changes to our information practices. We may change or add to this Notice at any time without notice, so we encourage you to review it periodically.
+
+Postal Mail.
+
+If you do not want to receive promotional mail from AEO via postal service, send an e-mail or a letter stating this with your name and address to either [custserv@ae.com](mailto:custserv@ae.com) , or our mailing address below. You can also call us at [1-888-232-4535](tel:1-888-232-4535) with your request.
+
+E-mails.
+
+When you fill out one of our forms or other requests for information, you may choose to receive e-mail that informs you about merchandise in our stores or online, as well as special offers, contests and promotions. In addition, we may send you e-mails to help us learn more about you and your preferences. If, after you have shared your e-mail address with AEO, you decide that you do not want to receive e-mail from AEO, you have several options to let us know of your preferences:
+
+  * You can unsubscribe from promotional e-mails at any time by clicking on the hyperlink shown in AEO e-mails and follow the instructions to indicate your unsubscribe preference;
 
 
 
-As it relates to questions you might have about our Privacy Policy or if you have a concern that AE may have failed to adhere to this Privacy Policy, please call customer relations at 1-888-232-4535, e-mail custserv@ae.com, or write us as follows:
+or
 
-###  Text Messaging
-
-Customers may decide to have marketing messages sent directly to their mobile devices via text messaging. This program is completely voluntary, and messages will only be sent to customers who have asked to receive them. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving messages, please respond to the text message in the following manner:
-
-  * For AEO, reply to the message with "eagleout"
-  * For aerie, reply to the message with "aerieout"
-  * For 77 Kids, reply to the message with "77kidsout" and
-  * For M+O, reply to the message with "mandoout"
+  * Contact AEO customer relations as set forth below,
 
 
 
-Standard text messaging & other charges may apply. Please consult the applicable wireless service agreement for your individual pricing plan.
+As it relates to questions you might have about this Notice or if you have a concern that AEO may have failed to adhere to this Notice, please call customer relations at [1-888-232-4535](tel:1-888-232-4535), e-mail custserv@ae.com, or write us as follows:
 
-You can reach customer support via email at [mobile@ae.com](mailto:mobile@ae.com) or via phone at 888.232.4535.
+ **American Eagle Outfitters**
 
-Please note that it may take up to 10 days to process your stop request, during which time you may receive additional text messages from AE.
+c/o Customer Relations
 
-**American Eagle Outfitters**  
-c/o Customer Relations  
-150 Thorn Hill Road  
-Warrendale, PA 15086  
+77 Hot Metal Street
+
+Pittsburgh, PA 15203
+
 Attention: Senior Director of CRM
 
 You may also contact us in any one of the above ways to request access to or correction or update of your personal information.
 
-If you have specific questions regarding your AE Credit Card, you can call AE Credit Card Customer Service at 1-800-843-0875 during the Eastern U.S. time zone hours of 8 a.m. - 12 midnight Monday - Saturday or 9 a.m. - 10 p.m. on Sunday. You can also write to:
+If you have specific questions regarding your AEO Credit Card, you can call AEO Credit Card Customer Service at [1-800-843-0875](tel:1-800-843-0875) during the Eastern U.S. time zone hours of 8 a.m. - 12 midnight Monday - Saturday or 9 a.m. - 10 p.m. on Sunday. You can also write to:
 
-**American Eagle Outfitters Credit Card**  
-P.O. Box 530993  
-Atlanta GA, 30353-0993 
+American Eagle Outfitters Credit Card
 
-###  MISCELLANEOUS 
+P.O. Box 530993
 
-###  Our Policy on gathering information from and communicating with children online 
+Atlanta GA, 30353-0993
 
-We recognize the unique privacy issues regarding children, and share parents? concerns for their security and safety. Our websites are intended for a general audience, and we do not directly market to children under the age of 13. Furthermore, Pursuant to COPPA guidelines, we do not knowingly collect or store personally identifiable information from children under the age of 13 absent prior verifiable parental consent. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information without their consent, please contact us at 1-888-232-4535, by e-mail at custserv@ae.com, or at the address listed above, and we will remove the information about the individual from our marketing database. 
+12\. MOBILE MARKETING MESSAGING.
 
-77 Kids cannot and will not condition a child?s participation in any activity on the unnecessary disclosure of the child?s personal information. 77 Kids shares a child?s personal information with third parties only in the following circumstances: 
+You may decide to have marketing messages sent directly to your Device via text messaging. This program is completely voluntary, and messages will only be sent to customers who have consented to receive them. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving messages, please respond to the text message in the following manner:
 
-  * When disclosure is reasonably necessary to comply with law;
-  * When the disclosure is necessary to protect the security of the web site; 
-  * When the disclosure is necessary to comply with website and/or sweepstakes rules. 
+  *  **For AE, reply "STOP" to EAGLE (32453)**
+  *  **For Aerie, reply "STOP" to AERIE (23743)**
 
 
 
-77 Kids may share information with business partners, who are contractually bound to maintain the confidentiality, integrity, and security of that information. The sharing of information with business partners is done only to allow for their assistance in already consented-to activities (e.g. the fulfillment of order requests, website services, or sweepstakes facilitation). 
+ **For additional help regarding your subscription to AE's Mobile Marketing Messaging Program, reply "HELP" to 32453; Aerie's Mobile Marketing Messaging Program, reply "HELP" to 23743.** Message and data rates may apply. Please consult the applicable wireless service agreement for your individual pricing plan.
 
-###  Our Commitment to Data Security 
-
-AE makes commercially reasonable efforts to ensure that personal information collected from you is protected against loss and unauthorized access. This protection applies in relation to information stored in both electronic and hard copy form. AE uses industry standard security techniques on our websites to help protect against the loss, misuse or modification of information that you have provided. When you access your personal information or transmit personally identifiable data to us, that information is stored on servers that we have used commercially reasonable efforts to protect from unauthorized access or intrusion. While we implement the above security measures, you should be aware that 100% security is not possible. 
-
-###  Know How to Identify American Eagle Outfitters Email 
-
-To help you protect your information, we will never ask for the following: 
-
-  * We will never send you an email asking you to verify financial account or credit card account information.
-  * We will never send you an email requesting personal information such as passwords, social security number, driver's license number or your mother's maiden name.
-  * We will never send you an email that threatens to terminate your account.
-
-
-
-If Emails Look Suspicious 
-
-  * If you receive a suspected fraudulent email that makes use of the American Eagle Outfitters name, please forward it to us at custserv@ae.com or call us at 1-888-307-3672.
-  * To ensure you reach American Eagle Outfitter's website, we ask you to type any website address we provide into the address line of your browser. This prevents you from being inadvertently redirected to a different website.
-
-
-
-###  What happens if I hit a link to another site from an AE site? 
-
-Our websites may offer links to other sites. Other sites have their own terms of use and privacy and security policies. AE is not responsible for how such third parties collect, use or disclose your personal information. If you choose to visit one of these sites, you may want to review the policies that govern that particular site. 
+By texting to subscribe, you are consenting to receive mobile marketing messages from AEO at the mobile number you provide. You agree that the messages may be sent using autodial or other automated technology. Consent is not required for the purchase of goods and/or services.You will receive up to 2 messages per week for each subscription.Any information you provide will be held in accordance with this Notice.
