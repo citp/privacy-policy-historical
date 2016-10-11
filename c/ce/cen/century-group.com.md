@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611002212id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011053936id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
 
 # Century Group - Executive Recruitment & Interim Services
 
