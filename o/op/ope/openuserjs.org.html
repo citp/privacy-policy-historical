@@ -1,27 +1,32 @@
-<!--The following is the downloaded HTML source of the openuserjs.org privacy policy that was archived on 2014-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141201164745id_/http%3A//openuserjs.org/about/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the openuserjs.org privacy policy that was archived on 2016-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161011194045id_/https%3A//openuserjs.org/about/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <title>Privacy Policy | About | OpenUserJS</title>
-    <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Download userscripts to enhance your browser.">
-  <meta name="keywords" content="userscript, userscripts, javascript, Greasemonkey, Scriptish, Tampermonkey, extension, browser">
-  <link rel="shortcut icon" href="/images/favicon.ico">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Download userscripts to enhance your browser.">
+<meta name="keywords" content="userscript, userscripts, user script, user scripts, user.js, repository, Greasemonkey, Greasemonkey Port, Scriptish, TamperMonkey, Violent monkey, JavaScript, add-ons, extensions, browser">
+<link rel="shortcut icon" href="/images/favicon.ico">
 
-  <!-- Open Search -->
-  <link href="/xml/opensearch-groups.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Groups">
-  <link href="/xml/opensearch-libraries.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Libraries">
-  <link href="/xml/opensearch-scripts.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Scripts">
-  <link href="/xml/opensearch-users.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Users">
+<!-- Open Search -->
+<link href="/xml/opensearch-groups.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Groups">
+<link href="/xml/opensearch-libraries.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Libraries">
+<link href="/xml/opensearch-userscripts.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Userscripts">
+<link href="/xml/opensearch-users.xml" type="application/opensearchdescription+xml" rel="search" title="OpenUserJS Users">
 
-  <!-- CSS -->
-  <link rel="stylesheet" type="text/css" media="all" href="/redist/npm/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" media="all" href="/redist/npm/octicons/octicons/octicons.css">
-  <link rel="stylesheet" type="text/css" media="all" href="/css/bootstrap-custom.css">
-  <link rel="stylesheet" type="text/css" media="all" href="/css/common.css">
-  <link rel="stylesheet" type="text/css" media="all" href="/css/github.css">
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/redist/npm/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="/redist/npm/octicons/build/font/octicons.css">
+<link rel="stylesheet" type="text/css" media="all" href="/less/bootstrap/oujs.css">
+<link rel="stylesheet" type="text/css" media="all" href="/redist/npm/highlight.js/styles/github.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/common.css">
+
+
+<!-- Google Analytics -->
+<script type="text/javascript" src="//www.google-analytics.com/analytics.js" async="async"></script>
+
 
   <link rel="stylesheet" type="text/css" media="all" href="/css/documentPage.css">
 </head>
@@ -30,15 +35,15 @@
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" data-toggle="collapse" data-target=".navbar-collapse-top" class="navbar-toggle"><i class="fa fa-bars"></i></button>
-      <a href="/" class="navbar-brand">OpenUserJS</a>
+      <a href="/" class="navbar-brand" title="A Presentational Userscripts Repository">OpenUserJS<span class="mode"></span></a>
     </div>
     <div class="navbar-collapse navbar-collapse-top collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/"><span class="visible-xs"><i class="fa fa-file-code-o"></i> </span>Scripts</a></li>
-        <li><a href="/?library=true" title="Script Libraries"><span class="visible-xs"><i class="fa fa-file-excel-o"></i> </span>Libs</a></li>
-        <li><a href="/groups" title="Script Groups"><span class="visible-xs"><i class="fa fa-folder"></i> </span>Groups</a></li>
-        <li><a href="/forum" title="Discuss"><span class="visible-xs"><i class="fa fa-comment"></i> </span>Discuss</a></li>
-        <li><a href="/users"><span class="visible-xs"><i class="fa fa-user"></i> </span>Users</a></li>
+        <li><a href="/" title="Userscripts"><span class="visible-xs-inline"><i class="fa fa-file-code-o"></i> </span>Userscripts</a></li>
+        <li><a href="/?library=true" title="Libraries"><span class="visible-xs-inline"><i class="fa fa-file-excel-o"></i> </span>Libraries</a></li>
+        <li><a href="/groups" title="Userscript Groups"><span class="visible-xs-inline"><i class="fa fa-tag"></i> </span>Groups</a></li>
+        <li><a href="/forum"><span class="visible-xs-inline"><i class="fa fa-commenting"></i> </span>Discussions</a></li>
+        <li><a href="/users"><span class="visible-xs-inline"><i class="fa fa-user"></i> </span>Users</a></li>
         
         
         <li><a href="/register">Login / Sign Up <i class="fa fa-sign-in"></i></a></li>
@@ -47,6 +52,17 @@
     </div>
   </div>
 </nav>
+<div class="reminders">
+
+<!--
+  <div class="alert alert-info alert-dismissible small fade in" role="alert">
+    <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+    <p><i class="fa fa-fw fa-exclamation-triangle"></i> <b>REMINDER:</b> Don't miss out reading the <a class="alert-link" href="/">descriptive</a> announcement.</p>
+  </div>
+  -->
+
+</div>
+
 
   <div class="container-fluid">
     <div class="row">
@@ -95,7 +111,7 @@
             </div>
             <div class="panel-body">
               <ul class="list-group">
-                <li class="list-group-item"><a href="Chrome">Chrome</a></li><li class="list-group-item"><a href="Digital-Millenium-Copyright-Act">Digital Millenium Copyright Act</a></li><li class="list-group-item"><a href="Firefox">Firefox</a></li><li class="list-group-item"><a href="Greasemonkey-for-Firefox">Greasemonkey for Firefox</a></li><li class="list-group-item"><a href="Opera">Opera</a></li><li class="list-group-item"><a href="Privacy-Policy">Privacy Policy</a></li><li class="list-group-item"><a href="Tampermonkey-for-Android">Tampermonkey for Android</a></li><li class="list-group-item"><a href="Tampermonkey-for-Chrome">Tampermonkey for Chrome</a></li><li class="list-group-item"><a href="Tampermonkey-for-Opera">Tampermonkey for Opera</a></li><li class="list-group-item"><a href="Terms-of-Service">Terms of Service</a></li><li class="list-group-item"><a href="Userscript-Beginners-HOWTO">Userscript Beginners HOWTO</a></li><li class="list-group-item"><a href="Violentmonkey-for-Opera">Violentmonkey for Opera</a></li>
+                <li class="list-group-item"><a href="Chrome">Chrome</a></li><li class="list-group-item"><a href="Chromium">Chromium</a></li><li class="list-group-item"><a href="Digital-Millenium-Copyright-Act">Digital Millenium Copyright Act</a></li><li class="list-group-item"><a href="Firefox">Firefox</a></li><li class="list-group-item"><a href="Frequently-Asked-Questions">Frequently Asked Questions</a></li><li class="list-group-item"><a href="Greasemonkey-Port-for-SeaMonkey">Greasemonkey Port for SeaMonkey</a></li><li class="list-group-item"><a href="Greasemonkey-for-Firefox">Greasemonkey for Firefox</a></li><li class="list-group-item"><a href="Opera">Opera</a></li><li class="list-group-item"><a href="Pale-Moon">Pale Moon</a></li><li class="list-group-item"><a href="Privacy-Policy">Privacy Policy</a></li><li class="list-group-item"><a href="QupZilla">QupZilla</a></li><li class="list-group-item"><a href="SeaMonkey">SeaMonkey</a></li><li class="list-group-item"><a href="Tampermonkey-for-Android">Tampermonkey for Android</a></li><li class="list-group-item"><a href="Tampermonkey-for-Chrome">Tampermonkey for Chrome</a></li><li class="list-group-item"><a href="Tampermonkey-for-Chromium">Tampermonkey for Chromium</a></li><li class="list-group-item"><a href="Tampermonkey-for-Opera">Tampermonkey for Opera</a></li><li class="list-group-item"><a href="Terms-of-Service">Terms of Service</a></li><li class="list-group-item"><a href="Userscript-Beginners-HOWTO">Userscript Beginners HOWTO</a></li><li class="list-group-item"><a href="Violent-monkey-for-Opera">Violent monkey for Opera</a></li>
               </ul>
             </div>
           </div>
@@ -108,7 +124,7 @@
     <div class="container-fluid">
       <div class="navbar-header">
         <button type="button" data-toggle="collapse" data-target=".navbar-collapse-bottom" class="navbar-toggle" onclick="$('html, body').animate({scrollTop: $(document).height()}, 'slow')"><i class="fa fa-bars"></i></button>
-        <a href="https://github.com/OpenUserJs" class="navbar-brand">© 2014+ OpenUserJS Group</a>
+        <a href="https://github.com/OpenUserJs" class="navbar-brand">© 2013+ <span class="hidden-xs">OpenUserJS</span><span class="visible-xs-inline">OUJS</span> Group</a>
       </div>
       <div class="navbar-collapse navbar-collapse-bottom collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -127,6 +143,81 @@
 <!-- JS -->
 <script type="text/javascript" charset="UTF-8" src="/redist/npm/jquery/dist/jquery.js"></script>
 <script type="text/javascript" charset="UTF-8" src="/redist/npm/bootstrap/dist/js/bootstrap.js"></script>
+
+<script type="text/javascript">
+  (function () {
+
+    var events = 'focus resize scroll';
+    var handler = null;
+    var didCallback = false;
+
+    function callback(aEl) {
+      if (!didCallback) {
+        didCallback = true;
+
+        setTimeout(function () {
+          $('.reminders .alert .close').each(function () {
+            this.click();
+          });
+        }, 7000);
+      }
+    }
+
+    function isElementInViewport(aEl) {
+  var rect = null;
+
+  if (aEl instanceof jQuery) {
+    aEl = aEl[0];
+  }
+
+  rect = aEl.getBoundingClientRect();
+
+  return (
+    rect.top >= 0 &&
+    rect.left >= 0 &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && // or $(window).height()
+    rect.right <= (window.innerWidth || document.documentElement.clientWidth) // or $(window).width()
+  );
+}
+
+
+    function fireIfElementVisible(aEl, aCallback) {
+      return function () {
+        if (isElementInViewport(aEl)) {
+          $(window).off(events, handler);
+
+          aCallback(aEl);
+        }
+      }
+    }
+
+    handler = fireIfElementVisible($('.reminders'), callback);
+    $(window).on(events, handler);
+
+  })();
+</script>
+
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+  (function () {
+
+    var win = window;
+    win['GoogleAnalyticsObject'] = 'ga';
+    win['ga'] = win['ga'] || function () {
+        (win['ga'].q = win['ga'].q || []).push(arguments);
+    }
+
+    win['ga'].l = 1 * new Date();
+
+    ga('create', 'UA-59965387-1', 'auto');
+    ga('send', 'pageview');
+
+  })();
+</script>
+
+
 
 
 
