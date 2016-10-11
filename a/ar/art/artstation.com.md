@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artstation.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531100341id_/https%3A//www.artstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artstation.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011230836id_/https%3A//www.artstation.com/privacy) for the most accurate reproduction.*
 
 # ArtStation - Privacy Policy
 
