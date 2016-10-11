@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasisdentalcare.co.uk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510133043id_/https%3A//www.oasisdentalcare.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasisdentalcare.co.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011091841id_/https%3A//www.oasisdentalcare.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Oasis Group privacy policy
 
