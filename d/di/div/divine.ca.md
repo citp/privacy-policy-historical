@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divine.ca privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913024948id_/http%3A//www.divine.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divine.ca privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012012034id_/http%3A//www.divine.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | divine.ca
 
@@ -38,7 +38,7 @@ CHANGES TO THIS POLICY: divine.ca may update or modify this policy. We will noti
 HOW TO CONTACT US: divine.ca is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by clicking on this link  
 (<http://www.divine.ca/en/contact-us/>) or send a letter to:
 
- **divine.ca**  
+**divine.ca**  
 4810 rue Jean-Talon O. suite 203  
 Montréal, (QC) H4P 2N5  
 admin@divine.ca
