@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip-home.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409031601id_/http%3A//www.hip-home.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip-home.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011195140id_/http%3A//www.hip-home.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - HIP Home Improvement Projects
 
@@ -16,7 +16,7 @@
 
 **PRIVACY POLICY**
 
-**LAST UPDATED:   **March 2, 2016
+**LAST UPDATED:   **May 2, 2016
 
 This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, “QuinStreet”). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the “QuinStreet Businesses”), please see the section entitled “QuinStreet Businesses” below.
 
