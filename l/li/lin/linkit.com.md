@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkit.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609224129id_/http%3A//www.linkit.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkit.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012045230id_/http%3A//www.linkit.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Origami - WordPress HTML -
 
@@ -23,7 +23,7 @@ We use this information to respond to your inquiries about our offerings, and ot
 
 We may use the non-personally identifiable information that we collect to improve the design and content of our Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage.
 
-We do not normally use IP addresses to identify individual users, but may do so if we feel that there are or may be safety and/or security risks. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena, in response to a law enforcement agency request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms and Conditions of Use](https://web.archive.org/web/20160609224129id_/http%3A//www.linkit.com/termsconditions.html), or as otherwise required by law. In addition, we may transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of LinkIt! Software.
+We do not normally use IP addresses to identify individual users, but may do so if we feel that there are or may be safety and/or security risks. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena, in response to a law enforcement agency request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms and Conditions of Use](https://web.archive.org/web/20161012045230id_/http%3A//www.linkit.com/termsconditions.html), or as otherwise required by law. In addition, we may transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of LinkIt! Software.
 
 ## Choices / Opt-Out
 
