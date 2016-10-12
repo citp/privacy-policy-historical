@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odin.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525203819id_/http%3A//www.odin.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odin.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012124702id_/http%3A//www.odin.com/legal/privacy) for the most accurate reproduction.*
 
 # Parallels Privacy Policy - Odin
 
