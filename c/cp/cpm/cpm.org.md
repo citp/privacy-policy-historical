@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpm.org privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327080115id_/http%3A//pdfs.cpm.org/information/CPM%2520Website%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpm.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012165137id_/http%3A//pdfs.cpm.org/information/CPM%2520Website%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -52,24 +52,24 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 
 disclose your personally identifiable information under the following limited circumstances:
-·        To trusted third parties, listed below, who assist us in operating our website, conducting our business, or servicing
-you, so long as those parties agree to keep this information confidential;
-·        To comply with any law, court order or legal process, including responding to any government or regulatory
-request;
-·        To enforce our site policies, or protect our or other's rights, property, or safety; and
-·        To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or
-other sale or transfer of some or all of CPM’s assets.
+     •   To trusted third parties, listed below, who assist us in operating our website, conducting our business, or servicing
+         you, so long as those parties agree to keep this information confidential;
+     •   To comply with any law, court order or legal process, including responding to any government or regulatory
+         request;
+     •   To enforce our site policies, or protect our or other's rights, property, or safety; and
+     •   To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or
+         other sale or transfer of some or all of CPM’s assets.
 For the avoidance of doubt, CPM will not provide to any third party any personally identifiable information in a Pupil
 Record (defined below) to engage in targeted marketing.
 Authorized Third Parties Who May Receive Your Information
-·        Website Pipeline, Dan Pennell, Project Manager, dan.pennell@websitepipeline.com, (864) 272-4000 x 107, 555 N
-Pleasantburg Drive #214, Greenville, SC 29607.
-·        Go Sign Me Up, Tanja Morrison, (949) 951-3820, 9200 Irvine Center Drive Suite 100, Irvine, California, 92618.
-·        QuanteraSystems.com, Bob Pfahnl, Bob@quanterasystems.com, (408) 280-7587, 96 N 3rd Street, San Jose, CA
-95112.
-·        Delta Web Printing, Jim Davis, jim@deltawebprinting.com, (916) 375-0044, 1871 Enterprise Blvd, West
-Sacramento, CA 95691.
-·        TC Printing, Jon Harris, jon@tcprinting.net, (916) 447-6387, 1215 G St, Sacramento, CA 95814.
+     •   Website Pipeline, Dan Pennell, Project Manager, dan.pennell@websitepipeline.com, (864) 272-4000 x 107, 555 N
+         Pleasantburg Drive #214, Greenville, SC 29607.
+     •   Go Sign Me Up, Tanja Morrison, (949) 951-3820, 9200 Irvine Center Drive Suite 100, Irvine, California, 92618.
+     •   QuanteraSystems.com, Bob Pfahnl, Bob@quanterasystems.com, (408) 280-7587, 96 N 3rd Street, San Jose, CA
+         95112.
+     •   Delta Web Printing, Jim Davis, jim@deltawebprinting.com, (916) 375-0044, 1871 Enterprise Blvd, West
+         Sacramento, CA 95691.
+     •   TC Printing, Jon Harris, jon@tcprinting.net, (916) 447-6387, 1215 G St, Sacramento, CA 95814.
 When this Privacy Policy Applies
 Our Privacy Policy applies to all of the services offered by CPM via the Website, including eBooks and any other Licensed
 Content, resources or tools available on the Website, but excludes services that have separate privacy policies that do not
@@ -94,10 +94,10 @@ Ability to Correct or Access Pupil Records. Because the agency enters and mainta
 agency is responsible for providing the means by which parents, legal guardians, and eligible pupils may review and correct
 erroneous information contained in a Pupil Record. To review, correct, update, or delete any personally identifiable
 information contained in a Pupil Record provided by the agency, a parent, legal guardian, or eligible pupil should contact
+
+
 the agency directly.
 How CPM Ensures Security and Confidentiality of Pupil Records. Please see the “How We Protect Your Information”
-
-
 section above.
 Notice of Unauthorized Access or Disclosure of Pupil Records. Please see the “Unauthorized Access or Disclosure” section
 below.
@@ -143,10 +143,10 @@ all operators that collect or maintain children’s information through this Web
 Information We Collect From Children. Children can access many parts of the Website and its content and use many of its
 features without providing us with personal information. However, some Licensed Content and features are available only
 to registered users (which may include children) which requires us to collect certain information, including personal
+
+
 information, from them. In addition, we use certain technologies, such as cookies (described above), to automatically
 collect information from users (including children) when they visit or use the Website. We only collect as much
-
-
 information about a child as is reasonably necessary for the child to access the Licensed Content, and we do not condition a
 child’s participation on the disclosure of more personal information than is reasonably necessary.
 Information We Collect Directly. If a school or school district contracts with CPM to make CPM’s Licensed Content
