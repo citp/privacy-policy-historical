@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315042925id_/https%3A//www.dunhill.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012175359id_/https%3A//www.dunhill.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 Alfred Dunhill Limited, headquartered at 15 Hill Street, London W1J5QT, United Kingdom, is the data controller. In this Privacy Policy, we use the term Alfred Dunhill (and " **we** ", " **us** " and " **our** ") to refer to the head office of Alfred Dunhill at the registered address above, its affiliates and our boutiques. 
 
-YOOX NET-A-PORTER GROUP S.p.A., located at via via Morimondo, 17 – Milano 20143 Italy (" **via Morimondo, 17 – Milano 20143** "), with Tax ID and VAT Registration No. 02050461207 is the data controller together with Alfred Dunhill Limited, for the purposes of finalising registration, allowing you to use the reserved access services offered on the Platforms (for example, processing your orders and other necessary steps, including operations for administrative and fiscal obligations, sending newsletters, when consent has been given) and improving the service offered.
+The www.dunhill.com site is operated by YNAP Corporation, a Delaware corporation having its address at 100 Fifth Avenue – 12th floor, New York, NY 10011, United States of America, an affiliate of YOOX NET-A-PORTER GROUP S.p.A., an Italian company having its registered address at via Morimondo, 17 – Milano 20143 (hereinafter also, merely “YOOX NET-A-PORTER GROUP”), with Tax ID and VAT Registration No. 02050461207. YOOX NET-A-PORTER GROUP is the data controller together with Alfred Dunhill Limited, for the purposes of finalising registration, allowing you to use the reserved access services offered on the Platforms (for example, processing your orders and other necessary steps, including operations for administrative and fiscal obligations, sending newsletters, when consent has been given) and improving the service offered.
 
 Please take a moment to read the following policy which explains how we collect, use, disclose and transfer the personal information that you provide to us on our websites, mobile applications (together the " **Platforms** "), when you visit a Alfred Dunhill boutique or contact the local Alfred Dunhill customer service team or when you interact with us over social media platforms. It also explains how we collect information through the use of cookies and related technologies when you use our Platforms.
 
@@ -45,17 +45,42 @@ YOOX NET-A-PORTER GROUP will use the information it collects from you to:
 
 
 
-## Cookies
+## Cookies and other information that we automatically collect
 
-This website uses cookies according to our Cookie Policy. This Cookie Policy is available to users on each page of the website linked to this Privacy Policy and on each information banner regarding cookies. 
+Like most Platforms, Alfred Dunhill logs IP addresses and uses cookies and similar technologies that allow us to recognise you and to customise your experience, and provide us with information about the way our Platform visitors access our Platform. You can find out more about how we use cookies and related technologies below. 
 
-The acceptance of automatic data collection procedures and the use of cookies are necessary for using the Platform and its services, including the purchase of products. If you have started the procedure of blocking or deleting cookies, we or YOOX NET-A-PORTER GROUP cannot ensure that all web pages of the Platform will be displayed or that certain services will be supplied such as, for example, storage or display on the web pages of products you chose when you were finalizing the online purchase processes. 
+What is a cookie?  
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website or mobile application. They are used to recognise your computer as you move between pages on a website, or when you return to a website or mobile application you have visited previously. Cookies are widely used in order to make platforms work, or to work more efficiently, as well as to provide information to the owners of the platform. 
 
-The Platform uses automatic systems of browsing data collection, such as cookies. A cookie is a file stored on the hard disk of the terminal of an Internet user; it does not contain intelligible information but it allows linking between a terminal and other information about User’s experience on the website and his/her preferences expressed while choosing services and purchasing products offered by the website. For Cookies disseminated by Alfred Dunhill’s servers, no one else may gain access to the information contained therein. These information and data are gathered directly and automatically by the Platform. The information collected by cookies will be processed in order to optimize the services of the Platform. Alfred Dunhill and YOOX NET-A-PORTER GROUP have provided cookies in connection to functions such as selecting the country, the language, the location, browsing the catalogue, purchasing products online and in general in connection with the provision of services reserved to registered customers. As you know, each Internet browser allows the blocking or the deletion of cookies. Your Internet browser contains instructions on these procedures. Please access the information on your internet browser if you wish to delete cookies. 
+We use cookies to enhance the online experience of our visitors (for example, by remembering your language and/or product preferences) and to better understand how our Platform is used. Cookies may tell us, for example, whether you have visited our Platform before or whether you are a new visitor. They can also help to ensure that adverts you see online are more relevant to you and your interests. 
 
-### IP addresses 
+There are two broad categories of cookies: 
 
-We may collect information about your computer or mobile device, including where available your IP address, operating system, log in times and browser type. We use this information to better understand how visitors use our Platform and for internal reporting purposes. We may anonymise and share this information with advertisers, sponsors or other businesses.
+  * First party cookies, served directly by Alfred Dunhill to your computer or mobile device. They are used only by Alfred Dunhill to recognise your computer or mobile device when it revisits our Platform. 
+  * Third party cookies, which are served by a third party service provider on our Platform, and can be used by the service provider to recognise your computer or mobile device when it visits other platforms. Third party cookies are most commonly used for platform analytics or advertising purposes.
+
+Cookies can remain on your computer or mobile device for different periods of time. Alfred Dunhill uses both 'session cookies' and 'permanent cookies'. Session cookies exist only while your browser is open and are deleted automatically once you close your browser. Permanent cookies survive after your browser is closed, and can be used to recognise your computer or mobile device when you open your browser and browse the internet again. 
+
+What cookies does Alfred Dunhill use?   
+The Platform serves only the following types of cookies to your computer or mobile device:
+
+Type of Cookie | Purpose  
+---|---  
+Cookies necessary for essential purposes | These cookies are essential to provide you with services available through this Platform and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like transactional pages and secure login accounts, would not be possible.  
+Functionality Cookies | These cookies serve a variety of purposes related to the presentation, performance and functionality of this Platform. Their overall purpose, however, is to enhance visitors' experience and enjoyment of this Platform. For example, some of these cookies enable visitors to specify language, product or other platform preferences.  
+Analytics Cookies | These cookies are used to collect information about how visitors use our Platform. The information gathered does not identify any individual visitor and is aggregated. It includes the number of visitors to our Platform, the platforms that referred them to our Platform and the pages that they visited on our Platform. We use this information to help run our Platform more efficiently, to gather broad demographic information and to monitor the level of activity on our Platform.  
+Advertising Cookies | When you visit our Platform or click on advertisements or promotional areas on the Platform these cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help to evaluate the effectiveness of advertising and promotion. They are usually placed by advertising networks with our permission. They remember that you have visited a platform and this information is shared with other organisations such as advertisers.  
+Content sharing and social networking cookies | These cookies enable users to share pages and content through third party social networking and other platforms. The companies that serve these cookies may also use your information to serve targeted advertising on other platforms.  
+  
+How to control or delete cookies  
+You have the right to choose whether or not to accept cookies and we have explained how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Platform. 
+
+You can set your cookie preferences by changing your browser settings so that cookies from this Platform cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). 
+
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+
+IP addresses  
+We may collect information about your computer or mobile device, including where available your IP address, operating system, log in times and browser type. We use this information to better understand how visitors use our Platform and for internal reporting purposes. We may anonymise and share this information with advertisers, sponsors or other businesses. 
 
 ## About Advertising
 
