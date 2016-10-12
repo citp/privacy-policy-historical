@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arbormemorial.ca privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501203920id_/http%3A//www.arbormemorial.ca/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbormemorial.ca privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012192542id_/https%3A//www.arbormemorial.ca/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arbor Memorial Inc.
 
