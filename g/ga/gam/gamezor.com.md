@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezor.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620071721id_/http%3A//www.gamezor.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezor.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012122127id_/http%3A//gamezor.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Game Zor Girl Games
 
@@ -106,7 +106,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 GameZor  
 http://cGameZor.com
 
-[Contact Us](http://www.gamezor.com/contact.php "Contact us")
+[Contact Us](https://web.archive.org/contact.php "Contact us")
 
  **This document was last updated on 20.08.2013**  
 
