@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyani.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314183032id_/http%3A//downloads.kyani.net/Business%2520Documents/Ky%25C3%25A4ni%2520Internet%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyani.net privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012024925id_/http%3A//downloads.kyani.net/Business%2520Documents/Ky%25C3%25A4ni%2520Internet%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
