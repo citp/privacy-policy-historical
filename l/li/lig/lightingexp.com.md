@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightingexp.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526044532id_/http%3A//blog.lightingexp.com/Privacy-Policy-.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingexp.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012180152id_/http%3A//blog.lightingexp.com/Privacy-Policy-.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lighting EXP
 
