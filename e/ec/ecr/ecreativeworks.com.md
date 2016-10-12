@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624042740id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012062711id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Ecreativeworks
+# privacy | Ecreativeworks
 
 ## Effective: July 1, 2013
 
-Ecreativeworks is committed to protecting the privacy of visitors to our website and will not sell or provide any non-public personal information to anyone without your permission.
-
-### Types of Information
-
-* * *
+Types of Information
 
 Cookies. A Cookie is a randomly generated unique number placed on your computer. It allows us to identify your computer without requiring your disclosure of any Non-Public Personal Information. Cookies make it possible to both store and retrieve information through your Internet browser. A Cookie itself cannot read information off a hard drive or read Cookie files from other sites.
 
@@ -18,32 +14,24 @@ Non-Public Personal Information is any non-public information you provide to us 
 
 Partners are individuals or entities we engage to help us carry out our mission.
 
-### What Information We Collect
-
-* * *
+What Information We Collect
 
 Ecreativeworks collects general information and non-public personal information.
 
-### How We Collect Our Information
-
-* * *
+How We Collect Our Information
 
 Ecreativeworks collects our general information through the use of cookies and server-based tracking systems to view the usage of the website.
 
 Non-public personal information is collected through registration or contact forms on this site and will never be used for any purpose other than internal use or by our partners unless the registrant chooses to be added to mailing lists (this is a choice made by the registrant on the Registration form).
 
-### Privacy Policy Changes
-
-* * *
+Privacy Policy Changes
 
 Any changes to this privacy policy will be posted here and unless otherwise noted on our website.
 
-### Changing your non-public personal information
-
-* * *
+Changing your non-public personal information
 
 Ecreativeworks provides you with the opportunity to change your non-public personal information online for all registration information. Please contact Ecreativeworks to change any non-public personal information provided to us through a contact form.
 
-If you have any questions or concerns about any privacy issues, please contact us at [privacy@ecreativeworks.com](mailto:privacy@ecreativeworks.com%20).
+If you have any questions or concerns about any privacy issues, please contact us at [privacy@ecreativeworks.com](mailto:privacy@ecreativeworks.com).
 
-**Interested?[Click here](http://www.ecreativeworks.com/contact) to request more information.**
+**Interested?[Click here](http://www.ecreativeworks.com/contact-us) to request more information.**
