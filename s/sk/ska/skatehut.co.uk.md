@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skatehut.co.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403191849id_/https%3A//www.skatehut.co.uk/customer/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skatehut.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012215031id_/https%3A//www.skatehut.co.uk/customer/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Skatehut
 
