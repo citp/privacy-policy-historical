@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classkick.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618015146id_/http%3A//www.classkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classkick.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012062606id_/http%3A//www.classkick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — classkick - learn together
 
