@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truweight.in privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327153331id_/https%3A//truweight.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truweight.in privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013004414id_/https%3A//truweight.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Truweight
+# Privacy Policy | Weight loss Company- Truweight™
 
 **Truweight Privacy Policy**
 
