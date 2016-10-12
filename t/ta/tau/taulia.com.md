@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315221213id_/http%3A//www.taulia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012024559id_/http%3A//taulia.com/privacy-policy) for the most accurate reproduction.*
 
 # Taulia - Privacy Policy
 
-Taulia Inc. ("Taulia", "we" or "us") is committed to protecting our users' privacy. We believe it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web Sites (taulia.com, supplier.taulia.com, supplierpay.com). Please read our Privacy Policy carefully to understand how we will use and protect your personal information.
+Taulia Inc. ("Taulia", "we" or "us") is committed to protecting our users' privacy. We believe it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web Sites (taulia.com, supplier.taulia.com, supplierpay.com and related services). Please read this Privacy Policy carefully to understand how we will use and protect your personal information.
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our Web Sites.
 
-## Safe Harbor Program
+## Certification Under EU-U.S. Privacy Shield and U.S. –Swiss Safe Harbor Framework
 
-Taulia complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Taulia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Taulia's certification, please visit <http://www.export.gov/safeharbor>.
+Taulia complies with the EU-U.S. Privacy Shield Certification program as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Taulia has certified that it adheres to, and is committed to comply with, the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. Our commitment to comply with the Privacy Shield Principals is enforceable by the Federal Trade Commission. To learn more about the Privacy Shield program, and to view Taulia's certification, please visit <https://www.privacyshield.gov/>.
+
+Taulia also complies with the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from Switzerland. To learn more about the EU-U.S. Privacy Shield program, and to view Taulia's certification, please visit <https://www.privacyshield.gov/list>. 
 
 ## This Privacy Policy will explain the following regarding use of our Web Site:
 
@@ -39,7 +41,9 @@ We may also collect information when you ask to be included in an email or other
 
 Personal Information refers to any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity.
 
-If your Personal Information changes, to request removal of your personal information from our blog or community forum, or if you no longer desire our service, you may correct, update, amend, delete/deactivate it by emailing our Customer Support at [privacy@taulia.com](mailto:privacy@taulia.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+If your Personal Information changes, to request removal of your personal information from our blog or community forum, or if you no longer desire our service, you may correct, update, amend, delete/deactivate it by emailing our Customer Support at privacy@taulia.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -64,17 +68,15 @@ Any of the information we collect may be used:
 
 
 
-### Choice/Opt-Out
+### Access/Choice/Opt-Out
 
-We provide you the opportunity to "opt-out" of having your information used for certain purposes or to unsubscribe from receiving future emails, when we ask for the information. If you no longer wish to receive emails, our newsletter and other promotional communications, you may opt-out of receiving them by following the detailed unsubscribe instructions at the bottom of each email or communication or by emailing us at [privacy@taulia.com](mailto:privacy@taulia.com).
+You have the right to access your Personal Information.  We provide you the opportunity to "opt-out" of having your information used for certain purposes or to unsubscribe from receiving future emails, when we ask for the information. If you no longer wish to receive emails, our newsletter and other promotional communications, you may opt-out of receiving them by following the detailed unsubscribe instructions at the bottom of each email or communication or by emailing us at [privacy@taulia.com](mailto:privacy@taulia.com).
 
 ## How Taulia Protects Your Information
 
 The security of your Personal Information is important to us.
 
-We implement a variety of security measures to maintain the safety of your Personal Information when you submit a request, or otherwise provide us with your personal information. These security measures include: password protected directories and databases to safeguard your information and PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
-
-However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Taulia. Please contact us at [privacy@taulia.com](mailto:privacy@taulia.com) with questions regarding our security measures.
+We implement a variety of security measures to maintain the safety of your Personal Information when you submit a request, or otherwise provide us with your personal information. These security measures include: password protected directories and databases to safeguard your information and PCI Scanning to actively protect our servers from hackers and other vulnerabilities. However, since the Internet is not a 100% secure environment, we cannot ensure nor warrant the security of any information you transmit to Taulia. Please contact us at [privacy@taulia.com](mailto:privacy@taulia.com) with questions regarding our security measures.
 
 You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times.
 
@@ -88,11 +90,11 @@ We use cookies that allow us to recognize your browser and capture and store cer
 
 Our service providers only use cookies that are not tied to Personal Information. The use of cookies by our service providers is not covered by our privacy statement. We do not have access or control over these cookies.
 
-If you wish to disable cookies, your web browser can be configured to refuse them. These links provide specific instructions on how to disable cookies in your browser: [Mozilla](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Chrome](https://support.google.com/accounts/answer/61416) and [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies).
+If you wish to disable cookies, your web browser can be configured to refuse them. These links provide specific instructions on how to disable cookies in your browser: Mozilla, Chrome and Internet Explorer.
 
 ### Clear Gifs
 
-We use clear gifs to better manage content on our site by informing us what content is effective. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customer's Personal Information.
+We use clear gifs to better manage content on our site by informing us what content is effective. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customer's Personal Information. 
 
 Our integrated third party service providers use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
@@ -108,7 +110,7 @@ Our Web Site includes Social Media Features, such as the Facebook Like button an
 
 Transfers to subsequent third parties are covered by the provisions in this Privacy Policy regarding notice and choice and are subject to the service agreements with our service providers and clients. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We do not sell, trade, or otherwise transfer to outside parties the Personal Information you provide. This does not include trusted third parties who assist us in operating our websites, conducting our business, or providing services to you, so long as those parties agree to keep this information confidential. We may also release your Personal Information when we believe release is required to comply with the law (such as to comply with a subpoena, or similar legal process), enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer the Personal Information you provide to outside parties. This does not include trusted third parties who assist us in operating our websites, conducting our business, or providing services to you, so long as those parties agree to keep this information confidential and restrict its use to providing services to us. We are responsible for ensuring these trusted third parties’ compliance with the Privacy Shield Principles. Like any company, we may be required to disclose Personal Information in response to lawful request by public authorities. We may also release your Personal Information when we believe release is required to comply with the law (such as to comply with a subpoena, or similar legal process), enforce our site policies, or protect ours or others' rights, property, or safety. 
 
 If Taulia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
@@ -120,7 +122,7 @@ While we continue to seek to protect the integrity of our own site, you should c
 
 ## California Online Privacy Protection Act Compliance
 
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your Personal Information to outside parties without your consent.
+Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your Personal Information to outside parties without your consent..
 
 ## Children's Online Privacy Protection Act Compliance
 
@@ -132,19 +134,21 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 ## Terms and Conditions
 
-Please also visit our [Terms of Use](http://taulia.com/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.taulia.com/terms-of-use](http://taulia.com/terms-of-use).
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.taulia.com/terms-of-use.
 
 ## Your Consent
 
-By using our site, you consent to our Privacy Policy.
+By using our Web Sites, you consent to our Privacy Policy.
 
 ## Changes to Taulia's Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date at the top of this page. Policy changes will apply only to information collected after the date of the change. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices before proceeding to use our Web Site.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date at the top of this page. Policy changes will apply only to information collected after the date of the change. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices before proceeding to use our Web Sites.
 
 The English version of this policy shall govern in the event of any conflict or substantive translation changes into a non-English language.
 
-If you have concerns regarding this Privacy Policy, first contact the Taulia Privacy Coordinator ([privacy@taulia.com](mailto:privacy@taulia.com)), or send written correspondence to:
+## Contacting Taulia About Privacy Questions or Comments
+
+If you have concerns regarding this Privacy Policy, first contact the Taulia Privacy Coordinator (privacy@taulia.com), or send written correspondence to:
 
 Taulia Privacy Coordinator  
 201 Mission Street, Suite 900  
@@ -152,12 +156,13 @@ San Francisco, CA 94105 USA
 [privacy@taulia.com](mailto:privacy@taulia.com)  
 (415) 376 8280
 
-Please contact Taulia as specified above to address any complaints regarding Taulia’s handling of Personal Information. Taulia will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor Privacy Principles. If the complaint cannot be resolved through Taulia’s internal processes, it will be referred to Judicial Arbitration and Mediation Services, Inc., (JAMS) under the JAMS International Mediation Rules, which are accessible on the JAMS website at [www.jamsadr.com/rules-international-rules](http://taulia.com/www.jamsadr.com/rules-international-rules). JAMS mediation may also be commenced as provided for in the JAMS International Mediation Rules.
+Please contact Taulia as specified above to address any complaints regarding Taulia’s handling of Personal Information. Taulia will take steps to remedy any issues arising out of a failure to comply with the Privacy Shield Principles. If the complaint cannot be resolved through Taulia’s internal processes, it will be referred to Judicial Arbitration and Mediation Services, Inc., (JAMS) under the JAMS International Mediation Rules, which are accessible on the JAMS website at [www.jamsadr.com/rules-international-rules](http://www.jamsadr.com/rules-international-rules). JAMS mediation may also be commenced as provided for in the JAMS International Mediation Rules. You may also submit a claim directly to JAMS through the following site, which is maintained by JAMS: <https://www.jamsadr.com/global-reach/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. Finally, you will also have the possibility to invoke binding arbitration under certain conditions.
 
 ## Privacy Policy Customer Pledge
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the following important privacy laws and initiatives:
 
+  * Privacy Shield Principles
   * Federal Trade Commission Fair
   * California Online Privacy Protection Act
   * Children's Online Privacy Protection Act
@@ -166,4 +171,4 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 
 
-This policy was last modified on April 28, 2015.
+This policy was last modified on September 12, 2016.
