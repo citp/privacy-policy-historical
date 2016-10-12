@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordersatellitenow.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324164239id_/http%3A//www.ordersatellitenow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordersatellitenow.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012163903id_/http%3A//www.ordersatellitenow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ordersatellitenow
 
