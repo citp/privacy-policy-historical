@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alicebow.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611133440id_/http%3A//www.alicebow.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alicebow.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012033837id_/http%3A//www.alicebow.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Alice Bow
 
@@ -24,11 +24,11 @@ If after you opt-in, you change your mind, you may withdrawing your consent for 
 
 Family Bow Ltd
 
-PO Box 68319
+17 Amhurst Terrace
 
-London NW1W 7AH
+London E8 2BT
 
-United Kingdom
+UNITED KINGDOM
 
 **Section 3 - Disclosure**
 
@@ -116,8 +116,8 @@ Family Bow Ltd
 
 Re: Privacy Compliance Officer 
 
-PO Box 68319
+17 Amhurst Terrace
 
-London NW1W 7AH
+London E8 2BT
 
-United Kingdom
+UNITED KINGDOM
