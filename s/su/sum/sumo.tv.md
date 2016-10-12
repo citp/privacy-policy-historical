@@ -1,109 +1,154 @@
-> *The following text is extracted and transformed from the sumo.tv privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909154825id_/http%3A//www.sumo.tv/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumo.tv privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012185535id_/https%3A//sedo.com/us/about-us/policies/protecting-your-privacy/%3Flanguage%3Dus) for the most accurate reproduction.*
 
-# SUMO.tv - Video Sharing, User Generated Content, Viral Video
+# Protecting your Privacy
 
-Privacy policy
+Effective Date: 01/15/2016  
+Posting Date: 01/15/2016
 
-Sumo.tv privacy policy
+Protecting your privacy and the personal information you provide us is a top priority at Sedo.com LLC (“Sedo”). For this reason, Sedo does not sell or rent your personal information to third parties without your explicit consent or in way other than as outlined in this privacy policy.  At Sedo, we want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. 
 
-This Privacy Policy (“Policy”) is an integral part of our published terms and conditions which you are required to agree to as a condition of your continued use of any part of the SUMO.tv services. 
+Please read this Privacy Policy to learn more about the policies and procedures Sedo has put in place to achieve this goal.  In addition, Sedo wants our users to feel comfortable that we take all necessary steps to protect personal information. For this reason, we have created a webpage where users can learn how to report a [Privacy Complaint](https://web.archive.org/us/about-us/policies/protecting-your-privacy/?session=cba15b8973627a64ee3e06f4951720ce). 
 
-You will be bound by the latest version of our Privacy Policy and as with our terms and conditions, it is important that You regularly check the SUMO.tv website and/or SUMO.tv channel for details of any changes to our Privacy Policy. For the sake of consistency, definitions used in our terms and conditions apply here.
+Sedo.com LLC has received TRUSTE’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [sedo.com](https://sedo.com/). In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. 
 
-SUMO.tv is committed to protecting the privacy of those using the SUMO.tv services and the confidentiality of the personal information which our users provide Us. You should however note that if You send us Your Content for publication in connection with any of the SUMO.tv services such Content is not considered personally identifiable information in respect of which this Privacy Policy applies.
+<https://privacy.truste.com/privacy-seal/Sedo-com-LLC/validation?rid=fad2d4a5-2105-486c-8537-e8ceb33ec90b>
 
-Data Protection Act 1998
+If you have questions or complaints regarding our privacy policy or practices, please contact us at Sedo's Privacy Department by emailing  [privacy@sedo.com](mailto:privacy@sedo.com "Email us at privacy@sedo.com"), calling 617-499-7200, or writing Sedo.com, LLC, 161 First Street, Fourth Floor, Cambridge, MA 02142. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe"). 
 
-We are registered under the Data Protection Act 1998 (“Act”) and comply with the Act in all our dealings with your personal data.
+Sedo.com LLC complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries.
 
-What type of data do we collect?
+Sedo.com LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Sedo.com LLC’s certification, please visit <http://www.export.gov/safeharbor/>
 
-We collect two types of information: 
+## Overview 
 
-  * **Personally identifiable information** (“PII”) – this is information, such as your name, email address, mobile telephone number, credit card details, which is collected when you register with Us or participate in any aspect of the SUMO.tv services including, for example, by participating in a chargeable service (for which you would have first received full details of the relevant charges), sending us Your Content, entering contests or participating in promotions
-  * **Non-personally identifiable information** (“NPIF”) such as anonymous usage data, cookies, IP addresses, pages visited, platform types, your operating system, browser version
+The privacy practices of this policy apply to the services provided by Sedo available under the domain and subdomains of www.sedo.com (the "Site") and apply generally to our affiliates. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy.  If you do not agree please do not use or access our site. 
 
+This Privacy Policy describes the information we collect from you and what may happen to that information as part of the normal operation of our services. Sedo strives to provide a consistent set of privacy practices across an international community, and as such, all of our affiliates operate under similar privacy practices as described in this Privacy Policy, subject to the requirements of applicable law. 
 
+By accepting the Privacy Policy and the User Agreement at the point of registration, you expressly consent to Sedo's use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Sedo User Agreement.
 
-**cookies** , are text files placed on Your computer, to collect standard internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about Your use of the SUMO.tv website (including your IP address) is used by Us to evaluate visitors use of the SUMO.tv website and to compile statistics.
+## Information from Children 
 
-Disabling/Enabling Cookies
+If you are under the age of 18, you may only use this site in conjunction with and under the supervision of your parents or guardians, and with express permission from Sedo. For this reason, we ask that children do not submit any personal information to Sedo. 
 
-You have the ability to accept or decline cookies by modifying the settings on Your browser. The Interactive Advertising Bureau – [www.allaboutcookies.org](http://www.allaboutcookies.org/) \- (“IAB”) is an industry body that develops standard and guidelines to support online business processes. It has produced a series of web pages which explain how cookies work and how they can be managed. 
+## Information We Collect
 
-IAB site tells You how to remove cookies from Your browser. This advice currently comprises the following steps (however please check the IAB site for the latest guidance):
+Sedo only collects personal information about users that we consider necessary for providing our services in an efficient, customized, and user-friendly manner, including your name, address, phone number and email address. 
 
-If You are using Microsoft Windows Explorer: 
+## Our Use of Your Information
 
-  * Open Windows Explorer
-  * Click on the ‘Search’ button on the tool bar
-  * Type ‘cookie’ into the search box for ‘Folders and Files’
-  * Select ‘My computer’ in the ’Look In’ box
-  * Click ‘Search Now’
-  * Double click on the folders that are found
-  * ‘Select’ any cookie file
-  * use the ‘Delete’ button on Your keyboard
+In general, you can browse a large portion of the site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the site. You always have the option not to provide information by choosing not to use a particular service or feature. 
 
+We provide you the opportunity to opt-out of having your personal information used for certain purposes when we ask for this information. For example, if you register for a user account but do not wish to receive any additional marketing material from us you can indicate your preference on the registration form. If you no longer wish to receive our newsletter and promotional communications you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [contact@sedo.com](mailto:contact@sedo.com "contact@sedo.com"). In addition, we offer an opportunity to opt-out of receiving our newsletter on your account data page, or you may call us at (617) 499-7280. 
 
+You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party. 
 
-If you are not using Microsoft Windows Explorer, then you should select ‘cookies’ in the ‘Help’ function for information on where to find your cookie folder.
+Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, a credit card number and expiration date, and tracking information from checks or money orders. 
 
-We and any third party contractor who We engage to assist in the collection and analysis of such information will not use any statistical analytics tool to track or to collect any PII of visitors to the SUMO.tv website. We will not associate any data gathered from the SUMO.tv website site with any personally identifying information from any source as part of our use of any statistical analytics tool. We will not link, or seek to link, an IP address with the identity of a computer user.
+We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address. 
 
-We may add to the data which You give us information we obtain from third parties
+Technologies such as cookies, beacons, scripts and tags are used by Sedo.com LLC and our third party advertising company. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
 
-Your personal information is safe with us
+We use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here:  
+[www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-We are a data controller of Your data under the Act. Our corporate details and address and other contact details are to be found in our terms and conditions. 
+In addition, the use of clear gifs in our HTML-based emails let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please email us at [contact@sedo.com.](mailto:contact@sedo.com)
 
-We regard your Privacy as being of the utmost importance and therefore take great care regarding how we process your data and as to who might view the same.
+We use data collection devices such as "cookies" on certain pages of the site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We may offer certain features that are only available through the use of a "cookie." We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information targeted to your interests. Personal information you have submitted while on our site is linked with information gathered from our use of cookies in the form of log files. 
 
-You should appreciate that:
+This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
-  * the SUMO.tv website links to other sites and that we cannot be responsible for their data protection policies. You should check their privacy policies if You are concerned
-  * We do our best to protect Your personal data including through the use of encryption technology, but We cannot guarantee the security of any data You disclose
-  * Subject to their first obtaining our written permission, we allow third party persons and companies to advertise on the SUMO.tv website and SUMO.tv channel. In relation to the SUMO.tv website these third parties via their servers or networks employ technology including cookies, javacript and web-beacons to ascertain the effectiveness and attractiveness of the advertising you see, whilst at the same time automatically receiving Your IP address. The privacy policies of these advertisers and ad-servers are outside our control and not subject to our Privacy Policy and accordingly if you are concerned you should contact them directly for details of their privacy policies and as to how to opt-out of any given promotions or practices
+Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the site and you may be required to re-enter your password or provide other information more frequently during a session. 
 
+We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
+If you choose to make bids, buy or sell through the site, we may collect information about your bidding, buying and selling behavior and transactions. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you. 
 
-We are usually very happy for other organisations to create links to the SUMO.tv website but any such linking with the SUMO.tv website is subject to Our prior written approval. We regret that We are unable to grant permission for linking with any site that does not reflect the interests of, or is otherwise incompatible, with the SUMO.tv services
+We use your information and other information we obtain from your current and past activities on the site to resolve disputes, troubleshoot problems, collect fees owed, pay amounts due you, verify your account data, measure user interest in Sedo's products and services, inform you about online and offline offers, products, services, and updates, customize your experience, detect and protect us against error, fraud and other criminal activity, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and we may examine your information to identify users using multiple Login Names. 
 
-How do We use Your personal data?
+We may compare and review your information for errors, omissions and for accuracy. You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting this Agreement, you expressly agree to receive this information.
 
-At SUMO.tv we use the information We collect to serve You in any one or more of the following ways: 
+## Our Disclosure of Your Information
 
-  * PII You submit to Us is used by Us and our affiliates to provide the SUMO.tv services and / or those of our affiliates to You
-  * We and our affiliates may use the information You provide to send You commercial or marketing messages which we feel may be of interest to you and are appropriate having regard to the details You provide when registering with Us. You can opt-out at any time from receiving such messages by sending an email to [info@sumo.tv](mailto:info@sumo.tv) or in the case of mobile telephones by sending STOP ALL [insert short code]
-  * We use Your PII and NPIF to enhance the quality of the services provided by SUMO.tv and its affiliates to You.
+We do not share, sell or rent any of your personal information to third parties without your explicit consent or in any way other than as outlined in this privacy policy. However, the following describes some of the ways that your personal information may be disclosed in the normal course of business as part of our services. 
 
+Advertisers. We aggregate (gather up data across numerous registered user accounts) personal information and disclose such information in a non-personal manner to advertisers and other third parties for their marketing and promotional purposes.  For such purposes, we do not disclose any information that could be used to identify Sedo users personally. 
 
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/ "Opt out here") (or if located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-Circumstances in which We may disclose Your personal information?
+Site. Although our pages may be coded with robot exclusion headers, others may illegally attempt to automatically collect your email address from the site. If you are involved in a transaction, we have features that may allow other users to view your email address and obtain your contact and other information to help complete the transaction. Further, we may send out notices to you or other users regarding suspicious activity or policy violations on the site. 
 
-These are limited: 
+Affiliates for Our Operations. We may use third parties ("affiliates") to facilitate or outsource one or more aspects of the services that we provide to you (e.g., domain name search technology, advertising provisions for parked domains, and other services) and therefore we may provide some of your information directly to these affiliates. These affiliates are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced service, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the affiliate may collect information directly from you. In these cases, you will be notified of the involvement of the affiliate, and all additional information you provide them and their additional uses will be up to you. It may be necessary to disclose your stored information, such as first and last name, company name, address, email and/or phone number, to relevant domain monetization advertising partners for the purpose of providing you such services. 
 
-  * PII and NPIF may be disclosed to our group companies and affiliates or other persons for the purpose of processing data on our behalf. Any such parties are required to agree to process such information in conformity with our privacy policy
-  * We may, with your prior consent, disclose Your PII to other third party companies for their commercial or marketing use
-  * We share NPIF with interested third parties including those who with our prior agreement might link or advertise in connection with the SUMO.tv services in order that they may have a better understanding of how the SUMO.tv services work
-  * We will without reference to You release PII and NPIF that We have collected if required to do so by law or in response to any regulatory request (for example, from Ofcom or ICSTIS) and will of our own volition report any suspicion of child abuse to the competent authorities including the Police and the Internet Watch Foundation
-  * We may disclose Your PII and NIPF in the event that we, acting in good faith, feel that it is reasonable to do so, in order to protect the legitimate business interests of SUMO.tv, its promoter Cellcast UK Limited or any group company or affiliate
+Agents and Business Entities. We share much of our data, including personal information about you, with our affiliates, subsidiaries, and joint ventures that are committed to serving your online needs and providing related services throughout the world. We use an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store, or use personal information for any other purposes. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our affiliates, subsidiaries, and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law. 
 
+Sedo, its affiliates, subsidiaries, joint ventures, or any combination of such, will share some or all of your information with another business entity should we plan to merge with, or be acquired by, that business entity. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your information.  You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
+Legal Requests. Sedo cooperates with law enforcement authorities, as well as with other third parties, to enforce laws, intellectual property rights, and to prevent fraud. In response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can, and you authorize us to, disclose your name, city, state, telephone number, email address, login name history, fraud complaints, and site use history, with or without a subpoena. Without limiting the above, we will not disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to protect our rights or to prevent imminent physical harm, financial loss or to report suspected past, present, or future illegal activity. Further, we can, and you authorize us to, disclose to a third party your information, including your name, street address, city, state, zip code, country, phone number, email, and company name, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.
 
-Your duty to act responsibly
+## Use of Other Users' Information
 
-We need You to act responsibly in all your dealings in relation to any of the SUMO.tv services. This includes: 
+In order to facilitate interaction among site users, our site may allow you limited access to other users' information. By entering into our User Agreement, you agree that, with respect to other users' personal information that you obtain through the site or through a communication or transaction facilitated by Sedo.  Sedo hereby grants to you a limited, non-transferable, revocable license to use such information only for: (a) Sedo-related communications that are not unsolicited commercial messages, (b) using services offered through Sedo (e.g., escrow services and fraud complaints), and (c) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. 
 
-  * Ensuring that you do not attempt to circumvent any age verification procedures
-  * The information you provide is accurate and truthful and that you keep us updated with any changes
-  * That you keep confidential any usernames and passwords used in connection with the SUMO.tv services
-  * That adults, in respect of any aspect of the SUMO.tv services, exercise appropriate controls over the extent to which minors may access or view material which is not intended nor suitable for their viewing, which controls may include activation, installation and monitoring of filtering devices and specialised software
+In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined herein, can you disclose personal information about another site user to any third party without the written consent of Sedo and the written consent of that user, including, but not limited to, email correspondence with Sedo staff regarding Sedo users, whether in the course of providing Sedo services or otherwise. You agree that other users may use your personal information to communicate with you in accordance with this paragraph. 
 
+## Control of Your Login Name and Password
 
+You are responsible for all actions taken with your login name and password, including fees charged to your account and adherence to the Acceptable Use terms contained in the Sedo User Agreement. Your Sedo user password should be held in strict confidence and under no circumstances will Sedo personnel, its agents or affiliates ask you for your Sedo user password. If you lose control of your password, you may lose substantial control over your information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in the paragraph below.
 
-Your right to be kept informed
+## Accessing, Deleting, Reviewing and Changing Your Personal Information 
 
-You have the right to receive information about personal data under the Data Protection Act 1998. If you believe any of your data held by us is incorrect or you wish to have any further information regarding this Privacy Policy, please contact us by email [info@sumo.tv](mailto:info@sumo.tv).
+We offer you the ability to review, delete and change the information you submit to us by logging into the site and entering in the new information yourself or by emailing us at [contact@sedo.com](mailto:contact@sedo.com). Once logged in as a registered user, you can change your Password, other personal, contact, and financial information, and user preferences by going to the applicable pages available under "My Sedo." You must promptly update your personal information if it changes or is inaccurate. Once posted, you may not be able to change or remove any bids or postings made on the site. 
 
-**Watch SUMO.tv on SKY Channel 144!**  
-Like what you see at SUMO.tv? SUMO.tv is the UK's leading Video Sharing community, with our very own TV channel.. SUMO.tv on SKY Channel 144! Love watching random clips? Check out our TV channel today! Upload your content to SUMO.tv and Be On TV! We showcase our User's content, as well as the best video from around the Web, live on SKY 24/7! SUMO.tv - The Video Sharing community with a difference!
+Generally, we will not modify your personal information based on a request not submitted through the site because it can be difficult to authenticate your identity manually. 
+
+Upon your request, we will deactivate and delete your account, contact information, billing information, shipping information, and financial information from our active databases. To make this request, email [contact@sedo.com](mailto:contact@sedo.com). Your account will be deactivated and deleted as soon as reasonably possible after we receive your request but no later than 30 days. 
+
+Upon receipt of a deactivation request, we will retain some of your information in order to prevent fraud, collect fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement, and comply with legal requirements. Therefore, you should not expect that all of your information will be completely removed from our databases in response to your requests. However, your information will be deactivated from our active, registered user database, and will only be available to select Sedo personnel. 
+
+We will retain your information for as long as your account is active, as needed to provide you services, for a minimum of 5 (five) years.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Other Information Collectors 
+
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on our site or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Sedo does not control the privacy policies of third parties.
+
+## Security 
+
+Sedo follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+Your information is stored on Sedo's servers located in the United States and in European Union countries. When you enter sensitive information (such as credit card or bank information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company, but "perfect security "does not exist on the Internet or with any data, digital or physical. 
+
+Sedo personnel receive training on complying with our privacy practices and the importance of protecting your information. Disciplinary procedures are in place in should a Sedo employee violate our Privacy Policy. 
+
+If you have any questions about security on our web site, you can email us at [privacy@sedo.com](mailto:privacy@sedo.com "privacy@sedo.com"). 
+
+## Social Media Widgets 
+
+Our Web site includes Social Media Features, such as the Facebook Like and Recommend buttons, the Twitter Share button, other widgets that use the ShareThis button, and interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+## Links to 3rd Party Sites 
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Sedo. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+## Testimonials 
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at privacy@sedo.com.
+
+## Notice and Modification
+
+If we decide to change our Privacy Policy we will post those changes to this privacy policy, the homepage, and other places we deem them appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to make changes to this Privacy Policy at any time by posting the amended terms on the site, so please check it frequently.  If we make material changes to this Policy, we will notify you by email, sent to the e-mail address specified in your account, or by means of a notice on this Site prior to the change becoming effective.  All amended terms shall automatically be effective 30 days after they are initially posted on the site. 
+
+## How to Contact Sedo
+
+Mail:  
+Attention Privacy/Legal Department  
+Sedo.com, LLC  
+161 First Street, Fourth Floor  
+Cambridge, MA 02142  
+USA 
+
+Telephone: (617) 499-7200  
+Facsimile: (617) 499-7226  
+Email: [privacy@sedo.com](mailto:privacy@sedo.com)
