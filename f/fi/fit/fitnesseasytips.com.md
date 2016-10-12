@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnesseasytips.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325141719id_/http%3A//fitnesseasytips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnesseasytips.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012164359id_/http%3A//fitnesseasytips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exercise & Fitness
 
