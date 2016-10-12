@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollbrothers.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317111429id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollbrothers.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013005657id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.*
 
 # Toll Brothers - Privacy Policy
 
@@ -19,7 +19,7 @@ We may use third-party ad servers (or ad networks) to deliver ads to you on our 
 
 **Statement of Forward-looking Information**
 
-Information presented herein for the fourth quarter ended October 31, 2015 is subject to finalization of the Company's regulatory filings, related financial and accounting reporting procedures and external auditor procedures.
+Information presented herein for the second quarter ended April 30, 2016 is subject to finalization of the Company's regulatory filings, related financial and accounting reporting procedures and external auditor procedures.
 
 Certain information included in this website is forward-looking within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, information related to: anticipated operating results; anticipated financial performance, resources and condition; selling communities; home deliveries; average home prices; consumer demand and confidence; contract pricing; business and investment opportunities; and market and industry trends.
 
