@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-website-design.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208180016id_/http%3A//www.red-website-design.co.uk/privacy-policy/4583499053) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-website-design.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012193207id_/http%3A//www.red-website-design.co.uk/privacy-policy/4583499053) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ ii. To meet our contractual commitments to you.
 
 iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
 
-We may also contact you with information about goods and services similar to those which you have enquired about and we may add you to our weekly mailing list. We may also pass your details to carefully selected third parties who may be able to assist with your requirements where we can't. 
+We may also contact you with information about goods and services similar to those which you have enquired about and we may add you to our weekly mailing list. 
 
 Storing Your Personal Data
 
