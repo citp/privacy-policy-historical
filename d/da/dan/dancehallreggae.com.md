@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancehallreggae.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611011244id_/http%3A//dancehallreggae.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancehallreggae.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012034314id_/http%3A//dancehallreggae.com/info/privacy) for the most accurate reproduction.*
 
 # DancehallReggae.com | The King Of Jamaican Dancehall Videos Since 1995
 
