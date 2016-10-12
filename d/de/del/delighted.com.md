@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delighted.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313153442id_/https%3A//delighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delighted.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012092023id_/https%3A//delighted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Delighted
 
@@ -52,7 +52,7 @@ After a transaction, your private information (credit cards, social security num
 
 ## Do we use cookies?
 
-Yes (Cookies are small ﬁles that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits and compile aggregate data about site traﬃc and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Yes. Cookies are small ﬁles that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits and compile aggregate data about site traﬃc and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
