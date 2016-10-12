@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycookinggames.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212071410id_/http%3A//www.dailycookinggames.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycookinggames.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012194825id_/http%3A//www.dailycookinggames.com/page/1.html) for the most accurate reproduction.*
 
 # Cooking Games - Free Online Cooking games For Girls - Privacy Policy
 
