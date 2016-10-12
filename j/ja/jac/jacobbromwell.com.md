@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324150047id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobbromwell.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012122604id_/https%3A//www.jacobbromwell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jacob Bromwell®
 
 ## PRIVACY POLICY - THE BROMWELL COMPANY  
 
 
-Rev: 8/28/2013
+Rev: 5/3/2016
 
 ## GENERAL
 
 * * *
 
-The Bromwell Company ("Bromwell") respects the privacy of every individual who visits bromwell.com, jacobbromwell.com, trizenium.com, and luovasales.com (the "Websites") or responds to our guestbook, contests, or interactive advertisements. Bromwell's Privacy Policy outlines the information Bromwell will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising.
+The Bromwell Company ("Bromwell") respects the privacy of every individual who visits jacobbromwell.com (the "Website") or responds to our guestbook, contests, or interactive advertisements. Bromwell's Privacy Policy outlines the information Bromwell will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising.
 
 We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under "Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely.
 
