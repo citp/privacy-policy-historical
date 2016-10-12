@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fan.tv privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611192721id_/https%3A//www.fan.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan.tv privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012155730id_/https%3A//www.fan.tv/privacy-policy) for the most accurate reproduction.*
 
 # Fan TV - Privacy Policy
 
@@ -23,6 +23,7 @@ We respect your privacy. If you have any privacy concerns or questions about thi
   * Overseas transfers
   * Your consent
   * Your rights
+  * Inquiries
 
   
 
@@ -31,7 +32,7 @@ We respect your privacy. If you have any privacy concerns or questions about thi
 
 All references to "we", "us" or "our" refer to (1) Fanhattan Inc. and/or one or more of its corporate affiliates.
 
-Fanhattan, Inc. is a Delaware corporation, with offices at 489 S. El Camino Real, San Mateo, CA 94402.
+Fanhattan, Inc. is a Delaware corporation, with offices at 2 Circle Star Way, San Carlos, CA 94070.
 
 This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use a Fanhattan Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information. Information collected or provided by or to us may be shared with and used by any of our affiliates in accordance with this Privacy Policy as if the relevant affiliate was ‘we’ ‘us’ or ‘our’ in this Policy.
 
@@ -160,8 +161,10 @@ Back to top
 **Your California Privacy Rights**  
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@fan.tv](mailto:privacy@fan.tv) or by postal mail to _Fanhattan Inc. 489 S. El Camino Real, San Mateo, CA 94402_. Attn: Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@fan.tv](mailto:privacy@fan.tv) or by postal mail to _Fanhattan Inc. 2 Circle Star Way, San Carlos, CA 94070_. Attn: Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
 
 Back to top
 
-Inquiries If you have any concern about privacy at Fanhattan, please send us a thorough description of your concern to [privacy@fan.tv](mailto:privacy@fan.tv) or the address above, and we will try to resolve it.
+## Inquiries
+
+If you have any concern about privacy at Fanhattan, please send us a thorough description of your concern to [privacy@fan.tv](mailto:privacy@fan.tv) or the address above, and we will try to resolve it.
