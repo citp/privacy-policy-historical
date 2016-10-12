@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421153735id_/http%3A//www.grantthornton.co.nz/Privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantthornton.co.nz privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012090934id_/http%3A//grantthornton.co.nz/Privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy policy
 
