@@ -1,256 +1,119 @@
-> *The following text is extracted and transformed from the saintsfc.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331003545id_/http%3A//www.saintsfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saintsfc.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012222922id_/http%3A//www.saintsfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# SOUTHAMPTON FC | Official Website of Saints – latest news, photos and videos
 
-  * twitter
-  * facebook
-  * email
-  * print
+## PRIVACY POLICY
 
+**Southampton Football Club Limited**
 
+**1.  Your Privacy**
 
-By 
+Southampton Football Club Limited (“ **We** ”) are committed to protecting and respecting your privacy.  We are a private limited company incorporated in England and Wales under company number 00053301.
 
-**COOKIES & PRIVACY POLICY**
+This document (the “ **Privacy Policy** ”) explains our policy regarding any information you might supply to us when you visit our websites (the “ **Websites** ”) or that you provide to us via other channels, such as through engagement with our social media sites including Facebook and Twitter or through use of any applications developed by us (the “ **Apps** ”). Our primary concern is the protection your information.
 
-Please take a moment to read this Website's Privacy Policy set out below. References to "we", "us" and "our" in this policy are references to FL Interactive Limited (Company Number: 04112553) c/o The Football League Limited Unit 5B Edward VII Quay, Navigation Way, Preston, Lancashire, PR2 2YF. We may however appoint third parties to store and process your information on our behalf.
+We are only responsible for the privacy practices and security this Website. The Website may contain links to other websites, which are provided to enhance your experience and for your convenience. We recommend that you always check the privacy and security policies and procedures of any website that you visit outside of this Website. 
 
-Protecting your privacy is very important to us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to how we process your information please contact us using the details below.
+The ‘ **Data Controller’** (for the purposes of the Data Protection Act 1998 (the “ **Act** ”) of any personal information that you provide to us through the Websites will be Southampton Football Club Limited unless the relevant page specifically states otherwise. Where you provide personal information via another route to us, the Data Controller of such information will be the company to whom you provide it.
 
-We reserve the right to change the terms of this policy from time to time and your continued use of the Website will be deemed to be acceptance of amendments we make. This Privacy Policy was last updated on 25 May 2012.
+This Privacy Policy uses some words with specific legal meanings.  These words identified in bold. If you want to know what any words with special meanings mean, simply scroll back till you find the word in bold, where you will also find the relevant explanation.
 
- **1\. What information do we collect about you?**
+**2.  What Information Do We Collect?**
 
-At various times during a visit to this Website you may be asked to provide us with personal information (for example your name and contact details). This may be in connection with activities such as registration for newsletters, operation of our subscription services, social sharing, competitions and activity for our partners.
+The information we collect falls into the following categories (together, the “ **Information** ”):
 
-In common with many other online services we may also use "cookies" to collect information about how you use the Website. This information is used to produce statistical reports on website activity and allows us to tailor the Website to suit your interests. Examples include:
+a) Personal information that you provide to us such as your name, address, telephone number, date of birth, banking details or credit card number, billing address, email address and details of purchasing preferences (“ **Personal Information** ”), which we use in accordance with this Privacy Policy.
 
-  * enabling a service to recognise your device so you don't have to give the same information several times during one task
-  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
-  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are delivered quickly to your web browser
+b) Website and App Use Information - the Website, any Apps and our social media sites utilise standard technology called “cookies” or similar technologies, along with web server logs, to collect information about how the Website, the Apps and social media sites are used, and information about users.
 
+For more information on the cookies and similar technologies that we use and their purpose, please see our [**Cookies Policy**](https://web.archive.org/club/cookie-policy).
 
+If you would like further details in respect of the information we collect and hold about you, please contact our Data Protection Officer whose details are set out below.  
 
-A cookie is a small amount of data sent from the server and stored on your computer's hard drive. Most web browsers are automatically set up to accept cookies, but you can set your browser to refuse cookies or ask your browser to show you where a cookie has been set up. Please note that certain features of this Website are only activated by the presence of a cookie and if you choose to refuse cookies these features may not be available to you.
+When you engage in certain activities on the Website or engage with us through any other channel,  for example, by registering your details on the Website or as an Southampton member, purchasing goods and services or entering competitions, we may ask you to provide certain information about yourself by filling out and submitting a form. It is completely up to you whether you engage in these activities.  If you choose to engage in these activities, however, we may require you to provide us with Information.  In some instances, you may also be asked to provide a credit or debit card number. We may supplement the Information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, for example, our commercial partners.
 
-All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+**3.  Consent**
 
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)  
-[Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)  
-[Cookie settings in Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
-[Cookie settings in Safari](http://support.apple.com/kb/PH5042)
+By using this Website, or otherwise engaging with us, you indicate your consent to us collecting and using your Information in accordance with the terms of this Privacy Policy, unless you expressly state that such consent is not given. When you submit any Information to us you understand and agree that we and our associated companies (as defined in bold below) may record, transfer, store, and process your Information in any of the countries in which we and our subsidiaries or affiliates maintain offices, including without limitation, the United Kingdom.  See also Use of your Information outside the European Economic Area.
 
-We do not recommend turning cookies off when visiting your club website, as this will prevent you from using many of the services on the site.
+If you do not agree to these terms, please do not use this Website or provide any of your information to us via this or any other channel.
 
-For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+**4.  Security **
 
- **In the context of the website, the following cookies are deployed:**
+We take the security of your Information seriously.
 
- **Cookie**|  **Name**|  **Description**  
----|---|---  
-ASP.NET Session Cookie| ASP.NET_SessionId| This is an essential cookie created when request is made for any web page. This is a session ID used to identify a session state of a user.  
-Site acceptance cookie| 
+We have a committed security policy.  We implement a number of security measures to ensure that any Information in our possession or control is not stolen or lost. The Information is contained on a secure server, which is accessible only by a limited number of employees who have limited access rights to such information. Access rights to your Information are restricted only to those who have a legitimate business need to have that access.
 
-AC_SplashCookie
+When you submit your credit card details, we use industry standard Secure Sockets Layer (SSL) encryption technology to guard your Information. In addition, we have security procedures in place to protect our customer database from loss and misuse, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of the Information contained within it.
 
-IN_SplashCookie
+**5.  How Will We Use Your Information?**
 
-ED_SplashCookie
+We collect your Information to record and support your participation in the activities you select. 
 
-| This cookie is used to record if a user has accepted the use of cookies  
-Google Analytics| _utma   
-_utmb   
-_utmc   
-_utmz| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Advertising| wousq   
-AFFICHE_W   
-wbo_temps_reel   
-uuid   
-mt_mop   
-ts   
-wousq   
-AFFICE_W   
-wbo_temps_reel   
-CxtId   
-12bet   
-188bet   
-Admiral   
-Coral   
-id   
-_drt_   
-_wrvur   
-_wrvusr   
-id   
-mdata   
-OAX   
-_pooling| Advertising cookies created by "Ionos" and "High Media" to get user preferences.Advertising networks use cookies to keep track of ads they have already shown to a user.  
-Twitter| pid| Created when user lands the home page  
-Twitter| k   
-guest_id   
-original_referer   
-_twitter_sess   
-_utma   
-_utmb   
-_utmc   
-_utmz   
-_utmv| Twitter cookies created when twitter "Follow Button" is clicked.  
-Facebook| datr   
-lsd   
-reg_fb_gate   
-reg_fb_ref   
-wd   
-act   
-_e_117p_0| Facebook cookies created when Facebook share or like links clicked.  
-  
- **In the context of the Club Player service, the following cookies are deployed:**
+We may use Information:
 
-MatchListViewType| list   
-| Type of the list view used on the Latest News, Last Match etc.   
-| session cookie - expires when window closed   
-  
----|---|---|---  
-setDefaultVolume   
-| 4   
-| Holds the information about the default player volume   
-| 2 years   
-  
-cookietest   
-| ok   
-| used for testing if the cookies are enabled   
-| session cookie - expires when window closed   
-  
-giftCardExpirationCloseButtonHit   
-| FALSE   
-| Records if the gift card expiration pop-up was closed   
-| session cookie - expires when window closed   
-  
-giftCardExpirationInvalidity   
-| 1,44958E+12   
-| Contains information about gift card expiration   
-| session cookie - expires when window closed   
-  
-giftCardExpiration14daysReminder   
-|   
-| Contains information about gift card expiration in 14 days   
-| session cookie - expires when window closed   
-  
-giftCardExpiration7daysReminder   
-|   
-| Contains information about gift card expiration in 7 days   
-| session cookie - expires when window closed   
-  
-giftCardExpiration1dayReminder   
-|   
-| Contains information about gift card expiration in 1 day   
-| session cookie - expires when window closed   
-  
-ptvuid   
-| 340140   
-| User identification cookies   
-| 2 years   
-  
-ptvzon   
-| fname   
-| User identification cookies   
-| 2 years  
-ptvliet   
-|   
-| User identification cookies   
-| 2 years   
-  
-ptvliv   
-|   
-| User identification cookies| 2 years  
-s_cc   
-| TRUE   
-| Omniture - website analytics   
-| session cookie - expires when window closed   
-  
-s_sq   
-| [[B]]   
-| Omniture - website analytics   
-| session cookie - expires when window closed   
-  
-tabPreferences34002   
-| 0   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour   
-  
-tabPreferences37220   
-| 2   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour   
-  
-tabPreferences401   
-| 0   
-| Determines the selected tab (e.g. used for navigation)   
-| 1 hour  
-takeover   
-| Y   
-| sets itself if already doesn't exist, nothing more   
-| session cookie - expires when window closed   
-  
-timeDifference   
-| 3601000   
-| Used for event countdown   
-| 24h   
-  
-accessibleCSSDisplay|   
-| Accessible version on/off   
-| 4 years   
-  
-ccExpirationInvalidity   
-|   
-| Used for credit card expiration notification   
-| session cookie - expires when window closed   
-  
-ccExpirationCCInvalidity|   
-| Used for credit card expiration notification   
-| session cookie - expires when window closed   
-  
-ccExpiration14DaysReminder   
-|   
-| Used for credit card expiration notification 14 d before card expiration   
-| session cookie - expires when window closed   
-  
-ccExpirationCloseButtonHit   
-| FALSE   
-| Records if the Credit card expiration pop-up was closed   
-| session cookie - expires when window closed   
-  
-  
-**2\. How will we use your personal information?**
+as part of our effort to keep you informed via mail, email, phone or fax about special offers, and other products and services we offer;
 
-Primarily we will use the personal information we collect about you to send you information you have requested, create a membership profile for you (allowing us to provide a personalised service when you visit the Website), assist in the provision of products and services to you and to enable us to review and improve the products or services offered to you.
+for record keeping purposes;
 
-From time to time we would also like to contact you to let you know about products and services offered by us, our clubs, their official partners and other carefully selected third parties that may be of interest to you. We may also provide your details to carefully selected third parties in order for them to contact you directly about their products and services. By ticking the applicable boxes in the Privacy Notice you are deemed to agree to the use of your information for these purposes.
+to improve the quality of our service;
 
- **3\. What are my choices?**
+for market research;
 
-You have a right to stop us from contacting you for marketing purposes or giving your information to third parties. If you no longer wish to be contacted for marketing purposes please click on the "unsubscribe" URL link that is present on the bottom of your club website.
+to measure and improve activity on our Website, Apps and social media platforms;
 
-Customers who have opted out of receiving marketing communications will still receive payment and account related emails.
+in connection with targeting/advertising activities; and
 
-You are also entitled to request a copy of the information that we hold about you. If you would like to do this please contact us using the details below. You may be required to pay a small fee for this service.
+to understand your preferences so that we can improve the products or services we offer.
 
-We want to make sure that the personal information we hold about you is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+We may share and pass your Personal Information (including details of your purchasing preferences) with or to our holding companies, subsidiaries or associated companies in which we have an interest including, without limitation, any of our joint venture organisations (together, our “ **associated companies** ”).
 
- **4\. When does this Privacy Policy not apply?**
+When you submit Personal Information to apply for a job via our Website, this will be used solely in connection with your registration to the site or your application for a particular role and will not be shared with third parties other than those engaged by us in connection with the recruitment process, such as recruitment consultants or agencies.
 
-This Privacy Policy only applies to the collection of personal information by us and those whom we authorise. It does not cover third party sites to which we provide links, nor does it cover advertisers and content partners within our service who may also collect your personal information. If you link to third party websites from this Website you should read their privacy policies and terms of use carefully.
+We may also pass your Information to other carefully selected partner organisations (“ **partners** ”) with whom we have a business relationship, such as:
 
-If you place personal details on any publicly accessible page (for example on a message board) then this data will not be covered by our Privacy Policy.
+our sponsors;
 
- **5\. How do we protect your information?**
+financial services partners; and
 
-We are firmly committed to data security. The personal information you provide to us is encrypted before it is sent to us and once it is received we store it on secure servers. We take steps to guard against unauthorised access to your personal information and to ensure it is treated in accordance with our Privacy Policy. Unfortunately, although we make every effort to create a secure environment for your personal information we cannot guarantee the safety of any personal information which you transmit to us online.
+other organisations whose services we need to use to process and deliver your orders, for credit control and debt collection, to maintain our systems or to comply with legal obligations or a court order.
 
-The personal information we collect may be transferred to and/or stored or processed at a location outside the European Economic Area. By providing your personal information you consent to this transfer, storage and/or processing. We will take steps to ensure that your personal information is kept securely and in accordance with the Privacy Policy.
+Each of our associated companies and these partners may keep you informed of services, products, events and special offers made available by that organisation. If you express an interest in an offer from one of our associated companies or partners, that associated company or partner may let us know. In all cases, we will take care to ensure that these organisations only process your Information in accordance with this Privacy Policy, your preferences and the law.
 
- **6\. Contacting us**
+For a list of our associated companies or partners, please contact our Data Protection Officer whose contact details are listed below.
 
-Please contact us using the details below if you have any questions about our Privacy Policy or the information we hold about you:
+If you do not wish the Information you provide to us to be shared with other associated companies or such partners, please indicate this preference when you provide the Information to us.  Alternatively please contact our Data Protection Officer.
 
-Email: [privacy@football-league.co.uk](mailto:privacy@football-league.co.uk)
+We may also create an individual profile for you so that we can inform you of services, products, events or special offers that may be of interest to you.  In the event of the sale of our business or the integration of the business with another party, we may disclose your details to advisers or prospective purchasers’ advisers.
 
-Address: Data Protection Compliance Officer, FL Interactive, Unit 5B Edward VII Quay, Navigation Way, Preston, Lancashire, PR2 2YF
+We may also disclose your Personal Information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, to enforce or apply our terms and conditions and other agreements, or to protect our rights or property or those of our customers or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.
+
+**6.  Use of your Information outside the European Economic Area**
+
+Some of the organisations (including, without limitation, certain associated companies and partners) that we disclose your Information to may be situated outside of the European Economic. In order to provide you with the products and services you require, we may need to transfer your Information to these countries some of which do not have laws that protect privacy rights as extensively as in the United Kingdom. If we do transfer your Information to such countries, we will endeavour to ensure that your Information is properly protected.
+
+**7.  Changes to this Privacy Policy**
+
+We aim to meet high standards and our policies and procedures are, therefore, constantly under review. From time to time we may change our security and privacy policies. Accordingly, we recommend that you check this page periodically, or request a copy of the current Privacy Policy from our Data Protection Officer, in order to keep up to date.
+
+**8.  Updating and Correcting Information**
+
+You may correct the Information we hold about you by changing your profile preferences online. We encourage you to update your Personal Information promptly if it changes.
+
+**9.  Your Rights to Access Your Information**
+
+You have the right to see details of the Information that we hold that relates to you.  We may charge a small administrative fee to cover the costs of any such request that you make. The current fee is £10.00.
+
+You may ask us to make any necessary changes to your Personal Information to ensure it is accurate and up-to-date.
+
+**10.  How to Contact Us**
+
+If you would like any further information or have any comments about our use of your Information, our Privacy Policy or any aspect of this Website, please contact our Data Protection Officer at:
+
+St Mary’s Stadium
+
+Britannia Road
+
+Southampton
+
+SO14 5FP 
