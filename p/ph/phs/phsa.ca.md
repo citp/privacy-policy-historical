@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616164218id_/http%3A//www.phsa.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phsa.ca privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013015446id_/http%3A//www.phsa.ca/privacy) for the most accurate reproduction.*
 
 # Privacy
 
