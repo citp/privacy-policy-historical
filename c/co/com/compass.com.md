@@ -1,20 +1,32 @@
-> *The following text is extracted and transformed from the compass.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402004811id_/https%3A//www.compass.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compass.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013012815id_/https%3A//www.compass.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Compass
+# Terms & Policies - Compass
 
 This Privacy Policy describes the policies and procedures of Urban Compass, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.compass.com (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-##### What Does This Privacy Policy Cover?
+**
+
+What Does This Privacy Policy Cover?
+
+**
 
 This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") gathered when you use or access the Services. This Privacy Policy also covers our treatment of any Personal Information which landlords, tenants or our business partners share with us, or that we share with our business partners.
 
 This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any landlords, renters, third party websites, services and applications (“Third Party Services”) that you elect to access through the Services or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy or that you request through your use of the Services, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-##### What About International Users?
+**
+
+What About International Users?
+
+**
 
 YOUR INFORMATION MAY BE MAINTAINED ON AND TRANSFERRED TO COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION. IF YOU ARE LOCATED OUTSIDE THE UNITED STATES AND CHOOSE TO PROVIDE INFORMATION TO US, WE TRANSFER PERSONAL INFORMATION TO THE UNITED STATES AND PROCESSES IT THERE. YOUR USE OF THE SERVICES AND YOUR SUBMISSION OF SUCH INFORMATION EACH REPRESENTS YOUR AGREEMENT TO THAT TRANSFER.
 
-##### What Information Do We Collect?
+**
+
+What Information Do We Collect?
+
+**
 
 YOUR INFORMATION MAY BE MAINTAINED ON AND TRANSFERRED TO COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION. IF YOU ARE LOCATED OUTSIDE THE UNITED STATES AND CHOOSE TO PROVIDE INFORMATION TO US, WE TRANSFER PERSONAL INFORMATION TO THE UNITED STATES AND PROCESSES IT THERE. YOUR USE OF THE SERVICES AND YOUR SUBMISSION OF SUCH INFORMATION EACH REPRESENTS YOUR AGREEMENT TO THAT TRANSFER.
 
@@ -26,13 +38,21 @@ The information we gather enables us to personalize, improve and continue to ope
 
 **Aggregate Information:** We collect statistical information about how both users, collectively, use the Services ("Aggregate Information"). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you or your web browser. This type of aggregate data enables us to figure out how often users use parts of the Services so that we can make the Services appealing to as many users as possible, and improve the Services. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Services, so that they, too, may provide you with an optimal online experience. Again, we never disclose aggregate information to a partner in a manner that would identify you personally.
 
-We use conversion tracking from third-party advertising platforms, including Google and Facebook. These advertising programs use cookies to help determine aggregate, anonymous actions people took on our website after clicking an ad. 
+We use conversion tracking from third-party advertising platforms, including Google and Facebook. These advertising programs use cookies to help determine aggregate, anonymous actions people took on our website after clicking an ad.
 
-##### Is Personal Information About Me Secure?
+**
+
+Is Personal Information About Me Secure?
+
+**
 
 You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. We endeavor to protect account information to ensure that it is kept private; however, we cannot guarantee the security of any account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. We otherwise store all of our information, including your IP address information, using industry-standard security techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you we store, Personal Information or otherwise.
 
-##### How, And With Whom, Is My Information Shared?
+**
+
+How, And With Whom, Is My Information Shared?
+
+**
 
 **Third Party Services:** At times, you may be able to access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information collected on the Services.
 
@@ -48,16 +68,28 @@ You need to prevent unauthorized access to your account and Personal Information
 
 **Information We Share with Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-##### What Information Can I Access?
+**
+
+What Information Can I Access?
+
+**
 
 We may allow you to access certain information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Services change. When you update information, however, we often maintain a copy of the unrevised information in our records. You may request deletion of your account by sending an e-mail to our webmaster at [opt-out@compass.com](mailto:opt-out@compass.com). Please note that some information may remain in our records after deletion of your account.
 
-##### What Happens When There Are Changes To This Privacy Policy?
+**
+
+What Happens When There Are Changes To This Privacy Policy?
+
+**
 
 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
 
-##### What If I Have Questions Or Concerns?
+**
+
+What If I Have Questions Or Concerns?
+
+**
 
 If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [notices@compass.com](mailto:notices@compass.com). We will make every effort to resolve your concerns.
 
-Effective Date: April 10th, 2013
+Effective Date: April 10th, 2013.
