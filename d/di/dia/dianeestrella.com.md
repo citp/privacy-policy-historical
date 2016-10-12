@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianeestrella.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190105id_/http%3A//dianeestrella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianeestrella.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012124115id_/http%3A//dianeestrella.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Diane Estrella
 
