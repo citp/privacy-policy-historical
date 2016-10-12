@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the armgardtdesign.com privacy policy that was archived on 2015-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150126110659id_/http%3A//www.armgardtdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armgardtdesign.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012225959id_/http%3A//blueoceanbranding.com/privacy-policy) for the most accurate reproduction.*
 
-# Denver Branding and Graphic Design Agency | Armgardt DesignArmgardt Design
+# Privacy Policy - Blue Ocean Branding
 
-Our Privacy Policy was last updated and posted on October 8, 2013. It governs the privacy terms of our Website, located at http://www.armgardtdesign.com.
+Our Privacy Policy was last updated and posted on March 17, 2014. It governs the privacy terms of our Website, located at http://blueoceanbranding.com.
 
 ##### Your Privacy
 
-Armgardt Design, Inc. follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+Blue Ocean Branding follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
 
 ##### Definitions
 
@@ -33,7 +33,8 @@ As a user of our Website, you may opt out of the use of the DoubleClick cookie f
 
 Third Party Tracking Tools:
 
-We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.  
+We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
+
 Automatic Information:
 
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
@@ -52,7 +53,7 @@ We do not sell, rent, or otherwise provide your Personally Identifiable Informat
 
 Data Aggregation:
 
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
+We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service.
 
 Legally Required Releases of Information:
 
