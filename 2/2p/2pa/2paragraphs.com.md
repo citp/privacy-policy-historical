@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405004259id_/https%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012114730id_/http%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
 
 # 2paragraphs Privacy Policy
 
@@ -87,4 +87,4 @@ Nyack, NY 10960
 USA  
 team at 2paragraphs.com
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
