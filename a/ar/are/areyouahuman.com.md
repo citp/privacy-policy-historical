@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525101103id_/http%3A//www.areyouahuman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012153446id_/http%3A//areyouahuman.com/privacy) for the most accurate reproduction.*
 
 # Are You a Human - Privacy
 
-[](https://web.archive.org/)
+[](http://areyouahuman.com/)
 
 This Privacy Policy governs the manner in which [Are You a Human](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a "User") of the areyouahuman.com website (the "Site"). This Privacy Policy applies to Information collected on or through the Site.
 
