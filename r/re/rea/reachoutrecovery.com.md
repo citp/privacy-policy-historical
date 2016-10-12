@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachoutrecovery.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503110139id_/http%3A//www.reachoutrecovery.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoutrecovery.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012121804id_/http%3A//www.reachoutrecovery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reach Out Recovery
 
@@ -38,4 +38,4 @@ Reach Out Recovery secures your personal information from unauthorized access, u
 Reach Out Recovery will occasionally update this Statement of Privacy to reflect company and customer feedback. Reach Out Recovery encourages you to periodically review this Statement to be informed of how Reach Out Recovery is protecting your information.
 
 **Contact Information:**  
-Reach Out Recovery welcomes your comments regarding this Statement of Privacy. If you believe that Reach Out Recovery has not adhered to this Statement, please contact Reach Out Recovery at [info@reachoutrecovery.com](mailto:info@reachoutrecovery.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Reach Out Recovery welcomes your comments regarding this Statement of Privacy. If you believe that Reach Out Recovery has not adhered to this Statement, please contact Reach Out Recovery at [Nadine@reachoutrecovery.com](mailto:Nadine@reachoutrecovery.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
