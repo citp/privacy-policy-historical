@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328164943id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the at.govt.nz privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012181103id_/https%3A//at.govt.nz/about-us/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,12 +14,12 @@ This information may include your name, date of birth, address, telephone number
 
 When you visit one of our websites, Auckland Transport's Internet Service Provider may make a record of your visit and log the following information for statistical purposes:
 
-  * Your server address
-  * Your top level domain name (for example .com, .gov, .au, .uk etc)
-  * The date and time of your visit to the site
-  * The pages you accessed and the documents downloaded
-  * The previous site you have visited
-  * The type of browser you are using
+  * Your server address.
+  * Your top level domain name (for example .com, .gov, .au, .uk etc).
+  * The date and time of your visit to the site.
+  * The pages you accessed and the documents downloaded.
+  * The previous site you have visited.
+  * The type of browser you are using.
 
 
 
@@ -67,7 +67,9 @@ There may be times when we disclose your personal information to third parties. 
 
 "Cookies" are pieces of information that a website transfers to an individual's device’s hard drive for record-keeping purposes. The cookie assigns that device an ID that allows Auckland Transport to recognise it when it is used to access an Auckland Transport website.
 
-We use cookies on Auckland Transport websites to collect standard internet log information and details of our visitors’ behaviour patterns in order to  obtain statistics of the number of visits and the popular parts of those website.  These  statistics are gathered and used solely for the purposes of analysing, evaluating and improving the content of Auckland Transport’s websites.
+We use cookies on Auckland Transport websites to collect standard internet log information and details of our visitors’ behaviour patterns in order to obtain statistics of the number of visits and the popular parts of those website. These statistics are gathered and used solely for the purposes of analysing, evaluating and improving the content of Auckland Transport’s websites.
+
+[Find out more about how AT uses cookies](https://web.archive.org/about-us/about-this-site/privacy-policy/cookies/ "Cookies").
 
 ## 5\. Will my personal information be protected?
 
@@ -81,7 +83,7 @@ The location at which we store your personal information will depend on the natu
 
 ## 7\. Can I access my personal information?
 
-You have the right to know whether or not we hold any personal information about you. You also have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to: [PrivacyOfficer@aucklandtransport.govt.nz](mailto:PrivacyOfficer@aucklandtransport.govt.nz "privacyofficer@aucklandtransport.govt.nz").
+You have the right to know whether or not we hold any personal information about you. You also have the right to access your personal information, if we hold that personal information in a way that it can be readily retrieved. You may request access to the personal information we hold about you by sending an email to: [privacyofficer@aucklandtransport.govt.nz](mailto:&#112;&#114;&#105;&#118;&#97;&#99;&#121;&#111;&#102;&#102;&#105;&#99;&#101;&#114;&#64;&#97;&#117;&#99;&#107;&#108;&#97;&#110;&#100;&#116;&#114;&#97;&#110;&#115;&#112;&#111;&#114;&#116;&#46;&#103;&#111;&#118;&#116;&#46;&#110;&#122; "Email AT's Privacy Officer").
 
 You can ask to see the personal information that we hold about you, or make a request for information under the Local Government and Meetings Act 1987, by sending a written request to:
 
@@ -90,7 +92,7 @@ Auckland Transport
 Private Bag 2255  
 Auckland 1142.
 
-You may also [ ask us](mailto:PrivacyOfficer@aucklandtransport.govt.nz?subject=Email%20request) to correct, alter or delete any personal information that we hold about you by sending a written request to the above address. It is your responsibility to ensure that personal information provided to us is accurate. If we do not correct your information in the way you have asked, you can request that we attach to that information a statement of the correction you asked for.
+You may also ask us to correct, alter or delete any personal information that we hold about you by sending a written request to the above address. It is your responsibility to ensure that personal information provided to us is accurate. If we do not correct your information in the way you have asked, you can request that we attach to that information a statement of the correction you asked for.
 
 When writing to us, please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy of (this helps us to more readily locate your data).
 
@@ -100,6 +102,6 @@ We may change this Privacy Policy from time to time.
 
 ## 9\. Acceptance
 
-The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-and-mobile-app-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either [ contact us](mailto:PrivacyOfficer@aucklandtransport.govt.nz "Email request") or you can stop accessing or using our websites.
+The privacy policy forms a part of our [Website Terms and Conditions](https://web.archive.org/about-us/about-this-site/terms-conditions/website-and-mobile-app-terms-conditions/ "Website Terms & Conditions") and should be read in conjunction with them. By viewing and using our websites or related services offered in conjunction with our websites, you agree to Auckland Transport collecting and using your personal informal information as set out in this Privacy Policy. If you do not agree to anything in this Privacy Policy or if you do not wish to receive marketing material from Auckland Transport, you can either contact us or you can stop accessing or using our websites.
 
 If you decide not to provide the personal information requested when you use, register or open an account on our website, this may result in services or products (including related services offered in conjunction with our websites) not being offered or provided to you.
