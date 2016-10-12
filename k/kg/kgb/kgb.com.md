@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080051id_/http%3A//kgb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012221942id_/http%3A//www.kgb.com/privacy-policy) for the most accurate reproduction.*
 
-# kgb — Privacy
+# Privacy Policy - kgb
 
-  1\. Introduction
+1\. Introduction
 
 The websites located at the domains www.kgb.com, www.thekgb.com, www.kgbkgb.com and kgb Mobile Applications (collectively, the “Sites”) are operated by kgb (“kgb” or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Sites. The Sites are operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Sites, or if you wish to unsubscribe from services on any of the Sites for which you have previously registered, please contact us at accounts@kgb.com or at the address at the end of this policy.
 
@@ -22,7 +22,7 @@ Activity. We record information relating to your use of the Sites, such as the s
 
 Enforcement. In certain cases, we may use the information we collect in connection with your use of the Sites (including your personal information) in order to investigate, enforce, and apply our Terms of Use and Privacy Policy.
 
-3\. Use of Information We Collect 
+3\. Use of Information We Collect
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our services, and to offer you other products, programs, or services we believe may be of interest to you.
 
@@ -40,15 +40,15 @@ When you visit our Site, we may collect technical and navigational information, 
 
 We use third-party advertising companies to serve ads when you visit the Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-4\. Collection of Information by Third Parties and Sponsors 
+4\. Collection of Information by Third Parties and Sponsors
 
 The Sites may contain third-party advertisements or offers that are complementary to your use of kgb. If you choose to use these separate products or services, disclose information to the providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. You should evaluate their practices before deciding to use their services.
 
-5\. Cookies 
+5\. Cookies
 
 To enhance your experience with our Sites, many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering on our Sites. However, once you choose to furnish any of the Sites with Personal Information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our Sites. For example, we may use cookies to personalize your experience at our Sites (e.g., to recognize you by name when you return to the Sites), and to save your password in password-protected areas. We also may use cookies to offer you products, programs, or services. If you choose to disable cookies, some areas of the Sites may not work properly or at all.
 
-6\. No Guarantees 
+6\. No Guarantees
 
 While this Privacy Statement expresses kgb’s standards for maintenance of private data, kgb is not in a position to guarantee the standards will always be met. There may be factors beyond our control that may result in unintentional disclosure of data. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. But no method of transmission over the Internet or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -58,7 +58,7 @@ Should you terminate your account, portions of your data may remain on our produ
 
 Any “personal information” you submit to any of our Sites can be viewed and used by other users and could be used to send you unsolicited messages. kgb is not responsible for your disclosure of any such information.
 
-8\. Changes to This Policy 
+8\. Changes to This Policy
 
 We reserve the right to make changes to this Privacy Policy. You may review updates to our Terms of Use and Privacy Policy at any time via links on our Sites. You agree to accept electronic communications and/or postings of an annual or revised Privacy Policy on the Sites and that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it regularly. If we make material changes to this policy, we will notify you here, by email, and/or by means of a notice on our home page.
 
