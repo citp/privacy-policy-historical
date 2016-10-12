@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004952id_/http%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012034218id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies
+# DK Privacy Policy and Cookies | Help and Shopping | DK.com
 
 This website is owned and operated by Dorling Kindersley Limited.
 
