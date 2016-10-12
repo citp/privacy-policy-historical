@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalonaccess.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316000732id_/https%3A//www.avalonaccess.com/Home/PublicPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalonaccess.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012074859id_/https%3A//www.avalonaccess.com/Home/PublicPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
