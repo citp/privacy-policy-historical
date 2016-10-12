@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323080053id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012050257id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crazy Factory online piercing shop
 
@@ -6,7 +6,7 @@ To honour your confidence in us, we are committed to protecting your privacy. Wh
 
 Any storage and processing of customer data is effected in compliance with the pertinent regulations. Your personal data is registered only to fulfil the contractual obligations between Crazy Factory and you as customers and stored no longer than necessary. Your personal data, including your postal address and e-mail address, will not be passed on to third parties with the exception of our service partners to whom data must be transferred so as to process your orders. In these cases, the scope of the data transferred will be limited to the necessary minimum.
 
-You are at all times entitled to request information on the data stored and may request for it to be corrected, blocked and deleted. To do so, please e-mail our support at ([info.en@crazy-factory.com](mailto:info.en@crazy-factory.com)) or write to (Crazy Factory GmbH, Quaderstrasse 18, 7002 Chur, Switzerland).
+You are at all times entitled to request information on the data stored and may request for it to be corrected, blocked and deleted. To do so, please e-mail our support at ([info.en@crazy-factory.com](mailto:info.en@crazy-factory.com)) or write to (Crazy Factory GmbH, Quaderstrasse 18, CH-7000 Chur, Switzerland).
 
 #### Privacy policy for use of additional services
 
@@ -18,7 +18,7 @@ If you subscribe to our newsletter, your e-mail address will be stored. You are 
 
 #### Privacy policy for customer accounts
 
-To shop at Crazy Factory, you will set up a customer account protected by a password (upon registration, you will have a customer number assigned). Whenever you place a new order, the data stored here will automatically be entered in the order form to save you having to enter it manually every time. You may delete your customer account at any time. To do so, just e-mail us at [info.en@crazy-factory.com](mailto:info.en@crazy-factory.com) or write to Crazy Factory GmbH, Quaderstrasse 18, 7002 Chur, Switzerland.
+To shop at Crazy Factory, you will set up a customer account protected by a password (upon registration, you will have a customer number assigned). Whenever you place a new order, the data stored here will automatically be entered in the order form to save you having to enter it manually every time. You may delete your customer account at any time. To do so, just e-mail us at [info.en@crazy-factory.com](mailto:info.en@crazy-factory.com) or write to Crazy Factory GmbH, Quaderstrasse 18, CH-7000 Chur, Switzerland.
 
 #### Privacy policy for user profiles (cookies) 
 
