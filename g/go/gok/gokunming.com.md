@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gokunming.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612085256id_/http%3A//www.gokunming.com/en/pages/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gokunming.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012204002id_/http%3A//www.gokunming.com/en/pages/t/privacy) for the most accurate reproduction.*
 
 # Privacy policy - GoKunming
 
