@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318230907id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com.ng privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013004712id_/http%3A//www.shell.com.ng/about-our-website/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Nigeria
 
@@ -112,7 +112,7 @@ For some of the functions within our websites we use third party suppliers, for 
 
 We will not use cookies to collect personally identifiable information about you. However, should you wish to do so, you can choose to reject or block the cookies set by Shell or the websites of any third party suppliers by changing your browser settings – see the Help function within your browser for further details. Please note that most browsers automatically accept cookies so if you do not wish cookies to be used you may need to actively delete or block the cookies.
 
-You can also visit [www.allaboutcookies.org](http://www.shell.com.ng/disclaimer-en.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3JnLw==) for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
+You can also visit [www.allaboutcookies.org](http://www.shell.com.ng/content/shell/countries/nga/en/disclaimer-en.html/aHR0cDovL3d3dy5hbGxhYm91dGNvb2tpZXMub3JnLw==) for details on how to delete or reject cookies and for further information on cookies generally. For information on the use of cookies in mobile phone browsers and for details on how to reject or delete such cookies, please refer to your handset manual.
 
 Note, however, that if you reject the use of cookies you will still be able to visit our websites but some of the functions may not work correctly.
 
