@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205220048id_/https%3A//www.itracks.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012165113id_/https%3A//www.itracks.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Itracks
 
