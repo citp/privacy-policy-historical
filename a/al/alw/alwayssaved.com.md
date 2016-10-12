@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwayssaved.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623073924id_/http%3A//www.alwayssaved.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwayssaved.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012140844id_/http%3A//alwayssaved.com/privacy.html) for the most accurate reproduction.*
 
 # Always Saved
 
