@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asalahsolutions.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402001259id_/http%3A//asalahsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asalahsolutions.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012183714id_/http%3A//asalahsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AsalahSolutions.com - Software Development
+# Privacy Policy – AsalahSolutions.com – Software Development
 
 This privacy policy is for this website asalahsolutions.com and and governs the privacy of its users who choose to use it.
 
