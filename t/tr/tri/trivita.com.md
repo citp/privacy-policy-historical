@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trivita.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314115830id_/https%3A//www.trivita.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivita.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012191842id_/https%3A//www.trivita.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TriVita Wellness
 
@@ -8,11 +8,7 @@ $119 ·  $10 off
 
 $150 ·  $20 off
 
-### Privacy Policy
-
-Last Revised 02/2015
-
-The purpose of this Privacy Policy is to inform you about what information may be collected from you when visiting the TriVita, Inc. ("TriVita") web site trivita.com ("Web Site"), how such information will be used, with whom such information may be shared, your ability to edit, update, correct or delete such information and the security procedures that we have implemented to protect your privacy.
+## _Last Revised 02/2015_
 
 Scope and Consent:
 
@@ -53,7 +49,7 @@ We use the information that is collected about you and your visit for analyzing 
 
 Cookies:
 
-A cookie is a small amount of data, which includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. Please note that some features on our Web Site may be impaired if you block cookies for our Site.
+A cookie is a small amount of data, which includes an anonymous unique identifier that is sent to your browser from a web site&srquo;s computers and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. Please note that some features on our Web Site may be impaired if you block cookies for our Site.
 
 TriVita uses its own cookies for a number of purposes, including to:
 
@@ -125,12 +121,11 @@ TriVita maintains full rights to information collected on this Web Site and may 
 
 Questions or Comments or to Contact Us:
 
-If you have questions or comments about this Privacy Policy, or you wish to access or make changes to information about you, please call TriVita at 1-877-850-2968 or write us at:
+If you have questions or comments about this Privacy Policy, or you wish to access or make changes to information about you, please call TriVita at [1-877-850-2968](tel:+18778502968) or write us at:
 
-TriVita, Inc.  
-Member Services Department
-
+**TriVita, Inc.**  
+_Member Services Department_  
 P.O. Box 15700  
 Scottsdale, AZ 85267  
-1-877-850-2968  
+[1-877-850-2968](tel:+18778502968)  
 [memberservice@trivita.com](mailto:memberservice@trivita.com)
