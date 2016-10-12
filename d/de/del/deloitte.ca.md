@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624085051id_/http%3A//www2.deloitte.com/ca/en/legal/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012222314id_/http%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -88,7 +88,7 @@ To request the personal information we have about you, inquire or complain about
 
 **Privacy Office**  
 Deloitte LLP  
-2 Queen Street East  
-Toronto, ON M5C 3G7  
+22 Adelaide Street West, Suite 200  
+Toronto, ON M5H 0A9  
 Canada  
 [privacyoffice@deloitte.ca](mailto:privacyoffice@deloitte.ca)
