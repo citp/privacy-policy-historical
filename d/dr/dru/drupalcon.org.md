@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalcon.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406002458id_/https%3A//www.drupal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalcon.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012073658id_/https%3A//www.drupal.org/privacy) for the most accurate reproduction.*
 
 # Drupal.org Privacy Policy | Drupal.org
 
@@ -71,7 +71,7 @@ We use a number of service providers to help us operate the site and provide hig
 
 
 
-## Automatic Information Collection Technologies 
+## Automatic Information Collection Technologies
 
 The information that we collect about your equipment, browsing actions and patterns includes, but is not limited to, traffic data, location data, logs, the resources that you access, search queries, as well as information about the computer or device you are using and the Internet connection, including your IP address, operating system and browser type.
 
@@ -88,7 +88,7 @@ The automatic collection technologies we or our service providers use for this a
 
 We use third party ad networks to display advertisements on this Websites and to advertise to certain Drupal.org visitors while they are on other websites. These third parties also may use cookies, web beacons and other automatic collection technologies to collect information about you when you visit this Websites for purposes of determining your preferences in order to deliver interest-based advertising and other targeted content to you.
 
-We do not provide any PII to these third party advertising partners, but they may combine the non-PII collected on the Website with PII they collect directly from you or receive from other sources. We do not have access to or control over the automatic collection technologies that these third party advertisers or any third party websites may use, and the information practices of these third party advertisers and third party websites are subject to these parties' respective privacy policies, not this Privacy Policy. 
+We do not provide any PII to these third party advertising partners, but they may combine the non-PII collected on the Website with PII they collect directly from you or receive from other sources. We do not have access to or control over the automatic collection technologies that these third party advertisers or any third party websites may use, and the information practices of these third party advertisers and third party websites are subject to these parties' respective privacy policies, not this Privacy Policy.
 
 ## Links to Third Party Websites and Social Media Widgets
 
@@ -104,7 +104,7 @@ We use your information, including any PII, to:
   * Provide customer support, including responding to your requests and questions and troubleshooting and resolving problems or complaints;
   * Verify the information you provide to us;
   * Communicate with you;
-  * Understand and anticipate your use of or interest in, our services, and content, and the products, services, and content offered by others; 
+  * Understand and anticipate your use of or interest in, our services, and content, and the products, services, and content offered by others;
   * Develop and display products, services, and content tailored to your interests on our websites and other websites;
   * Provide you with promotional materials and Newsletters in case you opt-in to receive those;
   * Measure the overall effectiveness of our online, content, and programming, and other activities;
@@ -132,13 +132,13 @@ We may disclose or share your PII only in limited circumstances:
 
 We do not knowingly collect personal information from children under 13 without prior verifiable parental consent. If we learn that a child under the age of 13 has submitted personally identifiable information online without parental consent, we will take all reasonable measures to delete such information from our databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others).
 
-If you believe that a child under the age of 13 has provided us with personal information without verification of parental consent, please contact us at [help@drupal.org](mailto:help@drupal.org). 
+If you believe that a child under the age of 13 has provided us with personal information without verification of parental consent, please contact us at [help@drupal.org](mailto:help@drupal.org).
 
 ## Your Choices About Use and Disclosure of Your Information
 
 We strive to provide you with choices regarding our use of your personal information. Below are some mechanisms that provide you with control over your information:
 
-  * **Promotional and Informational e-mails**. We do not send any promotional or informational emails without your opt-in first. If you do not wish to receive promotional e-mails from us, follow the unsubscribe process at the bottom of the promotional e-mail. Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on this Website). 
+  * **Promotional and Informational e-mails**. We do not send any promotional or informational emails without your opt-in first. If you do not wish to receive promotional e-mails from us, follow the unsubscribe process at the bottom of the promotional e-mail. Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on this Website).
   * **Automatic Information Collection Technologies and Advertising**. The "help" function of your browser should contain instructions on how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether. If you disable or refuse cookies, please note that some parts of this Website may be inaccessible or not function properly.
   * **Google Analytics**. You can opt out from Google Analytics tracking via your browser privacy settings or by using [browser addon](https://support.google.com/analytics/answer/181881).
   * **Audience Extension**. You can opt out from Audience Extension retargeting by Perfect Audience either via your browser privacy settings or by using the [following link](http://www.perfectaudience.com/privacy/). Note that authenticated users are excluded from this tracking automatically.
@@ -149,7 +149,7 @@ We strive to provide you with choices regarding our use of your personal informa
 
 The appropriate method(s) for accessing your information, if any, will depend on which of our websites and services you have visited or used. Depending on the website and service, you may have the ability to view or edit some of your information online, by logging into the website and visiting your account profile page. If you remove information from your user profile, it will stay in backups on our servers for 2 weeks, after which it will be completely removed.
 
-To request access to, correct, or delete any personal information that you have provided to us you may contact us at [help@drupal.org](mailto:help@drupal.org). You may also request a notice disclosing the categories of personal information we have shared with third parties for their direct marketing purposes during the preceding calendar year by contacting [help@drupal.org](mailto:help@drupal.org) or in writing to: Drupal Association, Attn: Customer Support - Privacy Inquiry, 209 Oak Street #100, Portland, OR 97204, United States of America. Please allow 30 days for a response.
+To request access to, correct, or delete any personal information that you have provided to us you may contact us at [help@drupal.org](mailto:help@drupal.org). You may also request a notice disclosing the categories of personal information we have shared with third parties for their direct marketing purposes during the preceding calendar year by contacting [help@drupal.org](mailto:help@drupal.org) or in writing to: Drupal Association, Attn: Customer Support - Privacy Inquiry, 3439 NE Sandy Blvd #269, Portland, OR 97232, United States of America. Please allow 30 days for a response.
 
 **We cannot delete your personal information except by also deleting your account**. We also may not accommodate a request to change or delete information if we believe the change would violate any law or legal requirements, be contrary to our Terms of Service or any other applicable agreement between you and us, or cause the information to be incorrect.
 
@@ -169,12 +169,14 @@ If you are visiting this Website from outside the United States, please be aware
 
 We may update or amend this Privacy Policy at any time. This Privacy Policy will reflect the date it was last updated or amended. If we make any material amendments, we will notify you by sending an email to the address, associated with your user account, at least 72 hours prior to the updated Privacy Policy being published on the Website. All amendments will take effect immediately upon our posting of the updated Privacy Policy on this Website. Your continued use of this Website (publishing content) will indicate your acceptance of the changes to the Privacy Policy.
 
+## Contacting Us
+
 If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
 Via postal mail:
 
 Drupal Association  
-209 Oak Street #100, Portland, OR 97204,  
+3439 NE Sandy Blvd #269, Portland, OR 97232,  
 United States of America
 
 Via e-mail:  
