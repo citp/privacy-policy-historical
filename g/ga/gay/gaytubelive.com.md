@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaytubelive.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185836id_/http%3A//www.gaytubelive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytubelive.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012174315id_/http%3A//www.gaytubelive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # GayTubeLive - Privacy Policy
 
