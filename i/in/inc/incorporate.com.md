@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603064911id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012163808id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | incorporate.com
 
