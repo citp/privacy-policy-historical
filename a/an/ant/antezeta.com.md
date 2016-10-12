@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424043748id_/http%3A//antezeta.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012103251id_/http%3A//antezeta.com/about/privacy) for the most accurate reproduction.*
 
 # Data Privacy Policy
 
