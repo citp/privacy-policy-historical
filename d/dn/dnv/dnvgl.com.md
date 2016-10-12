@@ -1,68 +1,73 @@
-> *The following text is extracted and transformed from the dnvgl.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185835id_/https%3A//my.dnvgl.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnvgl.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012052503id_/https%3A//my.dnvgl.com/PrivacyStatement) for the most accurate reproduction.*
 
 # My DNV GL
 
-### Last update: February 28th 2015
+**Privacy statement**
 
-The website dnvgl.com is owned and operated by the Norwegian registered company DNV GL AS. This Privacy Statement applies to the use of the Website, including the use of our online subscription services.
+### **Last update: June 18th 2016**
 
-The Privacy Statement shall be governed and interpreted in accordance with Norwegian law. Any disputes arising under or in connection with the Privacy Statement shall be subject to the sole jurisdiction of the courts of Oslo. The personal data that you make available to DNV GL on the Website will be processed in accordance with the applicable minimum requirements set out in the Norwegian Personal Data Act and EU personal data legislation.
+The website dnvgl.com is owned and operated by the Norwegian registered company DNV GL AS (“DNV GL”). This privacy statement apply to the use of the Website and the information and material included on or made available through the Website, including our online subscription service (“My DNV GL”). In the following dnvgl.com and My DNV GL are referred as the “Website”.
 
-This Privacy Statement is deemed to be accepted when you access and use (“browse”) the Website.
+The Privacy Statement and the use of the Website shall be governed and interpreted in accordance with Norwegian law. Any disputes arising under or in connection with the Agreement shall be subject to the sole jurisdiction of the courts of Oslo.
 
-DNV GL collects anonymous information about every visit to the Website to improve the performance of the site and address security hazards. See below.
+This Privacy Statement, including the choice of law and legal venue clauses, applies correspondingly to any local language version of the Website.
+
+The Privacy Statement is deemed to be accepted when you access and use (“browse”) the Website.
+
+The personal data that you make available to DNV GL on the Website will be processed in accordance with the applicable minimum requirements set out in the Norwegian Personal Data Act.
+
+DNVGL collects anonymous information about every visit to the Website to improve the performance of the site and address security hazards. See below.
 
 Any personal data we collect from you (“the Information”) may be used for the purpose of improving our services, to enable us to contact you with regard to the products and services in which you have registered an interest, to make available targeted information or to reply to and process any requests or orders made (“the Purpose”).
 
-The Information may be provided to other entities within DNV GL for the Purpose. DNV GL consists of DNV GL Group AS with subsidiaries (“DNV GL”). By providing us with the Information, you consent to us processing the Information for the Purpose. We will not pass the Information on to any third party outside DNV GL unless necessary for the Purpose or otherwise set out herein.
+The Information may be provided to other entities within DNV GL for the Purpose. DNV GL consists of DNV GL Group AS with subsidiaries (“DNV GL”). By providing us with the Information, you consent to us processing the Information for the Purpose. We will not pass the Information on to any third party outside DNV GL unless necessary for the Purpose or otherwise set out herein.
 
 In case of conflict between different language versions of the Privacy Statement, the English version shall prevail.
 
-**Collection of anonymous information about visits to the Website**
+Collection of anonymous information about visits to the Website
 
-**_Browsing of the Website_**  
+**_Browsing of the Website_**
+
 When you visit the Website to browse information it contains, you do so anonymously unless you choose to provide us with information about yourself. If you do nothing during your visit but browse through the web site for example reading pages, viewing images, or downloading information without submitting any personal information, we will gather and store certain information about your visit automatically. This information does not identify you personally.
 
-Information gathered automatically is used for only two purposes: site management and for law enforcement and possible criminal prosecution, in the case of suspected unauthorised activity.
+Information gathered automatically is used for only two purposes: site management and for law enforcement and possible criminal prosecution, in the case of suspected unauthorized activity.
 
 The Website automatically log visitor information from which summary statistics are created. We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
 
-When you visit the Website, the following are types of information automatically collected and stored in a cookie which is tracked and analysed using Google Analytics:
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.
 
-  * The Internet domain and Internet Protocol (IP) address from which you access our website;
+My DNV GL uses Google Analytic’s IP anonymisation function. Google will truncate/anonymise the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website.
 
-  * the type of Internet browser and the operating system of the computer you use to access our site;
+Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under https://tools.google.com/dlpage/gaoptout?hl=en. An opt-out cookie will be set to prevent the future collection of your information when you visit this website.
 
-  * the date and time you visit our site;
+Further information can be found under http://www.google.com/analytics/terms/gb.html.
 
-  * the pages you visit on our site;
+DNV GL uses collected information for statistical purposes only, such as:
 
-  * if you linked to our website from another website, the address of that website; and
+  * the type of Internet browser and operating system of the computer most used to access our site;
+  * peak hours and visiting times for our site;
+  * most popular pages on our site
 
 
 
+**_Use of cookies_**
 
-if you linked to our website from a search website, the address of that website and the search term you used.
-
-**_Use of cookies_**  
-The Website use cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users of the website which helps us to provide you with a good experience when you browse our website,  to improve our site and to address security hazards. No cookie will contain information that will enable anyone to contact you via telephone, e-mail, or any other means. 
+The Website use cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users of the website which helps us to provide you with a good experience when you browse our website,  to improve our site and to address security hazards. No cookie will contain information that will enable anyone to contact you via telephone, e-mail, or any other means.
 
 The cookies we use are ‘analytical’ cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way the Website works, for example by making sure users are finding what they need easily.
 
 Several cookies will be set on your computer when you visit the Website, including but not limited to:
 
-  * Google Analytics: _utma, _utmb, _utmc and _utmz. For more information about these cookies, please see <https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet>
+Google Analytics: _utma, _utmb, _utmc and _utmz. For more information about these cookies, please see https://developers.google.com/analytics/resources/concepts/gaConceptsCookies#cookiesSet
 
-  * ASPSESSIONID: This cookie contains the users session ID and the cookie will expire when you close your browser. This cookie does not store personal data about you.
+ASPSESSIONID: This cookie contains the users session ID and the cookie will expire when you close your browser. This cookie does not store personal data about you.
 
-  * AddThis cookies: _atuvc, _uid, _uit. These cookies are used by the service we use to enable you to easily share web pages on Facebook, Twitter, LinkedIn and other social networks by using the buttons on our website. For more information about these cookies, please see <http://www.addthis.com/privacy>.
+AddThis cookies: _atuvc, _uid, _uit. These cookies are used by the service we use to enable you to easily share web pages on Facebook, Twitter, LinkedIn and other social networks by using the buttons on our website. For more information about these cookies, please see http://www.addthis.com/privacy.
 
+You can set up your web browser to inform you when cookies are set or to prevent cookies from being set.  Please note that if you have chosen to disable cookies on your browser, your use of the Website might be limited. For more information about cookies, see http://www.allaboutcookies.org.
 
+Your submission of Information: Completing forms, uploading information on the Website etc
 
-
-You can set up your web browser to inform you when cookies are set or to prevent cookies from being set.  Please note that if you have chosen to disable cookies on your browser, your use of the Website might be limited. For more information about cookies, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-**Your submission of Information: Completing forms, uploading information on the Website etc**  
 If you choose to provide us with the Information via a form or to upload the Information on the Website, we will use the Information only for the Purpose.
 
 If you choose to complete any DNV GL form, we will collect the Information by an automated process.
@@ -71,26 +76,32 @@ Unless otherwise specifically stated on a particular form or in connection with 
 
 We will retain the Information provided by you only for so long as is reasonably appropriate under the applicable legislation.
 
-**Orders**  
+**_Orders_**
+
 We request Information from the user on our secure order forms. The user must provide contact information (like name and address) and financial information (like credit card number, expiration date). The Information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this Information is used to get in touch with the user.
 
-**Security**  
+**_Security_**
+
 We take market standard precautions to protect the Information. When users submit sensitive information such as credit card numbers etc via the website, your information is protected both online and offline. When our registration/order form asks users to enter sensitive information, that information is encrypted and is protected with market standard encryption software - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'browsing'. While we use SSL encryption to protect the Information online, we also take market standard steps to protect it offline. Access to the Information is given on a need-to-know basis.
 
-Unfortunately, no data transmission or processing can be guaranteed to be 100 % secure. Accordingly, despite our efforts to protect the Information, DNV GL is not in a position guarantee or warrant the security of the Information. Thus, theInformation is submitted at your own risk.
+Unfortunately, no data transmission or processing can be guaranteed to be 100 % secure. Accordingly, despite our efforts to protect the Information, DNV GL is not in a position guarantee or warrant the security of the Information. Thus, the Information is submitted at your own risk.
 
-**Revision of the Privacy Statement**
+**_Revision of the Privacy Statement_**
 
-DNV GL may change or update the Privacy Statement without notice. All such changes will take effect once they have been posted on My DNV GL.  You agree that it is your responsibility to monitor such updates and that your continued use of My DNV GL after such revisions will constitute your full acceptance of the amendments to the Privacy Statement. The Privacy Statement was last updated on the date stated at the beginning of this Privacy Statement. 
+DNVGL may change or update the Privacy Statement without notice. All such changes will take effect once they have been posted on MyDNVGL.  You agree that it is your responsibility to monitor such updates and that your continued use of MyDNVGL after such revisions will constitute your full acceptance of the amendments to the Privacy Statement. The Privacy Statement was last updated on the date stated at the beginning of this Privacy Statement.
 
-**Contact Details**  
+**_Contact Details_**
+
 DNV GL Group Communications manages the overall corporate information content, design and organisation of DNV GL's websites. Correcting/updating of personal information (i.e. subscriptions to newsletters, etc.) is managed by the different DNV GL units.
 
 If you have any questions or comments about the privacy statement, please contact DNV GL Group Communications at the following address:
 
-DNV GL Group Communications  
-Veritasveien 1  
-1322 Høvik  
-Norway
+DNV GL Group Communications
+
+ Veritasveien 1
+
+ 1322 Høvik
+
+ Norway
 
 DNV GL regrets that queries about privacy cannot be responded to via e-mail.
