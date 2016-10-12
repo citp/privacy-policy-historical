@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebset.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611214747id_/http%3A//www.celebset.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebset.net privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012032156id_/http%3A//celebset.net/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -72,7 +72,7 @@ We believe that parents should supervise their children’s online activities an
 
 ## California User Consumer Rights.
 
-Under California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](https://web.archive.org/web/20160611214747id_/http://www.celebset.net/privacy/www.ftc.gov).
+Under California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](https://web.archive.org/web/20161012032156id_/http://celebset.net/privacy/www.ftc.gov).
 
 Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the folloi #wing address: SK Intertainment, Privacy Rights, 1625 North Damen Avenue, Floor 2, Chicago, Illinois 60647.
 
