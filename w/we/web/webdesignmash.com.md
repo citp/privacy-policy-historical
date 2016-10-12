@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignmash.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505201816id_/http%3A//www.webdesignmash.com/privacy-policy-and-user-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignmash.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012180355id_/http%3A//www.webdesignmash.com/privacy-policy-and-user-agreement) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design Mash
 
