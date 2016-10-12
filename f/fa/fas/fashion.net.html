@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2016-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160530195052id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2016-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161013004250id_/https%3A//www.fashion.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,18 +11,13 @@
 
 <link rel="stylesheet" type="text/css" href="/includes/fashion.css">
 
-<!-- hide viewport tag from smart phones -->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" defer="" src="//www.fashion.net/analytics/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-if (screen && screen.width > 760)
-  document.write('<meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">');
-</script><meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">
-<!-- /hide -->
+<meta name="viewport" content="width=device-width, scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="format-detection" content="telephone=no">
 
-<script src="//code.jquery.com/jquery-latest.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" defer="" src="//www.fashion.net/analytics/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-latest.js"></script>
 
 <!-- description: max characters: 255 -->
 <meta name="description" content="FASHION NET, the leading guide to chic destinations online, attracts millions of fashion-savvy people who come to indulge in a comprehensive collection of individually reviewed and carefully selected sites.">
@@ -88,6 +83,17 @@ if (screen && screen.width > 760)
 <!-- search button -->
 <!-- /search button -->
 
+<style>
+.privacyheadline {font-size:5.4vh; text-transform:uppercase; text-align: center; font-style: italic; color: #333; margin: 0 50px 0 50px}
+.privacybodytext {font-size:2.5vh; line-height:1.7; margin: 0; color: #333}
+
+/* Phone */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+.privacyheadline {font-size:6.4vw; text-transform:uppercase; text-align: center; font-style: italic; margin: 0 30px 0 30px}
+.privacybodytext {font-size:3.5vw; line-height:1.6; margin: 0; color: #333}
+}
+</style>
+
 <!-- analytics -->
 <!-- break out of frames, except at stumbleupon.com, digg.com, google.com, bing.com, yahoo.com -->
 <script>
@@ -113,28 +119,90 @@ $.ajaxSetup({
 </script>
 <!-- /prevent cacheing of all ajax calls -->
 
+<!-- prevent android from changing viewport on input -->
+<script>
+
+function calculateaspectratio() {
+
+var iOS = ( navigator.userAgent.match(/(Android)/g) ? true : false );
+if (iOS == true) {
+
+//var windowwidth = $(window).width();
+//var windowheight = $(window).height();
+//var windowaspectratio = $(window).height()/$(window).width();
+
+//if (windowaspectratio > 1.5) {
+//if ($(window).height()/$(window).width() > 1.5) {
+//    $("#left").css("display", "none");
+//	$("#right").css("width", "100%");
+//}
+
+if ($(window).height() > $(window).width()) {
+//if ($(window).height()/$(window).width() > 1.5) {
+    $("#left").css("display", "none");
+	$("#right").css("width", "100%");
+}
+
+}
+
+
+}
+
+$(document).ready(calculateaspectratio);
+$(window).bind('resize', function() { calculateaspectratio(); });
+
+//$(document).ready(function() {
+//
+//var windowwidth = $(window).width();
+//var windowheight = $(window).height();
+//
+//if (windowheight > windowwidth) {
+//    $("#left").css("display", "none");
+//	$("#right").css("width", "100%");
+//}
+//
+//});
+</script>
+<!-- /prevent android from changing viewport on input -->
+
 <!-- fade on scroll -->
 <script>
-$( document ).ready(function() {
+//fade on scroll
+$(window).scroll(function(){
+    $(".searchborder").css("opacity", 1 - $(window).scrollTop() / 70);
+	$(".fadeonscroll").css("opacity", 1 - $(window).scrollTop() / 40);
+});
+
+/* $( document ).ready(function() {
 
 $(window).scroll(function () {
+
     $('.fadeonscroll').each(function () {
-        if (($(this).offset().top - $('#containerfloatingcontentpages').scrollTop()) > 200) {
+        if (($(this).offset().top - $('.containerfloatingcontentpages').scrollTop()) > 200) {
             $(this).stop().fadeTo(100, 0);
         } else {
             $(this).stop().fadeTo(500, 1);
         }
     });
-});
+
+    $('.fadeonscrollsearch').each(function () {
+        if (($(this).offset().top - $('.containerfloatingcontentpages').scrollTop()) > 200) {
+            $(this).stop().fadeTo(100, 0);
+        } else {
+            $(this).stop().fadeTo(500, 1);
+        }
+    });
 
 });
+
+}); */
 </script>
 <!-- /fade on scroll -->
 
 <script type="text/javascript" src="https://cdn.fashion.net/includes/jquery.font-resize.js"></script>
 
 <meta name="google-site-verification" content="HoH2sdRkplx12_b3UyPvf0Jgod3qsifUHglhCC4djTk">
-
+<meta name="theme-color" content="#000000"> <!-- status bar theme on android -->
 
 <!-- google analytics -->
 <script type="text/javascript">
@@ -166,7 +234,29 @@ $(window).scroll(function () {
   })();
 </script>
 <noscript><p><img src="//www.fashion.net/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-<!-- /piwik --><!-- /analytics -->
+<!-- /piwik -->
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.fashion.net/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.fashion.net/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.fashion.net/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.fashion.net/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://cdn.fashion.net/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://cdn.fashion.net/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://cdn.fashion.net/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdn.fashion.net/icons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://cdn.fashion.net/icons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="https://cdn.fashion.net/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://cdn.fashion.net/icons/favicon-32x32-2.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://cdn.fashion.net/icons/favicon-16x16-3.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://cdn.fashion.net/icons/favicon-128.png" sizes="128x128">
+<meta name="application-name" content="&nbsp;">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://cdn.fashion.net/icons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="https://cdn.fashion.net/icons/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://cdn.fashion.net/icons/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://cdn.fashion.net/icons/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="https://cdn.fashion.net/icons/mstile-310x310.png">
+<!-- /analytics -->
 
 </head>
 
@@ -214,7 +304,7 @@ Default: "[An error occurred while processing this directive]" -->
 <!-- select bb -->
 <div class="bb" style="width: 100%; height:100%; padding: 0; margin: 0; border: 0"></div>
 <script>
-var urls = ['/a/select-bb-1.php?2048228960', '/a/select-bb-2.php?273343992', '/a/select-bb-3.php?1601561954', '/a/select-bb-4.php?46306817', '/a/select-bb-5.php?1442490536', '/a/select-bb-6.php?1485474926', '/a/select-bb-7.php?1380130087', '/a/select-bb-8.php?1069293896', '/a/select-bb-9.php?1221150753', '/a/select-bb-10.php?214605664'];
+var urls = ['/a/select-bb-1.php?514344843', '/a/select-bb-2.php?196090867', '/a/select-bb-3.php?1537273587', '/a/select-bb-4.php?818423866', '/a/select-bb-5.php?2123509705', '/a/select-bb-6.php?483346291', '/a/select-bb-7.php?532325917', '/a/select-bb-8.php?863975685', '/a/select-bb-9.php?1359636648', '/a/select-bb-10.php?1805993517'];
 
 var randombb = urls[Math.floor(Math.random() * urls.length )];
 
@@ -233,13 +323,17 @@ $(".bb").load(randombb)
 
 <div id="right">
 
-<div id="contentheader">
+<div id="contentheaderviewport">
 
 <style>
-.categorytitle {font-size:15px;font-size:2.1vh}
-/* .categorytitle {font-size:16px;font-size:2.1vmin} */
+.categorytitle {font-size:14px;font-size:2.0vh}
+#contentsearch{position:absolute;overflow:hidden;width:100%;top:190px;right:0;z-index:9999}
+/* .viewportlogo {width: 60%; margin: 30px auto 0 auto;} */
+.viewportlogo {width: 578px; margin: 30px auto 0 auto; padding-left: 8px}
 @media screen and (max-device-width: 480px) and (orientation: portrait){
 .categorytitle {font-size:15px;font-size:2.6vw}
+#contentsearch{position:absolute;overflow:hidden;width:100%;top:190px;right:0;z-index:9999}
+.viewportlogo {width: 70%; margin-top: 30px; margin-left: 13%}
 }
 @media screen and (max-device-width: 640px) and (orientation: landscape){
 .categorytitle {font-size:15px;font-size:3.1vh}
@@ -248,45 +342,13 @@ $(".bb").load(randombb)
 
 <header>
 
-<div style="padding-left: 8px; margin: 30px auto 0 auto; width: 578px">
-<h1><a href="/" class="nohighlight transition"><img src="https://cdn.fashion.net/images/fashion-net-logo-333-centered-cropped.png" title="" alt="FASHION NET - The World's Number One Hub for Fashion since 1995" style="width: 100%; outline-style: none"></a></h1>
+<div class="viewportlogo">
+<a href="/" class="nohighlight transition"><img src="https://cdn.fashion.net/images/fashion-net-logo-333-centered-cropped.png" title="" alt="FASHION NET - The World's Number One Hub for Fashion since 1995" style="width: 100%; outline-style: none"></a>
 
-<div class="fadeonscroll" style="color: #999; padding-top: 12px; margin: 0 auto 0 auto; text-align: center">
-<h1 class="light fixed categorytitle" style="font-style: italic; text-transform: uppercase; letter-spacing: 6px">FASHION NET</h1>
-</div>
-</div>
-
-<!-- search -->
-<div id="search">
-
-<div style="height: 34px; width: 100%; /* background: #F7F7F7 */">
-<form method="get" action="/search/" target="_top" id="f" name="f" autocomplete="off" onsubmit="return validate ()">
-
-<input type="text" name="q" id="inline" maxlength="60" style="position: relative; padding-left: 56px; margin-top: 11px; outline: none; border: 0; vertical-align: middle; font-size: 13px; letter-spacing: 2px; font-weight: 100; font-family: Swiss721BT-Light, Helvetica, Arial; color: gray; width: 60%; /* background: #F7F7F7; */ z-index: 10">
-
-<img class="searchsymbol" src="https://cdn.fashion.net/images/search-magnifying-glass-skinny-108px.png" title="" alt="Search" id="go">
-</form>
-
-<a href="/shuffle/"><img class="shufflesymbol" src="https://cdn.fashion.net/images/random-search-symbol-skinny-80px.png" title="" alt="Random Search"></a>
-
+<div class="fadeonscroll" style="padding-top: 12px; width: 100%; margin: 0 auto 0 auto; text-align: center">
+<h1 class="light fixed categorytitle" style="font-style: italic; text-transform: uppercase; letter-spacing: 8px"><a href="/" class="nohighlight transition" style="color: #333">PRIVACY</a></h1>
 </div>
 
-<script src="/includes/jquery.suggest.js"></script>
-<script src="/content/search/pages.js"></script>
-<script src="/includes/validate.js"></script>
-<script src="/content/search/suggest.js"></script>
-
-</div>
-<!-- /search -->
-
-<div style="position: absolute; left: 0; top: 192px; width: 100%; height: 38px">
-<div style="position: relative; width: 100%; height: 38px">
-
-<div style="float: right; padding: 11px 47px 0 0">
-<a href="/" class="nohighlight transition"><img src="https://cdn.fashion.net/images/exitbutton_black_thin.png" width="20" alt="X"></a>
-</div>
-
-</div>
 </div>
 
 </header>
@@ -294,97 +356,229 @@ $(".bb").load(randombb)
 
 <div class="whitebackground">
 
-<div class="containerfloatingcontentpages">
+<div id="searchviewport">
+<!-- search -->
+<style>
+.searchcontainer {position: relative; width: 100%; height: 50px; margin: 35px 0 35px 0; z-index: 15}
+.searchsymbolcontainer {position: absolute; width: 12%; height: 50px; margin: 0 0 0 44%; z-index: 25; opacity: 0.95}
+.searchsymbol {position: absolute; top: 8px; left: 0; width: 40%; height: 100%; z-index: 15}
+.searchsymbol img {width: auto; height: 23px}
+.shufflesymbol {position: absolute; top: 8px; right: 0; height: 100%; z-index: 15}
+.shufflesymbol img {width: auto; height: 23px}
+.searchformcontainer {position: absolute; top: 0; left: 0; width: 100%; margin: 0; z-index: 18}
+.searchformborder {width: 95%; height: 35px; margin: 0 0 0 2.5%}
 
-<!-- links -->
-<div class="linkscontainer">
-<div class="links">
+/* iPad */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+.searchcontainer {position: relative; width: 100%; height: 50px; margin: 115px 0 35px 0; z-index: 15}
+.searchsymbolcontainer {position: absolute; width: 16%; height: 50px; margin: 0 0 0 42%; z-index: 25; opacity: 0.95}
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+.searchsymbolcontainer {position: absolute; width: 16%; height: 50px; margin: 0 0 0 42%; z-index: 25; opacity: 0.95}
+}
 
-<div style="width: 160px; height: 160px; border-left: 2px solid white; border-bottom: 2px solid white">
-<a href="/a/clicks/colette201603.php" data-track-content="" data-content-name="Colette" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/colette-blue.jpg" title="" alt="Colette" style="width: 100%"></a>
+/* Phone */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+.searchcontainer {position: relative; width: 100%; height: 50px; margin: 55px 0 35px 0; z-index: 15}
+.searchsymbolcontainer {position: absolute; width: 30%; height: 50px; margin: 0 0 0 35%; z-index: 25}
+.searchsymbol {position: absolute; top: 6px; left: 0; width: 40%; height: 100%; z-index: 15}
+.searchsymbol img {width: auto; height: 60%}
+.shufflesymbol {position: absolute; top: 6px; right: 0; height: 100%; z-index: 15}
+.shufflesymbol img {width: auto; height: 60%}
+.searchformcontainer {position: absolute; top: 0; left: 0; width: 100%; margin: 0; z-index: 18}
+.searchformborder {width: 95%; height: 73px; margin: 0 0 0 2.5%}
+}
+</style>
+
+<div class="searchcontainer">
+
+<div class="fadeonscroll hide searchsymbolcontainer">
+
+<div class="searchsymbol">
+<img src="https://cdn.fashion.net/images/searchsymbol-238.png" title="" alt="Search" id="go" style="cursor: pointer; z-index: 15">
+</div>
+<div class="shufflesymbol">
+<a href="/shuffle" rel="nofollow"><img src="https://cdn.fashion.net/images/shufflesymbol-230.png" title="" alt="Random Search"></a>
 </div>
 
+</div>
 
-<script src="https://ib.3lift.com/ttj?inv_code=fashiondotnet_slate"></script>
+<div class="fadeonscroll searchformcontainer">
+<div class="searchborder searchformborder">
+<form method="get" action="/search/" target="_top" id="f" name="f" autocomplete="off" onsubmit="return validate ()">
+<input type="text" class="light" name="q" id="inline" maxlength="60" style="position: relative; padding: 2px 0 0 22px; outline: none; border: 0; /* border: 1px dotted #A0A0A0; border-radius: 9px; */ vertical-align: middle; font-size: 16px; font-style: italic; color: #444; width: 100%; height: 33px; -webkit-appearance: none; z-index: 2">
+</form>
+</div>
+</div>
+
+</div>
+
+<script src="/includes/jquery.suggest.squircle.js"></script>
+<script src="/content/search/pages.js"></script>
+<script src="/includes/validate.js"></script>
 
 <script>
-  _paq.push(['trackEvent', 'Dior', 'Views']);
-  _paq.push(['setDocumentTitle', "Dior Ad"]);
+$(document).ready(function() {
+//$(function(){
+
+// suggest
+$('#inline').suggest(pages);
+
+// focus
+var iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod|Android|Firefox Mobile)/g) ? true : false );
+if (iOS == true) {
+} else {
+//$('#inline').focus();
+}
+
+// enter
+$('#inline').on('keyup', function(e) { 
+var code = (e.keyCode ? e.keyCode : e.which);
+if (code == 13) { $(this).parents('form').trigger('submit') }
+});
+
+// click
+$('#go').click(function() {
+$('#inline').focus();
+$('.searchborder').css({'border' : '1px dotted #A0A0A0', 'border-radius' : '9px'}).hide().fadeIn('500');
+//$('.searchborder').css({'border' : '1px dotted #A0A0A0', 'border-radius' : '9px'});
+$('.hide').fadeOut('500');
+e = jQuery.Event('keyup');
+e.which = 13;
+jQuery('#inline').trigger(e); // accept suggestion
+jQuery('#inline').trigger(e); // submit
+});
+
+// border
+//$('.searchborder').click(function() {
+//	$(this).css({'border' : '1px dotted #A0A0A0', 'border-radius' : '9px'});
+//});
+
+$('.searchborder').on('keyup', function() {
+    $(this).css({'border' : '1px dotted #A0A0A0', 'border-radius' : '9px'});
+	$('.hide').fadeOut('500');
+});
+
+//fade on scroll
+//$(window).scroll(function(){
+//    $(".searchborder").css("opacity", 1 - $(window).scrollTop() / 70);
+//  });
+
+});
 </script>
-
-<div style="width: 160px; height: 160px; padding: 0; border-bottom: 2px solid white; border-left: 2px solid white">
-<a href="/a/clicks/dior.php" data-track-content="" data-content-name="Dior" onclick="javascript:_paq.push(['trackEvent', 'Dior', 'Clicks']);" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/dior.png" title="" alt="Dior" style="width: 100%"></a>
+<!-- /search -->
 </div>
 
+<div class="containerfloatingcontentpagesviewport">
 
-<!-- track views with piwik -->
-<script>
-_paq.push(['trackEvent', 'AAU', 'Views']); // piwik
-</script>
-<!-- track views with piwik -->
-
-<div style="width: 160px; height: 160px; border-left: 2px solid white; border-bottom: 2px solid white">
-<a href="/a/clicks/aau.php?979587238" class="nohighlight" data-track-content="" data-content-name="AAU" target="_blank" onclick="javascript:_paq.push(['trackEvent', 'AAU', 'Clicks']);"><img src="https://cdn.fashion.net/a/links/aau2015-border.jpg" title="" alt="Acedemy of Art University" style="width: 100%"></a>
-</div>
-
-
-<div style="width: 160px; height: 160px; padding: 0; border-bottom: 2px solid white; border-left: 2px solid white">
-<a href="/a/clicks/versace.php?516198378" class="nohighlight" data-track-content="" data-content-name="Versace" target="_blank"><img src="https://cdn.fashion.net/a/links/versace.png" title="" alt="VERSACE" style="width: 100%"></a>
-</div>
-
-</div>
-</div>
-<!-- /links -->
-
-<div style="position: relative; width: 75%; padding-top: 15px; min-height: 1300px">
+<div style="position: relative; width: 100%; padding-top: 0; min-height: 1100px">
 <div style="position: absolute; padding: 0 45px 0 45px">
-<h1 class="light" style="margin: 15px 210px 30px 0; font-size: 40px; color: #333; letter-spacing: 1px">PRIVACY POLICY</h1>
+<h1 class="light privacyheadline">PRIVACY POLICY</h1>
 
-<span class="light" style="font-size: 16px; color: #333; line-height: 1.5">
-Internet user privacy is of paramount importance to FASHION NET. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding FASHION NET's commitment to protect the privacy of users and to ensure the integrity of the Internet.
-<p>
+<p style="margin-top: 20px">&nbsp;</p>
+
+<span class="light privacybodytext">Internet user privacy is of paramount importance to FASHION NET. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding FASHION NET's commitment to protect the privacy of users and to ensure the integrity of the Internet.
 <br>
-
-
-<span class="light" style="font-size: 16px; color: #333; line-height: 1.5">
-User Information</span>
-</p><p>
 <br>
-<span class="light" style="font-size: 16px; color: #333; line-height: 1.5">
 FASHION NET will not sell, rent or give away your e-mail address or any personal information submitted to us.
 <br><br>
 In the course of delivering an ad to you, we do not collect any personally-identifiable information about you, such as your name, address, phone number or email address. We do, however, collect certain non-personally-identifiable information, such as the server your computer is logged onto or your browser type. The information collected about your visits is used for the purpose of evaluating traffic and measuring ad effectiveness on behalf of our advertisers.
-</span></p><p>
 <br>
-
-
-<span class="light" style="font-size: 16px; color: #333; line-height: 1.5">Cookies</span>
-</p><p>
 <br>
-<span class="light" style="font-size: 16px; color: #070707; line-height: 1.5">
 FASHION NET, along with millions of other Web sites, uses cookies to enhance your Web viewing experience. FASHION NET's cookies cannot be used to determine any personally-identifiable information about you and do not damage your system or files in any way.
-</span></p><p>
 <br>
-If you have any additional questions, please <a href="http://www.fashion.net/contact.php" style="color: #999; text-decoration: none" target="_top">contact us</a>.
+<br>
+If you have any additional questions, please <a href="http://www.fashion.net/contact" style="color: #999; text-decoration: none" target="_top">contact us</a>.
 <br>
 <br>
 We recommend that you review this Privacy Statement periodically, as FASHION NET may update it from time to time.
+</span>
 
-
-</p></span></div>
+</div>
 </div>
 
 </div> <!-- /containerfloatingcontent -->
 
 <div class="clearfloat"></div>
 
+<!-- links -->
+<aside>
+<div class="horizontallinkscontainer">
+<div class="horizontallinks">
+<style>
+.container {height: 200px; width:100%; margin-left: 1px}
+.left, .middle, .right {display: inline-block; vertical-align: top}
+.left {margin-right: 54px}
+.middle {margin-right: 54px}
+.squircleadsize {width: 160px; height: 160px}
+
+/* Phone */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+.container {height: 110px}
+.left {float: left; margin-left: 4%; margin-right: 4%; width: 28%; height: auto}
+.middle {float: left; margin-right: 4%; width: 28%; height: auto}
+.right {float: left; width: 28%; height: auto}
+.squircleadsize {width: 100%; height: auto}
+}
+</style>
+
+<script>
+$(document).ready(function() {
+
+var winwidth = $(window).width();
+var winheight = $(window).height();
+
+if (winheight > winwidth) {
+$('.container').css({'width': (winwidth) + 'px' });
+}
+
+});
+</script>
+
+<div class="container">
+<div class="left" style="position: relative">
+<div style="pointer-events: none; position: absolute; top:0; left:0; z-index: 7"><img src="https://cdn.fashion.net/images/squircle-2258.png" style="width: 100%; height: auto">
+</div>
+
+<script src="https://ib.3lift.com/ttj?inv_code=fashiondotnet_slate"></script>
+</div>
+<div class="middle" style="position: relative">
+<div style="pointer-events: none; position: absolute; top:0; left:0; z-index: 7"><img src="https://cdn.fashion.net/images/squircle-2258.png" style="width: 100%; height: auto">
+</div>
+
+<script>
+  _paq.push(['trackEvent', 'Dior', 'Views']);
+  _paq.push(['setDocumentTitle', "Dior Ad"]);
+</script>
+
+<div class="squircleadsize" style="padding: 0; margin: 0">
+<a href="/a/clicks/dior.php" data-track-content="" data-content-name="Dior" onclick="javascript:_paq.push(['trackEvent', 'Dior', 'Clicks']);" class="nohighlight" target="_blank"><img src="https://cdn.fashion.net/a/links/dior.png" title="" alt="Dior" style="width: 100%"></a>
+</div>
+
+</div>
+<div class="right" style="position: relative">
+<div style="pointer-events: none; position: absolute; top:0; left:0; z-index: 7"><img src="https://cdn.fashion.net/images/squircle-2258.png" style="width: 100%; height: auto">
+</div>
+
+<div class="squircleadsize" style="padding: 0; margin: 0">
+<a href="/a/clicks/versace.php?250240540" class="nohighlight" data-track-content="" data-content-name="Versace" target="_blank"><img src="https://cdn.fashion.net/a/links/versace.png" title="" alt="VERSACE" style="width: 100%"></a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</aside>
+<!-- /links -->
+
 </div> <!-- /white -->
 
 <footer>
 <div class="footerlinkscontainer">
 <div class="footerlinksinside">
+<br>
 <a href="/about" class="light transition fixed footerlinks" target="_top">ABOUT</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/advertise" class="light transition fixed footerlinks" target="_top">ADVERTISE</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/privacy.php" rel="nofollow" class="light transition fixed footerlinks" target="_top">PRIVACY POLICY</a>&nbsp; <span class="light">&nbsp;</span> &nbsp;<a href="/contact" class="light transition fixed footerlinks" target="_top">CONTACT US</a>
-<br><br>
+<br><br><br>
 <div class="socialcontainerpages">
 <a href="https://instagram.com/fashionnet" class="nohighlight" target="_blank"><img class="socialiconsleft" src="https://cdn.fashion.net/images/instagram-new-icon.png" title="" alt="Instagram"></a>
 <a href="https://google.com/+fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/googleplus-icon-new.png" title="" alt="Google Plus"></a><a href="https://www.pinterest.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/pinterest-icon.png" title="" alt="Pinterest"></a><a href="https://www.facebook.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/facebook-icon.png" title="" alt="Facebook"></a><a href="https://twitter.com/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/twitter-icon.png" title="" alt="Twitter"></a><a href="https://www.youtube.com/c/fashionnet" class="nohighlight" target="_blank"><img class="socialicons" src="https://cdn.fashion.net/images/youtube-icon.png" title="" alt="YouTube"></a>
@@ -392,7 +586,8 @@ We recommend that you review this Privacy Statement periodically, as FASHION NET
 <br>
 <div style="height: 1px"><a href="https://www.fashion.net/fashion.php" rel="nofollow"><img src="/fashion.gif" height="1" width="1" alt=""></a></div>
 
-<span class="bold fixed copyright">Copyright © 1995–2016 Fashion Net Inc. All rights reserved.</span>
+<!--<span class="bold fixed copyright">Copyright &copy; 1995&ndash;2016 Fashion Net Inc. All rights reserved.</span>-->
+<p class="bold fixed copyright">Copyright © 1995–2016 Fashion Net Inc. All rights reserved.</p>
 <br>
 <p class="light fixed trademark">FASHION NET<sup>®</sup> IS A REGISTERED TRADEMARK IN THE U.S. AND OTHER COUNTRIES OF FASHION NET INC. THE FASHION NET LOGO AND "THIS IS THE WORLD OF FASHION" ARE TRADEMARKS OF FASHION NET INC. <a href="https://www.paypal.me/fashionnet" style="color: #22A301" class="nohighlight" target="_blank">PAYPAL.ME/FASHIONNET</a><br></p>
 
