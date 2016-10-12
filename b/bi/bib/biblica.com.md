@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblica.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611011523id_/http%3A//www.biblica.com/en-us/store-extra-pages/store-faqs/privacy-policy-customers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblica.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012035411id_/http%3A//www.biblica.com/en-us/store-extra-pages/store-faqs/privacy-policy-customers) for the most accurate reproduction.*
 
 # Privacy Policy - Customers — Biblica
 
