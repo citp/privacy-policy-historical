@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318092925id_/https%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012140958id_/https%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | My World of Work
 
@@ -44,7 +44,7 @@ We may use your personal information to:
 
 
 
-We may contact you by post, telephone or fax, SMS, as well as by e-mail. If you change your mind about being contacted in the future by any of these means then please let us know.
+We may contact you by post, telephone or SMS, as well as by e-mail. If you change your mind about being contacted in the future by any of these means then please let us know.
 
 We will not provide your personal information to any third parties for the purpose of direct marketing.
 
