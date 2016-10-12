@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325100106id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012021931id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy - Embarcadero Website
 
@@ -10,7 +10,7 @@ All rights reserved.
 
 ## Privacy Policy
 
-We can be reached via e-mail at [webmaster@embarcadero.com](mailto:webmaster@embarcadero.com), or you can reach us by telephone at +1 415-834-3131
+We can be reached via e-mail at [info@embarcadero.com](mailto:info@embarcadero.com), or you can reach us by telephone at +1 512-226-8080
 
 ## Effective Date: January 1, 2009
 
