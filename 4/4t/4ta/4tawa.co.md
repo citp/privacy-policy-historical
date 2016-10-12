@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tawa.co privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326130020id_/http%3A//4tawa.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tawa.co privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012145135id_/http%3A//4tawa.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # 4TAWA - "No Day Without Laugh"
 
