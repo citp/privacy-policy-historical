@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happylifestylejournal.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620223704id_/http%3A//happylifestylejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happylifestylejournal.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012154739id_/http%3A//happylifestylejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – HappyLifestyleJournal
 
