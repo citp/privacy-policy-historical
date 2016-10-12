@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamtechie.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625062917id_/https%3A//www.dreamtechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamtechie.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012165502id_/https%3A//www.dreamtechie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
