@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the building.govt.nz privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526095847id_/http%3A//www.building.govt.nz/about-building-performance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the building.govt.nz privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012083159id_/https%3A//www.building.govt.nz/about-building-performance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Building Performance
 
@@ -42,9 +42,9 @@ You can unsubscribe by using the unsubscribe link on any newsletter you receive 
 
 Determinations are published on the website and include the address of the subject property to which the determination applies, as well as the names of the parties (personal names are by title, initial, and surname).
 
-[Determinations](http://www.building.govt.nz/resolving-problems/resolution-options/determinations/) are explained in full.
+[Determinations](https://www.building.govt.nz/resolving-problems/resolution-options/determinations/) are explained in full.
 
-[Contact us](http://www.building.govt.nz/about-building-performance/contact-us/) has contact details for our Determinations and Assurances team.
+[Contact us](https://www.building.govt.nz/about-building-performance/contact-us/) has contact details for our Determinations and Assurances team.
 
 ### Fillable forms
 
@@ -57,6 +57,14 @@ MBIE will generally not share personal information that is provided or collected
 ### Use of personal information
 
 We will generally only use personal information provided to us through this website for the purpose you provided it (for example, to administer, evaluate and improve the site, to improve our services and to action or respond to the information provided). We may also use personal information provided to us through this website for other reasons permitted under the Privacy Act (for example, with your consent, for a directly related purpose, or where the law permits or requires it).
+
+### Security
+
+MBIE websites have security measures in place to prevent the loss, misuse and alteration of information under our control. In order to maintain the cyber security of MBIE systems and information, MBIE systems are subject to ongoing monitoring (including activity logging), analysis and auditing.
+
+We may use information about your use of our websites and other IT systems to prevent unauthorised access or attacks on these systems or to resolve such events. We may use this information even if you are not involved in such activity.
+
+MBIE may utilise services from one or more 3rd party suppliers to monitor or maintain the cyber security of its systems and information. These 3rd party suppliers will have access to monitoring and logging information as well as information processed on MBIE websites and other IT systems.
 
 ### Records and retention of personal information
 
