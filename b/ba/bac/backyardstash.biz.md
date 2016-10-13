@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardstash.biz privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120040825id_/http%3A//backyardstash.biz/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardstash.biz privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013153554id_/http%3A//backyardstash.biz/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for BackYardStash.Biz
 
