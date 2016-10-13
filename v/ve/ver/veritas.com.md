@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531233659id_/https%3A//www.veritas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013113201id_/https%3A//www.veritas.com/about/privacy.html%3Finid%3Dus_veritas_home_footer_privacy) for the most accurate reproduction.*
 
 # Privacy
 
