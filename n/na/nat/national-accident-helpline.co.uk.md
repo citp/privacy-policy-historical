@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314130526id_/https%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014012928id_/https%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | National Accident Helpline
 
-### National Accident Helpline Limited ("NAH" or "we" or "us" or "our") are committed to protecting and respecting your privacy.
+#### National Accident Helpline Limited ("NAH" or "we" or "us" or "our") are committed to protecting and respecting your privacy. 
 
 This policy (together with our [terms and conditions](https://web.archive.org/terms-conditions.html "Terms & Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our website or using our services you are accepting and consenting to the practices described in this policy.
 
@@ -10,7 +10,7 @@ For the purpose of the Data Protection Act 1998 (the "Act"), the data controller
 
 Our nominated representative for the purpose of the Act is Jonathan White.
 
-### 1\. Information we may collect from you
+#### 1\. Information we may collect from you 
 
 1.1 You may give us information about you:
 
@@ -36,7 +36,7 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 1.4.3 from other third parties who may help us to process your enquiries
 
-### 2\. What we do with your information
+#### 2\. What we do with your information 
 
 2.1 Provided you have given the necessary consent to National Accident Helpline, we will use your information:
 
@@ -64,7 +64,14 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 2.2.3 Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users ). We may also use such information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience].
 
-2.2.4 Analytics and search engine providers that assist us in the improvement and optimisation of our site; and
+2.2.4 Analytics and search engine providers that assist us in the improvement and optimisation of our site; and in order to provide better content and service, this site uses the Decibel Insight web analytics service. Decibel Insight may record mouse actions and scrolling movement, as well as basic interactions with website forms. We may share information about you with Decibel Insight. This data will not be used for any reason other than to perform services for us. By continuing to use this site you consent to our sharing your information with Decibel Insight. Decibel Insight does not track your browsing habits across other third-party websites. For more information about the data practices of Decibel Insight, please visit their [privacy policy](https://www.decibelinsight.com/privacy-policy/). You can opt out of Decibel Insight tracking by visiting - [https://www.decibelinsight.com/OptOut/](https://www.decibelinsight.com/OptOut/).
+
+2.2.5 Analytics and search engine providers that assist us in the improvement and optimisation of our site; and in order to provide better content and service, this site uses Hotjar web analytics service. We are using the information collected by Hotjar service to improve our website, make it more user-friendly and monitor that it is performing correctly. Hotjar uses Cookies to obtain information regarding how visitors to this website are interacting with it. In particular Hotjar may record navigation through and interacting with the content on our website. Hotjar may also collect your device’s IP address (collected and stored in an anonymized format), device screen size, device type (unique device identifiers) and browser information, geographic location (country only), preferred language used to display the webpage, referring domain, pages visited, date and time when website were accessed. Hotjar may disclose collected information to third parties, including contractual partners.
+
+If you do not want your activity on this website to be tracked by Hotjar, please opt out using this link: https://www.hotjar.com/opt-out  
+<https://www.hotjar.com/opt-out>
+
+To find out more about Hotjar’s privacy policy here: <https://www.hotjar.com/privacy>
 
 2.3 We may disclose your personal information:
 
@@ -74,7 +81,7 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 2.4 We will keep your information for a period of 6 years (or such longer period as we deem reasonably necessary) after which we will take reasonable steps to remove and delete your information from our records and IT systems.
 
-### 3\. Where we store your information
+#### 3\. Where we store your information 
 
 3.1 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -88,7 +95,7 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 3.3 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-### 4\. Your rights
+#### 4\. Your rights 
 
 4.1 You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by informing our contact centre staff or by clicking the unsubscribe link at the bottom of all of our marketing emails You can also exercise the right at any time by contacting us at 1430 Montagu Court, Kettering Parkway, Kettering, Northants, NN15 6XR OR email us feedback@nahl.co.uk.
 
@@ -96,19 +103,17 @@ Our nominated representative for the purpose of the Act is Jonathan White.
 
 4.3 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-### 5\. Changes to our privacy policy
+#### 5\. Changes to our privacy policy 
 
 Any changes we may make to our privacy policy in the future will be posted on this page Please check back frequently to see any updates or changes to our privacy policy.
 
-### 6\. Contact
+#### 6\. Contact 
 
 Questions, comments and requests regarding this privacy and cookie policy are welcomed and should be addressed to National Accident Helpline Limited of 1430 Montagu Court, Kettering
 
 Parkway, Kettering, NN15 6XR or emailed through to [feedback@nahl.co.uk](mailto:feedback@nahl.co.uk).
 
-## Cookie policy
-
-### 1\. Information about our use of cookies
+####   Cookie policy   1\. Information about our use of cookies 
 
 1.1 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
 
@@ -118,7 +123,7 @@ Parkway, Kettering, NN15 6XR or emailed through to [feedback@nahl.co.uk](mailto
 
 1.4 We need consent from you to receive cookies. When you first visit our website, you will be notified that if you continue to browse this site without changing your settings, we will assume that you have agreed to receive all cookies from our website
 
-### 2\. List of cookies used on our site
+#### 2\. List of cookies used on our site 
 
 Cookie Name
 
@@ -570,13 +575,11 @@ _adroll
 
 Ad Roll  
   
-### 3\. Cookies explained
-
-### First party cookies
+#### 3\. Cookies explained First party cookies 
 
 3.1 These cookies are set by the website itself and allows us to link the cookie with the website user. Where we refer to "Website cookie"in the table above, these cookies are used for essential website functionality.
 
-### Third party cookies
+#### Third party cookies 
 
 3.2 We sometimes embed content from websites. As a result, when you visit a page with content embedded from such services, you may be presented with cookies from these websites. Our website does not control the dissemination of these cookies. You should check the relevant third party website for more information about these.
 
@@ -601,10 +604,10 @@ Ad Roll
 3.3.9 "Rocket Fuel" - cookies set by Rocket Fuel allow us to track and analyse visitor activity. We can then present you with display advertising on other sites based on your previous interaction with our website.   
 Alternatively, when you visit a page on a website that’s part of Rocket Fuel’s network, you might get presented with a cookie and our display advertisement. Our website does not control the dissemination of these cookies. You should check the relevant third party website for more information about these. 
 
-### Social Sharing Tools
+#### Social Sharing Tools 
 
 3.4 Any site with a social sharing button may set a cookie when you are also logged in to their service. We do not control the dissemination of these cookies and you should check the relevant third party website for more information about these.
 
-### How to disable Flash Cookies
+#### How to disable Flash Cookies 
 
 3.5 The Adobe website provides comprehensive information on how to delete or disable Flash cookies for all websites - see <http://www.adobe.com/products/flashplayer/security> for details. Please be aware that restricting the use of Flash Cookies may affect the features available to you for Flash based applications.
