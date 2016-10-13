@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtor.ca privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609045811id_/https%3A//www.realtor.ca/Residential/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.ca privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014005930id_/https%3A//www.realtor.ca/Residential/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Find properties for sale rent privacy policy | REALTOR.ca
 
@@ -33,13 +33,13 @@ You may delete your website account at any time. Deleting your account will resu
 
 ## Messages
 
-Throughout your use of the real estate services on this website, you may communicate extensively with a salesperson or broker. The salesperson or broker may use your email address and all of the information you submit in order to provide you with guidance, suggestions and service in your efforts to either sell or buy real estate. 
+Throughout your use of the real estate services on this website, you may communicate extensively with a salesperson or broker. The salesperson or broker may use your email address and all of the information you submit in order to provide you with guidance, suggestions and service in your efforts to either sell or buy real estate.
 
 CREA collects the e-mails provided through the "Contact Us" feature of this website, so CREA can respond to your questions or suggestions. CREA also collects e-mails sent through the website, including the "Email a REALTOR®", "Email a Friend", and "Email Office" features, for security purposes, to allow the recipient brokers and salespersons to view your email, to send you communications you have opted-in to receive, and for management of your website account.
 
 ## IP Addresses
 
-Similar to other commercial websites, our website collects information about how our website is used. Each time a visitor comes to the website our web server collects the visitor's domain name or IP address. CREA cannot determine an individual's identify from only an IP address; however, periodically users may inform CREA support staff of their IP addresses during the provision of support services. At such time, CREA treats such information as personal information. 
+Similar to other commercial websites, our website collects information about how our website is used. Each time a visitor comes to the website our web server collects the visitor's domain name or IP address. CREA cannot determine an individual’s identify from only an IP address; however, periodically users may inform CREA support staff of their IP addresses during the provision of support services. At such time, CREA treats such information as personal information.
 
 ## Cookies
 
@@ -47,11 +47,11 @@ Our website uses standard technology known as "cookies" including session cookie
 
 ## Surveys
 
-While visiting our website you may be asked to participate in a survey conducted by a third party. If you are selected to participate in this survey, a persistent cookie is stored on your computer's hard drive for 60 days to preclude a new invitation during that time. All surveys are optional and the information collected will not be associated with any personal information. Survey data is used to permit accurate analysis, produce summary reports, and monitor overall trends with our website. 
+While visiting our website you may be asked to participate in a survey conducted by a third party. If you are selected to participate in this survey, a persistent cookie is stored on your computer's hard drive for 60 days to preclude a new invitation during that time. All surveys are optional and the information collected will not be associated with any personal information. Survey data is used to permit accurate analysis, produce summary reports, and monitor overall trends with our website.
 
 ## Google Analytics
 
-This website/app uses Google Analytics, a web and mobile analytics tracking tool provided by Google, for audience activity, demographics reporting, and remarketing. You can opt-out of Google Analytics by installing a browser plug-in available on Google's website. 
+This website uses Google Analytics, a web and mobile analytics tracking tool provided by Google, for audience activity, demographics reporting, and remarketing. Google Analytics information may be disclosed to REALTORS® with whom you interact with on the website. You can opt-out of Google Analytics by installing a browser plug-in available on Google's website.
 
 ## Revisions
 
