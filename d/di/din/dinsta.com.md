@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinsta.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610225219id_/http%3A//www.dinsta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinsta.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013071710id_/http%3A//www.dinsta.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - dinsta.com
 
