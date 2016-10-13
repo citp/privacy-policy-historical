@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018042421id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweaktown.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013221737id_/http%3A//www.tweaktown.com/legal/index.html) for the most accurate reproduction.*
 
 # TweakTown's Legal and Privacy Policy
 
