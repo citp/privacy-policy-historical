@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505010833id_/https%3A//www.2degreesmobile.co.nz/termsofuse/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013233027id_/https%3A//www.2degreesmobile.co.nz/termsofuse/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2degrees Mobile
 
-Last updated: 15 December 2015 [](https://www.2degreesmobile.co.nz/termsofuse/privacy-policy/#print)
+Last updated: 05 October 2016 [](https://www.2degreesmobile.co.nz/termsofuse/privacy-policy/#print)
 
 ### Who’s who
 
