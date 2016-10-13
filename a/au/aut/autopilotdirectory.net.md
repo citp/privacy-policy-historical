@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopilotdirectory.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324143509id_/http%3A//www.autopilotdirectory.net/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopilotdirectory.net privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013072553id_/http%3A//www.autopilotdirectory.net/Privacy_policy.html) for the most accurate reproduction.*
 
 # AutoPilot Directory - Privacy Policy
 
