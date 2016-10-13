@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617132350id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013205114id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Opt Out
 
