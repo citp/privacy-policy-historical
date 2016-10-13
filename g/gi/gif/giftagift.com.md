@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftagift.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519124154id_/http%3A//www.countryoven.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftagift.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014014833id_/https%3A//www.countryoven.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,18 +13,18 @@ We may collect personal identification information from Users in a variety of wa
 
 ## Non-personal identification information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
   
 
 
 ## Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. Users web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use "cookies" to enhance User experience. Users web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
 ## How we use collected information
 
-Country Oven may collect and use Users personal information for the following purposes:
+Country Oven may collect and use Users personal information for the following purposes: 
 
 * To improve customer service
 
@@ -56,11 +56,11 @@ We may use the email address to send User information and updates pertaining to 
 
 ## How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
 ## Sharing your personal information
 
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
 
 ## Third party websites
 
@@ -86,20 +86,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-##  Country Oven
+## Country Oven
 
-**INDIA**  
-Namrata Estates,  
-Greenlands,   
-Ameerpet,   
-Hyderabad - 500 016.   
-India  
-
-
-Phone: 040-6666 2400, 2341 0198  
-Mobile: +91-98481 55830  
-Email: contact@countryoven.in
-
-**USA** Phone: 1-248-275-5368, 1-732-790-0578   
-Fax: 212-504-8233  
-Email: contact@countryoven.com
+**CALL US**  
+USA: 732 790 0578  
+Canada: +1 416 628 1206  
+UK: +44 - 207 101 9225  
+AUS: +61 - 3 - 99883814  
+IND: +91 40 48789922, +91 9848155830  
+**Email:  **[contact@countryoven.com](mailto:contact@countryoven.com)
