@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618171242id_/http%3A//www.nationaltrust.org.uk/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013053651id_/https%3A//www.nationaltrust.org.uk/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | National Trust
 
@@ -25,9 +25,9 @@ Personal data collected and processed by us may be shared with the following gro
 
 •    National Trust employees and volunteers  
 •    Also under strictly controlled conditions:  
-o    Contractors  
-o    Advisors  
-o    Agents
+•    Contractors  
+•    Advisors  
+•    Agents
 
 When we allow access to your information, we will always have complete control of what they see, what they allowed to do with it and how long they can see it.  
 We do not sell or share your personal information for other organisations to use.  
