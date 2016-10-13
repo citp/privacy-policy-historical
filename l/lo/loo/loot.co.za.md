@@ -1,173 +1,316 @@
-> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405202628id_/http%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013090518id_/http%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  [ Privacy Policy](http://www.loot.co.za/content/privacy)
 
-This is the privacy policy for Loot Online (Pty) Ltd.  We invite you to contact us if you have questions about this policy. Our postal address is:
+This is the privacy policy for Loot Online (Pty) Ltd. We invite you to contact us if you have any questions about this policy. Please email us on [privacy@loot.co.za](mailto:privacy@loot.co.za) or fax us on (021) 701 8218.
 
-Loot Online (Pty) Ltd  
-P O Box 30836  
-Tokai, 7966  
-South Africa
+We respect your privacy. Callouts like this are a summary of our privacy policy and contain the most important and relevant points for you. Please read the full privacy policy because it applies to you.
 
-Or contact us by fax on (021) 701-8218, or by e-mail at [privacy@loot.co.za](mailto:privacy@loot.co.za).
+## Introduction
 
-### Summary
+Welcome to our privacy policy. We are Loot Online (Pty) Ltd (Registration number 2002/012642/07) and this is our plan of action when it comes to protecting your privacy. We respect your privacy and take the protection of personal information very seriously. The purpose of this policy is to describe the way that we collect, store, use, and protect information that can be associated with you or another specific natural or juristic person and can be used to identify you or that person (personal information).
 
-The following sections provide the specifics of our privacy policy, according to the guidelines set out by the W3C. In a nutshell though, while we do keep information about you on our system (such as your name, address, and email address), we will never disclose this information to third parties unless we are either compelled to by law, or required to in order to complete business transactions that you have initiated. For example, if we are delivering an order, we may need to pass on your contact details to our courier.
+The purpose of this policy is to describe the way that we handle your personal information.
 
-The only information relating to your profile that we treat as open to the public is your pseudonym, and the city/town name component of your billing address. When you first register on Loot.co.za your pseudonym is set to be your first name, followed by the first letter of your surname, although you can change it by editing your personal profile. This information is displayed next to the review text for any product reviews that you write, and also in reports to the person or entity that referred you to Loot.co.za for the purpose of tracking referrals. If you create public wishlists that your friends can use as gift registries, then people who are able to find your wishlist will also be able to see the wishlist contents and your name, and will be able to add items from your wishlist to their trolley. If you have set a delivery address for a wishlist, then they will also be able to see that address. All wishlists can be marked as being private, and by default wishlists do not have an associated delivery address.
+## Audience
 
-From time to time, Loot.co.za may contact you regarding promotions and new product releases. You can opt out of receiving such communications by editing your personal profile.
-
-Any wishlist that you create at Loot.co.za will be visible to other Loot.co.za clients who know your email address, unless you have requested that it be hidden. You can change the privacy of your wishlists by editing their settings on the wishlists page.
-
-We use cookies for session tracking and for keeping track of the contents of your trolley. For more information, please read our in depth information about cookies, and consult your browser documentation.
-
-### Dispute Resolution and Privacy Seals
-
-For the moment, we have not signed up for any third party privacy seals. Nevertheless, we are committed to upholding our privacy policy, and should you think that we have not followed it in any way, please contact us at [ ](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy10783%20=%20'privacy'%20+%20'@';%20addy10783%20=%20addy10783%20+%20'loot'%20+%20'.'%20+%20'co'%20+%20'.'%20+%20'za';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy10783%20+%20'\\'%3E'\);%20document.write\(addy10783\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E%20)[privacy@loot.co.za](mailto:privacy@loot.co.za) with your concerns.
-
-### Additional Information
-
-This policy is valid for 1 day from the time that it is loaded by a client.
-
-### Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained separately.
-
-### Group "Access log information"
-
-We collect the following information:
-
-  * Click-stream data
-  * HTTP protocol elements
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-  * This data will be used by ourselves and our agents.
-
-
-
-The following explanation is provided for why this data is collected: Our Web server collects access logs containing this information.
-
-### Group "Cookies"
-
-We collect the following information:
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Research and development.
-  * One-time tailoring.
-  * This data will be used by ourselves and our agents.
-
-
-
-The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
-
-### Group "Transaction info (required)"
-
-We collect the following information:
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected: Information we collect in order to process your purchase.
-
-### Group "Transaction info (optional)"
-
-At the user's option, we will collect the following data:
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes:
-
-  * Contacting visitors for marketing of services or products. The user is allowed to **opt-out** of this usage.
-  * Telemarketing. The user is allowed to **opt-out** of this usage.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information:
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected: Information we collect in order to process your purchase.
-
-### Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * User targeting
-  * Research and development
-
-
-
-### Compact Policy Summary
-
-The compact policy which corresponds to this policy is:  
-CP="ALL DSP CURa ADMa DEVa TAIa CONo TELo OUR DELa BUS IND PHY ONL UNI PUR COM NAV DEM STA"
-
-The following table explains the meaning of each field in the compact policy.
-
-**Field  ** | **Meaning**  
----|---  
-CP= | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-ALL  | Access to all collected information is available.  
-DSP  | The policy contains at least one dispute-resolution mechanism.  
-CURa | The data is used for completion of the current activity.  
-ADMa | The data is used for site administration.  
-DEVa  | The data is used for research and development.  
-TAIa  | The data is used for tailoring the site.  
-CONo  | The data is used for contacting the user, unless the user chooses otherwise.  
-TELo | The data is used for telemarketing, unless the user chooses otherwise.  
-OUR  | The data is given to ourselves and our agents.  
-DELa  | The data is given to delivery services.  
-BUS  | Our business practices specify how long the data will be kept.  
-IND  | The data will be kept indefinitely.  
-PHY  | Physical contact information is collected.  
-ONL  | Online contact information is collected.  
-UNI  | Unique identifiers are collected.  
-PUR  | Purchase information is collected.  
-COM | Computer information is collected.  
-NAV | Navigation and clickstream data is collected.  
-DEM | Demographic and socioeconomic data is collected.  
-STA  | State-management data is collected  
   
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
+This policy applies to you if you are:
+
+  * a visitor to our website; or
+  * a customer who has ordered the goods or services that we provide.
+
+
+
+This policy applies to you under certain circumstances.
+
+## Personal information
+
+  
+Personal information includes:
+
+  * certain information that we collect automatically when you visit our website;
+  * certain information collected on registration (see below);
+  * certain information collected on submission; and
+  * optional information that you provide to us voluntarily (see below);
+
+
+
+but excludes:
+
+  * information that has been made anonymous so that it does not identify a specific person;
+  * permanently de-identified information that does not relate or cannot be traced back to you specifically;
+  * non-personal statistical information collected and compiled by us; and
+  * information that you have provided voluntarily in an open, public environment or forum including any blog, chat room, community, classifieds, or discussion board (because the information has been disclosed in a public forum, it is no longer confidential and does not constitute personal information subject to protection under this policy).
+
+
+
+Personal information includes information we collect (i) automatically when you visit our website, (ii) on registration, (iii) on submission, and (iv) from you voluntarily. It excludes (i) anonymous, (ii) de-identified, (iii) non-personal statistical, and (iv) public information.
+
+Common examples
+
+Common examples of the types of personal information which we may collect and process include your:
+
+  * identifying information – such as your name, date of birth, or identification number of any kind;
+  * contact information – such as your phone number or email address;
+  * address information – such as your physical or postal address; or
+  * demographic information – such as your gender or marital status.
+
+
+
+  
+Sensitive personal information
+
+Depending on the goods or services that you require, we may also collect sensitive personal information including your:
+
+  *  financial information – such as your bank account details, should we need to refund you to your bank account;
+
+
+
+## Acceptance
+
+Acceptance required
+
+You must accept all the terms of this policy when you order any of our goods or order, register for, or use any of our services. If you do not agree with anything in this policy, then you may not order any of our goods or order, register for, or use any of our services.
+
+You may not order any of our goods or order, register for, or use any of our services if you do not accept this policy.
+
+Legal capacity
+
+You may not access our website or order our goods or services if you are younger than 18 years old or do not have legal capacity to conclude legally binding contracts.
+
+Deemed acceptance
+
+By accepting this policy, you are deemed to have read, understood, accepted, and agreed to be bound by all of its terms.
+
+Your obligations
+
+You may only send us your own personal information or the information of another data subject where you have their permission to do so.
+
+## Changes
+
+  
+We may change the terms of this policy at any time by updating this web page. We will notify you of any changes by placing a notice in a prominent place on the website or by sending you an email detailing the changes that we have made and indicating the date that they were last updated. If you do not agree with the changes, then you must stop using the website and our goods or services. If you continue to use the website or our goods or services following notification of a change to the terms, the changed terms will apply to you and you will be deemed to have accepted those updated terms.
+
+## Collection
+
+On registration
+
+Once you register on our website, you will no longer be anonymous to us. You will provide us with certain personal information when you register on our website.
+
+This personal information will include:
+
+  * your name and surname;
+  * your email address;
+  * your telephone number;
+  * your company name, company registration number, and VAT number;
+  * your postal address or street address; and
+  * your username and password.
+
+
+
+We will use this personal information to fulfil your account, provide additional services and information to you as we reasonably think appropriate, and for any other purposes set out in this policy.
+
+We collect certain information on registration, when you register on our website.
+
+On order
+
+When you order any goods or services from us, you will be asked to provide us with additional information on a voluntary basis (goods information or services information).
+
+We collect certain information when you order any goods from us or make use of our services, necessary to provide the good or services to you.
+
+From browser
+
+We automatically receive and record Internet usage information on our server logs from your browser, such as your Internet Protocol address (IP address), browsing habits, click patterns, version of software installed, system type, screen resolutions, colour capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the website, and the dates and times that you visit the website, paths taken, and time spent on sites and pages within the website (usage information). Please note that other websites visited before entering our website might place personal information within your URL during a visit to it, and we have no control over such websites. Accordingly, a subsequent website that collects URL information may log some personal information.
+
+We collect certain information from your web browser, including your Internet usage information when you visit our website.
+
+Cookies
+
+We may place small text files called ‘cookies’ on your device when you visit our website. These files do not contain personal information, but they do contain a personal identifier allowing us to associate your personal information with a certain device. These files serve a number of useful purposes for you, including:
+
+  * granting you access to age restricted content;
+  * tailoring our website’s functionality to you personally by letting us remember your preferences;
+  * improving how our website performs;
+  * allowing third parties to provide services to our website; and
+  * helping us deliver targeted advertising where appropriate in compliance with applicable laws.
+
+
+
+Your internet browser generally accepts cookies automatically, but you can often change this setting to stop accepting them. You can also delete cookies manually. However, no longer accepting cookies or deleting them will prevent you from accessing certain aspects of our website where cookies are necessary. Many websites use cookies and you can find out more about them at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+We collect certain information from cookies that we may send to your computer to try and give you a personalised experience.
+
+Third party cookies
+
+Some of our business partners use their own cookies or widgets on our website. We have no access to or control over them. Information collected by any of those cookies or widgets is governed by the privacy policy of the company that created it, and not by us.
+
+Web beacons
+
+Our website may contain electronic image requests (called a single-pixel gif or web beacon request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Our web beacons do not collect, gather, monitor or share any of your personal information. We merely use them to compile anonymous information about our website.
+
+We collect certain information from web beacons on our website to compile anonymous information about our website.
+
+Optional details
+
+You may also provide additional information to us on a voluntary basis (optional information). This includes content or products that you decide to upload or download from our website or when you enter competitions, take advantage of promotions, respond to surveys, order certain additional goods or services, or otherwise use the optional features and functionality of our website.
+
+We collect certain optional information, that you provide when you upload or download content from our website or when you enter competitions, take advantage of promotions, respond to surveys or register and subscribe for certain additional services.
+
+Recording calls
+
+We may monitor and record any telephone calls that you make to us.
+
+Purpose of collection
+
+We may use or process any goods information, services information, or optional information that you provide to us for the purposes that you indicated when you agreed to provide it to us. Processing includes gathering your personal information, disclosing it, and combining it with other personal information. We generally collect and process your personal information for various purposes, including:
+
+  * goods purposes – such as collecting orders for, supplying, and supporting our goods;
+  * services purposes – such as collecting orders for and providing our services;
+  * marketing purposes – such as pursuing lawful related marketing activities;
+  * business purposes – such as internal audit, accounting, business planning, and joint ventures, disposals of business, or other proposed and actual transactions; and
+  * legal purposes – such as handling claims, complying with regulations, or pursuing good governance.
+
+
+
+We may use your usage information for the purposes described above and to:
+
+  * remember your information so that you will not have to re-enter it during your visit or the next time you access the website;
+  * monitor website usage metrics such as total number of visitors and pages accessed; and
+  * track your entries, submissions, and status in any promotions or other activities in connection with your usage of the website.
+
+
+
+We may use any of your personal information that you provide to us for the purposes that you indicated when you agreed to provide it to us.
+
+Consent to collection
+
+We will obtain your consent to collect personal information:
+
+  * in accordance with applicable law;
+  * when you provide us with any registration information or optional information.
+
+
+
+We will get your consent to collect your personal information in accordance with applicable law when you provide us with it.
+
+## Use
+
+Our obligations
+
+We may use your personal information to fulfil our obligations to you.
+
+Messages and updates
+
+We may send administrative messages and email updates to you about the website. We may wish to provide you with information about new goods or services in which we think you may be interested. This means that in some cases, we may also send you primarily promotional messages. We will not send you promotional messages unless you have chosen to opt-into them. But, we may send you one message asking you to opt-into promotional messages without you having opted-into promotional messages.
+
+We may use your information to send you administrative messages and email updates to you regarding the website and for marketing purposes where lawful.
+
+Targeted content
+
+While you are logged into the website, we may display targeted adverts and other relevant information based on your personal information. In a completely automated process, computers process the personal information and match it to adverts or related information. We never share personal information with any advertiser, unless you specifically provide us with your consent to do so. Advertisers receive a record of the total number of impressions and clicks for each advert. They do not receive any personal information. If you click on an advert, we may send a referring URL to the advertiser’s website identifying that a customer is visiting from the website. We do not send personal information to advertisers with the referring URL. Once you are on the advertiser’s website however, the advertiser is able to collect your personal information.
+
+We may use your information for targeted content in certain, specified instances.
+
+## Disclosure
+
+Sharing
+
+We may share your personal information with:
+
+  * other divisions or companies within the group of companies to which we belong so as to provide joint content and services like registration, for transactions and customer support, to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about our products, services, and communications (they will only use this information to send you marketing communications if you have requested their goods or services);
+  * an affiliate, in which case we will seek to require the affiliates to honour this privacy policy;
+  * our goods suppliers or service providers under contract who help supply certain goods or help with parts of our business operations, including fraud prevention, bill collection, marketing, technology services (our contracts dictate that these goods suppliers or service providers only use your information in connection with the goods they supply or services they perform for us and not for their own benefit);
+  * credit bureaus to report account information, as permitted by law;
+  * banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you utilise the services to receive payments and you meet their criteria); and
+  * other third parties who provide us with relevant services where appropriate.
+
+
+
+We may share your personal information with third parties for the purposes of fulfilling our obligations to you among other purposes.
+
+Regulators
+
+We may disclose your personal information as required by law or governmental audit.
+
+Law enforcement
+
+We may disclose personal information if required:
+
+  * by a subpoena or court order;
+  * to comply with any law;
+  * to protect the safety of any individual or the general public; and
+  *  to prevent violation of our customer relationship terms.
+
+
+
+We may disclose personal information to third parties if required for legal reasons.
+
+No selling
+
+We will not sell personal information. No personal information will be disclosed to anyone except as provided in this privacy policy.
+
+Marketing purposes
+
+We may disclose aggregate statistics (information about the customer population in general terms) about the personal information to advertisers or business partners.
+
+Employees
+
+We may need to disclose personal information to our employees that require the personal information to do their jobs. These include our responsible management, human resources, accounting, audit, compliance, information technology, or other personnel.
+
+Change of ownership
+
+If we undergo a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we may assign our rights to the personal information we process to a successor, purchaser, or separate entity. We will disclose the transfer on the website. If you are concerned about your personal information migrating to a new owner, you may request us to delete your personal information.
+
+## Security
+
+We take the security of personal information very seriously and always do our best to comply with applicable data protection laws. Our hosting company will host our website in a secure server environment that uses a firewall and other advanced security measures to prevent interference or access from outside intruders. We authorize access to personal information only for those employees who require it to fulfil their job responsibilities. We implement disaster recover procedures where appropriate.
+
+Our website is hosted on a secure server and uses security measures to prevent interference by intruders.
+
+## Accurate and up to date
+
+We will try to keep the personal information we collect as accurate, complete and up to date as is necessary for the purposes defined in this policy. From time to time we may request you to update your personal information on the website. You are able to review or update any personal information that we hold on you by accessing your account online, emailing us, or phoning us. Please note that in order to better protect you and safeguard your personal information, we take steps to verify your identity before granting you access to your account or making any corrections to your personal information.
+
+Please keep your personal information accurate and up to date by accessing your account online, emailing us, by phoning us.
+
+## Retention
+
+  
+We will only retain your personal information for as long as it is necessary to fulfil the purposes explicitly set out in this policy, unless:
+
+  * retention of the record is required or authorised by law; or
+  * you have consented to the retention of the record.
+
+
+
+During the period of retention, we will continue to abide by our non-disclosure obligations and will not share or sell your personal information.
+
+We may retain your personal information in physical or electronic records at our discretion.
+
+We will only retain your personal information for as long as is necessary.
+
+## Transfer to another country
+
+We may transmit or transfer personal information outside of the country in which it was collected to a foreign country and process it in that country. Personal information may be stored on servers located outside the country in which it was collected in a foreign country whose laws protecting personal information may not be as stringent as the laws in the country in which it was collected. You consent to us processing your personal information in a foreign country whose laws regarding processing of personal information may be less stringent.
+
+We may not transfer your personal information outside the country in which it was collected to a foreign country without your permission. OR We may transfer your personal information outside the country in which it was collected to a foreign country.
+
+## Updating or removing
+
+You may choose to correct or update the personal information you have submitted to us, by clicking the relevant menu in any of the pages on our website or contacting us by phone or email.
+
+You may choose to update or remove the personal information you have submitted to us.
+
+## Limitation
+
+  
+We are not responsible for, give no warranties, nor make any representations in respect of the privacy policies or practices of linked or any third party websites.
+
+## Enquiries
+
+If you have any questions or concerns arising from this privacy policy or the way in which we handle personal information, please contact us.
+
+Last updated: 11/04/2016
