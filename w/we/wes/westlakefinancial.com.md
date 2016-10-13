@@ -1,95 +1,39 @@
-> *The following text is extracted and transformed from the westlakefinancial.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318122415id_/https%3A//www.westlakefinancial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlakefinancial.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013045938id_/https%3A//www.westlakefinancial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Westlake Financial Services
 
 ## Privacy Policy
 
-Westlake Services, LLC d/b/a Westlake Financial Services (“Westlake”) is committed to respecting the individual rights of our customers. We are providing this Privacy Policy to inform you of how we collect, use and protect your information. Please read the entire Privacy Policy by simply scrolling through the document.
+Westlake Services, LLC d/b/a Westlake Financial Services (“Westlake”) is committed to respecting the individual rights of our customers. We are providing this privacy notice to inform you of our privacy and security practices regarding our relationship with you.
 
-### Why We Collect Customer Information
+Please view our privacy policy and opt-out notice [here](https://westlakefinancial.blob.core.windows.net/media/WFS-Privacy-Notice.pdf).  
+California residents: View California opt-out notice [here](https://westlakefinancial.blob.core.windows.net/media/WFS-California-Opt-Out-Notice.pdf).
 
-We collect customer information to identify you, confirm facts about you, deliver financial products and services to you, and help us assess requests for financial products and services.
-
-### Customer Information We Collect
-
-We get customer information from a variety of sources, such as:
-
-  * Information we receive from you on applications and other forms including name, address, social security number, assets, and income.
-  * Information about your transactions with us, such as account balances and payment history.
-  * Information obtained when verifying the information you provide on an application or other forms, such as current or past employers, or from other institutions where you conduct financial transactions.
-  * Information we receive from consumer reporting agencies such as creditworthiness and credit history.
-  * Information obtained from non-affiliated third parties about your transactions with them.
-
-
-
-We May Share Non-Public Personal Information About You With the Following Types of Affiliates and Non-Affiliated Third Parties, Subject to the Restrictions Below
-
-  * Non-affiliated financial service providers, such as banks, financial institutions, credit card issuers, insurance companies, and insurance agents
-  * Non-affiliated non-financial companies, such as manufacturers, motor vehicle dealers, retailers, direct marketers, telecommunications companies, airlines, and publishers.
-  * Westlake’s affiliated companies, which is a group of companies related to us by common control or ownership.
-
-
-
-We may share the same kinds of information as described above about our former customers with the same types of affiliates and third parties as described above, as permitted or required by law. We may also share non-public personal information about current and former customers with affiliates and non-affiliated third parties as permitted or required by law.
-
-### Residents of California
-
-Except for information your state laws allow or require us to share without your specific consent or notice, Westlake will not share non-public personal information with any non-affiliate, outside marketer, or non-affiliate joint marketer without your written consent.
-
-### Residents of Texas
-
-Westlake is licensed under the laws of the State of Texas and by state law is subject to regulatory oversight by the Office of Consumer Credit Commissioner. Any consumer wishing to file a complaint against us should contact the Office of Consumer Credit Commissioner through one of the means indicated below:
-
-  * In Person or U.S. Mail: 2601 North Lamar Boulevard. Austin, TX 78705-4207
-  * Telephone: 1-800-538-1579
-  * Fax: 1-512-936-7610
-  * Web site: www.occc.state.tx.us
-  * Email: consumer.complaints@occc.state.tx.us
-
-
-
-### Residents of North Dakota and Vermont
-
-Except for information your state laws allow or require us to share without your specific consent or notice, Westlake will not share non-public personal information with any affiliate, non-affiliate, outside marketer, or non-affiliate joint marketer without your written consent.
-
-### Your Opt-Out Right
-
-Customers or former customers who do not want Westlake to share non-public personal information about them with affiliates and non-affiliated third parties may opt out of information sharing, unless otherwise permitted or required by law. If an account is shared between two people, either party may opt out for both of them. To opt out, please contact Customer Service by email at [WestlakeCustomerCare@westlakefinancial.com](mailto:WestlakeCustomerCare@westlakefinancial.com) or by phone at 888-739-9192.
-
-### How We Educate Our Employees on Their Role in Protecting Your Privacy
-
-Westlake takes customer privacy seriously. We restrict access to protected information to those employees who need to know that information in order to provide service to you or to process your transactions with us.
-
-Listed below are some of the ways we educate our employees on their responsibility for ensuring your information is protected:
-
-  * The policy and procedure used by employees addresses the issue of the customer’s right to financial privacy and the consequences for not complying with Westlake’s policy.
-  * Customer confidentiality is part of the Westlake’s code of ethics and is published in our Personnel policy and procedure.
-
-
-
-### PRIVACY POLICY – ONLINE SUPPLEMENT
+## **PRIVACY POLICY – ONLINE SUPPLEMENT**
 
 This section describes Westlake’s practices regarding information we receive about you during visits to this web site. The amount and type of information we receive depends on how you use this site. Please take a few minutes to read this supplement to our Privacy Policy so you may understand how your personal information is used and the measures we take to protect your personal information.
 
-### Normal Web Site Usage
+## **Normal Web Site Usage**
 
 You can visit our web site to read product, investment, and company information, or use our on-line tools without revealing any personal information. The only information we collect and store during normal web site usage is the name of your Internet service provider, the web site you last visited, the pages you request, the date and time of those requests and the number of visits you made to our website.
 
 We use this information to generate statistics and measure website activity in order to improve the usefulness of customer visits to our website. This same information may be shared with third parties in order to provide these services or to analyze, store, or aggregate the information. It may also be shared with other third parties, working with us to improve the services of Westlake or our website. During normal web site usage, we do not collect or store personally identifiable information such as name, mailing address, email address, phone number, or Social Security number.
 
-### On-Line Collection of Personally Identifiable Information
+## **On-Line Collection of Personally Identifiable Information**
 
 Occasionally, Westlake will request personally identifiable information in order to provide the web site visitor with a service or correspondence (e.g., promotions and mailed brochures), or access to services like the MyAccount portal. This information, such as name, mailing address, email address, type of request, and possibly additional information, is collected and stored in a manner appropriate to the nature of the request as determined by Westlake and is used to fulfill your request. Whenever we request such information, we will clearly explain how it will be used. If you tell us that the information should not be used as a basis for further contact, we will respect your request. The information you provide is used by Westlake to improve the services we provide you. This information may also be provided to agencies for use on behalf of Westlake in accordance with our Privacy Policy.
 
-Please note that Westlake’s website may provide links to third party sites not controlled by Westlake. We suggest that you check the specific privacy policy of any site before providing any personally identifiable information.  
-**Electronic Mail Sent to Us That Contains Personal Information**  
+Please note that Westlake’s website may provide links to third party sites not controlled by Westlake. We suggest that you check the specific privacy policy of any site before providing any personally identifiable information.
+
+## **Electronic Mail Sent to Us That Contains Personal Information**
+
 Internet users may decide to send Westlake personally identifying information, for example, in an electronic mail message containing information about your Westlake account. Westlake will only use this information to identify the user as a Westlake customer and to determine how to respond to the electronic mail. We will use this information for the purpose identified in the email message and to enhance our understanding of you in order to improve our services to you.
 
-### Westlake’s Internet Services
+## **Westlake’s Internet Services**
 
 To use Westlake’s Internet services, such as MyAccount access or Electronic Funds Transfer or Enrollment, we require a certain amount of personally identifying information (e.g., name, Social Security number, account number and other applicable information) we can use to verify you as a Westlake customer. We use this to identify and access data in the existing relationship we have with you in order to provide you with the requested services. We request email addresses as an alternate means of contacting you. Providing your email address is optional, except when you request an Internet delivered service, then it is necessary for us to have your email address in order to honor your request. We may also use this information to enhance our understanding of you and improve our services.
 
-### What Are Cookies?
+### **What Are Cookies?**
 
 A “cookie” is a small line of text that is stored within your browser when you visit a cookie-enabled website. As you browse the Web, cookie-enabled sites will send cookies to your browser, along with pages. Your browser probably has options that will let you control whether the browser accepts cookies, rejects cookies, or notifies you each time a cookie is sent to you.
 
@@ -99,12 +43,11 @@ If your browser is set to accept cookies, any cookies that are sent to your brow
 
 We use permanent cookies to supply visitors to our site with a customized experience. These cookies do not involve personally identifiable information. We also use session cookies to customize your experience during a session, to aid in your navigation and use of the site, to develop generic web site metrics and other similar uses.
 
-### Questions?
+### **Questions?**
 
-Our privacy practices are designed to provide a high level of protection for your personal information and our systems. If you have any questions or comments about Westlake’s privacy practices, you can contact us via email at [WestlakeCustomerCare@westlakefinancial.com](mailto:WestlakeCustomerCare@westlakefinancial.com) or by phone at 888-739-9192.
+Our privacy practices are designed to provide a high level of protection for your personal information and our systems. If you have any questions or comments about Westlake’s privacy practices, you can contact us via email at WestlakeCustomerCare@westlakefinancial.com or by phone at 888-739-9192.
 
-### Changes
+## **Changes**
 
-We reserve the right to change, modify, or adjust our Privacy Policy as needed. A revised Privacy Policy only applies to data collected subsequent to its effective date. Any revisions will be posted at least 10 days prior to its effective date.
-
+We reserve the right to change, modify, or adjust our Privacy Policy as needed. A revised Privacy Policy only applies to data collected subsequent to its effective date. Any revisions will be posted at least 10 days prior to its effective date.  
 Version: 10/20/15 v2.0
