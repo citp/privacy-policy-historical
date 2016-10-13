@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322182205id_/https%3A//www.ebsco.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013110644id_/https%3A//www.ebsco.com/company/privacy-policy) for the most accurate reproduction.*
 
 # EBSCO Information Services
 
 EBSCO Privacy Policy
 
-EBSCO, Inc.  
+EBSCO Publishing, Inc.  
 10 Estes Street  
 Ipswich, MA 01938  
 Inside US: 1-800-653-2726  
@@ -124,4 +124,4 @@ EBSCO Publishing will investigate and attempt to resolve complaints and disputes
 2\. EBSCO Publishing has further committed to refer unresolved privacy complaints under the US-EU or US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by EBSCO Publishing, please visit the BBB EU SAFE HARBOR website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 K.    Effective Date  
-This policy was last updated on February 5, 2016.
+This policy was last updated on June 24, 2016.
