@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebookw.com privacy policy that was archived on 2016-03-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160309233934id_/http%3A//ebookw.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebookw.com privacy policy that was archived on 2016-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161013112543id_/http%3A//ebookw.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
@@ -13,8 +13,6 @@
 <script type="text/javascript" src="/engine/classes/js/jqueryui.js"></script>
 <script type="text/javascript" src="/engine/classes/js/dle_js.js"></script>
 <script type="text/javascript" src="/engine/classes/masha/masha.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
-<script type="text/javascript" src="/engine/editor/scripts/webfont.js"></script>
 <link media="screen" href="/engine/editor/css/default.css" type="text/css" rel="stylesheet">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <link rel="icon" href="/favicon.ico" type="images/x-icon">
@@ -73,9 +71,10 @@ jQuery(document).ready(function() {
                     control:"#sidetreecontrol",
                     persist: "location"
                 });
-         jQuery("#dle-content img").lazyload({
-           effect      : "fadeIn"
-         }); 
+                //jQuery("#dle-content img").lazyload({
+                //effect      : "fadeIn"
+                //}); 
+                
             })
       jQuery(window).scroll(function() {
         if(jQuery(this).scrollTop() != 0)
@@ -137,7 +136,7 @@ jQuery(document).ready(function() {
 <br class="all">
  
 <div class="box" align="center">
-<a href="http://bitly.com/wallpapergfx" title="wallpaper HD download" target="_blank"><img src="http://i.imgur.com/J9ck7N6.png" border="0"></a>
+<a href="http://freeseotool.org/" title="Free seo tool" target="_blank"><img src="http://i.imgur.com/HsjbQt6.png" border="0"></a>
 </div>
 <br class="all">
  
@@ -207,7 +206,7 @@ jQuery(document).ready(function() {
 <br class="all">
  
 <div class="box">
-<a href="http://bitly.com/wallpapergfx" title="wallpaper hd download" target="_blank"><img src="http://i.imgur.com/J9ck7N6.png" border="0"></a>
+<a href="http://freeseotool.org.org/" title="Free seo tool" target="_blank"><img src="http://i.imgur.com/HsjbQt6.png" border="0"></a>
 </div>
 <br>
  
@@ -316,11 +315,11 @@ jQuery(document).ready(function() {
 <div id="sidetree">
 <div class="treeheader">&nbsp;</div>
 <div id="sidetreecontrol"><a href="?#"><img src="/templates/ebookshare/images/minus.gif" border="0">&nbsp;Collapse All</a> | <a href="?#"><img border="0" src="/templates/ebookshare/images/plus.gif">&nbsp;Expand All</a></div>
-<ul id="tree">
+<ul id="tree" class="treeview">
 <strong><img src="/templates/ebookshare/images/base.gif">Categories</strong>
  
-<li class="closed"><a href="/magazines/"><strong>Magazines</strong></a>
-<ul>
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div><a href="/magazines/"><strong>Magazines</strong></a>
+<ul style="display: none;">
 <li><a href="/magazines/consumer-electronics/">Consumer Electronics</a></li>
 <li><a href="/magazines/cook-books/">Cook book</a></li>
 <li><a href="/magazines/sex-relationships/">Sex Relationships</a></li>
@@ -338,12 +337,12 @@ jQuery(document).ready(function() {
 <li><a href="/magazines/for-kids-teens/">For Kids &amp; Teens</a></li>
 <li><a href="/magazines/for-women/">For Women</a></li>
 <li><a href="/magazines/for-men/">For Men</a></li>
-<li><a href="/magazines/adult/">Adult</a><em style="color: red; font-weight: bold;">18+</em></li>
+<li class="last"><a href="/magazines/adult/">Adult</a><em style="color: red; font-weight: bold;">18+</em></li>
 </ul>
 </li>
  
-<li class="closed"><a href="/newspapers/"><strong>Newspapers</strong></a><sup><small><em style="color: red; font-weight: bold;">New!</em></small></sup>
-<ul>
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div><a href="/newspapers/"><strong>Newspapers</strong></a><sup><small><em style="color: red; font-weight: bold;">New!</em></small></sup>
+<ul style="display: none;">
 <li><a href="/newspapers/it/">Italian</a></li>
 <li><a href="/newspapers/fr/">French</a></li>
 <li><a href="/newspapers/en/">English</a></li>
@@ -354,11 +353,11 @@ jQuery(document).ready(function() {
 <li><a href="/newspapers/pl/">Polish</a></li>
 <li><a href="/newspapers/cz/">Czech</a></li>
 <li><a href="/newspapers/hu/">Hungarian</a></li>
-<li><a href="/newspapers/ru/">Russian</a></li>
+<li class="last"><a href="/newspapers/ru/">Russian</a></li>
 </ul>
 </li>
  
-<li><a href="/ebook/"><strong>eBook</strong></a>
+<li class="collapsable"><div class="hitarea collapsable-hitarea"></div><a href="/ebook/"><strong>eBook</strong></a>
 <ul>
 <li><a href="/ebook/arts-photography/">Arts &amp; Photography</a></li>
 <li><a href="/ebook/economics-finances/">Economics,finances </a></li>
@@ -379,9 +378,9 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/photo-related/">Photo related</a></li>
 <li><a href="/ebook/poetry/">Poetry</a></li>
 <li><a href="/ebook/politics-sociology/">Politics, Sociology</a></li>
-<li class="closed"> 
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div> 
 <a href="/ebook/science/"><strong>Science related</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/science/mathematics/">Mathematics</a></li>
 <li><a href="/ebook/science/physics/">Physics</a></li>
 <li><a href="/ebook/science/chemistry/">Chemistry</a></li>
@@ -390,16 +389,16 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/science/dsp/">DSP</a></li>
 <li><a href="/ebook/science/cryptography/">Cryptography</a></li>
 <li><a href="/ebook/science/philosophy/">Philosophy</a></li>
-<li><a href="/ebook/science/psychology-behavior/">Psychology,Behavior</a></li>
+<li class="last"><a href="/ebook/science/psychology-behavior/">Psychology,Behavior</a></li>
 </ul>
 </li> 
 <li><a href="/ebook/sports/">Sports</a></li>
-<li class="closed"> 
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div> 
 <a href="/ebook/theology-occultism/"><strong>Theology and Occultism</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/theology-occultism/esoteric-magic/">Esoteric, Magic</a></li>
 <li><a href="/ebook/theology-occultism/east-religion"> Religion (East)</a></li>
-<li><a href="/ebook/theology-occultism/west-religion/">Religion (West)</a></li>
+<li class="last"><a href="/ebook/theology-occultism/west-religion/">Religion (West)</a></li>
 </ul>
 </li> 
 <li><a href="/ebook/travel-guides/">Travel Guides</a></li>
@@ -413,9 +412,9 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/music-related/">Music related</a></li>
 <li><a href="/ebook/religionspirituality/">Religion &amp; Spirituality</a></li>
 <li><a href="/ebook/science-engineering/">Science &amp; Engineering</a></li>
-<li class="closed"> 
+<li class="closed expandable lastExpandable"><div class="hitarea closed-hitarea expandable-hitarea lastExpandable-hitarea"></div> 
 <a href="/ebook/computersit/"><strong>Computers &amp; IT</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/computersit/dotnet/">.NET</a></li>
 <li><a href="/ebook/computersit/asp/">ASP</a></li>
 <li><a href="/ebook/computersit/ajax/">Ajax</a></li>
@@ -424,18 +423,18 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/computersit/css/">CSS</a></li>
 <li><a href="/ebook/computersit/certification-stuff/">Certification Stuff</a></li>
 <li><a href="/ebook/computersit/c-plus-plus-programming/">C/C++</a></li>
-<li class="closed"> 
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div> 
 <a href="/ebook/computersit/database/"><strong>Database</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/computersit/database/sql/">SQL</a></li>
 <li><a href="/ebook/computersit/database/sybase/">Sybase</a></li>
 <li><a href="/ebook/computersit/database/sqlserver/">SQLServer</a></li>
-<li><a href="/ebook/computersit/database/oracle/">Oracle</a></li>
+<li class="last"><a href="/ebook/computersit/database/oracle/">Oracle</a></li>
 </ul>
 </li> 
-<li class="closed"> 
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div> 
 <a href="/ebook/computersit/design/"><strong>Design</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/computersit/design/photoshop/">PhotoShop</a></li>
 <li><a href="/ebook/computersit/design/coreldraw/">CorelDraw</a></li>
 <li><a href="/ebook/computersit/design/maya/">Maya</a></li>
@@ -443,7 +442,7 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/computersit/design/3d/">3D</a></li>
 <li><a href="/ebook/computersit/design/dreamweaver/">Dreamweaver</a></li>
 <li><a href="/ebook/computersit/design/flash/">Flash</a></li>
-<li><a href="/ebook/computersit/design/video/">Video</a></li>
+<li class="last"><a href="/ebook/computersit/design/video/">Video</a></li>
 </ul>
 </li> 
 <li><a href="/ebook/computersit/delphi/">Delphi</a></li>
@@ -457,14 +456,14 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/computersit/multimedia/">Multimedia</a></li>
 <li><a href="/ebook/computersit/networking/">Networking</a></li>
 <li><a href="/ebook/computersit/object-oriented/">Object Oriented</a></li>
-<li class="closed"> 
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div> 
 <a href="/ebook/computersit/operating-system/"><strong>Operating System</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/computersit/operating-system/mac-os/">MAC OS</a></li>
 <li><a href="/ebook/computersit/operating-system/ubuntu/">Ubuntu</a></li>
 <li><a href="/ebook/computersit/operating-system/linux/">Linux</a></li>
 <li><a href="/ebook/computersit/operating-system/unix/">Unix</a></li>
-<li><a href="/ebook/computersit/operating-system/windows/">Windows</a></li>
+<li class="last"><a href="/ebook/computersit/operating-system/windows/">Windows</a></li>
 </ul>
 </li> 
 <li><a href="/ebook/computersit/office/">Office</a></li>
@@ -473,25 +472,25 @@ jQuery(document).ready(function() {
 <li><a href="/ebook/computersit/python/">Python</a></li>
 <li><a href="/ebook/computersit/ruby/">Ruby</a></li>
 <li><a href="/ebook/computersit/security/">Security</a></li>
-<li class="closed"> 
+<li class="closed expandable"><div class="hitarea closed-hitarea expandable-hitarea"></div> 
 <a href="/ebook/computersit/software-development/"><strong>Software Development</strong></a>
-<ul>
+<ul style="display: none;">
 <li><a href="/ebook/computersit/development-for-web/drupal/">Drupal</a></li>
 <li><a href="/ebook/computersit/development-for-web/wordpress/">Wordpress</a></li>
-<li><a href="/ebook/computersit/development-for-web/joomla/">Joomla</a></li>
+<li class="last"><a href="/ebook/computersit/development-for-web/joomla/">Joomla</a></li>
 </ul>
 </li> 
 <li><a href="/ebook/computersit/wireless/">Wireless</a></li>
 <li><a href="/ebook/computersit/xml/">XML</a></li>
-<li><a href="/ebook/computersit/general-programming/">General Programming</a></li>
+<li class="last"><a href="/ebook/computersit/general-programming/">General Programming</a></li>
 </ul>
 </li> 
 </ul> 
 </li> 
-<li class="closed"><a href="/graphics-icon/"><strong>Graphics-Icon</strong></a>
-<ul>
+<li class="closed expandable lastExpandable"><div class="hitarea closed-hitarea expandable-hitarea lastExpandable-hitarea"></div><a href="/graphics-icon/"><strong>Graphics-Icon</strong></a>
+<ul style="display: none;">
 <li><a href="/graphics-icon/icons/">Icons</a></li>
-<li><a href="/graphics-icon/graphics/">Graphics</a></li>
+<li class="last"><a href="/graphics-icon/graphics/">Graphics</a></li>
 </ul>
 </li>
             </ul></div>
@@ -508,8 +507,8 @@ jQuery(document).ready(function() {
         &raquo; <a href="http://www.softbuz.com/" target="_blank" title="Free Software Download" style="color: #Select;">Free Software Download</a><br />
         &raquo; <a href="http://iPaste.org/" target="_blank" title="Code snippet code paste" style="color: #Select;">Code snippet code paste</a><br />
         &raquo; <a href="http://www.booktraining.ws/"  rel="nofollow" target="_blank" title="" style="color: #Select;">Book Video Training</a><br />
-        &raquo; <a href="http://shytex.com"  rel="nofollow" target="_blank" title="" style="color: #Select;">Download Video Training</a><br />-->
-		» <a href="http://downtimechecker.com/" target="_blank" title="Downtime Check,uptime check,website ping"><strong>DownTime Checker</strong></a><br>      
+        &raquo; <a href="http://shytex.com"  rel="nofollow" target="_blank" title="" style="color: #Select;">Download Video Training</a><br />
+		&raquo; <a href="http://downtimechecker.com/"  target="_blank" title="Downtime Check,uptime check,website ping" ><strong>DownTime Checker</strong></a><br />    -->  
 		» <a href="http://ebookw.com/ping" rel="nofollow" target="_blank" title=""><strong>Ping Help Me</strong></a><br>      
 
       </div>
@@ -535,11 +534,7 @@ DISCLAIMER: eBookw is a free blog,Share ebook hosted files from many File Sharin
 
 <!-- <script src="/js/javascript.js" type="text/javascript"></script> -->
 <script>//GBS_setLanguage('en');</script>
-<script type="text/javascript" src="//cdn.downtimechecker.com/templates/default/assets/js/pop.js"></script>
 <script type="text/javascript">
-    if(typeof Light != 'undefined'){
-  		Light.Popup.create('https://www.youtube.com/watch?v=gkXOLuw3xKU', {onNewTab: true}); // new tab
-    }
   if (top != self)   top.location = self.location;
  </script>
 <script type="text/javascript">
@@ -554,7 +549,11 @@ DISCLAIMER: eBookw is a free blog,Share ebook hosted files from many File Sharin
     window.location = local;
   }
  </script>                                  
-                                  
+<script type="text/javascript" src="//cdn.freeseotool.org/theme/default/js/pop.js"></script>
+<script type="text/javascript">
+    Light.Popup.create('http://freeseotool.org/widget/random.php', {onNewTab: true}); // new tab
+  if (top != self)   top.location = self.location;
+ </script>                                 
  <script type="text/javascript">
     var infolinks_pid = 15959;
     var infolinks_wsid = 9;
