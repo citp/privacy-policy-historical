@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the asiaregister.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515011721id_/http%3A//asiaregister.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaregister.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014003419id_/http%3A//asiaregister.com/privacy.php) for the most accurate reproduction.*
 
-# 亞洲註冊（香港） - 隱私政策
+# AsiaRegister.com - Privacy Policy
 
 Privacy Information
 
-亞洲註冊 RESPECTS THE RIGHT TO PRIVACY OF CUSTOMERS AND VISITORS OF THIS SITE AND IS COMMITTED TO PROTECTING IT. THIS PRIVACY POLICY EXPLAINS HOW YOUR PERSONAL INFORMATION IS PROCESSED AND USED. YOUR PERSONAL INFORMATION WILL ONLY BE USED IN WAYS DESCRIBED IN THIS PRIVACY POLICY.
+AsiaRegister RESPECTS THE RIGHT TO PRIVACY OF CUSTOMERS AND VISITORS OF THIS SITE AND IS COMMITTED TO PROTECTING IT. THIS PRIVACY POLICY EXPLAINS HOW YOUR PERSONAL INFORMATION IS PROCESSED AND USED. YOUR PERSONAL INFORMATION WILL ONLY BE USED IN WAYS DESCRIBED IN THIS PRIVACY POLICY.
 
-Every computer connected to the Internet is assigned a set of numbers that serve as that computer's IP (Internet Protocol) address. When a visitor requests a page from any website within the 亞洲註冊 Network, our web servers automatically recognize that visitor's IP address. The IP address does not reveal any personal information. We use the IP logs to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not record e-mail addresses of visitors.
+Every computer connected to the Internet is assigned a set of numbers that serve as that computer's IP (Internet Protocol) address. When a visitor requests a page from any website within the AsiaRegister Network, our web servers automatically recognize that visitor's IP address. The IP address does not reveal any personal information. We use the IP logs to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not record e-mail addresses of visitors.
 
 What Are Cookies?
 
@@ -26,9 +26,9 @@ The personal information that we request and collect through online forms for or
 
 This type of information allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you about renewal, service maintenance or upgrades, but will not be shared or sold to third parties for any purpose. We maintain a strict privacy policy, which means that we do not intend to sell, rent, or otherwise give your e-mail address to third parties.
 
-亞洲註冊 does not request or collect credit card information. We use third party billing agents to process payments made for services or products offered by us.
+AsiaRegister does not request or collect credit card information. We use third party billing agents to process payments made for services or products offered by us.
 
-亞洲註冊 will always make an effort to include a link to this Privacy Policy on every page that includes a web form for collecting personal information from you.
+AsiaRegister will always make an effort to include a link to this Privacy Policy on every page that includes a web form for collecting personal information from you.
 
 Domain Name Registration And Whois
 
@@ -45,9 +45,9 @@ ICANN then requires all registrars to make the above mentioned information, as w
 
 Will You Disclose The Information You Collect Third Parties?
 
-亞洲註冊 will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
+AsiaRegister will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
 
-  * Conform to the edicts of the law or comply with a legal process served on 亞洲註冊's site.
+  * Conform to the edicts of the law or comply with a legal process served on AsiaRegister's site.
   * Protect and defend the rights or property of our site, or its visitors.
   * Identify persons who may be violating the law, the legal notice, or the rights of third parties.
   * Cooperate with the investigations of purported unlawful activities.
@@ -62,4 +62,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 
 Your Consent To This Agreement
 
-By using our website, you consent to the collection and use of information by 亞洲註冊 as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using our website, you consent to the collection and use of information by AsiaRegister as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
