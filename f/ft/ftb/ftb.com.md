@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328105726id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013085710id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
 
 # Privacy Notice: First Tennessee Bank
 
