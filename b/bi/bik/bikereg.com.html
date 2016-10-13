@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the bikereg.com privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324210640id_/https%3A//www.bikereg.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bikereg.com privacy policy that was archived on 2016-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161013064827id_/https%3A//www.bikereg.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://p1.answerdash.com/answerdash.min.js?siteid=890" id="answerdash-script"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/Scripts/smartbanner/jquery.smartbanner.css" type="text/css" media="screen"><meta charset="utf-8">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700" rel="stylesheet" type="text/css"><meta charset="utf-8">
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width"><title>
 	BikeReg.com - online cycling event registration
@@ -12,7 +12,9 @@
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary"><meta name="twitter:site" content="@bikereg"><meta name="twitter:creator" content="@bikereg"><meta id="ctl00_twurl" name="twitter:url" content="https://www.bikereg.com/Privacy.aspx"><meta id="ctl00_twtitle" name="twitter:title" content="BikeReg.com - online cycling event registration"><meta id="ctl00_twimage" name="twitter:image" content="http://www.bikereg.com/Images/logos/BikeReg/br100.png">
     <!-- Facebook Open Graph Tags -->
-    <meta id="ctl00_fbtitle" property="og:title" content="BikeReg.com - online cycling event registration"><meta property="og:type" content="article"><meta id="ctl00_fburl" property="og:url" content="https://www.bikereg.com/Privacy.aspx"><meta property="og:site_name" content="bikereg.com"><meta id="ctl00_FBimage" property="og:image" content="https://www.bikereg.com/Images/logos/BikeReg/br100.png"><meta name="apple-itunes-app" content="app-id=965242967"><meta name="google-play-app" content="app-id=com.athletereg.athletereg"><link id="ctl00_script4" rel="shortcut icon" href="/faviconbikereg.ico"><link id="ctl00_script5" href="css/foundation.css" rel="stylesheet" type="text/css"><link href="Style/jquery-ui.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/css/style.css?v=2"><link rel="stylesheet" href="/css/bikereg.css?v=2">
+    <meta id="ctl00_fbtitle" property="og:title" content="BikeReg.com - online cycling event registration"><meta property="og:type" content="article"><meta id="ctl00_fburl" property="og:url" content="https://www.bikereg.com/Privacy.aspx"><meta property="og:site_name" content="bikereg.com"><meta id="ctl00_FBimage" property="og:image" content="https://www.bikereg.com/Images/logos/BikeReg/br100.png"><meta name="apple-itunes-app" content="app-id=965242967"><meta name="google-play-app" content="app-id=com.athletereg.athletereg"><link id="ctl00_script4" rel="shortcut icon" href="/faviconbikereg.ico">
+    
+    
     <!--link rel="alternate" type="application/rss+xml" title="Blog from BikeReg.com" href="blog.rss"-->
     <!--[if (lt IE 9) & (!IEMobile)]>   
 	    <link id="ctl00_ieallcss" rel="stylesheet" href="https://www.bikereg.com/css/ieall.css" />
@@ -22,73 +24,29 @@
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-    <script type="text/javascript" src="/Scripts/smartbanner/jquery.smartbanner.js"></script>        
-    <script type="text/javascript" src="/js/olark.js"></script>
-
     <!-- Start of AnswerDash script -->
         <script>var AnswerDash;!function(e,t,n,s,a){if(!t.getElementById(s)){var i,r=t.createElement(n),c=t.getElementsByTagName(n)[0];e[a]||(i=e[a]=function(){i.__oninit.push(arguments)},i.__oninit=[]),r.type="text/javascript",r.async=!0,r.src="https://p1.answerdash.com/answerdash.min.js?siteid=890",r.setAttribute("id",s),c.parentNode.insertBefore(r,c)}}(window,document,"script","answerdash-script","AnswerDash");</script>
     <!-- End of AnswerDash script -->
 
 
     <script type="text/javascript">
-        function CreateAccount(){
-            if ($('#ctl00_DropDownListUserType option:selected').text() == 'Participant')
-            {
-                window.location = "/NewUser/NewMember/";
-            }
-            else
-            {
-                window.location = "/NewUser/NewPromoter/";
-            }
-        }
+
 
           if (!document.addEventListener) {
               //IE8 fix
               $(function () {
                   //DOM has loaded, put your code here
-                  setupResponsiveNav();
+                  setupInital();
               });
           }
           else {
-              document.addEventListener("DOMContentLoaded", function () { setupResponsiveNav(); })
+              document.addEventListener("DOMContentLoaded", function () { setupInital(); })
           }
 
 
-          function setupResponsiveNav() {
-              /* call responsive nav */ 
-              var navigation = responsiveNav("#nav", { // Selector: The ID of the wrapper
-                  animate: true, // Boolean: Use CSS3 transitions, true or false
-                  transition: 400, // Integer: Speed of the transition, in milliseconds
-                  label: "menu", // String: Label for the navigation toggle
-                  insert: "before", // String: Insert the toggle before or after the navigation
-                  customToggle: "", // Selector: Specify the ID of a custom toggle
-                  openPos: "relative", // String: Position of the opened nav, relative or static
-                  jsClass: "js", // String: 'JS enabled' class which is added to <html> el
-                  init: function () { }, // Function: Init callback
-                  open: function () { }, // Function: Open callback
-                  close: function () { } // Function: Close callback
-              });
-              
+          function setupInital() {      
 
-              $(".rslides").responsiveSlides({
-                  auto: true,             // Boolean: Animate automatically, true or false
-                  speed: 500,             // Integer: Speed of the transition, in milliseconds
-                  timeout: 5000,          // Integer: Time between slide transitions, in milliseconds
-                  pager: true,            // Boolean: Show pager, true or false
-                  nav: false,             // Boolean: Show navigation, true or false
-                  random: false,          // Boolean: Randomize the order of the slides, true or false
-                  pause: false,           // Boolean: Pause on hover, true or false
-                  pauseControls: true,    // Boolean: Pause when hovering controls, true or false
-                  prevText: "Previous",   // String: Text for the "previous" button
-                  nextText: "Next",       // String: Text for the "next" button
-                  maxwidth: "",           // Integer: Max-width of the slideshow, in pixels
-                  navContainer: "",       // Selector: Where controls should be appended to, default is after the 'ul'
-                  manualControls: "",     // Selector: Declare custom pager navigation
-                  namespace: "transparent-btns",   // String: Change the default namespace used
-                  before: function () { },   // Function: Before callback
-                  after: function () { }     // Function: After callback
-              });
-              $(".eventtab").click(function()
+            $(".eventtab").click(function()
               {
                 var newtop = $(this);
                 setTimeout(function(){
@@ -136,19 +94,15 @@
          };
  
     </script>
-
-   
     
-    <!-- end olark code -->
-    
-<link href="/WebResource.axd?d=e3YnVSw3nMEpuMZpm759HjvUJecgpekD2IW0J06TIqcPjQIslNj2hq8FFXrHYzFdeot_1W8wBaMclk6GzN2yeS5qIUdD15effmGfFen68oPKvkjJgKLqEwmc2pes5FBvIhmndg2&amp;t=635424874633183218" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
-<body id="ctl00_bodytag" class=" general nosidebar"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<link href="https://bikereg.scdn4.secure.raxcdn.com/css/bikereg.css" type="text/css" rel="stylesheet"><link href="https://bikereg.scdn4.secure.raxcdn.com/css/foundation.css" type="text/css" rel="stylesheet"><link href="https://bikereg.scdn4.secure.raxcdn.com/Style/jquery-ui.css" type="text/css" rel="stylesheet"><link href="https://bikereg.scdn4.secure.raxcdn.com/css/style.css" type="text/css" rel="stylesheet"><link href="/WebResource.axd?d=e3YnVSw3nMEpuMZpm759HjvUJecgpekD2IW0J06TIqcPjQIslNj2hq8FFXrHYzFdeot_1W8wBaMclk6GzN2yeS5qIUdD15effmGfFen68oPKvkjJgKLqEwmc2pes5FBvIhmndg2&amp;t=635424874633183218" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
+<body id="ctl00_bodytag" class="general nosidebar">
     <form name="aspnetForm" method="post" action="/Privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" novalidate="">
 <div>
-<input type="hidden" name="ctl00_ScriptManager1_TSM" id="ctl00_ScriptManager1_TSM" value="">
+<input type="hidden" name="ctl00_JScripts1_ScriptManager1_TSM" id="ctl00_JScripts1_ScriptManager1_TSM" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4OTk5NjY5MzEPZBYCZg9kFgICAw9kFgICAQ8WAh4GYWN0aW9uBQ0vUHJpdmFjeS5hc3B4FgwCAw8UKwACFCsAAw8WAh4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZGRkZGQCDQ8PFgIeC05hdmlnYXRlVXJsBRZ+L2xvZ2luL2xvZ2luLmFzcHg/cD1wZGQCEQ9kFgICAQ8PFgIfAgUSfi9sb2dpbi9sb2dpbi5hc3B4ZGQCFw9kFkgCAQ8PFgIfAgUvfi91c2Vycy9Qcm9tb3Rlci9FdmVudC9FZGl0RXZlbnQuYXNweD9FdmVudElEPTBkZAIFDw8WAh8CBTR+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRDYXRlZ29yaWVzLmFzcHg/RXZlbnRJRD0wZGQCBw8PFgIfAgUzfi9Vc2Vycy9Qcm9tb3Rlci9FdmVudC9FdmVudERpc2NvdW50LmFzcHg/RXZlbnRJRD0wZGQCCQ8PFgIfAgU1fi91c2Vycy9Qcm9tb3Rlci9FdmVudC9SZWdQYWdlVGV4dEVkaXQuYXNweD9FdmVudElEPTBkZAILDw8WAh8CBTV+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRNZXJjaGFuZGlzZS5hc3B4P0V2ZW50SUQ9MGRkAg0PDxYCHwIFOX4vVXNlcnMvUHJvbW90ZXIvRXZlbnQvRWRpdEN1c3RvbVF1ZXN0aW9ucy5hc3B4P0V2ZW50SUQ9MGRkAg8PDxYCHwIFOn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvT25saW5lV2FpdmVyVGV4dEVkaXQuYXNweD9FdmVudElEPTBkZAIRDw8WAh8CBS9+L3VzZXJzL1Byb21vdGVyL0V2ZW50L1BheUNlbnRlci5hc3B4P0V2ZW50SUQ9MGRkAhcPDxYCHwIFLn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvRXZlbnRUYXguYXNweD9FdmVudElEPTBkZAIZDw8WAh8CBTB+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0V2ZW50RmlsZXMuYXNweD9FdmVudElEPTBkZAIbDw8WAh8CBTN+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0V2ZW50UGFzc3dvcmQuYXNweD9FdmVudElEPTBkZAIdDw8WAh8CBTV+L1VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRCeXBhc3NDb2Rlcy5hc3B4P0V2ZW50SUQ9MGRkAh8PDxYCHwIFNn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvRWRpdFN1YlByb21vdGVycy5hc3B4P0V2ZW50SUQ9MGRkAiEPDxYCHwIFLX4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvTG90dGVyeS5hc3B4P0V2ZW50SUQ9MGRkAiMPDxYCHwIFE34vTGl2ZVJlZz9FdmVudElEPTBkZAIlDw8WAh8CBTJ+L1VzZXJzL1Byb21vdGVyL0V2ZW50L0V2ZW50RGV0YWlscy5hc3B4P0V2ZW50SUQ9MGRkAicPDxYCHwIFOX4vdXNlcnMvUHJvbW90ZXIvUmVnaXN0cmF0aW9uL1RyYW5zYWN0aW9ucy5hc3B4P0V2ZW50SUQ9MGRkAikPDxYCHwIFOH4vdXNlcnMvUHJvbW90ZXIvUmVnaXN0cmF0aW9uL01hbnVhbEVudHJ5LmFzcHg/RXZlbnRJRD0wZGQCKw8PFgIfAgU4fi91c2Vycy9Qcm9tb3Rlci9FdmVudC9HZW5lcmF0ZUJpYk51bWJlcnMuYXNweD9FdmVudElEPTBkZAItDw8WAh8CBTJ+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0Rvd25sb2FkRGF0YS5hc3B4P0V2ZW50SUQ9MGRkAi8PFgIeB1Zpc2libGVoZAIxD2QWAmYPDxYCHwIFOX4vdXNlcnMvUHJvbW90ZXIvUmVnaXN0cmF0aW9uL1JlbGVhc2VGb3Jtcy5hc3B4P0V2ZW50SUQ9MGRkAjMPDxYEHgRUZXh0BRFHZXQgQmlrZVJlZyBMb2dvcx8CBTN+L1VzZXJzL1B1YmxpYy9Mb2dvcy9CaWtlUmVnL0RlZmF1bHQuYXNweD9FdmVudElEPTBkZAI1Dw8WAh8CBTN+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0VtYWlsQ2F0ZWdvcnkuYXNweD9FdmVudElEPTBkZAI3Dw8WAh8CBSt+L3VzZXJzL1Byb21vdGVyL0NvdXBvbkNvZGVzLmFzcHg/RXZlbnRJRD0wZGQCOQ8PFgIfAgVAfi91c2Vycy9Qcm9tb3Rlci9FdmVudC9BZHZhbmNlZC9FZGl0UmVmZXJyYWxDb2Rlcy5hc3B4P0V2ZW50SUQ9MGRkAjsPDxYCHwIFOH4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvUmV0dXJuZWVzUmVwb3J0aW5nLmFzcHg/ZXZlbnRpZD0wZGQCPQ8PFgIfAgU6fi91c2Vycy9Qcm9tb3Rlci9FdmVudC9BZHZhbmNlZC9Tb2NpYWxNZWRpYS5hc3B4P0V2ZW50SUQ9MGRkAj8PDxYCHwIFL34vdXNlcnMvUHJvbW90ZXIvRXZlbnQvQW5hbHl0aWNzLmFzcHg/RXZlbnRJRD0wZGQCQQ8PFgIfAgUtfi91c2Vycy9Qcm9tb3Rlci9QcmVtaWVyRXZlbnRzLmFzcHg/RXZlbnRJRD0wZGQCQw8PFgIfAgU6fi91c2Vycy9Qcm9tb3Rlci9FdmVudC9QYXJ0aWNpcGFudExvY2F0aW9ucy5hc3B4P0V2ZW50SUQ9MGRkAkUPDxYEHwQFEU15IEJpa2VSZWcgRXZlbnRzHwIFHX4vdXNlcnMvUHJvbW90ZXIvZGVmYXVsdC5hc3B4ZGQCRw8PFgIfAgUefi91c2Vycy9Qcm9tb3Rlci9OZXdFdmVudC5hc3B4ZGQCSQ8PFgIfAgUgfi91c2Vycy9Qcm9tb3Rlci9SZW5ld0V2ZW50LmFzcHhkZAJNDw8WAh8CBSZ+L3VzZXJzL1Byb21vdGVyL0VtYWlsTXVsdGlFdmVudHMuYXNweGRkAk8PDxYCHwIFIX4vdXNlcnMvUHJvbW90ZXIvQ291cG9uQ29kZXMuYXNweGRkAikPDxYCHwNnZGQCNw8PFgIfAgUKL0FkdmVydGlzZWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBRdjdGwwMCRSYWRXaW5kb3dNYW5hZ2VyMQUWY3RsMDAkYnRuV2ViVmlld1NlYXJjaAUTY3RsMDAkY2hrUmVtZW1iZXJNZQUPY3RsMDAkYnRuU2VhcmNoD2waZ/Qrpm2z3xgYPLzfj9A4Fn0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4OTk5NjY5MzEPZBYCZg9kFgICAw9kFgICAQ8WAh4GYWN0aW9uBQ0vUHJpdmFjeS5hc3B4FiYCAw8UKwACFCsAAw8WAh4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZGRkZGQCBQ8PFgIeCEltYWdlVXJsBT1odHRwczovL2Jpa2VyZWcuc2NkbjQuc2VjdXJlLnJheGNkbi5jb20vaS9CaWtlUmVnTm9UYWdfMjUucG5nZGQCDQ8PFgIeC05hdmlnYXRlVXJsBRZ+L2xvZ2luL2xvZ2luLmFzcHg/cD1wZGQCEQ9kFgICAQ8PFgIfAwUSfi9sb2dpbi9sb2dpbi5hc3B4ZGQCEw9kFgICAQ8PFgQfAgU6aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvYmlrZXJlZy1sb2dvLnBuZx4NQWx0ZXJuYXRlVGV4dAUHQmlrZVJlZ2RkAhUPZBYCZg9kFgICAQ8PFgIfAgU3aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvYnIvc2VhcmNoLnBuZ2RkAhcPDxYCHwIFOWh0dHBzOi8vYmlrZXJlZy5zY2RuNC5zZWN1cmUucmF4Y2RuLmNvbS9pL2JyL3VzYWNsb2dvLnBuZ2RkAhkPZBYCZg9kFk4CAQ8PFgIfAwUvfi91c2Vycy9Qcm9tb3Rlci9FdmVudC9FZGl0RXZlbnQuYXNweD9FdmVudElEPTBkZAIFDw8WAh8DBTR+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRDYXRlZ29yaWVzLmFzcHg/RXZlbnRJRD0wZGQCBw8PFgIfAwUzfi9Vc2Vycy9Qcm9tb3Rlci9FdmVudC9FdmVudERpc2NvdW50LmFzcHg/RXZlbnRJRD0wZGQCCQ8PFgIfAwU1fi91c2Vycy9Qcm9tb3Rlci9FdmVudC9SZWdQYWdlVGV4dEVkaXQuYXNweD9FdmVudElEPTBkZAILDw8WAh8DBTV+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRNZXJjaGFuZGlzZS5hc3B4P0V2ZW50SUQ9MGRkAg0PDxYCHwMFOX4vVXNlcnMvUHJvbW90ZXIvRXZlbnQvRWRpdEN1c3RvbVF1ZXN0aW9ucy5hc3B4P0V2ZW50SUQ9MGRkAg8PDxYCHwMFOn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvT25saW5lV2FpdmVyVGV4dEVkaXQuYXNweD9FdmVudElEPTBkZAIRDw8WAh8DBTp+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRDb25maXJtYXRpb25UZXh0LmFzcHg/RXZlbnRJRD0wZGQCEw8PFgIfAwUvfi91c2Vycy9Qcm9tb3Rlci9FdmVudC9QYXlDZW50ZXIuYXNweD9FdmVudElEPTBkZAIZDw8WAh8DBQh+L1JhY2VIUWRkAhsPDxYCHwMFLn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvRXZlbnRUYXguYXNweD9FdmVudElEPTBkZAIdDw8WAh8DBTB+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0V2ZW50RmlsZXMuYXNweD9FdmVudElEPTBkZAIfDw8WAh8DBTN+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0V2ZW50UGFzc3dvcmQuYXNweD9FdmVudElEPTBkZAIhDw8WAh8DBTV+L1VzZXJzL1Byb21vdGVyL0V2ZW50L0VkaXRCeXBhc3NDb2Rlcy5hc3B4P0V2ZW50SUQ9MGRkAiMPDxYCHwMFNn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvRWRpdFN1YlByb21vdGVycy5hc3B4P0V2ZW50SUQ9MGRkAiUPDxYCHwMFLX4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvTG90dGVyeS5hc3B4P0V2ZW50SUQ9MGRkAicPDxYCHwMFE34vTGl2ZVJlZz9FdmVudElEPTBkZAIpDw8WAh8DBS9+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0Rhc2hib2FyZC5hc3B4P0V2ZW50SUQ9MGRkAisPDxYCHwMFMn4vVXNlcnMvUHJvbW90ZXIvRXZlbnQvRXZlbnREZXRhaWxzLmFzcHg/RXZlbnRJRD0wZGQCLQ8PFgIfAwU5fi91c2Vycy9Qcm9tb3Rlci9SZWdpc3RyYXRpb24vVHJhbnNhY3Rpb25zLmFzcHg/RXZlbnRJRD0wZGQCLw8PFgIfAwU4fi91c2Vycy9Qcm9tb3Rlci9SZWdpc3RyYXRpb24vTWFudWFsRW50cnkuYXNweD9FdmVudElEPTBkZAIxDw8WAh8DBTh+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0dlbmVyYXRlQmliTnVtYmVycy5hc3B4P0V2ZW50SUQ9MGRkAjMPDxYCHwMFMn4vdXNlcnMvUHJvbW90ZXIvRXZlbnQvRG93bmxvYWREYXRhLmFzcHg/RXZlbnRJRD0wZGQCNQ8WAh4HVmlzaWJsZWhkAjcPZBYCZg8PFgIfAwU5fi91c2Vycy9Qcm9tb3Rlci9SZWdpc3RyYXRpb24vUmVsZWFzZUZvcm1zLmFzcHg/RXZlbnRJRD0wZGQCOQ8PFgQeBFRleHQFEUdldCBCaWtlUmVnIExvZ29zHwMFM34vVXNlcnMvUHVibGljL0xvZ29zL0Jpa2VSZWcvRGVmYXVsdC5hc3B4P0V2ZW50SUQ9MGRkAjsPDxYCHwMFM34vdXNlcnMvUHJvbW90ZXIvRXZlbnQvRW1haWxDYXRlZ29yeS5hc3B4P0V2ZW50SUQ9MGRkAj0PDxYCHwMFK34vdXNlcnMvUHJvbW90ZXIvQ291cG9uQ29kZXMuYXNweD9FdmVudElEPTBkZAI/Dw8WAh8DBUB+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0FkdmFuY2VkL0VkaXRSZWZlcnJhbENvZGVzLmFzcHg/RXZlbnRJRD0wZGQCQQ8PFgIfAwU4fi91c2Vycy9Qcm9tb3Rlci9FdmVudC9SZXR1cm5lZXNSZXBvcnRpbmcuYXNweD9ldmVudGlkPTBkZAJDDw8WAh8DBTp+L3VzZXJzL1Byb21vdGVyL0V2ZW50L0FkdmFuY2VkL1NvY2lhbE1lZGlhLmFzcHg/RXZlbnRJRD0wZGQCRQ8PFgIfAwUvfi91c2Vycy9Qcm9tb3Rlci9FdmVudC9BbmFseXRpY3MuYXNweD9FdmVudElEPTBkZAJHDw8WAh8DBS1+L3VzZXJzL1Byb21vdGVyL1ByZW1pZXJFdmVudHMuYXNweD9FdmVudElEPTBkZAJJDw8WAh8DBTp+L3VzZXJzL1Byb21vdGVyL0V2ZW50L1BhcnRpY2lwYW50TG9jYXRpb25zLmFzcHg/RXZlbnRJRD0wZGQCSw8PFgQfBgURTXkgQmlrZVJlZyBFdmVudHMfAwUdfi91c2Vycy9Qcm9tb3Rlci9kZWZhdWx0LmFzcHhkZAJNDw8WAh8DBR5+L3VzZXJzL1Byb21vdGVyL05ld0V2ZW50LmFzcHhkZAJPDw8WAh8DBSB+L3VzZXJzL1Byb21vdGVyL1JlbmV3RXZlbnQuYXNweGRkAlMPDxYCHwMFJn4vdXNlcnMvUHJvbW90ZXIvRW1haWxNdWx0aUV2ZW50cy5hc3B4ZGQCVQ8PFgIfAwUhfi91c2Vycy9Qcm9tb3Rlci9Db3Vwb25Db2Rlcy5hc3B4ZGQCGw8PFgIfBWdkFgICAQ9kFgQCAw8PFgIfAgU6aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvYmlrZXJlZy1sb2dvLnBuZ2RkAgUPZBYCZg9kFgQCAQ8PFgIfAgU5aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvYnIvdXNhY2xvZ28ucG5nZGQCAw9kFgICAQ8PFgIfAgU3aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvYnIvc2VhcmNoLnBuZ2RkAh8PZBYCAgEPZBYCAgEPDxYCHwIFN2h0dHBzOi8vYmlrZXJlZy5zY2RuNC5zZWN1cmUucmF4Y2RuLmNvbS9pL2JyL3VzYWNhZC5wbmdkZAIpDw8WAh8DBQovQWR2ZXJ0aXNlZGQCKw8PFgIfAgU6aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvaWNvbi10d2l0dGVyLnBuZ2RkAi0PDxYCHwIFO2h0dHBzOi8vYmlrZXJlZy5zY2RuNC5zZWN1cmUucmF4Y2RuLmNvbS9pL2ljb24tZmFjZWJvb2sucG5nZGQCLw8PFgIfAgU3aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvZm9vdGVyLWJyLnBuZ2RkAjEPDxYCHwIFN2h0dHBzOi8vYmlrZXJlZy5zY2RuNC5zZWN1cmUucmF4Y2RuLmNvbS9pL2Zvb3Rlci1yci5wbmdkZAIzDw8WAh8CBTdodHRwczovL2Jpa2VyZWcuc2NkbjQuc2VjdXJlLnJheGNkbi5jb20vaS9mb290ZXItdHIucG5nZGQCNQ8PFgIfAgU3aHR0cHM6Ly9iaWtlcmVnLnNjZG40LnNlY3VyZS5yYXhjZG4uY29tL2kvZm9vdGVyLXNyLnBuZ2RkAjcPDxYCHwIFPWh0dHBzOi8vYmlrZXJlZy5zY2RuNC5zZWN1cmUucmF4Y2RuLmNvbS9pL2F0aGxldGVyZWctbG9nby5wbmdkZAI5Dw8WAh8CBT1odHRwczovL2Jpa2VyZWcuc2NkbjQuc2VjdXJlLnJheGNkbi5jb20vaS9hdGhsZXRlcmVnLWxvZ28ucG5nZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFF2N0bDAwJFJhZFdpbmRvd01hbmFnZXIxBRZjdGwwMCRidG5XZWJWaWV3U2VhcmNoBRxjdGwwMCRuYXZNZW51MSRjaGtSZW1lbWJlck1lBQ9jdGwwMCRidG5TZWFyY2hIRPLMvMzEI3bqhRKecIzQPklWzA==">
 </div>
 
 <script type="text/javascript">
@@ -172,17 +126,17 @@ function __doPostBack(eventTarget, eventArgument) {
 
 
 <script src="/ScriptResource.axd?d=CjBLOokN2CynSiAA3KF2mZBn1poNq8Mq_6mLwgorH5uacZeh3RDRjXgt7V5CUbrKN0FRZ1Z13LfkXd656okIsGZOBZh2FEP2S6Njaa3SdKc1u1cqP_Nvo-GHqRYwaRkez_N6xy-kMEx9ptfsOtONo2jxpus1&amp;t=62fc1f78" type="text/javascript"></script>
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_ScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2012.2.912.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a6aabe639-e731-432d-8e00-1a2e36f6eee0%3a16e4e7cd%3a874f8ea2%3af7645509%3a24ee1bba%3af46195d3%3a19620875%3a490a9d4e%3abd8f85e4%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3a853c2e0b%3a923aa3cc%3a46f97eb1%3a782b16ab%3a50114f04%3a29340eb0%3a8d52b8e7%3af48dface%3a1e088fb%3a52c703eb%3af9ae838a%3ad754780e%3a28a7831e" type="text/javascript"></script>
-<script src="Scripts/CommonScripts.js" type="text/javascript"></script>
-<script src="js/modernizer-261.js" type="text/javascript"></script>
-<script src="Scripts/jquery.cookie.js" type="text/javascript"></script>
-<script src="Scripts/UserServices.js" type="text/javascript"></script>
-<script src="Scripts/SavedEvents.js" type="text/javascript"></script>
-<script src="Scripts/PublicServices.js" type="text/javascript"></script>
-<script src="js/responsive-nav.min.js" type="text/javascript"></script>
-<script src="js/responsiveslides.js" type="text/javascript"></script>
-<script src="js/hoverIntent.js" type="text/javascript"></script>
-<script src="js/jquery.js" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_JScripts1_ScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2012.2.912.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a6aabe639-e731-432d-8e00-1a2e36f6eee0%3a16e4e7cd%3a874f8ea2%3af7645509%3a24ee1bba%3af46195d3%3a19620875%3a490a9d4e%3abd8f85e4%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3a853c2e0b%3a923aa3cc%3a46f97eb1%3a782b16ab%3a50114f04%3a29340eb0%3a8d52b8e7%3af48dface%3a1e088fb%3a52c703eb%3af9ae838a%3ad754780e%3a28a7831e" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Scripts/PublicServices.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Cache/Scripts/responsive-nav.min.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Cache/Scripts/hoverIntent.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Scripts/jquery.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Scripts/CommonScripts.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Cache/Scripts/modernizer-261.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Cache/Scripts/jquery.cookie.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Scripts/UserServices.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Scripts/SavedEvents.js" type="text/javascript"></script>
+<script src="https://bikereg.scdn4.secure.raxcdn.com/Cache/Scripts/olark.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 function WebForm_OnSubmit() {
@@ -195,14 +149,18 @@ return true;
 <div>
 
 	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ivA45DKziNqEpKkxE2GcRI45M7qobPPKXLom5VyySlTDeNcaMEPzK0Q7XIVFSrNQhPIhYTt__p050iWRYg8o9m24Bug1">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABEy6ZFtN/Cq6cVfCw4SOt5rzjsbiaRS6Nu3faPUzstExprX09kUvxpZy0GjmEzEdRgZj528CNjHEdV56epNDtlVp/e0oLCO+CRMP7X2oyycSa+bhjFeGwPtQrcRvR1QBybt0nPIy2UlwOdk3NU1xFVKEgzy+TeMM5o4nNDfTYzbD1BmnIndlMc1aCdPjnlCJcK+5DDaMCU5MtoBsTaThmPR97liWlTktkQUQ/35zKrQWqf9WRxNzOsHYJ8seGfhuYtj6z8go3ZpKvOnVhpEvnBpVXpGQB+5+uolroumqcYWCyBi5jyq6heyeTbYpGyat0A+d86qqKCuFR0Y+lE+tdZ2qQjiOkzvy2kk2qFSIkbpPUAeB6+J1GA/QVTjxXfD9K3kNZ5I">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABFgAeOf0jVQx5hkiVQBzbuZzjsbiaRS6Nu3faPUzstExprX09kUvxpZy0GjmEzEdRh9mLrUxB49gpJZXXfgTrCTom2gBw0byFjgfoK47kQ2xl8DqyMs2EhYBo6QhMkH3MFuyjRHarH4hSrjqEZynBC7e2NNx3byenhlDW7cYmHDVrAD7+oSPU1/OqhUYanqUbDZaO79LNTri8sqJ80BSqRZFn8sHy8ywLiUP0p3CftjQi/WAXXQiMwOLPTxKmTS0CBj6z8go3ZpKvOnVhpEvnBpVXpGQB+5+uolroumqcYWCyBi5jyq6heyeTbYpGyat0A+d86qqKCuFR0Y+lE+tdZ2qQjiOkzvy2kk2qFSIkbpPYEm0jTvDsFKhjOh0/JN1a8RtOJP">
 </div>
-    <script type="text/javascript">
+        <script type="text/javascript">
 //<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', ['tctl00$UpdatePanel2','','tctl00$UpdatePanel1',''], [], [], 90, 'ctl00');
+Sys.WebForms.PageRequestManager._initialize('ctl00$JScripts1$ScriptManager1', 'aspnetForm', ['tctl00$UpdatePanel2','','tctl00$UpdatePanel1',''], [], [], 90, 'ctl00');
 //]]>
 </script>
 
+
+
+
+    
     <div id="ctl00_RadWindowManager1" style="display:none;">
 	<!-- 2012.2.912.40 --><div id="ctl00_RadWindowManager1_alerttemplate" style="display:none;">
 		<div class="rwDialogPopup radalert">			
@@ -277,7 +235,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
     <div class="row-full utility no-print">
         <div class="large-12">
             <span class="utilitynav"><a href="/" id="smalllogo">
-                <img src="i/BikeRegNoTag_25.png" style="border-width:0px;float: left;
+                <img src="https://bikereg.scdn4.secure.raxcdn.com/i/BikeRegNoTag_25.png" style="border-width:0px;float: left;
                     margin: 3px; margin-top: -2px; margin-bottom: -7px;">
             </a><span style="float: right;"><span class="hidemobile" id="topMenuHelp">We're always
                 here to help!</span> | <a href="http://support.athletereg.com/home">Search Help</a>
@@ -300,14 +258,19 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
     </div>
     <div class="row logobar no-print">
         <div class="large-5 columns">
-            <a href="/" class="logo">
-                <img class="logo" src="/i/bikereg-logo.png" alt="BikeReg">
-            </a>
+            
+
+
+    <a href="/">
+        <img id="ctl00_siteLogo_imgLogo" class="logo" src="https://bikereg.scdn4.secure.raxcdn.com/i/bikereg-logo.png" alt="BikeReg" style="border-width:0px;">
+    </a> 
+
+    
             <div id="ctl00_UpdatePanel2" class="columns webviewsearch">
 	
                     <div class="search">
                         <input name="ctl00$txtWebViewSearch" type="text" id="ctl00_txtWebViewSearch" class="inputs noStyle" autocomplete="off" placeholder="ENTER EVENT NAME OR LOCATION">
-                        <input type="image" name="ctl00$btnWebViewSearch" id="ctl00_btnWebViewSearch" class="searchbutton" src="i/br/search.png" style="border-width:0px;z-index: 9999;">
+                        <input type="image" name="ctl00$btnWebViewSearch" id="ctl00_btnWebViewSearch" class="searchbutton" src="https://bikereg.scdn4.secure.raxcdn.com/i/br/search.png" style="border-width:0px;z-index: 9999;">
                         
                         <script type="text/javascript">
                             function HandleWebViewSearch() {
@@ -333,12 +296,55 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
 </div>
         </div>
         <div class="large-7 columns">
-                 <img id="ctl00_Image3" src="i/br/usaclogo.png" style="border-width:0px;float: left; margin-left:460px; margin-top: 10px; margin-bottom:-138px; height: 65px; display:none;">
+                 <img id="ctl00_Image3" src="https://bikereg.scdn4.secure.raxcdn.com/i/br/usaclogo.png" style="border-width:0px;float: left; margin-left:460px; margin-top: 10px; margin-bottom:-138px; height: 65px; display:none;">
        
-            <div id="navparent">
+                
+
+<script type="text/javascript">
+    function CreateAccount() {
+        if ($('#ctl00_navMenu1_DropDownListUserType option:selected').text() == 'Participant')
+            {
+                window.location = "/NewUser/NewMember/";
+            }
+            else
+            {
+                window.location = "/NewUser/NewPromoter/";
+            }
+        }
+
+          if (!document.addEventListener) {
+              //IE8 fix
+              $(function () {
+                  //DOM has loaded, put your code here
+                  setupResponsiveNav();
+              });
+          }
+          else {
+              document.addEventListener("DOMContentLoaded", function () { setupResponsiveNav(); })
+          }
+
+
+          function setupResponsiveNav() {
+              /* call responsive nav */ 
+              var navigation = responsiveNav("#nav", { // Selector: The ID of the wrapper
+                  animate: true, // Boolean: Use CSS3 transitions, true or false
+                  transition: 400, // Integer: Speed of the transition, in milliseconds
+                  label: "menu", // String: Label for the navigation toggle
+                  insert: "before", // String: Insert the toggle before or after the navigation
+                  customToggle: "", // Selector: Specify the ID of a custom toggle
+                  openPos: "relative", // String: Position of the opened nav, relative or static
+                  jsClass: "js", // String: 'JS enabled' class which is added to <html> el
+                  init: function () { }, // Function: Init callback
+                  open: function () { }, // Function: Open callback
+                  close: function () { } // Function: Close callback
+              });
+          }
+</script>
+
+<div id="navparent">
                 <div id="navleft">
                     &nbsp;</div>
-                <a href="#" class="nav-toggle" aria-hidden="true">menu</a><nav id="nav" class="nav-collapse closed" style="transition: max-height 400ms ease 0s; position: relative;" aria-hidden="false">
+                <nav id="nav">
 
 <ul class="dropdown">
 
@@ -346,52 +352,55 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                 <li class="promoterEvent">
                 <a href="#" class="mobileExpandable">Event Setup</a>
                 <ul class="">
-                <li><a id="ctl00_PromoterMobileMenu1_hpGenEventSetup" href="users/Promoter/Event/EditEvent.aspx?EventID=0">General Event Setup</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpGenEventSetup" href="users/Promoter/Event/EditEvent.aspx?EventID=0">General Event Setup</a></li>
                 <li></li>               
-                <li><a id="ctl00_PromoterMobileMenu1_hpCatAddEdit" href="users/Promoter/Event/EditCategories.aspx?EventID=0">Category Setup</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpEventDiscounts" href="Users/Promoter/Event/EventDiscount.aspx?EventID=0">Multi-Entry Discounts</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpRegTextEdit" href="users/Promoter/Event/RegPageTextEdit.aspx?EventID=0">Event Notes</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpMerchandise" href="users/Promoter/Event/EditMerchandise.aspx?EventID=0">Merchandise</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpCustomQuestions" href="Users/Promoter/Event/EditCustomQuestions.aspx?EventID=0">Custom Questions</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpWaiverTextEdit" href="users/Promoter/Event/OnlineWaiverTextEdit.aspx?EventID=0">Online Waiver</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpPaymentCenter" href="users/Promoter/Event/PayCenter.aspx?EventID=0">Event Payment</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpLiveRegPage" target="_blank">Public Reg Page</a> / <a id="ctl00_PromoterMobileMenu1_hpPrintLiveRegPage" target="_blank">Print</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpCatAddEdit" href="users/Promoter/Event/EditCategories.aspx?EventID=0">Category Setup</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEventDiscounts" href="Users/Promoter/Event/EventDiscount.aspx?EventID=0">Multi-Entry Discounts</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpRegTextEdit" href="users/Promoter/Event/RegPageTextEdit.aspx?EventID=0">Event Notes</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpMerchandise" href="users/Promoter/Event/EditMerchandise.aspx?EventID=0">Merchandise</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpCustomQuestions" href="Users/Promoter/Event/EditCustomQuestions.aspx?EventID=0">Custom Questions</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpWaiverTextEdit" href="users/Promoter/Event/OnlineWaiverTextEdit.aspx?EventID=0">Online Waiver</a></li>
+                <li style=""><a id="ctl00_navMenu1_PromoterMobileMenu1_hpConfEmail" href="users/Promoter/Event/EditConfirmationText.aspx?EventID=0">Confirmation Email</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpPaymentCenter" href="users/Promoter/Event/PayCenter.aspx?EventID=0">Event Payment</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpLiveRegPage" target="_blank">Public Reg Page</a> / <a id="ctl00_navMenu1_PromoterMobileMenu1_hpPrintLiveRegPage" target="_blank">Print</a></li>
                 
-                <li><a id="ctl00_PromoterMobileMenu1_hpEventTax" href="users/Promoter/Event/EventTax.aspx?EventID=0">Custom Tax</a></li>
-                 <li><a id="ctl00_PromoterMobileMenu1_hpEventFiles" href="users/Promoter/Event/EventFiles.aspx?EventID=0">Files</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpPassword" href="users/Promoter/Event/EventPassword.aspx?EventID=0">Password</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpByPass" href="Users/Promoter/Event/EditBypassCodes.aspx?EventID=0">Bypass Codes</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpSubPromoters" href="users/Promoter/Event/EditSubPromoters.aspx?EventID=0">SubPromoters</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpLottery" href="users/Promoter/Event/Lottery.aspx?EventID=0">Event Lottery</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpLiveReg" href="LiveReg?EventID=0">LiveReg Day of Registration</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpRaceHQ" href="RaceHQ">RaceHQ Marketplace</a></li>
+                    <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEventTax" href="users/Promoter/Event/EventTax.aspx?EventID=0">Custom Tax</a></li>
+                 <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEventFiles" href="users/Promoter/Event/EventFiles.aspx?EventID=0">Files</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpPassword" href="users/Promoter/Event/EventPassword.aspx?EventID=0">Password</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpByPass" href="Users/Promoter/Event/EditBypassCodes.aspx?EventID=0">Bypass Codes</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpSubPromoters" href="users/Promoter/Event/EditSubPromoters.aspx?EventID=0">SubPromoters</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpLottery" href="users/Promoter/Event/Lottery.aspx?EventID=0">Event Lottery</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpLiveReg" href="LiveReg?EventID=0">LiveReg Day of Registration</a></li>
                 
                 </ul>
                 </li>
                 <li class="promoterEvent">
                 <a href="#" class="mobileExpandable">Registration Data</a>
                 <ul class="">
-                <li><a id="ctl00_PromoterMobileMenu1_hpEventSummary" href="Users/Promoter/Event/EventDetails.aspx?EventID=0">Registration Summary</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpEditReg" href="users/Promoter/Registration/Transactions.aspx?EventID=0">Edit/Search Registrations</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpEnterManual" href="users/Promoter/Registration/ManualEntry.aspx?EventID=0">Enter Manual Entries</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpGenBibNum" href="users/Promoter/Event/GenerateBibNumbers.aspx?EventID=0">Generate Bib Numbers</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpDownloadRegData" href="users/Promoter/Event/DownloadData.aspx?EventID=0">Download Registration Data</a></li>
+                    <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpDashboard" href="users/Promoter/Event/Dashboard.aspx?EventID=0">Dashboard</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEventSummary" href="Users/Promoter/Event/EventDetails.aspx?EventID=0">Registration Summary</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEditReg" href="users/Promoter/Registration/Transactions.aspx?EventID=0">Edit/Search Registrations</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEnterManual" href="users/Promoter/Registration/ManualEntry.aspx?EventID=0">Enter Manual Entries</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpGenBibNum" href="users/Promoter/Event/GenerateBibNumbers.aspx?EventID=0">Generate Bib Numbers</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpDownloadRegData" href="users/Promoter/Event/DownloadData.aspx?EventID=0">Download Registration Data</a></li>
                 
-                <li id="ctl00_PromoterMobileMenu1_pnlPrintReleaseForms"><a id="ctl00_PromoterMobileMenu1_hpPrintReleaseForms" href="users/Promoter/Registration/ReleaseForms.aspx?EventID=0">Print Release Forms</a></li>
+                <li id="ctl00_navMenu1_PromoterMobileMenu1_pnlPrintReleaseForms"><a id="ctl00_navMenu1_PromoterMobileMenu1_hpPrintReleaseForms" href="users/Promoter/Registration/ReleaseForms.aspx?EventID=0">Print Release Forms</a></li>
                 </ul>
                 </li>
                 
                 <li class="promoterEvent">
                 <a href="#" class="mobileExpandable">Marketing Tools</a>
                 <ul class="">
-                <li><a id="ctl00_PromoterMobileMenu1_hpGetLogos" href="Users/Public/Logos/BikeReg/Default.aspx?EventID=0">Get BikeReg Logos</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpEmailAll" href="users/Promoter/Event/EmailCategory.aspx?EventID=0">Email All Participants</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpCoupons" href="users/Promoter/CouponCodes.aspx?EventID=0">Coupons</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpReferral" href="users/Promoter/Event/Advanced/EditReferralCodes.aspx?EventID=0">Referral Codes</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpReturning" href="users/Promoter/Event/ReturneesReporting.aspx?eventid=0">Returning Participants</a></li>
-                <li style="display: none"><a id="ctl00_PromoterMobileMenu1_hpSocialMedia" href="users/Promoter/Event/Advanced/SocialMedia.aspx?EventID=0">Social Media</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpAnalytics" href="users/Promoter/Event/Analytics.aspx?EventID=0">Analytics</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpAdvert" href="users/Promoter/PremierEvents.aspx?EventID=0">Advertising Statistics</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpHeatmap" href="users/Promoter/Event/ParticipantLocations.aspx?EventID=0">Participant Locations Heatmap</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpGetLogos" href="Users/Public/Logos/BikeReg/Default.aspx?EventID=0">Get BikeReg Logos</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEmailAll" href="users/Promoter/Event/EmailCategory.aspx?EventID=0">Email All Participants</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpCoupons" href="users/Promoter/CouponCodes.aspx?EventID=0">Coupons</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpReferral" href="users/Promoter/Event/Advanced/EditReferralCodes.aspx?EventID=0">Referral Codes</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpReturning" href="users/Promoter/Event/ReturneesReporting.aspx?eventid=0">Returning Participants</a></li>
+                <li style="display: none"><a id="ctl00_navMenu1_PromoterMobileMenu1_hpSocialMedia" href="users/Promoter/Event/Advanced/SocialMedia.aspx?EventID=0">Social Media Settings</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpAnalytics" href="users/Promoter/Event/Analytics.aspx?EventID=0">Analytics</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpAdvert" href="users/Promoter/PremierEvents.aspx?EventID=0">Advertising Statistics</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpHeatmap" href="users/Promoter/Event/ParticipantLocations.aspx?EventID=0">Participant Locations Heatmap</a></li>
 
                 </ul>
                 </li>
@@ -400,25 +409,30 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                 <a href="#" class="mobileExpandable">Promoter Tasks <span class="hidemobile">|</span></a><br>
                
                 <ul class="">
-                <li><a id="ctl00_PromoterMobileMenu1_hpTaskMyEvents" href="users/Promoter/default.aspx">My BikeReg Events</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpTaskNewEvents" href="users/Promoter/NewEvent.aspx">Create New Event</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpTaskCopyEvent" href="users/Promoter/RenewEvent.aspx">Copy Event</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpTaskSentEmails" href="/Users/Promoter/SentEmails.aspx">Sent Emails / Drafts</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpTaskMultiEventEmail" href="users/Promoter/EmailMultiEvents.aspx">Multi Event Email</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpTasksCouponCodes" href="users/Promoter/CouponCodes.aspx">Coupons</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpEditProfile" href="Users/Promoter/Edit/Default.aspx">Edit Profile</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpChangePassword" href="Users/Promoter/Edit/ChangePassword.aspx">Change Password</a></li>
-                <li id="ctl00_PromoterMobileMenu1_pnlOnlineHelp"><a href="http://support.athletereg.com/home">Online Help</a></li>
-                <li><a id="ctl00_PromoterMobileMenu1_hpPromoterEventLogout" href="Login/Logout.aspx">Logout</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpTaskMyEvents" href="users/Promoter/default.aspx">My BikeReg Events</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpTaskNewEvents" href="users/Promoter/NewEvent.aspx">Create New Event</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpTaskCopyEvent" href="users/Promoter/RenewEvent.aspx">Copy Event</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpTaskSentEmails" href="/Users/Promoter/SentEmails.aspx">Sent Emails / Drafts</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpTaskMultiEventEmail" href="users/Promoter/EmailMultiEvents.aspx">Multi Event Email</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpTasksCouponCodes" href="users/Promoter/CouponCodes.aspx">Coupons</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpEditProfile" href="Users/Promoter/Edit/Default.aspx">Edit Profile</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpChangePassword" href="Users/Promoter/Edit/ChangePassword.aspx">Change Password</a></li>
+                <li id="ctl00_navMenu1_PromoterMobileMenu1_pnlOnlineHelp"><a href="http://support.athletereg.com/home">Online Help</a></li>
+                <li><a id="ctl00_navMenu1_PromoterMobileMenu1_hpPromoterEventLogout" href="Login/Logout.aspx">Logout</a></li>
                 
                 </ul>
                
                 </li>
 
                 <li class="notPromoterMobile mobileonly">
-                    <a id="ctl00_hpMobileLogin" href="Login/Login.aspx">Login</a>
+                    <a id="ctl00_navMenu1_hpMobileLogin" href="Login/Login.aspx">Login</a>
+                    <ul class="webviewsearch">
+                        <li><a href="/Users/Participant/Edit/Default.aspx">Edit Profile</a></li>
+                        <li><a href="/Users/Participant/Team/Member.aspx">Manage Additional Participants</a></li>
+                        <li><a href="/Users/Participant/ChangePassword.aspx">Change Password</a></li>
+                    </ul>
                 </li>
-					<li class="notPromoterMobile"><a href="/events/">Event Calendars <span class="hidemobile">|</span> </a>
+					<li class="notPromoterMobile"><a href="/events/">Event Calendars  <span id="ctl00_navMenu1_spnCalendarDivider" class="hidemobile">|</span></a>
 						<ul class="sub_menu calendar">
                             
                                     <li onclick=""><a href="/events/Road-Races/" class="mobileExpandable">Road Races</a>
@@ -789,18 +803,21 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     
                     
                 </li>
-					<li id="ctl00_liPromoteAnEvent" style="text-transform: uppercase">Promoters  <span class="hidemobile">|</span>
+					<li id="ctl00_navMenu1_liPromoteAnEvent" style="text-transform: uppercase">Promoters  <span class="hidemobile">|</span>
 						<ul class="sub_menu">
 							<li>
 								<a href="Login/Login.aspx?p=p">Promoter Login</a>
 							</li>
+                            <li>
+                                <a href="NewUser/NewPromoter/Default.aspx">Create Account</a>
+                            </li>
 							<li>
-                                <a href="/newpromoter">New Promoter?</a>								
+                                <a href="/newpromoter">Learn More</a>								
 							</li>							
 						</ul>
 					</li>
                     
-					<li id="ctl00_liResults" class="notPromoterMobile"><a href="/Results/">Results </a>
+					<li id="ctl00_navMenu1_liResults" class="notPromoterMobile"><a href="/Results/">Results <span id="ctl00_navMenu1_spnResultsDivider" class="hidemobile">|</span></a>
 						<ul class="resultsdd">
 							<li><a href="Results/Default.aspx">View All Results</a>
 								
@@ -816,41 +833,41 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
 					</li>
 					
 					<li class="last open loginHead">
-                        <a id="ctl00_hpLogin" class="hidemobile" href="./">| Login</a>
-						<ul id="ctl00_loginmenu" class="login loginList open">
+                        <a id="ctl00_navMenu1_hpLogin" class="hidemobile" href="./">&nbsp;Login</a>
+						<ul id="ctl00_navMenu1_loginmenu" class="login loginList open">
 							<li class="open">	
                                 <p id="loginchoice">
                                     <a class="participantLogin button" href="#">Participant Login</a><br>
                                     <a class="promoterLogin button" href="#">Promoter Login</a><br>
                                 </p>
-                                <div id="ctl00_logincontrols" class="logincontrols" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ButtonLogIn')" style="display: none;">
+                                <div id="ctl00_navMenu1_logincontrols" class="logincontrols" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_navMenu1_ButtonLogIn')" style="display: none;">
 	
 									<p>
-                                    <span id="logindesc">Participant</span> Login<br>
-                                    <span class="ie">Username:</span><input name="ctl00$txtUserNameHome" type="text" id="ctl00_txtUserNameHome" class="placeholder" autocomplete="off" placeholder="username" style="width:190px;">
-                                        <span id="ctl00_rvUserName" style="color:Red;display:none;">*</span></p>
-									<p><span class="ie">Password:</span><input name="ctl00$txtPasswordHome" type="password" id="ctl00_txtPasswordHome" class="placeholder" placeholder="password" style="width:190px;">
-                                        <span id="ctl00_rvPassword1" style="color:Red;display:none;">*</span>
+                                    <span style="color:white;"><span id="logindesc">Participant</span> Login</span><br>
+                                    <span class="ie">Username:</span><input name="ctl00$navMenu1$txtUserNameHome" type="text" id="ctl00_navMenu1_txtUserNameHome" class="placeholder" autocomplete="off" placeholder="username" style="width:190px;">
+                                        <span id="ctl00_navMenu1_rvUserName" style="color:Red;display:none;">*</span></p>
+									<p><span class="ie">Password:</span><input name="ctl00$navMenu1$txtPasswordHome" type="password" id="ctl00_navMenu1_txtPasswordHome" class="placeholder" placeholder="password" style="width:190px;">
+                                        <span id="ctl00_navMenu1_rvPassword1" style="color:Red;display:none;">*</span>
                                     </p>   
 								    <div style="text-align: right; font-size: 12px; display: none;">
-                                        <select name="ctl00$DropDownListUserType" id="ctl00_DropDownListUserType" style="width:190px;">
+                                        <select name="ctl00$navMenu1$DropDownListUserType" id="ctl00_navMenu1_DropDownListUserType" style="width:190px;">
 		<option value="l">Log in as a ...</option>
 		<option value="a">Participant</option>
 		<option value="p">Promoter</option>
 
 	</select>
                                         <span style="vertical-align: text-bottom;text-align:center;display:block;">
-                                            <span id="ctl00_rvLoginType" style="color:Red;font-weight:bold;display:none;">*Choose login type</span>
+                                            <span id="ctl00_navMenu1_rvLoginType" style="color:Red;font-weight:bold;display:none;">*Choose login type</span>
                                         </span>
                                         </div>
 								    <div style="text-align: right">
-                                        <span id="ctl00_divRemember" class="rememberme">
-                                            <input id="ctl00_chkRememberMe" type="checkbox" name="ctl00$chkRememberMe" tabindex="3"><label for="ctl00_chkRememberMe">Remember me</label>
+                                        <span id="ctl00_navMenu1_divRemember" class="rememberme">
+                                            <input id="ctl00_navMenu1_chkRememberMe" type="checkbox" name="ctl00$navMenu1$chkRememberMe" tabindex="3"><label for="ctl00_navMenu1_chkRememberMe">Remember me</label>
                                         </span>  
                                     </div>
                                     <p style="margin-top: 3px;" class="txtcentered">
                                         <span id="forgotPassword" style="font-size: 10px;">
-                                            Forgot <span id="ctl00_forgotUsername">
+                                            Forgot <span id="ctl00_navMenu1_forgotUsername">
                                             <a href="#" onclick="handleForgot(false); return false;">username</a> 
                                             or</span> 
                                             <a href="#" onclick="handleForgot(true); return false;">password</a>?<br>
@@ -858,9 +875,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                        
                                         </span>      
                                                                        
-                                        <input type="submit" name="ctl00$ButtonLogIn" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ButtonLogIn&quot;, &quot;&quot;, true, &quot;LoginMenuGroup&quot;, &quot;https://www.bikereg.com/Privacy.aspx?&quot;, false, false))" id="ctl00_ButtonLogIn" class="button" style="height:30px;">
-                                       <input type="submit" name="ctl00$ctl22" value="Switch to Participant" class="participantLogin buttongray switch" style="background-color:Gray;height:30px;padding-left: 6px;padding-right: 6px; margin-right: -4px;">
-                                        <input type="submit" name="ctl00$ctl23" value="Switch to Promoter" class="promoterLogin buttongray switch" style="background-color:Gray;height:30px;">
+                                        <input type="submit" name="ctl00$navMenu1$ButtonLogIn" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$navMenu1$ButtonLogIn&quot;, &quot;&quot;, true, &quot;LoginMenuGroup&quot;, &quot;https://www.bikereg.com/Privacy.aspx?&quot;, false, false))" id="ctl00_navMenu1_ButtonLogIn" class="button" style="height:30px;">
+                                       <input type="submit" name="ctl00$navMenu1$ctl05" value="Switch to Participant" class="participantLogin buttongray switch" style="background-color:Gray;height:30px;padding-left: 6px;padding-right: 6px; margin-right: -4px;">
+                                        <input type="submit" name="ctl00$navMenu1$ctl06" value="Switch to Promoter" class="promoterLogin buttongray switch" style="background-color:Gray;height:30px;">
                                     </p>
                                   
 								
@@ -872,6 +889,154 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                 
 			    </nav>
             </div>
+
+<script>
+    $(document).ready(function () {
+        SetupLoginBox();
+
+                        $("#ctl00_navMenu1_hpLogin").click(function () {
+
+                    // no mobile login, just redirect
+                    if ($('.nav-toggle').is(':visible') && $("#ctl00_hpLogin").text() == "Login") {
+                        window.location.replace("/login/login.aspx");
+                        return false;
+                    }
+                    else {
+                        if ($("#ctl00_navMenu1_hpLogin").text().indexOf('Reg') > -1) {
+                            window.location.replace("/Users/Participant/Default.aspx");
+                            return false;
+                        }
+                        else {
+                            //$(".loginList").toggle();
+                            return false;
+                        }
+                    }
+
+
+
+                });
+                $("#ctl00_navMenu1_DropDownListUserType").change(function () {
+                    SetupLoginBox();
+                });
+                $("#ctl00_navMenu1_DropDownListUserType").on('keypress', function (e) {
+                    var key = e.which;
+                    if (key == 13)// the enter key code
+                    {
+                        $("#ctl00_navMenu1_ButtonLogIn").click();
+                    }
+                });
+                $(".promoterLogin").click(function (event) {
+                    KeepLoginOpen(event);
+                    $("#loginchoice").hide();
+                    $(".logincontrols").show();
+                    $("#ctl00_navMenu1_DropDownListUserType").val("p");
+                    SetupLoginBox();
+                    return false;
+                });
+                $(".participantLogin").click(function (event) {
+                    KeepLoginOpen(event);
+                    $("#loginchoice").hide();
+                    $(".logincontrols").show();
+                    $("#ctl00_navMenu1_DropDownListUserType").val("a");
+                    SetupLoginBox();
+                    return false;
+                });
+    });
+
+                function SetupLoginBox() {
+                var ddlist = $("#ctl00_navMenu1_DropDownListUserType").val();
+
+                if (ddlist) {
+                    var isRacer = ddlist == "a";
+                    $("#forgotPassword").show();
+                    if (isRacer) {
+                        $("#ctl00_navMenu1_divRemember").show("fast");
+                        $("#ctl00_navMenu1_forgotUsername").show('fast');
+                        $(".switch.promoterLogin").show();
+                        $(".switch.participantLogin").hide();
+                        $("#logindesc").text("Participant");
+                    } else {
+                        $("#ctl00_navMenu1_divRemember").show("fast");
+                        $("#ctl00_navMenu1_forgotUsername").hide('fast');
+                        $(".switch.promoterLogin").hide();
+                        $(".switch.participantLogin").show();
+                        $("#logindesc").text("Promoter");
+                    }
+
+                }
+                else {
+                    $("#forgotPassword").hide();
+                }
+                }
+
+                function handleForgot(isForgotPassword) {
+                var selectedUserType = $('#ctl00_navMenu1_DropDownListUserType option:selected ').text();
+
+                if (selectedUserType == "Participant") {
+                    isPromoter = false;
+                }
+                else {
+                    isPromoter = true;
+                }
+                openForgotWindow(isPromoter, isForgotPassword);
+                }
+
+            function openForgotWindow(isPromoter, isForgotPassword) {
+
+
+                var wind = null;
+                try {
+                    wind = GetRadWindow().BrowserWindow;
+                } catch (ex) { }
+
+                var isPromo = isPromoter ? "p" : "";
+                var description = isPromo ? "Promoter" : "Member";
+                setTimeout(function () {
+                    var oWnd;
+                    var url = '/Login/ForgotPasswordWindow.aspx?p=' + isPromo;
+                    if (!isForgotPassword)
+                        url = '/Login/ForgotUsernameWindow.aspx?p=' + isPromo;
+
+                    window.location = url;
+
+                    //if (wind) {
+                    //    var oWnd = wind.radopen(url, null);
+                    //} else {
+                    //    var oWnd = radopen(url, null);
+                    //}
+                    //oWnd.set_visibleTitlebar(false);
+                    //var maxwidth = $(window).width() - 15;
+                    //oWnd.set_maxWidth(maxwidth);
+                    //if (maxwidth < 300) {
+                    //    oWnd.set_minWidth(maxwidth - 5);
+                    //}
+                    //else if (maxwidth > 440) {
+                    //    oWnd.set_width(440);
+                    //}
+                    //else {
+                    //    oWnd.set_minWidth(200);
+                    //}
+
+                    //oWnd.set_height(550);
+                    //oWnd.center();
+
+                    //oWnd.set_modal(false);
+                    ////                 oWnd.show();
+
+                }, 10);
+
+            }
+
+    $('.mobileExpandable').click(function () {
+        if ($('.nav-toggle').is(':visible')) {
+            $(this).next().toggle();
+            return false;
+        }
+        else {
+            return true;
+        }
+    });
+</script>
         </div>
     </div>
     <!-- search -->
@@ -882,14 +1047,14 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                 <div class="racedayonly" style="float: right; padding-top: 1.5em;">
                     <a id="ctl00_hpRaceDayCartLink" class="racedaycart button" href="Registration/Cart/CheckoutCart.aspx">View Cart</a>
                 </div>
-                <img class="racedayonly" src="/i/bikereg-logo.png" alt="BikeReg" style="padding-top: 1.5em;">
+                <img class="racedayonly" src="https://bikereg.scdn4.secure.raxcdn.com/i/bikereg-logo.png" alt="BikeReg" style="border-width:0px;padding-top: 1.5em;">
                 <div id="ctl00_UpdatePanel1" class="columns">
 		
                            
          
                         <div id="ctl00_divinsidesearch" class="search">
                             <input name="ctl00$txtEventName" type="text" id="ctl00_txtEventName" class="inputs noStyle" autocomplete="off" placeholder="ENTER EVENT NAME OR LOCATION">
-                            <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" class="searchbutton" src="i/br/search.png" style="border-width:0px;z-index: 9999;">
+                            <input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" class="searchbutton" src="https://bikereg.scdn4.secure.raxcdn.com/i/br/search.png" style="border-width:0px;z-index: 9999;">
                             
                             <script type="text/javascript">
                                 function RedirectEvent(sender, e) {
@@ -1124,10 +1289,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                 <ul class="social">
                   
                     <li style="float: left; padding-right: 10px;"><a href="https://twitter.com/BikeReg" target="_blank">
-                        <img id="ctl00_Image1" src="i/icon-twitter.png" alt="follow bikereg.com on twitter" style="border-width:0px;">
+                        <img id="ctl00_Image1" src="https://bikereg.scdn4.secure.raxcdn.com/i/icon-twitter.png" alt="follow bikereg.com on twitter" style="border-width:0px;">
                     </a></li>
                     <li style="float: left;"><a href="https://www.facebook.com/pages/BikeRegcom/145232158854062" target="_blank">
-                        <img id="ctl00_Image2" src="i/icon-facebook.png" alt="follow bikereg.com on facebook" style="border-width:0px;"></a></li>
+                        <img id="ctl00_Image2" src="https://bikereg.scdn4.secure.raxcdn.com/i/icon-facebook.png" alt="follow bikereg.com on facebook" style="border-width:0px;"></a></li>
                 </ul>
             </div>
         </div>
@@ -1135,11 +1300,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
             <div class="large-12 columns">
                 <div class="race">
                     <p>
-                        <span>Register For a Race</span> <a href="https://www.bikereg.com" target="new">
-                            <img src="/i/footer-br.png"></a> <a href="https://www.runreg.com" target="new">
-                                <img src="/i/footer-rr.png"></a> <a href="http://www.trireg.com" target="new">
-                                    <img src="/i/footer-tr.png"></a> <a href="https://www.skireg.com" target="new">
-                                        <img src="/i/footer-sr.png"></a></p>
+                        <span>Register For a Race</span> 
+                        <a href="https://www.bikereg.com" target="new"><img src="https://bikereg.scdn4.secure.raxcdn.com/i/footer-br.png" style="border-width:0px;"></a> 
+                        <a href="https://www.runreg.com" target="new"><img src="https://bikereg.scdn4.secure.raxcdn.com/i/footer-rr.png" style="border-width:0px;"></a> 
+                        <a href="http://www.trireg.com" target="new"><img src="https://bikereg.scdn4.secure.raxcdn.com/i/footer-tr.png" style="border-width:0px;"></a> 
+                        <a href="https://www.skireg.com" target="new"><img src="https://bikereg.scdn4.secure.raxcdn.com/i/footer-sr.png" style="border-width:0px;"></a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -1148,15 +1314,15 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
         <div class="row">
             <div class="large-5 columns">
                 <a href="http://www.athletereg.com" class="hideraceday">
-                    <img class="areg" src="/i/athletereg-logo.png" alt="">
+                    <img class="areg" src="https://bikereg.scdn4.secure.raxcdn.com/i/athletereg-logo.png" style="border-width:0px;">
                 </a>
-                <img class="areg racedayonly" src="/i/athletereg-logo.png" alt="">
+                <img class="areg racedayonly" src="https://bikereg.scdn4.secure.raxcdn.com/i/athletereg-logo.png" style="border-width:0px;">
                
             </div>
             <div class="large-7 columns">
                 <p>
                     116 Pleasant Street, Suite 368, Easthampton, MA 01027 | 888.956.9560 | <a href="mailto: Info@BikeReg.com">
-                        info@bikereg.com</a> | ©2014. All rights reserved.</p>
+                        info@bikereg.com</a> | ©1999-2016 All rights reserved.</p>
             </div>
         </div>
     </div>
@@ -1177,7 +1343,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     support.</font></p>
             <p>
                 <font face="Arial, Helvetica, sans-serif" size="2">Please try again or contact
-                    <a id="ctl00_hlContactEmail"></a>
+                    tech@bikereg.com
                     if you need to confirm whether your transaction completed normally.</font></p>
         </div>
         <input type="submit" name="ctl00$btnClose" value="Close" id="ctl00_btnClose">
@@ -1186,33 +1352,33 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
     
 <script type="text/javascript">
 //<![CDATA[
-var Page_Validators =  new Array(document.getElementById("ctl00_rvUserName"), document.getElementById("ctl00_rvPassword1"), document.getElementById("ctl00_rvLoginType"));
+var Page_Validators =  new Array(document.getElementById("ctl00_navMenu1_rvUserName"), document.getElementById("ctl00_navMenu1_rvPassword1"), document.getElementById("ctl00_navMenu1_rvLoginType"));
 //]]>
 </script>
 
 <script type="text/javascript">
 //<![CDATA[
-var ctl00_rvUserName = document.all ? document.all["ctl00_rvUserName"] : document.getElementById("ctl00_rvUserName");
-ctl00_rvUserName.controltovalidate = "ctl00_txtUserNameHome";
-ctl00_rvUserName.errormessage = "Username is required.";
-ctl00_rvUserName.display = "Dynamic";
-ctl00_rvUserName.validationGroup = "LoginMenuGroup";
-ctl00_rvUserName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ctl00_rvUserName.initialvalue = "";
-var ctl00_rvPassword1 = document.all ? document.all["ctl00_rvPassword1"] : document.getElementById("ctl00_rvPassword1");
-ctl00_rvPassword1.controltovalidate = "ctl00_txtPasswordHome";
-ctl00_rvPassword1.errormessage = "Password is required.";
-ctl00_rvPassword1.display = "Dynamic";
-ctl00_rvPassword1.validationGroup = "LoginMenuGroup";
-ctl00_rvPassword1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ctl00_rvPassword1.initialvalue = "";
-var ctl00_rvLoginType = document.all ? document.all["ctl00_rvLoginType"] : document.getElementById("ctl00_rvLoginType");
-ctl00_rvLoginType.controltovalidate = "ctl00_DropDownListUserType";
-ctl00_rvLoginType.errormessage = "Login Type is required.";
-ctl00_rvLoginType.display = "Dynamic";
-ctl00_rvLoginType.validationGroup = "LoginMenuGroup";
-ctl00_rvLoginType.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-ctl00_rvLoginType.initialvalue = "l";
+var ctl00_navMenu1_rvUserName = document.all ? document.all["ctl00_navMenu1_rvUserName"] : document.getElementById("ctl00_navMenu1_rvUserName");
+ctl00_navMenu1_rvUserName.controltovalidate = "ctl00_navMenu1_txtUserNameHome";
+ctl00_navMenu1_rvUserName.errormessage = "Username is required.";
+ctl00_navMenu1_rvUserName.display = "Dynamic";
+ctl00_navMenu1_rvUserName.validationGroup = "LoginMenuGroup";
+ctl00_navMenu1_rvUserName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_navMenu1_rvUserName.initialvalue = "";
+var ctl00_navMenu1_rvPassword1 = document.all ? document.all["ctl00_navMenu1_rvPassword1"] : document.getElementById("ctl00_navMenu1_rvPassword1");
+ctl00_navMenu1_rvPassword1.controltovalidate = "ctl00_navMenu1_txtPasswordHome";
+ctl00_navMenu1_rvPassword1.errormessage = "Password is required.";
+ctl00_navMenu1_rvPassword1.display = "Dynamic";
+ctl00_navMenu1_rvPassword1.validationGroup = "LoginMenuGroup";
+ctl00_navMenu1_rvPassword1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_navMenu1_rvPassword1.initialvalue = "";
+var ctl00_navMenu1_rvLoginType = document.all ? document.all["ctl00_navMenu1_rvLoginType"] : document.getElementById("ctl00_navMenu1_rvLoginType");
+ctl00_navMenu1_rvLoginType.controltovalidate = "ctl00_navMenu1_DropDownListUserType";
+ctl00_navMenu1_rvLoginType.errormessage = "Login Type is required.";
+ctl00_navMenu1_rvLoginType.display = "Dynamic";
+ctl00_navMenu1_rvLoginType.validationGroup = "LoginMenuGroup";
+ctl00_navMenu1_rvLoginType.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_navMenu1_rvLoginType.initialvalue = "l";
 //]]>
 </script>
 
@@ -1240,16 +1406,16 @@ Sys.Application.add_init(function() {
     $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":500,"completionListCssClass":"searchresults","completionListItemCssClass":"searchresult","completionSetCount":6,"delimiterCharacters":"","firstRowSelected":true,"highlightedItemCssClass":"searchresult_highlighted","id":"AutoCompleteEx","minimumPrefixLength":2,"serviceMethod":"GetCompletionList","servicePath":"Autocomplete.asmx"}, {"itemSelected":RedirectEvent}, null, $get("ctl00_txtWebViewSearch"));
 });
 
-document.getElementById('ctl00_rvUserName').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ctl00_rvUserName'));
+document.getElementById('ctl00_navMenu1_rvUserName').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_navMenu1_rvUserName'));
 }
 
-document.getElementById('ctl00_rvPassword1').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ctl00_rvPassword1'));
+document.getElementById('ctl00_navMenu1_rvPassword1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_navMenu1_rvPassword1'));
 }
 
-document.getElementById('ctl00_rvLoginType').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('ctl00_rvLoginType'));
+document.getElementById('ctl00_navMenu1_rvLoginType').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_navMenu1_rvLoginType'));
 }
 Sys.Application.add_init(function() {
     $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":500,"completionListCssClass":"searchresults","completionListItemCssClass":"searchresult","completionSetCount":6,"delimiterCharacters":"","firstRowSelected":true,"highlightedItemCssClass":"searchresult_highlighted","id":"AutoCompleteEx","minimumPrefixLength":2,"serviceMethod":"GetCompletionList","servicePath":"Autocomplete.asmx"}, {"itemSelected":RedirectEvent}, null, $get("ctl00_txtEventName"));
@@ -1262,6 +1428,7 @@ Sys.Application.add_init(function() {
 </form>
     <!-- include js files -->
     
+
     <script type="text/javascript">
         Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest);
 
@@ -1287,11 +1454,7 @@ Sys.Application.add_init(function() {
     
         <script type="text/javascript">
        
-    <!--
-            if (top != self) top.location.href = location.href;
-
-
-            //-->
+    <!--if (top != self) top.location.href = location.href;//-->
 
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function ()
@@ -1299,8 +1462,8 @@ Sys.Application.add_init(function() {
 , i[r].l = 1 * new Date(); a = s.createElement(o),
 m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
             })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-            ga('create', 'UA-10600458-1', 'auto');
-            ga('send', 'pageview');
+            ga('create', 'UA-10600458-1','auto', 'aRegTracker');
+            ga('aRegTracker.send', 'pageview');
 
             function KeepLoginOpen(event) {
                 if ($(event.target).closest('.open').length) {
@@ -1319,7 +1482,7 @@ m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBef
 
 
 
-                SetupLoginBox();
+                
                 SetupMenu();
                 StartHeartBeat();
                 $(document).click(function (event) {
@@ -1334,56 +1497,6 @@ m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBef
                     //                }
                 });
 
-                $("#ctl00_hpLogin").click(function () {
-
-                    // no mobile login, just redirect
-                    if ($('.nav-toggle').is(':visible') && $("#ctl00_hpLogin").text() == "Login") {
-                        window.location.replace("/login/login.aspx");
-                        return false;
-                    }
-                    else {
-                        if ($("#ctl00_hpLogin").text() == "| My BikeReg") {
-                            window.location.replace("/Users/Participant/Default.aspx");
-                            return false;
-                        }
-                        else {
-                            //$(".loginList").toggle();
-                            return false;
-                        }
-                    }
-
-
-
-                });
-                $("#ctl00_DropDownListUserType").change(function () {
-                    SetupLoginBox();
-                });
-                $("#ctl00_DropDownListUserType").on('keypress', function (e) {
-                    var key = e.which;
-                    if (key == 13)// the enter key code
-                    {
-                        $("#ctl00_ButtonLogIn").click();
-                    }
-                });
-                $(".promoterLogin").click(function (event) {
-                    KeepLoginOpen(event);
-                    $("#loginchoice").hide();
-                    $(".logincontrols").show();
-                    $("#ctl00_DropDownListUserType").val("p");
-                    SetupLoginBox();
-                    return false;
-                });
-                $(".participantLogin").click(function (event) {
-                    KeepLoginOpen(event);
-                    $("#loginchoice").hide();
-                    $(".logincontrols").show();
-                    $("#ctl00_DropDownListUserType").val("a");
-                    SetupLoginBox();
-                    return false;
-                });
-                if (!$("body").hasClass("webview")) {
-                    $.smartbanner({ daysHidden: 30, daysReminder: 30, title: 'BikeReg App', button: 'Get It' });
-                }
             });
 
             function SetupMenu() {
@@ -1391,31 +1504,7 @@ m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBef
                 $('.NearmeShowNot').parent().hide();
             }
 
-            function SetupLoginBox() {
-                var ddlist = $("#ctl00_DropDownListUserType").val();
 
-                if (ddlist) {
-                    var isRacer = ddlist == "a";
-                    $("#forgotPassword").show();
-                    if (isRacer) {
-                        $("#ctl00_divRemember").show("fast");
-                        $("#ctl00_forgotUsername").show('fast');
-                        $(".switch.promoterLogin").show();
-                        $(".switch.participantLogin").hide();
-                        $("#logindesc").text("Participant");
-                    } else {
-                        $("#ctl00_divRemember").show("fast");
-                        $("#ctl00_forgotUsername").hide('fast');
-                        $(".switch.promoterLogin").hide();
-                        $(".switch.participantLogin").show();
-                        $("#logindesc").text("Promoter");
-                    }
-
-                }
-                else {
-                    $("#forgotPassword").hide();
-                }
-            }
 
             function OnClientClose(sender, eventArgs) {
 
@@ -1431,70 +1520,6 @@ m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBef
                 }, 0);
 
             }
-            function handleForgot(isForgotPassword) {
-                var selectedUserType = $('#ctl00_DropDownListUserType option:selected ').text();
-
-                if (selectedUserType == "Participant") {
-                    isPromoter = false;
-                }
-                else {
-                    isPromoter = true;
-                }
-                openForgotWindow(isPromoter, isForgotPassword);
-            }
-            function openForgotWindow(isPromoter, isForgotPassword) {
-
-
-                var wind = null;
-                try {
-                    wind = GetRadWindow().BrowserWindow;
-                } catch (ex) { }
-
-                var isPromo = isPromoter ? "p" : "";
-                var description = isPromo ? "Promoter" : "Member";
-                setTimeout(function () {
-                    var oWnd;
-                    var url = '/Login/ForgotPasswordWindow.aspx?p=' + isPromo;
-                    if (!isForgotPassword)
-                        url = '/Login/ForgotUsernameWindow.aspx?p=' + isPromo;
-
-                    if (wind) {
-                        var oWnd = wind.radopen(url, null);
-                    } else {
-                        var oWnd = radopen(url, null);
-                    }
-                    oWnd.set_visibleTitlebar(false);
-                    var maxwidth = $(window).width() - 15;
-                    oWnd.set_maxWidth(maxwidth);
-                    if (maxwidth < 300) {
-                        oWnd.set_minWidth(maxwidth - 5);
-                    }
-                    else if (maxwidth > 440) {
-                        oWnd.set_width(440);
-                    }
-                    else {
-                        oWnd.set_minWidth(200);
-                    }
-
-                    oWnd.set_height(330);
-                    oWnd.center();
-
-                    oWnd.set_modal(false);
-                    //                 oWnd.show();
-
-                }, 10);
-
-            }
-
-            $('.mobileExpandable').click(function () {
-                if ($('.nav-toggle').is(':visible')) {
-                    $(this).next().toggle();
-                    return false;
-                }
-                else {
-                    return true;
-                }
-            });
 
         </script>
     
