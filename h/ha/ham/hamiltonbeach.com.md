@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamiltonbeach.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327234113id_/https%3A//www.hamiltonbeach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamiltonbeach.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013210700id_/https%3A//www.hamiltonbeach.com/privacy.html) for the most accurate reproduction.*
 
 # Hamilton Beach - Good Thinking®
 
