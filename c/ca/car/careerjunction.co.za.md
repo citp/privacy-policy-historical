@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331114510id_/https%3A//www.careerjunction.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013124830id_/https%3A//www.careerjunction.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerJunction
 
@@ -37,9 +37,9 @@
 
 
 
-This privacy policy applies to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) owned and operated by Interactive Junction Holdings (Pty) Ltd. ("CareerJunction"). This privacy policy describes how Interactive Junction Holdings (Pty) Ltd. collects and uses the personal information you provide on our web site: [http://www.careerjunction.co.za](http://www.careerjunction.co.za/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) owned and operated by Interactive Junction Holdings (Pty) Ltd. ("CareerJunction", "We", "Us", "Our"). This privacy policy describes how Interactive Junction Holdings (Pty) Ltd. collects and uses the personal information you provide on our web site: [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20161013124830id_/https%3A//www.careerjunction.co.za/careerjunction.mobi). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Interactive Junction Holdings (Pty) Ltd. has received TRUSTe\'s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site,[http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and does not cover information that may be collected through our mobile website.
+Interactive Junction Holdings (Pty) Ltd. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [http://www.careerjunction.co.za](http://www.careerjunction.co.za/) and our mobile site [http://careerjunction.mobi](https://web.archive.org/web/20161013124830id_/https%3A//www.careerjunction.co.za/careerjunction.mobi).
 
 If you have questions or concerns regarding this policy, you should first [Contact Us](https://web.archive.org/about). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -96,7 +96,7 @@ We request the following information in our CV form:
 
 This information is used for the Online Recruitment process and this includes sending Job Seeker CVs to a Recruiter for the purpose of a Job Seekers job application process where such CV data may then be stored by the Recruiter for future recruitment consideration. A Recruiter may also make contact with a Job Seeker for recruitment opportunities as a result of a CV search conducted by the Recruiter on searchable CVs on the CareerJunction database. If we have trouble processing a request, the contact information is used to get in touch with the user.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend\'s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CareerJunction stores email addresses for the sole purpose of sending this one-time email (and tracking the success of our referral program).
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend\'s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CareerJunction stores email addresses for the sole purpose of sending this one-time email (and tracking the success of our referral program.
 
 Your friend may contact us at [jobseeker.support@careerjunction.co.za](mailto:jobseeker.support@careerjunction.co.za) to request that we remove this information from our database.
 
@@ -108,7 +108,7 @@ This information is used for the Online Recruitment process and this includes se
 
 #### 5\. Cookies
 
-Technologies such as: cookies, beacons, tags and scripts are used by CareerJunction and our partners, affiliates, or analytics or service providers. These technologies are used in analysing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these Companies on an individual as well as aggregated basis.
+We Interactive Junction Holdings (Pty) Ltd. and our partners use technologies such as cookies or similar technologies to analyse trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
 
 We use cookies for tracking usage behaviour, recognise repeat users, manage user access and track user settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -179,6 +179,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 #### 16\. Contact Us
 
-Third Floor Central Building, Black River Park, 2 Fir Street, Observatory, Cape Town, Western Cape, South Africa
+Third Floor Central Building, Black River Park, 2 Fir Street, Observatory, Cape Town, Western Cape, South Africa.
 
-Last Updated: 10 February 2016
+Last Updated: 29 July 2016
