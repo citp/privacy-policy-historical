@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicadeangela.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418002456id_/http%3A//www.musicadeangela.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicadeangela.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014011650id_/http%3A//partyscratchmusic.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Listen and download hindi songs for free - 1 Million Free and Legal Music Tracks
 
 This privacy policy sets out how administration (“we”) of site (“Website”) uses and protects any information that you give us when you use Website.
 
