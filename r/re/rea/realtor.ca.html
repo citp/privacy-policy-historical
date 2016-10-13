@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realtor.ca privacy policy that was archived on 2016-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609045811id_/https%3A//www.realtor.ca/Residential/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtor.ca privacy policy that was archived on 2016-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161014005930id_/https%3A//www.realtor.ca/Residential/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head id="elHead">
 
@@ -15,7 +15,6 @@
 
     <!-- Search Engine blocking -->
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE"><meta http-equiv="PRAGMA" content="NO-CACHE"><meta name="GOOGLEBOT" content="NOARCHIVE">
-
 
     <!-- FAVICON -->
     <link id="favicon" rel="shortcut icon" href="../Presentation/Images/common/favicon/favicon.ico?v=2" type="image/x-icon">
@@ -49,8 +48,8 @@
             bypassCookiePolicy: "always"
          }
         </script>
-        <script type="text/javascript" src="/Presentation/Javascript/libraries/gigyaPlugins.validation.js"></script>
-        <script type="text/javascript" src="/Presentation/Javascript/libraries/gigyaPlugins.js"></script>
+        <script type="text/javascript" src="/Presentation/Javascript/libraries/gigyaPlugins.validation.js?ver=1"></script>
+        <script type="text/javascript" src="/Presentation/Javascript/libraries/gigyaPlugins.js?ver=1"></script>
 
 
 
@@ -59,17 +58,17 @@
         <script type="text/javascript" src="/Presentation/Javascript/frameworks/jquery.dotdotdot.min.js"></script>
         <script type="text/javascript" src="/Presentation/Javascript/frameworks/slick.min.js"></script>
 
-    
+    <script type="text/javascript" src="/foresee/foresee-ACS.js"></script>
 
 
 
 
     <script type="text/javascript">
         if (typeof (jQuery) === 'undefined') {            
-            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/jquery-1.7.2.min.js?Version=636009111552337192' type='text/javascript'%3E%3C/script%3E"));
-            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/jquery-ui-1.8.23.custom.min.js?Version=636009111552649698' type='text/javascript'%3E%3C/script%3E"));
+            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/jquery-1.7.2.min.js?Version=636034907926308216' type='text/javascript'%3E%3C/script%3E"));
+            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/jquery-ui-1.8.23.custom.min.js?Version=636034907931768391' type='text/javascript'%3E%3C/script%3E"));
         }
-    </script><script src="/Presentation/Javascript/frameworks/jquery-1.7.2.min.js?Version=636009111552337192" type="text/javascript"></script><script src="/Presentation/Javascript/frameworks/jquery-ui-1.8.23.custom.min.js?Version=636009111552649698" type="text/javascript"></script>
+    </script><script src="/Presentation/Javascript/frameworks/jquery-1.7.2.min.js?Version=636034907926308216" type="text/javascript"></script><script src="/Presentation/Javascript/frameworks/jquery-ui-1.8.23.custom.min.js?Version=636034907931768391" type="text/javascript"></script>
 
     <!-- Load Global Variables so that they are accessible througout the site -->
     
@@ -121,6 +120,7 @@
     ApplicationSettings.RecaptchaSiteKey = '6LddNdgSAAAAAMNY-C4N26ef-6tfQ6_e8AbQ5Lq7';
     ApplicationSettings.MaximumResults = 9;//screen.height > 900 ? 15 : 12;
     ApplicationSettings.MaxRecords = 15000;
+    ApplicationSettings.IsCandianIP = true;
     //ApplicationSettings.MaximumResultsDisplay = 25;
     ApplicationSettings.RecordsPerPage = 9;//screen.height > 900 ? 15 : 12;
     ApplicationSettings.RecordsPerPagePreviouslyViewed = 4;
@@ -131,7 +131,7 @@
     ApplicationSettings.BingMapKey_PropertyDetails = 'AgyKDIlhpBcltMrcnJrXxvQvB6Xqu7TyQsSuL6rYc-hZQS35zpZRR1eywC13wp5k'
     ApplicationSettings.BingMapKey_PropertyDetails_DrivingDirections = 'AhJLt3UKf57FSgQ1E5bmfUP5J_WVZFyTcwOD3CSaMM_2HjxSmI6IMV2UCQuY1tPQ'
     ApplicationSettings.BingMapKey_DrivingDirections = 'As8l54NSr4Nr6jTYNOkLDFT6KDuGe5MIgZ7-e7vAxKAe2a_MT6HgUwI3X6dpxx60'
-    ApplicationSettings.MapModuleJSVersion = '636009111571025283'
+    ApplicationSettings.MapModuleJSVersion = '636034907941908716'
 
     ApplicationSettings.MapPriceRentDisplay = 'Sale & Rent Ranges';
     ApplicationSettings.MapPriceDisplay = 'Price Range';
@@ -142,299 +142,46 @@
 
     ApplicationSettings.MapSearchWaitTimeLong = 1800;
     ApplicationSettings.MapSearchWaitTimeShort = 700;
-    ApplicationSettings.MapSearchSpeedInterval = 5000;
-    
-    var propertyResultsPanel = new Object();
-    propertyResultsPanel.OpenHouse = 'Open House';
-    propertyResultsPanel.ListingID = 'Listing ID:';
-    propertyResultsPanel.FarmType = 'Farm Type';
-    propertyResultsPanel.NoAddress = '';
-    propertyResultsPanel.BuildingType = 'Building Type';
-    propertyResultsPanel.PropertyType = 'Property Type';    
-    propertyResultsPanel.LandSize = 'Land Size';
-    propertyResultsPanel.LandUse = 'Land Use';
-    propertyResultsPanel.FloorSpace = 'Floor Space';
-    propertyResultsPanel.Title = 'Title';
-    propertyResultsPanel.Storeys = 'Storeys';
-    propertyResultsPanel.More = 'More';
-    propertyResultsPanel.Parking = 'Parking';
-    propertyResultsPanel.ParkingSpaces = 'Parking Spaces';    
-    propertyResultsPanel.PropertyNotMapped = 'Property Not Mapped';   
-    
+    ApplicationSettings.MapSearchSpeedInterval = 5000;    
 
-
-    //Global Messages
-    var Message = new Object();
-    Message.Realtor = 'REALTOR®';
-    Message.Favourites = 'Favourites';
-    Message.OpenHouse = 'Open House';
-    Message.ListingID = 'Listing ID:';
-    Message.FarmType = 'Farm Type';
-    Message.NoAddress = '';
-    Message.BuildingType = 'Building Type';
-    Message.AreaAvailable = 'Area Available';
     
-    Message.Units = 'Units';
-    Message.Tenants = 'Number of units';
-    Message.PropertyType = 'Property Type';    
-    Message.Property = 'Property';    
-    Message.Amenities = 'Amenities';
-    Message.MajorBusinessType = 'Major Business Type';
-    Message.MinorBusinessType = 'Minor Business Type';
-    Message.BusinessType = 'Business Type';
-    Message.BusinessSubType = 'Business Sub-Type';
-    Message.LandSize = 'Land Size';
-    Message.Access = 'Access';
-    Message.SiteFeatures = 'Site Features';
-    Message.Zoning = 'Zoning';
-    Message.AmmenitiesNearBy = 'Amenities Nearby';
-    Message.LandUse = 'Land Use';
-    Message.PresentUse = 'Present Use';    
-    Message.FloorSpace = 'Floor Space';
-    Message.ExteriorBuildingSize = 'Exterior Building Size';
-    Message.Parking = 'Parking Type';
-    Message.Title = 'Title';
-    Message.Storeys = 'Storeys';
-    Message.BuiltIn = 'Built in';
-    Message.More = 'More';    
-    Message.ParkingSpaces = 'Parking Spaces';    
-    Message.PropertyNotMapped = 'Property Not Mapped';   
-    Message.FavouriteRemoved = 'Some listings have been removed from your Favourites because they no longer exist on REALTOR.ca';
-    Message.EndOfList = 'End of list';
-    Message.DisplayMax200 = 'Displaying maximum 200 results';
-    Message.SenderNameNotValid = 'Please enter a sender.';
-    Message.SenderEmailNotValid = 'Please provide your email address.';
-    Message.RecipientEmailNotValid = 'Please provide recipient\'s email address';
-    Message.NoOffices = 'Unfortunately, no offices matched your search. Edit your criteria and try again.';
-    Message.NotSent = 'Your email did not reach its intended recipients.';
-    Message.EmailSent = 'Your email has been sent.';
-    Message.InvalidSalePrice = 'Maximum must be greater than minimum price';
-    Message.InvalidRentPrice = 'Maximum must be greater than minimum rent';
-    Message.From = 'From';
-    Message.Email = 'Email';
-    Message.PhoneNumber = 'Phone Number ';
-    Message.Message = 'Message';
-    Message.CheckAtLeastOneOption = 'Please check at least one item.';
-    Message.Bedrooms = 'Bedrooms';
-    Message.Bathrooms = 'Bathrooms';
-    Message.Mls = 'MLS&reg;';
-    Message.CCNTip = 'Affiliates of the Canadian Commercial Network are Canadian REALTORS® who specialize in commercial and investment real estate. This can include property management, office or industrial leasing and sales, commercial appraisal, shopping centre management, land development, recreation/resort properties, syndication, investment, finance or professional real estate consulting.';
-    Message.Fax = 'Fax';
-    Message.Success = 'Success';
-    Message.Error = 'Error';
-    Message.Colon = ':';
-    Message.MoreInfo = 'More Information';
-    Message.FarmType = 'Farm Type';
-    Message.DissallowedGeoLocation = 'You have dissallowed geo location for this website';
-    Message.UnableToDetectCurrentPosition = 'We are unable to determine your location. Please enter a Neighbourhood, City, or Listing ID to find properties.';
-    Message.TakingTooLongToDetectPosition = 'Took too long to detect your current position';
-    Message.UnknownErrorDetectingPosition = 'An unknown error prevented the device detecting your current position';
-    Message.PleaseEnterAddressCityToFindProperties = 'Please enter an Address, City or Listing ID to find properties.';
-    Message.NearMe = 'Near Me';
-    Message.NoResultsExpandingSearchArea = 'Your search returned no results.  Try expanding the search area.';
-    Message.TooManyResultsReducingSearchArea = 'The search did not return any results. Reducing the search area.';
-    Message.AddToFavorites = 'Add to My Favourites';
-    Message.RemoveFromMyFavourites = 'Remove from My Favourites';
-    Message.RequestTimeout = 'The request timed out.';
-    Message.TheRequestWasNotModified = 'The request was not modified but was not retrieved from the cache.';
-    Message.BadXMLJsonFormat = 'XML/Json format is bad.';
-    Message.HttpError = 'HTTP Error';
-    Message.Of = 'of';
-    Message.Beds = 'Beds';
-    Message.Baths = 'Baths';
-    Message.ErrorInTheRequest = 'There was an error in the request';
-    Message.PropertyNA = 'Property is no longer available';
-    Message.NoFavouriteToView= 'There are currently no favourite listings to display.';
-    Message.MlsNmbr= 'Listing ID';
-    Message.MessageRequired= 'Please enter a message in the comments field.';
-    Message.AddressNotAvailable= 'Address not available';
-    Message.NoResults= 'Your search did not return any results, please refine your search criteria.';
-    Message.TooManyResults = 'Your search returned too many results, please refine your search criteria.';
-    Message.ErrorNoResults = 'Your search did not return any results, please refine your search criteria.';
-    Message.CompareLimit = 'You may only compare 5 properties at a time. Remove a property from your compare list to add this property.';
-    Message.Compare = 'Compare';
-    Message.FavoriteLimit = '';
-    Message.SavedSearchLimit = 'You can only save 5 searches. To add a new search to \"My Searches\", please first delete 1 saved search from your list.';
-    Message.AddToCompare = 'Add to My Compared listings';
-    Message.WhichLocation = 'We found more than one {searchterm}. Please select the location you were looking for or start your search again:';
-    Message.RemoveFromCompare = 'Remove from My Compared listings';
-    Message.SaveSearchNameMustBeUnique = 'You already used this name for one of your searches. Input a different name and save again.';
-    Message.NoResultsWithSearchVal = 'Sorry, we couldn\'t find {search term}, Canada.  Please check spelling or try your search using the name of another nearby location (city, town or township).';
-    Message.ViewMyProperties = 'View My Properties';
-    Message.SalePriceRange = 'Maximum must be greater than minimum price';
-    Message.RentPriceRange = 'Maximum must be greater than minimum rent';
-    Message.InvalidDateRange = 'Start date must be smaller than end date';
-    Message.NoRealtors = 'Unfortunately, no REALTORS® matched your search. Edit your criteria and try again.';
-    Message.SaveSearchSuccess = 'Your search has been saved as ';
-    Message.Today = 'Today';
-    Message.Delete = 'Delete';
-    Message.AndMore = 'and more';
-    Message.DaysAgo = '{days} days ago';
-    Message.Yesterday = 'Yesterday';
-    Message.SaveSearchNeedsName = 'Please add a save search name';
-    Message.EnterListPrice = 'Please enter a List Price';
-    Message.EnterMortgageRate = 'Please enter a Mortgage Rate';
-    Message.MortgageTermGreaterThanAmmort = 'The mortgage term cannot be greater than the amortization period';
-    Message.InvalidMortgageRate = 'Please enter a numeric mortgage rate </br> between 1.00 and 25.00 (ex. 4.25)';
-    Message.InvalidListPrice = 'Please enter a list price number between 10,000 and 10,000,000';
-    Message.EnterAmortization = 'Please enter an Amortization Period';
-    Message.CaptchaValidation = 'The verification words are incorrect. Please try again.';
-    Message.Year = 'Year';
-    Message.TotalPaid = 'Total Paid';
-    Message.PrincipalPaid = 'Principal Paid';
-    Message.InterestPaid = 'Interest Paid';
-    Message.Balance = 'Balance';
-    Message.Totals = 'Totals';
-    Message.AmortPeriodTooLong = 'The amortization period cannot be greater than 25';
-    Message.InvalidAnnualIncome = 'Please enter an annual income number between {0} and {1}';
-    Message.InvalidMonthlyDebtPayments = 'Please enter a Monthly Debt Payment number between {0} and {1}';
-    Message.InvalidAnnualPropertyTaxes = 'Please enter a Property Tax number between {0} and {1}';
-    Message.InvalidMonthlyCondoFees = 'Please enter a Monthly Condo Fee number between {0} and {1}';
-    Message.InvalidMonthlyHeatingCost = 'Please enter a Heating Cost number between {0} and {1}';
-    Message.InvalidMortgageInterestRate = 'Please enter a numeric interest rate between {0} and {1} (ex. 4.25)';
-    Message.ThisIsAMandatoryField = 'This is a mandatory field and must be entered to continue';
-    Message.PleaseSelectAProvince = 'Please select a province';
-    Message.InvalidEmail = 'Invalid email address';
-    Message.AtleastOneItem = 'At least one option must be selected to continue';
-    Message.FeedbackThankYou = 'Thank you for your feedback!';
-    Message.EmailSendOK = 'Your email has been sent.';
-    Message.EmailSendFail = 'We\'re sorry, an error has occurred and the email could not be sent.  Please try again later.';
-    
-    Message.FavouritesToolTip = 'View My Favourites';
-    Message.NoFavouritesToolTip = 'Learn how to save your favourite listings';
-    Message.ComparesToolTip = 'View My Compared listings';
-    Message.NoComparesToolTip = 'Learn how to compare listings';
-
-    Message.NoSavedSearchesYet = 'You don\'t have any saved searches yet.';
-    Message.TooManyPropertiesInFavourites = 'You can only keep 50 Favourites. This total is shared between your Residential and Commercial lists.';
-    Message.Draw = 'Draw';
-    Message.EndDraw = 'End Draw';
-    Message.Edit = 'Edit';
-    Message.EndEdit = 'End Edit';
-    Message.Hide = 'Hide';
-    Message.Show = 'Show';
-    Message._Delete = 'Delete';
-    Message.Search = 'Search';
-    Message.Exit = 'Exit';
-    Message.RightToCompleteShape = 'Left click to begin drawing the area and right click to complete it.';
-    Message.PolyErrorMsg = 'A shape may not have intersecting lines, please edit the shape you\'ve created so none of the lines intersect with one another. What would you like to do?';
-    Message.RestoreShape = 'Restore Area';
-    Message.DeleteShape = 'Delete Area';
-    Message.ConfirmDeleteSingle = 'Click OK to Confirm Delete';
-    Message.ConfirmDelete = 'OK';
-    Message.MoreThanOneLine = 'You need to draw more than one line (at least three points) to create a valid area.';
-    Message.ExitMsg = 'You have not saved the drawn Shape. What would you like to do?';
-    Message.SaveShape = 'Save and Exit';
-    Message.CancelExit = 'Cancel';
-    Message.SearchAreaText = 'Search Area';
-    Message.ZoomIn = 'Please zoom in to draw an area.';
-    Message.SavePoly = 'Save';
-    Message.PolyHelp = 'Help';
-    Message.InvalidShape = 'Invalid Shape';
-    Message.IncompleteShape = 'Incomplete Shape';
-    Message.EditArea = 'Edit Area';
-    Message.DeleteArea = 'Delete Area';
-    Message.DrawARegion = 'Draw an Area';
-    Message.ZoomIn = 'Please zoom in to draw an area.';
-    Message.MoreOptions = 'More Options';
-    Message.MoreOptionsHome = 'More Options';
-    Message.KeywordTooMany = 'Use up to 5 keywords';
-    Message.KeywordTooLong = 'Each keyword can contain up to 30 characters';
-    Message.TheFollowingCharsAreNotAllowed = 'The following characters are not allowed: {0}';
-    Message.ResidentialURLPath = 'Residential';
-    Message.CommercialURLPath = 'Commercial';
-    
-    Message.CPSystemError = 'We apologize, but your request cannot be processed at this time. Please try again soon.';
-    Message.EmailNotVerifiedExpiredText = 'The link in your confirmation email has expired.<br/><br/>Enter your email to send another verification email.';
-    Message.PasswordResetSuccess = 'You have successfully changed your password.';
-    Message.OldPasswordUsed = 'Your new password cannot be the same as your current or previous passwords.';
-    Message.PasswordStrength = 'Minimum 8 characters with 1 number and 1 special character.';
-    Message.EmailMustContain = 'Email address must contain \"@\" and \".\" Please try entering it again.';
-    Message.EmailLength = 'Enter at least 8 characters.';
-    Message.PasswordNoMatch = '\"(New) Password\" and \"Re-enter Password\" fields must match.';
-    Message.M1 = 'One checkbox is mandatory. Select one to continue.';
-    Message.M3 = 'First and Last Names must start with a letter, not a number.';
-    Message.M4 = 'To sign in, your account must be active. <br/> <br/>Try your Sign In again or please <a class=\"lnkSpn\" href=\"mailto:info@crea.ca\">contact us</a> for assistance.';
-    Message.M20 = 'To help protect your account, we have temporarily blocked it. Please <a class=\"lnkSpn\" href=\"mailto:info@crea.ca\">contact us</a> directly for assistance.';
-    Message.M22 = 'Your email and password combination do not match your existing account. Please try again.';
-    Message.M54 = 'You must enter the phone number with only numeric and dashes (example: 111-222-4444).';
-    Message.M2 = 'Your updates have been saved to your profile.';
-    Message.M36 = 'Your email entries don\'t match. Make sure that \"New Email\" and \"Re-enter Email\" are the same.';
-    Message.Hi = 'Hi'
-    Message.M28 = 'You have successfully signed out from REALTOR.ca.';
-    Message.M29 = 'You have successfully signed off from REALTOR.ca.<br/><br/>If you were not previously signed on through {[SocialMedia1]}, you have been signed off of {[SocialMedia2]} as well.';
-    Message.M43 = 'Are you sure you want to leave this page?  Choosing “Yes” will prevent you from signing in with your {[SocialMedia]} account.';
-    Message.M42 = 'Your signed-in session has timed out.<br/><a class=\"lnkSpn\" onclick=\"gigyaPlugins.login();\">Sign In</a> again.';
-    Message.M44 = 'Your text cannot contain a URL or web address.';
-    Message.LinkAccountTextSocial = 'The following social media account(s) are already connected to your profile.<br/><br/> Select one to join {[SocialMedia]} with your REALTOR.ca account.';
-    Message.T226 = 'We have removed the subscriptions you indicated.  You will no longer receive these emails.';
-    Message.MandatoryFieldEntered = 'This is a mandatory field and must be entered to continue.';
-    Message.M53 = 'Thank you. Come again!';
-    Message.M47 = 'Are you sure you want to delete your notes from this listing?';
-    Message.M52 = 'Your note has been saved. The listing has also been added to your Favourites.';
-    Message.M55 = 'Your notes must be limited to 300 characters.';
-    Message.M66 = 'To view these notes, you must <a class=\"lnkSpn\" onclick=\"gigyaPlugins.login();\">Sign In/Sign Up</a>.';
-    Message.M71 = 'This link has already expired. <a class=\"lnkSpn\" href=\"/\">Click here</a> to visit the realtor.ca website to view details for this and other listings.';
-    Message.M76 = 'You have reached your limit of Favourites. <br/><br/>When you add a note to a listing you also save it in your Favourites.<br/><br/>To add the note you wanted, you need to first remove some favourites form your list.';
-    Message.M77 = 'You have reached your limit of Favourites across Residential and Commercial sections. <br/><br/>When you add a note to a listing you also save it in your Favourites.<br/><br/>To add the note you wanted, you need to first remove some favourites form your list.';
-    Message.NotesTooltip = 'Add your notes here...';
-    Message.NotesLink = 'Add Notes';
-    Message.NotesLinkEdit = 'Edit Notes';
-    Message.MyNotes = 'My Notes';
-    Message.ViewNotes = 'View Notes';
-    Message.Description = 'Description';
-    Message.M39 = 'The values in your Calculator have been saved in your account. They will be used in your next calculation.';
-    Message.T288 = 'Click on any of your Saved Searches to find listings that match your criteria';
-    Message.MySearches = 'My Searches';
-    Message.ResidentialRealEstate = 'Residential';
-    Message.CommercialRealEstate = 'Commercial';
-    Message.DateCreated = 'Date Created';
-    Message.DeleteAll = 'Delete All';
-    Message.M30 = 'You can save up to 5 searches. To add a new search, delete one from your list.';
-    Message.M61 = 'You can save up to 50 saved searches. To add this search, delete one from your list.';
-    Message.M62 = 'You can save up to 50 searches. To add this search, delete one of your Residential or Commercial Saved Searches.';
-    Message.M63 = 'You can save up to 5 searches. To save this search, delete one of your Residential or Commercial Saved Searches or <a class=\"lnkSpn\" onclick=\"gigyaPlugins.login();\">Sign-up</a> to increase your limits.';
-    Message.Rename = 'Rename';
-    Message.M57= 'You can keep up to 150 Favourite listings. <br/><br/>To add this listing, remove a Favourite.';
-    Message.M58= 'You can keep up to 150 Favourite listings.<br/<br/> To add this property, remove one from your Commercial or Residential list of Favourites.';
-    Message.M70= 'Importing cannot take place. You have reached the maximum number of {[FCS1]}. <b>To import these at your next sign in, delete some of your existing {[FCS2]}</b>. See <a class=\"lnkSpn\" href=\"/Answers-to-your-questions.aspx\">FAQ</a> for more information on how to do this.';
-    Message.M70Favourites = 'Favourites';
-    Message.M70Compares = 'Compares';
-    Message.M70SavedSearches = 'Saved Searches';
-    Message.M72= 'The system has lost connection to your account.  You cannot save any updates to your Profile at this time.<br/><br/> You can still Favourite and Compare listings, Saved Searches and add Notes.<br/><br/> These will be added to your account when the connection has been restored.';
-    Message.M78= 'We have tried to store your information saved during the system disruption.<br/><br/> You have reached the maximum number of {[FCS1]}. Unfortunately they were not saved properly.<br/><br/>  We apologize for any inconvenience.';
-    Message.Compares = 'Compares'
-    Message.SavedSearches = 'Saved Searches'
-    Message.OK = 'OK'
-    Message.Cancel = 'Cancel'
-    Message.T315 = 'To see your notes, your friend needs to Sign-In to REALTOR.ca'
-    Message.GigyaLoadError = 'A setting on your computer is preventing you from Signing Up/In on REALTOR.ca.<br/><br/>This could be caused by an ad blocker, your firewall or browser proxy settings.<br/><br/>Ensure that REALTOR.ca and gigya.com are added as exceptions to any blocking you may have set up on your system and try accessing Sign Up/Sign In account again.'
 </script>
+    <script type="text/javascript" src="/Presentation/Javascript/Messages.aspx?Version=636034907884030861&amp;lang=1"></script>
 
     <script type="text/javascript">
         if (ApplicationSettings.CultureID == 2) {
-            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/localization/jquery.ui.datepicker-fr-CA.js?Version=636009111766157559' type='text/javascript'%3E%3C/script%3E"));
+            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/localization/jquery.ui.datepicker-fr-CA.js?Version=636034907939724646' type='text/javascript'%3E%3C/script%3E"));
 
         } else {
-            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/localization/jquery.ui.datepicker-en-CA.js?Version=636009111766157559' type='text/javascript'%3E%3C/script%3E"));
+            document.write(unescape("%3Cscript src='/Presentation/Javascript/frameworks/localization/jquery.ui.datepicker-en-CA.js?Version=636034907939568641' type='text/javascript'%3E%3C/script%3E"));
 
         }
 
-    </script><script src="/Presentation/Javascript/frameworks/localization/jquery.ui.datepicker-en-CA.js?Version=636009111766157559" type="text/javascript"></script>
+    </script><script src="/Presentation/Javascript/frameworks/localization/jquery.ui.datepicker-en-CA.js?Version=636034907939568641" type="text/javascript"></script>
 
     <!-- CSS -->
-    <link rel="stylesheet" type="text/css" href="/Presentation/css/jquery/ui-lightness/jquery-ui-1.8.23.custom.css?Version=636009111593594669" media="screen, print">
-    <link rel="stylesheet" type="text/css" href="/Presentation/css/Realtor.css?Version=636009111405508902" media="screen, print">
-    <link rel="stylesheet" type="text/css" href="/Presentation/css/royalslider/default/default.css?Version=636009111592813420">
-    <link rel="stylesheet" type="text/css" href="/Presentation/css/qTip2/jquery.qtip.min.css?Version=636009111419140541">
-    <link rel="stylesheet" type="text/css" href="/Presentation/css/smoothDivScroll/smoothDivScroll.css?Version=636009111419352886">
-    <link rel="stylesheet" type="text/css" href="/Presentation/css/slick/slick-theme.css?Version=636009111419140541">
+    <link rel="stylesheet" type="text/css" href="/Presentation/css/jquery/ui-lightness/jquery-ui-1.8.23.custom.css?Version=636034907999162551" media="screen, print">
+    <link rel="stylesheet" type="text/css" href="/Presentation/css/Realtor.css?Version=636034907996822476" media="screen, print">
+    <link rel="stylesheet" type="text/css" href="/Presentation/css/royalslider/default/default.css?Version=636034908001190616">
+    <link rel="stylesheet" type="text/css" href="/Presentation/css/qTip2/jquery.qtip.min.css?Version=636034908000098581">
+    <link rel="stylesheet" type="text/css" href="/Presentation/css/smoothDivScroll/smoothDivScroll.css?Version=636034908001502626">
+    <link rel="stylesheet" type="text/css" href="/Presentation/css/slick/slick-theme.css?Version=636034908001346621">
     <style type="text/css">
         
     </style>
     
     <!-- Script for Azure ApplicationInsights -->
     <script type="text/javascript">var appInsights=window.appInsights||function(config){ function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t}({instrumentationKey:"03151bf2-fb5e-4036-8685-0bdade9fe3e1"});window.appInsights=appInsights;appInsights.trackPageView();</script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+    
+
+    <!-- canonical & alternate link out to mobile site for mobile machines for SEO purposes-->
+        
+    <link rel="canonical" href="https://www.realtor.ca/Residential/PrivacyPolicy.aspx">
+    
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.realtor.ca/StaticPage.aspx?content=PrivacyPolicy">
+    <link rel="alternate" media="handheld" href="https://m.realtor.ca/StaticPage.aspx?content=PrivacyPolicy">
+
+    <!--Webmaster Codeblock for Google & Bing SEO tracking-->
     </head>
 
 <body id="MasterPageBodyTag">
@@ -455,15 +202,15 @@
     <!-- MAIN FORM -->
     <form name="elMasterForm" method="post" action="/Residential/PrivacyPolicy.aspx" id="elMasterForm" autocomplete="off">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxNjc3NTM3NWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFImN0bDAwJGVsSGVhZGVyJGVsVXNlckxvZ2luJGNoa0NSRUEFJWN0bDAwJGVsSGVhZGVyJGVsVXNlckxvZ2luJGNoa1JFQUxUT1IFJGN0bDAwJGVsSGVhZGVyJGVsVXNlckxvZ2luJGNoa1NvY2lhbAUlY3RsMDAkZWxIZWFkZXIkZWxVc2VyTG9naW4kY2hrUmV2aXNlZKdZ8fZ7UOyOt+9CupAypq0nn529">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjg1ODQ0NTgyZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAUiY3RsMDAkZWxIZWFkZXIkZWxVc2VyTG9naW4kY2hrQ1JFQQUlY3RsMDAkZWxIZWFkZXIkZWxVc2VyTG9naW4kY2hrUkVBTFRPUgUkY3RsMDAkZWxIZWFkZXIkZWxVc2VyTG9naW4kY2hrU29jaWFsBSVjdGwwMCRlbEhlYWRlciRlbFVzZXJMb2dpbiRjaGtSZXZpc2Vk2pesezLxZdarfEIwnmaHDU8U5ik=">
 </div>
 
 
-<script src="/ScriptResource.axd?d=i50q8dwHNOhMyPZdU7e6KPzy6XnY_p-Vtb1K6PyVhiU7d0ulkSBsGtEFwwk6Q9Z1G6xuLn-IVrl7C4AN7ZT1auxVV-HKEuFwv6C-5-T3mgQhkRrKlPKYuJ5OO01w4DCcv6bxLKgjGt0fXRGj26cntMnsxE5I68OxkCUPNOXFK6KdtV0DLt-2c9lAet4wbj1SMbROVBnnAszdEaODF4PUS3kLn-LDibDCinVFh1gQrbeKmepD9CcQKVc4z8OYQSJO28dD1CB3jcCYohp-0xmtHHdHSGYam6G9yKxf5GfC2bfg6JBhzcllVn_K8TOp5_UKTQGp6w0_kulyEZ4CaD4i8izuKTDCpqXUvPMXURuyEEt7JynVx2SF6U-MycOtDYaOxvZXHfjyzw08OLmsBm_-2Y_12r9t4HiLc4BwYd1gMFgtQFr2kN3e5Mt2reHeqJw0Z61NfgxwqzKnq-mv3seJctNUDFkE2eR41SFxYQRJwG4Enrp1UewHpE3EKRsfqDEEbSrsLnoYapogW5BXJPiFHENFlpKFqixZBGvODLWMSkztr1Yx41mAp4jVKjLZn1wNa3NaFlANbLb53sL8g0_vqJsG6OZaUH7btgg8AQhJ_8fL-PWLnsPB11PvPJXMTO6wEOz4owBpSZ1aRKap9SawKerVcdmyeE0txLNZJE8-keAuO_d-BM01WfUsymJvAHMSOlH6Ckf4BaX-HYWU1U0HfHmEsS7OBC9LAr9Muu7jm3eJAcxmhV6h7WEShArOP1CfgUv_EWv-LIsuc4QRKR5T_GkIqgrTxQwP9GkRYxaKLpz2foDi-JtSqLLaAmlR10-CWWcK9ER00DIa0I3-KJK0l-MUtl4lWcT138ahfrueypZi95B0TiXtiuVoG_bFQLlybkKdfeXKluUPjbBFGyXhdLvj63H8BhpHY-22uBOmntm1k9g1SLR-GH6SX7QMBZA5L5HV8AGPA_xmMExr3AipMSy801vVZO_pBJSDo_MBfB_MHAI9BkkTpkzfP-OifNonLck79r2OvfIZmmfk9QKRg_cxnQsuW1nOmgOb8qPVvnaCa03It6dOrvmyE2dL_Zabt8tqmPq92ycQ1UU5kgj6dnDSDw9QfrSM4Ekbi__dCqsZM3WIzPT2zC10qm4aNiuiaKM4kI6wQ1II3k2YAj3fFuN2xBAEMnkK5lCArrp3UPYffDmcHrHgbAfXZyrUAJ_Kn8rPanqgJlkBUN_R0kfpiStBwRSQEGPLtzxmDfjG1ZseZ7IGQDAVyUoPgfvKpMI3bLRb9LGIEQ9C--n1yXMU4Rt1vZ3XzZQxBAVoDxwzYhvZK_uW-gZ28yI9V79a0HvpatbYZW05gC7RmZB2XuHLb-EomOEs9brDMkX55fUghSG46OE9Uxg0HXReD5Tx50BY8P2oE3b0bCfi07Atbwjd5n1ioJ7z9Qj9P-2yAEXTHsmTJEbs58zd4_1cTRrMcLhbYaneFxn5p6Jdlu0JcJac5ruQOl3D2nPHeB-EElPXjWLqPyqLgWs27XNMXv3kelejbyVO06b_-TX_EtMis3c5lr5MbGNIzha7Y_lEkJc1-AEP2cGoTfy5LSjrw3tabRLbMTzqPAcmHdTYVItdvAXPeRs8tMlWCwCJcrueOhb5rZPLdVd6nk3qyTaBS2T-VbYth0COEcRZVO9JHWvMaqGv89w8cvi7f14wYNelJKCIMjuu2OBh0BFtj2R4rbyDaXFrwR1egCA-aGqRLgi_Lac_ivPCUNr082zUDf5mgMJa1iXkLYZpflOlSYS3YWWEvcJO-qhNgiZk4pP1jWkd7NMDSoXLd9oe2FN4p85PRaPgjCiidB76lWjlGWyk0i8dBOm5Ea-fuGtn_kmzTyzJv2xQZfiP1vHM9ior6uKZVuwMYc95yizc5PrKphKc-mKXZ1lURx5LjJrKBf_M2WhVdEpc3AjvEHY1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZH-SelVzzBWJ8gdoeFbs1GLAA1mEd-1oZNJ1Q4d-BS9ElTuHSW3CeRO46EsD9Qqoq7STSZh2DbpyMSPZcWQeHZXiogNsyjwhzIVyaj4jgxB5Oa4ayxATCmIQ6_IIXFQeVE-3ptZP5QwiIL3FADbCfkyHcwawbdB5P_jyZlC1A_lDESwxizh4AQQ3ijae1bpiUB_IwaIXNi4vP1KK21-D3G4Zl1kt3S3KXbftZIzJVduKsmu5d5bgiSdZfWhngHZurE2K6IGRkHZH4yF2B4iPiw7KHcEW67qtKBxGyU5nAvWA3M5ck0HqBCnK4Gm0cwPVgAI1Bb27-8kEmHWpu4Meg0EJZZvDohWbRqufKFACcIU8HcUZauVPXWNG7f-viMreshneZOxILkX2mcZX40hdbqptF-WfcnKSf1k2rkOhUT6Dctk0B0bRmF1OUDznBfZ6SSB44056_5ttXEGWSxjy8cTueqrjYiS-EP5wo9hPNLz_GmwLDCoflT6912zUSlAKwtAGnVfB0PjUXWmGPYWzAg4M5XtSUyOzdAoF4G8Ial33N_X2CRhX9W5bkEgpKiuZwvqr4IfYKbj7ycx4GXd5OUM3p5WE1Nv_OwZ4rXVeVCgPLJAll771dha8wmi0js1jqAjserpGzMg-TXLG95J6yPvtoVu02fQMumklyXmJqs5B9k_zFTzskeUf-5eXOQBgtplSNVXsCPyEbKLv_9ztHNyteCzJQNSFvPo7rFFKjfvRXDqDSokdyzaRTFTsWYkcz3tQry3HrLdgUoobiX1o0GouwHf8hGuaygaaNfm5KjKjGrQ6xNy12QqPtWTQAGh1XU2Zgq24Pi8qoXsDgz2LwbbLbuAfGDKsanNGVZpJH9SxstJChjG4CkWi5qWrqY-16sQO5pCGtzYyiHHHd1OqVfiDjomGQwbjzJ_KZNI3yoWUCS9HEj3E8lTglByMyHtLRGeOubzLWJ82mY4ICX4XLsNvSfRrwysJw9pTyMAmm4anNyK1eEEcvC4z1_v4B9gn718K9SNFgJbvuhsaWa1qyHqDQ5RG6FbZHye-FGWCuDmG7WmWjga8DwoVoOX7fk37ZkuX_P86nhBhS1vfudTxWmWRdl3l-MqPPFHmn0lUDJnVdoSYjUV8YYde_djcSl1xW_0OZUflluCHtm1KwC9CA9xocI6B0tHNF171tusYxtwVyOb5qHBvaBBu2Ym8gc7wlxVOf2x9P5Vxb9cLa_RH41StfLvt822eQVR5Ygl0x-n9qF_Pgs7qRFUovbn0cQz09pLbn_1-lioZqTIwTyRJqQzvTcAArDyvAKVAi-dbImQrGyPCGs-lgECGuCl-hWMTXlWdb7N424VGOVNot4gCnu-phqk6ktQHLeXiCxEVigwlovlO3z5G-DoKG8PEOaoZtqMVKDP33ngEPLQPy-4YoC6gV6I8KJ4Vz6mLjTYQRcKNBR2GHdGLr2m5NXd9CC6P6e8E-xTZv20arKp6v7jkAZ58KunlpQTn4zGwKO54A4I-Q8_zVmIkRxUuWFzpE48CzoHhp4OpmjUpaf9JlldRwiJxrhatI1u2njJevDQY46EqgFQsAIIHG6QF5iPb0pbgMEmnjf_kWizmMnyaWB8ZgSaq1D-JsAK6zYZSfsx_ZhGBYbWgC-7q33yf8lWiSVYTeWlUxJ5rWGf2AUjDsb_N3VYjLRuNXS1BojWaCje4Ub2xnxenmGlS_-INLjHqjWOKlosx6AdIRsSt_5SZovzjYQ56FM4GhFDTOJbTofA1QCy_cLIq3b4s_PJI116DTrqX2nQc8muYFM4AXXBiHoOUmumOAHxrJcR1gxsZv92ICq-wzZDvmQkx5mzC5D0L7_8NNl9NZI8nXYtKLqztXGayEzZFtq0vaR5T1Ss3M7fl8vDZzFGxaJRZsxb2fZG5e8ufO1y-SdyCHkhPRozCkOiIcYyDyII1" type="text/javascript"></script>
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA/car9/yEGm8xd7b7VoyuZWj1s2rOJU5NsdgIjKKFlhWKlmjGTwYr0QAOZ/ZWtfbeAM5pw+WgEoUGVjUdY/31LN9BQ1bsmQRNGjZ8RuHr6DzCGcVvxKEkJyv3KcJ4TSggb7u5ZDu4qCMXoxNQPFFFZ8pgjDtIm7sKnTCXFFuLnXisUKmGy1WDzKVRjFx/92fFRUE3Sx1jvM1E61P9BdH328aZS6mQHdzRjElFGtQeUfofSUWh50yszdnmMPPUaY+dTwXcjHLX8jthOCFm5krzUhQV+evJ/IcuV3imtfMMTTl8MzLeqGVGTE+xLreK7UeZlHZdOw9fvPgJdPFRDPWeJprfsfpA==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA8c6xVFPTfWQHGGxmjP61Mtj1s2rOJU5NsdgIjKKFlhWKlmjGTwYr0QAOZ/ZWtfbeAM5pw+WgEoUGVjUdY/31LN9BQ1bsmQRNGjZ8RuHr6DzCGcVvxKEkJyv3KcJ4TSggb7u5ZDu4qCMXoxNQPFFFZ8pgjDtIm7sKnTCXFFuLnXisUKmGy1WDzKVRjFx/92fFRUE3Sx1jvM1E61P9BdH328aZS6mQHdzRjElFGtQeUfofSUWh50yszdnmMPPUaY+dTwXcjHLX8jthOCFm5krzUhQV+evJ/IcuV3imtfMMTTl8MzLeqGVGTE+xLreK7UeZnYLfrvY61te5dqsMbF838+V1SYUA==">
 </div>
            
         
@@ -477,6 +224,7 @@ Cookies.LocationTabHint = new creaCookie('location_tab_hint','365');
 Cookies.GUID = new creaCookie('GUID','365');
 Cookies.TermsOfUse = new creaCookie('TermsOfUseAgreement','365');
 Cookies.TargetPage = new creaCookie('TargetPage','365');
+Cookies.Token = new creaCookie('Token','-1');
 Cookies.ICXCookieConversion = new creaCookie('ICXCookieConversion','365');
 Cookies.MapBackURL = new creaCookie('MAP_BACK_URL','365');
 Cookies.ListingHistory = new creaCookie('previouslyViewedListings','365');
@@ -587,9 +335,9 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
                 </div>
                 <div class="m_hdr_glb_search_con">
                     
-                    <input name="ctl00$elHeader$m_hdr_glb_search_input" type="text" maxlength="100" id="m_hdr_glb_search_input" autocomplete="false" placeholder="Neighbourhood, City or Listing ID" style="display: none;">
+                    <input name="ctl00$elHeader$m_hdr_glb_search_input" type="text" maxlength="100" id="m_hdr_glb_search_input" autocomplete="false" placeholder="Neighbourhood, City or MLS® Number" style="display: none;">
                     <input type="text" style="display:none;" name="m_hdr_glb_search_input_loginID" id="m_hdr_glb_search_input_loginID">
-                    <a href="#" id="m_hdr_glb_search_magnify_lnk" accesskey="f" style="display: inline-block;" title="Enter location, neighbourhood or listing ID to run Search"><img src="/Presentation/Images/common/icons/search_white.png" alt="Search" id="m_hdr_glb_search_magnify" class="m_hdr_glb_search_magnify"></a>
+                    <a href="#" id="m_hdr_glb_search_magnify_lnk" accesskey="f" style="display: inline-block;" title="Enter location, neighbourhood or MLS® Number to run Search"><img src="/Presentation/Images/common/icons/search_white.png" alt="Search" id="m_hdr_glb_search_magnify" class="m_hdr_glb_search_magnify"></a>
                 </div>
                 
                 <a class="hdr_link" href="#" id="m_hdr_findarealtor" onclick="$('#m_hdr_dropdown_menu').toggle(); return false;">Find a REALTOR<sup>®</sup></a>                
@@ -753,14 +501,14 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
       height:48px;
   }
 </style>
-<div id="divLoading" style="display:none;"><img src="/Presentation/Images/common/icons/loading.gif"></div>
+<div id="divLoading" style="display:none;"><img src="/Presentation/Images/common/icons/loading.gif" alt=""></div>
 <div id="userLogin" class="hdr_link_login" onclick="gigyaPlugins.login();" style="display:block">
-    <span id="spnSilh"><img src="/Presentation/Images/common/icons/silh-white.png" id="silh-white" class="silh"></span>
+    <span id="spnSilh"><img src="/Presentation/Images/common/icons/silh-white.png" id="silh-white" class="silh" alt=""></span>
         <a class="alogin" id="spnLogin" onclick="gigyaPlugins.login();">
             Sign In
         </a>
 </div>
-<div id="userLoggedIn" style="display:none"><a class="aUser"><img src="/Presentation/Images/common/icons/silh-white-in.png" class="silh-in" id="silh-white-in"><span id="spnUser"></span></a></div>
+<div id="userLoggedIn" style="display:none"><a class="aUser"><img src="/Presentation/Images/common/icons/silh-white-in.png" class="silh-in" id="silh-white-in" alt=""><span id="spnUser"></span></a></div>
 <div id="promoBanner" style="display: none;">
     <div id="HintboxTriangle" class="m_hintbox_arrow" style="z-index: 1002;background: #27B5D9; margin-top: 10px; left: 240px; right: 0; margin-left: auto; margin-right: auto;"></div>
     <div id="Hintbox" style="z-index: 1002; width: 250px; margin-top: 15px; background: white; border: 1px solid black; position: absolute; padding: 20px 30px; margin-left: auto; margin-right: auto; display: block; left: 30px; right: 0; -webkit-box-shadow: 0 3px 5px 2px rgba(151,151,151,1); -moz-box-shadow: 0 3px 5px 2px rgba(151,151,151,1); box-shadow: 0 3px 5px 2px rgba(151,151,151,1);">
@@ -964,13 +712,13 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
         <span class="c_bottom_title" id="termsOfUse">Terms of Use/Privacy Policy</span>
         <span class="g_bottom_text_pnl">Agreement is valid for the duration that your REALTOR.ca account is active, or until these Terms/Policies are updated, whichever comes first.</span>
         <div style="border-top:1px solid #e0e0da;text-align: center;background-color:#e0e0da;font-size:0.85em;"><b>  ∨  Scroll Down to Agree   ∨</b></div>
-        <div id="divLegal" style="background:#ffffff;"><div class="m_static"><h2 class="m_legal_header">Legal</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Terms of Use Agreement</h2></div><div class="m_static_sct_rgt"><p>By accessing any of the websites or mobile applications (collectively, hereinafter "website" or "websites") operated by The Canadian Real Estate Association (CREA), including REALTOR.ca and ICX.ca, you, the user, agree to be bound by all of the terms for use and agrees these terms constitute a binding contract between the user and CREA.</p><p>These Terms of Use apply to all users, except to the extent that CREA has developed specific policies for member real estate Boards, Associations and REALTOR® members. Those organizations and persons should also refer to the applicable policies of CREA's Technology Committee.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Copyright</h2></div><div class="m_static_sct_rgt"><p>This website/database is a copyright-protected work which is owned by CREA. Part of the contents of this website/database, including all real estate listings and related information, images and photographs (collectively, "Listing Content"), are also protected by copyright, which is owned by the CREA members who supplied the content and/or by third parties, and is reproduced in this website/database under license. The contents of this website/database, including the Listing Content, are intended for the private, non-commercial use by individuals. Any commercial use of the website/database, including the Listing Content, in whole or in part, directly or indirectly, is specifically forbidden except with the prior written authority of the owner of the copyright.</p><p>Users may, subject to these Terms of Use, print or otherwise save individual pages for private use. However, the contents of this website/database, including the Listing Content, may not be modified or altered in any respect, merged with other data or published in any form, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate data on the pages produced by, or displayed on the CREA websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Trademarks</h2></div><div class="m_static_sct_rgt"><p>Not all real estate agents are REALTORS®.</p><p>REALTOR®, REALTORS® and the REALTOR® logo are certification marks owned by REALTOR® Canada Inc., a corporation jointly owned by the National Association of REALTORS® and CREA. The REALTOR® trademarks are used to identify real estate services provided by brokers and salespersons who are members of CREA and who accept and respect a strict Code of Ethics, and are required to meet consistent professional standards of business practice which is the consumer's assurance of integrity.</p><p>MLS®, Multiple Listing Service®, and the associated logos are all registered certification marks owned by CREA and are used to identify real estate services provided by brokers and salespersons who are members of CREA.</p><p>Other trademarks used on the CREA websites may be owned by real estate boards and other third parties. Nothing contained on this website gives any user the right or license to use any trademark displayed on this website without the express permission of the owner.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages Sent via Website</h2></div><div class="m_static_sct_rgt"><p>CREA's membership directory and its contents constitute proprietary information of CREA. The information contained in this directory and made available through the "Email REALTOR®" feature on the websites is intended for private, non-commercial use by individuals who are potential buyer or sellers and who wish to contact a REALTOR® member about the REALTOR® member's property listing information. Any other use of the information is specifically forbidden.</p><p>The contents of this directory may not be copied or reproduced, modified or altered in any respect, merged with other data, disseminated in any form, entered into a computer database, used as part of or in connection with a mailing, fax, or e-mail list, or otherwise utilized in any form or manner, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate the information contained in this directory.</p><p>This website also allows users to send messages to other persons, including other users and REALTOR® members. The user agrees not to use this website to harass or abuse, send spam or other unwanted communications, or send unlawful, libelous, obscene, discriminatory or otherwise objectionable messages.</p><p>CREA is under no obligation to review the content of messages sent through the website but may do so at any time in order to comply with any law, government request, or in the interest of operating the website. CREA may remove any message and/or terminate, limit or suspend any user's access to the website for any reason.</p><p>The user agrees that CREA shall have no liability for any damages arising out of the content of any messages sent through this website. Anyone who sends a message agrees to indemnify and hold CREA harmless from any and all liability, damages or expenses, whatsoever due, arising from, directly or indirectly, any cause of action arising out of that message.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Website</h2></div><div class="m_static_sct_rgt"><p>Users may link to the website. However, CREA reserves the right to refuse a link at any time at CREA's sole discretion. The user agrees to remove any link to the website at CREA's request. The link must result in a new, fully functional, full screen browser window occupied solely by the pages created by the CREA website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Third Party Sites</h2></div><div class="m_static_sct_rgt"><p>This website may contain hyperlinks to websites operated by parties other than CREA. Such hyperlinks are provided for the user's reference only. CREA does not control such websites and is not responsible for their contents or the privacy or other practices of such websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Frames</h2></div><div class="m_static_sct_rgt"><p>Users and third parties may not under any circumstance use technology to display the content of CREA's websites in a frame or in any other manner that is different from how it would appear if a user typed the URL into the browser line.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Microsoft Bing</h2></div><div class="m_static_sct_rgt"><p>Some versions of this website use Microsoft Bing Maps. Users who use such versions of this website are subject to the terms of use available at: <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" target="_blank">http://www.microsoft.com/maps/assets/docs/terms.aspx</a>.</p></div></div><div class="m_static_sct"> <div class="m_static_sct_lft"><h2 class="staticSubTitle">Privacy</h2></div><div class="m_static_sct_rgt"><p>The user acknowledges that their personal information will be used by the website in accordance with the website privacy policy located at: <a href="http://realtor.ca/PrivacyPolicy.aspx" target="_blank">http://realtor.ca/PrivacyPolicy.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Liability and Warranty Disclaimer</h2></div><div class="m_static_sct_rgt"><p>CREA makes no representations about the suitability of the data or graphics published on this website. The listing information is deemed reliable, but not guaranteed. Everything on this website is provided "As Is" without warranty of any kind including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement. Neither CREA nor any of its suppliers shall be liable for any direct, incidental, consequential, indirect or punitive damages arising out of the user’s access to or use of this website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">No Waiver</h2></div><div class="m_static_sct_rgt"><p>CREA's failure or delay to enforce any of the terms and conditions under these Terms of Use shall not operate as a waiver of any of CREA's rights or privileges under these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Termination of Access</h2></div><div class="m_static_sct_rgt"><p>CREA reserves the right, in its sole discretion, to terminate, limit or suspend any user's access to this website without notice or liability, for any reason whatsoever, including the user's breach of any of these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Updates, Upgrades and Revisions</h2></div><div class="m_static_sct_rgt"><p>Where the user downloads and installs CREA mobile applications the user agrees to future updates and upgrades of such mobile applications. User can decline automatic updates and upgrades to mobile applications by changing user settings, for example, in the operating system or app platform, where such settings are available.</p><p>CREA may at any time revise these Terms of Use by updating this posting. All users of this website are bound by these conditions and should therefore periodically visit this page to review any changes to these requirements. The user's continued use of this website following the posting of any changes constitutes acceptance by the user of such modifications.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Language</h2></div><div class="m_static_sct_rgt"><p>If these terms of use are translated into a language other than English and there are conflicts between the translations, the English version shall prevail and control.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Governing Law</h2></div><div class="m_static_sct_rgt"><p>These Terms of Use shall be governed by the laws of Ontario, Canada. The courts in Ottawa, Ontario, will have exclusive jurisdiction to hear and decide any disputes relating to these Terms of Use.</p></div></div></div></div>   
+        <div id="divLegal" style="background:#ffffff;"><div class="m_static"><h2 class="m_legal_header">Legal</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Terms of Use Agreement</h2></div><div class="m_static_sct_rgt"><p>By accessing any of the websites or mobile applications (collectively, hereinafter "website" or "websites") operated by The Canadian Real Estate Association (CREA), including REALTOR.ca and ICX.ca, you, the user, agree to be bound by all of the terms for use and agrees these terms constitute a binding contract between the user and CREA.</p><p>These Terms of Use apply to all users, except to the extent that CREA has developed specific policies for member real estate Boards, Associations and REALTOR® members. Those organizations and persons should also refer to the applicable policies of CREA's Technology Committee.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Copyright</h2></div><div class="m_static_sct_rgt"><p>This website/database is a copyright-protected work which is owned by CREA. Part of the contents of this website/database, including all real estate listings and related information, images and photographs (collectively, "Listing Content"), are also protected by copyright, which is owned by the CREA members who supplied the content and/or by third parties, and is reproduced in this website/database under license. The contents of this website/database, including the Listing Content, are intended for the private, non-commercial use by individuals. Any commercial use of the website/database, including the Listing Content, in whole or in part, directly or indirectly, is specifically forbidden except with the prior written authority of the owner of the copyright.</p><p>Users may, subject to these Terms of Use, print or otherwise save individual pages for private use. However, the contents of this website/database, including the Listing Content, may not be modified or altered in any respect, merged with other data or published in any form, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate data on the pages produced by, or displayed on the CREA websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Trademarks</h2></div><div class="m_static_sct_rgt"><p>Not all real estate agents are REALTORS®.</p><p>REALTOR®, REALTORS® and the REALTOR® logo are certification marks owned by REALTOR® Canada Inc., a corporation jointly owned by the National Association of REALTORS® and CREA. The REALTOR® trademarks are used to identify real estate services provided by brokers and salespersons who are members of CREA and who accept and respect a strict Code of Ethics, and are required to meet consistent professional standards of business practice which is the consumer's assurance of integrity.</p><p>MLS®, Multiple Listing Service®, and the associated logos are all registered certification marks owned by CREA and are used to identify real estate services provided by brokers and salespersons who are members of CREA.</p><p>Other trademarks used on the CREA websites may be owned by real estate boards and other third parties. Nothing contained on this website gives any user the right or license to use any trademark displayed on this website without the express permission of the owner.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages Sent via Website</h2></div><div class="m_static_sct_rgt"><p>CREA's membership directory and its contents constitute proprietary information of CREA. The information contained in this directory and made available through the "Email REALTOR®" feature on the websites is intended for private, non-commercial use by individuals who are potential buyer or sellers and who wish to contact a REALTOR® member about the REALTOR® member's property listing information. Any other use of the information is specifically forbidden.</p><p>The contents of this directory may not be copied or reproduced, modified or altered in any respect, merged with other data, disseminated in any form, entered into a computer database, used as part of or in connection with a mailing, fax, or e-mail list, or otherwise utilized in any form or manner, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate the information contained in this directory.</p><p>This website also allows users to send messages to other persons, including other users and REALTOR® members. The user agrees not to use this website to harass or abuse, send spam or other unwanted communications, or send unlawful, libelous, obscene, discriminatory or otherwise objectionable messages including message that:</p><ul>(a) infringe, misappropriate or violate any intellectual property or other rights of any third-party;</ul><ul>(b) are defamatory, harmful to minors, obscene or child pornographic;</ul><ul>(c) contain any viruses or programming routines intended to damage the services or any software, hardware or other technology used to provide the services or surreptitiously intercept or expropriate any data or information;</ul><ul>(d) are false, misleading or inaccurate;</ul><ul>(e) contain Sensitive Data. For the purposes of these terms for use, "Sensitive Data" means (i) a social security number, passport number, driver's license number, or similar identifier (or any portion thereof); (ii) a credit or debit card number; (iii) employment, financial or health information; (iv) any person's ethnic or religious affiliation or sexual orientation; (v) account passwords; (vi) any person's date of birth; (vii) any person's criminal history; or (viii) the user's mother's maiden name.</ul><p>CREA is under no obligation to review the content of messages sent through the website but may do so at any time in order to comply with any law, government request, or in the interest of operating the website. CREA may remove any message and/or terminate, limit or suspend any user's access to the website for any reason.</p><p>The user agrees that CREA shall have no liability for any damages arising out of the content of any messages sent through this website. Anyone who sends a message agrees to indemnify and hold CREA harmless from any and all liability, damages or expenses, whatsoever due, arising from, directly or indirectly, any cause of action arising out of that message.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Website</h2></div><div class="m_static_sct_rgt"><p>Users may link to the website. However, CREA reserves the right to refuse a link at any time at CREA's sole discretion. The user agrees to remove any link to the website at CREA's request. The link must result in a new, fully functional, full screen browser window occupied solely by the pages created by the CREA website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Third Party Sites</h2></div><div class="m_static_sct_rgt"><p>This website may contain hyperlinks to websites operated by parties other than CREA. Such hyperlinks are provided for the user's reference only. CREA does not control such websites and is not responsible for their contents or the privacy or other practices of such websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Frames</h2></div><div class="m_static_sct_rgt"><p>Users and third parties may not under any circumstance use technology to display the content of CREA's websites in a frame or in any other manner that is different from how it would appear if a user typed the URL into the browser line.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Re-targeting</h2></div><div class="m_static_sct_rgt"><p>This website allows a third-party company, Facebook, to serve ads and/or collect certain anonymous information when visitors use our website. Facebook may use cookies or web beacons to collect non-personally identifiable information (e.g., click stream information, browser type, time and date) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="https://www.facebook.com/help/247395082112892" target="_blank">https://www.facebook.com/help/247395082112892</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Microsoft Bing</h2></div><div class="m_static_sct_rgt"><p>Some versions of this website use Microsoft Bing Maps. Users who use such versions of this website are subject to the terms of use available at: <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" target="_blank">http://www.microsoft.com/maps/assets/docs/terms.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Privacy</h2></div><div class="m_static_sct_rgt"><p>The user acknowledges that their personal information will be used by the website in accordance with the website privacy policy located at: <a href="http://realtor.ca/PrivacyPolicy.aspx" target="_blank">http://realtor.ca/PrivacyPolicy.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Liability and Warranty Disclaimer</h2></div><div class="m_static_sct_rgt"><p>CREA makes no representations about the suitability of the data or graphics published on this website. The listing information is deemed reliable, but not guaranteed. Everything on this website is provided "As Is" without warranty of any kind including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement. Neither CREA nor any of its suppliers shall be liable for any direct, incidental, consequential, indirect or punitive damages arising out of the user's access to or use of this website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">No Waiver</h2></div><div class="m_static_sct_rgt"><p>CREA's failure or delay to enforce any of the terms and conditions under these Terms of Use shall not operate as a waiver of any of CREA's rights or privileges under these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Termination of Access</h2></div><div class="m_static_sct_rgt"><p>CREA reserves the right, in its sole discretion, to terminate, limit or suspend any user's access to this website without notice or liability, for any reason whatsoever, including the user's breach of any of these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Updates, Upgrades and Revisions</h2></div><div class="m_static_sct_rgt"><p>Where the user downloads and installs CREA mobile applications the user agrees to future updates and upgrades of such mobile applications. User can decline automatic updates and upgrades to mobile applications by changing user settings, for example, in the operating system or app platform, where such settings are available.</p><p>CREA may at any time revise these Terms of Use by updating this posting. All users of this website are bound by these conditions and should therefore periodically visit this page to review any changes to these requirements. The user's continued use of this website following the posting of any changes constitutes acceptance by the user of such modifications.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Language</h2></div><div class="m_static_sct_rgt"><p>If these terms of use are translated into a language other than English and there are conflicts between the translations, the English version shall prevail and control.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Governing Law</h2></div><div class="m_static_sct_rgt"><p>These Terms of Use shall be governed by the laws of Ontario, Canada. The courts in Ottawa, Ontario, will have exclusive jurisdiction to hear and decide any disputes relating to these Terms of Use.</p></div></div></div></div>   
         
         <div class="chk-social-wrap"><input id="chkSocial" type="checkbox" name="ctl00$elHeader$elUserLogin$chkSocial"><span class="chkSocialTextSm">I agree to the Terms of Use/Privacy Policy</span></div> 
             <div id="terms-validation" data-bound-to="email" style="position:relative; display:none;">
                 <div id="qtip-terms-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-terms-validation-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-terms-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">You must view the entire Terms of Use / Privacy Policy and accept them before proceeding to the next step.</div></div>
+                    <div class="qtip-content-crea" id="qtip-terms-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">You must view the entire Terms of Use / Privacy Policy and accept them before proceeding to the next step.</div></div>
                 </div>
              </div>
         <br>
@@ -996,12 +744,12 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
     </div>
     <div class="c_bottom">
         <span class="c_bottom_title">Terms of Use/Privacy Policy</span>
-        <div id="divLegal2"><div class="m_static"><h2 class="m_legal_header">Legal</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Terms of Use Agreement</h2></div><div class="m_static_sct_rgt"><p>By accessing any of the websites or mobile applications (collectively, hereinafter "website" or "websites") operated by The Canadian Real Estate Association (CREA), including REALTOR.ca and ICX.ca, you, the user, agree to be bound by all of the terms for use and agrees these terms constitute a binding contract between the user and CREA.</p><p>These Terms of Use apply to all users, except to the extent that CREA has developed specific policies for member real estate Boards, Associations and REALTOR® members. Those organizations and persons should also refer to the applicable policies of CREA's Technology Committee.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Copyright</h2></div><div class="m_static_sct_rgt"><p>This website/database is a copyright-protected work which is owned by CREA. Part of the contents of this website/database, including all real estate listings and related information, images and photographs (collectively, "Listing Content"), are also protected by copyright, which is owned by the CREA members who supplied the content and/or by third parties, and is reproduced in this website/database under license. The contents of this website/database, including the Listing Content, are intended for the private, non-commercial use by individuals. Any commercial use of the website/database, including the Listing Content, in whole or in part, directly or indirectly, is specifically forbidden except with the prior written authority of the owner of the copyright.</p><p>Users may, subject to these Terms of Use, print or otherwise save individual pages for private use. However, the contents of this website/database, including the Listing Content, may not be modified or altered in any respect, merged with other data or published in any form, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate data on the pages produced by, or displayed on the CREA websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Trademarks</h2></div><div class="m_static_sct_rgt"><p>Not all real estate agents are REALTORS®.</p><p>REALTOR®, REALTORS® and the REALTOR® logo are certification marks owned by REALTOR® Canada Inc., a corporation jointly owned by the National Association of REALTORS® and CREA. The REALTOR® trademarks are used to identify real estate services provided by brokers and salespersons who are members of CREA and who accept and respect a strict Code of Ethics, and are required to meet consistent professional standards of business practice which is the consumer's assurance of integrity.</p><p>MLS®, Multiple Listing Service®, and the associated logos are all registered certification marks owned by CREA and are used to identify real estate services provided by brokers and salespersons who are members of CREA.</p><p>Other trademarks used on the CREA websites may be owned by real estate boards and other third parties. Nothing contained on this website gives any user the right or license to use any trademark displayed on this website without the express permission of the owner.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages Sent via Website</h2></div><div class="m_static_sct_rgt"><p>CREA's membership directory and its contents constitute proprietary information of CREA. The information contained in this directory and made available through the "Email REALTOR®" feature on the websites is intended for private, non-commercial use by individuals who are potential buyer or sellers and who wish to contact a REALTOR® member about the REALTOR® member's property listing information. Any other use of the information is specifically forbidden.</p><p>The contents of this directory may not be copied or reproduced, modified or altered in any respect, merged with other data, disseminated in any form, entered into a computer database, used as part of or in connection with a mailing, fax, or e-mail list, or otherwise utilized in any form or manner, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate the information contained in this directory.</p><p>This website also allows users to send messages to other persons, including other users and REALTOR® members. The user agrees not to use this website to harass or abuse, send spam or other unwanted communications, or send unlawful, libelous, obscene, discriminatory or otherwise objectionable messages.</p><p>CREA is under no obligation to review the content of messages sent through the website but may do so at any time in order to comply with any law, government request, or in the interest of operating the website. CREA may remove any message and/or terminate, limit or suspend any user's access to the website for any reason.</p><p>The user agrees that CREA shall have no liability for any damages arising out of the content of any messages sent through this website. Anyone who sends a message agrees to indemnify and hold CREA harmless from any and all liability, damages or expenses, whatsoever due, arising from, directly or indirectly, any cause of action arising out of that message.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Website</h2></div><div class="m_static_sct_rgt"><p>Users may link to the website. However, CREA reserves the right to refuse a link at any time at CREA's sole discretion. The user agrees to remove any link to the website at CREA's request. The link must result in a new, fully functional, full screen browser window occupied solely by the pages created by the CREA website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Third Party Sites</h2></div><div class="m_static_sct_rgt"><p>This website may contain hyperlinks to websites operated by parties other than CREA. Such hyperlinks are provided for the user's reference only. CREA does not control such websites and is not responsible for their contents or the privacy or other practices of such websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Frames</h2></div><div class="m_static_sct_rgt"><p>Users and third parties may not under any circumstance use technology to display the content of CREA's websites in a frame or in any other manner that is different from how it would appear if a user typed the URL into the browser line.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Microsoft Bing</h2></div><div class="m_static_sct_rgt"><p>Some versions of this website use Microsoft Bing Maps. Users who use such versions of this website are subject to the terms of use available at: <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" target="_blank">http://www.microsoft.com/maps/assets/docs/terms.aspx</a>.</p></div></div><div class="m_static_sct"> <div class="m_static_sct_lft"><h2 class="staticSubTitle">Privacy</h2></div><div class="m_static_sct_rgt"><p>The user acknowledges that their personal information will be used by the website in accordance with the website privacy policy located at: <a href="http://realtor.ca/PrivacyPolicy.aspx" target="_blank">http://realtor.ca/PrivacyPolicy.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Liability and Warranty Disclaimer</h2></div><div class="m_static_sct_rgt"><p>CREA makes no representations about the suitability of the data or graphics published on this website. The listing information is deemed reliable, but not guaranteed. Everything on this website is provided "As Is" without warranty of any kind including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement. Neither CREA nor any of its suppliers shall be liable for any direct, incidental, consequential, indirect or punitive damages arising out of the user’s access to or use of this website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">No Waiver</h2></div><div class="m_static_sct_rgt"><p>CREA's failure or delay to enforce any of the terms and conditions under these Terms of Use shall not operate as a waiver of any of CREA's rights or privileges under these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Termination of Access</h2></div><div class="m_static_sct_rgt"><p>CREA reserves the right, in its sole discretion, to terminate, limit or suspend any user's access to this website without notice or liability, for any reason whatsoever, including the user's breach of any of these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Updates, Upgrades and Revisions</h2></div><div class="m_static_sct_rgt"><p>Where the user downloads and installs CREA mobile applications the user agrees to future updates and upgrades of such mobile applications. User can decline automatic updates and upgrades to mobile applications by changing user settings, for example, in the operating system or app platform, where such settings are available.</p><p>CREA may at any time revise these Terms of Use by updating this posting. All users of this website are bound by these conditions and should therefore periodically visit this page to review any changes to these requirements. The user's continued use of this website following the posting of any changes constitutes acceptance by the user of such modifications.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Language</h2></div><div class="m_static_sct_rgt"><p>If these terms of use are translated into a language other than English and there are conflicts between the translations, the English version shall prevail and control.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Governing Law</h2></div><div class="m_static_sct_rgt"><p>These Terms of Use shall be governed by the laws of Ontario, Canada. The courts in Ottawa, Ontario, will have exclusive jurisdiction to hear and decide any disputes relating to these Terms of Use.</p></div></div></div></div>   
+        <div id="divLegal2"><div class="m_static"><h2 class="m_legal_header">Legal</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Terms of Use Agreement</h2></div><div class="m_static_sct_rgt"><p>By accessing any of the websites or mobile applications (collectively, hereinafter "website" or "websites") operated by The Canadian Real Estate Association (CREA), including REALTOR.ca and ICX.ca, you, the user, agree to be bound by all of the terms for use and agrees these terms constitute a binding contract between the user and CREA.</p><p>These Terms of Use apply to all users, except to the extent that CREA has developed specific policies for member real estate Boards, Associations and REALTOR® members. Those organizations and persons should also refer to the applicable policies of CREA's Technology Committee.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Copyright</h2></div><div class="m_static_sct_rgt"><p>This website/database is a copyright-protected work which is owned by CREA. Part of the contents of this website/database, including all real estate listings and related information, images and photographs (collectively, "Listing Content"), are also protected by copyright, which is owned by the CREA members who supplied the content and/or by third parties, and is reproduced in this website/database under license. The contents of this website/database, including the Listing Content, are intended for the private, non-commercial use by individuals. Any commercial use of the website/database, including the Listing Content, in whole or in part, directly or indirectly, is specifically forbidden except with the prior written authority of the owner of the copyright.</p><p>Users may, subject to these Terms of Use, print or otherwise save individual pages for private use. However, the contents of this website/database, including the Listing Content, may not be modified or altered in any respect, merged with other data or published in any form, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate data on the pages produced by, or displayed on the CREA websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Trademarks</h2></div><div class="m_static_sct_rgt"><p>Not all real estate agents are REALTORS®.</p><p>REALTOR®, REALTORS® and the REALTOR® logo are certification marks owned by REALTOR® Canada Inc., a corporation jointly owned by the National Association of REALTORS® and CREA. The REALTOR® trademarks are used to identify real estate services provided by brokers and salespersons who are members of CREA and who accept and respect a strict Code of Ethics, and are required to meet consistent professional standards of business practice which is the consumer's assurance of integrity.</p><p>MLS®, Multiple Listing Service®, and the associated logos are all registered certification marks owned by CREA and are used to identify real estate services provided by brokers and salespersons who are members of CREA.</p><p>Other trademarks used on the CREA websites may be owned by real estate boards and other third parties. Nothing contained on this website gives any user the right or license to use any trademark displayed on this website without the express permission of the owner.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages Sent via Website</h2></div><div class="m_static_sct_rgt"><p>CREA's membership directory and its contents constitute proprietary information of CREA. The information contained in this directory and made available through the "Email REALTOR®" feature on the websites is intended for private, non-commercial use by individuals who are potential buyer or sellers and who wish to contact a REALTOR® member about the REALTOR® member's property listing information. Any other use of the information is specifically forbidden.</p><p>The contents of this directory may not be copied or reproduced, modified or altered in any respect, merged with other data, disseminated in any form, entered into a computer database, used as part of or in connection with a mailing, fax, or e-mail list, or otherwise utilized in any form or manner, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate the information contained in this directory.</p><p>This website also allows users to send messages to other persons, including other users and REALTOR® members. The user agrees not to use this website to harass or abuse, send spam or other unwanted communications, or send unlawful, libelous, obscene, discriminatory or otherwise objectionable messages including message that:</p><ul>(a) infringe, misappropriate or violate any intellectual property or other rights of any third-party;</ul><ul>(b) are defamatory, harmful to minors, obscene or child pornographic;</ul><ul>(c) contain any viruses or programming routines intended to damage the services or any software, hardware or other technology used to provide the services or surreptitiously intercept or expropriate any data or information;</ul><ul>(d) are false, misleading or inaccurate;</ul><ul>(e) contain Sensitive Data. For the purposes of these terms for use, "Sensitive Data" means (i) a social security number, passport number, driver's license number, or similar identifier (or any portion thereof); (ii) a credit or debit card number; (iii) employment, financial or health information; (iv) any person's ethnic or religious affiliation or sexual orientation; (v) account passwords; (vi) any person's date of birth; (vii) any person's criminal history; or (viii) the user's mother's maiden name.</ul><p>CREA is under no obligation to review the content of messages sent through the website but may do so at any time in order to comply with any law, government request, or in the interest of operating the website. CREA may remove any message and/or terminate, limit or suspend any user's access to the website for any reason.</p><p>The user agrees that CREA shall have no liability for any damages arising out of the content of any messages sent through this website. Anyone who sends a message agrees to indemnify and hold CREA harmless from any and all liability, damages or expenses, whatsoever due, arising from, directly or indirectly, any cause of action arising out of that message.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Website</h2></div><div class="m_static_sct_rgt"><p>Users may link to the website. However, CREA reserves the right to refuse a link at any time at CREA's sole discretion. The user agrees to remove any link to the website at CREA's request. The link must result in a new, fully functional, full screen browser window occupied solely by the pages created by the CREA website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Third Party Sites</h2></div><div class="m_static_sct_rgt"><p>This website may contain hyperlinks to websites operated by parties other than CREA. Such hyperlinks are provided for the user's reference only. CREA does not control such websites and is not responsible for their contents or the privacy or other practices of such websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Frames</h2></div><div class="m_static_sct_rgt"><p>Users and third parties may not under any circumstance use technology to display the content of CREA's websites in a frame or in any other manner that is different from how it would appear if a user typed the URL into the browser line.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Re-targeting</h2></div><div class="m_static_sct_rgt"><p>This website allows a third-party company, Facebook, to serve ads and/or collect certain anonymous information when visitors use our website. Facebook may use cookies or web beacons to collect non-personally identifiable information (e.g., click stream information, browser type, time and date) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="https://www.facebook.com/help/247395082112892" target="_blank">https://www.facebook.com/help/247395082112892</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Microsoft Bing</h2></div><div class="m_static_sct_rgt"><p>Some versions of this website use Microsoft Bing Maps. Users who use such versions of this website are subject to the terms of use available at: <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" target="_blank">http://www.microsoft.com/maps/assets/docs/terms.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Privacy</h2></div><div class="m_static_sct_rgt"><p>The user acknowledges that their personal information will be used by the website in accordance with the website privacy policy located at: <a href="http://realtor.ca/PrivacyPolicy.aspx" target="_blank">http://realtor.ca/PrivacyPolicy.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Liability and Warranty Disclaimer</h2></div><div class="m_static_sct_rgt"><p>CREA makes no representations about the suitability of the data or graphics published on this website. The listing information is deemed reliable, but not guaranteed. Everything on this website is provided "As Is" without warranty of any kind including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement. Neither CREA nor any of its suppliers shall be liable for any direct, incidental, consequential, indirect or punitive damages arising out of the user's access to or use of this website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">No Waiver</h2></div><div class="m_static_sct_rgt"><p>CREA's failure or delay to enforce any of the terms and conditions under these Terms of Use shall not operate as a waiver of any of CREA's rights or privileges under these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Termination of Access</h2></div><div class="m_static_sct_rgt"><p>CREA reserves the right, in its sole discretion, to terminate, limit or suspend any user's access to this website without notice or liability, for any reason whatsoever, including the user's breach of any of these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Updates, Upgrades and Revisions</h2></div><div class="m_static_sct_rgt"><p>Where the user downloads and installs CREA mobile applications the user agrees to future updates and upgrades of such mobile applications. User can decline automatic updates and upgrades to mobile applications by changing user settings, for example, in the operating system or app platform, where such settings are available.</p><p>CREA may at any time revise these Terms of Use by updating this posting. All users of this website are bound by these conditions and should therefore periodically visit this page to review any changes to these requirements. The user's continued use of this website following the posting of any changes constitutes acceptance by the user of such modifications.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Language</h2></div><div class="m_static_sct_rgt"><p>If these terms of use are translated into a language other than English and there are conflicts between the translations, the English version shall prevail and control.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Governing Law</h2></div><div class="m_static_sct_rgt"><p>These Terms of Use shall be governed by the laws of Ontario, Canada. The courts in Ottawa, Ontario, will have exclusive jurisdiction to hear and decide any disputes relating to these Terms of Use.</p></div></div></div></div>   
         <div class="chk-social-wrap"><input id="chkRevised" type="checkbox" name="ctl00$elHeader$elUserLogin$chkRevised"><span class="chkSocialTextSm">I agree to the Terms of Use/Privacy Policy</span></div> 
             <div id="revised-terms-validation" data-bound-to="email" style="position:relative; display:none;">
                 <div id="qtip-revised-terms-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-terms-validation-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-revised-terms-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">You must view the entire Terms of Use / Privacy Policy and accept them before proceeding to the next step.</div></div>
+                    <div class="qtip-content-crea" id="qtip-revised-terms-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">You must view the entire Terms of Use / Privacy Policy and accept them before proceeding to the next step.</div></div>
                 </div>
              </div>
         <br>
@@ -1031,13 +779,13 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
                  <div id="password-validation-null" data-bound-to="password" style="position:relative; display:none;">
                     <div id="qtip-password-validation-null" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-password-validation-null-content" aria-hidden="false">
                        <div class="qtip-top"></div>
-                       <div class="qtip-content-crea" id="qtip-password-validation-null-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">This is a mandatory field and must be entered to continue</div></div>
+                       <div class="qtip-content-crea" id="qtip-password-validation-null-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">This is a mandatory field and must be entered to continue</div></div>
                     </div>
                  </div>
                  <div id="password-validation-strength" data-bound-to="password" style="position:relative; display:none;">
                     <div id="qtip-password-validation-strength" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-password-validation-strength-content" aria-hidden="false">
                        <div class="qtip-top"></div>
-                       <div class="qtip-content-crea" id="qtip-password-validation-strength-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text"></div></div>
+                       <div class="qtip-content-crea" id="qtip-password-validation-strength-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text"></div></div>
                     </div>
                  </div> 
                 <br>
@@ -1048,13 +796,13 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
                 <div id="passwordRe-validation-null" data-bound-to="password" style="position:relative; display:none;">
                     <div id="qtip-passwordRe-validation-null" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-passwordRe-validation-null-content" aria-hidden="false">
                        <div class="qtip-top"></div>
-                       <div class="qtip-content-crea" id="qtip-passwordRe-validation-null-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">This is a mandatory field and must be entered to continue</div></div>
+                       <div class="qtip-content-crea" id="qtip-passwordRe-validation-null-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">This is a mandatory field and must be entered to continue</div></div>
                     </div>
                  </div>
                  <div id="passwordRe-validation" data-bound-to="passwordRetype" style="position:relative; display:none;">
                     <div id="qtip-passwordRe-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-passwordRe-validation-content" aria-hidden="false">
                         <div class="qtip-top"></div>
-                        <div class="qtip-content-crea" id="qtip-passwordRetype-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">"(New) Password" and "Re-enter Password" fields must match.</div></div>
+                        <div class="qtip-content-crea" id="qtip-passwordRetype-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">"(New) Password" and "Re-enter Password" fields must match.</div></div>
                     </div>
                 </div>
                 </div>
@@ -1121,7 +869,7 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             </div>
                 <div class="g_con_searches_hdr">
                   <div class="promo_item_hdr first"><img id="imgFave_hdr" src="/Presentation/Images/common/icons/heart-icon.png" alt="Fave Limit Min"><span class="promo_item_text_hdr" id="prm_itm_signup_fave_min">50</span><br>You've reached your limit</div>
-                  <div class="promo_item_hdr mid" style="width:50px; padding-left:30px;"><img id="imgArrow_fave_hdr" src="/Presentation/Images/common/icons/arrow-promo.png"></div>
+                  <div class="promo_item_hdr mid" style="width:50px; padding-left:30px;"><img id="imgArrow_fave_hdr" src="/Presentation/Images/common/icons/arrow-promo.png" alt=""></div>
                   <div class="promo_item_hdr last" style="padding-left:40px; width:180px;"><span class="promo_item_text_hdr last" id="prm_itm_signup_fave_max">Up to 150</span><br><a class="lnkSpn" onclick="gigyaPlugins.login();">Sign up</a> to save more</div>
                 </div>
         </div>
@@ -1578,7 +1326,7 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
                 $("#terms-validation").show();
             } else {
                 $("#terms-validation").hide();
-                gigyaPlugins.IdsSetAccountInfo(true, true, null, '129081B347F527961FE348E1EC015FC4B5B0129E4246D7C3EFA178AA1FB45526487E398478A963DE71F0BDA9213F6B1182FD65E17148F2D88A48B762E6A42C0F7EF325B609479E5725717EFFAAAE63505FB2C929A98EAE01C7C53516FA579D016218F321E7277DCB97516914B8AF87D04444E99D', false, null, true);
+                gigyaPlugins.IdsSetAccountInfo(true, true, null, '9F9B8C82D417F7AC072DCB17544A2A4D31819214449D79C1F5F1E78653374D8FC7DE4B40E328800FB2DE2298504EF4E06C082A3C5092A9B76EB2217FE1F378DFE103F9A3395B8877BE0882F841BF01EF16CB47AE7C4F300447379A5EA296F78CAC92F39D7F4319FC5960DC512DD7590FC5E836CA', false, null, true, false);
                 $("#pnlSocialTerms").trigger('close');
             }
         });
@@ -1589,7 +1337,7 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             } else {
                 Cookies.RevisedTerms.save("Continue");
                 $("#revised-terms-validation").hide();
-                gigyaPlugins.IdsSetAccountInfo(true, true, null, '129081B347F527961FE348E1EC015FC4B5B0129E4246D7C3EFA178AA1FB45526487E398478A963DE71F0BDA9213F6B1182FD65E17148F2D88A48B762E6A42C0F7EF325B609479E5725717EFFAAAE63505FB2C929A98EAE01C7C53516FA579D016218F321E7277DCB97516914B8AF87D04444E99D', false, null, true);
+                gigyaPlugins.IdsSetAccountInfo(true, true, null, '9F9B8C82D417F7AC072DCB17544A2A4D31819214449D79C1F5F1E78653374D8FC7DE4B40E328800FB2DE2298504EF4E06C082A3C5092A9B76EB2217FE1F378DFE103F9A3395B8877BE0882F841BF01EF16CB47AE7C4F300447379A5EA296F78CAC92F39D7F4319FC5960DC512DD7590FC5E836CA', false, null, true, false);
                 $("#pnlRevisedTerms").trigger('close');
             }
         });
@@ -1604,19 +1352,6 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             var CREAupdates = $("#chkCREA").is(':checked');
             var REALTORupdates = $("#chkREALTOR").is(':checked');
 
-            var OptInOut = new Object();
-            OptInOut.optInMarketing = "";
-            OptInOut.optInProduct = "";
-            OptInOut.optOutMarketing = "";
-            OptInOut.optOutProduct = "";
-
-            if (CREAupdates === true) {
-                OptInOut.optInMarketing = dateString + ",";
-            }
-            if (REALTORupdates === true) {
-                OptInOut.optInProduct = dateString + ",";
-            }
-
             var dataObject = new Object();
 
             dataObject.More_About_You = "Continue";
@@ -1627,10 +1362,9 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             dataObject.Looking = $('#ddlLooking option:selected').val();
             dataObject.CREA_mail_updates = CREAupdates;
             dataObject.REALTOR_mail_updates = REALTORupdates;
-            dataObject.OptInOut = OptInOut;
 
             var dataJson = JSON.stringify(dataObject);
-            gigyaPlugins.IdsSetAccountInfo(true, false, null, dataJson, false, null, true);
+            gigyaPlugins.IdsSetAccountInfo(true, false, null, dataJson, false, null, true, false);
 
             closeMoreAboutYou();
         });
@@ -1642,12 +1376,6 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             var CREAupdates = false;
             var REALTORupdates = false;
 
-            var OptInOut = new Object();
-            OptInOut.optInMarketing = "";
-            OptInOut.optInProduct = "";
-            OptInOut.optOutMarketing = "";
-            OptInOut.optOutProduct = "";
-
             var dataObject = new Object();
 
             dataObject.More_About_You = "Skip";
@@ -1658,10 +1386,9 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             dataObject.Looking = "0";
             dataObject.CREA_mail_updates = false;
             dataObject.REALTOR_mail_updates = false;
-            dataObject.OptInOut = OptInOut;
 
             var dataJson = JSON.stringify(dataObject);
-            gigyaPlugins.IdsSetAccountInfo(true, false, null, dataJson, false, null, true);
+            gigyaPlugins.IdsSetAccountInfo(true, false, null, dataJson, false, null, true, false);
 
             closeMoreAboutYou();
         });
@@ -1845,13 +1572,13 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
                 } else {
 
                     var properties = new PropertySearch();            
-                    properties.searchCriteria += '&ReferenceNumber=' + SearchValue;
+                    properties.searchCriteria += '&ReferenceNumber=' + SearchValue + '&IncludeTombstones=1';
                     properties.noResultsHandler =  function()
                     {
-                    var areaSearch = new SubAreaSearch();
+                        var areaSearch = new SubAreaSearch();
                         areaSearch.searchCriteria += '&Area=' + encodeURIComponent(SearchValue);
                         areaSearch.noResultsHandler =  function (){ showMessage(Message.NoResultsWithSearchVal.replace('{search term}', SearchValue)); }
-                    areaSearch.Search();
+                        areaSearch.Search();
                 
                     }
                     properties.Search(); 
@@ -1906,7 +1633,7 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
             <!-- CONTENT -->
             
 
-     <div class="m_static"><h2 class="m_legal_header">CREA Website Privacy Policy</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">General</h2></div><div class="m_static_sct_rgt"><p>CREA values your privacy. As such, it is the policy of The Canadian Real Estate Association (CREA) that personal information, such as your name, gender, postal and e-mail address or telephone number is private and confidential. Because your privacy is important to us, CREA maintains this privacy policy to explain how CREA collects, uses and discloses your personal information, including information collected from social media sites, on its websites and mobile applications (collectively, hereinafter "website" or "websites"). Personal information collected by CREA may be used for the following general purposes:</p><ul><li>For registration and to manage your website account.</li><li>To send you communications you have opted-in to receive.</li><li>To respond to your questions and comments.</li><li>To tailor your experience of the website.</li><li>To help CREA analyze the browsing patterns of its users in order to improve the content and design of its websites.</li><li>For security purposes, such as the prevention of potentially prohibited or illegal activities.</li><li>To enforce the website terms of use.</li><li>For statistical analysis.</li><li>As otherwise described in this privacy policy.</li><li>As otherwise described to you when the information is collected.</li></ul><p>Personal information may be anonymized and consolidated into group data, which may be shared on an aggregated basis with research firms and member Boards and Associations. The shared data will not disclose your personal information and will not enable the recipients to contact you.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Third Party Links and Sources of Information</h2></div><div class="m_static_sct_rgt"><p>This website consists of, and includes links to, many websites, including: REALTOR® member and real estate Board home pages, social media sites (such as Facebook, LinkedIn, Google and Twitter), map sites, and, in some cases, Board listing information sites. This privacy policy applies only to those sites which display this statement. While CREA encourages the site operators to comply with these principles, you should carefully examine the privacy policies of sites appearing on, or linking to or from this website, which do not display this privacy policy. Personal information that you choose to provide to other websites will be subject to the privacy policies of those sites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Storage and Deletion</h2></div><div class="m_static_sct_rgt"><p>CREA at all times adheres to applicable legal or regulatory requirement(s) concerning the storage and protection of personal information. While CREA is the custodian of the personal information provided to it, it does use third party service providers. Some of these service providers and the databases where they store personal information are located outside of Canada. You should note that where personal information is located outside of Canada, it is subject to the laws of that jurisdiction in which it is located.</p><p>You may delete your website account at any time. Deleting your account will result in the anonymization of your website account personal information except for audit and security purposes.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages</h2></div><div class="m_static_sct_rgt"><p>Throughout your use of the real estate services on this website, you may communicate extensively with a salesperson or broker. The salesperson or broker may use your email address and all of the information you submit in order to provide you with guidance, suggestions and service in your efforts to either sell or buy real estate. </p><p>CREA collects the e-mails provided through the "Contact Us" feature of this website, so CREA can respond to your questions or suggestions. CREA also collects e-mails sent through the website, including the "Email a REALTOR®", "Email a Friend", and "Email Office" features, for security purposes, to allow the recipient brokers and salespersons to view your email, to send you communications you have opted-in to receive, and for management of your website account.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">IP Addresses</h2></div><div class="m_static_sct_rgt"><p>Similar to other commercial websites, our website collects information about how our website is used. Each time a visitor comes to the website our web server collects the visitor's domain name or IP address. CREA cannot determine an individual's identify from only an IP address; however, periodically users may inform CREA support staff of their IP addresses during the provision of support services. At such time, CREA treats such information as personal information. </p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Cookies</h2></div><div class="m_static_sct_rgt"><p>Our website uses standard technology known as "cookies" including session cookies and persistent cookies. Session cookies temporarily keep your settings. This information is stored until your browser is closed. Persistent cookies are created for specific functions you may choose to use on the website including, but not limited to: accepting terms of use; saving searches; and saving favourites. Persistent cookies are used to improve your experience of the website and are retained from session to session. These cookies remain after the browser is closed and are stored locally on your system. CREA does not track such cookies on CREA servers, nor does CREA use such cookies to store personal information. You may choose to delete persistent cookies after visiting the website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Surveys</h2></div><div class="m_static_sct_rgt"><p>While visiting our website you may be asked to participate in a survey conducted by a third party. If you are selected to participate in this survey, a persistent cookie is stored on your computer's hard drive for 60 days to preclude a new invitation during that time. All surveys are optional and the information collected will not be associated with any personal information. Survey data is used to permit accurate analysis, produce summary reports, and monitor overall trends with our website. </p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Google Analytics</h2></div><div class="m_static_sct_rgt"><p>This website/app uses Google Analytics, a web and mobile analytics tracking tool provided by Google, for audience activity, demographics reporting, and remarketing. You can opt-out of Google Analytics by installing a browser plug-in available on Google's website. </p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Revisions</h2></div><div class="m_static_sct_rgt"><p>Any changes to this privacy policy will be promptly communicated on this page, which will take effect upon posting. CREA encourages you to check this privacy policy from time to time to review the most current version. Your continued use of this website following the posting of any changes constitutes acceptance by you of such modifications.</p></div></div><div class="m_static_sct m_static_sct_last"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Where to Direct Questions</h2></div><div class="m_static_sct_rgt"><p>Any questions or concerns regarding this privacy policy may be directed to:</p><p>The Chief Privacy Compliance Officer (CPCO),<br>The Canadian Real Estate Association<br>200 Catherine Street, 6th Floor Ottawa, ON K2P 2K9<br>Phone: (613) 237-7111<br>Fax: (613) 234-2567<br>Email: privacy@crea.ca</p></div></div></div>
+     <div class="m_static"><h2 class="m_legal_header">CREA Website Privacy Policy</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">General</h2></div><div class="m_static_sct_rgt"><p>CREA values your privacy. As such, it is the policy of The Canadian Real Estate Association (CREA) that personal information, such as your name, gender, postal and e-mail address or telephone number is private and confidential. Because your privacy is important to us, CREA maintains this privacy policy to explain how CREA collects, uses and discloses your personal information, including information collected from social media sites, on its websites and mobile applications (collectively, hereinafter "website" or "websites"). Personal information collected by CREA may be used for the following general purposes:</p><ul><li>For registration and to manage your website account.</li><li>To send you communications you have opted-in to receive.</li><li>To respond to your questions and comments.</li><li>To tailor your experience of the website.</li><li>To help CREA analyze the browsing patterns of its users in order to improve the content and design of its websites.</li><li>For security purposes, such as the prevention of potentially prohibited or illegal activities.</li><li>To enforce the website terms of use.</li><li>For statistical analysis.</li><li>As otherwise described in this privacy policy.</li><li>As otherwise described to you when the information is collected.</li></ul><p>Personal information may be anonymized and consolidated into group data, which may be shared on an aggregated basis with research firms and member Boards and Associations. The shared data will not disclose your personal information and will not enable the recipients to contact you.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Third Party Links and Sources of Information</h2></div><div class="m_static_sct_rgt"><p>This website consists of, and includes links to, many websites, including: REALTOR® member and real estate Board home pages, social media sites (such as Facebook, LinkedIn, Google and Twitter), map sites, and, in some cases, Board listing information sites. This privacy policy applies only to those sites which display this statement. While CREA encourages the site operators to comply with these principles, you should carefully examine the privacy policies of sites appearing on, or linking to or from this website, which do not display this privacy policy. Personal information that you choose to provide to other websites will be subject to the privacy policies of those sites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Storage and Deletion</h2></div><div class="m_static_sct_rgt"><p>CREA at all times adheres to applicable legal or regulatory requirement(s) concerning the storage and protection of personal information. While CREA is the custodian of the personal information provided to it, it does use third party service providers. Some of these service providers and the databases where they store personal information are located outside of Canada. You should note that where personal information is located outside of Canada, it is subject to the laws of that jurisdiction in which it is located.</p><p>You may delete your website account at any time. Deleting your account will result in the anonymization of your website account personal information except for audit and security purposes.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages</h2></div><div class="m_static_sct_rgt"><p>Throughout your use of the real estate services on this website, you may communicate extensively with a salesperson or broker. The salesperson or broker may use your email address and all of the information you submit in order to provide you with guidance, suggestions and service in your efforts to either sell or buy real estate.</p><p>CREA collects the e-mails provided through the "Contact Us" feature of this website, so CREA can respond to your questions or suggestions. CREA also collects e-mails sent through the website, including the "Email a REALTOR®", "Email a Friend", and "Email Office" features, for security purposes, to allow the recipient brokers and salespersons to view your email, to send you communications you have opted-in to receive, and for management of your website account.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">IP Addresses</h2></div><div class="m_static_sct_rgt"><p>Similar to other commercial websites, our website collects information about how our website is used. Each time a visitor comes to the website our web server collects the visitor's domain name or IP address. CREA cannot determine an individual’s identify from only an IP address; however, periodically users may inform CREA support staff of their IP addresses during the provision of support services. At such time, CREA treats such information as personal information.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Cookies</h2></div><div class="m_static_sct_rgt"><p>Our website uses standard technology known as "cookies" including session cookies and persistent cookies. Session cookies temporarily keep your settings. This information is stored until your browser is closed. Persistent cookies are created for specific functions you may choose to use on the website including, but not limited to: accepting terms of use; saving searches; and saving favourites. Persistent cookies are used to improve your experience of the website and are retained from session to session. These cookies remain after the browser is closed and are stored locally on your system. CREA does not track such cookies on CREA servers, nor does CREA use such cookies to store personal information. You may choose to delete persistent cookies after visiting the website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Surveys</h2></div><div class="m_static_sct_rgt"><p>While visiting our website you may be asked to participate in a survey conducted by a third party. If you are selected to participate in this survey, a persistent cookie is stored on your computer's hard drive for 60 days to preclude a new invitation during that time. All surveys are optional and the information collected will not be associated with any personal information. Survey data is used to permit accurate analysis, produce summary reports, and monitor overall trends with our website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Google Analytics</h2></div><div class="m_static_sct_rgt"><p>This website uses Google Analytics, a web and mobile analytics tracking tool provided by Google, for audience activity, demographics reporting, and remarketing. Google Analytics information may be disclosed to REALTORS® with whom you interact with on the website. You can opt-out of Google Analytics by installing a browser plug-in available on Google's website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Revisions</h2></div><div class="m_static_sct_rgt"><p>Any changes to this privacy policy will be promptly communicated on this page, which will take effect upon posting. CREA encourages you to check this privacy policy from time to time to review the most current version. Your continued use of this website following the posting of any changes constitutes acceptance by you of such modifications.</p></div></div><div class="m_static_sct m_static_sct_last"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Where to Direct Questions</h2></div><div class="m_static_sct_rgt"><p>Any questions or concerns regarding this privacy policy may be directed to:</p><p>The Chief Privacy Compliance Officer (CPCO),<br>The Canadian Real Estate Association<br>200 Catherine Street, 6th Floor Ottawa, ON K2P 2K9<br>Phone: (613) 237-7111<br>Fax: (613) 234-2567<br>Email: privacy@crea.ca</p></div></div></div>
 <span id="lblPolicy"></span>
 <script type="text/javascript">
   
@@ -1961,8 +1688,17 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
     
     <div class="l_ftr_legal noPrint">
     
+         <div class="m_ftr_legal_logo" id="ftr_home">
+            <img src="/Presentation/Images/common/icons/mls_notextorreg.png" id="MLSFooterLogo" alt="Multiple Listing Service (MLS) trademark">®
+        </div>
+        <div class="m_ftr_legal_text">
+            <p>
+                 The MLS® mark and associated logos identify professional services rendered by REALTOR® members of CREA to effect the purchase, sale and lease of real estate as part of a cooperative selling system.
+            </p>
+        </div>
+
         <div class="m_ftr_legal_logo" id="ftr_home">
-            <img src="../presentation/images/en-CA/logos/realtor.png" id="footerLogo" title="REALTOR® ! Push to Live - Realtor 6 Azure_20160525.1^C6699">
+            <img src="../presentation/images/en-CA/logos/realtor.png" id="footerLogo" title="REALTOR® ! Push to Live - Realtor 6 Azure_20160707.2 - C7268">
         </div>
         <div class="m_ftr_legal_text">
             <p>
@@ -1994,7 +1730,7 @@ Cookies.Carousel = new creaCookie('carousel_index','365');
     })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035098&cv=2.0&cj=1" />
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035098&cv=2.0&cj=1" alt="" />
 </noscript>
 <!-- End comScore Tag -->
         <script type="text/javascript">
@@ -2002,7 +1738,7 @@ jQuery.support.cors = true;
 $.ajaxSetup({ cache: false });
 function logAnalytics(listingId,eventType) {
 if (listingId!='' && listingId!='0'){
-var url = 'https://analytics.crea.ca/LogEvents.svc/LogEvents?&DestinationID=384&UUID=e8597b23-8e8e-4ad4-8dcb-08b8077020d2&IP=207.241.226.58&LanguageId=1';
+var url = 'https://analytics.crea.ca/LogEvents.svc/LogEvents?&DestinationID=384&UUID=e22eb52b-13ba-41aa-bfbc-77ea972a5aba&IP=207.241.229.243&LanguageId=1';
 url += '&ListingId=' + listingId;
 url += '&EventType=' + eventType;
  var req = $.ajax({url:url,crossDomain:true,dataType:'jsonp',type:'get',timeout:5000});
@@ -2010,6 +1746,14 @@ url += '&EventType=' + eventType;
 }}
 </script>
 
+
+        <!-- Facebook -Commercial -->
+         
+
+
+
+
+        
 
         <!-- Welcome Screen -->
         <div id="d_welcome" class="d_base" style="display: none">
@@ -2044,13 +1788,12 @@ url += '&EventType=' + eventType;
 
         <script type="text/javascript">
             var showOverlay = false;
-            var cookiesEnabled = cookiesEnabled();
-          
+            var cookiesEnabled = cookiesEnabled();           
+
             if(!cookiesEnabled)
             {
                 $('#browserWarn_Con').show();   
             }
-
             if(showOverlay || cookiesEnabled == false)
             {
                 var onWelcomeClose = function () {                     
@@ -2325,13 +2068,13 @@ return /[^\<\>]/i.test(keyChar);
                     <div id="invalid-login9" data-bound-to="email" style="position:relative; display:none;">
                         <div id="qtip-invalid-login9" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-invalid-login9-content" aria-hidden="false">
                             <div class="qtip-top"></div>
-                            <div class="qtip-content-crea" id="qtip-invalid-login9-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">Looks like you are having problems accessing your account. Click on "Forgotten password" to get help.</div></div>
+                            <div class="qtip-content-crea" id="qtip-invalid-login9-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">Looks like you are having problems accessing your account. Click on "Forgotten password" to get help.</div></div>
                         </div>
                     </div>
                     <div id="invalid-login10" data-bound-to="email" style="position:relative; display:none;">
                         <div id="qtip-invalid-login10" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-invalid-login10-content" aria-hidden="false">
                             <div class="qtip-top"></div>
-                            <div class="qtip-content-crea" id="qtip-invalid-login10-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">Your account has been temporarily locked after unsuccessful attempts to Sign In. You now have a few options:<br><br><ul><li>Sign In with Social Media;</li> <li>Use the “Forgotten Password” link; or</li> <li>Try again in 30 minutes.</li></ul></div></div>
+                            <div class="qtip-content-crea" id="qtip-invalid-login10-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">Your account has been temporarily locked after unsuccessful attempts to Sign In. You now have a few options:<br><br><ul><li>Sign In with Social Media;</li> <li>Use the “Forgotten Password” link; or</li> <li>Try again in 30 minutes.</li></ul></div></div>
                         </div>
                     </div>
                     
@@ -2343,20 +2086,20 @@ return /[^\<\>]/i.test(keyChar);
               <div class="gigya-error-display" data-bound-to="loginID" data-error-codes="400027" style="position:relative">
                 <div id="qtip-email1" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-email1-content" aria-hidden="false">
                    <div class="qtip-top"></div>
-                   <div class="qtip-content-crea" id="qtip-email1-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text email mand">This is a mandatory field and must be entered to continue.<!--<span class="gigya-error-msg" data-bound-to="loginID"></span>--></div></div>
+                   <div class="qtip-content-crea" id="qtip-email1-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text email mand">This is a mandatory field and must be entered to continue.<!--<span class="gigya-error-msg" data-bound-to="loginID"></span>--></div></div>
                 </div>
             </div>
             <div id="email-validation1" data-bound-to="email" style="position:relative; display:none;">
                 <div id="qtip-email1-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-email1-validation-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-email1-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text email valid">Email address must contain "@" and "." Please try entering it again.</div></div>
+                    <div class="qtip-content-crea" id="qtip-email1-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text email valid">Email address must contain "@" and "." Please try entering it again.</div></div>
                 </div>
             </div>
               <div class="gigya-error-display gigya-composite-control gigya-composite-control-form-error" data-bound-to="gigya-login-form" data-error-codes="403042" style="position:relative">
                 
                   <div id="qtip-invalid-login" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-invalid-login-content" aria-hidden="false">
                        <div class="qtip-top"></div>
-                       <div class="qtip-content-crea" id="qtip-invalid-login-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text full">Your email and password combination do not match your existing account. Please try again.</div></div>
+                       <div class="qtip-content-crea" id="qtip-invalid-login-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text full">Your email and password combination do not match your existing account. Please try again.</div></div>
                     </div>
               </div>
             
@@ -2371,7 +2114,7 @@ return /[^\<\>]/i.test(keyChar);
             <div class="gigya-error-display" data-bound-to="password" data-error-codes="400027" style="position:relative">
                 <div id="qtip-password" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-password-content" aria-hidden="false">
                    <div class="qtip-top"></div>
-                   <div class="qtip-content-crea" id="qtip-password-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text ps mand">This is a mandatory field and must be entered to continue.<!--<span class="gigya-error-msg" data-bound-to="password"></span>--></div></div>
+                   <div class="qtip-content-crea" id="qtip-password-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text ps mand">This is a mandatory field and must be entered to continue.<!--<span class="gigya-error-msg" data-bound-to="password"></span>--></div></div>
                 </div>
             </div>
             <a class="forgotPassword" id="lnk_forgot_pass" data-switch-screen="gigya-forgot-password-screen">Forgot your password?</a>
@@ -2684,7 +2427,7 @@ return /[^\<\>]/i.test(keyChar);
                 <span class="g_bottom_title">Terms of Use/Privacy Policy</span>
                 <span class="g_bottom_text">Agreement is valid for the duration that your REALTOR.ca account is active, or until these Terms/Policies are updated, whichever comes first.</span>
                   <div style="border-top:1px solid #e0e0da;text-align: center;background-color:#e0e0da; "><b>  ∨  Scroll Down to Agree   ∨</b>
-                        <div id="divLegal3" style="background-color:white;" tabindex="10"><div class="m_static"><h2 class="m_legal_header">Legal</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Terms of Use Agreement</h2></div><div class="m_static_sct_rgt"><p>By accessing any of the websites or mobile applications (collectively, hereinafter "website" or "websites") operated by The Canadian Real Estate Association (CREA), including REALTOR.ca and ICX.ca, you, the user, agree to be bound by all of the terms for use and agrees these terms constitute a binding contract between the user and CREA.</p><p>These Terms of Use apply to all users, except to the extent that CREA has developed specific policies for member real estate Boards, Associations and REALTOR® members. Those organizations and persons should also refer to the applicable policies of CREA's Technology Committee.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Copyright</h2></div><div class="m_static_sct_rgt"><p>This website/database is a copyright-protected work which is owned by CREA. Part of the contents of this website/database, including all real estate listings and related information, images and photographs (collectively, "Listing Content"), are also protected by copyright, which is owned by the CREA members who supplied the content and/or by third parties, and is reproduced in this website/database under license. The contents of this website/database, including the Listing Content, are intended for the private, non-commercial use by individuals. Any commercial use of the website/database, including the Listing Content, in whole or in part, directly or indirectly, is specifically forbidden except with the prior written authority of the owner of the copyright.</p><p>Users may, subject to these Terms of Use, print or otherwise save individual pages for private use. However, the contents of this website/database, including the Listing Content, may not be modified or altered in any respect, merged with other data or published in any form, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate data on the pages produced by, or displayed on the CREA websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Trademarks</h2></div><div class="m_static_sct_rgt"><p>Not all real estate agents are REALTORS®.</p><p>REALTOR®, REALTORS® and the REALTOR® logo are certification marks owned by REALTOR® Canada Inc., a corporation jointly owned by the National Association of REALTORS® and CREA. The REALTOR® trademarks are used to identify real estate services provided by brokers and salespersons who are members of CREA and who accept and respect a strict Code of Ethics, and are required to meet consistent professional standards of business practice which is the consumer's assurance of integrity.</p><p>MLS®, Multiple Listing Service®, and the associated logos are all registered certification marks owned by CREA and are used to identify real estate services provided by brokers and salespersons who are members of CREA.</p><p>Other trademarks used on the CREA websites may be owned by real estate boards and other third parties. Nothing contained on this website gives any user the right or license to use any trademark displayed on this website without the express permission of the owner.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages Sent via Website</h2></div><div class="m_static_sct_rgt"><p>CREA's membership directory and its contents constitute proprietary information of CREA. The information contained in this directory and made available through the "Email REALTOR®" feature on the websites is intended for private, non-commercial use by individuals who are potential buyer or sellers and who wish to contact a REALTOR® member about the REALTOR® member's property listing information. Any other use of the information is specifically forbidden.</p><p>The contents of this directory may not be copied or reproduced, modified or altered in any respect, merged with other data, disseminated in any form, entered into a computer database, used as part of or in connection with a mailing, fax, or e-mail list, or otherwise utilized in any form or manner, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate the information contained in this directory.</p><p>This website also allows users to send messages to other persons, including other users and REALTOR® members. The user agrees not to use this website to harass or abuse, send spam or other unwanted communications, or send unlawful, libelous, obscene, discriminatory or otherwise objectionable messages.</p><p>CREA is under no obligation to review the content of messages sent through the website but may do so at any time in order to comply with any law, government request, or in the interest of operating the website. CREA may remove any message and/or terminate, limit or suspend any user's access to the website for any reason.</p><p>The user agrees that CREA shall have no liability for any damages arising out of the content of any messages sent through this website. Anyone who sends a message agrees to indemnify and hold CREA harmless from any and all liability, damages or expenses, whatsoever due, arising from, directly or indirectly, any cause of action arising out of that message.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Website</h2></div><div class="m_static_sct_rgt"><p>Users may link to the website. However, CREA reserves the right to refuse a link at any time at CREA's sole discretion. The user agrees to remove any link to the website at CREA's request. The link must result in a new, fully functional, full screen browser window occupied solely by the pages created by the CREA website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Third Party Sites</h2></div><div class="m_static_sct_rgt"><p>This website may contain hyperlinks to websites operated by parties other than CREA. Such hyperlinks are provided for the user's reference only. CREA does not control such websites and is not responsible for their contents or the privacy or other practices of such websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Frames</h2></div><div class="m_static_sct_rgt"><p>Users and third parties may not under any circumstance use technology to display the content of CREA's websites in a frame or in any other manner that is different from how it would appear if a user typed the URL into the browser line.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Microsoft Bing</h2></div><div class="m_static_sct_rgt"><p>Some versions of this website use Microsoft Bing Maps. Users who use such versions of this website are subject to the terms of use available at: <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" target="_blank">http://www.microsoft.com/maps/assets/docs/terms.aspx</a>.</p></div></div><div class="m_static_sct"> <div class="m_static_sct_lft"><h2 class="staticSubTitle">Privacy</h2></div><div class="m_static_sct_rgt"><p>The user acknowledges that their personal information will be used by the website in accordance with the website privacy policy located at: <a href="http://realtor.ca/PrivacyPolicy.aspx" target="_blank">http://realtor.ca/PrivacyPolicy.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Liability and Warranty Disclaimer</h2></div><div class="m_static_sct_rgt"><p>CREA makes no representations about the suitability of the data or graphics published on this website. The listing information is deemed reliable, but not guaranteed. Everything on this website is provided "As Is" without warranty of any kind including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement. Neither CREA nor any of its suppliers shall be liable for any direct, incidental, consequential, indirect or punitive damages arising out of the user’s access to or use of this website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">No Waiver</h2></div><div class="m_static_sct_rgt"><p>CREA's failure or delay to enforce any of the terms and conditions under these Terms of Use shall not operate as a waiver of any of CREA's rights or privileges under these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Termination of Access</h2></div><div class="m_static_sct_rgt"><p>CREA reserves the right, in its sole discretion, to terminate, limit or suspend any user's access to this website without notice or liability, for any reason whatsoever, including the user's breach of any of these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Updates, Upgrades and Revisions</h2></div><div class="m_static_sct_rgt"><p>Where the user downloads and installs CREA mobile applications the user agrees to future updates and upgrades of such mobile applications. User can decline automatic updates and upgrades to mobile applications by changing user settings, for example, in the operating system or app platform, where such settings are available.</p><p>CREA may at any time revise these Terms of Use by updating this posting. All users of this website are bound by these conditions and should therefore periodically visit this page to review any changes to these requirements. The user's continued use of this website following the posting of any changes constitutes acceptance by the user of such modifications.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Language</h2></div><div class="m_static_sct_rgt"><p>If these terms of use are translated into a language other than English and there are conflicts between the translations, the English version shall prevail and control.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Governing Law</h2></div><div class="m_static_sct_rgt"><p>These Terms of Use shall be governed by the laws of Ontario, Canada. The courts in Ottawa, Ontario, will have exclusive jurisdiction to hear and decide any disputes relating to these Terms of Use.</p></div></div></div></div>
+                        <div id="divLegal3" style="background-color:white;" tabindex="10"><div class="m_static"><h2 class="m_legal_header">Legal</h2><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Terms of Use Agreement</h2></div><div class="m_static_sct_rgt"><p>By accessing any of the websites or mobile applications (collectively, hereinafter "website" or "websites") operated by The Canadian Real Estate Association (CREA), including REALTOR.ca and ICX.ca, you, the user, agree to be bound by all of the terms for use and agrees these terms constitute a binding contract between the user and CREA.</p><p>These Terms of Use apply to all users, except to the extent that CREA has developed specific policies for member real estate Boards, Associations and REALTOR® members. Those organizations and persons should also refer to the applicable policies of CREA's Technology Committee.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Copyright</h2></div><div class="m_static_sct_rgt"><p>This website/database is a copyright-protected work which is owned by CREA. Part of the contents of this website/database, including all real estate listings and related information, images and photographs (collectively, "Listing Content"), are also protected by copyright, which is owned by the CREA members who supplied the content and/or by third parties, and is reproduced in this website/database under license. The contents of this website/database, including the Listing Content, are intended for the private, non-commercial use by individuals. Any commercial use of the website/database, including the Listing Content, in whole or in part, directly or indirectly, is specifically forbidden except with the prior written authority of the owner of the copyright.</p><p>Users may, subject to these Terms of Use, print or otherwise save individual pages for private use. However, the contents of this website/database, including the Listing Content, may not be modified or altered in any respect, merged with other data or published in any form, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate data on the pages produced by, or displayed on the CREA websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Trademarks</h2></div><div class="m_static_sct_rgt"><p>Not all real estate agents are REALTORS®.</p><p>REALTOR®, REALTORS® and the REALTOR® logo are certification marks owned by REALTOR® Canada Inc., a corporation jointly owned by the National Association of REALTORS® and CREA. The REALTOR® trademarks are used to identify real estate services provided by brokers and salespersons who are members of CREA and who accept and respect a strict Code of Ethics, and are required to meet consistent professional standards of business practice which is the consumer's assurance of integrity.</p><p>MLS®, Multiple Listing Service®, and the associated logos are all registered certification marks owned by CREA and are used to identify real estate services provided by brokers and salespersons who are members of CREA.</p><p>Other trademarks used on the CREA websites may be owned by real estate boards and other third parties. Nothing contained on this website gives any user the right or license to use any trademark displayed on this website without the express permission of the owner.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Messages Sent via Website</h2></div><div class="m_static_sct_rgt"><p>CREA's membership directory and its contents constitute proprietary information of CREA. The information contained in this directory and made available through the "Email REALTOR®" feature on the websites is intended for private, non-commercial use by individuals who are potential buyer or sellers and who wish to contact a REALTOR® member about the REALTOR® member's property listing information. Any other use of the information is specifically forbidden.</p><p>The contents of this directory may not be copied or reproduced, modified or altered in any respect, merged with other data, disseminated in any form, entered into a computer database, used as part of or in connection with a mailing, fax, or e-mail list, or otherwise utilized in any form or manner, in whole or in part. The prohibited uses include "screen scraping", "database scraping" and any other activity intended to collect, store, reorganize or manipulate the information contained in this directory.</p><p>This website also allows users to send messages to other persons, including other users and REALTOR® members. The user agrees not to use this website to harass or abuse, send spam or other unwanted communications, or send unlawful, libelous, obscene, discriminatory or otherwise objectionable messages including message that:</p><ul>(a) infringe, misappropriate or violate any intellectual property or other rights of any third-party;</ul><ul>(b) are defamatory, harmful to minors, obscene or child pornographic;</ul><ul>(c) contain any viruses or programming routines intended to damage the services or any software, hardware or other technology used to provide the services or surreptitiously intercept or expropriate any data or information;</ul><ul>(d) are false, misleading or inaccurate;</ul><ul>(e) contain Sensitive Data. For the purposes of these terms for use, "Sensitive Data" means (i) a social security number, passport number, driver's license number, or similar identifier (or any portion thereof); (ii) a credit or debit card number; (iii) employment, financial or health information; (iv) any person's ethnic or religious affiliation or sexual orientation; (v) account passwords; (vi) any person's date of birth; (vii) any person's criminal history; or (viii) the user's mother's maiden name.</ul><p>CREA is under no obligation to review the content of messages sent through the website but may do so at any time in order to comply with any law, government request, or in the interest of operating the website. CREA may remove any message and/or terminate, limit or suspend any user's access to the website for any reason.</p><p>The user agrees that CREA shall have no liability for any damages arising out of the content of any messages sent through this website. Anyone who sends a message agrees to indemnify and hold CREA harmless from any and all liability, damages or expenses, whatsoever due, arising from, directly or indirectly, any cause of action arising out of that message.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Website</h2></div><div class="m_static_sct_rgt"><p>Users may link to the website. However, CREA reserves the right to refuse a link at any time at CREA's sole discretion. The user agrees to remove any link to the website at CREA's request. The link must result in a new, fully functional, full screen browser window occupied solely by the pages created by the CREA website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Links to Third Party Sites</h2></div><div class="m_static_sct_rgt"><p>This website may contain hyperlinks to websites operated by parties other than CREA. Such hyperlinks are provided for the user's reference only. CREA does not control such websites and is not responsible for their contents or the privacy or other practices of such websites.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Frames</h2></div><div class="m_static_sct_rgt"><p>Users and third parties may not under any circumstance use technology to display the content of CREA's websites in a frame or in any other manner that is different from how it would appear if a user typed the URL into the browser line.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Re-targeting</h2></div><div class="m_static_sct_rgt"><p>This website allows a third-party company, Facebook, to serve ads and/or collect certain anonymous information when visitors use our website. Facebook may use cookies or web beacons to collect non-personally identifiable information (e.g., click stream information, browser type, time and date) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="https://www.facebook.com/help/247395082112892" target="_blank">https://www.facebook.com/help/247395082112892</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Microsoft Bing</h2></div><div class="m_static_sct_rgt"><p>Some versions of this website use Microsoft Bing Maps. Users who use such versions of this website are subject to the terms of use available at: <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" target="_blank">http://www.microsoft.com/maps/assets/docs/terms.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Privacy</h2></div><div class="m_static_sct_rgt"><p>The user acknowledges that their personal information will be used by the website in accordance with the website privacy policy located at: <a href="http://realtor.ca/PrivacyPolicy.aspx" target="_blank">http://realtor.ca/PrivacyPolicy.aspx</a>.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Liability and Warranty Disclaimer</h2></div><div class="m_static_sct_rgt"><p>CREA makes no representations about the suitability of the data or graphics published on this website. The listing information is deemed reliable, but not guaranteed. Everything on this website is provided "As Is" without warranty of any kind including all implied warranties and conditions of merchantability, fitness for a particular purpose, title and non-infringement. Neither CREA nor any of its suppliers shall be liable for any direct, incidental, consequential, indirect or punitive damages arising out of the user's access to or use of this website.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">No Waiver</h2></div><div class="m_static_sct_rgt"><p>CREA's failure or delay to enforce any of the terms and conditions under these Terms of Use shall not operate as a waiver of any of CREA's rights or privileges under these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Termination of Access</h2></div><div class="m_static_sct_rgt"><p>CREA reserves the right, in its sole discretion, to terminate, limit or suspend any user's access to this website without notice or liability, for any reason whatsoever, including the user's breach of any of these Terms of Use.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Updates, Upgrades and Revisions</h2></div><div class="m_static_sct_rgt"><p>Where the user downloads and installs CREA mobile applications the user agrees to future updates and upgrades of such mobile applications. User can decline automatic updates and upgrades to mobile applications by changing user settings, for example, in the operating system or app platform, where such settings are available.</p><p>CREA may at any time revise these Terms of Use by updating this posting. All users of this website are bound by these conditions and should therefore periodically visit this page to review any changes to these requirements. The user's continued use of this website following the posting of any changes constitutes acceptance by the user of such modifications.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Language</h2></div><div class="m_static_sct_rgt"><p>If these terms of use are translated into a language other than English and there are conflicts between the translations, the English version shall prevail and control.</p></div></div><div class="m_static_sct"><div class="m_static_sct_lft"><h2 class="staticSubTitle">Governing Law</h2></div><div class="m_static_sct_rgt"><p>These Terms of Use shall be governed by the laws of Ontario, Canada. The courts in Ottawa, Ontario, will have exclusive jurisdiction to hear and decide any disputes relating to these Terms of Use.</p></div></div></div></div>
                  </div>
               </div>
               <div class="gigya-clear"></div>
@@ -2744,13 +2487,13 @@ return /[^\<\>]/i.test(keyChar);
             <div class="gigya-error-display" data-bound-to="profile.email" data-error-codes="400027" style="position:relative">
                 <div id="qtip-profile-email" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-profile-email-content" aria-hidden="false">
                    <div class="qtip-top"></div>
-                   <div class="qtip-content-crea" id="qtip-profile-email-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text email mand">This is a mandatory field and must be entered to continue.</div></div>
+                   <div class="qtip-content-crea" id="qtip-profile-email-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" aslt=""><div class="qtip-text email mand">This is a mandatory field and must be entered to continue.</div></div>
                 </div>
             </div>
             <div id="email-validation3" data-bound-to="email" style="position:relative; display:none;">
                 <div id="qtip-email3-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-email3-validation-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-email3-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text email valid"></div></div>
+                    <div class="qtip-content-crea" id="qtip-email3-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text email valid"></div></div>
                 </div>
             </div>
           
@@ -2764,13 +2507,13 @@ return /[^\<\>]/i.test(keyChar);
             <div class="gigya-error-display" data-bound-to="profile.firstName" data-error-codes="400027" style="position:relative">
                 <div id="qtip-profile-firstName" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-profile-firstName-content" aria-hidden="false">
                    <div class="qtip-top"></div>
-                   <div class="qtip-content-crea" id="qtip-profile-firstName-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text fn mand">This is a mandatory field and must be entered to continue.</div></div>
+                   <div class="qtip-content-crea" id="qtip-profile-firstName-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text fn mand">This is a mandatory field and must be entered to continue.</div></div>
                 </div>
             </div>
             <div id="firstName-validation-mand" data-bound-to="profile.firstName" style="position:relative; display:none;">
                 <div id="qtip-firstName-validation-mand" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-firstName-validation-mand-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-firstName-validation-mand-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text fn valid"></div></div>
+                    <div class="qtip-content-crea" id="qtip-firstName-validation-mand-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text fn valid"></div></div>
                 </div>
                 </div>
           
@@ -2784,13 +2527,13 @@ return /[^\<\>]/i.test(keyChar);
             <div class="gigya-error-display" data-bound-to="profile.lastName" data-error-codes="400027" style="position:relative">
                 <div id="qtip-profile-lastName" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-profile-lastName-content" aria-hidden="false">
                    <div class="qtip-top"></div>
-                   <div class="qtip-content-crea" id="qtip-profile-lastName-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text ln mand">This is a mandatory field and must be entered to continue.</div></div>
+                   <div class="qtip-content-crea" id="qtip-profile-lastName-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text ln mand">This is a mandatory field and must be entered to continue.</div></div>
                 </div>
             </div>
             <div id="lastName-validation-mand" data-bound-to="profile.lastName" style="position:relative; display:none;">
                 <div id="qtip-lastName-validation-mand" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-lastName-validation-mand-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-lastName-validation-mand-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text ln valid"></div></div>
+                    <div class="qtip-content-crea" id="qtip-lastName-validation-mand-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text ln valid"></div></div>
                 </div>
                 </div>
           
@@ -2891,13 +2634,13 @@ return /[^\<\>]/i.test(keyChar);
             <div id="loginID-mand" data-bound-to="passwordRetype" style="position:relative; display:none;">
                     <div id="qtip-loginID" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-loginID-content" aria-hidden="false">
                        <div class="qtip-top"></div>
-                       <div class="qtip-content-crea" id="qtip-loginID-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text email mand">This is a mandatory field and must be entered to continue.</div></div>
+                       <div class="qtip-content-crea" id="qtip-loginID-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text email mand">This is a mandatory field and must be entered to continue.</div></div>
                     </div>
                 </div>
             <div id="loginID-validation" data-bound-to="loginID" style="position:relative; display:none;">
             <div id="qtip-loginID-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-loginID-validation-content" aria-hidden="false">
                 <div class="qtip-top"></div>
-                <div class="qtip-content-crea" id="qtip-loginID-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text email valid"></div></div>
+                <div class="qtip-content-crea" id="qtip-loginID-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text email valid"></div></div>
             </div>
             </div>
         </div>
@@ -2915,7 +2658,7 @@ return /[^\<\>]/i.test(keyChar);
             <div id="forgot-password-no-user" data-bound-to="password" style="position:relative; display:none;">
                 <div id="qtip-forgot-password-no-user" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" style="left:10px;width:380px;" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-forgot-password-no-user-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-forgot-password-no-user-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text" style="width:325px;">This email does not exist on REALTOR.ca. Please try again.</div></div>
+                    <div class="qtip-content-crea" id="qtip-forgot-password-no-user-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text" style="width:325px;">This email does not exist on REALTOR.ca. Please try again.</div></div>
                 </div>
             </div>
             <br><br><br><br><br>
@@ -3001,13 +2744,13 @@ return /[^\<\>]/i.test(keyChar);
         <div class="gigya-error-display" data-bound-to="email" data-error-codes="400027" style="position:relative">
              <div id="qtip-email-verified" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-email-verified-content" aria-hidden="false">
                    <div class="qtip-top"></div>
-                   <div class="qtip-content-crea" id="qtip-email-verified-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">This is a mandatory field and must be entered to continue.</div></div>
+                   <div class="qtip-content-crea" id="qtip-email-verified-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">This is a mandatory field and must be entered to continue.</div></div>
               </div>
          </div>
         <div id="email-validation-verified" data-bound-to="email" style="position:relative; display:none;">
                 <div id="qtip-email-validation-verified" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-email-validation-verified-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-email-validation-verified-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">Email address must contain "@" and "." Please try entering it again.</div></div>
+                    <div class="qtip-content-crea" id="qtip-email-validation-verified-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">Email address must contain "@" and "." Please try entering it again.</div></div>
                 </div>
         </div>
     </div>
@@ -3131,13 +2874,13 @@ return /[^\<\>]/i.test(keyChar);
               <div class="gigya-error-display" data-bound-to="password" data-error-codes="400027" style="position:relative; margin-left:140px;">
                     <div id="qtip-password-link" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-password2-content" aria-hidden="false">
                        <div class="qtip-top"></div>
-                       <div class="qtip-content-crea" id="qtip-password-link-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text ps mand">This is a mandatory field and must be entered to continue.</div></div>
+                       <div class="qtip-content-crea" id="qtip-password-link-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text ps mand">This is a mandatory field and must be entered to continue.</div></div>
                     </div>
                 </div>
                 <div id="password-link-validation" data-bound-to="password" style="position:relative; display:none; margin-left:140px;">
                 <div id="qtip-password-link-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-password-validation-content" aria-hidden="false">
                     <div class="qtip-top"></div>
-                    <div class="qtip-content-crea" id="qtip-password-link-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text ps valid"></div></div>
+                    <div class="qtip-content-crea" id="qtip-password-link-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text ps valid"></div></div>
                 </div>
                 </div>
                 <a data-switch-screen="gigya-forgot-password-screen" class="forgotPassword">Forgot your password?</a>
@@ -3164,13 +2907,13 @@ return /[^\<\>]/i.test(keyChar);
                   <div id="invalid-login-link" data-bound-to="email" style="position:relative; display:none;">
                         <div id="qtip-invalid-login-link" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-invalid-login9-content" aria-hidden="false">
                             <div class="qtip-top"></div>
-                            <div class="qtip-content-crea" id="qtip-invalid-login-link-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">Your email and password combination do not match your existing account. Please try again.</div></div>
+                            <div class="qtip-content-crea" id="qtip-invalid-login-link-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">Your email and password combination do not match your existing account. Please try again.</div></div>
                         </div>
                     </div>
                      <div id="invalid-login10-link" data-bound-to="email" style="position:relative; display:none;">
                         <div id="qtip-invalid-login10-link" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-invalid-login10-content" aria-hidden="false">
                             <div class="qtip-top"></div>
-                            <div class="qtip-content-crea" id="qtip-invalid-login10-content-link" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">Your account has been temporarily locked after unsuccessful attempts to Sign In.<br><br><ul><li>Use the “Forgotten Password” link; or</li> <li>Try again in 30 minutes.</li></ul></div></div>
+                            <div class="qtip-content-crea" id="qtip-invalid-login10-content-link" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">Your account has been temporarily locked after unsuccessful attempts to Sign In.<br><br><ul><li>Use the “Forgotten Password” link; or</li> <li>Try again in 30 minutes.</li></ul></div></div>
                         </div>
                     </div>
               </div>
@@ -3210,7 +2953,7 @@ return /[^\<\>]/i.test(keyChar);
             <div id="change-pass-M19" data-bound-to="email" style="position:relative; display:none;">
             <div id="qtip-change-pass-M19-validation" class="qtip qtip-crea qtip-default qtip-red qtip-pos-bl qtip-focus" role="alert" aria-live="polite" aria-atomic="false" aria-describedby="qtip-email-validation-content" aria-hidden="false" style="left:225px;">
                 <div class="qtip-top"></div>
-                <div class="qtip-content-crea" id="qtip-change-pass-M19-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png"><div class="qtip-text">This is not your existing password on your account. Please re-enter.</div></div>
+                <div class="qtip-content-crea" id="qtip-change-pass-M19-validation-content" aria-atomic="true"><img src="Presentation/Images/common/icons/exclaim-icon.png" alt=""><div class="qtip-text">This is not your existing password on your account. Please re-enter.</div></div>
             </div>
             </div>
         </div>
@@ -3314,7 +3057,7 @@ return /[^\<\>]/i.test(keyChar);
         </div>
         <div class="g_con_searches_hdr">
               <div class="promo_item_hdr first"><img id="imgSearch_hdr" src="/Presentation/Images/common/icons/search-icon.png" alt="Search Limit Min"><span class="promo_item_text_hdr" id="prm_itm_signup_min">5</span><br>You've reached your limit</div>
-              <div class="promo_item_hdr mid"><img id="imgArrow_hdr" src="/Presentation/Images/common/icons/arrow-promo.png"></div>
+              <div class="promo_item_hdr mid"><img id="imgArrow_hdr" src="/Presentation/Images/common/icons/arrow-promo.png" alt=""></div>
               <div class="promo_item_hdr last"><span class="promo_item_text_hdr last" id="prm_itm_signup_max">Up to 50</span><br><a class="lnkSpn" onclick="gigyaPlugins.login();">Sign up</a> to save more</div>
         </div>
     </div>
@@ -3365,6 +3108,49 @@ return /[^\<\>]/i.test(keyChar);
         </div>
 </div>
 
+<!--Unsubscribe reasons-->
+<div class="c_base" id="unsub-confirmation-screen" style="display:none;">
+        <div class="c_hdr">
+            <div id="c_unsub_confirmation_close" onclick="">
+                <img src="/Presentation/Images/common/icons/close_dialog.png" id="hm_unsub_confirmation_close" alt="Close">
+            </div>
+        </div>
+        <div class="gigya-screen" id="unsub-confirmation-screen-content">
+        <div class="shortBoxTitle">
+            Unsubscribe from emails
+        </div>
+        <div class="gigya-layout-row">
+            <div class="gigya-composite-control gigya-spacer" style="height: 10px; display: block;" data-units="4"></div>
+            <label class="gigya-composite-control gigya-composite-control-label gigya-message" style="text-align:left!important;">We have updated your subscriptions.<br><br>Tell us why you updated your email preferences.</label>
+            <div class="gigya-composite-control gigya-spacer" style="height: 10px; display: block;" data-units="5"></div>
+        </div>
+        <div class="gigya-profile-form" style="font-size:1em;">
+            <div class="gigya-layout-row">
+                <div class="a_form-label-text" style="padding-bottom:10px;"><input type="checkbox" id="C1" class="unsub_checkbox"> <span class="chkText" id="spn-unsub-1">I have completed my purchase/sale and emails are no longer relevant.</span></div>
+            </div>
+            <div class="gigya-layout-row">
+                <div class="a_form-label-text" style="padding-bottom:10px;"><input type="checkbox" id="C2" class="unsub_checkbox"> <span class="chkText" id="spn-unsub-2">Emails/content are not what I expected.</span></div>
+            </div>
+            <div class="gigya-layout-row">
+                <div class="a_form-label-text" style="padding-bottom:10px;"><input type="checkbox" id="C3" class="unsub_checkbox"> <span class="chkText" id="spn-unsub-3">Emails are too frequent.</span></div>
+            </div>
+            <div class="gigya-layout-row">
+                <div class="a_form-label-text" style="padding-bottom:10px;"><input type="checkbox" id="C4" class="unsub_checkbox"> <span class="chkText" id="spn-unsub-4">Emails are not frequent enough.</span></div>
+            </div>
+            <div class="gigya-layout-row">
+                <div class="a_form-label-text" style="padding-bottom:10px;"><input type="checkbox" id="C5" class="unsub_checkbox"> <span class="chkText" id="spn-unsub-5">Emails are not relevant to my real estate needs.</span></div>
+            </div>
+            <div class="gigya-layout-row" style="padding-bottom:20px;">
+                <div class="a_form-label-text"><input type="checkbox" id="C6" class="unsub_checkbox"> <span class="chkText" id="spn-unsub-6">Other</span></div>
+            </div>
+        </div>
+        <div class="gigya-composite-control gigya-composite-control-submit" style="display: block;">
+                <input class="gigya-input-submit" type="submit" onclick="gigyaPlugins.doUnsubConfirmation('0');" value="Submit">
+                <input type="button" id="btnUnsubCancel" onclick="gigyaPlugins.closeUnsubConfirmation();" class="gigya b_base b_low_dark" value="Skip">
+                </div>
+        </div>
+</div>
+
 <script>
     $(document).ready(function () {
         //GetAllResources("0", "1", "0", loadLegalDiv3); //Convert to server-side via WCFProxy?
@@ -3383,7 +3169,11 @@ return /[^\<\>]/i.test(keyChar);
             $("#promoBanner").hide();
         }
 
-       
+        //UNSUBSCRIBE CLOSE
+        $("#c_unsub_confirmation_close").click(function () {
+            $("#unsub-confirmation-screen").trigger('close');
+            return false;
+        });
         ////disabled checkbox initially
         //$("#chkSocial").attr("disabled", true);
 
