@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrycortex.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507215923id_/http%3A//www.industrycortex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrycortex.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013120622id_/http%3A//www.industrycortex.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
