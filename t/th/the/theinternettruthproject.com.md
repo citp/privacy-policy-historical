@@ -1,63 +1,31 @@
-> *The following text is extracted and transformed from the theinternettruthproject.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207234558id_/http%3A//theinternettruthproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternettruthproject.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013103340id_/http%3A//kayolhope.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy —
+# PRIVACY POLICY
 
-This privacy policy sets out how The Internet Truth Project uses and protects any information that you give The Internet Truth Project when you use this website.
+At Kayol Hope, I are committed to protecting your privacy as a visitor to this Web site and as our customer. To our visitors and to our customers, I offer this pledge:
 
-The Internet Truth Project is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Kayol Hope is the owner of the information, which is collected on this Web site. I will not sell, disseminate, disclose, trade, transmit, transfer, share, lease or rent any personally identifiable information to any third party not specifically authorized by you to receive your information except as I have disclosed to you in this Privacy Policy.
 
-The Internet Truth Project may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April 13th, 2012.
+Information Collection
 
-**What we collect**
+I will ask you to provide your personal information to us when you submit reviews and when you provide testimonials to us. I will also ask you to provide your personal information to us when you send e-mail to us from this Web site. When you submit a review and/or testimonial at Kayol Hope, I will ask you to provide your name, home address, mailing address, telephone number and e-mail address. I will maintain a record of your information at the offices of Kayol Hope. so we can provide you with quality services. The employees of Kayol Hope are each required to sign and acknowledge a Confidentiality And Nondisclosure Agreement. Each employee has been instructed on maintaining the privacy of each customer and the importance of protecting the customer’s personal information.
 
-We may collect the following information:
+When you send us e-mail from this Web site, you will provide us with certain personally identifiable information including your e-mail address.
 
-  * Name and job title
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer surveys and/or offers
+Cookies
 
+A cookie is a piece of data that is stored on a visitor’s hard drive while they are visiting this Web site. I may utilize a short-lived form of cookie when you visit this site. At Kayol Hope, a cookie is only used to identify one unique visitor from another visitor during a particular session. A session is the period of active site-use while that unique visitor is linked to our server. I may use cookie technology during a session as a tool to carry forward your input information during the submission process. This enables the visitor to input their information once and have the information appear later during the review process. No personally identifiable information is stored on the cookie. The cookie expires and is deleted from the visitor’s computer as soon as they close their browser or if they are not actively browsing our Web site for more than 20 minutes. Should a previous visitor to our Web site return for a new session, they will be issued a new cookie and in no way will they be recognized as a visitor from a previous visit or session.
 
+Third Party Links
 
-**What we do with the information we gather**
+This Web site may contain links to third party Web sites that are not controlled by Kayol Hope. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that Kayol Hope is not responsible for the content of third party Web sites linked to Kayol Hope nor are I responsible for the privacy policy or practices of third party Web sites linked to Kayol Hope. Our Privacy Policy only applies to information I collect from you while you are at and while you are actively in a session with Kayol Hope. If you should link to a third party Web site from Kayol Hope, I strongly encourage you to review and become familiar with that Web site’s privacy policy.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Changes In Our Privacy Policy
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+I reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes.
 
+If you have any questions about our privacy policy, please feel free to contact us at:
 
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at prophetmktg@gmail.com
-
-
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. **  
-**
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Kayol Hope  
+246 Rothesay Avenue  
+SAINT JOHN, NB E2J-2B7
