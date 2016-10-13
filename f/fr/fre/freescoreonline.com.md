@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freescoreonline.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314092436id_/https%3A//www.freescoreonline.com/us/8019/375ae06/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freescoreonline.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013172849id_/https%3A//www.freescoreonline.com/us/8019/375ae06/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **OUR COMMITMENT TO YOUR PRIVACY**
 
-Last updated: 3/5/2010
+_Last updated: July 23, 2013_
 
-We use the terms 'you' and 'your' to include any person who accesses the Sites or purchases the any product or service offered on the Sites (the 'Services') for any amount of time. We use the terms 'we', 'us' and 'our' to refer to One Technologies, L.P. (the 'Company'), which owns and/or operates this website, and our employees, members, officers, partners, affiliated entities, representatives, attorneys, and agents.
+We use the terms 'you' and 'your' to include any person who accesses the Sites or purchases any product or service offered on the Sites (the 'Services') for any amount of time. We use the terms 'we', 'us' and 'our' to refer to One Technologies, LLC (the 'Company'), which owns and/or operates this website, and our employees, members, officers, partners, affiliated entities, representatives, attorneys, and agents.
 
 We understand how important your privacy is to you, so we are committed to assuring your privacy. This page outlines all of the steps we take to protect your privacy and what we do with your information that you provide to us through our web site.
 
@@ -38,7 +38,9 @@ We may also provide Non-Personally Identifiable Information about our customers'
 
 Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-We also allow some of our employees and independent contractors access to both Personally Identifiable Information and Non-Personally Identifiable Information to enable us to assist us with our business and provide the services and products that we offer to you. We endeavor to have all such employees and contractors sign non-disclosure or confidentiality agreements with us in order to protect your information. From time to time, we make the e-mail addresses of those who provide them to us available to other reputable organizations whose products or services we think you might find interesting. If you supply us with your postal address on-line you may receive mailings from other reputable companies.
+We also allow some of our employees and independent contractors access to both Personally Identifiable Information and Non-Personally Identifiable Information to enable us to assist us with our business and provide the services and products that we offer to you. We endeavor to have all such employees and contractors sign non-disclosure or confidentiality agreements with us in order to protect your information.
+
+From time to time, we make the email addresses of those who provide them to us available to other reputable organizations whose products or services we think you might find interesting. If you supply us with your postal address on-line you may receive mailings from other reputable companies.
 
 **Privacy Policies of Third Parties**
 
@@ -46,7 +48,7 @@ When you sign-up for services through our site, keep in mind you will be interac
 
 **Updating your account information**
 
-Corrections or updates to your account information, including your email address, mailing address or credit card information can be made through the 'Account Info' section of your FreeScoreOnline.com; account. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 855-367-4817.
+Corrections or updates to your account information, including your email address, mailing address or credit card information can be made through the 'Account Info' section of your  account. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at .
 
 **Business transitions**
 
@@ -66,22 +68,18 @@ You must be at least 18 years old to use this site. We do not knowingly collect,
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-FreeScoreOnline.com;  
+  
 Attn: Customer Care  
 4447 North Central Expressway, Suite 110, PMB 406  
-Dallas, TX 75205
+Dallas, TX 75205 
 
-**The FreeScoreOnline.com; team is available to answer your questions via phone seven days a week.**  
-Live representatives are available at 855-367-4817 during the following hours:
+**The team is available to answer your questions via phone seven days a week.**  
+Live representatives are available at  during the following hours: 
 
 Monday through Friday, 8AM to 8PM CST  
 Saturday, 8AM to 5PM CST  
-Sunday, 12PM to 6PM CST
+Sunday, Noon to 6PM CST 
 
 **Other Internet Privacy Resources**
 
 We invite you to learn more about your privacy rights on the Internet. The following resources provide an array of information and services you might find helpful and informative. Electronic Privacy and Information Center (EPIC) EPIC is a public interest research center in Washington, DC. Established in 1994, EPIC works in association with Privacy International, an international human rights group based in London, and is a member of the Global Internet Liberty Campaign and the Internet Privacy Coalition. The Federal Trade Commission (FTC) The Federal Trade Commission enforces a variety of federal antitrust and consumer protection laws. The commission works to enhance the smooth operation of the marketplace by eliminating acts or practices that are unfair or deceptive. National Fraud Information Center (NFIC) The National Fraud Information Center is a project of the National Consumers League, America's oldest nonprofit consumer organization. NFIC helps consumers report fraud and offers advice on how to avoid being victimized. The Privacy Rights Clearinghouse (PRC) PRC provides consumers with valuable information on protecting their personal privacy.
-
-RETURN TO TOP
-
-Copyright © 2016 FreeScoreOnline.com;. All Rights Reserved.
