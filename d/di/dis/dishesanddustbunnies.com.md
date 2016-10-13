@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610115418id_/http%3A//dishesanddustbunnies.com/%3Fpage_id%3D141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013195318id_/http%3A//dishesanddustbunnies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dishes and Dust Bunnies
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fdishesanddustbunnies.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at michelle@dishesanddustbunnies.com.
 
@@ -39,7 +37,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 We are committed to ensuring that our website contains content that is valuable and useful to our readers. To help us with this we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
 
 You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Google Ad settings](https://www.google.ca/settings/ads) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
-
- 
-
-Affiliate links may be used in this post. Please see my [disclosure ](http://dishesanddustbunnies.com/disclosure-policy/ "Disclosure Policy")and [privacy policy](http://dishesanddustbunnies.com/privacy-policy/ "Privacy Policy") for more information.
