@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the am2.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124005408id_/http%3A//am2.com/files/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the am2.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013122244id_/http%3A//am2.com/files/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
