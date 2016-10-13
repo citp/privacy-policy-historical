@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixnap.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417030301id_/https%3A//phoenixnap.com/cs/legal/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnap.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013230144id_/https%3A//phoenixnap.com/cs/legal/pp.html) for the most accurate reproduction.*
 
 # Phoenix NAP Privacy Agreement
 
