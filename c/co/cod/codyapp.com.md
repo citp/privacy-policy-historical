@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323092642id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codyapp.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014004946id_/https%3A//www.codyapp.com/privacy) for the most accurate reproduction.*
 
 # Cody | Privacy
 
@@ -110,8 +110,8 @@ We may occasionally update this Policy. When we do, we will also revise the “l
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
 Cody, Inc.  
-1505 Broadway  
+1101 E. Pike St. #300  
 Seattle, WA 98122  
 info@codyapp.com
 
-Last Updated: February 11, 2015
+Last Updated: July 15, 2016
