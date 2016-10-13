@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403191556id_/https%3A//ahm.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013210644id_/http%3A//ahm.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ahm Health Insurance
+# Privacy Policy - ahm Health Insurance
 
 #### Who are we?
 
-We are Medibank Private Limited ABN 47 080890 259 ( **Medibank** ) and Australian Health Management Group Pty Ltd ABN 96 003 683 298 ( **ahm** ), a subsidiary of Medibank. References to ‘us’, 'we' or 'our' include Medibank, ahm and, where the context requires, other Medibank subsidiaries (collectively **Medibank Group Companies** ).
+We are Medibank Private Limited ABN 47 080890 259 (Medibank) and Australian Health Management Group Pty Ltd ABN 96 003 683 298 (ahm), a subsidiary of Medibank. References to ‘us’, ‘we’ or ‘our’ include Medibank, ahm and, where the context requires, other Medibank subsidiaries (collectively Medibank Group Companies).
 
 #### Who does this policy apply to?
 
@@ -18,9 +18,9 @@ This privacy policy applies to:
 
 #### Protecting your privacy
 
-We are committed to protecting your personal information and complying with our obligations under the Privacy Act 1988 (Cth) (Privacy Act) and other State and Territory laws governing the use of personal information (collectively, **Privacy Laws** ) which regulate how personal information is handled from collection to use and disclosure, storage, access and disposal.
+We are committed to protecting your personal information and complying with our obligations under the Privacy Act 1988 (Cth) (Privacy Act) and other State and Territory laws governing the use of personal information (collectively, Privacy Laws) which regulate how personal information is handled from collection to use and disclosure, storage, access and disposal.
 
-Personal information’ generally means any kind of information in any form about a person that identifies that person and includes sensitive information such as health information.
+‘Personal information’ generally means any kind of information in any form about a person that identifies that person and includes sensitive information such as health information.
 
 This privacy policy explains:
 
@@ -76,13 +76,13 @@ We also take reasonable steps to make sure that the personal information that we
 
 ##### Collection
 
-We **collect** your personal information to enable Medibank Group Companies and our third party suppliers and partners to provide you with products and services, including insurance, health-related services, partner offerings and information on other products and services (collectively **Insurance and Health Products** ). We may also be required by law to collect some personal information.
+We collect your personal information to enable Medibank Group Companies and our third party suppliers and partners to provide you with products and services, including insurance, health-related services, partner offerings and information on other products and services (collectively Insurance and Health Products). We may also be required by law to collect some personal information.
 
 Where you provide personal information to the Medibank Group Companies as a service provider, contractor or prospective employee, we collect your personal information to enable us to fulfil the purpose and related purposes for which you provided the information.
 
 ##### Use
 
-We may **use** your personal information for these purposes, including to:
+We may use your personal information for these purposes, including to:
 
   * process your policy application and manage your policy;
   * manage our relationship with you;
@@ -101,7 +101,7 @@ We may **use** your personal information for these purposes, including to:
 
 ##### Disclosure
 
-In doing so we may **disclose** your personal information to persons or organisations in Australia and overseas including:
+In doing so we may disclose your personal information to persons or organisations in Australia and overseas including:
 
   * our subsidiaries;
   * our agents and service providers;
@@ -129,13 +129,13 @@ From time to time, we may also collect and use your personal information so that
 
 You can choose how we communicate with you and manage your consents to receiving promotions and offers by contacting us:
 
- **Medibank:** Access the Manage My Preferences page within the Medibank Online Member Services facility, call us on [132 331](tel:132331) or [134 190](tel:134190) or visit one of our stores.
+Medibank: Access the Manage My Preferences page within the Medibank Online Member Services facility, call us on [132 331](tel:132331) or [134 190](tel:134190) or visit one of our stores.
 
- **ahm:** Access the Settings page within the ahm Online Member Services facility, call us on [134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am - 8:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
+ahm: Access the Settings page within the ahm Online Member Services facility, call us on[134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am – 6:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
 
 #### How is your information managed when you receive health-related services from us?
 
-This section of our Privacy Policy applies only to health-related services provided to our private health insurance members by Medibank Health Solutions ( **MHS** ), a division of Medibank. MHS may provide such services to our private health insurance members including telephonic services, chronic disease and health management programs and online health-related services.
+This section of our Privacy Policy applies only to health-related services provided to our private health insurance members by Medibank Health Solutions (MHS), a division of Medibank. MHS may provide such services to our private health insurance members including telephonic services, chronic disease and health management programs and online health-related services.
 
 MHS may collect and use your personal information to provide these services to you including to:
 
@@ -162,9 +162,9 @@ Medibank Group Companies may also use and disclose your personal (including sens
 
 You may withdraw your consent to the sharing of your sensitive information between Medibank Group Companies or to being contacted in relation to our health-related services by contacting us:
 
- **Medibank:** Access the Manage My Preferences page within the Medibank Online Member Services facility, call us on [132 331](tel:132331) or [134 190](tel:134190) or visit one of our stores.
+Medibank: Access the Manage My Preferences page within the Medibank Online Member Services facility, call us on [132 331](tel:132331) or [134 190](tel:134190) or visit one of our stores.
 
- **ahm:** Access the Settings page within the ahm Online Member Services facility, call us on [134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am - 8:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
+ahm: Access the Settings page within the ahm Online Member Services facility, call us on[134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am – 8:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
 
 For further information about how your personal information is handled for these health-related services, please refer to Medibank Health Solutions Privacy Policy on the website at [www.medibankhealth.com.au](https://www.medibankhealth.com.au/)
 
@@ -198,9 +198,9 @@ Generally, we will contact you to acknowledge receipt of your complaint and let 
 
 If we have not responded to you within a reasonable time or if your complaint is not resolved to your satisfaction, you are entitled under the Privacy Act to make a complaint to the Office of the Australian Information Commissioner.
 
- **Medibank:** Privacy Officer, Medibank Private Limited, 16/700 Collins Street, Docklands, VIC 3008 or e-mail [privacy@medibank.com.au](mailto:privacy@medibank.com.au)
+Medibank: Privacy Officer, Medibank Private Limited, 16/700 Collins Street, Docklands, VIC 3008 or e-mail [privacy@medibank.com.au](mailto:privacy@medibank.com.au)
 
- **Australian Health Management Group:** Privacy Officer, Australian Health Management Group Pty Ltd, Locked Bag 1006, Matraville NSW 2036 or e-mail [privacy@ahm.com.au](mailto:privacy@ahm.com.au)
+Australian Health Management Group: Privacy Officer, Australian Health Management Group Pty Ltd, Locked Bag 1006, Matraville NSW 2036 or e-mail [privacy@ahm.com.au](mailto:privacy@ahm.com.au)
 
 #### Further information
 
@@ -208,13 +208,13 @@ Further information about the application of the Privacy Act can be found at the
 
 #### Changes to our Privacy Policy
 
-This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/) or [www.ahm.com.au](http://www.ahm.com.au/)
+This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/)or [www.ahm.com.au](http://www.ahm.com.au/)
 
 #### Countries to which personal information may be disclosed
 
 Listed below are the countries to which we may disclose personal information in the course of our functions and activities. This list does not include countries where you may have specifically instructed us to send your information or expressly consented to us sending your information.
 
-Please see the Do we disclose your personal information overseas? section for information on the steps we take to ensure the adequate protection and appropriate management of this information.
+Please see the Do we disclose your personal information overseas?section for information on the steps we take to ensure the adequate protection and appropriate management of this information.
 
   * India
   * New Zealand
