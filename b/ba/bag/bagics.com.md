@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagics.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125010908id_/http%3A//bagics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagics.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013123926id_/http%3A//bagics.com/privacy.html) for the most accurate reproduction.*
 
 # Bagics.com | All In One SEO Companion - Beta Version
 
