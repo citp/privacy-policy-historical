@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pretavoir.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630175533id_/http%3A//www.pretavoir.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pretavoir.co.uk privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013153232id_/http%3A//www.pretavoir.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
