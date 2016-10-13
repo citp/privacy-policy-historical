@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrx.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516174429id_/http%3A//www.pcrx.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrx.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013061902id_/http%3A//www.pcrx.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PCRx.com
 
