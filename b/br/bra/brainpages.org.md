@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpages.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629212733id_/http%3A//brainpages.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpages.org privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013084139id_/http%3A//brainpages.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brain Pages
 
