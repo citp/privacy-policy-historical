@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopcooking.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503082002id_/http%3A//hotpopcooking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopcooking.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013072726id_/http%3A//hotpopcooking.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Cooking
 
