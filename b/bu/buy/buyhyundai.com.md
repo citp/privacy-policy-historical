@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414000000id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013150618id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Hyundai Website Privacy Policy
 
-Effective Date: December 17, 2015
+Effective Date: June 7, 2016
 
-Your privacy is important to Hyundai Motor America ( **"Hyundai" "we," "us" or "our"** ) and its affiliate companies, as is your trust in Hyundai’s products and services. We strive to protect your online privacy, while providing an enjoyable website experience that provides information, products, and services that are relevant and useful to you. The purpose of this Hyundai Motor America Privacy Policy (this **“Privacy Policy”** ) is to notify and inform you of how we collect, use and share information through our U.S. websites: [HyundaiUSA.com](https://web.archive.org/index.aspx), [MyHyundai.com](https://web.archive.org/myhyundai), and certain other Hyundai websites (e.g., [hyundaicertified.com](http://www.hyundaicertified.com/Default.aspx)) (collectively, the “Site”). 
+Your privacy is important to Hyundai Motor America ( **"Hyundai" "we," "us" or "our"** ) and its affiliate companies, as is your trust in Hyundai’s products and services. We strive to protect your online privacy, while providing an enjoyable website experience that provides information, products, and services that are relevant and useful to you. The purpose of this Hyundai Motor America Privacy Policy (this **“Privacy Policy”** ) is to notify and inform you of how we collect, use and share information through our U.S. websites: [HyundaiUSA.com](https://www.hyundaiusa.com/), [MyHyundai.com](https://web.archive.org/myhyundai), and certain other Hyundai websites (e.g., [hyundaicertified.com](http://www.hyundaicertified.com/Default.aspx)) (collectively, the **“Site”** ). 
 
 This Privacy Policy describes:  
 
@@ -35,7 +35,6 @@ Hyundai may offer links to or from the Site to other websites within the Hyundai
 
 ## EFFECTIVE DATE AND CHANGES TO PRIVACY POLICY
 
-  
 The Effective Date of this Privacy Policy is set forth at the top of this webpage. Hyundai reserves the right to change this Privacy Policy at any time. Hyundai will use, share, and disclose all personal and other user information in accordance with the Privacy Policy in effect at the time the information is collected. We will post any changes to this Privacy Policy on this page so check back frequently so that you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Continued use of this Site following changes to these terms will mean that you accept the changes.
 
 ## INFORMATION WE COLLECT
@@ -50,7 +49,7 @@ You can visit the Site to read about our vehicles or use our online tools withou
 
 **Information You Provide To Us**
 
-We collect information that you provide to us when you use the Site. The information that we collect and how we process it depends on how you use the Site. We may collect Personally Identifiable Information when you participate in certain activities on the Site or request certain services, including: 
+We collect information that you provide to us when you use the Site. The information that we collect and how we process it depends on how you use the Site. We may collect Personally Identifiable Information when you participate in certain activities on the Site or request certain services, including:
 
   * When you register or create an account
   * When you make brochure and information requests, order vehicle parts and accessories and request to receive site announcements and special offers
@@ -66,7 +65,7 @@ We also collect certain information from users of the Site automatically when th
 
 **Cookies.**
 
-We may collect certain preference information of website users through the use of cookies, including flash cookies, which are small files stored on your hard drive in order to optimize the design of the Site. Our “cookies” are only used when you are visiting the Site. Cookies enable us to track and aggregate user behavior data so that we may better target the interests of our users and enhance their experience on the Site. You can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. Usage of a cookie is only linked to Personally Identifiable Information if a user provides that information (see above). By themselves, cookies do not tell us your email address or other Personally Identifiable Information. Only you can provide Personally Identifiable Information on our websites – and only if you choose to do so. 
+We may collect certain preference information of website users through the use of cookies, including flash cookies, which are small files stored on your hard drive in order to optimize the design of the Site. Our “cookies” are only used when you are visiting the Site. Cookies enable us to track and aggregate user behavior data so that we may better target the interests of our users and enhance their experience on the Site. You can set your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
 
 **Web Analytics and Other Technologies.**
 
@@ -74,7 +73,7 @@ A number of technologies exist to assess consumer behavior both on-line and off-
 
 **Web Beacons.**
 
-Some of our web pages, promotional email messages and/or newsletters may contain electronic images known as web beacons, which are also called single-pixel GIFs. Web beacons are not used to access your Personally Identifiable Information, but they are a technique we use to compile aggregated statistics about the usage of the Site and to track the number of users who have opened and acted upon our promotional email messages. Web beacons collect only a limited set of information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides.
+Some of our web pages, promotional email messages and/or newsletters may contain electronic images known as web beacons, which are also called single-pixel GIFs. Web beacons collect information including a cookie number, time and date of a page view and a description of the page on which the web beacon resides. Web beacons are a technique we may use to enhance and personalize the Site and the products and Services we offer, to provide product information and advertisements that are more relevant to your interests, compile aggregated statistics about the usage of the Site and to track the number of users who have opened and acted upon our promotional email messages. 
 
 **Third Party Advertisers.**
 
@@ -125,7 +124,7 @@ Hyundai may share Personally Identifiable Information and Non-Personally Identif
 
 **Programs.**
 
-Hyundai may invite you to participate in promotional activities, such as surveys, sweepstakes, contests, special events, blogs and chats (“Programs”). These Programs are oftentimes co-marketed with an unaffiliated Hyundai business partner. If you participate in a Program, we may use Personally Identifiable Information you provide. For example, we may send you email messages to invite you to join a contest Program. Your Personally Identifiable Information may also be shared with our business partner and may also be used by our business partner if you indicate your interest in receiving communications directly from that company. If you elect to receive communications from our business partner, your information will be used by that company in accordance with its policies and this Privacy Policy will not apply to that company’s use of your information. Sometimes the rules, terms and conditions or disclaimers that apply to a particular Program include information on how we may use the Personally Identifiable Information that you provide to us through your participation in the Program. If there is a conflict between the rules, terms and conditions that apply to a particular Program and this Privacy Policy, those applying to the particular Program will govern. Please review all of the information about a Program before you provide us (or our business partners) with any Personally Identifiable Information.
+Hyundai may invite you to participate in promotional activities, such as surveys, sweepstakes, contests, special events, blogs and chats ( **“Programs”** ). These Programs are oftentimes co-marketed with an unaffiliated Hyundai business partner. If you participate in a Program, we may use Personally Identifiable Information you provide. For example, we may send you email messages to invite you to join a contest Program. Your Personally Identifiable Information may also be shared with our business partner and may also be used by our business partner if you indicate your interest in receiving communications directly from that company. If you elect to receive communications from our business partner, your information will be used by that company in accordance with its policies and this Privacy Policy will not apply to that company’s use of your information. Sometimes the rules, terms and conditions or disclaimers that apply to a particular Program include information on how we may use the Personally Identifiable Information that you provide to us through your participation in the Program. If there is a conflict between the rules, terms and conditions that apply to a particular Program and this Privacy Policy, those applying to the particular Program will govern. Please review all of the information about a Program before you provide us (or our business partners) with any Personally Identifiable Information.
 
 **For Audit and Legal Purposes.**
 
@@ -168,10 +167,11 @@ You may choose to share your Personally Identifiable Information with us. Howeve
 
 If you register for an account on [MyHyundai.com](https://web.archive.org/myhyundai), you can access and update certain information we have relating to your online account by signing into your account and going to the “My Account” section of the Site. You may also update or delete your contact information by emailing us at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com), by calling (800) 633-5151 or by writing us directly at: Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835.
 
-**Unsubscribe Or Opt-Out**  
+**Unsubscribe Or Opt-Out**
+
 Hyundai offers you the opportunity to opt-out from receiving promotional email or mail from Hyundai about our products and services.
 
-  * For email, you may opt-out at any time by using the unsubscribe mechanism within the email. The unsubscribe mechanism allows you to manage their subscription preferences to email alerts and special offers. Notwithstanding the above, this mechanism does not allow you to opt-out of receiving transactional email, such as registration confirmation, vehicle updates and responses to direct requests.
+  * For email, you may opt-out at any time by using the unsubscribe mechanism within the email. The unsubscribe mechanism allows you to manage your subscription preferences to email alerts and special offers. Notwithstanding the above, this mechanism does not allow you to opt-out of receiving transactional email, such as registration confirmation, vehicle updates and responses to direct requests.
   * For calls or direct mail, you may opt out at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com) or by calling (800) 633-5151.
   * If the information you have provided will be available to third parties for marketing purposes, you will also be given the opportunity to opt-out from this practice at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com) or by calling (800) 633-5151.
   * You also may write to us directly if you wish to: (a) ask that we not share your Personally Identifiable Information with third parties for marketing purposes; or (b) opt out or request that we cease sending you promotional or other information via calls, mail or email. Such written requests should be sent to Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835. 
@@ -180,7 +180,7 @@ Hyundai offers you the opportunity to opt-out from receiving promotional email o
 
 At the time information is collected from you, other choices you have about how the information may be used may be explained.
 
-If you have opted out of receiving future emails from us, we will implement your opt-out request within ten (10) business days of receiving the opt-out request. If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time. In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us as required by law.
+If you have opted out of receiving future emails from us, we will implement your opt-out request within ten (10) business days of receiving the opt-out request. If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time. In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us as required by law. 
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS 
 
