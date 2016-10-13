@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emsisoft.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514043029id_/https%3A//www.emsisoft.com/en/software/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emsisoft.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013040015id_/https%3A//www.emsisoft.com/en/software/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
