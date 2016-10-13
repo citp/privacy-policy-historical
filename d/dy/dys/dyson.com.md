@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621235518id_/http%3A//www.dyson.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014010846id_/http%3A//www.dyson.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### March 2016
+#### August 2016
 
 ### Introduction
 
@@ -20,11 +20,11 @@ Privacy policies can be complicated. We have tried to make ours as clear and as 
 
 At Dyson we:
 
-  1. Only ask for or collect the personal information we need, to provide and improve the service, products and experiences our customers expect, and for other purposes outlined in our privacy policy.
+  1. Will only ask for or collect the personal information we need to provide and improve the service, products and experiences our customers expect.
   2. Give you control over the personal information we hold about you to ensure it is accurate and reflects your preferences.
   3. Make sure your personal information is always secure and protected
   4. Are fair and transparent about how we use the personal information we hold.
-  5. Only use your personal information for the purpose that you trusted us to use it for, as outlined in our privacy policy.
+  5. Only use your personal information for the purpose that you trusted us to use it for.
   6. We never sell your information and only share it as outlined in our privacy policy or when you ask us to.
   7. Respect your choices and will inform you if there are changes that affect your personal information or how we use it. 
   8. Take responsibility for the personal information that we hold about you.
@@ -217,9 +217,11 @@ If we change our privacy policy, we will post the details of the changes below. 
 
 We stand behind the commitments we have made. We will never change our policies and practices in a way that will offer less protection for personal information that we already have about you without your consent.
 
-**This privacy policy was last reviewed and updated in March 2016.**
+**This privacy policy was last reviewed and updated in August 2016.**
 
 ##  Previous changes to this privacy policy 
+
+August 2016 – Minor amends for Global Privacy Portal launch clarifying Dyson partners and marketing via social platforms
 
 March 2016 – Global Privacy Portal launched with new privacy policies.
 
