@@ -1,61 +1,31 @@
-> *The following text is extracted and transformed from the backtoschooloutfits.org privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001100057id_/http%3A//www.backtoschooloutfits.org/www.backtoschooloutfits.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backtoschooloutfits.org privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013130935id_/http%3A//backtoschooloutfits.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Back to School Outfits
+# Privacy – Back to School Outfits
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
+Dear valued reader:
 
-When accessing our Website, will learn certain information about you during your visit.
+Thank you for your interest in reading our blog at “backtoschooloutfits.org” This page exists to inform you about our policies and practices with regards to your privacy. We use your personal information solely for the purpose of improving our blog. By using our website you agree to the use of this information in accordance with the policy below.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+**Log Data**
 
-  
-**What Are Cookies?**
+This blog has no analytics tracking, therefore there is no personal data collection. Because there is no personal data collection, we do not share any information with third parties of any kind.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+**Communications**
 
-  
-**IP Addresses**
+There is no newsletter signup, therefore we will not use your personal information to contact you. We also will not use your personal information to share marketing or promotional materials with you of any kind.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
+**Cookies**
 
-  
-**Email Information**
+Cookies are files we use to optimize your blog experience. They contain small data pockets which may or may not include an anonymous signal unique to your computer. Web sites send cookies to your browser which are then stored on your computer’s hard drive. This site uses cookies to collect information. You can access your browser settings and instruct your browser to refuse to accept cookies, You can also set your browser to alert you when cookies are being sent to your computer browser. If you choose to disable cookies, some parts of our website may not be accessible to you.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
+**Security**
 
-  
-**How Do We Use the Information That You Provide to Us?**
+Rest assured, the security of your personal information is of the utmost importance to us. While we do not save, store, or distribute your personal information to third parties or use your information for marketing or promotional services, no method of internet security is perfect. We will do everything in our power to ensure the security of your information; however, no guarantees can be made on its complete safety.
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+**Privacy Policy Changes**
 
-will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+This privacy policy is effective as of September 6, 2016 and is subject to change without notice. This policy will remain effective until such changes are made on future dates. Such changes will be noted immediately in our privacy policy and be posted in place of the current policy. We recommend you check this page periodically to ensure you are up to date on our current policies. Should you continue to use the website after changes are made, said use represents your agreement with the updated policy.
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+**Contact Us**
 
-**  
-A Special Note About Children**
-
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
-
-  
-**How Do We Protect Your Information and Secure Information Transmissions?**
-
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
-
-may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
-
-For site security purposes and to ensure that this service remains available to all users, uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-  
-**Policy Changes**
-
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-**  
-Contact**
-
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
-
-mangobuddybhw@gmail.com
+Please [contact us](http://backtoschooloutfits.org/contact) with any questions or concerns regarding this policy.
