@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bzmr.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407031805id_/http%3A//bzmr.com/page.php-p%3D1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzmr.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013135354id_/http%3A//bzmr.com/page.php-p%3D1.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Play Privacy Policy Online
 
 Privacy Policy for www.BZMR.COM 
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](https://web.archive.org/web/20160407031805id_/http%3A//bzmr.com/%22contact.php.htm%22)
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](https://web.archive.org/web/20161013135354id_/http%3A//bzmr.com/%22contact.php.htm%22)
 
 At www.BZMR.COM, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.BZMR.COM and how it is used. 
 
