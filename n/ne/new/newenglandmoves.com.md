@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210539id_/https%3A//www.coldwellbankerhomes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013221457id_/https%3A//www.coldwellbankerhomes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - ColdwellBankerHomes.com
 
