@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the fullcontact.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516211053id_/https%3A//www.fullcontact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcontact.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013031809id_/https%3A//www.fullcontact.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FullContact
-
-[](https://web.archive.org/) [Products](https://www.fullcontact.com/apps/ "Products") [Solutions](https://www.fullcontact.com/enterprise/ "Solutions") [Developers](https://www.fullcontact.com/developer/) [Support](http://support.fullcontact.com/) [App Sign Up](https://app.fullcontact.com/welcome)
-
-Privacy [Terms](https://web.archive.org/terms/)
-
-### Want to control your data and privacy settings?
-
-FullContact allows you to claim your profile, edit it, and hide or disclose data in your profile. 
-
-[Claim Your Contact Data](https://web.archive.org/web/20160516211053id_/https://www.fullcontact.com/privacy/claim)
 
 #####  FullContact   
 Privacy Policy | Your Privacy Rights 
@@ -21,7 +11,7 @@ FullContact Inc. (“ **FullContact** “) is committed to protecting your priva
 
   2. **A Note about Children.** We do not intentionally gather Personal Data from visitors who are under the age of 13. 
 
-  3. **A Note to Users Outside of the United States.** Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. We adhere to the United States / European Union Data Protection Safe Harbor Arrangement, which can be located at <http://www.export.gov/safeharbor>. 
+  3. **A Note to Users Outside of the United States.** Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. We adhere to the United States / European Union Privacy Shield Arrangement, which can be located at <https://www.privacyshield.gov/>. 
 
   4. **Types of Data We Collect. “Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “ **Anonymous Data** ” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
 
@@ -52,20 +42,19 @@ FullContact Inc. (“ **FullContact** “) is committed to protecting your priva
       * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of FullContact. 
     3. **Creation of Anonymous Data.** We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. FullContact reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion. 
   6. **Disclosure of Your Personal Data.** We disclose your Personal Data, End User Contact Data and Completed Contact Data as described below and as described elsewhere in this Privacy Policy. 
-    1. **Third Party Service Providers.** We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to FullContact. These third party service providers are required not to use your Personal Data other than to provide the services requested by FullContact. FullContact requires its service providers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Safe Harbor principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Safe Harbor principles. 
+    1. **Third Party Service Providers.** We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to FullContact. These third party service providers are required not to use your Personal Data other than to provide the services requested by FullContact. FullContact requires its service providers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Privacy Shield principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles. 
     2. **Affiliates and Acquisitions.** We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. 
     3. **Other Disclosures.** Regardless of any choices you make regarding your Personal Data (as described below), FullContact may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on FullContact; (c) to protect or defend the rights or property of FullContact or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use. 
-    4. **Developers.** Developers may want access to Personal Data (including End User Contact Data) that we collect from their customers. As a result, we may provide your Personal Data to Developers; however (and in accordance with California’s “Shine the Light” Act codified at Civil Code section 1798.83), we will cease any further disclosure of your Personal Data to Developers for their own direct marketing purposes if you “opt-out” by contacting us as described in Section 13 below. If you wish to discontinue receipt of these e-mails, please contact the applicable Developer directly to update your preferences. The privacy policies of the Developers may apply to the use and disclosure of your Personal Data that we collect and disclose to such Developers. We contractually require Developers to not, and to require their customers to not, use such data for the purposes of cookie tracking, ad exchanges, ad networks, data brokerages, and sending electronic communications (including email) in violation of applicable law. FullContact requires Developers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Safe Harbor principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Safe Harbor principles. 
+    4. **Developers.** Developers may want access to Personal Data (including End User Contact Data) that we collect from their customers. As a result, we may provide your Personal Data to Developers; however (and in accordance with California’s “Shine the Light” Act codified at Civil Code section 1798.83), we will cease any further disclosure of your Personal Data to Developers for their own direct marketing purposes if you “opt-out” by contacting us as described in Section 13 below. If you wish to discontinue receipt of these e-mails, please contact the applicable Developer directly to update your preferences. The privacy policies of the Developers may apply to the use and disclosure of your Personal Data that we collect and disclose to such Developers. We contractually require Developers to not, and to require their customers to not, use such data for the purposes of cookie tracking, ad exchanges, ad networks, data brokerages, and sending electronic communications (including email) in violation of applicable law. FullContact requires Developers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Privacy Shield principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles. 
   7. **Third Party Websites.** When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. 
   8. **Your Choices Regarding Your Personal Data**
     1. **Email Choices.** We offer you choices regarding the collection, use, and sharing of your Personal Data. If you are a registered user (including a Developer or a person who has claimed his profile), we will periodically send you free newsletters and e-mails that promote our Site or Services as well as products or services we think you may be interested in. When you receive such promotional newsletters or communications from us, you may indicate a preference to stop receiving them from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly. Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy. 
     2. **Access, Correction, and Deletion.** FullContact allows individuals to access, modify, and set permissions with respect to End User Contact Data that it holds about them. For example, FullContact also provides certain features that allow you to publish and share some of your Personal Data, End User Contact Data or Completed Contact Data with others, but these features are totally optional and whether or not you use them is up to you. If you choose to connect your FullContact account with one of our development partners, you may be giving the partner access to your Personal Data, End User Contact Data or Completed Contact Data. We will tell you how the partner application will access your account and you can turn off access whenever you want. You may access and make choices about your End User Contact Data by choosing to “claim your profile” on the FullContact Site (at <https://www.fullcontact.com/privacy>). If you “claim your profile” and set any of the data elements about you to “hide”, any additional data about you that we thereafter collect from third parties will be designated as “hide” unless you specify otherwise. If you request that we delete your End User Contact Data, we will not do so because, if we do, another user may later upload your contact information and we will not have a record that you requested that your contact information be deleted. Instead of deleting your contact information from your systems, we will retain it but flag it to not be used or shared with third parties. Finally, FullContact provides you with the ability to export your Personal Data, End User Contact Data or Completed Contact Data from our systems at any time using industry standard formats. 
     3. **Additional Choices For California Residents – Your California Privacy Rights (As Provided by California Civil Code section 1798.83).** California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in Section 8(b) above, you can opt-out of our sharing of your personal information with third parties for the third parties’ direct marketing purposes by claiming your profile and selecting how your personal information is used. To find out more about your opt-out rights, please contact us at the address listed in Section 13 below. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year. 
   9. **Data Integrity.** FullContact will use Personal Data only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. FullContact will take reasonable steps to ensure that Personal Data is relevant to its intended use, accurate, complete, and current. FullContact depends on you to update and correct your Personal Data to the extent necessary for the purposes for which it was collected and subsequently authorized by you. 
-  10. **Enforcement.** FullContact conducts periodic self-assessments to verify that the attestations and assertions it makes about its privacy practices are true and that such privacy practices have been implemented as presented. FullContact will take steps to remedy any problems arising out of failure to comply with the Safe Harbor principles. 
+  10. **Enforcement.** FullContact conducts periodic self-assessments to verify that the attestations and assertions it makes about its privacy practices are true and that such privacy practices have been implemented as presented. FullContact will take steps to remedy any problems arising out of failure to comply with the Privacy Shield principles. 
   11. **Disputes.**
     1. **Generally.** FullContact takes its users’ privacy concerns seriously. If you believe that FullContact has not adhered to this Privacy Policy, please contact FullContact as described in Section 13 below. In your email, please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. 
-    2. **Dispute Resolution for Users Outside of the United States.** The following provision only applies to you if you are a resident in the European Economic Area. FullContact has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by FullContact, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint. 
   12. **Security of Your Personal Data.** FullContact is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while FullContact uses reasonable efforts to protect your Personal Data, FullContact cannot guarantee its absolute security. 
   13. **Contact Information.** FullContact welcomes your comments or questions regarding this Privacy Policy. Please contact us at this address or phone number: 
 
@@ -78,7 +67,142 @@ Suite 450 Denver, Colorado 80202
 
 
 
+## Addendum – 1.1 FullContact EU Privacy Shield Certification Information
+
+### EU-US Privacy Shield Certification
+
+The following information aligns Fullcontact Privacy Statement with the specific points required by the Privacy Shield self-certification process, and ensures Fullcontact’s compliance with the EU-US Privacy Shield Framework.
+
+FullContact complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. FullContact has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+
+In compliance with the EU-US Privacy Shield Principles, FullContact commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact the dedicated FullContact compliance team at: 
+
+[Compliance@FullContact.com](mailto:Compliance@FullContact.com)
+
+FullContact has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus.
+
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+FullContact is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).”
+
+### Organization Information:
+
+  * FullContact Inc. (a Delaware Company)
+  * 1755 Blake St., Suite #450 Denver, Colorado 80202
+
+
+
+Organization Contact: Valid individual within FullContact handling of complaints, access requests, and any other issues concerning Fullcontact’s compliance with the EU-US Privacy Shield Framework.
+
+  * David B Brown
+  * VP Information Technology
+  * [Compliance@FullContact.com](mailto:Compliance@FullContact.com)
+  * +1-888-330-6943
+
+
+
+Organization Corporate Officer: Certifying Fullcontact compliance with the Privacy Shield Framework: 
+
+By submitting this self-certification, the below listed corporate officer attests that he/she is authorized to submit the self-certification on behalf of your organization and all entities or subsidiaries indicated below.
+
+  * Rushton McGarr
+  * Chief Financial Officer
+  * [Compliance@FullContact.com](mailto:Compliance@FullContact.com)
+  * +1-888-330-6943
+
+
+
+FullContact subsidiaries also adhering to the Privacy Shield Principles:
+
+  * CoBook SIA (a Latvian Company)
+  * nGame Inc. (a Delaware Company)
+  * FullContact International, LLC (a Delaware Company)
+
+
+
+Types of information covered by Fullcontact Privacy Policy:
+
+Note differences in this policy regarding the term “human resources data”. Human Resources Data refers to personal data about employees, past or present, collected in the context of the employment relationship. Information _other than_ Human Resources data includes the following: customer, client, visitor, and clinical trial data.
+
+  * FullContact’s Privacy Policy covers: Personal data **other than** human resources data
+
+
+
+Purposes for which FullContact collects and processes personal data in reliance on the Privacy Shield:
+
+  1. **General Use.** In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways: 
+    * facilitate the creation of and secure your account on our network;
+    * identify you as a user in our system;
+    * provide improved administration and quality of experience of our Site and Services;
+    * provide the Services you request;
+    * send you a welcome email to verify ownership of the e-mail address provided when your account was created;
+    * send you administrative e-mail notifications, such as security or support and maintenance advisories;
+    * respond to your inquiries related to employment opportunities or other requests; and
+    * send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of FullContact.
+  2. **Creation of Anonymous Data.** We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. FullContact reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties in its sole discretion.
+  3. **Disclosure of Your Personal Data.** We disclose your Personal Data, End User Contact Data and Completed Contact Data as described below and as described elsewhere in this Privacy Policy. 
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, FullContact is potentially liable. 
+
+    1. **Third Party Service Providers.** We may share your Personal Data with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to FullContact. These third party service providers are required not to use your Personal Data other than to provide the services requested by FullContact. FullContact requires its service providers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Privacy Shield principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles. 
+    2. **Affiliates and Acquisitions.** We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. 
+    3. **Other Disclosures.** Regardless of any choices you make regarding your Personal Data (as described below), FullContact may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on FullContact; (c) to protect or defend the rights or property of FullContact or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use. FullContact may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
+    4. **Developers.** Developers may want access to Personal Data (including End User Contact Data) that we collect from their customers. As a result, we may provide your Personal Data to Developers; however (and in accordance with California’s “Shine the Light” Act codified at Civil Code section 1798.83), we will cease any further disclosure of your Personal Data to Developers for their own direct marketing purposes if you “opt-out” by contacting us as described in Section 13 below. If you wish to discontinue receipt of these e-mails, please contact the applicable Developer directly to update your preferences. The privacy policies of the Developers may apply to the use and disclosure of your Personal Data that we collect and disclose to such Developers. We contractually require Developers to not, and to require their customers to not, use such data for the purposes of cookie tracking, ad exchanges, ad networks, data brokerages, and sending electronic communications (including email) in violation of applicable law. FullContact requires Developers to whom it discloses Personal Data and who are not subject to the laws based on the EU Data Protection Directive 95/46 or Swiss Federal Data Protection law to either (i) subscribe to the Privacy Shield principles or (ii) contractually agree to provide at least the same level of protection for Personal Data as is required by the relevant Privacy Shield principles. 
+
+
+
+### User’s RIGHT to access their data:
+
+**FullContact** takes privacy, trust and the management of personal information very seriously. Our link to manage your publically available contact information is here – <https://www.fullcontact.com/privacy/claim/>. Through this interface a user can;
+
+  * Control and promote your single online identity
+  * Control the information that others see about you
+  * Correct data that is no longer valid
+  * Opt out completely and remove the public information that we have for your contact record
+
+
+
+FullContact’s independent recourse mechanism:
+
+  * FullContact’s SOC 2 Audits are performed by KirkPatrickPrice, CPA firm, who can be contacted online at [www.KirkPatrickPrice.com](http://www.kirkpatrickprice.com/)
+
+
+
+Location of FullContact’s privacy policy applicable to personal data covered under FullContact’s self-certification: 
+
+  * Effective Date – 09/23/2011
+  * FullContact Privacy Policy – <https://www.fullcontact.com/privacy/>
+  * EU Privacy Shield Addendum – [https://www.fullcontact.com/privacy/](https://www.fullcontact.com/privacy/#privacy-shield)
+
+
+
+Federal Trade Commission will serve as the statutory body and has jurisdiction to investigate claims against FullContact regarding possible unfair or deceptive practices and violations of laws or regulations covering privacy. 
+
+FullContact Privacy Program Initiatives and Memberships 
+
+  * FullContact retains the CPA Firm Kirk Patrick Price as our sole external SOC 2 Type One and Type Two audit and compliance resource.
+  * KirkPatrick Price performs external audits to ensure FullContact’s compliance with currently advertised control levels 
+    * KirkPatrick Price can be found online at <https://kirkpatrickprice.com/>
+
+
+
+Additional Information 
+
+  * FullContact’s annual revenue as of August 1st, 2016 is between $5-25 Million
+  * FullContact’s industry sector is “Technology”
+  * FullContact currently employs between 100-250 people
+
+
+
 ### Changes to the Policy
+
+###### Thursday, August 15, 2016
+
+  * We’ve added an addendum to the security policy to afford our users an in-depth review of our participation, compliance, and continued integration efforts around the EU Privacy Shield initiative. The complete FullContact Addendum regarding our commitment to the EU Privacy shield can be found here.
+
+
 
 ###### Tuesday, November 10, 2015
 
@@ -94,4 +218,4 @@ Suite 450 Denver, Colorado 80202
 
 
 
-Last Revised: Tuesday, November 10, 2015
+Last Revised: Monday, August 15, 2016
