@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323023154id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013062127id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Kogan Privacy Policy - Kogan.com
 
 ## 1\. Openness and transparency
 
-Kogan.com Pty Ltd (Kogan) is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy. To view the [hotels.kogan.com](https://web.archive.org/web/20160323023154id_/https://www.kogan.com/au/privacy-policy/hotels.kogan.com) privacy policy, please [click here](https://secure.booking.com/content/privacy.en-us.html?aid=837005;sid=bcaa4acf62d805e7dfa81214c1d89614;dcid=5).
+Kogan.com Pty Ltd (Kogan) is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy. To view the [hotels.kogan.com](http://hotels.kogan.com/) privacy policy, please [click here](https://secure.booking.com/content/privacy.en-us.html?aid=837005;sid=bcaa4acf62d805e7dfa81214c1d89614;dcid=5).
 
 ## 2\. Personal information
 
