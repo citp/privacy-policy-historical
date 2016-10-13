@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativememories.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629120154id_/http%3A//www.creativememories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativememories.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013162621id_/https%3A//www.creativememories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CM
 
@@ -95,4 +95,4 @@ CM Group Holdings Inc.
 640 60th Street South  
 Attn: Customer Service  
 St Cloud, MN 56301  
-customerservice@creativememories.com
+[customerservice@creativememories.com](mailto:customerservice@creativememories.com)
