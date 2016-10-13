@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixtrac.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608154723id_/http%3A//clixtrac.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixtrac.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013145548id_/http%3A//clixtrac.com/privacy.htm) for the most accurate reproduction.*
 
 # ClixTrac - Privacy Policy
 
@@ -15,7 +15,7 @@ If you do provide us with personal information during your registration, we may 
 
 For example, we may use your e-mail address to send you updates about our service, such as new features that have been added or special upgrade discounts that are offered from time to time.
 
-If you have already submitted this information and would like to remove it, you can have your email address and other registration information removed from our system by [contacting us](https://web.archive.org/web/20160608154723id_/http%3A//clixtrac.com/contact.htm) with your request. We will then close your account and remove your registration.
+If you have already submitted this information and would like to remove it, you can have your email address and other registration information removed from our system by [contacting us](https://web.archive.org/web/20161013145548id_/http%3A//clixtrac.com/contact.htm) with your request. We will then close your account and remove your registration.
 
 **Demographics and other information**  
 When someone passes through our click tracking system, we may store demographic and other information about that person, such as their IP address, country, brand/version of web browser, and brand/version of operating system. This information allows our users to monitor for abuse, as well as, analyze the different demographics of their ad campaigns.
@@ -29,7 +29,7 @@ This third-party sharing of information does not include instances when governme
 We are aware that you may be concerned about the privacy and confidentiality of your personal information, including, in the case of a purchase of goods or services, credit card and billing address information. Therefore, we have taken precautions to ensure that this information is safe and secure. Our credit card processor protects your transactions using a technology called Secure Sockets Layer (SSL). If your browser is capable of SSL, and most are, your sensitive information will automatically be encrypted before being sent over the Internet. You should also know that we do not store your credit card or ordering information on our server.
 
 **Children**  
-Our company does not intend to collect any personal information (such as, name, address, telephone number, age or e-mail address) from persons under eighteen years of age. If a parent or guardian of a child who has provided us with such information would like that information deleted from our records, please [contact us](https://web.archive.org/web/20160608154723id_/http%3A//clixtrac.com/contact.htm). We will make all reasonable efforts to delete the child's information from our records.
+Our company does not intend to collect any personal information (such as, name, address, telephone number, age or e-mail address) from persons under eighteen years of age. If a parent or guardian of a child who has provided us with such information would like that information deleted from our records, please [contact us](https://web.archive.org/web/20161013145548id_/http%3A//clixtrac.com/contact.htm). We will make all reasonable efforts to delete the child's information from our records.
 
 **Cookies**  
 When you view our website or click on one of our tracking links, we may store some information in the form of a "cookie" on your computer. Cookies enable us, as well as the users of our click tracking service, to track the origin of website traffic. Please be assured that our cookies are safe. They are not programs that can be used to damage files, and personal information is not gathered from them. They are used to store user, campaign and tracker IDs that help us determine which promotion a customer originated from. Our cookies have a 90 day life span.
@@ -42,4 +42,4 @@ We cannot ensure the protection of any personal information that you provide to 
 **Acceptance of these terms**  
 By using this website or our click tracking service, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this website or our service. We reserve the right to change this policy at any time. Your continued use of our website and/or service, following the posting of changes to our Privacy Policy, will signify your acceptance of those changes. Therefore, we recommend you review this Privacy Policy frequently.
 
-If you have questions about this Privacy Policy, please contact us using our [contact form](https://web.archive.org/web/20160608154723id_/http%3A//clixtrac.com/contact.htm).
+If you have questions about this Privacy Policy, please contact us using our [contact form](https://web.archive.org/web/20161013145548id_/http%3A//clixtrac.com/contact.htm).
