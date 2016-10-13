@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the kogan.com.au privacy policy that was archived on 2016-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323023154id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kogan.com.au privacy policy that was archived on 2016-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161013062127id_/https%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="https://tags.bkrtx.com/js/bk-coretag.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-8MJ9"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAABWFNAAAAFUlNWBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"298be69834","agent":"","transactionName":"YVUDMERYWBFXWkUPXlgfJxFYWkILWVceFlBRVRJKQFBTFUUDYhJeRFUxBVFccgdCWFgKH1FVFQ==","applicationID":"8356240","errorBeacon":"bam.nr-data.net","applicationTime":37}</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-8MJ9"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":1,"licenseKey":"298be69834","agent":"","transactionName":"YVUDMERYWBFXWkUPXlgfJxFYWkILWVceDUJTURMHXhdAC1NOQlxCU1ETB15mWgtFTQ==","applicationID":"8356240","errorBeacon":"bam.nr-data.net","applicationTime":87}</script>
     <meta http-equiv="x-dns-prefetch-control" content="on">
-    <meta name="theme-color" content="#ed193a">
     <link rel="dns-prefetch" href="https://www.kogan.com">
     <link rel="dns-prefetch" href="https://static.kogan.com">
+    <link rel="dns-prefetch" href="https://img.kogan.com">
     
     <title>Kogan Privacy Policy - Kogan.com</title>
     <meta name="description" content="Kogan.com is Australia’s largest online retailer, with incredible deals on TVs, Phones, Tablets, Computers, Kitchen Appliances, Homewares, Fitness, Beauty, Tools, and much more!">
@@ -23,22 +23,20 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/dom4/1.5.2/dom4.js"></script>
     <![endif]-->
 
-    <script src="//static.kogan.com/static/js-build/libs/modernizr.ad768f7e64e4.js"></script>
 
-    <!--[if lt IE 9]><link href="//static.kogan.com/static/css/ie.fa81ddeabbf8.css" rel="stylesheet" type="text/css" media="all"><![endif]-->
+
+
+
+    <script src="//static.kogan.com/static/js-build/libs/modernizr.6a33407cb7db.js"></script>
+
+    <!--[if lt IE 9]><link href="//static.kogan.com/static/css/ie.1c14ed234ccf.css" rel="stylesheet" type="text/css" media="all"><![endif]-->
+
     
-    <script>
-        if (!navigator.userAgent.match(/iPad/i)) {
-            var h = document.getElementsByTagName('head').item(0);
-            var m = document.createElement('meta');
-            m.name = "apple-itunes-app";
-            m.content = "app-id=935546571";
-            h.appendChild(m);
-        }
-    </script><meta name="apple-itunes-app" content="app-id=935546571">
-
-    <link rel="stylesheet" href="//static.kogan.com/static/js-build/styles.b71692678689.css">
-    <link rel="stylesheet" href="//static.kogan.com/static/js-build/legacy-styles.ee9130d91bdd.css">
+    
+      <link rel="stylesheet" href="//static.kogan.com/static/js-build/styles.d4882fb8160d.css">
+    
+    <link rel="stylesheet" href="//static.kogan.com/static/js-build/legacy-styles.96252378e34b.css">
+    <link rel="stylesheet" href="//static.kogan.com/static/js-build/server/Footer.efd891048e9d.css">
     
     
     
@@ -56,7 +54,9 @@
 
     
     <meta property="og:site_name" content="Kogan Australia">
-    <meta property="og:image" content="https://static.kogan.com/static/img/koganfb-v2.fa93f4616ba6.jpg">
+    
+        <meta property="og:image" content="https://static.kogan.com/static/img/og_kogan.756aaabd583b.jpg">
+    
     <meta property="og:url" content="https://www.kogan.com/au/privacy-policy/">
     <meta property="og:title" content="Kogan Privacy Policy - Kogan.com">
     <meta property="og:type" content="website">
@@ -67,28 +67,46 @@
     
 
     
-    <link rel="apple-touch-icon" sizes="57x57" href="//static.kogan.com/static/img/favicons/apple-touch-icon-57x57.9f463623bc8a.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="//static.kogan.com/static/img/favicons/apple-touch-icon-60x60.555a96e7839b.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="//static.kogan.com/static/img/favicons/apple-touch-icon-72x72.3c3d968907ee.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="//static.kogan.com/static/img/favicons/apple-touch-icon-76x76.27d024a393f3.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="//static.kogan.com/static/img/favicons/apple-touch-icon-114x114.d10bbf747591.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="//static.kogan.com/static/img/favicons/apple-touch-icon-120x120.e05a08ba66b7.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="//static.kogan.com/static/img/favicons/apple-touch-icon-144x144.cdcaacf4441f.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="//static.kogan.com/static/img/favicons/apple-touch-icon-152x152.f6ea7824bd90.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="//static.kogan.com/static/img/favicons/apple-touch-icon-180x180.a7f15dfd3629.png">
-    <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-32x32.9b25b1f3e25c.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-194x194.30a9b9ad21aa.png" sizes="194x194">
-    <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-96x96.7a3267e18cfe.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/android-chrome-192x192.4af90b8ed7fa.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-16x16.d91e092a28ba.png" sizes="16x16">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="shortcut icon" href="//static.kogan.com/static/img/favicons/favicon.aa3e579e2484.ico">
+        <link rel="apple-touch-icon" sizes="57x57" href="//static.kogan.com/static/img/favicons/apple-touch-icon-57x57.9f463623bc8a.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="//static.kogan.com/static/img/favicons/apple-touch-icon-60x60.555a96e7839b.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="//static.kogan.com/static/img/favicons/apple-touch-icon-72x72.3c3d968907ee.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="//static.kogan.com/static/img/favicons/apple-touch-icon-76x76.27d024a393f3.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="//static.kogan.com/static/img/favicons/apple-touch-icon-114x114.d10bbf747591.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="//static.kogan.com/static/img/favicons/apple-touch-icon-120x120.e05a08ba66b7.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="//static.kogan.com/static/img/favicons/apple-touch-icon-144x144.cdcaacf4441f.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="//static.kogan.com/static/img/favicons/apple-touch-icon-152x152.f6ea7824bd90.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="//static.kogan.com/static/img/favicons/apple-touch-icon-180x180.a7f15dfd3629.png">
+        <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-32x32.9b25b1f3e25c.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-194x194.30a9b9ad21aa.png" sizes="194x194">
+        <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-96x96.7a3267e18cfe.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/android-chrome-192x192.4af90b8ed7fa.png" sizes="192x192+">
+        <link rel="icon" type="image/png" href="//static.kogan.com/static/img/favicons/favicon-16x16.d91e092a28ba.png" sizes="16x16">
+        <link rel="shortcut icon" href="//static.kogan.com/static/img/favicons/favicon.aa3e579e2484.ico">
+        
+        <link rel="manifest" href="/manifest.json">
+        
+        <meta name="theme-color" content="#ed193a">
+        
+        <meta name="msapplication-TileImage" content="//static.kogan.com/static/img/favicons/mstile-144x144.09fb396b9947.png">
+        <meta name="msapplication-config" content="//static.kogan.com/static/img/favicons/browserconfig.68736ffb27b3.xml">
+        <meta name="msapplication-TileColor" content="#ed193a">
+    
     <meta name="apple-mobile-web-app-title" content="Kogan.com">
     <meta name="application-name" content="Kogan.com">
-    <meta name="msapplication-TileColor" content="#b91d47">
-    <meta name="msapplication-TileImage" content="//static.kogan.com/static/img/favicons/mstile-144x144.09fb396b9947.png">
-    <meta name="msapplication-config" content="//static.kogan.com/static/img/favicons/browserconfig.4dff89a1fee0.xml">
-    <meta name="theme-color" content="#ffffff">
+
+    
+    
+        
+        
+        <script>
+            if (!navigator.userAgent.match(/iPad/i)) {
+                var h = document.getElementsByTagName('head').item(0);
+                var m = document.createElement('meta');
+                m.name = "apple-itunes-app";
+                m.content = "app-id=935546571";
+                h.appendChild(m);
+            }
+        </script><meta name="apple-itunes-app" content="app-id=935546571">
     
 
     
@@ -137,8 +155,44 @@
 
 
 
-        ga('send', 'pageview');
-        ga('costData.send', 'pageview');
+        (function() {
+          function contains(str, value) {
+            return str.toLowerCase().indexOf(value) > -1
+          }
+
+          var emailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+          var queryParams = document.location.search.replace(/^\?/, '');
+          var splitParams = queryParams.split('&');
+          var filteredParams = '';
+          for (var i=0; i < splitParams.length; i++) {
+              var item = splitParams[i].split('=');
+              var key = item[0];
+              var value = item[1] || '';
+
+              
+              if (key && !contains(key, 'email') && !emailRegex.test(value)
+                && !contains(key, 'customer_name') && !contains(key, 'requester_name'))  {
+                  filteredParams += key + '=' + value;
+
+                  if (i < splitParams.length - 1) {
+                      filteredParams += '&';
+                  }
+              }
+          }
+
+          var pageUrl = document.location.pathname;
+          
+          var shopPageRegex = /^\/\w\w\/shop/;
+          if (!shopPageRegex.test(pageUrl)) {
+              if (filteredParams) {
+                filteredParams = '?' + filteredParams;
+                pageUrl = pageUrl + filteredParams;
+              }
+
+              ga('send', 'pageview', pageUrl);
+              ga('costData.send', 'pageview', pageUrl);
+          }
+        })();
     </script>
 
     
@@ -149,12 +203,71 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'});</script>
     
 
-    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ehmhjmfgpdjegdnjncfjimopicnnndfm">
+    
+        <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1062831617121567');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1062831617121567&ev=PageView&noscript=1"
+/></noscript>
+    
 
     
 </head>
 
-<body class="au_store pages_app page_detail_view " id="page_detail_view">
+<body class="xmax kogan au_store pages_app page_detail_view kogan_theme " id="page_detail_view">
+    <noscript>
+      <div style="padding: 5px; text-align: center; background: #fff8aa;">
+       Kogan.com requires JavaScript -
+       please <a href="http://www.enable-javascript.com/" rel="noopener noreferrer" target="_blank">
+       enable JavaScript in your browser</a>.
+      </div>
+    </noscript>
+    <script>
+        if ('querySelector' in document
+            && 'localStorage' in window
+            && 'addEventListener' in window) {
+            
+            window.k3capable = true;
+        } else {
+            window.k3capable = false;
+            (function () {
+                var hideWarning = getCookieByName('hideOldBrowserWarning');
+                if (hideWarning) {
+                    return;
+                }
+
+                var message = document.createElement('div');
+                var messageContent = document.createElement('span');
+                var messageClose = document.createElement('span');
+                message.style = 'padding: 6px 12px;text-align: center;background:#fff8aa;z-index:999;position:relative';
+                messageContent.innerHTML = 'Your browser is out of date. <a href="https://browser-update.org/update-browser.html" rel="noopener noreferrer" target="_blank">Update your browser</a> for the best Kogan.com experience.';
+
+                messageClose.innerHTML = '&times;';
+                messageClose.style = 'position:absolute;right:6px;top:0px;height:20px;width:12px;font:28px bold;padding:0;cursor:pointer;'
+                messageClose.onclick = function() {
+                    closeMessage();
+                }
+
+                message.appendChild(messageContent);
+                message.appendChild(messageClose);
+                document.body.appendChild(message);
+
+                function closeMessage() {
+                    var expires = new Date(new Date().getTime()+3600000*24);
+                    document.cookie = 'hideOldBrowserWarning=1; expires=' + expires + '; path=/';
+                    message.className += ' hide';
+                }
+            }())
+        }
+    </script>
+
     
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-8MJ9"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -164,22 +277,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-8MJ9');</script>
     
-    <section id="chrome-broadcast" class="k3_legacy hidden">
-        <div>
-            <script>
-                function hideChromeBroadcast() {
-                    document.getElementById('chrome-broadcast').className += ' hide';
-                    document.body.className = document.body.className.replace('show-chrome-broadcast', '');
-                }
-            </script>
-            <span class="chrome-message">
-                <strong>FREE:</strong> Install the Kogan App and get instant access to exclusive deals and notifications!
-            </span>
-            <a class="chrome-install" href="javascript:" onclick="chrome.webstore.install('https://chrome.google.com/webstore/detail/ehmhjmfgpdjegdnjncfjimopicnnndfm', hideChromeBroadcast)">Install Now</a>
-            <a href="https://chrome.google.com/webstore/detail/kogan-deals-notifications/ehmhjmfgpdjegdnjncfjimopicnnndfm" target="_blank">More info</a>
-        </div>
-        <a href="#" id="chrome-cancel">✖</a>
-    </section>
 
     <div class="top-nav__wrapper">
         <nav class="page-navigation top-nav top-nav--fixed" id="page-navigation-top">
@@ -247,9 +344,17 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 
                     <div itemscope="" itemtype="https://schema.org/Organization">
                         <a itemprop="url" href="/au/">
-                            <img class="logo" src="//static.kogan.com/static/img/kogan-logo.eac8023e4ee1.png" alt="Kogan.com" itemprop="logo">
+                            
+                              <img class="logo" src="//static.kogan.com/static/img/kogan-logo.eac8023e4ee1.png" alt="Kogan Australia" itemprop="logo" onmouseover="this.src='//static.kogan.com/static/img/kogan-xmax-logo.7278c20a9e73.png'" onmouseout="this.src='//static.kogan.com/static/img/kogan-logo.eac8023e4ee1.png'">
+                              
+                              <img src="//static.kogan.com/static/img/kogan-xmax-logo.7278c20a9e73.png" style="display: none;">
+                            
                         </a>
                     </div>
+                
+
+                
+
                 
 
                 
@@ -260,13 +365,20 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 
             </span>
 
-            <form action="/au/shop/" class="search-nav__form" id="product-search-form">
-                <input class="text keywords search-nav__input" type="text" name="keywords" placeholder="Search for a product..." id="product-search-field" autocomplete="off">
-                <button class="search-nav__button search-nav__button--blue" type="submit">
-                    <i class="search-nav__icon icon-search"></i>
-                    <span class="button__label">Search</span>
-                </button>
-            </form>
+            <input type="checkbox" class="main-menu__toggle" id="toggle-search">
+            <div class="search-nav__form-wrapper">
+                <form action="/au/shop/" class="search-nav__form" id="product-search-form">
+                    <div class="search-nav__input-wrapper">
+                        <div>
+                            <input tabindex="1" class="text keywords search-nav__input" type="text" name="keywords" placeholder="Search for a product..." id="product-search-field" autocomplete="off">
+                        </div>
+                    </div>
+                    <button tabindex="2" class="search-nav__button search-nav__button--blue" type="submit">
+                        <i class="search-nav__icon icon-search"></i>
+                        <span class="button__label">Search</span>
+                    </button>
+                </form>
+            </div>
 
             <section class="checkout-box" id="checkout-box"><div class="container"><a class="search-nav__button search-nav__button--red disabled"><i class="minicart__icon icon-shopping-cart"></i><span class="button__label">Cart is empty</span></a></div>
 
@@ -282,6 +394,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             
                 
                     
+<label for="toggle-main-menu" class="menu-modal__overlay"></label>
 <ul class="main-menu__list main-menu__list--fixed">
     <li class="main-menu__item main-menu__item--shop-all">
         <label for="toggle-main-menu" class="main-menu__link"><i class="icon-bars main-menu__icon"></i>Shop by Department<i class="main-menu__icon--right icon-caret-down">&nbsp;</i></label>
@@ -289,7 +402,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
     <li class="main-menu__item"><a class="main-menu__link" href="/au/shop/brands/?ref=header-link"><i class="icon-tags main-menu__icon"></i>Shop by Brand</a></li>
     
       <li class="main-menu__item"><a class="main-menu__link main-menu__link--recommendations" href="/au/forme/"><i class="icon-commenting main-menu__icon"></i>Recommendations</a></li>
-      <li class="main-menu__item"><a class="main-menu__link main-menu__link--hot-deals" href="/au/shop/collection/hot-deals/?ref=header-link&amp;view=grid"><i class="icon-hot-deals main-menu__icon"></i>Hot deals</a></li>
+    
+    
+        <li class="main-menu__item"><a class="main-menu__link main-menu__link--hot-deals" href="/au/christmas-gifts/?ref=header-link"><i class="icon-tree main-menu__icon"></i>Christmas Gift Guide</a></li>
     
   <script>
     
@@ -308,7 +423,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
     })();
   </script>
 </ul>
-<div class="no-js department-menu">
+<div class="department-menu">
     <ul class="department-menu__list">
         <h3 class="department-menu__header">
           <span>Departments</span>
@@ -323,11 +438,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                     <strong class="department-menu__title">Kogan Mobile</strong>
                 </a>
             </li>
+            
             <li class="department-menu__item department-menu__item--showcase">
                 <a class="department-menu__link" href="/au/travel/?ref=department-menu">
                     <strong class="department-menu__title">Kogan Travel</strong>
                 </a>
             </li>
+            
         </div>
         
         
@@ -406,7 +523,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             <li class="department-menu__item" data-menu-item="10">
                 
                 <a class="department-menu__link" data-slug="gadgets-toys" href="/au/shop/gadgets-toys/">
-                    <strong class="department-menu__title">Gadgets, Toys &amp; Books</strong>
+                    <strong class="department-menu__title">Gadgets, Toys &amp; Video Games</strong>
                     <i class="icon-chevron-right main-menu__icon department-menu__icon"></i>
                 </a>
             </li>
@@ -480,13 +597,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
-                      {
-                      'title': 'Refurbished Televisions',
-                      
-                        'href': '/au/shop/televisions/refurbished-tvs/'
-                      
-                      },
-                  
                 ]
                   
                 },
@@ -499,20 +609,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'field': 'facet-tv-type',
                   
                 'items': [
-                  
-                      {
-                      'title': '3D TV',
-                      
-                        'href': '/au/shop/televisions/?facet-tv-type=3D%20TV'
-                      
-                      },
-                  
-                      {
-                      'title': '4K UHD TV',
-                      
-                        'href': '/au/shop/televisions/?facet-tv-type=4K%20UHD%20TV'
-                      
-                      },
                   
                       {
                       'title': 'Smart TV',
@@ -542,6 +638,40 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 {
                 'columnStart': false,
                 'columnEnd': true,
+                'title': 'TV By Resolution',
+                'saleIcon': false,
+                'field': 'facet-tv-resolution',
+                  
+                'items': [
+                  
+                      {
+                      'title': '4K UHD',
+                      
+                        'href': '/au/shop/televisions/?facet-tv-resolution=4K%20UHD'
+                      
+                      },
+                  
+                      {
+                      'title': 'Full HD 1080p',
+                      
+                        'href': '/au/shop/televisions/?facet-tv-resolution=Full%20HD%201080p'
+                      
+                      },
+                  
+                      {
+                      'title': 'HD 720p',
+                      
+                        'href': '/au/shop/televisions/?facet-tv-resolution=HD%20720p'
+                      
+                      },
+                  
+                ]
+                  
+                },
+              
+                {
+                'columnStart': true,
+                'columnEnd': false,
                 'title': 'Brands',
                 'saleIcon': false,
                 'field': 'brand',
@@ -554,13 +684,28 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'LG',
-                                  'href': '/au/shop/televisions/?brand=lg'
+                                  'title': 'Onkyo',
+                                  'href': '/au/shop/televisions/?brand=onkyo'
+                              },
+                          
+                              {
+                                  'title': 'Philips',
+                                  'href': '/au/shop/televisions/?brand=philips'
+                              },
+                          
+                              {
+                                  'title': 'Pioneer',
+                                  'href': '/au/shop/televisions/?brand=pioneer'
                               },
                           
                               {
                                   'title': 'Sony',
                                   'href': '/au/shop/televisions/?brand=sony'
+                              },
+                          
+                              {
+                                  'title': 'TEAC',
+                                  'href': '/au/shop/televisions/?brand=teac'
                               },
                           
                       ],
@@ -569,7 +714,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 },
               
                 {
-                'columnStart': true,
+                'columnStart': false,
                 'columnEnd': false,
                 'title': 'TV Accessories',
                 'saleIcon': false,
@@ -581,13 +726,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': '3D TV Glasses',
                       
                         'href': '/au/shop/televisions/3d-tv-glasses/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Cables &amp; Adapters',
-                      
-                        'href': '/au/shop/televisions/cables-adapters/'
                       
                       },
                   
@@ -632,7 +770,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': false,
-                'columnEnd': false,
+                'columnEnd': true,
                 'title': 'Home Audio &amp; Theatre',
                 'saleIcon': false,
                 'field': 'category',
@@ -646,13 +784,20 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
+                      {
+                      'title': 'Speaker Docks',
+                      
+                        'href': '/au/shop/televisions/speaker-docks/'
+                      
+                      },
+                  
                 ]
                   
                 },
               
                 {
-                'columnStart': false,
-                'columnEnd': true,
+                'columnStart': true,
+                'columnEnd': false,
                 'title': 'Media Devices',
                 'saleIcon': false,
                 'field': 'category',
@@ -688,43 +833,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Portable Media Devices',
-                      
-                        'href': '/au/shop/televisions/portable-media-devices/'
-                      
-                      },
-                  
-                      {
                       'title': 'Set-top Boxes (PVR / DVR)',
                       
                         'href': '/au/shop/televisions/pvr/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Smart Dongles',
-                      
-                        'href': '/au/shop/televisions/tv-smart-dongles/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': true,
-                'columnEnd': false,
-                'title': 'Bundle &amp; Save!',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Bundle &amp; Save!',
-                      
-                        'href': '/au/shop/televisions/bundle-save/'
                       
                       },
                   
@@ -742,9 +853,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/televisions/?collection=free-shipping-collection'
+                        'href': '/au/shop/televisions/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -765,6 +876,61 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': true,
+                'columnEnd': false,
+                'title': 'Computers',
+                'saleIcon': false,
+                'field': 'category',
+                  
+                'items': [
+                  
+                      {
+                      'title': 'All-In-One Computers',
+                      
+                        'href': '/au/shop/tablets-laptops/all-in-one-computers/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Apple Mac Computers',
+                      
+                        'href': '/au/shop/tablets-laptops/apple-mac-computers/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Chromebooks',
+                      
+                        'href': '/au/shop/tablets-laptops/chromebooks/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Desktop Computers',
+                      
+                        'href': '/au/shop/tablets-laptops/desktops/'
+                      
+                      },
+                  
+                      {
+                      'title': 'NUC and PC Stick',
+                      
+                        'href': '/au/shop/tablets-laptops/nucs-and-pcsticks/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Windows Laptops',
+                      
+                        'href': '/au/shop/tablets-laptops/laptops/'
+                      
+                      },
+                  
+                ]
+                  
+                },
+              
+                {
+                'columnStart': false,
                 'columnEnd': false,
                 'title': 'Tablets, iPads &amp; eReaders',
                 'saleIcon': false,
@@ -828,6 +994,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
+                      'title': 'Gaming Accessories',
+                      
+                        'href': '/au/shop/tablets-laptops/mobile-gaming-accessories/'
+                      
+                      },
+                  
+                      {
                       'title': 'Holders &amp; Stands',
                       
                         'href': '/au/shop/tablets-laptops/holders-stands/'
@@ -838,13 +1011,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Memory Cards',
                       
                         'href': '/au/shop/tablets-laptops/memory-cards/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Portable Speakers',
-                      
-                        'href': '/au/shop/tablets-laptops/portable-speakers/'
                       
                       },
                   
@@ -882,19 +1048,12 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': false,
-                'columnEnd': false,
+                'columnEnd': true,
                 'title': 'Networking &amp; Storage',
                 'saleIcon': false,
                 'field': 'category',
                   
                 'items': [
-                  
-                      {
-                      'title': 'CD/DVD Readers',
-                      
-                        'href': '/au/shop/tablets-laptops/cd-dvd-readers/'
-                      
-                      },
                   
                       {
                       'title': 'External Storage',
@@ -922,8 +1081,8 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 },
               
                 {
-                'columnStart': false,
-                'columnEnd': true,
+                'columnStart': true,
+                'columnEnd': false,
                 'title': 'Monitors &amp; Displays',
                 'saleIcon': false,
                 'field': 'category',
@@ -949,7 +1108,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 },
               
                 {
-                'columnStart': true,
+                'columnStart': false,
                 'columnEnd': false,
                 'title': 'Printers &amp; Scanners',
                 'saleIcon': false,
@@ -971,58 +1130,10 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
-                'columnEnd': false,
-                'title': 'Computers',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
                       {
-                      'title': 'All-In-One Computers',
+                      'title': 'Toner &amp; Ink Cartridges',
                       
-                        'href': '/au/shop/tablets-laptops/all-in-one-computers/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Apple Mac Computers',
-                      
-                        'href': '/au/shop/tablets-laptops/apple-mac-computers/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Chromebooks',
-                      
-                        'href': '/au/shop/tablets-laptops/chromebooks/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Desktop Computers',
-                      
-                        'href': '/au/shop/tablets-laptops/desktops/'
-                      
-                      },
-                  
-                      {
-                      'title': 'NUC and PC Stick',
-                      
-                        'href': '/au/shop/tablets-laptops/nucs-and-pcsticks/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Windows Laptops',
-                      
-                        'href': '/au/shop/tablets-laptops/laptops/'
+                        'href': '/au/shop/tablets-laptops/toner-ink-cartridges/'
                       
                       },
                   
@@ -1121,18 +1232,8 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'ASUS',
+                                  'title': 'Asus',
                                   'href': '/au/shop/tablets-laptops/?brand=asus'
-                              },
-                          
-                              {
-                                  'title': 'Hewlett Packard',
-                                  'href': '/au/shop/tablets-laptops/?brand=hewlett-packard'
-                              },
-                          
-                              {
-                                  'title': 'HTC',
-                                  'href': '/au/shop/tablets-laptops/?brand=htc'
                               },
                           
                               {
@@ -1165,6 +1266,16 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                                   'href': '/au/shop/tablets-laptops/?brand=sony'
                               },
                           
+                              {
+                                  'title': 'Toshiba',
+                                  'href': '/au/shop/tablets-laptops/?brand=toshiba'
+                              },
+                          
+                              {
+                                  'title': 'Wyse',
+                                  'href': '/au/shop/tablets-laptops/?brand=wyse'
+                              },
+                          
                       ],
                       
                           more: '/au/shop/tablets-laptops/',
@@ -1192,13 +1303,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Batteries',
                       
                         'href': '/au/shop/tablets-laptops/battery/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Cables &amp; Adapters',
-                      
-                        'href': '/au/shop/tablets-laptops/cables-adapters/'
                       
                       },
                   
@@ -1241,13 +1345,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'PC Headsets',
                       
                         'href': '/au/shop/tablets-laptops/pc-headsets/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Portable Speakers',
-                      
-                        'href': '/au/shop/tablets-laptops/portable-speakers/'
                       
                       },
                   
@@ -1299,9 +1396,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/tablets-laptops/?collection=free-shipping-collection'
+                        'href': '/au/shop/tablets-laptops/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -1324,113 +1421,71 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'columnStart': true,
                 'columnEnd': false,
                 'title': 'Popular Phones',
-                'saleIcon': false,
-                'field': 'facet-phone-category',
+                'saleIcon': true,
+                'field': 'collection',
                   
                 'items': [
                   
                       {
-                      'title': 'iPhone 5c / 5s',
+                      'title': 'iPhone SE',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=iPhone%205c%20/%205s'
-                      
-                      },
-                  
-                      {
-                      'title': 'iPhone 6 / iPhone 6 Plus',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=iPhone%206%20/%20iPhone%206%20Plus'
+                        'href': '/au/shop/phones/?collection=iphone-se'
                       
                       },
                   
                       {
-                      'title': 'iPhone 6s / iPhone 6s Plus',
+                      'title': 'iPhone 6',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=iPhone%206s%20/%20iPhone%206s%20Plus'
+                        'href': '/au/shop/phones/?collection=iphone-6'
+                      
+                      },
+                  
+                      {
+                      'title': 'Samsung Galaxy S7',
+                      
+                        'href': '/au/shop/phones/?collection=samsung-galaxy-s7'
+                      
+                      },
+                  
+                      {
+                      'title': 'iPhone 6s',
+                      
+                        'href': '/au/shop/phones/?collection=iphone-6s'
                       
                       },
                   
                       {
                       'title': 'Kogan Agora',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=Kogan%20Agora'
+                        'href': '/au/shop/phones/?collection=kogan-agora'
                       
                       },
                   
                       {
-                      'title': 'LG G3 / G4 / G5',
+                      'title': 'Samsung Galaxy S6',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=LG%20G3%20/%20G4%20/%20G5'
-                      
-                      },
-                  
-                      {
-                      'title': 'Motorola Moto G / Moto X',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Motorola%20Moto%20G%20/%20Moto%20X'
+                        'href': '/au/shop/phones/?collection=samsung-galaxy-s6'
                       
                       },
                   
                       {
-                      'title': 'Nexus 5X / 6 / 6P',
+                      'title': 'Nexus 6P',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=Nexus%205X%20/%206%20/%206P'
-                      
-                      },
-                  
-                      {
-                      'title': 'Samsung Galaxy Note 4 / Note 5',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Samsung%20Galaxy%20Note%204%20/%20Note%205'
+                        'href': '/au/shop/phones/?collection=nexus-6'
                       
                       },
                   
                       {
-                      'title': 'Samsung Galaxy S5 / S5 Plus',
+                      'title': 'iPhone 7',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=Samsung%20Galaxy%20S5%20/%20S5%20Plus'
-                      
-                      },
-                  
-                      {
-                      'title': 'Samsung Galaxy S6 / S6 Edge',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Samsung%20Galaxy%20S6%20/%20S6%20Edge'
+                        'href': '/au/shop/phones/?collection=iphone-7'
                       
                       },
                   
                       {
-                      'title': 'Samsung Galaxy S6 / S6 Edge+',
+                      'title': 'Google Pixel',
                       
-                        'href': '/au/shop/phones/?facet-phone-category=Samsung%20Galaxy%20S6%20/%20S6%20Edge%2B'
-                      
-                      },
-                  
-                      {
-                      'title': 'Samsung Galaxy S7 Dual SIM',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Samsung%20Galaxy%20S7%20Dual%20SIM'
-                      
-                      },
-                  
-                      {
-                      'title': 'Samsung Galaxy S7 / S7 Edge',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Samsung%20Galaxy%20S7%20/%20S7%20Edge'
-                      
-                      },
-                  
-                      {
-                      'title': 'Sony Xperia / Xperia Z2 / Xperia Z3',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Sony%20Xperia%20/%20Xperia%20Z2%20/%20Xperia%20Z3'
-                      
-                      },
-                  
-                      {
-                      'title': 'Sony Xperia Z5',
-                      
-                        'href': '/au/shop/phones/?facet-phone-category=Sony%20Xperia%20Z5'
+                        'href': '/au/shop/phones/?collection=google-pixel'
                       
                       },
                   
@@ -1468,13 +1523,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
-                      {
-                      'title': 'Windows Phones',
-                      
-                        'href': '/au/shop/phones/windows-mobiles/'
-                      
-                      },
-                  
                 ]
                   
                 },
@@ -1502,6 +1550,33 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 {
                 'columnStart': true,
                 'columnEnd': false,
+                'title': 'Wearable Tech',
+                'saleIcon': false,
+                'field': 'category',
+                  
+                'items': [
+                  
+                      {
+                      'title': 'Smart Glasses',
+                      
+                        'href': '/au/shop/phones/smart-glasses/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Smart Watches',
+                      
+                        'href': '/au/shop/phones/smart-watches/'
+                      
+                      },
+                  
+                ]
+                  
+                },
+              
+                {
+                'columnStart': false,
+                'columnEnd': false,
                 'title': 'Phone Accessories',
                 'saleIcon': false,
                 'field': 'category',
@@ -1523,23 +1598,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Cables &amp; Adapters',
-                      
-                        'href': '/au/shop/phones/cables-adapters/'
-                      
-                      },
-                  
-                      {
                       'title': 'Cases',
                       
                         'href': '/au/shop/phones/cases/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Cleaning Cloths &amp; Pads',
-                      
-                        'href': '/au/shop/phones/cleaning-cloths-pads/'
                       
                       },
                   
@@ -1568,13 +1629,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Handsfree Headsets',
                       
                         'href': '/au/shop/phones/handsfree-headsets/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Handsfree Speakerphones',
-                      
-                        'href': '/au/shop/phones/handsfree-speakerphone/'
                       
                       },
                   
@@ -1640,54 +1694,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': false,
-                'columnEnd': false,
-                'title': 'Wearable Tech',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Smart Glasses',
-                      
-                        'href': '/au/shop/phones/smart-glasses/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Smart Watches',
-                      
-                        'href': '/au/shop/phones/smart-watches/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
                 'columnEnd': true,
-                'title': 'Bundle &amp; Save!',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Bundle &amp; Save!',
-                      
-                        'href': '/au/shop/phones/bundle-save/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': true,
-                'columnEnd': false,
                 'title': 'Phones by Brand',
                 'saleIcon': false,
                 'field': 'brand',
@@ -1700,7 +1707,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'ASUS',
+                                  'title': 'Asus',
                                   'href': '/au/shop/phones/?brand=asus'
                               },
                           
@@ -1752,7 +1759,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 },
               
                 {
-                'columnStart': false,
+                'columnStart': true,
                 'columnEnd': true,
                 'title': 'Current Sales',
                 'saleIcon': true,
@@ -1761,9 +1768,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/phones/?collection=free-shipping-collection'
+                        'href': '/au/shop/phones/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -1795,6 +1802,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Action Cameras',
                       
                         'href': '/au/shop/cameras/action-cameras/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Binoculars &amp; Telescopes',
+                      
+                        'href': '/au/shop/cameras/optics/'
                       
                       },
                   
@@ -1858,26 +1872,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Video Cameras',
                       
                         'href': '/au/shop/cameras/video-camera/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
-                'columnEnd': false,
-                'title': 'Digital Frames, Prints &amp; More',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Canvas Printing',
-                      
-                        'href': '/au/shop/cameras/canvas-printing/'
                       
                       },
                   
@@ -2004,26 +1998,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': false,
-                'columnEnd': false,
-                'title': 'Bundle &amp; Save!',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Bundle &amp; Save!',
-                      
-                        'href': '/au/shop/cameras/bundle-save/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
                 'columnEnd': true,
                 'title': 'Cameras by Brand',
                 'saleIcon': false,
@@ -2098,9 +2072,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/cameras/?collection=free-shipping-collection'
+                        'href': '/au/shop/cameras/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -2150,13 +2124,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Passive Noise Cancellation Headphones',
-                      
-                        'href': '/au/shop/audio/passive-noise-cancellation-headphones/'
-                      
-                      },
-                  
-                      {
                       'title': 'Wireless Headphones',
                       
                         'href': '/au/shop/audio/wireless-headphones/'
@@ -2170,33 +2137,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 {
                 'columnStart': false,
                 'columnEnd': true,
-                'title': 'DJ &amp; Instruments',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Musical Instruments',
-                      
-                        'href': '/au/shop/audio/musical-instruments/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Turntables',
-                      
-                        'href': '/au/shop/audio/turntables/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': true,
-                'columnEnd': false,
                 'title': 'Home Audio &amp; Theatre',
                 'saleIcon': false,
                 'field': 'category',
@@ -2232,6 +2172,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
+                      'title': 'Turntables',
+                      
+                        'href': '/au/shop/audio/turntables/'
+                      
+                      },
+                  
+                      {
                       'title': 'Wireless Headphones',
                       
                         'href': '/au/shop/audio/wireless-headphones/'
@@ -2243,13 +2190,27 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 },
               
                 {
-                'columnStart': false,
-                'columnEnd': true,
+                'columnStart': true,
+                'columnEnd': false,
                 'title': 'Speakers &amp; MP3 Players',
                 'saleIcon': false,
                 'field': 'category',
                   
                 'items': [
+                  
+                      {
+                      'title': 'Bluetooth Speakers',
+                      
+                        'href': '/au/shop/audio/bluetooth-speakers/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Computer Speakers',
+                      
+                        'href': '/au/shop/audio/portable-speakers/'
+                      
+                      },
                   
                       {
                       'title': 'iPods',
@@ -2266,57 +2227,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Portable Speakers',
-                      
-                        'href': '/au/shop/audio/portable-speakers/'
-                      
-                      },
-                  
-                      {
                       'title': 'Voice Recorders',
                       
                         'href': '/au/shop/audio/voice-recorders/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': true,
-                'columnEnd': false,
-                'title': 'Audio Accessories',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Batteries',
-                      
-                        'href': '/au/shop/audio/battery/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Cables &amp; Adapters',
-                      
-                        'href': '/au/shop/audio/cables-adapters/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Cases',
-                      
-                        'href': '/au/shop/audio/cases/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Docks &amp; Dock Adapters',
-                      
-                        'href': '/au/shop/audio/docks-adapters/'
                       
                       },
                   
@@ -2334,9 +2247,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/audio/?collection=free-shipping-collection'
+                        'href': '/au/shop/audio/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -2496,9 +2409,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Steam Irons',
+                      'title': 'Irons &amp; Garment Steamers',
                       
-                        'href': '/au/shop/home-appliances/steam-irons/'
+                        'href': '/au/shop/home-appliances/irons-garment-steamers/'
                       
                       },
                   
@@ -2537,9 +2450,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Vacuum Cleaner Filters',
+                      'title': 'Vacuum Cleaner Accessories',
                       
-                        'href': '/au/shop/home-appliances/vacuum-cleaner-filter/'
+                        'href': '/au/shop/home-appliances/vacuum-cleaner-accessories/'
                       
                       },
                   
@@ -2550,16 +2463,16 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 {
                 'columnStart': true,
                 'columnEnd': false,
-                'title': 'Bundle &amp; Save!',
-                'saleIcon': false,
-                'field': 'category',
+                'title': 'Current Sales',
+                'saleIcon': true,
+                'field': 'collection',
                   
                 'items': [
                   
                       {
-                      'title': 'Bundle &amp; Save!',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/home-appliances/bundle-save/'
+                        'href': '/au/shop/home-appliances/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -2570,16 +2483,30 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 {
                 'columnStart': false,
                 'columnEnd': true,
-                'title': 'Current Sales',
-                'saleIcon': true,
-                'field': 'collection',
+                'title': 'Home Appliances',
+                'saleIcon': false,
+                'field': 'category',
                   
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Dishwashers',
                       
-                        'href': '/au/shop/home-appliances/?collection=free-shipping-collection'
+                        'href': '/au/shop/home-appliances/dishwashers/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Fridges',
+                      
+                        'href': '/au/shop/home-appliances/fridges/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Ovens &amp; Cooktops',
+                      
+                        'href': '/au/shop/home-appliances/ovens-cooktops/'
                       
                       },
                   
@@ -2868,6 +2795,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
+                      {
+                      'title': 'Rugs',
+                      
+                        'href': '/au/shop/home-garden/rugs/'
+                      
+                      },
+                  
                 ]
                   
                 },
@@ -2875,6 +2809,89 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 {
                 'columnStart': false,
                 'columnEnd': false,
+                'title': 'Rugs',
+                'saleIcon': false,
+                'field': 'facet-features-style',
+                  
+                'items': [
+                  
+                      {
+                      'title': 'Cowhide',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Cowhide'
+                      
+                      },
+                  
+                      {
+                      'title': 'Flat Weave',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Flat%20Weave'
+                      
+                      },
+                  
+                      {
+                      'title': 'Kids',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Kids'
+                      
+                      },
+                  
+                      {
+                      'title': 'Modern',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Modern'
+                      
+                      },
+                  
+                      {
+                      'title': 'Natural Fibre',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Natural%20Fibre'
+                      
+                      },
+                  
+                      {
+                      'title': 'Outdoor',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Outdoor'
+                      
+                      },
+                  
+                      {
+                      'title': 'Rug Supa Grips',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Rug%20Supa%20Grips'
+                      
+                      },
+                  
+                      {
+                      'title': 'Runners',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Runners'
+                      
+                      },
+                  
+                      {
+                      'title': 'Shag',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Shag'
+                      
+                      },
+                  
+                      {
+                      'title': 'Traditional',
+                      
+                        'href': '/au/shop/home-garden/?facet-features-style=Traditional'
+                      
+                      },
+                  
+                ]
+                  
+                },
+              
+                {
+                'columnStart': false,
+                'columnEnd': true,
                 'title': 'Garden &amp; Outdoors',
                 'saleIcon': false,
                 'field': 'category',
@@ -2923,13 +2940,20 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
+                      {
+                      'title': 'Weather Stations',
+                      
+                        'href': '/au/shop/home-garden/weather-stations/'
+                      
+                      },
+                  
                 ]
                   
                 },
               
                 {
-                'columnStart': false,
-                'columnEnd': true,
+                'columnStart': true,
+                'columnEnd': false,
                 'title': 'Kitchen &amp; Dining',
                 'saleIcon': false,
                 'field': 'category',
@@ -2940,13 +2964,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Cookware',
                       
                         'href': '/au/shop/home-garden/cookware/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Dinnerware',
-                      
-                        'href': '/au/shop/home-garden/dinnerware/'
                       
                       },
                   
@@ -2999,23 +3016,10 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
-                ]
-                  
-                },
-              
-                {
-                'columnStart': true,
-                'columnEnd': false,
-                'title': 'Bundle &amp; Save!',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
                       {
-                      'title': 'Bundle &amp; Save!',
+                      'title': 'Wine Racks',
                       
-                        'href': '/au/shop/home-garden/bundle-save/'
+                        'href': '/au/shop/home-garden/wine-racks/'
                       
                       },
                   
@@ -3033,9 +3037,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/home-garden/?collection=free-shipping-collection'
+                        'href': '/au/shop/home-garden/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -3115,13 +3119,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Office Supplies',
                       
                         'href': '/au/shop/office-supplies/office-supplies/'
-                      
-                      },
-                  
-                      {
-                      'title': 'School Supplies',
-                      
-                        'href': '/au/shop/office-supplies/school-supplies/'
                       
                       },
                   
@@ -3207,9 +3204,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/office-supplies/?collection=free-shipping-collection'
+                        'href': '/au/shop/office-supplies/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -3346,16 +3343,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'Chica',
-                                  'href': '/au/shop/baby-family/?brand=chica'
-                              },
-                          
-                              {
-                                  'title': 'DiscoRobo',
-                                  'href': '/au/shop/baby-family/?brand=discorobo'
-                              },
-                          
-                              {
                                   'title': 'Discovery Kids',
                                   'href': '/au/shop/baby-family/?brand=discovery-kids'
                               },
@@ -3363,11 +3350,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               {
                                   'title': 'Engino',
                                   'href': '/au/shop/baby-family/?brand=engino'
-                              },
-                          
-                              {
-                                  'title': 'Flyzone',
-                                  'href': '/au/shop/baby-family/?brand=flyzone'
                               },
                           
                               {
@@ -3390,9 +3372,22 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                                   'href': '/au/shop/baby-family/?brand=parrot'
                               },
                           
+                              {
+                                  'title': 'Ravensburger',
+                                  'href': '/au/shop/baby-family/?brand=ravensburger'
+                              },
+                          
+                              {
+                                  'title': 'Vtech',
+                                  'href': '/au/shop/baby-family/?brand=vtech'
+                              },
+                          
+                              {
+                                  'title': 'Zuru',
+                                  'href': '/au/shop/baby-family/?brand=zuru'
+                              },
+                          
                       ],
-                      
-                          more: '/au/shop/baby-family/',
                       
                   
                 },
@@ -3407,9 +3402,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/baby-family/?collection=free-shipping-collection'
+                        'href': '/au/shop/baby-family/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -3424,7 +3419,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             10: {
               'slug': 'gadgets-toys',
               'href': '/au/shop/gadgets-toys/',
-              'title': 'Gadgets, Toys &amp; Books',
+              'title': 'Gadgets, Toys &amp; Video Games',
               
               'categories': [
               
@@ -3438,16 +3433,16 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Binoculars &amp; Telescopes',
+                      'title': 'Board Games',
                       
-                        'href': '/au/shop/gadgets-toys/optics/'
+                        'href': '/au/shop/gadgets-toys/games/'
                       
                       },
                   
                       {
-                      'title': 'Board Games',
+                      'title': 'Drones',
                       
-                        'href': '/au/shop/gadgets-toys/games/'
+                        'href': '/au/shop/gadgets-toys/drones/'
                       
                       },
                   
@@ -3549,13 +3544,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Gaming Consoles',
-                      
-                        'href': '/au/shop/gadgets-toys/video-game-consoles/'
-                      
-                      },
-                  
-                      {
                       'title': 'Video Games',
                       
                         'href': '/au/shop/gadgets-toys/video-games/'
@@ -3576,6 +3564,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
+                      'title': 'Breathalysers',
+                      
+                        'href': '/au/shop/gadgets-toys/breathalysers/'
+                      
+                      },
+                  
+                      {
                       'title': 'Costumes &amp; Masks',
                       
                         'href': '/au/shop/gadgets-toys/costume-masks/'
@@ -3593,13 +3588,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Gadgets',
                       
                         'href': '/au/shop/gadgets-toys/gadgets/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Photo Albums',
-                      
-                        'href': '/au/shop/gadgets-toys/photo-albums/'
                       
                       },
                   
@@ -3680,20 +3668,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Language Books',
-                      
-                        'href': '/au/shop/gadgets-toys/languages-books/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Lifestyle &amp; Fashion Books',
-                      
-                        'href': '/au/shop/gadgets-toys/books-lifestyle-fashion/'
-                      
-                      },
-                  
-                      {
                       'title': 'Music Books',
                       
                         'href': '/au/shop/gadgets-toys/music-books/'
@@ -3704,13 +3678,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Personal Development Books',
                       
                         'href': '/au/shop/gadgets-toys/personal-development-books/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Photography Books',
-                      
-                        'href': '/au/shop/gadgets-toys/photography-books/'
                       
                       },
                   
@@ -3776,13 +3743,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'items': [
                           
                               {
-                                  'title': 'Bigjigs',
-                                  'href': '/au/shop/gadgets-toys/?brand=bigjigs'
+                                  'title': 'Aqua Dragons',
+                                  'href': '/au/shop/gadgets-toys/?brand=aqua-dragons'
                               },
                           
                               {
-                                  'title': 'DiscoRobo',
-                                  'href': '/au/shop/gadgets-toys/?brand=discorobo'
+                                  'title': 'Bigjigs',
+                                  'href': '/au/shop/gadgets-toys/?brand=bigjigs'
                               },
                           
                               {
@@ -3798,11 +3765,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               {
                                   'title': 'Eurotrike',
                                   'href': '/au/shop/gadgets-toys/?brand=eurotrike'
-                              },
-                          
-                              {
-                                  'title': 'Flyzone',
-                                  'href': '/au/shop/gadgets-toys/?brand=flyzone'
                               },
                           
                               {
@@ -3825,6 +3787,11 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                                   'href': '/au/shop/gadgets-toys/?brand=mookie'
                               },
                           
+                              {
+                                  'title': 'Orbit',
+                                  'href': '/au/shop/gadgets-toys/?brand=orbit'
+                              },
+                          
                       ],
                       
                           more: '/au/shop/gadgets-toys/',
@@ -3842,9 +3809,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/gadgets-toys/?collection=free-shipping-collection'
+                        'href': '/au/shop/gadgets-toys/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -3927,11 +3894,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'Dunlop',
-                                  'href': '/au/shop/fashion-accessories/?brand=dunlop'
-                              },
-                          
-                              {
                                   'title': 'Fossil',
                                   'href': '/au/shop/fashion-accessories/?brand=fossil'
                               },
@@ -3947,13 +3909,18 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'LG',
-                                  'href': '/au/shop/fashion-accessories/?brand=lg'
+                                  'title': 'Marc Jacobs',
+                                  'href': '/au/shop/fashion-accessories/?brand=marc-jacobs'
                               },
                           
                               {
-                                  'title': 'Marc Jacobs',
-                                  'href': '/au/shop/fashion-accessories/?brand=marc-jacobs'
+                                  'title': 'Michael Kors',
+                                  'href': '/au/shop/fashion-accessories/?brand=michael-kors'
+                              },
+                          
+                              {
+                                  'title': 'Oceanaut',
+                                  'href': '/au/shop/fashion-accessories/?brand=oceanaut'
                               },
                           
                       ],
@@ -3965,12 +3932,47 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': false,
-                'columnEnd': false,
-                'title': 'Eyewear',
+                'columnEnd': true,
+                'title': 'Accessories',
                 'saleIcon': false,
                 'field': 'category',
                   
                 'items': [
+                  
+                      {
+                      'title': 'Bracelets',
+                      
+                        'href': '/au/shop/fashion-accessories/jewellery-bracelets/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Earrings',
+                      
+                        'href': '/au/shop/fashion-accessories/jewellery-earrings/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Handbags',
+                      
+                        'href': '/au/shop/fashion-accessories/handbags/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Necklaces',
+                      
+                        'href': '/au/shop/fashion-accessories/jewellery-necklaces/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Rings',
+                      
+                        'href': '/au/shop/fashion-accessories/jewellery-rings/'
+                      
+                      },
                   
                       {
                       'title': 'Sunglasses',
@@ -3984,78 +3986,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 },
               
                 {
-                'columnStart': false,
-                'columnEnd': true,
-                'title': 'Sunglasses by Brand',
-                'saleIcon': false,
-                'field': 'brand',
-                  
-                      'items': [
-                          
-                              {
-                                  'title': 'Ray-Ban',
-                                  'href': '/au/shop/fashion-accessories/?brand=ray-ban'
-                              },
-                          
-                              {
-                                  'title': 'Ugly Fish Eyewear',
-                                  'href': '/au/shop/fashion-accessories/?brand=ugly-fish-eyewear'
-                              },
-                          
-                      ],
-                      
-                  
-                },
-              
-                {
                 'columnStart': true,
-                'columnEnd': false,
-                'title': 'Jewellery',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Earrings',
-                      
-                        'href': '/au/shop/fashion-accessories/jewellery-earrings/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Jewellery Sets',
-                      
-                        'href': '/au/shop/fashion-accessories/jewellery-sets/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
-                'columnEnd': false,
-                'title': 'Accessories',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Handbags',
-                      
-                        'href': '/au/shop/fashion-accessories/handbags/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
                 'columnEnd': false,
                 'title': 'Footwear',
                 'saleIcon': false,
@@ -4090,60 +4021,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': false,
-                'columnEnd': true,
-                'title': 'Footwear by Brand',
-                'saleIcon': false,
-                'field': 'brand',
-                  
-                      'items': [
-                          
-                              {
-                                  'title': 'ASICS',
-                                  'href': '/au/shop/fashion-accessories/?brand=asics'
-                              },
-                          
-                              {
-                                  'title': 'Converse',
-                                  'href': '/au/shop/fashion-accessories/?brand=converse'
-                              },
-                          
-                              {
-                                  'title': 'Havaianas',
-                                  'href': '/au/shop/fashion-accessories/?brand=havaianas'
-                              },
-                          
-                              {
-                                  'title': 'Nike',
-                                  'href': '/au/shop/fashion-accessories/?brand=nike'
-                              },
-                          
-                              {
-                                  'title': 'Onitsuka Tiger',
-                                  'href': '/au/shop/fashion-accessories/?brand=onitsuka-tiger'
-                              },
-                          
-                              {
-                                  'title': 'OZWEAR',
-                                  'href': '/au/shop/fashion-accessories/?brand=ozwear'
-                              },
-                          
-                              {
-                                  'title': 'Reebok',
-                                  'href': '/au/shop/fashion-accessories/?brand=reebok'
-                              },
-                          
-                              {
-                                  'title': 'Volley',
-                                  'href': '/au/shop/fashion-accessories/?brand=volley'
-                              },
-                          
-                      ],
-                      
-                  
-                },
-              
-                {
-                'columnStart': true,
                 'columnEnd': false,
                 'title': 'Clothing',
                 'saleIcon': false,
@@ -4152,9 +4029,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Accessories',
+                      'title': 'Hoodies',
                       
-                        'href': '/au/shop/fashion-accessories/clothing-accessories/'
+                        'href': '/au/shop/fashion-accessories/hoodies/'
                       
                       },
                   
@@ -4173,6 +4050,48 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
+                      'title': 'Shirts',
+                      
+                        'href': '/au/shop/fashion-accessories/shirts/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Shorts',
+                      
+                        'href': '/au/shop/fashion-accessories/shorts/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Sportswear',
+                      
+                        'href': '/au/shop/fashion-accessories/sportswear/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Sweatshirts',
+                      
+                        'href': '/au/shop/fashion-accessories/sweatshirts/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Tanks',
+                      
+                        'href': '/au/shop/fashion-accessories/tanks/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Tees',
+                      
+                        'href': '/au/shop/fashion-accessories/Tees/'
+                      
+                      },
+                  
+                      {
                       'title': 'Vests',
                       
                         'href': '/au/shop/fashion-accessories/clothing-vests/'
@@ -4180,6 +4099,116 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                 ]
+                  
+                },
+              
+                {
+                'columnStart': false,
+                'columnEnd': true,
+                'title': 'Footwear by Brand',
+                'saleIcon': false,
+                'field': 'brand',
+                  
+                      'items': [
+                          
+                              {
+                                  'title': 'Asics',
+                                  'href': '/au/shop/fashion-accessories/?brand=asics'
+                              },
+                          
+                              {
+                                  'title': 'Brooks',
+                                  'href': '/au/shop/fashion-accessories/?brand=brooks'
+                              },
+                          
+                              {
+                                  'title': 'Clarks',
+                                  'href': '/au/shop/fashion-accessories/?brand=clarks'
+                              },
+                          
+                              {
+                                  'title': 'Havaianas',
+                                  'href': '/au/shop/fashion-accessories/?brand=havaianas'
+                              },
+                          
+                              {
+                                  'title': 'Nike',
+                                  'href': '/au/shop/fashion-accessories/?brand=nike'
+                              },
+                          
+                              {
+                                  'title': 'Onitsuka Tiger',
+                                  'href': '/au/shop/fashion-accessories/?brand=onitsuka-tiger'
+                              },
+                          
+                              {
+                                  'title': 'On Running',
+                                  'href': '/au/shop/fashion-accessories/?brand=on-running'
+                              },
+                          
+                              {
+                                  'title': 'OZWEAR',
+                                  'href': '/au/shop/fashion-accessories/?brand=ozwear'
+                              },
+                          
+                              {
+                                  'title': 'Reebok',
+                                  'href': '/au/shop/fashion-accessories/?brand=reebok'
+                              },
+                          
+                              {
+                                  'title': 'Timberland',
+                                  'href': '/au/shop/fashion-accessories/?brand=timberland'
+                              },
+                          
+                      ],
+                      
+                          more: '/au/shop/fashion-accessories/',
+                      
+                  
+                },
+              
+                {
+                'columnStart': true,
+                'columnEnd': false,
+                'title': 'Clothing by Brand',
+                'saleIcon': false,
+                'field': 'brand',
+                  
+                      'items': [
+                          
+                              {
+                                  'title': 'Calvin Klein Jeans',
+                                  'href': '/au/shop/fashion-accessories/?brand=calvin-klein-jeans'
+                              },
+                          
+                              {
+                                  'title': 'Champion',
+                                  'href': '/au/shop/fashion-accessories/?brand=champion'
+                              },
+                          
+                              {
+                                  'title': 'Elwood',
+                                  'href': '/au/shop/fashion-accessories/?brand=elwood'
+                              },
+                          
+                              {
+                                  'title': 'Gloweave',
+                                  'href': '/au/shop/fashion-accessories/?brand=gloweave'
+                              },
+                          
+                              {
+                                  'title': 'Komodo',
+                                  'href': '/au/shop/fashion-accessories/?brand=komodo'
+                              },
+                          
+                              {
+                                  'title': 'Levi&#39;s',
+                                  'href': '/au/shop/fashion-accessories/?brand=levis'
+                              },
+                          
+                      ],
+                      
                   
                 },
               
@@ -4196,13 +4225,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       'title': 'Bras',
                       
                         'href': '/au/shop/fashion-accessories/bras/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Shapewear',
-                      
-                        'href': '/au/shop/fashion-accessories/shapewear/'
                       
                       },
                   
@@ -4227,9 +4249,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/fashion-accessories/?collection=free-shipping-collection'
+                        'href': '/au/shop/fashion-accessories/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -4434,9 +4456,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/health-beauty/?collection=free-shipping-collection'
+                        'href': '/au/shop/health-beauty/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -4493,16 +4515,16 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Hydration',
+                      'title': 'Handheld Radio',
                       
-                        'href': '/au/shop/sports-outdoors/hydration/'
+                        'href': '/au/shop/sports-outdoors/handheld-radio/'
                       
                       },
                   
                       {
-                      'title': 'Outdoor Appliances',
+                      'title': 'Hydration',
                       
-                        'href': '/au/shop/sports-outdoors/outdoor-appliances/'
+                        'href': '/au/shop/sports-outdoors/hydration/'
                       
                       },
                   
@@ -4562,20 +4584,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Golf Gear',
-                      
-                        'href': '/au/shop/sports-outdoors/golf-gear/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Hiking Gear',
-                      
-                        'href': '/au/shop/sports-outdoors/hiking-gear/'
-                      
-                      },
-                  
-                      {
                       'title': 'Scooters, Bicycles &amp; Tricycles',
                       
                         'href': '/au/shop/sports-outdoors/scooters-bicycles-tricycles/'
@@ -4583,9 +4591,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Self-Balancing Scooters',
+                      'title': 'Skateboards',
                       
-                        'href': '/au/shop/sports-outdoors/self-balancing-scooters/'
+                        'href': '/au/shop/sports-outdoors/skateboards/'
                       
                       },
                   
@@ -4630,6 +4638,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
+                      {
+                      'title': 'Travel Adapters',
+                      
+                        'href': '/au/shop/sports-outdoors/travel-adapters/'
+                      
+                      },
+                  
                 ]
                   
                 },
@@ -4644,9 +4659,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/sports-outdoors/?collection=free-shipping-collection'
+                        'href': '/au/shop/sports-outdoors/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -4703,16 +4718,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
-                      'title': 'Medical &amp; First Aid',
+                      'title': 'Safety Equipment',
                       
-                        'href': '/au/shop/tools-automotive/medical-first-aid/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Power Accessories',
-                      
-                        'href': '/au/shop/tools-automotive/power-accessories/'
+                        'href': '/au/shop/tools-automotive/safety/'
                       
                       },
                   
@@ -4765,6 +4773,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       },
                   
                       {
+                      'title': 'Safety Equipment',
+                      
+                        'href': '/au/shop/tools-automotive/safety/'
+                      
+                      },
+                  
+                      {
                       'title': 'Storage',
                       
                         'href': '/au/shop/tools-automotive/storage/'
@@ -4792,9 +4807,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 'items': [
                   
                       {
-                      'title': 'Free Shipping Deals',
+                      'title': 'Stocktake Sale',
                       
-                        'href': '/au/shop/tools-automotive/?collection=free-shipping-collection'
+                        'href': '/au/shop/tools-automotive/?collection=shop-stocktake-sale'
                       
                       },
                   
@@ -4815,17 +4830,24 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': true,
-                'columnEnd': false,
-                'title': 'Cosmetics',
+                'columnEnd': true,
+                'title': 'Categories',
                 'saleIcon': false,
                 'field': 'category',
                   
                 'items': [
                   
                       {
-                      'title': 'Cosmetics',
+                      'title': 'Cleaning &amp; Laundry',
                       
-                        'href': '/au/shop/pantry/cosmetics/'
+                        'href': '/au/shop/pantry/cleaning-laundry/'
+                      
+                      },
+                  
+                      {
+                      'title': 'Confectionery',
+                      
+                        'href': '/au/shop/pantry/confectionery/'
                       
                       },
                   
@@ -4836,23 +4858,10 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                       
                       },
                   
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
-                'columnEnd': true,
-                'title': 'Toiletries',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
                       {
-                      'title': 'Feminine Hygiene',
+                      'title': 'Today&#39;s Specials',
                       
-                        'href': '/au/shop/pantry/feminine-hygiene/'
+                        'href': '/au/shop/pantry/todays-specials/'
                       
                       },
                   
@@ -4862,40 +4871,6 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
               
                 {
                 'columnStart': true,
-                'columnEnd': false,
-                'title': 'Essentials',
-                'saleIcon': false,
-                'field': 'category',
-                  
-                'items': [
-                  
-                      {
-                      'title': 'Batteries',
-                      
-                        'href': '/au/shop/pantry/battery/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Household Items',
-                      
-                        'href': '/au/shop/pantry/household-items/'
-                      
-                      },
-                  
-                      {
-                      'title': 'Socks &amp; Clothing ',
-                      
-                        'href': '/au/shop/pantry/socks-clothing/'
-                      
-                      },
-                  
-                ]
-                  
-                },
-              
-                {
-                'columnStart': false,
                 'columnEnd': true,
                 'title': 'By Price',
                 'saleIcon': false,
@@ -5006,13 +4981,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                               },
                           
                               {
-                                  'title': 'Jacker',
-                                  'href': '/au/shop/pantry/?brand=jacker'
+                                  'title': 'Libra',
+                                  'href': '/au/shop/pantry/?brand=libra'
                               },
                           
                               {
-                                  'title': 'Kodak',
-                                  'href': '/au/shop/pantry/?brand=kodak'
+                                  'title': 'Lynx',
+                                  'href': '/au/shop/pantry/?brand=lynx'
                               },
                           
                       ],
@@ -5035,10 +5010,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             </nav>
     </div>
     <div id="container" class="page-content-container">
-        
-        <div class="messages">
-            <section id="messages" class="k3_legacy messages-inner"></section>
-        </div>
+        <div class="messages" id="messages"></div>
 
         <section class="page-content k3_legacy" id="page-content">
     
@@ -5089,8 +5061,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
 	</div>
 	<section class="col_4">
 		<h2>1. Openness and transparency</h2>
-			<p>Kogan.com Pty Ltd (Kogan) is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy. To view the <a href="hotels.kogan.com">hotels.kogan.com</a>
- privacy policy, please <a href="https://secure.booking.com/content/privacy.en-us.html?aid=837005;sid=bcaa4acf62d805e7dfa81214c1d89614;dcid=5">click here</a>.</p>
+			<p>Kogan.com Pty Ltd (Kogan) is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Kogan as set out in this policy. To view the <a href="http://hotels.kogan.com/">hotels.kogan.com</a> privacy policy, please <a href="https://secure.booking.com/content/privacy.en-us.html?aid=837005;sid=bcaa4acf62d805e7dfa81214c1d89614;dcid=5">click here</a>.</p>
 		<h2>2. Personal information</h2>
 			<p>Personal information is information or an opinion about an individual whose identity is apparent, or can be reasonably ascertained, from that information or opinion. Personal information we may collect from you includes, without limitation, your name, address, email address, telephone number(s) and date of birth.</p>
 		<h2>3. Collection</h2>
@@ -5151,43 +5122,63 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
 
         
             
-                 
+                
 
 <aside class="page-aside k3_legacy">
-     <div id="minicart-spacer"></div>
-
-
-
-<div class="qantas">
-<a href="https://www.kogan.com/au/earn-qantas-points/?ref=homepage-sidebar">
-	<img style="background: #fff" src="https://assets.kogan.com/files/brand-logos/QFF-DET.png" alt="Earn Frequent Flyer Points at Kogan.com">
-</a>
-</div>
-
-
-
+    <div id="minicart-spacer"></div>
 
     
-    <a href="/au/returns-policy/"><img src="https://assets.kogan.com/files/shop-icons/14-day-money-back.png" alt="Kogan.com 14 Day Money Back Guarantee" style="margin: 20px 0"></a>
+        <div class="qantas">
+            <a href="https://www.kogan.com/au/earn-qantas-points/?ref=homepage-sidebar">
+                <img style="background: #fff" src="https://assets.kogan.com/files/brand-logos/QFF-DET.png" alt="Earn Qantas Points at Kogan.com">
+            </a>
+        </div>
+    
+
+    
+
+    
+
+    
+    
+
+    
+    
+        <a href="/au/returns-policy/" id="returns-policy-image">
+
+            <style>
+                .product_detail_view #returns-policy-image {
+                    display: none;
+                }
+            </style>
+
+            
+            
+                <img src="https://assets.kogan.com/files/banners/July-updates/14day_moneyback_360.png" alt="Kogan.com 14 Day Money Back Guarantee" style="margin: 20px 0;">
+            
+        </a>
+
+    
+
     
 
     
 
             
             <section class="location-box">
-                <h6>100% Australian Owned</h6>
-                <div class="aside-images au_owned" style="margin: 1em 0">&nbsp;</div>
+                <img src="https://assets.kogan.com/files/banners/July-updates/premier_destination.png">
             </section>
             
             
+
     
     
         
             
 
 <div class="kogan__ad--sidebar adexchange__ad--sidebar">
-    <a href="/au/shop/home-appliances/food-preparation/?ref=koganb-food-prep-sale-right-sidebar">
-            <img src="https://assets.kogan.com/files/ads/clearance-hires/150921_FOODPREPv2_160x600.jpg">
+    <a href="/au/shop/collection/free-shipping/?ref=koganb-free-shipping-right-sidebar-right-sidebar">
+            <img src="https://assets.kogan.com/files/ads/jan2016/160128_160x600_FS.jpg">
     </a>
 </div>
 
@@ -5222,56 +5213,24 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
 
 
     
+
 </aside>
 
 
-<style>
-.radioHideLabel {
-  cursor: pointer;
-}
-.radioHideCheckbox,
-.radioHide {
-  display: none;
-}
-.radioHideCheckbox:checked + .radioHide {
-  display: block;
-}
-</style>
 
 <style>
-#xmas_countdown {
-    width: 130px;
-    margin: 53px auto;
-    text-align: center;
-    position: relative;
-    border: 2px #61AD65 solid;
-    border-radius: 3px;
-    background: white;
-    font-weight: 600;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, .16), 0 2px 3px rgba(0, 0, 0, .12);
-}
+    .radioHideLabel {
+        cursor: pointer;
+    }
 
-#countdown {
-    font-size: 5em;
-    color: #E64E3D;
-    line-height: 60px;
-}
+    .radioHideCheckbox,
+    .radioHide {
+        display: none;
+    }
 
-#xmas_message {
-    font-size: 1.3em;
-    background: #61AD65;
-    color: white;
-    text-transform: uppercase;
-    padding: 3px 0;
-    text-shadow: 1px 1px 1px #5A5A5A;
-}
-
-#bow {
-    width: 130px;
-    position: absolute;
-    top: -40px;
-    left: 0;
-}
+    .radioHideCheckbox:checked + .radioHide {
+        display: block;
+    }
 </style>
             
         
@@ -5279,23 +5238,30 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
         
         <footer id="page-footer" class="columns-5 k3_legacy">
             
-            <nav class="page-navigation" id="page-footer-navigation">
-                <ul>
-                    <li><a href="/au/" class="site-menu__link">Home</a></li>
-                    <li><a href="/au/newsroom/" class="site-menu__link">News Room</a></li>
-                    <li><a href="/au/review/" class="site-menu__link">Reviews</a></li>
-                    <li><a href="/au/help/" class="site-menu__link">Help</a></li>
-                    <li><a href="/au/contact-us/" class="site-menu__link">Contact Us</a></li>
-                    <li class="logo-item">
-                        <a href="/au/">
-                            <img class="logo" src="//static.kogan.com/static/img/kogan-logo.eac8023e4ee1.png" alt="Kogan.com">
-                        </a>
-                    </li>
-                </ul>
-                <a id="toggle-menu-icon" class="menu-icon hide icon-arrow-up"></a>
-            </nav>
+            <div class="page-navigation" id="page-footer-navigation">
+                
+  <nav class="store-menu menu-main ">
+    
+    
+    <ul>
+        <li><a href="/au/" class="site-menu__link">Home</a></li>
+        <li><a href="/au/newsroom/" class="site-menu__link">News Room</a></li>
+        <li><a href="/au/review/" class="site-menu__link">Reviews</a></li>
+        <li><a href="/au/help/" class="site-menu__link">Help</a></li>
+        <li><a href="/au/contact-us/" class="site-menu__link">Contact Us</a></li>
+    </ul>
+    
+  </nav>
 
-            <section class="footer-site-map display-inline-block">
+
+                    <a itemprop="url" href="/au/">
+                        
+                        <img class="logo" src="//static.kogan.com/static/img/kogan-logo.eac8023e4ee1.png" alt="Kogan.com">
+                        
+                    </a>
+            </div>
+
+            <section class="footer-site-map">
                 <h5>Other Countries</h5>
                 <nav id="footer-store-list">
                     <ul>
@@ -5306,13 +5272,13 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
         </a>
     </li>
     <li class="nz-store">
-        <a href="/nz/">
+        <a href="https://www.kogan.com/nz/">
             <span class="flag"></span>
             <span class="country">New Zealand</span>
         </a>
     </li>
     <li class="us-store">
-        <a href="/us/">
+        <a href="https://www.kogan.com/us/">
             <span class="flag"></span>
             <span class="country">United States</span>
         </a>
@@ -5322,7 +5288,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 </nav>
             </section>
 
-            <section class="footer-site-map display-inline-block">
+            <section class="footer-site-map">
                 <h5>Shop</h5>
                 <input type="checkbox" id="more-shop" class="footer-site-map__checkbox">
                 <ul>
@@ -5335,7 +5301,7 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                     <li><a href="/au/shop/home-garden/">Home &amp; Garden</a></li> 
                     <li><a href="/au/shop/office-supplies/">Office Supplies</a></li> 
                     <li><a href="/au/shop/baby-family/">Baby, Kids &amp; Family</a></li> 
-                    <li><a href="/au/shop/gadgets-toys/">Gaming, Toys &amp; Books</a></li> 
+                    <li><a href="/au/shop/gadgets-toys/">Gadgets, Toys &amp; Video Games</a></li> 
                     <li><a href="/au/shop/fashion-accessories/">Shoes &amp; Fashion</a></li> 
                     <li><a href="/au/shop/health-beauty/">Health &amp; Beauty</a></li> 
                     <li><a href="/au/shop/sports-outdoors/">Sports, Outdoors &amp; Luggage</a></li> 
@@ -5346,9 +5312,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             </section>
 
             
-  <nav class="store-menu menu-customer-care footer-site-map display-inline-block">
+  <nav class="store-menu menu-customer-care footer-site-map">
     <h5>Customer Care</h5>
-    
+    <input type="checkbox" id="more-customer-care" class="footer-site-map__checkbox">
     <ul>
         <li><a href="/au/privacy-policy/" class="site-menu__link">Privacy Policy</a></li>
         <li><a href="/au/spam-act-policy/" class="site-menu__link">Spam Act Policy</a></li>
@@ -5364,58 +5330,60 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
         <li><a href="/au/become-a-supplier/" class="site-menu__link">Become a Supplier</a></li>
         <li><a href="/au/earn-qantas-points/" class="site-menu__link">Qantas Frequent Flyer</a></li>
     </ul>
-    
+    <label for="more-customer-care" class="footer-site-map__more">More</label>
   </nav>
 
 
             
-  <nav class="store-menu menu-information footer-site-map display-inline-block">
+  <nav class="store-menu menu-information footer-site-map">
     <h5>Top Brands </h5>
     <input type="checkbox" id="more-information" class="footer-site-map__checkbox">
     <ul>
-        <li><a href="/au/shop/brand/kogan/" class="site-menu__link">Kogan</a></li>
-        <li><a href="/au/shop/brand/samsung/" class="site-menu__link">Samsung</a></li>
-        <li><a href="/au/shop/brand/apple/" class="site-menu__link">Apple</a></li>
-        <li><a href="/au/shop/brand/ovela/" class="site-menu__link">Ovela</a></li>
-        <li><a href="/au/shop/brand/canon/" class="site-menu__link">Canon</a></li>
-        <li><a href="/au/shop/brand/lg/" class="site-menu__link">LG</a></li>
-        <li><a href="/au/shop/brand/komodo/" class="site-menu__link">Komodo</a></li>
-        <li><a href="/au/shop/brand/sony/" class="site-menu__link">Sony</a></li>
-        <li><a href="/au/shop/brand/certa/" class="site-menu__link">Certa</a></li>
-        <li><a href="/au/shop/brand/fortis/" class="site-menu__link">Fortis</a></li>
-        <li><a href="/au/shop/brand/motorola/" class="site-menu__link">Motorola</a></li>
-        <li><a href="/au/shop/brand/nikon/" class="site-menu__link">Nikon</a></li>
-        <li><a href="/au/shop/brand/asus/" class="site-menu__link">ASUS</a></li>
-        <li><a href="/au/shop/brand/htc/" class="site-menu__link">HTC</a></li>
-        <li><a href="/au/shop/brand/asics/" class="site-menu__link">ASICS</a></li>
-        <li><a href="/au/shop/brand/dji/" class="site-menu__link">DJI</a></li>
-        <li><a href="/au/shop/brand/orbis/" class="site-menu__link">Orbis</a></li>
-        <li><a href="/au/shop/brand/gopro/" class="site-menu__link">GoPro</a></li>
-        <li><a href="/au/shop/brand/swann/" class="site-menu__link">Swann</a></li>
-        <li><a href="/au/shop/brand/pestill/" class="site-menu__link">Pestill</a></li>
-        <li><a href="/au/shop/brand/kingston/" class="site-menu__link">Kingston</a></li>
-        <li><a href="/au/shop/brand/finish/" class="site-menu__link">Finish</a></li>
-        <li><a href="/au/shop/brand/perfetto/" class="site-menu__link">Perfetto</a></li>
-        <li><a href="/au/shop/brand/pawever-pets/" class="site-menu__link">Pawever Pets</a></li>
-        <li><a href="/au/shop/brand/bubbli/" class="site-menu__link">Bubbli</a></li>
+        <li><a href="/au/kogan/" class="site-menu__link">Kogan</a></li>
+        <li><a href="/au/samsung/" class="site-menu__link">Samsung</a></li>
+        <li><a href="/au/apple/" class="site-menu__link">Apple</a></li>
+        <li><a href="/au/ovela/" class="site-menu__link">Ovela</a></li>
+        <li><a href="/au/canon/" class="site-menu__link">Canon</a></li>
+        <li><a href="/au/lg/" class="site-menu__link">LG</a></li>
+        <li><a href="/au/komodo/" class="site-menu__link">Komodo</a></li>
+        <li><a href="/au/sony/" class="site-menu__link">Sony</a></li>
+        <li><a href="/au/certa/" class="site-menu__link">Certa</a></li>
+        <li><a href="/au/fortis/" class="site-menu__link">Fortis</a></li>
+        <li><a href="/au/motorola/" class="site-menu__link">Motorola</a></li>
+        <li><a href="/au/nikon/" class="site-menu__link">Nikon</a></li>
+        <li><a href="/au/asus/" class="site-menu__link">ASUS</a></li>
+        <li><a href="/au/htc/" class="site-menu__link">HTC</a></li>
+        <li><a href="/au/asics/" class="site-menu__link">ASICS</a></li>
+        <li><a href="/au/dji/" class="site-menu__link">DJI</a></li>
+        <li><a href="/au/orbis/" class="site-menu__link">Orbis</a></li>
+        <li><a href="/au/gopro/" class="site-menu__link">GoPro</a></li>
+        <li><a href="/au/swann/" class="site-menu__link">Swann</a></li>
+        <li><a href="/au/pestill/" class="site-menu__link">Pestill</a></li>
+        <li><a href="/au/kingston/" class="site-menu__link">Kingston</a></li>
+        <li><a href="/au/finish/" class="site-menu__link">Finish</a></li>
+        <li><a href="/au/perfetto/" class="site-menu__link">Perfetto</a></li>
+        <li><a href="/au/pawever-pets/" class="site-menu__link">Pawever Pets</a></li>
+        <li><a href="/au/bubbli/" class="site-menu__link">Bubbli</a></li>
     </ul>
     <label for="more-information" class="footer-site-map__more">More</label>
   </nav>
 
 
             
-  <nav class="store-menu menu-seo-links footer-site-map display-inline-block">
+  <nav class="store-menu menu-seo-links footer-site-map">
     <h5>Popular Pages</h5>
     <input type="checkbox" id="more-seo-links" class="footer-site-map__checkbox">
     <ul>
+        <li><a href="/au/kogan-daily-deals/" class="site-menu__link">Kogan Newsletter</a></li>
         <li><a href="/au/travel/" class="site-menu__link">Kogan Travel Deals</a></li>
         <li><a href="/au/sale-events/" class="site-menu__link">Sale Events</a></li>
-        <li><a href="/au/shop/brand/apple/?department=phones&amp;category=iphone" class="site-menu__link">iPhones</a></li>
+        <li><a href="/au/apple/?department=phones&amp;category=iphone" class="site-menu__link">iPhones</a></li>
         <li><a href="/au/shop/phones/android/" class="site-menu__link">Android Phones</a></li>
-        <li><a href="/au/shop/brand/samsung/?department=phones&amp;category=android" class="site-menu__link">Samsung Galaxy</a></li>
+        <li><a href="/au/samsung/?department=phones&amp;category=android" class="site-menu__link">Samsung Galaxy</a></li>
         <li><a href="/au/shop/televisions/?facet-tv-type=4K%20UHD%20TV" class="site-menu__link">4K TVs</a></li>
         <li><a href="http://www.kogan.com/au/shop/collection/click-frenzy/" class="site-menu__link">Kogan Frenzy</a></li>
         <li><a href="http://www.kogan.com/au/shop/collection/boxing-day-sale/" class="site-menu__link">Boxing Day Sale</a></li>
+        <li><a href="https://www.kogan.com/au/bedding-buying-guide/" class="site-menu__link">Bedding Buying Guide</a></li>
         <li><a href="https://www.kogan.com/au/blog/kogancom-super-helpful-tv-buying-guide/" class="site-menu__link">TV Buying Guide</a></li>
         <li><a href="/au/shop/televisions/led-tv/" class="site-menu__link">LED TV</a></li>
         <li><a href="/au/shop/collection/lcd-tv/" class="site-menu__link">LCD TV</a></li>
@@ -5432,49 +5400,21 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             
 
             
-            <section id="footer-cart" class="footer-cart-summary display-inline-block visibility-hidden">
+            <section id="footer-cart" class="footer-cart-summary visibility-hidden">
                 <section>
-                    <h6>Your cart summary:</h6>
-                    <div class="block">
-                        <div class="text-block">
-                            <strong>Total:</strong>
-                            <strong class="value" id="footer-cart-price"></strong>
-                            <span>inc GST where applicable</span>
-                        </div>
+                    <h5>Your cart</h5>
+                    <div class="text-block">
+                      <strong>Total:</strong>
+                      <strong class="value" id="footer-cart-price"></strong>
+                      <span>inc GST where applicable</span>
                     </div>
                     <span id="footer-cart-postcode"></span>
-                    <span class="arrow"></span>
                 </section>
-                <a href="/au/cart/" class="button small full-width"><span>Checkout &amp; Pay</span></a>
-                <strong class="secure">Go to a secure checkout page.</strong>
+                <a href="/au/cart/" class="footer-checkout__button"><span class="icon-lock"></span><span>Checkout</span></a>
             </section>
             
 
-            <section class="footer-newsletter">
-                <p class="display-inline-block">Join the Kogan.com community for exclusive access to even more deals, specials and competitions - <a href="https://facebook.com/kogan" target="_blank" title="Kogan Facebook">Like us on Facebook</a>, <a href="https://twitter.com/kogan" target="_blank" title="Kogan on Twitter">Follow us on Twitter</a> and Join our Newsletter. By entering your email address you are agreeing to the <a class="privacypolicy" href="/au/tcs-landing/">Terms of Service</a>.</p>
-               
-                    <form id="footer-newsletter-form" action="/au/api/v1/customers/subscribe/" class="newsletter display-inline-block newsletter-form" method="POST" data-location="Footer" provider="ksub">
-                        <fieldset>
-                            <div class="block">
-                                <label for="name">Name</label>
-                                <div class="text">
-                                    <input id="name" name="name" type="text" placeholder="Name" required="">
-                                </div>
-                            </div>
-                            <div class="block">
-                                <label for="email">Email</label>
-                                <div class="text">
-                                    <input id="footer-newsletter-form-email" class="mailcheck" name="email" type="email" required="" placeholder="Email">
-                                    <p></p>
-                                </div>
-                            </div>
-                            <input id="store_code" type="hidden" name="store_code" value="au">
-                            <input type="hidden" name="location" value="footer">
-                            <button class="button small purple arrow ladda-button" data-style="zoom-out" type="submit"><span class="ladda-label">Join Newsletter</span></button>
-                        </fieldset>
-                    </form>
-                
-            </section>
+            <div id="footer-news"></div>
 
             
                 
@@ -5485,12 +5425,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
         </footer>
 
         <section id="footer-copyright" class="k3_legacy">
-            <a href="/au/">
-                <img class="logo small" src="//static.kogan.com/static/img/kogan-logo.eac8023e4ee1.png" alt="Kogan.com">
-            </a>
             <div class="block">
-                <p>23 Mar 2016. © Copyright 2016 - Kogan.  All Rights Reserved.
-                <span class="render_stamp">appxx-i-1ef9c9c1.int.prod.aws.kogan.com:81a22109:1458700315</span>
+                <p>13 Oct 2016. © Copyright 2016 - Kogan.com. All Rights Reserved.
+                <span class="render_stamp">appxx-i-9b0acf80.int.prod.aws.kogan.com:533d80df:1476339687</span>
                 </p>
             </div>
         </section>
@@ -5499,10 +5436,9 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
     </div> <!-- /container -->
 
     
-<label for="toggle-main-menu" class="accounts-modal__overlay"></label>
+<div class="accounts-modal__overlay"></div>
 <div id="login-register-box" class="k4 accounts-modal__box">
-    <h4 class="accounts-modal__title accounts-modal__title--signup">Create your free Kogan account</h4>
-    <h4 class="accounts-modal__alternative accounts-modal__alternative--signup">Already have an account? <a class="accounts-modal__link">Log In</a></h4>
+    <h4 class="accounts-modal__title accounts-modal__title--signup">Create your free Kogan.com account</h4>
     <div class="container accounts-modal__container">
         <div class="message-above hide"></div>
         <div class="modal-logins">
@@ -5552,7 +5488,8 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
         </div>
         <div class="message-below hide"></div>
     </div>
-    <div class="accounts-modal__privacy-disclaimer">By creating an account, you agree to the Kogan.com <a class="registration-modal__footer-link" href="/au/terms-and-conditions/" target="_blank">Terms &amp; Conditions</a>.</div>
+    <h4 class="accounts-modal__alternative accounts-modal__alternative--signup">Already have an account? <a class="accounts-modal__link">Log In</a></h4>
+    <div class="accounts-modal__privacy-disclaimer">By clicking Create Account (or signing in with Facebook, Google or Paypal), you agree to the Kogan.com <a class="registration-modal__footer-link" href="/au/tcs-landing/" target="_blank">Terms &amp; Conditions</a> and to receiving promotional emails from Kogan.com. Remember, you can unsubscribe at any time.</div>
 </div>
 
 
@@ -5606,6 +5543,8 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
                 symbol: '$',
                 language: 'en-AU',
                 tax_label: 'GST',
+                organisation_code: 'kogan',
+                organisation: 'Kogan.com',
             };
             k3.meta.socialauth = {
                 fb: "/account/social/login/facebook/",
@@ -5616,33 +5555,23 @@ mixpanel.init('a737ff26c2f9db0422ad6c3490601fe0', {'persistence': 'localStorage'
             };
         </script>
 
-        <script src="//static.kogan.com/static/js-build/loader.888907e70802.js"></script>
+        <script src="//static.kogan.com/static/js-build/loader.8536140fc679.js"></script>
 
         
-        <script>
-                var tc_vars = tc_vars || new Array();
-                tc_vars["env_template"] = 'page_detail'; // View class name
-                tc_vars["env_appclass"] = 'pages'; // App class name
-        </script>
-        <script type="text/javascript" src="https://cdn.tagcommander.com/696/tc_Kogan.js"></script>
-        <noscript><iframe src="https://redirect696.tagcommander.com/utils/noscript.php?id=6&mode=iframe" width="1" height="1"></iframe></noscript>
         
-
         
-        <script type="text/javascript">
-            (function() {
-              var scripts = document.getElementsByTagName('script')[0];
-              var s = document.createElement('script');
-              s.async = true;
-              s.src = "https://tags.bkrtx.com/js/bk-coretag.js";
-              scripts.parentNode.insertBefore(s, scripts);
-            }());
-        </script>
+        
+        
+        
+        
+        
+        
+        
         
 
         
         <script>
-            dataLayer.push({'globalClassnames': 'au_store pages_app page_detail_view'});
+            dataLayer.push({'globalClassnames': 'au_store pages_app page_detail_view kogan_theme'});
             dataLayer.push({'event': 'pageFooter'});
         </script>
 
