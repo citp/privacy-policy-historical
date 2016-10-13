@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkprchecker.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324232418id_/http%3A//bulkprchecker.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkprchecker.net privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013043446id_/http%3A//bulkprchecker.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Google Pagerank Checker - BulkPRChecker.net
 
@@ -32,6 +32,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 This privacy policy is subject to change without notice. 
 
-If you have any further question, please feel free [contact us](https://web.archive.org/web/20160324232418id_/http%3A//bulkprchecker.net/contact.php). 
+If you have any further question, please feel free [contact us](https://web.archive.org/web/20161013043446id_/http%3A//bulkprchecker.net/contact.php). 
 
 This page was last updated on 6 June 2012 
