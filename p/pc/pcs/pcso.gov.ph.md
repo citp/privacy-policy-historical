@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcso.gov.ph privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608081134id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcso.gov.ph privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013235946id_/http%3A//www.gov.ph/about-this-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Gazette of the Republic of the Philippines
 
@@ -32,18 +32,15 @@ To send periodic emails: We may use the email address provided by a user to resp
 
 ### Links to other websites
 
-This site contains links to and from websites of government departments and other organizations. This privacy policy, however, only applies to www.gov.ph and to pcdspo.gov.ph, the website of the office managing the online Official Gazette, and which houses the feedback form that caters to users of www.gov.ph.
+This site contains links to and from websites of government departments and other organizations. This privacy policy, however, only applies to www.gov.ph and to pco.gov.ph, the website of the office managing the online Official Gazette, and which houses the feedback form that caters to users of www.gov.ph.
 
 Websites other than those listed above may have privacy and user policies that deviate from this one. We encourage you to likewise take the time to read their site policies. Also, for more on this subject, we recommend that you familiarize yourself with the Data Privacy Act of 2012.
 
 If you have any questions please contact us:
 
 Presidential Communications Development and Strategic Planning Office  
-3/F New Executive Building  
+2/F New Executive Building  
 Jose P. Laurel St., Malacañan Palace  
 San Miguel, Manila
-
-Tel. No.: +632 736 0719; Fax No.: +632 735 6167  
-Email: feedback@pcdspo.gov.ph
 
 [Basahin sa Filipino](http://www.gov.ph/about-this-website/patakaran-sa-pagkapribado/)
