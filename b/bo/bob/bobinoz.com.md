@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobinoz.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611064237id_/http%3A//bobinoz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobinoz.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013213546id_/http%3A//bobinoz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,3 +63,5 @@ We reserve the right, at any time and without notice, to add to, change, update,
 Web Products Pty Ltd is always ready to review your questions and comments and we will attempt to give you our best responses. Remember, we have a lot of Customers/Members and other visitors to respond to as well, but we will try to reply as promptly and thoroughly as possible. To contact Web Products Pty Ltd about our privacy policy, send an email to bob@bobinoz.com.
 
 _5 July 2011_
+
+It's good to share...000000
