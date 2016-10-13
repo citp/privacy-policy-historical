@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215082650id_/http%3A//www.teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013093650id_/https%3A//teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
 
 # TekSavvy - Privacy Policy
 
@@ -6,41 +6,67 @@
 
 TekSavvy Solutions Inc. ("TekSavvy") and its subsidiaries and affiliates (collectively "TekSavvy Companies", and each individually "TekSavvy Company") provide a broad range of telecommunications services to customers, including Internet access, and local and long distance services in Canada.
 
-The TekSavvy Companies (as defined in Part IV below) are committed to maintaining the privacy, confidentiality, security and accuracy of customer and employee personal information.  
-In 1996, the Canadian Standards Association Model Code for the Protection of Personal Information, CAN/CSA-Q830-96 (the "CSA Code"), was published as a National Standard of Canada. Subsequently, the CSA Code was largely incorporated into the Personal Information Protection and Electronic Documents Act, S.C. 2000, c.5, as amended ("PIPEDA").  
-The TekSavvy Privacy Policy ("Privacy Policy") is a formal statement of principles and guidelines concerning the minimum requirements for the protection of personal information provided by the TekSavvy Companies to their customers and employees. The objective of the Privacy Policy is responsible and transparent practices in the management of personal information, in accordance with the CSA Code and federal legislation.  
+The TekSavvy Companies (as defined in Part IV below) are committed to maintaining the privacy, confidentiality, security and accuracy of customer and employee personal information.
+
+  
+In 1996, the Canadian Standards Association Model Code for the Protection of Personal Information, CAN/CSA-Q830-96 (the "CSA Code"), was published as a National Standard of Canada. Subsequently, the CSA Code was largely incorporated into the Personal Information Protection and Electronic Documents Act, S.C. 2000, c.5, as amended ("PIPEDA").
+
+  
+The TekSavvy Privacy Policy ("Privacy Policy") is a formal statement of principles and guidelines concerning the minimum requirements for the protection of personal information provided by the TekSavvy Companies to their customers and employees. The objective of the Privacy Policy is responsible and transparent practices in the management of personal information, in accordance with the CSA Code and federal legislation.
+
+  
 The TekSavvy Companies will continue to review the Privacy Policy at least every five years to make sure it is relevant and remains current with changing technologies and laws and the evolving needs of the TekSavvy Companies, our customers and employees.
 
 **II.        SUMMARY OF PRINCIPLES**
 
-_Principle 1 - Accountability_  
+_Principle 1 - Accountability_
+
+__  
 The TekSavvy Companies are responsible for personal information under their control and shall designate one or more persons who are accountable for compliance with the following principles.
 
-_Principle 2 - Identifying Purposes for Collection of Personal Information_  
+_Principle 2 - Identifying Purposes for Collection of Personal Information_
+
+__  
 The TekSavvy Companies shall identify the purposes for which personal information is collected at or before the time the information is collected.
 
-_Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information_  
+_Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information_
+
+__  
 The knowledge and consent of a customer or employee is required for the collection, use or disclosure of personal information, except where inappropriate.
 
-_Principle 4 - Limiting Collection of Personal Information_  
+_Principle 4 - Limiting Collection of Personal Information_
+
+__  
 The TekSavvy Companies shall limit the collection of personal information to that which is necessary for the purposes identified. The TekSavvy Companies shall collect personal information by fair and lawful means.
 
-_Principle 5 - Limiting Use, Disclosure and Retention of Personal Information_  
+_Principle 5 - Limiting Use, Disclosure and Retention of Personal Information_
+
+__  
 The TekSavvy Companies shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. The TekSavvy Companies shall retain personal information only as long as necessary for the fulfillment of those purposes.
 
-_Principle 6 - Accuracy of Personal Information_  
+_Principle 6 - Accuracy of Personal Information_
+
+__  
 Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
 
-_Principle 7 - Security Safeguards_  
+_Principle 7 - Security Safeguards_
+
+__  
 The TekSavvy Companies shall protect personal information by security safeguards appropriate to the sensitivity of the information.
 
-_Principle 8 - Openness Concerning Policies and Practices_  
+_Principle 8 - Openness Concerning Policies and Practices_
+
+__  
 The TekSavvy Companies shall make readily available to customers and employees specific information about their policies and practices relating to the management of personal information.
 
-_Principle 9 – Customer and Employee Access to Personal Information_  
+_Principle 9 – Customer and Employee Access to Personal Information_
+
+__  
 The TekSavvy Companies shall inform a customer or employee of the existence, use and disclosure of his or her personal information upon request and shall give the individual access to that information. A customer or employee shall be able to challenge the accuracy and completeness of the information and to have it amended as appropriate.
 
-_Principle 10 - Challenging Compliance_  
+_Principle 10 - Challenging Compliance_
+
+__  
 A customer or employee shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the TekSavvy Companies' compliance with the Privacy Policy.
 
 **III.       SCOPE AND APPLICATION**
@@ -49,15 +75,15 @@ The ten principles that form the basis of the Privacy Policy are interrelated an
 
 The scope and application of the Privacy Policy are as follows:
 
-  * The Privacy Policy applies to personal information about customers and employees of the TekSavvy Companies that is collected, used or disclosed by the TekSavvy Companies.
-  * The Privacy Policy applies to the management of personal information in any form whether oral, electronic or written.
-  * The Privacy Policy does not impose any limits on the collection, use or disclosure of the following information by the TekSavvy Companies:
+ ·                 The Privacy Policy applies to personal information about customers and employees of the TekSavvy Companies that is collected, used or disclosed by the TekSavvy Companies.
 
+ ·                 The Privacy Policy applies to the management of personal information in any form whether oral, electronic or written.
 
+ ·                 The Privacy Policy does not impose any limits on the collection, use or disclosure of the following information by the TekSavvy Companies:
 
-(i)      information that is publicly available; or
+                 (i)      information that is publicly available; or
 
-(ii)     the name, title or business address or telephone number of an employee of an organization.
+                 (ii)     the name, title or business address or telephone number of an employee of an organization.
 
 The application of the Privacy Policy is subject to the requirements or provisions of any applicable legislation, regulations, tariffs or agreements, or the order or determination of any court or other lawful authority, including any applicable regulations, orders or determinations of the Canadian Radio-television and Telecommunications Commission.
 
@@ -65,7 +91,7 @@ The application of the Privacy Policy is subject to the requirements or provisio
 
 Collection - the act of gathering, acquiring, recording or obtaining personal information from any source, including third parties, by any means.
 
-TekSavvy Companies - TekSavvy Solutions Inc. and its shareholder, 2343431 Ontario Inc.; Openjive Inc. and its shareholder, 2427072 Ontario Inc., and Hastings Cable Vision Ltd. and its shareholder, 2405182 Ontario Inc.
+TekSavvy Companies - TekSavvy Solutions Inc. and its shareholder, 2343431 Ontario Inc.; ObjectiveSpark Inc. and its shareholder, 2427072 Ontario Inc., and Hastings Cable Vision Ltd. and its shareholder, 2405182 Ontario Inc.
 
 Consent - voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing but is always unequivocal and does not require any inference on the part of the TekSavvy Companies. Implied consent is consent that can reasonably be inferred from an individual's action or inaction.
 
@@ -83,7 +109,9 @@ Use - the treatment, handling, and management of personal information by the Tek
 
 **V.        THE TEKSAVVY PRIVACY POLICY IN DETAIL**
 
-_Principle 1 - Accountability_  
+_Principle 1 - Accountability_
+
+__  
 The TekSavvy Companies are responsible for personal information under their control and shall designate one or more persons who are accountable for compliance with the following principles.
 
 1.1    Responsibility for ensuring compliance with the provisions of the Privacy Policy rests with the senior management of the TekSavvy Companies, which shall designate one or more persons to be accountable for compliance with the Privacy Policy. Other individuals within TekSavvy Companies may be delegated to act on behalf of the designated person(s) or to take responsibility for the day-to-day collection and processing of personal information.
@@ -103,28 +131,30 @@ Email: privacy@teksavvy.com
 
 1.4    The TekSavvy Companies have implemented policies and procedures to give effect to the Privacy Policy, including:
 
-a)      implementing procedures to protect personal information and to oversee the TekSavvy Companies' compliance with the Privacy Policy;
+                 a)      implementing procedures to protect personal information and to oversee the TekSavvy Companies' compliance with the Privacy Policy;
 
-b)      establishing procedures to receive and respond to inquiries or complaints;
+                 b)      establishing procedures to receive and respond to inquiries or complaints;
 
-c)      training and communicating to staff about the TekSavvy Companies' policies and practices; and
+                 c)      training and communicating to staff about the TekSavvy Companies' policies and practices; and
 
-d)      developing public information to explain the TekSavvy Companies' policies and practices.
+                 d)      developing public information to explain the TekSavvy Companies' policies and practices.
 
-_Principle 2 - Identifying Purposes for Collection of Personal Information_  
+_Principle 2 - Identifying Purposes for Collection of Personal Information_
+
+__  
 The TekSavvy Companies shall identify the purposes for which personal information is collected at or before the time the information is collected.
 
 2.1    The TekSavvy Companies collect personal information only for the following purposes:
 
-a)      To establish and maintain responsible commercial relations with customers and to provide ongoing service;
+                 a)      To establish and maintain responsible commercial relations with customers and to provide ongoing service;
 
-b)      To understand customer needs;
+                 b)      To understand customer needs;
 
-c)      To develop, enhance, market or provide products and services;
+                 c)      To develop, enhance, market or provide products and services;
 
-d)      To manage and develop their business and operations, including personnel and employment matters; and
+                 d)      To manage and develop their business and operations, including personnel and employment matters; and
 
-e)      To meet legal and regulatory requirements.
+                 e)      To meet legal and regulatory requirements.
 
 Further references to "identified purposes" mean the purposes identified in this Principle 2.1.
 
@@ -134,12 +164,20 @@ Further references to "identified purposes" mean the purposes identified in this
 
 2.4    As members of the public browse the website teksavvy.com or other websites of the TekSavvy Companies (“Sites”), advertising cookies will be placed on the users’ computers so that the TekSavvy Companies can understand consumer interests.  “Cookies” are small information packets that a website creates which are stored on the hard drive of a user’s computer by the user’s browser software. The TekSavvy Companies use cookies to track and collect information relating to use of the Sites by the public.The display advertising partner, AdRoll, then enables the TekSavvy Companies to present users of the Sites with retargeted advertising on other sites based on the users’ previous interaction with the Sites. The techniques employed by AdRoll and their advertising partners do not collect personal information such as user names, email addresses, postal addresses or telephone numbers.  Members of the public can visit this [page](http://www.networkadvertising.org/choices/ "AdRoll Opt-Out") to opt out of AdRoll and their partners’ targeted advertising.
 
-_Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information_  
+_Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information_
+
+__  
 The knowledge and consent of a customer or employee is required for the collection, use or disclosure of personal information, except where inappropriate.
 
-3.1    In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual. For example, the TekSavvy Companies may collect or use personal information without knowledge or consent if it is clearly in the interests of the individual and consent cannot be obtained in a timely way, such as when the individual is a minor, seriously ill or mentally incapacitated.  
-The TekSavvy Companies may also collect, use or disclose personal information without knowledge or consent if seeking the consent of the individual might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law.  
-The TekSavvy Companies may also use or disclose personal information without knowled[g](http://i.imgur.com/hQjOINe.jpg)e or consent in the case of an emergency where the life, health or security of an individual is threatened.  
+3.1    In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual. For example, the TekSavvy Companies may collect or use personal information without knowledge or consent if it is clearly in the interests of the individual and consent cannot be obtained in a timely way, such as when the individual is a minor, seriously ill or mentally incapacitated.
+
+  
+The TekSavvy Companies may also collect, use or disclose personal information without knowledge or consent if seeking the consent of the individual might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law.
+
+  
+The TekSavvy Companies may also use or disclose personal information without knowledg[](http://i.imgur.com/hQjOINe.jpg)e or consent in the case of an emergency where the life, health or security of an individual is threatened.
+
+  
 The TekSavvy Companies may disclose personal information without knowledge or consent to a lawyer representing the TekSavvy Companies, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required by law.
 
 3.2    In obtaining consent, the TekSavvy Companies shall use reasonable efforts to ensure that a customer or employee is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the customer or employee.
@@ -154,41 +192,45 @@ The TekSavvy Companies may disclose personal information without knowledge or co
 
 3.7    A customer or employee may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Customers and employees may contact the TekSavvy Companies for more information regarding the implications of withdrawing consent.
 
-_Principle 4 - Limiting Collection of Personal Information_  
+_Principle 4 - Limiting Collection of Personal Information_
+
+__  
 The TekSavvy Companies shall limit the collection of personal information to that which is necessary for the purposes identified. The TekSavvy Companies shall collect personal information by fair and lawful means.
 
 4.1    The TekSavvy Companies collect personal information primarily from their customers or employees.
 
 4.2    The TekSavvy Companies may also collect personal information from other sources including credit bureaus, employers or personal references, or other third parties that represent that they have the right to disclose the information.
 
-_Principle 5 - Limiting Use, Disclosure and Retention of Personal Information_  
+_Principle 5 - Limiting Use, Disclosure and Retention of Personal Information_
+
+__  
 The TekSavvy Companies shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. The TekSavvy Companies shall retain personal information only as long as necessary for the fulfillment of those purposes.
 
 5.1    In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual. (See Principle 3.1)
 
 5.2    In addition, the TekSavvy Companies may disclose a customer's personal information to:
 
-a)      another telecommunications services provider for the efficient and effective provision of telecommunications services;
+                 a)      another telecommunications services provider for the efficient and effective provision of telecommunications services;
 
-b)      an entity involved in supplying the customer with communications or communications directory related services;
+                 b)      an entity involved in supplying the customer with communications or communications directory related services;
 
-c)      another entity for the development, enhancement, marketing or provision of any of the products or services of the TekSavvy Companies;
+                 c)      another entity for the development, enhancement, marketing or provision of any of the products or services of the TekSavvy Companies;
 
-d)      an agent retained by the TekSavvy Companies in connection with the collection of the customer's account;
+                 d)      an agent retained by the TekSavvy Companies in connection with the collection of the customer's account;
 
-e)      credit grantors and reporting agencies;
+                 e)      credit grantors and reporting agencies;
 
-f)       a person who, in the reasonable judgment of the TekSavvy Companies, is seeking the information as an agent of the customer; and
+                 f)       a person who, in the reasonable judgment of the TekSavvy Companies, is seeking the information as an agent of the customer; and
 
-g)      a third party or parties, where the customer consents to such disclosure or disclosure is required by law.
+                 g)      a third party or parties, where the customer consents to such disclosure or disclosure is required by law.
 
 5.3    The TekSavvy Companies may disclose personal information about their employees:
 
-a)      for normal personnel and benefits administration;
+                 a)      for normal personnel and benefits administration;
 
-b)      in the context of providing references regarding current or former employees in response to requests from prospective employers, to the extent that such references are granted at all; or
+                 b)      in the context of providing references regarding current or former employees in response to requests from prospective employers, to the extent that such references are granted at all; or
 
-c)      where disclosure is required by law.
+                 c)      where disclosure is required by law.
 
 5.4    Only those employees of the TekSavvy Companies who require access for business reasons, or whose duties reasonably so require, are granted access to personal information about customers and employees.
 
@@ -196,14 +238,18 @@ c)      where disclosure is required by law.
 
 5.6    The TekSavvy Companies shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to personal information that is no longer necessary or relevant for the identified purposes or required by law to be retained. Such information shall be destroyed, erased or made anonymous.
 
-_Principle 6 - Accuracy of Personal Information_  
+_Principle 6 - Accuracy of Personal Information_
+
+__  
 Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
 
 6.1    Personal information used by the TekSavvy Companies shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about a customer or employee.
 
 6.2    The TekSavvy Companies shall update personal information about customers and employees as and when necessary to fulfill the identified purposes or upon notification by the individual.
 
-_Principle 7 - Security Safeguards_  
+_Principle 7 - Security Safeguards_
+
+__  
 The TekSavvy Companies shall protect personal information by security safeguards appropriate to the sensitivity of the information.
 
 7.1    The TekSavvy Companies shall protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures. The TekSavvy Companies shall protect the information regardless of the format in which it is held.
@@ -218,15 +264,17 @@ The TekSavvy Companies shall make readily available to customers and employees s
 
 8.1    The TekSavvy Companies shall make information about their policies and practices easy to understand, including:
 
-a)      The title and address of the person or persons accountable for the TekSavvy Companies' compliance with the Privacy Policy and to whom inquiries or complaints can be forwarded;
+                 a)      The title and address of the person or persons accountable for the TekSavvy Companies' compliance with the Privacy Policy and to whom inquiries or complaints can be forwarded;
 
-b)      The means of gaining access to personal information held by the TekSavvy Companies; and
+                 b)      The means of gaining access to personal information held by the TekSavvy Companies; and
 
-c)      A description of the type of personal information held by the TekSavvy Companies, including a general account of its use.
+                 c)      A description of the type of personal information held by the TekSavvy Companies, including a general account of its use.
 
 8.2    The TekSavvy Companies shall make available information to help customers and employees exercise choices regarding the use of their personal information and the privacy-enhancing services available from the TekSavvy Companies.
 
-_Principle 9 - Customer and Employee Access to Personal Information_  
+_Principle 9 - Customer and Employee Access to Personal Information_
+
+__  
 The TekSavvy Companies shall inform a customer or employee of the existence, use and disclosure of his or her personal information upon request and shall give the individual access to that information. A customer or employee shall be able to challenge the accuracy and completeness of the information and to have it amended as appropriate.
 
 9.1    Upon request, the TekSavvy Companies shall afford to a customer or an employee a reasonable opportunity to review the personal information in the individual's file. Personal information shall be provided in understandable form within a reasonable time and at minimal or no cost to the individual.
@@ -243,7 +291,9 @@ The TekSavvy Companies shall inform a customer or employee of the existence, use
 
 9.7    An employee can obtain information or seek access to his or her individual file by contacting his or her immediate supervisor within the applicable TekSavvy Company.
 
-_Principle 10 - Challenging Compliance_  
+_Principle 10 - Challenging Compliance_
+
+__  
 A customer or employee shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the TekSavvy Companies' compliance with the Privacy Policy.
 
 10.1   The TekSavvy Companies shall maintain procedures for addressing and responding to all inquiries or complaints from their customers and employees about the TekSavvy Companies' handling of personal information.
@@ -266,60 +316,127 @@ Email: [privacy@teksavvy.com](mailto:privacy@teksavvy.com)
 
 **VI.       THE PRIVACY POLICY IN PRACTICE - QUESTIONS AND ANSWERS**
 
-Q.      Why does TekSavvy have a Privacy Policy?  
+**Q.      Why does TekSavvy have a Privacy Policy?**
+
+****  
 A.      Our Privacy Policy ensures that our commitment to your privacy is upheld. The Privacy Policy reflects our most recent policies setting out your rights and our obligations respecting the treatment of your personal information by the TekSavvy Companies. The Privacy Policy complies with the requirements of the Personal Information Protection and Electronic Documents Act as well as the Canadian Standards Association Model Code for the Protection of Personal Information. (A summary of the principles underlying the Privacy Policy is included in Section II above.)
 
-Q.      How do the TekSavvy Companies ensure that their employees and agents adhere to the Privacy Policy when handling personal information?  
+**Q.      How do the TekSavvy Companies ensure that their employees and agents adhere to the Privacy Policy when handling personal information?**
+
+****  
 A.      Employees and agents acting on our behalf are required to adhere to the Privacy Policy. All of our employees who have access to personal information are trained in the handling of such information, and new employees receive training on privacy as a fundamental part of their initial company training. All of our employees must review and commit to the Privacy Policy annually.
 
-Q.      What is personal information?  
+**Q.      What is personal information?**
+
+****  
 A.      Personal information is information about an identifiable individual. This includes information about your product and service subscriptions and usage.
 
-Q.      Why does TekSavvy collect information?  
+**Q.      Why does TekSavvy collect information?**
+
+****  
 A.      Collecting information helps us serve you better. The TekSavvy Companies collect personal information only for the following purposes:
 
-  * to establish and maintain responsible commercial relations with you and provide you with ongoing service;
-  * to understand your needs and eligibility for products & services;
-  * to recommend particular products & services to meet your needs;
-  * to develop, enhance, market or provide products and services;
-  * to manage and develop the business and operations of the TekSavvy Companies, including personnel and employment matters; and
-  * to meet legal and regulatory requirements.
+ ·                 to establish and maintain responsible commercial relations with you and provide you with ongoing service;
 
+ ·                 to understand your needs and eligibility for products & services;
 
+ ·                 to recommend particular products & services to meet your needs;
+
+ ·                 to develop, enhance, market or provide products and services;
+
+ ·                 to manage and develop the business and operations of the TekSavvy Companies, including personnel and employment matters; and
+
+ ·                 to meet legal and regulatory requirements.
 
 Your personal information will not be used for any other purpose without your consent.
 
-Q.      Why do we share information among the TekSavvy Companies?  
+**Q.      Where does TekSavvy store personal information that it has collected?**
+
+  
+A.      Our general policy is to store personal information within Canada. However, some personal information stored in third-party systems is accessed or stored outside of Canada, particularly where the third-party provider is not Canadian.  Where this occurs, it is our policy to inform you wherever possible, generally at the point at which the information is collected or used.  Third-party systems for which we currently provide such notification include Zendesk, which we use for customer support; Zopim, the chat functionality built into Zendesk; and SmartFocus, which we use to handle large-scale email, track responses, and enable one-click opt-outs.  All of these use servers located in the United States.  Some also may use servers located in Europe.
+
+Contractually, we require the parties to whom we transfer personal information to provide an equivalent level of protection.  However, they -- both abroad, and also in Canada -- are subject to the laws of the countries in which they are located or headquartered.  In the United States, this means that your information may be subject to U.S. disclosure obligations.  
+
+
+**Q.      Why do we share information among the TekSavvy Companies?**
+
+****  
 A.      Sharing information among the TekSavvy Companies helps us understand your full needs and serve you better. Such sharing helps us identify your information, communication, and entertainment needs, and provide you with relevant information, advice, products and services. In some cases, certain products and service are available only from some of the TekSavvy Companies and not others. Therefore, in such cases, the sharing of information may also be necessary for the provision of certain bundles of products and/or services. Should you identify incorrect or outdated information to us, we will make the necessary changes promptly.
 
-Q.      Can I withdraw my consent to the sharing of information among the TekSavvy Companies when such sharing is for the purpose of promoting products and services?  
+**Q.      Can I withdraw my consent to the sharing of information among the TekSavvy Companies when such sharing is for the purpose of promoting products and services?**
+
+****  
 A.      You may decide that you prefer us not to share your personal information among the TekSavvy Companies to promote products and services. If this is the case, you may advise us by calling us at 1.877.779.1575 in English or 1.800.368.6909 in French.
 
-Q.      Do you share personal information with any other parties, and if so, who?  
-A.      Our general policy is not to provide personal information to any party outside of the TekSavvy Companies. However, there are certain limited circumstances, outlined below, in which it is necessary to do so. When we do provide personal information to third parties, we provide only that information that is required in the circumstances. Information provided to third parties is used only for the purpose stipulated and is subject to strict terms of confidentiality. Employees of the companies to whom we may provide information must adhere to our privacy standards.
+**Q.      Do you share personal information with any other parties, and if so, who?**
+
+****  
+A.      We understand “personal information” broadly: customer name & address, payment information, and account activity like volume of data transferred, to be sure; but also identifiers like IP addresses, MAC addresses, and anything else that, when added to what many third parties already know, could identify you personally.
+
+We do not share personal information with anyone outside the TekSavvy Companies where we can avoid it.  However, there are contractual, court-ordered, and emergency circumstances when we have to do so. When we do, we limit it to the information required in the circumstances, inform you where allowed, provide it only for the purpose stipulated, and make it subject to strict terms of confidentiality. Contractually, we require the parties to whom we transfer personal information to provide an equivalent level of protection; we require their employees of the companies to adhere to our privacy standards.  When a court orders us to provide personal information, we tell you about it unless we have been ordered by law not to, and we follow up regularly to question whether non-disclosure orders ought to remain in force.
+
+Third parties to whom we provide personal information, and are held to the above standards, include:
+
+ ·                 Service providers acting on behalf of a TekSavvy Company.  This, notably, includes wholesale network access providers.  But it may also include other service providers: those hired to perform installation or maintenance on our behalf; a collection agency, for the express purpose of collecting past due bills; an emergency services provider (9-1-1); and providers of certain software we use (customer support, via Zendesk; customer chat, via Zopim; and SmartFocus, which we use to handle large-scale email, track responses, and enables one-click opt-outs).
+
+ ·                 Other communications service providers, to offer efficient and effective communications services.  For instance, we participate in CRTC-mandated number portability and other activities which require providing clearly-identified information elements to your new provider.
+
+ ·                 Where required by law, such as by court order or warrant; in exigent circumstances, where the law would have required it were there time; and for internal security matters.  These have almost always been law enforcement or emergency services, but from time to time, third parties have gone to court to seek pre-trial “Norwich Orders” compelling us to provide information in our possession.  Where they have, we have always insisted on providing our end-users with as much notice as is feasible in order to give them the opportunity to oppose such motions.
 
 Third parties to whom we may have to provide personal information include:
 
-  * An agent acting on behalf any one of the TekSavvy Companies, such as an entity hired to perform installation or maintenance on our behalf;
-  * Another communications service provider, in order to offer efficient and effective communications services (e.g., to provide dialup Internet services while outside our coverage area for Internet services);
-  * A collection agency, for the express purpose of the collection of past due bills;
-  * Law enforcement agencies, in emergencies, for internal security matters, or where required by court order or search warrant; and
-  * Emergency services, in emergency situations.
+ ·                 An agent acting on behalf any one of the TekSavvy Companies, such as an entity hired to perform installation or maintenance on our behalf;
 
+ ·                 Another communications service provider, in order to offer efficient and effective communications services (e.g., to provide dialup Internet services while outside our coverage area for Internet services);
 
+ ·                 A collection agency, for the express purpose of the collection of past due bills;
 
-Q.      How do the TekSavvy Companies safeguard personal information?  
+ ·                 Law enforcement agencies, in emergencies, for internal security matters, or where required by court order or search warrant; and
+
+ ·                 Emergency services, in emergency situations.
+
+**Q.      How do the TekSavvy Companies safeguard personal information?**
+
+****  
 A.      We take all of the necessary precautions to ensure the safeguarding of your information, whether it is stored electronically or in paper format. In all cases, information is retained in secure facilities, protected from unauthorized access and kept only as long as is reasonably required. For example, our electronic files are backed up for redundancy, password protected and accessible only by authorized employees, on a need-to-know basis.
 
-Q.      What are "cookies" and do the TekSavvy Companies use them?  
-A.      During user interaction with one of our Internet sites, we may use a browser feature called a "cookie" to collect information anonymously and track user patterns on our web sites. A cookie is a small text file containing a unique identification number that identifies your browser - but not you - to our computer systems each time you visit one of our sites that uses cookies. Cookies tell us which pages of our sites are visited and by how many people. This helps us to enhance the on-line experience of visitors to our sites.  
-Unless you specifically advise us, we will not know who you are, even though we may assign the browser associated with your computer a cookie. We cannot use cookies, by themselves, to disclose the individual identity of any site user, and we do not combine information gathered by a cookie with personally identifiable information like your name, telephone number, or email address without your consent.  
+**Q.** **      ****How long does TekSavvy store IP address log information?**
+
+  
+A.     Log information remains within the database system for 30 days after a session is terminated. We have no purpose for that information beyond that point, so it is automatically deleted, on a rolling basis.  However, end-users have the ability to maintain a single session indefinitely through persistent use.  IP address log information is only deleted 30 days after the session has ended, whether through inactivity, the most common reason a session ends; a modem power-cycle; or some other external event.
+
+In isolated cases, we are required to extract certain information from that system in order to preserve it for longer than 30 days. Occasionally we are required to do this by a court order in a criminal matter: see our [transparency reporting](http://www.teksavvy.com/en/why-teksavvy/policies/legal-stuff/transparency-report). But the most common reason for a mandated longer preservation period is to comply with the Copyright Act.
+
+Since January 2, 2015, we have been [required](http://laws-lois.justice.gc.ca/eng/acts/C-42/FullText.html#h-56) to forward notices of claimed copyright infringement to the account information that matches the IP address and timestamp indicated on the notice. When we do so, we are also required to retain that IP-address-to-account correlation information, and the associated accountholder’s identity, for six months. If the copyright owner who sent the notice commences court proceedings, we may be required to retain it for more than six months.
+
+**Q.      What are "cookies" and do the TekSavvy Companies use them?**
+
+****  
+A.      During user interaction with one of our Internet sites, we may use a browser feature called a "cookie" to collect information anonymously and track user patterns on our web sites. A cookie is a small text file containing a unique identification number that identifies your browser - but not you - to our computer systems each time you visit one of our sites that uses cookies. Cookies tell us which pages of our sites are visited and by how many people. This helps us to enhance the on-line experience of visitors to our sites.
+
+  
+Unless you specifically advise us, we will not know who you are, even though we may assign the browser associated with your computer a cookie. We cannot use cookies, by themselves, to disclose the individual identity of any site user, and we do not combine information gathered by a cookie with personally identifiable information like your name, telephone number, or email address without your consent.
+
+  
 Most major web sites use cookies and most major browsers are set up to accept them. If you wish, you can set your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You do not need cookies to visit the web sites of TekSavvy Companies. However, if you refuse to accept cookies, you may not be able to use some of the features available on our sites, such as personalization features.
 
-Q.      What do I do if I have further questions or concerns?  
+**Q.      Do you route personal information through another country, even where it is destined to a Canadian endpoint?**
+
+A.         Yes.  We route domestically wherever possible, are very active in major Canadian Internet exchange point communities like TORIX and QIX (where we peer), peer wherever feasible, and do what we can to keep data domestic.  In fact, we are very active on this front.  At the same time, the United States has always been the major Internet hub: part of delivering an excellent experience to our end-users is ensuring excellent connectivity to key U.S. Internet traffic exchanges, and we maintain active routes between our Canadian network and California (the San Francisco and Los Angeles regions), New York, and Chicago.  We maintain publicly-available information on our traffic routing at PeeringDB (AS5645)
+
+**Q.      Do you advocate for and defend your users' privacy rights?**
+
+  
+A.         Yes.  Much of this is behind the scenes, in our contract negotiations and procurement processes, where we have become well-known for always pushing for more privacy protection. However, we also show up in court where doing so is the best way to make sure our users' privacy rights can be asserted, whether on large-scale matters like the well-known Voltage case; more day-to-day matters, like defamation cases that have the appearance of being strategic lawsuits against public participation ("SLAPPs"); or regulatory proceedings, such as the CRTC.
+
+**Q.      What do I do if I have further questions or concerns?**
+
+  
 A.      If you have further questions or concerns about your privacy, you can contact us at 1.877.779.1575 in English or 1.800.368.6909 in French, or by sending an email containing such a request in English or French to info@teksavvy.com. Our customer service representatives will assist you in this regard
 
-Q.      Who is responsible for overall compliance with the Privacy Policy?  
+**Q.      Who is responsible for overall compliance with the Privacy Policy?**
+
+****  
 A.      The TekSavvy Privacy Ombudsman has overall responsibility for the TekSavvy Companies' compliance with the Privacy Policy and applicable privacy restrictions. If you still have unresolved concerns with respect to the treatment of your personal information by one of the TekSavvy Companies after contacting us at 1.877.779.1575 in English or 1.800.368.6909 in French, or by sending an email containing such a request in English or French to privacy@teksavvy.com, you may address these concerns, in writing, to the Privacy Ombudsman.
 
 You should write to:
@@ -332,7 +449,9 @@ Fax: 519-360-1716
 
 Please note that complaints to the Privacy Ombudsman must be in writing and may be delivered only by mail or fax.
 
-Q.      Is there a further complaint procedure?  
+**Q.      Is there a further complaint procedure?**
+
+****  
 A.      If the TekSavvy Privacy Ombudsman does not resolve a privacy issue to your satisfaction, you may file a complaint with the Privacy Commissioner of Canada by writing to:
 
 Privacy Commissioner of Canada  
