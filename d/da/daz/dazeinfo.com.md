@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528172145id_/http%3A//dazeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013225809id_/http%3A//dazeinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dazeinfo
 
@@ -6,7 +6,7 @@ Dazeinfo.com is a Technology analysis blog which showcases amazing insights of I
 
 We make use of [Google](http://dazeinfo.com/tag/google/ "Google")’s services like Feedburner and other services to send [email](http://dazeinfo.com/tag/email/ "email") notification and Rss feed campaigns for to our users/readers. And we assure that such information shared with such services are never available to use for any third-party and its use is governed by privacy policy and other terms of service by those services.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/connect/ "contact us").
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/connect/ "contact us").
 
 **What information do we collect?**
 
@@ -77,8 +77,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://dazeinfo.com/connect/
 
 No 95/5, 12th Cross, 8th Main  
 Wilson Garden  
