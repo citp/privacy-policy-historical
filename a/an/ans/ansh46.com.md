@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328043745id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013162408id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ANSH46 Designer Clothing Store
 
