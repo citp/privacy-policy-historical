@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602132237id_/https%3A//www.magazines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013021249id_/https%3A//www.magazines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Magazines.com
 
-Last Modified: January 25, 2014
+Last Modified: September 01, 2016
 
 Your privacy is important to us. To better protect your privacy we provide this privacy policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we link to it from our home page and other pages of our web site.
 
@@ -11,7 +11,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 #### The Information We Collect
 
-This notice applies to all information collected or submitted on the Magazines.com website. On some pages, you can order products, make requests, and register to qualify for free magazines. The types of personal information collected at these pages are:
+This notice applies to the information collected or submitted on the Magazines.com website. On some pages, you can order products, make requests, and register for promotional offers or free magazines. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -43,7 +43,9 @@ As a Magazines.com customer you will receive special offers, coupons, and exclus
 
 #### The Way We Use Information
 
-We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to our third party fulfillment partners, such as magazine publishers, in order to quickly fulfill your order. For email addresses specifically, Magazines.com does not share this information with other parties, except when you purchase a digital magazine subscription and your email address is required to authenticate that digital subscription with the magazine publisher. Because your information is shared with our third party fulfillment partners, the information is governed by the privacy policies of the recipients of the information. We also use the information to provide you with information about our other products and services and in an effort to provide you with a superior customer experience.
+We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to our third party fulfillment partners, such as magazine publishers, in order to quickly fulfill your order, as well as in connection with the processing of credit card payments. For email addresses specifically, Magazines.com does not share this information with other parties, except when you purchase a digital magazine subscription and your email address is required to authenticate that digital subscription with the magazine publisher. Because your information is shared with our third party fulfillment partners, the information is governed by the privacy policies of the recipients of the information. We also use the information to provide you with information about our other products and services and in an effort to provide you with a superior customer experience, including using information to develop personalized shopping experiences and histories for customers in order to customize products, promotions, emails, updates or special offers.
+
+We also employ third parties to perform services or functions on our behalf in order to improve our site, merchandising, marketing and promotional efforts, communications or other services. During the purchase process, at the time of checkout we may share your information (other than email addresses) with such service providers or intermediaries to help identify offers for products and services from other parties that may be of interest to you. This information is not further provided to advertisers or other third parties without your consent, and in the event such service providers or intermediaries obtain any personal information during that process, it will not be used by them other than in the performance of their services for us. We may also employ third parties to analyze our sales data or to assist in marketing and personalizing product information.
 
   
 
@@ -88,6 +90,20 @@ The safety of every online transaction is important to us. This means you pay no
 You can access all your personally identifiable information that we collect online and maintain by contacting us through our toll-free number at 1-800-MAGAZINES (1-800-624-2946). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+  
+
+
+#### Changes to Privacy Policy
+
+Magazines.com reserves the right to modify or amend this privacy policy at any time. It is our policy to post any changes we make to our privacy policy on this page, and the date this policy was last revised is identified at the top of this page. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+  
+
+
+#### Acceptance of Policy
+
+Your use of our site constitutes your acceptance of our Terms of Service and this privacy policy.
 
   
 
