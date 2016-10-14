@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the logmeininc.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918231302id_/https%3A//www.logmeininc.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logmeininc.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014134530id_/https%3A//www.logmeininc.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LogMeIn
 
-Last Updated: August 2015 
+Last Updated: December 2015 
 
 LogMeIn, Inc. and its subsidiaries (together hereinafter referred to as "LogMeIn," "we," "us" or "our"), are committed to protecting the privacy of those individuals who visit our websites (the "Websites") and register to use our applications and services ("Services"). This policy describes our privacy practices and how we use and collect the personal information that you share with us when browsing our Website(s) and/or registering an account with us.
+
+## International Use & Safe Harbor Statement
+
+LogMeIn is headquartered in the United States of America. Therefore, personal information that we collect and maintain may be transferred to or controlled and processed in the United States of America and/or other countries around the world. By providing us with personal information and by using our Website(s) and Services, you consent to this transfer. We will protect the privacy and security of personal information we collect in accordance with this privacy policy, regardless of where it is processed or stored, however you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts, law enforcement and/or regulatory agencies of the United States who have valid jurisdiction over LogMeIn to obtain disclosure of your personal information subject to a valid subpoena, court order or similar official request. 
+
+LogMeIn continues to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. LogMeIn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LogMeIn’s certification, please visit http://www.export.gov/safeharbor/.
 
 ## How and When Information is Collected
 
@@ -65,10 +71,6 @@ LogMeIn may amend this policy from time to time. If we make any substantial chan
 ## Children's Privacy
 
 Our website is a general audience site that does not target and is not intended for children under the age of 13. LogMeIn does not knowingly solicit or maintain personal information pertaining to children under the age of 13.
-
-## Safe Harbor Statement
-
-LogMeIn is headquartered in the United States of America. Therefore, personal information that we maintain may be transferred to or controlled and processed in the United States of America and/or other countries. By providing us with personal information, you consent to this transfer. LogMeIn complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. LogMeIn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view LogMeIn's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Contact Us
 
