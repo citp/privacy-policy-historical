@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507041627id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014101354id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
 
-# Privacy - Mitre 10
+# Privacy | Mitre 10™
 
 ## Mitre 10 Privacy Statement Summary
+
+* * *
 
 #### Privacy statement
 
@@ -60,7 +62,7 @@ Mitre 10 maintains the highest standards of administrative, technical and physic
 
 ### Sharing of information
 
-We may share your personal information with: 
+We may share your personal information with:
 
   * our service providers for the purposes set out under ‘How we may use information’ above; and
   * our selected partners for the purpose of tailoring offers that we reasonably believe may be of interest to you.
@@ -81,7 +83,7 @@ We reserve the right to transfer personal information we have about you in the e
 
 This website may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites, including those operated by Mitre 10, may have their own Privacy Statement notices, which we strongly suggest you review if you visit them. We are not responsible for the content of any websites that we do not control, any use of those websites or the privacy practices of those websites.
 
-###  How to contact us
+### How to contact us
 
 If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you, please contact us by:
 
@@ -96,4 +98,4 @@ Your information will be held by us at 46 View Road, Wairau Valley, Auckland 062
 
 This Privacy Statement may be updated periodically and without specific prior notice to you personally to reflect changes in our personal information practices or relevant laws.
 
-_Last updated_ : This privacy statement was last updated 28/09/2015
+ _Last updated_ : This privacy statement was last updated 28/09/2015
