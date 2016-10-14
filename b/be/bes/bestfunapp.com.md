@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the bestfunapp.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605010926id_/http%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfunapp.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014045928id_/https%3A//bestfunapp.com/privacy.php) for the most accurate reproduction.*
 
-# Terms & Conditions - Hot Fun Apps on Facebook
+# Terms & Conditions - Best Fun Apps on Facebook
 
-## Hot Fun Apps - Privacy Policy
+## Best Fun Apps - Privacy Policy
 
   
 
 
-The text below shows Privacy Policy for the Apps that you use on Hot Fun Apps. This privacy policy sets out how Hot Fun Apps uses and protects any information that you give for Hot Fun Apps Applications when you use them. Hot Fun Apps is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
+The text below shows Privacy Policy for the Apps that you use on Best Fun Apps. This privacy policy sets out how Best Fun Apps uses and protects any information that you give for Best Fun Apps Applications when you use them. Best Fun Apps is committed to ensuring that your privacy is protected. When we ask you to provide certain information while authenticating the app and issuing certain permission by which you can be identified while using Applications, then you can be assured that it will only be used in accordance with this privacy statement. 
 
 HotFunApps may change this policy from time to time by updating this section. This privacy policy was last updated on 2nd June 2013. If we make any material changes to our policies, then we will either put message on our website or you need to check this section in order to comply with our policies. 
 
@@ -43,7 +43,7 @@ We ensures at it best to keep your information secure. The use of this informati
 #### _Do we disclose any information to outside parties?_
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. None of your informations are stored in our database.   
-Hot Fun Apps will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy.  
+Best Fun Apps will not be responsible for any illegal activities on facebook. We never upload any data to facebook. By using our site, you consent to our privacy policy.  
 
 ####  _3rd Party Advertisements and their Cookies:_
 
@@ -69,6 +69,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 If you have any questions regarding privacy policy or queries please contact us via email at playadda@gmail.com  
 
-#####  **Last Updated: 21st January 2016**
+#####  **Last Updated: 21st March 2016**
 
  
