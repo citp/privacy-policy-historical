@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317060221id_/https%3A//www.thomasville.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014122425id_/https%3A//www.thomasville.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Thomasville
 
 Effective Date: January 2014
 
