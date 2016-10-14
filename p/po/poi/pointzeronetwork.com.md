@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointzeronetwork.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611074349id_/http%3A//funny-animals-videos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointzeronetwork.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014165343id_/http%3A//funny-animals-videos.com/privacy) for the most accurate reproduction.*
 
 # Funny Animal Videos
 
