@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allwhois.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402211931id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwhois.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014130121id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # MarkMonitor | Legal - Privacy Policy
 
 #### Privacy Statement
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web Site located at [www.markmonitor.com](https://web.archive.org/index.php) (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+This Privacy Statement relates to the online information collection and use practices of our Web Site located at [www.markmonitor.com](https://web.archive.org/index.php) and our MarkMonitor Mobile App (together the "Web Site"), and not to any subdomains of our Web Site. We recognize that many visitors and users of the Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
 Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [privacy.inquiries@markmonitor.com](mailto:privacy.inquiries@markmonitor.com).
 
