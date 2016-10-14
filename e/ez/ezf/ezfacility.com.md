@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezfacility.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314211218id_/https%3A//www.ezfacility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezfacility.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014191028id_/https%3A//www.ezfacility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EZFacility
 
@@ -12,7 +12,7 @@ EZFacility complies with the U.S. – E.U. Safe Harbor Framework as set forth by
 
 EZFacility has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software.
 
-The TRUSTe program covers only information that is collected through this Web site, [www.ezfacility.com](http://www.ezfacility.com/) and does not cover information that may be collected through our [mobile applications] [social networking applications] [behind the log in on our website].
+The TRUSTe program covers only information that is collected through this Web site, [www.ezfacility.com](http://www.ezfacility.com/) and does not cover information that may be collected through our mobile applications and behind the log in on our website.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -30,15 +30,17 @@ We may also post links to third party websites as a service to you. These third 
 
 We use the information we collect to provide you with services which you request and to improve our existing services and the content of our Site. When you contact us, we may keep a record of your communication to help solve any issues that you might be facing. Your information may be retained for a reasonable time for use in future contact with you, or for future improvements to our services. You have the option to opt-out or opt-in for further communications from us.
 
-We may also use or disclose your personal information when we believe, in good faith, that such use or disclosure is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect our rights, property or safety, or the rights, property or safety of our users, or others. We reserve the right to transfer and disclose your information if we become involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of our business.
+We may also use or disclose your personal information when we believe, in good faith, that such use or disclosure is reasonably necessary to (i) comply with a subpoena, bankruptcy proceedings, or similar legal process as required by law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect our rights, property or safety, or the rights, property or safety of our users, or others. We reserve the right to transfer and disclose your information if we become involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of our business.
 
 In certain cases, we also operate as an information processor for our business customers. Our business customers remain the information controllers with respect to any customer information that they provide to us for our provision of services. We therefore act in accordance with the instructions of such customers regarding the collection, processing, storage, deletion and transfer of customer information, as well as other matters such as the provision of access to and rectification of customer information.
+
+ If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [info@ezfacility.com](mailto:info@ezfacility.com). 
 
 We do not sell our services to children. As such, our Sites are designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13.
 
 ### Web User Tracking – Use of Cookies, IP Addresses and Aggregate Information
 
-Cookies are a technology that can be used to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable us to assess the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information such as pages viewed by you, your domain names and similar information. Our Site makes use of anonymous cookies for the purposes of:
+We and our partners use cookies or similar technologies to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable us to assess the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information such as pages viewed by you, your domain names and similar information. Our Site makes use of anonymous cookies for the purposes of:
 
   * Completion and support of Site activity;
   * Site and system administration;
@@ -46,6 +48,8 @@ Cookies are a technology that can be used to help personalize your use of a webs
   * Anonymous user analysis, user profiling, and decision-making.
 
 
+
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/)  (or if located in the European Union, [click here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads. You will continue to receive generic ads
 
 An Internet Protocol (“IP”) address is associated with your computer’s connection to the internet. We may use your IP address to help diagnose problems with our server, to administer the Site and to maintain contact with you as you navigate through the Site. Your computer’s IP address also may be used to provide you with information based upon your navigation through the Site.
 
@@ -77,7 +81,7 @@ We regularly review our compliance with our privacy policy. We also adhere to se
 
 ### Accessing and Updating Your Personal Information
 
-If you have provided us with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. We will make a reasonable effort to comply with such requests except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to the Privacy Contact identified below to review any personal information held about you.
+If you have provided us with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. We will make a reasonable effort to comply with such requests within 10 to 15 business except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to the Privacy Contact identified below to review any personal information held about you.
 
 ### Social Media and Online Engagement
 
@@ -97,4 +101,4 @@ We may change this privacy policy from time to time. If this privacy policy chan
 
 Questions regarding this privacy policy should be directed to our Customer Success team at 67 Froehlich Farm Blvd., Woodbury, NY 11797; telephone 1.866.498.3279; e-mail [info@ezfacility.com](mailto:info@ezfacility.com).
 
-### LAST UPDATED: May, 2015
+### LAST UPDATED: March 25, 2016
