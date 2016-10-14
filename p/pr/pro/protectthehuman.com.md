@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectthehuman.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510212114id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectthehuman.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014225106id_/https%3A//www.amnesty.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Amnesty International UK
 
@@ -90,8 +90,6 @@ We may from time to time operate an 'Invite a friend' or similar service.  This
 
 We may provide links to other websites.  Before supplying any personal information to any other website, we recommend that you check that website's Privacy Policy. We do not accept responsibility for the protection of any data supplied to other sites. 
 
-##  13\. Cookies
-
 13.1 What is a cookie?
 
 A cookie is a small text file, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. There are various types of cookies which perform different functions, such as remembering which items you have placed in your shopping basket or recording your browsing habits. The information recorded by the cookie is retrieved on the user's next visit to the site.
@@ -182,9 +180,9 @@ Most web browsers will accept cookies, but if you would rather that we did not c
 
 3\. Select the 'Never Ask' option  
   
-If your browser isn't shown above, please visit www.aboutcookies.org. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or visit www.aboutcookies.org
+If your browser isn't shown above, please visit [www.aboutcookies.org](http://www.aboutcookies.org/). If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies or [visit www.aboutcookies.org](http://www.aboutcookies.org/)
 
-13.3 How does we use cookies?
+13.3 How do we use cookies?
 
 On our websites, cookies record information about your online preferences, remember information about you when you visit our site and compile statistical reports on website activity. Some cookies are used that are essential in order to provide our services to you.
 
