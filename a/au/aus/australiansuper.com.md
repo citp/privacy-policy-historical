@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323015710id_/https%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014104618id_/https%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AustralianSuper - Privacy Policy
 
@@ -16,7 +16,7 @@ In some situations we may collect information about your health, including medic
 
 ## 3\. How does AustralianSuper collect and hold personal information?
 
-Personal information is generally collected directly from you or through your employer, adviser, previous superannuation fund, or other representative authorised by you.
+Personal information is generally collected directly from you or through your employer, adviser, previous superannuation fund, or other representative authorised by you. Our [Privacy Collection Statement](https://web.archive.org/privacy-collection-statement.aspx) can be read here.
 
 Health information is collected from you or your employer, adviser, other insurer, or other representative authorised by you and is provided to us or to our insurers. If required, we obtain independent medical reports directly from your medical practitioner(s).
 
@@ -37,6 +37,8 @@ Once your details have been recorded by our administrator, your original applica
 
 Within AustralianSuper and our administrator, access to your information is restricted to staff who require the information to administer your account and provide information and services to you. A system of passwords and different levels of access is used to protect the information held on the system.
 
+You may choose to remain anonymous or use a pseudonym when interacting with AustralianSuper, unless it is impracticable for AustralianSuper to deal with you without you identifying yourself.
+
 ## 4\. What are the purposes for which AustralianSuper collects, holds, uses and discloses personal information?
 
 The personal information we collect will be used by AustralianSuper and its staff to:
@@ -55,7 +57,7 @@ The personal information we collect will be used by AustralianSuper and its staf
 
 For employment candidates, AustralianSuper collects your personal information for recruitment purposes, to manage your employment application and, if you are successfully placed in a position at AustralianSuper, your ongoing employment. 
 
-If AustralianSuper can’t collect your personal information from you it will be difficult to perform the activities listed above.
+If AustralianSuper can’t collect your personal information from you it may be difficult to perform the activities listed above.
 
 If you submit incomplete or inaccurate information to our insurers, they may not be able to provide you with the insurance cover you are seeking, or complete their assessment of your insurance-related matters.
 
@@ -96,14 +98,16 @@ For employment candidates, AustralianSuper may disclose your personal informatio
 
 ## 7\. Is AustralianSuper likely to disclose personal information to overseas recipients?
 
-Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in Superpartners’ privacy policy at [](http://www.linkgroup.com/privacy.html "Opens in new window")[www.superpartners.com.au/privacy](http://www.superpartners.com.au/privacy)). Your personal information may be accessed by those service providers.
+Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in our administrator’s privacy policy at <http://linkgroup.com/docs/Link_Group_Privacy_Policy.pdf>). Your personal information may be accessed by those service providers.
 
 Other instances where your personal information may be accessed by an Australian service provider that sub-contracts certain services overseas, or by an overseas service provider include:
 
   * to deliver some emails, provide a "click to chat" service on our website, and manage our educational events – only required details will be shared with service providers in the USA 
   * to administer the Member Direct investment option. Some of these services are provided on behalf of UBS Securities Australia Limited (UBS) out of New Zealand and the Czech Republic 
   * where you request financial planning advice from Mercer Financial Advice (Australia) Pty Ltd –certain services are provided by Mercer’s related entity on behalf of Mercer out of overseas countries. A list of countries can be found in Mercer’s privacy policy at [www.mercer.com.au](http://www.mercer.com.au/ "Opens in new window")
-  * where you join our AustralianSuper online member panel to provide us with feedback, this service is hosted in Canada 
+  * where you join our AustralianSuper online member panel to provide us with feedback, this service is hosted in Canada
+  * where, following an interaction that you have had with us, we send you a text message or email asking to you to participate in a survey designed to help us improve the services we offer you. Your personal information, including your name, email address and phone number will be provided to our service provider to facilitate this survey. Our service provider operates out of Canada and the UK
+  * to maintain our Governance Risk and Compliance system (GRC), which may include some of your personal information. The GRC is licensed to us by a USA based vendor that provides support services to AustralianSuper out of various overseas locations including USA, Canada, UK, India, China, Japan and the Philippines
   * our auditors KPMG, PwC and EY may disclose limited personal information to their overseas related entities. A list of countries can be found in their respective privacy policies: 
 
 
@@ -147,7 +151,7 @@ Our website may also contain links to the websites of our third party providers 
 
 ## 10\. How will AustralianSuper communicate changes to its Privacy Policy or Privacy Collection Statement?
 
-AustralianSuper may change its privacy policy and privacy collection statement from time to time. We will post any changes on the relevant pages.
+AustralianSuper may change its privacy policy and privacy collection statement from time to time. We will post any changes on the relevant pages of the AustralianSuper website (www.australiansuper.com).
 
 ## 11\. How can you access and seek correction of your personal information and lodge privacy complaints?
 
@@ -170,7 +174,7 @@ If we are unable to provide you with access to your personal information, we wil
 
 If we incur a cost in giving you access to your personal information, we may need to charge you for the associated cost(s).
 
-If you would like to see the personal information we hold about you and have it corrected if necessary, please call AustralianSuper on 1300 300 273.
+If you would like to see the personal information we hold about you and have it corrected if necessary, please call us on 1300 300 273.
 
 If you believe your privacy has been breached or you have a privacy complaint, you should write to:
 
@@ -185,4 +189,4 @@ We will review your complaint and respond within a reasonable period of time aft
 
 If you are not satisfied with the resolution of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/ "Opens in new window").
 
-Document last updated on: 30 March 2015
+Document last updated on: 13 September 2016
