@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609211625id_/https%3A//takelessons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014205538id_/https%3A//takelessons.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TakeLessons
 
@@ -112,7 +112,7 @@ California’s “Shine the Light” law permits California residents to annuall
 
 We are committed to handling your customer information with high standards of information security. Your credit card information is stored only in encrypted form and processed using a secured order server with Secure Socket Layer (SSL) technology through use of a third party payment processor. We restrict access to your personally identifiable information only to employees or agents who need to know that information in order to provide products or services to you. While we make every effort to ensure the integrity and security of our network and systems, and those of our affiliates and agents, but we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
 
-If you to prefer to place your order by telephone, you can call us during normal business hours at 619-858-2200 with your credit card and billing information. 
+If you to prefer to place your order by telephone, you can call us during normal business hours at 619-560-5693 with your credit card and billing information. 
 
 #### B. What is your Credit Card Fraud Policy?
 
