@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagetiger.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322024206id_/http%3A//www.pagetiger.com/cms/terms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagetiger.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014220429id_/http%3A//www.pagetiger.com/cms/terms/privacypolicy) for the most accurate reproduction.*
 
 # PageTiger - Powerful Online Publishing
 
