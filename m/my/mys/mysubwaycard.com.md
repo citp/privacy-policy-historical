@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531211557id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014063009id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
 
 # My SUBWAY® Card | Privacy Policy
 
