@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmu.ac.in privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429100456id_/http%3A//nmu.ac.in/Home/tabid/77/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmu.ac.in privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014165145id_/http%3A//nmu.ac.in/Home/tabid/77/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # North Maharashtra University, Jalgaon > Home
 
