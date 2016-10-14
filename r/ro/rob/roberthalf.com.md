@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalf.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513052442id_/https%3A//www.roberthalf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014152701id_/http%3A//www.roberthalf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Robert Half
 
