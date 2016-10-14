@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611104506id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014093150id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marden-Kane
 
-Marden-Kane, Inc. (“Marden-Kane”, “We”, “Us”) and its wholly-owned subsidiaries have created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website, www.mardenkane.com and for our company in serving our clients. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+Marden-Kane, Inc. and its wholly-owned subsidiary, Bolt Apps (“Marden-Kane”, “We”, “Us”) have created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website, www.mardenkane.com and for our company in serving our clients. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [expert@mardenkane.com](mailto:expert@mardenkane.com). 
 
-Marden-Kane, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Marden-Kane plans to become compliant with the EU-US Privacy Shield program once in place. Marden-Kane, Inc. has certified that it adheres to best practices of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and the transition to Privacy Shield, please visit <http://www.export.gov/safeharbor/>.
+Marden-Kane, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Marden-Kane Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the EU-US Privacy Shield Principles, Marden-Kane, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Marden-Kane, Inc.at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
+
+The Federal Trade Commission has jurisdiction over Marden-Kane, Inc.’s compliance with the Privacy Shield. 
+
+Marden-Kane, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
+
+Under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel.
 
 **Marden-Kane Promotions**
 
@@ -14,7 +22,7 @@ As a full service promotional marketing agency, Marden-Kane operates Promotions 
 
 **Information Collection and Use**
 
-Visitors to our web sites and the Promotion web sites built on behalf of our clients have the option of giving us contact information and other personally identifiable information, such as their name and email address. This information is used by us to enter the visitor in a Promotion, provide information, assess the needs of a business to determine suitable products, and select and contact potential winners and other site visitors via phone, fax, email and regular mail.
+Visitors to our web sites and the Promotion web sites built on behalf of our clients have the option of giving us contact information and other personally identifiable information, such as their name, mailing address, phone number and email address. This information is used by us to enter the visitor in a Promotion, provide information, assess the needs of a business to determine suitable products, and select and contact potential winners and other site visitors via phone, fax, email and regular mail.
 
 When we receive, collect and process consumers’ personally identifiable information on behalf of our clients when we administer their promotions, we may also require sensitive information, such as social security number or date of birth. Consumers provide this information in a variety of methods, depending on the particular promotion. We only use this personally identifiable information to operate the sweepstakes or other promotion for our client, in order to select winners, award other prizes or bonuses or for the other purposes of the promotion. We do not use the information for any other purpose. We maintain the information only for so long as necessary to verify and conduct the promotion and to provide redundancy for our clients. We do not provide this information to any entity other than our client and others involved in the operation of the promotion. Our clients’ privacy policies govern the use of these data and they remain their property. Any exceptions to these procedures will be announced in the promotion for which the change is made.
 
@@ -28,19 +36,23 @@ Marden-Kane may also use cookies. A cookie is a small text file that is stored o
 
 In addition to our own methods of anonymous data collection, our clients may use other types of tracking technologies. Unless otherwise stated, the use of cookies and other tracking technologies by our clients for the purpose of administering a promotion is not covered by our privacy policy. We do not have access or control over these cookies.
 
-**Sharing your Information**
+**Onward Transfers**
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
+We will only transfer your personal information to third parties as set forth herein. We shall ensure that any third party for which Personal Information may be disclosed subscribes to the Privacy Shield Principles or are subject to law providing the same level of privacy protection as is required by the Privacy Shield Principles and agree in writing to provide an adequate level of privacy protection.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+We do not sell your personal information to third parties.
 
-We may also disclose your personal information: as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; to any other third party with your prior consent to do so. If Marden-Kane is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+Please note that Marden-Kane is obliged to disclose personal information in response to lawful requests by public authorities.
+
+If Marden-Kane is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+In cases of onward transfers of Privacy Shield data to third parties, Marden-Kane is potentially liable.
 
 **Access and Choices Regarding Your Data**
 
 Upon request you may view and have inaccuracies corrected in contact information or other personally identifiable information, by sending us an e-mail to [expert@mardenkane.com](mailto:expert@mardenkane.com) with “Contact Correction” written in the subject line and the correct information written in the body of the email, or you may mail us your request to the address below. We will respond to your request to access within 30 days.
 
-If you have provided us with contact information or other personally identifiable information and do not want to receive e-mail from Marden-Kane in the future and wish to delete such information, please let us know by sending an e-mail to [expert@mardenkane.com](mailto:expert@mardenkane.com) with “Remove from List” written in the subject line, or you may mail us your request to the address below.
+If you have provided us with contact information or other personally identifiable information and do not want to receive e-mail from Marden-Kane in the future or wish to delete such information, please let us know by sending an e-mail to [expert@mardenkane.com](mailto:expert@mardenkane.com) with “Remove from List” written in the subject line, or you may mail us your request to the address below.
 
 When you provide personal information to us through our website, we will retain your information as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -87,4 +99,4 @@ Phone: 516.365.3999
 
 We can be reached via e-mail at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
 
-Last revised on May 31, 2016
+Last revised on July 29, 2016
