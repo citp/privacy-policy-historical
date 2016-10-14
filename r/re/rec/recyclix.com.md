@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recyclix.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325195726id_/https%3A//recyclix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recyclix.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014101635id_/https%3A//recyclix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,3 +69,5 @@ The User is asked to provide certain information upon registration, including hi
 ## X. Additional information
 
 1\. If you have any questions or issues associated with this Privacy Policy, Recyclix Sp.z o.o. asks you to get in touch with it using the email address located on the contacts page on the Website.
+
+This site require cookies to work, [learn more](https://web.archive.org/cookies/). By visiting it you agree with our use of cookies. __  I Agree
