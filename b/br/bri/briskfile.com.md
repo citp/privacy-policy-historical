@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briskfile.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612184326id_/http%3A//www.briskfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskfile.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014173315id_/http%3A//www.briskfile.com/privacy) for the most accurate reproduction.*
 
 # Briskfile - Upload, Store and Share large files
 
