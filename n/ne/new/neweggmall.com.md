@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the neweggmall.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530032629id_/http%3A//kb.newegg.com/Policies/Article/1166) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggmall.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014020305id_/https%3A//kb.newegg.com/Article/Index/12/3%3Fid%3D1166) for the most accurate reproduction.*
 
-# Newegg.com - [Privacy Policy]
+# Privacy Policy
 
-﻿
-
-## __Privacy Policy
+#tools# 
 
 ### Information Collection and Use
 
@@ -90,7 +88,7 @@ To honor the privacy of our users, we offer the option to not receive these type
 
 ### Correction/Updating/Reviewing Personal Information
 
-Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](http://kb.newegg.com/) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance.
+Customers may change or review their stored account information such as street address or e-mail address through our website by visiting our [Help](https://kb.newegg.com/) section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance.
 
 ### Choice/Opt-out
 
@@ -112,4 +110,6 @@ Newegg.com
 9997 Rose Hills Road  
 Whittier, CA 90601
 
- 
+  
+
+#helpful# 
