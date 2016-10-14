@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-proxy.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327004448id_/http%3A//free-proxy.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-proxy.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014174327id_/http%3A//free-proxy.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -390,4 +390,4 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 |  | 
 
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 3, 1 Buckingham St, Surry Hills, NSW 2010. 
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 2, 63 Miller Street, Pyrmont, NSW 2009. 
