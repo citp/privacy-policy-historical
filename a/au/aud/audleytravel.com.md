@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audleytravel.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403181033id_/https%3A//www.audleytravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audleytravel.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014150219id_/https%3A//www.audleytravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audley Travel
 
