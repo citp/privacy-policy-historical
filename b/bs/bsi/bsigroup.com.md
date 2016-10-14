@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504001920id_/http%3A//www.bsigroup.com/en-GB/about-bsi/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014134320id_/http%3A//www.bsigroup.com/en-GB/about-bsi/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BSI Group
 
@@ -43,7 +43,7 @@ Although we will do all that we reasonably can to ensure that availability of ou
 
 When you visit the BSI website to browse information that it contains, you do so anonymously unless you choose to provide us with information about yourself. If you do nothing during your visit but browse through the web site - reading pages, viewing images, for example - we will gather and store certain information about your visit automatically. This information does not identify you personally.
 
-Information gathered automatically is used for only two purposes: site management and, in the case of suspected unauthorised activity, for law enforcement and possible criminal prosecution (see Your Use of the BSI Website in our [Terms and Conditions](https://web.archive.org/en-GB/about-bsi/legal/privacy-policy/).
+Information gathered automatically is used for only two purposes: site management and, in the case of suspected unauthorised activity, for law enforcement and possible criminal prosecution (see Your Use of the BSI Website in our [Terms and Conditions](https://web.archive.org/en-GB/about-bsi/legal/terms-and-conditions/).)
 
 The BSI website automatically logs visitor information from which summary statistics are created. We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most interest to visitors, as well as for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
 
@@ -54,13 +54,14 @@ The following are representative of the types of information automatically colle
   * the date and time of your visit;
   * the pages you visit on our website;
   * if you linked to our website from another one, the address of the other website; 
-  * and, if you linked to our website from a search website, the address of that website and the search term you used.
+  * if you linked to our website from a search website, the address of that website and the search term you used;
+  * and, mouse clicks, mouse movements and scrolling activity, keystroke information that you voluntarily enter on this website. 
 
 
 
 ## **Shared Information with other BSI Businesses**
 
-** ** Any information that you may provide to the British Standards division of BSI will not be shared with other BSI businesses within the BSI Group.
+Any information that you may provide to the British Standards division of BSI will not be shared with other BSI businesses within the BSI Group.
 
 Information sent to other BSI businesses may be shared with any other relevant BSI businesses in order to fulfil your information needs about products or services of those other BSI businesses in which you register an interest. Such information may include your contact details (if you have requested us to contact you in this regard).
 
