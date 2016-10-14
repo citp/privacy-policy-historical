@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torchlight2game.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610104045id_/http%3A//www.torchlight2game.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torchlight2game.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014072054id_/http%3A//www.torchlight2game.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Torchlight II | Privacy policy
 
