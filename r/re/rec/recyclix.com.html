@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recyclix.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325195726id_/https%3A//recyclix.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recyclix.com privacy policy that was archived on 2016-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161014101635id_/https%3A//recyclix.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
@@ -7,6 +7,8 @@
 		var currentUrl='/privacy/';
 		var defaultLanguage='en';
 		var isGuest=true;
+		var controller='static';
+		var action='privacy';
 	</script>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,7 +24,7 @@
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 	<link rel="stylesheet" href="/css/normalize.css">
-	<link rel="stylesheet" href="/css/main.css?v=35">
+	<link rel="stylesheet" href="/css/main.css?v=55">
 	<link rel="stylesheet" href="/css/cols.css">
 	<link rel="stylesheet" href="/css/layout.css">
 
@@ -57,7 +59,7 @@
 	<script type="text/javascript" src="/lib/tabs.js"></script>
 	<script type="text/javascript" src="/lib/chardinjs.min.js"></script>
 
-	<script type="text/javascript" src="/lib/index.js?v=26"></script>
+	<script type="text/javascript" src="/lib/index.js?v=38"></script>
 	
 	<link rel="apple-touch-icon" sizes="57x57" href="/image/icon/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/image/icon/apple-touch-icon-60x60.png">
@@ -70,12 +72,11 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="/image/icon/apple-touch-icon-180x180.png">
 	<link rel="icon" type="image/png" href="/image/icon/android-chrome-192x192.png" sizes="192x192">
 </head>
-<body>
+<body class="">
 
 <div id="page">
-	
 	<div class="header">
-		<div class="container clearfix">
+						<div class="container clearfix">
 			<div class="open-menu-btn menu-button"><a href="#menu" class="btn-toggle"></a><span class="touch-button"><i class="navicon">▼</i></span></div>
 			<div class="logo"><a href="/"></a></div>
 			<div class="menu flexnav clearfix with-js opacity lg-screen" id="menu" data-breakpoint="800">
@@ -87,19 +88,19 @@
 				<div class="dropdown lang-list">
 					EN &nbsp; <i class="fa fa-caret-down"></i>
 					<ul class="drop-list">
-													<li><a class="guest-select-language" data-language="sa" href="/sa/privacy/">اللغة العربية</a></li>
-													<li><a class="guest-select-language" data-language="cn" href="/cn/privacy/">漢語</a></li>
-													<li><a class="guest-select-language" data-language="cs" href="/cs/privacy/">Čeština</a></li>
-													<li><a class="guest-select-language" data-language="de" href="/de/privacy/">Deutschland</a></li>
-													<li><a class="guest-select-language" data-language="es" href="/es/privacy/">España</a></li>
-													<li><a class="guest-select-language" data-language="fr" href="/fr/privacy/">France</a></li>
-													<li><a class="guest-select-language" data-language="ge" href="/ge/privacy/">ქართული ენა</a></li>
-													<li><a class="guest-select-language" data-language="hu" href="/hu/privacy/">Hungarian</a></li>
-													<li><a class="guest-select-language" data-language="it" href="/it/privacy/">Italia</a></li>
-													<li><a class="guest-select-language" data-language="pl" href="/pl/privacy/">Poland</a></li>
-													<li><a class="guest-select-language" data-language="pt" href="/pt/privacy/">Portuguesa</a></li>
-													<li><a class="guest-select-language" data-language="ru" href="/ru/privacy/">Русский</a></li>
-													<li><a class="guest-select-language" data-language="tr" href="/tr/privacy/">Turkish</a></li>
+													<li><a class="guest-select-language" data-language="sa" href="#">العربية</a></li>
+													<li><a class="guest-select-language" data-language="cn" href="#">中国</a></li>
+													<li><a class="guest-select-language" data-language="cs" href="#">Česká republika</a></li>
+													<li><a class="guest-select-language" data-language="de" href="#">Germany</a></li>
+													<li><a class="guest-select-language" data-language="es" href="#">España</a></li>
+													<li><a class="guest-select-language" data-language="fr" href="#">France</a></li>
+													<li><a class="guest-select-language" data-language="ge" href="#">ქართული</a></li>
+													<li><a class="guest-select-language" data-language="hu" href="#">Magyarország</a></li>
+													<li><a class="guest-select-language" data-language="pl" href="#">Polska</a></li>
+													<li><a class="guest-select-language" data-language="pt" href="#">Portugal</a></li>
+													<li><a class="guest-select-language" data-language="ru" href="#">Россия</a></li>
+													<li><a class="guest-select-language" data-language="tr" href="#">Türkiye</a></li>
+													<li><a class="guest-select-language" data-language="nl" href="#">Nederlands</a></li>
 											</ul>
 				</div>
 				<ul>
@@ -155,6 +156,9 @@
 			
 				</div>
 			</div>
+		<div id="cookie_message" style="display: block;">
+			This site require cookies to work, <a href="/cookies/">learn more</a>.			By visiting it you agree with our use of cookies.			<a href="#" class="btn btn-green" onclick="set_eu_cookie_ok_and_close(); return false;"><i class="fa fa-check-square"></i> &nbsp;I Agree</a>
+		</div>
 		<div class="footer">
 	<div class="container">
 		<div class="line-9">
@@ -224,9 +228,9 @@
 									</div>
 				<div class="col span_1_of_3 contact-us">
 					<h3>Contact us</h3>
-					<p>Poligonowa 28, 18-400 Lomza, Polska</p>
-					<p>KRS: 0000533282 REGON: 360290387 NIP: 5272725464</p>
-					<p>Tel: +48 662-862-010</p>
+											<p>Poligonowa 28 A, 18-400 Lomza, Polska</p>
+						<p>KRS: 0000533282 REGON: 360290387 NIP: 5272725464</p>
+										<p>Tel: +48 662-862-010</p>
 					<p>E-mail: info@recyclix.com</p>
 				</div>
 			</div>
@@ -234,7 +238,8 @@
 		<div class="clearfix">
 			<p class="text-center copyright">
 				<span class="pay-logos"><img src="/image/design/cards.png" width="150" height="39" alt="Verified by Visa and Mastercard"></span>
-				© 2015-2016	 <a href="/"> Recyclix sp. z o.o.</a> All rights reserved.				<!--2016-03-25 20:57:26, 0.0070397853851318, country: US-->
+				© 2015-2016	 <a href="/">Recyclix sp. z o.o.</a> All rights reserved.<br>
+				<!--2016-10-14 12:16:38, 0.013353109359741, country: US-->
 			</p>
 		</div>
 	</div>
