@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigrock.in privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055207id_/http%3A//www.bigrock.in/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigrock.in privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014104015id_/http%3A//www.bigrock.in/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BigRock
 
