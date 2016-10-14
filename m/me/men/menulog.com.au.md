@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601054204id_/https%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015001127id_/https%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
 
 # Privacy - Menulog
 
