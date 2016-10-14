@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418120034id_/https%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014170015id_/https%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
 
 # REEDS Jewelers Privacy Policy | REEDS Jewelers
 
@@ -9,33 +9,6 @@ Your privacy is important to us. To best serve your shopping needs, we strive to
 REEDS Jewelers, Inc. and our brands which include but are not limited to stores operating under the name REEDS Jewelers, Jewelers Wife, and other websites and stores owned and operated by REEDS Jewelers Inc. (collectively "REEDS Jewelers"), offer customer-friendly policies designed to afford you a secure and safe shopping experience. The websites owned and operated by REEDS Jewelers include but are not limited to REEDS.com and JewelersWife.com (collectively the "Sites").
 
 ## Our Privacy Policy addresses the following questions:
-
-  * Who is REEDS Jewelers?
-  * What information does REEDS Jewelers collect?
-  * How does REEDS Jewelers use the information collected?
-  * What information does REEDS Jewelers share with others?
-  * Does REEDS Jewelers use third-party advertising?
-  * How can I access and correct information collected from me?
-  * How can I opt out of receiving further communications from REEDS Jewelers?
-    * How to be removed from the REEDS Jewelers Paper Catalog Mailing List
-    * How to unsubscribe from the REEDS Jewelers email Marketing List 
-  * Are REEDS Jewelers credit cards available?
-  * Does REEDS Jewelers send unsolicited promotional emails?
-  * How does REEDS Jewelers safeguard the information collected?
-  * Is my online transaction secure?
-  * Does REEDS Jewelers use cookies?
-  * Does REEDS Jewelers aggregate information?
-  * What is the REEDS Jewelers policy with respect to data collection from children?
-  * What is REEDS Jewelers Mobile Privacy Policy?
-  * Does REEDS Jewelers use Social Media Plug-ins?
-  * Is it safe to click on Links to Other Websites and Services?
-  * Does REEDS Jewelers recognize “Browser Do Not Track Signals”?
-  * Whom do I contact if I have additional questions or concerns about this policy?
-  * What happens to my information if REEDS is sold?
-  * Will the REEDS Jewelers Privacy Policy ever change?
-  * How can I opt-out of 3rd party tracking?
-
-
 
 ### Who is REEDS Jewelers?
 
