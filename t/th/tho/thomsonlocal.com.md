@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528235024id_/http%3A//www.thomsonlocal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014201404id_/http%3A//www.thomsonlocal.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - thomsonlocal.com
 
@@ -48,7 +48,7 @@ These third party functions and their associated privacy policies are:
   * time spent on our webpage; 
   * the address of the site which referred you to our site. 
   * The partners we work with for these services along with their full privacy statements can be found at : <http://www.captify.co.uk/privacy.php>
-  * You may refuse to accept or delete cookies by activating the setting on your browser which allows you to refuse the setting of and/or delete cookies (for guidance on how to do this visit <http://www.aboutcookies.org/>). However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+  * You may refuse to accept or delete cookies by activating the setting on your browser which allows you to refuse the setting of and/or delete cookies (for guidance on how to do this visit <http://www.aboutcookies.org/>). However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
   * Please note that our advertisers may also use cookies, over which we have no control. 
 
 
@@ -69,7 +69,7 @@ We use information held about you in the following ways:
 
 
 
-When contacting you for the above purposes, unless you tell us otherwise we may do so by phone, post, email, text message or any other way (electronic or otherwise). If you do not want us to use your data in this way, please send us an email at [optmeout@thomsonlocal.com](mailto:OptMeOut@thomsonlocal.com) or contact our customer services team using the address or telephone number below
+When contacting you for the above purposes, unless you tell us otherwise we may do so by phone, post, email, text message or any other way (electronic or otherwise). If you do not want us to use your data in this way, please send us an email at [optmeout@thomsonlocal.com](mailto:OptMeOut@thomsonlocal.com) or contact our customer services team using the address or telephone number below 
 
 Customer Services 
 
@@ -81,7 +81,7 @@ Farnborough, Hampshire, GU14 6FE
 
 Tel: 01252 555555 
 
-We may also permit selected third parties to use your data to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone or, if you have consented, by electronic means. If you do not want your data used by third parties in this way, please send us an email at [OptMeOut3rdParty@thomsonlocal.com](mailto:OptMeOut3rdParty@thomsonlocal.com) or contact our customer services team using the address or telephone number above.
+We may also permit selected providers of business to business goods and services relevant to your line of business to use your data to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone, email or SMS.. If you do not want your data used in this way, please send us an email at [OptMeOut3rdParty@thomsonlocal.com](mailto:OptMeOut3rdParty@thomsonlocal.com) or contact our customer services team using the address or telephone number above. 
 
 ## Other Sites
 
@@ -93,6 +93,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ##  Contact 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@thomsonlocal.com](mailto:info@thomsonlocal.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@thomsonlocal.com](mailto:info@thomsonlocal.com). 
 
 14.04.2014 
