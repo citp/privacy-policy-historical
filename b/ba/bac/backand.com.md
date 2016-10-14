@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backand.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318015350id_/https%3A//www.backand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backand.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014100145id_/https%3A//www.backand.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Back&
 
