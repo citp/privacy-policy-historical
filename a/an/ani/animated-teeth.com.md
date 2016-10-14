@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animated-teeth.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/reference/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animated-teeth.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014223446id_/http%3A//www.animated-teeth.com/reference/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Animated-Teeth.com and its owner WMDS, Inc.
 
@@ -44,13 +44,15 @@ The type of information that cookies document can include factors such as your I
 
 You can chose to disable or selectively turn off cookies in your browser settings, or by managing your web preferences in programs such as Norton Internet Security. However, doing so may affect how you are able to interact with our site. Site visitors may explore their options for opting out of the use of cookies by our website advertisers by visiting: 1) [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) web page. 2) [Media.net privacy policy](http://www.media.net/privacy-policy) web page.
 
-For information about how third parties we have partnered with might utilize cookies when you visit our site, please use the links below.
+For information about how third parties we have partnered with might utilize cookies when you visit our site, or leave our site and visit theirs, please use the links below.
 
 Privacy Statements of Animated-Teeth.com's partners:
 
 > [Google.com](http://www.google.com/privacy.html)
 >     Use the link above.
 > [Media.net](http://www.media.net/privacy-policy)
+>     Use the link above.
+> [Walmart.com](http://corporate.walmart.com/privacy-security)
 >     Use the link above.
 > [JustAnswer.com](http://www.justanswer.com/privacy.aspx)
 >     Use the link above.
@@ -87,12 +89,12 @@ If users of Animated-Teeth.com have any questions or suggestions regarding our p
 > (573) 875-2146  
 > 
 
-[Contact policy.](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/reference/comments.htm)
+[Contact policy.](https://web.archive.org/web/20161014223446id_/http%3A//www.animated-teeth.com/reference/comments.htm)
 
 ##### Email contact:
 
-> This link will direct you to our [general contact email address.](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/reference/comments.htm)
+> This link will direct you to our [general contact email address.](https://web.archive.org/web/20161014223446id_/http%3A//www.animated-teeth.com/reference/comments.htm)
 
 (September 21, 2015)
 
-[](https://web.archive.org/web/20160324221837id_/http%3A//www.animated-teeth.com/site-search.htm)
+[](https://web.archive.org/web/20161014223446id_/http%3A//www.animated-teeth.com/site-search.htm)
