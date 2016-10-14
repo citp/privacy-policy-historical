@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduperiod.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429182332id_/http%3A//www.eduperiod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduperiod.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014041203id_/http%3A//www.eduperiod.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
