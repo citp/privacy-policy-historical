@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopbeauty.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502095032id_/http%3A//hotpopbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopbeauty.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014113745id_/http%3A//hotpopbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Beauty
 
