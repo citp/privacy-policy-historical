@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolmatchpro.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615201258id_/http%3A//www.schoolmatchpro.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmatchpro.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014231713id_/http%3A//schoolmatchpro.com/privacypolicy) for the most accurate reproduction.*
 
 # 
 
