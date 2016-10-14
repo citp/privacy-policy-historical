@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templeofthesun.com.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630235445id_/http%3A//templeofthesun.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templeofthesun.com.au privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014192648id_/http%3A//templeofthesun.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
