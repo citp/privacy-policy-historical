@@ -1,42 +1,6 @@
-> *The following text is extracted and transformed from the andrewkelsall.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624070655id_/http%3A//www.andrewkelsall.com/andrew-kelsall-design-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewkelsall.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015100411id_/http%3A//www.andrewkelsall.com/andrew-kelsall-design-privacy-policy) for the most accurate reproduction.*
 
 # Andrew Kelsall Design Privacy Policy
-
-## Andrew Kelsall Design Privacy Policy
-
-## Notice about Cookies on Andrew Kelsall Design
-
-The Privacy Policy is located further down this page.
-
-### This site uses Cookies: What are they?
-
-“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website.
-
-### How does Andrew Kelsall Design use Cookies?
-
-Cookies allow us to provide you with a more personal and interactive experience on our websites.
-
-Andrew Kelsall Design does use persistent cookies, which stay on your computer or mobile media device even after you have gone offline.
-
-Andrew Kelsall Design will use different types of cookies at various different pages of your use of our websites, these types of cookies include:
-
-### Essential Cookies
-
-These cookies are essential to the running Andrew Kelsall Design, such as Session cookies, which enable you to carry out some essential functions on this website like maintaining login details for the session or a transaction. The Session cookies are not stored on your computer and will expire when you close your web browser session.
-
-### 3rd Party Advertising Cookies
-
-Many of our websites carry advertising. A certain amount of this advertising is tailored to the individual user. This “onsite behavioural targeting” uses cookies to discover general information about the pages you visit. The tracking system is anonymised and therefore it does not know who you are; it simply uses the limited information available to it to serve adverts to you, which it believes are relevant.
-
-### Tracking/User Analysis Cookies
-
-Many of our websites also use cookies to track how many individual unique users we have and how often they visit Bauer Media’s websites. We use 3rd party companies for this service such as Google Analytics provided by Google.
-
-### What to do if you want to control the use of Cookies?
-
-You have the ability to accept or decline cookies using your web browser, but please be aware that for some parts of our websites to work you will need to accept cookies. Cookies can be removed or declined by changing your web browser settings. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/). Please be aware that this is 3rd party website and as such Andrew Kelsall Design accept no liability for the instructions given on this site.
-
-———————————————-
 
 ## Privacy Policy
 
@@ -79,11 +43,36 @@ Please[ contact me for my address](http://www.andrewkelsall.com/contact/).
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
 
-  
+——————-
 
+## Notice about Cookies on Andrew Kelsall Design
 
-* * *
+The Privacy Policy is located further down this page.
 
-Here's a Selection of my Blog Posts:
+### This site uses Cookies: What are they?
 
-These are some of the most popular articles here on Andrew Kelsall Design. Take a look...
+“Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website.
+
+### How does Andrew Kelsall Design use Cookies?
+
+Cookies allow us to provide you with a more personal and interactive experience on our websites.
+
+Andrew Kelsall Design does use persistent cookies, which stay on your computer or mobile media device even after you have gone offline.
+
+Andrew Kelsall Design will use different types of cookies at various different pages of your use of our websites, these types of cookies include:
+
+### Essential Cookies
+
+These cookies are essential to the running Andrew Kelsall Design, such as Session cookies, which enable you to carry out some essential functions on this website like maintaining login details for the session or a transaction. The Session cookies are not stored on your computer and will expire when you close your web browser session.
+
+### 3rd Party Advertising Cookies
+
+Many of our websites carry advertising. A certain amount of this advertising is tailored to the individual user. This “onsite behavioural targeting” uses cookies to discover general information about the pages you visit. The tracking system is anonymised and therefore it does not know who you are; it simply uses the limited information available to it to serve adverts to you, which it believes are relevant.
+
+### Tracking/User Analysis Cookies
+
+Many of our websites also use cookies to track how many individual unique users we have and how often they visit Bauer Media’s websites. We use 3rd party companies for this service such as Google Analytics provided by Google.
+
+### What to do if you want to control the use of Cookies?
+
+You have the ability to accept or decline cookies using your web browser, but please be aware that for some parts of our websites to work you will need to accept cookies. Cookies can be removed or declined by changing your web browser settings. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/). Please be aware that this is 3rd party website and as such Andrew Kelsall Design accept no liability for the instructions given on this site.
