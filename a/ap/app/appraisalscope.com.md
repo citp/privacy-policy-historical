@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the appraisalscope.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316012717id_/https%3A//www.appraisalscope.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appraisalscope.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015033335id_/https%3A//www.appraisalscope.com/privacy) for the most accurate reproduction.*
 
-# Terms of Use & Privacy | Appraisal Scope
-
-### Terms of Use & Privacy
+# Privacy Policy | Appraisal Scope
 
 TERMS OF USE and PRIVACY POLICY
 
@@ -179,5 +177,3 @@ To globally unsubscribe from all of our lists, send an email to
 unsubscribe@appraisalscope.com.
 
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at: info@appraisalscope.com.
-
-* * *
