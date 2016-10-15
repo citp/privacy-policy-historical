@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instascreen.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528193906id_/http%3A//www.tazworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instascreen.net privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015163158id_/https%3A//tazworks.com/privacy-policy) for the most accurate reproduction.*
 
 # TazWorks | Privacy Policy
 
