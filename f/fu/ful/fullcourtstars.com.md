@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullcourtstars.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106161607id_/http%3A//fullcourtstars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcourtstars.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015061630id_/http%3A//fullcourtstars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Fullcourstars.com
 
 **Privacy Policy**
 
@@ -33,3 +33,5 @@ If you have submitted personal information through this website and would like t
 Phoenix, AZ 85014  
 480.420.3171  
 info@FullCourtStars.com
+
+Use your ← → (arrow) keys to browse
