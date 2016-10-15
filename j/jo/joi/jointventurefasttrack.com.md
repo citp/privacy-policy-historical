@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointventurefasttrack.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525214834id_/http%3A//jointventurefasttrack.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointventurefasttrack.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015112822id_/http%3A//jointventurefasttrack.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
