@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aglr.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618063025id_/http%3A//www.aglr.com/universal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aglr.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015174112id_/http%3A//aglr.com/universal/privacy_policy.aspx) for the most accurate reproduction.*
 
 # AGL Resources - Privacy Policy
 
-[Terms of Service](https://web.archive.org/web/20160618063025id_/http%3A//www.aglr.com/universal/legal.aspx) | Privacy Policy | [Stock Quote Disclaimer](https://web.archive.org/web/20160618063025id_/http%3A//www.aglr.com/universal/disclaimer.aspx)
+[Terms of Service](https://web.archive.org/web/20161015174112id_/http%3A//aglr.com/universal/legal.aspx) | Privacy Policy | [Stock Quote Disclaimer](https://web.archive.org/web/20161015174112id_/http%3A//aglr.com/universal/disclaimer.aspx)
 
 **Privacy Policy**
 
