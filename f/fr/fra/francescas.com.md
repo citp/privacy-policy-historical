@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519093930id_/https%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015201135id_/https%3A//www.francescas.com/category/guest-services/privacy-security.do) for the most accurate reproduction.*
 
-# Privacy and Security | Guest Services francesca's
+# Privacy and Security | francesca's
 
 Revision Date: January 8, 2014
 
