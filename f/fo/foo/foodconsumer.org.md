@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodconsumer.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614205110id_/http%3A//www.foodconsumer.org/newsite/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodconsumer.org privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015082446id_/http%3A//www.foodconsumer.org/newsite/privacy.html) for the most accurate reproduction.*
 
 # foodconsumer.org - Privacy
 
