@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609170505id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016003104id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information | Thomas Cook
 
@@ -78,12 +78,12 @@ We will not pass your contact details to a third party outside of the Thomas Coo
   
  **Opting Out Of Marketing Use:**
 
-You have the right at any time to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by ticking/un-ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time  by sending an unsubscribe request to : The Data Management Department, Customer Knowledge, Thomas Cook Group UK Ltd, The Thomas Cook Business Park, Coningsby Road, Peterborough, PE3 8SB.
+You have the right at any time to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by ticking/un-ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time  by sending an unsubscribe request to : The Data Management Department, Customer Knowledge, Thomas Cook, Westpoint, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6FZ.
 
   
  **Your right to access any personal data we hold:**
 
-The Data Protection Act 1998 (the “Act”) gives you the right to check that your personal data is being processed lawfully (“subject access right”). Your subject access right can be exercised in accordance with the Act.   Any subject access request must be made in writing to: The Data Protection Manager, UK Legal & Compliance Dept., Thomas Cook Retail Ltd, The Thomas Cook Business Park, Unit 17 Coningsby Road, Peterborough, PE3 8SB, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you.
+The Data Protection Act 1998 (the “Act”) gives you the right to check that your personal data is being processed lawfully (“subject access right”). Your subject access right can be exercised in accordance with the Act.   Any subject access request must be made in writing to: The Data Protection Manager, UK Legal & Compliance Dept., Thomas Cook Retail Ltd, Thomas Cook, Westpoint, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6FZ, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you.
 
   
  **Data Security:**
