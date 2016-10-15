@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lickherz.com privacy policy that was archived on 2016-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160101191156id_/http%3A//lickherz.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lickherz.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015151315id_/http%3A//lickherz.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lickherz
 
