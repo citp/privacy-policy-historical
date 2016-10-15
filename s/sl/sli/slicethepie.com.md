@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611194934id_/http%3A//www.slicethepie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicethepie.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015113021id_/http%3A//www.slicethepie.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy policy - Slice the pie
 
 This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Slicethepie. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at [info@slicethepie.com](mailto:info@slicethepie.com). 
 
