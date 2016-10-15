@@ -1,31 +1,19 @@
-> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610081837id_/http%3A//www.nrma.com.au/help-information/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015045224id_/http%3A//www.nrma.com.au/help-information/privacy-security) for the most accurate reproduction.*
 
-# Privacy, Security & Identity Theft | NRMA Insurance
+# Privacy, security & identity theft | NRMA Insurance
 
-When we collect your personal information, our commitment to the protection and privacy of your personal information is a priority.
-
-Our **Privacy Policy** provides details about the management of your personal information including:
-
-Our **Online Privacy Statement** and our **Online Security Statement** provide further details concerning the management of your personal information online.
-
-In these documents, the terms “we”, “our” and “us” refer to Insurance Australia Limited ABN 11 000 016 722 (trading as NRMA Insurance) and its related entity Insurance Manufacturers of Australia Pty Limited ABN 93 004 208 084.
-
-If you have any questions about privacy and security, please [email us](https://web.archive.org/contact-us) or call us on [**132 132**](tel:132132) 7am-10pm, 7 days.
-
-## _ _ Read the Online Security Statement for this website
-
-Please read this statement along with our [Privacy Policy](https://web.archive.org/sites/default/files/---Documents---/NRMA-Privacy-Policy-2015-1115.pdf).
+Please read this statement along with our Privacy Policy
 
 We take the protection of your personal information very seriously, so we regularly revise and update our security measures to keep your information private and meet industry standards.  
 
 ### Steps we take to protect your information
 
-  * We encrypt your information as it travels between your computer and our computers. We use a form of Transport Layer Security (TLS) to stop anyone intercepting your information.
-  * Your personal information is stored on computer systems which are protected by a combination of firewalls, secure logon processes, encryption and intrusion monitoring technologies.
-  * We use a recognised payment service provider to process any insurance payments you make using this website. This service provider is committed to protecting your personal information on our behalf.
-  * In certain circumstances we will collect and use your IP address to protect the security of our website.
-  * We regularly test our websites and infrastructure for vulnerabilities and take action where needed.
-  * We apply security patches to software provided by vendors.
+  * We encrypt your information as it travels between your computer and our computers. We use a form of Transport Layer Security (TLS) to stop anyone intercepting your information
+  * Your personal information is stored on computer systems which are protected by a combination of firewalls, secure logon processes, encryption and intrusion monitoring technologies
+  * We use a recognised payment service provider to process any insurance payments you make using this website. This service provider is committed to protecting your personal information on our behalf
+  * In certain circumstances we will collect and use your IP address to protect the security of our website
+  * We regularly test our websites and infrastructure for vulnerabilities and take action where needed
+  * We apply security patches to software provided by vendors
 
 
 
@@ -33,35 +21,35 @@ We take the protection of your personal information very seriously, so we regula
 
 It’s still very important that you take some steps to help keep up security when you’re online:
 
-  * Protect your personal information, such as usernames, passwords and policy details, by not allowing anyone to see you entering them, and avoid public wi-fi usage.
-  * [Notify us](https://web.archive.org/contact-us) as soon as possible if you become aware of any security breaches.
-  * Use a strong password for your account. Try to think of something that is easy to remember, but hard to guess, such as a passphrase.
-  * Change your password regularly and try not to reuse the same password on more than one site.
-  * Don’t let your browser save your password for our websites.
-  * Be wary of websites, emails or phone calls that claim to be from us. Please [contact us](https://web.archive.org/contact-us) if you are unsure.
-  * Keep an eye on your accounts and check for any unauthorised transactions.
-  * Keep your devices up to date with firewall enabled, anti-malware software, anti-virus software and security updates.
+  * Protect your personal information, such as usernames, passwords and policy details, by not allowing anyone to see you entering them, and avoid public wi-fi usage
+  * Notify us as soon as possible if you become aware of any security breaches
+  * Use a strong password for your account. Try to think of something that is easy to remember, but hard to guess, such as a passphrase
+  * Change your password regularly and try not to reuse the same password on more than one site
+  * Don’t let your browser save your password for our websites
+  * Be wary of websites, emails or phone calls that claim to be from us. Please contact us if you are unsure
+  * Keep an eye on your accounts and check for any unauthorised transactions
+  * Keep your devices up to date with firewall enabled, anti-malware software, anti-virus software and security updates
 
 
 
 ### How do you make sure you’re going to the right website?
 
-Always go directly to our website by typing the address **www.nrma.com.au** rather than following links found in emails or elsewhere online.
+Always go directly to our website by typing the address  **www.nrma.com.au**  rather than following links found in emails or elsewhere online.
 
 ### Keeping safe with email
 
-  * Never disclose personal, financial or debit/credit card information by email. [Contact us](https://web.archive.org/contact-us) if you’re unsure of the legitimacy of any email that appears to have come from us.
-  * We will never ask for sensitive or personal information such as usernames, passwords or policy details if you haven’t asked for our help first.
+  * Never disclose personal, financial or debit/credit card information by email. Contact us if you’re unsure of the legitimacy of any email that appears to have come from us
+
+  * We will never ask for sensitive or personal information such as usernames, passwords or policy details if you haven’t asked for our help first
 
 
 
-By helping us with these things, we can both work to make your world a safer place. To report any concerns around the security or privacy of your information please email [cybersecurity@iag.com.au](mailto:cybersecurity@iag.com.au).
 
-Read more at [StaySmartOnline, an Australian Government online safety and security website](https://www.communications.gov.au/what-we-do/internet/stay-smart-online).
+By helping us with these things, we can both work to make your world a safer place. To report any concerns around the security or privacy of your information please email [cybersecurity@iag.com.au](mailto:cybersecurity@iag.com.au)
 
-## _ _ Read the Online Privacy Statement
+Read more at [Stay Smart Online](https://www.communications.gov.au/what-we-do/internet/stay-smart-online), an Australian Government online safety and security website.
 
-This Online Privacy Statement applies to this website, located at www.nrma.com.au, which is operated and managed by us for us and our related entities. This Online Privacy Statement supplements and should be read in conjunction with our [Privacy Policy](https://web.archive.org/sites/default/files/---Documents---/NRMA-Privacy-Policy-2015-1115.pdf).
+This Online Privacy Statement applies to this website, located at www.nrma.com.au, which is operated and managed by us for us and our related entities. This Online Privacy Statement supplements and should be read in conjunction with our Privacy Policy
 
 ### Our commitment to privacy and responsible use of your online personal information
 
@@ -87,7 +75,7 @@ We need to obtain personal information from you in order to complete your online
 
 When paying for a product or service online, we require your policy number, email address, suburb and payment details. We use a recognised payment service provider to process any insurance payments you make using this website. This service provider is committed to protecting your personal information on our behalf.
 
-### Enquiries, Emails and Email Forms
+### Enquiries, emails and email forms
 
 To send an email to us, or to make an enquiry online, you will need to complete an email form available on this website. Many of our online forms ask for a limited amount of personal information for contact purposes, such as an email address or telephone number. You have the choice of whether or not to provide additional personal information.
 
@@ -115,22 +103,16 @@ We do not sell, trade, lease or rent any personally identifiable information we 
 
 From time to time we may use independent third party suppliers to gather information using code embedded in the webpages of this website. This information includes information such as the number of users and pages viewed and the path taken through this website. We use this information for statistical and maintenance purposes. We may also use independent third party suppliers to collect information from emails you receive from us or our email providers. This information includes information such as how the email has been interacted with, and visits to other websites. We also use other external companies and may disclose your personal and non-personal information to them for the following purposes:
 
-**For web hosting services for this website**
+  * Web hosting services for this website
+  * Maintenance or problem-solving
+  * To gather information from cookies in order to evaluate the effectiveness of our online activities
 
-**For maintenance or problem-solving**
 
-**To gather information from cookies in order to evaluate the effectiveness of our online activities**
 
-### What is our privacy relationship with third party websites?
+### What's our privacy relationship with third party websites?
 
 This website includes hyperlinks to enable you to access a number of other websites by clicking on these hyperlinks we have provided. These third party websites are not subject to this Online Privacy Statement. We recommend that you read their privacy and security statements to understand how they deal with your personal information online.
 
-### This Online Privacy Statement operates from 15th May 2014
+### This Online Privacy Statement operates from 15 May 2014
 
 Due to evolving technologies and types of functionality available on this website, we encourage you to review this Online Privacy Statement from time to time as it may be updated. Your continued use of this website or the provision of further personal information to us after this Online Privacy Statement has been revised constitutes your acceptance of the revised Online Privacy Statement.
-
-Identity Theft is where a criminal is able, through deception, to obtain enough personal and information about you so as to fool organisations into believing they are dealing with their customer. This is a significant problem in Australia today and it's important to keep an eye on any policies you hold.
-
-One common signal that you are the target of identity crime is unexpected changes to your bank and insurance policies. 
-
-If you think that there's been changes to your insurance policies with us that you suspect were caused by an unauthorised person, such as the addition of new policies, or changes to your address or date of birth, please contact us on **[132 132](tel:132132)**
