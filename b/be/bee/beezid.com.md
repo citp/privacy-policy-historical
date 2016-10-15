@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422153129id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016014338id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -126,7 +126,7 @@ We may amend this Privacy Policy at any time by posting the amended terms on thi
 
 ### » Contact Us
 
-If you have any questions regarding this privacy policy you may contact us at [support@beezid.com](mailto:support@beezid.com) or 10500 Ch. de la Cote de Liesse, Suite 208, Montreal, QC, H8T 1A4, Canada.
+If you have any questions regarding this privacy policy you may contact us at [support@beezid.com](mailto:support@beezid.com) or 4480 Ch. de la Cote de Liesse, Suite 390, Montreal, QC, H4N 2R1, Canada.
 
   
 
