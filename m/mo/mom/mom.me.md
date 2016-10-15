@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624183907id_/http%3A//mom.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mom.me privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016013228id_/https%3A//mom.me/privacy-policy) for the most accurate reproduction.*
 
 # Pregnancy, Parenting, Lifestyle, Beauty: Tips & Advice | mom.me
 
