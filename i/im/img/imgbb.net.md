@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgbb.net privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328105719id_/http%3A//imgbb.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgbb.net privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015232654id_/http%3A//imgbb.net/policy) for the most accurate reproduction.*
 
 # ImgBB - Free, fast and reliable imagehost
 
