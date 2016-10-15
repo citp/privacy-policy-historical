@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319043814id_/https%3A//www.preqin.com/item/privacy-policy/103/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015143332id_/https%3A//www.preqin.com/item/privacy-policy/103/1592) for the most accurate reproduction.*
 
 # Policies - Privacy Policy - Preqin
 
