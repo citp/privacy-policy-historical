@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530063954id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016002430id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini Worldwide
 
@@ -174,9 +174,16 @@ Sensitive Personal Data
 As a general rule, Capgemini does not collect “Sensitive Personal Data” through its website. “Sensitive Personal Data” means Personal Data concerning racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, or concerning health or sex life. By volunteering unsolicited sensitive Personal Data to us (e.g., by submitting your resume or a job application online), you expressly consent to your Personal Data being used as described in this Policy.
 
 ##    
-Accessing, correcting, updating and deleting Personal Data
+Requests regarding your Personal Data: access, correction, update and deletion
 
-If you have any questions or concerns regarding this Policy, or would like to request a copy of your Personal Data, then please fill-in this [**form**](http://www.capgemini.com/events/data-privacy-policy-contact-form). Also, if you consider your Personal Data to be incorrect or wish to have it deleted, then please either sign-in and update, correct or delete your profile on our website or fill-in the form previously mentioned so that Capgemini may make any necessary updates, corrections and/or deletions.
+Subject to applicable law and certain exemptions, you may have the right to access, rectify, oppose the processing, or delete your Personal Data.
+
+In order to exercise these rights so that updates, corrections and/or deletions can be made in accordance with applicable law, you can:
+
+  * either correct or delete your profile on our website;
+  * or complete and submit this Personal Data request [form](http://www.capgemini.com/events/data-privacy-policy-contact-form).
+
+
 
 ##    
 Data security and integrity
