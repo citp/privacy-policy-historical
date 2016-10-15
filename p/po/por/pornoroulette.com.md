@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornoroulette.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616012759id_/http%3A//pornoroulette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornoroulette.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015064009id_/http%3A//pornoroulette.com/privacy) for the most accurate reproduction.*
 
 # PornoRoulette Privacy Policy
 
