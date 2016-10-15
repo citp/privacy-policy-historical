@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401235950id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015090214id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -122,7 +122,7 @@ We do not disclose your personal (including sensitive) information to recipients
 
   * workers compensation insurance in New South Wales and Victoria; 
   * Treasury Managed Fund; and 
-  * compulsory third party insurance in South Australia. 
+  * compulsory third party insurance claims in South Australia, managed by Allianz on behalf of the Motor Accident Commission. 
 
 
 
@@ -168,17 +168,16 @@ Life insurance and Consumer Credit Insurance | 13 1000 EST 9am-6pm
 Monday to Friday  
 Workers Compensation insurance | 1300 130 664 EST 8:30am-5pm  
 Monday to Friday  
-CTP South Australia | 1300 137 331 EST 8:30am-5pm  
+CTP South Australia (accidents before 1 July 2016) | 1300 618 389 EST 8:30am-5pm  
 Monday to Friday  
-All other privacy enquiries, including general insurance, CTP (except South Australia) and warranty products | 1300 360 529 EST 8am-6pm  
+All other privacy enquiries, including general insurance, CTP (except South Australia, accidents before 1 July 2016) and warranty products | 1300 360 529 EST 8am-6pm  
 Monday to Friday  
   
 ## Making a complaint
 
 If you believe that we have interfered with your privacy in our handling of your personal information, you may lodge a complaint by contacting us on the above contact details or in writing to: Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW 2001.
 
-We will attempt to resolve your complaint in accordance with our Complaints Resolution Process. You can obtain a copy of our [Complaints Resolution Process](https://web.archive.org/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure) by contacting us or going to the following web address:  
-https://www.allianz.com.au/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure.
+We will attempt to resolve your complaint in accordance with our Complaints Resolution Process, which can be [accessed here.](https://web.archive.org/aalaus/aalaus.nsf/docs/about.privacy/$file/BCH064+0815+Complaints+Resolution+Brochure_D3.pdf)
 
 If you are unhappy with the resolution of your complaint or with the way that Allianz has handled your complaint through the Complaints Resolution Process, you may be able to refer the matter to the Financial Ombudsman Service (FOS) subject to its Terms of Reference or the Office of the Australian Information Commissioner. The contact details for these bodies are as follows:
 
