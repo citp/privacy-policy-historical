@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytracking.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609083336id_/http%3A//www.cybeye.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytracking.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015033218id_/http%3A//www.cybeye.com/Privacy) for the most accurate reproduction.*
 
 # CybEye - A Smarter Way to Share, Discover, Track, and Socialize
 
