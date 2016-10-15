@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickworldnews.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323171600id_/http%3A//clickworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickworldnews.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015211951id_/http%3A//clickworldnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Click World News
 
