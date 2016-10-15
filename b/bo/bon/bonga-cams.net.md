@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bonga-cams.net privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318122327id_/http%3A//bonga-cams.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonga-cams.net privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015115120id_/http%3A//bonga-cams.net/privacy) for the most accurate reproduction.*
 
-# Live Sexcams: XXX Adult Shows, Free Porn Chat - BongaCams эротический видеочат
+# Live Sexcams: XXX Adult Shows, Free Porn Chat - Bonga Cams | Эротический секс видео чат Bonga-Cams.net с русскими
 
 ## LAST REVISION: SEPTEMBER 19, 2013
 
-PLEASE READ THIS BongaCams эротический видеочат PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO bonga-cams.net WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
+PLEASE READ THIS Bonga Cams | Эротический секс видео чат Bonga-Cams.net с русскими PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO bonga-cams.net WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
 Beronata Services DOES NOT KNOWINGLY COLLECT PERSONAL DATA FROM CHILDREN. IF YOU ARE UNDER THE AGE OF EIGHTEEN (18), PLEASE DO NOT GIVE US ANY PERSONAL DATA. IF YOU HAVE REASON TO BELIEVE THAT ANYONE UNDER 18 HAS PROVIDED PERSONAL DATA TO Beronata Services, PLEASE CONTACT US, AND WE WILL ENDEAVOR TO DELETE THAT INFORMATION FROM OUR DATABASES
 
