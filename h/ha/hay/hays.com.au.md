@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614175514id_/http%3A//www.hays.com.au/general-content/privacy-policy-2365) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015165649id_/https%3A//www.hays.com.au/general-content/privacy-policy-2365) for the most accurate reproduction.*
 
 # Privacy Policy | Hays
 
@@ -88,9 +88,9 @@ Phone: 0800 429 769 (New Zealand) 
 
 FM-021-17 | © December 2015
 
-### Your privacy is important to us.
+### Your privacy is important to Hays
 
-This statement outlines Hays policy on how we collect personal information and how we maintain, use, store and disclose the personal information we hold and reflects our commitment to you. It applies to all operations within Hays Specialist Recruitment (Australia) Pty Limited (“Hays”) in Australia and New Zealand, including visitors to our website.
+Your privacy is important to us. This statement outlines Hays policy on how we collect personal information and how we maintain, use, store and disclose the personal information we hold and reflects our commitment to you. It applies to all operations within Hays Specialist Recruitment (Australia) Pty Limited (“Hays”) in Australia and New Zealand, including visitors to our website.
 
 It is the policy of Hays to respect the confidentiality of information and the privacy of individuals. Hays are bound by the Australian Privacy Principles (APP) contained in the Privacy Act 1988 (as amended) (Australian Act) in Australia; and by the Information Privacy Principles (IPP) contained in the Privacy Act 1993 in New Zealand (New Zealand Act).
 
@@ -120,14 +120,6 @@ We may collect personal or sensitive information about you when:
 • We receive any information about any insurance investigation, litigation, registration or professional disciplinary matter, criminal matter, inquest or inquiry in which you were involved  
 • We receive any information about a workplace accident in which you are involved  
 • You provide us with any additional information about you
-
-### General information collected from visitors to our website
-
-We gather information about all our website users collectively, such as what areas users visit more frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall website experience for you.
-
-### Your personal information collected on the hays.com.au and hays.net.nz websites
-
-In some instances we may need specific information about you, such as name, address, email address, telephone number etc. We will collect this information if you apply for a job or sign up for a service via our website. We may also ask you for other information such as the types of jobs you are interested in and your workplace concerns in order to provide you with the best possible service and internet experience.
 
 ### Purposes and use for which we collect personal information
 
@@ -182,11 +174,54 @@ Hays takes such steps as are reasonable in the circumstances to ensure that the 
 
 If you have created a profile with Hays via our website, you are able to review and edit your personal information at any time by logging into your account and reviewing your profile. You can delete your personal information or close your account by contacting the Privacy Officer. If you do choose to close your account with Hays, Hays may retain personal information from your account as and where required by law.
 
+### General information collected from visitors to our website
+
+We gather information about all our website users collectively, such as what areas users visit more frequently and what services users access the most. We only use such data anonymously and in the aggregate. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall website experience for you.
+
+### Your personal information collected on the hays.com.au and hays.net.nz websites
+
+In some instances we may need specific information about you, such as name, address, email address, telephone number etc. We will collect this information if you apply for a job or sign up for a service via our website. We may also ask you for other information such as the types of jobs you are interested in and your workplace concerns in order to provide you with the best possible service and internet experience.
+
+### Hotjar
+
+This website uses services provided by Hotjar Ltd. Hotjar provides services including Heatmaps, Visitor recordings, Funnels and Form Analysis, Feedback Polls, Surveys and Recruiters. The information generated by the tracking code and cookie about your use of the website will be transmitted to and stored by Hotjar on servers in Ireland. Through the Hotjar tracking code the information collected includes:
+
+#### **Device-specific data**
+
+The following information may be collected through your device and browser:
+
+             o      your device's IP address (collected and stored in an anonymized format);  
+             o      your email address including first name and surname;  
+             o      device screen size;  
+             o      device type (unique device identifiers) and browser information;  
+             o      geographic location (country only);  
+             o      preferred language used to display the webpage.  
+
+  * #### **Log data**
+
+  * Our servers automatically record information which is created upon using Hotjar. Data includes:
+
+         o      referring domain;  
+         o      pages visited;  
+         o      geographic location (country only);   
+         o      preferred language used to display the webpage;  
+         o      date and time when website pages were accessed;
+
+  *  
+
+
+
+Hotjar will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Hotjar uses a variety of services hosted by third parties, such as Google Analytics and Optimizely. These services may collect information sent by your browser as part of a web page request, such as cookies or your IP request. For information on how Google Analytics and Optimizely collect and use your information, please refer to their privacy policies. By continuing to use this website, you consent to the processing of the above data by Hotjar and by the third parties used by Hotjar in accordance with their respective privacy policies. The cookies used by Hotjar have differing durations; some are 365 days, some persist for the session only.
+
+To opt out please go to the following link:
+
+<https://www.hotjar.com/opt-out>
+
 ### Enquiries & complaints
 
-You can make enquiries, requests to access/delete or correct your information, or complain about alleged breaches of the APP’s or IPP’s to our Privacy Officer:
+You can make enquiries, requests to access/delete or correct your information, or complain about alleged breaches of the APP’s or IPP’s to our Privacy Officer: 
 
-Australia   
+**Australia  **  
 Privacy Officer   
 Hays   
 1800 805 051   
@@ -196,7 +231,7 @@ Reply Paid
 GPO Box 2135  
 BRISBANE QLD 4001
 
-New Zealand  
+**New Zealand**  
 Privacy Officer  
 Hays  
 0800 429 769  
@@ -204,7 +239,7 @@ Hays
 [privacy@hays.net.nz](mailto:privacy@hays.net.nz)  
 GPO Box 2135  
 BRISBANE QLD 4001   
-AUSTRALIA
+AUSTRALIA 
 
 ### Complaints
 
@@ -230,4 +265,4 @@ If we refuse to correct your personal information, we will notify you in writing
 
 Hays have several areas on our website where you can submit feedback, under the ‘contact us’ section. Any feedback that is submitted through this area becomes the property of Hays. We may use this feedback, such as success stories or responses to surveys, for marketing purposes, or to contact you for further feedback on the site.
 
-HP-020-16 | © May 2015 
+HP-020-17 | © June 2016
