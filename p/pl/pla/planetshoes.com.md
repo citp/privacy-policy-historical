@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetshoes.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329134215id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetshoes.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015141229id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.*
 
 # PLANET SHOES - Privacy Policy - Help Center
 
@@ -89,22 +89,18 @@ We take commercially reasonable steps to protect the information we collect onli
 
 Upon your request, we will (a) correct any information we have about you; (b) stop sending e-mails to your e-mail address; and/or (c) disable your account to prevent any future purchases through that account. Please make these requests by contacting our Customer Service department by one of the following methods: 
 
-**Call:**  
-(888) 818-7463 
-
-Customer Service Representatives are available to assist you Monday through Friday,  
-10:00 am – 8:00 pm EST.
-
 **E-mail:**  
+
+
 [Contact customer service](http://www.planetshoes.com/contact.aspx)   
 
 
 **Write:**  
 PlanetShoes.com  
 Attn: Customer Service Department  
-57 Chapel Street  
-Suite 200  
-Newton, MA 02458
+41 Seyon St.  
+Suite 400  
+Waltham, MA 02453
 
 In the event we amend this Privacy Policy, posting the amended version will serve as notice to you of that change and the amended Privacy Policy will note its effective date. 
 
