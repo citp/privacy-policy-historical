@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexmegacashback.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325120854id_/http%3A//www.forexmegacashback.com/clearrelation.php%23privacy_p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmegacashback.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015185421id_/http%3A//www.forexmegacashback.com/clearrelation.php%23privacy_p) for the most accurate reproduction.*
 
 # Forex Mega Cash Back - Legal Information
 
