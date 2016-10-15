@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icamzlive.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614171519id_/http%3A//www.icamzlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icamzlive.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015052422id_/http%3A//www.icamzlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # ICamzLiveLive - Live Sex Chat Room Cams Privacy Policy
 
