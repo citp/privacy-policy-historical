@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grouptable.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623171508id_/https%3A//www.grouptable.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouptable.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015080430id_/https%3A//www.grouptable.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | grouptable.com
 
