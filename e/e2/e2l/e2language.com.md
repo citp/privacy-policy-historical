@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e2language.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520080136id_/http%3A//www.e2language.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2language.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015050543id_/http%3A//www.e2language.com/Home/Privacy) for the most accurate reproduction.*
 
 # E2Language - Privacy
 
