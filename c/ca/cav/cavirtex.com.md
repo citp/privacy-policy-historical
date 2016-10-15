@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cavirtex.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327043241id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavirtex.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015084704id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
 
-# Kraken | Buy, Sell, and Trade Bitcoins - Privacy Policy
+# Kraken | Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH) - Privacy Policy
 
 ##  Payward Privacy Policy 
 
