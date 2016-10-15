@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420071733id_/http%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015173140id_/https%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About
 
@@ -8,13 +8,13 @@
 
 ### Our approach to privacy
 
-The forum [http://www.lfgss.com](http://www.lfgss.com/) (the " **forum** ") is operated by the person, company or organisation detailed in the forum administrator section of the forum (" **we** " or " **us** "). We control how your personal information is used.
+The forum [https://www.lfgss.com](https://www.lfgss.com/) (the " **forum** ") is operated by the person, company or organisation detailed in the forum administrator section of the forum (" **we** " or " **us** "). We control how your personal information is used.
 
 We are committed to protecting and respecting your privacy. This privacy policy sets out how we collect, use and share information that identifies you or is associated with you (" **personal information** ") when you use our forum.
 
 By setting up an account with us or using and accessing the forum, you consent to the use of your personal information as described in this privacy policy.
 
-You should also be aware that we use cookies to store and access information whilst providing the forum. You can find out more about our use of cookies in our cookies policy <http://www.lfgss.com/legal/cookies>.
+You should also be aware that we use cookies to store and access information whilst providing the forum. You can find out more about our use of cookies in our cookies policy <https://www.lfgss.com/legal/cookies>.
 
 ### Personal information we hold about you
 
@@ -118,13 +118,13 @@ We do not disclose information about identifiable individuals to anyone else exc
 
 We or our advertising partners use the information that is collected to make sure adverts you see either on the forum or other websites or apps (where our partners have advertising space) are more relevant to you.
 
-The techniques our advertising partners use recognise the device you are using but are not aimed at you as a named individual. Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our cookies policy <http://www.lfgss.com/legal/cookies>.
+The techniques our advertising partners use recognise the device you are using but are not aimed at you as a named individual. Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our cookies policy <https://www.lfgss.com/legal/cookies>.
 
 ### Storing and transferring your personal information
 
 **Timeframe** : your personal information will be kept by us for as long as your account remains active. If you deactivate your account your personal information will be kept for a reasonable period of time after this so that we can complete any activities it is being used for. Your comments on the forum will be associated with your account as long as your account remains active. If you deactivate your account, your comments will be kept (as they form part of the discussions on the forum) but will no longer be associated with your account.
 
-**Cookies and Local Storage** : we may store information (which may include personal information) locally on your device using cookies and other browser and application storage methods. For further information please see our cookies policy <http://www.lfgss.com/legal/cookies>.
+**Cookies and Local Storage** : we may store information (which may include personal information) locally on your device using cookies and other browser and application storage methods. For further information please see our cookies policy <https://www.lfgss.com/legal/cookies>.
 
 **International Transfers of your Personal Information** : the personal information we collect may be transferred to and stored in countries outside of the jurisdiction you are in. Some of these jurisdictions offer differing levels of protection in respect of personal information and may, in certain instances, be less protective than the jurisdiction you are typically resident in. We will take all reasonable steps to ensure that your personal information is treated securely and in accordance with this privacy policy.
 
