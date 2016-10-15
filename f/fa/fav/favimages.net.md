@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the favimages.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610002817id_/http%3A//favimages.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favimages.net privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015084809id_/http%3A//favimages.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Favimages.net
+# Privacy Policy | Fav Images - Amazing Pictures
 
 Privacy Policy
 
@@ -34,8 +34,7 @@ Consumer Education Related to Social Networking
 
 Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
 
-http://onguardonline.gov/socialnetworking.html [link]  
-http://onguardonline.gov/socialnetworking_youth.html [link]
+http://onguardonline.gov/socialnetworking.html [link] http://onguardonline.gov/socialnetworking_youth.html [link] 
 
 OTHER INFORMATION/LOGGING AND COOKIES
 
