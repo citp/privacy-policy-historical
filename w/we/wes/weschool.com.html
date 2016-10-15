@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weschool.com privacy policy that was archived on 2016-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522141530id_/http%3A//www.weschool.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weschool.com privacy policy that was archived on 2016-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161015092456id_/http%3A//www.weschool.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 	<!-- Chrome, Firefox OS and Opera -->
@@ -424,8 +424,11 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.weschool.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 <script type="text/javascript">
 
+  //console.info("hey, it's 16:48");
+  
   /** overwrite pursuit function */
   vertical_align_tour = function(){console.info("i've been overwritten")};
   /** fine overwrite */
@@ -563,7 +566,7 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
     }
 
 
-    function debounce(func, wait, immediate) {
+    /*function debounce(func, wait, immediate) {
       var timeout;
       return function() {
         var context = this, args = arguments;
@@ -576,7 +579,7 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
         timeout = setTimeout(later, wait);
         if (callNow) func.apply(context, args);
       };
-    };
+    };*/
 
 	/*
 	 * Custom page scrolling
@@ -590,7 +593,7 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
 		scrollScript();
 	
 	function applyScrollScriptToPage() {
-		return $('body').hasClass('home') || $('body').hasClass('page-template-page-schools');
+		return $('body').hasClass('home') || $('body').hasClass('page-template-page-schools')  || $('body').hasClass('page-template-page-companies');
 	}
     
 	function scrollScript() {
@@ -618,33 +621,63 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
 				vpHeight = $(window).height()
 				,scrollHeight = vpHeight - adminBarHeight
 				,firstScrollHeight = scrollHeight - headerHeight
+        ,lastScrollHeight = scrollHeight - footerHeight
 			;
+
+      var realScrollHeight = "calc(100vh - " + adminBarHeight + "px)";
+      var realFirstScrollHeight = "calc(100vh - " + adminBarHeight + "px - "+headerHeight+"px)";
+      var realLastScrollHeight = "calc(100vh - " + adminBarHeight + "px - "+footerHeight+"px)";
+      var realHalfScrollHeight = "calc((100vh - " + adminBarHeight + "px) / 2)";
 			
 			delta = window.delta || Math.floor(vpHeight / 2) // 200 
 
 			$("body").addClass("js-section section");
-			$(".themo_slider_0").css("min-height", firstScrollHeight);
-			$("#themo_html_2").addClass("js-section section").css("min-height", scrollHeight); //video section
-			$("#themo_tour_1").addClass("js-section section").css("min-height", scrollHeight); //tour home
-			$("#themo_service_block_1").addClass("js-section section").css("min-height", scrollHeight);
-			if (isDesktop) {
-				$("#themo_tour_1_0, #themo_tour_1_1").removeClass("js-section section").css("min-height", Math.ceil(scrollHeight / 2)); //tour home
+			//$(".themo_slider_0").css("height", firstScrollHeight);
+			//$("#themo_html_2").addClass("js-section section").css("height", scrollHeight); //video section
+			//$("#themo_tour_1").addClass("js-section section").css("height", scrollHeight); //tour home
+			//$("#themo_service_block_1").addClass("js-section section").css("height", scrollHeight);
+			/*if (isDesktop) {
+				$("#themo_tour_1_0, #themo_tour_1_1").removeClass("js-section section").css("height", Math.ceil(scrollHeight / 2)); //tour home
 			} else {
 				//su smartphone due blocchi in home a tutta pagina, con scroll autommatico
-				$("#themo_tour_1_0, #themo_tour_1_1").addClass("js-section section").css("min-height", scrollHeight); //tour home
-			}
-			$('.feature-integration').addClass("js-section").outerHeight(scrollHeight);
-			$(".page-id-883 #themo_tour_1 section").addClass("js-section").css({"min-height": scrollHeight}); //schools sections
-			//$('.footer').addClass('js-section section');
+				$("#themo_tour_1_0, #themo_tour_1_1").addClass("js-section section").css("height", scrollHeight); //tour home
+			}*/
+			//$('.feature-integration').addClass("js-section").outerHeight(scrollHeight);
+			//$(".page-id-883 #themo_tour_1 section").addClass("js-section").css({"height": scrollHeight}); //schools sections
+     
+      //home
+      $('.masthead-home').css({'height': realFirstScrollHeight, 'min-height': realFirstScrollHeight}).removeClass('js-section'); //body already has it
+      $('.feature.integration, .feature.intro, .feature.unleash').css({'height': realScrollHeight,'min-height': realScrollHeight}).addClass('js-section');
+      $('.feature.unleash').css({'height': realLastScrollHeight, 'min-height': realLastScrollHeight}); //last section
+      if(isDesktop){
+        $(".feature.no-limits").addClass('js-section');
+        $(".feature.no-limits, .feature.lab").css("height", realHalfScrollHeight); //half blocks home
+      }
 			
 			// New Schools page sections
-			$('.masthead').css('min-height', firstScrollHeight);
-			$('.superpower').css('min-height', scrollHeight).addClass('js-section');
-			$('.superpower:last-of-type').css('min-height', scrollHeight - footerHeight);
+			$('.masthead').css({'height': realFirstScrollHeight, 'min-height': realFirstScrollHeight});
+			$('.superpower').css({'height': realScrollHeight,'min-height': realScrollHeight}).addClass('js-section');
+			$('.superpower:last-of-type').css('height', realLastScrollHeight);
+
+      //companies
+      $('.scroll').css({'height': realScrollHeight, 'min-height': realScrollHeight}).addClass('js-section');
+      $('.scroll:first-of-type').css({'height': realFirstScrollHeight,'min-height': realFirstScrollHeight}).removeClass('js-section'); //body already has it
+      $('.scroll:last-of-type').css({'height': realLastScrollHeight, 'min-height': realLastScrollHeight});
 			
 			$sections = $(".js-section");
-			offsets = $sections.map(function(index, element){
-				return $(element).offset().top;
+      offsets = [];
+			$sections.each(function(index, element){
+        //do not scroll to sections higher than view (otherwise they cannot be fully viewed)
+        var elemType = $(element).prop('nodeName').toLowerCase();
+        //console.info($(element).attr("class"), $(element).height(), scrollHeight)
+        //add offset is section is shorter than scroll height OR is body (aka first scroll of the page)
+        if($(element).innerHeight() <= scrollHeight || elemType === 'body'){
+          //check valid height of double scroll (two sections in one view), when needed
+          if($(element).hasClass("no-limits") === false || $(element).innerHeight()*2 <= scrollHeight){
+            //console.info($(element).attr("class"), $(element).hasClass("no-limits"), $(element).innerHeight(),$(element).innerHeight()*2,scrollHeight);
+				    offsets.push($(element).offset().top);
+          }
+        }
 			});
 		}
 
@@ -652,40 +685,45 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
 			var doAnimation = true;
 		  
 			function scrollToClosestSection(){
-				var st = $(this).scrollTop();
-				
-				$.each(offsets, function(index, offset) {
-					var realOffset = offset - adminBarHeight;
-					//console.info("now:", st, st+delta, st-delta, realOffset);
-					if(realOffset <= st + delta && realOffset >= st - delta && doAnimation) {
-						doAnimation = false;
-						$('html, body').stop(false, false).animate({ 
-							scrollTop: realOffset
-						}, 200, function() {
-							doAnimation = true;
-						});
-					}
-				});
+        if($(window).width() >= 768 && !agentManager.isIPhone && !agentManager.isWindowsPhone){
+
+    			var st = $(this).scrollTop();
+    			
+    			$.each(offsets, function(index, offset) {
+    				var realOffset = offset - adminBarHeight;
+    				//console.info("now:", st, st+delta, st-delta, realOffset);
+    				if(realOffset <= st + delta && realOffset >= st - delta && doAnimation) {
+    					doAnimation = false;
+    					$('html, body').stop(true, true).animate({ 
+    						scrollTop: realOffset
+    					}, 200, function() {
+    						doAnimation = true;
+    					});
+    				}
+    			});
+
+        }
 			}
 
-			$(window).scroll(debounce(function(event) {
+			$(window).scroll(_.debounce(function(event) {
 				if ('snapping' in window && window.snapping === false)
 					return;
-				$('html, body').stop(false, false);
+				$('html, body').stop(true, false);
 				updateSectionsInfo(); // update offset (may be useful if page has been resized)
-				//scrollToClosestSection();
+				scrollToClosestSection();
 			}, scrollDebounceDelay, false));
 
 			scrollToClosestSection();
 		}
 		
 		updateSectionsInfo();
-		$(window).resize(debounce(updateSectionsInfo, 500, false));
+		$(window).resize(_.debounce(updateSectionsInfo, 500, false));
 		window.setTimeout(handleScroll, 300);
 	}
 	
-	if (isHome())
+	if (isHome()){
 		setupIntroVideo();
+  }
 	
 	function setupIntroVideo() {
 		var 
@@ -693,6 +731,12 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
 			$introScroll = $(introScroll),
 			playButton = introScroll.querySelector('.ws-button')
 		;
+
+    if(agentManager.isIPad || agentManager.isIPhone || agentManager.isAndroid || agentManager.isWindowsPhone){
+      if(jQuery(".integration video").length > 0){
+        jQuery(".integration video").replaceWith("<div class='text-center'><img src='https://s3-eu-west-1.amazonaws.com/www.weschool.com/video/lessons.gif' /></div>");
+      }
+    }
 		
 		playButton.addEventListener('click', function(e) {
 			e.stopPropagation;
@@ -707,13 +751,6 @@ var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.weschool.com\/"
             var vid = "https://www.youtube.com/embed/P1CeWmov1As?rel=0&amp;showinfo=0&amp;autoplay=1";
       jQuery("#yt").attr("src", vid);
       $introScroll.removeClass('loading').addClass('visible');
-
-      if(agentManager.isIPad || agentManager.isIPhone || agentManager.isAndroid || agentManager.isWindowsPhone){
-        if(jQuery(".integration video").length > 0){
-          jQuery(".integration video").replaceWith("<div class='text-center'><img src='https://s3-eu-west-1.amazonaws.com/www.weschool.com/video/lessons.gif' /></div>");
-        }
-      }
-
 		})
 		
 		function playIntro() {
