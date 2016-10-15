@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiononline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034344id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiononline.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016015830id_/http%3A//us.ncsoft.com/en/legal/aion/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -233,4 +233,4 @@ NCSOFT reserves the right to change this Privacy Policy at any time by notifying
 
 If you feel that NCSOFT is not abiding by its posted privacy policy, you should contact us by email at privacy@ncsoft.com.
 
-Last Updated: August 2015
+Last Updated: March 2016
