@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intradayfun.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405063131id_/http%3A//intradayfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intradayfun.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015020753id_/http%3A//intradayfun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intraday Fun
 
