@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guaranteedrate.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416020236id_/https%3A//www.guaranteedrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guaranteedrate.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015102508id_/https%3A//www.guaranteedrate.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-This privacy statement describes how Guaranteed Rate, Inc. collects and uses the personal information you provide on our website: [www.guaranteedrate.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy statement describes how Guaranteed Rate, Inc. collects and uses the personal information you provide on our website: [www.guaranteedrate.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-Guaranteed Rate, Inc. is committed to protecting consumers’ and borrowers’ non-public personal information at all times. To that end, we employ and maintain extensive physical, electronic, and procedural safeguards to ensure your non-public personal information is protected as a customer of Guaranteed Rate, Inc. In addition, we monitor technical enhancements and practices in the field of information security and privacy to ensure our safeguards remain an effective tool in protecting your non-public personal information. 
+Guaranteed Rate, Inc. is committed to protecting consumers' and borrowers' non-public personal information at all times. To that end, we employ and maintain extensive physical, electronic, and procedural safeguards to ensure your non-public personal information is protected as a customer of Guaranteed Rate, Inc. In addition, we monitor technical enhancements and practices in the field of information security and privacy to ensure our safeguards remain an effective tool in protecting your non-public personal information. 
 
 ## How and why we collect personal information
 
@@ -43,7 +43,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 ### Access to information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may request us to correct, update, ,delete,deactivate it by emailing our Customer Support at [customercare@guaranteedrate.com](mailto:customercare@guaranteedrate.com). We will respond to your request to access within 30 days. 
+If your personally identifiable information changes, or if you no longer desire our service, you may request us to correct, update, ,delete,deactivate it by emailing our Customer Support at [customercare@rate.com](mailto:customercare@rate.com). We will respond to your request to access within 30 days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -81,7 +81,7 @@ Our site includes links to other websites whose privacy practices may differ fro
 
 ## Public forums
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [customercare@guaranteedrate.com](mailto:customercare@guaranteedrate.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [customercare@rate.com](mailto:customercare@rate.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ## Agreement and contact
 
