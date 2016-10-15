@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caliberhomeloans.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314052008id_/https%3A//www.caliberhomeloans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caliberhomeloans.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016004102id_/https%3A//www.caliberhomeloans.com/tools-resources/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,20 +32,18 @@ We may use the data that you provide as follows: (1) if you apply for a job, to 
 
 ### SHARING DATA
 
-**_Caliber Home Loans_** may share data that you provide under the following circumstances:  
-**   a. Affiliates**  
-     1\. We may share your name, address, and information about your transactions and experiences with us (such as your payment history or other facts about your account) with our affiliates.  
-     2\. We may also share other personal data that you provide with our affiliates in order to provide you with information about products or services that may interest you.
+**_Caliber Home Loans_** may share data that you provide under the following circumstances:
 
-   **b. Agents and Service Providers -** In order to establish, administer, and manage our customers' accounts, evaluate credit, provide customer service and benefits, process account transactions and account statements, conduct research and analysis, or process job applications, we may disclose personal data to companies that work with us to perform services or business operations on our behalf. We may also share personal data with companies that perform marketing services on our behalf, or with other financial institutions (including insurance companies) with whom we have joint marketing agreements.
+  1. **Affiliates**
+    1. We may share your name, address, and information about your transactions and experiences with us (such as your payment history or other facts about your account) with our affiliates.
+    2. We may also share other personal data that you provide with our affiliates in order to provide you with information about products or services that may interest you.
+  2. **Agents and Service Providers** \- In order to establish, administer, and manage our customers' accounts, evaluate credit, provide customer service and benefits, process account transactions and account statements, conduct research and analysis, or process job applications, we may disclose personal data to companies that work with us to perform services or business operations on our behalf. We may also share personal data with companies that perform marketing services on our behalf, or with other financial institutions (including insurance companies) with whom we have joint marketing agreements.
+  3. **Third Parties (Disclosures Permitted or Required by Law)** \- In certain instances, we are permitted or even required to disclose your personal data to third parties. Examples of this type of permitted disclosure are reporting information about your transactions with us to credit reporting agencies, responding to regulators or auditors, protecting against fraud, or providing information in connection with proposed or actual business transactions involving our companies or accounts. We may also disclose your personal data to third parties when legally compelled to do so, or when we believe that such disclosure is appropriate to comply with the law, to enforce our terms of use, or to protect the rights, property, or safety of **_Caliber Home Loans_** , its employees, customers, visitors to the Site, and others. Please be aware that these disclosures are permitted by law without your consent. 
+  4. **Business Transfers** \- As we develop our business, we may sell or buy businesses or assets, or be involved in mergers or other corporate reorganization. In transactions such as these, your personal data may be one of the transferred business assets. 
+  5. **Other Third Parties (Optional Disclosures)** \- We may share, as permitted by law, your personal data with third parties with whom we do not have joint marketing agreements, such as other financial service providers, insurance companies, or non-financial companies such as service organizations, retailers, travel services or direct marketers. These companies may wish to provide you with information about products or services that may interest you. 
+  6. **Option for our Consumer Customers** : If you are a consumer (as opposed to commercial) customer of **_Caliber Home Loans_** , you may direct us not to share personal data with other third parties, except as permitted by law, by sending an e-mail to [US.Privacy@CaliberHomeLoans.com](mailto:US.Privacy@CaliberHomeLoans.com). 
 
-   **c. Third Parties (Disclosures Permitted or Required by Law)** \- In certain instances, we are permitted or even required to disclose your personal data to third parties. Examples of this type of permitted disclosure are reporting information about your transactions with us to credit reporting agencies, responding to regulators or auditors, protecting against fraud, or providing information in connection with proposed or actual business transactions involving our companies or accounts. We may also disclose your personal data to third parties when legally compelled to do so, or when we believe that such disclosure is appropriate to comply with the law, to enforce our terms of use, or to protect the rights, property, or safety of **_Caliber Home Loans_** , its employees, customers, visitors to the Site, and others. Please be aware that these disclosures are permitted by law without your consent.
 
-   **d. Business Transfers** \- As we develop our business, we may sell or buy businesses or assets, or be involved in mergers or other corporate reorganization. In transactions such as these, your personal data may be one of the transferred business assets.
-
-   **e. Other Third Parties (Optional Disclosures)** \- We may share, as permitted by law, your personal data with third parties with whom we do not have joint marketing agreements, such as other financial service providers, insurance companies, or non-financial companies such as service organizations, retailers, travel services or direct marketers. These companies may wish to provide you with information about products or services that may interest you.
-
-    **f. Option for our Consumer Customers** : If you are a consumer (as opposed to commercial) customer of **_Caliber Home Loans_** , you may direct us not to share personal data with other third parties, except as permitted by law, by sending an e-mail to [US.Privacy@CaliberHomeLoans.com](mailto:US.Privacy@CaliberHomeLoans.com). 
 
 ### SECURITY
 
@@ -66,7 +64,3 @@ The Site may have hyperlinks to or pop-up windows from other websites. **_Calibe
 ### NOTICES AND REVISIONS
 
 **_Caliber Home Loans_** may revise this Policy from time to time. You should periodically check the revision date at the top of this webpage to learn of any revisions. Your use of the Site at any time is deemed acceptance of the Policy then in effect. If you have questions about this Policy, please send an e-mail to [US.Privacy@CaliberHomeLoans.com](mailto:US.Privacy@CaliberHomeLoans.com). 
-
-_Last Updated: July 29, 2013_
-
-Go Top
