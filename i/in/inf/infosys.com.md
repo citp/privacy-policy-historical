@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the infosys.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506114033id_/https%3A//www.infosys.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosys.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015181120id_/https%3A//www.infosys.com/privacy-statement) for the most accurate reproduction.*
 
 # Infosys - Privacy Statement
 
-_Last updated on 6th November 2014_
+_Last updated on 15th July 2016_
 
 Infosys Limited and its subsidiaries hereinafter referred as ‘Infosys,’ is committed to respect your privacy and choices while using our website. The statement highlights our privacy practices regarding Personal Information that we hold about you.
 
 **I. Personal Information we may collect and process:**
 
-For the purposes of this privacy statement, ‘Personal Information’ is any data which relates to an individual who may be identified from that data, or from a combination of a set of data, and other information which is or may be in possession of Infosys.
+For the purposes of this privacy statement, 'Personal Information' is any data which relates to an individual who may be identified from that data, or from a combination of a set of data, and other information which is or may be in possession of Infosys.
 
-In general, you may browse our website without providing any Personal Information about yourself. However, certain information such as your IP address, demographics, your computers’ operating system, and browser type may be collected in order to provide better usability, troubleshooting, site maintenance, and to understand which parts of the website are visited and how frequently. In order to provide relevant content based on your preferences, when you register to our website, we require you to provide us with certain Personal Information such as your name, email address, telephone number, and details related to user ID creation. While accessing certain sections of the Infosys website such as Recruitment and Global Alumni Portal, you may also be required to provide Personal Information for Infosys to process the corresponding request.
+In general, you may browse our website without providing any Personal Information about yourself. However, certain information such as your IP address, demographics, your computers’ operating system, and browser type may be collected in order to provide better usability, troubleshooting, site maintenance, and to understand which parts of the website are visited and how frequently.
+
+When you register on our website or would like to comment on our content, we may require you to provide us with certain Personal Information such as your name, email address, designation, company, country and telephone number, for one or more of the following purposes: user ID creation, identifying you, contacting you and provide access to desirable content based on your preferences. While accessing certain sections of the Infosys website such as Recruitment and Global Alumni Portal, you may also be required to provide additional Personal Information for Infosys to process the corresponding request.
 
 **II. Consequences of not providing Personal Information**
 
@@ -35,6 +37,18 @@ Cookies are small text files that, like most other Web servers, we place in your
 **Persistent cookie:** Persistent cookies are stored on a user’s device even after termination of a browsing session. It helps in recalling the preferences or actions of the user. Persistent cookies are used for a variety of purposes such as retaining the visitor’s language and regional preference(s) at the end of each browsing session. We may use services of third-party analytics service provider to analyze cookies to carry out a behavioral analysis in order to enhance user experience and convenience, and also to provide targeted and relevant content to visitors.
 
 Depending on the type and settings of your browser, cookies may be accepted by default. You may change the settings of your browser to delete existing cookies or prevent future cookies from being automatically accepted. If you disable cookies, certain parts and functions of our website may not be available. You can learn more about cookies at [www.aboutcookies.org](https://web.archive.org/Links/redirectlink.aspx?id=aboutcookies.aspx "www.aboutcookies.org")
+
+ **Third Party Cookies**
+
+When you visit Infosys websites, our approved advertisement partner whom we have engaged for remarketing may introduce cookies. Based on your browsing behavior on our website you may see our advertisements while browsing through partner network websites.
+
+Such cookies would allow us to monitor the effectiveness of the advertisements and to make the advertisements more relevant to you.
+
+If at any time you do not want to receive our advertisements you can "[opt out](https://web.archive.org/links/redirectlink.aspx?id=settings-ads.aspx "opt out")" using the link provided below.
+
+Google Ad Settings [http://www.google.com/settings/ads](https://web.archive.org/links/redirectlink.aspx?id=settings-ads.aspx "http://www.google.com/settings/ads")
+
+Alternatively, you can also visit the [Network Advertising Initiative opt-out page](https://web.archive.org/links/redirectlink.aspx?id=network-advertising.aspx "Network Advertising Initiative opt-out page") to save your preferences.
 
 **V. Access, correction, objection of your Personal Information:**
 
