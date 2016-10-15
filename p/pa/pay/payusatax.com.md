@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the payusatax.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315110248id_/https%3A//www.payusatax.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payusatax.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015090001id_/https%3A//payusatax.com/Privacy.aspx) for the most accurate reproduction.*
 
 # payUSAtax™ - IRS Authorized Payment Service: Privacy
 
 * * *
 
-[Authorized Provider](https://web.archive.org/web/20160315110248id_/https%3A//www.payusatax.com/authorizedprovider.aspx) | [Benefits](https://web.archive.org/web/20160315110248id_/https%3A//www.payusatax.com/benefits.aspx) | [Security](https://web.archive.org/web/20160315110248id_/https%3A//www.payusatax.com/security.aspx) | **Privacy Policy** | [Pay By Phone](https://web.archive.org/web/20160315110248id_/https%3A//www.payusatax.com/PayByPhone.aspx)
+[Authorized Provider](https://web.archive.org/web/20161015090001id_/https%3A//payusatax.com/authorizedprovider.aspx) | [Benefits](https://web.archive.org/web/20161015090001id_/https%3A//payusatax.com/benefits.aspx) | [Security](https://web.archive.org/web/20161015090001id_/https%3A//payusatax.com/security.aspx) | **Privacy Policy** | [Pay By Phone](https://web.archive.org/web/20161015090001id_/https%3A//payusatax.com/PayByPhone.aspx)
 
 OUR COMMITMENT TO YOUR PRIVACY
 
