@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divtagtemplates.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325023507id_/http%3A//divtagtemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divtagtemplates.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016220441id_/http%3A//divtagtemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
