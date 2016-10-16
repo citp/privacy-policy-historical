@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffic-zoom.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617113754id_/http%3A//traffic-zoom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic-zoom.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016233031id_/http%3A//www.traffic-zoom.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Zoom Privacy Policy
 
