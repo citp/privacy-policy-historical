@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5210challenge.org privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527043318id_/http%3A//www.5210challenge.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5210challenge.org privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016233055id_/http%3A//www.5210challenge.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 5210 Challenge
 
