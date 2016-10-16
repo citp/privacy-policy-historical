@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919144554id_/https%3A//www.worx.com/en-US/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016144423id_/https%3A//www.worx.com/privacy-policy) for the most accurate reproduction.*
 
-# WORX US - Privacy Policy
-
-**PRIVACY POLICY**
+# Website Privacy Policy | WORX
 
 WORX ("We") are committed to protecting and respecting your privacy.
 
@@ -23,8 +21,6 @@ We may collect and process the following data about you:
   * Details of your visits to our site and the resources that you access.
 
 
-
-**IP ADDRESSES**
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
@@ -82,8 +78,6 @@ We may disclose your personal information to third parties:
 
 
 
-**YOUR RIGHTS**
-
 You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at worx@positecgroup.com.
 
 Our site may, from time to time, contain links to and from Third-party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. You should consult the other websites' privacy notices, because we have no control over information that is submitted to, or collected by, these third parties. The inclusion of a link to a third-party website does not imply endorsement of the website by RW Direct Inc. or any association with the third-party website's operators.
@@ -91,7 +85,5 @@ Our site may, from time to time, contain links to and from Third-party websites.
 **CHANGES TO OUR PRIVACY POLICY**
 
 This Privacy Notice may be changed by RW Direct Inc. The revised Privacy Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. We encourage you to periodically check and review this page so that you know what information we collect, how we use it and to whom we disclose it. Under certain circumstances (for example, in connection with certain material changes), we may also elect to notify you of changes or updates to our Privacy Notice, or to request your consent for such changes, by additional means, such as posting a notice on the front page of our website or sending you an e-mail.
-
-**CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to worx@positecgroup.com.
