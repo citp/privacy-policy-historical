@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.ug privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602084600id_/http%3A//vodafone.co.ug/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.ug privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016143003id_/http%3A//vodafone.co.ug/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Vodafone
 
