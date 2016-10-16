@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413222544id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016144329id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripoto
 
