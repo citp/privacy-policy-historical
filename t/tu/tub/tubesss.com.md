@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubesss.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615012907id_/http%3A//www.tubesss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubesss.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016062242id_/http%3A//www.tubesss.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at TubeSSS
 
