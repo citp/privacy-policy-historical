@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingnonstop.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510125217id_/http%3A//www.gamingnonstop.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingnonstop.net privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017013000id_/http%3A//www.gamingnonstop.net/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to gamingnonstop.net - Privacy Policy
 
