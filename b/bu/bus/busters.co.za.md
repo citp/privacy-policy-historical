@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busters.co.za privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606053711id_/http%3A//www.busters.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busters.co.za privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016024322id_/http%3A//www.busters.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Busters Discount Vouchers
 
