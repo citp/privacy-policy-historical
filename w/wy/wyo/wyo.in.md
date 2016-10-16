@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wyo.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611062457id_/http%3A//wyo.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyo.in privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016103039id_/http%3A//wyo.in/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wear Your Opinion - WYO.in
+# Privacy Policy – Wear Your Opinion - WYO.in
 
 You know, we at WYO are geeks, too. And like all good geeks, we’re obsessed with privacy. We won’t share or sell your personal information for a quick buck. And we promise we will never collect or share information about your IQ, your religious beliefs, your shoe size, or how you got that intriguing scar on your left elbow. In general terms, we collect information so we can ship your WYOs, let you enjoy our community features, and improve our website, services, and products.
 
