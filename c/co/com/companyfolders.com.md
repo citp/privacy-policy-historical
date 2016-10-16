@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525104537id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016105235id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompanyFolders.com
 
@@ -74,7 +74,7 @@ This request may be made no more than once per calendar year. We reserve our rig
 
 ## International Customers and Users
 
-Company Folders, Inc. complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Company Folders, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+Company Folders, Inc. complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Company Folders, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, [view our certification page](https://safeharbor.export.gov/companyinfo.aspx?id=32685).
 
 ## Children Using the Site
 
