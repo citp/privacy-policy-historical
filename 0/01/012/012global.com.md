@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 012global.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404003902id_/http%3A//www.012global.com/PrivacyPol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 012global.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016084758id_/https%3A//www.012global.com/PrivacyPol.html) for the most accurate reproduction.*
 
 # 012Global | Low-Cost International Calls
 
