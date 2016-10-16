@@ -1,123 +1,99 @@
-> *The following text is extracted and transformed from the myoptumhealth.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320205629id_/http%3A//www.myoptumhealth.com/portal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoptumhealth.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016194721id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy - myOptumHealth
+# Privacy policy
 
-**I.            Introduction and Applicability**
+#### Introduction
 
-           PLEASE READ THIS PRIVACY AND SECURITY POLICY CAREFULLY BEFORE USING THIS SITE. myOptumHealth.com, by Medical Network, Inc., a subsidiary of OptumHealth, Inc. (“OptumHealth”, “myOptumHealth”, “Site”, “we”, or “us”), is very sensitive to privacy and security issues. We respect your right to privacy and know that you want us to keep your information that you send to us secure. This Privacy and Security Policy (“Privacy Policy”), along with the myOptumHealth [Terms and Conditions](http://www.myoptumhealth.com/portal/TermOfUse), describe the terms and conditions under which we offer you access to our Services. 
+We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
 
-           This Privacy Policy applies to all public OptumHealth Sites owned or operated by OptumHealth. OptumHealth may share information among its affiliates, subsidiaries, or sites that it owns or controls, but such information is always protected under the terms of this Privacy Policy. By using these services and this Site(s), you signify your agreement to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use these services. We may revise and update this Privacy Policy at any time, as detailed below. Your continued use of myOptumHealth will mean you accept those changes. 
+This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as “we” or “our” and “Company” refer to Optum and its current and future affiliated entities, including our parent company UnitedHealth Group.
 
-**II.          Protecting Your Personal and Health Information**
+This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-           We have taken precautionary measures to make all information received from our online visitors secure against unauthorized access and use. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our Site.
+#### Cookies and Tracking
 
-**III.         Information We Disclose About You**
+The Company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies, which are generally stored on a computer unless or until they are deleted or are set to expire.
 
-           We do not sell or share your personal or identifiable information to companies outside of OptumHealth and its affiliates, with the exception that it may be necessary for us to provide your information to contracted external partners in order to respond to your inquiries and to provide you with services on your behalf. If we do this, our external partners may only use the information provided for the specified use and project and they are contractually bound to holding the information to the same or higher privacy and security standards as myOptumHealth.
+You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
 
-           We may also provide your personal health information and that of other registered users in non-identifiable, aggregate form to third parties, but never in such a way that it violates your privacy.
+We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
 
-           We will disclose your personally identifiable information as required by law and or to comply with a judicial proceeding, court order, or other legal process.
+We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies. If such technology is used, you may opt out of it by clicking on the “Opt Out” link at the bottom of the home web page.
 
-**IV.         Personal Information We Collect About You**
+We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include:
 
-           The myOptumHealth registration form requires users to give us contact information and some demographic information. To use some Site functions, users must volunteer personal health information (such as, height, weight, and past medical history). Depending on the function, you may need to provide personal information for full functionality.
+  * Customizing your experience on the website including managing and recording your preferences.
+  * Marketing, product development, and research purposes.
+  * Tracking resources and data accessed on the website.
+  * Developing reports regarding website usage, activity, and statistics.
+  * Assisting users experiencing website problems.
+  * Enabling certain functions and tools on this website.
+  * Tracking paths of visitors to this website and within this website. 
 
-           We may use demographic and personal health information to tailor your experience at our Site, show you the content in which we think you might be interested, and display content according to your preferences. Your health information is password-protected to prevent access by other users.
 
-           We may conduct surveys on our Site in which we ask you and other visitors for contact information (such as your e-mail addresses). We use contact data from our surveys to send users information about our company. You have the option of choosing not to receive such e-mails at the time you register or at any time, as detailed below. 
 
-           You may request that myOptumHealth.com delete personal, identifiable information it has retained about you. If you would like your information deleted, please contact us via myOptumHealth.com and provide us with your myOptumHealth user name and the e-mail address you provided to us. Or, you may submit your request via mail to:
+#### Your Personal Information
 
-Customer Service  
-myOptumHealth.com  
-Windsor Corporate Park  
-50 Millstone Road, Building 200, Suite 160  
-East Windsor, NJ 08520
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
-**V.          Internet Information We Collect About You**
+We may use personal information for a number of purposes such as:
 
-**A.            Cookies Technology**
+  * To respond to an email or particular request from you.
+  * To personalize the website for you.
+  * To process an application as requested by you.
+  * To administer surveys and promotions.
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
+  * To perform analytics and to improve our products, websites, and advertising.
+  * To comply with applicable laws, regulations, and legal process.
+  * To protect someone's health, safety, or welfare.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
 
-           OptumHealth uses “cookies” technology to obtain usage information from our online visitors. “Cookies” do not identify a specific user and are not used to collect any personal information. A “cookie” is a message given to your Web browser by our Web server. The message is then sent back to our server each time your browser requests a page from our server. The “cookies” myOptumHealth uses are “session cookies”, which means they are erased from your computer when you close your Web browser. 
 
-           You may disable your cookie information by adjusting your browser preferences on your personal computer at any time. In order to provide the best possible service and relevant information to you, we use cookies to:
 
-o          Track resources and data accessed on the Site per visitor; 
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled “Our Online Communications Practices.”  
 
-o          Keep track of your password and to personalize your Web page; 
+We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.        
 
-o          Record general Site statistics and activity; and 
+#### Sharing Personal Information
 
-o          Assist users experiencing Web Site problems. 
+We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.
 
-**B.            IP Address**
+We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.
 
-           We may use your IP address to help diagnose problems with our server and to administer our Site. Your IP address may also may be used to help identify you and to gather broad demographic information. 
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting activities that are illegal, violate our rules, or may be harmful to other visitors.
 
-**C.            Online Communities**
+If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
-           myOptumHealth provides public forums where you can share information with other users. Any posting, transmitting, or uploading (“Posting”) of any sort of text, photograph, video, audio or any other sort of content (“Material”) is public. **_Any Material you share in a Posting is by design open to the public and is not a private, secure service_**. myOptumHealth is not responsible for any material Posted, and you should exercise caution when Posting any personal Material, and consider not Posting personal material at all. 
+We may also share personal information with other third party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications.
 
-**VI.         Our Online Communication Practices**
+This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
 
-**A.            General Email Communications**
+#### Website and Information Security
 
-           We use information provided by you for internal purposes, to send you information about new myOptumHealth Site features, services, or updates, information about our company and promotional material or offers from some of our corporate partners, and other news. You will be given the opportunity to decline these services at the point of registration, and you may opt-out of receiving future mailings (see the Choice/Opt-out section following).
+We maintain reasonable administrative, technical and physical safeguards designed to protect the information that you provide on this website. However, no security system is impenetrable and we cannot guarantee the security of our website, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet, and we are not liable for the illegal acts of third parties such as criminal hackers.
 
-           We may send email communications to you related to general health benefits, Site updates, health conditions, and general health topics.
+#### Our Online Communication Practices
 
-           Unless you are using our secure e-mail function, the email functionality on our Site does not provide a completely secure and confidential means of communication. It is possible that your email communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use email.
+We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications. 
 
-**B.            Interactive Web Features**
+#### Social Security Number Protection Policy
 
-           By accessing this Site, you agree that you certain interactive Web features you use may provide communications to you. In addition, you agree that we may use interactive tools while you are on the Site itself to contact you.
+Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
 
-**C.            Links to Other Web Sites**
+#### Information for Children Under 13
 
-           This Site may contain links to other sites. myOptumHealth is not responsible for the security, privacy practices, or the content of such Web sites. Please read the privacy statements, terms and conditions, and any other legal information of the linked Web sites that you visit. 
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
 
-**VII.        Communications Opt-Out**
+#### Contact Us
 
-           myOptumHealth provides users the opportunity to opt-out of receiving communications from our partners and us. When you complete registration or when you make changes to your profile, you will be given the choice of receiving informational/promotional e-mails from myOptumHealth. You may opt-out of receiving e-mails on behalf of myOptumHealth at registration by updating the preference box for receiving e-mails and newsletters. You may also opt-out of receiving these e-mails and newsletters by changing your preferences in Communication Settings. You may remove all of the information you have stored with us through the "My Account" screen. You will be notified upon completion of the removal process.
+To contact us regarding this policy and our related privacy practices, please email or write to us at: [privacy@optum.com](mailto:privacy@optum.com) or Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, MN 55344. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse. 
 
-**VIII.       Correction, Updating, and Removal of Your Information**
+#### Effective Date
 
-           This Site gives users the following options for opting out of receiving information from us, updating and removing personal information they have provided, and changing preferences with respect to receiving future communications: 
+The effective date of this policy is September 30, 2016.
 
-o                   You may correct, update, or remove your personal information yourself from the myOptumHealth tools that collect and store your data by going back to the specific tool, logging-in and making the desired changes; 
+#### Changes to this Website Privacy Policy
 
-o                   You can [Contact Us](http://www.myoptumhealth.com/portal/ContactUs?contactView=form) at this link and request correction, updating, or removal of your information; 
-
-o                   You can log onto our system and manage your profile settings through the “My Account page”; or, 
-
-o                   You can send mail to the following postal address and request correction, updating, or removal of your information: 
-
-                        myOptumHealth.com  
-                        Windsor Corporate Park  
-                        50 Millstone Road, Building 200, Suite 160  
-                        East Windsor, NJ 08520
-
-If you choose to remove or not supply us with personal information, you will be unable to access or fully use the functionality of some of myOptumHealth.com's features, such as the Personal Health Record and e-newsletters. You should also be aware that if you ask us to correct, update, or remove your information we will do so from our active databases, but it will not be feasible or possible to do so from our back-up media, nor is it technologically possible to remove each and every record of the information that you may have provided to myOptumHealth. 
-
-**IX.         Notification of Changes**
-
-           myOptumHealth may modify this Privacy Policy at any time in its discretion, so please review it frequently. If we are going to materially change our Privacy Policy regarding the use of your personally identifiable information, we will attempt to notify you at the e-mail address you provided, and post it prominently on our Site. Your continued use of myOptumHealth will indicate acceptance of any such material change, or you may opt-out of continuing to use the Site. 
-
-           myOptumHealth may make non-material changes to the Privacy Policy that do not affect your personal or health information. For these instances, we may not notify you of such non-material changes.
-
-           If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places appropriate throughout our Site so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-**X.          Contacting the Web Site**
-
-           If you have any questions about this privacy statement, the practices of this Site or your dealings with this Site, you can [Contact Us](http://www.myoptumhealth.com/portal/ContactUs?contactView=form) online or via post:
-
-Customer Service  
-myOptumHealth.com  
-Windsor Corporate Park  
-50 Millstone Road, Building 200, Suite 160  
-East Windsor, NJ 08520
-
-|  Effective as of 4/27/2009  |   
----|---|---
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.   ****
