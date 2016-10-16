@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2007-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071231132313id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cstv.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016140829id_/http%3A//www.cstv.com/ot/privacy.html) for the most accurate reproduction.*
 
 # CSTV.com: #1 in College Sports
 
@@ -138,3 +138,5 @@ If your personally identifiable information (such as your address) changes, or i
 CSTV Online, Inc.  
 2035 Corte del Nogal - Suite 250  
 Carlsbad, CA 92011. 
+
+Top
