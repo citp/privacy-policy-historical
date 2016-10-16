@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainhoney.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319174602id_/http%3A//agilix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainhoney.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016135340id_/http%3A//agilix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Agilix
+# Privacy Policy – Agilix
 
 ### Privacy Policy
 
