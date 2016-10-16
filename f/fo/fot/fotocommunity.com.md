@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotocommunity.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416085853id_/http%3A//fotocommunity.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotocommunity.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016063739id_/http%3A//fotocommunity.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - fotocommunity GmbH
 
