@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the enetget.com privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612103121id_/http%3A//enetget.com/terms/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enetget.com privacy policy that was archived on 2016-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161016185523id_/http%3A//enetget.com/terms/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
       <title>eNetGet Social Network | Privacy Policy</title>
@@ -42,9 +42,26 @@
             height:45px;
             box-shadow: 0 0 3px #444;
          }
+         .result-bar {
+            background-color: #a84849 !important;
+         }
          #bar_loading {
             background-color: #c45a5b !important;
          }
+         .cs-loader-inner {
+          color: #a84849;
+         }
+          .login input:focus {
+            border-color: #a84849 !important;
+          }
+          .login:not(.loading) button:hover {
+            background: #c45a5b !important;
+            color: #ffffff;
+          }
+          .login button {
+            background: #a84849 !important;
+            color: #ffffff !important;
+          }
          .mejs-controls .mejs-time-rail .mejs-time-current, 
          .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
          .mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current {
@@ -98,10 +115,11 @@
          .admin-panel .col-md-9 .list-group-item:first-child a, 
          .setting-panel .col-md-8 .list-group-item:first-child a, 
          .profile-lists .list-group-item:first-child a, 
-         .col-md-8 .list-group-item:first-child a{
+         .col-md-8 .list-group-item:first-child a,
+         .active.list-group-item:first-child a {
             color: #ffffff !important;
          }
-         .list-group-item.black-list.active-list {
+         .list-group-item.black-list.active-list, .red-list.active-list {
             color: #ffffff;
             background-color: #a84849;
          }
@@ -150,8 +168,8 @@
          .btn-active-color:hover {
             background: #c45a5b;
          }
-         .chat-container .online-toggle {
-            background: #a84849;
+         .chat-container {
+            background: #f9f9f9 !important;
          }
          .chat-tab .online-toggle {
             background: #a84849;
@@ -207,9 +225,13 @@
              padding: 6px !important;
              color: #888888 !important;
           }
+         .chat-messages-wrapper .outgoing {
+             background: #fff9f9 !important;
+         }
       </style>
    </head>
-   <body>
+   <body> 
+      <input type="hidden" class="main_session" value="c3a7d922192a0a60c0f9">
       <header class="header-container">
          <div class="navbar navbar-default navbar-fixed-top">
   <nav class="header-fixed1000">
@@ -431,7 +453,17 @@ function smokeTheHash(str) {
          <li><a data-ajax="?link1=contact-us" href="http://enetget.com/contact-us">Contact Us</a></li><li> - </li>
          <li><a data-ajax="?link1=terms&amp;type=privacy-policy" href="http://enetget.com/terms/privacy-policy">Privacy Policy</a></li><li> - </li>
          <li><a data-ajax="?link1=terms&amp;type=terms" href="http://enetget.com/terms/terms">Terms of Use</a></li><li> - </li>
-         <li><a data-ajax="?link1=terms&amp;type=developers" href="http://enetget.com/terms/developers">Developers</a></li>
+         <li><a data-ajax="?link1=terms&amp;type=developers" href="http://enetget.com/terms/developers">Developers</a></li>                           <li>-</li>
+                            <li>
+         <div class="dropdown dropup">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+             More <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu" role="menu" style="width: auto; min-width: 100px; font-size: 11px;">
+                                 <li><a href="http://enetget.com/site-pages/Affiliates">Affiliates Program</a></li>
+                              </ul>
+         </div>
+         </li> 
       </ul>
       <div class="pull-right">
          <div class="dropdown dropup">
@@ -446,6 +478,7 @@ function smokeTheHash(str) {
                               <li><a href="?lang=french">French</a></li>
                               <li><a href="?lang=german">German</a></li>
                               <li><a href="?lang=italian">Italian</a></li>
+                              <li><a href="?lang=portuguese">Portuguese</a></li>
                               <li><a href="?lang=russian">Russian</a></li>
                               <li><a href="?lang=spanish">Spanish</a></li>
                               <li><a href="?lang=turkish">Turkish</a></li>
@@ -468,7 +501,17 @@ function smokeTheHash(str) {
          <li><a data-ajax="?link1=contact-us" href="http://enetget.com/contact-us">Contact Us</a></li><li> - </li>
          <li><a data-ajax="?link1=terms&amp;type=privacy-policy" href="http://enetget.com/terms/privacy-policy">Privacy Policy</a></li><li> - </li>
          <li><a data-ajax="?link1=terms&amp;type=terms" href="http://enetget.com/terms/terms">Terms of Use</a></li><li> - </li>
-         <li><a data-ajax="?link1=terms&amp;type=developers" href="http://enetget.com/terms/developers">Developers</a></li>
+         <li><a data-ajax="?link1=terms&amp;type=developers" href="http://enetget.com/terms/developers">Developers</a></li>                           <li>-</li>
+                            <li>
+         <div class="dropdown dropup">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+             More <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu" role="menu" style="width: auto; min-width: 100px; font-size: 11px;">
+                                 <li><a href="http://enetget.com/site-pages/Affiliates">Affiliates Program</a></li>
+                              </ul>
+         </div>
+         </li> 
       </ul>
       <div class="pull-right">
          <div class="dropdown dropup">
@@ -483,6 +526,7 @@ function smokeTheHash(str) {
                               <li><a href="?lang=french">French</a></li>
                               <li><a href="?lang=german">German</a></li>
                               <li><a href="?lang=italian">Italian</a></li>
+                              <li><a href="?lang=portuguese">Portuguese</a></li>
                               <li><a href="?lang=russian">Russian</a></li>
                               <li><a href="?lang=spanish">Spanish</a></li>
                               <li><a href="?lang=turkish">Turkish</a></li>
@@ -500,13 +544,14 @@ function smokeTheHash(str) {
       </div>
       <!-- JS FILES -->
                   <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/welcome.js"></script>
+      <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/typed.js-master/js/typed.js"></script>
                         <div class="extra-css"></div>
       <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/bootstrap.min.js"></script>
       <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/readmore.min.js"></script>
       <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/jquery.form.min.js"></script> 
       <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/init.js"></script>
       <script type="text/javascript" src="http://enetget.com/themes/wowonder/javascript/automention.js"></script>
-      <!-- End 'JS FILES' -->
+                  <!-- End 'JS FILES' -->
             <script src="https://platform.vine.co/static/scripts/embed.js"></script>
       <script type="text/javascript">
   (function (factory) {
@@ -723,17 +768,7 @@ $(function () {
   850);
 });
 </script>            <!-- Audio FILES -->
-      <audio id="notification-sound" class="sound-controls" preload="auto">
-         <source src="http://enetget.com/themes/wowonder/mp3/New-notification.ogg" type="audio/ogg">
-         <source src="http://enetget.com/themes/wowonder/mp3/New-notification.mp3" type="audio/mpeg">
-         <source src="http://enetget.com/themes/wowonder/mp3/New-notification.wav" type="audio/wav">
-      </audio>
-      <audio id="message-sound" class="sound-controls" preload="auto">
-         <source src="http://enetget.com/themes/wowonder/mp3/New-message.ogg" type="audio/ogg">
-         <source src="http://enetget.com/themes/wowonder/mp3/New-message.mp3" type="audio/mpeg">
-         <source src="http://enetget.com/themes/wowonder/mp3/New-message.wav" type="audio/wav">
-      </audio>
-      <!-- End 'Audio FILES' -->
+            <!-- End 'Audio FILES' -->
    
 
 </body></html>
