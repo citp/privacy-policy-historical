@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519093550id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016061557id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bivori - The truth as I saw it!
 
