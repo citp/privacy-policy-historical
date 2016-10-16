@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426053705id_/http%3A//pastrywiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016184908id_/http%3A//pastrywiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,6 +28,6 @@ This site makes chat rooms and message boards available to its users. Please rem
 **We use an outside ad company to display ads on our site. These ads may contain cookies. PastryWiz.com has no control over the information collected by third party, and may not be held responsible for the actions of the third party measurement service where collected information is concerned. If you have questions regarding different third party measurement services and their respective methods of information collection, please contact us.
 
 **Disclosure  
-**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20160426053705id_/http%3A//pastrywiz.com/mail/stmail.htm).
+**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20161016184908id_/http%3A//pastrywiz.com/mail/stmail.htm).
 
 Copyright © PastryWiz TM
