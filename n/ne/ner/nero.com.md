@@ -1,77 +1,210 @@
-> *The following text is extracted and transformed from the nero.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311001556id_/http%3A//www.nero.com/enu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nero.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016160353id_/http%3A//www.nero.com/enu/corp-legal/privacy.php) for the most accurate reproduction.*
 
-# Nero - Privacy
+# Privacy
 
-Since your privacy is important to us, Nero AG has created this privacy statement in order to let you know our firm commitment to your privacy.
+Protection of your privacy is very important to us. These data protection regulations explain how your data will be collected and used by Nero AG, Rüppurrer Strasse 1a, 76137, Karlsruhe, Germany (“We” or “Nero”), and what obligations we have to protect this data.
 
-  1. **Our Websites**
-  2. **Nero 8 and future versions software suite**
+If you have any questions relating to these data protection regulations or require any further information, please send an e-mail to prvcynrcm.
+
+###  **I. Software, Products and Services**
+
+###  **II. Our Websites**
+
+###  **III. Changes to the Data Protection Regulations**
+
+###  **I. Software, Products and Services**
+
+  
+ _ **1\. Scope of Validity**_
+
+The following information explains to what extent data is collected, used and transmitted in the following Nero AG (“Nero”) Software, products and Services:
+
+  * Nero 8 and later versions of the Nero Suite
+  * NeroKwik Online Services
+  * NeroKwik applications for Android, iOS and Windows platforms
+  * Nero MoveIt
+  * Nero KwikMedia
+  * Nero BackItUp
+  * SyncUp
+  * Nero MobileSync
 
 
 
-## 1\. Our websites
+ _ **2\. Information collection**_
 
-The following discloses our information gathering and dissemination practices for the Nero AG group of websites which include:
+ **a. Reservation of consent:** Any collection, use or transmission of information that identifies you personally or enables us to contact you ("Personal Information") through our products requires your prior express consent. 
 
-  * nero.com
-  * ahead.de
+**b. Necessity of collection:** Collection and transmission of your information is typically necessary if you want to make use of our services, make a purchase, register your product online or wish to provide us with your personal details so that we can contact you.  
+For these purposes, either during the sign up process or registration of your software we may ask you for information including your name, e-mail address, country, language and payment information, your personal serial number for your Nero product and the internal version number of data carriers and software may also be transmitted during some registrations.  
+Certain services require the transmission of information on Nero products that have already been installed in order to recommend suitable upgrades, program modules etc. for you. Such data is processed anonymously.
+
+ **c. Anonymous use:** If you do not wish to register or provide any personal details, you will still be able to use most functions offered by our software.   
+However, you may be required to register and/or provide information including your personal serial number before you can use certain services or functions. 
+
+**d. Disclosure by Users:** Some Nero products, including the NeroKwik Online services and applications, offer users the option to share and refer their content to others. Through use of these options we may receive information necessary to provide these functionalities, e.g. your e-mail address, through these users.
+
+ **e. Your Content:** Some Nero products, including the NeroKwik Online services and applications, offer users the option to store, access, manage, edit, share and synchronize their files (e.g. Images, Video and Audio) available on their PC, Mobile Devices or through Third Party Services (“Content”) on and through Nero Servers. Use of these products and functionalities requires Nero to collect and store the Content, including associated Metadata such as filename, bitrate, geo information, modification dates, description, tags and any other information embedded in the files to enable Nero to provide the services. 
+
+**f. Device and Log File Data:** Some Nero products, including the NeroKwik Online services and applications, are made available to users on a variety of devices. Dependent on the device you use the following information may be collected solely to enable Nero to provide the services: Device ID, Device Name and Partition Information of the device.
+
+ **g. Product improvement program:** When using certain Nero products, users can choose to take part in a product improvement program. In choosing to take part in such programs, you agree to Nero collecting and transmitting Nero software usage data from their system. Some applications may also use Google Analytics, analytics services provided by Google, Inc. (“Google”) to help analyze how users use the application. The information generated by the Google Analytics will be transmitted to and stored by Google on servers in the United States.   
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.   
+This information is not of a personal nature and is sent anonymously to a secure server, where it is analyzed and used to improve the Nero Software products. No details about the content of the user is gathered.  
+The following information is collected: Product name, installed applications, version, time and date of installation, country (as indicated by the operating system settings), operating system version and the number of times the program and certain functions are accessed, Device specifications, User region information and language.  
+In any case, users can withdraw from the product improvement program at any time by deactivating the service in the software settings.
+
+ **h. Patent Activation:** Some Nero products and applications require third-party technologies to work, some of which are integrated into this version as limited versions (demo versions). Online activation provides users with unrestricted access to these technologies, allowing them to use the full functionality of the software and preventing misuse. An Internet connection or a fax machine is required for the activation.  
+Nero only transmits and processes data required to activate these technologies from third-party providers.  
+The software will only transmit this data once you have provided your consent.  
+Other than your IP address, which under certain circumstances is regarded as personal information in some jurisdictions, no personal information is transmitted to Nero.  
+You do not need to provide either your name or any other personal information during the activation.
+
+ **i. Accuracy of the data:** You can amend and correct your data via our registration systems at any time.   
+Should our automated systems not accept or implement your changes, you can send an e-mail at any time to prvcynrcm, asking us to amend your data.
+
+  
+ _ **3\. Integration of Third Party Services**_
+
+Some Nero products offer users the possibility to access functionalities and information provided by third party services, including without limitation Facebook, Dropbox, Google+, Myspace and Youtube (“Third Party Services”). Please note that Nero cannot assume any responsibility for the data protection practices or content of these services or for the manner in which they may collect data.  
+Access to any Third Party Services and Functions requires a corresponding account and verification. Access to any Third Party Services is governed by the Privacy Regulations of these third parties.
+
+ **a. Facebook:** Facebook functionalities available in our products are provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). If you access such functionalities, a connection to the Facebook servers will be established. For further information on how Facebook collects and uses data, your rights in relation to this and further options for protecting your privacy in connection with Facebook services, please see the data protection information available on Facebook.com. 
+
+**b. Dropbox:** Dropbox functionalities available in our products are provided by Dropbox Inc., 185 Berry Street, Suite 400, San Francisco, CA 94107, USA ("Dropbox"). If you access such functionalities, a connection to the Dropbox servers will be established. For further information on how Dropbox collects and uses data, your rights in relation to this and further options for protecting your privacy in connection with Dropbox services, please see the data protection information available on Dropbox.com. 
+
+**c. Google+ and Youtube:** Both Google+ and Youtube functionalities available in our products are provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. ("Google"). If you access such functionalities, a connection to the Google servers will be established. For further information on how Google collects and uses data, your rights in relation to this and further options for protecting your privacy in connection with Google services, please see the data protection information available on Google.com. 
+
+**d. Myspace:** Myspace functionalities available in our products are provided by Myspace LLC, 407 North Maple Drive, Beverly Hills, CA 90210, USA ("Myspace"). If you access such functionalities, a connection to the Myspace servers will be established. For further information on how Myspace collects and uses data, your rights in relation to this and further options for protecting your privacy in connection with Myspace services, please see the data protection information available on Myspace.com. 
+
+  
+ _ **4\. Use and Transfer of information**_
+
+ **a. Designated purpose:** Nero uses the collected information to justify, implement and process contractual relationships and to process associated payments.  
+Some information may also be used to improve our services and products if your prior express consent to  this use has been obtained.
+
+ **b. Transfer of information to third parties:** Nero reserves the right to make customer information available to affiliated companies, partners and other third parties.   
+However, any third parties are contractually associated with Nero and may only use the customer information to perform or conclude necessary transactions or functions relating to contractual relationships or products of Nero.   
+Any transactions or performance of such functions by third parties must comply with the rules outlined in these data protection regulations.  
+Any transfer of information from Nero requires the receiving party to ensure an adequate level of data protection in accordance with Directive 95/46/EC.
+
+ **c. Prosecution:** In individual cases, Nero may make collected data available to the relevant law enforcement agencies for prosecution purposes, to avert danger, to fulfill the legal duties of the constitution protection authorities and to assert its intellectual property rights.
+
+ **d. Reservation of consent;** no sale of data: Nero will not make any personal data available to anyone other than the abovementioned third parties without your prior consent.  
+In particular, Nero will not sell the data of any customers or users of its Web sites. 
+
+  
+ _ **5\. Security**_
+
+Nero provides significant protection to ensure the security of your information. This is achieved via the application of a variety of measures to protect your information from illegitimate access, use or disclosure.  
+Technical examples include the encrypted transmission of confidential information, e.g. log-in, payment information and passwords, using the SSL standard as well as redundant storage of your information and content to ensure continued availability in case of hardware failure. Also, internal procedures strictly control and limit access to relevant systems.  
+Despite our efforts to keep your information secure, please note that no system can provide 100% safety.
+
+ _  
+ **6\. Newsletter ("Opt In")**_
+
+ **a. Registration:** When registering or using our products in other ways, customers are given the opportunity to sign up for the Nero Newsletter. This newsletter provides customers with information on special offers, updates, programs, new products and/or services. 
+
+**b. Unsubscribing:** Customers can unsubscribe from the newsletter at any time via the link in the newsletter itself or by contacting us via prvcynrcm.
+
+###  **II. Our Websites**
+
+  
+ _ **1\. Area of Agreement**_
+
+The following information explains to what extent data is collected, used and transmitted on the following Nero AG (“Nero”) Web sites:
+
+  * nero.com 
+  * ahead.de 
   * nerodigital.com
+  * my.nero.com
+  * forum.my.nero.com
+  * kwikmedia.nero.com
+  * nerokwikmedia.com
+  * nerokwik.com
+  * portal.dellsyncup.nero.com
 
 
 
-### Information collection
+  
+ _ **2\. Information collection**_
 
-We will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. Generally this information is requested when you register for an online service, or you want to provide us with your personal data, to give us the opportunity to get in touch with you.  
-When you enter a contest or other promotional event, we may ask for information such as your name, address, telephone number and e-mail address so we can administer the contest and notify winners.  
-When you register, we may ask you for information such as your name, e-mail address, shipping address, and serial number.  
-We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and your time spent at our sites, and to gather broad demographic information. This allows us to see which parts of our sites users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use this information for any other puposes.  
-When a user submits personal information, it is kept on a private server not accessible from the Internet. This limits the possibility of any malicious use of your information.  
-Visitors can change or correct information about themselves via our registration system. If there is a problem with a change being accepted by our system, you may contact us at the e-mail address: [privacy@nero.com](mailto:privacy@nero.com)  
-If you choose not to register or provide personal information, you can still use most of our websites anonymously. But you will not be able to access areas that require registration. Only the domain name from which you access the Internet, the Internet address and the date and time you access our web sites are logged. Nero AG uses this information to analyze trends and to measure the number of visitors to our web sites.
+ **a. Reservation of consent:** Any collection, use or transmission of information that identifies you personally or enables us to contact you ("Personal Information") requires your prior express consent. 
 
-### Use of personal information
+**b. Necessity of collection:** Collection of your information is typically necessary when you register for one of our online services or wish to provide us with your personal details so that we can contact you.  
+For these purposes, during registration we will ask you for information including your name, e-mail address, postal address and the serial numbers of any Nero products you have bought.  
+If you choose to enter a competition or take part in any other promotional campaign, we may under certain circumstances require information such as your name, address, telephone number and e-mail address for competition management purposes and to enable us to notify the winners.
 
-Nero AG may share non-personal, summary information regarding its customers with partners or other third parties. However, for partners or third parties under contract with Nero AG, any individual customer information provided may be used solely to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement. Nero AG will not share any individual customer information outside of the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In short, Nero AG does not sell registrant information to lists. In some cases, Nero AG may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.
+ **c. Anonymous use:** If you do not wish to register or provide any personal details, you will still be able to visit most areas of our Web sites.   
+However, registration may be required to access individual services and pages. 
 
-### Opt-Out policy
+**d. Information required for technical purposes:** The above excludes information that your Internet browser transmits for technical reasons when you access our Web sites to ensure that the page content is displayed automatically.   
+Such information includes the URL of any referring Web site, your IP address and the date and time of access to our Web sites, your browser type, browser language and browser variables.   
+We may use your IP address to help diagnose problems with our server, and to administer our Web site.  
+Your IP address allows us to identify which pages of our Web sites were accessed and how much time was spent on these pages. Your IP address is also used to collect general demographic data.   
+However, we do not link IP addresses collected in this manner to personal data and we are not able to assign an IP address to an individual person in such cases. User sessions are logged but the users themselves remain anonymous.   
+We do not use this information for any other purposes.
 
-When a visitor registers, the visitor will be given the opportunity to select whether or not to be included on the Nero AG mailing list. Inclusion on the mailing list may entitle the user to receive information or updates about special offers, programs, new products and/or services. Choosing not to register means the user will not be able to receive these benefits or this information.
+ **e. Security:** We store the collected data on a secure server in a private network.   
+This increases the security of your data and reduces the risk of your data being misused by third parties.
 
-### Links to other sites
+ **f. Accuracy of the data:** Once you have registered, you can amend and correct your data via our registration system at any time.   
+Should our automated system not accept or implement your changes, you can send an e-mail at any time to prvcynrcm, asking us to amend your data.
 
-This site contains links to other sites. Please be aware that Nero AG is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.nero.com](http://www.nero.com/)
+  
+ _ **3\. Use of personal information**_
 
-### Use of “cookies”
+ **a. Designated purpose:** Nero uses the collected information to justify, implement and process contractual relationships and to process associated payments.   
+The data may also be used to modify and improve our services, products and in some cases promotional activities.
 
-During your visit to our website, so-called “cookies” are saved to your computer. These “cookies” register information about the navigation of your computer on our website (loaded pages, date, time of day and length of visit etc.) which we can access during your next visit in order to adapt the website to your personal requirements and optimize loading times. We also use this information to enter your data into enquiry forms and suchlike so that you do not need to fill them in yourself again and again.  
-We never store passwords or similarly sensitive data in cookies.  
-The use of cookies is common and advantageous. Cookies are used on most larger websites. By indicating how and when visitors use a website, cookies aid us in finding out which areas are popular and which areas are not. Many improvements and updates are based on information supplied by cookies. Cookies can also help us to personalize web content and meet the desires of our visitors.  
-Our websites do not use cookies to collect personal information from your computer that was not initially sent as a cookie.  
-You have the option to control the acceptance of cookies yourself and, if you wish, to block them entirely by configuring your browser as follows:  
-If you use the Internet Explorer to surf the net: In the “Tools” menu, click “Internet Options”, select the “Privacy” tab and click “Advanced”. Here, you can “Block” cookies or set up a “Prompt”. The latter setting allows you to decide from occasion to occasion whether you would like to accept a cookie or not.
+ **b. Transfer of information to third parties:** Nero reserves the right to make customer information available to affiliated companies, partners and other third parties.   
+However, these partners or third parties that are contractually associated with Nero may only use the customer data to perform or conclude necessary transactions or functions relating to contractual relationships or products of Nero.   
+Any transactions or performance of such functions by third parties must comply with the rules outlined in these data protection regulations.  
+Any transfer of information from Nero requires the receiving party to ensure an adequate level of data protection in accordance with Directive 95/46/EC.
 
-## 2\. Nero 8 and future versions software suite
+ **c. Prosecution:** In individual cases, Nero may make collected data available to the relevant law enforcement agencies for prosecution purposes, to avert danger, to fulfill the legal duties of the constitution protection authorities and to assert its intellectual property rights.
 
-### Information collection
+ **d. Reservation of consent;** no sale of data: Nero will not make any personal data available to anyone other than the abovementioned third parties without your prior consent.  
+In particular, Nero will not sell the data of any customers or users of its Web sites. 
 
-The following discloses our information gathering and dissemination practices for the Nero AG software suite Nero 8.  
-**a) Registration**  
-We will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. Generally this information is requested when you register your copy of the Nero 8 software suite.  
-When you register your copy of the Nero 8 software suite, we will ask in the user registration dialog for some personal data including, but not limited to your First Name and Last Name, your e-mail address and your home country. During the registration process your personal Nero 8 serial number will be also submitted and the Nero internal version of the disc and software.
+  
+ _ **4\. Newsletter ("Opt In")**_
 
-**b) Nero Improvement Program**  
-During the installation of the software suite, the user will be given the opportunity to select, whether or not, to participate in the Nero Improvement Program. In the Nero Improvement Program, the user allows Nero to retrieve non-personal Nero application usage information from the users system, afterwards this information will be sent anonymously to a secure Nero server for analysis in order to further improve the Nero software suite. The following non-personal information is retrieved: **Name of the Product, Installed applications, version, time and date of installation, country (according to the settings of the operating system), version of operating system and the count of application starts. The data with the count of application starts will be sent anonymously to a secure Nero server, on a regular basis. The participation in this Nero Improvement Program can be cancelled at any time, by simply deactivating this service in the Nero ControlCenter.**
+ **a. Registration:** When registering on our Web sites or using our services in any other way, customers are given the opportunity to sign up for the Nero Newsletter. This newsletter provides customers with information on special offers, updates, programs, new products and/or services. 
 
-### Use of personal information
+**b. Unsubscribing:** Customers can unsubscribe from the newsletter at any time via the link in the newsletter itself or by contacting us via prvcynrcm.
 
-Nero AG may share non-personal, summary information regarding its customers with partners or other third parties. However, for partners or third parties under contract with Nero AG, any individual customer information provided shall be used only to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement. Nero AG will not share any individual customer information outside of the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In short, Nero AG does not sell registrant information to lists. In some cases, Nero AG may use a user's personal information to understand overall patterns for software usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, e-mail address, telephone number, etc.
+  
+ _ **5\. Links to other sites**_
 
-### Opt-Out policy
+This Web site contains links to other Web sites. Please note that Nero cannot assume any responsibility for the data protection practices or content of these Web sites or for the manner in which they may collect data.  
+Read the data protection policy of each Web site you visit with care, as this may differ from our data protection regulations. Our data protection policy applies exclusively to the Web sites listed above.
 
-When a user registers, the user will be given the opportunity to select whether or not to be included in the Nero AG mailing list. Inclusion on the mailing list may entitle the user to receive information or updates about special offers, programs, new products and/or services.
+  
+ _ **6\. Integration of Functions from Third-Party Providers**_
 
-**To help us improve our privacy policies, please give us your[feedback, comments and suggestions](mailto:privacy@nero.com).**
+ **a. Facebook:** Our websites contain plug-ins from the social networking site Facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). If you access a page of our Web site that contains one of these plug-ins, a connection to the Facebook servers will be established and the plug-in will be shown on the web page following notification of your browser. This notifies the Facebook server as to which of our web pages you have visited. If you are logged onto Facebook during this process, Facebook will assign this information to your personal Facebook user account.  For further information on how Facebook collects and uses data, your rights in relation to this and further options for protecting your privacy in connection with Facebook services, please see the data protection information available on Facebook.com. 
 
-### Updates and Changes to Privacy Statement
+**b. SocialTwist:** Our Web sites offer functions from various social media platforms. We use SocialTwist for this purpose. For further information on how SocialTwist collects and uses data, your rights in relation to this and further options for protecting your privacy in connection with SocialTwist services, please see the data protection information at <http://tellafriend.socialtwist.com/privacy-policy>.
 
-We reserve the right, at any time and without notice, to add, to change, update or modify this Privacy Statement, simply by posting such change, update or modification on the web site. Any such change, update or modification will be effective immediately upon posting on the web site.
+ **c. Tracking pixels:** Our Web site uses what are known as tracking pixels to trace commercial data. These are used to trace the effectiveness of promotional communication.
+
+ **d. Google Analytics:** This website uses Google Analytics and Google Remarketing, web analytics services provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.   
+Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.   
+Google and other third parties utilize the placed cookies to display advertisements based on the previous visits of this website.  
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser as outlined in Section 7 of this document. However please note that if you do this you may not be able to use the full functionality of this website. You may also disable the collection and transfer of the data to Google by installing the Browser-Plugin available via (<http://tools.google.com/dlpage/gaoptout?hl=de>).   
+More information on Google policies regarding Privacy can be accessed via following links: <http://www.google.com/analytics/terms/de.html> or via <http://www.google.com/intl/de/analytics/privacyoverview.html>.
+
+  
+ _ **7\. Use of “cookies”**_
+
+ **a. Use of cookies:** When you visit our Web site, what are known as cookies are saved on your computer. These cookies record information about your surfing behavior (selected language, country, pages loaded, date, time of day, length of visit etc.). We can then access this information on your next visit, enabling us to adapt the Web site to your personal preferences and reduce loading times to a minimum. Moreover, we use this information to automatically populate forms with your data so that you don't have to enter it again yourself. The use of cookies is commonplace and offers many advantages. Most major Web sites use cookies. The information contained in cookies relating to how and when visitors use a Web site helps us identify which sections of the Web site are popular and which are not. Many improvements and updates stem from information gathered by cookies. Cookies also help us to offer customized web content and meet the needs of our visitors. "Session cookies", which are automatically deleted when the browser is closed, are required among other things to carry out online purchases.
+
+ **b. Sensitive data:** We do not store passwords and similarly critical data in cookies. Our Web sites do not use cookies to gather personal data from your computer that has not been sent as a cookie when you first visit the Web site. 
+
+**c. Blocking cookies:** You can choose to manage the use of cookies yourself or even block them altogether by configuring your browser accordingly. Please note that the procedure to change these settings may vary depending on the Browser used. If you are using Microsoft Internet Explorer proceed as follows: Go to "Tools" and "Internet Options", select the "Privacy" tab and click on "Advanced". This allows you to block the use of cookies altogether. Blocking cookies may restrict the functionality of the Web site or web-based programs. 
+
+###  **III. Changes to the Data Protection Regulations**
+
+Nero reserves the right to change, update or modify these data protection regulations at any time and without notice by publishing such changes, updates or modifications on its Web site. Nero, at its sole discretion, may also choose to provide notification of such changes via its product or services. Any such changes, updates or modifications will become effective immediately upon being published on the Web site.   
+Nero encourages regular review of this statement to keep you informed on how your information is protected.  
+
