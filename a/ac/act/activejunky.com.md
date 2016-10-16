@@ -1,39 +1,25 @@
-> *The following text is extracted and transformed from the activejunky.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324154811id_/http%3A//www.activejunky.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activejunky.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016231100id_/http%3A//activejunky.com/about_us/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Activejunky.com | Backcountry, Cabela's, Jenson USA, Moosejaw Coupons and Cash Back
 
-### Privacy Policy
+AJ may use third-parties (such as network advertisers) to serve advertisements on the AJ website, and we may use traffic measurement services to analyze traffic on the AJ website. Network advertisers are third-parties that display advertisements based on your visits to the AJ websites and other websites you have visited. This practice is sometimes called “behavioral advertising.” 
 
-Respek! Active Junky respects your privacy and our Privacy Policy is committed to protecting your privacy when you are on our website. 
+Third-party ad serving allows AJ and third-parties to target advertisements to you for products and services that may interest you (behavioral advertising). AJ’s third-party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may set and access their own cookies and other Tracking Technologies on your computer. For example, the Google Trusted Store badge displayed on some of our Websites is served to you through the use of cookies. Cookies may also track certain behavioral information regarding users of your computer via a Device ID. These third-party cookies and other tracking technologies (e.g., clear GIFs, pixels) are set to, among other things: 
 
-### Data Collection
+  * help deliver advertisements to you for products or services that may be of interest to you,
+  * prevent you from seeing the same advertisements too many times, and
+  * help us and the third parties understand the usefulness to you of the advertisements that have been delivered to you.
 
-We collect your name and email address. That's it. We strive to give you as many benefits as possible in order to help you maximize your Cash Back through AJ. We collect that information from you so that we can track your purchases and give you Cash Back. We may use the data that is created by stores your visit and purchases you make in order to send you specific deals that would be relevant to you. 
+Any images (or any other parts of a web page) served by third-parties in association with third-party cookies may serve as web beacons which enable third-parties to carry out the previously described activities. 
 
-### Personal Information
+Third-party cookies, web beacons, and other third-party tracking technologies are governed by each third-party’s specific privacy policy, not this one. 
 
-Only a select few AJ employees will ever see your personal information. It is only accessed in order to track your purchases and send you Cash Back. In the event that we use contractors or venders to help us in providing services, your information will only be disclosed to them with a confidentiality requirement in place. We reserve the right to disclose your information to protect our rights, comply with state or federal laws, judicial proceedings, or court order. Wow, that sounded serious.
+AJ may use a variety of companies to serve advertisements on the AJ websites. 
 
-### Privacy With Active Junky
+You may wish to visit  <http://www.networkadvertising.org/> (the “NAI Site”) and <http://www.aboutads.info/principles/> (the “DAA Site”) to learn more about online advertising including behavioral advertising. The NAI Site provides information about the Network Advertising Initiative (“NAI”), its members, and your choices regarding having information used by NAI companies, including the “opt-out” procedures of NAI members which are located at:  [http://www.networkadvertising.org/choices/.](http://www.networkadvertising.org/choices/) The DAA Site provides information about the Digital Advertising Alliance and the companies who participate in its transparency and choice program around interest-based advertising.  You can opt-out of having the participating companies collect Web viewing data for interest- based advertising by visiting this page:  [http://www.allaboutcookies.org/.](http://www.aboutads.info/choices/)
 
-AJ will never ask you for your personal information such as username, password, or email address in an unsolicited letter, call, or email. If you contact and AJ customer service representative, any personal information you disclose will only be utilized if necessary to fulfill a request. The information will not be recorded. If you utilize our referral program, we will ask for your friend's name and email address. Your friend will receive an email from us with an invitation to join. We only ask for that information in order to track the referral process and execute that one-time email. Your friend may at any time contact support@activejunky.com and request that his information be removed from our database.
+You may also wish to visit Google’s advertising opt-out page located at:  [http://www.google.com/policies/privacy/ads/.](http://www.google.com/policies/privacy/ads/) There you will find information about “opting-out” of Google’s use of cookies to serve ads based on your prior visits to our Websites. 
 
-### Privacy with stores and advertisers
+Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice. Also, if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on this website, but these advertisements may not be as relevant to you. 
 
-AJ may have access to order information including numbers and amounts from affiliate sites, but this information will not be released by AJ. AJ has links on our website to many other sites and their privacy policy is unique to them. Our privacy policy does not apply to any affiliate stores so if they are communicating with you and you would like to cease communication please refer to their sites policy. 
-
-### Email Policy
-
-AJ sends personal customer service emails as well as promotional emails. You are required to receive emails regarding your personal account, but if you would like to stop receiving promotional emails you may do so clicking "unsubscribe" link at the bottom of any email. Please read our Terms and Conditions if you'd like more information about spamming; it is explicitly prohibited.
-
-### Cookies
-
-Cookies are small text files that a website writes onto your computer. They are used by our affiliate sites to recognize you as an AJ member and track your purchases. Cookies also identify you on the AJ site and keep you logged in while browsing. Cookies must be enabled to collect Cash Back rewards. Take a bite off that cookie yo!
-
-### Your Choice and Responsibility
-
-We will periodically send you promotional emails regarding especially awesome deals on certain products. You have the choice to stop these communications at any time and can do so at the bottom of any email.
-
-It is your responsibility to update and maintain all account information. Your address entered in your account is the location to which we will send you cash back. AJ is not responsible for Cash Back being sent to incorrect addresses. To update your information, visit your profile page.
-
-We post all changes to this Privacy Agreement here on our site; it is your responsibility to check for updates even though this information might bore you. 
+For additional information on cookies and web beacons, please visit  [http://www.allaboutcookies.org/.](http://www.allaboutcookies.org/)
