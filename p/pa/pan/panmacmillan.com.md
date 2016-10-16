@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407115119id_/https%3A//www.panmacmillan.com/panmac/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panmacmillan.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016032050id_/https%3A//www.panmacmillan.com/panmac/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,11 +78,12 @@ This website is operated by Macmillan Publishers International Limited, trading 
 
 Our registered office is at:
 
-Brunel Road  
-Houndmills  
+Cromwell Place  
+Hampshire International Business Park  
+Lime Tree Way  
 Basingstoke  
 Hampshire  
-RG21 6XS
+RG24 8YJ
 
 Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: [webqueries@macmillan.co.uk](mailto:webqueries@macmillan.co.uk)
 
