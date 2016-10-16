@@ -1,47 +1,72 @@
-> *The following text is extracted and transformed from the articlesmart.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060654id_/http%3A//articlesmart.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesmart.org privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016155855id_/http%3A//articlesmart.org/legal/privacy-policy) for the most accurate reproduction.*
 
-# Articlesmart.org | Privacy Statement
+# Privacy Policy
 
-Articlesmart.org strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
+## Introduction
 
-**How we gather information from users**
+### This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [http://articlesmart.org](http://articlesmart.org/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Articlesmart.org also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
+We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
 
-**What we do with the information we collect**
+We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
+Please also review our Terms of Use section that governs the use and the users of the Site.
 
-We may use Personally Identifiable Information collected on www.Articlesmart.org to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.Articlesmart.org and other topics we think you might find of interest. 
+By using our site, you consent to our privacy policy.
 
-Personally Identifiable Information collected by Articlesmart.org may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
+If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
 
-**Affiliated sites, linked sites and advertisements**
+## Contact Data and Other Identifiable Information
 
-Articlesmart.org expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Articlesmart.org page, certain content that is actually created or hosted by a third party. Also, through Articlesmart.org you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Articlesmart.org is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. YOUR SITE NAME HERE does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
+  * Personalize the user experience and/or customer service
+  * Improve the site
+  * To process transactions
+  * Administer a contest, promotion, survey or other site feature or function
+  * Send email to users
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Articlesmart.org and this policy. 
 
-**Children**
 
-Articlesmart.org does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe YOUR SITE NAME HERE has any information from or about anyone under 13, please contact us at the address listed below. 
+are the site owner’s advertisers and marketing partners,
 
-**Contacting Us**
+## Mobile Device Privacy
 
-We can be reached by emailing us. 
+The following applies to our site, when viewed on a mobile device:  
+When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
+If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
 
-**Changes to this Policy**
+### Advertising Network
 
-Articlesmart.org reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+We use one or more third party vendors to serve ads on the Site. To serve ads and determine how our users use the Site, these services use cookies, or small pieces of code to serve ads to Site users based on users’ visits to the Site and others. Users may adjust their browser settings to disallow the use of cookies. With cookies turned off, certain features of the Site may work less efficiently or not at all.
 
-**Governing law**
+### Cookies
 
-This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+This site uses cookies. Cookies are small pieces of code that the Site or a service provider will put on your computer if your Web browser allows it. The Site uses cookies to recognize and keep certain information. On the Site, that information may be used to recognize your computer and browser from current or past visits to the Site or related sites. We may use this cookie-captured information to improve our service to you, to aggregate information about visitors to the Site and their behavior, to remember and process items in your shopping cart, to understand and save user preferences, or to keep track of advertising. We may contract with third-party service providers to assist us in better understanding our site visitors.  
+In most Internet browsers, you can change your settings so that you will be warned each time a cookie is being sent, or so that cookies will be turned off. With cookies blocked, some functions of the Site may not operate properly.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+## Usernames, Passwords, and Profiles
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+If prompted, Users must provide a valid email address to the Site, at which the User can receive messages. User must also update the Site if that email address changes. The Site reserves the right to terminate any User account if a valid email is requested but is not provided by the User.  
+If the Site prompts or allows a User to create a username or profile, Users agree not to pick a username or provide any profile information that would impersonate someone or that is likely to cause confusion with any other person or entity. The Site reserves the right to cancel a User account or change a username or profile data at any time. Similarly, if the Site prompts or allows a User to create an avatar or upload a picture, User agrees not to use any image that impersonates some other person or entity, or that is otherwise likely to cause confusion.  
+You are responsible for protecting your username and password for the Site, and you agree not to disclose it to any third party. We recommend that you use a passwork that is more than eight characters long. You are responsible for all activity on your account, whether or not you authorized it. You agree to inform us of unauthorized use of your account, by email to admin2@articlesmart.org. You acknowledge that if you wish to protect your interactions the Site, it is your responsibility to use a secure encrypted connection, virtual private network, or other appropriate measures.
+
+## Disputes
+
+We are based in Vernon, New Jersey and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of Vernon, New Jersey, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in Vernon, New Jersey will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+
+## ARBITRATION
+
+Notwithstanding anything that may be contrary within the “Disputes” provisions above, all matters, and all claims within a multi-claim matter, that are arbitrable, including all claims for monetary damages, shall be decided by a single arbitrator to be selected by us, who shall hold hearings in or near Vernon, New Jersey, under the rules of the American Arbitration Association.
+
+## Terms Contact
+
+If you have any questions about these Terms, please address them to admin2@articlesmart.org.
+
+## Last Updated
+
+These terms were last updated on _August 15, 2016_
+
+[](http://resell-rights-weekly.com/members/?rid=6080)
