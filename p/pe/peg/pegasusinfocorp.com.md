@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegasusinfocorp.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524113737id_/http%3A//www.pegasusinfocorp.com/pegasus_infocorp_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegasusinfocorp.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016181021id_/http%3A//www.pegasusinfocorp.com/pegasus_infocorp_privacy_statement.htm) for the most accurate reproduction.*
 
 # Web Based Solutions - Pegasus Infocorp - web development and web design company, advanced ecommerce website development, educational portals and website development, corporate portal development, retail ecommerce portals, uk web development and design, uk web development, website design and development USA, website development USA
 
