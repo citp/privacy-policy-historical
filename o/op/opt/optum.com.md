@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410060250id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optum.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016194721id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Optum Website Privacy Policy - Optum.com
+# Privacy policy
 
 #### Introduction
 
@@ -28,7 +28,7 @@ We may use and disclose your activity information unless restricted by this poli
   * Developing reports regarding website usage, activity, and statistics.
   * Assisting users experiencing website problems.
   * Enabling certain functions and tools on this website.
-  * Tracking paths of visitors to this website and within this website.
+  * Tracking paths of visitors to this website and within this website. 
 
 
 
@@ -52,9 +52,9 @@ We may use personal information for a number of purposes such as:
 
 
 
-We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled “Our Online Communications Practices.”
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled “Our Online Communications Practices.”  
 
-We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
+We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.        
 
 #### Sharing Personal Information
 
@@ -68,7 +68,7 @@ If you submit information or a posting to a chat room, bulletin board, or simila
 
 We may also share personal information with other third party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications.
 
-This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information.
+This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
 
 #### Website and Information Security
 
@@ -76,20 +76,24 @@ We maintain reasonable administrative, technical and physical safeguards designe
 
 #### Our Online Communication Practices
 
-We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications.
+We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications. 
 
-#### **Information for Children Under 13**
+#### Social Security Number Protection Policy
 
-We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
+Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
+
+#### Information for Children Under 13
+
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
 
 #### Contact Us
 
-To contact us regarding this policy and our related privacy practices, please email or write to us at: [privacy@optum.com](mailto:privacy@optum.com) or Optum Privacy Office, MN051, 13625 Technology Drive, Eden Prairie, MN 55344. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
+To contact us regarding this policy and our related privacy practices, please email or write to us at: [privacy@optum.com](mailto:privacy@optum.com) or Optum Privacy Office, MN101-E013, 11000 Optum Circle, Eden Prairie, MN 55344. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse. 
 
 #### Effective Date
 
-The effective date of this policy is January 1, 2014.
+The effective date of this policy is September 30, 2016.
 
-#### **Changes to this Website Privacy Policy**
+#### Changes to this Website Privacy Policy
 
-We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.   ****
