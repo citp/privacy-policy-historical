@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the startinghobbies.com privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531123212id_/http%3A//startinghobbies.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startinghobbies.com privacy policy that was archived on 2016-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161016055617id_/http%3A//startinghobbies.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><head>
 	<title>  Privacy Policy</title>
 	<!--iOS/android/handheld specific -->	
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136911316406581"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136911316406581"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"2899bd0a132b3a79a0205172f96f2a45",petok:"a44783b8c4355128d08b88c7b6f0467ce960b7c3-1464697932-1800",adblock:1,betok:"451fd7cef64664a7e27d25d0f279be1d60103e51-1464697932-120",zone:"startinghobbies.com",rocket:"0",apps:{},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"2899bd0a132b3a79a0205172f96f2a45",petok:"4c104efa4f1ac29db4686d47385e604ae511e1da-1476597377-1800",adblock:1,betok:"f676bdab52e85125ed965ab9f9616ff2baff996e-1476597377-120",zone:"startinghobbies.com",rocket:"0",apps:{}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -76,7 +76,17 @@ body {background-image:url(http://startinghobbies.com/app/themes/softpress/image
 	
 <script>
 window['process_tag_vars'] = {};
-
+String.prototype.parseUrlParams = String.prototype.parseUrlParams || function () {
+		var str = this || '';
+		if (str) {
+			str = str.split("+").join(" ");
+		}
+		var params = {}, tokens, re = /[?&]([^=]+)=([^&]*)/g;
+		while (tokens = re.exec(str)) {
+			params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+		}
+		return params;
+	};
 function process_tag(tag) {
 	var topWindow = window['topWindow'] || window;
 	window['process_tag_vars']['v'] = 1;
@@ -99,10 +109,26 @@ function process_tag(tag) {
 		window['errorLog'] && window['errorLog']('pt2', e);
 		window['track'] && window['track']('pt2', e);
 	}
-	return tag;
+	// return tag;
+	var anId = '922817'
+	var proxy = 'http://pixel.adsafeprotected.com/vast?anId=' + anId + '&campId=general';
+	try {
+		var urlParams = String(window.location.href).parseUrlParams();
+		var zz = urlParams && urlParams.zz || 'unknown';
+		proxy += '&placementId=' + encodeURIComponent(window.location.host)
+		proxy += '&pubId=' + encodeURIComponent(zz)
+	} catch (e) {
+		console.warn(e)
+	}
+	try {
+		proxy += '&originalVast=' + encodeURIComponent(tag)
+	} catch (e) {
+		console.warn(e)
+	}
+	return proxy;
 }</script>
 	<!-- jwplayer -->
-<script src="//c.fqtag.com/tag/implement-r.js?org=zoYCz5adAIgRlrLNaegK&amp;p=unknown&amp;fmt=video&amp;rd=startinghobbies.com&amp;rt=display&amp;sl=1&amp;fq=1" type="text/javascript"></script></head>
+</head>
 <body id="blog" class="page page-id-10 page-template-default main">
 	<header class="main-header">
 		<div class="container">
