@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623225340id_/http%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016030001id_/https%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
 
 # Smashwords – About Smashwords — Privacy Policy
 
 Smashwords has created this privacy statement to explain our commitment to privacy. The following discloses our information gathering and dissemination practices for this site. 
 
-**Our 100% privacy promise to you:** Smashwords is committed to protecting the privacy of our visitors and members. We will never sell or rent your personally identifiable information to anyone. You always control your communications preferences.
+**Our 100% privacy promise to you:** Smashwords is committed to protecting the privacy of our visitors and members. We will never sell, rent or share your personally identifiable information to anyone. You always control your communications preferences.
 
  **INFORMATION COLLECTED ON THIS SITE:**  
 For all web site visitors, we collect your IP addresses, browser type, page views, clickstream and usage, and sometimes third parties (such as Google Analytics) may provide this service for us. This information helps us continually optimize the performance and usability of the site; display content and advertising that matches visitor or member interests; protect authors, publishers and customers against fraud, and make automated book recommendations.   
@@ -18,7 +18,7 @@ Smashwords allows member authors to publish their works under assumed “pen nam
 Authors who wish to sell their works on Smashwords are required to provide more detailed registration information, such as real name, a postal mailing address, a phone number, and possibly tax ID information to comply with State and local tax codes. Smashwords will only use this contact information to fulfill our obligations to you, and will not sell or rent your information to third parties.
 
  **Smashwords Email Policy:**  
-Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed, or when Smashwords sends out exclusive Author/Publisher alerts.  After you purchase a book, we may send you an automatic email reminder to review it. We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at [https://www.smashwords.com/account/comm](https://web.archive.org/account/comm). Smashwords does not allow third parties to send emails to its members. Member email addresses are never revealed on the web site by Smashwords. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/about/tos) for more information.
+Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed, or when Smashwords sends out exclusive Author/Publisher alerts.  After you purchase a book, we may send you an automatic email reminder to review it. We may add additional event triggers or email alerts in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at [https://www.smashwords.com/account/comm](https://web.archive.org/account/comm). Smashwords does not allow third parties to send emails to its members. Member email addresses are never revealed on the web site by Smashwords. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/about/tos) for more information.
 
  **Advertising on the Smashwords Site:**  
 Although Smashwords does not currently run advertising, we may run ads in the future. If we run ads, we will do our best to make them unobtrusive, and when possible, informative and targeted to your specific interests. We will never use pop-up or pop-under ads because we think they’re annoying.
@@ -31,20 +31,20 @@ Children, should they wish to join, are allowed to become members. The above onl
 **Choice/Opt-Out**  
 Smashwords provides users the opportunity to opt-in and opt-out of receiving email communications from Smashwords. For members who have specifically requested to receive communications from Smashwords, they can cancel the communications at any time by clicking on the links contained in the email or by adjusting communications preferences at [http://smashwords.com/account/comm](https://web.archive.org/account/comm)
 
-This site gives users the option to remove their information from our database and to not receive future communications or receive our service. Members who wish to close their Smashwords account can do so by clicking the "support" link at the bottom of any Smashwords page.
+This site gives users the option to close their account and to not receive future communications or receive our service. Members who wish to close their Smashwords account can do so by clicking the "support" link at the bottom of any Smashwords page.
 
  **Change/Modify**  
 This site gives users the option to change and modify information previously provided by going to the member profile page.
 
   
 **Cancelling Your Membership**  
-To have your account closed, click on the customer support "?" link at the top of every Smashwords web page, or the "support" link at the bottom of any page.  Be sure to log into your account before making this request so we can authenticate the request.  
+To have your account closed, click on the customer support "?" link at the top of any Smashwords web page, or the "support" link at the bottom of any page.  Be sure to log into your account before making this request so we can authenticate the request.  
  **  
 ** **  
 Contacting Smashwords by Postal Mail  
 **
 
-We don't recommend contacting us by postal mail.  If your matter is urgent, or if you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact our support team by clicking the "support" link at the bottom of any Smashwords web page.  For postal deliveries, our mailing address is listed below.  Please do not use postal mail to send us paper books, query letters, customer support inquiries or books on disks.  All written correspondence should include an email address, otherwise we cannot respond.
+We don't recommend contacting us by postal mail.  If your matter is urgent, or if you have any questions about this privacy statement, the practices of this site, or your dealings with Smashwords or our authors, please contact our support team by clicking the "support" link at the bottom of any Smashwords web page.  For postal deliveries, our mailing address is listed below.  Please do not use postal mail to send us paper books, query letters, customer support inquiries, books on disks or general questions.  All written correspondence should include an email address, otherwise we cannot respond.
 
   
 Customer Support  
