@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the multilotto.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314153720id_/https%3A//www.multilotto.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilotto.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016155814id_/https%3A//www.multilotto.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Lotto - Lottery results - Play Powerball & Euromillions | Multilotto
+# Lotto - Lottery Results - Play Lotto Online at Multilotto!
 
-## Privacy Policy
-
-MULTILOTTO.COM (the website and brand), hereinafter referred to as ‘MULTILOTTO is owned and operated by MULTI BIZ HOLDINGS LTD. MULTILOTTO is committed to ensuring that European Union legislation on data protection is observed during all stages of processing. We want to ensure that as our customer you feel safe in the knowledge that we shall treat all your personal data as highly confidential. Please take the time to read our Privacy Policy carefully. 
+MULTILOTTO is committed to ensuring that European Union legislation on data protection is observed during all stages of processing. We want to ensure that as our customer you feel safe in the knowledge that we shall treat all your personal data as highly confidential. Please take the time to read our Privacy Policy carefully. 
 
   
 
@@ -64,29 +62,26 @@ MULTILOTTO shall inform you of any changes to our privacy policy either by means
 
 If you have any questions in regard to our Privacy Policy kindly contact us and our staff will be more than willing to help you out with any queries you may have.
 
-**3.6 CHANGES IN OUR COMPANY/BUSINESS STRUCTURE**  
-Should MULTI BIZ HOLDINGS LTD or the group of companies of which MULTI BIZ HOLDINGS LTD forms part undergo any changes to their company structure such as a merger, acquisition by another company or a partial acquisition it is most likely that our customer's personal data will be included within the sale or transfer. We will as part of our policy inform our customers by email prior to affecting such transfer of the personal data.
-
-**3.7 LEGAL DISCLAIMER RE PRIVACY POLICIES OF THIRD PARTIES**  
+**3.6 LEGAL DISCLAIMER RE PRIVACY POLICIES OF THIRD PARTIES**  
 MULTILOTTO shall in no manner whatsoever be held responsible for the manner in which third parties process the personal data of our customers.
 
 MULTILOTTO shall only be responsible for its own privacy policy and it does not warrant the standard of the privacy policies of any of the third parties who may have links placed on our site.
 
 WE STRONGLY RECOMMEND THAT WHEN YOU LEAVE OUR SITE YOU GO THROUGH THE PRIVACY POLICY OF THE NEW SITES YOU HAVE ENTERED.
 
-**3.8 RECOMMENDATION TO REFRAIN FROM DIVULGING PERSONAL DATA TO THIRD PARTIES**  
+**3.7 RECOMMENDATION TO REFRAIN FROM DIVULGING PERSONAL DATA TO THIRD PARTIES**  
 MULTILOTTO strongly recommend that you do not divulge your personal data to strangers or third parties during chat rooms. Remember that your personal data is sensitive and stop and think before passing on information which you may come to regret.
 
 MULTILOTTO strongly recommend that you do not choose your username as your alias. It is advisable for your alias to be different to your user name.
 
-**3.9 CLOSING AN ACCOUNT WITH US**  
+**3.8 CLOSING AN ACCOUNT WITH US**  
 As our customer you may close your account with us at any time.
 
 You must first withdraw any existing funds from your account and then send an email to support@multilotto.com requesting us to close your account.
 
 Following closure of your account we will retain your personal data on record for as long as required by law. We shall only use your data should this be required by authorities in cases of fraud or other illegal activity. This will be the sole exception to use of your personal data until its complete deletion from our records.
 
-**3.10 CLOSING A CUSTOMER'S ACCOUNT**  
+**3.9 CLOSING A CUSTOMER'S ACCOUNT**  
 As our customer you may close your account with us at any time. You must first withdraw any existing funds from your account and then send an email to [support@multilotto.com](mailto:support@multilotto.com) requesting us to close your account. Following closure of your account we will retain your personal data on record for as long as required by law. We shall only use your data should this be required by authorities in cases of fraud or other illegal activity. This will be the sole exception to use of your personal data until its complete deletion from our records.
 
   
