@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322181241id_/https%3A//www.hardrockhotel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrockhotel.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016044814id_/https%3A//www.hardrockhotel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hard Rock Hotel and Casino Las Vegas
 
@@ -20,7 +20,6 @@ Please click on the sections below to learn more about our privacy policy:
   * **DISCLOSURES OF YOUR INFORMATION**
   * **WHERE WE STORE YOUR PERSONAL INFORMATION**
   * **COOKIES**
-  * **SOCIAL MEDIA**
   * **CHILDREN**
   * **YOUR RIGHTS AND CHOICES**
   * **LINKS TO THIRD PARTY SITES**
