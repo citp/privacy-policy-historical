@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsm-publishing.co.uk privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523165453id_/http%3A//dsm-publishing.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm-publishing.co.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016194524id_/http%3A//dsm-publishing.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DSM Publishing
 
