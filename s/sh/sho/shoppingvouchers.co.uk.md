@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingvouchers.co.uk privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513165901id_/http%3A//shoppingvouchers.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingvouchers.co.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016094907id_/http%3A//shoppingvouchers.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
