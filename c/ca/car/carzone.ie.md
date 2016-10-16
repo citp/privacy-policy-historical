@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309014927id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016184004id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Find Used Car For Sale, Buy Used Car, Sell Used & Second Hand Cars - Carzone
+# Our Privacy Policy | Carzone
 
 By using Carzone.ie, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy (last updated on 29th April 2013). If you do not agree with these terms, you should not use Carzone.ie.
 
