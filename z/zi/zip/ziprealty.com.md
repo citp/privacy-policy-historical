@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322183627id_/https%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016151025id_/https%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Homes for Sale, MLS Listings Search, Real Estate Agents -- ZipRealty
 
 Last updated: Dec 1, 2015 
 
-This Privacy Policy (this "Policy") describes the policies and procedures of ZipRealty (along with our affiliates, "we", "our" or "us") on the how we collect, use and disclose of information through your use of this website or our mobile application (collectively, the "Service"). 
+This Privacy Policy (this "Policy") describes the policies and procedures of ZapLabs LLC (along with our affiliates, "we", "our" or "us") on the how we collect, use and disclose of information through your use of this website or our mobile application (collectively, the "Service"). 
 
 We may change this Policy, and will provide notice of changes through the Service or by email. Your continued use of the Service after notice constitutes your consent to the change. 
 
@@ -140,4 +140,4 @@ California residents may request from businesses with whom they have an establis
 
 **CONTACT US**
 
-If you have any questions about this Policy, please contact us. Our email address is [team@ziprealty.com](mailto:team@ziprealty.com). 
+If you have any questions about this Policy, please contact us. Our email address is [team@zaplabs.com](mailto:team@zaplabs.com). 
