@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chimaonline.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620073318id_/http%3A//www.lego.com/en-us/legal/legal-notice/privacy-policy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chimaonline.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017000224id_/http%3A//www.lego.com/en-us/legal/legal-notice/privacy-policy-full) for the most accurate reproduction.*
 
 # LEGO.com Legal - Legal Notice - Privacy Policy
 
