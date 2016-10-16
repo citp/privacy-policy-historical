@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enetget.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612103121id_/http%3A//enetget.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enetget.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016185523id_/http%3A//enetget.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # eNetGet Social Network | Privacy Policy
 
