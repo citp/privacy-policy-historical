@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbusterathome.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602152540id_/http%3A//www.dish.com/downloads/legal/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbusterathome.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016075700id_/http%3A//blockbusterathome.com/downloads/legal/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # 
 
