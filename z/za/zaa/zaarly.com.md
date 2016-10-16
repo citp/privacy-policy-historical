@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaarly.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406011456id_/https%3A//www.zaarly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaarly.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017012624id_/https%3A//www.zaarly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zaarly
 
@@ -97,5 +97,5 @@ This Privacy Policy is subject to occasional revision at our discretion, and if 
 ## Contact us at our headquarters:
 
 Zaarly, Inc.  
-14 Mint Plaza, Suite 400  
-San Francisco, CA 94103
+3500 West 75th Street  
+Prairie Village, KS 66208
