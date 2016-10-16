@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617080812id_/http%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016230445id_/https%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | South Beach Smoke
 
@@ -6,7 +6,7 @@ Effective June 1, 2010
 
 **Website Privacy Policy & Terms of Use**
 
-Click here for our [Terms of Use](http://www.southbeachsmoke.com/terms.html/)
+Click here for our [Terms of Use](https://www.southbeachsmoke.com/terms.html/)
 
 South Beach Smoke E-Cigarette is intended for use by adult smokers and not intended for pregnant women or those who are sensitive to nicotine. Nicotine is highly addictive and may be dangerous to your health. South Beach Smoke E Cigarette is not intended as a smoking cessation device. The South Beach Smoke Electronic Cigarette offers smokers a tar-free way to enjoy smoking.
 
