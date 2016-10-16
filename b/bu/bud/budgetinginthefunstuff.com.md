@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614105804id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016024115id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyBudgeting In the Fun Stuff
 
@@ -10,3 +10,6 @@ We record anonymous data. Most of the information that we collect from this webs
 
 **Cookies**  
 We use cookies on this website. We use Google, as a third party advertising company to serve ads when you visit our website. Google a [DoubleClick DART cookie ](http://www.doubleclick.com/privacy/faq.aspx)to serve ads to you based on visit to this sites and other sites on the Internet. If you would like more information about this practice and to know your choices about not having this information used by these Google, click [here](http://www.google.com/privacy_ads.html).
+
+  *   *   *   *   *   * 
+
