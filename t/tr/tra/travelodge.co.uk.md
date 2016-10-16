@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514023434id_/https%3A//www.travelodge.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016200419id_/https%3A//www.travelodge.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Travelodge | Privacy policy
 
@@ -10,7 +10,7 @@ We have created this privacy policy statement in order to demonstrate our commit
 
 We collect your data and personal information in the following ways:
 
-  * On our websites when you make or manage a booking; register or alter your details for 'My Travelodge'; use the 'Contact us' forms for an enquiry; request a brochure; apply for a vacancy in 'Careers'; email sign up, enquire about or apply for a Corporate Account or Business Account card.
+  * On our websites when you make or manage a booking; register or alter your details for 'My Travelodge' and ‘Travelodge Business’; use the 'Contact us' forms for an enquiry; request a brochure; apply for a vacancy in 'Careers'; email sign up, enquire about or apply for a Corporate Account or Business Account card.
   * In our Customer Services department from your correspondence
   * By telephone when speaking to a call centre agent
   * In hotels when you register at reception
@@ -23,11 +23,13 @@ We use your data and personal information in the following ways:
   * To improve our websites, prevent or detect fraud or abuses of our websites and enable third parties to carry out technical, logistical or other functions on our behalf.
   * To provide you with requested information or correspondence, such as a Travelodge Directory or a response from us to an enquiry made by you.
   * To send you details of your new, amended or cancelled booking or 'My Travelodge' account details - usually via email
+  * To send you reminder emails to continue with your booking which is in your “basket” on our websites or our mobile app but is not paid and completed. 
   * To contact you in the event of a change that affects your booking or any data or personal information you have provided us with, such as changes to terms and conditions of booking or this privacy policy.
-  * With your permission, your contact details may be used to supply information to you by telephone, email or post, about our company. and to send you occasional promotional material, such as information about special offers which we think you might find valuable. If you do not agree to receive this information, you may opt out from receiving future information at any time; see the [opt out](https://www.travelodge.co.uk/privacy_policy/#opt_out) section of this policy.
+  * With your permission, your contact details may be used to supply information to you by telephone, email or post, about our company. and to send you occasional promotional material, such as information about special offers which we think you might find valuable. If you do not agree to receive this information, you may opt out from receiving future information at any time; see the opt out section of this policy.
   * We may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third parties but these statistics will include no personally identifying information.
   * We might receive information about you from other sources and add it to our account information. This ensures that the quality of data we have on your account(s) is maintained properly.
   * We offer our customers the ability to save payment cards within their MyTravelodge account so that, upon making future bookings, they have the convenient option of selecting a previously saved card in order to pay. This information is only used/accessed when the customer uses their saved card to pay for a booking.
+  * For Travelodge Business members, we will send electronic marketing messages to the member company’s email addresses provided by the member company to promote Travelodge Business and related benefits.  In our electronic marketing messages, we will provide opportunities for member companies, individual employees of a member company, sole traders and partnerships who have signed up as a company in the application process to choose not to receive further marketing messages with respect to Travelodge Business.  We will then respect such choice.
 
 
 
@@ -38,8 +40,6 @@ The information and data we collect is important for Travelodge and we would not
 We do disclose or transfer your data or personal information to other companies, data processors or agents employed by us to perform any necessary functions on our behalf, but they are bound by our privacy policy and may not use this information for their own purposes.
 
 In the event that Travelodge or any part of its business is sold to or integrated with another business, Travelodge may disclose your personal information to the new owners (and their professional advisers on the transaction) to be used by the new owners and their group of companies in the same ways as set out in this Privacy Policy, including to continue providing you with the same services and marketing information services as are currently provided by Travelodge.
-
-Credit or debit card data is never viewed or disclosed to anyone, ever.
 
  **Cookies**
 
@@ -61,14 +61,16 @@ Functional| Travelodge consent cookie| Indicates if you have been asked for cons
 Statistical| Google Analytics and Web trends| Records (anonymous) statistical information about usage of the Travelodge websites for performance monitoring and to drive insight into areas for improvement  
  | Maxymiser| Travelodge uses Maxymiser to test new content on our site to improve performance. The cookie is set if you visit a page that has is being optimised and is used to recognise you and serve you the most relevant content when you return to the site.  
 Marketing| Doubleclick| Doubleclick use cookies to serve Travelodge advertising across other relevant websites. They also gather information about advertising performance and conversion information.  
- | Silverpop| Silverpop track any interaction and conversion that comes as a result of clicking on a link in a Travelodge promotional email using cookies.  
+ | ReallyB2B| ReallyB2B use cookies to help Travelodge identify where visitors to our website are coming from and help Travelodge take decisions regarding business marketing activities.  
+ | Redeye| Redeye track any interaction and conversion that comes as a result of clicking on a link in a Travelodge promotional email using cookies.  
  | Affiliate Window| As part of our affiliate programme these cookies and tags are used to track and store information if you click on an affiliate window link on a third party website, banner, advertisement or email. They also track conversion and information about the referring site and time of the click.  
+  
   
 Most web browsers allow some control of most cookies through the browser settings.
 
  **Security of your information**
 
-We follow strict security procedures in the storage and disclosure of information which you have given us. This is to prevent unauthorised access or unlawful processing of your personal information. For additional peace of mind, credit card details are not recorded on the Travelodge site when booking a room. Please see our [Site Security policy](https://www.travelodge.co.uk/about-us/our-responsibilities/site-security "Site security policy") for more information.
+We follow strict security procedures in the storage and disclosure of information which you have given us. This is to prevent unauthorised access or unlawful processing of your personal information. Please see our [Site Security policy](https://www.travelodge.co.uk/about-us/our-responsibilities/site-security "Site security policy") for more information.
 
  **Your consent**
 
@@ -76,7 +78,7 @@ By using our websites or our mobile app you consent to the collection, storage a
 
  **Opt out / Data quality / Access**
 
-We will always ask your permission before sending you email marketing information. This ensures you only receive information that you have given us permission to send and are willing to receive.
+We will always ask your permission before sending you email marketing information, unless your company is a member of Travelodge Business.  This ensures you only receive information that you have given us permission to send and are willing to receive.  If your company is a member of Travelodge Business we will send electronic marketing messages to the email addresses provided by the member company to promote Travelodge Business and related benefits.  However you will still have the ability to opt out of these messages in accordance with the paragraphs below. 
 
 We provide you with the ability to control whether or not to receive email marketing from us. On promotional emails we always provide an 'unsubscribe' link at the bottom of the email which will unsubscribe you from that service.
 
