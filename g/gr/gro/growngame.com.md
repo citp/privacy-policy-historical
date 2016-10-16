@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growngame.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316151011id_/http%3A//www.growngame.com/index.php%3Ftask%3Dview_page%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growngame.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016145049id_/http%3A//www.growngame.com/index.php%3Ftask%3Dview_page%26id%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Growngame.com
 
