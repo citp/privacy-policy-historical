@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabrielash.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315183347id_/https%3A//www.gabrielash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabrielash.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016032055id_/https%3A//www.gabrielash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Gabriel Ash
 
@@ -41,3 +41,5 @@ This Website may contain links to other websites which are outside the Company's
 **Access Right**
 
 You have a right to access the personal data held about you. To obtain a copy of the personal information held about you by the Company, please write to: Gabriel Ash Monument Farm, Farndon, Chester, CH3 6QP . or e-mail to enquiries@gabrielash.com 
+
+[ ](https://web.archive.org/) [ ](https://web.archive.org/) [ ](https://web.archive.org/)
