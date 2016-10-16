@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecanary.co privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413230714id_/http%3A//www.thecanary.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecanary.co privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016151842id_/http%3A//www.thecanary.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Canary
 
