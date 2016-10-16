@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315173529id_/https%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016023512id_/https%3A//www.ordnancesurvey.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Data protection and privacy policy | Ordnance Survey
+# Privacy policy
 
   * **Last** **Updated** : April 2015
 
