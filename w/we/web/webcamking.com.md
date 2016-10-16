@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamking.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145916id_/http%3A//www.webcamking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamking.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016023059id_/http%3A//www.webcamking.com/privacy-policy) for the most accurate reproduction.*
 
 # WebCamKing Guarantees you up to 100% EXTRA credits for your money on each purchase! Privacy Policy
 
