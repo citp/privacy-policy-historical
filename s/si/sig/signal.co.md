@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signal.co privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316131638id_/http%3A//www.signal.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signal.co privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016042412id_/http%3A//www.signal.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Signal
 
@@ -8,17 +8,17 @@
 
 
 
-This policy was last modified on and has an effective date of July 27, 2015
+This policy was last modified on and has an effective date of April 13, 2016
 
-Signal Digital, Inc.( **”Signal”** ) provides this policy to share with you how we treat information that we collect and receive in connection with providing the Signal services to customers who license or otherwise use our technology and services (“ **clients** ”).  Signal provides various services to its clients as described in more detail below, some of which assist our clients with their interest-based advertising campaigns. For information on the opt-out offered by Signal related to interest-based advertising services,[ Click Here](http://privacy.signal.co/opt-out.html).
+Signal Digital, Inc.( **”Signal”** ) provides this policy to share with you how we treat information that we collect and receive in connection with providing the Signal services to customers who license or otherwise use our technology and services (“ **clients** ”).  Signal provides various services to its clients as described in more detail below, some of which assist our clients with their interest-based advertising campaigns. For information on the opt-out offered by Signal related to interest-based advertising services, [click here](http://privacy.signal.co/opt-out.html).
 
 Each of our clients is responsible for establishing and complying with its own policy and for providing any required notice, obtaining any required consent, and offering and processing any applicable opt-out or similar choice option that the client offers.
 
 This policy does not apply to our clients or any third party organizations. Please refer to the privacy policies for the websites, mobile applications and other online services that you access to learn how they collect and use information about you.
 
-For information about how we handle Personal Information we collect and other information we collect through our websites, please see our Website Privacy Policy.
+For information about how we handle Personal Information we collect and other information we collect through our websites, please see our [Website Privacy Policy](http://www.signal.co/privacy-policy/#websiteprivacy).
 
-## Table of Contents
+**Table of Contents**
 
   * Our Services
   * Data Signal Collects or Receives and Stores in Connection with the Services
@@ -30,7 +30,7 @@ For information about how we handle Personal Information we collect and other in
   * The Purposes for which We Collect, Hold and Use Information
   * Disclosure of Information to Third Parties
   * Your Privacy Choices
-    * Web Browser Opt-Out
+    * [Web Browser Opt-Out](http://privacy.signal.co/opt-out.html)
     * Mobile Device Opt-Out
     * How We Respond to Do Not Track Signals
   * Security
@@ -40,15 +40,15 @@ For information about how we handle Personal Information we collect and other in
 
 ## Our Services
 
-Signal is a service provider. We license proprietary technology and provide data solutions to our clients. Our services include:
+Signal is a service provider. We license proprietary technology and provide data solutions to our clients (the technology and services together, the “ **Services** ”).
+
+Our services include:
 
   * Integration of tracking tags and other code into client websites, mobile applications and other devices that allows clients and their various third-party marketing and technology partners to collect data relating to user interactions and interests;
   * Collection and distribution of data for the purposes of measuring the effectiveness of websites, mobile applications, advertising campaigns and interactions with other marketing channels;
-  * Management and storage of de-identified data that allows our clients to recognize their customers across devices and platforms, to better understand their customers and to engage their customers with more targeted marketing messages
+  * Management and storage of de-identified data that allows our clients to recognize their customers across devices and platforms, to better understand their customers and to engage their customers with more targeted marketing messages.
 
 
-
-(the technology and services together, the “Services”).
 
 ## Data Signal Collects or Receives and Stores in Connection with the Services
 
@@ -93,17 +93,19 @@ We further limit the collection and use of sensitive data as defined and require
 
 
 
+We may also supplement Client Data with outside records from third parties, and we treat the combined data as described in this Services Privacy Policy.
+
 ## Technologies Used to Collect Usage Data.
 
 We use many technologies to collect Usage Data. Some examples include:
 
-**_Cookies and Local Storage._** Cookies and local storage are data files placed within a browser on a device when it is used to visit a Data Source. Cookies and local storage can both be used to store a unique identifier for your device that can be used to recognize your device whenever you visit a client Data Source. Most browsers provide you with the ability to disable or decline cookies and local storage. You will need to check your browser’s settings for further information.
+**Cookies and Local Storage.** Cookies and local storage are data files placed within a browser on a device when it is used to visit a Data Source. Cookies and local storage can both be used to store a unique identifier for your device that can be used to recognize your device whenever you visit a client Data Source. Most browsers provide you with the ability to disable or decline cookies and local storage. You will need to check your browser’s settings for further information.
 
-**_Web Beacons._** Web Beacons are small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) that are included in our clients’ Data Sources.
+**Web Beacons.** Web Beacons are small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) that are included in our clients’ Data Sources.
 
-**_Embedded Scripts_**. An embedded script is programming code that is designed to collect information about your interactions with a Data Source. The code is temporarily downloaded onto your device from our web server, is active only while you are connected to the Data Source, and is deactivated or deleted thereafter.
+**Embedded Scripts**. An embedded script is programming code that is designed to collect information about your interactions with a Data Source. The code is temporarily downloaded onto your device from our web server, is active only while you are connected to the Data Source, and is deactivated or deleted thereafter.
 
-**_SDKs and APIs_**. SDKS and APIs are programming codes that collect information about your interactions with a Data Source. This code is installed on a Device, typically within our clients’ applications that you choose to download onto your mobile device.
+**SDKs and APIs**. SDKS and APIs are programming codes that collect information about your interactions with a Data Source. This code is installed on a Device, typically within our clients’ applications that you choose to download onto your mobile device.
 
 These technologies, and similar technologies we may use, and the information they collect may be used for many purposes, including, without limitation, tracking your visits to Data Sources, monitoring how you navigate a Data Source and determining your preferences and interests for the purposes of serving you targeted advertisements and other marketing messages.
 
@@ -111,14 +113,14 @@ Signal may receive Client Data through certain technology or services that clien
 
 ## The Purposes for which We Collect, Hold, and Use Information
 
-We collect, hold and use information collected or received in connection with the Services to provide the Services, to improve the Services, for our internal business purposes, and to meet any legal requirements or needs.
+We collect, hold and use de-identified information from clients to provide the Services, including to infer your interests and preferences and to allow our clients and others to target advertisements and offers to you based on those interests and preferences. Apart from the above instances, we may also collect, hold, and use information collected or received in connection with the Services to provide the Services, to improve the Services, for our internal business purposes and to meet any legal requirements or needs. Click [opt out tool](http://privacy.signal.co/opt-out.html) for information on how you may opt-out of having information we collect or infer about you or your device for targeted advertising purposes.
 
 ## Disclosure of Information to Third Parties
 
-  * **Non-identifying data.** We may share non-identifying data, including aggregate statistics and de-identified data, with third parties.
+  * **Non-identifying data.** We may share non-identifying data, including aggregate statistics and hashed or otherwise de-identified data, with third parties.
 
 
-  * **Client Data.** We may transfer Client Data and inferences about that Client Data to the client or to a third party at the client’s direction. We may share inferred interests and preferences with multiple clients and this information may be connected to your IP address, device identifier, or other information that our client has collected from you (including hashed Personal Information).
+  * **Client Data.** We may transfer Client Data and inferences about that Client Data to the client or to a third party (including, without limitation, advertising networks) at the client’s direction. We may share inferred interests and preferences and other Client Data with multiple clients and advertising networks and this information may be connected to your IP address, device identifier, or other information that our client has collected from you (including hashed Personal Information).
 
 
   * **Third Parties Providing Services on Our Behalf or on Behalf of Our Clients**. Third parties who provide services to us may have access to information, including Personal Information, in order to perform services for us or on behalf of our clients.
@@ -138,18 +140,21 @@ We collect, hold and use information collected or received in connection with th
 
 We understand that you may wish to opt-out of our use of information about you or your devices to provide targeted advertising services to our clients. Please note that the opt-out choices below apply only with regard to our use of information associated with your devices for interest-based advertising purposes. Please note that it may take up to 7 days to process your opt-out request.
 
-  * **Web Browser Opt-Out.** To opt-out of our use of information through your Web browser, **[please click here](http://privacy.signal.co/opt-out.html) . **Please note that we use cookies to implement your opt-out choice. If you delete our opt-out cookie(s), we will not be able to ensure that your information is no longer used to provide our Services, unless you return to this page and opt-out again. If your browser is not configured to accept third-party cookies, then your opt-out preference cannot be stored.
+Signal is a member of the Network Advertising Initiative (NAI) and adheres to the NAI code of conduct. You may use the NAI [opt out tool](http://www.networkadvertising.org/choices/), which will allow you to opt out of seeing targeted ads through your web browser from NAI member companies. We also support the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You can visit the DAA opt-out page here: <http://www.aboutads.info/choices/>.
 
+In addition, to opt-out of Signal’s use of information through your Web browser for targeted advertising purposes, please click [here](http://privacy.signal.co/opt-out.html). Please note that we use cookies to implement your opt-out choice. If you delete our opt-out cookie(s), we will not be able to ensure that your information is no longer used to provide our Services, unless you return to this page and opt-out again. If your browser is not configured to accept third-party cookies, then your opt-out preference cannot be stored.
 
-  * **Mobile Device Opt-Out.** To opt-out of our use of information through applications on your mobile phone, please [click here](http://privacy.signal.co/opt-out.html) and provide your device’s Advertising Identifier (on some types of devices this also may be referred to as an iOS IDFA or Android Advertising ID). We use the Advertising Identifier to recognize that you have opted out and that information from your device should not be used in connection with targeted advertising services. You may need to opt-out again when you acquire new mobile devices in the future or if your device’s Advertising Identifier changes. 
+For mobile apps, you can typically limit ad tracking using the settings on your phone, tablet or other mobile device using the “Ads” menu, “Ad Tracking” setting, or similar setting on your device.
 
+Please be aware that opting out does not mean that you will no longer receive targeted marketing messages in your mobile apps or Web browsers. You may still receive generic advertisements and you may see targeted advertisements based on information collected and used by entities other than Audience Trust.
 
-  * **Industry** **opt-outs.** You may also wish to visit the following self-regulatory programs that offer opt-outs for the companies who participate as members: Network Advertising Initiative athttp://www.networkadvertising.org/choices/ or the Digital Advertising Alliance at http://www.aboutads.info/choices/. You may also be able to opt-out from interest based advertising on your mobile device through your mobile device settings or the AppChoices application. Please be aware that opting out does not mean that you will no longer receive targeted marketing messages in your mobile apps or Web browsers. You may still receive generic advertisements and you may see targeted advertisements based on information collected and used by entities other than Signal.
+## How We Respond To Do Not Track Signals
 
+Your web browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit.  Like many websites and online services, Signal does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” please visit http://www.allaboutdnt.com.
 
-  * **How We Respond To Do Not Track Signals.**  Your web browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit.  Like many websites and online services, Signal does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” please visit http://www.allaboutdnt.com.
+## Data Retention
 
-
+We retain client data as long as it is active, which we consider to be up to one year from the date of the last update made by the client.  Therefore, if a client uploads a customer record and makes no changes to that record, then it will automatically be deleted from our system after one year. Every time a client updates the customer record, then the one year counter begins again.  We also retain data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Security
 
@@ -157,7 +162,7 @@ We take commercially reasonable steps to help protect and secure Client Data (in
 
 ## Changes to this Policy
 
-We may change this policy from time to time, and any changes will be effective as soon as we post the revised policy on this Website.
+We may change this policy from time to time, and any changes will be effective as soon as we post the revised policy on this Website, unless a different date is stated. You should review this policy regularly.
 
 ## Any Questions?
 
