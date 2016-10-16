@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctors.org.uk privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422153830id_/http%3A//about.doctors.net.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctors.org.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016215236id_/http%3A//about.doctors.net.uk/privacy-policy) for the most accurate reproduction.*
 
 # Doctors.net.uk - Privacy policy
 
