@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615193918id_/http%3A//hushhush.com/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hushhush.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016042315id_/http%3A//hushhush.com/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - Hush Hush Daily Deals
 
