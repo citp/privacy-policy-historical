@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620133024id_/http%3A//foodieblogroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodieblogroll.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016110302id_/http%3A//foodieblogroll.com/privacy) for the most accurate reproduction.*
 
 # Foodie Blogroll : Privacy Policy
 
-[Home](https://web.archive.org/web/20160620133024id_/http%3A//foodieblogroll.com/privacy?mode=home) > Privacy Policy 
+[Home](https://web.archive.org/web/20161016110302id_/http%3A//foodieblogroll.com/privacy?mode=home) > Privacy Policy 
 
 Your privacy on the Internet is very important to us. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the collection and use of that information. This online Privacy Policy (the "Privacy Policy") tells you about the information Foodie Blogroll.com collects through its website (the "Site") and its Network and how we use that information. By using our services and accessing the Foodie Blogroll.com, you are consenting to the information collection and use practices described in the Privacy Policy, as modified from time to time by us. 
 
