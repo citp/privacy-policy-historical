@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolutionofmedicinesummit.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328213838id_/http%3A//evolutionofmedicinesummit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionofmedicinesummit.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016130409id_/http%3A//evolutionofmedicinesummit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evolution of Medicine II Summit
 
