@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnant.sg privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616062052id_/http%3A//pregnant.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnant.sg privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016212239id_/http%3A//pregnant.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pregnant in Singapore - Pregnancy for SingaporeansPregnant in Singapore – Pregnancy for Singaporeans
 
