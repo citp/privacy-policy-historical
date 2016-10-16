@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527073101id_/https%3A//www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016140534id_/https%3A//www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
 
 # Privacy policy summary| Office of the Australian Information Commissioner - OAIC
 
@@ -6,7 +6,7 @@
 
 This summary sets out the key points about how the Office of the Australian Information Commissioner (OAIC) handles personal information.
 
-We collect, hold, use and disclose personal information to carry out our functions or activities under the [_Australian Information Commissioner Act 2010_](http://www.comlaw.gov.au/Details/C2012C00126) (AIC Act), the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2013C00482) (Privacy Act) and the [_Freedom of Information Act 1982_](http://www.comlaw.gov.au/Details/C2012C00904) __ (FOI Act).
+We collect, hold, use and disclose personal information to carry out our functions or activities under the [_Australian Information Commissioner Act 2010_](https://www.legislation.gov.au/Details/C2014C00382) (AIC Act), the [_Privacy Act 1988_](https://www.legislation.gov.au/Details/C2016C00838) (Privacy Act) and the [_Freedom of Information Act 1982_](https://www.legislation.gov.au/Details/C2016C00745) __ (FOI Act).
 
 More information can be found in our main [privacy policy](https://web.archive.org/about-us/corporate-information/key-documents/privacy-policy) and our [human resources privacy policy](https://web.archive.org/about-us/corporate-information/key-documents/human-resources-privacy-policy).
 
