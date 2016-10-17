@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlfreegame.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617103003id_/http%3A//girlfreegame.com/Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlfreegame.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017084709id_/http%3A//www.girlfreegame.com/Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
