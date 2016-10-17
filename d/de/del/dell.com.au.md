@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609033040id_/http%3A//www.dell.com/learn/au/en/aucorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017182303id_/http%3A//www.dell.com/learn/au/en/aucorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dell Australia
 
@@ -63,7 +63,7 @@ These storage mechanisms may be managed in a number of ways. These may be manage
 
 
 
-For further details on how Dell protects your personal information, please visit our [Security](https://web.archive.org/web/20160609033040id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-security-au?catid=policies-security) page
+For further details on how Dell protects your personal information, please visit our [Security](https://web.archive.org/web/20161017182303id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-security-au?catid=policies-security) page
 
  **Dell uses your personal information for specific purposes**
 
@@ -107,11 +107,11 @@ To request access to, or correction of, your personal information, please contac
 
  **Internet Commerce**
 
-The online store at [www.dell.com.au](http://www.dell.com.au/) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's [Store Security](https://web.archive.org/web/20160609033040id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-security-au?catid=policies-security) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase.
+The online store at [www.dell.com.au](http://www.dell.com.au/) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's [Store Security](https://web.archive.org/web/20161017182303id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-security-au?catid=policies-security) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase.
 
  **Customised Experience**
 
-We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using [www.dell.com.au](http://www.dell.com.au/) and to serve you customised messages about Dell products and services when you visit the Dell website and other websites. For more information about our use of cookies (including how to delete or refuse cookies), please [click here](https://web.archive.org/web/20160609033040id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-cookies-and-web-beacons-au?catid=policies-cookies).
+We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using [www.dell.com.au](http://www.dell.com.au/) and to serve you customised messages about Dell products and services when you visit the Dell website and other websites. For more information about our use of cookies (including how to delete or refuse cookies), please [click here](https://web.archive.org/web/20161017182303id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-cookies-and-web-beacons-au?catid=policies-cookies).
 
  **Web Beacons**
 
@@ -131,7 +131,7 @@ If you have asked to be contacted by one of Dell's partners, we will need to pro
 
  **Complaints**
 
-If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the relevant privacy regulator. We will deal with your complaint in accordance with our complaints handling process as described [here](https://web.archive.org/web/20160609033040id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-customer-support-charter-au?catid=customer-support-charter).
+If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the relevant privacy regulator. We will deal with your complaint in accordance with our complaints handling process as described [here](https://web.archive.org/web/20161017182303id_/http%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/solutions/cat-intro-customer-support-charter-au?catid=customer-support-charter).
 
  **Contact Dell**
 
