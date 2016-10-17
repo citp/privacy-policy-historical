@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinerealestatetips.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630034928id_/http%3A//onlinerealestatetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinerealestatetips.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017135746id_/http%3A//onlinerealestatetips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Estate Tips And Advice
 
