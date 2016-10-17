@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekyfaust.info privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612043214id_/http%3A//geekyfaust.info/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekyfaust.info privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017042256id_/http%3A//geekyfaust.info/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeky Faust
 
