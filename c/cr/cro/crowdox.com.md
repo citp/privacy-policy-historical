@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdox.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401162546id_/http%3A//crowdox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdox.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017101623id_/http%3A//crowdox.com/privacy) for the most accurate reproduction.*
 
-# CrowdOx - Privacy Policy
+# Privacy - CrowdOx
 
 Privacy is important to us at CrowdOx. Please review this Privacy Policy for a description of our privacy practices, an explanation of how we may use any personal information we collect on this website, and ways to opt out. Please refer to our Terms of Service for any additional information, including but not limited to defined terms. 
 
