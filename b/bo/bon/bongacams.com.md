@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongacams.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052834id_/https%3A//bongacams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongacams.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018001825id_/https%3A//bongacams.com/privacy) for the most accurate reproduction.*
 
 # Beronata Services Privacy Policy at BongaCams
 
