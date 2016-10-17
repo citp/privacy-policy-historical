@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmeenetwork.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321065859id_/http%3A//esmeenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmeenetwork.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017161850id_/http%3A//esmeenetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Esmee Network
 
