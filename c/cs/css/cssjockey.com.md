@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssjockey.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617052716id_/http%3A//cssjockey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssjockey.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017132650id_/http%3A//cssjockey.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CSSJockey.com
+# Privacy Policy – CSSJockey.com
 
 The surveillance and confidentiality of our visitors and the registered members is our utmost priority and is promised to NEVER be compromised via any channel. All of your personal information, such as your name, e-mail address, or website information is well protected by our privacy policy. If you come across any breach due to our website, please raise your concern with us immediately at admin[@]cssjockey dot com
 
