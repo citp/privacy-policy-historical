@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvertisingblog.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515195538id_/http%3A//www.freeadvertisingblog.com/privacy-policy-for-www-freeadvertisingblog-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvertisingblog.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017070402id_/http%3A//www.freeadvertisingblog.com/privacy-policy-for-www-freeadvertisingblog-com) for the most accurate reproduction.*
 
 # Privacy Policy « Free Advertising Blog – Free Classified Advertising
 
