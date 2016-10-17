@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gossipjackal.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617000523id_/http%3A//www.gossipjackal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipjackal.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017183650id_/http%3A//www.gossipjackal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Gossip Jackal
+# Privacy Policy – Gossip Jackal
 
 This privacy policy sets out how [Media Jackal](http://www.mediajackal.biz/) uses and protects any information that you give Media Jackal when you use this website.
 
