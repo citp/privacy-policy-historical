@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtex.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225052id_/http%3A//bigtex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtex.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018014919id_/http%3A//bigtex.com/privacy) for the most accurate reproduction.*
 
 # State Fair of Texas Privacy Policy | State Fair of Texas
 
@@ -28,6 +28,15 @@ Also to facilitate your use of our website at www.bigtex.com (“Website”), we
 
 **Links to Other Websites**  
 On our Website, we may have external links to other websites.  We are not responsible for the content on these websites or the privacy policies and practices of the operators of these websites.  Therefore, we recommend that you review the terms of use and privacy policy for each third-party website.
+
+**Party Collecting the Information  
+**This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, online auctions, chat rooms, personal ads, or the like, through third party services or promotions offered on or through the Site or through other Web sites throughout the Internet, different policies may apply and the Fair shall not be responsible for the use or dissemination of such information.
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and use that information to provide measurement services and target Facebook, Twitter and Display ads. If you’d like to opt-out from having our partners collect your Non-Personally Identifiable Information on behalf of State Fair of Texas, please click http://ib.adnxs.com/optout. When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+
+Users may opt-out of the collection and use of information for Facebook ad targeting visiting [facebook.com/ads/website_custom_audiences/](http://facebook.com/ads/website_custom_audiences/).
+
+Users may opt-out of the collection and use of information for Twitter ad targeting by visiting <https://support.twitter.com/articles/20170405>.
 
 **Our Commitment to Children’s Privacy**  
 Our Website is not intended to be directed at children, and we have no intention of collecting any personal information from individuals under the age of thirteen (13).  We require all users who submit Contact Information to us in writing or via our Website to be at least eighteen (18) years of age or older.
