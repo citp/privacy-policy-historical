@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054705id_/https%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017202122id_/https%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy : Legal : Severn Trent Water
 
@@ -18,7 +18,7 @@ We will use the information we hold about you to manage your account in the most
 
 Additionally, we may share with and obtain information about you from other utilities, local authorities, government departments, credit reference agencies and other companies for use in any credit decisions, fraud prevention and to pursue debtors. We may also share information we hold about you with other third party contractors who provide services to us which require the processing of your personal data.
 
-We may transfer your personal data to other organisations in any country only for any of the purposes mentioned.
+As part of the Open Water Programme (which is designed to give non-household customers a choice of water supplier), we will share information we hold about you with Market Operator Services Ltd ("MOSL") if you are a non-householder customer. You can find out more about how MOSL processes your information [here](https://www.mosl.co.uk/privacy-notices/).
 
 ## What are your rights?
 
@@ -29,11 +29,11 @@ Under the Data Protection Act 1998 you have the right to make a subject access r
 All requests must be made in writing to:
 
 SAR Officer  
-Customer Care  
+Customer Care, Floor 5N  
 Severn Trent Centre  
-PO Box 5309  
-COVENTRY  
-CV3 9FH
+2 St John’s Street  
+Coventry  
+CV1 2LZ
 
 Or you can [download a copy of the form.](https://www.stwater.co.uk/content/ConMediaFile/5394)
 
