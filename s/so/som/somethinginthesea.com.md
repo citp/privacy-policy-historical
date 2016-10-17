@@ -1,14 +1,81 @@
-> *The following text is extracted and transformed from the somethinginthesea.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322032231id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethinginthesea.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017194431id_/http%3A//www.take2games.com/pp.php) for the most accurate reproduction.*
 
 # TAKE-TWO INTERACTIVE SOFTWARE, Inc. PRIVACY POLICY
+
+[EN](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/index.html) | [DE](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/de.html) | [ES](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/es.html) | [FR](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/fr.html) | [IT](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/it.html) | [BR](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/br.html) | [MX](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/mx.html) | [KR](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/kr.html) | [CN](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/cn.html) | [ZH](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/zh.html) | [JP](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/jp.html) | [PL](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/pl.html) | [RU](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/ru.html) | [CZ](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/cz.html) | [AR](https://web.archive.org/web/20161113153911id_/http://www.take2games.com/privacy/ar.html)
+
+Last Updated October 28, 2016
+
+Take-Two Interactive, Inc., a United States company, its parent and its subsidiaries (collectively the "Company"), respects the privacy rights of our users and is committed to protecting the information collected through its products, services, and websites accessed through any internet-capable hardware platform including gaming consoles, personal computers, mobile computers, or smart phones, or in-game applications or any software platform including third-party hosts(collectively the "Online Services"). We have adopted this privacy policy to explain how we collect, store, disclose, transfer, protect, and otherwise use the information collected in connection with our Online Services (the "Privacy Policy").
+
+PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. BY REGISTERING FOR OR USING OUR ONLINE SERVICES, YOU AGREE THAT (i) WE MAY TRANSFER, PROCESS, AND STORE YOUR ACCOUNT INFORMATION IN THE UNITED STATES OF AMERICA AND OTHER COUNTRIES THAT MAY HAVE DIFFERENT PRIVACY PROTECTIONS THAN YOUR COUNTRY; (ii) WE MAY PROCESS YOUR DATA IN ACCORDANCE WITH THE FOLLOWING PRIVACY POLICY; (iii) YOU ARE BOUND BY OUR PRIVACY POLICY; AND (iv) YOU WILL ABIDE BY OUR TERMS & CONDITIONS, CODE OF CONDUCT, AND ANY OTHER POLICIES THAT MAY APPLY. THIS PRIVACY POLICY SUPPLEMENTS THE PRIVACY DISCLOSURES PROVIDED TO YOU WITH YOUR SOFTWARE PRODUCT AND/OR BY YOUR CONSOLE MANUFACTURER.
+
+This Privacy Policy will explain: 
+
+  * Who does this privacy policy apply to?
+  * What this Privacy Policy applies to
+  * What personal and other information may be collected
+  * What gameplay information we may collect
+  * Special Notes Regarding Certain Information, Including Public Information, Resumes, Investor Relations, Email Correspondence, and Member Names/Gaming Console IDs
+  * The consequences, if any, resulting from your refusal to provide personal information
+  * How we use cookies, track IP Addresses, or use other passive means to collect information
+  * Who, if anyone, is collecting your personal information and how it will be used
+  * With whom, if anyone, your personal information will be shared
+  * What choices you have with regard to the use of your personal information
+  * Links to other parties
+  * Whether personal information is collected from Children under 13
+  * How we protect your information
+  * Your California Privacy Rights.
+  * Where information is stored
+  * What other Company terms apply
+  * What other third-party terms apply
+  * How to ask questions or file a complaint
+
+
+
+**WHO THIS PRIVACY POLICY APPLIES TO**
+
+This Privacy Policy applies to all Online Services users and, except as noted, all Online Services are being offered in the United States by the Company.  For Online Services offered by Rockstar Games used by residents of the European Union, the company Take-Two Interactive Software Europe Limited, ICO Registration No. Z1336431, is the data controller responsible for your personal information. 
+
+back to top
+
+**WHAT DOES THIS PRIVACY POLICY APPLY TO?**
+
+This Privacy Policy applies to the Company's Online Services, websites, mobile applications, and other services that link to it or display it. In addition, the Company may also own several other domain names that relate to its labels, feature its products, or point to its websites, and we may from time to time add new sites and services. The Company complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>. 
+
+Please note that this Privacy Policy applies only to information submitted and collected online through the Online Services, and does not apply to information that may be collected by the Company offline. In addition, this Privacy Policy does not apply to websites or services maintained by other companies or organizations (such as those who promote the Company's products and services or sell related items) and the Company cannot and does not guarantee the security of any personal information disclosed to those third parties. In addition, please note that we may hire vendors (agents or contractors) to collect personal information on our behalf and in such cases such vendors will be instructed to comply with this Privacy Policy. These vendors may not use your personal information for their own marketing purposes. 
+
+We use the third-party service providers as our online official re-seller and for certain in-game sales functions, check the terms and policies at point of sale. Other third-party service providers may be connected to other in-game sales functions; please review the Terms & Conditions of each product for more details. As indicated at the point of purchase, such transactions are between you and the third-party service provider and they are subject to the third-party service provider’s privacy policy and terms of service. 
+
+We also use third parties for various services related to the Online Services, including customer support, technical support, contest data collection, and email fulfillment. When you enter a contest or sign up to receive a newsletter, we may share your personal information as necessary for third parties to provide services on our behalf. These third parties are not permitted to use such information for their own marketing purposes. 
+
+We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. If we make a material change to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. If necessary we will give you additional choices regarding such change in these notices. Your continued use of the Online Services will signify your acceptance of these changes. 
+
+You may choose to voluntarily provide us with various personal information and non-personal information through your use of the Online Services. We also may use "cookies" and other passive technologies including clear gifs to collect certain non-personal information from you in connection with your use of the Online Services, such as the pages you visit and the features you use. Our cookies are linked to personal information. 
+
+back to top
+
+**WHAT PERSONAL AND OTHER INFORMATION DOES THE COMPANY COLLECT?**
 
 Personal information is information that identifies you and that may be used to contact you online or offline. The Company collects personal information from you on a voluntary basis. When you submit personal information to the Company, it will usually take the form of: 
 
 Registration for Online Services, websites, jobs, products, contests, and special events; 
 
+Subscribing to newsletters or alerts; 
+
 Posting in or commenting on our message boards, forums, news blogs, chat rooms, or other Online Services; 
 
+Purchasing a product or services through our online stores; 
+
 Purchasing downloadable content, virtual items, or virtual currency for use with our software and/or Online Services; 
+
+Using "tell a friend," "email this page," or other E-Card features; 
+
+Requesting technical support; 
+
+Downloading demos, programs, or other software; 
+
+Participating in polls, surveys, and questionnaires; or 
 
 Otherwise through use of our software, including console products, mobile products, and personal computer products, and through the use of our online products or Online Services where personal information is required for use and/or participation. 
 
@@ -20,9 +87,17 @@ When you use an application on a Social Networking Site ("SNS"), you allow us to
 
 When you use Facebook Connect, OpenID or another multisite ID to log in to an Online Service, those ID services will authenticate your identity and provide you the option to share certain personal information with us to pre-populate our sign up form. Depending on your account settings, multisite IDs may also provide other information to us. Please check the terms of those services before using them to log into an Online Service. When you play certain software products published by the Company, information about your gameplay may be collected and transmitted to the Company through network services or any other internet connection method used by the hardware on which you play such games (collectively and individually your "Internet Connection"). See "What Gameplay Information Does the Company Collect?" below for further details. 
 
+back to top
+
+**WHAT GAMEPLAY INFORMATION DOES THE COMPANY COLLECT?**
+
 When you use products or services on internet-capable hardware, the Company may receive information regarding your gameplay without any additional notice to you or actions taken by you. The Company will not receive personal information such as your name and address, but may receive other information such as a console ID, gaming service ID, game achievements, game scores and performance, IP address, MAC address, or other device ID, other console/device use information, or other information and statistics regarding your usage of the games. Information about gameplay may be collected while you are offline and transmitted to the Company when you next connect to the Internet whether or not you are currently logged into your Internet Connection from your console, handheld, mobile device, computer, or other gaming platform. The Company may use such information as set forth in this Privacy Policy whether or not you register for or use the Online Services. 
 
-Member Names & IDs/Gaming Consoles/Social Network Services/Other Third-Party Services: Certain Online Services offered by the Company, including multiplayer gaming and specialized websites, use third-party services to (i) provide authentication for Online Services; or (ii) associate a Company service account with a third-party account such as a Gaming Console ID, Gaming Network Service account, or Social Network Service account. When you use a third-party authentication service or link your Company account with a third-party account, you will be asked to provide account information associated with that third-party account. Certain membership information may be transferred automatically to the Company when you register to join an Online Service from a third-party gaming network system or link your Online Service membership with a third-party service, such as your friend�s list on that gaming network or social network service. 
+back to top
+
+**SPECIAL NOTES ABOUT CERTAIN INFORMATION**
+
+Member Names & IDs/Gaming Consoles/Social Network Services/Other Third-Party Services: Certain Online Services offered by the Company, including multiplayer gaming and specialized websites, use third-party services to (i) provide authentication for Online Services; or (ii) associate a Company service account with a third-party account such as a Gaming Console ID, Gaming Network Service account, or Social Network Service account. When you use a third-party authentication service or link your Company account with a third-party account, you will be asked to provide account information associated with that third-party account. Certain membership information may be transferred automatically to the Company when you register to join an Online Service from a third-party gaming network system or link your Online Service membership with a third-party service, such as your friend’s list on that gaming network or social network service. 
 
 Public Information Including Message Boards, User Generated Content, Forums, News Blogs, Comments, User Profiles and Chat Rooms: Whenever you give out personal information in public areas such as on a message board, chat room, comment field, or profile page, that information can be collected and used by other people. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there. You should be aware that any personal information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages or identify you. If you post a video, image, photo, or other content through an Online Service for public view, you should be aware that these may be viewed, collected, copied, and/or used by other users without your consent. If your screen name or an ID contains your real name, then that name will be made publicly available on leaderboards and elsewhere. Therefore, you are strongly encouraged not to disclose personal information while using our services or use personal information to identify yourself while using our services. We are not responsible for any public information or content you post using our Online Services. 
 
@@ -42,7 +117,7 @@ Your refusal to submit personal information may limit your ability to participat
 
 back to top
 
-**DO YOUR** **ONLINE SERVICES** **USE COOKIES, TRACK IP ADDRESSES** **,** **OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?**
+**DO YOUR ONLINE SERVICES USE COOKIES, TRACK IP ADDRESSES, OR USE OTHER PASSIVE MEANS TO COLLECT INFORMATION?**
 
 The Company uses cookies, web beacons, and similar tracking devices for certain Online Services to collect information that is not personal. If you choose to provide us with personal information, it may be linked to the non-personal information stored by these technologies. 
 
@@ -56,31 +131,21 @@ Internet Log Files: The Company may also keep track of IP addresses used to acce
 
 Analytic Metrics Tools and Other Technologies: Other information that may be passively collected by the Company includes log files that record information about your hardware, product use, service use, or website use, including website navigation and game telemetry activity. We also use these log file entries for our internal marketing, service design, technical support, and demographic studies, so we can constantly improve the Online Services we provide you. 
 
-Advertising Service Providers: Some of our Online Services are supported by advertising provided by the Company or various third-party advertising agents, such as ad networks, data exchanges, traffic management service providers and marketing analytics service providers ("Advertising Service Providers"). Such Online Services may place and use cookies, web beacons, and similar technologies to collect information about your device and your use of Online Services. The information such Advertising Service Providers may collect, or we may share with them, includes your device�s type, IP address, MAC address or other device ID, browser type, language, operating system and generalized geographic location; the types of pages, content and ads you, or others who are using your device, visited or viewed and the frequency of your visit/viewing; and information regarding your use of or activities in connection with a website or Online Service (e.g., time spent using a mobile application or your purchases). This information may be collected or shared when you use an Online Service, click on a webpage or an advertisement, or launch one of our game or other mobile applications that you have installed, and may be used: (1) to ensure that an Advertising Service Provider is accurately and properly paid for an advertisement it placed on our behalf (e.g., an ad that led you to purchase or download one of our games or other mobile applications); (2) to help prevent you from seeing the same ads over and over again; (3) to help select and display targeted ads or other content on your computer or other device (such as on a website you are viewing or a mobile application you are using) that may be of particular interest to you; (4) to measure and analyze advertising effectiveness and/or traffic in our Online Services and determine the popularity of certain content; and (5) to monitor and analyze the usage of our Online Services, so that we can continually enhance and improve them. 
+Advertising Service Providers: Some of our Online Services are supported by advertising provided by the Company or various third-party advertising agents, such as ad networks, data exchanges, traffic management service providers and marketing analytics service providers (“Advertising Service Providers”). Such Online Services may place and use cookies, web beacons, and similar technologies to collect information about your device and your use of Online Services. The information such Advertising Service Providers may collect, or we may share with them, includes your device’s type, IP address, MAC address or other device ID, browser type, language, operating system and generalized geographic location; the types of pages, content and ads you, or others who are using your device, visited or viewed and the frequency of your visit/viewing; and information regarding your use of or activities in connection with a website or Online Service (e.g., time spent using a mobile application or your purchases). This information may be collected or shared when you use an Online Service, click on a webpage or an advertisement, or launch one of our game or other mobile applications that you have installed, and may be used: (1) to ensure that an Advertising Service Provider is accurately and properly paid for an advertisement it placed on our behalf (e.g., an ad that led you to purchase or download one of our games or other mobile applications); (2) to help prevent you from seeing the same ads over and over again; (3) to help select and display targeted ads or other content on your computer or other device (such as on a website you are viewing or a mobile application you are using) that may be of particular interest to you; (4) to measure and analyze advertising effectiveness and/or traffic in our Online Services and determine the popularity of certain content; and (5) to monitor and analyze the usage of our Online Services, so that we can continually enhance and improve them. 
 
 Third-party Advertisers: The Company works with various third-party advertising agents that use cookies, web beacons, and similar technologies to collect information. Please click on the links below to learn more about these vendors, their privacy policies, and the ability to opt out of their tracking programs. Please note that the inclusion of a vendor in the list below does not mean that the Company is currently using their services or that it is currently conducting any campaigns that use such technologies. We do not have access to or control of the third-party tracking technologies, and we encourage you to review their privacy policies before disclosing information to such parties. 
 
-AD-X [<https://ad-x.co.uk/dont_track.php>] 
-
-ATLAS [<http://www.mediaplex.com/AdVault_Privacy_Statement.shtml>] 
-
-DoubleClick [<http://www.doubleclick.com/us/about_doubleclick/privacy/>] 
-
-Facebook [<https://www.facebook.com/help/499864970040521>] 
-
-Google [<http://www.google.com/policies/technologies/ads/>] 
-
-Mediaplex [<http://www.mediaplex.com/AdVault_Privacy_Statement.shtml>] 
-
-Nielsen/Netratings [<http://www.netratings.com/privacy.jsp?section=leg_scs>] 
-
-Omniture [<http://www.omniture.com/privacy/product>] 
-
-Playhaven [<http://www.playhaven.com/privacy>] 
-
+DoubleClick [<https://www.google.com/intl/en/policies/privacy/>]   
+Facebook [<https://www.facebook.com/help/499864970040521>]   
+Google [<http://www.google.com/policies/technologies/ads/>]   
+Conversant [<http://www.conversantmedia.com/legal/privacy>]   
+Nielsen/Netratings [<http://www.netratings.com/privacy.jsp?section=leg_scs>]   
+Omniture [<http://www.adobe.com/privacy/analytics.html>]   
 Yahoo [<http://info.yahoo.com/privacy/us/yahoo/details.html>] 
 
-Additional information about individual opt-out programs is available on the World Privacy Forum website at <http://www.worldprivacyforum.org/cookieoptout.html>. In addition to visiting the websites of each of the vendors listed above, you may opt out of certain targeted advertising by multiple third-party advertising networks at one time if they belong to the Network Advertising Initiative or the Digital Advertising Alliance. Visit the Network Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance�s website at <http://www.aboutads.info/> to select the applicable networks. 
+Additional information about individual opt-out programs is available on the World Privacy Forum website at [[http://www.worldprivacyforum.org](http://www.worldprivacyforum.org/)]. In addition to visiting the websites of each of the vendors listed above, you may opt out of certain targeted advertising by multiple third-party advertising networks at one time if they belong to the Network Advertising Initiative or the Digital Advertising Alliance. Visit the Network Advertising Initiative's website at <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance’s website at [ http://www.aboutads.info/](http://www.aboutads.info/) select the applicable networks. 
+
+back to top
 
 **WHO IS COLLECTING MY INFORMATION AND HOW WILL IT BE USED?**
 
@@ -116,7 +181,7 @@ If you are a member of an Online Service, you may use that service's account and
 
 If you do not want to receive certain communications such as newsletters or promotional offers, you may decline consent at the time your personal information is collected or later opt-out by using the methods listed below. In addition to the methods below, along with every communication sent to you, the Company gives you the opportunity to discontinue receiving future communications. 
 
-If for any reason you wish to unsubscribe from 2K mailing lists, please visit the 2K webpage located at http://www.2kgames.com/subscriptions/enter where you can unsubscribe from our mailing lists. 
+If for any reason you wish to unsubscribe from 2K mailing lists, please visit the 2K webpage located at <https://www.2k.com/?my2k=newsletter> where you can unsubscribe from our mailing lists. 
 
 If for any reason you wish to delete your 2K account information, please send an email with "delete account" in the subject line to the appropriate email address below: 
 
@@ -130,9 +195,9 @@ All 2K: [unsubscribe-2k@2kgames.com](mailto:unsubscribe-2k@2kgames.com) (subject
 
 If for any reason you wish to unsubscribe to Rockstar Games mailing lists please log in to manage your account or use the unsubscribe links at the bottom of any Rockstar Games email message. To delete your Rockstar Games account, sign into your Social Club account, go to <https://socialclub.rockstargames.com/profile/requestdeleteaccount.html>, and follow the instructions on the page. If you are unable to log in to Social Club or you do not have access to your account, please email [deleteaccount@RockstarGames.com](mailto:deleteaccount@RockstarGames.com) from the same email account you used to join Social Club, include your Social Club nickname in the message and include "Delete Account" in the subject field. 
 
-If you do not want your gameplay information to publicly appear via the Rockstar Games Social Club, then you should visit [www.rockstargames.com/socialclub/privacy/opt](https://web.archive.org/web/20160320232259id_/http://www.take2games.com/privacy/www.rockstargames.com/socialclub/privacy/opt) and follow the instructions to opt out of our gameplay information services by masking your user ID. Please note that, even if you opt-out of participation in the Social Club, your gameplay information may still appear on certain gameplay boards including those hosted by third parties such as console manufacturers (including copies of those boards hosted on the Social Club) and the Company will continue to collect and store information regarding your usage of its games for internal purposes. 
+If you do not want your gameplay information to publicly appear via the Rockstar Games Social Club, then you should visit [www.rockstargames.com/socialclub/privacy/opt](http://www.rockstargames.com/socialclub/privacy/opt) and follow the instructions to opt out of our gameplay information services by masking your user ID. Please note that, even if you opt-out of participation in the Social Club, your gameplay information may still appear on certain gameplay boards including those hosted by third parties such as console manufacturers (including copies of those boards hosted on the Social Club) and the Company will continue to collect and store information regarding your usage of its games for internal purposes. 
 
-In addition to the above methods, if you wish to view, delete, or correct the personal information collected about you, you may also send an e-mail to [privacypolicy@take2games.com](mailto:privacypolicy@take2games.com), or write to us at Take-Two Interactive, Attn: Internet Privacy Policy Administrator, 622 Broadway, New York, New York 10012. Please indicate your country of residence in your correspondence. 
+In addition to the above methods, if you wish to view, delete, or correct the personal information collected about you, you may also send an e-mail to privacypolicy@take2games.com, or write to us at Take-Two Interactive, Attn: Internet Privacy Policy Administrator, 622 Broadway, New York, New York 10012. Please indicate your country of residence in your correspondence. 
 
 Data Retention: We will retain your personal information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your personal information to provide you services contact us as described above under "How You Can Control the Collection, Use, and/or Display of Data or Review Your Data." If your account is inactive for a period time it may be deleted. If information is changed or deleted, we may still retain some of your information in our files to resolve disputes, enforce our user agreement, administer our services, comply with technical and legal requirements, and/or other constraints related to the security, integrity, and operation of our Online Services. 
 
@@ -162,13 +227,15 @@ back to top
 
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If this Privacy Policy states that any personal information may be shared with third parties for their direct marketing purposes, you may send inquiries regarding our disclosure policy to: 
 
-Take-Two Interactive  
-Attn: Internet Privacy Policy Administrator  
-622 Broadway  
-New York, New York 10012  
-[privacypolicy@take2games.com](mailto:privacypolicy@take2games.com)
+> Take-Two Interactive  
+>  Attn: Internet Privacy Policy Administrator  
+>  622 Broadway  
+>  New York, New York 10012  
+>  [privacypolicy@take2games.com](mailto:privacypolicy@take2games.com)
 
-**TRANSFER OF YOUR INFORMATION** **TO THE UNITED STATES** **AND OTHER COUNTRIES**
+back to top
+
+**TRANSFER OF YOUR INFORMATION TO THE UNITED STATES AND OTHER COUNTRIES**
 
 All information collected or received by the Company in connection with the Online Services is collected in, processed in, or transferred to the United States of America and other countries. While your information is in another jurisdiction, it may be accessed by the courts, law enforcement, and national security authorities pursuant to the laws of those jurisdictions. By using our services, you expressly consent to such collection, transfer, and processing. Backup data, matchmaking data, and administrative data may also be stored on media or servers located in the United States of America and other countries. 
 
@@ -180,7 +247,7 @@ Use of our services and products may be subject to other terms, conditions and d
 
 back to top
 
-**OTHER TERMS FOR THIRD** **-** **PARTY PLATFORMS.**
+**OTHER TERMS FOR THIRD-PARTY PLATFORMS.**
 
 You may be able to sign up for or access the Online Services through third-party platforms such as gaming consoles, mobile devices, other websites and social networking services. When you submit personal information to the Company via a third-party platform, your use of that platform is also governed by its terms of service, privacy policies and/or code of conduct. Please review each company's governing policies before using their services. 
 
@@ -189,3 +256,5 @@ back to top
 **HOW DO I ASK A QUESTION OR FILE A COMPLAINT?**
 
 For all questions or complaints about this Privacy Policy, contact our Privacy Policy Administrator at 646-536-2842; via email at [privacypolicy@take2games.com](mailto:privacypolicy@take2games.com); or, by regular mail at Take-Two Interactive, Attn: Internet Privacy Policy Administrator, 622 Broadway, New York, New York 10012. If you are a Rockstar Games Online Services user located in the European Union, please indicate that in your email, letter, or phone call. 
+
+back to top
