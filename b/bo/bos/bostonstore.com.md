@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bostonstore.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182312id_/http%3A//www.bostonstore.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonstore.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018002451id_/http%3A//www.bostonstore.com/sc1/customer-service-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Security Procedures - Boston Store
+# Privacy Policy - Boston Store
 
-This Privacy Policy was last updated on March 16, 2015.
+This Privacy Policy was last updated on **September 19, 2016.**
 
 This website is owned and operated by The Bon-Ton Department Stores, Inc., and this Privacy Policy applies to the website only.
 
@@ -14,7 +14,7 @@ This Privacy Policy includes examples of the types of personal information we co
 
 The Bon-Ton may collect personal information about you from the following sources:
 
-  * Information that we receive from you when using our website. This personal information is gathered when you use our website to register, make a purchase, write a product review and create a registry. Similar personal information is gathered when you register with one of our other services such as mobile or social media applications, such as Facebook.  In order to bill you for your purchase we may collect credit card information including your card type, credit card number, and expiration date. We also collect shipping address information that allows us to ship your order. This includes the name, address and phone number of the intended recipient;
+  * Information that we receive from you when using our website. This personal information is gathered when you use our website to register, make a purchase, write a product review and create a registry. Similar personal information is gathered when you register with one of our other services such as mobile or social media applications, such as Facebook. In order to bill you for your purchase we may collect credit card information including your card type, credit card number, and expiration date. We also collect shipping address information that allows us to ship your order. This includes the name, address and phone number of the intended recipient;
   * Information we receive from you (or that is provided to us on your behalf) on applications, contest entry forms, survey responses and other forms you submit to us, such as your name, address, email address, telephone number, Social Security number and income;
   * Information about your transactions with The Bon-Ton or others, such as your purchasing preferences;
   * And information from consumer reporting agencies, providers of marketing and demographic information and data collection agencies, such as customer names and mailing addresses, and information about your credit worthiness.
@@ -41,11 +41,11 @@ The Bon-Ton does not disclose personal information about former customers or cus
 
 ### Information Regarding Children
 
-We recognize the importance of protecting the safety and privacy of children. We comply fully with the Children’s Online Privacy Protection Act, and we do not knowingly collect information from children under 13 years of age except as permitted by law.
+This Website is not intended for children and we do not knowingly collect information from children under 13 years of age except as permitted by law.
 
 ### Our Security Procedures
 
-The security of your personal information is important to us. To prevent unauthorized access to your personal information, we have put in place physical, electronic and managerial procedures. We restrict access to personal information about you to those employees whom we determine have a legitimate business purpose to access such information in connection with the provision of products or services to you. We provide training and communications programs designed to educate employees about the meaning and requirements of our strict standards for data security and confidentiality. We employ industry standard security techniques designed to protect our customer data, including encryption technology, such as “Secure Sockets Layer (SSL) to protect your personal information during data transfer.
+The security of your personal information is important to us. To prevent unauthorized access to your personal information, we have put in place physical, administrative and technical safeguards. We restrict access to personal information about you to those employees whom we determine have a legitimate business purpose to access such information in connection with the provision of products or services to you. We provide training and communications programs designed to educate employees about the meaning and requirements of our strict standards for data security and confidentiality. We employ industry standard security techniques designed to protect our customer data, including encryption technology, such as “Secure Sockets Layer (SSL) to protect your personal information during data transfer.
 
 ### Definition Of And How We Use "Cookies"
 
@@ -55,7 +55,7 @@ It is your choice to not accept cookies. The "Help" menu of the toolbar on most 
 
 ### Email Marketing
 
-Use the unsubscribe link on any of our promotional or marketing emails to opt-out of receiving email from us.  Please allow up to 10 business days for your request to be processed.
+Use the unsubscribe link on any of our promotional or marketing emails to opt-out of receiving email from us.  Please allow up to 10 business days for your request to be processed. Please note that some programs, such as the LoveStyle Rewards Program, provide transactional emails about the LoveStyle Program and points and rewards earned so it is important to carefully select your unsubscribe options.
 
 ### Mobile Text Alerts
 
@@ -63,7 +63,7 @@ By opting in to mobile text alerts, the Bon-Ton customer agrees to receive a max
 
 Bon-Ton collects certain information automatically, such as the type of mobile device you use, device identifier, your mobile operating system, pages you visit on our mobile site, search terms, the type of mobile Internet browsers you use and information about the way you use our mobile website and applications.
 
-Read the [Mobile Terms & Conditions](https://web.archive.org/content/root-mobile-terms-conditions/content.html?viewName=ContentView)
+Read the [Mobile Terms & Conditions](https://web.archive.org/sc1/customer-service-mobile-terms-and-conditions)
 
 ### Changes To This Privacy Policy
 
@@ -83,6 +83,6 @@ _Corporate Office_
 York, PA 17405
 
 Or call the following toll-free number:   
-1-800-945-4438, 6am-12am (CST) Monday -Sunday
+1-800-945-4438, 7am-12am (midnight), Eastern Standard Time, 7 Days a Week.
 
 If you have a joint account, a request by one party will apply to the entire account. Please allow approximately 10 weeks for your request to take effect.
