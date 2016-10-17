@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csi-cloudapp.net privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215014107id_/http%3A//csi-cloudapp.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csi-cloudapp.net privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017074226id_/http%3A//csi-cloudapp.net/privacy.php) for the most accurate reproduction.*
 
 # Club Management Software, Membership Management Software, Parks and Recreation, Health Club, Fitness Management Software - CSI Software
 
@@ -71,13 +71,13 @@ If you choose to not have your browser accept cookies from the CSI Software Web 
 
 #### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should first contact CSI Software by [support@csisoftwareusa.com](mailto:support@csisoftwareusa.com).
+If you have questions regarding this statement, you should first contact CSI Software by [support@daxko.com](mailto:support@daxko.com).
 
 #### Changes to this Statement
 
 CSI Software will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, CSI Software will notify you by placing prominent notice on the Web site.Contact Information.
 
-CSI Software welcomes your comments regarding this privacy statement, please contact us by [support@csisoftwareusa.com](mailto:support@csisoftwareusa.com), or postal mail.
+CSI Software welcomes your comments regarding this privacy statement, please contact us by [support@daxko.com](mailto:support@daxko.com), or postal mail.
 
 CSI Software Privacy  
 5252 Westchester, Suite 250  
