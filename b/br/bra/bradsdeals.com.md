@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053316id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018001555id_/http%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
 # Brad's Deals Privacy Policy
 
@@ -56,9 +56,9 @@ If you wish to opt out of receiving offers directly from Brad's Deals LLC networ
 
 ## Do We Disclose Information to Outside Parties?
 
-We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
+We allow third-party companies to collect certain information when you visit both our web site and emails. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you on unaffiliated websites, apps, online service for advertising, analytics, attribution, reporting, and targeted emails based items viewed on a particular website. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
 
-We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy. 
+We may provide aggregate information about our customers, sales, web site traffic patterns and related web site information to our affiliates or reputable third parties, but this information will not include personally identifying data. Personally identifiable information will only be shared if the personally identifiable information has been freely given by the user to both Brad’s Deals and the third party, and as otherwise provided in this Privacy Policy. 
 
 ## What About Legally Compelled Disclosure of Information?
 
