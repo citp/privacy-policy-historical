@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyfundate.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401063917id_/http%3A//partyfundate.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dpartyfundate%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyfundate.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018015002id_/http%3A//partyfundate.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dpartyfundate%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # 
 
