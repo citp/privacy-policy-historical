@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621042653id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017225037id_/https%3A//www.lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Life in a House of Testosterone
 
@@ -70,17 +70,4 @@ If you wish to see which companies you have authorized cookies for, and opt-out 
 
 We love to answer any questions that you might have about anything on our website. If you have questions about our privacy policy or about collection of personally identifiable information, please send a direct inquiry via email to the owner of this website, Kim Miller, at [kim@lifeinahouseoftestosterone.com](mailto:kim@lifeinahouseoftestosterone.com).
 
-  * About
-  * Latest Posts
-
-
-
-[](https://www.lifeinahouseoftestosterone.com/ "Kim Miller")
-
-### [Kim Miller](https://www.lifeinahouseoftestosterone.com/)
-
-Kim is a PR Friendly, RVA blogger who can usually be found with her nose in a book and a glass of wine. She is a mom, wife, sister, aunt, friend and confidant and loves cooking, sunsets, wine and avoids cleaning like the plague.
-
-[](https://www.lifeinahouseoftestosterone.com/ "Kim Miller")
-
-#### Latest posts by Kim Miller ([see all](https://www.lifeinahouseoftestosterone.com/author/kim4testosterone/))
+Surviving the Chaos One More Day,
