@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciphermedialtd.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404235552id_/http%3A//ciphermedialtd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciphermedialtd.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017172634id_/http%3A//ciphermedialtd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ciphermedia
 
