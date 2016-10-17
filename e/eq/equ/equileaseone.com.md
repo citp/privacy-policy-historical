@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320201504id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017101905id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
 
 # | Tough Business Loan Solutions
 
@@ -92,3 +92,6 @@ This web site contains links to other web sites. Please note that when you click
 Copyright 2008 – 2016 **EquiLeaseOne.com** , All rights reserved.
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited
+
+  
+
