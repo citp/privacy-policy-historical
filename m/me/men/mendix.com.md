@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317123210id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017205152id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
 
 # Mendix Privacy Policy
 
@@ -61,3 +61,5 @@ We may change our business and the Mendix Site from time to time. As a result, a
 ### Access to Personal Information and Other Questions
 
 You will have the right to contact us to request information about the Personal Information we have collected from you and to request the correction, modification or deletion of such information. To make such a request and/or to pose any other questions regarding this Policy, please contact the Mendix Site webmaster via https://www.mendix.com. You may also correct, modify or delete inaccuracies by logging into your account and going to the account settings link on the site.
+
+_Last updated September 14, 2012_
