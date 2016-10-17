@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approvedfood.co.uk privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404201254id_/http%3A//www.approvedfood.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedfood.co.uk privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018015628id_/http%3A//store.approvedfood.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Approved Food
 
