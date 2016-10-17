@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the workflowy.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306064944id_/https%3A//workflowy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workflowy.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017122900id_/https%3A//workflowy.com/privacy) for the most accurate reproduction.*
 
 # WorkFlowy, Inc. Privacy Policy
 
-**Effective Date: July 21, 2011**
+**Effective Date: May 10, 2016**
 
 WorkFlowy, Inc. values the privacy of our users and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with WorkFlowy, such as when you visit our web site, use or purchase our products and services, or communicate with WorkFlowy employees. Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information. 
 
@@ -31,10 +31,12 @@ We do not share, sell, rent or otherwise distribute information you enter in Wor
 
   * We have your explicit consent to share the information; 
   * We need to share your information to fulfill your product or service request; 
-  * We have a good faith belief that sharing or otherwise permitting access, disclosure, use or preservation of such information is reasonably necessary in order to comply with our legal obligations; or 
+  * We have a good faith belief that sharing or otherwise permitting access, disclosure, use or preservation of such information is reasonably necessary in order to meet any applicable law, regulation, legal process or enforceable governmental request; or 
   * We believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud or potential threats against persons or property. 
 
 
+
+We will notify users of government requests for their data, unless legally barred from doing so. 
 
 ## Cookies
 
