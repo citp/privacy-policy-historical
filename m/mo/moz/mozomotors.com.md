@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozomotors.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512060301id_/http%3A//mozomotors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozomotors.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017142700id_/http%3A//mozomotors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mozo Motors
 
