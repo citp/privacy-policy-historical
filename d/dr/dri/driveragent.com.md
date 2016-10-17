@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driveragent.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413184305id_/http%3A//www.driveragent.com/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveragent.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018001048id_/http%3A//driveragent.com/c/privacy-policy) for the most accurate reproduction.*
 
 # DriverAgent Privacy Policy | Terms of Use & Tracking Cookies Explained - DriverAgent.com
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [our EULA](https://web.archive.org/web/20160413184305id_/http%3A//www.driveragent.com/c/end-user-license-agreement)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [our EULA](https://web.archive.org/web/20161018001048id_/http%3A//driveragent.com/c/end-user-license-agreement)
 
 #### Your Consent
 
