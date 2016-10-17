@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405160639id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018000405id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Animoto - Legal: Privacy Policy
+# Animoto - Privacy Policy
 
 ## 1\. Acknowledgement and acceptance of terms
 
 Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the personally identifiable information we collect and use when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children. 
 
-Animoto has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.animoto.com, and does not cover information that may be collected through our any mobile applications or social networking applications. 
+The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.animoto.com, and does not cover information that may be collected through our any mobile applications or social networking applications. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at_ [contact@animoto.com](mailto:contact@animoto.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. _If you have questions or complaints regarding our privacy policy or practices, please contact us at_ [contact@animoto.com](mailto:contact@animoto.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 If you do not agree to these terms, please do not access or use this site. 
 
@@ -38,7 +38,7 @@ We will not sell, trade, or rent Personally Identifiable Information to others. 
 
     * To fulfill your service request,
     * To protect ourselves from liability,
-    * To respond to a court order or subpoena, to comply with an investigation, or to comply with applicable laws or rules, or
+    * To respond to a court order or subpoena, bankruptcy proceedings or similar legal process to comply with an investigation, or to comply with applicable laws or rules, or
     * In connection with a merger, acquisition, or liquidation of the company.
 
 We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. 
@@ -58,11 +58,9 @@ Technologies such as COOKIES, beacons, tags and scripts are used by Animoto and 
 
 We use COOKIES for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. [We do not link this automatically collected data to other information we collect about you.] -OR- We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.] 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
-We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences]. Various browsers may offer their own management tools for removing HTML5 LSOs. 
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash and HTML 5 to collect and store information. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We use Local Storage such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
@@ -96,9 +94,9 @@ Animoto complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swi
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:
 
-Animoto Inc.([contact@animoto.com](mailto:contact@animoto.com))   
+Animoto Inc. ([contact@animoto.com](mailto:contact@animoto.com))   
 440 Lafayette St, Fl 2  
 New York, NY, 10003  
 USA
 
-**This document was last updated on June 16, 2015.**
+**This document was last updated on May 11, 2016.**
