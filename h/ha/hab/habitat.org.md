@@ -1,77 +1,71 @@
-> *The following text is extracted and transformed from the habitat.org privacy policy that was archived on 2005-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050427060107id_/http%3A//www.habitat.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.org privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017234409id_/http%3A//www.habitat.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Legal Notice -- Habitat for Humanity Int'l 1
+# Privacy Policy | Habitat for Humanity Int'l
 
-| 
+Habitat for Humanity International, Inc. (“Habitat for Humanity”) respects your privacy and preferences. This privacy policy (“Privacy Policy”) sets forth the terms under which you share your information with Habitat for Humanity and how Habitat for Humanity collects and uses your information. This Privacy Policy applies when you make a donation, register for an event, purchase a product, or otherwise  provide us with information via the Habitat for Humanity Website located at [www.habitat.org](http://www.habitat.org/), habitatforhumanity.org, habitat.ngo, habitatforhumanity.ngo and any other domain names owned or controlled by Habitat for Humanity (the “Website”) or in another manner, such as via telephone, email, regular mail, social media, texting, mobile applications, at a special event, in response to a solicitation or face-to-face.
 
-**Thank you for visiting the official Web site of Habitat for Humanity International.**
+Each local Habitat for Humanity affiliate (“Affiliate”) is a separate legal entity, governed by an independent board of directors, executive committee or other governing body, and each Affiliate is solely responsible for its own collection and use of your information, separate and apart from this Privacy Policy.
 
-For additional information about this site or about Habitat for Humanity you may contact us at:
+### **Personal contact information collected; What Habitat for Humanity does with it**
 
-Habitat for Humanity International  
+Habitat for Humanity may request from you, or you may volunteer to provide, your contact information, including your name, mailing address, phone number(s), social media handles and email address(es). Habitat for Humanity may, by way of example, use your contact information to:
+
+  * Send you additional information about Habitat for Humanity and its programs or events.
+  * Process a donation or payment and provide you with a receipt or acknowledgment.
+  * Clarify or obtain information about a donation or about information you requested.
+  * Enroll you in programs, events or activities in which you elect to participate.
+  * Manage your account and provide you with customer service.
+  * Offer sweepstakes, contests, giveaways or other promotions.
+  * Enforce the Website [terms of service](https://web.archive.org/terms-of-service).
+  * Perform other functions as described at the time Habitat for Humanity collects information.
+
+
+
+Habitat for Humanity may share or sell your information with vendors, sponsors, service providers and other organizations that Habitat for Humanity uses, as well as other companies whose products and services may be of interest to you. When you sign up for a program or make a donation allocated to a local Affiliate or program, your contact information may be passed on to representatives or designees of such Affiliate or program.
+
+If you make a donation or a purchase, or otherwise provide your information, Habitat for Humanity may contact you from time to time about opportunities to make additional donations or purchases or to provide information about services from third parties. 
+
+You always have the right to opt out of future communications from Habitat for Humanity and/or our vendors, sponsors and service providers, either at the point of collection, as instructed in communications you receive, via the links below, or by contacting us by mail or email:
+
+Habitat for Humanity International, Inc.  
 121 Habitat St.  
 Americus, GA 31709-3498  
-USA 
+USA  
+Telephone: 1-800-422-4828  
+Email: [publicinfo@habitat.org](mailto:publicinfo@habitat.org)
 
-telephone: (229) 924-6935, Extensions 2551 or 2552  
-e-mail: 
+Links to opt out of receiving future communication:
 
-_[publicinfo@hfhi.org](mailto:publicinfo@hfhi.org)_ **
+[Manage or unsubscribe](https://web.archive.org/getinv/email) from Habitat for Humanity e-newsletters.
 
-Statement of Purpose
+[Unsubscribe from regular mail](https://web.archive.org/cd/preferences/default.aspx).
 
-**  
-This Web site is an educational and informational electronic publication of Habitat for Humanity International. Its purpose is to share the story of Habitat for Humanity's house-building, hope-building work around the world and to invite interested online visitors to be part of those efforts. Habitat for Humanity works in partnership with God and people everywhere, from all walks of life, to develop communities with God's people in need by building and renovating houses so that there are decent houses in decent communities in which people can live and grow into all that God intended. We welcome all volunteers who share a vision of a world without shacks. **
+### **Credit card and billing information**
 
-Legal Notice
+In addition to your contact information, when you make a donation or purchase, Habitat for Humanity asks for your billing address and credit card or other financial services information.  Habitat for Humanity uses a third-party banking agent to process your payments via a secured server that encrypts your credit card/bank information. Habitat for Humanity and our banking agent will not share your credit card/bank information with any other third party, nor will we retain your credit card/bank information longer than necessary.
 
-**  
-This site was developed and is maintained by Habitat for Humanity International, Americus, Ga.
+### **Other contact information**
 
-"Habitat for Humanity" is a registered service mark owned by Habitat for Humanity International and may not be used without permission.
+Habitat for Humanity may ask for contact information for people other than yourself, including, for example, names, addresses, phone numbers and email addresses of others to whom you send information or in whose honor or behalf you are making a donation or purchase. Habitat for Humanity uses this information to send notifications or information you requested and/or to inform the recipient of your donation or purchase, as well as to contact the recipient from time to time to inform them of other opportunities and information about Habitat for Humanity. Like you, the recipient will always have the opportunity to opt out of receiving future communication from Habitat for Humanity.
 
- **
+### **Cookies**
 
-Reprint Information
+When you visit the Website, Habitat for Humanity may store some information on your computer or device as a “cookie” or similar file (i.e., a small piece of datum that stores information on your browser in your hard drive). Habitat for Humanity may use cookies to gather broad demographic and traffic information, to help improve the design and functionality of the Website. Cookies may also be used for “re-targeting” in advertising campaigns so that third-party vendors can display advertising to you about Habitat for Humanity or other related entities as you use the internet. 
 
-**  
-Permission generally is granted to reprint articles from this Web site for educational, noncommercial purposes. Requirements for reprinting are as follows:
+### **Links to other sites**
 
-Writer's byline, if applicable  
-© Habitat for Humanity International  
-Reprinted, in its entirety, with permission of Habitat for Humanity International  
-For permissions or to advise of links to this site, e-mail 
+This Website may contain links to other sites that may collect your personal contact information. Habitat for Humanity is not responsible for privacy practices and policies or content of these other sites.
 
-_[webmaster@hfhi.org](mailto:webmaster@hfhi.org)_
+### **Social media**
 
-Upon print publication of material from this site, for our records we require that a copy be sent to: Webmaster, Habitat for Humanity International, 121 Habitat St., Americus, GA 31709 USA
+You may engage with Habitat for Humanity through third-party social-media sites, plug-ins and applications, such as Facebook, Instagram and Twitter. When doing so, you may allow Habitat for Humanity to access certain information from your profile (e.g., name, email address, photo, gender, birthday, location, list of friends/contacts, whom you follow and or who follow you, your ‘likes,’ etc.). When you provide information to Habitat for Humanity through an application, on the Website, or on social networking platforms, it may be viewable by other users of these sites and, in such instances, Habitat for Humanity is not responsible for, and cannot prevent, use of the information by third parties. Some applications, sites and plug-ins allow you to control what data and information you share. For more information about how they treat your information, refer to their privacy policies, settings and terms of use.
 
- **
+### **Minors**
 
-Privacy Policy
+It is Habitat for Humanity’s policy not to solicit knowingly any personally identifiable information from children under the age of 13. Children under 13 are not authorized to make a donation or purchase, sign up for an event or program, or otherwise provide any personally identifiable information without consent from a parent or legal guardian.
 
-**  
-Habitat for Humanity International is committed to respecting the privacy of online visitors and pledges its best efforts to that end. In general, you can visit Habitat for Humanity International on the Web without telling us who you are or revealing anything about yourself.
+### **Changes to the Privacy Policy**
 
-Our Web server automatically recognizes each visitor's domain name, but does not automatically collect personally identifiable information. There are times, however, such as when you place a product order or register for an event, that we will collect specific information. If you choose to provide personally identifiable data, you may receive future information from us--by mail, electronically or by telephone--advising you of upcoming Habitat for Humanity events, services, new products, or volunteer and support opportunities. If you do not wish to be contacted with such information, please let us know by writing or sending e-mail to the addresses at the top of this page. Those who provide personally identifiable data also may receive information from other reputable organizations. You can, however, have your name put on our do-not-share list by e-mailing or writing to us at the addresses above. Please make sure to provide your full name and address for exclusion from "future contact" or "share" lists.
+This Privacy Policy is subject to change from time to time. Habitat for Humanity will notify you about material changes in the way Habitat for Humanity treats your information by posting a notice on the Website or by contacting you directly. You will always have access to the most current policies regarding what information Habitat for Humanity collects, how it’s used, with whom it may be shared, and what choices you have.
 
-A "cookie" is a small piece of data stored on your computer's hard drive when you visit our Web site. Habitat uses cookies to analyze our Web site's overall traffic patterns and improve our visitors' online experience. We do not use cookies to store or collect any personal information. Many browsers provide an option to block or remove cookies. You can visit habitat.org successfully while blocking cookies, but leaving cookies enabled in your browser will help us to improve our site's usability and effectiveness.
-
-In order to provide a more comprehensive and useful site, the Habitat for Humanity International Web site contains links to other Web sites. Habitat for Humanity International is not responsible for the privacy practices of these sites.
-
- **
-
-Note to Parents
-
-**  
-We are pleased when young people visit the Web site of Habitat for Humanity International to learn more about the organization and the problem of poverty housing. Habitat for Humanity International does not knowingly solicit data from children and does not knowingly market to children. **
-
-Credit Card Information
-
-**  
-Habitat for Humanity International has contracted the services of a banking partner to process credit card donations submitted online. Our banking partner's secured server encrypts your credit card information so that it may be safely transmitted over the Web. Your credit card information will not be released by Habitat for Humanity International or its banking partner to any other party. **
-
-Feedback Invited
-
-**  
-Again, thank you for visiting the Web site of Habitat for Humanity International. We welcome your feedback.
+[Updated April 2016]
