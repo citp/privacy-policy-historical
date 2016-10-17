@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the starcrush.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617004340id_/http%3A//starcrush.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starcrush.com privacy policy that was archived on 2016-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161017204507id_/http%3A//starcrush.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWFZXGwEJUFNUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=1020">
 <title>StarCrush</title>
 
@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/rss+xml" title="StarCrush » Feed" href="http://starcrush.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://starcrush.com/wp-content/themes/townsquare3-music/style.css">
-<script type="text/javascript">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
 			window.TSM = window.TSM || {};
 			window.TSM.ga = {"accounts":["UA-19109753-22","UA-19109753-35"]};
 		</script><script type="text/javascript">(function(w){w.TSM.sitetype="national";})(window);</script>		<script type="text/javascript">
@@ -34,14 +34,14 @@ img.emoji {
 <link rel="stylesheet" id="weather-widget-css-css" href="http://starcrush.com/wp-content/plugins/weather-widget/resources/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://starcrush.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css" type="text/css" media="all">
 <link rel="stylesheet" id="sp-gallery-css" href="http://starcrush.production.townsquareblogs.com/wp-content/plugins/gallery/resources/sp-gallery.css" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-fancybox-css" href="http://starcrush.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=c629e148872cf9c9df075246d80f3db63023bfd3" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://starcrush.com/css/ts3.css?ver=1446567925c629e14887" type="text/css" media="all">
-<link rel="stylesheet" id="facebook_auth-css" href="http://starcrush.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=c629e148872cf9c9df075246d80f3db63023bfd3" type="text/css" media="all">
-<link rel="stylesheet" id="radio-players-css" href="http://starcrush.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=c629e148872cf9c9df075246d80f3db63023bfd3" type="text/css" media="screen">
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://starcrush.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://starcrush.com/css/ts3.css?ver=1446567925837c4e2ab3" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://starcrush.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13" type="text/css" media="all">
+<link rel="stylesheet" id="radio-players-css" href="http://starcrush.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13" type="text/css" media="screen">
 <script type="text/javascript" src="http://starcrush.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
 <script type="text/javascript" src="http://starcrush.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://starcrush.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://starcrush.com/wp-includes/wlwmanifest.xml"> 
@@ -61,7 +61,7 @@ img.emoji {
 				if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
 				else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
 			})();
-		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=32424913626&amp;varName=crtg_content" async=""></script>
+		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=2932555638&amp;varName=crtg_content" async=""></script>
 			<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 		<script type="text/javascript">
 		var googletag = googletag || {};
@@ -71,7 +71,7 @@ img.emoji {
 		googletag.cmd = googletag.cmd || [];
 	</script>
 	<script id="tsm-googletag-init" type="text/javascript">
-	window.TSMAdSettings = {"activeSlots":["tsm-out-of-page","top-right-300x250","middle-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"StarCrush","pagetype":"home","amazonAds":true,"enableCriteo":true,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":false,"sharethroughKey":"","enableYieldbot":"101f","enableSonobi":false},"attrs":{"catid":"","id":"","author":"","kw":["pagetype-home"],"genre":["pop"],"device":"web","kv":[]}}};
+	window.TSMAdSettings = {"activeSlots":["tsm-out-of-page","top-right-300x250","middle-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"StarCrush","pagetype":"home","amazonAds":true,"enableCriteo":true,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":false,"sharethroughKey":"","enableYieldbot":"101f","enableSonobi":false,"enableOpenx":false,"enableKiosked":true,"enableKioskedMobile":false},"attrs":{"catid":"","id":"","author":"","kw":["pagetype-home"],"genre":["pop"],"device":"web","kv":[]}}};
 			var crtg_split = crtg_content.split( ';' );
 		for (var i=1;i<crtg_split.length;i++){
 			var keyvals = crtg_split[ i-1 ].split( '=' );
@@ -81,10 +81,10 @@ img.emoji {
 			window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ].push( keyvals[ 1 ] );
 		}
 	</script>
-<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.min.js?v=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.min.js?v=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
 <script type="text/javascript">
 			(function(w){
-				w.TSMAnalytics = {"info":{"title":null,"ip":"66.155.35.40","referer":null,"callsign":"StarCrush","sitetype":"National","siteClassification":null,"state":"NY","genre":["pop"],"tags":[],"categories":[]}};
+				w.TSMAnalytics = {"info":{"title":null,"ip":"66.155.35.41","referer":null,"callsign":"StarCrush","sitetype":"National","siteClassification":null,"state":"NY","genre":["pop"],"tags":[],"categories":[]}};
 			})(window);
 		</script>
 <!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[591,612] -->
@@ -206,7 +206,7 @@ var _gaq_categories = '';
 var _gaq_uid = 'UA-19109753-22';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19109753-22']);
-_gaq.push(['_setCustomVar', 3, 'Pagetype', window.TSMAdSettings&&TSMAdSettings.adPageSettings&&TSMAdSettings.adPageSettings.pageSettings&&TSMAdSettings.adPageSettings.pageSettings.pagetype?TSMAdSettings.adPageSettings.pageSettings.pagetype:'', 3]);_gaq.push(['_setCampaignCookieTimeout', 0]);
+var adObj=window.TSMAdSettings||window.TSM.dfp;_gaq.push(['_setCustomVar', 3, 'Pagetype', 'home', 3]);_gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
 _gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
@@ -343,7 +343,7 @@ _gaq.push(['_trackPageview']);
 
 <p>1.3. 	Although many areas of the Website(s) do not require registration and may be accessed by you without having to disclose any personal information, we or our service providers and/or third-party advertisers may ask you for certain kinds of personal information, including but not limited to your name, email address, mailing address, telephone number, age, credit/debit card information, user name and password, demographic information and other information that might identify you as an individual (“Personal Information”).  The Personal Information we collect about you may also be combined or supplemented with information from other sources.  Any Personal Information used in any manner will be used consistent with this Privacy Policy. </p>
 
-<p>1.4	By accessing the Website(s), you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on each of the Website(s) that you visit. If there is anything you do not understand please email any inquiry to <a href="mailto:privacy@townsquaremedia.com?subject=Privacy Policy Inquiry: http://starcrush.com">privacy@townsquaremedia.com</a>. If at any time you do not agree to this Privacy Policy, please do not use the Website(s).  </p>
+<p>1.4	By accessing the Website(s), you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on each of the Website(s) that you visit. If there is anything you do not understand please email any inquiry to <a href="http://starcrush.com/?geo-address=cevinplAgbjafdhnerzrqvnNpbzOfhowrpgZcevinpl%20cbyvpl%20vadhvelP%20uggcPYYfgnepehfuNpbz" class="geo-address ">privacy@townsquaremedia.com</a>. If at any time you do not agree to this Privacy Policy, please do not use the Website(s).  </p>
 
 <p>1.5	We reserve the right to change or update this Privacy Policy by posting such changes or updates to the Website(s). Amendments to this Privacy Policy will be posted at this URL and will be effective when posted.  It is your responsibility to review any such changes or updates and check the Website(s) from time to time to be sure you understand all terms and conditions, agreements and policies of the Website(s) and are in compliance with them. You can tell if the policy has changed by checking the last modified date that appears at the end of this Privacy Policy. Your continued use of the Website(s) following the posting of any amendment, modification or change shall constitute your acceptance thereof.  </p>
 
@@ -454,7 +454,7 @@ _gaq.push(['_trackPageview']);
 
 <h3 id="children">9.	Children </h3>
 
-<p>We do not permit children under 13 years of age to use the Website(s), and we do not knowingly collect, use or disclose Personal Information from anyone under 13 years of age except as part of specific outreach programs with parental permission.  If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.  If you believe that we have mistakenly or unintentionally collected Personal Information of a minor without appropriate consent, please notify us at <a href="mailto:privacy@townsquaremedia.com?subject=Privacy Policy Inquiry: http://starcrush.com">privacy@townsquaremedia.com</a> or by mail to the following address: Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830, so that we may immediately delete such information and take other appropriate action.</p>
+<p>We do not permit children under 13 years of age to use the Website(s), and we do not knowingly collect, use or disclose Personal Information from anyone under 13 years of age except as part of specific outreach programs with parental permission.  If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.  If you believe that we have mistakenly or unintentionally collected Personal Information of a minor without appropriate consent, please notify us at <a href="http://starcrush.com/?geo-address=cevinplAgbjafdhnerzrqvnNpbzOfhowrpgZcevinpl%20cbyvpl%20vadhvelP%20uggcPYYfgnepehfuNpbz" class="geo-address ">privacy@townsquaremedia.com</a> or by mail to the following address: Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830, so that we may immediately delete such information and take other appropriate action.</p>
 
 <h3 id="california">10.	Your California Privacy Rights </h3>
 
@@ -491,7 +491,7 @@ _gaq.push(['_trackPageview']);
 <p>The remedy for any claim shall be limited to actual damages, and in no event shall any party be entitled to recover punitive, exemplary, consequential, or incidental damages, including attorney’s fees or other such related costs of bringing a claim or seek injunctive relief or any other equitable claim.  SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.  For New Jersey residents, the previous two sentences apply only to the maximum extent permitted under New Jersey law.</p>
 <h3 id="contact">17.	Contact</h3>
 
-<p>If you have any questions about your privacy or security at the Website(s), or wish to update your Personal Information, please send an email to <a href="mailto:privacy@townsquaremedia.com?subject=Privacy Policy Inquiry: http://starcrush.com">privacy@townsquaremedia.com</a> or write to us at:  Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message.  You may call us at 1 (203) 861-0900. </p>
+<p>If you have any questions about your privacy or security at the Website(s), or wish to update your Personal Information, please send an email to <a href="http://starcrush.com/?geo-address=cevinplAgbjafdhnerzrqvnNpbzOfhowrpgZcevinpl%20cbyvpl%20vadhvelP%20uggcPYYfgnepehfuNpbz" class="geo-address ">privacy@townsquaremedia.com</a> or write to us at:  Townsquare Media, Inc., ATTN:  Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message.  You may call us at 1 (203) 861-0900. </p>
 
 
 <h3>DATE LAST MODIFIED: May 4, 2016</h3>
@@ -526,88 +526,88 @@ _gaq.push(['_trackPageview']);
 <footer id="footer_wrap" class="footer_wrap clearfix">
     <div data-fs="active-sidebar" id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-5" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://popcrush.com/ " target="_blank"><img src="http://ultimateclassicrock.com/files/2011/06/popcrush-rss.png  "></a><ul class=""><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://popcrush.com/beach-songs/" title="Need a perfect beach playlist? Don't worry, we've got you covered. […]" target="_blank">
+							<a href="http://popcrush.com/best-tv-shows-based-on-movies-ranked/" title="The 2016 fall TV season presents several new film-inspired series, so we've ranked 30 shows that built on a pre-existing movie's story. […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://popcrush.com/beach-songs/" title="Best Beach Songs" target="_blank">Best Beach Songs</a>
+							<a class="rsswidget" href="http://popcrush.com/best-tv-shows-based-on-movies-ranked/" title="30 TV Shows Based on Movies, Ranked From Worst to Best" target="_blank">30 TV Shows Based on Movies, Ranked From Worst to Best</a>
 							
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://popcrush.com/10-most-anticipated-ya-books-june-2016/" title="With comical tales of England’s future Queens and final battles to be won, stories of self-discovery and summer love, June has something for every YA fan. […]" target="_blank">
+							<a href="http://popcrush.com/10-most-anticipated-young-adult-books-of-october-2016/" title="Which young adult book releases are you most excited about for October 2016? […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://popcrush.com/10-most-anticipated-ya-books-june-2016/" title="10 Most Anticipated Young Adult Books of June 2016" target="_blank">10 Most Anticipated Young Adult Books of June 2016</a>
+							<a class="rsswidget" href="http://popcrush.com/10-most-anticipated-young-adult-books-of-october-2016/" title="10 Most Anticipated Young Adult Books of October 2016" target="_blank">10 Most Anticipated Young Adult Books of October 2016</a>
 							
 							
 							
 						</span>
 					</li></ul></div><div id="rss-feed-6" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://screencrush.com/" target="_blank"><img src="http://ultimateclassicrock.com/files/2012/03/150x60.png"></a><ul class=""><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://screencrush.com/american-crime-story-katrina-sarah-paulson-returning/" title="The absurd amount of work Sarah Paulson pulled double-duty between The People v. O.J. Simpson and American Horror Story: Hotel will surely pay off come Emmy-time, but can she do it all over again? Sources say the actor is ready to don her next wig for the Katrina-set American Crime Story Season 2, along with several others. […]" target="_blank">
+							<a href="http://screencrush.com/spike-lee-shes-gotta-have-it-netflix-dewanda-wise/" title="Spike Lee remaking his feature film debut She’s Gotta Have It as a Netflix series can go either way, but at least its cast is shaping up well. Not only has Lee tapped a Hamilton star to play his own central role, but so too has DeWanda Wise scored the title role of Netflix’s She’s Gotta Have It. […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/american-crime-story-katrina-sarah-paulson-returning/" title="Sarah Paulson and More Likely Returning for ‘American Crime Story’ Katrina" target="_blank">Sarah Paulson and More Likely Returning for ‘American Crime Story’ Katrina</a>
+							<a class="rsswidget" href="http://screencrush.com/spike-lee-shes-gotta-have-it-netflix-dewanda-wise/" title="Spike Lee’s Netflix ‘She’s Gotta Have It’ Sets Series Leads" target="_blank">Spike Lee’s Netflix ‘She’s Gotta Have It’ Sets Series Leads</a>
 							
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://screencrush.com/new-dvd-and-blu-ray-releases-july-2016/" title="Summer is here and in case you’re blissfully unaware, it is gross outside. Good thing there are plenty of new movies to help you escape, whether it’s in a theater or at home. For the latter, July brings tons of options to enjoy from the comfort of your couch, including recent indie favorites like Green Room and Everybody Wants Some. If you’re looking for som […]" target="_blank">
+							<a href="http://screencrush.com/westworld-the-stray-recap-s1-e3/" title="Three episodes in, Westworld is quickly becoming a show of theories. Tonight’s “The Stray” didn’t advance much of the show’s overarching narrative, but it did throw a major monkey wrench into one of the more notable theories which has been written about a lot after it popped up on Reddit. It proposes that William, the character played by Jimmi Simpson, is ac […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/new-dvd-and-blu-ray-releases-july-2016/" title="New DVD and Blu-ray Releases: July 2016" target="_blank">New DVD and Blu-ray Releases: July 2016</a>
+							<a class="rsswidget" href="http://screencrush.com/westworld-the-stray-recap-s1-e3/" title="‘Westworld’ Season 1, Episode 3: The Things We Want the Most and Experience the Least" target="_blank">‘Westworld’ Season 1, Episode 3: The Things We Want the Most and Experience the Least</a>
 							
 							
 							
 						</span>
 					</li></ul></div><div id="rss-feed-7" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com/" target="_blank"><img src="http://loudwire.production.townsquareblogs.com/files/2011/08/UCR.png"></a><ul class=""><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://ultimateclassicrock.com/stairway-to-heaven-chim-chim-cher-ee/" title="Spirit's attorney questioned Jimmy Page over the influence of a song from 'Mary Poppins' on &quot;Stairway to Heaven.&quot; […]" target="_blank">
+							<a href="http://ultimateclassicrock.com/motorhead-overnight-sensation/" title="Motorhead returned to their roots as a power trio and delivered a strong late-career effort with their 13th studio album 'Overnight Sensation.' […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://ultimateclassicrock.com/stairway-to-heaven-chim-chim-cher-ee/" title="Attorney Plays ‘Chim Chim Cher-ee’ From ‘Mary Poppins’ in ‘Stairway to Heaven’ Trial" target="_blank">Attorney Plays ‘Chim Chim Cher-ee’ From ‘Mary Poppins’ in ‘Stairway to Heaven’ Trial</a>
+							<a class="rsswidget" href="http://ultimateclassicrock.com/motorhead-overnight-sensation/" title="20 Years Ago: Motorhead Return to the Power Trio Format on ‘Overnight Sensation’" target="_blank">20 Years Ago: Motorhead Return to the Power Trio Format on ‘Overnight Sensation’</a>
 							
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://ultimateclassicrock.com/izzy-stradlin-walk-n-song/" title="Former Guns N’ Roses guitarist Izzy Stradlin posted a 30-second tease of his newest solo track, “Walk ‘N Song.&quot; […]" target="_blank">
+							<a href="http://ultimateclassicrock.com/john-mellencamp-cuttin-heads/" title="John Mellencamp closed out the '90s riding one of rock's most impressive hitmaking streaks — and still just as determined as ever to make records his way. […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://ultimateclassicrock.com/izzy-stradlin-walk-n-song/" title="Izzy Stradlin Unveils New ‘Walk ‘N Song’" target="_blank">Izzy Stradlin Unveils New ‘Walk ‘N Song’</a>
+							<a class="rsswidget" href="http://ultimateclassicrock.com/john-mellencamp-cuttin-heads/" title="15 Years Ago: John Mellencamp Overcomes Label Meddling on ‘Cuttin’ Heads’" target="_blank">15 Years Ago: John Mellencamp Overcomes Label Meddling on ‘Cuttin’ Heads’</a>
 							
 							
 							
 						</span>
 					</li></ul></div><div id="rss-feed-8" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://tasteofcountry.com/" target="_blank"><img src="http://loudwire.production.townsquareblogs.com/files/2011/08/tasteOfCountry.png"></a><ul class=""><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://tasteofcountry.com/thomas-rhett-fan-engagement/" title="Love was in the air during a recent Thomas Rhett meet and greet, when a fan named Dan took advantage of the opportunity to propose to his girlfriend, Ashley. […]" target="_blank">
+							<a href="http://tasteofcountry.com/brandy-clark-girl-next-door-letthegirlsplay-cover/" title="Every week the #LetTheGirlsPlay show at the Listening Room in Nahville closes with a cover song. Recently five singers teamed up to recreate the drama and mood of “Girl Next Door,” a hit song from Brandy Clark. […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://tasteofcountry.com/thomas-rhett-fan-engagement/" title="Couple Gets Engaged With Help From Thomas Rhett [Watch]" target="_blank">Couple Gets Engaged With Help From Thomas Rhett [Watch]</a>
+							<a class="rsswidget" href="http://tasteofcountry.com/brandy-clark-girl-next-door-letthegirlsplay-cover/" title="#LetTheGirlsPlay Cover: Brandy Clark, ‘Girl Next Door’ [Watch]" target="_blank">#LetTheGirlsPlay Cover: Brandy Clark, ‘Girl Next Door’ [Watch]</a>
 							
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image" style="display:none;">
-							<a href="http://tasteofcountry.com/blake-shelton-gossip/" title="Blake Shelton is no stranger to living in the limelight. Rumors have been circling around him and former wife Miranda Lambert since way before they divorced last summer, and now even more so since his new relationship with Gwen Stefani went public this past November. […]" target="_blank">
+							<a href="http://tasteofcountry.com/indigo-summer-something-you-miss-video/" title="Indigo Summer take a wistful look back in their new video for &quot;Something You Miss.&quot; […]" target="_blank">
 								<img class="rssfeed-item-image" src="" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://tasteofcountry.com/blake-shelton-gossip/" title="Blake Shelton Says ‘You Just Have to Accept’ Gossip" target="_blank">Blake Shelton Says ‘You Just Have to Accept’ Gossip</a>
+							<a class="rsswidget" href="http://tasteofcountry.com/indigo-summer-something-you-miss-video/" title="Indigo Summer Reminisce About Old Love in ‘Something You Miss’ Video" target="_blank">Indigo Summer Reminisce About Old Love in ‘Something You Miss’ Video</a>
 							
 							
 							
@@ -624,7 +624,7 @@ _gaq.push(['_trackPageview']);
 
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=656&amp;g=001&amp;c=285367&amp;ctg=pop"></script>
 <div style="display:none;">
-	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="883d2c4b1a"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="80990ca3e8"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
 	<div id="fb-auth-account-activation" class="fb-auth-form">
 		<h3 class="generic-link-color">Welcome back to StarCrush</h3>
 		<p>
@@ -704,6 +704,15 @@ _gaq.push(['_trackPageview']);
 			<div class="facebook-connect-button"></div>
 			<p class="meta">Sign up for StarCrush quickly by connecting your Facebook account.  It's just as secure and no password to remember!</p>
 		</div>
+
+		<div class="clear"></div>
+			<div class="loyalty-global-sponsor">
+				<div class="overlay_fancybox">
+					<div class="hidden overlay_sponsor_wrap">
+						<div><p class="meta">StarCrush brought to you by:</p></div>
+					</div>
+				</div>
+			</div>
 	</div>
 </div>
 <div style="display:none;">
@@ -729,46 +738,46 @@ _gaq.push(['_trackPageview']);
 				<a class="request-submit" href="#">Submit</a>
 			</div>
 
-			<input type="hidden" id="request_song" name="request_song" value="4ab5372d76"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+			<input type="hidden" id="request_song" name="request_song" value="be30fc1225"><input type="hidden" name="_wp_http_referer" value="/privacy/">
 		</form>
 
 		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
 
 	</div>
 </div>
-<!-- Page rendered at 8:43:39 pm 06/16/16 --><link rel="stylesheet" id="local_experts-css" href="http://starcrush.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/tsmanalyticsbluekai/assets/front/js/bluekai.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<!-- Page rendered at 3:24:36 am 10/17/16 --><link rel="stylesheet" id="local_experts-css" href="http://starcrush.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/tsmanalyticsbluekai/assets/front/js/bluekai.min.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
 <script type="text/javascript" src="http://starcrush.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2"></script>
 <script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/plugins/gallery/resources/jquery.cycle.min.js?ver=2.86"></script>
-<script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://content.jwplatform.com/libraries/RAvk1rfG.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/widgets/request-song/js/request_song.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://content.jwplatform.com/libraries/4clPvIkb.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://starcrush.production.townsquareblogs.com/wp-content/widgets/request-song/js/request_song.js?ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
+<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=837c4e2ab33bb1eab7ddaed595eb9719df7acc13"></script>
 <!-- ip: 108.161.244.166 -->
 </div><!-- // #takeover_wrap.body_child  -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a007ead414","applicationID":"2942652","transactionName":"MlQBNUdTWEBWURZcVgseNhNcHV9dU1caG0kNQQ==","queueTime":0,"applicationTime":556,"atts":"HhMCQw9JS04=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 62/64 queries in 0.023 seconds using memcached
+Database Caching 62/64 queries in 0.034 seconds using memcached
 Database cluster enabled 
-Object Caching 1703/1769 objects using memcached
+Object Caching 1718/1781 objects using memcached
 
- Served from: starcrush.com @ 2016-06-16 20:43:39 by W3 Total Cache --></body></html>
+ Served from: starcrush.com @ 2016-10-17 03:24:36 by W3 Total Cache --></body></html>
