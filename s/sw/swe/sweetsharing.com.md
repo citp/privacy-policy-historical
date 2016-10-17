@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetsharing.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618173115id_/http%3A//www.sweetsharing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsharing.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017223347id_/http%3A//www.sweetsharing.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Sweet Sharing
 
