@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4daysin.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607145054id_/http%3A//4daysin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4daysin.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017215333id_/http%3A//4daysin.com/privacy) for the most accurate reproduction.*
 
 # 4daysin » Privacy Policy
 
