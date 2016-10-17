@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523100706id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017183043id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES | About Cedarville University | Cedarville University, a Christian College
 
