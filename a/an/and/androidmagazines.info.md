@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidmagazines.info privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616230133id_/http%3A//www.androidmagazines.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidmagazines.info privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017080053id_/http%3A//www.androidmagazines.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Android Magazines
 
