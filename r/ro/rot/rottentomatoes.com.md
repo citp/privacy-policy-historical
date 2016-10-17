@@ -1,109 +1,272 @@
-> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617183234id_/http%3A//www.rottentomatoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017231919id_/https%3A//www.fandango.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Rotten Tomatoes: Legal Documents
+# Movie Tickets & Movie Times - Fandango.com
 
-Flixster Privacy Policy
+##### FANDANGO PRIVACY POLICY
 
-Effective October 10, 2011
+This Privacy Policy was last updated on: April 30, 2014.
 
-Thank you for visiting Flixster, including Rotten Tomatoes (together with the other [Warner Bros. Entertainment Group](http://www.google.com/url?q=http%3A%2F%2Fwww.warnerbros.com%2Fmain%2Fprivacy%2Fprivacy_list.html&sa=D&sntz=1&usg=AFQjCNHBl-D4n3Y0xr9xFP2eCtcrFjwUDg) companies, "we" "us", or "our"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. If you also have downloaded the Flixster Collections software, please read the Additional Privacy Disclosures for Flixster Collections Software to learn more about the additional information collection practices that are specific to that offering. 
+##### NOTICE OF ARBITRATION PROVISIONS:
 
-THE INFORMATION WE COLLECT
+**Your use of our Site or other Service is subject to binding individual arbitration of any disputes which may arise, as provided in Paragraph 18 of the[ Terms of Use](http://www.fandango.com/TermsOfUse.aspx). Please read the arbitration provisions carefully and do not use our Site or other Service if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this Privacy Policy or our privacy practices) as provided in the Terms of Use.**
 
-Registration. At some of our Web sites, applications and services ("Services"), you can order products or purchase content, enter contests, play one of our games, read critic and user reviews, vote in polls, rate movies, TV shows and other content, or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in our online forums or communities. In the course of using the Services, we ask you to create an account by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card and billing information, and information about your interests in and use of various products, programs, and services. 
+This Privacy Policy ("Policy") sets forth the privacy policies that apply to your use of [www.fandango.com](http://www.fandango.com/) or any of our other websites (collectively, the "Site") and any other services or products and any related software applications (collectively, the "Service") offered and/or operated by Fandango Media, LLC ("Fandango" or "we" or "our" or "us"). By visiting our Site or otherwise signing up for and/or using our Service, you are subject to these privacy policies.
 
-Information about others/inviting friends. You also can submit information about other people. For example, you might submit a person's name and e-mail address to share content or recommendations, and if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+Fandango is concerned about your privacy and wants you to be familiar with how it collects, uses and shares your information. This Policy outlines the type of information that we collect and receive from you while you are using our Site or other Service. Additionally this Policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information. Please review this Policy carefully, especially before providing any personal information through our Site or other Service. Our Site and Service are operated in and controlled from the United States of America. If you have any questions about this Policy or don't see your concerns addressed here, please use the contact information provided at the end of this Policy to contact us.
 
-Some of our Services also allow you to invite your friends to join our services and to connect with you through social media features. Inviting friends is always optional. To do so, you may provide their contact information or may enter your log-in credentials to import email addresses from your address book from other sites that support such functionality (e.g., Yahoo! and Gmail). You select the friends you want to invite to share in this experience. 
+##### What this Privacy Policy Covers:
 
-Information from other sources/social networking sites. You can also engage with our content, such as video, games, applications, and other offerings, on or through (1) third-party social networking sites, such as Facebook, (2) third-party social media plug-ins and applications, and (3) our social media plug-ins and applications that may be available through third-party sites or our Services. You may also choose to link your account with us to third party social networking sites. When you link your account or engage with our content on or through third party social networking sites, social media plug-ins or applications, you may allow us to have ongoing access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make). We may also maintain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our content. 
+The practices described in this Policy only apply to the following:
 
-When you provide information from your social media profile, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly with the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. 
+  * Information collected online on this Site.
+  * Information collected when you use our Service, including when you download, register for or use our wireless applications via your cell phone or other mobile device or when such Service and applications interact with this Site.
+  * Like many other websites, we may now or in the future provide other websites or mobile services with, and allow users to "snag" or place, our RSS feeds, video players and other applications on websites or mobile services we do not control. This Policy applies to any information we collect when you use our RSS feeds, video players and other applications, but does not apply to information separately collected by the operators of those websites or mobile services or other third parties that may provide content or services to those websites or mobile services.
 
-When you post information on blogs, public forums or similar functions at our Services, or when you interact with our Services through social networking sites (depending on your privacy settings), social media plug-ins or similar applications, this information could be seen by anyone on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social networking sites. For more information about how you can customize your privacy settings and how social networking sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. 
 
-Instant Personalization on Rotten Tomatoes. At some of our Services, we enable a feature that allows you to instantly personalize your experience using Facebook's Instant Personalization. Instant Personalization lets you bring your friends and movie interests with you as you explore our Services where we have this feature enabled. To use this feature, you must have a Facebook account, be signed in, and ensure Instant Personalization is turned on in your Facebook privacy settings. Once enabled, Instant Personalization will provide the Service using this feature with the public information you make available from your [Facebook account](http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Fhelp%2F%3Ffaq%3D17437&sa=D&sntz=1&usg=AFQjCNG-JlGIfV2kXe3_7nM4TwNr0HnHmQ). For example, you may see your first name, profile picture, and your friends' reviews the next time you access Rotten Tomatoes. 
 
-You can turn off Instant Personalization at any time by going to the privacy settings of your Facebook account and disabling the feature or by logging out on the Rotten Tomatoes site. To learn more about Facebook's Instant Personalization, click [here](http://www.google.com/url?q=http%3A%2F%2Fwww.facebook.com%2Finstantpersonalization%2F&sa=D&sntz=1&usg=AFQjCNEtuCyfUPDSl990w9lVpPI6Zl0HaQ). 
+##### What this Privacy Policy Does Not Cover:
 
-Information collection from mobile devices. If you access our Services on your mobile telephone or other mobile device, we also collect your unique device identifier and may collect location information. We also may collect your telephone number and other information you choose to provide, such as username or e-mail address (e.g., to receive updates about movies and other content). 
+This Policy does not cover any of the following:
 
-Technical and usage information. We also may obtain certain technical information when you use our Services, such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows 7, Mac OS, iOS, and Android), and the name of your Internet service provider or mobile carrier. 
+  * Information you give to us offline, for example when you send a letter to our business address or leave a message on our voicemail system.
+  * Information collected by third parties, even if collected on or through our Site or other Service. For example, we may embed a content feed, video player or other application from a third party on our Site or other Service. These third party applications may appear to be part of our Site or other Service, but the content is provided by a third party server. By accessing this third party application, the third party owner may send its own cookies and collect its own data regarding your interaction with the application and may solicit your personal information as part of your use of such application. We are not responsible for the actions and privacy policies of these third party providers and you should review such privacy policies prior to providing any Personally Identifiable Information to them.
+  * This Policy will be posted on this Site for your review and from time to time as part of registering or providing information in connection with this Site or other Service, we may provide you with a short notice reminding you to refer to this Policy and other relevant information from us when using our Site or other Service.
 
-HOW WE USE THE INFORMATION
 
-We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
-We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Services, or to contact you about your account with us. 
+##### PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CAREFULLY. YOUR USE OF THIS SITE AND/OR SERVICE SIGNIFIES YOUR AGREEMENT TO SUCH POLICY AND TERMS OF USE.
 
-We use the information that you provide about others to enable us to send them your invitations, gifts or offers. From time to time, we also may use this information to offer our products, programs, or services to them. 
+  1. **What Types of Information Fandango Collects**
+  2. **How Fandango Collects Information**
+  3. **How Fandango Uses Information**
+  4. **Special Privacy Terms Related to Mobile Applications**
+  5. **Anti-Spam Policy**
+  6. **Disclosure of Personally Identifiable Information to Third Parties**
+  7. **Communication Preferences**
+  8. **Third Party Advertising and Links to Other Sites**
+  9. **Guidelines Regarding Children (COPPA)**
+  10. **Public Forums**
+  11. **How We Protect and Secure Your Information**
+  12. **Applicable Law**
+  13. **Your California Privacy Rights (California residents)**
+  14. **Acceptance of this Privacy Policy**
+  15. **Changes to this Privacy Policy**
+  16. **Terms of Use**
+  17. **Contact Information**
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-If you choose to submit content for publication, we may publish your screen name and other information you have provided to us. 
 
-When you access our Services on a mobile device, we may use the information collected to enable you to do things like watch trailers and video clips; get entertainment news and updates; get information about movies or TV shows (e.g., find show times for theaters near you); buy movie tickets; play games; follow blogs; and read critic and user reviews. We may also use this information to offer you products and services we believe may be of interest to you and otherwise tailor your experience. 
+##### 1\. WHAT TYPES OF INFORMATION FANDANGO COLLECTS
 
-We use the non-personally identifiable information that we collect to improve the design and content of our Services and to enable us to personalize your experience with our Services. We also may use this information in the aggregate to analyze usage of our Services, as well as for us and for other partners to offer you products, programs, or services. 
+  * Our goal is to collect and use only that information that we think is required for our legitimate business interests, in order to better understand your interests and to improve your experience of using our Site or other Service. In order to do so, we collect the following types of information:
 
-INFORMATION SHARING AND DISCLOSURE 
+##### Personally Identifiable Information
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we or one of our business units are acquired by, sold to, or merged with another company. 
+Personally identifiable information is any information that identifies a living individual, such as your first and last name, mailing address, phone number, mobile phone number email address, photograph, credit/debit card number and expiration date (or other payment-method information), login ID, member name and password and other information about a specific individual that identifies the individual ("Personally Identifiable Information"). When you sign up for or use the Site or other Service, Fandango collects some amount of Personally Identifiable Information from you. Fandango also collects Personally Identifiable Information that you may voluntarily provide when you use the Site or other Service, that you may disclose in a public area of the Site or other Service (such as a rating/review page, message board or chat room), or that you may include if you communicate with Fandango, such as by responding to polls or survey, registering for sweepstakes, contests and other promotional opportunities, or seeking help from our customer service department. We also may obtain Personally Identifiable Information from reputable third parties, such as credit agencies.
 
-Our agents and contractors may have access to personally identifiable information to help carry out the services they are performing for us. 
+In some instances, when you use certain features of the Site or other Service, Fandango may collect the email addresses or other Personally Identifiable Information of others that you may provide. Unless stated otherwise at the point of collection, we will treat any such Personally Identifiable Information that you submit about other people in accordance with this Policy.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+  * ##### Non-Personally Identifiable Information
 
-We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy (e.g., other marketers, publishers, retailers, participatory databases and non-profit organizations) that want to directly market products or services to you. If we share personally identifiable information with such companies, we will provide you with an opportunity to opt out or block such uses. If at some point in the future you decide that you no longer want us to share your information for these purposes, send us an email at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com). 
+Fandango collects information from you automatically when you use the Site or other Service. Non-Personally Identifiable Information is information that does not specifically identify a living individual and is not used with Personally Identifiable Information to determine an individual's identity, including a computer's Internet Protocol ("IP") address, a mobile device's unique identifier, computer and device connection information such as browser type or version, demographic information, such as a person's age, ZIP code and other data collected automatically through the operation of this Site or other Service ("Non-Personally Identifiable Information"). We may collect site usage data and other Non-Personally Identifiable Information (such as which Site pages are visited and in what sequence) through the use of various technologies. For example, our Web servers automatically collect IP addresses from computers and other devices that visit the Site. An IP address is a number that is automatically assigned to a computer by the Internet service provider whenever the computer is connected to the Internet. Web servers, the computers that "serve up" and deliver Web pages, automatically identify a computer by its IP address, and when a page is requested from a website, its servers log the IP address of the computer requesting the page. When we are collecting information regarding what pages and content on this Site or other Service a computer is accessing and using, in general we do not link that computer's IP addresses to any Personally Identifiable Information, so although the Site usage data associated with a computer's IP address will be logged, your identity will remain anonymous to us and the Site. For portions of the Site or other Service that may require registration or a log-in, we may also collect your registration, username and password information from you when you register or log in to those portions of the Site or other Service. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
 
-We may, on occasion, combine information we receive from you with outside records to enhance our ability to market to you those products or services that may be of interest to you. We provide you with an opportunity to express your preferences with respect to receiving information about products and services from us and selected third parties when you interact with us. If you ever decide in the future that you would like to update these preferences, you may log into your account if you have created one with us, you can follow the "unsubscribe" instructions provided on any marketing e-mail you receive from us, or you may send us an email at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com) and we will edit your preferences accordingly. 
 
-COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS
 
-Some of our Services contain links to or integrations with other sites (e.g., Facebook, Twitter) whose information practices may be different than ours. Visitors should consult the other sites' or services' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. Our Services will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
+##### 2\. HOW FANDANGO COLLECTS INFORMATION
 
-At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the [Network Advertising Initiative](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org&sa=D&sntz=1&usg=AFQjCNE7JEvVmIsZqyh0AH9XO3Dl7iJV2g) and/or [Self-Regulatory Program for Online Behavioral Advertising](http://www.google.com/url?q=http%3A%2F%2Fwww.aboutads.info%2Fchoices&sa=D&sntz=1&usg=AFQjCNHF9XatBICNjqnEKN6puV79-Ex5JA). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
+  * ##### Cookies
 
-COOKIES, DO NOT TRACK, AND OTHER TECHNICAL INFORMATION
+Like many sites, we and third parties that provide content on and through the Site or other Service use "cookies" or other similar technologies to collect information. A cookie is a small text file that is sent to your computer from a Web server and stored on your computer's hard drive when you visit a website. Fandango's cookies contain Personally Identifiable Information, such as your Login ID and your email address, as well as Non-Personally Identifiable Information. Fandango uses cookies to allow you to log in automatically and to ensure that you have agreed to the terms, conditions and policies that govern your use of the Site or other Service. In addition, Fandango uses cookies to measure traffic activity on the Site, track your use of the Site or other Service, and provide you with a more personalized user experience by allowing Fandango to provide targeted advertising and determine which areas of the Site or other Service may be the most popular or useful to you. Similarly, if you have asked us to send you information about upcoming products and promotions, by using cookies we collect information about which Site pages you have visited and in what order that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site or other Service may not function properly if you do so. For more information about cookies and how to disable them, please consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Certain internet browsers, such as Internet Explorer, Chrome, Firefox and Safari, also allow you to block, control and remove cookies from your computer. For more information regarding your specific browser, please consult the browser's Help section or browser provider's website.
 
-We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies to enhance your experience with our Services. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). 
+  * ##### IP Address
 
-Some of our Services may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player (and similar applications) use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's website](http://www.google.com/url?q=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager07.html&sa=D&sntz=1&usg=AFQjCNEoJklOxYX1fbc-eYPOBI_gs5jMYg). 
+An IP address is a number that is assigned to your computer automatically when you use the Internet. Fandango logs your IP address and uses your IP address to track your usage of the Site or other Service.
 
-We may also use "Web beacons" that monitor your use of our Services. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. 
+  * ##### Pixel Tags
 
-When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+Pixel Tags, also called clear GIFs, web beacons or similar means (collectively "Pixel Tags"), are invisible files on Web pages that you visit. When you visit a page on the Site that contains a Pixel Tag, the Pixel Tag communicates with your computer to collect Non-Personally Identifiable Information, and determine, among other things, whether you have been to that page before or viewed a particular advertisement. Fandango uses Pixel Tags to serve relevant advertising, enhance email advertising, and track usage of the Site or other Service.
 
-We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+  * ##### Other Methods
 
-By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Services can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
+Where authorized and as permitted by FTC guidelines and all other applicable laws, rules and regulations, Fandango may also use or allow the use of trusted vendors and other third party companies who may gather data for appropriate business purposes such as managing advertising and/or generating reports on Site traffic and statistics. We may also use other monitoring technologies to gather anonymous statistics about our Site visitors.
 
-OUR COMMITMENT TO SECURITY
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-HOW YOU CAN ACCESS, CORRECT, OR MAKE CHOICES ABOUT INFORMATION
 
-To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com). You may also opt-out of targeted advertising as set forth in the COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS section above.
+##### 3\. HOW FANDANGO USES INFORMATION
 
-If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. If you no longer wish to have any information collected by one of our mobile applications, you may uninstall the app. Methods for uninstalling will vary depending on your device. To uninstall one of our apps, please use the application manager provided with your device or consult your device manual. 
+  * ##### Personally Identifiable Information
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+We will use your Personally Identifiable Information for the purposes for which it was provided. For example, Fandango may use your Personally Identifiable Information to notify you of changes to the Site or other Service, to let you know about opportunities and other products or services you may be interested in, and to request your participation in surveys or other promotions. You can choose not to receive certain communications from Fandango as described in the section below entitled **"Communication Preferences."** Fandango also uses your Personally Identifiable Information to provide you with information that you request, and deliver content to you that is relevant to your interests. If you use Fandango to give a gift, Fandango may use the email addresses you provide to send your gifts, and other communications relating to such transaction, and any further communications as may be authorized by the recipient. We also may send information or offers to selected groups of Site or Service users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example, if you win a contest) we may post your Personally Identifiable Information on this Site. We will notify you of this possibility when you provide the Personally Identifiable Information and if possible, when the Personally Identifiable Information is posted.
 
-CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS
+Cookies and similar tools may be used to relate your use of the Site or other Service and Non-Personally Identifiable Information to Personally Identifiable Information obtained from you. If any Non-Personally Identifiable Information is linked with Personally Identifiable Information, the linked Non-Personally Identifiable Information will then be treated as Personally Identifiable Information.
 
-If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties? direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled ?Your California Privacy Rights?) by e-mail at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com).
+  * ##### Aggregate Information
 
-INTERNATIONAL TRANSFER
+Fandango also combines your usage information for the Site or other Service with that of other users ("Aggregate Information") to determine which features and areas of the Site or other Service are most popular. Aggregate Information does not contain any of your personally Identifiable Information. By collecting and analyzing this data, Fandango can improve the Site or other Service. Additionally, we may share this type of Non-Personally Identifiable Information with a variety of third parties, including our affiliates, agents, service providers and current and prospective business partners, for any purpose. We may also enter into arrangements with outside companies that possess technology that allows us to customize the advertising and marketing messages you receive on this site. To learn more about these companies, please click on the Ad Choices icon at the bottom of each page.
 
-We operate internationally and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account at our Services as a visitor from outside the United States, you consent to the collection and/or processing of your personally identifiable information in the United States, which includes the use of cookies as described above. 
 
-NOTIFICATION REGARDING UPDATES
 
-From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site or by sending you an email message. We encourage you to periodically check back and review this policy so that you know our current privacy practices. 
 
-HOW TO CONTACT US
+##### 4\. SPECIAL PRIVACY TERMS RELATED TO MOBILE APPLICATIONS
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com) or at Flixster, c/o Warner Bros., Attention: Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522. 
+  * This section of the Policy governs your use of any Fandango software application ("Application") on a mobile device (such as a mobile phone or tablet), providing a Fandango Site or other Service.
+
+##### Information the Application Obtains and Uses
+
+USER PROVIDED INFORMATION – The Application obtains the information you provide when you download and register the Application. Registration with us may be optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+
+When you register with us and use the Application, you may provide some or all of the following: (a) your name, email address, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; and (d) information you enter into our system when using the Application, such as contact or credit card information. We may also use the information you provided to us to contact you from time to time to provide you with important information, required notices and marketing promotions.
+
+AUTOMATICALLY COLLECTED INFORMATION – In addition, the Application may collect certain information automatically, such as the type of mobile device you use, the unique device ID of your mobile device, the IP address of your mobile device, your mobile operating system, the type of mobile internet browser you use, and information about the way you use the Application. See "Automatic Data Collection and Advertising" section for further information.
+
+  * ##### Application Collection of Device Location Information
+
+This Application does collect precise information about the location of your device. In order to allow the Application to collect real-time location information you must select "Find my location" when prompted by the Application and also enable the GPS services on your mobile device. We use your location information to provide requested location services such as advertising or offers from local businesses and their locations.
+
+You may at any time opt-out from further allowing us to have access to your location data by managing your location preferences in the "My Account" section of the Application or disabling the GPS services on your mobile device.
+
+  * ##### Automatic Data Collection and Advertising
+
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application. Advertisers and advertising networks use some of the information collected by the Application, including the unique identification ID of your mobile device and your mobile telephone number. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can't identify you personally. These third parties may also obtain anonymous information about other applications you've downloaded to your mobile device, the mobile websites you visit, your non-precise location information (i.e. your zip code) and other non-precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising-related use.
+
+  * ##### Opt-out Procedures
+
+You can stop all collection of information by the Application by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+You can also withdraw your consent to receive "push" notifications and/or to the collection of your physical location information at any time by disabling or changing the related functionality or setting as provided in your mobile device.
+
+
+
+
+##### 5\. ANTI-SPAM POLICY
+
+  * Fandango is 100% opposed to unsolicited commercial email ("spam"). We do not have any desire to send unsolicited marketing emails to anyone without permission and we do not sell or provide user email addresses to any unauthorized third party in violation of this Policy. All of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you.
+
+
+
+
+##### 6\. DISCLOSURE OF INFORMATION TO THIRD PARTIES
+
+  * ##### Disclosure to Affiliates
+
+Fandango reserves the right to share any Personally Identifiable Information or other information about you which you provide to (or which is gathered from) the Fandango Site or other Service with any or all of its subsidiaries and affiliates (collectively, our "Affiliates") (subject to the opt-out right described below, with respect to disclosures of Personally Identifiable Information to Affiliates for their direct marketing uses). Subject to the applicable privacy policies under which such information was collected, Fandango may also have access to any information you provide to (or which is gathered from) the web sites of any of our Affiliates.
+
+  * ##### Disclosure to Service Providers or Business Partners
+
+Like many businesses, we sometimes hire other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site or other Service, maintaining databases, administering contests, providing wireless services, providing fulfillment services, sending e-mails, and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personally Identifiable Information it needs to perform its function, and is required to protect the Personally Identifiable Information. For third-party sponsored sweepstakes, contests or promotions, we may request Personally Identifiable Information from you that may be shared with the sponsor upon request.
+
+If Fandango sells all or part of the Site and/or other Service or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personally Identifiable Information to a third party as part of or in connection with that transaction. Upon such transfer, the privacy policies of the acquiring entity may govern the further collection and use of your Personally Identifiable Information.
+
+  * ##### Disclosure to Others
+
+In addition, we may disclose Personally Identifiable Information under the following circumstances to: (1) protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from government, regulatory, law enforcement or public authorities; (5) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain; (6) enforce our Terms of Use; or (7) comply with subpoenas, search warrants, the law or other legal process.
+
+  * ##### Aggregate Information
+
+Fandango shares Aggregate Information with potential partners, advertisers, investors and other interested third parties in connection with the marketing of Fandango's products and services. However, Aggregate Information does not include any of your Personally Identifiable Information.
+
+  * ##### Social Media Plug-Ins and Sharing with Other Sites You May Authorize
+
+Social media plug-ins of social networks, which may include but are not limited to Facebook, Twitter, Tumblr and Pinterest, may be integrated into our Site and other Services. Where our Site or other Service contains a plug-in to a social networking site, these are clearly marked (i.e. with a button). If you choose to click on one of these buttons or links, you browser will connect directly to the servers of the relevant social networking site. The social media network directly transmits the content of the plug-in to your browser. If you are a member of a social network service or you use other Internet sites where you have authorized them to gather information about your online behavior on the Fandango Site or other Service, including your use of a plug-in or other participation in any behavioral reporting program that they may operate on or off of their own site, Fandango may share information regarding your activities on our Site or other Service with those third parties pursuant to your authorization, and they may associate that information with Personally Identifiable Information they already have about you (such as your Facebook Profile) and use it to improve their site or services or for other purposes. Fandango does not control the privacy policies of such third parties, and their privacy policies will govern their use of your information once it has been transmitted by Fandango. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third parties that you authorize to gather information from Fandango.
+
+  * ##### Information we share with advertisers (including Targeted Advertising)
+
+Some online services, including the Fandango Application, may be supported with advertising, and collect data to help the online services serve ads. This helps keep the cost of online services low or free.
+
+We may work with advertisers and third party advertising networks, who may receive information about how you interact with advertising provided in the online service. We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere. You may opt out of third party advertising networks by going to the Network Advertising Initiative's Website at [Network Advertising.org - Opt Out](http://www.networkadvertising.org/managing/opt_out.asp) and following the directions there.
+
+
+
+
+##### 7\. COMMUNICATION PREFERENCES
+
+  * During registration and certain purchases, and via the "My Account" section of our Site, you can set your email preferences with respect to receiving certain communications from Fandango and our partners.
+
+In addition, all of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you.
+
+
+
+
+##### 8\. THIRD PARTY ADVERTISING AND LINKS TO OTHER SITES
+
+  * Fandango does not control the privacy policies of its advertisers or other third parties that have Web sites linked to the Site or other Service or with whom we may share your information in accordance with this Policy. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party Web sites you link to.
+
+
+
+
+##### 9\. GUIDELINES REGARDING CHILDREN (COPPA)
+
+  * Fandango is not designed or intended for use by children under 13. If you are under 18, you should use Fandango only with involvement of a parent or guardian. At various places on the Site or other Service, we may ask users for their age. Children under 13 are expressly prohibited from submitting any Personally Identifiable Information (as defined below) to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it.
+
+
+
+
+##### 10\. PUBLIC FORUMS
+
+  * Please remember that information posted to message boards, chat rooms, blogs and other user forums become public information. Please use caution when posting. Individuals under the age of 18 should be especially careful not to provide any Personally Identifiable Information when participating in an area of the Site or other Service where posting might become public. If you voluntarily disclose Personally Identifiable Information in a public area of the Site or other Service, such as a rating/review page, chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. Fandango does not control the actions of users in public areas of the Site or other Service. If you disclose Personally Identifiable Information in a public area, you do so at your own risk. Please see our Terms of Use for the standards of behavior that must be followed when using these portions of the Site or other Service.
+
+
+
+
+##### 11\. HOW WE PROTECT AND SECURE YOUR INFORMATION
+
+  * We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personally Identifiable Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our control. While we strive to protect your Personally Identifiable Information, we cannot ensure or warrant the security of any Personally Identifiable Information you transmit to us. Any transmission is done at your own risk. Accordingly, Fandango assumes no responsibility or liability for disclosure of your information (personally identifiable or otherwise) due to errors in transmission, unauthorized third-party access or other causes beyond Fandango's reasonable control.
+
+
+
+
+##### 12\. APPLICABLE LAW
+
+  * The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of New York without regard to its conflict of law provisions. This Site or other Service is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site or other Service is appropriate for use in any particular jurisdiction. Those who choose to access the Site or other Service do so at their own initiative and are responsible for complying with all local laws, rules and regulations. If you are located in a country outside the United States and submit personal information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Policy.
+
+
+
+
+##### 13\. YOUR CALIFORNIA PRIVACY RIGHTS (California residents)
+
+  * California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email us at [caprivacyrights@fandango.com](mailto:caprivacyrights@fandango.com) or write to us:
+
+**Fandango Media, LLC  
+Attn: California Privacy Rights  
+12200 West Olympic Blvd, Suite 400  
+Los Angeles, CA 90064 **
+
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how Fandango responds to "Do Not Track" browser settings. Fandango does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+
+
+
+##### 14\. ACCEPTANCE OF THIS PRIVACY POLICY
+
+  * When you use the Site or other Service, you are accepting the terms and conditions of this Policy, and Fandango will have the right to use your Personally Identifiable Information or other information about you as described in this Policy. If you do not agree to have your information used in any of the ways described in this Policy, you must not use the Site or other Service and you must follow the opt-out provisions above. If you have questions or concerns about this Policy, please contact [Customer Support](http://fandango.custhelp.com/app/ask) or write to Fandango at the contact address listed below.
+
+
+
+
+##### 15\. CHANGES TO THIS PRIVACY POLICY
+
+  * From time to time, we may revise this Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. By continuing to use the Site or other Service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, please do not continue using the Site or other Service. To the extent that an arbitrator or court of applicable jurisdiction determines that applying any changes to this Policy would render this an illusory or unenforceable contract, such changes shall be applicable on a prospective basis only, with respect to events or circumstances occurring after the date of such changes, to the extent necessary to avoid this Policy being deemed illusory or unenforceable.
+
+
+
+
+##### 16\. TERMS OF USE
+
+  * Your access to and use of the Site or other Service is also subject to the [Terms of Use](http://www.fandango.com/TermsOfUse.aspx).
+
+
+
+
+##### 17\. CONTACT INFORMATION
+
+  * **Fandango Media, LLC  
+Attn: Privacy Policies  
+12200 West Olympic Blvd, Suite 400  
+Los Angeles, CA 90064 **
+
+
+
+
+Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: [Fandango Customer Help](http://fandango.custhelp.com/app/ask/session/)
