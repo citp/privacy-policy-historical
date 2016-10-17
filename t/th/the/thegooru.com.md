@@ -1,100 +1,167 @@
-> *The following text is extracted and transformed from the thegooru.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegooru.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017234112id_/https%3A//www.bettercloud.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - BetterCloud
 
-**Go Daddy Respects Your Privacy**
+**BetterCloud TM**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+[](https://privacy.truste.com/privacy-seal/validation?rid=10802bc3-ed76-4b94-a0df-247f69f75099 "TRUSTe Privacy Certification")  
+**Effective Date: September 27th, 2016**  
+This Privacy Policy of BetterCloud, Inc., a Delaware Corporation, doing business under the trade name BetterCloudTM (“We”, “Us”, “Our”), describes Our privacy practices in relation to the use of Our web site, www.bettercloud.com (the “Site”), our platform and the related applications and services offered by Us (the “Services”) to you (“You” or “Your”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We comply with the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland.  We certify that We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Our certification, please visit <http://www.export.gov/safeharbor/>.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+BetterCloud, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list) **_https://www.privacyshield.gov/list_**.
 
-**Information Collection and Use**
+We are responsible for the processing of personal data We receive, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on Our behalf.  We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/) [**_https://www.privacyshield.gov_**](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Information We Collect**.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may collect, store, analyze and use the following kinds of information when You use the Site and/or the Services (collectively, the “Collected Information”) and store it in log files:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+(a) automatically collected information about Your computer and about Your visits to and use of the Site (including Your Internet Protocol (IP) address, geographical location, browser type and version, operating system, platform, referral source, length of visit, page views and website navigation paths)(collectively, “Web Information”) which may be linked to other information we collect about you;
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+(b) information that You provide to Us when registering with Our Site or subscribing to Our email notifications and/or newsletters (including Your name, company, address, phone number and email address)(collectively, “Contact Information”);
 
-**Security**
+(c) electronic data and information that You provide to Us or that is collected and processed by Us when you use the Services, or that is generated in the course of the use of the Services (including the timing, frequency and pattern of use of the Services)(collectively, “Your Data”); and
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+(d) any other data, communications, or information that You choose to send to Us or send through Our Site  (including the content and metadata associated therewith)(collectively, “Optional Information”).
 
-**Updating Your Information**
+A portion of the Collected Information may constitute Personal Information. “Personal Information” is information You provide to Us by using the Site or the Service that identifies an individual, or is directly associated with a specific person or entity such as a name, address, telephone number, email address, credit card number, or information about activities which can be directly linked to that person. To the extent that Internet Protocol (IP) addresses or similar identifiers are considered Personal Information by local law, We also treat these identifiers as Personal Information. Similarly, to the extent that non-Personal Information is combined with Personal Information, We treat the combined information as Personal Information for the purposes of this Privacy Policy.  Your Personal Information is gathered only when You choose to share it. While We receive and store the Personal Information that You choose to share with Us, You may always opt-out of sharing Personal Information by discontinuing Your use of the Site and Services.  Additionally, You can always choose to opt-out of receiving service and/or promotional e-mail and electronic newsletter communications that We may now or hereafter send to customers from time to time.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Use of Collected Information**.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Collected Information may be used for the purposes specified in this Privacy Policy or on the relevant pages of the Site. Your Data may be used, analyzed, and processed as described in Our Master Subscription Agreement or any other agreement between You and Us (collectively, the “Subscription Agreement”).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Without limiting the foregoing, We may use Your Collected Information to:
 
-      iii.      You may call us at: (480) 505-8800
+(a) administer Our Site and business;
 
-       iv.      You may fax us at: (480) 505-8844
+(b) enable Your use of the Services and provision the Services to You;
 
-**Sending Emails**
+(c) send statements, invoices and payment reminders to You, and collect payments from You
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+(d) send You non-marketing commercial communications;
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+(e) send You notifications that You have specifically requested;
 
-**Compliance with Laws and Law Enforcement**
+(f) send You Our email newsletter, if You have requested it (You can inform Us at any time if You no longer require the newsletter);
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+(g) send You marketing communications relating to Our business which We think may be of interest to You, by post or, where You have specifically agreed to this, by email or similar technology (You can inform Us at any time if You no longer require marketing communications);
 
-**Third Party Service Providers**
+(h) provide third parties with statistical information about Our users (but those third parties will not be able to identify any customer or individual user from that information);
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+(i) deal with inquiries and complaints made by or about You relating to Our Site;
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+(j) keep Our Site secure and prevent fraud; and
 
-**Supplementation of Information**
+(k) verify compliance with the terms and conditions governing the use of Our Site and Services.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Technologies such as: cookies, beacons, tags and scripts are used by Us and Our  business partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the Site and Services, tracking users’ movements around the Site and to gather demographic information about Our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-**Contests/Surveys**
+We use cookies to analyze Service usage and traffic patterns _.  _Users can control the use of cookies at the individual browser level. If You reject cookies, You may still use Our Site and Services, but Your ability to use some features or areas of Our Site and Services may be limited.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We may partner with third parties to either display advertising on Our Site or to manage Our advertising on other sites. Our third party partner(s) may use technologies such as cookies to gather information about Your activities on Our Site and other sites in order to provide You advertising based upon Your browsing activities and interests.  If You wish to not have this information used for the purpose of serving You interest-based ads, You may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt You out of being served ads. You will continue to receive generic ads.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We use Local Storage Objects (LSOs) such as HTML5 to store Your user information and settings. Third parties with whom We partner to provide certain features on Our site or to display advertising based upon Your Web browsing activity use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-**Tell-A-Friend**
+Some of Our pages utilize framing techniques to serve content to/from Our partners while preserving the look and feel of Our website. Please be aware that You are providing Your personal information to these third parties and not to Us.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We will use proprietary and third-party products and certain software tools to measure, collect, and analyze the foregoing Collected Information. We do this in order to analyze the use and performance of the Service and to better understand the needs of Our customers. You agree that We act as a “data processor” as provided for in the EU Data Protection Directive (Directive 95/46/EC).
 
-**What Happens to my Personal Information if I Opt Out?**
+**Information Related to Data Collected through the Service**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We collect information under the direction of Our customers, and have no direct relationship with the individuals whose personal data is processed by the Services.
 
-**Transfer of Data Abroad**
+**Service Provider, Sub-Processors/Onward Transfer**.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We may transfer Your Data to companies that help Us provide the Service to You. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy regarding notice and choice and our Subscription Agreements with our customers.
 
-**Changes in Our Practices**
+**Access to Data Controlled by our Customers**.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We have no direct relationship with the individuals whose personal data We process. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to our customer who controls such data (the data controller). If the customer requests that We remove the data, We will respond to the customer’s request within 30 business days.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Our Data Retention**.
 
-**Contacting Our Site**
+We will retain Your Data processed on behalf of a customer for as long as needed to provide the Services to such customer. We will retain and use Your Data as necessary to comply with our legal obligations, resolve disputes, and enforce Our agreements.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+**By using the Service, You have consented to the collection and use of Your  Data as outlined in this Privacy Policy**.
 
-* * *
+**Security of Personal Information.**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We take precautions to ensure that Your Personal Information processed by Our Services is secured.  We use a variety of industry-standard technical, contractual, administrative and physical security measures and procedures to help protect Your Personal Information from unauthorized access, use, alteration or disclosure.  When You enter sensitive information, such as a credit card number, on Our order forms, We encrypt the transmission of that information using reasonable security. Unless otherwise provided for herein, We restrict access to Personal Information to those employees who need access to perform their essential job functions.  Please note that despite Our best efforts, no one can guarantee the security of Personal Information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of Personal Information at any time. If You have questions about Our security measures in place, please contact Us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com).
+
+**Disclosure of Personal Information**.
+
+We are committed to ensuring the privacy of Your Personal Information. We will share Your Personal Information with third parties only in the ways that are described in this Privacy Policy and, to the extent applicable, the Subscription Agreement.  We do not sell or authorize the collection of Personal Information by third parties through advertising technologies deployed on Our Site, nor do We share Personal Information with any third parties, except as provided in this Privacy Policy.
+
+We may disclose Your Personal Information to any of Our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this Privacy Policy and, to the extent applicable, the Subscription Agreement.
+
+We use a third-party service provider to manage credit card processing. We may disclose any billing information You provide to Us when purchasing the Services to such service provider including Your name, address, telephone number, e-mail address and credit card information (collectively, “Billing Information”). This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on Our behalf.
+
+**Legal Compliance**.
+
+We may disclose Your Personal Information when such disclosure is: (i) necessary to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Us, whether or not a response is required by applicable law; (ii) necessary to enforce or apply Our Subscription Agreement and other related agreements; or (iii) to protect the rights, property, or safety of Us, Our employees, Our customers or other members of the general public. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Disclosures made under this paragraph may include exchanging information with other companies and organizations, or governmental agencies; however, this does not include selling, renting, sharing, or otherwise disclosing Personal Information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
+
+**Service Providers**.
+
+We may provide Your Personal Information to companies that provide services to help Us with Our business activities such as hosting or analytics provider. These companies are authorized to use Your Personal Information only as necessary to provide these services to Us.
+
+**International Transfers**.
+
+We primarily store Collected Information in the United States. To facilitate Our global operations, We may transfer and access such Collected Information from around the world, including from other countries in which We have operations.  This Privacy Policy shall apply even if We transfers Collected Information to other countries.
+
+**Data Retention**.
+
+We will retain your Personal Information for as long as needed to provide the Services. We will retain and use this Personal Information as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements.
+
+**Protecting the Privacy of Minors**.
+
+Minors under the age of thirteen (13) are prohibited from using or purchasing the Services.  Minors under the age of eighteen (18) are not permitted to use or purchase the Services without the permission and involvement of a parent or legal guardian. We do not intentionally collect or maintain Personal Information from individuals who are under thirteen (13) years old.  Protecting the privacy of minors is very important to Us.  Thus, if We obtain actual knowledge that a user is under thirteen (13) years of age, We will take steps to remove that user’s Personal Information permanently from Our databases and Internet servers.
+
+**User Access and Choice**.
+
+Upon request, We will provide you with information about whether We hold, or process on behalf of a third party, any of your personal information. If Your Personal Information changes, or if You no longer desire Our Services, You may correct, update, or delete it by emailing [privacy@bettercloud.com](mailto:privacy@bettercloud.com). We will respond to Your request within a reasonable timeframe.
+
+**Email Choice/Opt-out**.
+
+We offer You choices regarding the collection, use, and sharing of Your Personal Information.  You have a right at any time to stop Us from contacting You for marketing or service purposes.  If now or in the future You receive promotional or electronic newsletter communications from Us, You may indicate a preference to stop receiving such communications from Us, and You will have the opportunity to “opt-out” by clicking the “Unsubscribe” hyperlink at the bottom of all such communications or You can contact Us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com).  Notwithstanding Your indicated email marketing preferences, We may send You administrative emails regarding Us or the Services, including, for example, order confirmations and notices of updates to Our Privacy Policy or the Subscription Agreement if We choose to provide such notices to You in this manner.
+
+**Business Transfers**.
+
+As We continue to develop Our business, We may sell or buy companies, subsidiaries, or business units.  In such transactions, customer information, including Personal Information, is generally considered an asset, but remains subject to the terms and conditions of any pre-existing Privacy Policy (unless, of course, a customer specifically requests otherwise in writing).  Notwithstanding, in the event that We or substantially all of Our assets are acquired, or a change in control of the majority ownership of Us occurs, Personal Information may be one of the transferred assets. You will be notified via email and/or a prominent notice on Our Site of any change in ownership or uses of Your Personal Information, as well as any choices You may have regarding Your Personal Information.
+
+**Referrals.  **
+
+If You choose to use Our referral service to tell a friend about Our Site, We will ask You for Your friend’s name and email address. We will automatically send Your friend a one-time email inviting him or her to visit the website. We store this information for the sole purpose of sending this one-time email and tracking the success of Our referral program. Your friend may contact Us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com) to request that We remove this information from Our database.
+
+**Links to 3rd Party Sites**.
+
+Our Site includes links to other web sites whose privacy practices may differ from Ours. If You submit Personal Information to any of those sites, Your information is governed by their privacy policies. We encourage You to carefully read the privacy policy of any web site You visit.
+
+**Blog / Forum**.
+
+Our Site offers publicly accessible blogs or community forums. You should be aware that any information You provide in these areas may be read, collected, and used by others who access them. You can request the removal of Your Personal Information from Our blog or community forum, by contacting Us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com). In some cases, We may not be able to remove Your Personal Information, in which case We will let You know if We are unable to do so and why.
+
+**Social Media Widgets**.
+
+Our Site includes social media features, such as the Facebook button and widgets, such as the ShareThis button or interactive mini-programs that run on Our site. These features may collect Your IP address, which page You are visiting on Our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on Our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+**Testimonials.  **
+
+We display personal testimonials of satisfied customers on Our Site in addition to other endorsements. With Your consent, We may post Your testimonial along with Your name. If You wish to update or delete Your testimonial, You can contact Us at [privacy@bettercloud.com](mailto:privacy@bettercloud.com).
+
+**Changes in Our Privacy Policy**.
+
+From time-to-time We may modify, change, update, add to, remove portions of or otherwise alter this Privacy Policy.  If We make material changes, We will post them on Our Site prior to the change becoming effective, to make customers aware of what the changes are so customers will always be aware of what information We collect, how We collect and use that information, and when We may disclose such information.  If You object to any such changes, You must immediately cease using the Site and the Services. You are bound by any changes to this Privacy Policy when You use the Site or Services after those changes have been posted. If You have any questions concerning this Privacy Policy, please contact [privacy@bettercloud.com](mailto:privacy@bettercloud.com) or see contact details below.
+
+BetterCloud, Inc.  
+330 7th Avenue  
+14th Floor  
+New York, NY 10001  
+Phone: 888-999-0805
