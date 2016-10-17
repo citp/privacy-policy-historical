@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610221313id_/http%3A//cdkglobal.com/cdk-online-privacy-portal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017171619id_/http%3A//www.cdkglobal.com/cdk-online-privacy-portal) for the most accurate reproduction.*
 
 # CDK Online Privacy Portal | CDK Global
 
