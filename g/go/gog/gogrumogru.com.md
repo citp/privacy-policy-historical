@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogrumogru.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326203958id_/http%3A//www.gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogrumogru.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018011032id_/http%3A//gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Gogru.in
 
