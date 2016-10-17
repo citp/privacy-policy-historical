@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatfashionideas.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402111753id_/http%3A//greatfashionideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatfashionideas.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017132015id_/http%3A//greatfashionideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Fashion Ideas
 
