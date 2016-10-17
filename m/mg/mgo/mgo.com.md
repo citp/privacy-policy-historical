@@ -1,221 +1,272 @@
-> *The following text is extracted and transformed from the mgo.com privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210134458id_/http%3A//www.mgo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgo.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017231919id_/http%3A//www.fandango.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | M-GO
+# Movie Tickets & Movie Times - Fandango.com
 
-**M-GO Privacy Policy**
+##### FANDANGO PRIVACY POLICY
 
-This Privacy Policy describes how M-GO collects, uses and shares the personal information that you provide to us as a user of the M-GO Service (the "M-GO Service"). It also provides information about our relationships with certain third parties that provide services in connection with the M-GO Service.
+This Privacy Policy was last updated on: April 30, 2014.
 
- **Changes to This Privacy Policy**
+##### NOTICE OF ARBITRATION PROVISIONS:
 
-Standards and regulations relating to information privacy are subject to change. From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
+**Your use of our Site or other Service is subject to binding individual arbitration of any disputes which may arise, as provided in Paragraph 18 of the[ Terms of Use](http://www.fandango.com/TermsOfUse.aspx). Please read the arbitration provisions carefully and do not use our Site or other Service if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this Privacy Policy or our privacy practices) as provided in the Terms of Use.**
 
- **The Information We Collect About You**
+This Privacy Policy ("Policy") sets forth the privacy policies that apply to your use of [www.fandango.com](http://www.fandango.com/) or any of our other websites (collectively, the "Site") and any other services or products and any related software applications (collectively, the "Service") offered and/or operated by Fandango Media, LLC ("Fandango" or "we" or "our" or "us"). By visiting our Site or otherwise signing up for and/or using our Service, you are subject to these privacy policies.
 
-We collect, hold, use and share different types of information about you in connection with your use of the M-GO Service, as described below:
+Fandango is concerned about your privacy and wants you to be familiar with how it collects, uses and shares your information. This Policy outlines the type of information that we collect and receive from you while you are using our Site or other Service. Additionally this Policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information. Please review this Policy carefully, especially before providing any personal information through our Site or other Service. Our Site and Service are operated in and controlled from the United States of America. If you have any questions about this Policy or don't see your concerns addressed here, please use the contact information provided at the end of this Policy to contact us.
 
- **Account Data**
+##### What this Privacy Policy Covers:
 
-If you establish an M-GO account as an Account Creator (as defined in the License & Terms of Service), we collect your email address, password and a confidential personal identification number ("pin"). When using the M-GO Service, the Account Creator may provide additional information, including name, zip code, and credit card information. We call all of this information "Account Data." Account Creators may authorize other members of their households to use the M-GO Service as "Basic Users" by establishing unique profiles and confidential "pins" for them. If you use the M-GO Service as a Basic User, you may provide additional Account Data (such as an email address) about yourself during your use of the M-GO Service. The Account Creator is responsible for the confidentiality of his or her account information and for restricting access to his or her M-GO account. If you choose to permit other people to access the M-GO Service through your account, you are responsible for their actions and their access to information regarding your M-GO account.
+The practices described in this Policy only apply to the following:
 
-M-GO information, including Account, Usage, and User Feedback data (as defined below), is accessible to users accessing the same account, except that Basic Users cannot access or change the profiles or pins of the Account Creator or other users.
+  * Information collected online on this Site.
+  * Information collected when you use our Service, including when you download, register for or use our wireless applications via your cell phone or other mobile device or when such Service and applications interact with this Site.
+  * Like many other websites, we may now or in the future provide other websites or mobile services with, and allow users to "snag" or place, our RSS feeds, video players and other applications on websites or mobile services we do not control. This Policy applies to any information we collect when you use our RSS feeds, video players and other applications, but does not apply to information separately collected by the operators of those websites or mobile services or other third parties that may provide content or services to those websites or mobile services.
 
-You may be permitted to use the M-GO Service on a trial basis without registering, but certain features of the M-GO Service may not be available to you.
 
- **User Feedback Data**
 
-You may choose to submit information during your use of the M-GO Service, such as watchlists, ratings and reviews that you decide to provide to us or post publicly; responses to questionnaires or surveys; your enrollment in contests or promotions. We call this User Feedback Data. We maintain this information to help us improve the M-GO Service.
+##### What this Privacy Policy Does Not Cover:
 
- **Usage Data**
+This Policy does not cover any of the following:
 
-So that we can understand how our users use our Service, we also record the choices that you make as you navigate through and select media content through the M-GO Service. We call this information "Usage Data," and it includes information about your use of the M-GO Service and viewing habits, including:
+  * Information you give to us offline, for example when you send a letter to our business address or leave a message on our voicemail system.
+  * Information collected by third parties, even if collected on or through our Site or other Service. For example, we may embed a content feed, video player or other application from a third party on our Site or other Service. These third party applications may appear to be part of our Site or other Service, but the content is provided by a third party server. By accessing this third party application, the third party owner may send its own cookies and collect its own data regarding your interaction with the application and may solicit your personal information as part of your use of such application. We are not responsible for the actions and privacy policies of these third party providers and you should review such privacy policies prior to providing any Personally Identifiable Information to them.
+  * This Policy will be posted on this Site for your review and from time to time as part of registering or providing information in connection with this Site or other Service, we may provide you with a short notice reminding you to refer to this Policy and other relevant information from us when using our Site or other Service.
 
-Details about the media that you select, including the name of each media selection and the date and time that you watch or listen to it;
 
-Start and stop times of features and media you use, including your use of media viewing features of the M-GO Service, such as fast forward, pause, rewind or record;
 
-If advertising or promotion is displayed, which advertisements or promotion you watch and whether you skip such advertisements or promotion;
+##### PLEASE REVIEW THIS POLICY AND THE TERMS OF USE FOR THIS SITE AND/OR SERVICE CAREFULLY. YOUR USE OF THIS SITE AND/OR SERVICE SIGNIFIES YOUR AGREEMENT TO SUCH POLICY AND TERMS OF USE.
 
-Your viewing and purchasing preferences, including your use of the video-on-demand features of the M-GO Service;
+  1. **What Types of Information Fandango Collects**
+  2. **How Fandango Collects Information**
+  3. **How Fandango Uses Information**
+  4. **Special Privacy Terms Related to Mobile Applications**
+  5. **Anti-Spam Policy**
+  6. **Disclosure of Personally Identifiable Information to Third Parties**
+  7. **Communication Preferences**
+  8. **Third Party Advertising and Links to Other Sites**
+  9. **Guidelines Regarding Children (COPPA)**
+  10. **Public Forums**
+  11. **How We Protect and Secure Your Information**
+  12. **Applicable Law**
+  13. **Your California Privacy Rights (California residents)**
+  14. **Acceptance of this Privacy Policy**
+  15. **Changes to this Privacy Policy**
+  16. **Terms of Use**
+  17. **Contact Information**
 
-Your payment details, including amounts due and paid;
 
-Your IP address, to manage users' media content rights, which may vary by country; and
 
-Clickstream data reflecting the information you enter and the selections you make while using the M-GO Service.
+##### 1\. WHAT TYPES OF INFORMATION FANDANGO COLLECTS
 
-We collect these categories of data to provide each of our users with a fulfilling experience and also to fulfill certain obligations to our content providers and device partners. Further, the data we collect helps us improve the quality of the M-GO Service by being able to provide content users desire, and by enhancing the features and functionality of the M-GO Service.
+  * Our goal is to collect and use only that information that we think is required for our legitimate business interests, in order to better understand your interests and to improve your experience of using our Site or other Service. In order to do so, we collect the following types of information:
 
- **Automated Collection of Information**
+##### Personally Identifiable Information
 
-To record and manage your Usage Data, we automatically collect technical information about the device that you use to access the M-GO Service, IP address or device identifier, browser type and other system preferences, times and dates of your use of the M-GO Service. Usage Data is stored directly on our servers as you interact with the M-GO Service. We also employ the following automated information collection technologies while you use the M-GO Service:
+Personally identifiable information is any information that identifies a living individual, such as your first and last name, mailing address, phone number, mobile phone number email address, photograph, credit/debit card number and expiration date (or other payment-method information), login ID, member name and password and other information about a specific individual that identifies the individual ("Personally Identifiable Information"). When you sign up for or use the Site or other Service, Fandango collects some amount of Personally Identifiable Information from you. Fandango also collects Personally Identifiable Information that you may voluntarily provide when you use the Site or other Service, that you may disclose in a public area of the Site or other Service (such as a rating/review page, message board or chat room), or that you may include if you communicate with Fandango, such as by responding to polls or survey, registering for sweepstakes, contests and other promotional opportunities, or seeking help from our customer service department. We also may obtain Personally Identifiable Information from reputable third parties, such as credit agencies.
 
- **Log Files**
+In some instances, when you use certain features of the Site or other Service, Fandango may collect the email addresses or other Personally Identifiable Information of others that you may provide. Unless stated otherwise at the point of collection, we will treat any such Personally Identifiable Information that you submit about other people in accordance with this Policy.
 
-We gather certain information automatically and store it in log files. This information includes IP addresses and device identifiers, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. IP addresses are used to validate media content rights that vary by country, since media content may be restricted to users accessing the content from certain countries. We use this information to analyze trends, to administer the M-GO Service, to track users' navigation through the M-GO Service, and to gather demographic information about our user community. We link this automatically-collected data to the other information that we maintain about you. This information is used to track which hardware platforms are used to access the M-GO Service, to activate media playing rights, and to provide customer service and technical support.
+  * ##### Non-Personally Identifiable Information
 
- **Cookies**
+Fandango collects information from you automatically when you use the Site or other Service. Non-Personally Identifiable Information is information that does not specifically identify a living individual and is not used with Personally Identifiable Information to determine an individual's identity, including a computer's Internet Protocol ("IP") address, a mobile device's unique identifier, computer and device connection information such as browser type or version, demographic information, such as a person's age, ZIP code and other data collected automatically through the operation of this Site or other Service ("Non-Personally Identifiable Information"). We may collect site usage data and other Non-Personally Identifiable Information (such as which Site pages are visited and in what sequence) through the use of various technologies. For example, our Web servers automatically collect IP addresses from computers and other devices that visit the Site. An IP address is a number that is automatically assigned to a computer by the Internet service provider whenever the computer is connected to the Internet. Web servers, the computers that "serve up" and deliver Web pages, automatically identify a computer by its IP address, and when a page is requested from a website, its servers log the IP address of the computer requesting the page. When we are collecting information regarding what pages and content on this Site or other Service a computer is accessing and using, in general we do not link that computer's IP addresses to any Personally Identifiable Information, so although the Site usage data associated with a computer's IP address will be logged, your identity will remain anonymous to us and the Site. For portions of the Site or other Service that may require registration or a log-in, we may also collect your registration, username and password information from you when you register or log in to those portions of the Site or other Service. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
 
-The M-GO Service uses a tracking technology called cookies. A cookie is a small text file that is stored on your device to record information about your activities and preference settings on a website or other online service platform. We use both session cookies and persistent cookies. A session cookie expires when you close your browser. We use session cookies to make it easier for you to navigate through the M-GO Service. A persistent cookie remains on your device for an extended period of time. Persistent cookies enable us to personalize your experience when using the M-GO Service by remembering your interests and preferences from past sessions. You can set your Internet browser to warn you before a cookie is set, or you can refuse to accept cookies. You may also delete persistent cookies by adjusting your browser settings. If your browser permits you to refuse cookies, and you reject or delete cookies, you may still use the M-GO Service, but your ability to use some features will be limited.
 
- **Flash Cookies**
 
-We also use Local Shared Objects, which are also known as "flash cookies," to administer the M-GO Service and to optimize the performance of certain media player software technologies. Flash cookies are set on your device to store media player preferences and settings so that you do not have to repeatedly enter your settings when you request media content. Disabling flash cookies may interfere with the performance and features of media player software that you need to view media content that you select through the M-GO Service. For more information about flash cookies and instructions for disabling them, please go to <http://kb2.adobe.com/cps/526/52697ee8.html>.
 
-We use a third-party tracking service called Google Analytics, which uses cookies to collect anonymous, non-personally identifiable log file information and information about users' navigation on the M-GO website. We use this information to perform statistical, demographic and marketing analyses for product development purposes. Please go to <https://tools.google.com/dlpage/gaoptout?hl=en>] for information about how to opt out from this collection of information.
+##### 2\. HOW FANDANGO COLLECTS INFORMATION
 
- **Clear Gifs (Pixel Tags, Web Beacons, or Web Bugs)**
+  * ##### Cookies
 
-We employ a software technology called clear gifs (also known as pixel tags, web beacons, or web bugs), that help us better manage content available through our M-GO Service by measuring what content is of interest to our users. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the selections made by users. In contrast to cookies, which are stored on a user's device, clear gifs are embedded invisibly in images as they are displayed. Clear gifs can recognize certain types of information on your browser, record the IP address of your device, whether and when you view a web page or email message, and the address of the web page from which the clear gif was viewed. We tie the information gathered by clear gifs to other information we maintain about our users. We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and marketing efforts. If you would like to opt-out of these emails, please see "Choices Regarding Use and Sharing of Your Information."
+Like many sites, we and third parties that provide content on and through the Site or other Service use "cookies" or other similar technologies to collect information. A cookie is a small text file that is sent to your computer from a Web server and stored on your computer's hard drive when you visit a website. Fandango's cookies contain Personally Identifiable Information, such as your Login ID and your email address, as well as Non-Personally Identifiable Information. Fandango uses cookies to allow you to log in automatically and to ensure that you have agreed to the terms, conditions and policies that govern your use of the Site or other Service. In addition, Fandango uses cookies to measure traffic activity on the Site, track your use of the Site or other Service, and provide you with a more personalized user experience by allowing Fandango to provide targeted advertising and determine which areas of the Site or other Service may be the most popular or useful to you. Similarly, if you have asked us to send you information about upcoming products and promotions, by using cookies we collect information about which Site pages you have visited and in what order that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site or other Service may not function properly if you do so. For more information about cookies and how to disable them, please consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Certain internet browsers, such as Internet Explorer, Chrome, Firefox and Safari, also allow you to block, control and remove cookies from your computer. For more information regarding your specific browser, please consult the browser's Help section or browser provider's website.
 
- **How We Use Your Information**
+  * ##### IP Address
 
-We combine the information that we collect about you and use it in the manner described in this Privacy Policy to create an individually identifiable profile of your activity relating to your use of the M-GO Service and the media content that you choose.
+An IP address is a number that is assigned to your computer automatically when you use the Internet. Fandango logs your IP address and uses your IP address to track your usage of the Site or other Service.
 
-We use your payment information, such as your credit card number, through our payment processor contractor, to complete transactions and to fulfill requests that you initiate, and to prevent fraud and abuse of the M-GO Service. Credit card data is handled in compliance with the Payment Card Industry Data Security Standard ("PCI") at [https://pcisecuritystandards.org](https://pcisecuritystandards.org/), and any amendments or restatements of the PCI.
+  * ##### Pixel Tags
 
-We use the other information we collect about you in order to manage your account and to provide and improve the M-GO Service. These uses of your information include:
+Pixel Tags, also called clear GIFs, web beacons or similar means (collectively "Pixel Tags"), are invisible files on Web pages that you visit. When you visit a page on the Site that contains a Pixel Tag, the Pixel Tag communicates with your computer to collect Non-Personally Identifiable Information, and determine, among other things, whether you have been to that page before or viewed a particular advertisement. Fandango uses Pixel Tags to serve relevant advertising, enhance email advertising, and track usage of the Site or other Service.
 
-  
+  * ##### Other Methods
 
+Where authorized and as permitted by FTC guidelines and all other applicable laws, rules and regulations, Fandango may also use or allow the use of trusted vendors and other third party companies who may gather data for appropriate business purposes such as managing advertising and/or generating reports on Site traffic and statistics. We may also use other monitoring technologies to gather anonymous statistics about our Site visitors.
 
-  * Contacting you in response to your requests, to manage your account information, or send you essential information regarding the M-GO Service;  
 
-  * Fulfilling your requests for media content, M-GO Services or products available through the M-GO Service;  
 
-  * Conducting research or analyses of user behavior to improve the M-GO Service;  
 
-  * ??Generating aggregate data and usage statistics, which may be combined with data from other sources, to monitor and improve the M-GO Service and to conduct advertising and marketing activities;  
+##### 3\. HOW FANDANGO USES INFORMATION
 
-  * Conducting data analytics, including analysis of user behavior to improve the M-GO Service;  
+  * ##### Personally Identifiable Information
 
-  * Managing and administering the M-GO Service, including account management, billing and collections activities;  
+We will use your Personally Identifiable Information for the purposes for which it was provided. For example, Fandango may use your Personally Identifiable Information to notify you of changes to the Site or other Service, to let you know about opportunities and other products or services you may be interested in, and to request your participation in surveys or other promotions. You can choose not to receive certain communications from Fandango as described in the section below entitled **"Communication Preferences."** Fandango also uses your Personally Identifiable Information to provide you with information that you request, and deliver content to you that is relevant to your interests. If you use Fandango to give a gift, Fandango may use the email addresses you provide to send your gifts, and other communications relating to such transaction, and any further communications as may be authorized by the recipient. We also may send information or offers to selected groups of Site or Service users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example, if you win a contest) we may post your Personally Identifiable Information on this Site. We will notify you of this possibility when you provide the Personally Identifiable Information and if possible, when the Personally Identifiable Information is posted.
 
-  * Complying with legal and/or regulatory requirements, to protect and/or enforce our rights or the rights or safety of third parties; to comply with our obligations and commitments to safeguard the privacy and security of your information and/or to deter and prevent fraud or crime;  
+Cookies and similar tools may be used to relate your use of the Site or other Service and Non-Personally Identifiable Information to Personally Identifiable Information obtained from you. If any Non-Personally Identifiable Information is linked with Personally Identifiable Information, the linked Non-Personally Identifiable Information will then be treated as Personally Identifiable Information.
 
-  * Preventing unauthorized, improper or illegal activities on the M-GO Service; and  
+  * ##### Aggregate Information
 
-  * Other uses permitted under our License & Terms of Service or as otherwise described at the time we collect information from you.  
+Fandango also combines your usage information for the Site or other Service with that of other users ("Aggregate Information") to determine which features and areas of the Site or other Service are most popular. Aggregate Information does not contain any of your personally Identifiable Information. By collecting and analyzing this data, Fandango can improve the Site or other Service. Additionally, we may share this type of Non-Personally Identifiable Information with a variety of third parties, including our affiliates, agents, service providers and current and prospective business partners, for any purpose. We may also enter into arrangements with outside companies that possess technology that allows us to customize the advertising and marketing messages you receive on this site. To learn more about these companies, please click on the Ad Choices icon at the bottom of each page.
 
 
 
 
- **Personalization of the M-GO Service**
+##### 4\. SPECIAL PRIVACY TERMS RELATED TO MOBILE APPLICATIONS
 
-Your information enables us to personalize the M-GO Service for you, so that you receive recommendations, prioritized search results, and other personalization of the M-GO Service that best matches your interests and preferences. For example, we use Usage Data to record your media interests, which we use to display media or promotions that are more likely to be of interest to you. We also may use cookies and similar technologies to compile aggregate data. For example, if we send you promotional information about an M-GO Service or feature, your information enables us to tailor the materials we provide to cover topics that are more likely to be of interest to you, based on your demographic information, location, or prior online activities and preferences.
+  * This section of the Policy governs your use of any Fandango software application ("Application") on a mobile device (such as a mobile phone or tablet), providing a Fandango Site or other Service.
 
- **Promotional Communications**
+##### Information the Application Obtains and Uses
 
-We may use your information to send you promotional or marketing information relating to the M-GO Service or our other products or services that may be of interest to you. We may also use your information to send you information or offers on behalf of our sponsors and advertisers. You may make choices about promotional communications by opting out of such email messages.
+USER PROVIDED INFORMATION – The Application obtains the information you provide when you download and register the Application. Registration with us may be optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
 
-We also use your information to select and provide you with direct marketing materials (by mail, telephone, email, SMS or any other means for which you have provided contact details) about products, services, special offers and other news from us or selected third parties.
+When you register with us and use the Application, you may provide some or all of the following: (a) your name, email address, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; and (d) information you enter into our system when using the Application, such as contact or credit card information. We may also use the information you provided to us to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
- **How We Share Your Information**
+AUTOMATICALLY COLLECTED INFORMATION – In addition, the Application may collect certain information automatically, such as the type of mobile device you use, the unique device ID of your mobile device, the IP address of your mobile device, your mobile operating system, the type of mobile internet browser you use, and information about the way you use the Application. See "Automatic Data Collection and Advertising" section for further information.
 
-We may share your information (for the purposes described above) with:
+  * ##### Application Collection of Device Location Information
 
- **Third Parties That You Authorize**
+This Application does collect precise information about the location of your device. In order to allow the Application to collect real-time location information you must select "Find my location" when prompted by the Application and also enable the GPS services on your mobile device. We use your location information to provide requested location services such as advertising or offers from local businesses and their locations.
 
-We may share your information in accordance with your consent given at the time a disclosure is sought.
+You may at any time opt-out from further allowing us to have access to your location data by managing your location preferences in the "My Account" section of the Application or disabling the GPS services on your mobile device.
 
- **Our Service Providers**
+  * ##### Automatic Data Collection and Advertising
 
-We use third parties engaged by us as contractors, licensors, or services providers for purposes of order fulfillment, request processing, or debt collection, such as providers of payment and transaction processing services; information technology and telecommunication services; hosting services; accounting, legal, collections, and consulting services; content providers, media delivery, and distribution services; or account management, or other business services. In the course of providing such services, these service providers may have access to your information. We do not authorize these service providers to use or disclose your personal information except for the purpose of providing the services we request of them. We require these service providers to contractually agree that they are prohibited from using your personal information for purposes other than those requested by us or required by law. We require our payment processor contractor to handle credit card data in compliance with the Payment Card Industry Data Security Standard ("PCI") at <https://www.pcisecuritystandards.org/>, and any amendments or restatements of the PCI.
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application. Advertisers and advertising networks use some of the information collected by the Application, including the unique identification ID of your mobile device and your mobile telephone number. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can't identify you personally. These third parties may also obtain anonymous information about other applications you've downloaded to your mobile device, the mobile websites you visit, your non-precise location information (i.e. your zip code) and other non-precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising-related use.
 
-Subject to your right to opt out and applicable legal and regulatory limitations, (1) we may disclose identifiable information about you, without identifying the title, description, or subject matter of media content that you use through the M-GO Service, to other third parties, including without limitation, our advertising, marketing, and business analytics service providers, and (2) we may also share the subject matter, or genre, of the media content you select exclusively for marketing goods and services directly to you.
+  * ##### Opt-out Procedures
 
- **Users of Aggregate Data**
+You can stop all collection of information by the Application by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-Aggregate data is information that we generate from individualized information (such as statistics derived from your Usage Data) but subsequently maintain and use in aggregate form that combines information about numerous individuals together so that no individual can be identified, such as the number of users who viewed a particular program during a defined time period. We may disclose aggregated data derived from information about you to third parties that may or may not be affiliated with us. These disclosures may include reports on the number of users who view certain content during a certain time period, or the number of users who clicked on a certain advertisement or promotion. We do not request consent to disclose aggregated information, since it does not provide any information that can associated with any individual.
+You can also withdraw your consent to receive "push" notifications and/or to the collection of your physical location information at any time by disabling or changing the related functionality or setting as provided in your mobile device.
 
- **In Connection with a Transaction or Business Reorganization**
 
-If we transfer ownership of all or part of our business, or sell or transfer assets relating to the M-GO Service, or are otherwise involved in a merger or business transfer, or in a bankruptcy or similar reorganization proceeding, we will share your information as part of that transaction or proceeding.
 
- **Other Third Parties**
 
-We may disclose information about you (1) to a law enforcement agency pursuant to a federal or state warrant, a grand jury subpoena, or a court order, or (2) in a civil proceeding, pursuant to a court order and subject to applicable requirements, which may include a showing of compelling need for the information, advance notice, and an opportunity for you to appear and contest the claim of the person seeking the disclosure, or (3) subject to applicable legal and regulatory limitations, to comply with a request for cooperation by a government entity; to protect and/or enforce our rights or the rights or safety of third parties; to deter and prevent fraud or crime and for our risk management purposes; to comply with our obligations and commitments to safeguard the privacy and security of your information; to prevent unauthorized, improper or illegal activities on the M-GO Service; to enforce our License & Terms of Service (or Terms of Service); as otherwise permitted under our License & Terms of Service; or as specifically disclosed when we collect information from you. If you notify us that you believe your rights have been violated in connection with the M-GO Service or another user of the M-GO Service, we may disclose information about you to the extent necessary to evaluate and respond to your concern.
+##### 5\. ANTI-SPAM POLICY
 
- **Discussion Forums**
+  * Fandango is 100% opposed to unsolicited commercial email ("spam"). We do not have any desire to send unsolicited marketing emails to anyone without permission and we do not sell or provide user email addresses to any unauthorized third party in violation of this Policy. All of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you.
 
-If you use a discussion forum, bulletin board or similar feature on or through the M-GO Service, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that users choose to submit in these forums. We reserve the right to terminate the accounts of visitors who use these services in a manner inconsistent with our License and Terms of Service.
 
- **Network Advertising**
 
-We may display advertisements to you when you use the M-GO Service, including targeted advertisements that we display on your device on behalf of our advertisers.
 
- **Advertising on the M-GO Service**
+##### 6\. DISCLOSURE OF INFORMATION TO THIRD PARTIES
 
-When we display advertising on behalf of our sponsors and business partners, our advertisers (or their agency or partner) provide us with an advertisement and tell us characteristics of the audience they want to reach. We use the information we maintain about you to select advertisements that best fit your profile, location, preferences and interests. This practice of tailoring advertising is known as targeted or behavioral advertising. We display the advertisement to users that best meet the criteria provided by our advertiser. In this process, the advertiser does not obtain access to your account information.
+  * ##### Disclosure to Affiliates
 
-The advertising that we display may enable our users to click through to other parts of the M-GO Service, or to third party sites and services. When you click on an advertisement that takes you away from the M-GO Service, you will interact with the third party whose products, sites or services are promoted. These third party advertisers may collect some information from you in accordance with their own privacy policies and the laws and regulations applicable to them. If you click on an ad displayed through the M-GO Service, the advertiser may collect the IP address associated with your device. These third parties may also use tracking technologies such as cookies or web beacons to collect information about you and your use of the M-GO Service. We are not responsible for the privacy practices of advertisers, and we do not have access to or control the cookies that may be placed by third party advertisers. You should check the privacy policy of the advertiser whose website you visit to determine how it handles any information it separately collects from you. If the M-GO Service permits you to click through to an advertiser's website, we may not provide a further warning that you are accessing another site or service subject to different privacy practices.
+Fandango reserves the right to share any Personally Identifiable Information or other information about you which you provide to (or which is gathered from) the Fandango Site or other Service with any or all of its subsidiaries and affiliates (collectively, our "Affiliates") (subject to the opt-out right described below, with respect to disclosures of Personally Identifiable Information to Affiliates for their direct marketing uses). Subject to the applicable privacy policies under which such information was collected, Fandango may also have access to any information you provide to (or which is gathered from) the web sites of any of our Affiliates.
 
- **Third Party Ad Networks**
+  * ##### Disclosure to Service Providers or Business Partners
 
-The advertisements that appear on the M-GO Service may be delivered to you by Internet advertising companies called "ad networks" or "network advertisers." In order to deliver relevant ads to you and to track the effectiveness of ads, these companies may use cookies, web beacons, and other online tracking technologies to collect information about your use of the M-GO Service and other online activity after you click on the ad. The information maintained by ad networks about you may be used to display ads to you on other sites and services even when you are not using the M-GO Service. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy.
+Like many businesses, we sometimes hire other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site or other Service, maintaining databases, administering contests, providing wireless services, providing fulfillment services, sending e-mails, and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personally Identifiable Information it needs to perform its function, and is required to protect the Personally Identifiable Information. For third-party sponsored sweepstakes, contests or promotions, we may request Personally Identifiable Information from you that may be shared with the sponsor upon request.
 
-These ad network operators may place cookies on your browser in order to serve relevant advertising to your device, by recording whether you have seen a particular advertisement before, to tailor ads to you if you have visited a particular site or service, and to avoid sending you duplicate advertisements.
+If Fandango sells all or part of the Site and/or other Service or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personally Identifiable Information to a third party as part of or in connection with that transaction. Upon such transfer, the privacy policies of the acquiring entity may govern the further collection and use of your Personally Identifiable Information.
 
-There are different ways to stop, or opt out of, targeted or behavioral advertising. If you wish to opt-out, please send an email to help@mgo.com and we will block this advertising or provide you with instructions for opting out through the companies that provide our advertising services.
+  * ##### Disclosure to Others
 
-We share aggregate information with Internet advertising companies and advertisers, such as the number of people who clicked on an ad displayed on the M-GO Service.
+In addition, we may disclose Personally Identifiable Information under the following circumstances to: (1) protect our legal rights, privacy or safety, and those of our subsidiaries, affiliates, employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from government, regulatory, law enforcement or public authorities; (5) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain; (6) enforce our Terms of Use; or (7) comply with subpoenas, search warrants, the law or other legal process.
 
- **Social Networking Services**
+  * ##### Aggregate Information
 
- **Social Media**
+Fandango shares Aggregate Information with potential partners, advertisers, investors and other interested third parties in connection with the marketing of Fandango's products and services. However, Aggregate Information does not include any of your Personally Identifiable Information.
 
-You may authorize us to share information about your use of the M-GO Service on third-party social networks, such as Facebook or Twitter, and you may be able to connect with third-party social networks through the M-GO Service. If you connect your M-GO account to a social networking service, you may be able to publish information about your use of the M-GO Service on the social network (such as comments, reviews or the media content that you like). Information that you choose to publish on a social network will be visible to users of that social network in accordance with the social network's privacy policy. If you elect to share information about your media choices and your use of the M-GO Service with your social networks, we will send information about you to the social networking services that you designate, including Usage Data relating to your use of the M-GO Service. Since our sharing of information about certain media selections may be restricted by law, you may be asked to consent on an item-by-item basis for us to share information about your media selections with social networks. The collection, use, and disclosure of information by the social networking service will be subject to the privacy policy applicable to that service.
+  * ##### Social Media Plug-Ins and Sharing with Other Sites You May Authorize
 
- **Information M-GO Uses from Facebook**
+Social media plug-ins of social networks, which may include but are not limited to Facebook, Twitter, Tumblr and Pinterest, may be integrated into our Site and other Services. Where our Site or other Service contains a plug-in to a social networking site, these are clearly marked (i.e. with a button). If you choose to click on one of these buttons or links, you browser will connect directly to the servers of the relevant social networking site. The social media network directly transmits the content of the plug-in to your browser. If you are a member of a social network service or you use other Internet sites where you have authorized them to gather information about your online behavior on the Fandango Site or other Service, including your use of a plug-in or other participation in any behavioral reporting program that they may operate on or off of their own site, Fandango may share information regarding your activities on our Site or other Service with those third parties pursuant to your authorization, and they may associate that information with Personally Identifiable Information they already have about you (such as your Facebook Profile) and use it to improve their site or services or for other purposes. Fandango does not control the privacy policies of such third parties, and their privacy policies will govern their use of your information once it has been transmitted by Fandango. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third parties that you authorize to gather information from Fandango.
 
-When you connect your M-GO account to Facebook, M-GO will import, use, and retain your basic information, which includes your name and profile picture as well as your e-mail address, list of friends, and may also include your Likes and Interests as well as information you make public on Facebook. As part of connecting your M-GO account to Facebook, we may also use other information regarding Facebook to improve the M-GO experience, such as disclosing within M-GO your name and profile picture to your friends. If you connect as part of signing up for M-GO, we will use information from Facebook to create your M-GO account.
+  * ##### Information we share with advertisers (including Targeted Advertising)
 
-If you agree to share your activity with your friends, we will use and disclose information we get from Facebook to better personalize and improve the M-GO experience for your friends. For example, we may use your name and profile picture to show your friends which movies and TV shows you have watched or rated. You will also be able to see similar information on about your connected friends who have agreed to share on M-GO. We will also use other information regarding Facebook to improve the M-GO experience. For example, if you have agreed to share a title to Facebook, we may include that title in rows such as "Popular on Facebook."
+Some online services, including the Fandango Application, may be supported with advertising, and collect data to help the online services serve ads. This helps keep the cost of online services low or free.
 
-If you log on to M-GO using Facebook Connect, you consent that any information obtained by us by reason of your connection using Facebook Connect may constitute personal information for the purposes of this Privacy Policy, and you consent to our use and disclosure of such information in accordance with this Privacy Policy. If we stop using Facebook Connect as an access mechanism, you consent that we will nevertheless retain any personal information in accordance with this Privacy Policy.
+We may work with advertisers and third party advertising networks, who may receive information about how you interact with advertising provided in the online service. We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere. You may opt out of third party advertising networks by going to the Network Advertising Initiative's Website at [Network Advertising.org - Opt Out](http://www.networkadvertising.org/managing/opt_out.asp) and following the directions there.
 
- **How We Handle Information About Children**
 
-The M-GO Service is a general audience service that is open only to users 13 years of age and older. The M-GO Service does not knowingly collect personal information from children under the age of 13.
 
- **Surveys and Contests**
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys through the M-GO Service. If you request to participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information. We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email newsletter. We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and an opportunity to prevent such disclosures.
+##### 7\. COMMUNICATION PREFERENCES
 
- **Links to Other Services or Sites**
+  * During registration and certain purchases, and via the "My Account" section of our Site, you can set your email preferences with respect to receiving certain communications from Fandango and our partners.
 
-This Privacy Policy applies only to information collected through the M-GO Service. The M-GO Service provides links to other services and sites that we do not own or control. Please be aware that even if these sites or services are co-branded with our name or logo, we are not responsible for their privacy practices. We encourage you to be aware when you leave the M-GO Service and to read the privacy statements of each and every site or service that collects personally identifiable information to determine how it handles any information it collects from you.
+In addition, all of our newsletters and other general email marketing communications also include an "unsubscribe" opt-out link that you may use to ask that we discontinue such emails to you.
 
- **How Long We Retain Your Information**
 
-We do not intend to retain personal or sensitive information for longer than it is needed in connection with the M-GO Service. We will generally retain your information for a short reasonable period of time after you close your M-GO account, subject to longer periods that may be required for certain information under specific contractual or legal requirements that are applicable to us.
 
- **How We Protect Your Information**
 
-The security of your personal information is important to us. We use physical, technical, and organizational measures to protect information that we maintain about you against loss, destruction, damage, theft, or unauthorized or unlawful access, processing, disclosure, or alteration. Passwords are encrypted in transit and in storage using industry-standard secure sockets layer (SSL) technology. We do not retain billing and payment information on our servers. We authorize access to your information only to persons who have a business reason to handle the information. However, no method of transmission of information over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+##### 8\. THIRD PARTY ADVERTISING AND LINKS TO OTHER SITES
 
- **Choices Regarding Uses and Sharing of Your Information**
+  * Fandango does not control the privacy policies of its advertisers or other third parties that have Web sites linked to the Site or other Service or with whom we may share your information in accordance with this Policy. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. Fandango assumes no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party Web sites you link to.
 
-You can select whether to receive promotional and marketing materials from us. These materials may be about our M-GO Services or products and services offered by third parties on whose behalf we send information. You may opt out of newsletters and promotional offerings from us by sending your request in any of the ways described below under "Contact Us," or by following the opt out instructions provided in a promotional message from us. While you are a registered user of the M-GO Service, however, you will continue to receive administrative messages, service announcements and notices concerning your account or the status of your requests and transactions relating to the M-GO Service.
 
-If you do not want the M-GO Service to share your personally identifiable information with third parties (except for disclosures that are made in the ordinary course of our business for order fulfillment, request processing, debt collection, and transfer of ownership), you may opt out as instructed on the M-GO website and/or your device or by contacting us in any of the ways described below under "Contact Us."
 
- **How To View or Change Information that We Maintain About You**
 
-To view, amend, or delete information associated with your account, you may contact us in one of the ways listed below under "Contact Us" with an explanation of your request. We can consider corrections to or deletions of this information, but may be unable to make requested changes. Please note that our ability to delete information is subject to contractual and legal obligations to retain information relating to our distribution partners or media content partners for a certain period of time, or other requirements that are applicable to us.
+##### 9\. GUIDELINES REGARDING CHILDREN (COPPA)
 
- **Contact Us**
+  * Fandango is not designed or intended for use by children under 13. If you are under 18, you should use Fandango only with involvement of a parent or guardian. At various places on the Site or other Service, we may ask users for their age. Children under 13 are expressly prohibited from submitting any Personally Identifiable Information (as defined below) to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it.
 
-If you have any comments, questions, complaints, or claims regarding this Privacy Policy or the information that we hold about you, please contact us at help@mgo.com or call us at 855-646-2580 or write us at:
 
-MediaNaviCo LLC  
-3534 Hayden Avenue  
-Culver City, CA 90232
 
-Attn: Privacy
 
-Effective Date: This Privacy Policy is effective as of October 1, 2013.
+##### 10\. PUBLIC FORUMS
 
-©2013 MediaNaviCo LLC. All rights reserved. "M-GO" is a trademark of MediaNaviCo LLC.
+  * Please remember that information posted to message boards, chat rooms, blogs and other user forums become public information. Please use caution when posting. Individuals under the age of 18 should be especially careful not to provide any Personally Identifiable Information when participating in an area of the Site or other Service where posting might become public. If you voluntarily disclose Personally Identifiable Information in a public area of the Site or other Service, such as a rating/review page, chat room or message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. Fandango does not control the actions of users in public areas of the Site or other Service. If you disclose Personally Identifiable Information in a public area, you do so at your own risk. Please see our Terms of Use for the standards of behavior that must be followed when using these portions of the Site or other Service.
 
-Version 2.0
+
+
+
+##### 11\. HOW WE PROTECT AND SECURE YOUR INFORMATION
+
+  * We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personally Identifiable Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our control. While we strive to protect your Personally Identifiable Information, we cannot ensure or warrant the security of any Personally Identifiable Information you transmit to us. Any transmission is done at your own risk. Accordingly, Fandango assumes no responsibility or liability for disclosure of your information (personally identifiable or otherwise) due to errors in transmission, unauthorized third-party access or other causes beyond Fandango's reasonable control.
+
+
+
+
+##### 12\. APPLICABLE LAW
+
+  * The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of New York without regard to its conflict of law provisions. This Site or other Service is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site or other Service is appropriate for use in any particular jurisdiction. Those who choose to access the Site or other Service do so at their own initiative and are responsible for complying with all local laws, rules and regulations. If you are located in a country outside the United States and submit personal information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Policy.
+
+
+
+
+##### 13\. YOUR CALIFORNIA PRIVACY RIGHTS (California residents)
+
+  * California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email us at [caprivacyrights@fandango.com](mailto:caprivacyrights@fandango.com) or write to us:
+
+**Fandango Media, LLC  
+Attn: California Privacy Rights  
+12200 West Olympic Blvd, Suite 400  
+Los Angeles, CA 90064 **
+
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how Fandango responds to "Do Not Track" browser settings. Fandango does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+
+
+
+##### 14\. ACCEPTANCE OF THIS PRIVACY POLICY
+
+  * When you use the Site or other Service, you are accepting the terms and conditions of this Policy, and Fandango will have the right to use your Personally Identifiable Information or other information about you as described in this Policy. If you do not agree to have your information used in any of the ways described in this Policy, you must not use the Site or other Service and you must follow the opt-out provisions above. If you have questions or concerns about this Policy, please contact [Customer Support](http://fandango.custhelp.com/app/ask) or write to Fandango at the contact address listed below.
+
+
+
+
+##### 15\. CHANGES TO THIS PRIVACY POLICY
+
+  * From time to time, we may revise this Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to this Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. By continuing to use the Site or other Service following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, please do not continue using the Site or other Service. To the extent that an arbitrator or court of applicable jurisdiction determines that applying any changes to this Policy would render this an illusory or unenforceable contract, such changes shall be applicable on a prospective basis only, with respect to events or circumstances occurring after the date of such changes, to the extent necessary to avoid this Policy being deemed illusory or unenforceable.
+
+
+
+
+##### 16\. TERMS OF USE
+
+  * Your access to and use of the Site or other Service is also subject to the [Terms of Use](http://www.fandango.com/TermsOfUse.aspx).
+
+
+
+
+##### 17\. CONTACT INFORMATION
+
+  * **Fandango Media, LLC  
+Attn: Privacy Policies  
+12200 West Olympic Blvd, Suite 400  
+Los Angeles, CA 90064 **
+
+
+
+
+Para información en Español en relación a preguntas sobre las Políticas de Privacidad y Compra, así como los Términos de Servicio Móvil, por favor contáctenos a: [Fandango Customer Help](http://fandango.custhelp.com/app/ask/session/)
