@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321114910id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017092749id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | BI-LO
 
@@ -32,7 +32,7 @@ Our mobile applications may collect certain information from you automatically, 
 
 ### Pharmacy Records
 
-BI-LO takes special precautions with your pharmacy records. See our [Pharmacy Notice of Privacy Practices](https://web.archive.org/~/media/media/pharmacy/pharmacy-policy.pdf?la=en)for additional information. 
+BI-LO takes special precautions with your pharmacy records. See our [Pharmacy Notice of Privacy Practices](https://web.archive.org/-/media/media/pharmacy/pharmacy-policy.ashx?la=en)for additional information. 
 
 ### Privacy of Children
 
