@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irrawaddy.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628132926id_/http%3A//www.irrawaddy.com%3Fpage_id%3D915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irrawaddy.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017164228id_/http%3A//www.irrawaddy.com%3Fpage_id%3D915) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
