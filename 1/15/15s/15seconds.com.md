@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 15seconds.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305032414id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 15seconds.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017165304id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
