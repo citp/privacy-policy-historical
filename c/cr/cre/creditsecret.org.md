@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsecret.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317114606id_/http%3A//creditsecret.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsecret.org privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017123457id_/http%3A//creditsecret.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,4 +16,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-[Go Back to the Homepage](http://www.creditsecret.org/) | [Contact Us](http://support.creditsecret.org/) | [Member Login](http://www.creditsecret.org/login/)
+[Go Back to the Homepage](http://www.creditsecret.org/) | [Contact Us](http://creditsecret.org/contact-us/) | [Member Login](http://www.creditsecret.org/login/) | [Privacy Policy](http://creditsecret.org/privacy-policy) | [Terms Of Service](http://creditsecret.org/terms-of-service)
