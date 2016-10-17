@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629004623id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017194955id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
 
 # Customer Information | Privacy Policy | AllSaints
+
+[SIGN IN]() Log in or register to save your wishlist
+
+###  Privacy 
 
 All Saints Retail Limited are committed to protecting and respecting your privacy. This policy (together with our [_Terms and Conditions of Website Use_](http://www.allsaints.com/terms_and_conditions#use), our [_Cookie Policy_](http://www.allsaints.com/cookie-policy) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 This Privacy Policy applies to all stores, websites and mobile applications ("App") owned or operated by All Saints Retail Limited ("AllSaints"). AllSaints websites are located at www.allsaints.com, www.us.allsaints.com, www.fr.allsaints.com, and www.de.allsaints.com (the "Sites"). The Sites and the App shall be collectively referred to as the "Services." In this document, "we", "our" and "us" refer to AllSaints, and "you", "your" "user," mean users of the Services.
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. The Privacy Policy, as well as the [_Cookie Policy_](http://www.allsaints.com/cookie-policy) is incorporated into and made a part of our [_Terms and Conditions of Supply_](http://www.allsaints.com/terms_and_conditions). As part of the Terms and Conditions of Supply, the Privacy Policy constitutes a legally binding agreement between you and us. By accessing or using our Services, you agree that you (or your parent or legal guardian) have read, understand, and are bound by the terms and conditions set forth herein. IF YOU (OR YOUR PARENT OR LEGAL GUARDIAN) DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR TERMS AND CONDITIONS, PLEASE DO NOT USE OR ACCESS THE SERVICES. 
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. The Privacy Policy, as well as the [_Cookie Policy_](http://www.allsaints.com/cookie-policy) is incorporated into and made a part of our [_Terms and Conditions of Supply_](http://www.allsaints.com/terms_and_conditions). As part of the Terms and Conditions of Supply, the Privacy Policy constitutes a legally binding agreement between you and us. By accessing or using our Services, you agree that you (or your parent or legal guardian) have read, understand, and are bound by the terms and conditions set forth herein. **If you (or your parent or legal guardian) do not agree with any part of this privacy policy or our terms and conditions, please do not use or access the services**.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is All Saints Retail Limited of Units C15-C17 Jacks Place, 6 Corbet Place, London, E1 6NN. 
 
@@ -93,7 +97,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 ###  INFORMATION SECURITY 
 
-We use commercially reasonable methods to prevent the unauthorised use, access, or disclosure of your personal information. For example, all information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology and card data you save within your account for future purchases is stored securely within level 1 PCI compliant data centres. 
+We use cyber security best practices to prevent the unauthorised use, access, or disclosure of your personal information. For example, all information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL/TLS technology and card data are processed by PCI compliant payment providers.
 
 While we strive to protect your personal information, no system can ever be 100% secure and we cannot guarantee the absolute security of your personal information; any transmission is at your own risk. You can help protect your online personal data by following these safety tips:
 
