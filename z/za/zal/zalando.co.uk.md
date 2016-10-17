@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322132724id_/https%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018003556id_/https%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALANDO.CO.UK
 
 ##  Privacy Policy for www.zalando.co.uk
 
-Zalando Limited is a company registered in England and Wales with number 07535599 and registered address at 31-35 Kirby Street, London, EC1N 8TE, United Kingdom. Zalando Limited acts as an “Agent” or “Service Provider” for Zalando SE (“We”, “us” or “our”) and is a company wholly owned by Zalando SE. Zalando SE is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 158855 B whose registered office is Tamara-Danz-Str. 1, 10243 Berlin, Germany ( **“we”** , **“us”** or **“our”** ). We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. 
+Zalando SE (“We”, “us” or “our”) is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 158855 B whose registered office is Tamara-Danz-Str. 1, 10243 Berlin, Germany. We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or the Site. 
 
-If you have any comments or suggestions, we would be pleased to receive them at our Agent’s UK address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0800 472 5995 – this telephone number will be open to receive calls between 8 am and 8 pm on Monday to Friday. 
+If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0203 059 8139 *local rates apply. This telephone number will be open to receive calls between 8am-8pm every day. 
 
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. 
 
@@ -24,7 +24,7 @@ We will use the information you provide to enable us to process your orders and 
 
 We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier). 
 
-Payments that you make through the Site will be processed by our agent Zalando Limited. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes. 
+You must only submit to us or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes. 
 
 Your actual order details may be stored with us but for security reasons cannot be retrieved directly by us. However, you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorised third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault. 
 
@@ -144,11 +144,11 @@ We have in place appropriate technical and security measures to prevent unauthor
 
 ####  5\. Consent
 
-By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy including the services provided by Experian to verify your identity. To do so Experian may check the details you supply against any particulars on a database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained. 
+By submitting data to us or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy including the services provided by Experian to verify your identity. To do so Experian may check the details you supply against any particulars on a database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained. 
 
 ####  6\. Your rights
 
-If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Please contact us by mail at [service@zalando.co.uk](mailto:service@zalando.co.uk) or Zalando Ltd., 31-35 Kirby Street, London, EC1N 8TE. 
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Please contact us by mail at [service@zalando.co.uk](mailto:service@zalando.co.uk)
 
 **Zalando SE**
 
