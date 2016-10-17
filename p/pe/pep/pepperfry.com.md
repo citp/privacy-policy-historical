@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628133145id_/http%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018003134id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy covers the information TrendSutra Platform Services Private Limited ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.pepperfry.com ("Website") This Privacy Policy should be read in conjunction and together with the User Agreement of the Website available on http://www.pepperfry.com/privacy_policy.html. Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles:
+This Privacy Policy covers the information TrendSutra Platform Services Private Limited ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.pepperfry.com ("Website") This Privacy Policy should be read in conjunction and together with the User Agreement of the Website available on https://www.pepperfry.com/privacy_policy.html. Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles:
 
 Providing information to us is your choice.
 
@@ -91,4 +91,4 @@ In the event You have any complaints or concerns with respect to the website or 
 
 Name:        **Ms. Megha Navarange**
 
-To register your grievance, [click here](http://www.pepperfry.com/write-to-us.html?grvs=1)
+To register your grievance, [click here](https://www.pepperfry.com/write-to-us.html?grvs=1)
