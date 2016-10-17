@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618061401id_/http%3A//www.scotland.org.uk/about-scotland.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017193539id_/http%3A//www.scotland.org.uk/about-scotland.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | About Scotland.org.uk
 
@@ -73,4 +73,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
-[Print](http://www.scotland.org.uk/about-scotland.org.uk/privacy/print "Print")[Email](http://www.scotland.org.uk/component/com_mailto/link,115a24fadbaf9ca7d006fe41ee11a3a0b9c94e45/template,yoo_avanti/tmpl,component/ "Email")
+[Print](http://www.scotland.org.uk/about-scotland.org.uk/privacy/print "Print article < Privacy >")[Email](http://www.scotland.org.uk/component/com_mailto/link,115a24fadbaf9ca7d006fe41ee11a3a0b9c94e45/template,yoo_avanti/tmpl,component/ "Email this link to a friend")
