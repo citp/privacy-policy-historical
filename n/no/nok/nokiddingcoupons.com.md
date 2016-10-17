@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiddingcoupons.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507114710id_/http%3A//nokiddingcoupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiddingcoupons.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017210842id_/http%3A//nokiddingcoupons.com/privacy-policy) for the most accurate reproduction.*
 
 # No Kidding Coupons: 99% of our members LOVE our 99% off Amazon promo codes. The other 1% are nuts. And YOU?
 
