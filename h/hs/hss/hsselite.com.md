@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsselite.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611102453id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsselite.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018000223id_/https%3A//hsselite.com/privacy) for the most accurate reproduction.*
 
 # Hotspot Shield Elite Privacy Notice & Web Security Commitment - AnchorFree
 
