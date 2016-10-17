@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviescoop.tv privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315125857id_/http%3A//www.moviescoop.tv/page/load/moviescoop_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviescoop.tv privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017211608id_/http%3A//www.moviescoop.tv/page/load/moviescoop_privacy-policy) for the most accurate reproduction.*
 
 # 
 
