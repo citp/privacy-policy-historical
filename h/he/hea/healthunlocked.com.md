@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417121803id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018012557id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
 
 # HealthUnlocked | The social network for health
 
