@@ -1,76 +1,130 @@
-> *The following text is extracted and transformed from the sourcingline.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404195303id_/https%3A//clutch.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcingline.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017180948id_/https%3A//clutch.co/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Clutch.co
 
-Last revised on November 4, 2014
+**Last revised: September 6, 2016**
 
-The mission of Clutch is to connect buyers and sellers of business services. To achieve our mission, we make services available through our website to assist buyers in identifying prospective service providers and leaving reviews, and we assist service providers in marketing their companies and services.
+This Privacy Policy covers information we collect from users and visitors of [https://clutch.co](https://clutch.co/) and our related research and review services (collectively, the “Services”).  By using the Services or otherwise agreeing to this Privacy Policy, you are consenting to the collection, use, disclosure and other handling of your information as described below.
 
-We protect your personal information and will only provide it to third parties:
+If you have any concern about providing information to us or having such information displayed on the Services or otherwise used in any manner permitted in this Privacy Policy, you should not use the Services.
 
-  * With your consent;
-  * Where it is necessary to carry out your instructions;
-  * As reasonably necessary in order to provide Clutch features and functionality to you;
-  * As we reasonably believe is permitted by law or regulation; or
-  * As necessary to enforce our User Agreement or protect the rights, property, or safety of Clutch, its users, and the public.
-  * We have implemented appropriate security safeguards designed to protect your information in accordance with industry standards.
+**1\. The Information We Collect.**
+
+**_Information Submitted by You_**
+
+**Information about you**.  We collect information about you when you participate in our research process and use the Services in a variety of ways:
+
+  * When you create an account, you provide us with information such as your name and email address either directly or via your LinkedIn account.  We may also ask for your credit card details if you purchase certain Clutch Services.  You can provide additional information to enhance your profile such as your location, industry, bio, picture, and phone number.  If you believe that someone has created an unauthorized account depicting you or your likeness, you can request its removal by [contacting us](https://clutch.co/contact).
+  * As part of the review submission process, we will collect your name, company name, phone number, and email address for our records, but this information will not be made available to the public. 
+  * For posted reviews, you will have the option to either remain anonymous (e.g., only your generic job title, company description, industry, company size, and location will be posted with your review) or attribute your comments by providing information such as your name, project details, and your photo.  If you choose to attribute your review, you agree that we may publicly display such information in connection with your review through the Services.
+  * When you complete a survey, your responses will remain anonymous, and we will only display the results along with a generic job title, department, industry, company size, and location.
 
 
 
-We may modify this Privacy Policy from time to time, and if we make material changes to it, we will provide notice through our website or other services or by other means so that you may review the changes before you continue to use Clutch. If you object to any changes, you may stop using the Service and close your account. Continuing to use Clutch after we publish or communicate a notice about any changes to this Privacy Policy means that you are consenting to the changes.
+**Information about others**.  You may provide information about others (e.g. clients), including their names, emails, phone numbers and companies to support our reference check and review process. You should obtain the consent of other individuals prior to providing Clutch with their information. The information you provide about others is only used in the reference check and review process.
 
-### Information We Collect
+**_Information from Third Parties_**
 
-Our Privacy Policy applies to anyone using the Clutch Website. The personal information provided to or gathered by Clutch is controlled by Clutch, 1200 18th Street, NW, Suite 700, Washington, DC 20036. If you have any concern about providing information to us or having such information displayed on the Clutch services or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should not use the Website or register on Clutch. If you have already registered, you should close your account.
+We may collect, process and store your user ID associated with any social media account (such as your LinkedIn account) that you use to sign in to the Services or connect with or use with the Services. When you sign in to your account with your social media account information, or otherwise connect to your social media account with the Services, you consent to our collection, storage, and use, in accordance with this Privacy Policy, of the information that you choose to make available to us through the social media interface. This could include, without limitation, any information that you have made public in connection with your social media account, information that the social media service shares with us, or information that is disclosed as being shared during the sign-in process. Please see your social media provider’s privacy policy and help center for more information about how they share information when you choose to connect your account.
 
-We collect information when you use the Clutch website or participate in our research process. When you create an account with us, you provide us with personal information (including your name and email address) either directly or via your LinkedIn account. You understand that, by creating an account, Clutch and others will be able to identify you by your Clutch user profile, and you allow Clutch to use this information in accordance with this Privacy Policy and our User Agreement. We may also ask for your credit card details if you purchase certain Clutch services.
+We may also obtain information about you if it is contained in user-generated content that other users post to or on our Services. For example, a user could include information about you in a review they post.
 
-You may also share personal information of other individuals (e.g. clients) such as name, email, phone number and company to support our reference check and review process. You should obtain the consent of other individuals prior to providing Clutch with their personal information. Client personal information is only used in the reference check and review process and is managed in accordance with other personal information collected by Clutch. Note, when we publish reviews, your clients have the option of keeping their review anonymous or being identified on the review (full name, title, company, photograph, etc.).  
+**_Automatically Collected Information_**
 
-We use cookies and similar technologies to help us recognize you, improve your Clutch experience, increase security, and measure use of our Services. You can control cookies through your browser settings and other tools. By visiting Clutch, you consent to the placement of cookies and beacons in your browser in accordance with this Privacy Policy.
+We and third parties may use automated means to collect information about you, your computer or other device, and your use of the Services.  These automated means include technologies such as cookies, Web server logs, Web beacons, and JavaScript.
 
-We do not share personally identifiable information with any third-party advertiser or ad network, although your user profile is visible to other Clutch users and may be visible through public search. Additionally, Clutch currently does not share any personal information with third parties for their direct marketing purposes.
+Cookies are files that websites and online services create and access on your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device to help us recognize you, improve your experience, increase security, and measure use of our Services. Our Services may use HTTP cookies, HTML5 cookies, Flash cookies and other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash Website Storage Settings Manager by following Adobe’s instructions [here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) (instructions vary depending on your operating system and version of Flash).  Please note, however, that without cookies or local storage you may not be able to use all of the features of our Services.
 
-When you visit or leave Clutch by clicking a hyperlink we automatically receive the URL of the site from which you came or the one to which you are directed. Also, advertisers receive the URL of the page that you are on when you click an ad on Clutch. We also receive the internet protocol (“IP”) address of your computer or the proxy server that you use to access the web, your computer operating system details, your type of web browser, your mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system (if you are accessing Clutch using a mobile device), and the name of your ISP or your mobile carrier.
+In conjunction with the gathering of information through cookies and other automated means, Web servers may log information such as your device type, operating system type, mobile device identifier provided by your mobile device operating system), browser type, domain, and other system settings, the name of your ISP or mobile carrier, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Services and the IP address of the device you use to connect to the Internet. They also may log information about your interaction with our Services, such as which pages you visit. To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons," which are files that link Web pages to particular Web servers and their cookies. We also may include Web beacons in e-mail messages.  We or third parties also may send instructions to your device using JavaScript or other computer languages to store or gather other details about your interactions with the Services. 
 
-Clutch is a dynamic, innovative environment, which means we are always seeking to improve the services we offer you. We often introduce new features, some of which may result in the collection of new information. Furthermore, new partnerships or corporate acquisitions may result in new features, and we may potentially collect new types of information.
+We may also collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if you provide a zip code that indicates that you live in New York, the Services may be customized with New York-specific information and advertisements. In order to do this, your location information may be passed along to our agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with GPS location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
 
-### How We User Your Personal Information
+**2.  How We Use Information.**
 
-When you join Clutch, you acknowledge that information you provide (user profile, company profile, reviews, etc.) can be seen by others and used by us as described in this Privacy Policy and our User Agreement.
+We use the information we collect about you to:
 
-By providing information to us when you create or update your account and profile, you are expressly and voluntarily accepting the terms and conditions of Clutch's User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy. Supplying information to us, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw or modify your consent to Clutch's collection and processing of the information you provide at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your settings, changing your user profile, changing other submitted data (company profile, reviews, etc.), or by closing your account.
+  * Establish your account and provide the Services;
+  * Fulfill your requests and provide customized content to you;
+  * Communicate with you through email, notices posted on the website, and other means available through the Services. Examples of these messages include: (1) welcome and engagement messages - when you register on Clutch, we may send you emails to inform you about our features and services; (2) service messages – these will cover service availability, security, and other issues about the functioning of Clutch; and (3) promotional messages –may contain promotional information directly or on behalf of our partners;
+  * Create, tailor, deliver and study the effectiveness of advertising and promotional material both on and off of the Services, as well as for analytics (including as described in the Online Analytics, Advertising and Do-Not-Track section below);
+  * Improve the Services and to research and develop innovative features and new services;
+  * Provide feedback to third party businesses that are listed on the Services; and
+  * Investigate, prevent, or take action regarding unlawful or harmful activities, including potential threats to the physical safety of a person, potential fraud, and violations of our Terms of Service.
 
-We communicate with you through email, notices posted on the Clutch website, and other means available through the Service. Examples of these messages include: (1) welcome and engagement messages - when you register on Clutch, we may send you a series of emails to inform you about how to best use Clutch as well as new features; (2) service messages – these will cover service availability, security, and other issues about the functioning of Clutch; (3) promotional messages –may contain promotional information directly or on behalf of our partners.
 
-Any information you put on your user profile and any content you post on Clutch may be seen by others. We don’t provide any of your non-public information (like your email address) to third parties without your consent, unless required by law, or as described in this Policy.
 
-Posting content on Clutch may result in displaying some of your personal information outside of CLutch. For example, when you post a Review, your content, including your name as the contributor, may be displayed in search engine results.
+Please note that we may anonymize and/or de-identify information collected through the Services or via other means so that the information no longer relates to you. Where we have appropriately anonymized and/or de-identified information so that it no longer identifies you personally, our use and disclosure of such information is not subject to this Privacy Policy, and may be used and disclosed to others without restriction.
 
-If you provide any reviews or testimonials either about Clutch or Service Providers covered in our research we may post those reviews or testimonials or portions thereof in. Reviews or testimonials and advertisements may include your name, title, company and other personal information that you have provided.
+**3\. How We Share Information.**
 
-Clutch may share your information with third-party vendors or business partners who provide services or functions on our behalf, which may include business analytics, customer service, marketing, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
+Information about you may be shared for the following purposes:
 
-We may also disclose your personal information to a third party as part of a sale of the assets of Clutch, a subsidiary, or division, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which Clutch transfers or sells Clutch's assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
+  * Any information included in your user profile and any content you post on Clutch (e.g., your reviews) may be seen by others. When you post a review, your content, including your name as the contributor (if the review is not anonymous), may also be displayed in search engine results.
+  * If you provide any reviews or testimonials either about Clutch or service providers covered in our research we may post those reviews or testimonials or portions thereof. Reviews or testimonials and advertisements may include your name (if the review is not anonymous), title, company, and other information that you have provided.
+  * When we have your consent or where it is necessary to carry out your instructions;
+  * As reasonably necessary to provide Clutch features and functionality to you;
+  * We may share your information with third-party vendors or business partners who provide services on our behalf, which may include analytics, customer service, survey providers, payment processing, marketing, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our Services. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 
+  * In connection with significant corporate events (for example, we may share or disclose information we have about you in the event we sell or transfer all or a portion of our business or assets — such as in connection with a merger, acquisition, reorganization, bankruptcy, dissolution or liquidation — or take steps in anticipation of any such event);
+  * When we believe in good faith that sharing is reasonably necessary to investigate, prevent, or take action regarding possible unlawful activities or to comply with legal process or other legal requirements; when we deem disclosure appropriate in situations involving potential threats to the physical safety of any person, potential violations of our terms, or claims of violation of the rights of third parties; or when we deem disclosure appropriate to protect the rights, property and safety of us, our employees, users, or another person or entity (the disclosures described here may involve the sharing of your information with, for example, law enforcement, government agencies, courts, or other parties).
 
-### Your Choices & Data Retention
 
-You have a right to (1) access, modify, correct, or delete your personal information controlled by Clutch regarding your user profile on the Service, (2) change or remove your content (company profile, portfolio items, reviews, etc.), and (3) close your account. You can also contact us for any account information which is not on your profile or readily accessible to you. If you close your account, your information will generally be removed or unpublished from the Service within 24 hours.
 
-Note, information that others have copied may remain visible and you may not be able to access, correct, or eliminate any information about you that others copied or exported out of Clutch, because this information may not be in our control. Your information may be displayed in search engine results until the search engine refreshes its cache.
+**4\. Online Analytics, Advertising and Do-Not-Track.**
 
-We keep your information for as long as your account is active or as needed. For example, we may keep certain information even after you close your account if it is necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes, prevent fraud and abuse, enforce this agreement or as part of our Website data backup process. We may keep your data in an unpublished format on the Service or in backups of the Website.
+**_Online Analytics Providers_**
 
-### Other Important Information
+To help us better understand your use of the Services, we may use third-party analytics. These third parties use the sorts of technologies described in the “Automatically Collected Information” section above. The information collected by this technology will be disclosed to or collected directly by these service providers.
 
-We may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will provide notice to you on the Service or by some other means, such as email. Please review the changes carefully. If you agree to the changes, simply continue to use our Service. If you object to any of the changes to our terms and you no longer wish to use Clutch, you may stop using the Service and close your account. Using Clutch after a notice of changes has been communicated to you or published on our Service shall constitute consent to the changed terms or practices.
+**_Advertising Technology Providers_**
 
-We have implemented security safeguards designed to protect the personal information that you provide in accordance with industry standards. Access to your data on Clutch is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the Clutch Services and Partners (e.g. PayPal). We also offer secure https access to the website. To protect any data you store on our servers, we also regularly monitor our system for possible vulnerabilities and attacks. However, since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information that you transmit to Clutch. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Clutch users are not encrypted, and we strongly advise you not to communicate any confidential information through these means. Please help keep your account safe by using a strong password.
+Data about your activities on our Services may be collected by us or by advertising technology providers for use in delivering online advertising tailored to your individual characteristics, activities, interests and other factors.  These ad services may track your online activities over time by collecting information through automated means, including through the use of the various technologies described above, and they may use this information, and other information they receive from us or other sources, to deliver advertisements to you on our website, our emails, and other websites.  We and third-party vendors may use first-party cookies and third-party cookies together, and other automated technologies, and in some cases additional information, (i) to inform, optimize, and serve ads based on past visits to our Services or other factors and (ii) to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Services or other factors. 
 
-Clutch is a general audience site and does not offer services directed to audiences under the age of 18. Should an individual whom we know to be under age 18 send personal information to us, we will delete or destroy such information as soon as reasonably possible.
+You may visit the [Network Advertising Initiative’s Consumer Opt-Out page](http://www.networkadvertising.org/choices/) or the [Digital Advertising Alliance’s Consumer Opt-Out page](http://www.aboutads.info/choices/) to opt out of receiving tailored advertising based on your Internet browsing activities from companies that participate in those programs.  Some of our advertising-related activities may involve the services of companies that do not participate in those programs.  For example, we use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our Website. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/) _._ The opt-outs apply only to the browser in which you set them.  For example, if you set the opt-out while using Firefox, but then use Chrome, the opt-out will not be active in Chrome. To opt out in Chrome, you will need to repeat the opt-out process.
 
-Clutch uses a service from Mollom to combat spam on some. By using our service you accept that your content and other personal details about you will be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Mollom's privacy policy](http://mollom.com/web-service-privacy-policy).
+The opt-outs described in this Privacy Policy do not block or delete cookies, or prevent the use of cookies or other technologies for purposes other than selecting ads based on your interests as inferred by your online behavior. If you opt out, data may still be collected about your web browsing activities and you will still see advertising. Ads may be delivered based on other factors, such as the content of the web page in which they are shown, or demographic information obtained through other means.
 
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the clutch.co website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/)
+**_Do Not Track Disclosure_**
 
-If you have questions about this privacy policy, please [contact us](https://web.archive.org/contact).
+Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. However, we do not recognize or respond to browser-initiated DNT signals, as the internet industry is still working to determine what DNT means, how to comply with DNT, and how to create a common approach to responding to DNT.
+
+**5\. Information Access, Correction, and Deletion Options.**
+
+You have a right to (1) access, modify, correct, or delete certain of your information regarding your user profile, and (2) close your account. You can also contact us regarding any account information which is not on your profile or readily accessible to you. If you close your account, your information may be removed or unpublished from the Services within a reasonable amount of time.
+
+Once you submit a review and the review has been approved for posting, it cannot be edited or removed.  You will have the ability to submit a revision to appear below your original posting and to revise your star ratings.
+
+Note that information that others have copied may remain visible and you may not be able to access, correct, or eliminate any information about you that others copied or exported out of Clutch, because this information may not be in our control. Your information may be displayed in search engine results until the search engine refreshes its cache.
+
+We keep your information for as long as your account is active or as needed. For example, we may keep certain information even after you close your account if it is necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes, prevent fraud and abuse, enforce our agreements or as part of our Website data backup process. We may keep your data in a published or unpublished format on the Services or in backups of the Website.
+
+**6\. Security.**
+
+We have implemented various technical, administrative, and physical safeguards to protect your information. These safeguards vary depending on the sensitivity of the information at issue.
+
+**7\. Third Party Links and Services.**
+
+The Services may contain links to third-party websites, applications and services, including social media services, as well as embedded images or other third-party content and features. Your use of these features may result in the collection, processing or sharing of information about you, depending on the feature.  We are not responsible for the content, features, security or practices of any third parties.  We do not vet, endorse, or make any representations about third parties or their websites, applications or services. The information you choose to provide to or that is collected by these third parties is not covered by our Privacy Policy.
+
+**8\. Changes to this Policy.**
+
+This Privacy Policy may be modified from time to time as our business practices and legal requirements evolve.  If this Privacy Policy is modified, we will provide appropriate notice of the change, and we will include the effective date of the update.  Please review the changes carefully. If you disagree with the Privacy Policy, you must stop using the Service.  If you continue to use Clutch after we publish or communicate a notice about any changes to this Privacy Policy, you are consenting to such changes.
+
+**9\. Children’s Privacy.**
+
+The Services are not intended for use by children under the age of 13. We do not knowingly collect (or knowingly allow any third party to collect) personal information from persons under the age of 13. If we become aware that personal information has been collected from a person under the age of 13, we will delete this information and terminate the person’s account as quickly as possible.
+
+**10.   International Users.**
+
+The Services are hosted in the United States and are governed by United States law. If you are using the Services from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States, where our databases are operated, or Canada, where our servers are located. The data protection and other laws of the United States and Canada might not be as comprehensive as those in your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
+
+**11\. Your California Privacy Rights.**
+
+We do not disclose your personal information to third parties for their own direct marketing purposes without your consent. If you have any questions regarding this policy, or would like to change your preferences, you may contact us using the information in Section 13 below.
+
+**12.   No Rights of Third Parties.**
+
+This Privacy Policy does not create rights enforceable by third parties.
+
+**13\. How to Contact Us.**
+
+If you have any requests, questions, comments, or concerns regarding our Privacy Policy or practices, please contact us [here](https://clutch.co/contact) or at Clutch, 1146 19th Street, NW, Suite 400, Washington, DC  20036.
