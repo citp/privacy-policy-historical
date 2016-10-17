@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cuzinlogic.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616020420id_/http%3A//cuzinlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuzinlogic.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017131217id_/http%3A//cuzinlogic.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fcuzinlogic.com%2Fprivacy%2F&media=&description=Privacy)[ ](https://www.linksalpha.com/social/mobile)
 
 Your privacy is very important to us and we are committed to protecting it. We ask for your email address when you make a comment on our site, but we will never sell or share that information unless you are the winner of a giveaway administered by Cuzinlogic. Then we will only share it with the sponsor of that giveaway so that they can send you your prize. When you give us your shipping address after you have won a giveaway administered by Cuzinlogic ****, we will only share that information with the sponsor to ship your prize. All shipping addresses will be forwarded to the sponsor within  10 days, and deleted immediately after.
 
@@ -19,5 +17,3 @@ This policy was last modified on 3/26/2015.
 We hope this helps you better understand our privacy policy. If you have any questions, please use the contact form or email us directly at [cuzinlogic[@]gmail[dot]com](mailto:cuzinlogic@gmail.com) to discuss your interest in working with us.
 
 ~Catherine and Tiffany
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fcuzinlogic.com%2Fprivacy%2F&media=&description=Privacy)[ ](https://www.linksalpha.com/social/mobile)
