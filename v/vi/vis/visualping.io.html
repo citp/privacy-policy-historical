@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visualping.io privacy policy that was archived on 2016-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160311210317id_/https%3A//visualping.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visualping.io privacy policy that was archived on 2016-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161018105110id_/https%3A//visualping.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="mod mod-layout skin-layout-login"><head>
     
@@ -10,21 +10,34 @@
 <meta property="og:title" content="Website checker, website change detection, monitoring and alerts">
 <meta property="og:url" content="https://visualping.io">
 <meta property="og:image" content="https://visualping.io/assets/img/preview-small.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@site_username">
+<meta name="twitter:title" content="Website checker, website change detection, monitoring and alerts">
+<meta name="twitter:description" content="Visualping is the easiest to use website checker, webpage change monitoring, website change detector and website change alert software of the web. Contrary to other website change monitoring software like ChangeDetector, Versionista and Page Monitor, we track and detect visual webpage changes and send alerts via email or Slack team notification for competitive monitoring">
+<meta name="twitter:creator" content="@creator_username">
+<meta name="twitter:image:src" content="https://visualping.io/assets/img/chrome-app-anim.gif">
+<meta name="twitter:domain" content="visualping.io">
+
 <link rel="shortcut icon" href="favicon.ico">
-<link rel="stylesheet" href="app.css" type="text/css">
-<meta name="viewport" content="width=768"><style type="text/css"></style><style type="text/css">.fancybox-margin{margin-right:0px;}</style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    <link rel="stylesheet" href="https://cdn.visualping.io/app.css?v=9cae60ce" type="text/css">
+
+
+<meta name="viewport" content="width=768">
+</head>
 <body>
 <div class="page">
     <div class="head">
         <div class="line">
                 <div class="mod mod-logo">
-<a href="/" title="VisualPing">
-    <img src="/assets/img/logo@2x.png" alt="VisualPing Logo" width="191" height="27">
+<a href="/" title="Visualping">
+    <img src="/assets/img/logo@2x.png" alt="Visualping Logo" width="191" height="27">
 </a>
 
 
 </div>                <div class="mod mod-navigation">
-<span class="navigation"><a href="/chrome-app" class="button bordered">Download App</a><a class="login-btn button bordered" href="/jobs">Login</a></span>
+<span class="navigation">
+<a href="/chrome-app" class="button bordered">Download App</a><a class="login-btn button bordered" href="/jobs">Login</a></span>
 
 </div>        </div>
     </div>
@@ -262,11 +275,106 @@
 <script id="dropdown-selected" type="text/x-dot-template">
     {{=it.label}}
 </script>
-<script src="app.js"></script>
+<script id="mod-block-accountsettings-email-account" type="text/x-dot-template">
+<div class="modal-emailsettings--account-email">
+  <p class="title">Account holder</p>
+  <div class="fld-input fld-input-member modal-emailsettings--account-email" data-mode="account">
+    <div class="fld-input-member__content">{{= it.email }}</div>
+      <input type="text">
+      <div class="fld-input-member--inline-actions">
+        <i class="fa fa-pencil icon-edit js-icon-edit-email"></i>
+      </div>
+    </div>
+    <span class="error-notice">Please enter an email address. It cannot be left blank.</span>
+</div>
+<div class="modal-emailsettings--pw-confirm state-hidden">
+  <p class="title title-password">Confirm your password</p>
+  <div class="fld-input-passwd fld-input">
+    <input type="password">
+  </div>
+  <span class="error-notice">Wrong password</span>
+  <p class="title">Password reset</p>
+  <input id="fld-input__pw-confirm__pw-reset" class="fld-input__pw-confirm__pw-reset" type="checkbox"></input>
+  <label for="fld-input__pw-confirm__pw-reset">Recommended if a new person is taking over this account</label>
+  <button class="btn-primary btn-save-account-email js-save-account-email">Save</button>
+</div></script><script id="mod-block-accountsettings-email-item" type="text/x-dot-template">
+<li>
+    <div class="fld-input fld-input-member" data-mode="member" data-id="{{= it.member_id }}">
+        <div class="fld-input-member__content" data-placeholder="me@example.com">{{=it.email}}</div>
+        <input type="text">
+        <div class="fld-input-member--inline-actions">
+            <i class="fa fa-pencil icon-edit js-icon-edit-email"></i>
+            <i class="fa fa-trash icon-trash js-icon-delete-email"></i>
+        </div>
+    </div>
+    {{? it.confirmed == 0}}
+    <i class="tooltip fa fa-exclamation-triangle icon-warning" title="Email not confirmed!"></i>
+    {{?}}
+</li>
+
+</script><script id="mod-block-adminjoblisting-modal-scannow" type="text/x-dot-template">
+<div class="modal-scannow modal-box state-open">
+	<a href="#" class="btn-modal-cancel"><i class="icon-close"></i></a>
+	<div class="modal-content">
+		<p>If you've enough credits, this will check all your pages in the next moments independly from your frequency or weekly schedule</p>
+		<button class="btn-primary btn-scannow">Check now</button>
+	</div>
+</div></script><script id="mod-block-advancedsettings-adblocker-item" type="text/x-dot-template">
+<div class="modal-adblocker__item cf">
+	<div class="fld-dropdown fld-adblocker-selection" data-mode={{=it.type}}>
+		<div class="selected cf">
+			<span>{{=it.type}}</span>
+			<i class="fa fa-chevron-down"></i>
+		</div>
+		<ul>
+			<li data-element="CLASS">CLASS</li>
+			<li data-element="ID">ID</li>
+		</ul>
+	</div>
+	<div class="fld-input fld-input-adblock__selector" data-placeholder="google_ads">{{=it.selector}}</div>
+	<div class="fld-input-adblock--inline-actions">
+	    <i class="fa fa-pencil icon-edit js-icon-edit-adblock-item"></i>
+	    <i class="fa fa-trash icon-trash js-icon-delete-adblock-item"></i>
+    </div>
+</div>
+</script><script id="mod-block-advancedsettings-preaction-item" type="text/x-dot-template">
+<div class="modal-preaction__item cf">
+	<div class="fld-dropdown fld-preaction-selection" data-mode={{=it.type}}>
+		<div class="selected cf">
+			<span>{{=it.type}}</span>
+			<i class="fa fa-check-circle"></i>
+			<i class="fa fa-chevron-down"></i>
+		</div>
+		<ul>
+			<li data-element="CLICK">CLICK</li>
+		</ul>
+	</div>
+	<div class="fld-input fld-input-preaction__selector" data-placeholder='//*[@id="foo"]'>{{=it.selector}}</div>
+	<div class="fld-input-preaction--inline-actions">
+	    <i class="fa fa-pencil icon-edit js-icon-edit-preaction-item"></i>
+	    <i class="fa fa-trash icon-trash js-icon-delete-preaction-item"></i>
+    </div>
+</div>
+</script><script id="mod-block-advancedsettings-screenshot-preview" type="text/x-dot-template">
+<div class="img-preview-modal">
+	<div class="meta">Capturing Website...</div>
+</div>
+<div class="img-preview-modal-footer">
+	<div class="img-preview-modal-buttons">
+		{{?it.btn_save}}
+		<button class="btn-img-preview-modal-save btn-primary">Save</button>
+		{{?}}
+		<button class="btn-img-preview-modal-close btn-primary">Cancel</button>
+	</div>
+</div></script>
+  <script src="https://cdn.visualping.io/app.js?v=9cae60ce"></script>
 <script>
 (function($) {
     $(document).ready(function() {
-        var application = new Tc.Application($('html'), {});
+        var application = new Tc.Application($('html'), {
+          tpl: new Tc.Utils.Template(),
+          data: new Tc.Utils.Data()
+        });
         application.registerModules();
         application.start();
     });
@@ -286,23 +394,10 @@
   ga('send', 'pageview');
 </script>
 
-<!-- Adroll -->
-<script type="text/javascript">
-adroll_adv_id = "7CGHMUHEDFAP3EY56JMB7O";
-adroll_pix_id = "AADNC4IZ4BG6ZFR6ZK3BY7";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
+
+
+<!--BEGIN BEESWAX SEGMENT TAG, DO NOT REMOVE -->
+<img src="http://segment.prod.bidr.io/associate-segment?buzz_key=stinger&amp;segment_key=stinger-266&amp;value=[VALUE]" height="0" width="0">
+<!--END BEESWAX SEGMENT TAG, DO NOT REMOVE -->
 
 </body></html>
