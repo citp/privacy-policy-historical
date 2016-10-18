@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allinsearch.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118180638id_/http%3A//allinsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinsearch.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018095144id_/http%3A//allinsearch.com/privacy) for the most accurate reproduction.*
 
 # All in Search: Privacy policy
 
