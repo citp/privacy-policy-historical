@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403212544id_/http%3A//www.personalizationmall.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018052702id_/http%3A//www.personalizationmall.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PersonalizationMall.com
 
@@ -30,7 +30,7 @@ Your PMall account(s) is password protected. You are responsible for protecting 
 
 ## 4\. How can I change my PII?
 
-All registered users can access their profile by visiting [My Account](https://web.archive.org/web/20160403212544id_/http%3A//www.personalizationmall.com/AfterLogin.aspx), and edit their profile at any time. To unsubscribe from our mailing list click the unsubscribe link that is present in all mail messages sent to you or you can email us at [service@PersonalizationMall.com](mailto:service@PersonalizationMall.com?subject=Unsubscribe) with the subject line 'unsubscribe' and we will remove you from the mailing list.
+All registered users can access their profile by visiting [My Account](https://web.archive.org/web/20161018052702id_/http%3A//www.personalizationmall.com/AfterLogin.aspx), and edit their profile at any time. To unsubscribe from our mailing list click the unsubscribe link that is present in all mail messages sent to you or you can email us at [service@PersonalizationMall.com](mailto:service@PersonalizationMall.com?subject=Unsubscribe) with the subject line 'unsubscribe' and we will remove you from the mailing list.
 
 ## 5\. How will we update this Privacy Policy?
 
@@ -45,5 +45,5 @@ PersonalizationMall.com
 Burr Ridge, IL 60527  
 Phone: 630-910-6000  
 Fax: 630-910-6006  
-Email: [Service@PersonalizationMall.com](https://web.archive.org/web/20160403212544id_/http%3A//www.personalizationmall.com/ContactUs.aspx)  
+Email: [Service@PersonalizationMall.com](https://web.archive.org/web/20161018052702id_/http%3A//www.personalizationmall.com/ContactUs.aspx)  
 
