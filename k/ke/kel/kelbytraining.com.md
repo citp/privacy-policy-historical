@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kelbytraining.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405020434id_/http%3A//kelbyone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbytraining.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018140214id_/http%3A//kelbyone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KelbyOne
-
-[ ](http://kelbyone.com/)
+# Privacy Policy – KelbyOne
 
 ##### Privacy Policy
 
@@ -100,9 +98,3 @@ Oldsmar, FL – 34677
 Tel. 813.749.4000 x152
 
 [privacy@kelbymediagroup.com](mailto:privacy@kelbymediagroup.com)
-
-#### 20% off KelbyOne annual membership, exclusively for Creative Cloud members.
-
-Fill out the form below, and your coupon code will be delivered directly to your inbox!
-
-**Code expires June 30, 2016.** Code can only be used with KelbyOne 1-Year Annual Memberships, and cannot be combined with any other product or offer.
