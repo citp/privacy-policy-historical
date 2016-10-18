@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchresults.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314063926id_/http%3A//researchresults.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchresults.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018042051id_/http%3A//researchresults.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Research Results
 
