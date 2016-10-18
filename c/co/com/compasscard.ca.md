@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compasscard.ca privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508143945id_/https%3A//compasscard.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compasscard.ca privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018095351id_/https%3A//www.compasscard.ca/Privacy) for the most accurate reproduction.*
 
 # Compass - Privacy Policy
 
