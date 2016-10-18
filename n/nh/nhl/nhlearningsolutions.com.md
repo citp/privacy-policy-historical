@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nhlearningsolutions.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216140405id_/http%3A//nhlearningsolutions.com/Home/tabid/154/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhlearningsolutions.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018173057id_/http%3A//nhlearningsolutions.com/Home/tabid/154/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Microsoft, Cisco, CompTIA Training | NH Learning Solutions
+# Best IT & Computer Training Courses | New Horizons
 
 NH Learning Solutions is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the NH Learning Solutions Web site and governs data collection and usage. By using the NH Learning Solutions website, you consent to the data practices described in this statement.
 
