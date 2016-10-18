@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bigticket.ae privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316015254id_/https%3A//www.dfs.com/en/airport-abu-dhabi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigticket.ae privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018160514id_/https%3A//www.dfs.com/en/airport-abu-dhabi/privacy-policy) for the most accurate reproduction.*
 
 # DFS Privacy Policy | DFS, Abu Dhabi Airport
+
+[Clicca qui](https://www.dfs.com/en/airport-abu-dhabi/edm/italian-privacy-policy) per accedere alla versione italiana. 
 
 **I. OUR PRIVACY POLICY**
 
