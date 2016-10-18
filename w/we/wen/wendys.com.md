@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528131529id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018074824id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Wendy's Privacy Policy - Wendy's
 
@@ -6,7 +6,7 @@ Contents
 
 ## Quality is our Recipe
 
-[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](http://careers.wendys.com/)
+[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://careers.wendys.com/)
 
   * Dine
   * Learn
@@ -20,7 +20,7 @@ Contents
   * 
 
 
-[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](http://careers.wendys.com/)
+[About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://careers.wendys.com/)
 
 **Wendy's International, LLC Privacy Policy and Information Security Policy ("Privacy Policy" or "Policy")**
 
