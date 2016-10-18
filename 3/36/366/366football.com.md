@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 366football.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513054443id_/http%3A//366football.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 366football.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019005823id_/http%3A//366football.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | 366 Football
+# Privacy Policy - 366Football
 
 At 70TH Precinct Limited we have put in place measures to ensure that our reader privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have put in place to safeguard your privacy.  
 In this Privacy Policy references to we, us and our, are to 70TH PRECINCT LIMITED. References to the Site are to WWW.366FOOTBALL.COM and any of the ‘366 FOOTBALL’ branded sites or mobile applications.
