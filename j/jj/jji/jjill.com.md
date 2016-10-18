@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325031903id_/http%3A//www.jjill.com/jjillonline/customer/privacy.aspx%3F%26sk%3DM%26h%3DM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018183423id_/http%3A//www.jjill.com/jjillonline/customer/privacy.aspx%3F%26sk%3DM%26h%3DM) for the most accurate reproduction.*
 
 # Women's apparel, accessories, and footwear from J.Jill
 
 your privacy rights    
-At J.Jill, we understand your concerns about online security and privacy and appreciate the trust you place in our company. We seek to ensure that your personal and payment information is secure and your privacy is respected. We hope this policy statement provides you with answers to the questions you may have about our policies. If you have further questions, please contact us by phone at **1.800.343.5700** or [email us anytime](https://web.archive.org/jjillonline/customer/CustomerServiceForm.aspx). 
+At J.Jill, we understand your concerns about online security and privacy and appreciate the trust you place in our company. We seek to ensure that your personal and payment information is secure and your privacy is respected. We hope this policy statement provides you with answers to the questions you may have about our policies. If you have further questions, please contact us by phone at **1.800.343.5700** or email us anytime. 
 
 Information We Collect   
 In order to provide the services you request, we ask you for certain kinds of personal information. 
@@ -42,7 +42,7 @@ You also have the option to refuse cookies altogether by turning them off in you
 Communication Choices   
 If you do not want to receive our emails, you may submit your request to unsubscribe directly at jjill.com. To access this feature, [click here](https://web.archive.org/jjillonline/customer/esp.aspx?q=unsubscribe). In addition, if you have received an email from J.Jill, you may also respond with the word "unsubscribe" in the subject line. 
 
-You may also [email us anytime](https://web.archive.org/jjillonline/customer/CustomerServiceForm.aspx), or contact us by phone at **1.800.343.5700** , or via the mail at the following address: 
+You may also email us anytime, or contact us by phone at **1.800.343.5700** , or via the mail at the following address: 
 
 J.Jill, Customer Preference Service,   
 P.O. Box 2006, 100 Birch Pond Drive,   
@@ -50,7 +50,7 @@ Tilton, NH 03276-9900.
 
 Please note, however, such requests may take up to 10 business days to process. 
 
-To request that we remove your name from our postal mailing lists or calling lists, please call **1.800.343.5700**. You can also [email us anytime](https://web.archive.org/jjillonline/customer/CustomerServiceForm.aspx), or write to us at: 
+To request that we remove your name from our postal mailing lists or calling lists, please call **1.800.343.5700**. You can also email us anytime, or write to us at: 
 
 J.Jill, Customer Preference Service,   
 P.O. Box 2006, 100 Birch Pond Drive,   
@@ -58,7 +58,7 @@ Tilton, NH 03276-9900.
 
 Please include your name, address and phone number or the mailing label from your catalog so that we can properly identify you. Please note, however, that you may receive additional mailings, but you can expect that to cease in 6—8 weeks. 
 
-If you do not want J.Jill to share information about you with non-affiliated companies, please call **1.800.343.5700**. You can also [email us anytime](https://web.archive.org/jjillonline/customer/CustomerServiceForm.aspx), or write to us at: 
+If you do not want J.Jill to share information about you with non-affiliated companies, please call **1.800.343.5700**. You can also email us anytime, or write to us at: 
 
 J.Jill, Customer Preference Service,   
 P.O. Box 2006, 100 Birch Pond Drive,   
