@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616034643id_/http%3A//www.pcutilitiespro.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018105022id_/http%3A//www.pcutilitiespro.com/en/privacy) for the most accurate reproduction.*
 
 # PC Utilities Pro - Privacy Policy
 
@@ -77,6 +77,6 @@ You as The User will always be notified should we decide to change this Policy s
 
 ## Feel Free To Contact Us!
 
-If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, please contact us through our [Contact Us](https://web.archive.org/web/20160616034643id_/http://www.pcutilitiespro.com/en/privacy/contact-us) page.
+If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, please contact us through our [Contact Us](https://web.archive.org/web/20161018105022id_/http://www.pcutilitiespro.com/en/privacy/contact-us) page.
 
 The PC Utilities Pro Software Limited Team!
