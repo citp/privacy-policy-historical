@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradinggame.com.au privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503112215id_/http%3A//tradinggame.com.au/faqs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradinggame.com.au privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018201939id_/http%3A//tradinggame.com.au/faqs/privacy) for the most accurate reproduction.*
 
 # Privacy
 
