@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpdeskpilot.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512172059id_/http%3A//www.helpdeskpilot.com/helpdesk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpdeskpilot.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018020016id_/http%3A//www.helpdeskpilot.com/helpdesk/privacy.php) for the most accurate reproduction.*
 
 # Support Ticketing Software, Help Desk System | Helpdeskpilot for Customer Support.
 
