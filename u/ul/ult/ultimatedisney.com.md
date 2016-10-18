@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedisney.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330094632id_/http%3A//www.dvdizzy.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedisney.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018130156id_/http%3A//www.dvdizzy.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - www.dvdizzy.com
 
