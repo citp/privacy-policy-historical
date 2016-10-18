@@ -1,87 +1,128 @@
-> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627130149id_/http%3A//www.immediate.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018144503id_/https%3A//factorymedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Immediate Media Co – The Special Interest Content and Platform Company
+# Privacy Policy - Factory Media
 
-Immediate Media Company Limited (‘Immediate’ or ‘we’) is committed to protecting your personal information when you are using our websites and applications (our ‘services’). Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998.
+This Privacy Policy (the ‘Policy’) forms part of the Terms and Conditions for the access and use of this Website (the ‘Terms’) and should be read in conjunction with the Terms. Your access and use of this Website and any information you provide on the Website remains subject to the terms of this Policy and to our Terms. This Policy may be updated from time to time and you should read it each time you use this Website to ensure that you are happy with it. If you do not accept the contents of this Policy and the Terms then please do not use this Website. By visiting this Website, you are accepting and consenting to the practices described in this policy, [terms](https://web.archive.org/about/terms) and [cookie policy](https://web.archive.org/about/cookies). 
 
-We collect and use different information depending on whether you are using our websites or mobile apps and this Privacy Policy explains how we use that information and in particular the following:
+This Policy provides information about the use and disclosure of personally identifiable information collected about you on the Website. We are committed to ensuring that your privacy is protected. 
 
-  * TYPES INFORMATION WE MAY COLLECT ABOUT YOU
-  * HOW WE LOOK AFTER YOUR INFORMATION
-  * HOW WE USE YOUR INFORMATION
-  * SHARING YOUR INFORMATION WITH OTHER PEOPLE
-  * YOUR RIGHTS AND FURTHER INFORMATION
+* * *
+
+  1. The minimum age for members is 13. Please do not try to become a member if you are younger than 13. If you are under 13 and have joined we will delete your information as soon as possible after learning this. Please advise us if you believe we have personal information relating to a person younger than 13. 
+
+Minors 13 years or older must ask their parents’ permission before providing personal information to us on the internet. Personal information placed on the Website will, subject to any privacy preferences set by you, be available on the internet. 
+
+* * *
+
+  2. You acknowledge that any personal details and material (videos, images, or other content) posted by you on the Website is published material and ceases to be private; such material is not considered to be personally identifiable information and is therefore not subject to this Policy. 
+
+This Policy only applies to this Website and our other Websites, but not to any external websites or other organisations, companies, individuals to which we provide links or any advertisers or merchants who use our Website. It does not apply to those external websites, applications, and entities which we do not control. 
+
+This Policy is concerned with governing the type of information and the manner in which we collect and store personal information about you and your use of the Website, the way that we use such information and the circumstances in which we will disclose information about you. 
+
+* * *
+
+  3. In order to register an account with us, you need to provide us with certain personally identifiable information (including your name, surname, date of birth, sex, email address, mobile phone number, IP address, country, address and postcode, sports interests, your activity on the Website (for website improvement purposes) and a profile image). We also ask you whether we can contact you with offers from us (and others) and in what ways we can communicate with you. You warrant that the personal information which you are required to provide when you register with us is true, accurate, current and complete in all respects. If any of the information you have provided to us changes, for example if you change your email address or name, or if you wish to cancel your registration, please email your new details to [admin.mpora.com](mailto:admin@mpora.com). 
+
+Once you are registered with us, you can participate in various activities on our Website, including, but not limited to posting messages in our forums or the video comments section, creating blogs, uploading pictures and/or videos, posting material on your profile, participating in surveys, entering competitions and taking advantage of promotions, subscribing to newsletters or other mailing lists. 
+
+When you register with us, you will have the option of opting in to receive various email subscription newsletters. We may also wish to provide you with information about special features of our Website or any other service or products we think may be of interest to you. If you would rather not receive this information, please log into your Mpora profile and unselect the unwanted newsletter or follow instructions on the bottom of any newsletter(s) received to unsubscribe. 
+
+* * *
+
+  4. When you visit our Website, we may send you one or more cookies to make the Website easier to use. Cookies are small text files that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognise your browser and to provide features such as automated login on your next visit. Cookies also enable us to personalise our content to your tastes based upon information that you have provided to us, such as an interest in a particular sport. Cookies in themselves do not contain any personal data, and can only be read and understood by the webserver that issued them. 
+
+You can set your browser so that it will not accept cookies, but some components of the Website may not function properly or efficiently if you cannot accept cookies. 
+
+When you visit our Website, our servers automatically record certain information that your web browser sends whenever it visits any sites. The information recorded will include your IP address, browser type, web request, URLs, domain names and other technical data. 
+
+We may also employ the use of other technologies to track the online usage pattern of our Users in our Website but such tracking will not be personally identifiable. 
+
+**  
+[Read more about our cookie policy](https://web.archive.org/about/cookies)  
+**
+
+* * *
+
+  5. If you register with us and submit any personally identifiable information to us, we will use your personal information to operate, maintain and provide you with the services and interactive functionality of our Website. 
+
+Any pictures/and or videos that you provide to us for uploading may be redistributed through the internet and other media and may be viewed by the public. 
+
+You can limit the spread of your personal information on the Website by opting out of the provision of some of your personal details. If you voluntarily disclose on the Website any personal information then this becomes publicly available and may be collected by others. 
+
+We may arrange with other websites and advertisers to share aggregate information and statistics for the purposes of monitoring usage of our Website to help us develop our Website and the services we offer. We may provide the aggregate information to third parties from time to time, but these statistics will not include personally identifiable information. 
+
+We will not sell your personal information to third parties without your consent; we will not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or unless you have specifically opted in to a particular feature, for example, a newsletter. 
+
+We may use your personal information for non-marketing, administrative purposes. 
+
+You can control how you share your personal information on the Website by opting out of the provision of some personal details. Other details such as your full name, username, country, sex, sports interests and date of birth (if you opt in to this) will be publicly available. If you remove or limit personal details later these may continue to appear elsewhere. When you click on links you will go to other site(s) and we are not and cannot be responsible for those sites. 
+
+* * *
+
+  6. The internet is not a secure medium. We have, however, put in place various security procedures to help to protect your personal information. Protection technologies we use include industry recognised firewalls, browser certification, password protection and limited access to personal information. 
+
+We keep your personal information confidential. Our internal procedures cover the storage, access and disclosure of your information. 
+
+We do not represent, warrant or guarantee the security of any information you transmit to us, and any transmission is carried out at your sole risk. Once we receive information we have our own security systems in place, but we do not represent or warrant or guarantee that such systems cannot be breached. Although we will take steps to protect your personal details and you have some options to limit these no security measures are perfect and we cannot promise that only authorised people will access your personal information 
+
+If our security systems have been breached, then we will take appropriate steps to remedy this and to notify you of any breach. 
+
+* * *
+
+  7. If any of the details you have provided to us change, then it is your responsibility to inform us of any such changes.
+
+* * *
+
+  8. We may provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
+
+We may share information that is not personally identifiable (such as anonymous User usage data) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on our Website. 
+
+We will disclose your personal data, personally identifiable information and your User activity and any other details if we are requested to do so by law or by any regulatory or governmental authority or by any law enforcement agency, or upon receipt of a court order or summons or a legitimate request by a third party (for example, the police) in investigating illegal activities to provide information concerning your activities on our Website. 
+
+We reserve the right to disclose information that we believe is appropriate or necessary to enforce our Terms, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to protect the security or integrity of our Website, and to protect our Users and our Users’ rights, property, or personal safety. 
+
+We do not provide any personally identifiable information to any advertisers, merchants or other Users. If you engaged with any advertisers, merchants or other Users on the Website, for example, in the Marketplace, then the terms in this Policy are not applicable to such arrangements and you should find out what privacy policies such third parties have in place. 
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who works for us or for one of our suppliers. Such staff may be engaged in, amongst other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. 
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. Please do not share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features with a view to preventing unauthorised access.
+
+* * *
+
+  9. We reserve the right to assign any data that we have collected about you to any third party purchaser. We may not be able to control how your personal information is treated, used or managed in the unlikely event that we become insolvent, subject to administration or enter receivership. In the event of a sale, transfer, reorganisation or other disposal, in whole or in part, your details may form part of the transferred business assets and as such may be shared with our advisors and any prospective purchasers and their advisors. 
+
+* * *
+
+  10. By submitting your information, you consent to the use of that information as set out in the Policy. The Policy may be revised periodically and we will give you notice of the details of new policy. 
+
+If we change our Policy we will post the changes on this page and may place notices on other pages of the Website. We will indicate at the top of this page the date the Policy was last amended. 
+
+* * *
+
+  11. The capture, storage and use of your data is governed by the Data Protection Act 1998. This Act also gives you the right to access information held about you. We are registered with the Information Commissioner’s Office as a Data Controller, with registration number Z1289659. Our registration can be confirmed by searching the Register of Data Controllers on the [www.ico.gov.uk](http://www.ico.gov.uk/) website. 
+
+Should you wish to obtain a copy of any personal data we have about you, please email us at privacy@factorymedia.com. We will provide you, with a readable copy of your personal data within 40 days of your request. The cost in most circumstances will be £10 per application. If the cost of processing your application is more than £10 we will notify you before proceeding. 
+
+Before we provide you with a copy of any personal data we retain about you, we may ask for proof of your identity. 
+
+If you consider that the information that we have about you is incorrect, incomplete or inaccurate, you must inform us promptly, so that we can make the necessary amendments. 
+
+If you have any queries regarding our Policy, please email your query to [privacy@factorymedia.com](mailto:privacy@factorymedia.com)
 
 
 
-Please note that our services may contain links to websites or apps that are owned and operated by third parties. These websites and apps will have their own privacy policies that govern the collection and use of your personal information which you should review. We are not responsible for the privacy practices of third party websites so your use of such websites is at your own risk.
 
-### **Types of information we may collect about you**
+##### Newsletter Terms & Conditions
 
-When you sign up to our services, such as our website forums, mobile applications, regular newsletters, enter competitions, buy a magazine subscription, order products or take up a reader offer we may ask for personal information about you. This can include information such as your name, e-mail address, postal address, telephone or mobile number or date of birth. Different services may ask for different types of information.
+Please enter your email so we can keep you updated with news, features and the latest offers. If you are not interested you can unsubscribe at any time. We will never sell your data and you'll only get messages from us and our partners whose products and services we think you'll enjoy.
 
-If you are aged 16 or under, you must get your parent/guardian’s permission before you provide us with your personal information. Unless you have this consent you are not allowed to give us your information.  
-Here is some more specific detail about the information we may collect:
+Read our full [Privacy Policy](https://factorymedia.com/privacy) as well as [Terms & Conditions](https://factorymedia.com/terms).
 
-  * **Information you give to us:  **information that you provide by filling in forms on our services. This includes information provided at the time of registering to use an app or website, subscribing to any services, posting material, filling in a survey or requesting further services. We may also ask you for information when you enter a competition or promotion and when you report a problem with our services. 
-  * **Information about your use of our websites:**  we may collect your IP address and use cookies on our websites. For full information about our use of cookies please see our [ **Cookies Policy**](http://www.immediate.co.uk/cookies-policy/). 
-  * **Information about the device you are using** : if you download one of our apps we may collect information about the device you use to access the app, including, where available, the device’s unique identifiers, operating system, browser type and mobile network information as well as the device’s telephone number, for system administration and to report statistical information to our advertisers.  
-  * **Information about your use of our app:**  We may also collect  information about your use of the app such as what pages you look at and what elements you tap or pages you interact with. 
-  * **Information about your location** : when you use one of our location-enabled services, we may collect information about your actual location but we will always ask you about this first. You can change your mind at any time by updating your preferences on your device. 
-  * **Information about transactions** : if you purchase something from us such as a magazine subscription or an app, we will make a record of the details of that transaction. 
-  * **Contact information** : if you contact us, we may keep a record of that correspondence;
+_Cookies help us deliver our services._ By using this website, you agree to our use of cookies. [ Learn More ](https://mpora.com/about/privacy)
 
+__**Accept**
 
-
-### **How we look after your information**
-
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (this includes the EU, Iceland, Norway and Lichtenstein). Your information will be processed by staff where it is necessary to fulfil an order, process payment details or provide you with other support services.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee its security and when giving us your information you do so at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-We will hold your information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with us. If you change your registration profile to opt-out of receiving communications from us, your record will stay on the system so we can ensure that we do not contact you in the future. If you wish to cancel your registration with any of Immediate’s websites, you may do so by contacting us using the details available in the ‘Contact Us’ section of the website or by emailing dataprotection@immediate.co.uk.
-
-## **How we use your information**
-
-We will use your information for a number of purposes including the following:
-
-  * to send you carefully selected special offers and promotions from the service you are using/title you have purchased and from Immediate Media Company Group by email, post, telephone, SMS or push notification (where applicable and permitted by the app store you use). You can opt-out of these marketing messages at any time by sending an email to privacy@immediate.co.uk, including your full name, user name (if applicable) postcode, details of the service you are using and/or magazine subscription information. Please note that it may take up to two weeks to implement this change in your preferences. You will always be given a straightforward way to opt out of our marketing messages each time you receive a communication from us.
-  * we may use your IP address to identify your location, the number of visits from different countries and also to block disruptive use;
-  * if we need to contact you for reasons related to the service you have signed up for e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance;
-  * to tell you about changes to our service;
-  * to contact you about a submission or contribution you have made to our websites, message boards or magazines, including any content you provide;
-  * to personalise or improve the way our content and advertising is presented to you online:
-  * to analyse and improve the services we offer e.g. to provide you with the most user-friendly navigation experience or the most relevant information;
-  * to manage our competitions and contact the winners;
-  * to meet product orders, requests for services or information and to process payments and any other requests you make of us;
-  * to keep our records up to date;
-  * to invite you to participate in surveys about our services (participation is always voluntary);
-  * to enable other people or businesses to carry out work on our behalf;
-  * where you have given us your permission, to pass your information to carefully selected organisations to allow them to tell you about their special offers or products and services that may be of interest to you.
-  * to ensure that any advertising you see is relevant to you.  Please see our [**Cookies Policy**](http://www.immediate.co.uk/cookies-policy/) for more information about this; and we may use third-party advertising companies to collect data and/or serve ads when you visit our websites or mobile apps.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites or mobile apps in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
-
-
-
-### **Sharing your information with others**
-
-Generally, we will only use your information within the Immediate Media Company group of companies in order to provide the service/product you have requested.
-
-We will only disclose your information to third parties (including Immediate Media Company group companies and other trusted companies) with your consent or where we need to do so in order to provide a service you have requested or improve the service and advertising that your receive (on both our websites and apps, and third party websites and apps). We will also disclose your information to third parties when the disclosure is required or permitted by law (for example to government bodies and law enforcement agencies). Please note that if you post or send offensive, inappropriate or objectionable content anywhere on our services, or otherwise engage in any disruptive behaviour, we may use your information to stop such behaviour. In this instance we may use your information to inform relevant third parties such as your employer, school e-mail/internet provider or law enforcement agencies about the content and your behaviour.
-
-We require all third parties with whom we share your information to treat it with the same protection we do. Unless you consent we also require that they do not use your information for their own business purposes.
-
-### **Your rights and further information**
-
-Under the Data Protection Act you have the right to request a copy of the information we hold about you and to have any inaccuracies corrected. We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files.
-
-This privacy policy may be updated from time to time so you should check it each time you submit information to any of our services. The date of the most recent revisions will appear at the bottom of this page.
-
-If you have any questions or comments about this privacy policy please contact:
-
-The Company Secretary, Vineyard House, 44 Brook Green, Hammersmith, London, W6 7BT, United Kingdom
-
-Tel: +44(0)20 7150 5000
-
-Email: [dataprotection@immediate.co.uk](mailto:dataprotection@immediate.co.uk)
-
-**Last updated: April  2015**
+production
