@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeetcentral.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418194512id_/https%3A//app.imeetcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeetcentral.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018211016id_/https%3A//app.imeetcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Collaboration Software
 
@@ -36,15 +36,7 @@ iMeet Central stores its servers in a highly secure server environment with 24 X
 
 We cannot guarantee the security of your data while it is being transmitted over the Internet and through servers that are out of our control. We strive to protect your personal information but iMeet Central cannot ensure or warrant the security of any information you transmit to our website or services. Any data transmissions you make over the internet are done so at your own risk. Once we receive the data transmission, we make our best efforts to ensure its security and privacy on our systems. 
 
-Safe Harbor  
-[ We self-certify compliance with  
-](https://safeharbor.export.gov/list.aspx) [ ](http://www.export.gov/safeharbor) iMeet Central complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. iMeet Central has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, iMeet Central commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact iMeet Central at: [privacy@imeetcentral.com](mailto:privacy@imeetcentral.com)
-
-iMeet Central has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by iMeet Central, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
-
 Further Questions  
 If you have further questions about our Privacy Policy, email us at [privacy@imeetcentral.com](mailto:privacy@imeetcentral.com) or via mail at Central Desktop Inc., 87 N Raymond Ave, Floor 6, Pasadena, CA 91103 USA.
 
-Last Updated: October 5, 2015
+Last Updated: September 29, 2016
