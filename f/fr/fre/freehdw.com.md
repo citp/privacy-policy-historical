@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehdw.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320005654id_/http%3A//freehdw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehdw.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018025730id_/http%3A//freehdw.com/privacy-policy) for the most accurate reproduction.*
 
 # Free HD desktop wallpaper and background image search
 
