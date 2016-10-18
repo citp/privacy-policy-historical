@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509153200id_/http%3A//www.holymoly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018192617id_/http%3A//www.holymoly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
