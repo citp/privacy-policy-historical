@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603095037id_/https%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018225308id_/https%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Fat Brain Toys Privacy Policy
 
-## Updated 2/24/2016
+## Updated 9/23/2016
 
   
 At Fat Brain Toys, your privacy and security are our number one priority. This Privacy Policy was created to inform you of the steps we take to maintain your privacy but also provide you with information on why we gather information from you, how we collect it, how we use it, and the choices you have regarding our use of personal information you have provided. 
@@ -23,7 +23,7 @@ We have relationships with third parties who may receive non-personal informatio
 
 Our website also uses a common web technology called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags (including third party tags) may be used to provide data to third parties for tracking purposes. However, our website does NOT use action tags to collect or transfer personal information. 
 
-**Email Addresses.** We do not sell, rent, share, or exchange our customers' email addresses (with the exception of the Norton Shopping Guarantee noted below), but we do use these addresses for our own promotional email marketing. You can opt out of receiving promotional emails at anytime. Instructions on how to opt out are included in every promotional email or you may opt out here: <https://www.fatbraintoys.com/optout.cfm>
+**Email Addresses.** We do not sell or rent our customers' email addresses to third parties (with the exception of the Norton Shopping Guarantee noted below), but we may use these addresses for our own marketing purposes. You can opt out of receiving promotional emails at anytime. Instructions on how to opt out are included in every promotional email or you may opt out here: [https://www.fatbraintoys.com/optout.cfm](https://web.archive.org/optout.cfm)
 
 **Norton Shopping Guarantee.** The Norton Shopping Guarantee is a free service that we provide from the security experts at Symantec to our customers to protect their purchase and protect them against identify fraud. In order for us to activate our customers for this no cost, no obligation program, we provide Symantec with your email address upon making a purchase. You will receive one email from Symantec detailing the benefits of this program. Complete details on this program can be found here: <https://www.nortonshoppingguarantee.com/shoppers/>
 
@@ -38,7 +38,7 @@ Our website also uses a common web technology called "action tags" (also called 
 **Contact Information**
 
 Fat Brain Toys  
-1405 N. 205th St., Ste. 120  
+201516 Nicholas Circle  
 Elkhorn, NE 68022  
 Phone: 402-779-3181  
 Fax: 402-779-3253  
