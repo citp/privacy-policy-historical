@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619065652id_/http%3A//www.myotcstore.com/store/pg/6-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018210506id_/http%3A//www.myotcstore.com/store/pg/6-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Myotcstore.com | Privacy Policy
 
