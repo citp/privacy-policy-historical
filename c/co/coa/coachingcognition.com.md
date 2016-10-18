@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachingcognition.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606170534id_/http%3A//www.coachingcognition.com/Policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachingcognition.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018173455id_/http%3A//www.coachingcognition.com/Policies.aspx) for the most accurate reproduction.*
 
 # Policies
 
