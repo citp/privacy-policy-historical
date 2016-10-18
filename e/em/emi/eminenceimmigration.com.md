@@ -1,39 +1,41 @@
-> *The following text is extracted and transformed from the eminenceimmigration.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011002435id_/http%3A//www.eminenceimmigration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eminenceimmigration.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018171620id_/https%3A//www.eminenceimmigration.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Eminence Immigration Visa Consultants Hyderabad
+# Privacy Policy – Eminence Immigration Visa Consultants
 
-Eminence Immigration is committed towards ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-  
-
-
-### What we collect
-
-We may collect the following information:
+We hold the Right to Priacy in extremely high regards. At Eminence Immigration, all our efforts have been duly directed towards safeguarding privacy for all. We are committed towards ensuring that the data and information provided by the clients are in accordance to the privacy statement followed by the organization. The information provided by the people to the website shall only be accessed by the concerned authorities.
 
   
 
 
-### Name and job title
+### Our Collection
 
-Contact information including email address.
-
-Demographic information such as postcode, preferences and interests.
-
-Other information relevant to customer surveys and/or services.
+We may collect the following details:
 
   
 
 
-### What we do with the information we gather
+### Name and Description of Job
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Contact information along with the email address.
+
+Occupation and fields of interest of the individual.
+
+Customer address and ZIP code.
+
+Supplementary information aiding the customer and delivering services.
 
   
 
 
-### Internal record keeping
+### Our work with the data collected
 
-We may use the information to improve our services.
+Our organization requires this information to recognize and figure out your requirements. A better understanding enables us to deliver outstanding services, and in particular for the following reasons:
 
-We may use the information to customise the website according to your interests.
+  
+
+
+### Maintaining Internal Record
+
+The information provided by our clients helps us to further upgrade and improve our serviceability.
+
+For a better customization of our online portal, which is in accordance to the customer’s area of interests.
