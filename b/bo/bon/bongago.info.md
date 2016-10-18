@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongago.info privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623025901id_/http%3A//bongago.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongago.info privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018183322id_/http%3A//bongago.info/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - Бонгаго
 
