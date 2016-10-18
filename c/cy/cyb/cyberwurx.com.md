@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberwurx.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323010206id_/https%3A//cyberwurx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberwurx.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019000805id_/https%3A//cyberwurx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cyber Wurx Hosting
+# Privacy Policy | Cyber Wurx Datacenter
 
 Cyber Wurx LLC and any subsidiaries of Cyber Wurx LLC recognize the importance of our customers trust. Keeping our customers’ personal information confidential is a top priority for Cyber Wurx LLC. Cyber Wurx will limit the collection and use of customer information to the minimum requirements needed to administer our products and services. Additionally Cyber Wurx adheres to the Safe Harbor Principles as set forth by the U.S. Department of Commerce and the European Union (EU) which can be found here: <http://export.gov/safeharbor/>
 
