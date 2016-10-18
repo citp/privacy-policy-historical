@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omghype.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203041647id_/http%3A//www.omghype.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omghype.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018213118id_/http%3A//omghype.com/privacy.php) for the most accurate reproduction.*
 
 # omghype.com Privacy Policy
 
