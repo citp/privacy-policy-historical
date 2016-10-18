@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the avsim.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401225457id_/http%3A//www.avsim.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avsim.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019002855id_/http%3A//www.avsim.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The AVSIM Community
-
-### AVSIM NOTAM
-
-Planning in progress for  **2nd Annual Tom Allensworth Memorial Flight**.  Seeking volunteers to help plan and coordinate and calling all simmers around the world to join in on a fly-in event with your fellow community members.  [Please head over to this forum post for more details](http://www.avsim.com/topic/481816-2nd-annual-tom-allensworth-memorial-flight-date-apr-16-tbd/).
-
-  
-
-
-## Privacy Policy
 
 Your privacy is important to us. However, much of the protection of your privacy is provided by you. If you post information in the forums or Private Messages to others, or in any number of other locations on AVSIM that robots and spammers can access, then there is not much we can do to protect you. Posting your email address or personal, identifiable informaton is not something we can correct for you quickly enough to prevent "bots" from grabbing it. Practice safe Interneting; don't post personal or identifiable information here or anywhere else for that matter.
 
@@ -18,9 +9,3 @@ Protecting the privacy of the very young is especially important to the AVSIM or
 
 **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences throughout the forums and elsewhere on the site. Cookies are not shared with any third parties.
-
-  1.  
-  2. [Privacy Policy](http://www.avsim.com/privacypolicy/)
-  3. [AVSIM's Terms of Service (ToS)](http://www.avsim.com/page/AVSIM%20Pages/terms_of_use.html) · 
-
-
