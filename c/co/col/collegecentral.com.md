@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320085752id_/https%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecentral.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018134640id_/https%3A//www.collegecentral.com/Privacy.htm) for the most accurate reproduction.*
 
 # College Central Network - Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy statement discloses the type of information College Central 
 
 College Central Network is committed to the responsible use and management of personal information of its registered users ("User" or "Users" or "you") and abides by all prevailing rules, both ethical and legal, with respect to the use of such information. We strictly adhere to all industry standard guidelines, and are continuously monitoring and enhancing how we manage the use and security of your information to uphold your rights.
 
-College Central Network's technology is utilized by over 700 college and university career and employment centers ("CCN Client Schools") to manage student, alumni and employer/recruiter data and to automate and web-enable their career/employment center functions and processes. In addition, job seekers attending thousands of colleges and universities that are not CCN Client Schools also use College Central Network's free, web-based services (collectively, the "CCN Site" or the "Site").
+College Central Network's technology is utilized by over 850 college and university career and employment centers ("CCN Client Schools") to manage student, alumni and employer/recruiter data and to automate and web-enable their career/employment center functions and processes. In addition, job seekers attending thousands of colleges and universities that are not CCN Client Schools also use College Central Network's free, web-based services (collectively, the "CCN Site" or the "Site").
 
 If a career/employment center is powered by CCN's technology and therefore is a CCN Client School, that CCN Client School has entered into a legal agreement with CCN, and that school's career/employment center staff and administrators will have the ability to access personal information from the CCN Site belonging to students and alumni of their respective schools, as well as information regarding the employers/recruiters who recruit at their schools. This access includes, without limitation, the ability to send emails to users and, only if authorized by you, to refer or forward your résumé and/or career portfolio to employers seeking to hire job seekers from their school.
 
