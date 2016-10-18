@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326092124id_/https%3A//samplesource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplesource.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018152515id_/https%3A//www.samplesource.com/privacy.php) for the most accurate reproduction.*
 
 # SampleSource.com - Free Samples - home, health, beauty, makeup, food, and more!
 
