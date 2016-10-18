@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627121201id_/http%3A//www.casesladder.com/moreinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igl.net privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019004705id_/http%3A//www.casesladder.com/moreinfo/privacy) for the most accurate reproduction.*
 
 # Case's Ladder: Case's Ladder
 
