@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatram.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607024439id_/http%3A//mediatram.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatram.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018075730id_/http%3A//mediatram.com/content/privacy) for the most accurate reproduction.*
 
 # MediaTram Privacy Policy
 
