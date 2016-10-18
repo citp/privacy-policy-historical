@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clareflorist.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615001832id_/http%3A//www.clareflorist.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clareflorist.co.uk privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018155720id_/http%3A//www.clareflorist.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Terms | Clare Florist
 
