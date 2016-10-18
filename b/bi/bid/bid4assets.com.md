@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320233151id_/https%3A//secure.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019015459id_/https%3A//secure.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Bid4Assets – the online auction marketplace for buying and selling high-value items
 
