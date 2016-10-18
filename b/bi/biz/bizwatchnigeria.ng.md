@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizwatchnigeria.ng privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092343id_/http%3A//bizwatchnigeria.ng/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwatchnigeria.ng privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018070130id_/http%3A//bizwatchnigeria.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BizWatchNigeria | Nigeria's foremost industry sector-based online news and business intelligence platform
+# Privacy Policy | BizWatchNigeria.Ng
 
 ## **Introduction**
 
