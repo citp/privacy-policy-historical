@@ -1,44 +1,129 @@
-> *The following text is extracted and transformed from the pl-line.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629082709id_/http%3A//pl-line.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pl-line.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019012545id_/http%3A//www.pl-line.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy , PL-LinePL-Line
+# Privacy Policy | PL-Line - Luxury Designer Fashion
 
-Privacy Statement. 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-PL-LINE, Dutch limited liability company, operates this web site. We regard the privacy and security of subscriber and user information as a critical component of our Services. The following information explains our information collection, dissemination and security processes.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-Registration.  
-When you access our web site, we may ask you to give us information about yourself (“Registration Data”).  
-Registration Data. We use Registration Data for provisioning a new Service, billing our customers, authorizing and authenticating users, researching and improving our Services, and contacting our subscribers and users. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address, mailing address, phone number or other details to help you with your experience.
 
-Cookies.  
-A cookie is a small amount of data which often includes an anonymous unique identifier that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Cookies are required to use our Services. We use non-permanent cookies that last for up to two weeks to record current session information. You are required to log in to our website after a certain period of time has elapsed to protect you against others accidentally accessing your account.
+**When do we collect information?**
 
-IP Addresses.  
-Your IP address is a number that is used by computers and servers on the Internet to identify your computer. Our web servers automatically collect your IP address as “traffic data” and so that we can send information back to you when you request it (e.g., web pages from the Service). We may store your IP address when during the registration or billing process in order to help identify or prevent fraudulent or illegal activities. We will only use your IP address in an attempt to identify fraudulent activity.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
 
-Referrers.  
-A referrer is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our web server as “traffic data”. We use this information to identify broad demographic trends that we may use to improve our products and Services. We will not personally identify you from this information.
+**How do we use your information?**
 
-System Information.  
-System information we collect as part of “traffic data” includes time, the type of web browser you use, and your operating system/platform. Your web browser automatically sends this information when you are connected to our web site. We use this information to identify broad demographic trends and to provide information appropriate for your computer system. We will not personally identify you from this information. 
+  
 
-Sharing of Information.  
-We believe that your personal data should only be seen by you unless you choose to share it with others. We will never sell, rent, license or exchange personally identifiable data with a third party, including advertisers or partners, without your permission. Some of your information may be shared on an aggregate basis only as a part of a larger set of statistics, but that information will not permit the recipient to identify you. As exceptions to the above commitment, we may disclose personally identifiable data without your permission if it necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. We may also transfer information about you if we are later acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy. Of course, the content you and your users create is visible to other users within your account.
 
-Other Web Sites and Links.  
-This web site may contain links to other web sites. The privacy practices of Braintree, the company that handles our merchant account and credit card information storage, are set forth at http://www.braintreepaymentsolutions.com/, are not covered by this privacy statement, and we are not responsible for their privacy practices or the content of their web site.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Security, Data Rights and Data Storage.  
-Information we collect is stored in secure operating environments that are not available to the public. All of our owners, partners, employees, and agents are dedicated to maintaining and upholding your privacy and security and are knowledgeable of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to our Service, and you do so at your own risk. Once we receive your transmission, we make commercially reasonable efforts to ensure its security on our systems. We use third-party vendors to provide the necessary hardware, software, networking, storage, and related technology required to run our site and provide our Services. Although we own the code, databases, and all rights to our applications, you retain all rights to your data.
+**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Opt-Out and Discontinue.  
-You may elect to avoid future communications from us by visiting our URL to immediately unsubscribe from our unsubscribe page. Under urgent circumstances, we may be required to send you information about our Service or your account, but we will not send you unsolicited communications regarding commercial offers or advertisements if you have opted out or discontinued the service.
+**•** To improve our website in order to better serve you.
 
-Update/Edit. Registered users may edit their previously entered account and personal information by logging in with their user ID and password at the “My Profile” link at the top of the registration page.
+**•** To allow us to better service you in responding to your customer service requests.
 
-Modification of Privacy Policy.  
-We reserve the right to change or update our Privacy Policy at any time by posting a notice on our website.
+**•** To quickly process your transactions.
 
-Contact Us. If you have any questions regarding this Privacy Policy please contact us using our support request form.
+**•** To send periodic emails regarding your order or other products and services.
 
-Version 1 – September 23rd, 2011
+**•** To follow up with them after correspondence (live chat, email or phone inquiries)
+
+**How do we protect visitor information?**
+
+  
+
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We only provide articles and information. We never ask for personal or private information like names, email addresses or credit card numbers.
+
+We use regular Malware Scanning.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+**Do we use 'cookies'?**
+
+We do not use cookies for tracking purposes
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+**Third-party disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third-party links**
+
+We do not include or offer third-party products or services on our website.
+
+**Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+**•** Demographics and Interests Reporting
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we do not allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via in-site notification
+
+**•** Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from **ALL** correspondence.
