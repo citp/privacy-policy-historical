@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229033037id_/https%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zendesk.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018172416id_/https%3A//www.zendesk.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zendesk
 
@@ -173,7 +173,7 @@ Non-English translations of this Policy are provided for convenience only. In th
 
 **Compliance** **and Safeguar** **ding Your Information**
 
-[](https://privacy.truste.com/privacy-seal/Zendesk,-Inc-/validation?rid=1047cf62-1ba0-48ce-aa09-4adf72432822 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=72b0f108-5766-4722-abea-9705e670c23f "TRUSTe Privacy Certification")
 
 **TRUSTe.** To view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe certification covers our collection, use and disclosure of information we collect through our Websites: [www.zendesk.com](https://www.zendesk.com/) and [www.zopim.com](http://www.zopim.com/) and our Services. The use of information collected through our Services shall be limited to the purpose of providing the Services for which the subscriber has engaged us or as otherwise disclosed in this Policy.
 
