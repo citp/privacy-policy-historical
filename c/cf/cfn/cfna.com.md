@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cfna.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914164942id_/https%3A//www.cfna.com/cfna-fastload-content/images/personalservices/documents/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfna.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018174046id_/https%3A//www.cfna.com/cfna-fastload-content/images/personalservices/documents/privacy_notice.pdf) for the most accurate reproduction.*
 
-# 
+# FACTS
 
-                                                                                                               Rev. 10/2012
+                                                                                                              Rev. 10/2015
                         WHAT DOES CREDIT FIRST NATIONAL ASSOCIATION
  FACTS                  DO WITH YOUR PERSONAL INFORMATION?
                         Financial companies choose how they share your personal information. Federal law gives
@@ -77,7 +77,7 @@ Affiliates                                        Companies related by common ow
                                                   financial and nonfinancial companies.
                                                       Our affiliates include companies with a Bridgestone and Firestone
                                                        name, and nonfinancial companies such as Tires Plus, Wheel
-                                                       Works, Expert Tire, and Hibdon Tire.
+                                                       Works, and Hibdon Tire.
 Nonaffiliates                                     Companies not related by common ownership or control. They can be
                                                   financial and nonfinancial companies.
                                                       Nonaffiliates we share with can include independent retailers,
@@ -93,7 +93,7 @@ companies. See the notice titled "IMPORTANT PRIVACY CHOICES FOR CONSUMERS.” If
 California or Vermont, we do not disclose your personal information for nonaffiliates to market to you. If your billing
 address is in Vermont, we do not disclose information about your creditworthiness for our affiliates’ everyday business
 purposes or to market to you.
-                                                                                                                 CFNA 10/2012
+                                                                                                             CFNA 10/2015
 
 
 PRIVACY AND THE USE OF THIS WEBSITE:
@@ -126,7 +126,7 @@ This Site automatically collects information pertaining to your access. Such inf
 (An IP address indicates the location of your computer on the Internet.) CFNA does not link an IP address to any
 personally identifiable information.
 6. Changes to This Policy
-This Privacy Policy is effective as of October 1, 2010, and updates and replaces any previous Privacy Policy for this Site.
+This Privacy Policy is effective as of October 1, 2015, and updates and replaces any previous Privacy Policy for this Site.
 If we decide to change or update this Privacy Policy, we will post the revised Privacy Policy on this Site so that you will
 always be aware of what information we collect, use and distribute. Changes are effective when posted on this Site. You
 should review this Privacy Policy from time to time to be aware of any such changes. Your continued use of this Site
@@ -157,17 +157,17 @@ you are notified and provided an opportunity to change your preferences.
 This Site incorporates various physical, electronic and administrative procedures to safeguard the confidentiality of your
 personal information. Access to your personal information is restricted. Only employees who need access to your
 personal information to perform a specific job are granted access to your personal information.
-11. User ID and Password
-Many areas of this Site require that you log in with the use of a User ID and Password as an additional security measure
-that helps protect your confidential information. This allows CFNA to verify who you are thereby allowing you access to
-your account information and preventing unauthorized access.
+11. User Name and Password
+Many areas of this Site require that you log in with the use of a User Name and Password as an additional security
+measure that helps protect your confidential information. This allows CFNA to verify who you are thereby allowing you
+access to your account information and preventing unauthorized access.
 When you have finished using a secure area of this Site, you should always click on the "Log Out" link that appears on
 each secure page. By logging out you will end your secure session. No further secure transactions can be conducted
-without re-entering your User ID and Password.
+without re-entering your User Name and Password.
 12. Caching
 You should be aware that browser software often "caches" a page as you look at it, meaning that some pages are saved
 in your computer's temporary memory. Therefore, you may find that clicking on your "Back" button shows you a saved
-version of a previously viewed page. Caching in no way affects the security of your confidential User ID or Password. If
+version of a previously viewed page. Caching in no way affects the security of your confidential User Name or Password. If
 you use a computer in a public place to access your account information, simply quit/exit the browser software before
 leaving to minimize the possibility of anyone else viewing your confidential information.
 13. Linked Sites and Framed Pages
