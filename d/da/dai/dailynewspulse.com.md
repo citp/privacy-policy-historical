@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynewspulse.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502000909id_/http%3A//dailynewspulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynewspulse.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018215228id_/http%3A//dailynewspulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily New Pulse
 
