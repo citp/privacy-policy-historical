@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122043940id_/https%3A//www.weightwatchers.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018043532id_/https%3A//www.weightwatchers.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weight Watchers UK
 
@@ -58,12 +58,18 @@ You do not have to provide us with any Personally Identifiable Information to vi
 
 When you become a community user of our Website, subscribe to one of our current Internet Products, or in connection with other Internet Products we may make available on our Website from time to time, we also may collect information that by itself cannot be used to identify or contact you, such as demographic information (like age, profession or gender) and health information (like current weight) ("Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. Non-Personally Identifiable Information is used to help us understand who uses our Website and to improve and market our Website in general and our Internet Products in particular.
 
-####  Information from Other Sources   
+####  Information from Other Sources  
+
+
+####    
 
 
 We may also supplement the information we collect with information from other sources to assist us in evaluating and improving our Website and Internet Products, to determine your preferences so that we can tailor our Website and Internet Products to your needs, and/or to study nutritional, weight loss, behavioural and fitness questions in general.
 
-###  WHO OPERATES THIS WEBSITE AND WHERE ARE OUR SERVERS LOCATED?   
+###  WHO OPERATES THIS WEBSITE AND WHERE ARE OUR SERVERS LOCATED?  
+
+
+###    
 
 
 This website is operated by WeightWatchers.co.uk Limited, a company incorporated in England and Wales (company registration no. 04354837) and its registered office is at Third Floor, Hines Meadow, St. Cloud Way, Maidenhead, Berkshire, SL6, 8XB, United Kingdom. When you provide us with your Personally Identifiable Information, you acknowledge that this information may be stored and processed on servers located outside the European Economic Area ("EEA") and you consent to your Personally Identifiable Information being exported outside the EEA and being stored and processed at our discretion on any of our servers wherever located.
@@ -76,12 +82,15 @@ We may collect information (including information that is Personally Identifiabl
 ####  Becoming a Community User and Subscriber  
 
 
+####    
+
+
 In order to access certain Internet Products on our Website, such as Community Areas, weight loss tools and food database, you must first complete certain steps to become either a community user or a subscriber. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as name, postcode and email address, and, if you subscribe to one of our Internet Products, credit card and billing information. This information is used to help us understand who uses our Website, to improve our Website and our Internet Products, to contact users about requested Internet Products and/or for subscription billing purposes. It is optional for you to provide demographic information (such as profession and number of children), but providing this information is encouraged so we can provide a more personalised experience on our Website.
 
 ###  HOW DOES OUR WEBSITE USE COOKIES?  
 
 
-This section of our Privacy Policy contains information on what “cookies” are, the cookies used by this website, how to switch cookies off in your browser, how to specifically disable third party advertising cookies, and some useful links for further reading. If you do not see the information you were looking for, or you have any further questions about the use of cookies on this site, please email [uk.legal@weightwatchers.co.uk](mailto:uk.legal@weightwatchers.co.uk).
+This section of our Privacy Policy contains information on what “cookies” are, the cookies used by this website, how to switch cookies off in your browser, how to specifically disable third party advertising cookies, and some useful links for further reading. If you do not see the information you were looking for, or you have any further questions about the use of cookies on this site, please email [legal@weight-watchers.co.uk](mailto:legal@weight-watchers.co.uk).
 
 ####  What Are Cookies?  
 
@@ -194,12 +203,18 @@ We feature public forums such as those contained in the Community Areas where yo
 
 We also collect Non-Personally Identifiable Information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Website. This information may be used to analyse trends, to administer the Website, to monitor our Website's use, and to gather general demographic information. We may link this information to Personally Identifiable Information for these and other purposes such as personalizing your experience on our Website and evaluating our Internet Products in general.
 
-####  Email a Friend   
+####  Email a Friend  
+
+
+####    
 
 
 Through our Email a Friend tool on our Website, we will automatically send your friend a one-time email containing the information you request to be sent. If you elect to use the Email a Friend tool, we will collect from you Personally Identifiable Information about your friend which you have provided, such as your friend's name and email address. We recommend, however, that you make sure that your friend wants to receive emails from you regarding materials on our Website.
 
-###  DO WE COLLECT INFORMATION FROM CHILDREN?   
+###  DO WE COLLECT INFORMATION FROM CHILDREN?  
+
+
+###    
 
 
 We are committed to protecting the privacy of children. Our Website and Internet Products are not designed for or directed to individuals under the age of 18. We do not collect Personally Identifiable Information from any person we actually know is under the age of 18. We urge all parents or guardians to participate in their children's exploration of the Internet, and to teach their children about protecting their personal information while online.
@@ -245,12 +260,18 @@ We may employ independent contractors, vendors and suppliers (collectively, "Out
 
 In addition, through our Website, you may be given the opportunity to purchase (or to obtain more information regarding) certain content, products or services which are sold through a person or company other than us or our Affiliates (collectively, "Third Party Sellers"). We will attempt to make it clear to you when you are dealing with a Third Party Seller by opening a new browser or otherwise notifying you that you are leaving our Website. For example, if you see a phrase such as "powered by" or "brought to you by" followed by the name of a person or company other than WeightWatchers.co.uk, then you are likely on, or about to enter, a website hosted or operated by a person or company other than us. Third Party Sellers may request that you submit certain information to them in order to purchase their products or services or to obtain additional information from them. You do not need to submit this information or purchase any products or services from Third Party Sellers to access our Website. By submitting the requested information, you affirmatively consent to have that information shared with the Third Party Seller. This information is used by the Third Party Seller and may be subject to a different privacy policy. We do not otherwise share or disclose your Personally Identifiable Information to Third Party Sellers.
 
-####  Sale of Business   
+####  Sale of Business  
+
+
+####    
 
 
 We reserve the right to transfer information (including your Personally Identifiable Information) to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of any of us or our Affiliates provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
-###  DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES? ****  
+###  DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES?  
+
+
+###  ****  
 
 
 Our Website contains links to other websites not owned or operated by WeightWatchers.co.uk (for example, if you "click" on a banner advertisement, you will likely be taken off our Website), including links to websites operated by franchisees of Weight Watchers International, Inc. We will attempt to make it obvious to you when you leave our Website and enter these websites by opening a new browser or otherwise notifying you that you are leaving our Website. However, please be aware that we are not responsible for the privacy practices of such websites. We encourage you to be aware when our Website links to other websites and to read the privacy policies or statements of each and every website. This Privacy Policy applies solely to information collected by our Website.
@@ -262,7 +283,10 @@ We want your information (including Personally Identifiable Information) to rema
 
 Notwithstanding the above commitments to protect your information (including Personally Identifiable Information) from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
 
-###  WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION? ****  
+###  WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION?  
+
+
+###  ****  
 
 
 Except as otherwise described in this Privacy Policy, we will only use Personally Identifiable Information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt-in" and give us permission to use your Personally Identifiable Information for any other purpose. You may change your preference and "opt-out" of receiving communications by changing that option in the My Profile feature of our Website, following the directions provided in association with the communication, or by contacting our Privacy Coordinator at the address set out below.
@@ -276,7 +300,10 @@ You can always contact us in order to (1) update or correct your Personally Iden
 
 You should be aware that it is not technologically possible to remove or verify each and every record of the information you have provided to us from our systems. The need to back-up our systems to protect information from inadvertent loss means that a copy of your Personally Identifiable Information may exist in a non-erasable form that will be difficult or impossible for us to locate. We promise that promptly after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted as appropriate, as soon as reasonably practicable.
 
-###  WHAT HAPPENS TO THE COLLECTED PERSONALLY IDENTIFIABLE INFORMATION AFTER TERMINATION OF MY PAID SUBSCRIPTION? ****  
+###  WHAT HAPPENS TO THE COLLECTED PERSONALLY IDENTIFIABLE INFORMATION AFTER TERMINATION OF MY PAID SUBSCRIPTION?  
+
+
+###  ****  
 
 
 Upon termination or cancellation of your paid subscription, you will remain a community user of our Website unless you specifically request otherwise. We will continue to store certain Personally Identifiable Information in particular to enable us to draw on these data to provide you with ongoing access to your community user account and in the event you should re-subscribe to our Website. In the event you have any objection to this, you should submit your objection to us via email to [privacy@weightwatchers.co.uk](mailto:privacy@weightwatchers.co.uk). In such case, we will delete or make anonymous your Personally Identifiable Information.
@@ -284,7 +311,9 @@ Upon termination or cancellation of your paid subscription, you will remain a co
 ###  HOW WILL I KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY?  
 
 
-If we decide to change this Privacy Policy, we will post those changes on our Website so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use Personally Identifiable Information in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you, at the time it was collected, we will notify you by email or otherwise, and you will have a choice as to whether or not we use your Personally Identifiable Information in the new manner. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website.
+If we decide to change this Privacy Policy, we will post those changes on our Website so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. 
+
+If at any point we decide to use Personally Identifiable Information in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you, at the time it was collected, we will notify you by email or otherwise, and you will have a choice as to whether or not we use your Personally Identifiable Information in the new manner. We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your Personally Identifiable Information. If you do not agree to the terms of this Privacy Policy, you should not use our Website.
 
 ###  WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?  
 
@@ -292,7 +321,7 @@ If we decide to change this Privacy Policy, we will post those changes on our We
 If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Co-ordinator in any of the following ways:
 
 Email our Privacy Coordinator at:  
-[uk.legal@weightwatchers.co.uk](mailto:uk.legal@weightwatchers.co.uk)
+[legal@weight-watchers.co.uk](mailto:legal@weight-watchers.co.uk)
 
 Or, write to our Privacy Co-ordinator at:  
 WeightWatchers.co.uk Limited  
