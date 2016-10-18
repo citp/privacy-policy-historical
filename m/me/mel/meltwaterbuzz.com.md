@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meltwaterbuzz.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630185226id_/http%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltwaterbuzz.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019014831id_/https%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Meltwater
 
@@ -101,7 +101,7 @@ If you have any questions about this policy or the use of your personal informat
 
 ## Cookie Statement
 
-At Meltwater, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and helping protect the security of your information. The purpose of this cookie statement (“Statement”) is to help you better understand how and why we gather, store and process information collected from you automatically through cookies and other tracking technologies (collectively, “cookies”) when you use a Meltwater website, including, [www.meltwater.com](http://www.meltwater.com/) (“Site”). In this Statement, we also identify your options regarding the use of cookies and the information collected through cookies.
+At Meltwater, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and helping protect the security of your information. The purpose of this cookie statement (“Statement”) is to help you better understand how and why we gather, store and process information collected from you automatically through cookies and other tracking technologies (collectively, “cookies”) when you use a Meltwater website, including, [www.meltwater.com](https://www.meltwater.com/) (“Site”). In this Statement, we also identify your options regarding the use of cookies and the information collected through cookies.
 
 Visiting or using this website with your browser settings adjusted to accept cookies tells us that you want to use our products and services and that you consent to our use of cookies and other technologies as described in this notice. Should you have any questions regarding our privacy policy, please [contact us](mailto:privacy@meltwater.com).
 
