@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycostcutters.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511232905id_/http%3A//babycostcutters.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycostcutters.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018232056id_/http%3A//babycostcutters.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Baby Costcutters
 
