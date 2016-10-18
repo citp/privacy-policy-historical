@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtmark.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608135225id_/http%3A//rtmark.net/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtmark.net privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018223352id_/http%3A//rtmark.net/index.html) for the most accurate reproduction.*
 
 # 
 
@@ -38,7 +38,7 @@ We use technology, which includes cookies, in the delivery of our Services. We b
 
 You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising. You can remove cookies by following directions provided in your Internet browser’s "help" file. 
 
-You may also simply opt out of receiving interest-based advertising by clicking [here](https://web.archive.org/web/20160608135225id_/http%3A//rtmark.net/optout.html). 
+You may also simply opt out of receiving interest-based advertising by clicking [here](https://web.archive.org/web/20161018223352id_/http%3A//rtmark.net/optout.html). 
 
 Our opt-out cookies are programmed to expire two years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain. 
 
