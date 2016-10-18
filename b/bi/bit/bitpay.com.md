@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505053510id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018082441id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BitPay
 
@@ -43,13 +43,19 @@ We may collect information about a visitor’s computer or other access devices 
 
 We may use this information for risk-management purposes (i.e. to verify merchant’s identity or address). We may also obtain information about our merchants from third parties such as credit bureaus and identity verification services. We ensure that such third parties adhere to the same data protection principles as BitPay.
 
-  3.  **Shoppers of merchants** : only upon the merchant’s explicit request, we will collect and store personal information for the merchant’s benefit only and as a service through our invoicing service. Information that merchants may request from the shoppers may include:
+  3.  **Shoppers of merchants** : when a Shopper overpays or underpays an invoice created by a BitPay merchant, the Shopper will be requested to fill in the following:
+    * Email address
+
+This information is requested since it will enable our system to send an email to Shoppers directly to obtain a bitcoin refund address in case of a payment exception (e.g. overpayments, underpayments, etc.). This creates a more seamless payment experience for both our Merchants and their Shoppers. 
+
+Additionally, only upon the merchant’s explicit request, we will collect and store personal information for the merchant’s benefit only and as a service through our invoicing service. Information that merchants may request from the shoppers may include: 
+
     * Name
     * Address
     * Phone
-    * E-mail address
+    * Email address
 
-Shoppers’ information is processed and stored according to the same principles we store our merchant’s personal information.
+In both cases mentioned above, Shoppers’ information is processed and stored according to the same principles we store our merchant’s personal information.
 
 
 
