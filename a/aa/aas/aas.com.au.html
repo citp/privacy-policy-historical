@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the aas.com.au privacy policy that was archived on 2016-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160330181549id_/http%3A//www.aas.com.au/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aas.com.au privacy policy that was archived on 2016-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161018133338id_/http%3A//aas.com.au/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>AAS</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,20 +15,20 @@
 <link rel="shortcut icon" href="#" type="image/vnd.microsoft.icon">
 
 <!-- Scripts -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="js/Placeholders.js"></script>
 <script src="js/jquery.bxslider.js"></script>
 <script src="js/jquery.backstretch.min.js"></script>
 <script src="js/custom.js"></script>
-
+<script src="https://www.google.com/recaptcha/api.js"></script>
 <!-- Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-60706442-x', 'auto');
+  ga('create', 'UA-5253326-179', 'auto');
   ga('send', 'pageview');
 </script>
 </head>
@@ -64,7 +64,7 @@ administration specialist. We provide one of the most comprehensive fund adminis
                                             <ul class="sub-nav four columns">
                                                 <li><a href="/about-us.html#our-history" class="sub-ourhistory">Our history</a></li>
                                                 <li><a href="/about-us.html#our-people" class="sub-ourpeople">Our people</a></li>
-                                                <li><a href="/about-us.html#executive-team" class="sub-executiveteam">Executive team</a></li>
+                                                <li><a href="/about-us.html#executive-team" class="sub-executiveteam">Senior leaders</a></li>
                                                 <li><a href="/about-us.html#clients" class="sub-clients">Clients</a></li>
                                                 <li><a href="/about-us.html#link-group" class="sub-linkgroup">Link Group</a></li>
                                             </ul>
@@ -98,7 +98,7 @@ administration specialist. We provide one of the most comprehensive fund adminis
                                 </div>
                             </li>
                             <li>
-                                <a href="/contact-us.html">Contact us</a>
+                                <a href="/contactus">Contact us</a>
                             </li>
                         </ul>
 						<ul class="mobile-nav">
@@ -153,7 +153,7 @@ administration specialist. We provide one of the most comprehensive fund adminis
                                 </div>
                             </li>
                             <li>
-                                <a href="/contact-us.html">Contact us</a>
+                                <a href="/contactus">Contact us</a>
                             </li>
                         </ul>
                     </div>
@@ -262,7 +262,7 @@ administration specialist. We provide one of the most comprehensive fund adminis
                 <a class="sub-ourpeople" href="/about-us.html#our-people">Our people</a>
               </li>
               <li>
-                <a class="sub-executiveteam" href="/about-us.html#executive-team">Executive team</a>
+                <a class="sub-executiveteam" href="/about-us.html#executive-team">Senior leaders</a>
               </li>
               <li>
                 <a class="sub-clients" href="/about-us.html#clients">Clients</a>
@@ -298,7 +298,7 @@ administration specialist. We provide one of the most comprehensive fund adminis
           <div class="three columns">
             <ul>
               <li>
-                <b><a href="/contact-us.html">Contact us</a></b>
+                <b><a href="/contactus">Contact us</a></b>
               </li>
               <li>
                 <b>
@@ -312,13 +312,18 @@ administration specialist. We provide one of the most comprehensive fund adminis
           </div>
         </div>
         <div class="row footer-bottom">
-          <p>
-            Part of <a href="http://linkgroup.com/"><b>Link Group</b></a>&nbsp;| Fund Administration
-          </p>
-          <p>© Copyright 2016 Australian Administration Services</p>
+          <p>Part of <a href="http://linkgroup.com/"><b>Link Group</b></a> | Fund Administration</p>
+          <p id="copyright"></p>
         </div>
       </div>
     </div>
+
+    <script type="text/javascript">
+      var elm = document.getElementById("copyright");
+      if (elm) {
+      elm.innerHTML = '© Copyright ' + GetCurrentYear() + ' Australian Administration Services';
+      }
+    </script>
 
   </footer>
   <!-- FOOTER END -->
