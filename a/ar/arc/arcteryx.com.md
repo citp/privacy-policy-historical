@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211053021id_/http%3A//arcteryx.com/Privacy.aspx%3FEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018155505id_/http%3A//www.arcteryx.com/Privacy.aspx%3Flanguage%3DEN) for the most accurate reproduction.*
 
 # Privacy Policy / Arc'teryx
+
+Print Privacy Policy
 
 Arc’teryx Equipment a Division of Amer Sports Canada Inc. is a worldwide leader in the performance soft goods industry.
 
@@ -83,7 +85,7 @@ In case you wish to know what personal data we hold about you or you wish to rep
 
 Please note that Arc’teryx may need to identify you and to ask for additional information in order to be able to fulfill your above request. Please also note that applicable law may contain restrictions and other provisions that relate to your above rights.
 
-## The Controller of Your Personal Data and Contact Deatails
+## The Controller of Your Personal Data and Contact Details
 
 Privacy Officer at Arc'teryx, Suite 110, 2220 Dollarton Highway, North Vancouver, British Columbia Canada V7H 1A8, by e-mail at [privacy@arcteryx.com](mailto:privacy@arcteryx.com) or by telephone at . 
 
