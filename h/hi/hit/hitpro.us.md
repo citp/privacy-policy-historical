@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitpro.us privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113105013id_/http%3A//hitpro.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitpro.us privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018160325id_/http%3A//www.hitpro.us/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,8 +7,8 @@
 |   
 ---|---  
   
-[](https://web.archive.org/web/20160113105013id_/http%3A//hitpro.us/search-engine-submission-list.asp)  
-[**List of search engines**](https://web.archive.org/web/20160113105013id_/http%3A//hitpro.us/search-engine-submission-list.asp)
+[](https://web.archive.org/web/20161018160325id_/http%3A//www.hitpro.us/search-engine-submission-list.asp)  
+[**List of search engines**](https://web.archive.org/web/20161018160325id_/http%3A//www.hitpro.us/search-engine-submission-list.asp)
 
 | 
 
