@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunshine.co.uk privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317080706id_/https%3A//www.sunshine.co.uk/Sunshine-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshine.co.uk privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018125041id_/https%3A//www.sunshine.co.uk/Sunshine-Privacy.html) for the most accurate reproduction.*
 
 # Sunshine Privacy Policy
 
