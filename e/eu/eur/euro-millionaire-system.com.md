@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euro-millionaire-system.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510221517id_/http%3A//www.euro-millionaire-system.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euro-millionaire-system.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019080351id_/http%3A//euro-millionaire-system.com/privacy-policy) for the most accurate reproduction.*
 
 # EuroMillionaireSystem
 
