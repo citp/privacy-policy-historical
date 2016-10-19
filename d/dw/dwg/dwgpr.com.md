@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwgpr.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220082706id_/http%3A//dwgpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwgpr.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019062740id_/http%3A//dwgpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dwgpr.com
 
@@ -43,6 +43,3 @@ F: Content that related to video downloading or converting are not allowed, susp
 G: No content that is illegal, promotes illegal activity, or infringes on the legal rights of others.
 
 Dwgpr.com has the right to change the policy at any time. Policy changes will be posted in time to notify you and provide you with the ability to opt out of these new uses. To keep up-to-date with Dwgpr-com’s policy, please check this page periodically.
-
-
-
