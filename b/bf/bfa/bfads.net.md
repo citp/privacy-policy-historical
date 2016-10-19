@@ -1,60 +1,89 @@
-> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052956id_/http%3A//www.bfads.net/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019022624id_/http%3A//www.bfads.net/Legal) for the most accurate reproduction.*
 
 # Black Friday Ads - Legal Information and Privacy Policy
 
-  
+This website, [www.bfads.net](https://www.bfads.net/) ("BFADs"), is owned and operated by Ebates Inc. (Ebates or we). Ebates takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. Please read this policy carefully before sharing any personally identifiable information described below. This policy applies solely to the web site and service located at www.bfads.net (the Service).
 
+For questions or concerns relating to privacy, we can be contacted at:
 
-## Internet User Privacy
+525 Third Street Suite C  
+Beloit, WI 53511 
 
-**Collection of Data**
+or through our [ Online Support System](https://web.archive.org/Contact)  
+or you can reach us by telephone at (888) 634-0098, or fax (888) 299-2752. 
 
-**Personal Information Submitted By You.** We collect Personal Information you provide to us for purposes of [1] signing up for our Black Friday Ads mailing list, [2] filling out and submitting one of our polls, surveys, etc., [3] participating in one of our contests, [4] your general use of the Site such as your participation in the Forums, [5] Account registration for the purposes of creating a shopping list. The Personal Information supplied will only be used explicity for the sole purpose that the user submitted the Personal Information.
+## TRUSTe Scope
 
-We collect non-personally identifiable information, for example, browser type, operating system, domain name, time spent on the web site, or referring link. This information may be used for system, website, and process improvements.
+The TRUSTe program covers only information that is collected through this website, www.bfads.net, and does not cover information that may be collected through software downloaded from the website. 
 
-**We do not sell or rent personally identifying information.** This site does not disclose personally identifying information to anyone that is not authorized to do so. This site uses anonymous user data to create and report the browsing, purchasing and/or lead form completion activities of anonymous users.
+In order to view our relationship with TRUSTe, please visit the validation page visibile by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
-This site reserves the right to release information on Internet Users if compelled to do so by proper judicial or governmental authorities. Disclosure shall be limited to only to those we are compelled to disclose to. At present, all information processing occurs in the United States.
+### Collection of Personally Identifiable Information
 
-## Mailing List Subscriptions and Opting Out
+In order to use certain portions of the Service, you may be asked for, or you may choose to provide, certain personally identifiable information (PII) such as name, email address, and similar information. We will not collect PII from you while you use the Service unless you voluntarily provide it to us or authorize us to collection such information.
 
-**We will never share your email address with any third party,** unless required to do so by proper judicial or govermental authorities, as stated above.
+You authorize us to receive any account information from any affiliated merchant including, but not limited to, information regarding any purchase made by you through utilization of the Service, such as: the products ordered, the order number, the time and date of the purchase, the email address entered for the purchase.
 
-To discontinue receiving mailing list newsletters from us, click the unsubscribe link at the bottom of any email we send you, or send an email with your request to [webmaster@bfads.net](mailto:webmaster@bfads.net).
+### Collection on Non-Personally Identifiable Information
 
-## Collection of Information by Third-Party Sites
+As is true of most websites, we gather certain information automatically. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-This site contains links to other Internet websites and has no control or authority over the information submitted/collected by these third party website(s). Please refer to the respective Privacy Policy of the individual third party website(s). 
+Ebates and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. 
 
-## Use and Disclosure of Data
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt-out of interest-based advertising click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
-**Spam**
+### Use of Personally Identifiable Information
 
-This site does not intentionally send unsolicited e-mail messages that could legitimately be construed as spam. If a message appears to be spam, please report the offending email to [webmaster@bfads.net](matilto:webmaster@bfads.net) for immediate investigation.
+We may use or disclose PII to operate and manage the Service, to provide services that you have requested or respond to your other inquires or requests. We may also disclose PII in the establishment or exercise of legal rights or defense against legal claims, to comply with applicable laws or regulations, to comply with a valid legal process such as a search warrant, subpoena or court order or to investigate suspected fraud or a violation of the terms of the BFADs User Agreement.
 
-**COPPA**
+If we is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices your may have regarding your personal information. We may disclose your information to any other third party with your prior consent.
 
-This site complies with the Children's Online Privacy Protection Act of 1998. This site is not specifically directed to children under 13. If this site has been informed or unintentionally collected or received information from a child under 13, we will immediately delete such information from our databases. This site shall not knowingly distribute any personally identifiable information erroneously collected from children under 13. 
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We will never sell your Personal Information to any third party not affiliated with us without your consent, except in connection with the sale or merger or the division responsible for such services.
 
-## Who sees your personal information
+You should be aware that PII which you voluntarily include and transmit online, such as in online forums, may be viewed and used by anyone with access to such forums. We are unable to control such uses of your PII.
 
-We will share your personal information with third parties only in the ways that are described in this privacy notice. We do not sell your personal information to third parties. 
+### Service Providers
 
-Only a very limited number of our employees ever have access to your personal information. We may use third-party contractors or vendors to help us provide some of our services. If we need to disclose personal information for them to provide the services, it is with the requirement that the information will be kept confidential and used only to provide those services. In addition, our affiliates, subsidiaries, service providers, and other entities may collect personal information about your browsing habits over time and across different Web sites when you use our website. 
+We may provide your personal information to companies that provide services to help us with our business activities such us shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us or to protect us and our members from losses. 
+### Use of Non-Personally Identifiable Information
 
-While browsers allow you to disable the usage of cookies, we do not change our practices in response to a “Do Not Track” signal in the http header from your browser or mobile application. 
+We may use and disclose non-PII for any number of reasons, including but not limited to, working with business partners and improving our Service.
 
-If we (or one of our affiliated companies) are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or a prominent notice this website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+### Social Media Widgets
 
-## Policy Changes
+Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-With or without prior notification, we may find it necessary or be legally obligated to update this Privacy Policy from time to time. All changes will be posted at this site. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by us prior to the effective date of the policy change.
+### Security
 
-If you would like to update or change information you have provided us, please visit the “My Profile” link above, or contact us at the email address below. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20inquiry%20regarding%20BFAds.net)
+The security of your PII is very important to us and we take commercially reasonable steps to attempt to secure your PII. We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees and contractors who need access to your PII in order to perform their duties are authorized to have access. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and Ebates or information stored or transmitted through the Service or on our servers, will be completely free from unauthorized access by third parties such as hackers, and your use of the Service demonstrates your assumption of this risk.
 
-Policy Updated: September 5, 2014 
+### User Access and Choice
 
-[](https://privacy.truste.com/privacy-seal/Ebates-com-Inc-/validation?rid=61b0d8f1-b47a-447b-9909-7caeac20726a "TRUSTe online privacy certification")
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or ask to have it removed from a public forum, directory or testimonial on our site by making the change on our member information page or by contacting our Customer Support at [https://www.bfads.net/Contact](https://web.archive.org/Contact). We will respond to your request within a reasonable timeframe.
+
+### No Children under 13
+
+We have no intention of collecting PII from children under the age of 13. When we become aware that PII from a child under 13 has been collected without such child's parent or guardian's consent, we will use all reasonable efforts to delete such information from our database.
+
+### Changes in Privacy Policy
+
+This Privacy Policy may change from time to time to the reflect changes to our information practices. If we make any material changes, we will post those changes on this page prior to the change becoming effective or we will notify you by email (sent to the email address specified in your account). We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Opt-out
+
+We give you the option to remove your PII from our list of active users completely in connection with the termination of your Bfads.net user account. All unsubscribe or opt-out requests should be sent to us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20FatWallet.com) and we will process your request within a reasonable time after receipt. We are not responsible for removing your PII from the lists of any third party who has previously been provided your information in accordance with this policy.
+
+### User Agreement
+
+Use of this Service is subject to the Bfads.net User Agreement located at [https://www.bfads.net/User-Agreement](https://web.archive.org/User-Agreement). 
+
+### United States
+
+Our Service is maintained from within the United States of America. If you are located outside of the United States, by using the Service, you authorize the export of PII to the United States and its storage and use as specified in this policy.
+
+### Effective Date
+
+This Privacy Policy was last updated on October 6, 2016
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=61b0d8f1-b47a-447b-9909-7caeac20726a "TRUSTe Privacy Certification")
