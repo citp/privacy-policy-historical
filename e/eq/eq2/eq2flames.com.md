@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eq2flames.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325052648id_/http%3A//www.eq2flames.com/faq.php%3Ffaq%3Dvb3_board_faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eq2flames.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019025324id_/http%3A//www.eq2flames.com/faq.php%3Ffaq%3Dvb3_board_faq) for the most accurate reproduction.*
 
 # Board FAQ
 
