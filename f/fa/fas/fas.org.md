@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fas.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407063512id_/http%3A//fas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.org privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019181903id_/http%3A//fas.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Federation Of American Scientists
 
