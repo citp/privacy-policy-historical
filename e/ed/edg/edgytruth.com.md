@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgytruth.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531014101id_/http%3A//edgytruth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgytruth.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019200648id_/http%3A//edgytruth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Edgy Truth
 
@@ -20,3 +20,7 @@ Section 7 – Changes to this policy
 We reserve the ability to change this privacy policy at any time, so review it frequently. Changes take effect immediately upon posting on this website unless otherwise specified.  
 Section 8 – Questions  
 If you have any questions regarding our privacy policies, please send an email to info@edgytruth.com
+
+### Subscribe for news, health tips..
+
+Our newsletter is full of awesome alternative news, and information about current issues and events. Signup so we can stay in touch!
