@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crisisprevention.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328144125id_/http%3A//www.crisisprevention.com/About-CPI/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisprevention.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019223841id_/http%3A//www.crisisprevention.com/About-CPI/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPI
 
@@ -14,3 +14,6 @@ This website uses cookies to individualize your online experience. Cookies are t
 Cookies personalize your browsing experience and can save you time when you return to the sites you visit. Most web browsers automatically accept cookies, but you can adjust your browser settings to decline cookies. When you accept cookies, they tell our web server when you return to specific pages and help to individualize your visit.
 
 CPI uses Google AdWords remarketing to advertise online. We place cookies on browsers, and third parties such as Google read these cookies and show ads on third-party sites. You may opt out of ad serving by visiting the [Google Advertising Privacy FAQ page](http://shelleyellis.us1.list-manage.com/track/click?u=c4e4376d46b3c14ac8af82da0&id=1e7bebc5a5&e=8481bb8f37) or the [Network Advertising Initiative opt-out page](http://shelleyellis.us1.list-manage.com/track/click?u=c4e4376d46b3c14ac8af82da0&id=bf03766299&e=8481bb8f37).
+
+**Learner Record Policy**  
+Each learner training record will be restricted from public access. CPI utilizes a standardized and centralized record management system for filing and storing learner training information. This system will assure ease of retrieval, availability and accessibility of the learner training record without sacrificing the confidentiality of the leaner training information. All leaners will have the ability to obtain a copy of their learner record. Learners may request a copy of their record by completing and signing an authorization/disclosure of form. Contact customer service at 800.558.8976 for assistance.
