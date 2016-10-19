@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616080122id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019163444id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Heeb
 
