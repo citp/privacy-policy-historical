@@ -1,85 +1,107 @@
-> *The following text is extracted and transformed from the alfreddunhilllinks.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226121116id_/http%3A//www.alfreddunhilllinks.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfreddunhilllinks.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019024936id_/http%3A//alfreddunhilllinks.com/privacy) for the most accurate reproduction.*
 
-# Alfred Dunhill Links Championship - Privacy Policy
+# Privacy | Alfred Dunhill Links Championship
 
-Privacy Policy
+**About Alfred Dunhill Limited operates this website on behalf of the Alfred Dunhill Links Championship (“Alfred Dunhill Links Championship”) according to this Privacy Policy**
 
-Alfred Dunhill Links Championship ("Alfred Dunhill Limited") is committed to protecting Your privacy and to processing Your data in accordance with the principles set out under the Data Protection Act 1998. Any reference to "You” or "Your”, means You as user of the web sites owned and operated by or on behalf of Alfred Dunhill Limited (the "Web Sites").
+Alfred Dunhill Limited has its registered offices at 15 Hill Street, London, W1J5QT (“Alfred Dunhill Limited”).
 
-This page sets out Alfred Dunhill Limited's privacy policy and explains how Your personal information (meaning any information about You which is personally identifiable like Your name, address, telephone number or e-mail address, generally referred to throughout this policy as "personal information") will be used.
+Users can email Alfred Dunhill Links Championship with any questions, queries or complaints at [info@alfreddunhilllinks.com](mailto:info@alfreddunhilllinks.com).
 
-This privacy policy only applies to the collection of Your personal information by Alfred Dunhill Limited and the use of that personal information by Alfred Dunhill Limited and those whom Alfred Dunhill Limited authorise. It does not cover third party web sites to which Alfred Dunhill Limited provide links, nor does it cover advertisers. They may have their own privacy policies and/or terms and conditions of use.
+Please take a moment to read the following policy which explains how we collect, use, disclose and transfer the personal information that you provide to us on our websites or mobile applications (together the “Platforms”), or contact Alfred Dunhill Links Championship by telephone or email. It also explains how we collect information through the use of cookies and related technologies when you use our Platforms.
 
-By accessing and continuing to use the Web Sites, You accept the terms of this privacy policy. Please note that Alfred Dunhill Limited may update and amend the privacy policy from time to time and any changes will be posted on the Web Sites. If You do not agree with any of the privacy policy then You should not use the Web Sites.
+You can find out more about Alfred Dunhill Links Championship and the Terms of Use for using our Platform [here].
 
-What information do Alfred Dunhill Limited hold about You and how is it collected?
+We may make changes from time to time so please check back regularly to keep informed of updates.
 
-When You contact us in connection with a Grant Application, make a donation, or when You otherwise update Your details with us, personal information is collected by or on behalf of Alfred Dunhill Limited.
+ **Information you provide to us and how we use it**  
+To access certain areas of our Platform, you will need to register with us.  During the registration process you will be asked to submit personal information about yourself (including your name, addresses, date of birth, e-mail address, telephone number). By entering your details in the fields requested, you enable Alfred Dunhill Links Championship to provide you with the services you select.
 
-In addition, in common with many other online services, Alfred Dunhill Limited may use "cookies" or other devices to store and sometimes track information about You (see our separate Cookies Policy).
+In addition, we may also collect personal information from you when you correspond with us (for example, when you send us e-mail communications or send us letters), when you provide your details or contact Alfred Dunhill Links Championship by telephone.  Please note that calls to Alfred Dunhill Links Championship may be recorded for security and training and development purposes.
 
-We may collect information about Your computer, including where available Your IP address, operating system and browser type for system administration. This is statistical data about Your browsing actions and patterns, and does not identify any individual.
+We also collect certain information automatically about visitors to our Platform, described in the section headed “Cookies and other information that we automatically collect”, below.
 
-Alfred Dunhill Limited may also collect personal information: when You make a complaint or enquiry or provide other feedback to Alfred Dunhill Limited; when You request to be sent communications such as updates or newsletters; in monitoring Your use of the Web Sites or in monitoring communications sent via the Web Sites to ensure and check compliance with Terms & Conditions or otherwise as required by law; and when You disclose Your personal information to Alfred Dunhill Limited or otherwise through the Web Sites at any other point.
+ **We will use the information we collect from you to:**  
+i. deal with your enquiries and requests;  
+ii. send communications, including announcements and administrative messages;  
+iii. announce events relating to us and other third party partners in accordance with your communications preferences (please see the ”Editing or deleting your personal information” section below for further information about how you can control these updates);  
+iv. conduct market research so that we can continuously improve the services we provide to our customers;  
+v. prevent fraud and other prohibited or illegal activities; and  
+vi. understand how our Platform is used so that we can continuously improve our Platform and offerings.
 
-Under 18s
+ **Cookies and other information that we automatically collect**  
+Like most Platforms, Alfred Dunhill Links Championship logs IP addresses and uses cookies and similar technologies that allow us to recognise you and to customise your experience, and provide us with information about the way our Platform visitors access our Platform.  You can find out more about how we use cookies and related technologies below.
 
-Children under the age of 18 should not send any information about themselves and should not register with any service or to receive further information from Alfred Dunhill Limited. Should Alfred Dunhill Limited discover or be informed that a child has registered his/her personal details, Alfred Dunhill Limited will delete such information.
+ **What is a cookie?**  
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website or mobile application and are used to recognise your computer when it returns to a website or mobile application it has visited previously.  Cookies are widely used in order to make platforms work, or to work more efficiently, as well as to provide information to the owners of the platform.
 
-Note to Parents: Alfred Dunhill Limited will not intentionally collect personally identifiable information from children under the age of 18. If, as a parent, You wish to find out if Your child has registered, or wish to cancel Your child's registration, please contact Alfred Dunhill Limited at info@alfreddunhilllinks.com.
+We use cookies to enhance the online experience of our visitors (for example, by remembering your language or preferences) and to better understand how our Platform is used. Cookies may tell us, for example, whether you have visited our Platform before or whether you are a new visitor.  They can also help to ensure that adverts you see online are more relevant to you and your interests.
 
-How Alfred Dunhill Limited use information about You:
+ **There are two broad categories of cookies:**  
+1\. First party cookies, served directly by Alfred Dunhill Links Championship to your computer or mobile device.  They are used only by Alfred Dunhill Links Championship to recognise your computer or mobile device when it revisits our Platform.
 
-Please note that Alfred Dunhill Limited may pass Your personal information to Alfred Dunhill Limited's employees, agents and those of its affiliated companies to correspond with You. Personal Information provided by You will be used to assess Your grant application or other query and will be made accessible to duly authorised Alfred Dunhill Limited personnel and occasionally to persons or companies who carry out internal operations in relation to Alfred Dunhill Limited's business.
+1\. Third party cookies, which are served by a service provider on our Platform, and can be used by the service provider to recognise your computer or mobile device when it visits other platforms.  Third party cookies are most commonly used for platform analytics or advertising purposes.
 
-Whilst Alfred Dunhill Limited takes all reasonable precautions to ensure that its on-line business partners handle Your personal information on Alfred Dunhill Limited's behalf in a secure and proper manner, Alfred Dunhill Limited cannot be held responsible for the failure by any third parties (such Your bank) to deal with Your personal information on Your behalf in accordance with its legal obligations. Consequently, You are advised to refer to these companies' policies in relation to the protection of Your personal information since they may use other members of their respective companies and/or third parties (in jurisdictions where there may be less stringent data protection laws) to process information on Your behalf in relation to Your transactions. Personal information provided by You may also be used by Alfred Dunhill Limited.
+Cookies can remain on your computer or mobile device for different periods of time. Some cookies are ‘session cookies’, meaning that they exist only while your browser is open. These are deleted automatically once you close your browser. Other cookies are ‘permanent cookies’, meaning that they survive after your browser is closed. They can be used to recognise your computer or mobile device when you open your browser and browse the Internet again.
 
-Your personal information may also be used by Alfred Dunhill Limited to monitor, develop and improve the Web Sites, services and the Your experience; to assist in and administer correspondence with You; to process and deal with any complaints or enquiries made by or about You; to investigate any suspected breach of the Terms & Conditions or the breach of other terms and conditions otherwise relating to You.
+ **What cookies may Alfred Dunhill Links Championship use?**  
+The Platform serves only the following types of cookies to your computer or mobile device:
 
-Some general statistical information about the Web Sites’ user base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You. Alfred Dunhill Limited may disclose Your personal information to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms & Conditions or the breach of other terms and conditions otherwise relating to You or otherwise where required by law and Alfred Dunhill Limited will co-operate with any law enforcement authorities or court order requesting or directing Alfred Dunhill Limited to disclose the identity of or locate anyone breaching the Terms & Conditions or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders.
+ **Type of Cookie:  **Cookies necessary for essential purposes  
+**Purpose:**  These cookies are essential to provide you with services available through this Platform and to use some of its features, such as access to secure areas.  Without these cookies, services you have asked for, like secure login accounts, would not be possible.
 
-Where and only where requested by You, Alfred Dunhill Limited will: send You and keep You updated with information by email telephone or mail about Alfred Dunhill Limited’s work, events, promotions and special offers from Alfred Dunhill Limited or its affiliated companies; and/or send You information by email telephone or mail about related services of selected third parties that may be of interest to You. To opt-out of receiving any such communications, You can use the facility contained in any such communication or You can email or write to Alfred Dunhill Limited by mail to the addresses below saying that You do not wish to receive further communications from Alfred Dunhill Limited.
+ **Type of Cookie:  **Functionality Cookies  
+**Purpose:  **These cookies serve a variety of purposes related to the presentation, performance and functionality of this Platform.  Their overall purpose, however, is to enhance visitors’ experience and enjoyment of this Platform.  For example, some of these cookies enable visitors to specify language or other platform preferences.
 
-Other than as stated above, Alfred Dunhill Limited will not use Your personal information for any unsolicited communications to You unless so authorised. Alfred Dunhill Limited will use its best endeavours to ensure that such Personal Information is kept secure at all times. Other than to its business partners as set out above, Alfred Dunhill Limited does not sell, rent or otherwise make available any personal information relating to You to other third parties unless to its legal advisors or if required to do so by law.
+ **Type of Cookie:  **Analytics Cookies  
+**Purpose:  **These cookies are used to collect information about how visitors use our Platform.
 
-How long does Alfred Dunhill Limited keep Your personal information?
+The information gathered does not identify any individual visitor and is aggregated.  It includes the number of visitors to our Platform, the platforms that referred them to our Platform and the pages that they visited on our Platform.  
+We use this information to help run our Platform more efficiently, to gather broad demographic information and to monitor the level of activity on our Platform.
 
-How long Alfred Dunhill Limited keeps Your personal information depends on the context in which You provided it and the marketing preferences You have expressed. In particular: Alfred Dunhill Limited will keep any personal information Alfred Dunhill Limited or its partner companies need to provide You with any service for the period during which Alfred Dunhill Limited or its partner companies provide that service to You; Alfred Dunhill Limited may keep Your contact details for as long as Alfred Dunhill Limited have Your consent to send You marketing information; Alfred Dunhill Limited may keep records of any transactions You enter with Alfred Dunhill Limited or our partner companies for up to six years (this is so that Alfred Dunhill Limited can respond to any complaints or disputes that arise in that period); and Alfred Dunhill Limited will keep other personal information about You if it is necessary for Alfred Dunhill Limited to do so to comply with the law.
+ **Type of Cookie:  **Advertising Cookies  
+**Purpose:  **When you visit our Platform or click on advertisements or promotional areas on the Platform these cookies are used to deliver adverts more relevant to you and your interests.  They are also used to limit the number of times you see an advertisement as well as help to evaluate the effectiveness of advertising and promotion.
 
-Keeping Your personal information secure:
+They are usually placed by advertising networks with our permission.  They remember that you have visited a platform and this information is shared with other organisations such as advertisers.
 
-Alfred Dunhill Limited take the security of Your personal information seriously.
+ **Type of Cookie:  **Content sharing and social networking cookies  
+**Purpose:  **These cookies enable users to share pages and content through third party social networking and other platforms.  The companies that serve these cookies may also use your information to serve targeted advertising on other platforms.
 
-Alfred Dunhill Limited have implemented technology and security policies, rules and measures to protect the personal information Alfred Dunhill Limited has under its control, both on and off-line, from improper access, use, alteration, destruction and loss.
+ **How to control or delete cookies**  
+You have the right to choose whether or not to accept cookies and we have explained how you can exercise this right below.  However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Platform.
 
-Off-line, Your personal information is kept securely in Alfred Dunhill Limited's databases and offices, or, where relevant, by Alfred Dunhill Limited's partner companies.
+You can set your cookie preferences by changing your browser settings so that cookies from this Platform cannot be placed on your computer or mobile device.  In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility).
 
-The data that Alfred Dunhill Limited collects from You may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for Alfred Dunhill Limited or for one of its suppliers. By submitting Your personal data, You agree to this transfer, storing or processing. Alfred Dunhill Limited will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this privacy policy.
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu.](http://www.youronlinechoices.eu/)]
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although Alfred Dunhill Limited will do its best to protect Your personal data, Alfred Dunhill Limited cannot guarantee the security of Your data transmitted to the Web Site; any transmission is at Your own risk. Once Alfred Dunhill Limited has received Your information, Alfred Dunhill Limited will use strict procedures and security features to try to prevent unauthorised access.
+ **IP addresses**  
+We may collect information about your computer or mobile device, including where available your IP address, operating system, log in times and browser type.  We use this information to better understand how visitors use our Platform and for internal reporting purposes.  We may anonymise and share this information with advertisers, sponsors or other businesses.
 
-Please note that Alfred Dunhill Limited will not be liable for any breach of security unless Alfred Dunhill Limited have been negligent.
+ **Sharing your information**  
+We do not rent, sell or share personal information about you with other people or non-affiliated companies outside the Richemont group except under the following circumstances:  
+i. to third party providers who provide services on our behalf such as online and other payments, processing credit card transactions and handling credit checks and fraud prevention;  
+ii. we may disclose your personal information to any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party;  and  
+iii. we may disclose your personal information to any third party that purchases, or to which we transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this Privacy Policy.
 
-The Data Protection Act 1998 gives You the right to access information held about You. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee to meet Alfred Dunhill Limited’s costs in providing You with details of the information it holds about You.
+ **International Transfers**  
+Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated group companies or third party service providers are located or maintain facilities.  While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy.
 
-Contact Details:
+ **Protecting your information**  
+We want you to feel confident about using our Platform, and we are committed to protecting the personal information we collect.  We limit access to personal information about you to employees and selected suppliers who reasonably need access to it, to provide services to you or in order to do their jobs.  We have appropriate technical and organisational physical, electronic, and procedural safeguards to protect the personal information that you provide to us against unauthorised or unlawful processing and against accidental loss, damage or destruction.
 
-Alfred Dunhill Links Championship
+ **How to edit, delete or access your personal information**  
+You have the right to ask for a copy of any personal information that we hold about you in our records, to correct any inaccuracies and to update any out-of-date information. You can also ask us not to send you direct marketing communications (however please note that we may continue to send you service related (i.e. non-marketing) communications, such as e-mail updates on your order status).   If you wish to exercise any of these rights, or wish to object to our use of your personal information, please write to us at the address listed below.
 
-460 Fulham Road
+ **Updates to this Privacy Policy**  
+From time to time we may update this Privacy Policy. When we do we will publish the changes on this Platform. If you do not agree to these changes, please do not continue to use the Platform. If material changes are made to this Privacy Policy, we will notify you by e-mail or by placing a prominent notice on the Platform.
 
-London
+ **Contact us**  
+If you have any questions or comments about this Privacy Policy, or privacy matters generally, please contact us at the address provided below. You can also use this address if you wish to request a copy of the personal data we hold about you.
 
-SW6 1BZ
+Data Protection  
+Alfred Dunhill Limited  
+15 Hill Street  
+London  
+W1J5QT
 
-United Kingdom Users can email Alfred Dunhill Limited with any questions, queries or complaints at info@alfreddunhilllinks.com.
-
-Any request concerning Personal Information and/or cancellation of registration to any services provided through the Web Sites should be sent to:
-
-E-mail:
-
-info@alfreddunhilllinks.com
-
-Changes to the privacy policy
-
-Date of Posting: June 2012
+Last updated: January 2015
