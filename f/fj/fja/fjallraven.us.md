@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fjallraven.us privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404064959id_/https%3A//fjallraven-4.myshopify.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fjallraven.us privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019070948id_/http%3A//www.fjallraven.us/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Fjallraven
 
