@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eztalks.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427235746id_/http%3A//www.eztalks.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eztalks.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019071037id_/https%3A//www.eztalks.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# EZTalks - Privacy About
 
 Privacy Policy
 
