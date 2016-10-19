@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315000315id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019060622id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
 
 # Vertbaudet Privacy Policy
 
-## 1\. Offer Terms & Conditions 
+## 1\. Introduction
 
 The Vertbaudet brand is an international retail brand owned by the Cyrillus Vertbaudet Group based in France. The Cyrillus Vertbaudet Group was set up in 2013 to buy the Cyrillus and Vertbaudet brands, which were then owned by Redcats Group. Cyrillus Vertbaudet Group set up a new company, Vertbaudet UK Limited, to buy Vertbaudet's business in the UK, Channel Isles, Isle of Man and BFPO Germany (British Forces Posted Overseas) from Redcats (Brands) Limited (now known as LRUK (Retail) Limited). As part of that business purchase, Vertbaudet UK Limited acquired existing customer accounts and data relating to Vertbaudet. 
 
@@ -12,7 +12,7 @@ Cyrillus Vertbaudet Group and Vertbaudet UK Limited may look to launch new brand
 
 Where we use the words "we" or "us" in this Policy we are referring to Vertbaudet UK Limited. 
 
-The purpose of this Policy is to explain to you how we use personal information we collect about you and includes the topics set out below:- 
+The purpose of this Policy is to explain to you how we use personal information we collect about you and includes the topics set out below: 
 
   * Your confidentiality and privacy 
   * Information we might need from you 
@@ -43,10 +43,10 @@ Your name, date of birth, address, customer number, telephone number, e-mail add
 
 ####  General Information 
 
-We may use the information you provide as follows:- 
+We may use the information you provide as follows: 
 
   * To confirm receipt of your order, process it and keep you informed of progress 
-  * To approve, open and run any Credit Account you may have with us and to run any Credit Account you may have with other members of La Redoute Group (including payment recovery and debtor tracing) 
+  * To run any Credit Account you may have with us and to run any Credit Account you may have with other members of La Redoute Group (including payment recovery and debtor tracing) 
   * To keep you up to date with new services, facilities, special offers and promotions (further details below) 
   * To enhance your shopping experience in the future by tailoring the site to meet your needs 
   * To administer prize draws and competitions you may enter 
@@ -57,9 +57,8 @@ We may use the information you provide as follows:-
 
 We may also use the information you provide to perform a credit search. Before providing credit, lenders such as banks, loan companies and businesses such as Vertbaudet want to be confident that customers will repay money they lend. To help them do this, they may look at information held by organisations called credit reference agencies. The three main credit reference agencies in the UK are Callcredit, Equifax and Experian. Those agencies hold certain information about most adults in the UK. That information is called your credit reference file or credit report. The agencies get their information from lenders, from information in the public domain (e.g. electoral roll information) and from other sources. Credit reference agencies do not hold credit blacklists and do not tell a lender if it should offer credit - that is for the lender to decide. 
 
-We may perform a credit search in the following circumstances:- 
+We may perform a credit search in the following circumstances: 
 
-  * If you apply for a Credit Account; 
   * When managing your existing credit facilities 
 
 
@@ -70,7 +69,7 @@ If we enter into a credit agreement with you, we will supply details of that agr
 
 We, credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud. We may pass information to financial and other organisations involved in fraud prevention to protect ourselves and our customers from theft and fraud. If you give us false or inaccurate information and we suspect fraud, we will record this. 
 
-We may use your information held within Cyrillus Vertbaudet Group, including shopping habits, to run your Credit Account if you have one. We may make periodic searches of the records of Cyrillus Vertbaudet Group and La Redoute Group companies (La Redoute and Daxon as explained above), credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [ write to us ](http://preview.vertbaudet.co.uk/contact.htm "contact us") at our Head Office address below or telephone our [ Customer Care Team ](http://preview.vertbaudet.co.uk/contact.htm "contact us") . 
+We may use your information held within Cyrillus Vertbaudet Group, including shopping habits, to run your Credit Account if you have one. We may make periodic searches of the records of Cyrillus Vertbaudet Group and La Redoute Group companies (La Redoute and Daxon as explained above), credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please [ write to us ](http://www.vertbaudet.co.uk/contact.htm "contact us") at our Head Office address below or telephone our [ Customer Care Team ](http://www.vertbaudet.co.uk/contact.htm "contact us") . 
 
 ####  Marketing 
 
@@ -79,29 +78,26 @@ We may also use your information, including shopping habits, for marketing as se
   * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as Vertbaudet or as other brands we operate. 
   * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other Cyrillus Vertbaudet Group members and carefully selected third parties. 
   * We may share your details with other members of the Cyrillus Vertbaudet Group and those members may contact you by mail, telephone, email or any other reasonable method. 
-  * We may share your details with our former sister companies, La Redoute and Daxon. 
   * We may share your details with carefully selected third parties and those organisations may contact you by mail. We will not allow such organisations to contact you by email or telephone unless you have given us express permission for us to do so. 
 
 
 
 ## 5\. How to unsubscribe from marketing 
 
-If you decide at any time that you do not wish to be contacted for marketing purposes by Vertbaudet or you decide that you do not wish Vertbaudet to share information for marketing purposes with other brands we operate from time to time, with other members of the Cyrillus Vertbaudet Group, with La Redoute and Daxon, or with carefully selected third parties, you can unsubscribe easily by following the instructions below. 
+If you decide at any time that you do not wish to be contacted for marketing purposes by Vertbaudet or you decide that you do not wish Vertbaudet to share information for marketing purposes with other brands we operate from time to time, with other members of the Cyrillus Vertbaudet Group, or with carefully selected third parties, you can unsubscribe easily by following the instructions below. 
 
   * ####  Marketing from Vertbaudet, our other brands or other Cyrillus Vertbaudet Group members 
 
-Please [ write to us ](http://preview.vertbaudet.co.uk/contact.htm "contact us") , telephone our [ Customer Care Team ](http://preview.vertbaudet.co.uk/contact.htm "contact us") or [ email us ](http://preview.vertbaudet.co.uk/contact.htm "contact us") with your name and customer number in the message box. Please state as follows:- 
+Please [ write to us ](http://www.vertbaudet.co.uk/contact.htm "contact us") , telephone our [ Customer Care Team ](http://www.vertbaudet.co.uk/contact.htm "contact us") or [ email us ](http://www.vertbaudet.co.uk/contact.htm "contact us") with your name and customer number in the message box. Please state as follows: 
 
     * Name of brand from which you no longer wish to receive marketing contact (e.g. Vertbaudet) or that you no longer wish us to share information with our other brands or other Group members for marketing purposes. 
     * Type of communication you no longer wish to receive (e.g. mail, telephone, email). 
+    * You will also have the opportunity to unsubscribe via each marketing email sent to you in accordance with the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+    * Note: If you unsubscribe from mail from a brand, you may no longer receive a catalogue from that brand, e.g. unsubscribing from mail from Vertbaudet may mean you no longer receive a Vertbaudet catalogue. 
 
-You will also have the opportunity to unsubscribe via each marketing email sent to you in accordance with the Privacy and Electronic Communications (EC Directive) Regulations 2003. 
+####  Marketing from carefully selected third parties 
 
-Note: If you unsubscribe from mail from a brand, you may no longer receive a catalogue from that brand, e.g. unsubscribing from mail from Vertbaudet may mean you no longer receive a Vertbaudet catalogue. 
-
-  * ####  Marketing from carefully selected third parties 
-
-Please [ write to us ](http://preview.vertbaudet.co.uk/contact.htm "contact us") , telephone our [ Customer Care Team ](http://preview.vertbaudet.co.uk/contact.htm "contact us") or [ email us ](http://preview.vertbaudet.co.uk/contact.htm "contact us") with "no third party marketing" as the subject heading and your name and customer reference number in the message box. Please state as follows:- 
+Please [ write to us ](http://www.vertbaudet.co.uk/contact.htm "contact us") , telephone our [ Customer Care Team ](http://www.vertbaudet.co.uk/contact.htm "contact us") or [ email us ](http://www.vertbaudet.co.uk/contact.htm "contact us") with "no third party marketing" as the subject heading and your name and customer reference number in the message box. Please state as follows:- 
 
     * That you no longer wish us to share information with third parties for marketing purposes. 
     * Type of communication you no longer wish to receive (e.g. mail, telephone, email). 
@@ -128,7 +124,7 @@ We are required by the Data Protection Act 1998 to follow strict security proced
 
 ## 8\. Changes to our privacy policy 
 
-We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on June 2014. 
+We keep our Policy under regular review and we will place any updates on this webpage. This Policy was last updated on September 2016. 
 
 ## 9\. Head office contact details 
 
