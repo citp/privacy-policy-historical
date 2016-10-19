@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the magzter.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614004749id_/http%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magzter.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019063808id_/http%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.*
 
-# Magzter - Privacy Policy
+# Privacy Policy
 
-Magzter considers the protection of your personal information a top priority. Our policies regarding the collection, use and disclosure of information collected from you is subject to the laws of India.
+  *   * $ 
+  * Eng 
+  * __
+  * Login
+
+
+
+[](http://www.magzter.com/)
+
+  * [Home](http://www.magzter.com/)
+  * Privacy Policy
+
+
+
+### Privacy Policy
+
+Magzter considers the protection of your personal information a top priority. Our policies regarding the collection, use and disclosure of information collected from you is subject to the laws of The United States of America.
 
   * 1\. We are responsible only for the personal information under our control. But if the content provided by our service has content or web links that lead to illegal or adult oriented information, we are not by any litigation responsible for it as we do not control or monitor the content or the privacy practices of magazines and other websites.
   
@@ -31,3 +47,9 @@ Magzter considers the protection of your personal information a top priority. Ou
 
 Effective Date of this Privacy Policy  
 This Privacy Policy is effective as of June 1st 2011.
+
+  1. [ ](http://www.magzter.com/magztergold)
+
+
+
+[X]
