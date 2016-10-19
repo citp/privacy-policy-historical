@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623073542id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019142942id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy/%3Fcm_re%3Dcore-_-FT-_-privacy%2520policy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
-### Last Updated: June 22‚ 2015
+### Last Updated: August 9‚ 2016
 
 This website or mobile application (“Site”) is owned and operated by Lands’ End‚ Inc. or an affiliated entity. The goal of this Privacy Policy is to inform you about the information we gather about you‚ how we use and share that information‚ and how we safeguard that information. This Privacy Policy applies to information collected via this Site‚ our retail locations‚ and our catalog business.
 
@@ -153,10 +153,27 @@ You are entitled to receive a copy of this information in a standardized format 
 
 ## Contact Us 
 
-Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-478-8508** [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). We will need your name‚ address‚ and telephone number to mail catalogs to you. 
+Request to Receive Catalogs: If you would like to receive our catalogs‚ please call **1-800-963-4816** [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). We will need your name‚ address‚ and telephone number to mail catalogs to you. 
 
-Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-478-8508** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). It may take 2-4 weeks to process your request. 
+Request to Stop Catalogs: If you would like to stop receiving our catalogs‚ please call **1-800-963-4816** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). It may take 2-4 weeks to process your request. 
 
-Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at **1-800-478-8508** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
+Request to Opt Out of Third Party Marketing: We may make portions of our catalog and e-mail lists available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld from these lists‚ please call us toll-free at **1-800-963-4816** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
 
-General Privacy Questions: If you have questions about this Privacy Policy‚ please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/)‚ call **1-800-478-8508** or send an email‚ including your name and mailing address‚ to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). 
+General Privacy Questions: If you have questions about this Privacy Policy‚ please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/)‚ call **1-800-963-4816** or send an email‚ including your name and mailing address‚ to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com). 
+
+## Addendum to Privacy Policy Page
+
+### Text Message Terms of Use
+
+  1. Your carrier's standard messaging rates apply to your entry or submission message to any Lands' End text message service, our confirmation and all subsequent text message correspondence. Lands' End does not charge for any content; however, downloadable content may incur additional charges from your cell phone provider. Please contact your wireless carrier for information about your messaging and data plan(s). Your carrier may impose message or charge limitations on your account that are outside our control. All associated charges are billed by and payable to your mobile service provider.
+  2. By subscribing to LANDS’ END ANYWHERE, you consent to receiving up to 8 automated marketing text messages per month from Lands' End at the mobile number provided at opt-in, which may include offers from us, our affiliates and partners. You can unsubscribe at any time by texting **STOP** to 77344. Your consent to receive text messages is not a condition of purchase. Msg&Data rates may apply. 
+  3. You represent that you are the owner or authorized user of the wireless device you use to subscribe to our text message service, and that you are authorized to approve the applicable charges.
+  4. We will not be liable for any delays or failures in your receipt of any text messages as delivery is subject to effective transmission from your network operator and processing by your mobile device. Carriers are not liable for delayed or failed messages. Our text message services are provided on an AS IS, AS AVAILABLE basis.
+  5. Data obtained from you in connection with our text message service may include your cell phone number, your carrier's name, and the date, time and content of your messages to us and other information that you may provide. We may use this information to contact you and to provide the services you request from us, and to otherwise operate, develop and improve the service. Your wireless carrier and other service providers may also collect data about your text usage, and their practices are governed by their own policies. We will only use information you provide to the service to transmit your text message or as otherwise described in our privacy policy. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the service, you agree to provide accurate, complete, and true information.
+  6. Our text message service and the content and materials provided through the service are proprietary to us or our licensors, and are for your personal, non-commercial use only. You shall not damage, impair, interfere with or disrupt the service or its functionality.
+  7. Our text message service is available only in the United States.
+  8. We reserve the right to alter these text message terms and conditions from time to time. We may suspend or terminate our text message service to you if we believe you are in breach of our terms and conditions. Your service is also subject to termination in the event that your wireless service terminates or lapses. In the event that you change or deactivate your mobile number, it is your responsibility to notify Lands’ End by emailing us at talkback@landsend.com. We may discontinue the service at any time.
+  9. If you have any questions, email us at talkback@landsend.com. You can also text the word HELP to 77344 to get additional information about the service. We do not charge for help or info messages; however, your normal carrier rates apply.
+  10. Terms are subject to change.
+
+
