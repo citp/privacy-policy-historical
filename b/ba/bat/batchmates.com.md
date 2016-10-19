@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the batchmates.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611103823id_/http%3A//www.batchmates.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchmates.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019073802id_/http%3A//batchmates.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Batchmates.com
 
-Batchmates.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about Batchmates.com, please review our [Terms of Service](https://web.archive.org/web/20160611103823id_/http%3A//www.batchmates.com/terms.aspx).  
+Batchmates.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about Batchmates.com, please review our [Terms of Service](https://web.archive.org/web/20161019073802id_/http%3A//batchmates.com/terms.aspx).  
 Batchmates.com does not sell or rent your personal identification to third parties. Batchmates.com does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf.
 
 **Email**
@@ -148,7 +148,7 @@ When our registration/ order process asks users to enter sensitive information (
 
 While we or our payment gateway partners use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
-If you have any questions about the security at our website, please [**contact us**](https://web.archive.org/web/20160611103823id_/http%3A//www.batchmates.com/contactus.aspx).
+If you have any questions about the security at our website, please [**contact us**](https://web.archive.org/web/20161019073802id_/http%3A//batchmates.com/contactus.aspx).
 
   
 **What about Email Choice/ Opt-out?**
@@ -159,4 +159,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 **How to contact Batchmates.com?**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [**contact us**](https://web.archive.org/web/20160611103823id_/http%3A//www.batchmates.com/contactus.aspx).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [**contact us**](https://web.archive.org/web/20161019073802id_/http%3A//batchmates.com/contactus.aspx).
