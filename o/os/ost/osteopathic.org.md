@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610202901id_/http%3A//www.osteopathic.org/inside-aoa/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osteopathic.org privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019231519id_/http%3A//www.osteopathic.org/inside-aoa/about/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Information Collection and Use:**
+### Information Collection and Use
 
-The American Osteopathic Association (AOA) understands how important your privacy and safety are to you. In an effort to enable you to protect the privacy and security of your visits to this website, this privacy policy explains what information the AOA intends to accumulate, and how the AOA intends to collect, protect, and use this information. 
+The American Osteopathic Association (AOA) understands how important your privacy and safety are to you. In an effort to enable you to protect the privacy and security of your visits to our websites, this privacy policy explains what information the AOA intends to accumulate, and how the AOA intends to collect, protect, and use this information. 
 
 **By using the Osteopathic.org site, you agree to the terms of this Privacy Policy, so please read through it carefully. If you do not agree to the terms of this Privacy Policy, please exit this site immediately.** ****
 
@@ -18,11 +18,13 @@ The AOA does not collect PII about you except when you provide the information o
 
 Aggregate information is information in summary form that does not contain PII. The AOA uses and allows third parties to use aggregate information to aid in the development or implementation of programs, products and services.
 
-**Third Party Advertisements**
+**Online Advertising**
 
-We work with third party vendors to deliver promotional messages to you from us. Information about your visits to this site, such as certain pages you have viewed ( **but not your name, address, email address or other personal information** ) is used to serve ads to you while browsing the World Wide Web. Our vendors use cookies, web beacons, or similar technologies placed on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on our website or through affiliate advertising network providers. Web beacons utilize JavaScript code and write information to cookies, which are small files placed on your computer. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is placed. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
+Information about your visits to this site, such as certain pages you have viewed ( **but not your name, address, email address or other personal information** ) is used to serve ads to you while browsing online. Our sites use cookies, web beacons, or similar technologies placed on your computer to help present, better target, and measure the effectiveness of the advertisements served to you on our website or through affiliate advertising network providers. ​No personal information about you will be shared with any third party advertisers. Some internet browsers may allow you to opt out of interest-based advertising. Please refer to the website you are visiting or your browser settings for more details.
 
-[**You can opt-out of the targeted advertising** delivered by us and our affiliates by requesting an "opt-out" cookie to prevent information from being uniquely associated with your browser](http://www.bizo.com/business_audience/opt_out?confirm=true "Opt out here"). Opting-out of our targeting and advertisements will not prevent you from receiving advertising from other online advertisers.
+You may opt out of receiving behavioral ads from third party advertisers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out section of the DAA website: <http://www.aboutads.info/choices/>. You can also opt out of interest-based ads from third parties who are members of the Network Advertising Initiative (NIA): [http://networkadvertising.org/choices​](http://networkadvertising.org/choices "Opt Out"). 
+
+Opting out of behavioral advertisements will not opt you out of traditional advertising.
 
 **Credit Card Account Information:**
 
@@ -108,4 +110,4 @@ This option means that the AOA will not release any physician-provided informati
 
 
 
-The AOA invites you to contact the Customer Resource Center 1-800-621-1773, Extension 1, to change your contact status. These changes become effective immediately. 
+The AOA invites you to contact the Customer Resource Center 1-800-621-1773, Extension 1, to change your contact status. These changes become effective immediately. ​​​​​
