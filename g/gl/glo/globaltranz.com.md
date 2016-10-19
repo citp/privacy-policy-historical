@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltranz.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624090301id_/https%3A//www.globaltranz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltranz.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019153254id_/https%3A//www.globaltranz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GlobalTranz
 
@@ -8,7 +8,7 @@ GlobalTranz has created this statement in order to demonstrate our firm commitme
 
 GlobalTranz collects various information for various purposes. The information collected is used to market and improve the services we offer, to improve our web site content, and to contact customers or vendors with service updates, technical updates, or for other marketing purposes. If you have questions or concerns regarding this statement, you should contact GlobalTranz by email at shannon@globaltranz.com or by phone at 866-275-1407 x104.
 
-**IP Address and Cookies**  
+ **IP Address and Cookies**  
 We use your IP address to help diagnose technical problems and to administer our web site. Our site also uses cookies to help us recognize returning customers and better administrate the repeat functionality of our web site.
 
 Information Collection During the registration process, GlobalTranz requires users to give us contact information via a customer registration form. We then use a customer’s email address to send out customer access information. The customer’s contact information is also used for account purposes such as address verification and confirmation of shipments tendered with GlobalTranz. We also contact customers for the purposes of notifying them of service updates and explanation of services. Users may opt-out of receiving service updates, as explained in the “choice/opt-out” section below.
@@ -17,24 +17,24 @@ During the shipment administration process, GlobalTranz requests shipment inform
 
 GlobalTranz allows the user to create an address book to simplify and speed up the shipment process. GlobalTranz may contact a stored address of a user if a shipment tendered by a user cannot be delivered.
 
-**Information Sharing and Access**  
+ **Information Sharing and Access**  
 Contracted agents enroll new users by submitting account information to GlobalTranz such as: company name, address and email address. GlobalTranz uses this information to create new accounts. A contracted agent can access only the account and shipment information for those users they have enrolled. Contracted agents have no direct access to any GlobalTranz databases.
 
 A sponsoring trade association has access only to the names and addresses of their own members. Associations have no direct access to any GlobalTranz databases.
 
 Shipping and receiving information for each shipment is submitted electronically to the freight carrier chosen by the shipper. GlobalTranz does not share a user’s personal information with any other third parties for any purposes beyond that required for shipment administration. Carriers have no direct access to any GlobalTranz databases.
 
-**Advertising and Pop-Ups**  
+ **Advertising and Pop-Ups**  
 GlobalTranz does not sell advertising anywhere on our web site. If you see advertising pop up messages while using our website, they are not being served by GlobalTranz and are in no way endorsed or encouraged by GlobalTranz.
 
-**Security**  
+ **Security**  
 This site has security measures in place to protect the loss, misuse or alteration of the information under our control. GlobalTranz utilizes a firewall to verify access to the GlobalTranz system. Member access is restricted by the use of an email address and password.
 
-**Choice/Opt-Out**  
+ **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving marketing communications from our partners and us. Users can have their information removed from our database and refuse future service updates, or cancel service by calling us at 866-275-1407 x104 or by emailing us at shannon@globaltranz.com. Users can also determine their own preferred method of communication by instructing us to note their account not to receive certain communications.  
 Users may check the privacy statement periodically to view any changes or updates.
 
-**Contacting Us**  
+ **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact the company at:
 
 E-mail: shannon@globaltranz.com  
