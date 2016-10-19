@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickon.co privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327000716id_/http%3A//clickon.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickon.co privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019222316id_/http%3A//clickon.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CLICKON - Renegades of the game
 
@@ -27,3 +27,13 @@ Other cookies may be stored to your computers hard drive by external vendors whe
 Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
 This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+
+### Contact Details
+
+CLICKON MEDIA  
+24 Greville St  
+London  
+EC1N 8SS
+
+Company no.07950820   
+VAT registration no.143212849 
