@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the famousfootwear.com privacy policy that was archived on 2016-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314082035id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the famousfootwear.com privacy policy that was archived on 2016-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161019143636id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" style="display: block;"><!--<![endif]--><head id="ctl00_Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
+<!DOCTYPE html><html class="no-js" style="display: block;"><!--<![endif]--><head id="ctl00_Head1"><script async="" src="https://use.typekit.net/ade7ish.js"></script><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	
         Privacy Policy - Famous Footwear
 </title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -35,8 +35,25 @@ var monetateT = new Date().getTime();
 //Do not remove the $.ajaxSetup(), it prevents $.getScript() from grabbing a non-cached version of scripts
 $.ajaxSetup({cache:true});
 </script>
-<link rel="stylesheet" href="/Content/desktop/assets/css/core.css?v=8">
+<!-- load brandon and proxima -->
+<script>
+$.getScript('https://use.typekit.net/ade7ish.js', function(){
+    try{Typekit.load({ async: true });}catch(e){}
+});
+</script>
+<link rel="stylesheet" href="/Content/styles/migrate/core.css">
 <style>
+/* HOTFIX: choose a store */
+#feature-links li.selected .store-name {
+    max-width: 196px;
+}
+#feature-links li.selected .store-name .store {
+    max-width: 136px;
+}
+#feature-links {
+    padding: 0;
+}
+/* end HOTFIX */
 body #pageContainer {
 padding: 0;
 width: 100%;
@@ -97,7 +114,7 @@ var caInit = [];
     </script>
 
     <!-- Shop:20000_Template_Content_cap [Top] START --><!-- Shop:20000_Template_Content_cap [Top] END --><!-- Shop:20000_PRIVACY_cap [Top] START --><!-- Shop:20000_PRIVACY_cap [Top] END --><link href="/App_Themes/Default/account.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/boutiques.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/content2.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/CSS/qas.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/giftshop.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/loyalty.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/master2.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/MTF.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/recommendations.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/returns.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/SEO-footer.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/SiteNavigation.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/turnTo.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/zAppDev.css" type="text/css" rel="stylesheet"><meta name="Keywords"><meta name="Description"><link title="famousfootwear.com Search Provider" type="application/opensearchdescription+xml" rel="search" href="/Shopping/SearchProviders/SearchProvider_Famous.xml"><link rel="canonical" itemprop="URL" href="http://www.famousfootwear.com/privacy"></head>
-<body id="ctl00_bodyElement" class="privacy english contentPage">
+<body id="ctl00_bodyElement" class="privacy english contentPage loggedOut">
     <!-- csrhdr -->
     
 <style type="text/css">
@@ -265,7 +282,7 @@ var caInit = [];
 	$(document).ready(CartQuantityScript);
 </script>
 
-    <script language="Javascript" type="text/javascript">var serverDate= new Date("4/8/2016 6:52:56 PM")</script>          
+    <script language="Javascript" type="text/javascript">var serverDate= new Date("12/8/2016 5:39:33 PM")</script>          
 					<!-- SiteCatalyst code version: H.25.2.
 					Copyright 1997-2012 Omniture, Inc. More info available at http://www.omniture.com -->
 					<script language="Javascript" type="text/javascript">
@@ -387,20 +404,18 @@ var caInit = [];
             <a href="/Content.aspx?ContentID=rewardsoverview">why join?</a>
         </div>
         <div id="phSuccessful" style="display: none;">
-            <div id="firstname" class="firstname">
-            </div>
+            <div id="firstname" class="firstname"><a href="/Profiles/Login.aspx"> Not ?</a></div>
             <div id="membership" class="membership">
             </div>
-            <div id="rewardpoints" class="rewardpoints">
-            </div>
-            <div id="rewardsearned" class="rewardsearned">
-            </div>
+            <div id="rewardpoints" class="rewardpoints">Current REWARDS Points: 
+             <a href="#">details</a></div>
+            <div id="rewardsearned" class="rewardsearned">REWARDS Earned<br><span id="pointsearned">$NaN</span> <a href="#">details</a></div>
             <div id="awaygold" class="awaygold">
             </div>
         </div>
         <script src="/Content/scripts/rewardsLoyaltyBanner.js"></script>
     
-</div>
+<div id="rewardsdisplay" style="display:none;"></div></div>
     <!-- Shop:20000_Template_SitewideBanner [Main] START --><!-- Shop:20000_Template_SitewideBanner [Main] END -->
     <div id="TopMargin">
         <!-- Shop:20000_Template_TopMargin [Main] START --><!-- Site Header :Start -->
@@ -444,14 +459,15 @@ var caInit = [];
 						<ul class="drop-down-box">
 							<li> <a href="/womens">view all</a> </li>
 							<li> <a href="/en-US/Womens/_/_/_/New+Arrivals/Products.aspx">new arrivals</a> </li>
-							<li> <a href="/en-US/Womens/_/_/Athletic+Shoes/_/Products.aspx">athletic shoes</a> </li>
-							<li> <a href="/en-US/Womens/_/_/Boots/_/Products.aspx">boots</a> </li>
-							<li> <a href="/en-US/Content/widecalf-brand-landing.aspx">wide calf boots</a> </li>
+							<li> <a href="/boot-trends">boot trend shop</a> </li>
+							<li> <a href="/womens-athletic-shoes">athletic shoes</a> </li>
+							<li> <a href="/womens-boots">boots</a> </li>
+							<li> <a href="/wide-calf-boots">wide calf boots</a> </li>
 							<li> <a href="/en-US/Womens/_/_/Slippers/_/Products.aspx">slippers</a> </li>
 							<li> <a href="/en-US/Womens/_/_/Casual+Shoes/_/Products.aspx">casual shoes</a> </li>
 							<li> <a href="/en-US/Womens/_/_/Dress+Shoes/_/Products.aspx">dress shoes</a> </li>
 							<li> <a href="/womens-sandals">sandals</a> </li>
-							<li> <a href="/en-US/Womens/_/_/_/Width+Wide_C+or+W/Products.aspx">wides</a> </li>
+							<li> <a href="/womens-wide-shoes">wides</a> </li>
 							<li> <a href="/en-US/Womens/_/_/_/Width+Narrow_3A+or+2A+or+N+or+Slim/Products.aspx">narrows</a> </li>
 							<li> <a href="/en-US/Womens/_/_/_/On+Sale/Products.aspx">sale</a></li> 
 							<li class="bottom"> <a href="/en-US/Womens/_/_/_/Clearance/Products.aspx">clearance</a></li>
@@ -475,7 +491,7 @@ var caInit = [];
 						</ul>
 					</div>
 				</li>
-				<li> <a href="/girls">Girls</a> <div class="outer-drop-down">
+				<li> <a href="/girls-shoes">Girls</a> <div class="outer-drop-down">
 						<ul class="drop-down-box">
 							<li> <a href="/girls">view all</a> </li>
 							<li> <a href="/en-US/Kids-Girls/_/_/_/New+Arrivals/Products.aspx">new arrivals</a> </li>
@@ -484,25 +500,28 @@ var caInit = [];
 							<li> <a href="/en-US/Kids-Girls/_/_/Casual+Shoes/_/Products.aspx">casual shoes</a> </li>
 							<li> <a href="/en-US/Kids-Girls/_/_/Dress+Shoes/_/Products.aspx">dress shoes</a> </li>
 							<li> <a href="/en-US/Kids-Girls/_/_/Sandals/_/Products.aspx">sandals</a> </li>
-							<li> <a href="/en-US/Kids-Girls-Infants/_/_/_/_/Products.aspx">infants</a> </li>
-							<li> <a href="/en-US/Kids-Girls-Toddlers/_/_/_/_/Products.aspx">toddlers</a> </li>
+							<li> <a href="/baby-girl-shoes?icid=girlsDD_baby">baby (0-3.5)</a> </li>
+							<li> <a href="/en-US/Kids-Girls-Toddler/_/_/_/_/Products.aspx?icid=girlsDD_toddler">toddler (4-10)</a> </li>
+							<li> <a href="/en-US/Kids-Girls-Preschool/_/_/_/_/Products.aspx?icid=girlsDD_preschool">preschool (10.5-3)</a></li> 
+							<li> <a href="/en-US/Kids-Girls-Grade+School/_/_/_/_/Products.aspx?icid=girlsDD_gradeschool">grade school (3.5-7)</a></li>
 							<li> <a href="/en-US/Kids-Girls/_/_/_/On+Sale/Products.aspx">sale</a></li> 
 							<li class="bottom"> <a href="/en-US/Kids-Girls/_/_/_/Clearance/Products.aspx">clearance</a></li>
 						</ul>
 					</div>
 				</li>
-				<li> <a href="/boys">Boys</a> <div class="outer-drop-down">
+				<li> <a href="/boys-shoes">Boys</a> <div class="outer-drop-down">
 						<ul class="drop-down-box">
 							<li> <a href="/boys">view all</a> </li>
 							<li> <a href="/en-US/Kids-Boys/_/_/_/New+Arrivals/Products.aspx">new arrivals</a> </li>
-							<li> <a href="/en-US/Content/starwars_landing.aspx?icid=boysDD_starwarsLP">star wars skechers</a> </li>
 							<li> <a href="/en-US/Kids-Boys/_/_/Athletic+Shoes/_/Products.aspx">athletic shoes</a> </li>
 							<li> <a href="/en-US/Kids-Boys/_/_/Boots/_/Products.aspx">boots</a> </li>
 							<li> <a href="/en-US/Kids-Boys/_/_/Casual+Shoes/_/Products.aspx">casual shoes</a> </li>
 							<li> <a href="/en-US/Kids-Boys/_/_/Dress+Shoes/_/Products.aspx">dress shoes</a> </li>
 							<li> <a href="/en-US/Kids-Boys/_/_/Sandals/_/Products.aspx">sandals</a> </li>
-							<li> <a href="/en-US/Kids-Boys-Infants/_/_/_/_/Products.aspx">infants</a> </li>
-							<li> <a href="/en-US/Kids-Boys-Toddlers/_/_/_/_/Products.aspx">toddlers</a> </li>
+							<li> <a href="/baby-boy-shoes?icid=boysDD_baby">baby (0-3.5)</a> </li>
+							<li> <a href="/en-US/Kids-Boys-Toddler/_/_/_/_/Products.aspx?icid=boysDD_toddler">toddler (4-10)</a></li>
+							<li> <a href="/en-US/Kids-Boys-Preschool/_/_/_/_/Products.aspx?icid=boysDD_preschool">preschool (10.5-3)</a></li> 
+							<li> <a href="/en-US/Kids-Boys-Grade+School/_/_/_/_/Products.aspx?icid=boysDD_gradeschool">grade school (3.5-7)</a></li> 
 							<li> <a href="/en-US/Kids-Boys/_/_/_/On+Sale/Products.aspx">sale</a></li> 
 							<li class="bottom"> <a href="/en-US/Kids-Boys/_/_/_/Clearance/Products.aspx">clearance</a></li>
 						</ul>
@@ -547,9 +566,11 @@ var caInit = [];
 				</li>
 				<li> <a href="" class="no-link-ffnav">Inspiration</a><div class="outer-drop-down">
 						<ul class="drop-down-box">
-							<li> <a href="/trendshop">Trend Shop</a> </li>
-							<li> <a href="http://blog.famousfootwear.com/">Blog</a> </li>
+							<li> <a href="/stepforward">step forward</a> </li>
+							<li> <a href="/boot-trends">boot trend shop</a> </li>
+							<li> <a href="http://blog.famousfootwear.com/" rel="nofollow">Blog</a> </li>
 							<li> <a href="/ohsofamous">#ohsofamous</a> </li>
+							<li> <a href="/videos">videos</a> </li>
 							<li class="bottom"> <a href="/toppinned">Top Pinned</a> </li>
 						</ul>
 					</div> 
@@ -583,7 +604,7 @@ var caInit = [];
 	</div>
 	<div id="customer-menu">
 		<div class="container">
-			<a class="title" href="/en-US/Content/rewardsoverview.aspx">Rewards</a>
+			<a class="title" href="/rewardsinfo">Rewards</a>
 
 			<div id="action-bar">
 				<ul>
@@ -763,9 +784,6 @@ window.setHeaderCount();
 </script><!-- Shop:20000_Template_TopMargin [Main] END -->
     </div>
     <div id="pageContainer">
-        <div class="targettedCampaignBanner">
-        </div>
-        <script src="/Scripts/TargettedCampaignBanner.js"></script>
         
         
         
@@ -777,16 +795,20 @@ window.setHeaderCount();
         </div>
         <form method="post" action="Content.aspx?contentid=PRIVACY" id="aspnetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="kcaN4nCjHyqQescwYYDZdBpi6Q7KX8D+DdTQY7+riS9b9YnZPpJmcEWkmpzNKBWee5YnJM1k+ZctfQqci7hSowUQvM0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zfi3Bpk2BrKPjiKcUWmyBKB0aEwdbHfBMB1YPEgH2oX47udG1dPYuW2pM0BKntYsQP3f45TyuhGtlIWNn1ckWN04pbI=">
 </div>
 
 
 <script type="text/javascript">
 //<![CDATA[
-  var lessSecure = 'txtfname txtlname partnerid '; 
+var freshAddressSiteToken='7c1e07001ba18249799b7f5674716bbf61335c745c93138ac537e330c052383528ebe69005f12b76e0d48ae70aa5f197';  var lessSecure = 'txtfname txtlname partnerid '; 
                                     var allowAll = '';//]]>
 </script>
 
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="65E7F3AF">
+</div>
             <div id="content-body">
                 <table cellpadding="0" cellspacing="0" border="0" id="content-frame">
                     <tbody><tr>
@@ -812,12 +834,14 @@ window.setHeaderCount();
 	width:auto;
 	background: white;
 	padding:0;
-	border-right: 1px solid #C9C9C9;
+	border-right: 1px solid #e6e6e6;
 }
 #defaultLeftNav {
 	width:211px;
-	font-family: "Trebuchet MS", sans-serif;
 	font-size:12px;
+}
+ul {
+	padding: 0 0 0 16px;
 }
 #defaultLeftNav ul, 
 #defaultLeftNav li, 
@@ -829,12 +853,13 @@ window.setHeaderCount();
 	list-style: none;
 }
 #defaultLeftNav h5 {
-	font-family:"Archer", "Trebuchet MS", sans-serif;
+	font-family:"brandon-grotesque","Arial",sans-serif;
 	font-size: 1.3em;
 	font-style:normal;
-	font-weight: normal;
+	font-weight: 600;
 	color:#333;
 	padding:.3em 0;
+	text-transform: uppercase;
 } 
 #defaultLeftNav ul {
 	margin-bottom: 1.8em;
@@ -843,16 +868,17 @@ window.setHeaderCount();
 	line-height: 1.5em;
 }
 #defaultLeftNav a {
-	color:#3086b5;
+	color:#007ab9;
 	text-decoration:none; 
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: "proxima-nova","Helvetica Neue",Helvetica,sans-serif;
 	line-height: 1.6em;
+	font-weight: 500;
+    font-size: 1.1em;
 }
 
 	.csr-landing {
 		margin-left: 3em;
-		font-family: "Trebuchet MS", sans-serif;
-		color:#23292a;
+		color:#101820;
 		font-size:14px;
 	}
 	.csr-landing h2,
@@ -870,39 +896,38 @@ window.setHeaderCount();
 		color:inherit;
 	}
 	.csr-landing h5 {
-		color:#23292a;
+		color:#101820;
 		font-size: 1.1em;
 		margin-bottom: .3em;
 	}
 	.csr-landing h4 {
-		color:#0073ae;
+		color:#101820;
 		font-size: 1.3em;
 		margin-bottom: .3em;
 	}
 	.csr-landing h2 {
-		font-size: 3.5em;
-		font-family: "DIN", sans-serif;
-		word-spacing:-.2em;
-		letter-spacing: -.01em;
-		font-weight: normal;
-		color:#ab1919;
+		font-size: 2.2em;
+		font-family: "brandon-grotesque","Arial",sans-serif;
+		font-weight: 600;
+		color:#101820;
 		text-transform: uppercase;
 		line-height: 1em;
 		margin:.6em 0 0.2em;
 	}
 	.csr-landing h3 {
 		font-size: 1.4em;
-		font-style: italic;
-		font-weight: normal;
-		font-family: Archer, "Trebuchet MS", sans-serif;
-		color:#6b6969;
+		font-weight: 600;
+		text-transform: capitalize;
+		color:#101820;
+		margin: 1em 0 0.2em;
 	}
-	.csr-landing a { color:#0073ae; text-decoration: none;}
+	.csr-landing a { color:#007ab9; text-decoration: none;}
 	.csr-landing a:hover, .csr-landing a:focus { text-decoration:underline;}
 	.csr-landing p,
 	.csr-landing li {
 		line-height: 1.35;
-		margin:.5em 0;
+		margin: 0 0 1em;
+		color: #53565a;
 	}
 	.csr-landing .button {	
 		border-radius: .5em;
@@ -918,23 +943,23 @@ window.setHeaderCount();
 		text-decoration: none;
 	}
 	.csr-landing .button.hollow {
-		color:#0073ae;
-		border:1px solid #0073ae;
+		color:#007ab9;
+		border:1px solid #007ab9;
 	}
 	.csr-landing .button.hollow:hover {
 		color:#fff;
-		background:#0073ae;
+		background:#007ab9;
 	}
 	.csr-landing .button.standard {
 		box-shadow: 0 .15em 0 #004f78;
 		background: #3a9acf; /* Old browsers */
-		background: -moz-linear-gradient(top,  #3a9acf 0%, #0073ae 100%); /* FF3.6+ */
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3a9acf), color-stop(100%,#0073ae)); /* Chrome,Safari4+ */
-		background: -webkit-linear-gradient(top,  #3a9acf 0%,#0073ae 100%); /* Chrome10+,Safari5.1+ */
-		background: -o-linear-gradient(top,  #3a9acf 0%,#0073ae 100%); /* Opera 11.10+ */
-		background: -ms-linear-gradient(top,  #3a9acf 0%,#0073ae 100%); /* IE10+ */
-		background: linear-gradient(to bottom,  #3a9acf 0%,#0073ae 100%); /* W3C */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a9acf', endColorstr='#0073ae',GradientType=0 ); /* IE6-9 */
+		background: -moz-linear-gradient(top,  #3a9acf 0%, #007ab9 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3a9acf), color-stop(100%,#007ab9)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #3a9acf 0%,#007ab9 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #3a9acf 0%,#007ab9 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #3a9acf 0%,#007ab9 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  #3a9acf 0%,#007ab9 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a9acf', endColorstr='#007ab9',GradientType=0 ); /* IE6-9 */
 	}
 	.csr-landing .button.standard:hover {
 		background:#3a9acf;
@@ -1023,9 +1048,12 @@ window.setHeaderCount();
     <h4>Cookies</h4>
     <p>A cookie is a piece of data stored on the hard drive of your computer, containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can make the browsing experience easier. For instance, by accepting a cookie from our site, you will not have to type in your password more than once, thereby saving time while on our site. Most browsers can be set to reject cookies or to ask you if you want to accept/reject an incoming cookie. If you reject the cookie, you may still use our site, although you will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our customers to enhance the experience on our site.</p>
 
-    <h4>Log Files</h4>
+    <h4>Website and Log Files</h4>
 
-    <p>We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. </p>
+    <p>We may collect information automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, or and other tracking technologies. We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services.</p>
+
+    <h4>Do Not Track Policy</h4>
+    <p>Some web browsers have a “do not track” feature that lets you tell websites you visit that you do not want to have your online activities tracked. These features are not yet uniform across browsers, so this site is not currently set up to respond to those signals.</p>
 
     <h4>Sharing</h4>
 
@@ -1202,22 +1230,7 @@ $(document).ready(function(){
         </form>
     </div>
     <div id="SubFooter">
-        <!-- Shop:20000_Template_SubFooter [Main] START --><div class="footer pre">
-	<hr>
-	<div class="columns">
-		<a href="/famousforfamily"><div class="column viy">Famous for Family</div></a>
-		<div class="FfFIcon"></div>
-		<div class="column right t-right brands">
-			<!-- <a href="#"><span class="icon-b-adidassports"></span></a> -->
-			<a href="/nike?icid=ff-footer"><img src="/Content/desktop/assets/img/brands/nike.gif" alt="Shop Nike Shoes"></a>
-			<a href="/skechers?icid=ff-footer"><img src="/Content/desktop/assets/img/brands/skechers.gif" alt="Shop Skechers Shoes"></a>
-			<a href="/converse?icid=ff-footer"><img src="/Content/desktop/assets/img/brands/converse.gif" alt="Shop Converse Shoes"></a>
-			<a href="/sperrys?icid=ff-footer"><img src="/Content/desktop/assets/img/brands/sperry.gif" alt="Shop Sperry Top Sider"></a>
-			<a href="/vans?icid=ff-footer"><img src="/Content/desktop/assets/img/brands/vans.gif" alt="Shop Vans Shoes"></a>
-		</div>
-	</div>
-</div>
-<div id="site-footer" class="footer">
+        <!-- Shop:20000_Template_SubFooter [Main] START --><div id="site-footer" class="footer">
 	<div class="columns">
 		<div class="column social">
 			<a href="http://www.facebook.com/famousfootwear" class="icon-facebook" target="_blank"></a>
@@ -1229,56 +1242,57 @@ $(document).ready(function(){
 		<div class="column right t-right va-middle nowrap email-column">
 			<span class="notice">Sign up for trend updates &amp; special offers*</span>
 			<div class="submit-wrapper">
-				<input id="footer-email-submit" type="text" name="q" class="input emailInput" placeholder="Enter Your Email Address">
+				<input id="footer-email-submit" type="text" name="q-email" class="input emailInput" placeholder="Enter Your Email Address">
 				<button type="button" class="btn submit">Sign Up</button>
 			</div>
 		</div>
 	</div>
 	<hr>
-	<div class="columns five">
-		<div class="column">
+	<div class="columns six">
+		<div class="column col1">
 			<ul>
 				<li class="hdr">Our Stores</li>
 				<li><a href="/Community/StoreLocator.aspx">store locator</a></li>
-				<li><a href="/en-US/Content/homedelivery.aspx">home delivery</a></li>
-				<li><a href="/en-US/Content/grandOpening.aspx">grand openings</a></li>
+				<li><a href="/homedelivery">home delivery</a></li>
+				<li><a href="/grandopening">grand openings</a></li>
 			</ul>
 		</div>
-		<div class="column">
+		<div class="column col2">
 			<ul>
 				<li class="hdr">Rewards Program</li>
-				<li><a href="/Profiles/WelcomeDashboard.aspx">log in</a></li>
-				<li><a href="/en-US/Content/rewardsoverview.aspx">learn more</a></li>
-				<li><a href="/Profiles/Login.aspx?returnurl=%2fProfiles%2fWelcomedashboard.aspx">join today</a></li>
+				<li><a href="/account/login">log in</a></li>
+				<li><a href="/rewardsinfo">learn more</a></li>
+				<li><a href="/account/login">join today</a></li>
 				<li><a href="/en-US/Content/terms_of_use.aspx#tc-rewards">terms and conditions</a></li>
 			</ul>
 		</div>
-		<div class="column">
+		<div class="column col3">
 			<ul>
 				<li class="hdr">Customer Service</li>
 				<li><a href="/en-US/Content/CUSTSERV.aspx">help</a></li>
 				<li><a href="/contactus">contact us</a></li>
 				<li><a href="/trackorder">order status</a></li>
-				<li><a href="/en-US/Content/SHIPPING.aspx">shipping</a></li>
+				<li><a href="/shipping">shipping</a></li>
 				<li><a href="/en-US/Content/howtoreturn.aspx">returns</a></li>
 				<li><a href="/en-US/Content/exclusions.aspx">exclusions</a></li>
 				<li><a href="/Profiles/WelcomeDashboard.aspx">my account</a></li>
-				<li><a href="/en-US/Content/fit.aspx">fit assistance</a></li>
-				<li><a href="/en-US/Content/giftcards.aspx">gift cards</a></li>
+				<li><a href="/shoe-size-chart">shoe size charts</a></li>
+				<li><a href="/giftcards">gift cards</a></li>
 			</ul>
 		</div>
-		<div class="column">
+		<div class="column  col4">
 			<ul>
 				<li class="hdr">Our Company</li>
-				<li><a href="/famousforfamily">Famous for family</a></li>
 				<li><a href="/en-US/Content/Company.aspx">about us</a></li>
-				<li><a href="/en-US/Content/career.aspx">careers</a></li>
+				<li><a href="/stepforward">step forward</a></li>
+				<li><a href="https://jobs.caleres.com/category/famous-footwear-jobs/3530/21344/1">careers</a></li>
 				<li><a href="/en-US/Content/sitemap.aspx">site map</a></li>
 				<li><a href="/mobileapp">our app</a></li>
+				<li><a href="/videos">videos</a></li>
 				<li><a href="/famousinthecommunity">Famous in the community</a></li>
 			</ul>
 		</div>
-		<div class="column">
+		<div class="column col5">
 			<ul>
 				<li class="hdr">Policies</li>
 				<li><a href="/en-US/Content/security.aspx">security</a></li>
@@ -1288,12 +1302,29 @@ $(document).ready(function(){
 				<li><a href="/Content/core/legal/Caleres-California-Supply-Chain-Act-Transparency-Statement_05_29_15.pdf" target="_blank">California Supply Chains Act</a></li>
 			</ul>
 		</div>
+		<div class="column col6">
+			<ul>
+				<li class="hdr">MORE BRANDS</li>
+				<li><a href="/puma">Puma</a></li>
+				<li><a href="/adidas">Adidas</a></li>
+				<li><a href="/timberland">Timberland</a></li>
+				<li><a href="/birkenstock-sandals">Birkenstock</a></li>
+				<li><a href="/dr-martens">Dr. Martens</a></li>
+				<li><a href="/new_balance">New Balance</a></li>
+				<li><a href="/clarks">Clarks</a></li>
+				<li><a href="/crocs">Crocs</a></li>
+				<li><a href="/reebok">Reebok</a></li>
+				<li><a href="/asics">Asics</a></li>
+				<li><a href="/Shopping/MoreBrands.aspx">View All Brands</a></li>
+			</ul>
+
+		</div>
 		<a href="http://www.essentialaccessibility.com/" class="abs-left-bottom"><img src="/Content/desktop/assets/img/accessibility.png"></a>
 	</div>
 </div>
 <div id="site-footer-bottom">
 	<div class="spaced site-info">
-		<img src="/Content/desktop/assets/img/paypal.png">
+		<img src="/Content/desktop/assets/img/paypal.svg">
 		<span><span class="icon-lock"></span> Secure Checkout</span>
 	</div>
 	<p>*By entering my email address, I certify that the information I am providing is accurate and that I am at least 18 years of age.</p>
@@ -1319,7 +1350,7 @@ if (/Cart/.test(window.location.href)) { $(document).ready(function() { Rewards.
 
 
 <script type="text/javascript">
-var emailScript = (s.pageName == 'Home Page') ? '/Content/scripts/p.emailValidateHome.min.js' : '/Content/scripts/p.emailValidate.js'; 
+var emailScript = (s.pageName == 'Home Page') ? '/Content/scripts/p.emailValidateHome.min.js?v=2' : '/Content/scripts/p.emailValidate.js?v=2'; 
 
 $.getScript(emailScript, function(){
 	$('#footer-email-submit').emailValidate({
@@ -1436,7 +1467,7 @@ if(parseInt($.cookie("FFCA-EMAIL"))) {
     </div>
     
     
-	<script src="/Scripts/AkamaiTrackingPixel.js"></script><img src="/Akamai/Track.ashx?sciurl=https%3A//web.archive.org/web/20160409000015id_/http%3A//www.famousfootwear.com/privacy&amp;sciref=" style="visibility:hidden;border:none;height:1px;width:1px;">
+	<script src="/Scripts/AkamaiTrackingPixel.js"></script>
 
 
     
