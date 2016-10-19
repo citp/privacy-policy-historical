@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollywoodblog.in privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503035122id_/http%3A//www.tollywoodblog.in/2008/09/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollywoodblog.in privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019022317id_/http%3A//www.tollywoodblog.in/2008/09/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
