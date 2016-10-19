@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418233712id_/http%3A//meyouhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019022540id_/https%3A//account.meyouhealth.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MeYou Health - MeYou Health
+# MeYou Health Account
 
-###  PRIVACY STATEMENT FOR MEYOU HEALTH™ 
-
-  1. **_Our Commitment to You_**
+* **_Our Commitment to You_**
 
 We live in an information based economy. Your bank, your health plan, your employer, your TV cable company, your supermarket, and even your coffee shop collect and store information about you on the Internet. Is all that information about you on the Internet safe? If you did a poll, you would find most Americans believe that any information on the Internet about you is available to anyone willing to search for it.
 
@@ -18,11 +16,11 @@ Keeping your information safe shouldn't even be a question. MeYou Health believe
 
 **Why do we collect information about you?** The answer is very simple. MeYou Health uses your information in order to offer you valuable tools to improve your health.
 
-If you have any questions about our Privacy Policy, our [Terms of Use](https://web.archive.org/terms), or about MeYou Health, or if you just want to tell us what you think about our website, please write us at MeYou Health, 27-43 Wormwood Street, 6th floor, Boston, MA 02210, Attn: Support, or simply email us at [support@meyouhealth.com](mailto:support@meyouhealth.com). We promise that we will answer you.
+If you have any questions about our Privacy Policy, our [Terms of Use](http://meyouhealth.com/terms), or about MeYou Health, or if you just want to tell us what you think about our website, please write us at MeYou Health, 27-43 Wormwood Street, Suite 420, Boston, MA 02210, Attn: Support, or simply email us at [support@meyouhealth.com](mailto:support@meyouhealth.com). We promise that we will answer you.
 
-  2. **_What Information Do We Collect?_**
+* **_What Information Do We Collect?_**
 
-    1. **_Information You Post on Our Website_**
+  1. **_Information You Post on Our Website_**
 
 MeYou Health collects personal health information that you choose to give us through our website. This point is worth repeating. It is always your choice. You choose what information to give us. This includes information you give us by answering questionnaires, responding to surveys, and posting health information on your public profile through the MeYou Health applications and services.
 
@@ -36,14 +34,14 @@ If you don't want everyone to see your post, some of our products allow you to c
 
 **Before you post anything on our public forums or on any social network site, ask yourself:**
 
-      * Do I want everyone to see my post or only certain people?
-      * Would I want my post to appear on the front page of my local newspaper?
+    * Do I want everyone to see my post or only certain people?
+    * Would I want my post to appear on the front page of my local newspaper?
 
 **Again, if the answer is "no," don't post it.**
 
 MeYou Health wants you to safely manage how your information is shared with others on our website. We strongly urge you to review your privacy settings.
 
-    2. **_Information You Allow Your Health Plan or Health Provider to Send Us_**
+  2. **_Information You Allow Your Health Plan or Health Provider to Send Us_**
 
 MeYou Health may ask you for your permission to receive information about you from your health plan or health care provider. In general, this would include your subscriber number, your patient number, your contact information, and information about your eligibility for benefits. In these instances, we would ask you to sign a HIPAA authorization form – very similar to the HIPAA authorization forms you sign when you go to the doctor or a hospital. This authorization form would allow your health plan or health care provider to give us information about you.
 
@@ -53,7 +51,7 @@ Once your health plan or health care provider gives us this information, it is n
 
 **Why do we want this information?** Again, MeYou Health uses your information to offer you valuable tools – to improve your health, to help you get the kind of benefits from your health plan that you really need, and to help you become a knowledgeable consumer of the health care system.
 
-    3. **_Cookies and Other Information_**
+  3. **_Cookies and Other Information_**
 
 Sometimes, MeYou Health uses cookies. **What is a cookie?** A cookie is a small text file that a website sends to your computer. **Why do we use cookies?** Cookies help us quickly identify you whenever you go to our website. Cookies also help your computer view and use websites. If you "block" our cookies, the MeYou Health website may not work properly for you.
 
@@ -61,24 +59,29 @@ We also collect IP addresses and information about the type of computer and brow
 
 **Why do we collect information about your computer?** Knowing what kind of computer you have (e.g., a Mac versus a PC) and what kind of software you are using (e.g., Safari versus Internet Explorer) lets us know the best ways to communicate with your computer.
 
-  3. **_How We Use Personal Information_**
-    1. **_Personal Health Applications_**
+
+
+* **_How We Use Personal Information_**
+
+  1. **_Personal Health Applications_**
 
 We use your information to tell you about Personal Health Applications such as the Daily Challenge. For example, we may offer some users information about how to quit smoking, what works and what doesn't work. We may offer other users information about healthy diets and weight loss. In many instances, we will let you know if your health care plan or health care provider offers special programs to help you achieve your important health care goals.
 
-    2. **_Improving Our Services_**
+  2. **_Improving Our Services_**
 
 We also may put your information together with information about other users of MeYou Health. **Why do we combine (aggregate) user information?** Aggregating user information helps us understand what our users like and don't like about our website. When we merge your information with the information about others on our website, we remove any way of identifying you - that is, we de-identify the information.
 
 On occasion, we use sub-contractors. **Why do we use sub-contractors?** In some instances, sub-contractors help us operate more efficiently than we could operate alone. Our sub-contractors are bound by this Privacy Policy. In addition, we will only give our sub-contractors the information they need to perform a particular task. We don't give sub-contractors blanket access to your information.
 
-    3. **_Disclosures Required by Law_**
+  3. **_Disclosures Required by Law_**
 
 Although it happens more on TV than in real life, in the very unlikely event that a court order requires us to disclose information about you, we will comply with that court order. However, unless prohibited by the court, MeYou Health will try to send you advance notice before turning over any information about you.
 
 In a similarly unlikely scenario, MeYou Health can disclose information about you to the proper authorities if we reasonably believe there is an imminent physical threat to you or others, to defend or assert legal rights, or in response to an immediate public health risk.
 
-  4. **_Security of Our Website_**
+
+
+* **_Security of Our Website_**
 
 MeYou Health is committed to keeping your information safe – away from prying eyes. MeYou Health uses administrative, physical, and technical security technologies and internal controls to protect your information from unauthorized access, use, and disclosure (i.e., breach).
 
@@ -86,13 +89,13 @@ As an additional security protection, we do not give our personnel free access t
 
 In the very unlikely event of a breach, your health plan, your healthcare provider, or MeYou Health will notify you. Federal and state law describes the process for addressing an unauthorized disclosure of information. MeYou Health is committed to this process.
 
-  5. **_Our Commitment to Children's Privacy_**
+* **_Our Commitment to Children's Privacy_**
 
 Protecting the privacy of children is very important to us. The Children's Online Privacy and Protection Act of 1998 (COPPA) limits the collection of personal information about children and defines a "Child" as anyone under the age of 13. We strictly adhere to COPPA.
 
 For that reason, if we know an individual is under the age of 13 we will not collect or store that individual's information. No part of our website is designed to attract anyone under 13. We don't use language or symbols like cute cartoon characters to attract children to our website. We also do not ask or allow any person under the age of 18 to "authorize" their health plan to send us Protected Health Information.
 
-  6. **_How to Close Your Account_**
+* **_How to Close Your Account_**
 
 Hopefully you won't close your MeYou Health account, but if you do, we will delete your user name and personal information from our systems. It is not possible for us to delete all of the information that we have collected from you (for example, your posts to our public forums). However, we will label any information that remains in our systems about you as "anonymous" and remove any way of identifying you.
 
@@ -100,40 +103,42 @@ If you are no longer eligible to participate in MeYou Health through your health
 
 If you wish to close your account, please send us a request at [support@meyouhealth.com](mailto:support@meyouhealth.com).
 
-  7. **_Termination of Your Account_**
+* **_Termination of Your Account_**
 
 MeYou Health has the right to decide to close your account. If we decide to close your account, we will delete your information following the policies spelled out in section 6 of this Privacy Policy.
 
-  8. **_Contact Information_**
+* **_Contact Information_**
 
 If you have any questions, comments, or concerns about this Privacy Policy or about our services, please contact MeYou Health Customer Support at [support@meyouhealth.com](mailto:support@meyouhealth.com) or at the address below:
 
-MeYou Health, LLC, 27-43 Wormwood Street, 6th floor, Boston, MA 02210, Attn: Support
+MYH, Inc., 27-43 Wormwood Street, Suite 420, Boston, MA 02210, Attn: Support
 
-  9. **_Updates and the Effective Date of this Privacy Policy_**
+* **_Updates and the Effective Date of this Privacy Policy_**
 
 From time to time, MeYou Health may change this Privacy Policy. Most of time, we expect the changes to be very minor. We will notify you 30 days prior to any material change unless immediate changes are necessary to protect your information. If we make material changes to how we use information you have already given us, we will seek your consent before applying the changes to you. The Privacy Policy on our website at the time of use is the Privacy Policy that will govern our relationship.
 
 The effective date of this Privacy Policy is March 18, 2015.
 
-  10. **_Scope of this Privacy Policy_**
+* **_Scope of this Privacy Policy_**
 
 This Privacy Policy applies only to information collected through our website and information you authorize others, such as your health plan, to send to us. It does not apply to information collected offline. Please be aware that this Privacy Policy also does not apply to:
 
-    * Health plans or healthcare providers holding health information about you,
-    * Outside websites or other sources of information from which you send personal information to MeYou Health,
-    * Websites or other entities to which you send your personal information, and
-    * Websites/hyperlinks that other users post on the public forums of the MeYou Health website.
+  * Health plans or healthcare providers holding health information about you,
+  * Outside websites or other sources of information from which you send personal information to MeYou Health,
+  * Websites or other entities to which you send your personal information, and
+  * Websites/hyperlinks that other users post on the public forums of the MeYou Health website.
+
+
 
 Before you choose to send your personal information to a website outside of MeYou Health, you should carefully review their privacy policies and terms of use. This Privacy Policy does not apply to your health information once you share it with any third party or submit it to any non-MeYou Health website, person, or entity.
 
-  11. **_Definitions_**
+* **_Definitions_**
 
 The terms below have the following meanings when used in this Privacy Policy.
 
 "Health information" means health or medical information about you, which may include medical records, prescription drug records, claims data, or other health or medical information from your health plan or health care provide, as well as symptom diaries or other health-related information you create.
 
-"MeYou Health," "we," "us," or "our" refers to MeYou Health, LLC.
+"MeYou Health," "we," "us," or "our" refers to MYH, Inc.
 
 "MeYou Health website" or "website" means www.meyouhealth.com and any website or software platform on which MeYou Health offers a product or service, such as Daily Challenge.
 
@@ -145,11 +150,4 @@ The terms below have the following meanings when used in this Privacy Policy.
 
 "You" means an individual who creates a MeYou Health account or otherwise accesses our website.
 
-
-
-
 For some MeYou Health services, a different Privacy Policy or Terms of Use may apply. However, we will ask for your consent to these documents before giving you access to these services. In addition, if these services are sponsored by your health plan or health care provider, we may ask for your authorization for these entities to send us health information about you.
-
-#### See how MeYou Health can bring the power of small actions and social support to your population.
-
-[Request a demo](https://web.archive.org/demo)
