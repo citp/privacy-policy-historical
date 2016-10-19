@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieltsmaterial.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330184701id_/http%3A//ieltsmaterial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsmaterial.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019090606id_/http%3A//ieltsmaterial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ http://ieltsmaterial.com/ uses cookies to store information about visitors’ pr
 
 ### **Our Advertising Partners**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
   * Google
 
@@ -32,6 +32,12 @@ You may consult this listing to find the privacy policy for each of the advertis
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://ieltsmaterial.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
 http://ieltsmaterial.com/ has no access to or control over these cookies that are used by third-party advertisers.
+
+  * Amazon
+
+
+
+_Ieltsmaterial.com_ is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 ### **Third Party Privacy Policies**
 
@@ -50,7 +56,89 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 **Update**  
 This Privacy Policy was last updated on: Wednesday, January 6th, 2016.  
- _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+**Main IELTS Pages:**
+
+_This website is to develop your **IELTS** skills with tips, model answers, lessons, free books, and more. Each section ( **Listening, Speaking,[Writing](http://ieltsmaterial.com/writing "Writing"), Reading**) has a complete collection of lessons to help you improve your **IELTS** skills._
+
+  * **[IELTS Speaking](http://ieltsmaterial.com/speaking/)**
+
+| 
+
+  * [**IELTS Writing Task 1**](http://ieltsmaterial.com/writing/writing-task-1/)
+
+| 
+
+  * **[Vocabulary for IELTS](http://ieltsmaterial.com/vocabulary/)**
+
+  
+---|---|---  
+  
+  * **[IELTS Listening](http://ieltsmaterial.com/listening/)**
+
+| 
+
+  * [**IELTS Writing Task 2**](http://ieltsmaterial.com/writing/writing-task-2/)
+
+| 
+
+  * **[Free IELTS Books](http://ieltsmaterial.com/ielts-books/)**
+
+  
+  
+  * **[IELTS Reading](http://ieltsmaterial.com/reading/)**
+
+| 
+
+  * [**IELTS Writing Forum**](http://writingielts.net/)
+
+| 
+
+  * [**Free IELTS**](http://ieltsmaterial.com/free-ielts-practice-tests/) **[ Practice Tests](http://ieltsmaterial.com/free-ielts-practice-tests/)**
+
+  
+  
+  * **[IELTS Writing](http://ieltsmaterial.com/writing/)**
+
+| 
+
+  * **[Grammar for IELTS](http://ieltsmaterial.com/grammar/)**
+
+| 
+
+  * **[Exam Tips](http://ieltsmaterial.com/exam-tips/)**
+
+  
+  
+  * **[Word of the Day](http://ieltsmaterial.com/word-of-the-day/)**
+
+| 
+
+  * [**Idiom of the day**](http://ieltsmaterial.com/idiom-of-the-day/)
+
+| 
+
+  * [Homepage](http://ieltsmaterial.com/)
+
+  
+**Get all the latest updates/lessons via email:**
+
+_Subscribe for free IELTS lessons/Books/Tips/Sample Answers/Advice from our IELTS experts. We help millions of IELTS learners maximize their IELTS scores!_
+
+[Subscribe to IELTS Material to receive the latest lessons](https://feedburner.google.com/fb/a/mailverify?uri=ieltsmaterial&loc=en_US)
+
+Did not See What You Were Looking For? - Try Search!  
+Search for:
 
   
 
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
+
+
+
+Improve your IELTS skills with tips, model answers, lessons, free books, and more ------------ "The more you share, the more you get."
