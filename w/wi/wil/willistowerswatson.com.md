@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willistowerswatson.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325015613id_/https%3A//www.willistowerswatson.com/en/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willistowerswatson.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019225946id_/https%3A//www.willistowerswatson.com/en/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - Willis Towers Watson
 
@@ -14,7 +14,7 @@ Websites and specific web pages linked from willistowerswatson.com may be subjec
 
 Where links from willistowerswatson.com are provided to non-Willis Towers Watson websites, Willis Towers Watson is not responsible for those websites. These third-party websites will be governed by different terms of use (including privacy notices) and you are solely responsible for viewing and using each such website in accordance with the applicable terms of use. Willis Towers Watson is not responsible for how your personal information is handled by such third-party websites.
 
-If you are a job applicant, please note that in addition to this privacy notice, a separate privacy notice will apply to personal information collected through our job application portal in addition to this privacy notice. This can be [viewed here](http://www.jobs.net/jobs/willis-towers-watson/en-us/TalentNetwork/Pages/PrivacyPolicy.aspx "viewed here"). 
+If you are a job applicant, please note that in addition to this privacy notice, a separate privacy notice will apply to personal information collected through our job application portal in addition to this privacy notice. This can be [viewed here](https://careers.willistowerswatson.com/assets/pdfs/Privacy-Policy.pdf "viewed here"). 
 
 ### 2. WILLIS TOWERS WATSON WEBSITE
 
@@ -101,12 +101,12 @@ If you are an individual based in South Africa and wish to exercise your rights 
 
 Under the Promotion of Access to Information Act 2000 ("PAIA"), organisations in South Africa are required to grant access to records they hold if those records are required by the requestor to exercise or protect any legal right the requestor enjoys under the law. 
 
-Information which Willis Towers Watson is required to publish pursuant to PAIA (including an explanation of how records and personal information held by Willis Towers Watson may be accessed), is set out in Willis's PAIA s51 Manual, which can be downloaded by clicking [here](https://www.towerswatson.com/~/media/WTW/PDF/privacy-and-cookies/FINAL%20PAIA%20Manual.docx?la=en). The form to be used for making an information access request under PAIA/POPI (Form C) can be downloaded from [here](http://www.justice.gov.za/forms/form_paia.htm "here").
+Information which Willis Towers Watson is required to publish pursuant to PAIA (including an explanation of how records and personal information held by Willis Towers Watson may be accessed), is set out in Willis's PAIA s51 Manual, which can be downloaded by clicking [here](https://www.willistowerswatson.com/-/media/WTW/PDF/privacy-and-cookies/FINAL-PAIA-Manual.docx?la=en). The form to be used for making an information access request under PAIA/POPI (Form C) can be downloaded from [here](http://www.justice.gov.za/forms/form_paia.htm "here").
 
 ### Protection of Personal Information Act 2013
 
 Additionally, under the Protection of Personal Information Act 2013 ("POPI"), organisations in South Africa are required to be open and transparent about how they handle personal information, and allow individuals to access and correct their personal information which the organisations hold.
 
-Explanation regarding how and why Willis Towers Watson handles personal information of its clients, insureds, and claimants (which Willis Towers Watson is required to provide under POPI) is set out in Willis Towers Watson’s Client Privacy Notice, which can be downloaded by clicking [here](https://www.towerswatson.com/~/media/WTW/PDF/privacy-and-cookies/Final%20client%20POPI%20privacy%20notice.pdf?la=en).
+Explanation regarding how and why Willis Towers Watson handles personal information of its clients, insureds, and claimants (which Willis Towers Watson is required to provide under POPI) is set out in Willis Towers Watson’s Client Privacy Notice, which can be downloaded by clicking [here](https://www.willistowerswatson.com/-/media/WTW/PDF/privacy-and-cookies/Final-client-POPI-privacy-notice.pdf?la=en).
 
-Explanation regarding how and why Willis Towers Watson handles personal information of its job applicants, employees, and other workers (which Willis is required to provide under POPI) is set out in Willis Towers Watson's Workers Privacy Notice, which can be downloaded by clicking [here](https://www.towerswatson.com/~/media/WTW/PDF/privacy-and-cookies/Final%20workers%20POPI%20privacy%20notice.pdf?la=en).
+Explanation regarding how and why Willis Towers Watson handles personal information of its job applicants, employees, and other workers (which Willis is required to provide under POPI) is set out in Willis Towers Watson's Workers Privacy Notice, which can be downloaded by clicking [here](https://www.willistowerswatson.com/-/media/WTW/PDF/privacy-and-cookies/Final-workers-POPI-privacy-notice.pdf?la=en).
