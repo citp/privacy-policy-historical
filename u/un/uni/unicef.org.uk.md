@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326204416id_/http%3A//www.unicef.org.uk/About-us/Notices/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019052725id_/http%3A//unicef.org.uk/About-us/Notices/Privacy-statement) for the most accurate reproduction.*
 
 # Cookies and privacy | Unicef UK
 
@@ -69,7 +69,7 @@ We will use the information you provide to us to, for example:-
   * provide a personalised service to you when you receive our emails and improve our emails to provide you with the best service
   * record any contact we have with you
   * prevent or detect fraud or abuses of our websites and enable third parties to carry out technical, logistical or other functions on our behalf
-  * in aggregate (and therefore anonymously) to profile use of our websites and carry out research on our users' demographics, interests and behaviour to help us gain a better understanding of how our users navigate and use our websites, and to enable us to improve our service to you
+  * to profile use of our websites and carry out research on our users' demographics, interests and behaviour to help us gain a better understanding of how our users navigate and use our websites, and to enable us to improve our service to you
   * provide you with information which we think may be of interest to you, as explained below.
 
 
