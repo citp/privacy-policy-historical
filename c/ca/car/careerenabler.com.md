@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406143451id_/http%3A//careerenabler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020005417id_/http%3A//careerenabler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - career enablercareer enabler
 
