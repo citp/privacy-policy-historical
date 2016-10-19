@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captures.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423082553id_/http%3A//www.captures.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captures.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019044311id_/http%3A//www.captures.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Create a Web Page, Create a Free Web Page, Create Your Own Web Page
 
