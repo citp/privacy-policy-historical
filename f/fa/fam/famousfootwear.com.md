@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314082035id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019143636id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Famous Footwear
 
@@ -48,9 +48,13 @@ Occasionally, we may request information from customers via surveys or contests.
 
 A cookie is a piece of data stored on the hard drive of your computer, containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can make the browsing experience easier. For instance, by accepting a cookie from our site, you will not have to type in your password more than once, thereby saving time while on our site. Most browsers can be set to reject cookies or to ask you if you want to accept/reject an incoming cookie. If you reject the cookie, you may still use our site, although you will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our customers to enhance the experience on our site.
 
-#### Log Files
+#### Website and Log Files
 
-We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. 
+We may collect information automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, or and other tracking technologies. We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services.
+
+#### Do Not Track Policy
+
+Some web browsers have a “do not track” feature that lets you tell websites you visit that you do not want to have your online activities tracked. These features are not yet uniform across browsers, so this site is not currently set up to respond to those signals.
 
 #### Sharing
 
