@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game4ad.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623031540id_/http%3A//www.game4ad.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game4ad.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019185636id_/http%3A//game4ad.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Game4AD.com Privacy Policy
 
