@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsickandnearlydead.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402050127id_/http%3A//www.fatsickandnearlydead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsickandnearlydead.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019104122id_/http%3A//www.fatsickandnearlydead.com/privacy.html) for the most accurate reproduction.*
 
 # About the Film | Fat Sick & Nearly Dead
 
