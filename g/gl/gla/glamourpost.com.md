@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamourpost.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501072729id_/http%3A//www.glamourpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamourpost.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019205146id_/http%3A//glamourpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glamour PostGlamour Post
 
