@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplygluten-free.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413073845id_/https%3A//simplygluten-free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygluten-free.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019080911id_/https%3A//simplygluten-free.com/privacy-policy) for the most accurate reproduction.*
 
-# Policy & Guarantee | Simply Gluten Free
+# Simply Gluten Free Privacy Policy & Guarantee
 
 **Our Guarantee**
 
