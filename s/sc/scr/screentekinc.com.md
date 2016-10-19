@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the screentekinc.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409170540id_/http%3A//www.screentekinc.com/privacy-policies.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screentekinc.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019152005id_/http%3A//www.screentekinc.com/privacy-policy) for the most accurate reproduction.*
 
-# ScreenTek Privacy Policy
+# Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you register on our site or place an order. 
+We collect information from you when you register on our site or place an order. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
  **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways: 
 
 \- To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -35,7 +35,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
  **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
@@ -71,15 +71,15 @@ This site uses ClickTale web analytics service. ClickTale may record mouse click
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.screentekinc.com/terms-and-conditions.shtml>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at<http://www.screentekinc.com/terms-and-conditions.shtml>
 
-**Changes to our Privacy Policy**
+ **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-**Contacting Us**
+ **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.screentekinc.com  
 8282 El Rio St  
