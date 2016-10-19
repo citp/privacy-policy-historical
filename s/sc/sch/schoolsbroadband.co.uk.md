@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schoolsbroadband.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606224947id_/http%3A//schoolsbroadband.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolsbroadband.co.uk privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019220625id_/http%3A//www.schoolsbroadband.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Schools Broadband Schools Broadband
+# Privacy Policy
 
 We take privacy concerns seriously. That’s why we’ve designed our site so that you can browse freely without revealing your name or any other information about yourself – unless you choose to do so.
 
