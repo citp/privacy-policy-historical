@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpbook.in privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530143825id_/http%3A//www.jumpbook.in/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbook.in privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019215505id_/http%3A//www.jumpbook.in/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Social MarketPlace
 
