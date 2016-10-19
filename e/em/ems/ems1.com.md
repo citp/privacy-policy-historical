@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611232144id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019204638id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Praetorian Digital
 
 San Francisco, CA 94111
 
-Toll Free: 866/402-4371
+Toll Free: 888-765-4231 ext 8328
 
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy applies to [www.EMS1.com](http://www.ems1.com/) (“EMS1”) sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
