@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicgalleria.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508224717id_/http%3A//chicgalleria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicgalleria.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019190601id_/http%3A//chicgalleria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ Chic Galleria
+# Privacy Policy | Chic Galleria
 
 Your online privacy is very important to us, and, therefore, the uses of your personal information on Chic Galleria are disclosed here. Your use of this website is based on the assumption of your acceptance of how Chic Galleria  operates, as indicated in this Privacy Policy. Here is a list of what information is collected about you when you visit this site.
 
