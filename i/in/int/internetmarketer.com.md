@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketer.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430201901id_/http%3A//autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketer.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019150814id_/http%3A//www.internetmarketer.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,30 +52,30 @@ You may choose to provide personal information to website visitors or other thir
 
 **AUTORESPONDERS**
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to info[at]autopilotinternetincome.com, or sending us mail to the address listed below. 
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to info[at]InternetMarketer.com, or sending us mail to the address listed below. 
 
 **POLICY CHANGES**
 
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to info[at]autopilotinternetincome.com and providing us with information relating to your concern.
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to info[at]InternetMarketer.com and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:
 
-Autopilot Internet Ltd  
-122 Middle Road, #06-04  
-Midlink Plaza, Singapore 188973  
+Internet Marketer Pte Ltd  
+51 Goldhill Plaza, #08-02  
+Singapore 308900   
 Singapore 
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to info[at]autopilotinternetincome.com or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to info[at]InternetMarketer.com or write us at the following address:
 
-Autopilot Internet Ltd  
-6 Mayo Street, #02-01  
-Singapore, Singapore 208306  
+Internet Marketer Pte Ltd  
+51 Goldhill Plaza, #08-02  
+Singapore 308900   
 Singapore 
 
 This privacy policy was last updated on 12-07-2009.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at AutopilotInternetIncome.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at InternetMarketer.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
