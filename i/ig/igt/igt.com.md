@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609151103id_/https%3A//www.igt.com/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019140927id_/https%3A//www.igt.com/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
