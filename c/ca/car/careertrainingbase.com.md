@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careertrainingbase.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616232437id_/http%3A//careertrainingbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careertrainingbase.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019205345id_/http%3A//careertrainingbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
