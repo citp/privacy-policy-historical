@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsblender.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115221216id_/http%3A//www.hitsblender.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsblender.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019121229id_/http%3A//www.hitsblender.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HitsBlender - Free Unlimited Music Online
 
@@ -12,7 +12,7 @@ We do not collect email addresses or any personally identifiable information 
 
 ## Terms of Service
 
-Please also visit our [Terms of Service section](https://web.archive.org/web/20160115221216id_/http%3A//www.hitsblender.com/terms) establishing the use, disclaimers and limitations of liability governing the use of our service.
+Please also visit our [Terms of Service section](https://web.archive.org/web/20161019121229id_/http%3A//www.hitsblender.com/terms) establishing the use, disclaimers and limitations of liability governing the use of our service.
 
 ## Automatic Data Collection
 
