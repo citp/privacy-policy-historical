@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supersalesmachine.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224152id_/http%3A//www.supersalesmachine.net/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersalesmachine.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019213549id_/http%3A//www.supersalesmachine.net/GetStarted/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# *TOP SECRET!* $634.25-$720.35 A Day Profit-Pulling Sales Machine Revealed!
+# Get Your First Website Setup For You For FREE!
 
 We are committed to keeping all your personal details safe and secure. Our privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
