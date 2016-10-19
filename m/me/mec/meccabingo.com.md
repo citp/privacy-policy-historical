@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316074453id_/https%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019061849id_/https%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MeccaBingo
 
@@ -16,13 +16,13 @@
 
 _Types of information_
 
-2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. The information you give us may include your name, age address, telephone number, e-mail address and bank details.
+2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. The information you give us may include but is not limited to your name, age, gender, address, telephone number, e-mail address and bank details.
 
 2.3 If you create an account during the registration process certain information will be stored by us under your account profile include your username, email address, and password.
 
 2.4 We may collect technical information about your computer or device including your IP address, operating system, browser type, time-zone, and browser plug-in details.
 
-2.5 In relation to your activity on our website, we may collect information relating to web addresses that you arrive from or click through to, pages viewed, page response times, download errors, length of time spent on certain pages, page interaction information such as scrolling and clicks, and methods used to browse away from pages.
+2.5 In relation to your activity on our website, we may collect information relating to web addresses that you arrive from or click through to, pages viewed, page response times, download errors, length of time spent on certain pages, page interaction information such as scrolling, clicks, and wagers, and methods used to browse away from pages.
 
 2.6 We may receive information about you if you use any of the other websites we operate or the other services we provide.
 
@@ -33,12 +33,12 @@ _How we may use that information_
 2.8 These purposes are to:
 
   * 2.8.1 ensure that content from our website is presented in the most effective manner for you and for your computer;
-  * 2.8.2 carry out our obligations arising from any contracts entered into between you and us;
-  * 2.8.3 verify your identity and undertake checks for the purposes of the prevention of fraud;
+  * 2.8.2 carry out our obligations arising from any contracts entered into between you and us including payment processing;
+  * 2.8.3 verify your identity and undertake checks for the purposes of the prevention of fraud and risk management;
   * 2.8.4 allow you to participate in interactive features of our service, when you choose to do so;
   * 2.8.5 notify you about changes to our service;
   * 2.8.6 assist us in setting up and managing your account and to build up an accurate customer profile of you;
-  * 2.8.7 provide you, or permit selected third parties to provide you, with information, products or services which we feel may interest you and contact you, or permit selected third parties to contact you, for market research purposes. If you do not want us to use your information in this way please tick the relevant box on the registration form or contact us by one of the methods described in paragraph 4.2 below;
+  * 2.8.7 provide you, or permit selected third parties to provide you, with information, offers, products or services which we feel may interest you and contact you, or permit selected third parties to contact you, for market research purposes. If you do not want us to use your information in this way please tick the relevant box on the registration form or contact us by one of the methods described in paragraph 4.2 below;
   * 2.8.8 enable us to comply with all regulatory requirements, in particular those relating to the identification of individuals under money laundering legislation; and
   * 2.8.9 disclosure as set out in paragraph 5 ( _Disclosure of your Personal Data_ ) below.
 
@@ -144,9 +144,9 @@ Tracking | Contains unique ID of the lead. Can [opt-out](http://www.meccabingo.c
   * 5.2.1 to reputable marketing partners selected by us for the purposes of selecting and serving relevant promotional materials and adverts to you and others (unless you have told us not to);
   * 5.2.2 to a third party in the event that all or a substantial part of our business and assets are acquired (or it is proposed that they be acquired) by that third party and, in such circumstances, personal information held by us about our customers is likely to be one of the transferred assets;
   * 5.2.3 to any competent legal, regulatory or law enforcement authority, in order to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property or safety of Rank Digital Gaming (Alderney) Limited, our customers, or others. In the event of disclosure to a law enforcement authority, you may not be informed of any disclosure nor of any reasons for such disclosure;
-  * 5.2.4 to exchange information with other companies and organisations for the purposes of age verification, fraud protection and credit checking and/or risk reduction; 
+  * 5.2.4 to exchange information with other companies and organisations for the purposes of age verification, fraud protection, credit checking and/or risk reduction; 
   * 5.2.5 to our suppliers to the extent required for them to fully perform their services, such as our sports book provider, payment processors and card issuing banks; and
-  * 5.2.6 to our professional advisers or other appropriate third parties, if your use of our gaming services or our website is in breach of the terms and conditions or this Policy.
+  * 5.2.6 to our professional advisers or other appropriate third parties, including for example if your use of our gaming services or our website is in breach of the terms and conditions or this Policy.
 
 
 
@@ -172,4 +172,4 @@ Telephone number: 0800 083 1988
 
 E-mail: [support@meccabingo.com](mailto:support@meccabingo.com)
 
-Last updated on: 12th February 2016
+Last updated on: 23rd May 2016
