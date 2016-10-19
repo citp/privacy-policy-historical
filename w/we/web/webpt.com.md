@@ -1,23 +1,14 @@
-> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905191347id_/https%3A//www.webpt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019233920id_/https%3A//www.webpt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebPT
 
-[](https://privacy.truste.com/privacy-seal/WebPT/validation?rid=47e651e4-54c4-4151-a2eb-be7bc161b310 "TRUSTe online privacy certification")
+[](http://secure.trust-guard.com/privacy/11126)
 
-Effective December 23, 2014
+Effective January 19, 2016
 
 #### Our Commitment to Privacy
 
 This privacy policy applies to [www.webpt.com](http://www.webpt.com/) owned and operated by WebPT. Your privacy and the privacy of your clients are very important to us. To better protect your privacy WebPT provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. It also describes how you can access and update this information. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-WebPT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements ](http://www.truste.com/privacy-program-requirements/)including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
-
-**WebPT**  
-ATTN: Website Security  
-625 S. 5th St. Building A  
-Phoenix, AZ 85004
-
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site ([www.webpt.com](https://web.archive.org/ "WebPT")), and does not cover information that may be collected through our applications and behind the log in on our website.
 
 #### The Information We Collect
 
