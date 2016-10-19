@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dessy.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402082020id_/http%3A//www.dessy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dessy.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020005301id_/https%3A//dessy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: The Dessy Group
+# Privacy Policy | The Dessy Group
+
+* * *
 
 Your privacy is important to us. To explain how we respect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
