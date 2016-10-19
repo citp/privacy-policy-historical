@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myeexcel.com privacy policy that was archived on 2016-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160522171737id_/http%3A//eexcel.myvoffice.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myeexcel.com privacy policy that was archived on 2016-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161019093341id_/http%3A//eexcel.myvoffice.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
 <title>
@@ -19,19 +19,21 @@ E. EXCEL Evo
 
 	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/evo/css/evo.css">
 
-        
+    
 	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/skins/skin01/css/nav.css">
 
 	
 	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/skins/skin01/css/evo_events.css">
 
 	
-	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/skins/skin01/css/datatable.css">
-
+    	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/skins/skin01/css/datatable.css"> 	
+		
+	
+	
 	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/evo/datepick/jquery.datepick.css">
 	<link rel="stylesheet" type="text/css" href="http://eexcel.myvoffice.com/evo/css/jquery.jscrollpane.css">
 	
-	<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/scripts/header.js"></script>
+	<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/scripts/header.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/scripts/sorttable.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/scripts/AC_RunActiveContent.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/scripts/AC_Flash.js"></script>
@@ -40,9 +42,11 @@ E. EXCEL Evo
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/openwysiwyg/wysiwyg.js"></script>
 	
 		<script src="http://eexcel.myvoffice.com/scripts/functions.js" language="JavaScript" type="text/javascript"></script>
+		    
+		<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/jquery-1.7.min.js"></script> 	   
 	
-
-	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/jquery-1.7.min.js"></script>
+			
+	
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/jquery.tools.min.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/evo_events_popup.js"></script>
 	<script language="JavaScript" type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/evo.js?v=1.3"></script>
@@ -52,11 +56,10 @@ E. EXCEL Evo
 	
 	<script type="text/javascript" language="javascript" src="http://eexcel.myvoffice.com/evo/AnyChart/js/AnyChart.js"></script>
 	<script type="text/javascript" language="javascript" src="http://eexcel.myvoffice.com/evo/AnyChart/js/AnyChartHTML5.js"></script>
-	
-
-	<script type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/datatables.js"></script>
-	<script type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/FixedHeader.js"></script>
-	<script type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/datatables_plugins.js"></script>
+		    
+		<script type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/datatables.js"></script> 
+		<script type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/FixedHeader.js"></script> 
+		<script type="text/javascript" src="http://eexcel.myvoffice.com/evo/scripts/datatables_plugins.js"></script> 
 	
 
 <script>
@@ -72,8 +75,6 @@ function EVOTracking(action) {
 	
 }
 </script>
-
-
 
 
 <script>
@@ -134,9 +135,12 @@ function LoadModule(this_url,divlayer) {
 				<div class="content-interior" style="width:1132px;">
 			
 			<script>
-				if (!$.browser.msie)
+				if (!$.browser.msie && document.registerElement)
 				{
+				if (typeof evoCustomPhone == 'undefined') //wf 101005 see if element already registered.  js error when loading ajax.  mike d
+					{
 					var evoCustomPhone = document.registerElement('evo-custom_phone');
+					}
 				}	
 				//document.body.appendChild(new evoCustomPhone());
 			</script>
@@ -148,110 +152,103 @@ function LoadModule(this_url,divlayer) {
 			</style>				
 		
 <div align="center">
-<table width="500" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td> 
-        <table width="400" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr> 
-            <td><img src="http://eexcel.myvoffice.com/images/template1//cleardot.gif" width="110" height="50"></td>
-            <td><p class="bigtitle">Privacy Statement 
-<span class="HelpToolTip" id=""><img src="skins/skin01/images/help.png" title="Privacy Statement Info"></span>
-<script>
-	if ('' != '')
-	{
-		$("# img[title]").tooltip({position:"bottom",events: { def: "mouseover,mouseleave" } });
-	}
-	else
-	{
-		$(".HelpToolTip img[title]").tooltip({position:"bottom",events: { def: "mouseover,mouseleave" } });
-	}
-</script>
-</p></td>
-          </tr>
-          <tr> 
-            <td colspan="2">
-              <div align="right"></div>
-            </td>
-          </tr>
-        </tbody></table>
-        
-      </td>
-      <td><img src="http://eexcel.myvoffice.com/images/template1//cleardot.gif" width="10" height="10"></td>
-      <td valign="top"></td>
-    </tr>
-  </tbody></table>
-<br>
-  <div align="center">
-    <table width="500" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr class="headerrow">
-        <td class="headerrow"> 
-          <div align="center">Privacy Policy </div>
-        </td>
-      </tr>
-      <tr> 
-        <td bgcolor="#FFFFFF"><img src="http://eexcel.myvoffice.com/images/template1//shadow1.gif" width="100%" height="8"></td>
-      </tr>
-      <tr> 
-        <td><br>
+	<table width="400" border="0" cellspacing="0" cellpadding="0">	
+		<tbody><tr> 
+			<td align="center"><p class="bigtitle">Privacy Statement <!-- Commented out as of WF 101346, leaving HTML comment to prevent error...John B -->
 
-<p><b>E. EXCEL</b> has created this privacy statement in order to
-demonstrate
-our firm commitment to privacy. The following discloses our information
-gathering and dissemination practices for this Web site:
-<b>E. EXCEL</b>.</p>
-<p>We use your IP address to help diagnose problems with our server, and to
-administer our Web site. Our site uses cookies to keep track of your login
-status and personal preferences. This site contains links to other sites. 
-<b>E. EXCEL</b> is not responsible for the privacy practices or the
-content of
-such Web sites.</p>
-<p>Our site uses a registration form for customers to request information,
-products, and services. We collect visitors' contact information (such as their
-email address). Contact information from the registration form is used to track
-and bill for service usage. </p>
 
-<h4>Public Forums</h4>
-<p>This site makes various public forums
-available to its users. Please remember that any information that is disclosed
-in these areas becomes public information and you should exercise caution when
-deciding to disclose your personal information. </p>
-
-<h4>Security</h4>
-<p>This site has security measures in place to protect the loss, misuse and
-alteration of the information under our control. </p>
-
-<h4>Correct/Update</h4>
-<p>This site gives users the option of changing and modifying information
-previously provided.  </p><ol><li>You can use the account management facility on
-this website.</li><li>You can send email to  <a href="javascript:;" onclick="javascript:MakePopUp('ContactSupport');">customerservice@eexcel.net</a>.</li></ol><p></p>
-
-<h4>Questions Regarding the Web Site</h4>
-<p>If you have any questions about this privacy statement, the practices of
-this site, or your dealings with this Web site, you can contact us. </p>
-<p>
-
-        </p></td>
-      </tr>
-    </tbody></table>
-
-<br>
-
- <table width="500" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr class="headerrow"> 
-       <td align="center" class="headerrow">
-Customer Support
-		</td>
-	</tr>
-	<tr><td align="center"><span class="normaltext"><a href="javascript:;" onclick="javascript:MakePopUp('ContactSupport');">customerservice@eexcel.net</a><span></span></span></td></tr>
-	<tr><td align="center">800-733-3744 </td></tr>
-<tr><td align="center">Support hours: 8am - 5pm Mountain Time M-F</td></tr></tbody></table>
-
-<p align="center">
+</p>
+		 	</td>
+		</tr>
+		<tr> 
+			<td>
+  				<div align="right"></div>
+			</td>
+		</tr>
+	</tbody></table>
+	<br>
+  	<div align="center">	
+    	<table width="500" border="0" cellspacing="0" cellpadding="0">	
+    		<tbody><tr class="headerrow">
+        		<td class="headerrow"> 
+          			<div align="center">Privacy Policy </div>
+        		</td>
+      		</tr>
+      		<tr> 
+        		<td bgcolor="#FFFFFF"><img src="http://eexcel.myvoffice.com/images/template1//shadow1.gif" width="100%" height="8"></td>
+      		</tr>
+      		<tr> 
+        		<td>
+        			<br>
+					
+						<p><b>E. EXCEL</b> has created this privacy statement in order to
+						demonstrate
+						our firm commitment to privacy. The following discloses our information
+						gathering and dissemination practices for this Web site:
+						<b>E. EXCEL</b>.</p>
+						<p>We use your IP address to help diagnose problems with our server, and to
+						administer our Web site. Our site uses cookies to keep track of your login
+						status and personal preferences. This site contains links to other sites. 
+						<b>E. EXCEL</b> is not responsible for the privacy practices or the
+						content of
+						such Web sites.</p>
+						<p>Our site uses a registration form for customers to request information,
+						products, and services. We collect visitors' contact information (such as their
+						email address). Contact information from the registration form is used to track
+						and bill for service usage. </p>
+						
+						<h4>Public Forums</h4>
+						<p>This site makes various public forums
+						available to its users. Please remember that any information that is disclosed
+						in these areas becomes public information and you should exercise caution when
+						deciding to disclose your personal information. </p>
+						
+						<h4>Security</h4>
+						<p>This site has security measures in place to protect the loss, misuse and
+						alteration of the information under our control. </p>
+						
+						<h4>Correct/Update</h4>
+						<p>This site gives users the option of changing and modifying information
+						previously provided.  </p><ol><li>You can use the account management facility on
+						this website.</li><li>You can send email to  <a href="javascript:;" onclick="javascript:MakePopUp('ContactSupport');">customerservice@eexcel.net</a>.</li></ol><p></p>
+						
+						<h4>Questions Regarding the Web Site</h4>
+						<p>If you have any questions about this privacy statement, the practices of
+						this site, or your dealings with this Web site, you can contact us. </p>
+						<p>
+					
+        		</p></td>
+      		</tr>
+    	</tbody></table>
+		
+			<br>
+			
+ 				<table width="500" border="0" cellspacing="0" cellpadding="0">	
+    				<tbody><tr class="headerrow"> 
+       					<td align="center" class="headerrow">
+							Customer Support
+						</td>
+					</tr>
+					<tr>
+						<td align="center"><span class="normaltext"><a href="javascript:;" onclick="javascript:MakePopUp('ContactSupport');">customerservice@eexcel.net</a><span></span></span></td>
+					</tr>
+					<tr>
+						<td align="center">800-733-3744 </td>
+					</tr>
+					<tr>
+						<td align="center">Support hours: 8am - 5pm Mountain Time M-F</td>
+					</tr>
+				</tbody></table>
+			
+			<p align="center">
 
 
 
+		
+	</p></div>
+</div>
 
-</p></div>
+</div>
 
 
 
@@ -264,8 +261,8 @@ Customer Support
 
 
 
-</div>
-</div></section>    
+</section></div>
+
 
 <br clear="all">
 
@@ -280,30 +277,42 @@ Customer Support
         <div id="block-menu-menu-footer">
 		<ul class="menu">
 			<li class="first leaf">
-				<a href="http://eexcel.myvoffice.com/index.cfm?Fuse=public/Files&amp;Page=SystemRequirements&amp;HideCloseWindow=1">System Requirements </a>
+				<a data-event="ev" data-category="Footer" data-label="SystemRequirements" data-action="click" href="/index.cfm?Fuse=public/Files&amp;Page=SystemRequirements&amp;HideCloseWindow=1">System Requirements</a>
 			</li>
 			<li class="leaf">
-				<a href="http://eexcel.myvoffice.com/index.cfm?Fuse=public/Files&amp;Page=TermsOfUse&amp;HideCloseWindow=1">Terms of Service</a>
+				<a data-event="ev" data-category="Footer" data-label="TermsOfService" data-action="click" href="/index.cfm?Fuse=public/Files&amp;Page=TermsOfUse&amp;HideCloseWindow=1">Terms of Service </a>
 			</li>
 			<li class="leaf">
-				<a href="http://eexcel.myvoffice.com/index.cfm?Fuse=public/Files&amp;Page=ContactSupport&amp;HideCloseWindow=1">Contact Support </a>
+				<a data-event="ev" data-category="Footer" data-label="ContactSupport" data-action="click" href="/index.cfm?Fuse=public/Files&amp;Page=ContactSupport&amp;HideCloseWindow=1">Contact Support</a>
 			</li>
 			<li class="leaf">
-				<a href="http://eexcel.myvoffice.com/index.cfm?Fuse=public/Files&amp;Page=PrivacyStatement&amp;HideCloseWindow=1">Privacy Statement</a>
+				<a data-event="ev" data-category="Footer" data-label="PrivacyStatement" data-action="click" href="/index.cfm?Fuse=public/Files&amp;Page=PrivacyStatement&amp;HideCloseWindow=1">Privacy Statement </a>
 			</li>
 			<li class="leaf">
-				<a href="http://eexcel.myvoffice.com/index.cfm?Fuse=public/Files&amp;Page=Help&amp;HideCloseWindow=1">Tech Q&amp;A </a>
+				<a data-event="ev" data-category="Footer" data-label="TechQA" data-action="click" href="/index.cfm?Fuse=public/Files&amp;Page=Help&amp;HideCloseWindow=1">Tech Q&amp;A</a>
 			</li>
 			<li class="last leaf">
-				<a class="FooterLinks" href="http://eexcel.myvoffice.com/index.cfm"> Home </a>
+				<a class="FooterLinks" data-event="ev" data-category="Footer" data-label="Home" data-action="click" href="/index.cfm"> Home  </a>
 			</li>
 		</ul>
 	    </div>
 	</div>
 	
-</footer>  
+	<script>
+		settooltipheights();
+		function settooltipheights()
+		{
+			var tooltips = document.getElementsByClassName('tooltip');
+			for(i=0;i<tooltips.length;i++)
+			{
+				if(parseInt(tooltips[i].style.top.replace('px','')) < 0) tooltips[i].style.top = '0px';
+			}
+			setTimeout(function(){settooltipheights();},200);
+		}
+	</script>
+</footer>
 
-</div>
+
 
 <div id="overlay" style="position:absolute;z-index:1000;top:0px;left:0px;width:2000px;height:2000px;background-color:#333333;opacity:.8;filter:alpha(opacity=80);display:none"> </div>
 
@@ -343,16 +352,16 @@ if (typeof EVOModulesArray != 'undefined') {
 
 
 
- 
+
 
 
 <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
- </body></html>
+</body></html>
