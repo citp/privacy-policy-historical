@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackfling.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526145802id_/http%3A//blackfling.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfling.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019213734id_/http%3A//blackfling.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Black Dating Site - Find Black Singles at Blackfling.com
 
