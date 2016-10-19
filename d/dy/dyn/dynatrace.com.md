@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627002754id_/http%3A//www.dynatrace.com/en/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynatrace.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019164538id_/https%3A//www.dynatrace.com/company/privacy) for the most accurate reproduction.*
 
-# About Us - Privacy | Dynatrace
+# Privacy | Dynatrace
 
-#### Dynatrace’s Commitment to Privacy
+## Dynatrace’s Commitment to Privacy
 
 Dynatrace respects your right to privacy and is committed to protecting it. In order to provide you with relevant information, respond to your requests and increase the benefits you receive when visiting our website(s), we may request information about you. We want you to feel secure when providing such information to us and this Privacy Statement is intended to inform you about the type(s) of information we gather and how we use it. The Statement applies to information collected by Dynatrace.
 
-#### Collection of Personal Data
+## Collection of Personal Data
 
 You may visit a Dynatrace website without identifying yourself or sharing any personal information. Dynatrace does collect certain domain information in order to improve and customize your experience on its site(s). Specifically, Dynatrace may collect the following types of information when you use any Dynatrace or Dynatrace-affiliated website:
 
@@ -18,31 +18,31 @@ You may visit a Dynatrace website without identifying yourself or sharing any pe
 
 
 
-#### Use of Collected Information
+## Use of Collected Information
 
-**_General:_**
+### General
 
 Dynatrace may use usage data in aggregated form to:
 
   * Measure the website’s performance and activity as well as improve the website’s design and functionality.
-  * Work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website. 
+  * Work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website.
   * Investigate and prosecute security violations.
 
 
 
-**_Dynatrace Online Communications:_**
+### Dynatrace Online Communications
 
 Dynatrace will use personally identifiable information, such as name, title, company, and email or other address, to communicate special promotions, events and announcements. This information may also be used to provide the products or services requested, respond to support needs, and/or provide additional information regarding Dynatrace products or services. If you do not wish to receive future promotional information and material from Dynatrace, you are offered the option to opt-out of upcoming communications.
 
 Please note that we do not knowingly solicit information from children nor do we knowingly market our products and services to children.
 
-**_Information Sharing and Disclosure:_**
+### Information Sharing and Disclosure:
 
 Dynatrace values your business and strives to protect your privacy. Dynatrace will never sell or provide your information to list brokers or similar mass marketing entities. We may, however, provide information about you to our business partners and/or to vendors with whom we have contracted to in order to better serve your interests and/or to support targeted promotions. Dynatrace will provide only the information that is necessary for the third party to provide those services we believe will be beneficial to you and we take measures to protect your information. In such instances, Dynatrace’s master “opt-out” suppression file will be provided to such third parties in order to prevent unwanted Dynatrace material from being sent to you.
 
 Dynatrace is a global company with customers and partners all over the world. Accordingly, the information we collect may be used, stored and/or processed in the USA or in any other country in which Dynatrace does business. By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Dynatrace does business (including those with less adequate levels of protection).
 
-#### Cookies
+## Cookies
 
 A “cookie” is a small text file that is transferred to your browser and stores information about your interactions with a particular website. A cookie is then read by the Web server that placed it on your browser. It works as a sort of identification card, recording your preferences and recalling previously entered information. By using cookies, your navigation time is reduced and use of a website is simplified.
 
@@ -57,43 +57,43 @@ A cookie cannot be executed as code or deliver viruses. Dynatrace uses both sess
 
 You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
 
-#### Opt-Out
+## Opt-Out
 
 Dynatrace provides the opportunity to opt-out of receiving its communications whenever we request personal information from you and when you receive material from us. If you have difficulty opting-out, please visit www.Dynatrace.com/unsubscribe or e-mail unsubscribe@dynatrace.com and provide your name, e-mail address and subscription you wish to cancel.
 
-#### Links to Other Websites
+## Links to Other Websites
 
 Dynatrace may provide links to Internet sites maintained by others. Dynatrace does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites. Dynatrace encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
 
 Dynatrace provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
 
-#### Commitment to Data Security
+## Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-#### European Union and Swiss Safe Harbor Certification
+## European Union and Swiss Safe Harbor Certification
 
-Dynatrace complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Dynatrace has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dynatrace LLC’s certification, please visit <http://www.export.gov/safeharbor/>
+Dynatrace complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Dynatrace has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dynatrace LLC’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-#### Public Forums
+## Public Forums
 
 This site may make chat rooms, forums, message boards, feedback forms, web logs, “blogs”, news groups and/or other public messaging forums available to its users. Please remember that any information you disclose in these areas becomes public information. You should always exercise caution when deciding to disclose your personal information in these public forums.
 
-#### Online Job Applications
+## Online Job Applications
 
 Dynatrace’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Dynatrace will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Dynatrace will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
 
 All open positions offered by Dynatrace or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
-**_How to Update Your Resume/Personal Information:_**
+### How to Update Your Resume/Personal Information:
 
 If you have already submitted your resume or curriculum vitae to Dynatrace and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about open positions, candidate eligibility and the interviewing process.
 
-**_How to Contact Dynatrace Recruiting Regarding Your Privacy:_**
+### How to Contact Dynatrace Recruiting Regarding Your Privacy:
 
 Please e-mail us at [dynatrace.recruiting@dynatrace.com](mailto:dynatrace.recruiting@dynatrace.com) if you have any concerns regarding your privacy during the recruiting process.
 
-#### Issue Resolution
+## Issue Resolution
 
 Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Dynatrace, or have suggestions on how we can improve our policies, please contact us at [privacy.concerns@dynatrace.com](mailto:privacy.concerns@dynatrace.com).
 
