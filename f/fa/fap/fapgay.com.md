@@ -1,117 +1,171 @@
-> *The following text is extracted and transformed from the fapgay.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220213805id_/http%3A//fapgay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapgay.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019090549id_/http%3A//fapdu.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy of fapgay
+# Privacy policy - fapdu
 
-Last Updated: December 17th, 2013
+CSMG, Ltd. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website Fapdu (“ **Website** ”) and our practices for collecting, using, keeping, protecting, and disclosing that information.
 
-Thank you for visiting fapgay.com, our product and/or service ("we" “our” or "us"). Your privacy is important to us. To better protect your privacy, we provide this policy explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit on our online and mobile websites, services, and applications (“Site” or “Sites”). For certain products and/or services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
+Please read this policy carefully to understand our policies and practices about your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change on one or more occasions. We will consider your continued use of the Website after we make changes as your acceptance of those changes, so please check the policy frequently for updates.
 
-We encourage you to contact an attorney of your own choosing and at your own expense in the event that you do not understand any of the terms contained in this Privacy Policy. If you do not agree with anything contained in this Privacy Policy then please cease and desist from using any of our Sites, products and/or services immediately.
+* 1\. Are minors welcome on our Website?
 
- ** _OUR PRODUCTS AND/OR SERVICES ARE PROVIDED SOLELY TO ADULTS OVER THE AGE OF EIGHTEEN (18) YEARS OR THE AGE OF MAJORITY IN THE JURISDICTION WHICH YOU ARE UTILIZING ANY OF OUR PRODUCTS AND/OR SERVICES. CERTAIN PORTIONS OF OUR PRODUCTS AND/OR SERVICES MAY CONTAIN CONTENT CONSIDERED OFFENSIVE TO SOME, AND ARE INACCESSIBLE TO INDIVIDUALS UNTER THE AGE OF EIGHTEEN (18) YEARS OR THE AGE OF MAJORITY IN THE JURISDICTION WHICH YOU ARE UTILIZING ANY OF OUR PRODUCTS AND/OR SERVICES. FOR THOSE PORTIONS OF OUR PRODUCTS AND/OR SERVICES THAT MAY BE ACCESSIBLE TO INDIVIDUALS UNDER THE AGE OF EIGHTEEN (18) YEARS OR THE AGE OF MAJORITY IN THE JURISDICTION WHICH YOU ARE UTIZLING ANY OF OUR PRODUCTS AND/OR SERVICES, SUCH AS ANY OF OUR SITES’ HOMEPAGES AND OTHER AREAS PRESENTING NON-OFFENSIVE CONTENT, WE HAVE NO INTENTION OF COLLECTING ANY PERSONALLY IDENTIFABLE INFORMATION. PERSONS UNDER THE AGE OF EIGHTEEN (18) YEARS OR THE AGE OF MAJORITY IN THE JURISDICTION WHICH YOU ARE UTILIZING ANY OF OUR PRODUCTS AND/OR SERVIFCES SHOULD NOT SUBMIT ANY INFORMATION TO ANY OF OUR SITES. IF A MINOR HAS PROVIDED US WITH ANY PERSONALLY IDENTIFIABLE INFORMATION, A PARENT OR GUARDIAN OF THAT MINOR SHOULD CONTACT US AT THE EMAIL ADDRESS LISTED BELOW IMMEDIATELY._**
+We do not intend this Website for minors. The Website limits access to adults’ at least 18-years old that have reached the age of majority in their jurisdiction. We prohibit all persons who do not meet the age requirements from accessing this Website. We do not knowingly collect any personal information from or about minors, and minors may not access this Website or use its services.
 
-Notwithstanding anything to the contrary contained in this Privacy Policy, we make no representations or warranties of any kind whatsoever for information that you publish on any of our Sites, regardless of whether any such information is published voluntarily or involuntarily. Our Sites may contain a social networking component and you are utilizing our Sites with a full understanding and assumption of risk related to any and all information that you publish.
+Under 47 U.S.C. § 230(d), we notify you that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products provided for informational purposes only and not endorsed by us: [CYBERsitter™](http://www.cybersitter.com/) | [Net Nanny®](https://www.netnanny.com/) | [CyberPatrol](https://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/).
 
- **I. INFORMATION WE COLLECT**
+* 2\. What types of information do we collect about you?
 
- **Registration and account information collected.** At some of our Sites, you can register to order products and/or services, become a member, read user reviews, enter contests, vote in polls, rate products and/or services, or otherwise express an opinion, subscribe to one of our services such as our electronic newsletters, or participate in one of our online forums or communities. In the course of using our Sites, we may ask you to create an account or complete an application by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that you provide as part of your account may include: name, address, e-mail address, telephone number, fax number, credit card and billing information, and other information that you provide to us.
+## Information we collect from users
 
- **Information from other sources.** We may, on occasion and in our sole and absolute discretion, combine information we receive online with outside records and use such information in accordance with this Privacy Policy.
+The Website is a free service for surfers that does not require registration or the submission of any personal information to use the Website. We offer free registration to the Website; registration is required to upload content. If you decide to register, we may require you to provide your email address.
 
- **Social media.** You can also engage with our content and other offerings, such as videos, and applications, on or through third-party social media sites, plug-ins and applications. You may also choose to link your account with us to third party social media sites. When you link your account or engage with our content on or through third party social media sites, services, plug-ins, or applications, you may allow us to have ongoing access to certain information from your social media account. We may also receive non-personally identifiable information from your interaction with our content. 
+You also may provide information to be published or displayed on public areas of the Website, or transmitted to other users of the Website or third parties. Your user contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, we cannot and do not guarantee that your user contributions will not be viewed by unauthorized persons.
 
-When you provide information to a Site from your social media account, it can help enable us to do things like: (i) give you exclusive content, (ii) personalize your online experience with us within and outside our Sites, and (iii) contact you through the social media sites or directly with the latest news, special offerings, and rewards. By providing such information, you consent to the use of the information in accordance with this Privacy Policy.
+## Information we collect through social media
 
-If you post information or content, such as by posting photos, commenting on a blog, or participating in online forums or communities at our Sites, or when you interact with our Sites through social media sites, plug-ins or other applications, depending on your privacy settings, this information may become public on the Internet. You expressly understand that we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. For more information about how you can customize your privacy settings and how third party social media sites handle your personally identifiable information, please refer to their privacy help guides, privacy policies and terms of use. We make no warranties or representations of any kind whatsoever regarding how third party social media sites handle information posted through your account. Additionally, we make no warranties or representations of any kind whatsoever regarding the security of any information or content that you publish on any of the Sites.
+We may allow you to engage with the Website’s content and other offerings on or through third-party social media websites, like Facebook® and Twitter®. If we do, when you link your account or engage with content on or through third-party social media websites, services, plugins, or applications, you may allow us to have ongoing access to certain information from your social media account. We may also receive nonpersonally identifiable information from your interaction with the Website’s content, including content viewed, content preferences, and information about any advertisements within the content you have been shown or may have clicked on.
 
- **Information collection from mobile devices.** If you access our Sites, on your mobile telephone or other mobile device, we also may collect your unique device identifier and mobile device IP address, as well as information about your device’s operating system, mobile carrier, and mobile Internet browsers, your precise location information, and other information described in this Privacy Policy. 
+When you provide information to the Website from your social media account, it can help enable us to do things like: (1) give you exclusive content; (2) personalize your online experience with us within and outside this Website; and (3) contact you through the social media websites or directly with the latest news, special offerings, and rewards. By providing this information, you consent to the use of the information according to this privacy policy.
 
-**Providing requested information.** In some cases, only persons who provide us with the requested personally identifiable information will be able to order products, and services, or otherwise participate in the Site's offerings.
+If you interact with this Website through social media websites, plugins, or other applications, then, depending on your privacy settings, this information may become public on the Internet. You acknowledge that we cannot prevent further use of this information once it becomes public on the Internet. You can control what data you share through privacy settings available on some social media websites. For more information about how you can customize your privacy settings and how third-party social media websites handle your personally identifiable information, please refer to their privacy help guides, privacy policies, and terms.
 
- **Technical and usage information.** We also collect certain non-personally identifiable information when you use our Sites such as but not limited to, the type of browser you are using, the type of operating system you are using, the domain name of your Internet service provider or mobile carrier, IP address, and certain usage information. 
+## Information we collect about usage
 
-**II. HOW WE USE THE INFORMATION**
+We collect certain nonpersonally identifiable information when you access the Website. For example, we may collect information on the type of browser you are using, the type of operating system you are using, the domain name of your Internet service provider, IP address, and certain usage information including the locations of the webpages that you viewed right before arriving at, while navigating, and immediately after leaving the Website, and the convent viewed while accessing the Website (including any up votes and down votes).
 
- **Providing our products and services.** We use the information we collect about you to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to provide, personalize, and improve our offerings and to offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you.
+## Information we collect from mobile devices
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+If you access this Website through a mobile device (e.g., smartphone, tablet, etc.), we may collect your unique device identifier and mobile device IP address, as well as information about your mobile device’s operating system, mobile carrier, mobile Internet browsers, your precise geographic location information, and other information described in this privacy policy. If you do not want your location known, you can turn off location services on your mobile device by going to “(1) settings, (2) location services, (3) off” for iOS devices; and “(1) profile, (2) privacy, (3) on” for Android devices.
 
-If you choose to submit content for publication, we may publish your screen name and other information you have provided to us on our Sites, the Internet, or elsewhere. Any content that you submit for publication shall immediately and irrevocably become our sole and exclusive property.
+## Information we collect from other sources
 
- **Communications.** We use information about you to communicate with you, including but not limited to: to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Sites, or to contact you about your account with us. You may also choose to receive push notifications from us on your mobile device.
+On one or more occasions, we may combine information we receive online with outside records and use the information according to this privacy policy. We will combine information in a way that does not personally identify you.
 
-We use the information that you provide about others to enable us to send them invitations, gifts, cards, or other content on your behalf or through our Sites. From time to time, we also may use this information to offer products, programs, or services to them.
+* 3\. How do we collect information about you?
 
- **Mobile Device Data Usage.** When you access our Sites on a mobile device, we may use the information collected for any of the purpose whatsoever so long as it complies with the terms set forth in this Privacy Policy. 
+We collect information about you:
 
-**Use of non-personally identifiable information.** We use aggregate information about our users and non-personally identifiable information that we collect to improve the design, functionality and content of our Sites and to enable us to personalize your experience with our Sites and offerings. We use this information to (i) provide, maintain, personalize, protect, improve, and develop our products, programs, and services and to operate our business, (ii) to analyze usage and performance of our Sites, and (iii) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services.
+  1. Directly from you when you provide it to us.
+  2. Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies (including login details and voting and viewing history), web beacons, and other tracking technologies. We do not collect personal information automatically.
 
- **III. INFORMATION SHARING AND DISCLOSURE**
 
- **Legal and law enforcement purposes.** We may disclose personally identifiable information in response to legal process, including but not limited to court orders and subpoenas, or in response to a law enforcement agency's request. We also may disclose such information to third parties in connection with fraud detection, and prevention activities or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of any of our terms of use or other policies, to protect our rights and the rights of others, and as otherwise required by law.
 
-You understand and agree that we maintain the option, in our sole and absolute discretion, to inform you of any disclosure of your personally identifiable information for legal and law enforcement purposes.
+The information we collect automatically is statistical data and does not include personal information, but we may keep it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by allowing us to:
 
- **Change of control.** We may transfer any information about you in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company.
+  1. Estimate our audience size and usage patterns.
+  2. Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  3. Speed up your searches.
+  4. Recognize you when you return to our Website.
 
- **Our Vendors and service providers.** Our agents, employees and contractors may have access to personally identifiable information to help carry out the services they are performing for us.
 
- **Affiliates and other third parties.** We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy.
 
-We may also share such information with business partners and third parties, such other marketers, publishers, retailers, participatory databases and non-profit organizations, that want to market products or services to you.
+The technologies we use for this automatic data collection may include:
 
- **Linked third-party sites.** Some of our Sites contain links to other sites whose information practices may be different from ours. You should consult the other sites' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. We make no representations or warranties as to any content located on any linked sites and you hereby assume all risks associated with visiting said linked sites.
+  1.  **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. Information gathered through cookies may include date and time of visit, webpages viewed, time spent at our Website, and the websites visited just before and just after our Website. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. If you want to learn more about cookies, please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  2.  **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies, but you can access your Flash management tools from Adobe’s [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+  3.  **Web Beacons.** Pages of our Website (and our emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit CSMG, Ltd., for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please see [www.allaboutcookies.org/web-beacons/](http://www.allaboutcookies.org/web-beacons/).
 
- **Sponsors and co-promotions.** We sometimes may offer content or programs that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information.
 
- **Advertisement servers.** At some of our Sites, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Site and elsewhere.
 
- **IV. YOUR CHOICES**
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
- **Marketing Communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, (i) you may log into your account if you have created an account with us at one of our Sites to adjust your settings, (ii) you may follow the “unsubscribe” instructions provided in any marketing email you receive from us, or (iii) you may send us an email at support@fapdu.com and we will edit your preferences accordingly. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device.
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
- **Uninstalling a Mobile Application.** If you no longer wish to have any information collected by the Site, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network. We make no representation of any kind as to the accessibility or stability of your wireless network and/or cellular service provider.
+Our Website includes plugins from social networks and other third parties. An example of a plugin is the Facebook “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on our Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the third party that provided the plugin.
 
- **V. COOKIES AND OTHER TECHNICAL INFORMATION**
+* 4\. How do we use your information?
 
- **Cookies and Web beacons.** We, and our affiliates, third party service providers, and our business partners may send "cookies" to your computer or use similar technologies to enhance your online experience at our Sites. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information. Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).
+We may use information that we collect about you or that you provide to us, including any personal information:
 
-Some of our Sites may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from Adobe's web site.
+  1. To present our Website and its contents to you.
+  2. To suggest and recommend relevant content based on your viewing or voting history.
+  3. To provide you with information, products, or services that you request from us.
+  4. To fulfill any other purpose for which you provide it.
+  5. To provide you with notices about your account.
+  6. To carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
+  7. To notify you about changes to our Website, Website news or announcements, special offers, or any products or services we offer or provide through the Website.
+  8. To allow you to participate in any interactive features on our Website (including the voting system).
+  9. In any other way we may describe when you provide the information.
+  10. For any other purpose with your consent.
 
-We may also use "Web beacons" that monitor your use of our Sites. Web beacons are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server.
 
-When corresponding with you via HTML capable email, Web beacons let us know whether you received and opened our email.
+* 5\. With whom do we share your information?
 
-On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+We may disclose aggregated information about you, and information that does not identify any individual, without restriction.
 
- **Managing cookies and Web beacons.** By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML emails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content or Site features.
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
- **VI. SECURITY**
+  1. To our subsidiaries and affiliates.
+  2. To contractors, service providers, and other third parties we use to support our business.
+  3. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of CSMG, Ltd.’s assets, whether as a going concerning or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by CSMG, Ltd. about our Website users is among the assets transferred.
+  4. To fulfill the purpose for which you provide it.
+  5. For any other purpose disclosed by us when you provide the information.
+  6. With your consent.
 
-We have put in place reasonable physical, electronic, and managerial procedures designed to safeguard the information we collect online at the Sites. Despite the reasonable security measure that we have created, we cannot assure you that personally identifiable information that we collect will never be used or disclosed in a manner that is inconsistent with this Privacy Policy.
 
- **VII. INFORMATION UPDATES AND/OR CORRECTIONS**
 
-To access the personally identifiable information that our Sites have collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your account if you have created one with us or send an email to [support @ fapdu.com](mailto:support@fapdu.com).
+We may also disclose your personal information:
 
-To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+  1. To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  2. To enforce or apply our [terms of use](https://web.archive.org/terms).
+  3. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of CSMG, Ltd., our users, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and prevention.
 
- **VIII. CALIFORNIA RESIDENTS**
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support @ fapdu.com](mailto:support@fapdu.com).
+* 6\. What choices do you have about how we use and disclose your information?
 
- **IX. CANADIAN PRIVACY RIGHTS**
+We strive to provide you with choices about the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-Our services may be subject to Canadian law, and in specific in relation to online privacy, to the Personal Information Protection and Electronic Documents Act (S.C. 2000, c. 5). If you believe that we have violated your privacy rights in any way, please contact us immediately at [support @ fapdu.com](mailto:support@fapdu.com). You may visit [www.priv.gc.ca](http://www.priv.gc.ca/) for more information about your privacy rights.
+  1.  **Tracking technologies.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly. To learn how to manage cookies, please see [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/). To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+  2.  **Marketing communications.** At this time, we do not intend to send users advertising or marketing materials. If we do in the future, you can opt-out by (1) following the “unsubscribe” instructions in any marketing email you receive from us or (2) sending us an email at [](mailto:support@fapdu.com) to request removal from future email distributions. This opt-out does not apply to transactional emails, including service announcements and administrative notices.
 
- **X. PRIVACY POLICY UPDATES**
 
-We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our Site. If the revised version includes a substantial change, we will provide you with Thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the Site, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+* 7\. How do you access and correct your information?
 
- **XI. CONTACT US**
+You may send us an email at [](mailto:support@fapdu.com) to request access to, correct, or delete any personal information that you have provided to us. We will not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [support @ fapdu.com](mailto:support@fapdu.com).
+* 8\. How do we protect your personal information?
 
- **XII. HEADINGS**
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to us is stored on our secure servers behind firewalls.
 
-Descriptive headings are for convenience only and shall not control or affect the meaning or construction of any provision of this Privacy Policy.
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information over the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+* 9\. Does this privacy policy apply to third-party links?
+
+We provide links to third-party websites for your convenience. Once you leave our digital environment, we are no longer responsible for and cannot control what is collected on these websites. Please see the website’s relevant privacy policy for how that website handles your information.
+
+* 10\. Do we comply with Do Not Track?
+
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide you the ability to opt-out. But we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information about DNT signals, you may visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+* 11\. Where do we process EU personal information?
+
+Any personal information collected about EU visitors through the services is processed in the United States or in other countries in which we or our affiliates, subsidiaries, or service providers host these services. When you provide personal information to us through the services, you consent to the processing of your data in, and the transfer of your data to, the United States or any other country in which we or our affiliates, subsidiaries, or service providers host these services.
+
+* 12\. Your California Privacy Rights
+
+If you are a California resident, you have the right to receive (1) information identifying any third-party company to whom we may have disclosed, within the past calendar year, personal information concerning you and your family for our direct marketing purposes; and (2) a description of the categories of personal information disclosed. If you want to exercise this right, you must make a request in writing to us to obtain this information. We will not process your request unless it includes your full name, email address, postal address, the URL for the website you visited, and the subject line labeled “Your California Privacy Rights.” Please email your request to [](mailto:support@fapdu.com). We will only honor one request per calendar year.
+
+* 13\. Canada Privacy Rights
+
+We comply with Canadian Federal and Provincial privacy laws and regulations including the Personal Information Protection and Electronic Documents Act.
+
+We will only use your personal information for the purposes intended and as detailed in this privacy policy unless we have obtained your consent to use it for other purposes.
+
+Residents of Canada are notified that the personal information they provide to us is stored in our databases outside of Canada including in the United States and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand under the laws of that country.
+
+If you need to contact us about your personal information or believe that we have violated your privacy rights, please email us at [](mailto:support@fapdu.com). You may visit [www.priv.gc.ca](https://www.priv.gc.ca/) for more information about your privacy rights.
+
+* 14\. DMCA take-down requests
+
+This Website complies with the Digital Millennium Copyright Act. If you reasonably believe your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions here [insert as link to DMCA page] on how to report it.
+
+By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. We forward DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to us without any deletions.
+
+* 15\. Changes to Privacy Policy
+
+We post any changes we make to our privacy policy on this page. If we make material changes to how we treat your personal information, we will notify you by email to the email address specified in your account or through a notice on the Website home page. The privacy policy identifies when we last updated it at the top of the page. You are responsible for making sure we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+* 16\. Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [](mailto:support@fapdu.com).
