@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619202253id_/http%3A//www.coastal.com/imageresources/content/pops/com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019084849id_/https%3A//www.coastal.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
-
-PRIVACY POLICY
+# 
 
 Essilor Group Canada Inc. ("Coastal", "we", "us", "our") respects your privacy and will at all times seek to comply with privacy laws. This privacy policy covers the site [www.coastal.com](http://www.coastal.com/). The personal information we collect about our users shall be carefully and adequately processed, and will not be disclosed, rented or sold to third parties other than described within this privacy policy.
 
@@ -12,9 +10,7 @@ When you apply for a job we encourage you to create a career account. The inform
 
 If you wish to refill your last order we will collect your email address and postal code and use the personal information and prescription information you have on file with in order to fulfill your request. 
 
-We allow you to upload a photo of yourself so that you are able to try glasses or contacts on your photo to see what they would look like on you before ordering. If you wish to remove your photos from the site, you may do so by logging into your account and deleting it or by emailing us at the email address provided below. 
-
-Invite Friends
+We allow you to upload a photo of yourself so that you are able to try glasses or contacts on your photo to see what they would look like on you before ordering. If you wish to remove your photos from the site, you may do so by logging into your account and deleting it or by emailing us at the email address provided below.
 
 If you choose to use our referral service to invite a friend to our site or provide us referrals for job openings, we will ask for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
@@ -22,33 +18,23 @@ Or, if you provide your doctor's information, we will ask for your doctor's name
 
 Your friend or doctor may contact us at [privacy@coastal.com](mailto:privacy@coastal.com) to request that we remove this information from our database.
 
-Investors
-
 If you request information from us on the Investors page we will ask for your name, email address and phone number. We use this information in order to provide you with the information you have requested. 
-
-Social Media
 
 Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-Import Contacts
-
 You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
 
-Framing
-
 Some pages may have the look and feel of being on [www.coastal.com](http://www.coastal.com/), however the information collected on these pages is not covered under this privacy policy. All information collected on the other domain is owned and controlled by a separate privacy policy.
-
-Links to Other Sites
 
 This site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and read the privacy policy of each and every site that collects personal information. This privacy policy applies only to information collected by this site. 
 
 We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with judicial proceeding, court order, or legal process served on our website. 
 
-If Clearly is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
+If Coastal is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
 
 We also use other third parties such as a shipping company to fulfill orders, a credit card processing company to bill you for goods and services, provide customer service, and an email service provider to send out emails on our behalf. When you purchase items from us, we will share your PII with the third party, as necessary for the third party to provide that service. 
 
-We, Clearly, and our [marketing partners], affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+We, Coastal, and our [marketing partners], affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. These track the online movement of Web users. Instead of being stored on the user's hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period.
 
@@ -56,11 +42,11 @@ Our third party advertising partner employs a software technology called clear g
 
 Atlas and Akamai may use information about your visits to this and other websites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here for Atlas](http://www.atlassolutions.com/privacy.aspx) or [click here for Akamai](http://www.networkadvertising.org/). 
 
-By providing your email address in conjunction with a purchase transaction you authorize Clearly to communicate with you by email regarding this purchase transaction. This authorization applies regardless of whether the purchase transaction is finalized. 
+By providing your email address in conjunction with a purchase transaction you authorize Coastal to communicate with you by email regarding this purchase transaction. This authorization applies regardless of whether the purchase transaction is finalized. 
 
-By using our services, you consent to our collection, use and disclosure of your personal information as follows: 
+By using our services, you consent to our collection, use and disclosure of your personal information as follows:
 
-  1. Our Privacy Compliance Officer, Sunny Dhillon, is accountable for our compliance with this privacy policy. If you have any questions, concerns or complaints about our privacy policy, please contact us in writing at the below: 
+  1. Our Privacy Compliance Officer, Sunny Dhillon, is accountable for our compliance with this privacy policy. If you have any questions, concerns or complaints about our privacy policy, please contact us in writing at the below:
 
 Sunny Dhillon, Privacy Compliance Officer  
 Coastal  
@@ -81,7 +67,7 @@ We partner with a third party to either display advertising on our website or to
 
 We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-We use pixels, or transparent GIF files, to establish which of our online adverts successfully bring people to our Site or the sites of our affiliates. The GIF files are provided by third parties who provide us with online advertising analysis. This system places a cookie on your browser when you enter our Site. Cookies are used to save information such as items you have placed in the cart, or previous items you have looked at. The information collected on our behalf, is anonymous and does not personally identify you. The information does not contain your name, address, telephone number or your e-mail address. Most web browsers automatically accept cookies but you can change your browser to reject them. Even without a cookie you can still use our Site. If you would like to know how to opt-out of the technologies mentioned above, [please click here](https://web.archive.org/web/20160619202253id_/http%3A//www.coastal.com/imageresources/content/pops/com/www.doubleclick.com/us/about_doubleclick/privacy/opting_out.asp). 
+We use pixels, or transparent GIF files, to establish which of our online adverts successfully bring people to our Site or the sites of our affiliates. The GIF files are provided by third parties who provide us with online advertising analysis. This system places a cookie on your browser when you enter our Site. Cookies are used to save information such as items you have placed in the cart, or previous items you have looked at. The information collected on our behalf, is anonymous and does not personally identify you. The information does not contain your name, address, telephone number or your e-mail address. Most web browsers automatically accept cookies but you can change your browser to reject them. Even without a cookie you can still use our Site. If you would like to know how to opt-out of the technologies mentioned above, [please click here](https://web.archive.org/web/20161019084849id_/https%3A//www.coastal.com/www.doubleclick.com/us/about_doubleclick/privacy/opting_out.asp). 
 
 We use third party advertising companies to serve ads on our behalf across the Internet. These third-party advertising companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner shown, their cookie, and the first three octets of the IP address. They do not collect personal information (PII) and are prohibited from using your personal identifying information for promotional purposes. This anonymous information can also be used for online preference marketing purposes. The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
 
@@ -99,23 +85,21 @@ Atlas may use information about your visits to this and other websites in order 
 
 
 
-POLICIES
+### Security Policy
 
-Security Policy
+We take the security of your information very seriously. Our e commerce system uses the latest SSL (Secure Sockets Layer) technology - the industry standard for encryption technology. It is used to create a secure transaction environment for commerce on the Internet. If your browser and local network support the use of encrypted data transmissions, our Secure Checkout mode locks all information (i.e.: your credit card number) passed from you to Coastal in an encrypted envelope, making it extremely difficult to be intercepted by an unauthorized party. SSL technology is compatible with Netscape, Internet Explorer, AOL, Web TV and most other browsers. It is the same level of encryption technology that NASA and the CIA use. This ensures that your credit card information remains totally secure. It's about as secure as using your local bank machine. 
 
-We take the security of your information very seriously. Our e commerce system uses the latest SSL (Secure Sockets Layer) technology - the industry standard for encryption technology. It is used to create a secure transaction environment for commerce on the Internet. If your browser and local network support the use of encrypted data transmissions, our Secure Checkout mode locks all information (i.e.: your credit card number) passed from you to Clearly in an encrypted envelope, making it extremely difficult to be intercepted by an unauthorized party. SSL technology is compatible with Netscape, Internet Explorer, AOL, Web TV and most other browsers. It is the same level of encryption technology that NASA and the CIA use. This ensures that your credit card information remains totally secure. It's about as secure as using your local bank machine. 
-
-Service-related Announcements
+### Service-related Announcements
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
-Newsletters
+### Newsletters
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. 
 
-Opt-Out
+### Opt-Out
 
 We provide you the opportunity to "opt-out" of having your personal information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any special offer emails from us, you may opt-out at anytime by following the unsubscribe link located at the bottom of each email communication. 
 
@@ -125,7 +109,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can email us at [privacy@coastal.com](mailto:privacy@coastal.com). 
 
-TRUSTe Licensee
+### TRUSTe Licensee
 
 The TRUSTe certification applies to the following properties:
 
@@ -143,4 +127,4 @@ In order to view our relationship with TRUSTe please visit the validation page v
 
 Effective Date: 03/16/2106
 
-COPYRIGHT NOTICE. Copyright © 2020 Essilor Group Canada Inc., All rights reserved. Any rights not expressly granted herein are hereby reserved. 
+COPYRIGHT NOTICE. Copyright © Essilor Group Canada Inc., All rights reserved. Any rights not expressly granted herein are hereby reserved. 
