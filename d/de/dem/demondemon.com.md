@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demondemon.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616131848id_/http%3A//www.demondemon.com/contact-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demondemon.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019070058id_/http%3A//www.demondemon.com/contact-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scritty's SEO Blog
 
