@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flv2mp3.com privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031202504id_/http%3A//www.flv2mp3.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flv2mp3.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019190213id_/http%3A//www.flv2mp3.org/policy) for the most accurate reproduction.*
 
 # Privacy policy for Flv2mp3 service
 
