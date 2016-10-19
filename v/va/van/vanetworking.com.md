@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619015242id_/http%3A//www.vanetworking.com/privacy-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanetworking.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019145430id_/http%3A//www.vanetworking.com/privacy-refund-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Refund Terms - Virtual Assistant Networking Organization
 
@@ -37,7 +37,7 @@ If order by mail, please send money orders to:
 
 VAnetworking.com does business as Mediamage Business Solutions (MBS).
 
- **Our Business Products:**
+**Our Business Products:**
 
 VAnetworking.com
 
