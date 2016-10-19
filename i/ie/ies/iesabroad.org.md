@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iesabroad.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607064415id_/http%3A//www.iesabroad.org/study-abroad/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iesabroad.org privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019200909id_/https%3A//www.iesabroad.org/study-abroad/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IES Abroad | Study Abroad
 
