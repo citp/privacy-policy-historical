@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directory-of-colleges.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209233254id_/http%3A//directory-of-colleges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory-of-colleges.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019114324id_/http%3A//www.directory-of-colleges.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Directory of Colleges
 
