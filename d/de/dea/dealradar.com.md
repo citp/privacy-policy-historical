@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220205741id_/http%3A//www.dealradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019212442id_/http%3A//dealradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dealradar.com :: Local Offers | Restaurant Deals | Spa Deals | Local Deals | Deal-a-Day Sites
 
