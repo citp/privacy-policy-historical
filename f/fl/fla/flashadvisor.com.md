@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashadvisor.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612082415id_/http%3A//www.flashadvisor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashadvisor.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019225846id_/http%3A//www.flashadvisor.com/privacy.php) for the most accurate reproduction.*
 
 # Flash Advisor - Privacy - Flash open Resource Macromedia Flash Tutorials SWF FLA images clip art Sounds WAVS Animations free flash movie
 
