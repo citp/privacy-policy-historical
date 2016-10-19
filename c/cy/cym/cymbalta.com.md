@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cymbalta.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414034415id_/https%3A//www.lilly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymbalta.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019173511id_/https%3A//www.lilly.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
