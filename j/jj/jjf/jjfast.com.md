@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjfast.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331043423id_/http%3A//jjfast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjfast.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019124554id_/http%3A//jjfast.com/privacy) for the most accurate reproduction.*
 
 # Privacy | JJ Fast Publishing
 
