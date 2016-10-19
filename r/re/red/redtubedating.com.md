@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtubedating.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327042449id_/http%3A//redtubedating.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dredtubedating%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtubedating.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019134458id_/http%3A//redtubedating.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dredtubedating%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # 
 
