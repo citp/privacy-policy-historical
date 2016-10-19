@@ -1,13 +1,61 @@
-> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606103144id_/http%3A//www.reecenichols.com/pages/home-match-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeceandnichols.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019185155id_/http%3A//www.reecenichols.com/pages/home-match-privacy-policy) for the most accurate reproduction.*
 
 # Home Match Privacy Policy
 
-  * At ReeceNichols Realtors, we recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted ("Personal Information"). ReeceNichols Realtors has adopted the following privacy policy because we understand the need to safeguard the information you may be providing to us at our web site.
-  * We are committed to protecting your privacy at all times. 
-  * ReeceNichols Realtors and its affiliates and partners offer a variety of programs and services to you. We collect and retain information about you only when we believe it will help us provide you with the services and products associated with your real estate inquiries and transactions.
-  * When you sign up for Home Match, we may use that information to occasionally notify you about important functionality changes to our web site, new ReeceNichols Realtors products or services, the products and services of our affiliates and partners, and special offers we think you'll find valuable.  We do not sell your personal information to anyone. 
-  * Should the agent assisting you with your Home Match account leave ReeceNichols Realtors for any reason, your account and information will be transferred to another ReeceNichols Realtors agent that will be able to assist you moving forward.
-  * At any time, you may request that the ReeceNichols Realtors agent or any representative of our affiliates or partners assisting you, discontinue their communication with you.  If communications persist after you have made known that you wish to no longer receive communication, please feel free to contact ReeceNichols directly at 913.945.3704 or [Webmaster@ReeceAndNichols.com](mailto:Webmaster@ReeceAndNichols.com), and we would be happy to speak to the agent or representative.
-  * When you provide us with Personal Information, you are consenting  to the collection and use of this information by ReeceNichols Realtors, its affiliates and partners which may provide services valuable to complete your transaction. If we decide to change our privacy policy, we will post changes so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Because we value you as our customer, we want to address any privacy concerns you may have. To that end, we have set forth our privacy policy for handling the information you share with us online. We want your decision to do business with us to be an informed one.
 
+* Collecting Information
 
+When you visit our consumer applications, we may collect information about you that you share with us by using our consumer applications. This identification information may include, but is not limited to, your name, physical address, email address, telephone and fax numbers, details of your real estate and lending needs and references, and other details of your life.
+
+As you may be aware, it is a common practice that when you visit our consumer applications, we may collect data involving your usage through the use of “cookies” (i.e. small text files placed on your computer by consumer applications), web server logs, and other web tools. This technology allows us to customize your online experience as well as track your use of our system so that we can improve your experience. The tracking data we collect may include, but is not limited to, the date, time and location of your visit, the time you spend, the web pages you view, the other consumer applications you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your internet service provider. You may deactivate cookies if you do not want your browsing to be tracked, but doing so may hinder your online experience.
+
+When visiting our consumer-facing applications, you may be directed, through hyperlinks, to other consumer applications that are beyond our control. Furthermore, when you are visiting our consumer applications, other companies, such as third party advertisers and sponsors, may be gathering information about you. This Privacy Policy does not cover the collection of information by those other companies and consumer applications. Although we encourage third parties to provide their own privacy policies, we are not responsible for their activities, such as how they handle the information they collect online.
+
+* Using Information Collected
+
+We primarily use the identification information you voluntarily share with us to customize your online experience and to do what you have asked of us. We also use your identification information to tell you about our products and services, but you may instruct us not to send communications to you by following the procedure indicated below under “Contacting Us.” On occasion, we use your identification information to validate your identity. As for usage tracking data, we primarily use that information to operate and improve our consumer applications, and to further our marketing efforts. As a general rule, we do not share your information with unaffiliated third parties. We may, however, share your information with our own personnel and our service providers to the extent necessary to fulfill your requests. We may also share your information with our affiliates, but we will not share it with unaffiliated third parties for direct marketing purposes. We reserve the right to disclose your information under limited circumstances, such as to cooperate with law enforcement or judicial authorities as required by law or legal process, to protect our own legal rights, or to protect the public good.
+
+Whenever you are online or on our applications, you run the risk that the information you give out will fall into the wrong hands. Although we implement and maintain commercially reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us. We accept no responsibility or liability for the activities of third parties. By using our consumer applications and applications, you agree to our Terms of Use.
+
+* Updating Information
+
+If you would like to review the information about you that we have collected through our consumer applications, or to change that information, you can make that request by following the procedure indicated below under “Contacting Us.” We may require that you verify your identity before we process your request.
+
+* Anti-Fraud Disclosure
+
+Electronic communications such as email, text messages and social media messaging, are neither secure nor confidential. While ReeceNichols Realtors, Inc. ("Broker") has adopted policies and procedures to aid in avoiding fraud, even the best security protections can still be bypassed by unauthorized parties. Broker will never send you any electronic communication with instructions to transfer funds or to provide nonpublic personal information, such as credit card or debit numbers or bank account and/or routing numbers.
+
+YOU SHOULD NEVER TRANSMIT NONPUBLIC PERSONAL INFORMATION, SUCH AS CREDIT OR DEBIT CARD NUMBERS OR BANK ACCOUNT OR ROUTING NUMBERS, BY EMAIL OR OTHER UNSECURED ELECTRONIC COMMUNICATION. EMAILS ATTEMPTING TO INDUCE FRAUDULENT WIRE TRANSFERS ARE COMMON AND MAY APPEAR TO COME FROM A TRUSTED SOURCE.
+
+If you receive any electronic communication directing you to transfer funds or provide nonpublic personal information, EVEN IF THAT ELECTRONIC COMMUNICATION APPEARS TO BE FROM Broker or its affiliates, do not respond to it and immediately contact Broker. Such requests, even if they may otherwise appear to be from Broker, are likely part of a scheme to defraud you by stealing funds from you or using your identity to commit a crime.
+
+To notify Broker of suspected fraud related to your real estate transaction, send an email to [Webmaster@ReeceAndNichols.com](mailto:Webmaster@ReeceAndNichols.com).
+
+* Updating Our Privacy Policy
+
+We may, from time to time, change our Privacy Policy. We will notify you of any changes by posting our updated Privacy Policy on our consumer applications and inserting a new “Effective Date.”
+
+* Contacting Us
+
+If you would like to send us a request as indicated above, or if you have any other questions or concerns regarding our Privacy Policy, you may contact us by email at [Webmaster@ReeceAndNichols.com](mailto:Webmaster@ReeceAndNichols.com) or call us at 913.945.3704.
+
+* Effective Date and Contact Information:
+
+This Privacy Policy is effective as of 10/12/2016. Our company can be reached at:
+
+Address: 11601 Granada Lane, Leawood, KS 66211  
+Telephone Number: (913) 491-1001  
+Facsimile Number: (913) 491-0930  
+Email Address: [CKelly@ReeceNichols.com](mailto:ckelly@reecenichols.com)
+
+. 
+* California Privacy Rights
+
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties.
+
+To request the above information please contact us by writing to customer service at [clientcare@reecenichols.com](mailto:clientcare@reecenichols.com).
+
+* International Users
+
+Our consumer applications are hosted by servers in the United States. If you are located outside of the United States, your personal information may be transferred to the United States. By submitting your personal information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Policy.
