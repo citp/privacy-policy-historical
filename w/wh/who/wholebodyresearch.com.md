@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholebodyresearch.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304175833id_/http%3A//wholebodyresearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholebodyresearch.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019074245id_/http%3A//wholebodyresearch.com/privacy.html) for the most accurate reproduction.*
 
 # Whole Body Research Privacy Policy
 
