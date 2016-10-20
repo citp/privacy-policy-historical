@@ -1,97 +1,162 @@
-> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611042131id_/http%3A//www.fisherinvestments.com/about/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherinvestments.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020102130id_/https%3A//www.fisherinvestments.com/privacy-security) for the most accurate reproduction.*
 
-# Fisher Investments | Privacy and Security
+# Privacy & Security Policies | Fisher Investments
 
-**Fisher Investments' ("FI," "we" or "us") commitment to you: We will never sell your private information to anyone.**
+(This version of the privacy policy in effect as of December 27, 2013)
 
-If you have any questions about our privacy policy, please send us an email to privacy@fi.com. We'll be glad to help!
+## General
 
-##  INTRODUCTION
+This privacy policy sets out how Fisher Investments collects, uses and shares information concerning users of this website (individually “user” or “you”, collectively “users”).  Any changes to this privacy policy will be posted [here](https://web.archive.org/privacy-security/usa).  Users can also access this privacy policy via our homepage and from the bottom of every page by clicking on the appropriate link in the footer.
 
-FI provides investment management services to prestigious institutions and individuals worldwide. As a world-class organization, we are committed to providing the highest quality of service to all of our clients. We also have a responsibility to our clients, the public and our profession to deliver our services in a professional manner, with uncompromising values and standards. As such, we must and will in all respects comply with all applicable laws, regulations and requirements regarding privacy and security.
+Fisher Investments and its associated companies are committed to respecting users’ privacy.  We have structured our website so that, in general, users can visit Fisher Investments on the web without identifying themselves or revealing any personal information.  Once users choose to provide Fisher Investments with any information by which users can be identified, users can be assured that it will only be collected, used and shared in accordance with this privacy policy. We encourage you to periodically review this privacy policy and any revisions thereto to ensure that you are familiar with the most current version.
 
-FI is committed to providing you with a clear explanation of its privacy policy. Our privacy policy covers privacy issues as they relate to all FI services (including our client website and all respective subdirectories) (collectively called " **FI Services** ").
+## Background
 
-##  PRIVACY POLICY BACKGROUND
+Fisher Investments is registered with the U.S. Securities and Exchange Commission (the “SEC”) as an investment adviser, and is required to comply with SEC Regulation S-P (“Reg. S-P”), as well as the U.S. Gramm-Leach-Bliley Act of 1999 (the “GLB Act”). Reg. S-P and the GLB Act require Fisher Investments to have policies and procedures in place to protect the security and confidentiality of the non-public personal information of consumers and customers, and to provide a privacy notice to such persons describing our privacy policies and procedures.
 
-FI is registered with the U.S. Securities and Exchange Commission (the " **SEC** ") as an investment adviser, and is required to comply with SEC Regulation S-P (" **Reg. S-P** "), as well as the U.S. Gramm-Leach-Bliley Act of 1999 (the " **GLB Act** "). Reg. S-P and the GLB Act require FI to have policies and procedures in place to protect the security and confidentiality of the non-public personal information of consumers and customers, and to provide a privacy notice to such persons describing our privacy policies and procedures.
+To ensure consumer privacy laws are not violated, Fisher Investments has adopted the policies and procedures described under the “Privacy Notice” heading below, which govern the activities of each officer, member, director, trustee and employee of Fisher Investments (collectively called the “Personnel”).
 
-To ensure consumer privacy laws are not violated, FI has adopted the policies and procedures described under the "Privacy Notice" heading below, which govern the activities of each officer, member, director, trustee and employee of FI (collectively called the " **Personnel** ").
+## Glossary
 
-##  GLOSSARY
+“Consumer” – an individual or an individual's legal representative that obtains or has obtained a financial product or service to be used primarily for personal, household or family purposes. A person becomes a consumer even if a questionnaire or application is withdrawn or denied or an advisory agreement does not become effective.
 
-**Consumer** \- an individual or an individual's legal representative that obtains or has obtained a financial product or service to be used primarily for personal, household or family purposes. A person becomes a consumer even if a questionnaire or application is withdrawn or denied or an advisory agreement does not become effective.
+“Customer” – a consumer that has an ongoing relationship with Fisher Investments, whereby Fisher Investments is providing one or more financial products or services to the consumer (e.g., an advisory client of Fisher Investments).
 
-**Customer** \- a consumer that has an ongoing relationship with FI, whereby FI is providing one or more financial products or services to the consumer (e.g., an advisory client of FI).
+“Nonpublic personal information” –
 
-##  Nonpublic personal information -
+  * All personally identifiable financial information.
+  * While the GLB Act excludes publicly available information (e.g., a list of persons and their publicly listed telephone numbers), nonpublic personal information does include any list, description or other grouping of consumers (and publicly available information pertaining to them) derived using any nonpublic personally identifiable financial information that is not publicly available information.
 
-All personally identifiable financial information.  
-While the GLB Act excludes publicly available information (e.g., a list of persons and their publicly listed telephone numbers), nonpublic personal information does include any list, description or other grouping of consumers (and publicly available information pertaining to them) derived using any nonpublic personally identifiable financial information that is not publicly available information.
 
-##  PRIVACY NOTICE
 
-This Fisher Investments U.S. Privacy Notice describes how FI collects, uses and shares information from or about you from the following methods:
+## Privacy Notice
 
-Information we receive about you on applications or other forms;  
-Information you give us orally; and  
-Information about your transactions with us or others.
+This U.S. Privacy Notice describes how we collect, use and share information from or about you. We are committed to protecting your privacy and your non-public personal information. Please click here for Fisher Investments’ [U.S. Privacy Notice](https://web.archive.org/~/media/fisher-investments/files/secure/2016-privacy-notice-us-and-can.pdf?la=en).
 
-We are committed to protecting your privacy and your non-public personal information. [Please click here for Fisher Investments Privacy Notice Facts](http://www.fisherinvestments.com/pdf/Privacy_Notice.pdf).
+## What information Fisher Investments collects
 
-##  PRIVACY POLICY UPDATES
+Fisher Investments may collect the following information:
 
-From time to time, FI may use data for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will provide you with an updated privacy notice by posting the updated privacy notice to our website. If you are concerned about how we use information, you should periodically check the "Privacy and Security" link at the bottom of the FI client website home page.
+  * Fisher Investments collects information from users who request information and/or information materials, including name, address, telephone number, email address and investment-related questions.
+  * Fisher Investments collects relevant information on applications and resumes from prospective employees via our careers website.
+  * Fisher Investments collects information provided orally and in writing via email, mail, online or in person from prospective clients, clients, prospective employees and employees.
+  * Fisher Investments collects users’ domain type, IP address and clickstream data. Such information is only identifiable by users’ IP address and is not linked to users’ personal information.
 
-##  CLICKSTREAM DATA AND COOKIES
 
-FI may collect information regarding the behavior of users visiting our website, such as clickstream data and IP address. FI may collect this information for reasons such as legal compliance, security protection and to improve FI Services and your experience with the website. If you visit another website via a link on the FI client website, the service provider or media owner of such other website may also collect similar information.
 
-What is a "cookie"? A cookie is a small data file containing information, such as a link that a user clicked on, which is written to the user's hard drive by a web server and used to track the pages visited. With cookies, the information is anonymous and not personally identifiable. It does not contain personal information such as name, address, telephone number or email address. It also does not contain user passwords. The individual information gathered in this manner is used for internal purposes only, such as looking at unique page views and customizing content. We also use the information on an aggregate basis, to track the usage of our website and to analyze traffic patterns.
+## How Fisher Investments uses and shares information collected
 
-You can control your browser's settings regarding cookies by selecting "Internet Options" or "Preferences" in the menu bar of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, because our website requires cookies for certain functions, we recommend you leave them enabled.
+Fisher Investments may use the information for the following reasons:
 
-##  SECURITY
+  * Internal record keeping.
+  * To improve products and services.
+  * To follow up, either by email, phone or mail, with people who have requested information and/or materials.
+  * To periodically send promotional email or mail about services, recent developments or other information which users may find interesting using the email address or mailing address which users have provided when requesting information and/or materials.
+  * To access certain special features or areas of this website.
+  * To evaluate prospective employees for positions, and to employ its personnel.
+  * To analyze the financial situation of prospective clients and to provide investment advisory and management services to clients.
+  * As otherwise permitted by law.
+  * Pursuant to your request. 
 
-FI has appropriate security measures in place at its physical facilities to protect against the loss, misuse or alteration of private information collected from users. If you feel that this website is not following FI's stated privacy policy, you are encouraged to contact FI at [privacy@fi.com](mailto:privacy@fi.com).
 
-**Fisher Investments ("FI," "we" or "us") would also like to advise you about the following additional privacy and security matters:**
 
-COLLECTION OF INFORMATION
+Fisher Investments may disclose information externally as permitted or required by law (such as to affiliates, service providers, and regulatory agencies), or where users have provided permission.  Fisher Investments will not sell or lease users' personal information to third parties so they can market to users.
 
-FI collects contact information and other relevant data from prospective clients so that we can provide them with the information they've requested - either directly from FI or through one of our marketing partners. Please note that this information comes from people who specifically request information through FI's website or from clearly labeled advertising.
+## How to access and rectify information
 
-FI collects contact information and other relevant data from prospective employees via our website.
-
-All personal information submitted to us will be held confidential in accordance with our privacy policy.
-
-##  EMAIL
-
-FI sponsors third party email content. In order to receive FI's email content through a third party, an individual would have had to previously subscribed to a particular service or "opted-in"; to receive relevant promotional content from advertising partners. As advertisers, we do not gain access to users' contact information-this information is kept confidential by the content owner-nor does FI supply additional users from our own internal database. Rather, the respective online publisher distributes content on our behalf.
-
-If you have received FI's email content through a third party, you must unsubscribe or "opt-out" through the respective publisher. The only way to avoid receiving future promotional offers (from FI or other companies) is by going directly to the respective publisher and unsubscribing from their list.
-
-FI does, however, maintain a suppression file of email addresses in compliance with the CAN SPAM Act of 2003 (S.877). This list is updated daily and provided to publishers with instructions to exclude the respective email addresses from FI sponsored email campaigns. For instructions on adding your name to FI's email suppression file, see the "Removal from the Fisher Investments Database" section.
-
-##  ONLINE ADVERTISING
-
-FI's online advertising is in full compliance with Internet, advertising and finance industry standards and regulations. Our advertising content is integrated and delivered with online publisher's primary content in a variety of different formats; some in graphical format (e.g. banner) and others in text format.
-
-The delivery of our online advertisements (and frequency thereof) is ultimately controlled by the respective online publisher. Unfortunately, we are unable to suppress or restrict the delivery of our online advertisements to individual users. Many publishers offer "frequency capping" to limit the number of advertisements a user will receive on a periodic basis. However, this functionality will NOT work if you have disabled "cookies" in your browser. For example, if you are experiencing a high volume of online advertisements in general (like pop-up ads), then it might be an issue with your Internet browser's ability to accept "cookies". It is important that you have "cookies" enabled in your browser settings. For further information about cookies, see the "Clickstream Data and Cookies" section.
-
-##  UPDATING OR CORRECTING PERSONAL INFORMATION
-
-Upon request, we will provide site visitors with access to respective contact information (e.g., name, address, phone number) that is maintained about them. To access this information, please email privacy@fi.com. Upon request, we will also offer visitors the ability to have inaccuracies corrected in the database. Users can have this information corrected by sending email to [privacy@fi.com](mailto:privacy@fi.com).
-
-##  REMOVAL FROM THE FISHER INVESTMENTS DATABASE
-
-If contact information is willingly provided to us by mail, phone, email, online or otherwise, in response to our marketing activities, individuals may receive subsequent periodic information from FI on new products and services or upcoming events. If individuals don't wish to receive such information, please let us know by sending an email to privacy@fi.com, or by writing to the following address:
+Users may contact Fisher Investments at any time to request access to information Fisher Investments maintains about them, to rectify any inaccuracies in such information, or to say they no longer want to be contacted by Fisher Investments for direct marketing or other purposes.  Fisher Investments can be contacted by mail, email or telephone as follows:
 
 Fisher Investments  
-ATTN: Marketing Department  
-13100 Skyline Boulevard  
-Woodside, CA 94062
+ATTN: Marketing – Privacy  
+5525 NW Fisher Creek Drive  
+Camas, Washington 98607  
+USA[  
+privacy@fi.com](mailto:privacy@fi.com)  
+1-800-851-8845
 
-Please provide FI with the exact name and address as it was originally provided. We will be happy to remove your name from our database and will do everything possible to honor your request for removal.
+In each case, please ensure that full name and address are provided in exactly the form in which it was originally provided to Fisher Investments to avoid any possible confusion with a different user.
 
-To unsubscribe from FI's email communications, send an email to [optout@fi.com](mailto:optout@fi.com).  Please put "UNSUBSCRIBE" in the subject field and include the email address where you received the content, along with any additional email addresses you would like suppressed. We will do our best to prevent you from receiving our email content in the future.
+To unsubscribe from Fisher Investments’ email communications, [click here](http://www.fi.com/weballey/FIUnsubscribeForm.aspx), or send an email to [optout@fi.com](mailto:optout@fi.com). Please put “UNSUBSCRIBE” in the subject field and include the email address where you received the content, along with any additional email addresses you would like suppressed. We will do our best to prevent you from receiving our email content in the future.
+
+## Security
+
+Fisher Investments is committed to ensuring that user information is secure. In order to prevent unauthorized access or disclosure, Fisher Investments has put in place suitable physical, electronic and managerial procedures to safeguard and secure information. Nevertheless, due to the nature of the Internet and Internet technologies, security and privacy risks cannot be eliminated and Fisher Investments cannot guarantee that users’ personal information will not be disclosed in ways not otherwise described in this privacy policy.
+
+## Other Websites
+
+The Fisher Investments website may contain links to enable users to visit other websites of interest easily. However, once users have used these links to leave this site, users should note that Fisher Investments does not have any control over that other website. Therefore, Fisher Investments cannot be responsible for the protection and privacy of any information which users provide while visiting such sites and such sites are not governed by this privacy policy. Users should exercise caution and look at the privacy policy applicable to the website in question.
+
+## Cookie Policy
+
+What is a “cookie”? A cookie is a small data file containing information, such as a link that a user clicked on, which is written to the user's hard drive by a web server and used to track the pages visited. Fisher Investments allows third party partner organizations to place cookies on its behalf to collect information about the behavior of users visiting Fisher Investments’ website, including domain type, IP address and clickstream data, and to remember choices users make to improve their experience. Such information may be identifiable by IP address, but not by users’ personal information. It does not contain personal information such as name, address, telephone number or email address. It also does not contain user passwords.
+
+While cookies and similar tools can serve many functions, the cookies we use perform the following functions:
+
+1\. Performance Cookies
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages, so that we can track the usage of our website and analyze traffic patterns. These cookies don’t collect information that identifies a visitor other than by their IP address. These cookies are only used to improve how a website works.
+
+2\. Functionality Cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features or content. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video. The information these cookies collect cannot track your browsing activity on other websites.
+
+3\. Advertising Cookies
+
+We serve advertisements on various websites using third party companies. When you click on one of our ads and are taken to our website, these companies may place third party cookies on your browser to make advertising more relevant based on your interactions with our website and other websites that you may visit.
+
+## “Do Not Track” Signals
+
+Our website does not respond to “do not track” signals from users’ web browsers.
+
+## How to Manage Cookies
+
+You can control your internet browser's settings to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable (or re-enable) cookies altogether. However, because our website uses cookies, if you do disable cookies performance and functionality will be affected. You can control your browser’s cookie settings as follows:
+
+Microsoft Internet Explorer 6.0, 7.0, 8.0
+
+  * Click on ‘Tools’ at the top of your browser window and select ‘Internet Options’
+  * In the options window navigate to the ‘Privacy’ tab
+  * To disable cookies: Move the slider to the top to block all cookies
+  * Note there are various levels of cookie enablement and disablement in Explorer. For more information on other cookie settings offered in Internet Explorer, refer to the following page from [Microsoft](http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies). 
+
+
+
+Microsoft Internet Explorer 9.0
+
+  * Click on ‘Tools’ at the top of your browser window and select ‘Safety’
+  * Then click ‘Delete browsing history’.
+  * Select the ‘Cookies’ check box, and then click ‘Delete’.
+  * Note there are various levels of cookie enablement and disablement in Explorer. For more information on other cookie settings offered in Internet Explorer, refer to the following page from [Microsoft](http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies).
+
+
+
+Google Chrome
+
+  * Click on the ‘wrench’ icon on the browser (usually found top-right corner) to open the tools menu
+  * From the tools menu select ‘Options’
+  * Click the ‘Under the Hood’ tab from the menu on the left.
+  * In the ‘Privacy’ section, select the ‘Content settings’ button
+  * To disable cookies: select ‘Block all cookies’ option
+  * Note there are various levels of cookie enablement and disablement in Chrome. For more information on other cookie settings offered in Chrome, refer to the following page from [Google](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647).
+
+
+  * Mozilla Firefox
+  * Click on ‘Tools’ at the browser menu and select ‘Options’
+  * Select the Privacy panel
+  * To disable cookies: Uncheck at ‘Accept cookies for sites’ 
+  * Note there are various levels of cookie enablement and disablement in Firefox. For more information, refer to the following page from [Mozilla](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies).
+
+
+
+Safari on OSX
+
+  * Click on ‘Safari’  at the menu bar and select the ‘Preferences’ option
+  * Click on ‘Security’
+  * To disable cookies: In the ‘Accept cookies’ section select ‘Never’
+  * Note there are various levels of cookie enablement and disablement in Safari. For more information on other cookie settings offered in Safari, refer to the following page from [Apple](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html).
+
+
+
+All other browsers
+
+Please look for a “help” function in the browser or contact the browser provider.
