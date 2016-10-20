@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611212129id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020052654id_/http%3A//www.sarkarinaukriupdates.in/privacy-policy) for the most accurate reproduction.*
 
-# latest Privacy Policy govt jobs 2016 upcoming 2015 recruitment notification
+# Privacy Policy
 
-**[www.ingovtjob.com](http://www.ingovtjob.com/)** Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
+[**www.sarkarinaukriupdates.in**](http://sarkarinaukriupdates.in/) Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
 
 We Collect information from you when you subscribe to our posts or Comments.
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 
 Any of the information we collect from you may be used in one of the following ways:
 
-â€“ To send periodic E-Mails
+\- To send periodic E-Mails
 
 The E-mail address you provide may be used to send you information, respond to inquiries, and/ or other requests or questions.
 
@@ -32,8 +32,7 @@ This policy was last modified on 15th July 2013.
 
 If there are any questions regarding this privacy Policy you may contact us using the information below.
 
- **[www.ingovtjob.com](http://www.ingovtjob.com/)**
+**[www.sarkarinaukriupdates.in](http://sarkarinaukriupdates.in/)**
 
- **Govnokri@gmail.com**
+**Govnokri@gmail.com**  
 
-Important Note: Kindly Visit to official website to get detailed information about this post as above information on this page may not be complete.
