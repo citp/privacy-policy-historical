@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketresponder.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403053126id_/https%3A//www.rocketresponder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketresponder.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020071606id_/https%3A//www.rocketresponder.com/privacy) for the most accurate reproduction.*
 
 # RocketResponder - Coming Soon
 
