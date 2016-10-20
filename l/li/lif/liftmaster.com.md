@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507094412id_/https%3A//www.liftmaster.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftmaster.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020020847id_/https%3A//www.liftmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LiftMaster
 
