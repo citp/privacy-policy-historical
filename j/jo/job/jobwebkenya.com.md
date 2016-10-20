@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobwebkenya.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327034309id_/http%3A//jobwebkenya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobwebkenya.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021015421id_/http%3A//jobwebkenya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobwebkenya.com
 
