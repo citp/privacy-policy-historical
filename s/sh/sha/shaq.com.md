@@ -1,97 +1,130 @@
-> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711113319id_/http%3A//shaq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaq.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020174116id_/http%3A//www.shaq.com/new-page) for the most accurate reproduction.*
 
-# Shaq | Privacy Policy
+# PRIVACY POLICY — Shaquille O'Neal
 
-## Overview
+**Privacy Policy**
 
-At JLP-BB Licensing LLC (“JLP-BB”, “we”, “our” or “us”), we value our customers and firmly believe in your privacy and the security of your personal information. We have created this Privacy Policy for [www.shaq.com](http://www.shaq.com/) (the “Website”) to demonstrate our firm commitment to protecting and using any information you give us in a responsible manner. The information we collect about you on our Website, is in an effort to improve your shopping experience and to communicate with you about our products, promotions and services. You're very important to us and we want to provide you with a safe and secure online experience.
+Published: April 1, 2016
 
-## Complete Privacy Policy
+This privacy policy (“Privacy Policy”) applies only to the website owned, operated and maintained by ABG-Shaq, LLC (referred to herein as "we" or "us") where this Privacy Policy is posted (the "Site"). This Privacy Policy describes how we treat personal information we collect both online and offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE. 
 
-This Privacy Policy describes what, how and why we collect your information and when we use your information, and gives you choices as to how we use it. Please read this Privacy Policy carefully. Please also read our [Terms of Use](http://shaq.com/terms-of-use) , which governs your use of the Website. By using the Website you consent to the terms of our current Privacy Policy and Terms of Use. Please note that this Privacy Policy does not apply to any information that you provide to third parties and you should contact such third parties directly to determine their respective privacy policies. We suggest that you review this Privacy Policy periodically as we may update it from time to time. You can tell if the policy has changed by checking the revision date that appears on this policy.
+**A. Information Collected**
 
-## What information does JLP-BB collect about me?
+We collect the information you provide to us actively, and also collect information automatically from the devices that interact with our Site, as explained below. 
 
-Every time you visit our Website, we automatically collect information about you and your activities on the Website that does not identify you personally, but we are identifying you through your consumer behavior via your Internet service provider's address, domain server, the type of computer, web browser, operating system or platform you use and referrer data identifying the web pages you visited prior to and after visiting the Website, and a record of your activity on our site (collectively, “Website Usage Information”). When you purchase on Shaq.com we collect personal information by which you may be identified (“Personal Information”) that you volunteer, such as your name, email address, date of birth, gender, postal address, telephone numbers, passwords, credit and debit card information and other financial institution account information and certain other information necessary to process your order. We also collect the Personal Information you provide to us when you register for "My Account", participate in a contest or sweepstakes promotion, sign up for our mailing list or newsletter, post comments on the Website’s blog space, fill out a survey or questionnaire, or contact us (for example via email) or otherwise interact with this Website. If you choose to fill in the additional requested information in My Account, then you are also authorizing JLP-BB to store such information until such time you decide to change or delete such additional information. By doing so, although your information will still be stored with us, the information will not be accessible to anyone else from that computer.
+(1) Information You Actively Provide
 
-## How do you use my Personal Information?
+"We collect registration details and personal information, such as your name, address, telephone number, email address, age, gender, payment details, purchase history, or company name, that you actively provide to us when you register, communicate, or transact business with our Site. 
 
-The Personal Information we collect is used for various purposes: it allows us to tailor our product offer and improve your shopping experience, making shopping easier and more enjoyable; it enables us to provide the services you request and resolve any complaints; to process your transactions for administration purpose such as order fulfillment and conducting contests, sweepstakes and promotions and awarding prizes; to customize the content and layout of our pages; to notify you about updates to our websites and products or changes to the Privacy Policy or Terms of Use; to improve our customer service; to provide you with marketing information and communicate with you regarding certain products, services or promotions offered by us provided that you have not already opted-opted out of receiving such communications in the manner described below; improve the Website and any services provided through the Website and resolve any related technical problems; ensure compliance with the Privacy Policy, Terms of Use and any applicable laws and regulations and to communicate with you by email, phone, or other means. The information you supply to us is added to our customer database. You may receive periodic mailings from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings from us, please contact us. We may combine your Personal Information with Website Usage Information, publicly available information and information we receive from or cross-reference with our strategic partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
+We receive and store the information that you enter on our Site or give to us in any other way. The above list provides an example of the personally identifiable information that may be collected on the Site. If you do not want us to collect your personally identifiable information, please do not provide it to us. 
 
-## How do we use Website Usage Information?
+(2) Information Collected From or About the Devices that Interact with our Site
 
-Website Usage Information is tracked and gathered when you visit the Website and your web browser or software communicates certain information to the Website. We use this information to generate statistics about visitors to the Website, detect broad demographic trends, enhance the Website’s security, provide content tailored to your interests and to otherwise enhance your experience on the Website.
+We receive and store information from and about the devices (such computers, smartphones) that interact with our device, including the Internet Protocol (IP) address used to connect your computer to the Internet; your login credentials; and computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform. We use cookies, web beacons, and other technologies to measure and collect session information, including page response times, and to measure and understand visitor behaviors on the site. We may also collect technical information to help us identify your device for reasons of security and site integrity. 
 
-## Email List
+**B. Use of Information Collected Via the Site**
 
-We periodically send you emails about new products and services, discounts, special promotions or upcoming events. If you do not wish to receive such emails in the future, please contact us, or click the "unsubscribe" link on any promotional email you receive from us. Please allow at least 10 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request. Please note: In order to process your purchases we may send you a confirmation email or we may contact you by mail or telephone if we have questions about your order.
+(1) We use the information that you actively provide
 
-## Others That We May Share Your Information With
+  * To deliver services, such as educational programs, information, newsletters or software you request or purchase;
+  * To alert you to special offers, updated information and other new services from us, or other third parties, or to forward promotional materials;
+  * To complete a transaction or service requested by you;
+  * To fulfill the terms of a promotion;
+  * To customize your experience with us, to modify our products and services and to ensure the Site are relevant to your needs;
+  * To help us create and publish content most relevant to you;
+  * To notify you about a material change to this Privacy Policy or the Visitor Agreement, if necessary;
+  * To allow you access to limited-entry areas of the Site; 
+  * To contact you in response to sign up forms such as Contact Us or Order Inquiry;
+  * For security purposes (e.g., we may use information to protect our company, our customers, or our websites); and
+  * As otherwise permitted under applicable law.
 
-We share your Personal Information and Website Usage Information with our subsidiaries, affiliates, joint venturers, strategic alliance partners, sponsors and advertisers (“Partners”). In addition, we may also share your Personal Information and Website Usage Information with certain non-affiliated third parties, but only as set forth below:
 
-_Service Providers:_ In some instances, we may use third party service providers to help us provide our products and services to you, to assist us in managing customer information, for the administration of contest and sweepstakes promotions and prize fulfillment, providing business analysis and or quality control, providing marketing assistance, search results and links (including, without limitation, paid listings and links), processing credit and debit card payments, and to communicate with you. Some of these third party service providers may be given access to some or all of the Personal Information you provide to us if they need it to perform services on our behalf, and some may use cookies on our behalf. However, such third party service providers are not authorized by us to use your Personal Information for any other purpose.
 
-_Business Transfers:_ Your Personal Information and Website Usage Information may be transferred, sold or otherwise conveyed to a third party where JLP-BB: (i) merges with or is acquired by another business entity; (ii) sells all or substantially all of its assets; (iii) is adjudicated bankrupt or (iv) is liquidated or otherwise reorganizes. You consent to any and all such conveyances of your Personal Information and Website Usage Information.
+ **C. Sharing and Disclosure of Information**
 
-_Government:_ We may share Personal Information with governmental agencies or other third parties assisting us in fraud prevention or investigation without notice to you. We may do so when: (1) permitted or required by law; (2) cooperating in investigations of, or trying to protect against or prevent, actual or potential fraud, unauthorized transactions, intellectual property infringement or any other activity that is illegal or may expose you to legal liability; (3) investigating fraud which has already taken place; (4) enforcing or applying the Website’s Terms of Use; (5) verifying the identity of the Website’s users; and (6) protecting and defending the rights, property or safety of JLP-BB, JLP-BB’s Partners, the respective officers, directors, employees and representatives of each, and the Website’s users. The information is not provided to these agencies or companies for marketing purposes.
+We may share or disclose the information you provide, including name and contact details in the following instances:
 
-_Disclosure of Personal Information with Customer’s Consent:_ Unless otherwise required or permitted by applicable law, we will not transfer or release your Personal Information to a third party in any manner not provided for in this Privacy Policy without first providing you with the opportunity to “opt out” of such transfer or release of your Personal Information.
+(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Site, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion. 
 
-_Disclosure of Aggregated Website Usage Information:_ We may also share aggregated Website Usage Information that does not identify you personally with third parties.
+(ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information. 
 
-_Links to Other Sites:_ While visiting our Website or when viewing an email or other content provided by JLP-BB or the Website, you may encounter link to sites operated by our affiliated companies, business partners or other third parties. Links to any third party web site or content do not constitute or imply an endorsement or recommendation by JLP-BB of the linked website or content and we do not make any representatives or warranties about any website or content you may access through Shaq.com. Our privacy practices may differ from those of other web sites and we are not responsible for the privacy practices or the content of such third party web sites. Please make certain that you understand the other site’s privacy policy before providing personal information.
+(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Site and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on our behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Site will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us. 
 
-## Use of Cookies
+(iv) To complete your purchase. If you choose to make a purchase on the Site, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card). 
 
-JLP-BB uses cookies to enable us to quickly retrieve specific information from you regarding your previous visits and to recall features that you may have customized on your browser. The use of cookies provides you a convenient time saving feature. You can program your browser not to accept cookies, but if you do, you may not be able to use certain portions of the Website and the Website will not be able to customize certain features according to your preferences.
+(v) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property or act in urgent circumstances to protect the personal safety of our end users. 
 
-## Pixel Tags
+(vi) As part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
 
-JLP-BB also uses pixel tags, which are tiny graphic images, on our emails. Pixel tags assist us in analyzing our customers’ online behavior and measure the effectiveness of our website and advertising.
+(vii) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-## How do I know my information is secure?
+(viii) To protect against potential fraud, we may verify with third parties the information collected from these Site. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen. 
 
-JLP-BB goes to great lengths in keeping your financial information private and safe. We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your Personal Information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. Unfortunately, despite our best efforts, the transmission of data over the Internet cannot be guaranteed to be 100% secure. While we will use every reasonable means to ensure the security of information you transmit to Shaq.com, we cannot guarantee that such information will not be intercepted by third parties. Please also note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
+Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your name and contact or payment details to any third parties.
 
-## Blogspaces, Chat Rooms, Forums and Message Boards
+ **D. Online Tracking / Third Party Advertising**
 
-Please note that blogspaces, chat rooms, forums and/or message boards may be available through the Website. Any information you disclose in these areas is or may be deemed to be public information and you must exercise caution and discretion before posting any of your Personal Information on the Website.
+We use cookies, web beacons, and other tracking technologies for analytics and advertising purposes. When you interact with our Site, interest-based ads may be displayed to you based upon information such as purchasing or browsing behaviors on our Site. These tracking technologies enable us to identify the ads you see, whether you click on them, and other actions you take on our Site, so that we can tailor advertising, including for example avoiding repetition of ad content. We do not use personal information, such as name or contact details, to tailor advertising. 
 
-## Children’s Policy
+We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Site. Please be advised that such advertising companies may gather information about your visit to the Site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. These advertisers may read and place cookies on our Site, but they do not have access to personal information such as name or contact details. 
 
-This Website is targeted primarily for use by adults. JLP-BB does not knowingly or intentionally collect or use any Personal Information from or market its products and/or services to individuals under the age of 13. However, we hereby advise all users of our Website under the age of 13 not to disclose or provide any Personal Information on the Website. In the event that we discover or are notified that a child under the age of 13 has provided Personal Information to us, in accordance with the Children’s Online Privacy Protection Act of 1998 (15 U.S.C. §§6501-6506), we will delete the child’s Personal Information from our files to the extent technologically possible. In addition, we reserve the right to limit participation in particular programs, contests, sweepstakes and other promotions to visitors of the Website that are 18 years of age or older.
+Our Site, whether accessed on a computer or a mobile device, is not at this time configured to read or respond to “do not track” settings or signals in your browser headings, which vary by browser provider. In lieu of a browser-based opt-out solution, users can utilize the Digital Advertising Alliance and other approved methods for placement of “opt-out” cookies. Our site and those of our third party advertisers or other vendors are configured to read and honor these opt-out cookies, so long as they are present on your computer. (If you delete all cookies, you will need to reset your opt-out cookies.) Specific instructions on how to do so follow. However, please be aware that we do not control these opt-out processes. 
 
-## Your California Privacy Rights
+**E. Children**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: JLP-BB Licensing LLC, ATTN: Retail, 545 Fifth Avenue, 8th Floor, New York, NY 10017, 1-212-736-4244. Please allow 30 days for a response.
+The features, programs, promotions and other aspects of this Site requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at legaldept@authenticbrandsgroup.com. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof. 
 
-## Consent to Transfer
+**F. International Transfer of Information**
 
-This Website is operated in the state of New York in the United States. If you are located in Canada, the Caribbean, the European Union or anywhere else outside the United States, please be aware that any information you provide to Shaq.com will be transferred to the United States and by submitting the information you consent to this transfer.
+If you choose to provide us with personally identifiable information, we may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to: 
 
-## Communications Preferences and Correcting and Updating Personal Information
+  * The use of your personally identifiable information for the uses identified above in accordance with this Privacy Policy; and
+  * The transfer of your personally identifiable information to the United States as indicated above.
 
-If you do not want to receive promotional offers and other marketing communications from us you can “opt out” of receiving such offers and communications by emailing us at [info@shaq.com](mailto:info@shaq.com) or write us at:
 
-JLP-BB Licensing LLC   
-ATTN: Retail   
-545 Fifth Avenue, 8th Floor, New York, NY 10017
 
-(Please note: When you contact us, please provide your name and address exactly as it appears on correspondence you have received from us.)
+ **G. Opt-Out**
 
-If you believe that any Personal Information about you that we collect is incorrect or has changed, please send an email message to [info@shaq.com](mailto:info@shaq.com) explaining the correction or change and providing any relevant confirmation or reference number.
+We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional. However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on this Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. 
 
-## Changes To This Privacy Policy
+**H. Forums, Chat Rooms, and Other Public Posting Areas**
 
-By using this Website you accept our privacy practices, as disclosed in this Privacy Policy. We reserve the right to change, modify, amend or update this Privacy Policy at any time. We will post any new or revised privacy policies on the Website, but we will only use your Personal Information in accordance with the privacy policy that was in effect at the time it was collected, unless you consent to any new terms regarding its use. It is your responsibility to periodically check and review our Privacy Policy for changes.
+Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. 
 
-## Privacy Questions
+**I. Third Party Website**
 
-If you have a privacy question about this Website, please send us an email at [info@shaq.com](mailto:info@shaq.com) or write to:
+This statement applies solely to information collected on the Site. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, or who may use cookies, pixel tags and other technologies to serve and offer relevant ads to you. Further, the Site may contain links to other websites.  Read the privacy policies of other websites carefully, as we are not responsible for the privacy practices or the content of these other websites.  
 
-JLP-BB Licensing LLC   
-ATTN: Retail   
-545 Fifth Avenue, 8th Floor, New York, NY 10017
+ **J. Access to Your Information/Choices**
 
-This Shaq.com Privacy Policy has an effective date of October 31, 2011.
+We provide you with an opportunity to access your personal information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact us at: info@authenticbrandsgroup.com. If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request. 
+
+**K. Assignment**
+
+In the event that all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Site. 
+
+**L. Changes to this Privacy Policy**
+
+We reserve the right to change this Privacy Policy from time to time. When we do, we will also revise the "last update" date at the bottom of this Privacy Policy. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Site.  
+
+ **M. Security**
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to us is done at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. The standard security measures we use will depend on the type of information collected.  We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.  We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+ **N. Contacting Us**
+
+If you have any questions about this Privacy Policy or our privacy practices, please contact us at legaldept@authenticbrandsgroup.com. All information you provide in any written communication will also be covered by this Privacy Policy. 
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding ours disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us: 
+
+ABG-Shaq, LLC
+
+c/o Authentic Brands Group LLC
+
+1411 Broadway, 4th Floor
+
+New York, NY 10018
+
+Last Updated On: April 1, 2016
