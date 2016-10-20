@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322110853id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020151515id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
-Version 2015.06.08
+Version 2016.09.01
 
 Lux Scientiae, Incorporated (collectively, "We", "Our", "Us", "LuxSci", or "Lux Scientiae") has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website, [luxsci.com](https://luxsci.com/), and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our LuxSci FYI Blog prior to the change becoming effective.
 
-The TRUSTe program covers only information that is collected through this website, luxsci.com and does not cover information that may be collected through software downloaded from the website and behind the login on your product/service.
+[](https://privacy.truste.com/privacy-seal/seal?rid=18aa85d3-7638-4e15-b712-2951e0606e71 "TRUSTe Privacy Certification")
 
-[](https://privacy.truste.com/privacy-seal/Lux-Scientiae/validation?rid=18aa85d3-7638-4e15-b712-2951e0606e71 "TRUSTe European Safe Harbor certification")
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [TRUSEe Request](https://feedback-form.truste.com/watchdog/request). 
+Lux Scientiae complies with the U.S.—Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Lux Scientiae has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lux Scientiae's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
 
-Lux Scientiae, Incorporated, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected though this web site, [luxsci.com](https://luxsci.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at "Lux Scientiae, 15 Brook Street, Medfield, MA 02052" or by sending email to "privacy-officer **@** LuxSci.com". If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+## EU—U.S. Privacy Shield
 
-Lux Scientiae complies with the U.S.—EU Safe Harbor Framework and the U.S.—Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the EU member countries and Switzerland. Lux Scientiae has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lux Scientiae's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
+Lux Scientiae participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Lux Scientiae is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's aplicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's [Privacy Shield List](https://www.privacyshield.gov/list). 
+
+Lux Scientiae is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Lux Scientiae complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Lux Scientiae is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Lux Scientiae may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## General usage
 
@@ -22,9 +28,9 @@ While visiting the Lux Scientiae web site, information is stored in log files fo
 
 When you complete any form on our site including personal information such as your name, addresses, email, phone numbers, and other information, your information is written to a secure file or database and/or emailed to our staff. We will respond to your inquiry if applicable. 
 
-## Tracking Technologies
-
 We collect the names, addresses, phone numbers, credit card numbers, and email addresses of our users in order to identify them and provide billing and support services.
+
+## Tracking Technologies
 
 We, Lux Scientiae and our marketing partners, affiliates, or analytics or online chat service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
@@ -80,6 +86,8 @@ If you click on a link to a third party site, you will leave the Lux Scientiae s
 
 ## Updating / Accessing / Amending / Correcting Personally Identifiable Information
 
+Upon request Lux Scientiae will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please login to your account and make this request via a Support Ticket. If you no longer have an account, please use our [Contact Form](https://web.archive.org/extranet/contact.html).
+
 If your personally identifiable information changes, or if you no longer desire our service and would like to have your personally identifiable information deleted, you may update it by making the change on our member profile page or by making a support ticket, or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 1 day. You can change your personal information online by logging into your "member portal", under "Account > My profile". 
 
 ## Data Retention
@@ -102,9 +110,13 @@ When logged into the portal, third party personal information may be entered suc
 
 Lux Scientiae will not release any information about its clients to third parties without the clients' explicit consent, except as required for compliance with local, state, and federal law or as further set forth below. 
 
+In certain situations, Lux Scientiae may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial or bankruptcy proceeding, court order, or legal process served on our Web site. If Lux Scientiae is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. Testimonials are also posted on our site and users have given permission to have their personal information submitted in these testimonials. With your consent we may post your testimonial along with your name. To request removal of your personal information from these public areas of our site, contact us at privacy-officer **@** LuxSci.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you may be able to remove it by either logging into the said application and removing the information or by contacting the appropriate third party application. 
+
+Some of our blogs (e.g. LuxSci Status) are managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want your personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy statement.
 
 For Customers using Legacy Basic Dedicated Physical Servers and Legacy Shared Business Class Hosting: 
 
