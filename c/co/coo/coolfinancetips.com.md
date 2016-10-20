@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolfinancetips.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615194601id_/http%3A//finalnewsupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfinancetips.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020122739id_/http%3A//finalnewsupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Final News Update
 
