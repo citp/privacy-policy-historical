@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.nz privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923091250id_/https%3A//www.expedia.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.nz privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020160236id_/https%3A//www.expedia.co.nz/privacy) for the most accurate reproduction.*
 
 # Expedia.co.nz Privacy Pledge| Expedia.co.nz
 
