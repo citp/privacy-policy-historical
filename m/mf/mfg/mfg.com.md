@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfg.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415220540id_/http%3A//www.mfg.com/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfg.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020122821id_/http%3A//www.mfg.com/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | MFG.com
 
