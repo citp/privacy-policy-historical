@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverupdate.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604102049id_/https%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverupdate.net privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020120750id_/https%3A//www.slimwareutilities.com/privacy.php) for the most accurate reproduction.*
 
 # SlimWare Utilities - Privacy Policy
 
