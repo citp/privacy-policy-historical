@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxcheaters.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322211829id_/http%3A//www.maxcheaters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxcheaters.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020072442id_/http%3A//www.maxcheaters.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MaxCheaters.com
 
