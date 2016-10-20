@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givecampus.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920015923id_/https%3A//www.givecampus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givecampus.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020170914id_/https%3A//www.givecampus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · GiveCampus
 
@@ -38,7 +38,7 @@ You can modify, delete, or correct inaccuracies in your PII by logging into your
 
 #### 7\. Disclosure of Information to Third Parties
 
-In general, we don’t give your personal information to any third-party services unless it’s necessary to provide our Service (like when you make a charitable gift to a college or a university or when we partner with payment processors to facilitate such a gift). We may give, share, sell or trade your PII to or with any third parties as follows:
+In general, we don’t give your personal information to any third-party services unless it’s necessary to provide our Service (like when you make a charitable gift to a school or when we partner with payment processors to facilitate such a gift). We may give, share, sell or trade your PII to or with any third parties as follows:
 
   
 
@@ -50,9 +50,9 @@ When you support a campaign, the creator will be notified that you did so, unles
   
 
 
-#### 7.2. Colleges and universities
+#### 7.2. Educational Institutions
 
-When you make a donation to or otherwise support a college or university on GiveCampus, we share certain information about you with that college or university. This information may include your name, address, ZIP code, email address, donation amount, and date of transaction, the name of the campaign or other purpose associated with the donation, and any other data that you provide when making your donation or carrying out another form of support on GiveCampus. If you wish to stop receiving communications from the college or university, please contact the college or university directly.
+When you make a donation to or otherwise support a school on GiveCampus, we share certain information about you with that school. This information may include your name, address, ZIP code, email address, donation amount, and date of transaction, the name of the campaign or other purpose associated with the donation, and any other data that you provide when making your donation or carrying out another form of support on GiveCampus. If you wish to stop receiving communications from the school, please contact the school directly.
 
   
 
@@ -82,7 +82,7 @@ In the event of a sale, merger, liquidation, dissolution or sale or transfer of 
 
 #### 8\. Credit Card Information
 
-GiveCampus does not collect, store or otherwise maintain any credit card information from individuals who make a donation through the Site. Donations, including information associated with your credit card, are processed by our dedicated payments partners (e.g. WePay), by a college or university, or by a dedicated payments partner of a college or university. All information associated with your use of WePay or one of these other entities will be handled in accordance with that entity’s terms. For example, when you donate through GiveCampus and use WePay to process your donation, your credit card information will be handled in accordance with WePay’s terms and privacy policies.
+GiveCampus does not collect, store or otherwise maintain any credit card information from individuals who make a donation through the Site. Donations, including information associated with your credit card, are processed by our dedicated payments partners (e.g. WePay), by a school, or by a dedicated payments partner of a school. All information associated with your use of WePay or one of these other entities will be handled in accordance with that entity’s terms. For example, when you donate through GiveCampus and use WePay to process your donation, your credit card information will be handled in accordance with WePay’s terms and privacy policies.
 
   
 
