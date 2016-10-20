@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commission.bz privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210011422id_/http%3A//www.commission.bz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commission.bz privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020231802id_/http%3A//commission.bz/privacy-policy.html) for the most accurate reproduction.*
 
 # Commission.bz
 
