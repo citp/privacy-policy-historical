@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searscard.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328011039id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searscard.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020093719id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - Citibank
 
@@ -63,6 +63,7 @@ Please see our Privacy Notices, which we provide to all our individual customers
 
     | Citibank |  Citibank® Consumer Privacy Notice   
 ---|---|---  
+| Citi Mortgage    | Citi Mortgage Privacy Notice  
 | Citi Personal Wealth Management    | Citi Personal Wealth Management Privacy Notice  
 | Citi Cards | Citi Consumer Cards Privacy Notice  
 | Citi Private Bank | [Internet Privacy Policy & Statement](https://www.privatebank.citibank.com/privacy.htm#1)  
