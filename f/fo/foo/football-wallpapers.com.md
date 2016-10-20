@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414072223id_/http%3A//www.football-wallpapers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-wallpapers.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020054535id_/http%3A//football-wallpapers.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Football-Wallpapers.com Privacy Policy
+# Football Wallpapers: Players, Teams, Leagues Wallpapers
 
 **DoubleClick DART Cookie**
 
