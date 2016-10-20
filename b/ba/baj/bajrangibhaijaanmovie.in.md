@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bajrangibhaijaanmovie.in privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525173434id_/http%3A//bajrangibhaijaanmovie.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajrangibhaijaanmovie.in privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020134737id_/http%3A//bajrangibhaijaanmovie.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bajrangi BhaiJaan Movie
+# Privacy Policy | Bajrangi Bhaijaan Movie, Song Lyrics, MP3, HD Video Song, Box Office Collection
 
 ### Privacy Policy:
 
