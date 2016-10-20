@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailystar.com.ng privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322013206id_/http%3A//dailystar.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.com.ng privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020194040id_/http%3A//dailypost.ng/dailystar/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy - DailyStar Nigeria
+# Privacy-Policy - Daily Star Nigeria
 
 _DailyStar  _may collect information from our users at several different points on the site.   _DailyStar_ is the sole owner of the information collected on _  _DailyStar__.com.ng
 
