@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airrace.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624074903id_/http%3A//airrace.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airrace.org privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020091429id_/http%3A//airrace.org/privacy-policy) for the most accurate reproduction.*
 
 # Reno Championship Air Races | Privacy Policy
 
