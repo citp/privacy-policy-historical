@@ -1,31 +1,10 @@
-> *The following text is extracted and transformed from the radius.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906231229id_/http%3A//radius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radius.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021010420id_/https%3A//radius.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Radius
 
-#### Success! Your contact request has been received.
-
-Thanks for reaching out, we will be in touch with you shortly. If you’d like to get into contact immediately give us a call at [1-855-RADIUS-0](tel:18557234870).
-
-#### We'd love to hear from you!
-
-Do you have questions about the Radius Platform, data, trials, pricing, and so forth? Our sales team is ready to answer any of your questions.
-
-  * [Trust & Security](http://radius.com/trust-security)
-  * [Terms of Service](http://radius.com/terms)
-  * [Privacy Policy](https://web.archive.org/privacy)
-  * [Copyright Dispute Policy](http://radius.com/copyright-dispute)
-  * [Contact Us](http://radius.com/contact)
-  * [System Status](http://status.radius.com/)
-
-
-
-Remember that your use of Radius’ Website is at all times subject to the Terms of Service, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service](http://radius.com/terms).
+Remember that your use of Radius’ Website is at all times subject to the Terms of Service, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Service](https://radius.com/terms).
 
 This Policy applies to www.radius.com (“Website”) owned and operated by Radius Intelligence (“Radius”). This Policy describes how Radius collects and uses the personal information you provide on the Website, but, as a reminder, does not cover any information you provide in connection with our Services (even if those Services may be available through a login page on the Website). It also describes the choices available to you regarding our use of such personal information and how you can access and update this information. Use of the term “personal information” herein means information that you provide us through the Website and that personally identifies you as an individual.
-
-Radius has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through the Website, and again, does not cover information collected behind the login available on the Website, which is covered by a different agreement.
-
-If you have an unresolved privacy or data use concern with respect to the Website that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages users access or visit, and information volunteered by users (such as survey information and/or site registrations). We will share your personal information with third parties only in the ways that are described in this privacy policy. The information we collect is used to improve the content of our web site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
@@ -45,7 +24,7 @@ We may transfer information about you if Radius (or a portion of its assets) is 
   1. As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We link this automatically collected data to other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
   2. Technologies such as: cookies, beacons, tags and scripts are used by Radius and analytics and service providers, including those providing ad technology, content and media management services, and those providing hosting for us and online customer support tools. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
   3. We use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
-  4. We partner with third parties to display advertising on our Web site and to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. Further, please note that additional terms may govern our advertising on other sites, in accordance with those sites’ separate privacy policies.
+  4. We partner with third parties to display advertising on our Web site and to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. Please note this does not opt you out of being served ads. You will continue to receive generic ads. Further, please note that additional terms may govern our advertising on other sites, in accordance with those sites’ separate privacy policies.
 
 
 
@@ -95,9 +74,7 @@ We may transfer information about you if Radius (or a portion of its assets) is 
 
 Any questions about this Privacy Policy should be addressed to [info@radius.com](mailto:info@radius.com) or you can also contact us on the address below.
 
-114 Sansome St., 10th Floor,  
+225 Bush St, Floor 12   
 San Francisco, CA 94104
 
 Last updated: **January, 7, 2015**
-
-[](https://privacy.truste.com/privacy-seal/Radius-Intelligence/validation?rid=bab7593e-e0bf-4f9e-9e52-f6f648be9d9a "TRUSTe online privacy certification")
