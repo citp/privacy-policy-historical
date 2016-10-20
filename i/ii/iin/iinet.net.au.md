@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322022729id_/http%3A//www.iinet.net.au/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iinet.net.au privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020210953id_/https%3A//www.iinet.net.au/about/legal/privacy.html) for the most accurate reproduction.*
 
 # iiNet's privacy statement
 
@@ -8,7 +8,7 @@ iiNet is committed to providing excellent service and protecting your personal i
 
 iiNet collects personal information from our customers including the type of information required to provide our services such as your name, address, date of birth, gender, contact details, payment information, credit information, driver’s licence number, usage data, iiNet username, password and voice password.
 
-If you don’t provide all or part of the personal information we require, we may not be able to provide you with the relevant services. 
+If you don’t provide all or part of the personal information we require, we may not be able to provide you with the relevant services.
 
 ### How we may collect your personal information
 
@@ -96,14 +96,14 @@ The [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/ga
 
 ### How to access & correct your personal information
 
-Your personal information can be accessed via your secure [toolbox](https://toolbox.iinet.net.au/) or by [contacting us](https://web.archive.org/web/20150322022729id_/http%3A//www.iinet.net.au/contact/).
+Your personal information can be accessed via your secure [toolbox](https://toolbox.iinet.net.au/) or by [contacting us](https://web.archive.org/web/20161020210953id_/https%3A//www.iinet.net.au/contact/).
 
 We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request opt-out of certain communications and make changes to their personal information directly through their Toolbox, or by contacting us at [support@iinet.net.au](mailto:support@iinet.net.au) or by calling 13 22 58.
 
-Please [contact us](https://web.archive.org/web/20150322022729id_/http%3A//www.iinet.net.au/contact/) if you wish to access or correct personal information that we hold about you.
+Please [contact us](https://web.archive.org/web/20161020210953id_/https%3A//www.iinet.net.au/contact/) if you wish to access or correct personal information that we hold about you.
 
 ### Contact us about our privacy statement
 
-If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20150322022729id_/http%3A//www.iinet.net.au/contact/) by calling support on 13 22 58 or email [ support@iinet.net.au](mailto:support@iinet.net.au). Any privacy complaints will be handled in accordance with our [complaint process](https://iihelp.iinet.net.au/Complaints_escalation_process).
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/web/20161020210953id_/https%3A//www.iinet.net.au/contact/) by calling support on 13 22 58 or email [ support@iinet.net.au](mailto:support@iinet.net.au). Any privacy complaints will be handled in accordance with our [complaint process](https://iihelp.iinet.net.au/Complaints_escalation_process).
 
 Date: 20 February 2015
