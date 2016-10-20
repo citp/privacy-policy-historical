@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assignmentexpert.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323071900id_/https%3A//www.assignmentexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assignmentexpert.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020191533id_/https%3A//www.assignmentexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Assignment Expert | Privacy Policy
 
