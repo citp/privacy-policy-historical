@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528204304id_/http%3A//www.clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020191337id_/http%3A//www.clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Clutch Magazine
+# Privacy Policy | Clutch Magazine
 
 This privacy statement covers the Sutton New Media LLC sites (Clutch Magazine Online and Coco & Crème). Please read this statement carefully before using proceeding to access Sutton New Media LLC sites. Your use of Sutton New Media LLC sites indicates your agreement to abide by the terms in effect.
 
