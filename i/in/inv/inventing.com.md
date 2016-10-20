@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventing.com privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116120639id_/http%3A//www.inventing.com/templates/inventing2/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventing.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020185724id_/http%3A//www.inventing.com/templates/inventing2/privacy.php) for the most accurate reproduction.*
 
 # Inventing Ideas Into Reality - Inventing.Com
 
