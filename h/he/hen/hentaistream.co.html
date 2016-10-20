@@ -1,0 +1,384 @@
+<!--The following is the downloaded HTML source of the hentaistream.co privacy policy that was archived on 2016-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161020120412id_/http%3A//hentaistream.co/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#"><head profile="http://gmpg.org/xfn/11">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="OypMsrrQsOm_iLKuOB_P0dJj63cspKSpJPQiZTFuxRo">
+<title>Privacy Policy - HentaiStream</title>
+<link rel="icon" type="image/png" href="http://hentaistream.co/wp-content/themes/hentaistream/images/favicon.png">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="http://hentaistream.co/wp-content/themes/hentaistream/style.css" type="text/css" media="screen">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,300" rel="stylesheet" type="text/css">
+<script id="facebook-jssdk" src="//connect.facebook.net/id_ID/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css" rel="stylesheet">
+<link rel="pingback" href="http://hentaistream.co/xmlrpc.php">
+<link type="text/css" rel="stylesheet" href="http://hentaistream.co/wp-content/themes/hentaistream/js/popup.css">
+<link type="text/css" rel="stylesheet" href="http://hentaistream.co/wp-content/themes/hentaistream/js/popup.js">
+<link type="text/css" rel="stylesheet" href="http://hentaistream.co/wp-content/themes/hentaistream/js/jquery.qtip.css">
+<script language="javascript" type="text/javascript" src="jquery-1.8.2.js"></script>
+<script type="text/javascript" src="http://hentaistream.co/wp-content/themes/hentaistream/js/jquery.qtip.min.js"></script>
+
+	<script language="javascript" type="text/javascript">
+	function stopvid(){
+		$("#pembed iframe").each(function() { 
+			var src= $(this).attr('src');
+			$(this).attr('src',src);  
+		});
+		$("iframe#ngiklan").each(function() { 
+			var src= $(this).attr('src');
+			$(this).attr('src',src);  
+		});
+	}
+	</script>
+
+<script type="text/javascript" src="http://hentaistream.co/wp-content/themes/hentaistream/js/jquery.qtip.js"></script>
+<script type="text/javascript" src="http://hentaistream.co/wp-content/themes/hentaistream/js/imagepopups.js"></script>
+<script type="text/javascript" src="http://hentaistream.co/wp-content/themes/hentaistream/js/imagesloaded.pkg.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/pace/0.4.17/pace.js?v=0.4.17"></script>
+<script type="text/javascript" src="http://hentaistream.co/wp-content/themes/hentaistream/js/light.js"></script>
+<script type="text/javascript" src="http://hentaistream.co/wp-content/themes/hentaistream/js/lzload.js"></script>
+	<script type="text/javascript">
+      $(function() {          
+          $("img").lazyload({
+			 placeholder : "http://hentaistream.co/wp-content/themes/hentaistream/images/blank.gif",
+             effect      : "fadeIn"
+          });
+      });
+	</script>
+  <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+  <script>
+  $(function() {
+    $( "#vid" ).tabs();
+  });
+  </script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+  $('.series').each(function(){
+
+    var $this = $(this);
+    var id = $this.attr('rel');
+
+    $this.qtip({
+      content:{
+        text: '<img class="" src="http://hentaistream.co/wp-content/themes/hentaistream/images/loader.gif" alt="Loading..." />',
+        ajax:{
+          url: 'http://hentaistream.co/wp-content/themes/hentaistream/series.php',
+          type: 'POST', 
+          loading: false,
+          data: 'id=' + id
+        }
+      },
+      show: 'mouseover',
+      hide: {
+        delay: 200,
+        fixed: true
+      },
+      position: {
+	target: 'mouse',
+        viewport: $(window)
+      }
+    });
+  });
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+  $('.javtip').each(function(){
+
+    var $this = $(this);
+    var id = $this.attr('rel');
+
+    $this.qtip({
+      content:{
+        text: '<img class="" src="http://hentaistream.co/wp-content/themes/hentaistream/images/loader.gif" alt="Loading..." />',
+        ajax:{
+          url: 'http://hentaistream.co/wp-content/themes/hentaistream/javtip.php',
+          type: 'POST', 
+          loading: false,
+          data: 'id=' + id
+        }
+      },
+      show: 'mouseover',
+      hide: {
+        delay: 200,
+        fixed: true
+      },
+      position: {
+	target: 'mouse',
+        viewport: $(window)
+      }
+    });
+  });
+});
+</script>
+<script type="text/javascript">
+paceOptions = {
+  // Disable the 'elements' source
+  elements: false,
+
+  // Only show the progress on regular and ajax-y page navigation,
+  // not every request
+  restartOnRequestAfter: false
+}
+</script>
+<script type="text/javascript">
+	function hidediv(id) {
+		document.getElementById(id).style.display = 'none';
+	}
+</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.7.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://hentaistream.co/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - HentaiStream">
+<meta property="og:description" content="What information do we collect? We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. What do we use your information for?...">
+<meta property="og:url" content="http://hentaistream.co/privacy-policy/">
+<meta property="og:site_name" content="HentaiStream">
+<meta property="og:image" content="http://hentaistream.co/wp-content/themes/hentaistream/images/headers/logo.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="What information do we collect? We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. What do we use your information for?...">
+<meta name="twitter:title" content="Privacy Policy - HentaiStream">
+<meta name="twitter:image" content="http://hentaistream.co/wp-content/themes/hentaistream/images/headers/logo.png">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="HentaiStream » Privacy Policy Comments Feed" href="http://hentaistream.co/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/hentaistream.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://hentaistream.co/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wprc-style-css" href="http://hentaistream.co/wp-content/plugins/report-content/static/css/styles.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://hentaistream.co/wp-includes/css/dashicons.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://hentaistream.co/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.2" type="text/css" media="all">
+<script type="text/javascript" src="http://hentaistream.co/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://hentaistream.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprcajaxhandler = {"ajaxurl":"http:\/\/hentaistream.co\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://hentaistream.co/wp-content/plugins/report-content/static/js/scripts.js?ver=4.6.1"></script>
+<link rel="https://api.w.org/" href="http://hentaistream.co/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hentaistream.co/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hentaistream.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.6.1">
+<link rel="shortlink" href="http://hentaistream.co/?p=21">
+<link rel="alternate" type="application/json+oembed" href="http://hentaistream.co/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhentaistream.co%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://hentaistream.co/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhentaistream.co%2Fprivacy-policy%2F&amp;format=xml">
+<!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://hentaistream.co/wp-admin/admin-ajax.php", { action: "wmp_update", id: 21, token: "172ff63ec2" }); /* ]]> */</script><!-- /WordPress Most Popular -->
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<style type="text/css">html {margin-top: 0 !important;}</style>
+<script type="text/javascript">(function() { var b=window,f="chrome",g="tick",k="jstiming";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[g]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[k].srt=h-c)}if(a){var e=b[k].load;0<c&&h>=c&&(e[g]("_wtsrt",void 0,c),e[g]("wtsrt_","_wtsrt",h),e[g]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f].csi().startE),e[g]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[g]("_tbnd",void 0,b.external.startE),e[g]("tbnd_","_tbnd",c))),a&&(b[k].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[k].load[g]("aft")};var l=!1;function m(){l||(l=!0,b[k].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script>
+<script>
+$(document).ready(function(){
+    $(".showhide").click(function(){
+        $("#menu").toggle();
+    });
+});
+</script>
+<script type="text/javascript">
+var uid = '103546';
+var wid = '239848';
+</script>
+<script type="text/javascript" src="//cdn.popcash.net/pop.js"></script>
+<script type="text/javascript" async="" src="//s10.histats.com/js15_as.js"></script></head>
+
+<body class=" pace-done"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--?
+global $options;
+foreach ($options as $value) {
+	if (get_settings( $value['id'] ) === FALSE) { $$value['id'] = $value['std']; } else { $$value['id'] = get_settings( $value['id'] ); }
+}
+?-->
+
+
+<div class="bger">
+<div class="pace  pace-inactive"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+<div>
+<div id="header">
+<div class="perapih">
+<div class="logos">
+<a href="http://hentaistream.co" title="HentaiStream"><img src="http://hentaistream.co/wp-content/themes/hentaistream/images/headers/logo.png" height="110" width="220" alt="HentaiStream"></a>
+</div> 
+	<div class="iklan728" style="margin-top: 30px;">
+<center>
+<!--JuicyAds v2.0-->
+<iframe border="0" frameborder="0" marginheight="0" marginwidth="0" width="468" height="72" scrolling="no" allowtransparency="true" src="http://adserver.juicyads.com/adshow.php?adzone=457712"></iframe>
+<!--JuicyAds END-->
+</center></div>
+</div>
+</div>
+
+<div id="wrapper">
+	<div id="nav">
+	<ul id="menu-main-menu" class="menu"><li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-38"><a href="http://hentaistream.co/">Home</a></li>
+<li id="menu-item-3769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3769"><a href="http://hentaistream.co/hentai-list/">Hentai List ▽</a>
+<ul class="sub-menu">
+	<li id="menu-item-4236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4236"><a href="http://hentaistream.co/hentai-list-censored/">Hentai List Censored</a></li>
+	<li id="menu-item-4235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4235"><a href="http://hentaistream.co/hentai-list-uncensored/">Hentai List Uncensored</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34"><a href="http://hentaistream.co/jav-list/">JAV List ▽</a>
+<ul class="sub-menu">
+	<li id="menu-item-3924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3924"><a href="http://hentaistream.co/jav-list-censored/">Jav List Censored</a></li>
+	<li id="menu-item-3923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3923"><a href="http://hentaistream.co/jav-list-uncensored/">Jav List Uncensored</a></li>
+</ul>
+</li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://hentaistream.co/popular-series/">Popular Series</a></li>
+<li id="menu-item-988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988"><a href="http://hentaistream.co/popular-jav/">Popular JAV</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://hentaistream.co/genres/">Genres</a></li>
+<li id="menu-item-4142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4142"><a href="https://www.facebook.com/groups/HDstream/">Group</a></li>
+</ul>	<div class="search-block">
+	<div class="search-center">
+		 <form method="get" id="searchform" action="http://hentaistream.co/">
+			<select id="ss" name="post_type" tabindex="1">
+				<option value="anime">Anime</option>
+				<option value="jav">JAV</option>
+			</select>
+			<input id="s" type="text" placeholder="Search Anime Series..." name="s">
+		 </form>
+	</div>
+	</div>
+	<!-- Area Icon -->
+			<div class="sosialbutton">
+		<ul>
+		<!--? if ($ts_fanspage) { ?--><li class="fanspage"><a href="&lt;? echo $ts_fanspage; ?&gt;" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li><!--? } else { ?--> <style>.fanspage {display: none; } </style> <!--? } ?-->
+		<!--? if ($ts_twitter) { ?--><li class="twitter"><a href="&lt;? echo $ts_twitter; ?&gt;" target="_blank" title="Twitter"><i class="icon-twitter"></i></a></li><!--? } else { ?--> <style>.twitter {display: none; } </style> <!--? } ?-->
+		<li><a href="/random" title="Random Series"><i class="icon-random"></i></a></li>
+		</ul>
+		</div>
+	<!-- END Area Icon -->
+		</div>
+
+	<div id="genrelist">
+	<div class="perapih">
+		<ul>
+	<li><a href="http://hentaistream.co/genres/action/" title="View All Series in Genre Action">Action</a></li><li><a href="http://hentaistream.co/genres/androids/" title="View All Series in Genre Androids">Androids</a></li><li><a href="http://hentaistream.co/genres/alien/" title="View All Series in Genre Alien">Alien</a></li><li><a href="http://hentaistream.co/genres/bakunyuu/" title="View All Series in Genre Bakunyuu">Bakunyuu</a></li><li><a href="http://hentaistream.co/genres/android/" title="View All Series in Genre Android">Android</a></li><li><a href="http://hentaistream.co/genres/anal/" title="View All Series in Genre Anal">Anal</a></li><li><a href="http://hentaistream.co/genres/athletes/" title="View All Series in Genre Athletes">Athletes</a></li><li><a href="http://hentaistream.co/genres/adventure/" title="View All Series in Genre Adventure">Adventure</a></li><li><a href="http://hentaistream.co/genres/aliens/" title="View All Series in Genre Aliens">Aliens</a></li><li><a href="http://hentaistream.co/genres/ashikoki/" title="View All Series in Genre Ashikoki">Ashikoki</a></li><li><a href="http://hentaistream.co/genres/arena/" title="View All Series in Genre Arena">Arena</a></li><li><a href="http://hentaistream.co/genres/adultery/" title="View All Series in Genre Adultery">Adultery</a></li><li><a href="http://hentaistream.co/genres/angels/" title="View All Series in Genre Angels">Angels</a></li><li><a href="http://hentaistream.co/genres/ahegao/" title="View All Series in Genre Ahegao">Ahegao</a></li><li><a href="http://hentaistream.co/genres/bath/" title="View All Series in Genre Bath">Bath</a></li><li><a href="http://hentaistream.co/genres/3d/" title="View All Series in Genre 3D">3D</a></li>	<li><a href="/genres/">More &gt;</a></li>
+	</ul>
+	</div>
+	</div>
+	
+<div id="pusat">
+<div id="main">
+
+<div id="content">
+
+<div class="postsbody">
+
+<div class="headpost"><h1>Privacy Policy</h1></div>
+
+<div class="bodypost">
+<p><strong>What information do we collect?</strong><br>
+We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.</p>
+<p><strong>What do we use your information for?</strong><br>
+Any of the information we collect from you may be used in one of the following ways:</p>
+<p>To personalize your experience (your information helps us to better respond to your individual needs)<br>
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)<br>
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)</p>
+<p><strong>How do we protect your information?</strong><br>
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.</p>
+<p><strong>Do we use cookies?</strong><br>
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+<p><strong>Do we disclose any information to outside parties?</strong><br>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>Cookies &amp; 3rd Party Advertisements</strong><br>
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.</p>
+<p><strong>Online Privacy Policy Only</strong><br>
+This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Your Consent</strong><br>
+By using our site, you consent to our privacy policy.</p>
+<p><strong>Changes to our Privacy Policy</strong><br>
+If we decide to change our privacy policy, we will post those changes on this page.</p>
+</div>
+
+</div>
+
+
+	<div class="sidebar_right">
+			<div class="ads300"><!--JuicyAds v2.0-->
+<iframe border="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="262" scrolling="no" allowtransparency="true" src="http://adserver.juicyads.com/adshow.php?adzone=457710"></iframe>
+<!--JuicyAds END--></div>
+		<div class="chatbox">
+		<iframe border="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="350" scrolling="no" allowtransparency="true" src="http://hentaistream.co/wp-content/themes/hentaistream/chat.php"></iframe>
+		</div>
+<br>
+		<div class="ads300"><!--JuicyAds v2.0-->
+<iframe border="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="262" scrolling="no" allowtransparency="true" src="http://adserver.juicyads.com/adshow.php?adzone=457710"></iframe>
+<!--JuicyAds END--></div>
+								
+	</div>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="iklan728bot">
+</div>
+	<div id="footer">
+	<div id="footer-menu">
+	<div class="footer-menu-nav">
+	<ul id="menu-footer-menu" class="menu"><li id="menu-item-3770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3770"><a href="http://hentaistream.co/hentai-list/">Hentai List</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://hentaistream.co/jav-list/">JAV List</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://hentaistream.co/genres/">Genres</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://hentaistream.co/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-44"><a href="http://hentaistream.co/privacy-policy/">Privacy Policy</a></li>
+</ul>	<div style="clear:both"></div>
+	</div>
+	</div>
+	<div id="footer-details">
+	Copyright © HentaiStream 2014, All rights reserved. Powered by <a href="https://wordpress.org/" target="_blank" title="WordPress">WordPress</a> - EroMode/Hentaistream.co <br>
+	<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,3466488,4,236,241,20,00010101']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3466488&101" alt="free website stats program" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+	<div style="clear:both"></div>
+	</div> 
+	</div>
+</div> 
+
+</body></html>
