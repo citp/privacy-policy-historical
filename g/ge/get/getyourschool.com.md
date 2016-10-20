@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getyourschool.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620225811id_/http%3A//www.getyourschool.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourschool.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020164155id_/http%3A//www.getyourschool.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # GET YOUR SCHOOL
 
