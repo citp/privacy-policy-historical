@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 970wfla.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324192158id_/http%3A//www.970wfla.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 970wfla.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020102807id_/http%3A//970wfla.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | 970 WFLA
 
-[Versión en Español](https://web.archive.org/web/20160324192158id_/http://www.970wfla.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](http://www.iheart.com/news/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
