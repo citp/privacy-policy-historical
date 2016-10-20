@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the robotentertainment.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503071311id_/http%3A//origin-www.robotentertainment.com/robot-entertainment-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robotentertainment.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020231527id_/http%3A//robotentertainment.com/robot-entertainment-privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Robot Entertainment Privacy Policy | Robot Entertainment
 
 (Last updated: 4/9/2014)
 
-Protecting your privacy is important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.robotentertainment.com/terms-of-use/](http://www.robotentertainment.com/terms-of-use/).  This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
+Protecting your privacy is important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.robotentertainment.com/terms-of-use/](https://web.archive.org/web/20161020231527id_/http%3A//robotentertainment.com/terms-of-use/index-1.htm).  This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
 ## **How do we collect information?**
 
