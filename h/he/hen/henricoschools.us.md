@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henricoschools.us privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330055950id_/http%3A//henricoschools.us/disclaimer-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henricoschools.us privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020120804id_/http%3A//henricoschools.us/disclaimer-privacy-statement) for the most accurate reproduction.*
 
 # Henrico County Public Schools | Disclaimer & Privacy Statement
 
