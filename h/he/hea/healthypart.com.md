@@ -1,17 +1,61 @@
-> *The following text is extracted and transformed from the healthypart.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypart.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020075203id_/http%3A//healthypart.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy - Healthy Part
 
-* * *
+### 1\. INTRODUCTION
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+**1.1. PURPOSE OF POLICY.** http://healthypart.com (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of http://healthypart.com (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+**1.2. NOTICE CONCERNING CHILDREN**
 
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
 
+### 2\. INFORMATION COLLECTION PRACTICES
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
+
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
+
+**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
+
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
+
+(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us.
+
+### 3\. USE AND SHARING OF INFORMATION
+
+**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
+
+(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings.
+
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
+
+### 4\. SECURITY
+
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
+
+### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+
+**5.1. THIRD PARTY WEBSITES**
+
+From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
+
+### 6\. CONTACT INFORMATION AND POLICY UPDATES
+
+**6.1. CONTACTING US**
+
+If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site.
+
+**6.2. UPDATES AND CHANGES**
+
+We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
