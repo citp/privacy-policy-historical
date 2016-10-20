@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516065901id_/http%3A//www.mylittlemuffin.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020181604id_/http%3A//www.mylittlemuffin.com/terms) for the most accurate reproduction.*
 
-# Terms and Privacy policy - My Little Muffin
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.mylittlemuffin.com%2Fterms%2F&media=&description=Terms%20and%20Privacy%20policy)
+# Terms and Privacy policy » My Little Muffin
 
 ### Content provided on this site is for entertainment or informational purposes only and should not be construed as medical or health, safety, legal or financial advice.
 
@@ -47,18 +45,16 @@ We may amend this Privacy Policy from time to time.  Use of information we coll
 
 
 
-[](http://www.mylittlemuffin.com/author/admin/ "Preetjyot")
+[](http://www.mylittlemuffin.com/ "Preetjyot")
 
-### [Preetjyot](http://www.mylittlemuffin.com/author/admin/)
+### [Preetjyot](http://www.mylittlemuffin.com/)
 
 I am Preetjyot K. Mehra. I am a dreamer, a dreamer who believes in her dreams, and keeps going strong till she gives life to her dreams. I have my own little corner of the web called www.mylittlemuffin.com (follow me on https://www.facebook.com/mylittlemuffin ), a place where I share interesting articles and ideas , to help you break all the stereotypes.
 
-[](http://www.mylittlemuffin.com/author/admin/ "Preetjyot")
+[](http://www.mylittlemuffin.com/ "Preetjyot")
 
 #### Latest posts by Preetjyot ([see all](http://www.mylittlemuffin.com/author/admin/))
 
 ### Comments
 
 comments
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.mylittlemuffin.com%2Fterms%2F&media=&description=Terms%20and%20Privacy%20policy)
