@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003115111id_/http%3A//www.superior.k12.wi.us/privacy.phtml%3Fsessionid%3D48aa177fdcaaab05b8468dc76fb25e85) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superior.k12.wi.us privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020225303id_/http%3A//www.superior.k12.wi.us/privacy.phtml) for the most accurate reproduction.*
 
 # Superior School District
 
@@ -35,6 +35,12 @@ All branded versions of My Payment Network (SchoolPay) sessions (after logging i
 **Encrypted Database**
 
 The My Payment Network (SchoolPay) databases are encrypted. Data is only un-encrypted when it is pulled from the database and presented to a user or administrator during a logged in session.
+
+**Claims of Copyright Infringement**
+
+The Digital Millennium Copyright Act, signed into law on October 28, 1998, amended the copyright law to provide limitations for service provider liability relating to material online. In compliance with such Act, SchoolFusion, Inc. has registered a Designated Agent with the United States Copyright Office to receive notice of alleged copyright infringements contained on the SchoolFusion service. All inquiries into alleged copyright infringement by as SchoolFusion, Inc. should be sent to SchoolFusion, Inc., c/o Blackboard, Attn: Teresa Frazier, 650 Massachusetts Ave, NW, Washington, D.C. 20001. Upon receipt of a proper notification of claimed infringement under the DMCA, SchoolFusion, Inc. will follow the procedures outlined in the DMCA. In addition, SchoolFusion, Inc. accommodates and does not interfere with standard technical measures used by copyright owners to protect their materials.
+
+Please be aware that most content contained in the SchoolFusion service is uploaded by SchoolFusion customers. A school may have adopted its own policy regarding copyright infringement. Please check with the applicable customer if you have any questions regarding the customer’s practices in this regard.
 
 **Third Party Links**
 
