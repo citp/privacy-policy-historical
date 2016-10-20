@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oaktreecapital.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602044457id_/https%3A//www.oaktreecapital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaktreecapital.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020214946id_/https%3A//www.oaktreecapital.com/privacy-policy) for the most accurate reproduction.*
 
 # Oaktree's Privacy Policy
 
