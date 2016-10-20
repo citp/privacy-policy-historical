@@ -1,23 +1,36 @@
-> *The following text is extracted and transformed from the sunfrogshirts.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608091642id_/http%3A//www.sunfrogshirts.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunfrogshirts.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020131629id_/https%3A//www.sunfrog.com/legal/terms/privacy-policy.cfm) for the most accurate reproduction.*
 
-# SunFrog - Privacy Policy
+# SunFrog - Privacy Policy T-Shirt
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose, and make use of personal information. This Privacy Policy does not apply to the web sites of other companies, individuals, or organizations to which we may provide links.
+Your privacy is very important to us, and we want you to use SunFrog Shirts with the confidence that your personal information is protected. Accordingly, we developed this Privacy Policy to help you understand how we collect, use, communicate, disclose, and secure your personal information. This Privacy Policy does not apply to the websites of other companies, individuals, or organizations to which we may provide links. 
 
-SunFrog Shirts web site collects two kinds of information from you: (1) personal information that you submit to us, and (2) non-personal information, such as the pages you visited on our site and your IP address. 
+In order to best serve you, SunFrog Shirts collects two kinds of information: (1) personal information that you submit to us, and (2) non-personal information, such as your IP address and the web pages you visit on our site. 
 
 **Personal Information**  
-We will collect and use personal information solely with the objective of fulfilling those purposes specified to us and for other compatible purposes, unless we obtain the consent of the individuals concerned or as required by law.
+Unless we request your specific consent, we will collect and use personal information solely with the objective of fulfilling those purposes specified by you to us, and for other compatible uses allowed under the law. 
 
-If you submit feedback, questions, or requests for information about SunFrog Shirts products and services, we may request your name, mailing address, telephone number, and e-mail address in order to respond to your inquiries. SunFrog Shirts may collect and store the information you choose to provide us to send you information about SunFrog Shirts from time to time. We will not spam you and we will not sell your information to third parties.
+If you submit feedback, questions, or requests for information about SunFrog Shirts products or services, we may request your name, mailing address, telephone number, and e-mail address in order to respond to your inquiries. SunFrog Shirts may collect and store the information you choose to provide us to send you information about SunFrog Shirts from time to time. We will not spam you, and we will not sell your information to third-parties. 
 
-**Non-Personal Information  
-** SunFrog Shirts may collect information through referrers, IP addresses, and various environmental variables. A "referrer" is information your web browser passes along to SunFrog Shirts' web server that references the URL from which you came. An "IP address" is a number used by computers on a network to identify your computer so that data can be transmitted to you. An "environmental variable" may include, among other things, the domain from which you access the Internet, the time you accessed our site, the type of web browser and operating system or platform used, the Internet address or the web site you left to visit SunFrog Shirts' site, the pages you visit while at our site, and the Internet address of the web site you then visit. SunFrog Shirts may collect IP address information in order to administer our web site and to gather broad demographic information. 
+**Non-Personal Information**  
+SunFrog Shirts may collect non-personal information through referrers, IP addresses, and various environmental variables. A “referrer” is information your web browser passes along to a server that references the URL from which you came. An “IP address” is a number used by computers on a network to identify your computer and transmit data to you. An “environmental variable” may include, among other things, the domain from which you access the internet, the time you accessed our site, the type of web browser, operating system, or platform you used, the pages you visit on our site, and the addresses of the websites you visit before and after leaving our site. SunFrog Shirts’ may collect IP address information with the goal of administering our website and gathering broad demographic information. 
+
+**Cookies**  
+“Cookies” are small data files stored on your computer that help a website recognize you and remember your preferences. SunFrog Shirts uses cookies to maximize your shopping experience. You always have the option to delete the cookies from your web browser, or refuse cookies from any website. If you refuse cookies, however, it may inhibit and/or alter the way SunFrog Shirts operates. 
+
+**Third-Party Merchants**  
+SunFrog Shirts is an Online Service Provider (OSP), allowing you to choose from millions of unique apparel designs from a multitude of different vendors. When you place an order, your email information is shared with those vendors solely with the goal of fulfilling your order. Other than that, we will never use, sell or otherwise disseminate your personal information to a third party. 
+
+**Online Tracking**  
+When you first visit SunFrog Shirts, your browser may send us a “Do Not Track” signal. While we will still use cookies, and collect personal and non-personal information, we never track your actions once you leave our website. 
 
 **Security Procedures**  
-Your personal information will be protected by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification. We maintain physical, electronic, and procedural safeguards to reasonably safeguard your information, such as restricted access to paper files, firewalls, encryption, and secure authentication methods. While we take those commercially reasonable measure to secure and protect information transmitted via our website, especially personal data, complete privacy or blanket security on the Internet cannot be guaranteed.
+Your personal information will be protected by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification. We maintain physical, electronic, and procedural safeguards to reasonably protect your information, such as restricted access to paper files, firewalls, encryption, and secure authentication methods. SunFrog Shirts also periodically employs third-party experts to review our security procedures, confirm their effectiveness, and suggest enhancements. However, while we take those commercially reasonable steps to secure and protect information transmitted via our website, especially personal data, complete privacy or blanket security on the Internet cannot be guaranteed. 
 
-**Updates  
-** This policy may change at any time, but we will post those changes on our Privacy Policy so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner, those changes will be posted on this page.
+In the event of a breach of our security, SunFrog Shirts will take all reasonable and necessary steps to address the problem and keep our users informed and updated on any possible ramifications. 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about this Privacy Policy or the practices of our web site, please contact us.
+**Updates**  
+Any time you use our site, you are automatically subject to the most recent version of our Privacy Policy. As this policy may change any time we update our procedures and/or service methods, we suggest checking this page frequently to stay up-to-date. 
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions or concerns about this Privacy Policy or the general practices of our website, feel free to contact our Customer Service Department. 
+
+Effective 09/20/16 
