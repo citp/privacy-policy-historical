@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010508id_/http%3A//www.ihgplc.com/index.asp%3Fpageid%3D863) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020190343id_/https%3A//www.ihgplc.com/en/services/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# InterContinental Hotels Group PLC : Services - Privacy and cookies
+# Privacy and Cookie Policy - Services - InterContinental Hotels Group PLC
 
 This privacy policy explains the way in which InterContinental Hotels Group PLC and its subsidiaries may use the information collected from or provided by you via our website at [www.ihgplc.com](http://www.ihgplc.com/).
 
@@ -48,24 +48,24 @@ We know that people have concerns about cookies, but we believe that the benefit
 
 You can delete the files that contain cookies – those files are stored as part of your internet browser. If you wish to restrict or block the cookies which are set by ihgplc.com, or indeed any other website, or if you wish to receive notification of cookie placement requests or decline cookies completely, you can do this through your browser settings. The Help function within your browser should tell you how. Please be aware that declining or denying cookies may prevent you from being able to use the website to its highest capability.
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Opens in a new browser window.") which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
 
 This is a list of the main cookies, hosted by ihgplc.com and set by the InterContinental Hotels Group PLC website, and what each is used for: 
 
 Cookie name | Cookie use | Cookie duration | Cookie host | Definition  
 ---|---|---|---|---  
-__utma | Metrics: Google | 2 years | ihgplc.com | ihgplc.com uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of the our website and compile reports on user activity. 
+_ga | Metrics: Google | 1 year | ihgplc.com | ihgplc.com uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of the our website and compile reports on user activity. 
 
-Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using avivabrand.com, you consent to the processing of data about you by Google in the manner and for the purposes set out above.   
+Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using ihgplc.com, you consent to the processing of data about you by Google in the manner and for the purposes set out above.   
   
+_gat | Metrics: Google | session | ihgplc.com  
+__utma | Metrics: Google | 2 years | ihgplc.com  
 __utmb | Metrics: Google | 30 mins | ihgplc.com  
 __utmc | Metrics: Google | session | ihgplc.com  
 __utmz | Metrics: Google | 6 months | ihgplc.com  
-CR09 | Login system | session | ihgplc.com | Forms part of the authenticated users mechanism. These cookies are necessary for the login mechanism to function.   
-avtui  
-avtun | E-mail news | session | ihgplc.com | Forms part of the e-mail news mechanism. These cookies are necessary for the login mechanism to function.   
-employeelogin  
-frmpassword | Login system | session | ihgplc.com | Forms part of the current employees login mechanism. These cookies are necessary for the login mechanism to function.   
+SC_ANALYTICS_  
+GLOBAL_COOKIE | Sitecore analytics | 10 years | ihgplc.com | This cookie is set by Sitecore - the CMS the ihgplc.com site is built in.  
+cookiebanner | Cookie confirmation | 1 year | ihgplc.com | ihgplc.com sets this cookie when a user has dismissed the cookie bar to confirm they agree to ihgplc.com's use of cookies.  
   
 ihgplc.com uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate our use of our website and compile reports on user activity.
 
@@ -85,11 +85,11 @@ ihgplc.com uses a number of suppliers who also set cookies on our website on our
 
 Cookie name | Cookie use | Cookie duration | Host | Definition  
 ---|---|---|---|---  
-uid | AR Centre 2011 | 2 years | addthis.com | These cookies are used to bring social sharing functionality to the Annual Reporting Centre 2011   
-uvc | AR Centre 2011 | 2 years | addthis.com  
-uit | AR Centre 2011 | 24 hours | addthis.com  
-psc | AR Centre 2011 | 2 years | addthis.com  
-_avtuc | AR Centre 2011 | 2 years | addthis.com  
+uid | AR Centre 2012, AR Centre 2011 | 2 years | addthis.com | These cookies are used to bring social sharing functionality to the Annual Reporting Centre 2011   
+uvc | AR Centre 2012, AR Centre 2011 | 2 years | addthis.com  
+uit | AR Centre 2012, AR Centre 2011 | 24 hours | addthis.com  
+psc | AR Centre 2012, AR Centre 2011 | 2 years | addthis.com  
+_atuvc | AR Centre 2012, AR Centre 2011 | 2 years | addthis.com  
 fw0dK3TchO | Webcast registration and log-in process | session | www.media-server.com | Forms part of the results webcast registration process. These cookies are necessary for this mechanism to function  
 3rNQZMlV0I | Webcast registration and log-in process | session | edge.media-server.com  
 p_sjsk3g4v | Webcast registration and log-in process | 1 year | edge.media-server.com  
@@ -107,7 +107,7 @@ The website may contain links to other sites which are outside our control and n
 
 ## Your rights
 
-InterContinental Hotels Group PLC is required to comply with the provisions of the Data Protection Act 1998. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and for any inaccuracies to be corrected by [contacting us directly](https://web.archive.org/web/20160608010508id_/http%3A//www.ihgplc.com/index.asp?pageid=11).
+InterContinental Hotels Group PLC is required to comply with the provisions of the Data Protection Act 1998. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and for any inaccuracies to be corrected by [contacting us directly](https://web.archive.org/en/contact-us/website-feedback).
 
 ## Changes to our policy 
 
