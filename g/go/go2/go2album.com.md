@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go2album.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607033130id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2album.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020031659id_/http%3A//go2album.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photo Flash Maker values your privacy
 
