@@ -1,235 +1,212 @@
-> *The following text is extracted and transformed from the misfit.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613094730id_/http%3A//misfit.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misfit.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020220149id_/https%3A//misfit.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Misfit | Privacy Policy
+# Privacy Policy - Misfit
 
-Overview
+At Fossil Group, Inc. (“ **Fossil Group** ” or “ **Fossil** ”), owner of the Misfit Brand and Misfit, Inc. (“ **Misfit** ”, ” **we** ”, or “ **us** ”), we value and protect your privacy rights. This Privacy Policy describes:
 
-Our goal at Misfit Wearables Corporation (“ **Misfit** ,” ” **we** ,” or “ **us** ”) is to help you live a healthier, more fulfilling life outside of and within your home. We are committed to respecting your privacy, keeping your data safe, and providing you ways to understand and control how your information is used and shared. The data we collect helps us provide you a meaningful and customized experience while using products and services of Misfit and our partners.
+  * When and what information we collect on our websites, or by any of our service providers through our website.
+  * How we use Personal Information we collect.
+  * Your rights regarding your Personal Information.
 
-We have prepared this Privacy Policy to describe to you our practices regarding the personal information we collect from users of our website located at [www.misfit.com](http://www.misfit.com/) (the “ **Site** ”) and our software applications, including the applications entitled “Misfit” and “Misfit Home” (each, an “ **App** ” and collectively, the “ **Apps** ”) that, together with Misfit’s wearable devices (each a “ **Device** ”) track your activity and sleep (collectively, the functionality provided by the App, the “ **Service** ”).
 
-This Privacy Policy covers:
 
-  1. What information does Misfit collect?
-  2. How does Misfit use the information we collect?
-  3. How does Misfit share my information?
-  4. How do I control my information?
-  5. Misfit’s Policy for Children
-  6. Processing Information
-  7. How we Respond to Do Not Track Signals
-  8. Security
-  9. Third Party Websites
-  10. How to contact us
-  11. Changes to this policy
+“Personal Information” is information through which you can be directly or indirectly identified, e.g. your name, your e-mail address and items you purchased (provided we can connect them to your e-mail/customer account.)
 
+By using this website or our products and services, you consent to our collection, use and disclosure of your Personal Information as set out in this Privacy Policy.
 
+Please note that this Privacy Policy DOES NOT apply to information we collect through any Misfit Apps or Misfit branded devices. Please refer to the Privacy Policies for the Misfit App accessible via the app for information on privacy for that information.
 
-What information does Misfit Collect?
+WHEN WE COLLECT PERSONAL INFORMATION
 
-The Site
+We receive Personal Information from or about you depending on the nature of your activities, especially in the following cases:
 
-When you visit the Site, we will not collect any personal information about you unless you provide it to us voluntarily.
+  * **Website Sign-up/Registering:** We store the information that you provide to us when you create an account at our website (such as e-mail, name, date of birth and additional information you may voluntarily provide us such as your general interests). We will also collect this information when you sign-up using a social media log in, such as via Facebook or Google+. We do not collect or store your social media password information if you sign up using a social media log in.
+  * **Affiliate / Developer Programs:** If you join our Affiliate program we will collect information necessary to administer the program (such as e-mail, name, physical address, phone number). If you send us inquiries or correspondence related to our Developer Toolkit, you are voluntarily submitting your Personal Information to be used for that purpose.
+  * **Transactions:** We collect details of purchases on our websites as well as when you return or exchange a product or when you send us your product for warranty or repair service and any communication in connection with this.
+  * **Visiting our Website/Using E-mails:** We store details of your visits to websites (such as pages visited, browser details, your IP address) and your interactions with any e-mails that we send to you. For more information, see our Cookies Section. We also collect information you share via our website, such as to request marketing materials, obtain a lost password, or to write an online review of our products.
+  * **Sweepstakes, Contest, or Promotion Registration:** You provide your name and contact information to enter a sweepstakes, contest/competition, or promotion sponsored by us.
+  * **Social Media Sharing:** You share any pictures/materials with us for publication on social media.
+  * **Referral Programs:** When your refer or invite friends, family or others to participate in promotions, contests, competitions, or other referral programs we may offer, we collect the contact information that you share about these individuals.
+  * **Other Sources:** We may receive Personal Information about you from other sources, examples include when you take online surveys or through service providers who enhance our marketing data. We may also obtain information about you from other companies related to the Misfit Brand and Misfit, Inc. (such as from purchases at Fossil Group owned stores, websites, transaction data, or marketing information). In each of these cases we may add this information to the information we have already collected from you in order to improve the products and services we provide.
 
-We may collect personal information from you, such as your first and last name, email address, telephone number, postal addresses, and password when you create an account on our Site (“ **Account** ”).
 
-If you make a purchase on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information, and shipping information.
 
-During a normal visit to our site, personally identifiable information about you may be collected. We collect aggregate data such as site pages visited, amount of time spent on the site, clicks, page views, events, and zip code. We also track the type and model of the mobile device viewing the site and the mobile device’s service provider.
+HOW WE USE PERSONAL INFORMATION
 
-We may use session and persistent “cookies,” session logs, spot light ads/web beacons/GIF/pixel tags, banner ads or links, and third-party click tracking analytics tools (such as DART, Omniture tags, DoubleClick, Efficient Frontier, Flurry, and Google Analytics) to collect aggregate or other non-personally identifiable information about site visitors and users. An explanation for each of these items and how they work is included in the “Methods to Collect Information” section (below).
+  * **Transactions/Provision of Services:**
+    * **Transactions:** We use your Personal Information to process your purchases, send you confirmations or electronic receipts, screen transactions for fraudulent behavior, and handle any returns, exchanges or repairs to your products, to respond to customer service requests, and for any related communications.
+    * **Administer Websites:** We use your Personal Information to administer your website accounts such as to enable you to access your shopping bag, to see products you purchased from us, products you saved for later, products you registered, or to show you other products that may interest you. We also may use your Personal Information to provide other services, such as to process support requests, to process email marketing requests, to provide you with promotional offers or marketing materials verify your identity in the event you lose your password, or process your product reviews.
+    * **Referral Programs:** When you refer products or promotions to other persons we use such data to provide you with discounts/special offers we specified for such a referral. We can also collect the number of referrals and the purchases brokered by your referrals to determine if you are eligible for further discounts/special offers in accordance with the terms and use of our referral program. We may send an email or communication to the referral’s provided contact information, but we do not permanently store their information for future marketing purposes unless we obtain the referred party’s consent.
+    * **Sweepstakes or Contest:** When you enter a sweepstake, contest, or competition we sponsor, we process your Personal Information to enable your participation.
+  * **Analytics:** We may store details of your visits to our websites and your electronic interactions with any emails that we send to you (“Usage Data”) under a pseudonym (i.e. not under your name but under an ID number), including the pages you visited and services you used. We use such Usage Data to help us learn more about our users’ shopping preferences, to be able to tailor our offers and websites according to your interests and preferences, to help us address problems with and improve our site design, products and services, to analyze trends and statistics and to present content in the clearest and most friendly manner for you.
+  * **Marketing:** We may contact you for direct marketing purposes per e-mail, mail, or via other electronic communication methods (e.g. social media) unless you have opted-out from receiving further direct marketing messages (see below for your opt-out options). For certain types of direct marketing methods (e.g. text messaging), we will obtain your explicit consent prior to sending you direct marketing messages.
+  * **Securing our assets:** We may also use Personal Information to protect the security or integrity of our websites and our business.
+  * **Other:** We may use and collect Personal Information for any purpose associated with or related to the above purposes.
 
-The Service
 
-We collect the following information you provide us when you use the Service: your first and last name, photo, gender, height, weight, and date of birth.
 
-The Service allows users to log in through or connect with various social networking sites, such as Facebook, Twitter and LinkedIn (each an “ **SNS** ”). By logging in with or connecting with an SNS, you are allowing the Service to access your information and you are agreeing to the SNS’s terms of use in your use of the Service. We may receive information from an SNS and that information may be imported to the Site. Once you log in through or connect with an SNS, you may be able to post recent activity or content back to the SNS. Any information that we collect from an SNS may depend on your SNS privacy settings, so please consult the SNS’ privacy and data practices. Further, you can edit privacy settings via the SNS, or disable the connection with the SNS by visiting the applicable SNS.
+USE OF PERSONAL INFORMATION FOR MARKETING PURPOSES
 
-To help you find friends using the “Shine” Device, you can upload your address book in addition to your SNS contacts to our servers to find people already using the Service. Our contact importer tools will access your address book and SNS credentials and contacts in order for facilitate this feature.
+We may also use your Personal Information for marketing and market research purposes to learn more about our customers and users. We will only contact you for direct marketing purposes in accordance with applicable laws.
 
-You may also choose to input information about your activities through the Service, such as how much you sleep, your weight, and what you eat and drink.
+You may opt-out of our use of your Personal Information for marketing and market research purposes at any time by sending an e-mail to Info@Misfit.com.
 
-When you sync with the App, we collect the following information from your Device, which tracks detailed physical information based on monitoring your activity as set out in this Privacy Policy. This information includes when you are asleep, when you are awake, when you are idle, and your activity intensity and duration, your weight, and the food you’ve eaten. This data is translated into information such as your sleep patterns, calories you burn, and your trends and progress. Your Device stores this data until you sync and only retains limited data after a sync.
+COOKIES AND OTHER TECHNOLOGIES
 
-When you create a Misfit account when using the Misfit Bolt, we collect and save information to help you manage your home and lights better. This information includes your bulb names, the rooms created, and any custom scenes that are saved.
+We are using cookies and other technologies like pixel tags for purposes described below. Cookies are small files which are sent from the website and then stored on the hard drive of your device. Pixel tags, also called web beacons are clear image (i.e. non-visible) files that may be placed on a website or in an e-mail, and request information from your device such as your browser type (also referred to as **“Cookies”** ).
 
-We may also collect your precise location data when you use our mobile app along with other data that we normally collect through our mobile applications described in the “App Usage and Device Data” section (below).
+We may permit third parties to collect user Personal Information over time or across third-party websites, and we may permit third parties to gather Personal Information passively on our websites for behavioral advertising purposes.
 
-Other
+You can control many tracking tools, including cookies, from your browser. In particular, you may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our websites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our websites.
 
-If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail.
+Additionally, some Internet browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are currently not set up to respond to such signals.
 
-We also collect certain requested information if you contact us via e-mail regarding support for the Site or Service.
+TYPES OF COOKIES
 
-When you participate in one of our surveys, we may collect additional personal information.
+We use session Cookies that expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) and persistent Cookies which remain on your hard drive until you erase them or they expire. How long a persistent Cookie remains on your browser depends on how long the visited website has programmed the Cookie to last or they can be stored for longer.
 
-If you participate in a contest, sweepstakes or other promotion, we will collect any information you provide in connection with that promotion.
+We use Cookies for different purposes, which can be categorized as follows:
 
-We may also collect personal information at other points in our Site or Service that state that personal information is being collected.
+  * **Functional Cookies:** These Cookies are required for the website to function and for you to use our services. They include, for example, Cookies that enable you to log in, use a wish list or store products in a shopping cart. They may also enable us to recognize you when you return to our site and store information about your preferences, so they allow us to customize our site according to your individual preferences (such as the language chosen by you).
+  * **Analytical Cookies:** These Cookies analyze how users navigate around the website (pages visited, links used etc.) or how they use e-mails we’ve sent to them. They enable us to better understand interests of users and to improve our website and services.
 
-App Usage and Device Data
+**Google Analytics:** This Website uses Google Analytics, a web analysis service provided by Google Inc.(“Google”). The information generated by the cookie is usually sent to a Google server in the USA. On our behalf, Google will use this information to evaluate your use of the website and to compile reports on website activities. The IP address transmitted by your browser is not collated with other data by Google.
 
-When you use our Apps, we collect information about your device, including your device type, manufacturer, model, and operating system; your device ID; and the version of your App. We also collect information about how you use the App such as how you interact with the pages and features via a time-stamped log of data exchanges.
+You can learn more about Google Analytics here:
 
-Methods to Collect Information
+<https://www.google.com/policies/privacy/partners/>
 
-Generally
+You can prevent transmission of data relating to your use of the Website (including your IP address) to Google by downloading and installing the browser plug-in available at the following link:
 
-When you use our Site or Service, some information is automatically collected. For example, when you use our Site or Service, your geographic location, how you use the Site or Service, information about the type of device you use, your Open Device Identification Number, date/time stamps for your visit, your unique device identifier, your browser type, operating system, Internet Protocol (IP) address, and domain name are all collected. This information is generally used to help us deliver the most relevant information to you and administer and improve the Site. In addition, in the event our App crashes on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our App.
+<https://tools.google.com/dlpage/gaoptout?hl=en>
 
-Location Information
+**Adobe Analytics:** We are also using Adobe Analytics to obtain details about the usage of our website. In order to do so both services – just like Google Analytics – are tracking your activities using cookies.
 
-When you install the App, you will be asked to grant access to your mobile device’s geolocation data. If you grant such permission, we may collect information about your precise geolocation information (i.e., your real-time geographic location), and may use that information to customize the Service with location-based information and features (for example, to provide you with relevant weather information through your weather app based on your location). If you access the Service through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
+You may disable Adobe Analytics using the following link:
 
-Cookies
+<http://www.adobe.com/privacy/opt-out.html>
 
-We may log information using “ **Cookies**.” Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site and Service. This type of information is collected to make the Site and Service more useful to you and to tailor the experience with us to meet your special interests and needs. You can typically remove and reject Cookies from our Site and Service with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site or Service works for you. We may use third parties to deliver functionality of the Site and Service, such as fulfilling your request to purchase items from our Site. In performing this function such third parties may place a persistent cookie on your computer or have to gather personal information from you in order to facilitate the processing of your purchase.
+  * **Third party advertising:** We use third-party service providers to display advertisements (banners or links) on our behalf across the internet. These advertising service providers may collect information about your visits to our website and your interactions with our products and services, as well as your visits to other websites. Such information does not include your name, address, e-mail address but may contain browser-related information.
 
-Analytics
+Currently, we use cookies from the following advertising delivery partners:
 
-The Site may use a third-party analytics services (such as DART, Omniture tags, DoubleClick and Google Analytics) to help analyze how users use the Site and Service. Analytics services use Cookies to collect information such as how often users visit the Site and Service and we use the information to improve our Site and Service. The analytics services’ ability to use and share information collected by them is restricted by their terms of use and privacy policy, which you should refer to for more information about how these entities use this information.
+    * **Criteo SA,** whose privacy policy can be accessed by visiting their website at the following link: <http://www.criteo.com/privacy/>. Each banner will include a link to Criteo’s Privacy Policy page that will include information on how to disable Criteo service. Criteo also creates a unique code (a "hash") from your email address if you log in on our website to be able to identify users across various devices.
+    * **Google:** You can find more information about Goggle's re-marketing practices by clicking on this link: <http://www.google.de/policies/technologies/ads/>. If you want to prevent Google from setting cookies and collecting data for behavioral advertising, you may deactivate this setting by visiting this page.
+    * **Facebook:** Through the Facebook Conversion Tracking technique we are able to measure the effectiveness of our Facebook campaigns. Facebook is tracking on our behalf visitors on our website that came to us through a link in one of our Facebook campaigns. You can opt-out from this by using the link about online advertising directly below.
 
-With respect to Google Analytics, the information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout>. Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms>.
+For more information about third party online advertising and an easy option to opt-out please visit <http://www.youronlinechoices.com/>.
 
-Pixel Tags
 
-We may use spotlight ads/web beacons/GIF/pixel tags which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. Emails or electronic newsletters we send may use tools (e.g., pixel tags or web beacons) to gather email metrics and information to improve the reader's experience such as how many of the emails are opened, if they were printed or forwarded, the type of device (e.g., mobile or PC) from which they were opened, and the city, state, and county associated with the applicable IP address. In general, any electronic image viewed as part of a webpage, including an ad banner, can act as a web beacon.
 
-Log Files
 
-When you visit our Site, the server housing the pages automatically generates a “session log.” We use session logs to help us determine how people travel through our Site. In this way, we can structure our pages so that the information most frequently visited is easier to find. By tracking page visits, we can also determine if the information we're providing is being used. The only data gathered is the Internet Protocol (IP) address from which you came (which contains no personal information), the web site that referred you, the pages you visited and the date and time of those visits.
+DISCLOSURE/SHARING OF PERSONAL INFORMATION
 
-Advertising
+  * We may disclose or share your data with other companies for the purposes described in this Policy. These other companies might be members of Fossil Group (e.g. subsidiaries) or other third party providers, which may be based in other jurisdictions than your country of residence.
+  * Third party providers perform various and different services, like a shipping company that delivers a package, a payment service provider that enables us to manage multichannel payment transactions, or a company that helps facilitate our direct marketing communications. In these instances, we will need to share your Personal Information with these companies. Further examples of other services are online surveys, credit checks and supporting and maintaining our IT infrastructure.
+  * Where we engage service providers that use Personal Information on behalf of us we will use reasonable measures to contractually ensure that Personal Information is only used for the purposes defined by us and (provided that your Personal Information is subject to the Privacy Shield) we will remain liable for the requirement that processing of Personal Information by a service provider is consistent with our instructions unless we are not responsible for such inconsistent processing.
+  * Any Personal Information that you include in the text of a product review may be made public in the product review section of the Website.
+  * We may share your Personal Information where necessary in order to comply with any legal obligation, legal requests by public authorities, including requests to meet national security or law enforcement requirements, to protect and defend us, our subsidiaries and affiliates and all of our officers, directors, employees, attorneys, agents, contractors, and partners, in connection with any legal action, claim or dispute or in order to enforce or apply our terms of use and sale and other agreements.
+  * Unless you have opted out of such marketing use as set forth herein, occasionally we may also share your Personal Information with select third parties so that they can send you promotional materials about goods and services offered by them. We may also occasionally share your Personal Information with organizations that combine the Personal Information with publicly available information and information we receive from or cross-reference with our marketing partners and other third parties. We use that combined information to enhance your shopping experience with us, to communicate with you about our products, to inform you of events that may be of interest to you, and for other promotional purposes.
+  * We may transfer your Personal Information to a third party in the event of a transfer of all or some of our assets to a third party, provided that the third party agrees to adhere to terms similar to those of this Privacy Policy. If your information is subject to Privacy Shield we will provide you with an opportunity to reject the transfer of your Personal Information in such cases.
+  * On some pages we allow you to share Personal Information with third parties, such as social networks like Facebook. In these instances you are agreeing to the data being shared and the shared data is subject to the privacy policies of the third parties. We do not control and do not assume any responsibility for the use of Personal Information by such third parties. For more information about the third party’s purpose and scope of their use of Personal Information in connection with sharing features, please visit the privacy policies of such third parties.
+  * We may disclose aggregated, non-personal information about website users without restriction.
 
-Users may be directed to the Site via banner ads, site links or QR Codes. Ads, site links or QR Codes may use tools such as Cookies or web beacons to deliver metrics on the effectiveness of the ads or links. They do not collect personal information from you.
 
-On some pages of our site we may allow third-party advertising partners to set web tracking tools (e.g., cookies and web beacons) to collect anonymous, non-personally identifiable information regarding your activities on those pages (e.g., your IP address, page(s) visited, time of day). Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and Service and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, Cookies or pixel tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.aboutads.info/choices> or [http://www.networkadvertising.org](http://www.networkadvertising.org/). We may also share such information we have collected with third-party advertising partners.
 
-How does Misfit use the data we collect?
+RETENTION PERIOD
 
-The information we collect helps us provide you a meaningful and customized experience while using Misfit products and services. Misfit uses your information to:
+We will keep your Personal Information for as long as necessary for the purposes described above or as long as we are required by law. After this your Personal Information will be deleted. We cannot remove your Personal Information when there is a legal storage requirement, such as accounting rules or when there are other legal grounds to keep the data, such as an ongoing contractual relationship.
 
-  * contact you if necessary in the course of processing or shipping an order for products or services;
-  * provide and deliver products and services you request;
-  * respond to your comments or requests for information;
-  * operate, maintain and improve Misfit Site, Services, content, product offerings and services;
-  * customize content, marketing, and recommendations;
-  * personalize your experience such as using your height, weight, and gender to estimate burned calories;
-  * send you press releases, general informative announcements, and promotional information about us or our products;
-  * help understand your needs and provide you with better service;
-  * send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-  * generate reports about our user base and usage patterns;
-  * analyze accuracy, effectiveness, usability, or popularity of our Site and Service;
-  * identify you as a user in our system;
-  * facilitate the creation of and secure your Account on our network;
-  * develop and improve marketing and advertising for the Services and partner services;
-  * perform research aimed at gaining a better understanding of physical activity, sleep, health and wellness, habits and behavior using de-identified data;
-  * comply with legal requirements; and
-  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity
+SECURITY
 
+The security of your Personal Information is important to us. Accordingly, while no set of privacy and security standards or safeguards is 100% secure, we take steps to ensure any information that you share with us is kept secure and strictly confidential in accordance with this policy. We take various precautions to protect information from loss, misuse and unauthorized access, collection, use, disclosure, copying, modification, alteration, destruction or similar risks.
 
+LINKS TO OTHER MATERIALS
 
-We may get personal information about you from other sources. We may add this information to the information we have already collected from you in order to improve the products and services we provide.
+If you are offered a link to connect to a third-party website, it is for the convenience of our website visitors. Sites linked to and from this website are not necessarily under the control of us and we have no responsibility for the content or privacy practices of any such linked site or service. We recommend that you read the privacy policies of those third parties to see how your information is handled.
 
-We may anonymize and/or de-identify information collected by the Site or Service or via other means so that the information does not identify you. Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
+CALIFORNIA RESIDENTS
 
-How does Misfit share my information?
+Under California law, California residents who have an established business relationship with Misfit may make a written request to Misfit about how we have shared their personal information with third parties for direct marketing purposes during the prior calendar year. In response to a written request, Misfit is allowed to provide a cost-free means to opt-out of such sharing.
 
-Information Shared With Friends
+Misfit has opted to provide you with a cost-free means to opt-out of such sharing. If you do not want Misfit to disclose information to other companies for their marketing purposes, please follow the opt-out procedures set forth below.
 
-When you use the Service, your name and profile image is publicly viewable and searchable in the Misfit directory. We use the email address you register with us and match it with information other users upload from their address books, SNS contacts or through email address lookup. If there is a match, we share with that person that you are a user Service and allow them to invite you to connect with them through the App. If you choose to be friends with that person, your friends can view your name, username, thumbnail picture, activity data, and achievements such as number of goals hit, best streak, and personal best. Once you have added someone as a friend, they will be able to see your points.
+You may also send an email to Info@Misfit.com instructing us to no longer share your personal information with third parties who will use it for direct marketing purposes. Please also include your name and all of the postal addresses and email addresses that you have provided to us.
 
-Achievements
+OPT-OUT PROCEDURES
 
-By default your milestones are not viewable in the “World Feed” (viewable by all Service users). You must enable this setting to share your achievements. If you choose to, you can also opt into sharing your profile, achievements and milestones with the rest of the Misfit community as part of our World Feed feature. If you ever want to change your privacy settings, you can go to your profile at any time, tap settings, and turn the sharing of your milestones and achievements in the World Feed on or off. We store your achievements and milestones in the World Feed for up to six (6) months.
+With regard to Personal Information that you have provided or that has been collected under this Privacy Policy, you may opt-out of uses for direct marketing purposes, such as correspondence from us about our products and promotions or the sharing by us of your Personal Information with select third parties for their direct marketing purposes.
 
-SNS
+You may opt-out by sending an e-mail to Info@Misfit.com or use any other options we may offer. Your opt-out choices do not apply to (i) any communication which is not promotional in nature, (ii) sharing and use by Misfit of your Personal Information with service providers used by Misfit to enhance your experience on our websites and (iii) to allow Misfit to provide you with more personalized advertising across the internet.
 
-Our App and Service may enable you to post your Device information to an SNS. If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of any SNS and that it is your responsibility to review the terms of use and privacy policy of the SNS. We will not be responsible or liable for: (1) the availability or accuracy of any SNS; (2) the content, products, or services on or availability of any SNS; (3) your use of any SNS; or (4) the privacy of security of any of your information that is used with any SNS.
+To the maximum extent permissible under law, if you do not exercise your opt-out or "do not share" choices upon registration on one of our websites, it may take up to ninety (90) days for your opt-out choices to be fully effective.
 
-Other
+CHILDREN'S ONLINE PRIVACY PROTECTION ACT (“COPPA”)
 
-We may share your personal information with your consent.
+We do not knowingly collect, maintain, or use Personal Information from our Website about children under the age of 13. We request that persons under the age of 13 not use our Website without supervision from a responsible adult. We will never request Personal Information from a child under the age of 13 without verifiable parental consent. If we become aware that a child under the age of 13 has sent Personal Information to us without prior parental consent, we will remove his or her Personal Information from our files.
 
-We may share information with a parent company, subsidiaries, affiliates, joint ventures, or other companies under common control with us.
+ACCESS TO AND YOUR RIGHTS REGARDING YOUR PERSONAL INFORMATION
 
-We may share your personal information for the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+This website gives you the ability to view and change the Personal Information you provided to us by accessing your account via the sign-in feature. You may access information we hold about you, request a correction where data is incorrect or a deletion of your data, unless we have to keep your data for legal reasons. For any inquiries please contact us at Info@Misfit.com.
 
-We may disclose your personal information to (a) comply with relevant laws, regulatory requirements and to respond to lawful requests, court orders, and legal process; (b) to protect and defend the rights or property of us or third parties, including enforcing agreements, policies, and terms of use; (c) in an emergency, including to protect the safety of our employees or any person, or (d) in connection with investigating and preventing fraud.
+We encourage you to address any concerns you may have regarding our use of your Personal Information by using the contact details provided below.
 
-We may share your Information with third parties to provide services on our behalf such as to process payments, or to store information collected through our Site, App, and Services, as described below.
+If your Personal Data is subject to the Privacy Shield you can also address your concern regarding the use of your Personal Information to the Direct Marketing Association (DMA) free of charge. DMA contact information:
 
-We may share aggregate data, not any of your personally identifiable information, with our employees.
+Privacy Shield Line
 
-Misfit does not share, sell, or rent personally identifiable information with independent companies for their own use without providing you a choice other than those stated below.
+Direct Marketing Association
 
-We may share personal information about you with partners with whom you’ve given us permission to, such as partner applications and integrations. In addition, by downloading other apps that sync information with the Devices, you expressly consent to providing your personal activity data with the company that develops that app.
+1615 L Street, NW - Suite 1100
 
-To combine wearable expertise with technology and design expertise from world-class partners, Misfit works with partners to build and bring you unique wearable experiences. With our partners in connection with specifically branded Misfit products, we may share personal information according to the paragraph below.
+Washington, DC 20036
 
-By using the Swarovski edition of the Misfit Shine, you expressly consent to Misfit to share your personal information with Daniel Swarovski Corporation AG, Alte Landstrasse 411, 8708 Männedorf, Switzerland (“Swarovski”). Based on your information and product behavior, Swarovski may use your personal information for improving the Swarovski edition of the Misfit Shine content, product offerings and services, for customer segmentation as well as to send you personalized information about new products, promotions, marketing, recommendations and services. Swarovski will collect and process your information according to Swarovski’s Privacy Policy, which can be found on [www.swarovski.com/dataprotection](https://web.archive.org/web/20160613094730id_/http%3A//misfit.com/legal/www.swarovski.com/dataprotection). You are entitled at any time to demand information from Swarovski relating to your saved personal information, the recipients or categories of recipients receiving their information, and the purpose for which the information is saved and can do so by contacting Swarovski Customer Relations in your country of residence. In addition, you may contact Swarovski at any time as stated above in order to update, correct, complete or delete (revoke your consent with future effect) your saved personal information. Contact information is available at <http://www.swarovski.com/contact>.
+To file a complaint/inquiry: <https://thedma.org/shield-complaint-form/>
 
-To the extent you publicly share your personal information, the restrictions of this Privacy Policy do not apply to such personal information. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your posting or what other users may do with the information that you voluntarily post. Once you have posted information publicly, while you will still be able to edit and delete it on the Site, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others (e.g., search engines).
+For information about the DMA and their Privacy Shield program visit: [www.thedma.org/privacy-shield-safe-harbor-for-consumers/](http://www.thedma.org/privacy-shield-safe-harbor-for-consumers/)
 
-How do I control my information?
+In cases where the issue cannot be resolved by us or through the alternative dispute resolution proceedings you may invoke binding arbitration as further described in the Privacy Shield.
 
-You may opt-out of providing your personal information to the App at any time by uninstalling the App.
+PRIVACY SHIELD
 
-You can opt-out of promotion emails from us by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). If you opt-out, we may still send you non-marketing emails including emails about your accounts and our business dealings with you.
+Misfit, under Fossil Group, Inc. complies with the EU-U.S. Privacy Shield Framework Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of all personal data from European Union member countries. Fossil has certified that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement, and liability, and is supervised by the U.S. Federal Trade Commission (FTC). To learn more about the Privacy Shield program, and to view Fossil's certification, please visit <https://www.privacyshield.gov/welcome>. To view Fossil's certification on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list that may be found at: [https://www.privacyshield.gov/list.](https://www.privacyshield.gov/list) Fossil Group’s subsidiaries, including Fossil Partners, LP and Misfit, Inc. also adhere to the Privacy Shield Principles.
 
-You may send requests about personal information to our contact information below. You can request to change contact choices and marketing choices and to update, review, delete or change your personal information. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+Fossil’s independent resolution dispute provider is the Direct Marketing Association and their contact information is listed above in the section entitled “Access To and Your Rights Regarding Your Personal Information”.
 
-Pages of our Site that collect information that may be used by our advertising partners for interest-based advertising purposes are identified by a link to AdChoices on the page.
+WEBSITE LOCATION
 
-Opting out (site pages). If you do not want your browsing while on such pages to be used for interest-based advertising purposes, you may click on the AdChoices link to opt-out of such uses by the listed advertising partner(s). Even if you opt-out through this service, we may still collect non-personally identifiable information regarding your activities and use it for non-interest-based advertising purposes as described in this Privacy Policy.
+The Site is operated by Misfit and Fossil in the United States. If you are located outside the United States, please be aware that information we collect, including Personal Information, may be transferred to, processed, and stored in the United States. To the maximum extent permitted by applicable law, by using the Misfit websites or providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. To the maximum extent permitted by applicable law, you are also consenting to the application of United States federal and Texas state law in all matters concerning the Site and this Privacy Policy.
 
-Opting out (advertisements). Advertisements on third-party sites that contain the AdChoices link and that link to this Privacy Policy may have been directed to you based on anonymous, non-personally identifiable information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt-out of the advertising partners' use of this information for interest-based advertising purposes. Even if you opt-out through this service, we may still collect and use information from the advertisements for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
+CHANGES TO THIS PRIVACY POLICY
 
-Opt-out Compliance Service. This site and advertisements on third-party sites that link to this Privacy Policy use the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA) ([http://www.aboutads.info](http://www.aboutads.info/)). When you opt-out on site pages or through such advertisements, Evidon conveys your opt-out election(s) to the applicable advertising partner(s), which then know to place a Cookie on your specific computer and browser (and only the specific computer and browser from which you opt out) indicating that you have opted out. If you clear your browser cookies and wish to remain opted out of interest-based advertising, you must opt-out again. The list of our advertising partners may be updated from time to time. To opt-out of internet-based advertising by all DAA-participating companies, visit <http://www.aboutads.info/choices/>.
+This Privacy Policy was posted on September 26, 2016. Any changes we may make to our Privacy Policy in the future will be posted on this page and, when appropriate, notified to you by e-mail.
 
-At Misfit, we are dedicated to providing you with transparency as to how we use your personal data. If you remove data from your Misfit Account or from the Misfit Service, it will no longer appear to you or others who use the Site or Service. If you would like to deactivate your account on the Site or Service, please contact our Customer Service department at info@misfit.com. When you do, data that can identify you will be removed from the Site or Service. Misfit may continue to use your de-identified data after you deactivate your account.
+HOW TO CONTACT US
 
-Misfit’s Policy for Children
+Please address any questions or concerns, inquiries, complaints, requests to access or correct your Personal Information, or requests to limit the processing of your Personal Information regarding our Privacy Program or our practices concerning Personal Information to Misfit at:
 
-We do not intentionally gather personal information from users who are under the age of 13. If a child under 13 submits personal information to Misfit and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal information from a child under 13, please contact us at: info@misfit.com.
+Misift Inc.
 
-Processing Information
+839 Mitten Road, Suite 100
 
-By using the Site or Service and by providing your personally identifiable information to us, you understand and consent to the collection, use, processing, transfer, and disclosure of your personally identifiable and non-personally identifiable information globally including to the United States in accordance with this Privacy Policy and to the transfer of such information across country borders, and to the use, processing, and disclosure of such information in global locations that may have different levels of privacy protection than in your own country.
+Burlingame
 
-How We Respond to Do Not Track Signals
+California 94010
 
-We do not currently support technology to actively integrate “do not track” signals or other mechanisms that might enable consumers to opt out of tracking on our Site or Service.
+E-mail: info@misfit.com
 
-Security
+Alternatively please feel free to directly contact our US Compliance Department:
 
-Safeguarding information of visitors to our website is important to us. We use a variety of industry-standard systems, policies and procedures to maintain accuracy of information and to protect information from loss, misuse or alteration.
+Fossil Group Inc.
 
-When you send personal information, such as your name, address and telephone number we use “Secure Socket Layers” or SSL to protect your data. SSL is encryption technology that helps safeguard your personal information against misuse by unauthorized individuals.
+Attention: Chris King
 
-Vendors, contractors or partners of Misfit who have access to your personal information in connection with providing services for Misfit are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Misfit.
+Chief Compliance Officer
 
-Third Party Websites
+901 S. Central Expressway
 
-Our Site or Service may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site or Service and go to another site and another entity may collect information from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content, or websites.
+Richardson, TX 75080
 
-Your California Privacy Rights / Questions or Comments
+USA
 
-California's “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy. As discussed above, if you want to opt-out of any sharing of your information please contact us at:
-
-839 Mitten Road, Suite 100, Burlingame, California 94010  
-OR  
-info@misfit.com
-
-To find out information about any rights you may have under Civil Code section 1798.83, please contact us at the above address/telephone number/email address.
-
-How to Contact Us
-
-If you have any questions, comments or concerns about this Privacy Policy please contact us at: info@misfit.com
-
-Changes to this Privacy Policy
-
-We may change this Privacy Policy from time to time for any reason. If we make any changes, we will change the Last Updated date and post the new Policy here: [http://misfit.com/legal/privacy_policy](https://web.archive.org/legal/privacy_policy). You should consult this Privacy Policy regularly for any changes.
-
-Last updated: March 24, 2015
-
-[Previous Privacy Policy](https://web.archive.org/legal/privacy_policy_old)
+E-mail: CorporateCompliance@fossil.com
