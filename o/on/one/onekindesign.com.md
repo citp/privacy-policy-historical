@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onekindesign.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629092653id_/http%3A//onekindesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onekindesign.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020193403id_/http%3A//onekindesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Onekindesign.com
 
@@ -37,3 +37,6 @@ One Kindesign may change this Privacy Policy at any time. The revised Privacy P
 If you have any questions or concerns regarding this privacy policy, please send us an email on our [contact form](http://onekindesign.com/contact/).
 
 Last Updated September 8, 2015
+
+**YOU MIGHT ALSO LIKE**   
+
