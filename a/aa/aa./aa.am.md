@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aa.am privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811055045id_/http%3A//aa.am/index.php%3Fin%3Dprivacy1%26lng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.am privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020080322id_/http%3A//aa.am/index.php%3Fin%3Dprivacy1%26lng%3Den) for the most accurate reproduction.*
 
 # AA.AM - Free Domain Registration + Free DNS Service.
 
