@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618212849id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020061625id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotels - Cheap Hotel Rates - Rooms & Reservations
 
-[](https://privacy.truste.com/privacy-seal/ConsumerClub/validation?rid=52135fdc-722d-4cdc-a572-ad1675943c5e "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=64efc184-90f8-4e3c-8798-7520e1f7085d "TRUSTe Privacy Certification")
 
-**GETAROOM PRIVACY POLICY**
-
-We respect your privacy. We will not provide your personal information to third parties for marketing purposes without your permission.
-
+We respect your privacy. We will not provide your personal information to third parties for marketing purposes without your permission.  
 We send you information you want. You may choose whether and to what extent you receive marketing messages from Getaroom. Once you are registered, you can click on “My Reservations” and select the “Email” tab where you have a choice to opt in or out at any time to receive the following: email newsletters, email promotions, and email deals. If you are receiving the stated emails above and decide you no longer wish to receive this or any additional marketing material from us, you can indicate your preference on your “My Reservations” tab. It clearly shows you how to uncheck any boxes you may have checked prior and will update your preferences after you click the save button.
 
 If you no longer wish to receive our newsletter and promotional email communications, you may opt out of receiving them by going to your “My Reservations” tab or by emailing us at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) or by calling Customer Service at 800-HOTELS-8 (800-468-3578).
@@ -24,9 +21,7 @@ This Privacy Policy describes the information we collect from you, as part of th
 
 **Important Information.**
 
-**ConsumerClub, Inc.** has received TRUSTE’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, http://www.getaroom.com.
-
-If you have questions or concerns regarding this policy, you should first contact Customer Service at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) or call Customer Service at 800-HOTELS-8 (800-468-3578). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have questions or concerns regarding this policy, you should first contact Customer Service at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) or call Customer Service at 800-HOTELS-8 (800-468-3578). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request.>
 
 **Information We Collect.**
 
