@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iadb.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816115138id_/http%3A//iadb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iadb.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020143950id_/https%3A//www.iadb.com/privacy) for the most accurate reproduction.*
 
 # IADB | ACTOR WEBSITES - Privacy Policy
 
-This Privacy Policy governs the manner in which IADB collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://iadb.com](http://iadb.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by IADB.
+This Privacy Policy governs the manner in which IADB collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.iadb.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by IADB.
 
 * **Personal identification information**
 
@@ -43,14 +43,6 @@ IADB has the discretion to update this privacy policy at any time. When we do, w
 
 * **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://iadb.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 * **Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[IADB](http://iadb.com/)  
-[http://iadb.com](http://iadb.com/)  
-909.346.3766  
-[info@iadb.com](https://web.archive.org/contact)
-
-This document was last updated on April 11, 2014 
