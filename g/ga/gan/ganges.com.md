@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128002149id_/http%3A//ganges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020122254id_/http%3A//ganges.com/privacy-policy) for the most accurate reproduction.*
 
 # ganges.com | Domain Shop
 
