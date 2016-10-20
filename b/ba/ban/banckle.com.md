@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banckle.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610160828id_/http%3A//banckle.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banckle.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020170434id_/http%3A//banckle.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Banckle - Privacy
 
