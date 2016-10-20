@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segger.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430002514id_/https%3A//www.segger.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segger.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020203502id_/https%3A//www.segger.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEGGER - The Embedded Experts - About us - Privacy Policy
 
@@ -14,7 +14,7 @@ Our website offers the opportunity to subscribe to SEGGER notifications. You can
 
 ## What personal information is collected when registering an account at SEGGER?
 
-Our website offers the opportunity to register a user account in order to get access to software downloads from our web server. Some information such as your email address, first name and last name are mandatory, others such as country, company name, address, city, zip / postal code, job title and work phone are optional. When registering an account, we will store your submitted information, IP address as well as the date and time you subscribed We will not collect any other data. The data thereby collected is used solely for the purpose of providing you with the related product news.
+Our website offers the opportunity to register a user account in order to get access to software downloads from our web server. Some information such as your email address, first name, last name, country, company name and city are mandatory, others such as address, zip / postal code, job title and work phone are optional. When registering an account, we will store your submitted information, IP address as well as the date and time you subscribed We will not collect any other data. The data thereby collected is used solely for the purpose of providing you with the related product news.
 
 ## What personal information is collected when purchasing through SEGGER's web shop?
 
