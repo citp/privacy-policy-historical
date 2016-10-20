@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hirehive.io privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328035757id_/http%3A//hirehive.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirehive.io privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020090421id_/http%3A//hirehive.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HireHive recruiting software
+# Privacy Policy | HireHive
 
 Our Privacy Policy sets out the basis on which Assembly Point Limited (“We”, “Us”) as the operators of the HireHive website, will collect personal data from you, or how we will process data that you provide to us. Please read the below carefully to understand our views and practices regarding your personal data.
 
 #### Keeping your data private
 
-HireHive is based in the EU (Cork, Ireland) and we store all data on servers that are physically located in the EU. We are in full compliance with EU and Irish Data Protection directives.We store our data on [Microsoft’s cloud platform Azure](http://blogs.microsoft.com/on-the-issues/2015/10/06/a-message-to-our-customers-about-eu-us-safe-harbor/) – in their ‘North Europe’ data centre located in Dublin, Ireland.
+HireHive is based in the EU (Cork, Ireland) and we store all data on servers that are physically located in the EU. We are in full compliance with EU and Irish Data Protection directives. We store our data on [Microsoft’s cloud platform Azure](http://blogs.microsoft.com/on-the-issues/2015/10/06/a-message-to-our-customers-about-eu-us-safe-harbor/) – in their ‘North Europe’ data centre located in Dublin, Ireland.
 
 Our customers trust is our main priority. If you have any questions regarding data security and privacy please contact us at [datasec@hirehive.io](mailto:datasec@hirehive.io).
 
