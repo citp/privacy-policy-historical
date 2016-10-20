@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323175006id_/https%3A//www.jwt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020110044id_/https%3A//www.jwt.com/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - JWT.com
 
@@ -54,6 +54,13 @@ We will endeavor to provide your requested Personal Information within 30 days o
 
 ## How to reach us
 
-Questions regarding this Privacy Policy and access requests should be directed to James Van Dusen, via email at [James.VanDusen@jwt.com](mailto:james.vandusen@jwt.com) or by mail at JWT, James Van Dusen, 466 Lexington Ave, New York, NY 10017 USA.
+Questions regarding this Privacy Policy and access requests should be directed to: 
 
-JWT is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy and personal information. JWT’s commitment to privacy is demonstrated and documented by our adherence to applicable laws, codes and industry standards and by our adherence to the Safe Harbor Framework. If you have any complaints regarding our compliance with this Privacy Policy and/or the Safe Harbor Framework you should contact James Van Dusen, at the address noted above.
+J. Walter Thompson U.S.A., LLC  
+Attn: General Counsel  
+466 Lexington Ave  
+New York, NY 10017  
++1 212-210-7000  
+
+
+JWT is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy and personal information. JWT’s commitment to privacy is demonstrated and documented by our adherence to applicable laws, codes and industry standards and by our adherence to the Safe Harbor Framework. If you have any complaints regarding our compliance with this Privacy Policy and/or the Safe Harbor Framework you should contact us, at the address noted above.
