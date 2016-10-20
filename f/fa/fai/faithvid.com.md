@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithvid.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330163607id_/http%3A//www.faithvid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithvid.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021002308id_/http%3A//www.faithvid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at FaithVid
 
