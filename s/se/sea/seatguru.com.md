@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052502id_/http%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020142845id_/https%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
 
 # SeatGuru Privacy Policy
 
@@ -90,7 +90,7 @@ SeatGuru may update this Privacy Policy in the future. We will notify our member
 If you have questions about this Privacy Policy, please contact us at:  
 Email: [privacy@tripadvisor.com](mailto:privacy@tripadvisor.com)  
 TripAdvisor LLC  
-141 Needham Street  
-Newton, MA 02464 
+400 1st Avenue  
+Needham, MA 02494 
 
 This Privacy Policy is effective as of November 10, 2010.
