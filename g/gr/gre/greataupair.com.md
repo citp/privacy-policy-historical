@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315163632id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020233714id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
 # Nanny Agency Au Pair Work Child Care Jobs Babysitter Service
 
@@ -7,8 +7,6 @@
 This privacy policy applies to www.GreatAuPair.com which is owned and operated by GreatAuPair, LLC (GreatAuPair). This privacy policy describes how GreatAuPair collects and uses the personally identifiable information you provide on our website. It also describes the choices available to you regarding our use of your personal identifiable information and how you can access and update this information.
 
 It is GreatAuPair's policy to maintain strict security and privacy practices to protect its systems and its customer data. GreatAuPair maintains compliance with U.S. State and Federal laws. Please visit our [Security Center](https://web.archive.org/security_center.htm) to learn more about how we help protect you and how you can help protect yourself against potential online fraud.
-
-GreatAuPair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers information collected through this website, www.GreatAuPair.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact [GreatAuPair Support](https://web.archive.org/support.cfm/topic/help). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ### Anti-Spam & UCE Policy
 
