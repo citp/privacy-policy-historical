@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaya.net.au privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402020359id_/http%3A//www.vaya.net.au/%3Foption%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaya.net.au privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020022712id_/http%3A//www.vaya.net.au/%3Foption%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Vaya | Privacy Policy
 
