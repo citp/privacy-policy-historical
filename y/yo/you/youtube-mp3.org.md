@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtube-mp3.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624211505id_/http%3A//www.youtube-mp3.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtube-mp3.org privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020222716id_/http%3A//www.youtube-mp3.org/privacy) for the most accurate reproduction.*
 
 # Privacy - YouTube to mp3 converter
 
@@ -10,13 +10,15 @@ At youtube-mp3.org, we recognize that the privacy of your personal information i
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site.
 
-### Use of Cookies and Web Beacons
-
-We do not store any cookies on your computer.
-
 ### External Advertising Partners
 
 We also use third party advertising services to display advertisements on youtube-mp3.org, such as Google through the Google AdSense program. Some or all of those advertising services may use technology such as cookies and web beacons when they advertise on our site, which will send these advertisers information about your visit including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes. Geo-targeting is sometimes used for the purposes of matching advertisements with visitors based on certain attributes that visitor has. An example of this type of geo-targeting would be showing Idaho movie theatre ads to someone located in Idaho, or showing certain ads based on specific sites visited, such as showing cooking ads to someone who frequents cooking sites.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+We partner with Conversant to serve ads and/or collect certain information when you visit our website. Conversant may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://www.conversantmedia.com/legal/privacy.](http://www.conversantmedia.com/legal/privacy)
 
 ### DoubleClick DART cookies
 
