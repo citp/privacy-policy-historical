@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314223416id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021005556id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
@@ -147,7 +147,7 @@ A method by which information transmitted across the Internet is scrambled to th
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Andrea Forzieri  
-011 39 055 7251075  
++39 055 7251075  
 [contact us](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
 FORZIERI/Firenze Seta srl  
 Via della Vigna Nuova 85r  
