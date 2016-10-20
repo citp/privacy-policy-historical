@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zalando-lounge.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603181126id_/http%3A//www.zalando-lounge.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando-lounge.co.uk privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020160531id_/https%3A//www.zalando-lounge.co.uk/privacy) for the most accurate reproduction.*
 
 # Fashion up to 80% at Zalando Lounge | Data Protection Policy
 
-Zalando SE (public limited company) is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 158855 B whose registered office is Tamara-Danz-Str. 1, 10243 Berlin, Germany ( **“we”, “us” or “our”** ). We operate www.zalando.co.uk and [www.zalando-lounge.co.uk](https://web.archive.org/web/20160603181126id_/http%3A//www.zalando-lounge.co.uk/www.zalando-lounge.co.uk) (the “Sites”). In this Privacy Policy, references to “you” mean any person submitting any data to us or the Sites. 
+Zalando SE (public limited company) is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 158855 B whose registered office is Tamara-Danz-Str. 1, 10243 Berlin, Germany ( **“we”, “us” or “our”** ). We operate www.zalando.co.uk and [www.zalando-lounge.co.uk](https://web.archive.org/web/20161020160531id_/https%3A//www.zalando-lounge.co.uk/www.zalando-lounge.co.uk) (the “Sites”). In this Privacy Policy, references to “you” mean any person submitting any data to us or the Sites. 
 
-If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalando.co.uk or [service@zalando-lounge.co.uk](mailto:service@zalando.co.uk). Alternatively, you may call us on 0800 472 5995 for [www.zalando.co.uk](https://web.archive.org/web/20160603181126id_/http%3A//www.zalando-lounge.co.uk/www.zalando.co.uk) or 0800 4725322 for www.zalando-lounge.co.uk – these telephone numbers will be open to receive calls between 6 am and 7 pm on Monday to Friday. 
+If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalando.co.uk or [service@zalando-lounge.co.uk](mailto:service@zalando.co.uk). Alternatively, you may call us on 0800 472 5995 for [www.zalando.co.uk](https://web.archive.org/web/20161020160531id_/https%3A//www.zalando-lounge.co.uk/www.zalando.co.uk) or 0800 2061 012 for www.zalando-lounge.co.uk – these telephone numbers will be open to receive calls between 6 am and 7 pm on Monday to Friday. 
 
 We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. 
 
@@ -60,7 +60,7 @@ We may pass your details to other companies in our group. We may also pass your 
 
 **Use of Facebook Social Plugins**
 
-Our Sites use social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo or the notice “Facebook Social Plugin”. For a full list of all social plugins and their appearance please see [developers.facebook.com/plugins. ](https://web.archive.org/web/20160603181126id_/http%3A//www.zalando-lounge.co.uk/www.developers.facebook.com/plugins)
+Our Sites use social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo or the notice “Facebook Social Plugin”. For a full list of all social plugins and their appearance please see [developers.facebook.com/plugins. ](https://web.archive.org/web/20161020160531id_/https%3A//www.zalando-lounge.co.uk/www.developers.facebook.com/plugins)
 
 When you visit a page of our Sites that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. For this purpose, the internet address of the visited site (your IP address included) is transferred to a US-based Facebook server where the data are stored. This occurs even if you do not have a Facebook account or are not logged into Facebook at the time. 
 
@@ -68,7 +68,7 @@ If you are logged into Facebook, your visit can be assigned to your Facebook acc
 
 If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. You can also block Facebook social Plugins by using add-ons for your browser, like the “Facebook Blocker”. 
 
-For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [Facebook’s privacy policy.](http://www.facebook.com/about/privacy/)
+For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [Facebook’s privacy policy.](https://www.facebook.com/about/privacy/)
 
  **Login**
 
@@ -116,7 +116,7 @@ Usually, your browser’s help section will provide information on how to change
 
 We recommend only changing the browser setting for your profile on shared computers. 
 
-You can find detailed information on how to change your browser settings by clicking [here.](http://media.ztat.net/media/agb/GB/2012-07-27_Extra_Cookies_Section.pdf)
+You can find detailed information on how to change your browser settings by clicking [here.](https://media.ztat.net/media/agb/GB/2012-07-27_Extra_Cookies_Section.pdf)
 
 If you want to find out more information about cookies, go to http://www.allaboutcookies.org. 
 
