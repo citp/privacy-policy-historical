@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621015437id_/http%3A//www.mobisitegalore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020194152id_/http%3A//www.mobisitegalore.com/privacy.html) for the most accurate reproduction.*
 
 # mobiSiteGalore - Build your own mobile website that looks great on all phones!
 
