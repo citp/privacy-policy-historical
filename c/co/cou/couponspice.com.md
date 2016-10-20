@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponspice.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327084917id_/http%3A//couponspice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponspice.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020092453id_/http%3A//couponspice.com/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
