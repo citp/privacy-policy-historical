@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402200546id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020142933id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,42 +98,42 @@ x
 
   *     * SELECT™
     * INTERNET
-    *     * With 24-mo. agreement. Add'l fees apply. Separate HSI agreement may be required. Internet speed may vary. 
+    *     * SELECT™ All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ 
     * **145+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * Entertainment
     * INTERNET
-    *     * With 24-mo. agreement. Add'l fees apply. Separate HSI agreement may be required. Internet speed may vary. 
+    *     * ENTERTAINMENT All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ 
     * **150+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * CHOICE™
     * INTERNET
-    *     * With 24-mo. agreement. Add'l fees apply. Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    *     * CHOICE™ All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add'l charge.‡ Regional sports fee applies in certain markets. 
     * **175+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * XTRA
     * INTERNET
-    *     * With 24-mo. agreement. Add'l fees apply. Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    *     * XTRA All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ Regional sports fee applies in certain markets. 
     * **220+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * Ultimate
     * INTERNET
-    *     * With 24-mo. agreement. Add'l fees apply. Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    *     * ULTIMATE All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ Regional sports fee applies in certain markets. 
     * **240+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * Premier™
     * INTERNET
-    *     * With 24-mo. agreement. Add'l fees apply. Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    *     * PREMIER™ All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req’d. Incl Unlimited data allowance ($30 value) at no add'l charge.‡ Regional sports fee applies in certain markets. 
     * **315+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
@@ -143,7 +143,7 @@ x
 
 For 12 months after instant TV savings with 24-month agreement. 
 
-Pricing for zip code 94107 | Change
+Pricing for zip code 94118 | Change
 
 x
 
@@ -155,7 +155,7 @@ Call now to order
 
 1-877-626-6804
 
-Promo Code: 834-133
+Promo Code: 517-242
 
 or **_CHAT WITH US LIVE!_**
 
