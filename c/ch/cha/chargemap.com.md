@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325144906id_/https%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020032302id_/https%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
 
 # ChargeMap Privacy policies
 
@@ -6,7 +6,7 @@
 
 ## Legal information
 
-Site publisher: The website ChargeMap.com is the property of: CHARGEMAP SAS, 104 rue de Hochfelden 67200 STRASBOURG FRANCE. 
+Site publisher: The website ChargeMap.com is the property of: CHARGEMAP SAS, 3 rue de Lisbonne 67300 Schiltigheim FRANCE. 
 
 CHARGEMAP SAS, Publication director: Yoann NUSSMBAUMER  
 Site designed by: CHARGEMAP SAS  
