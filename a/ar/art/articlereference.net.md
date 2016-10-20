@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlereference.net privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329070115id_/http%3A//articlereference.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlereference.net privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020054058id_/http%3A//articlereference.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Reference
 
@@ -10,13 +10,13 @@ Please read the following to learn more about how we protect and respect your pe
 
 We use third-party advertising companies to serve ads when you visit our web site.  
 These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  
-Below are links to the privacy policies of the advertising networks used by http://articlereference.net : [Google.com](http://www.google.com/privacypolicy.html)
+Below are links to the privacy policies of the advertising networks used by http://articlereference.net : [Google.com](http://articlereference.net/goto/http://www.google.com/privacypolicy.html)
 
 ## Third Party Cookies
 
 Cookies are small files that contain information that a website uses to store user preferences and settings.  
 Google’s use of the DART cookie enables it and its partners to display ads based on your prior visits to this website and other websites.  
-You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy/ads/).
+You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://articlereference.net/goto/http://www.google.com/privacy/ads/).
 
 ## External Links
 
