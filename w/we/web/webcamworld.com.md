@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621080242id_/http%3A//www.webcamworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021070215id_/http%3A//www.webcamworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,4 +43,4 @@ By using our site, you consent to our web site privacy policy.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/cgi-bin/contact.cgi). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20161021070215id_/http%3A//www.webcamworld.com/cgi-bin/contact.html). 
