@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investingwithpassion.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103083905id_/http%3A//investingwithpassion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingwithpassion.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021231711id_/http%3A//investingwithpassion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Investing With Passion
 
