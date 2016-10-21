@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greedreports.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627035652id_/http%3A//greedreports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greedreports.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021082324id_/http%3A//greedreports.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Greed Reports
 
