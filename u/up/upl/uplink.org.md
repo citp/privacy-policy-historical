@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uplink.org privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906200704id_/http%3A//www.uplink.org/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplink.org privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021072148id_/http%3A//adcomcorp.com/html/privacy.html) for the most accurate reproduction.*
 
 # Welcome - ADCOM Corp. - Advanced Computers and Networking
 
