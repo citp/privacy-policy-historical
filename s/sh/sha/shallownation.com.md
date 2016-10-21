@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324152640id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021063341id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shallow Nation
 
@@ -87,5 +87,5 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above email addresses or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
 
-  *   *   *   *   * 
+  *   *   *   *   *   * 
 
