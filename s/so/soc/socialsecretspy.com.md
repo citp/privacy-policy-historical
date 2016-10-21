@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialsecretspy.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219082641id_/http%3A//imstephanie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecretspy.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021200933id_/http%3A//imstephanie.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | IMStephanie.com
 
 This privacy policy sets out how Stephanie Henry ****uses and protects any information that you give Stephanie Henry  when you use this website.
 
