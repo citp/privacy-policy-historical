@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnatta.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531063657id_/http%3A//gnatta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnatta.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021194049id_/http%3A//gnatta.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gnatta
 
