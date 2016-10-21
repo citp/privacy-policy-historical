@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevirtualservers.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303040844id_/https%3A//www.freevirtualservers.com/privacy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevirtualservers.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021140604id_/https%3A//www.freevirtualservers.com/privacy-agreement) for the most accurate reproduction.*
 
 # Privacy Agreement - Free Virtual Servers
 
