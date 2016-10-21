@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhealthalerts.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401055702id_/http%3A//dailyhealthalerts.com/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhealthalerts.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021022156id_/http%3A//dailyhealthalerts.com/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
