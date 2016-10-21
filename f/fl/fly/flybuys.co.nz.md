@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506191927id_/https%3A//www.flybuys.co.nz/Pages/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021140358id_/https%3A//www.flybuys.co.nz/Pages/site/privacy) for the most accurate reproduction.*
 
 # FlyBuys: Learn / Privacy statement
 
@@ -127,6 +127,6 @@ Our online services may contain links to other sites. We are not responsible for
 
 If you wish to access or correct any information we hold about you or have any feedback or concerns about privacy, please contact us as set out below. Where you seek a response from us, we will let you know who will be handling your matter and when you can expect a full response. In the case of access and correction requests, please provide as much detail as you can about the particular information you seek in order to help us retrieve it. Where we decide not to make a requested correction and you disagree, you may ask us to make a note of your requested correction with the information.
 
-**Phone:** 0800 FLY BUYS (0800 359 2897), Mon – Fri, 8am – 6pm (excluding public holidays)
+**Phone:** 0800 FLY BUYS ([0800 359 2897](tel:0800 359 2897)), Mon – Fri, 8am – 6pm (excluding public holidays)
 
 **Post:** Fly Buys Service Centre, PO Box 68679, Newton, Auckland
