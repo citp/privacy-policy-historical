@@ -1,95 +1,106 @@
-> *The following text is extracted and transformed from the davita.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112010832id_/http%3A//www.davita.com/about/web-usage-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davita.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021184033id_/https%3A//www.davita.com/about/website-privacy-policy) for the most accurate reproduction.*
 
-# DaVita
+# Website Privacy Policy - DaVita
 
-This Online Privacy Policy describes how DaVita Inc. (“DaVita”) collects, uses, and protects information you provide when you use DaVita’s websites. For more information regarding how DaVita protects the privacy of patients’ protected health information (PHI) under the HIPAA Privacy Rule, please see our [Privacy of medical information](https://web.archive.org/about/privacy-practices-notice) which can be found through the Privacy of Medical Information link. This Online Privacy Policy applies to websites owned and operated by DaVita, including but not limited to, DaVita.com, Dialysisfinder.com, DaVitaRx.com, DVALab.com, DaVitaclinicalresearch.com, FalconEHR.com, and YourKidneys.com.
+Effective August 3, 2016
 
-Your privacy is important to DaVita. We understand that health is a personal, private subject, and we want you to feel comfortable visiting our websites and using our services. This Online Privacy Policy tells you what information we collect, how we protect it, your relationship with our websites, and what choices you have regarding information about you. We urge you to read our Online Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can control the use of your information.
+Thank you for visiting DaVita’s websites.  We work hard to keep the sites and on-line tools current and hope that you find the information available here to be highly useful. 
 
-#### Links to third party websites
+Except as expressly stated otherwise on a website, we make these sites available for the purpose of providing useful information to the general public and **_not_** for the purpose of providing healthcare services.  Certain sites offer on-line, self-help and/or educational tools and require users to register for a myDaVita **(**[ **https://www.davita.com/register**](https://www.davita.com/register) **)** account or similar on-line account.  None of these sites are intended to serve as vehicles for providing medical advice or healthcare services.  Please consult your physician regarding your specific diagnosis, treatment, diet, and health questions. **If you are experiencing an urgent medical condition, call 9-1-1.**
 
-As a resource to visitors to our websites, DaVita provides links to other websites. DaVita, however, cannot guarantee the policies or standards used by such third party sites. DaVita does not endorse, nor is it responsible for the content of, any privacy practices employed by any non DaVita websites. If you link to a third party site from DaVita's website, information you provide on the third party website is not subject to DaVita's privacy policy. You should consult the privacy policies of each site you visit.
+When you use a website owned by DaVita or one of its affiliates (DaVita), we may ask you to provide us with certain personally identifiable information, including, but not limited to, your name, photo, address, date of birth, zip code, phone number and email address (Personal Information), and we may collect information about your use of our sites or your other on-line activities.  We may also obtain Personal Information when you engage in email, text or other communications with us.  In keeping with the general informational purpose of these sites and the related communications, we collect Personal Information from you as an on-line consumer and not as a patient of DaVita. **  **This Privacy Policy describes how DaVita handles Personal Information.  By contrast, any information we may collect when we provide healthcare services to our patients (Health Information) is governed by a separate [Notice of Privacy Practices](https://www.davita.com/about/privacy-practices-notice) that will be provided to any DaVita patient in the course of delivering healthcare services.
 
-#### Your choices
+This Privacy Policy tells you what information we collect, how we protect it, your relationship with our websites, and what choices you have regarding your information.  This Privacy Policy is a part of, and is governed by, [DaVita’s Terms of Use](https://www.davita.com/about/legal).  It is important that you carefully read both this Privacy Policy and [DaVita’s Terms of Use](https://www.davita.com/about/legal).  **_By accessing or using a DaVita site and voluntarily providing us with your Personal Information, you are consenting to our use and disclosure of your Personal Information in accordance with the terms of this Privacy Policy._**
 
-You are not required to provide any personal information in order to view content on our sites, such as articles and recipes. However, in order to receive newsletters and announcements by e-mail, post comments in the forums, save recipes and articles, or communicate with other DaVita community members, you must register for a My DaVita web account and by doing so, you agree to receive these types of communications.
+**Personal Information DaVita Collects and How We Use It**
 
-When you join the DaVita community by registering for a My DaVita account, you must provide the personal information designated as "required" on the registration page. This information will be private unless you choose to make it public. After you have registered, you will have the opportunity to provide additional personal information under “Edit My Profile” and will also have the opportunity to create an extended personal profile, including posting a photograph and listing your location. This extended personal profile information will be visible to other community members and the public when you make postings, such as comments to a forum or reviews of recipes. Whether you provide this additional personal information or create a public profile is entirely your option.
+You are not required to provide any Personal Information to use some of our sites.  However, other sites -- including those that have tools enabling you to get more personalized information -- require you to create an account or register in order to access a particular tool.  For example, by creating a myDaVita account (which will require you to provide certain Personal Information), you will gain access to a variety of specialized information.  Do not share any information with us that you wish to remain private.  You are responsible for ensuring the accuracy of the information you submit to DaVita.  The submission of inaccurate information will affect the information you receive through our websites (which, again, does not constitute medical advice) and may impair our ability to contact you as described in this Privacy Policy.  For example, you should make sure your email address is current because that is how you may receive information. 
 
-If, at any time, you would like to deactivate or have us remove your My DaVita account, you may do so by sending a request to us using the form at [contact us](https://web.archive.org/about/contact.cfm).
+You will have the opportunity to designate whether to make your profile public or keep it private, and you may change your designation, or change your profile data at any time.  Please note that public profiles are often indexed and cached by Internet search engines.  Some personal profile information will be visible to other community members and could be made public when you make postings, such as comments to a forum or reviews of recipes.  Whether you provide us with your Personal Information or create a public profile is entirely up to you.
 
-#### Personal information we collect about you & how we use it
+**You may change or delete your Personal Information or account settings by logging into your account (for myDaVita:**<https://www.davita.com/mydavita/account-settings> **.)  To have your account deleted, contact us using the information in the Questions, Complaints and Contacts section below.**
 
-We collect personal information about you, such as your name, e-mail address, date of birth, and zip code that you provide to us when you register for a My DaVita account and when you update your profile. We use the personal information that you provide to respond to your questions, provide you the specific services you select, show you website content, including advertisements, that may be of interest to you, send you e-mails about website maintenance and updates, and inform you of significant changes to this Online Privacy Policy.
+After you have created your account, you may choose to use interactive content, tools, and services that may request additional information from you.  Using these tools and providing additional information is strictly voluntary.
 
-DaVita shares your personal information with companies who provide services to DaVita, such as information processing, managing and enhancing data, managing customer communications, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may not use your information for their own purposes.
+We collect Personal Information when you register for an account, update your profile, or use certain interactive services.  We use the Personal Information that you provide in various ways, including responding to your questions, providing you with the specific services you select, showing you website content, including advertisements, and sending you emails that may be of interest to you.  If you have designated your profile to be public, DaVita may use and display your information and photos in other DaVita websites and materials.
 
-#### Your My DaVita Web Account & interactive tools
+DaVita may transfer your Personal Information to an affiliate, subsidiary or successor to the business to which such information is associated.  DaVita obtains various types of services, such as information technology, email delivery and data analysis, from its affiliates, subsidiaries, and other trusted business partners.  DaVita may share your Personal Information with these vendors to enable them to deliver services to DaVita.  Finally, DaVita may also share your Personal Information with third-parties for their direct marketing purposes, provided that you have consented to such sharing.
 
-You will create a public profile as part of the registration process for your My DaVita web account. Except for your user name which will stay constant, you may change your public profile data at any time; however, public profiles are often indexed and cached by Internet search engines (e.g., Google, Yahoo, Bing). Regardless of whether you enter public profile data or not, personal information not contained in your public profile, such as full name or e-mail address, will not be revealed by DaVita to others without your consent. 
+**Anonymous Information and Tracking Technologies**
 
-Many of the specific tools and services on our website require registration.  If you choose to register a My DaVita account so that you may use certain interactive tools or other services, we require you to provide us with certain personal information. Depending on the tool or service you have selected, we may also collect certain personal health information. You are responsible for ensuring the accuracy of the personal information and personal health information you submit to DaVita. Inaccurate information will affect the information you receive from us when using our site and tools and may impair our ability to contact you as described in this Online Privacy Policy. For example, your e-mail address should be kept current because that it is how we will communicate with you.
+When you use our websites, we may automatically collect certain information, such as where you browse within the sites, traffic and location data, and information about the computer and Internet connection.  This information helps us administer the sites and provide a better user experience, and we may connect this information to Personal Information that you provide to us or we collect from other sources. 
 
-After you have registered your MyDaVita account, you may choose to use certain interactive content, tools, and services that may ask you to provide other types of information about yourself, including personal health information. Using these tools and providing additional information is entirely up to you. Some of the tools, such as certain quizzes or calculators, do not retain your personal health information, while others, such as the GFR Calculator, store your personal health information in accordance with the description we provide and the authorization you provide at the time you use the tool.
+Our websites may use cookies and other tracking technologies to identify users who have previously used our sites so that the user is recognized upon returning.  A cookie is a piece of data stored on the user's hard drive containing information about the user.  If you reject the cookie, you may still use our sites but some of the features of the sites may not work as intended.  A cookie may be placed on your hard drive by us or by our business partners.  Most Internet browsers offer instructions in the "Help" section of the toolbar on how to reset your browser to disallow cookies.
 
-#### Other information we collect & use of cookies
+The sites may contain transparent GIF files (also known as "web beacons," "action tags," or "pixel tags") or use other technologies to help manage on-line advertising.  These GIF files are used to recognize when a user views a web page or opens an email. This information enables DaVita to learn which emails and advertisements bring users to our sites.
 
-We use cookies to collect information about your use of our websites, special promotions, and newsletters whether you register or not. The information helps us improve the experience you have when using our websites by (1) allowing us to dynamically generate advertising and content on websites or in newsletters that may be of interest to you; (2) helping us statistically monitor how many people are using our websites and opening our e-mails, and (3) showing when and how these actions are being taken. We may use cookie information to show you specific advertisements on our websites, based on areas of the sites that you have visited during the same session, or to determine the popularity of certain content or advertisements. Cookies are also used to facilitate your log-in to your My DaVita account, as navigation aids, and as session timers. 
+To help manage our advertising and sites, we may use third-party products such as AdSense, AdWords, Google Analytics, a range of DoubleClick-branded services, and IBM Marketing Cloud.  When you visit a page that uses one of these products, either on our sites or one of our partners’ sites, various cookies may be sent to your browser.  These may be sent from multiple different domains.  These cookies enable DaVita to use other services in conjunction with third-party vendors (such as ad measurement, ad delivery, or reporting services) and these third-party services may send their own cookies to your browser and collect information about your use of our sites, including your IP address.  More information on, for example, Google services can be found at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners).
 
-Most browsers offer instructions on how to reset your browser to disallow cookies in the "Help" section of the toolbar. If you do not allow us to use cookies, some of the functions and conveniences of our websites may not work properly, but you do not have to allow us to use cookies in order to have a productive experience on our websites. 
+Sometimes, when you click on a link or an advertisement on our sites, your browser may be momentarily redirected to the website of a third-party, which, acting at the request of DaVita, notes or "counts" your response to the site before re-directing your browser to the link you selected.  This redirection process may not be apparent to you.  We use this process for counting overall responses.
 
-We do not link information from cookies to personal information you provide without your permission and do not use cookies to collect or store personal health information about you. We do not share information from cookies with third parties that are not part of the DaVita family of companies.
+**Do Not Track Signals**
 
-#### How we protect your personal information
+Some web browsers may transmit “do not track” signals to websites with which the browser communicates. Our sites do not currently respond to these “do not track” signals.
 
-We use secure sockets layer (SSL) technology to encrypt your personal information, when you enter personal information using our forms. This technology protects your personal information as it is being transmitted over the Internet from your computer to our servers. To protect our server environment, we maintain an ongoing risk management program and use industry standard practices and technologies to ensure your information is well-secured.
+**How We Protect Personal Information**
 
-#### Newsletters & e-mail messages to you  
+DaVita’s sites incorporate safeguards to help protect the security and privacy of Personal Information.  DaVita employs certain procedural and technological security measures designed to protect your Personal Information from unauthorized access and disclosure.  We may use encryption, secure sockets layer (SSL) technology, internal restrictions, risk management programs, or other security measures.  However, no security system is impenetrable, and transmission of information over the Internet is not completely secure.  While we take steps to protect your Personal Information, we cannot guarantee its privacy or security.
 
+DaVita may share Personal Information in response to a court order, subpoena, search warrant, law, or regulation. We may cooperate with law enforcement in investigating and prosecuting activities that are illegal, violate our rules, or may be harmful to other visitors.
 
-When you register for a My DaVita account and at various times as you use our websites, you will be given the option of receiving recurring informational/promotional newsletters via e-mail from DaVita. These e-mails will not contain personal health information. When you sign up for our e-mail newsletters, or at any time, you can choose to receive fewer or more promotional e-mails from DaVita. In order to subscribe to DaVita newsletters via e-mail, we will ask you for your contact information (e.g., name and e-mail address). You can unsubscribe from the newsletters at any time by simply:
+**Newsletters, Email and Text Messages**
 
-  * Following the directions included at the bottom of each e-mail newsletter you receive from DaVita or editing the information you entered when you registered by:
-    1. Logging in to DaVita.com
-    2. Selecting, "Edit My DaVita" 
-    3. Selecting "Newsletters” 
-    4. Unchecking the newsletters you do not want to continue receiving. (If you want all newsletters to stop, then you must uncheck all of them) 
-    5. Checking any additional newsletters you want to receive 
-    6. Pressing "Submit" at the bottom of the page to confirm your new choices 
-  * The unsubscribe process may take up to three (3) business days to complete.
+When you register for an account or certain other actions on a DaVita website, you may be given the option of receiving recurring informational/promotional newsletters or other emails from DaVita or our business partners.  In order for you to subscribe to these emails, we will ask for your contact information.  You can unsubscribe from DaVita emails at any time by simply following the directions included at the bottom of each email or by editing the information you entered when you registered **(for myDaVita, go to**<https://www.davita.com/mydavita/account-settings> **.)**
 
+Please note that if you do unsubscribe from receiving marketing-related emails from us, we may still need to send you important administrative messages.  You cannot opt-out from receiving these administrative messages.
 
+You can opt-out of text messages to which you have subscribed.  The simplest way to opt-out of receiving text messages is to reply “Stop” to any text message you receive from us.  We will implement your request as soon as reasonably practical but no later than 30 days from the date of such request.
 
-If you have difficulties with our newsletter and e-mail subscription service, please use our [contact us](https://web.archive.org/about/contact/) page to write us and let us know about your issue. DaVita Customer Service will help resolve your issue, typically in three (3) to five (5) business days.
+If you have difficulties with our newsletters, emails or texts that you cannot address as described above, please see the contact information in the “Questions, Complaints and Contacts” section below and let us know about your issue. 
 
-In some cases, when you click on a link or an advertisement on our websites, or in an e-mail or newsletter we send you, your browser may be momentarily re-directed to the website of a third party which, acting at the request of DaVita, notes or "counts" your response to the e-mail or newsletter before re-directing your browser to the link you selected. This re-direction process may not be apparent to you, and we only use this process for counting overall responses.
+**Other Information Sent to DaVita**
 
-#### E-mails you send to DaVita
+Other than Personal Information to which this Privacy Policy pertains, any content, business information, ideas, concepts, or inventions that you send to DaVita by email or other electronic means may be publicly disclosed and used by DaVita.  If you want to keep content or business information, ideas, concepts, or inventions private or proprietary, do not send them to DaVita.  We try to answer every email within five (5) business days, but are not always able to do so.
 
-This Online Privacy Policy does not apply to content, business information, ideas, concepts, or inventions that you send to DaVita by e-mail. If you want to keep content or business information, ideas, concepts, or inventions private or proprietary, do not send them in an e-mail to DaVita. We try to answer every e-mail within 48 business hours, but are not always able to do so. DaVita’s website and email correspondence with you is for informational purposes only and is not intended to be a substitute for medical advice from a physician. Please check with a physician if you need a diagnosis and/or for treatments or information regarding your specific condition.  If you are experiencing urgent medical conditions, call 9-1-1.
+**Email-a-Page**
 
-#### E-mail a page
+If you use our “Email-a-Page” service to tell another person about our sites, we will ask you for your name and email address and your friend's email address.  We will automatically send your friend a one-time email inviting him or her to visit the sites using your name and email address as the "from" email address.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.  We will only use the information you provide to send the email you request.
 
-If you use our E-mail a Page service to tell a friend about our websites or newsletters, we will ask you for your name, your e-mail address, and your friend's e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit the site using your name and e-mail address as the "from" e-mail address.  DaVita does not use your name, your e-mail address or your friend's e-mail address for any other purpose.  We will only use the information you provide to send the e-mail you request. 
+**Communities, Blogs, and Other Public Forums**
 
-#### Community, health communities, blogs and other public forums
+DaVita’s sites may feature public forums or other community areas where users with similar interests or medical conditions can share information.  We may also offer moderated on-line discussions.  Such communities and discussions are for informational purposes only and do not constitute medical advice.  These communities and discussions are open to the public and should not be considered private.
 
-DaVita websites feature several community areas and other public forums where users with similar interests or medical conditions can share information and support one another, or where users can post questions for knowledgeable DaVita team members to answer. We also offer online discussions moderated by medical or healthcare experts. Our communities and public forums are open to the public and should not be considered private.
+Any information you choose to share in our on-line communities and discussions is, by design, open to the public and is not private; therefore, you should think carefully before sharing any Personal Information or information about your health.  What you share can be seen, disclosed to, or collected by third-parties and may be used by others in ways we cannot control or predict, including to contact you for purposes you have not authorized.
 
-Any information, including personal information and personal health information, you choose to share in our online community areas (e.g., a forum, expert Q&A posting, reviews, or online discussion) is by design open to the public and is not private. You should think carefully before posting any personal information or personal health information in ours or any other public forum. What you post can be seen, disclosed to, or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for purposes you have not authorized. As with any public forum, on any site, the information you post may also show up in third-party search engines like Google, Yahoo, MSN, Bing, etc.. 
+**Linking**
 
-#### Children’s privacy
+As a resource to users of our sites, DaVita may provide links to other unaffiliated websites.  DaVita, however, cannot guarantee the policies or standards used by such third-party websites.  DaVita does not endorse, nor is it responsible for, the content of, or the privacy practices employed by, any non-DaVita websites. If you link to a third-party website from a DaVita site, information you provide on the third-party website is not subject to this Privacy Policy or any other DaVita policy.  You should consult the privacy policies of each website you visit.
 
-DaVita’s websites are intended for adults, age 18 and older, and are not intended to attract children. DaVita will not collect personal information from any person we actually know to be under 18 years old.
+**Social Media**
 
-#### How to contact us if you have a question or complaint
+DaVita’s sites may use social media plugins to enable you to easily share information with others.  When you visit a website, the operator of the social plugin can place a cookie on your computer enabling that operator to recognize individuals who have previously visited our sites.  If you are logged into the social media website while browsing our sites, the social plugins allow that social media website to receive information that you have visited our sites.  The social plugins also allow the social media website to share information about your activities when using our sites with other users of their social media website.  DaVita does not control any of the content from the social media plugins.  For more information about plugins from other social media websites you should refer to those websites' privacy policies.
 
-If you have a question about DaVita’s Online Privacy Policy, wish to make a complaint, or believe that your rights under this Online Privacy Policy may have been violated, you may click on the [contact us](https://web.archive.org/about/company/?id=937) link on the bottom of most DaVita web pages or contact us using the information below.
+DaVita reserves the right to edit or remove any post or user for any reason or no reason.  For example, we may edit comments for content, remove off-topic contributions, delete offensive material, block offensive contributors, and delete suspected spam or non-complying content from any of our sites, such as forums, blogs, discussions or other communities, or social media sites.
 
-  * **DaVita.com Online Privacy  
-** 1551 Wewatta St.  
-Denver, CO 80202  
-Phone: (303) 405-2100   
-E-Mail: [onlineprivacy@davita.com](mailto:onlineprivacy@davita.com)
+**Child Privacy**
 
+DaVita’s sites are intended for adults age 18 and older, and are not intended to attract children.  DaVita will not knowingly collect Personal Information from any person we actually know to be under 13 years old.  If you are under the age of 13, do not use the sites or provide any information through the sites.
 
+**Access and Correction**
+
+You may correct, amend, or delete the Personal Information that we have in a registered account by logging into your account (for myDaVita go to [**https://www.davita.com/mydavita/account-settings**](https://www.davita.com/mydavita/account-settings)).  To delete your account or for other issues, use the contact information in the “Questions, Complaints and Contacts” section below. 
+
+**Your California Privacy Rights**
+
+**California Civil Code Section 1798.83, entitles California customers to request information relating to whether a business has disclosed Personal Information to any third-parties for the third-parties’ direct marketing purposes.  As explained elsewhere in this Privacy Policy, DaVita will not sell or transfer your Personal Information to third-party companies for their direct marketing purposes without your consent.  California customers who wish to request further information about our compliance with this statute or who have questions may contact us as described in the “Questions, Complaints and Contacts” section below.**
+
+**Changes to Privacy Policy**
+
+DaVita reserves the right to change this Privacy Policy at any time without notice, so check back frequently to review our current privacy practices.  Any changes we make to this Privacy Policy will be effective for any information we already have about you.  Your continued use of, or registration with, the sites means that you accept and agree to the current Privacy Policy.
+
+**Questions, Complaints and Contacts**
+
+If you have a question about DaVita’s Privacy Policy, wish to make a complaint, or believe that your rights under this Privacy Policy may have been violated, you may contact us by clicking on the [contact us](https://www.davita.com/about/help-center/) link or by using the information below.
+
+**DaVita Privacy    
+**Attn: Chief Privacy Officer
