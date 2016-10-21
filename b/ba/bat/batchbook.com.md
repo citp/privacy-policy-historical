@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the batchbook.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501131540id_/http%3A//batchbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchbook.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021064728id_/http%3A//batchbook.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Batchbook
+# Privacy Statement — Batchbook
+
+[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
+[](http://www.export.gov/safeharbor/)
+
+BatchBlue Software has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the BatchBlue Software web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
 ### Safe Harbor Privacy Statement
 
-For personal information of customers and their contacts that BatchBlue receives from the European Economic Area and Switzerland, BatchBlue has committed to handling such personal information in accordance with the Safe Harbor Privacy Principles. We are a self-certifying member of the U.S.-European Union and the U.S.-Switzerland Safe Harbor Frameworks and adhere to the Safe Harbor Privacy Principles. Details of our registration can be found here: [ BatchBlue’s Safe Harbor Company Profile](http://safeharbor.export.gov/companyinfo.aspx?id=16810). Under the laws of the United Kingdom, we are a “data controller” in respect of the personal Information of our members but not in respect to people in your Batchbook account (the “Data”) where we act as a “data processor.”
+For personal information of customers and their contacts that BatchBlue receives from the European Economic Area and Switzerland, BatchBlue has committed to handling such personal information in accordance with the Safe Harbor Privacy Principles. We are a self-certifying member of the U.S.-European Union and the U.S.-Switzerland Safe Harbor Frameworks and adhere to the Safe Harbor Privacy Principles. Details of our registration can be found here: [BatchBlue’s Safe Harbor Company Profile](http://safeharbor.export.gov/companyinfo.aspx?id=16810). Under the laws of the United Kingdom, we are a “data controller” in respect of the personal Information of our members but not in respect to people in your Batchbook account (the “Data”) where we act as a “data processor.”
 
 ### Information We Collect
 
