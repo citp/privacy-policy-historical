@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invoicehome.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413191840id_/https%3A//invoicehome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoicehome.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021170822id_/https%3A//invoicehome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Invoice Home
 
