@@ -1,65 +1,67 @@
-> *The following text is extracted and transformed from the googleoutlook.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626194816id_/http%3A//googleoutlook.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleoutlook.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021200347id_/http%3A//googleoutlook.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-("We") commit ourselves to protecting and respecting your privacy when visiting our website.
+Welcome to www.googleoutlook.com We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.googleoutlook.com (collectively, “Services”) (“Authorized Customers”).
 
-This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting [Website Value Calculator].  Please read the following information to understand our practices with regards to your personal data and how we will treat it.
+ **“Personally Identifiable Information”**
 
-[For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon inquiry by email.]
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-INFORMATION WE MAY COLLECT FROM YOU
+[cialis lowest price ](http://buy-cheap-pills-order-online.com/2016/02/28/buy-cheapest-cialis-online/) **What Personally Identifiable Information is collected?**
 
-We may collect and process the following data about you:
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-Any information that you provide by filling in forms on our site.  This includes provided information at the time of registering to use our site, posting material, requesting further services or subscribing to any service offered by us on the site.  We might also request further information and if you should report a problem with our site. 
+ **What organizations are collecting the information?**
 
-We may keep a record of any correspondence if you should contact us.
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-Details of the resources you access and of your visits to our site
+[lowest price cialis 20mg ](http://buy-cheap-pills-order-online.com/2016/02/28/buy-cheapest-cialis-online/) **How does the Site use Personally Identifiable Information?**
 
-Details of transactions you may carry out through our site and of the completion of your orders.
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-IP ADDRESSES AND COOKIES
+ **With whom may the information may be shared?**
 
-We may collect information about your computer; this is statistical data concerning your browsing actions and does not identify you individually.  This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers. 
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-We may also collect information about your general internet usage using cookie files stored on the hard drive of all computers.  The cookies contain valuable information that is transferred to your computers hard drive.  In collecting this information we are able to improve our site and deliver a better and more personalised service.
+ **How is Personally Identifiable Information stored?**
 
-You can refuse to accept cookies but note that in doing this you may be unable to access certain parts of our site.  You can do this by activating the setting on your browser which allows you to refuse the setting.
+Personally Identifiable Information collected by www.googleoutlook.com is securely stored and is not accessible to third parties or employees of www.googleoutlook.com except for use as indicated above.
 
-[Our advertisers may also use cookies but please note that we have no control over this]
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
-WHERE WE STORE YOUR PERSONAL DATA
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at info@googleoutlook.com
 
-Any data that we collect from you may be stored at, and transferred to, a destination outside the European Economic Area (EEA).  This data may also be processed by staff that operates outside the EEA working us or one of our suppliers.  In submitting your personal data, you agree to such a transfer and the storing and processing of this data.  To ensure that your data is treated securely and in accordance with this privacy policy we will endeavor to take all reasonable necessary steps in protecting your privacy.
+ **Are Cookies Used on the Site?**
 
-We will do our best to protect your personal data, unfortunately, the transmission of information over the internet is not entirely secure and we cannot guarantee the security of data transmitted to our sites.  Any transmission of data is at your own risk.
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-USES MADE OF THE INFORMATION
+ **How does [Business Name] use login information?**
 
-We use the information held about you in the following ways:
+[Business Name] uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-To notify you of any changes to our service.
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or **Authorized Customers on the Site?**
 
-To ensure that the content of our site is presented in the most effective manner for you and your computer.
+www.googleoutlook.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you.
+ **How does the Site keep Personally Identifiable Information secure?**
 
-To allow you to participate in interactive features of our service, should you choose to do so.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-In allowing ourselves to carry out our obligations concerning any contracts entered into between you and us.
+ **[How can Visitors correct any inaccuracies in Personally Identifiable Information?](http://lavishtrend.com/contact-us/) [cytotec where to buy quickly](https://generic-pills-online.com/buy-cytotec-online/)**
 
-We may also use your data to inform you and provide information on goods and services that may be of interest to you.  [We may also permit selected third parties to use your data for the same reason.]
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at info@googleoutlook.com
 
-If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data.
+ **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
-[We do not disclose information which will identify individuals to our advertisers.  We may however provide them with collective information about our users.  We may also use collective data to help our advertisers reach their target audience.  The data collected may also be used by us in order to comply with our advertiserÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s wishes in displaying their advertisement to their target audience.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-DISCLOSURE OF YOUR INFORMATION
+ **What happens if the Privacy Policy Changes?**
 
-[As defined in section 736 of the UK Companies Act 1985 we may disclose your personal information to any member of our group.  These include our subsidiaries, our ultimate holding company and its subsidiaries.
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-THIRD PARTY WEBSITES
+[buy cialis black ](http://buy-cheap-pills-order-online.com/2016/02/28/buy-cheapest-cialis-online/) **Links:**
 
-From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data.  We cannot accept any responsibility or liability for these policies.
+[buy brand viagra in mexico](https://generic-pills-online.com/brand-viagra-onine/)
+
+www.googleoutlook.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
