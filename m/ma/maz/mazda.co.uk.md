@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423192849id_/http%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021123033id_/https%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -10,7 +10,7 @@ The protection of your privacy in the processing of your personal data is an imp
 
 When you visit our web sites, our web server automatically records the name of your internet service provider, the web site from which you visit us, the web sites you actually visit and the date and length of your visit. Additional personal data is only stored if volunteered by you, for example in the context of a registration, survey, contest, or in execution of a contract.
 
-It should be noted that social plug-ins on the web site such as Facebook directly submits data to us of those logged-in users to the server and also user data of visitors who are not Facebook members. A link to the Facebook private policy is attached for your information <http://www.facebook.com/policy.php>
+It should be noted that social plug-ins on the web site such as Facebook directly submits data to us of those logged-in users to the server and also user data of visitors who are not Facebook members. A link to the Facebook private policy is attached for your information [//www.facebook.com/policy.php](https://www.facebook.com/policy.php)
 
 ### Use and disclosure of personal data and purpose specification
 
@@ -70,7 +70,7 @@ The following Category 2 cookie is used on this website:
   * Google Analytics: _utma /_utmt / _utmb /_utmc /_utmz / utmv
 
 
-  * Click [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google
+  * Click [here](https://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google
 
 
 
@@ -124,13 +124,13 @@ Select the web browser you're using below for information on amending your cooki
 
   * #### [ Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
 
-  * #### [Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
+  * #### [Firefox](https://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
 
-  * #### [Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
+  * #### [Internet Explorer](https://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)
 
-  * #### [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+  * #### [Opera](https://www.opera.com/browser/tutorials/security/privacy/)
 
-  * #### [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/11471.html)
+  * #### [Safari](https://docs.info.apple.com/article.html?path=Safari/5.0/en/11471.html)
 
 
 
@@ -138,6 +138,6 @@ Select the web browser you're using below for information on amending your cooki
   
 If you do deactivate cookies it may mean some of the website features become disabled. Even with all cookies disabled, a tiny amount of information will continue to be retrieved from your web browser. This information is necessary for the basic functioning of our website.
 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/)  or [www.allaboutcookies.org](http://www.allaboutcookies.org/) .
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](https://www.aboutcookies.org/)  or [www.allaboutcookies.org](https://www.allaboutcookies.org/) .
 
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout> .
+To opt out of being tracked by Google Analytics across all websites visit [//tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) .
