@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522231320id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021081019id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Markee Dragon Game Codes,Markee Dragon News,Dragon Media Entertainment LLC -Privacy Policy | Markee Dragon News
 
