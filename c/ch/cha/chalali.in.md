@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chalali.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212846id_/http%3A//www.chalali.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalali.in privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021193142id_/http%3A//www.chalali.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Chalali
+# Privacy Policy - Chalali Chalali
 
 Chalali.in (the “Site”) respects your privacy. Here’s our privacy policy for this Site:
 
