@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the poshonabudget.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615032037id_/http%3A//poshonabudget.com/privacy-policy-ftc-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshonabudget.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021173628id_/http%3A//poshonabudget.com/privacy-policy-ftc-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy/ FTC Disclosure
-
-[ ](https://www.linksalpha.com/social/mobile)
 
 ### Your privacy  
 
@@ -37,6 +35,4 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.
 
-[](https://www.pinterest.com/pin/create/button/)
-
-(Visited 229 time, 4 visit today)
+r
