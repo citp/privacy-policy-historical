@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608123711id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021134451id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,10 +69,10 @@ Inked Shop may share Usage Information and Demographic Information with third pa
 When you receive promotional emails from us, you may indicate a preference to stop receiving such communications from us and you will have the opportunity to "opt-out" by following the instructions in the applicable email.  When you receive promotional text messages from us, you have the opportunity to "opt-out" by texting "STOP" to the number set forth in the Inked Shop Terms of Use or in your sign-up materials, or by following any unsubscribe instructions in the applicable text message. If we contact you by telephone for promotional purposes, you may notify us at that time if you do not wish to receive further promotional telephone communications. Note that if you've provided multiple forms of contact information at different times, you may have to opt out for each set of contact information that you have added to your account. If you don't want to reply to an e-mail or text message you receive, or want a simpler way to opt out of receiving e-mails or text messages from us, you can just tell us what you want by contacting:
 
 Inked Shop  
-12 West 27th Street  
-Floor #10  
-New York, NY 10001  
-646 454 9192
+174 Middletown Blvd  
+Suite 301  
+Langhorne, PA 19047  
+1-888-265-3590
 
 We may contact you for service-related purposes (such as, but not limited to, notice that we have changed the Sites or the Privacy Policy) when we believe it necessary or advisable to do so. You may not opt out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate your account. You understand that any such termination of your account may involve deletion of your Personal Information from our live databases.  Inked Shop will not have any liability to you for any termination of your account or related deletion of your information.
 
@@ -105,9 +105,9 @@ Inked Shop reserves the right to change this Privacy Policy at any time without 
 Contact Us
 
 Inked Shop’s mailing address Inked Shop  
-12 West 27th Street  
-Floor #10  
-New York, NY 10001  
-646 454 9192
+174 Middletown Blvd  
+Suite 301  
+Langhorne, PA 19047  
+1-888-265-3590
 
 This Privacy Policy was last updated August 8th, 2014.
