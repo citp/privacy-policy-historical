@@ -1,35 +1,49 @@
-> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317115402id_/http%3A//www.bloggingspell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021105511id_/http%3A//www.bloggingspell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogging Spell
 
-Blogging Spell is determined to serve the best user experience. To keep up our user consistency, we truly believe in their privacy. We realized how necessary is your privacy. In order to make you sure about our privacy policy, we have created this page. All the policies below are applied to each and every visitor to our blog.
+By viewing this website you agree to the following privacy and cookies policy. If you do not agree, you should leave this website immediately.
 
-## Which Data Do We Collect?
+**Cookies**
 
-Identification Info
+In an effort to be as transparent as possible we want you to be aware that we use cookies on this website; cookies are small text files that are sometimes stored on your computer when you visit a website.
 
-It’s true that we collect personal and non-personal details of our interacting users. We have set up forms for joining mailing lists, contacting admin, feed subscribe and so on. Through these forms, we always try to store the legal personal information.
+Cookies can be used for a variety of purposes that include; saving information you’ve entered so you don’t have to enter it multiple times, use of analytics software to monitor the usage of websites, improve the experience of a website, affiliate promotions, social sharing buttons and the serving of targeted advertisements etc.
 
-On the other side, we also collect non-personal information like Internet Protocol (IP), Internet Service Provider (ISP), Browser Type, Location, Time, Date and a few similar info for ensuring higher usability. We keep them very safely that no one could ever approach to the lend.
+We don’t use persistent cookies or cookies that can harm your computer and our reason for using cookies is to enhance your experience on this website and to allow us to continue providing this website into the future.
 
-Browser Cookies
+The use of cookies on this website may employ the following cookies (but is not limited to) –
 
-We may use web browser cookies for enhancing the user experience. We mainly use cookies to store some appropriate information and preferences about the visitors. But we should ensure you that we have no control over your cookies. So we promise, there won’t be any problem at all.
+**(1)**  Social Sharing – these allow us to give you the ability to share content from this website on popular social networks, including but not limited to – Facebook, Twitter, Google Plus, Pinterest and Digg.
 
-However, if you still want not to use cookies, you may do so with your browser. You can simply disable cookies from your browser settings and that’s all.
+**(2)**  Commenting – at some point on our site you may see the option to leave comments, at times we may use tools that enables us to enhance the user experience, a good example is Disqus which is a commenting system that enables social interactions and other useful functions.
 
-## How Do We Utilize Collected Data?
+**(3)**  Advertisements – we provide a variety of advertisements which may or may not use cookies to display related targeted ads based on the content within a page on our site, an example of this is Google Adsense and the DoubleClick DART Cookie, for more detailed information in regards to this particular method of advertising please see the privacy section further on in this document.
 
-We mainly collect data for the purpose of enhancing browsing experience. We try to keep our website fast and secure, provide easy navigation, make our visitors bound to give good feedback. We will collect your submitted name, email and other information to outreach you when required. We would email you for further update, notice, offers, products and services.
+**(4)**  Analytics – to help provide us with valuable information on how visitors use our website, we employ the use of analytics software which relies on the use of cookies, this includes (but is not limited to) services such as Google Analytics, Piwik Analytics and Clicky analytics. Analytics tools help us understand how visitors use our website, and improve our user experience accordingly.
 
-Thus we believe, we will never spam you through the collected data. We only use these if there is no alternative of it.
+**(5)**  Affiliate promotions – within this website you may encounter links to services that are considered as affiliate promotions. If you click on an affiliate link and you make a purchase through the particular website, then we may or may not receive a small amount of commission as a result. Please be aware that these affiliate links may utilize a cookie file that allows the vendor of the affiliate program to track where their sales are originating from.
 
-## How is Our Privacy Protection?
+You should assume that all links are affiliate links. That said, we only recommend products/services that we believe you will value from. We recommend that you do your due diligence before purchasing anything. By purchasing via our affiliate links you’re helping us to continue running this site and delivering helpful information. Any purchases via our affiliate links will be at no additional cost to you.
 
-We store all the user data that there is no chance to get into the edge of it. We keep all the information on a directory and strictly shield these. And we never think about sharing the information to any business or to third party websites. So we wish that you heartily believe us.
+**(6)**  Google Custom Search – we may at times employ the use of Google’s custom search engine, which works in a similar method to their Adsense service, for more information on that please see the privacy policy section further on in this document.
 
-## Should You Follow The Policies?
+**(7)** Facebook Tracking Pixel – we use Facebook’s tracking pixel for use with remarketing activities. This allows us to share offers and content with you via Facebook.
 
-We keep consistent user experience, so you are bound to follow all the policies. Violating our privacy policies would result in your end of using this site. We request you, if you are not gonna follow these, you can leave. But we promise, our privacy policy is for your safety. We are eagerly looking forward to your kind assistance.
+**Privacy Policy** **  
+**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**For Further Information About Privacy Policy, You Should[Contact Us](http://www.bloggingspell.com/contact.html "Contact").**
+**Our Commitment To Children’s Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+
+Under our Terms of Service, children under 18 are not allowed to access our service.
+
+**Collection of Personal Information**  
+When visiting our website, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+**Changes to this Policy**  
+The contents of this policy may be altered at any time, at our discretion and without notice.
