@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekandsundry.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330064636id_/http%3A//geekandsundry.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekandsundry.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022010323id_/http%3A//geekandsundry.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek and Sundry
 
@@ -61,13 +61,7 @@ Please take some time to familiarize yourself with the different ways Geek & Sun
   3. Updates and Newsletters. We use Personally Identifiable Information collected when you sign-up for our various email, newsletter or update services to send you the messages and newsletters that you request us to send.
   4. Participation in Contests, Sweepstakes and Other Promotions. We use the Personally Identifiable Information that we collect from you when you participate in a contest, sweepstakes, or other promotion through the Website for processing purposes and in connection with Winner’s lists. For instance, when a Promotion involves a users’ uploading of User Content to the Website, we may use the Metadata associated with that User Content in order to identify the source of the content and to increase its visibility for the purposes of the Promotion.
   5. Communications with Geek & Sundry. When you send us an email message or otherwise contact us, we may use the information provided by you to respond to your communication and/or as described in this Privacy Policy.
-  6. Our Store. Our store is hosted by Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. If you intend to use our store, you should read Shopify’s Terms of Service and Privacy Statement. 
-
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. Your credit card data is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS) managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall. Shopify stores your purchase transaction data only as long as is necessary to complete your purchase transaction, after which your purchase transaction information is deleted.
-
-Other third parties, including payment gateways and other payment transaction processors, may be involved in completing your transaction. These third parties have their own privacy policies with respect to the information we are required to provide to them in connection with your transaction. You should read their privacy policies so that you can understand how they will be handling your personal information. All direct payment gateways adhere to the PCI-DSS standard. Certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
-
-Here is a list of cookies that we use in connection with our store. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not:
+  6. Our Store. Our store is hosted by Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. If you intend to use our store, you should read Shopify’s Terms of Service and Privacy Statement.If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. Your credit card data is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS) managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall. Shopify stores your purchase transaction data only as long as is necessary to complete your purchase transaction, after which your purchase transaction information is deleted.Other third parties, including payment gateways and other payment transaction processors, may be involved in completing your transaction. These third parties have their own privacy policies with respect to the information we are required to provide to them in connection with your transaction. You should read their privacy policies so that you can understand how they will be handling your personal information. All direct payment gateways adhere to the PCI-DSS standard. Certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.Here is a list of cookies that we use in connection with our store. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not: 
 
 _session_id, unique token, sessional. Allows Shopify to store information about your session (referrer, landing page, etc).  
 _shopify_visit, no data held. Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
@@ -126,8 +120,8 @@ The Website is a general audience web site and we do not knowingly collect any P
 
 If you have any questions or comments about this Privacy Policy or our Website, please contact us:
 
-Email: info@geekandsundry.com  
-Phone: (818)333-9000  
+Email: info@geekandsundry.com
+
 Address:  
-2525 Naomi St  
+2525 Naomi Street  
 Burbank, CA 91504
