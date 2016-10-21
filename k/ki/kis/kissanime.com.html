@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the kissanime.com privacy policy that was archived on 2016-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160423091519id_/https%3A//kissanime.to/Message/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kissanime.com privacy policy that was archived on 2016-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161021133315id_/http%3A//kissanime.to/Message/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
 	Privacy Policy
 
 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="fb:admins" content="100006233868825"><meta property="fb:app_id" content="130397647116314">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/jquery17.min.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/jquery17.min.js"></script>
 <!-- CSS -->
 <link href="/Content/css/tpl_style.css?v=5" rel="stylesheet" type="text/css">
 <link href="/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
@@ -24,9 +24,9 @@
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date(); a = s.createElement(o),
   m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-1712467-18', 'auto');
+    ga('create', 'UA-1712467-21', 'auto');
     ga('send', 'pageview');
 
 </script>
@@ -41,9 +41,9 @@
 <div style="position: relative; text-align: right; margin: -40px 46px 20px 0px; font: bold 13px Arial;">
     
     <div id="topHolderBox" style="width: 230px; height: 30px;">
-        <img src="https://kissanime.to/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-        Please <a href="https://kissanime.to/Login">login</a>
-        or <a href="https://kissanime.to/Register">register</a>
+        <img src="http://kissanime.to/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
+        Please <a href="http://kissanime.to/Login">login</a>
+        or <a href="http://kissanime.to/Register">register</a>
     </div>
     
 </div>
@@ -52,7 +52,7 @@
                     <form id="formSearch" method="post">
                     <p>
                         <input style="width: 250px" id="keyword" name="keyword" value="" class="text" autocomplete="off">
-                        <input id="imgSearch" type="image" src="https://kissanime.to/Content/images/search.png" class="button" onclick="return false;">
+                        <input id="imgSearch" type="image" src="http://kissanime.to/Content/images/search.png" class="button" onclick="return false;">
                     </p>
                     <div id="result_box" style="display: none; left: 57px; margin-top: -3px; max-height: 300px; overflow-y: auto; overflow-x: hidden;">
                     </div>
@@ -72,8 +72,8 @@
                         </div>
                     </div>
                     <div style="margin: 10px 48px 10px 0">
-                        <a href="https://kissanime.to/AdvanceSearch">
-                            <img src="https://kissanime.to/Content/images/read.png" width="16px" border="0" style="vertical-align: middle">&nbsp;&nbsp;Advanced
+                        <a href="http://kissanime.to/AdvanceSearch">
+                            <img src="http://kissanime.to/Content/images/read.png" width="16px" border="0" style="vertical-align: middle">&nbsp;&nbsp;Advanced
                             Search</a>
                     </div>
                     </form>
@@ -116,9 +116,11 @@
                             $("#formSearch").attr('action', "/Search/Anime");
                             $("#formSearch").submit();
                         }
-                    }                    
+                    }
 
                     function Suggest() {
+                        //return;
+
                         var keyword = $.trim($('#keyword').val());
                         if (keyword != "" && $.trim($('#keyword').val()).length > 1) {
                             $('#result_box').html("<span id='loader'></span>");
@@ -126,7 +128,7 @@
                             $.ajax(
                             {
                                 type: "POST",
-                                url: "/Search/SearchSuggest",
+                                url: "/Search/SearchSuggestx",
                                 data: "type=Anime" + '&keyword=' + keyword,
                                 success: function (message) {
                                     if (message != "") {
@@ -149,7 +151,7 @@
                 </script>
             </h3>
             <h1>
-                <a href="https://kissanime.to" title="KissAnime.to - High quality anime online" class="logo">KissAnime.to</a></h1>
+                <a href="http://kissanime.to" title="KissAnime.to - High quality anime online" class="logo">KissAnime.to</a></h1>
         </div>        
         <!-- end div head -->
         <div class="clear">
@@ -159,8 +161,8 @@
 <div id="navbar">
     <div id="navcontainer">
         <ul>
-            <li id="liHome"><a href="https://kissanime.to">Home</a></li>
-            <li id="liDS"><a href="https://kissanime.to/AnimeList">Anime
+            <li id="liHome"><a href="http://kissanime.to">Home</a></li>
+            <li id="liDS"><a href="http://kissanime.to/AnimeList">Anime
                 list</a></li>
             <li id="li1"><a target="_blank" rel="nofollow" href="http://kisscartoon.me">Cartoon list</a></li>
             <li id="liMobile"><a href="/M">MOBILE</a></li>
@@ -263,12 +265,16 @@
         
     </div>
     
+
+<script type="text/javascript" src="//go.pub2srv.com/apu.php?zoneid=706755"></script>
+
+
     <div id="footer" style="top: 74px;">
         <div id="footcontainer" style="position: relative">
             <p>
                 <a href="/">KissAnime.to</a>. Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. 
 
-<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/ReportError">Contact us</a>&nbsp;|&nbsp;<a href="http://kisscartoon.me/">Watch cartoons online</a>&nbsp;&nbsp;</p>               
+<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/DMCA">DMCA</a>&nbsp;|&nbsp;<a href="/Message/ReportError">Contact us</a>&nbsp;|&nbsp;<a href="http://kisscartoon.me/">Watch cartoons online</a>&nbsp;&nbsp;</p>               
         </div>
     </div>
     <script type="text/javascript">
