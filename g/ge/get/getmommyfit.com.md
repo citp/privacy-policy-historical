@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmommyfit.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423075518id_/http%3A//getmommyfit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmommyfit.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021122929id_/http%3A//getmommyfit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Get Mommy Fit
 
