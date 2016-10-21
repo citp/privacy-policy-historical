@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tns-global.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193325id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tns-global.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021114853id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | TNS Global
 
@@ -92,12 +92,6 @@ By using our website, you agree that we can place these types of cookies on your
 ## Transferring information
 
 You consent to us transferring your personal data to other companies in and out of the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal information is kept confidential and secure.
-
-## Safe Harbor
-
-TNS legal entities in the United States comply with the U.S. -E.U. and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland. To view the TNS certification on the Safe Harbor list or to learn more about the Safe Harbor programs principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, please visit <http://www.export.gov/safeharbor>.
-
-If you have questions or concerns regarding our compliance with the U.S. E.U. and U.S. Swiss Safe Harbor framework, you should first contact [enquiries@tnsglobal.com](mailto:enquiries@tnsglobal.com). If you do not receive acknowledgement of your inquiry in 30 days, or your inquiry has not been satisfactorily addressed, you have the option to contact American Arbitration Association (AAA), our third party Safe Harbor dispute resolution provider, register and file a claim at <https://apps.adr.org/webfile/>.
 
 ## Miscellaneous 
 
