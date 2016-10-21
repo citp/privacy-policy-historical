@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remembering.ca privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630155419id_/http%3A//www.legacy.com/ns/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remembering.ca privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021084935id_/http%3A//www.legacy.com/ns/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
