@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesezodiachoroscope.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610063146id_/http%3A//www.chinesehoroscope.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesezodiachoroscope.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021212357id_/http%3A//www.chinesehoroscope.org/legal/privacy.html) for the most accurate reproduction.*
 
 # None
 
