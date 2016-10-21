@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624022838id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021225700id_/http%3A//www.getty.edu/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Getty
 
@@ -44,6 +44,9 @@ You can view ArtBound: New Books from the Getty online, without submitting your 
 
 You may stop receiving e-newsletters at any time. Follow the "unsubscribe" link in the footer of any newsletter.
 
+**On Demand Text Messages**  
+From time to time we may invite visitors with SMS-enabled mobile devices to request information or offers by texting a keyword to a short code, for example, "To access a mobile phone tour of Sample Exhibition, text _sample_ to 12345." If you respond to this kind of call to action, we will immediately send you a one-time text message with the information you requested. We will not send you recurring text messages, and we will not retain your information any longer than reasonably necessary to fulfill your request. We will never share your information with any third parties.
+
 **Getty Bookmarks**  
 To use the Getty Bookmark feature, you need to create an online account. Your e-mail address is used to identify your account and the associated bookmarks. The e-mail address tied to your account is stored on secure Getty servers and will not be used for marketing purposes or shared with anyone. We may occasionally use your e-mail address for purposes related to administration of your online account, such as sending service notices or password reminders.
 
@@ -59,17 +62,6 @@ You may contact us at [bookmarks@getty.edu](mailto:bookmarks@getty.edu) to reque
 To request a school visit to the Getty, you must submit information about yourself, your school, and the nature of your visit request. This information is used to help us accommodate school visit requests as equitably as possible. The information is recorded and stored in a database by our Education Department and may be used to contact you. We periodically send information to schools and teachers to notify them of additions to our Web site and of new educational programs at the Getty.
 
 If you no longer wish to receive mailings from the Education Department, please call the school line at (310) 440-7322.
-
-**TeacherArtExchange Listserv**  
-To use the TeacherArtExchange listserv on this site, you need to create an online account. Your e-mail address is used to identify your account. We will not use your e-mail for marketing purposes or share it with anyone.
-
-The TeacherArtExchange listserv takes place primarily over e-mail. Messages are also archived to our Web site, where they are available in perpetuity. As a subscriber to TeacherArtExchange, you can choose how often you wish to receive e-mail messages from other subscribers.
-
-We may occasionally send you e-mail for purposes related to administration of your online account, such as sending service notices or password reminders.
-
-Please note that information you submit to the TeacherArtExchange listserv is nonconfidential and nonproprietary. TeacherArtExchange is also an unmoderated list. This means that no one reads or edits the e-mail messages sent to TeacherArtExchange before they are distributed to subscribers and archived to our Web site. To protect your privacy, do not send any message to the TeacherArtExchange listserv that contains personally identifiable information such as your name, mailing address, or phone number. Please be advised that your e-mail client may send your username to our list along with your e-mail address. If you wish to remain anonymous, please make sure your e-mail username is not your actual name.
-
-You can [unsubscribe](https://web.archive.org/education/teacherartexchange/unsubscribe.html) from TeacherArtExchange at any time.
 
 **Cookies and Pixel Tags**  
 A cookie is a piece of data we store on your computer's hard drive. This data contains information about you that we use to help make your visit to the Getty website easier. For example, one cookie we may store can remember what kind of video capability you have selected, so that you do not have to choose a bandwidth every time you watch a video. In addition, we have authorized various reputable companies to help us track cookies so that we can analyze how people are using the Getty website in order to continually offer the best possible experience for our visitors. Pixel tags are small pieces of code that may place cookies or provide non personally-identifiable information such as IP address, time of website visit, or browser used.
