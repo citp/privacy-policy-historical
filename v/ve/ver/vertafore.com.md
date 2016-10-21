@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009103832id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021103534id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vertafore
 
-Updated: November 3, 2011
+Updated: December 11, 2014 
 
 This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may reference this policy or have site specific privacy policies.
 
@@ -20,15 +20,17 @@ Vertafore is committed to protecting the security of your personal information. 
 
 **Transfer of your Personal Information**
 
-Except as otherwise described in this statement, personal information you provide via the Site will not be sold or shared outside of Vertafore.
+Except as otherwise described in this privacy statement, personal information you provide via the Site will not be sold or shared outside of Vertafore.
 
 Vertafore may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Vertafore or the Site; (b) protect and defend the rights or property of Vertafore and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Vertafore employees or agents, users of Vertafore products or services, or members of the public.
 
- **Use of Cookies** The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer.
+**Use of Cookies**
+
+The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer. 
 
 Vertafore uses cookies to: 
 
-  * Recognize you so that you can log in to our Site and access your account information. 
+  * Recognize you so that you can log in to our Site and access your account information.
   * Evaluate how many people return to our Site and measure the traffic to various areas of the Site. 
   * Track the way you use our promotions, contests, and sales. 
   * Personalize a user’s experience on the Site and target our advertisements based on your current or previous use of our web site and any keywords you use on internet search engines to locate our Site. 
@@ -36,13 +38,15 @@ Vertafore uses cookies to:
 
 
 
+In addition to the cookies that Vertafore uses, third-party service providers may also set cookies when you visit the Site. In some cases, we use third-party service providers to provide functions or services on our behalf, such as credit card processing, business and marketing analytics, customer service, distribution of surveys or sweepstakes programs, or sending postal mail or e-mail. Third-party service providers have access to personal information about you that is needed to perform their functions, but may not use it for any other purpose. 
+
 **Choice of Future Communications**
 
-From time to time, Vertafore, Inc. and its controlled subsidiaries and affiliates may send you information about product and service offerings that may be of interest to you. At such a time, you will be given an opportunity to opt-out of future communications.
+From time to time, Vertafore may send you information about product and service offerings that may be of interest to you. At such a time, you will be given an opportunity to opt-out of future communications.
 
 **Protection of Children's Personal Information**
 
-Vertafore.com is intended for a general audience and we do not knowingly collect personal information from those under the age of 13.
+The Site is intended for a general audience and we do not knowingly collect personal information from those under the age of 13.
 
 **Changes to this Statement**
 
