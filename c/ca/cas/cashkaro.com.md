@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623091558id_/http%3A//cashkaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022012330id_/http%3A//cashkaro.com/privacy-policy%3Futm_source%3Dfooter%26utm_medium%3Dprivacycookiepolicy%26utm_campaign%3Dfooter-links) for the most accurate reproduction.*
 
-# Privacy Policy of CashKaro
+# None
 
 Cashkaro.com (“website”, “our website”, “site”) is operated by Pouring Pounds Ltd (“We”, “Our”, “Company”).
 
