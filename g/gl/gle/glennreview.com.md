@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glennreview.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610091430id_/http%3A//glennreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glennreview.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021084319id_/http%3A//glennreview.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY - BEST JVZOO REVIEWS
 
