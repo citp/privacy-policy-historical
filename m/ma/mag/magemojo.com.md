@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magemojo.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423081636id_/https%3A//magemojo.com/magento/cms_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magemojo.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021210355id_/https%3A//magemojo.com/magento/cms_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
