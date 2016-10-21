@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427142616id_/http%3A//www.realscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021101442id_/http%3A//www.realscout.com/privacy) for the most accurate reproduction.*
 
 # RealScout - Personalized Home Search with More Data About Local Listings / RealScout
 
@@ -39,14 +39,14 @@ We may also obtain information from other sources and combine that with informat
 We may use information about you for various purposes, including to: 
 
   * Provide, maintain and improve our Services;
-  * Provide and deliver the information, products and services you request, process transactions and send you related information, including confirmations and invoices;
+  * Provide and deliver the information, products and services you request, process transactions and send you related information, including confirmations and invoices; 
   * Send you technical notices, updates, security alerts and support and administrative messages;
   * Respond to your comments, questions and requests and provide customer service;
-  * Communicate with you about products, services, offers, promotions, rewards, and events offered by RealScout and others, and provide news and information we think will be of interest to you;
-  * Monitor and analyze trends, usage and activities in connection with our Services; 
-  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by RealScout and others, and provide news and information we think will be of interest to you; 
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests; 
   * Process and deliver contest entries and rewards;
-  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and 
   * Carry out any other purpose for which the information was collected.
 
 
@@ -55,12 +55,12 @@ We may use information about you for various purposes, including to:
 
 We may share information about you as follows or as otherwise described in this Privacy Policy: 
 
-  * With real estate agents and other real estate service providers with whom your account is associated (e.g. who have invited you to join RealScout or with whom you have asked to be connected);
-  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
-  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
-  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of RealScout or others;
-  * In connection with, or during negotiations of, any merger, sale of RealScout assets, financing or acquisition of all or a portion of our business to another company; and
-  * With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
+  * With real estate agents and other real estate service providers with whom your account is associated (e.g. who have invited you to join RealScout or with whom you have asked to be connected); 
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf; 
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation; 
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of RealScout or others; 
+  * In connection with, or during negotiations of, any merger, sale of RealScout assets, financing or acquisition of all or a portion of our business to another company; and 
+  * With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information. 
 
 
 
@@ -109,4 +109,4 @@ If you have any questions or comments about this Policy, please contact us using
 RealScout, Inc.   
 480 Ellis St.  
 Mountain View, CA 94043  
-[hello@realscout.com](mailto:privacy@RealScout.com)
+[support@realscout.com](mailto:privacy@realscout.com)
