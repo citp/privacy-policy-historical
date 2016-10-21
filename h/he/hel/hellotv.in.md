@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellotv.in privacy policy that was archived on 2016-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160116210316id_/http%3A//hellotv.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellotv.in privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021042733id_/http%3A//hellotv.in/privacy) for the most accurate reproduction.*
 
 # Free Live TV | Latest Videos | Movies | Breaking News - HelloTV
 
