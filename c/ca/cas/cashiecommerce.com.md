@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the cashiecommerce.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325115429id_/http%3A//cashiecommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashiecommerce.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022011017id_/http%3A//cashiecommerce.com/privacy) for the most accurate reproduction.*
 
 # Cashie Commerce Privacy Policy
+
+**Announcement:** The Cashie Commerce service will be shutting down permanently on September 30, 2016.  
+You will no longer be charged for this service. Please take the necessary actions to move to an alternative service.
 
 This site (the "Site") is owned by Cashie Commerce, Inc., a Delaware corporation ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
