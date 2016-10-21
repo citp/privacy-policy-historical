@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the strongtie.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207140715id_/http%3A//www.strongtie.com/privacy.html%3Fsource%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongtie.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021025313id_/https%3A//www.strongtie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Simpson Strong-Tie
+
+#####  Posted 2/17/15
 
 We understand and respect your concerns about privacy. This notice describes our Privacy Policy that applies when you visit our website or any other website owned and operated by Simpson Strong-Tie Company Inc. (each, a “Website”), when you use the software made available through the Website or when you otherwise communicate with us. We want you to understand what types of information we collect and what may happen to that information. 
-
-Our Privacy Policy includes the following provisions, and you can jump to each by selecting the links below:
-
-  * User Accounts, Registration and Collection of Information
-  * Passive Collection of Information
-  * Collection of Information from Children
-  * Use of Information
-  * Third Party Websites
-  * Sharing of Information
-  * Security
-  * Email Opt-Out
-  * Amendments
-
-
 
 If you have questions or concerns regarding this Privacy Policy, you should contact us at [web@strongtie.com](mailto:web@strongtie.com). Alternatively, you may contact us at:
 
@@ -24,23 +12,35 @@ Simpson Strong-Tie Company Inc.
 5956 W. Las Positas Blvd.  
 Pleasanton, CA 94588
 
+#### USER ACCOUNTS, REGISTRATION AND COLLECTION OF INFORMATION 
+
 You are not required to create a user account or provide any personal information in order to visit our Website. You may be required to create a user account (or otherwise provide personal information), however, to download software, to receive literature or electronic communications or to take advantage of some of our services, such as saving your data from our software, web or mobile applications, or participating in customer forums and training. You must also register if we offer, and if you wish to enter, any surveys, contests or other promotions. During registration, you may be asked to provide certain categories of personally identifiable information, such as your name, address, email address and date of birth. We also collect information if you contact us for support or help or otherwise communicate with us. 
+
+#### PASSIVE COLLECTION OF INFORMATION
 
 In addition to the information that you provide to us discussed above, Simpson Strong-Tie collects information about how you interact with our Website. The types of passive information we collect include your IP address, which type of browser you are using, where you go on the Website and other information related to your Website use and traffic patterns. This passive information does not identify you to Simpson Strong-Tie by name, and Simpson Strong-Tie does not link your IP address to your personally identifiable information. Simpson Strong-Tie compiles aggregated data by combining information from many users, without including any information that could be used to identify you or anyone else by name. 
 
 We also, with respect to customers using Simpson Strong-Tie software, may collect information regarding the use of such software and we associate this information collected with the applicable customer so that we can deliver, operate and improve our software services. In this regard, we may collect information about your use of our software, such as what path you took to arrive at the software, what parts of the software you used the most, and other information related to your use of the software.
 
-In addition to the methods described above, we may also collect information using cookies, web beacons or other technologies. Cookies are small files placed on your hard drive that assist us in providing customized services; for example, the use of cookies allows us to reduce the frequency with which you will need to enter your password on password-protected areas of the Website. Additionally, in some cases, certain functionalities are only feasible through the use of a cookie. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website, you may be required to enter your password more frequently during a session, and you may be unable to install or use certain Simpson Strong-Tie software. Cookies and other technologies make our Website, software and services easier to use and help us customize and personalize your experience on such platforms based on your interests and activities. 
+In addition to the methods described above, we may also collect information using cookies, web beacons or other technologies. Cookies are small files placed on your hard drive that assist us in providing customized services; for example, the use of cookies allows us to reduce the frequency with which you will need to enter your password on password-protected areas of the Website. Additionally, in some cases, certain functionalities are only feasible through the use of a cookie. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website, you may be required to enter your password more frequently during a session, and you may be unable to install or use certain Simpson Strong-Tie software. Cookies and other technologies make our Website, software and services easier to use and help us customize and personalize your experience on such platforms based on your interests and activities.
+
+#### COLLECTION OF INFORMATION FROM CHILDREN
 
 We comply with the Children's Online Privacy Protection Act, which requires us to notify and obtain consent from a parent or guardian before we collect, use and disclose the personal information of anyone under 13 years of age. Simpson Strong-Tie will not knowingly collect any personal information from young people under the age of 18, unless Simpson Strong-Tie provides notice that such information is being collected and obtains verifiable parental consent.
 
+####  USE OF INFORMATION 
+
 Simpson Strong-Tie uses the information you provide to deliver, operate and improve our Website, software and services. We may also use your contact information to respond to your inquiries, to provide customer support and to supply any products or services you have requested. If you choose to receive email messages related to the products or services available through the Website, the information you provide will be used for those purposes. You may also opt in to receive communications from (i) other businesses that use our software to market and sell their products and services, (ii) our dealers and distributors, or (iii) from builders or other service providers that use Simpson Strong-Tie® products. If you order literature or request information through our Website, software or services, you may be contacted by us or a third party to follow up on your request. If you download software, we may contact you to inform you that updates are available or with other pertinent information. If you sign up for workshops or training, we may contact you to provide related information. Simpson Strong-Tie strives to provide useful information about its products and services to its customers, and we may also contact you for other reasons if you are a customer or create a user account. We will not, however, use the information you provide to contact you unless you request to participate in such programs or provide consent to be contacted. 
 
-Because we use the information we collect to measure and improve our Website, products, software and services, we may also contact you occasionally to obtain feedback from you through customer surveys, but you are not obligated to participate in such surveys if you do not wish to do so. 
+Because we use the information we collect to measure and improve our Website, products, software and services, we may also contact you occasionally to obtain feedback from you through customer surveys, but you are not obligated to participate in such surveys if you do not wish to do so.
+
+#### THIRD PARTY WEBSITES 
 
 We participate in joint marketing, strategic partnerships, and other service offerings with non-affiliated third parties. Our Website contains links to third-party sites, and third parties may provide you with an opportunity to install our software, or access our software as a service, from or through their websites. For example, our software may be made available to you as a service if you choose to participate in services made available through certain third-party websites. If you choose to use such software, we provide such third parties with access to the information we collect. In addition, if you are shopping or reviewing product information on a third-party website, you may be provided with the opportunity to download and install our software or you may be redirected to our software or provided with access to our software. These third parties may also collect information from you in connection with your use of our software or otherwise. For example, if you request product information or commence a purchase transaction in connection with your use of our software, a third party may contact you or otherwise use your information in connection with such request or transaction. 
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of the information you disclose to them. This Privacy Policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Please check the privacy policy at each site you visit.
+
+#### SHARING OF INFORMATION
 
 If you request or consent to be contacted by a third party that is offering products or services in conjunction with Simpson Strong-Tie, we will provide that third party with your personally identifiable and other information so that they can contact you. From time to time, we may request your permission to provide third parties with your personally identifiable information for various purposes, including allowing such third parties to contact you about products and services in which you may be interested. If you consent to such disclosure, we may provide your personally identifiable and other information to such persons for such purposes. We will not, however, share your contact information with any third parties unless you ask us to do so or provide consent for the disclosure. Simpson Strong-Tie may share aggregated data and related usage information with third parties, but this aggregate information does not contain any personal information which can identify you or any other individual user. We do not control how third parties disclose or use the information we share with them. 
 
@@ -50,14 +50,20 @@ In the event that we, our parent company or certain of our assets or our parent'
 
 While Simpson Strong-Tie strives to protect the personal information of our users, Simpson Strong-Tie will release personal information if required by law or in the good-faith belief that such action is necessary. Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect as a result of your use of our Website, products, software or services. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
 
+#### SECURITY
+
 Simpson Strong-Tie has security measures in place to protect against the loss, misuse and/or unauthorized alteration of the information under our control or under the control of our service providers. Your personally identifiable information is protected by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored. Your user account information is kept on a secured server behind a firewall. Our staff is trained to comply with our security procedures, and our security procedures are regularly reviewed and revised, if necessary.
+
+#### EMAIL OPT-OUT
 
 If you have consented to our disclosure of your personally identifiable information as set forth above, but later wish to opt out and withdraw such consent, you may do so by contacting us at [web@strongtie.com](mailto:web@strongtie.com). However, if you wish to stop receiving communications from a third party to whom we provided your information prior to your withdrawal of consent, you must contact that third party directly, as we have no control over their communications or use of your information. Please take this into consideration before consenting to our disclosure of your information to such third parties.
 
 If you have signed up to receive Simpson Strong-Tie's commercial email and would like to avoid receiving such email in the future, you may opt-out of receiving it by clicking on the opt-out link in such email or sending an email to [web@strongtie.com](mailto:web@strongtie.com). Simpson Strong-Tie will try to communicate with you only according to your instructions. 
 
+#### AMENDMENTS
+
 Please note this Privacy Policy will change from time to time. We may amend this Privacy Policy at any time by posting the amended terms on the Website. All amended terms shall automatically be effective 30 days after they are initially posted on the Website. If we make any material changes to our Privacy Policy that affect user information already stored in our database, we will post a prominent notice on our Website notifying users that our Privacy Policy has changed. Our use of your personally identifiable information shall be governed by the terms and conditions of our Privacy Policy in effect at the time of such use.
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with our Privacy Policy. This Privacy Policy is incorporated into and subject to the [Simpson Strong-Tie User Agreement](http://www.strongtie.com/user_agreement.html). This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on the date first set forth above for all users. 
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with our Privacy Policy. This Privacy Policy is incorporated into and subject to the [Simpson Strong-Tie User Agreement](https://web.archive.org/user_agreement.html). This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on the date first set forth above for all users. 
 
-If you have questions about any of the provisions described above, please contact us at [www.strongtie.com](http://www.strongtie.com/contact_us.asp) or via the other contact information listed above. 
+If you have questions about any of the provisions described above, please contact us at [www.strongtie.com](https://web.archive.org/contact_us.asp) or via the other contact information listed above. 
