@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the ladyboykisses.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323232735id_/http%3A//www.ladyboykisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboykisses.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021173205id_/https%3A//www.ladyboykisses.com/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # LadyboyKisses
 
 |  | | |   
 ---|---|---  
-|  |    
+| 
+
+  1. [ Home ](https://web.archive.org/)
+  2. [ About us ](https://web.archive.org/impressum.php)
+  3. Privacy Policy
+
+|    
   
 ---  
 IK Softwareportal GmbH is the operator of LadyboyKisses.
@@ -93,6 +99,4 @@ The author intended not to use any copyrighted material for the publication or, 
 ## 4\. Legal validity of this disclaimer
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
-| |   
-  
-[Hotels](http://www.hrs.de/web3/?client=de__hrspartner&customerId=1062573437) | Languages | [Contact Us](https://web.archive.org/contactus.php) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=5&randw=9) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=5&randw=9) | [Feedback](https://web.archive.org/ikfeedback.php?l=en) | [Help](http://help.ladyboykisses.com/) | [Affiliate Program](http://www.ik-affiliates.com/) | [AlliedWallet billing](https://web.archive.org/alliedwallet_info.php)
+| | 
