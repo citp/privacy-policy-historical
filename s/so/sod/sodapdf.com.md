@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617201945id_/http%3A//sodapdf.com/privacy%23cookie) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021172906id_/http%3A//www.sodapdf.com/privacy/%23cookie) for the most accurate reproduction.*
 
 # LULU Software SodaPDF Privacy Policy
 
-  * [Privacy Policy](https://web.archive.org/privacy)
-  * [Terms of Use](https://web.archive.org/terms-of-use)
-  * [EULA](https://web.archive.org/eula)
+  * [Privacy Policy](https://web.archive.org/privacy/)
+  * [Terms of Use](https://web.archive.org/terms-of-use/)
+  * [EULA](https://web.archive.org/eula/)
 
 
 
@@ -121,4 +121,4 @@ As a paying customer of LULU Software, we reserve the right to use your company-
 
 Mac OS user? Discover our free Mac OS Reader.
 
-[Learn more](https://web.archive.org/products/free-pdf-reader-mac-os) __
+[Learn more](https://web.archive.org/products/pdf-reader-for-mac-os/) __
