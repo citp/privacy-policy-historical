@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527052027id_/http%3A//www.theparkingspot.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparkingspot.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021144816id_/https%3A//www.theparkingspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
