@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgeaudio.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531041027id_/https%3A//www.cambridgeaudio.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgeaudio.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022011000id_/https%3A//www.cambridgeaudio.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Cambridge Audio
 
@@ -153,15 +153,9 @@ United Kingdom
 
 Under the Data Protection Act 1998, you have a right to request a copy of the information we hold about you. Cambridge Audio will provide you with a legible copy of the personal information it holds and to which you are entitled upon request. This will be sent to you within 40 days of your request - although Cambridge Audio almost always requires proof of your identity before supplying the information (in order to mitigate the risk of supplying information to the wrong person) and may ask you for further information to assist in locating your personal information. You may have to pay a small charge before the information is supplied. We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
 
-  
-
-
 #### Changes to our privacy policy
 
 We keep our privacy policy under regular review and we will place any updates on this webpage. You may wish to check this webpage every time you submit personal information to the website.
-
-  
-
 
 #### How to contact us
 
