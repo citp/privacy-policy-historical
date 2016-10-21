@@ -1,55 +1,68 @@
-> *The following text is extracted and transformed from the getinstaviral.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524042413id_/http%3A//getinstaviral.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinstaviral.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021181939id_/http%3A//getinstaviral.com/home/privacy) for the most accurate reproduction.*
 
-# InstaViral JV Privacy
+# Privacy
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested; to administer a contest, promotion, survey or other site feature; or to send periodic emails.
+This Privacy Policy governs the manner in which Teknikforce collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://seoneos.in website (“Site”). This privacy policy applies to the Site and all products and services offered by Teknikforce. 
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, promotions, and so on.
+Personal identification information 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, I have included a one-click unsubscribe link at the bottom of each email.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-**Protecting Your Information**
+Non-personal identification information 
 
-I implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-**Disclosing Information To Outside Parties**
+Web browser cookies 
 
-I do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-This does not include trusted third parties who assist in operating this website, conducting this business, or servicing you, so long as those parties agree to keep this information confidential.
+How we use collected information 
 
-I may also release your information when I believe release is appropriate to comply with the law, enforce my site policies, or protect our own (or others) rights, property, or safety.
+Teknikforce may collect and use Users personal information for the following purposes: 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * To improve customer service 
+  * Information you provide helps us respond to your customer service requests and support needs more efficiently. – To personalize user experience 
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * To improve our Site 
+  * We may use feedback you provide to improve our products and services. 
+  * To process payments 
+  * We may use the information Users provide about themselves when placing an order only to provide service to that order. 
+  * We do not share this information with outside parties except to the extent necessary to provide the service. 
+  * To run a promotion, contest, survey or other Site feature 
+  * To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * To send periodic emails 
+  * We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email 
 
-**Third Party Links**
 
-Occasionally, at my discretion, I may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies.
 
-I therefore have no responsibility or liability for the content and activities of these linked sites.
+How we protect your information 
 
-Nonetheless, I seek to protect the integrity of this website and welcome any feedback about these third party sites.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-**California Online Privacy Protection Act Compliance**
+Sharing your personal information 
 
-Because I value your privacy, I’ve taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
 
-I therefore will not distribute your personal information to outside parties without your consent.
+Third party websites 
 
-**COPPA Compliance**
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies. 
 
-I am in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), as I do not collect any information from anyone under 13 years of age.
+Changes to this privacy policy 
 
-This website, products and services are all directed to people who are at least 13 years old or older.
+Teknikforce has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-**Terms & Conditions**
+Your acceptance of these terms 
 
-Please also visit my Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of this website.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-**Your Consent**
+Contacting us 
 
-By using this site, you consent to my website privacy policy.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-**Changes To This Privacy Policy**
+Teknikforce 
 
-If I decide to change this privacy policy, I’ll post those changes on this page. 
+[http://vidpush.in/](https://web.archive.org/)
+
+ADDRESS 
+
+EMAIL ADDRESS 
