@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineclinic.co.uk privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521062812id_/http%3A//www.onlineclinic.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineclinic.co.uk privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021225922id_/https%3A//www.onlineclinic.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Check The Privacy Policy At OnlineClinic.co.uk
 
