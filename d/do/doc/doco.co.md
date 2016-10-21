@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doco.co privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223061311id_/http%3A//doco.co/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doco.co privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021023927id_/http%3A//doco.co/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Ebook Download
+# Privacy Policy Free Ebook Download
 
 We, at Doco.co, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Doco.co and how it is used.
 
