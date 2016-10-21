@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325004210id_/https%3A//www.spigit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021234933id_/https%3A//www.spigit.com/privacy) for the most accurate reproduction.*
 
 # Spigit | Privacy
 
 ##### Privacy Policy Navigation
-
-* * *
 
 At Spigit, we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Spigit, Inc. (“Spigit”) on [www.spigit.com](http://www.spigit.com/). In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular products or services process personal information. These notices can be found in the available resources section of the applicable service or product.
 
@@ -12,13 +10,11 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 
 _Privacy Matters  
 __Spigit,  Inc. _  
-_1160 Battery Street East, 4 th Floor _  
+_275 Battery Street, Suite 1000_  
 _San Francisco, CA 94111_  
 _United States of America_
 
 This website is not directed at anyone under the age of 18.
-
-* * *
 
 ## Information We Collect and How We Use It
 
