@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604121354id_/http%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledeals.co.uk privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021215239id_/https%3A//www.wholesaledeals.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wholesale Deals Privacy Policy
 
@@ -29,12 +29,12 @@ _Links to other websites:_
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 _Remarketing:_  
-We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on Google's opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+We use AdWords remarketing to market our sites across the web. We place a cookie on a browser, and then a 3rd party (Google) reads these cookies and may serve an ad on a 3rd party site. You may opt out of this ad serving on Google's opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the [Network Advertising Initiative opt-out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
 **Our commitment:**
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us at [our postal address](http://www.wholesaledeals.co.uk/contact-us.php).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us at [our postal address](https://www.wholesaledeals.co.uk/contact-us.php).
 
-If you believe that any information we are holding about you is incorrect or incomplete, please [write to or email us](http://www.wholesaledeals.co.uk/contact-us.php) as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding about you is incorrect or incomplete, please [write to or email us](https://www.wholesaledeals.co.uk/contact-us.php) as soon as possible. We will promptly correct any information found to be incorrect.
