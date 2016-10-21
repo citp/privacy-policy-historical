@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dimensionsdance.ie privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406194506id_/http%3A//dimensionsdance.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensionsdance.ie privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021081059id_/http%3A//dimensionsdance.ie/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : Dimensions Dance, Dance Dimensions Dublin, Irelands leading stockist of Ballet, Irish dancing. gymnastics and dance accessories.
+# Dimensions Dance 2016
 
 **Your privacy is very important to Dimensions Dance.**
 
