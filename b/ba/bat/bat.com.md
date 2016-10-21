@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611114247id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021172125id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
 
 # British American Tobacco - Conditions of use
 
@@ -82,7 +82,7 @@ Cookie / technology |  Google Analytics
 ---|---  
 Purpose |  These cookies are used to collect information about how you and other visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the website from and the pages they have visited.  
 How to disable / enable this cookie |  To opt out of being tracked by Google Analytics across all websites, please visit:  
-[Google Analytics Opt-out Browser Add-on ](http://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on \(opens in new window\)")  
+[Google Analytics Opt-out Browser Add-on  __](http://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on \(opens in new window\)")  
 Name |  Expiry  
 _ga |  Persistent cookie: 2 years from set/update  
 _gat |  Persistent cookie: 10 minutes from set/update  
@@ -92,7 +92,7 @@ _utmc |  Session cookie: end of user browser session
 _utmz |  Persistent cookie: 6 months from set/update  
 Cookie / technology |  Hemscott System  
 Purpose |  This cookie is used to remember, during a user session only, a user’s email alert preferences after he/she has registered or logged in to the relevant area of the website to change those preferences.  
-How to disable / enable this cookie |  This cookie is used to remember, during a user session only, a user’s email alert preferences after he/she has registered or logged in to the relevant area of the website to change those preferences.  Disable cookies coming from the ‘hsprod.investis.com’ domain in browser. Please visit [How to disable cookies in your browser ](http://files.investis.com/info/disabling-cookies.html "How to disable cookies in your browser \(opens in new window\)") for further information regarding disabling this cookie.  
+How to disable / enable this cookie |  This cookie is used to remember, during a user session only, a user’s email alert preferences after he/she has registered or logged in to the relevant area of the website to change those preferences.  Disable cookies coming from the ‘hsprod.investis.com’ domain in browser. Please visit [How to disable cookies in your browser  __](http://files.investis.com/info/disabling-cookies.html "How to disable cookies in your browser \(opens in new window\)")for further information regarding disabling this cookie.  
 Name |  Expiry  
 hsid |  Session cookie: end of user browser session  
 Cookie / technology |  This website  
@@ -101,7 +101,7 @@ How to disable / enable this cookie |  Disable cookies coming from the ‘www.ba
 Name |  Expiry  
 cookieMessage |  Persistent cookie: 2 years from set/update  
   
-For more information about cookies, including how to set your internet browser to reject cookies, please visit [www.allaboutcookies.org ](http://www.allaboutcookies.org/ "www.allaboutcookies.org \(opens in new window\)").
+For more information about cookies, including how to set your internet browser to reject cookies, please visit [www.allaboutcookies.org  __](http://www.allaboutcookies.org/ "www.allaboutcookies.org \(opens in new window\)").
 
 ####  Links to external websites
 
