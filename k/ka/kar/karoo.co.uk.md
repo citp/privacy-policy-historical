@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317074041id_/http%3A//www.heytoday.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021035046id_/http%3A//www.heytoday.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy - HEY Today
+
+### Privacy policy 
 
 This privacy policy applies to your use of the website of HEYToday. It also applies to HEYToday’s provision of services to you and/or where you generally provide us with personal data.
 
