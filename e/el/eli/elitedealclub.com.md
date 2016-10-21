@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitedealclub.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517222816id_/https%3A//elitedealclub.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedealclub.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021024005id_/https%3A//elitedealclub.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Elite Deal Club | Get premium Amazon products for free or for just $1 by signing up now!
 
