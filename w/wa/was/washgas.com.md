@@ -1,45 +1,89 @@
-> *The following text is extracted and transformed from the washgas.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402135956id_/http%3A//www.washgas.com/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washgas.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021072758id_/https%3A//www.washingtongas.com/privacy-policy) for the most accurate reproduction.*
 
-# Washington Gas - Privacy Policy
+# Privacy Policy - Washington Gas
 
-## Privacy Policy
+_Last Updated (11/20/2015)_
 
-## Privacy Practices at Washington Gas
+At Washington Gas, we respect your concerns about privacy. 
 
-At Washington Gas we respect your concerns about privacy. This document sets forth our Privacy Policy ("Policy") regarding information received from you and about you during your visits to our Washingtongas.com web site. The Policy is intended to protect your privacy and to ensure that your personal information is handled in a safe and responsible manner. The amount and type of information we request and how it is used will depend upon how you use this web site. 
+This document sets forth our Privacy Policy ("Policy") regarding information we may collect when you visit our washingtongas.com website (“Site”). The Policy will help you understand how we may collect, use and share the information we collect and the choices that may be available to you. As described more fully below, the amount and type of information we collect will depend upon how you use the Site.
 
-## Normal Web Site Usage
+## Information We May Collect
 
-You can visit the Washingtongas.com web site to read product, company, employment, and investment information without identifying yourself and without revealing any personal information.   
-The only information we collect and store during this type of web site usage is the name of your Internet provider, the web site that referred you to us, the pages you requested and the date and time of the request. We use this information to generate statistics and measure site activity to make the site more useful to the customers that visit. We do not collect or store personally identifiable information such as name, mailing address, email address, phone number, or social security number. 
+_**Information that you provide us:**_
 
-## Cookies and Monitoring of Web Traffic
+You can access a range of information on washingtongas.com without having to provide us with information about yourself. For example, you can read product, company, employment and investor information without providing personal information. However, for some services, we may request information.
 
-Cookies are bits of electronic information a web site can transfer to your computer's hard drive. Cookies allow a web site to recognize a visitor as a repeat visitor and to retrieve information the visitor previously submitted so it does not have to be resubmitted. Washington Gas does use cookies. The cookies used do not collect personal information; rather the cookies generate a random number and place it on your machine. The next time you visit the Washington Gas web site, you will be recognized through this number, but no other information will be collected.   
-If you would like, you can disable your cookies on your Internet browser and continue to use the Washington Gas web site. You not using cookies will not hinder the use of our web site. 
+For example, if you choose to register at the Washington Gas eService Center, we will request your name, email address, password and security question. If you elect to pay your gas bill electronically using your personal checking account, we will ask for your routing transit number and account number. We may also collect information when you use the Contact Us feature of the Site. Other information we may request includes, but may not be limited to, your street address, phone number and Washington Gas account number.
 
-## Changes to the Policy
+Please note that Washington Gas will NOT retain your banking account information, unless you choose to have Washington Gas retain this information. Electing to have Washington Gas save your banking information allows you to avoid providing this information each time you pay your bill electronically. If you opt to NOT have your banking account information stored, you may have to provide this information each time that you pay your bill online.
 
-We reserve the right to update or revise this Policy at our discretion. Please check the Policy periodically for changes. Your continued use of this web site following the posting of any changes to the Policy constitutes your acceptance of these changes. 
+_**Information automatically collected from you:**_
 
-## Third Party Sites
+We and our service providers may automatically collect certain technical information from your computer or mobile device over time and across different websites when you use the Site, such as your Internet Protocol address, your general geographic location, your browser type, your operating system, the pages you view on the Site, the pages you view immediately before and after you access the Site and the search terms you enter on the Site. This information allows us to recognize you and personalize your experience if you return to the Site.
 
-Please be aware that you may link to other web sites through the Washington Gas web site, and these web sites may collect information about you. The information practices of those third party sites are not covered by this Policy. 
+In addition, we use this information to generate statistics and measure site activity to make the site more useful for visitors. We and our service providers may use cookies or similar technologies to collect this data. We describe these technologies in more detail below.
 
-## Your Responsibility
+##  How We Use the Information We Collect 
 
-You are responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you are online. Do not share your passwords or account information with others. 
+We may use the information we collect for a number of purposes, including, but not limited to:
 
-## Types of Information We Request
+  * providing you with products, services or information you request;
+  * providing you with information about the Site or our services;
+  * delivering marketing communications, promotional materials or advertisements that may be of interest to you;
+  * customizing your experience when using the Site, such as by providing interactive or personalized elements and/or providing you with content based on your interests;
+  * improving the Site and the services we provide, such as by better tailoring our content to our users’ needs and preferences;
+  * generating and analyzing statistics about your use of the Site; and
+  * detecting, preventing and responding to fraud, intellectual property infringement, violations of our terms of use, violations of law or other misuse of the Site.
 
-Although we do not collect personal information through the use of cookies, we will request personal information in two areas of the website to allow us to better serve you. If you choose to register at the Washington Gas eService Center, we will request your name and email address. If you elect to pay your gas bill electronically using your personal checking account, we will ask for your routing transit number and account number. 
 
-Please note that Washington Gas will NOT retain your banking account information, unless you choose to have Washington Gas retain this information. If you elect to have Washington Gas save your banking information, you will not have to provide this information each time you pay your bill electronically. If you opt to NOT have your banking account information stored, you'll have to provide your banking information each time that you pay your bill online. 
 
-## Your Personal Information
+We may combine any information we collect via the Site with information we collect offline or from other sources and will handle the combined information according to this policy.
 
-We do not share personal information provided to us through our web site (credit card number, name, address, phone, etc) with other parties. We only use such information to deliver products and/or services, to provide important information to you about the products, and/or to bill you for products and/or services. 
+##  How We Share Information
 
-If you would like to opt out of receiving any marketing/product promotional emails from Washington Gas, [please complete this form](https://eservice.washgas.com/forms/contacting_washington_gas.cfm) and include the phrase "unsubscribe to promotional emails" in the comments section. 
+We may disclose the information we collect via the Site:
 
-Unsubscribing from Washington Gas promotional emails will not prevent you from receiving solicitations from energy marketers. If you wish to opt-out of our energy marketer program, the next period for doing so is Spet. 1 through Oct. 17, 2014. Please call 703-750-4504. 
+  * to our affiliates and subsidiaries;
+  * to third parties that provide services to us in connection with our business operations, including, but not limited to, third parties that host our Site, provide Site analytics services, process payments, deliver marketing communications or other information or process employment applications;
+  * to business partners who that may deliver marketing communications, promotional materials or advertisements that may be of interest to you;
+  * as required by law, such as in response to a subpoena or other legal process, or to comply with government reporting obligations;
+  * when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of the Site, or your safety or the safety of others, or (b) to detect, prevent or respond to fraud, intellectual property infringement, violations of our terms of use, violations of law or other misuse of the Site; and
+  * to affiliates, service providers, advisors, potential transactional partners or other third parties to the extent reasonably necessary to proceed with the consideration, negotiation or completion of a corporate transaction in which we are acquired by or merge with another company or we sell, liquidate or transfer all or a portion of our assets.
+
+
+
+In addition, we may share information that does not reasonably identify you, such as user demographics and traffic patterns, with third parties.
+
+##  Cookies and Monitoring of Web Traffic 
+
+Cookies are bits of electronic information a website can transfer to your computer's hard drive. Web beacons - also called web bugs, pixel tags or clear GIFS - are small files that collect information about website usage. Cookies and web beacons help us recognize a visitor as a repeat visitor and to retrieve information the visitor previously submitted so it does not have to be resubmitted. Cookies and web beacons can also help websites customize content and learn how visitors interact with the website or email communications. Washington Gas may use cookies and web beacons.
+
+If you would like, you can disable your cookies on your Internet browser and continue to use the Site. Each browser is different, so you should check your browser’s “Help” menu or other resources to learn how to change your cookie preferences. Rejecting or blocking cookies may impact how information is presented to you on the Site.
+
+We do not currently respond to web browser “do not track” signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate. If we do so in the future, we will describe how we do so in this privacy policy.
+
+##  Your Choices
+
+If you would like to opt out of receiving any marketing/product promotional emails from Washington Gas, [please complete this form](https://eservice.washgas.com/pages/customersupport.aspx) and include the phrase "unsubscribe to promotional emails" in the comments section. Our emails may also include links that allow you to unsubscribe from promotional emails.
+
+If you unsubscribe from Washington Gas promotional emails, we may continue to send you emails about your account or the services you are receiving. And you may continue to receive solicitations from energy marketers. If you wish to opt-out of our Customer Choice Program, you may call 703-750-4504 at any time during the year. However, Washington Gas only updates the list twice annually, once in the spring and again in the fall.  
+
+
+##  Security
+
+We have administrative, technical and physical safeguards designed to safeguard the information collected by the Site. However, no information system can be 100 percent secure and we cannot guarantee the absolute security of your information. Moreover, we are not responsible for the security of information you transmit over networks that we do not control, including the Internet and wireless networks.
+
+You are responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you are online. Do not share your passwords or account information with others.
+
+##  Changes to the Policy
+
+We reserve the right to update or revise this policy at our discretion. Please check the policy periodically for changes. Your continued use of the Site following the posting of any changes to the policy constitutes your acceptance of these changes.
+
+##  Third Party Sites 
+
+Please be aware that you may link to other websites through the Site and these websites may collect information about you. The information practices of those third party sites are not covered by this policy and we are not responsible for their practices. We encourage you to review the privacy policies of each website that you visit.
+
+##  Contact Us 
+
+If you have any questions about this Policy or our use of the information we collect via the Site, please [contact us](mailto:%20bedge@washgas.com).
