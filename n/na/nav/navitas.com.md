@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the navitas.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033457id_/http%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navitas.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021052041id_/https%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
 
-# Navitas Privacy Policy
+# Navitas - Privacy Policy
 
 Navitas Limited (Navitas) and its Related Bodies Corporate incorporated in Australia are subject to the Australian Privacy Act 1988 (Cth).
 
@@ -60,6 +60,10 @@ Navitas collects personal information for the primary purpose of providing our s
 
 
 Navitas will only use and disclose personal information about you for the purposes stated above, where we have your consent to do so, or as otherwise required or authorised by law. For example, Navitas centres may need to share student information with partner institutions in the course of providing education classes on the institution's campuses.
+
+Navitas collects information from other organisations and bodies, including government bodies, in connection with providing services to them or on behalf of them. Information collected in that context may be treated differently from information collected in other contexts. Navitas will comply with any obligations imposed by the organisations and bodies that provided the information under the relevant agreements.
+
+Navitas may from time to time provide information to third party marketing service providers, who represent to be securely handling the information, and that the information is de-identified while under their control.
 
 By providing us with your personal information, you consent to us using your information to contact you on an ongoing basis in order to provide you with marketing information we think would be of interest to you, including by mail, email, SMS and telephone.
 
