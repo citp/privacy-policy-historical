@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7zdownload.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322064630id_/http%3A//7zdownload.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7zdownload.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021031921id_/http%3A//7zdownload.com/en/policy) for the most accurate reproduction.*
 
 # 7zdownload.com
 
