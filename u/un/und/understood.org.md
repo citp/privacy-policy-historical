@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the understood.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091304id_/https%3A//www.understood.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the understood.org privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021092041id_/https%3A//www.understood.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Understood
+# Privacy Policy
 
 ## UNDERSTOOD.ORG PRIVACY POLICY HIGHLIGHTS
 
-Last updated: September 8, 2014
+Last updated: September 11, 2015
 
 _This summary provides highlights of our full Privacy Policy. We encourage you to read the full Privacy Policy availablehere. It contains helpful information and guidelines about using Understood.org and protecting your privacy._
 
@@ -30,7 +30,7 @@ Your participation in these features is optional.
 
   * Even if you don’t have an account with us, we may also collect information related to your use of Understood.org. This information does _not_ include your name or contact information. It helps us to determine ways to improve Understood.org. It also helps us give you information that will improve your Understood.org experience. For example, if you have been to Understood.org before, we won’t always show you our welcome screens. Please see the section titled “Cookies” in our Privacy Policy.
   * Understood.org also uses Google Analytics to help Understood.org collect and process data. To see how Google uses this data, go to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). (If you want to disable this function on your computer, you can change your browser setting to disallow cookies.)
-  * Understood.org will also use cookies to enhance your experience when using our site. We will use cookies to save your screen name and password to save you the time of re-entering them each time you return to our site. We may use cookies in other ways to better focus the offerings of information and materials to you based on your usage during visits to our site.
+  * Understood.org will also use cookies to enhance your experience when using our site. We may use cookies in other ways to better focus the offerings of information and materials to you based on your usage during visits to our site.
 
 
 
@@ -66,12 +66,11 @@ If you choose to use Understood.org, you understand that:
   * If you no longer want to receive emails or other communications from Understood, use the “unsubscribe” link on our emails or manage your preferences on Understood.org.
   * If you do not want us to use your or your child’s information as stated in this Privacy Policy, you should not give us the information. You can use parts of Understood.org without providing any personal information.
 
-  
 
 
 ## UNDERSTOOD.ORG PRIVACY POLICY
 
-Last updated: September 8, 2014
+Last updated: September 11, 2015
 
 We take your privacy very seriously. This policy describes how we use the information that you provide when using our website, Understood.org. By using Understood.org, you agree to and consent to the collection and use of your information as described below.
 
@@ -100,31 +99,28 @@ Understood.org is designed for and intended for use by parents (or guardians) of
 
 **We do not knowingly collect personal information from children under age 13. In fact, we do not offer Understood.org to anyone under age 13. If you are under 13, please do not create an account, use Understood.org, or provide Understood.org with any personal information.**
 
-**Cookie Policy and Disclosure  
-**_Notice: Please read this statement regarding Understood.org’s use of cookies. It contains important information._
+**Cookie Policy and Disclosure**   
+_Notice: Please read this statement regarding Understood.org’s use of cookies. It contains important information._
 
 Understood.org uses cookies in order to collect certain information and in order to assist you, the viewer, in having the easiest possible experience in navigating and accessing all of the features of Understood.org. For example, we may use cookies to prevent you from having to enter your password each time you access Understood.org.
 
 Below you’ll find FAQs that describe our most common uses of cookies, which are an inherent part of our production process and enable us to better serve you.
 
   * **What’s a cookie?**  
-A cookie is a small file that is sent to your computer by a site’s server. A cookie can be a record of your visit to a site, including information such as your screen name, registration information, time of last visit, pages viewed, etc. A cookie created by one site’s servers can be retrieved only by that site’s servers. Thus, information gathered in cookies through Understood.org is not accessible to other sites.  
- 
-  * **What if I don **’t accept cookies?****  
-If you set your browser to “not accept” any cookies, you will not be able to take full advantage of certain future features that Understood.org may offer to enhance individual user experiences. We also do not suggest that you navigate our site with your browser’s “cookie alert” feature enabled. While you certainly could set your browser to alert you each time a cookie is passed to your machine, you most likely will find the experience of having to respond to frequent cookie alerts quite frustrating. We suggest that you turn the “cookie alert” feature off, or perhaps use the site for a short time with it on, once you’ve seen firsthand how we use the technology and become more familiarized and comfortable with it.  
- 
+A cookie is a small file that is sent to your computer by a site’s server. A cookie can be a record of your visit to a site, including information such as your screen name, registration information, time of last visit, pages viewed, etc. A cookie created by one site’s servers can be retrieved only by that site’s servers. Thus, information gathered in cookies through Understood.org is not accessible to other sites.
+  * **What if I don’t accept cookies?**  
+If you set your browser to “not accept” any cookies, you will not be able to take full advantage of certain future features that Understood.org may offer to enhance individual user experiences. We also do not suggest that you navigate our site with your browser’s “cookie alert” feature enabled. While you certainly could set your browser to alert you each time a cookie is passed to your machine, you most likely will find the experience of having to respond to frequent cookie alerts quite frustrating. We suggest that you turn the “cookie alert” feature off, or perhaps use the site for a short time with it on, once you’ve seen firsthand how we use the technology and become more familiarized and comfortable with it.
   * **Why does Understood.org use cookies?**  
 We use cookies to allow you to access and quickly navigate your way through our site. We may accomplish this in many ways, using several different cookies. When you first enter the site, for example, we may use a test cookie to confirm your browser’s ability to retain cookies.
 
 Next, we may check our database to verify your registration or other criteria so that you may gain access. A cookie is then temporarily “set” within your browser to allow you to proceed without having to confirm your identity with each subsequent page you request to view or otherwise access.
 
-In addition, we may use cookies to help us recommend content and information that we think will be of particular interest and use to you. We do that by using cookies to store small amounts of information about materials on our site that you select to review. As you move from item to item, the cookies track which items or issues you view more frequently. The site assumes these are of particular importance to you and recommends materials on related topics. 
+In addition, we may use cookies to help us recommend content and information that we think will be of particular interest and use to you. We do that by using cookies to store small amounts of information about materials on our site that you select to review. As you move from item to item, the cookies track which items or issues you view more frequently. The site assumes these are of particular importance to you and recommends materials on related topics.
 
-If you do not want us to track your usage and interest, you can change the cookies setting on your browser. If you do so, your experience of the site may no longer be as personalized or customized.
+If you do not want us to track your usage and interest, you can change the cookies setting on your browser. If you do so, your experience of the site may no longer be as personalized or customized. 
 
   * **So what’s in it for me?**  
-You’ll get faster, more convenient access. We won’t have to ask you to identify yourself with each new page requested. We can also deliver customized information to you and store your settings more efficiently. And you’ll get better information. We want to give you the features and materials you’re interested in.  
- 
+You’ll get faster, more convenient access. We won’t have to ask you to identify yourself with each new page requested. We can also deliver customized information to you and store your settings more efficiently. And you’ll get better information. We want to give you the features and materials you’re interested in.
   * **Will the cookies you send me go away?**  
 Some of our cookies are long term. If they weren’t, we’d need to ask you for certain information, such as your screen name, with each new session. Other cookies do expire after a short period of time. A cookie, such as those required to retain settings you elect (screen name, password, personalization preferences, etc.) will continue to reside on your hard drive for subsequent use by your browser. Remember, cookies are small files and don’t take up significant disk-space on your computer.
 
