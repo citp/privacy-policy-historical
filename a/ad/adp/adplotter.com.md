@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adplotter.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506195538id_/https%3A//www.adplotter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adplotter.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021215852id_/https%3A//www.adplotter.com/privacy.asp) for the most accurate reproduction.*
 
 # Adplotter.com :: Privacy Policy
 
