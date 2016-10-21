@@ -1,89 +1,87 @@
-> *The following text is extracted and transformed from the e-cantonfair.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220055618id_/http%3A//www.e-cantonfair.com/en/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-cantonfair.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021221853id_/http%3A//www.e-cantonfair.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Security and Privacy
 
-Guangzhou Canton Fair E-commerce Co., Ltd. (“ **E-Cantonfair** ”, “ **we** ” or “ **our** ”) respects and protects the privacy right of all users of Canton fair e-commerce platform (including but not limited to the website (e-cantonfailr.com), sourcing egg, mobile terminal or application for mobile, hereinafter collectively referred to as “ **E-Cantonfair Platform** ”). In order to provide you with more accurate and customized service, E-Cantonfair will use and disclose your information according to this _Privacy Policy_. E-Cantonfair will treat your information diligently and prudently.
+### •Security and Privacy
 
-Unless otherwise regulated by this _Privacy Policy_ , without your prior consent, E-Cantonfair will not disclose or provide such information to any third party. If you agree with the User Agreement, it shall be deemed that you have agreed with all contents of this _Privacy Policy_ and agreed us to use and disclose your information according to this _Privacy Policy_. This _Privacy Policy_ is an indispensable part of the _User Agreement_.
+###  Security and Privacy
 
-E-Cantonfair updates this _Privacy Policy_ from time to time. Once the term is updated, we will post on E-Cantonfair Platform, and the changed term will immediately take effect once released. If you disagree with the new _Privacy Policy_ , you may stop using E-Cantonfair Platform. If you continue using E-Cantonfair Platform, it shall be deemed that you have accepted the new _Privacy Policy_. It is suggested that you check this _Privacy Policy_ regularly.
+Welcome to e-Cantonfair, your reliable online marketplace.  
+The web site identified by the uniform resource locator [www.e-cantonfair.com](http://www.e-cantonfair.com/) (the “ **e-Cantonfair** ”) is provided by e-Cantonfair as a service to our customers. This Security and Privacy Policy (the “ **Agreement** ” or “ **Policy** ”) is entered into between you as a registered user of the site (“ **Registered User** ”) and e-Cantonfair.  
+The security of your personal information is very important to us and we value your trust highly. We will not sell or loan your personal information to a third party under any circumstances. We will work hard to protect the security and privacy of any personal information you provide to us and will only use such information as we have described herein.  
+By your use and access of the Site, you accept this Security and Privacy Policy.
 
-### 1.Scope of Information
+###  **What personal information do we collect?**
 
-The information we collection is as follows:
+You may choose to use or access our Site without revealing any personal and transactional information about yourself, but you will need to register and create an account in order to make a purchase or take advantage of certain features and functions, including, but not limited to, “Save for Later” and “Address Book”. If you provide us with your information, you consent to the transfer and storage of the information on our server located in the People’s Republic of China (the “ **P.R.C.** ”).  
+As set forth in more detail below, e-Cantonfair collects personal information that you provide when using the Site. This information includes your first and last name, email address, a password and other information required when you create your e-Cantonfair account or when you participate in or conduct surveys and contests via the Site, email, or other media of e-Cantonfair. In order to protect your confidentiality and verify your identity, we may ask you to confirm your personal information when you contact our Customer Service Department.  
+In addition to the personal information we may collect and process during registration and any surveys, we also collect, store and process the following information about our users:  
+**1\. Purchase Information**  
+When you make a purchase from e-Cantonfair, we collect your name and payment method information. When you create an account at e-Cantonfair, you can choose to save your billing information in “My e-Cantonfair.” You can also save one or more shipping addresses in your e-Cantonfair Address Book.  
+**2\. Services Account Information**  
+We collect personal information from users who wish to use any of the e-Cantonfair services, including but not limited to, e-Cantonfair’s Transaction Platform. In order to use these services you must provide your email address and password or create an account at e-Cantonfair.  
+**3\. Cookies and Other Computer Information**  
+When you visit the Site, you will be assigned a permanent “cookie” (a small text file) to be stored on your computer’s hard drive. The purpose of the cookie is to identify you when you visit the Site so that we can enhance and customize your online purchasing experience.  
+You can choose to browse on the Site without cookies, but without these identifier files you will not be able to complete a purchase or take advantage of certain features of the Site. These features include storing your shopping cart for later use and providing a more personalized future shopping experience. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.  
+We also collect certain technical information from your computer each time you request a page during a visit to the Site. This information may include your Internet Protocol (IP) address, your computer’s operating system, browser type and the address of a referring web site, if any. We collect this information to enhance the quality of your experience during your visit to the Site and will not sell or loan this information to any third parties.  
+We also contract with third parties to provide us with data collection and reporting services regarding our customers’ activities on the Site and to track and measure the performance of our marketing efforts. These third parties may use cookies and may receive anonymous information about your browsing and buying activity on this Site. None of your personally identifiable information (such as your name, address, email address, etc.) will be received by or shared with these third parties.  
+**4\. Publishing Information**  
+When you submit any information on the Site during your use or access, including, but not limited to, information on the e-Cantonfair blog, the rating system, or product catalog, you are deemed to have given your permission to e-Cantonfair to publish such information, and e-Cantonfair and the Site hereby enjoy an irrevocable, perpetual, worldwide and royalty-free, sub-licensable license to use all information provided by such user to exercise the copyright, compilation, database and publicity rights any user has in such material or information, in any media form.
 
-(1) **Registration information:** When registering or activating the membership account of E-Cantonfair, you may be requested to provide your real name, address, nationality, telephone number, email address and name, address, contact way of your company. You may also be requested tochoose, including but not limited to, the industry you corporation belongs to and you preferences. We obtain the statistical data of members by the registration information, and to classify our members by industry or country by using the statistical data, so as to specially provide new services and opportunities to our members.
+###  **How we use your personal information?**
 
-(2) **Browse information:** When you use the Service or visit E-Cantonfair Platform, it automatically receives and records the information of you browser and computer, including but not limited to you IP address, browser type, language, visiting date and time, software and hardware feature and visited website or information record.
+We do not sell, loan, trade or exchange any user’s personal information without such user’s consent. The information we collect on the Site may be used to enhance your shopping experience in the following ways:
 
-(3) **Publishing information:** If you submit and release any information (including but not limited to product catalogue, trading informationor other speech) on E-Cantonfair Platform, it shall be deemed that you have agreed and authorized E-Cantonfair Platform to issue such information
+  * Deliver merchandise and services that you purchase online;
 
-(4) **Payment information:** If you pay the membership fees or make any payment through E-Cantonfair Platform to any other user or the thirdparty service provider, we will collect relevant payment information, including but not limited to collection and payment information, credit card number and expired date, and relevant information of check or exchange bill.
+  * Register you as a member of e-Cantonfair;
 
-(5) **Transaction information:** We will record and store your account activity. If you conduct any transaction or any other business through E-Cantonfair Platform, E-Cantonfair will collect, including but not limited to, the information of type and target of transaction, type and specification of Product, and price, delivery information and dispute solution.
+  * Prevent fraud;
 
-(6) **Materials provided by member:** In order to provide you with more comprehensive, professional and careful service, E-Cantonfair Platform establishes the service by cooperating with the third party in some areas. When you choose the service provided by the third party, you may have to provide relevant material or document to the thirdparty service provider, and E-Cantonfair Platform may collect such material or document and deliver it to the service provider or other relevant institution or department.
+  * Confirm your orders;
 
-(7) **Activity information:** If you participate in Canton Fair and use E-Cantonfair Platform, we will record and store your activity information, including but not limited to the information and data of the booth, company, product and service you have browsed, visited and consulted, as well as the frequency and time of your visit to Canton Fair.
+  * Resolve disputes and prevent prohibited and illegal activities;
 
-Aforesaid information from (1) to (7) is collectively referred to as “Your Information”.
+  * Enforce our Terms of Use and related agreements;
 
-### 2.Use of Information
+  * Respond to your customer-service inquiries or requests;
 
-(1) E-Cantonfair Platform will not provide, sell, lease, share or transact Your Information to any irrelevant third party. However, for the convenience of your use of the Service of E-Cantonfair Platform and other organizations, you shall agree and authorize E-Cantonfair to transfer Your Information to you or other organizations, or obtain Your Information from other organizations providing services to you.
+  * Communicate great values and featured items to you;
 
-(2) E-Cantonfair Platform does not allow any third party to collect, edit, sell or spread Your Information without permission. If any user of E-Cantonfair Platform is discovered with such activity, E-Cantonfair Platform may immediately suspend or terminate the service to such user.
+  * Find and stock the products you want; and
 
-(3) For the purpose of serving the user, E-Cantonfair Platform may contact you and provide you with interested information by using Your Information, including but not limited to sending the enterprise, product and service information to you, or obtain your consent to share Your Information with partners of E-Cantonfair for their convenience to send you the information of their products and services.
+  * Customize, measure and improve our services and your purchase experience.
 
-(4) E-Cantonfair Platform may, according to your option, publicize Your Information you release on the platform for the trade development, and other users may inquire or obtain such information by the function or service of E-Cantonfair Platform. Besides, the cargo information and quotation you post or release may also be displayed in certain public areas to be publicized to relevant users. Please note that such publicized information will become the public information that you shall make careful consideration before providing, releasing or clicking to release such information.
 
-(5) You agree E-Cantonfair Platform to use Your Information to constantly improve our service and make our service more suitable for your requirement.
 
-(6) We will make comprehensive statistics and analysis of Your Information, and provide the analysis result to partners or other organizations, but only the analysis result will be provided.
 
-### 3.Disclosure of Information
+###  **When and with whom can we share your personal information?**
 
-E-Cantonfair may disclose all or part of your information for the good intention under following circumstances:
+We do not sell or loan your personal information to any third parties under any circumstances. We will share your personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including, but not limited to, fulfilling customer orders, offering certain products and services in connection with the Site, communicating to customers, providing customer service, storing, sharing and retrieving customers’ photo images in our Photo Center, enhancing and improving clients’ purchase experience, enabling access to our partners’ web sites, providing a personalized purchase experience and preventing fraud and completing payment method processing.  
+Aside from the purposes described above, we will not share your personal information with any other third parties unless we have your express permission or there are special circumstances, such as when e-Cantonfair is required by the government, law enforcement body, obligee whose legitimate right has been injured, subpoena or other legal document to share such information, or if we believe it to be reasonably necessary to protect the safety of any person; to address fraud, security or technical issues; or to protect e-Cantonfair’s rights or property. We may also share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
 
-(1) After obtained your prior consent or authorization (including but not limited to through theUser Agreement);
+###  How can you control the use of your personal information?
 
-(2) In order to identify and/or confirm your identity or solve the dispute, or execute the User Agreementand Other Terms;
+You can modify or delete your personal information at any time. Simply go to My e-Cantonfair. Log in with your ID and password, then edit or delete your personal information at your discretion.
 
-(3) In order to protect the legal interest or personal safety of E-Cantonfair Platform, member and the social public;
+###  **How can we protect the security of your personal information?**
 
-(4) Required by relevant laws, administrative or judicial institutions to be disclosed to the third party or the administrative or judicial institutions;
+Your personal information is protected by the password you created when you created an account on the Site (or another password you choose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of e-Cantonfair will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it at anytime by going to My e-Cantonfair. Log in with your email address and password, then click “Change Name, Email & Password” and enter a new password.
 
-(5) If you violate any law or regulation of China, or User Agreement or Other Terms of E-Cantonfair Platform;
+###  **Minors**
 
-(6) Your Information has to be shared with the third party to provide the Product and Service you demand (but such third party will be immediately prohibited from visiting any relevant information after the end of the cooperation);
+e-Cantonfair does not intentionally collect personal information about minors or other persons without full civil conduct capacity, but based on the properties of Internet, there is no way for e-Cantonfair and the Site to distinguish the age or capacity of the users. By accepting this Agreement through your use or access of the Site, you certify that you are a person over 18 years old with full capacity and ability to form a legally binding contract in the jurisdiction in which you are resident or in which you are entering into this Agreement. If you do not agree to (or cannot comply with) any of the terms of this Agreement, do not use the Site.  
+Meanwhile, if a minor or other person does not have full civil conduct capacity and has provided personal information to us without the proper consent of their parent or legal guardian, such parent or legal guardian should contact us to remove such personal information.
 
-(7) In a transaction created on E-Cantonfair Platform, if either party of the transaction has performed or partly performed the transaction obligation and proposed the information disclosure request, E-Cantonfair may decide,at its sole discretion, to provide such user with the contact way of the other party of the transaction to complete the transaction or solve the dispute;
+###  **Security**
 
-(8) Other circumstances that E-Cantonfair Platform deems it necessary to make the proper disclosure according to the law, regulation or platform policy.
+Your information is stored on our servers located in the P.R.C, and we adopt lots of tools, means and technologies to protect them against unauthorized access, use and disclosure. For instance, we use a technology called Secure Sockets Layer (SSL), which encrypts (or encodes) sensitive information before it is sent over the Internet. However, we are limited in our efforts by the technologies currently available, and no data transmission or storage over Internet can be guaranteed to be perfectly safe. Therefore, although we work very hard to protect your information and privacy, we do not promise or guarantee that your information will always be private and safe.
 
-### 4.Storage of Information
+###  **General**
 
-Your Information collected by E-Cantonfair will be stored on E-Cantonfair Platform and (or) the server of the partner.
-
-### 5.Use of Cookie
-
-(1) If you do not refuse to accept cookies, E-Cantonfair Platform will configure or use cookies on your computer for you to login or use the Services of E-Cantonfair Platform that relies on cookies. By using cookies, E-Cantonfair may provide better customized Services, including promotion service to you. If you do not refuse to accept cookies, cookies will be sent to your browser and stored in your hard disk. We store the data of your visit to E-Cantonfair Platform in cookies. When you visit or revisit E-Cantonfair Platform, we may recognize your identity and provide you with better and more services by the analysis data.
-
-(2) You may accept or refuse to accept cookies. You may modify the browser configuration to refuse to accept cookies. However, if you refuse to accept cookies, you may become unable to login or use the Services of E-Cantonfair Platform that relies on cookies.
-
-(3) This _Privacy Policy_ applies to any information obtained through cookies set by E-Cantonfair Platform.
-
-### 6.External Link
-
-E-Cantonfair Platform contains links to other websites. We assume no liability for the privacy protection measure of other websites. Before submitting any information to such website, please check their _privacy policies_.
-
-### 7.Information Security
-
-(1) Your account contains the security protection function. Please properly keep your account and password information. E-Cantonfair Platform may protect Your Information from losing, misusing or forgery by backup in other servers and encryption of the user password. Although these security measures are present, please note that there is no “complete security measure” in the information network. As a result, E-Cantonfair Platform or E-Cantonfair is exempted from the risk resulted from network transmission, nor makes any form of guarantee.
-
-(2) When conducting the online transaction on E-Cantonfair Platform, you are inevitably required to disclose Your Information to other party or potential party of the transaction, such as contact way and mailing address. Please properly protect Your Information and disclose it to others only when necessary. You acknowledge and agree that whenever you voluntarily disclose your information, such information may be collected and used by others, and E-Cantonfair Platform or E-Cantonfair is exempted from any liability for the disclosure of Your Information or damage of your reputation. If you discover the disclosure of Your Information, especially your account and password, please contact us immediately for E-Cantonfair Platform to adopt corresponding measures.
-
-(3) E-Cantonfair is exempted from any legal liability for the disclosure, loss, theft or distortion of any information, account or password resulted from the network operation failure caused by the information disclosure due to your notice or sharing of your account or password with others, or temporary shutdown of the network due to hacker attack, computer virus or governmental regulation.
-
-10/04/2013
+We realize that making purchases on the Site, or any other web site, requires trust on your part. We value your trust very highly and pledge to you, our clients, that we will work hard to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in this Policy. This includes your name, address, phone number, email address or checking account information, in addition to any other personal information that can be linked to you, personally.  
+e-Cantonfair may provide links to certain third party web sites. This Security and Privacy Policy applies only to activities conducted and personal information collected on the Site. Other web sites may have their own policies regarding privacy and security. We encourage you to review the privacy policies on these sites before you use and access them. You are solely responsible for your use and access of other web sites.  
+e-Cantonfair will obtain your consent before allowing the download of any software from the Site, and e-Cantonfair will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the Site is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.  
+e-Cantonfair reserves the right to update or modify this Security and Privacy Policy at any time without prior notice to you. The most current version of the Policy will govern e-Cantonfair’s use of the information and will always be at _http://www.e-cantonfair.com/privacy.html_ If e-Cantonfair makes a change that, in e-Cantonfair’s sole discretion, is material, e-Cantonfair will notify you via e-mail to the email address associated with your account. Your use of the Site following any such change constitutes your unconditional agreement to follow and be bound by the Security and Privacy Policy as amended.  
+e-Cantonfair may transfer this Policy and all or part of its rights, obligations and interests to any party or entity in its sole discretion; however, a User may not assign its rights, obligations and interests under this Policy to any party or entity.  
+Terms which have not been defined or stipulated in this Agreement shall be interpreted in accordance with the definition(s) or provision(s) of the Terms of Use of e-Cantonfair.
