@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152821id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021124939id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Your Privacy | Scribendi.com
 
@@ -22,7 +22,7 @@ Because your privacy is very important to us, Scribendi.com operates by these pr
 
 ### When Contacting Scribendi.com
 
-  * Your personal information, including the contact details you provide, is used to respond to any email, website, postal, fax, or telephone query you make.
+  * Your personal information, including the contact details you provide, is used to respond to any e-mail, website, postal, fax, or telephone query you make.
   * If your inquiry is about an order you have already placed, your inquiry will be correlated with information regarding that order.
   * Information regarding your query and our response may be retained to assist in fulfilling future orders, for example, when you ask us for a quote or to create a customized service for you, or to answer further queries from you.
   * Information regarding your query and our response may be used to monitor or improve our customer service procedures.
@@ -33,7 +33,7 @@ Because your privacy is very important to us, Scribendi.com operates by these pr
 
   * We provide SSL/TLS encryption to ensure the secure transmission of all your information when you place an order, including your payment details. The strength of encryption used will usually be 256-bit or higher. We recommend using the latest version of your web browser software to ensure that strong encryption is supported by your browser. You accept responsibility for ensuring the activation of the security features of your browser or computer that enable it to communicate your information securely to our Site.
   * When you place an order for services, we ask for: 
-    * Your name, email address, and telephone number
+    * Your name, e-mail address, and telephone number
     * Your billing address
     * The document(s) you require service on, and any special instructions relating to the service you order
     * Payment details (if you pay by credit card or electronic check)
@@ -55,16 +55,17 @@ This information is used to fulfill your order, to allow you to track your order
 
 ### Creating an Account with Scribendi.com
 
-  * Creating an account is optional. You are not required to create an account to place orders with Scribendi.com. When you create an account, your name, address, email address, and phone number are stored for your use on future visits to our Site. You may also store language and currency preferences in your account. You must log in to access your account.
+  * Creating an account is optional. You are not required to create an account to place orders with Scribendi.com. When you create an account, your name, address, e-mail address, and phone number are stored for your use on future visits to our Site. You may also store language and currency preferences in your account. You must log in to access your account.
   * You may also establish a business account with us and link several accounts together under this account. To do this, we will ask for business information and payment details for the business account and associate that information with the personal information you have provided.
   * If you create an account, you will have access to tracking information on all orders you place. If your account is linked to a business account, you consent to information on all orders you place being provided to the person(s) responsible for the business account.
-  * You may use your account to choose to receive newsletters and special offers from Scribendi.com by email. This option is not on by default and is not a requirement for creating an account. You may also choose to turn this option on or off at any time by logging in to your account.
+  * You may use your account to choose to receive newsletters and special offers from Scribendi.com by e-mail. This option is not on by default and is not a requirement for creating an account. You may also choose to turn this option on or off at any time by logging in to your account.
 
 
 
 ### Statistical Analysis
 
   * Scribendi.com may, from time to time, make use of analytics advertising features including, but not limited to, remarketing, remarketing with analytics, display network impression reporting, and demographics and interest reporting. This is done via advertising cookies and anonymous identifiers. If you wish to opt out of these features, you may do so through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out). Please also see <https://tools.google.com/dlpage/gaoptout/>.
+  * Scribendi.com may contract third parties to analyse other data provided to us, on an aggregate basis and subject to a non-disclosure agreement, for the purpose of improving our services.
 
 
 
