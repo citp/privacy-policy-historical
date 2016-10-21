@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissanime.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423091519id_/https%3A//kissanime.to/Message/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissanime.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021133315id_/http%3A//kissanime.to/Message/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
