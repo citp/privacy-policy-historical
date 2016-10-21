@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gamexn.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506164817id_/http%3A//gamexn.net/en-US/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamexn.net privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021195326id_/http%3A//gamexn.net/privacypolicy) for the most accurate reproduction.*
 
 # GameXN
 
 Come join us – get GameXN GO client for Windows  
 to have the best gaming experience! 
 
-The policy below applies to the following: [gamexn.net](https://web.archive.org/en-US) and all their respective sub-domains, and any other website operated by EasyBits (collectively "Sites"), as well as the GameXN GO games app ("Games App") and the games and other content products operated by EasyBits that are available on the Sites and Games App. We may refer to the Sites, the Games App, and such games and other content products collectively as our "GameXN Network". "EasyBits", "we" or "us" refers to EasyBits AS. 
+The policy below applies to the following: [gamexn.net](https://web.archive.org/) and all their respective sub-domains, and any other website operated by EasyBits (collectively "Sites"), as well as the GameXN GO games app ("Games App") and the games and other content products operated by EasyBits that are available on the Sites and Games App. We may refer to the Sites, the Games App, and such games and other content products collectively as our "GameXN Network". "EasyBits", "we" or "us" refers to EasyBits AS. 
 
 **OUR COMMITMENT TO PRIVACY**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, the Games App, and, in general, at every point where personally identifiable information may be requested. Please understand that by accessing or using the GameXN Network you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us at [gamexn.net/en-US/Support/Feedback](https://gamexn.net/en-US/Support/Feedback). 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage, the Games App, and, in general, at every point where personally identifiable information may be requested. Please understand that by accessing or using the GameXN Network you are agreeing with the privacy policy terms. As a result, we encourage you to read this entire Privacy Policy. If at any time you have questions or concerns about this Privacy Policy, please contact us at [gamexn.net/support/feedback](https://gamexn.net/support/feedback). 
 
 **WHAT INFORMATION MIGHT WE COLLECT and HOW MAY IT BE USED?**
 
@@ -69,11 +69,11 @@ When you enter sensitive information (such as credit card information), we encry
 While we take reasonable precautions against possible security breaches of the Sites and our customer databases and records, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We want you to feel confident using the GameXN Network but we cannot ensure or warrant the security of any information you transmit to us. 
 
 **HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION?**  
-If you wish to review, update or delete any personal information that we have collected about you, please contact us at [gamexn.net/en-US/Support/Feedback](https://gamexn.net/en-US/Support/Feedback). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  
+If you wish to review, update or delete any personal information that we have collected about you, please contact us at [gamexn.net/support/feedback](https://gamexn.net/support/feedback). We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **HOW DO I LEARN ABOUT CHANGES TO THIS PRIVACY POLICY?**  
-We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of the GameXN Network will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on [gamexn.net/en-US/PrivacyPolicy](https://web.archive.org/en-US/PrivacyPolicy). 
+We may periodically update our Privacy Policy. Please understand that it is your responsibility to review this Privacy Policy frequently to remain informed about any changes to it. Your continued use of the GameXN Network will indicate your acceptance of any changes we do make. Our most current Privacy Policy will always be available for your review on [gamexn.net/privacypolicy](https://web.archive.org/privacypolicy). 
 
 **HOW TO CONTACT US?**  
-We encourage your questions and comments about any privacy concerns, about this Privacy Policy, or about any of our products and services. Please direct them to us by using this submission form at: [gamexn.net/en-US/Support/Feedback](https://gamexn.net/en-US/Support/Feedback). 
+We encourage your questions and comments about any privacy concerns, about this Privacy Policy, or about any of our products and services. Please direct them to us by using this submission form at: [gamexn.net/support/feedback](https://gamexn.net/support/feedback). 
