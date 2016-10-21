@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418234904id_/https%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021140222id_/https%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scripps Health
 
 Last Updated: 9/24/14
 
-**By using this website, you agree to the following Privacy Policy. If you do not agree to all of these terms, please do not use this website. Scripps Health reserves the right to change, modify, add, or delete portions of this Privacy Policy at any time. Your continued use of this website following any changes to the Privacy Policy will mean that you accept those changes. Please refer to the date listed above to determine when the last changes were made.**
+ **By using this website, you agree to the following Privacy Policy. If you do not agree to all of these terms, please do not use this website. Scripps Health reserves the right to change, modify, add, or delete portions of this Privacy Policy at any time. Your continued use of this website following any changes to the Privacy Policy will mean that you accept those changes. Please refer to the date listed above to determine when the last changes were made.**
 
-This Privacy Policy does not apply to any information collected offline. This information is available on the [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices "Notice Of Privacy Practices") page.
+This Privacy Policy does not apply to any information collected offline. This information is available on the [Notice of Privacy Practices](https://web.archive.org/notice-of-privacy-practices "Notice of Privacy Practices") page.
 
 #### Use of personal information/privacy
 
@@ -80,11 +80,11 @@ In accordance with the Federal Children’s Online Privacy Protection Act of 199
 
 #### Disclosures required to investigate complaints to law enforcement officials
 
-Scripps Health may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our [Terms of Use](https://web.archive.org/terms-of-use "Terms Of Use"), or in connection with a complaint filed about their use of our site by another user.
+Scripps Health may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our [Terms of Use](https://web.archive.org/terms-of-use "Terms of Use"), or in connection with a complaint filed about their use of our site by another user.
 
 Scripps Health also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend Scripps Health, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.
 
-#### Changing or Deleting Information
+#### Changing or deleting information
 
 If you wish to delete or correct your personally identifiable information obtained through this Web site, you may:
 
