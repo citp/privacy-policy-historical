@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the essaypro.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531164651id_/http%3A//essaypro.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaypro.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021180040id_/http%3A//essaypro.com/privacy-policy.html) for the most accurate reproduction.*
 
-# EssayPro: Privacy Policy
+# Privacy Policy - EssayPro
 
 Below is EssayPro.com’s comprehensive privacy statement. While the fundamental aspects of EssayPro’s privacy statement may not change, we advise all recurrent users to carefully examine the details of our privacy policy from time to time as they are subject to change.
 
 ## Gathered User Information
 
-Information gathered on our clients and [essay writers](https://web.archive.org/custom-essay-writers.html) is used only to improve our services and to provide support to our customers. No personal or payment information is given to third parties.
+Information gathered on our clients and essay writers is used only to improve our services and to provide support to our customers. No personal or payment information is given to third parties.
 
 Additionally, our webserver only gathers data such as IP address, browser type, times of access, and operating system type for statistical purposes only. Cookies are also sometimes used for the purpose of customizing your webpage’s content on our site.
 
