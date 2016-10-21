@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628192611id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021102946id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
 
-# Privacy
-
-  * Thursday, October 29, 2009, 18:15
-  * 81 views
-
-
+# Privacy – Incredible World
 
 **Incredibleworld.net** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -28,9 +23,3 @@ This site contains links to other sites. **Incredibleworld.net** **is not respon
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by contact form.
-
-#### About the Author
-
-## Write a Comment
-
-Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
