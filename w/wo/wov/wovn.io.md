@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wovn.io privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829103026id_/http%3A//wovn.io/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wovn.io privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021204801id_/https%3A//wovn.io/policy) for the most accurate reproduction.*
 
-# Wovn.io | Translate your website.
+# WOVN.io | Localize your website.
 
 ## Section I. Definitions.
 
@@ -24,7 +24,7 @@ You / Your – Refers to the user and end-user of this website.
 
 Third Party – Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by us. This includes other users and independent organizations or groups who help promote, pay for, advertise on, or have any other non-controlling interest in WOVN. This may include translators.
 
-We, Us, and Our: Refers to WOVN and its partners that incorporate this policy. Please note that this term does not necessarily represent independent translators or other external stakeholders.
+We, Us, and Our: Refers to WOVN.IO and its partners that incorporate this policy. Please note that this term does not necessarily represent independent translators or other external stakeholders.
 
 ## Section II. Application of This Policy.
 
@@ -32,7 +32,7 @@ Our privacy policy applies to all of the services offered by us, but might exclu
 
 ## Section III. Information You Give Us.
 
-The purpose of WOVN is to expand information on the Internet to a wider variety of people, cultures, and countries that may otherwise be limited by language barriers. In essence, we seek to share your web content with the world. In order to do that, we must gather and store specific pieces of information that you share with us. Examples of this information include, but are not necessarily limited to:
+The purpose of WOVN.IO is to expand information on the Internet to a wider variety of people, cultures, and countries that may otherwise be limited by language barriers. In essence, we seek to share your web content with the world. In order to do that, we must gather and store specific pieces of information that you share with us. Examples of this information include, but are not necessarily limited to:
 
   1. Email and password of your account;
   2. Content of uploaded sites;
@@ -98,4 +98,4 @@ We reserve the right to change this privacy policy at any time. You will always 
 
 ## Section IX. Closing.
 
-Thank you for reading our Privacy Policy. Please remember, the purpose of this information is to provide your web content to the world. WOVN has no interest in your personal information other than fulfilling the mission of translation and that of your site's own mission. We hope you enjoy using our service and spread your web content across the globe.
+Thank you for reading our Privacy Policy. Please remember, the purpose of this information is to provide your web content to the world. WOVN.IO has no interest in your personal information other than fulfilling the mission of translation and that of your site's own mission. We hope you enjoy using our service and spread your web content across the globe.
