@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animefever.org privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220155137id_/http%3A//www.animefever.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animefever.org privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021201537id_/http%3A//www.animefever.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - animefever.org
 
