@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the actionflash.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920220304id_/http%3A//www.actionflash.com/help.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionflash.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021091108id_/http%3A//www.actionflash.com/privacy-policy) for the most accurate reproduction.*
 
-# ActionFlash help page
+# Privacy Policy - Action Flash
 
-Internet user privacy and confidentiality is of the utmost importance to ACTIONFLASH.COM!  
-We don't collect, store or sell any personal information about our site users.  
-Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. Our "High Score" tables contain only names or aliases visitors wish to enter in order to identify themselves on the tables. This data is not and cannot be used for any other purpose.
+**Action Flash Privacy Policy**
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20130920220304id_/http%3A//www.actionflash.com/%3Cfont%20size=%222%22%20face=%22Arial%22%20color=%22#CCCCCC%22%3Ehttp://www.networkadvertising.org/managing/opt_out.asp%3C/font%3E)
+This Privacy Policy was last modified on 5/28/16. Action Flash (“us”, “we”, or “our”) operates http://www.Action Flash.com (the “Site”).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-This site is a collection of free games for you to play, and we are in no way want to infringe on any authors rights. So please [contact us](mailto:actionflash1@yahoo.com) if you wish to add or remove the game you made. 
+**Information Collection And Use**
 
-Actionflash.com has adopted an official ESRB (Entertainment Software Rating Board) Rating system for its online free games.
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
-EVERYONE Titles rated E (Everyone) have content that may be suitable for ages 6 and older.   
-Titles in this category may contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language. 
+**Log Data**
 
-TEEN Titles rated T (Teen) have content that may be suitable for ages 13 and older.   
-Titles in this category may contain violence, suggestive themes, crude humor, minimal blood and/or infrequent use of strong language. 
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. Create your own Privacy Policy Download as HTML.
 
-MATURE Titles rated M (Mature) have content that may be suitable for persons ages 17 and older.  
-Titles in this category may contain intense violence, blood and gore, sexual content, and/or strong language.
+**Cookies**
 
-ADULTS ONLY Titles rated AO (Adults Only) have content that should only be played by persons 18 years and older.   
-Titles in this category may include prolonged scenes of intense violence and/or graphic sexual content and nudity.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-Disclaimer for all banners and links contained on this website for online gambling: 
+**Security**
 
-NOTE: It is illegal for US citizens to gamble online. Therefore, links to casinos from this site are for non-U.S visitors only.   
-Actionflash.com does not offer any real money gambling. It is solely your responsibility to ensure that online gambling is legal in your jurisdiction. We cannot determine the legality of online gambling in every jurisdiction, and cannot provide any legal advice. Online casino gambling must be legal in your town, state and country of residence, you must be of legal age to gamble and pay appreciable taxes in your town, state and country of residence.   
-The information at the websites to which the banner or link advertisements refer is for news and entertainment purposes only. Use of their information in violation of any international, federal, state, or local laws is prohibited.   
-The user understands, that it is possible to lose some or all of the monies deposited and wagered at these online casinos. We cannot be held responsible if discrepancies, losses, or problems occur between an online gambling operation and you, the player, after following the links associated with the banner or link advertisements contained on this website. 
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-For details on US State gambling laws please go to:   
-http://www.gambling-law-us.com/State-Law-Summary/   
-For the list of international jurisdictions which permit online gambling go to:  
-http://answers.google.com/answers/threadview/id/772198.html 
+**Changes To This Privacy Policy**
 
-Please be aware that we provide these links for reference only. The information on these sites are not intended to substitute for informed professional legal advice. 
+Action Flash may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-Thanks for using ACTIONFLASH.COM!
+**Contact Us**
 
-If you have any questions, please write to[ actionflash1@yahoo.com](mailto:actionflash1@yahoo.com) 
+If you have any questions about this Privacy Policy, please contact us.
