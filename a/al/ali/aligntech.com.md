@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aligntech.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629122540id_/http%3A//www.aligntech.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aligntech.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021025132id_/http%3A//www.aligntech.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
