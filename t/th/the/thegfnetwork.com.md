@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegfnetwork.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614030611id_/http%3A//thegfnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegfnetwork.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022141133id_/http%3A//www.thegfnetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
