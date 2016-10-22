@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseind.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311212905id_/http%3A//www.houseind.com/fonts/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseind.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022124834id_/http%3A//www.houseind.com/fonts/support/privacy) for the most accurate reproduction.*
 
 # House Industries - Support
 
