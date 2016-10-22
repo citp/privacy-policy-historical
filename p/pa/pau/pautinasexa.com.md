@@ -1,37 +1,70 @@
-> *The following text is extracted and transformed from the pautinasexa.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121122511id_/http%3A//www.pautinasexa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pautinasexa.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022083000id_/http%3A//www.pautinasexa.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to pautinasexa.com
+# Privacy Policy
 
-Privacy Policy 
+**What information do we collect?**
 
-**Privacy Policy**   
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number.
 
-We understand that our users are our most valuable commercial asset. Their welfare is critical to our success and we understand that, accordingly, we have a serious and ongoing interest in the privacy of our users. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [Opt Out page](http://www.google.com/ads/preferences/html/opt-out.Html).
 
-We believe that a rational and sensible policy for the privacy of information should shield our users to the greatest extent reasonably possible against indiscriminate disclosure of private information, to the extent compatible with the functionality of our service and its commercial purposes, from those who do not have a practical need or reasonable commercial purpose in possessing the information. This Policy explains how we aim to protect the user's privacy and how we determine and implement the appropriate and reasonable balance of privacy and disclosure consistent with the practical necessities of functionality and economic viability. 
+ **What do we use your information for?**
 
-**The Nature of the Information We Collect**
+Any of the information we collect from you may be used in one of the following ways: 
 
-In order for our Services to work and to work economically, we need to obtain from our users some personally identifiable information which includes the user's name and email address. 
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-We also collect data that may be considered personally identifiable in a strict sense, but is not routinely used for individual purposes by us, (called here "technical information") including the IP address from which you access our web site, the browser, browser version, operating system, and screen resolution of the computer you are using. All of these things are necessary to format our web site for your display and to get it to your computer. We may use this information in aggregate form to learn how best to serve the needs and interests of our users. 
+To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-We occasionally use cookies to anonymously track and target the interests of our Users to enhance the experience on our Website and/or for advertising tracking purposes. In addition, cookies may be used on our Website for the operation of enhanced capabilities available to members, such as instant messaging. We do not and will not use cookies to collect private information from any User.   
-**  
-What we do with the Information we Collect.**
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-The personally-identifiable information obtained from our users is used in a variety of ways. 
+To administer a contest, promotion, survey or other site feature
 
-First, the personally-identifiable information is used to create, modify, and maintain the profiles of the users, to serve indexing and search utilities, to implement the functionality of the web site, to track usage, and to make the use of its Services enjoyable and rewarding to everyone involved in it.  To the extent we rely on third parties to provide such services, information is only shared with third parties working on behalf of VRE Unlimited and under specific agreement. By submitting your information to pautinasexa.com, you thereby consent to receive periodic email communications from VRE Unlimited, Inc. regarding the services, new product offers, promotions, announcements, and other matters.
+To send periodic emails
 
-Second, we may contact you by email or otherwise to confirm or terminate registration, to advise you of changes in our Terms of Service, to deal with any issues particular to you, to alert you of member communications, events services. Information will never be sold or leased to any third party or affiliated companies.  
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
+ **How do we protect your information?**
 
-Third, we reserve the right to voluntarily provide any and all information to law enforcement agencies upon request, and to comply with any or all subpoenas, all without notice to you, whether or not compliance by us is legally required. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**Security**
+**Do we use cookies?**
 
-All collected information is stored in a technically and physically secure environment.  Access to this information is strictly limited, and the information is not accessible to the public.  Our employees are dedicated to ensuring the security and privacy of all member information.  When our purchase process asks users to enter sensitive information, such as credit card-specific information, and when we store and transmit such sensitive information, that information is encrypted and is protected with SSL encryption software.  In addition, to prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we use appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic, to track abuse of our network and its data.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow( that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.  In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that there has been an information security breach.  You will be notified via e-mail in the event of such a breach.  Please be advised that notice may be delayed in order to address the needs of law enforcement, determination of the scope of network damage, and to engage in remedial measures.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These links and offers include [Amazon](http://www.amazon.com/), [eBay](http://www.amazon.com/) and other vendors. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act(, we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Third Party Ad Networks**
+
+We partner with third party ad networks and allows such networks to use cookies to collect non-personally identifiable data for targeting and serving ads. Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative's consumer page at [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.Asp).
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+This policy was last modified on March 21, 2011
