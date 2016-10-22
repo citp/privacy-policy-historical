@@ -1,75 +1,114 @@
-> *The following text is extracted and transformed from the whipitoutcomedy.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115040508id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whipitoutcomedy.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023003231id_/http%3A//www.whipitoutcomedy.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy – Comedy.com
+# Privacy Notice : United Kingdom Adidas shoes on sale, 50% off!
 
-**We will not sell or give out your email address or other personal information to other companies or websites. We understand that you have put your trust in us by providing this information. We will only use your email address as you agree or allow when you sign-up and/or opt in to receive bulletins from Comedy.com.**
+musicals4u.co.uk respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
-EFFECTIVE DATE: August 6, 2009
+## musicals4u.co.uk's Privacy Policy
 
-**1\. INTRODUCTION**
+Thank you for accessing the website ("Site") of Light In The Box Limited (all references to �us� and �our" refer to musicals4u.co.uk). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
-1.1. Purpose of Policy
+This Privacy Policy explains:  
+How we collect, use, and (under certain conditions) disclose your personal information.  
+The steps we�ve taken to secure your personal information.  
+Your options regarding the collection, use, and disclosure of your personal information.
 
-Comedy.com, LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of its website located at [http://comedy.com](http://comedy.com/ "Comedy.com") (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+This Privacy Notice applies only to this website and does not necessarily apply to personal information we collect from you offline. Please see the sctieon on Offline Collection, Use & Disclosure of Information details. We are not responsible for the content or privacy practices on any website other than musicals4u.co.uk to which this Site links or that links to this Site.
 
-1.2. Notice Concerning Children
+**By visiting our Site, you accept the practices described in this Notice.**   
+How does musicals4u.co.uk collect information about me?  
+How does musicals4u.co.uk use my personal information?   
+How are cookies and other technologies used to collect information?  
+Does musicals4u.co.uk ever give out my personal information?  
+Is information musicals4u.co.uk collects about me secure?  
+Are children allowed to use musicals4u.co.uk?  
+How does musicals4u.co.uk use and disclose information collected from me offline?  
+Where can I find updates to this policy?
 
-We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. In addition, you must be at least 14 years of age in order to set up an account and obtain a user ID with us. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, or that any registered user is under the age of 14, we will promptly delete that user’s account, including any personal information that might be stored in that user’s account. We also strongly recommend that minors between the ages of 14 and 18 get permission from a parent or guardian before using the Site and before sending any information about themselves over the Internet.
+#### How does musicals4u.co.uk collect information about me?
 
-**2\. INFORMATION COLLECTION PRACTICES**
+We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:   
+* Record and quickly bring up information you�ve given previously  
+* Help you quickly find information, products, and services  
+* Create content that is relevant to you  
+* Alert you of our new information, products, and services
 
-2.1. Basic Information We Collect
+**Registration and Ordering:** In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site. ****
 
-(a) USER PROFILE INFORMATION. We collect a variety of user-submitted information such as names, ages, and email addresses, in order to establish and authenticate user accounts and to send information and notices to our users regarding the Site and the services we offer. We may also collect descriptive information about users, which can include gender, occupation, employer, education, schools attended, likes, dislikes and other interests, and we may make this information available so that users can find others with similar traits and shared interests.
+**Email Addresses:** Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by musicals4u.co.uk is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
 
-(b) OTHER USER-PROVIDED INFORMATION. In addition to the foregoing, in operating the Site, we may include registration, online surveys, and other online forms that ask users to provide their names, e-mail addresses, and other contact information, as well as information related to the subject matter of the activities requiring registration, of the surveys or of the other online forms. Users may also have the opportunity to post photos and videos, maintain a blog or other form of online journal, and share other materials about themselves, their friends, families and colleagues. Users will have some ability to control access to these user-provided materials, and to prevent the Site from making these materials accessible to all other users.
+**Log Files:** Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)   
+**  
+Product Reviews:** We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site. 
 
-2.2. Additional Information We Collect
+#### How does musicals4u.co.uk use cookies and other technology to collect information?
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. musicals4u.co.uk uses cookies to  
+* speed up navigation   
+* track site usage  
+* recognize users and user access privileges   
+* enable selection and purchase products on this Site record your browsing activity and purchases
 
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to the Site. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on the Site other than cookies. Cookies help us learn which areas of the Site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at the Site may be diminished and some features may not work as they were intended.
+**This Site's cookies do not and cannot infiltrate a user�s hard drive to gather any confidential information.  
+**This Site also uses web beacons (also known as clear GIF technology or "action tags") to:   
+* help deliver cookies   
+* track views of a web page
 
-**3\. USE AND SHARING OF INFORMATION**
+Any electronic image on the Site, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased.   
+**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
 
-3.1. What Do We Do With Collected Information?
+How does musicals4u.co.uk use my personal information?
 
-(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We may use your personal information to verify your identity, to check your qualifications, or to follow up with transactions initiated on the Site. We may also use your contact information to inform you of any changes to the Site, or to send you additional information about us. We will only permit access to your contact information and other personal information by those other users of the Site for whom you have given your consent to such access. In addition, if you give your permission during the account registration process, we may share your contact information with our business partners or other companies so that they may send you promotional materials.
+** **Internal Use:** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
-(b) PROFILE INFORMATION. Your profile information will be displayed to other users of the Site, in order to facilitate the Site’s networking and other interactive features. In addition, users will be able to search for other users, and these searches will be run on the information that is included in our users’ profiles. By registering for the Site, you are agreeing to allow us to include your profile information in our database and to make it publicly available at the Site.
+**Communication with You:** We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with musicals4u.co.uk regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
 
-(c) USER-PROVIDED MATERIALS. You will have the ability to control access to your user-provided materials, by requiring that other users must be logged into your profile in order to access these additional materials. You will be able to manage these access controls by logging into your account and changing your privacy settings as necessary.
+Does musicals4u.co.uk ever give out my personal information?
 
-(d) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+We sell merchandise, not information **� We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:
 
-(e) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your user ID or password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.  To opt out of receiving third-party cookies from our advertisers please visit the [National Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp) and follow the instructions they have provided.
+Third-party service providers:
 
-(f) DISCLOSURE OF PERSONAL INFORMATION. In addition to disclosures described above, we may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us or our parent company, subsidiaries or affiliates, (2) protect and defend our rights or property or the rights or property of users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+** Like most online retailers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party�s service.  
+Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
 
-(g) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through the Site. If the Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.
+**Legal requirement to disclose information:** We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.  
+**  
+Merger and/or sale of assets:** We do not normally sell, trade or rent personal information   
+to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Notice in effect.  
+**  
+Non-personally identifiable information:** We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
 
-(h) ACCESS TO INFORMATION. You can review or request changes to the personal information you provided us or to the settings for your user account (including any request that we close your account) at any time by logging in to your account on the Site and changing your preferences on the “My Account” page.
+#### How does musicals4u.co.uk secure information collected about me?
 
-**4\. SECURITY**
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:   
+* Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption   
+* Granting only employees who are providing a specific service access to your personal information   
+* Working only with third-party service providers who we believe adequately secure all computer hardware.   
+**While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.**
 
-The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, or alteration, and we and our owners, partners and affiliates will have no liability to you or to any third party arising out of any such loss, misuse, or alteration.
+#### What choices do I have regarding musicals4u.co.uk�s collection of my information?
 
-**5\. WEBSITE AREAS BEYOND OUR CONTROL**
+You can choose to:   
+* Correct or update your personal information   
+* Stop receiving mail to your email address   
+* Disable your account to prevent any future purchases through that account   
+**To correct or update your personal information** , log in to My Accounts and submit a request through the online Customer Service.   
+**To unsubscribe from emails** you receive from musicals4u.co.uk, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
 
-5.1. Public Forums
+#### Are children allowed to use musicals4u.co.uk?
 
-The Site may include interactive forums such as personal web pages, message boards and chat rooms. Please remember that any information that is disclosed in these areas becomes public information, and please exercise caution when using any of these public forums to disclose your personal information. We have no control over the use of any personal information disclosed in a public forum, and you are solely responsible for the effects of any such disclosure.
+We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.  
+If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.  
 
-5.2. Third Party Websites
 
-The Site may contain links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+#### How does musicals4u.co.uk use and disclose information collected from me offline?
 
-**6\. CONTACT INFORMATION AND POLICY UPDATES**
+As musicals4u.co.uk collects most information through our Site, this Privacy Policy applies only to online collection of personal information.  
+We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information).
 
-6.1. Contacting Us
+This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
 
-If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following email address: [legal@comedy.com](mailto:legal@comedy.com)
+#### Where can I find updates to this policy?
 
-6.2. Updates and Changes
-
-We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
