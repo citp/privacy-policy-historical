@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322014822id_/https%3A//www.ceros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022151840id_/https%3A//www.ceros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Create Interactive Content with Ceros
 
@@ -58,7 +58,7 @@ All of the newsletters that are sent to you by CEROS include an unsubscribe link
 
 This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised May 28, 2013.
 
-If you have any questions or concerns regarding our privacy policy please send us your question by going [here](https://ceros-website-kham.squarespace.com/contact). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please send us your question by going [here](https://www.ceros.com/contact). You may also send a letter to:
 
 Ceros Inc.  
 151 West 25th Street  
