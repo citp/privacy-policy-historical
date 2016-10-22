@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the kiacerritos.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424093430id_/http%3A//www.kiacerritos.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiacerritos.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022172219id_/http%3A//www.kiacerritos.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Kia Cerritos
 
-**Privacy Policy **1\. Collection of Personal Information**   
+**  
+**1\. Collection of Personal Information**   
 Within this website, Kia and/or the dealer may seek certain personal information provided by the visitor for the purpose of sending product brochures or promotional materials. Information such as name, mailing address, e-mail address, type of request, and any additional information you provide, is collected by Kia and is used to meet your request. The information you provide is used by Kia to improve the services we provide to you. Your information is never given or sold to any third parties.  **
 
 **
