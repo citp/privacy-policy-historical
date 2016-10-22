@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchasahobby.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424032623id_/http%3A//researchasahobby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchasahobby.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022152156id_/http%3A//researchasahobby.com/privacy-policy) for the most accurate reproduction.*
 
 # ResearchAsaHobby.com Privacy Policy
 
@@ -23,7 +23,7 @@ Like many sites, we use “cookies” to collect information. You can instruct y
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
 
 **Changes To This Privacy Policy**  
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes. 
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes. By visiting the Site you agree to this Privacy Policy.
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please [contact us](http://researchasahobby.com/contact/). 
