@@ -1,101 +1,52 @@
-> *The following text is extracted and transformed from the briskoda.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063131id_/http%3A//www.briskoda.net/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskoda.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022060038id_/http%3A//briskoda.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BRISKODA
+# |> BRISKODA - The ŠKODA Owner Forums & Community
 
-**Your privacy is as important to us, as ours is to us.**  
-To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
+This privacy policy sets out how Summit 360 Ltd (Briskoda.net) uses and protects any information that you give Summit 360 Ltd (Briskoda.net) when you use this website. Summit 360 Ltd (Briskoda.net) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Summit 360 Ltd (Briskoda.net) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2003. What we collect 
 
-Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
+### We may collect the following information:
 
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. A guideline, this site can contain adult discussions, anyone under the age of 16 may therefore be offended or exposed to material not deemed suitable by the current education minster.
-
-**Cookies**  
-This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
-
-When you visit the BRISKODA.net website, BRISKODA.net uses “cookie" technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about your use of the website. A number of cookiesBRISKODA.net use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.  
-BRISKODA.net use cookies to:
-
-  * create a specific log-in session for a visitor to BRISKODA.net website in order that page requests by that visitor are delivered in an effective, secure and consistent manner.
-  * recognise when a visitor to the BRISKODA.net website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough resources for the number of users that we get.
-  * customise elements of the promotional layout and/or content of the pages of the website.
-  * collect statistical information about how our visitors use the website so that we can improve the website and learn which parts are most popular to visitors.
+  * Name
+  * Contact information including email address
+  * Demographic information such as location, preferences and interests
+  * IP address
 
 
 
-Some of the cookies used by BRISKODA.net website are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set.
+### What we do with the information we gather
 
-You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/)which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on the BRISKODA.net website, you may not be able to take full advantage of the website if you do so.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-**Cookies In Use**  
-All Users  
-The following cookies are in place for all users.
+### Internal record keeping.
 
-  * Tapatalk; We use tapatalk for improved mobile communications and updates.
-  * member_id; our own cookie, used to track your membership number when logged in.
-  * pass_hash; our own cookie, used to store a hash locally.
-  * session_id; our own cookie, used to store your session id.
+We may use the information to improve our products and services. 
 
+We may periodically send promotional emails about events, special offers or other information which we think you may find interesting using the email address which you have provided. 
 
+### Security
 
-**Guests Only**  
-The following services may or do set cookies, they are initially only for guest users of the site. If you have not logged in you will see them set.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-  * Skimlinks; We use Skimlinks on our main site which turns applicable links into affiliate links on our website, Skimlinks uses a cookies to track who you were referred by for the purpose of the affiliate program [Skimlinks privacy policy](http://skimlinks.com/privacy-policy#users)
-  * Google Ads; We use Google Adsense on our main site, this displays ads to you as a guest by Google
+### How we use cookies
 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-**Using your personal information**  
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.  
-We may use your personal information to:
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-  * administer the website;
-  * improve your browsing experience by personalising the website;
-  * enable your use of the services available on the website;
-  * send to you goods purchased via the website, and supply to you services purchased via the website;
-  * send statements and invoices to you, and collect payments from you;
-  * send you general (non-marketing) communications;
-  * send you email notifications which you have specifically requested;
-  * deal with enquiries and complaints made by or about you relating to the website; and Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
+Find out more at our [cookie page](https://web.archive.org/pages/cookie-policy)
 
+### Links to other websites
 
-We will not, ( read: never ever ), provide your personal information to any third parties for any purpose.  
-Unless you're a fraudster, in which case we will, with the police. See Disclosures
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at [www.paypal.com](http://www.paypal.com/). We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
+### Controlling your personal information
 
-**Disclosures**  
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy. In addition, we may disclose your personal information:
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-  * to the extent that we are required to do so by law;
-  * in connection with any legal proceedings or prospective legal proceedings;
-  * in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-  * to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and]
-  * to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please email webmaster (at) briskoda.net. 
 
-
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-Security of your personal information  
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
-
-**Policy amendments**  
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. We may also notify you of changes to our privacy policy by email.
-
-**Third party websites**  
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. Click carefully.
-
-If you have any questions, please contact us via email, our address is hello @ briskoda.net
-
-Skimlinks Disclosure, we are trailing this for guest visitors, more > [Skimlinks](http://skimlinks.com/)
-
-As per the Amazon Operating Agreement, we are required to state that we are a participant in the Amazon Europe S.a.r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn fees by advertising and linking to Amazon.co.uk.
-
-FindsYouCars Disclosure, we are using the affiliate program and earn fees by advertising and linking to FindsYouCars.com 
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
