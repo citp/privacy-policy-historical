@@ -1,22 +1,25 @@
-<!--The following is the downloaded HTML source of the jbrandjeans.com privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324020100id_/https%3A//www.jbrandjeans.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jbrandjeans.com privacy policy that was archived on 2016-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161022095606id_/https%3A//www.jbrandjeans.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:ng="http://angularjs.org" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Privacy Policy | J Brand®</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 		<meta charset="utf-8">
+		<title>Privacy Policy | J Brand®</title>
 <meta name="description" content="J Brand® is a California brand offering timeless and premium jeans for Women and Men. Shop our extended collection now.">
-<meta name="keywords" content="j brand women, j brand men, j brand sale, j brand, J Brand, j brand J LIst, j brand get connected">		<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/W9vcMmZQ0bFO6lYPHuUSLB2xicBpYGgy/analytics.min.js"></script><script async="" src="//cdn.app.exitmonitor.com/em.js"></script><script type="text/javascript" src="/ruxitagentjs_23fgjnqrtx_10091160322153421.js" data-dtconfig="rid=RID_-798179461|rpid=-1963179980|tp=500,50,0,1|reportUrl=/rb_fvb42920|domain=jbrandjeans.com"></script><link rel="shortcut icon" type="image/png" href="https://d20b8ckvu6gb0w.cloudfront.net/jbrand/images/favicon.png">
+<meta name="keywords" content="j brand women, j brand men, j brand sale, j brand, J Brand, j brand J LIst, j brand get connected">		
+		<link rel="shortcut icon" type="image/png" href="https://d20b8ckvu6gb0w.cloudfront.net/jbrand/images/favicon.png">
 
-<link rel="stylesheet" type="text/css" href="//d1u07hwq37tgpb.cloudfront.net/static/styles/sites/jbrand/privacy-policy.compose.css?configState=LIVE&amp;version=&amp;resourceVersion=Ea0NKZVjuQ0v-y8PJPbPsIjT3">
-		
-<script type="text/javascript">
+<link rel="stylesheet" type="text/css" href="//d1u07hwq37tgpb.cloudfront.net/static/styles/sites/jbrand/privacy-policy.compose.css?configState=LIVE&amp;version=&amp;resourceVersion=lBAj2xXys8lJ-aAD3QSlEDEmX">
+
+<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="//cdn.app.exitmonitor.com/em.js"></script><script type="text/javascript">
 !function(){"use strict";var e=[],t=document.createElement("script"),n=document.head||document.getElementsByTagName("head")[0],o="async"in t,c=!!t.readyState,a="ontouchstart"in window||navigator.msMaxTouchPoints,i=function(){for(;e[0]&&("function"==typeof e[0]||e[0].async||"loaded"==e[0].readyState||"complete"==e[0].readyState);){var t=e.shift();"function"==typeof t?t():(t.onreadystatechange=null,n.insertBefore(t,n.firstChild))}},r=function(t,r){var d=function(){if(o){var a=document.createElement("script");a.async=r,a.src=t,a.addEventListener("load",s.bind(void 0,a)),n.appendChild(a),e.push(a)}else if(c){var a=document.createElement("script");a.async=r,e.push(a),a.onreadystatechange=i,a.src=t}else document.write('<script src="'+t+'" defer><'+'/script>')};a&&document.documentMode&&document.documentMode>9?setTimeout(d,0):d()},s=function(t){for(var n=0,o=e.length;o>n;++n)t===e[n]&&e.splice(n,1)},d=function(t,n){e.length||t();var a=0,i=function(){--a,s(this),0===a&&t()};if(o)for(var r=0,d=e.length;d>r;++r){var u=e[r];u.async||(++a,u.addEventListener("load",i))}else c&&e.push(t)},u=function(e,t){"function"==typeof e&&d(e),"string"==typeof e&&r(e,t)},f=function(e,t){"function"==typeof e&&u(e),"string"==typeof e&&(e=e.split(","));for(var n=0;n<e.length;++n)u(e[n],!!t)};window.Loader=f}();
 </script>
 <script type="text/javascript">
-var Symphony = (function() {
+window.Symphony = (function() {
     var syAsyncInit = [];
+    var externalNgModulesToAdd = [];
+    var lazyLoadReady = false;
 
     function run(fn) {
         try {
@@ -42,26 +45,54 @@ var Symphony = (function() {
         });
     }
 
+    function setLazyLoadReady() {
+        lazyLoadReady = true;
+        var toAddModulesNumber = externalNgModulesToAdd.length;
+        if (toAddModulesNumber) {
+            for (var i = 0; i < toAddModulesNumber; ++i) {
+                externalNgModulesToAdd[i] && externalNgModulesToAdd[i]();
+            }
+            window.triggerLazyLoad();
+        }
+    }
+
+    function isLazyLoadReady() { return lazyLoadReady; }
+
+    function addNgModule(cb) {
+        if (lazyLoadReady) {
+            cb();
+            window.triggerLazyLoad();
+        } else {
+            externalNgModulesToAdd.push(cb);
+        }
+    }
+
     return {
         bundlesReady: bundlesReady,
         flushBundlesReady: flushBundlesReady,
         apiReady: apiReady,
-    }
+        addNgModule: addNgModule,
+        setLazyLoadReady: setLazyLoadReady,
+        isLazyLoadReady: isLazyLoadReady
+    };
 })();
 </script><!--[if lt IE 9]>
 <script type='text/javascript'>
-Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.10/js/html5shiv.js", !true);
+Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/19.21/js/html5shiv.js", !true);
 </script><![endif]-->
 <script type="text/javascript">
 window.COMPOSE_DATA = {};
 </script>
 
-			<script type="text/javascript">
-			window.symphonyHeaderBundleEnabled = true;
-			</script>
 <script type="text/javascript">
-Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.10/js/lego.js", !true);
-</script><script src="//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.10/js/lego.js"></script>
+Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/19.21/js/lego.js", !true);
+</script><script src="//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/19.21/js/lego.js"></script>
+			<script type="text/javascript">
+			Loader(function() {
+				jQuery(function() { window.bootstrapAngular(); });
+			});
+			</script>
+
 
 
 
@@ -70,48 +101,32 @@ Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.10/js/lego.js", !true);
 <meta property="og:title" content="J Brand">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://s3.amazonaws.com/sneakpeeq-sites/jbrand/images/logo.png">
+<meta name="google-site-verification" content="L_Aw_iI4I2BwDdtfziEPtxlB5xgern37RTvIgmf6Ntg">
 <meta property="og:description" content="J Brand® is a California brand offering timeless and premium jeans for Women and Men. Shop our extended collection now.">
 <style type="text/css">
 .ng-cloak,[ng-cloak],[ng\:cloak],.ng-hide{display: none!important;}
 </style>
 
-<link id="css-overrides" rel="stylesheet" type="text/css" href="//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.css.gz?v=2016032321842" );="">
-
 <script type="text/javascript" src="//d20b8ckvu6gb0w.cloudfront.net/symphony-cs-apps/lib/syU/v.1.4/syBundle.js.gz"></script>
 
-<!-- Exit Monitor -->
-<script type="text/javascript">
-if(window.location.pathname === '/cart') {
-} else {
-(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){
-(a[b].q=a[b].q||[]).push(arguments)};
-c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;
-d.parentNode.insertBefore(c,d)
-})(window,document,"script","//cdn.app.exitmonitor.com/em.js","em");
-em('set', 'campaign', '562559596632630009110000');
-}
-</script>
-<script type="text/javascript">
-    Loader("//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.js.gz?v=2016032321842");
-</script><script src="//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.js.gz?v=2016032321842"></script>
 
-<!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" id="inspectletjs">
-window.__insp = window.__insp || [];
-__insp.push(['wid', 578599080]);
-(function() {
-function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
-setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
-})();
-</script>
-<!-- End Inspectlet Embed Code -->
+<!--BRAND ENTRY: DO NOT EDIT-->
+<script type="text/javascript">
+Symphony.bundleVersion = "1.0.796";
+!function(){function e(e){var t="; "+document.cookie,r=t.split("; "+e+"=");if(2==r.length)return r.pop().split(";").shift()}function t(e,t,r){var n=new Date;n.setDate(n.getDate()+r);var t=escape(t)+(null==r?"":"; expires="+n.toUTCString());document.cookie=e+"="+t}function r(e,t){t||(t=location.href),e=e.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");var r="[\\?&]"+e+"=([^&#]*)",n=new RegExp(r),s=n.exec(t);return null==s?null:s[1]}var n="https://symphony-micromanage.herokuapp.com",s=e("pageVersion"),a=e("microManage"),c=r("pageVersion"),i=c||s||"master",o="master"!==i,p="//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.css.gz?v="+Symphony.bundleVersion,l="//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.js.gz?v="+Symphony.bundleVersion;o&&(l=l.replace("master",i).replace("dist","build").replace("d20b8ckvu6gb0w.cloudfront.net/","s3.amazonaws.com/sneakpeeq-sites/"),p=p.replace("master",i).replace("dist","build").replace("d20b8ckvu6gb0w.cloudfront.net/","s3.amazonaws.com/sneakpeeq-sites/")),c&&t("pageVersion",c,7),(o||a)&&document.write('<script type="text/javascript" src="'+n+'/partner/dist/main.js"></'+"script>"),document.write('<link rel="stylesheet" type="text/css" href="'+p+'">'),document.write('<script type="text/javascript" src="'+l+'"></'+"script>")}();
+</script><link rel="stylesheet" type="text/css" href="//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.css.gz?v=1.0.796"><script type="text/javascript" src="//d20b8ckvu6gb0w.cloudfront.net/jbrand/styles/dist/master.jbrand.min.js.gz?v=1.0.796"></script>
+<!--BRAND ENTRY: DO NOT EDIT-->
+
 
 			<script type="text/javascript">
-				var analytics=analytics||[];analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},i=["identify","track","trackLink","trackForm","trackClick","trackSubmit","pageview","ab","alias","ready"];for(var s=0;s<i.length;s++)analytics[i[s]]=r(i[s])};
-				analytics.load("W9vcMmZQ0bFO6lYPHuUSLB2xicBpYGgy");
+				var analytics = null;
 			</script>
-		
+
 		<script type="text/javascript">
+			window.SITE_DATA = {
+				currencyCode: 'USD'
+			};
+
 			var currentUser = {
 				'email':'',
 				'name':' ',
@@ -128,21 +143,25 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 		<div id="body" class="body">
 
 	<div class="invisible hidden-xs">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+        <div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+        	<div class="login-as-container">
+        		<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+        		<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+        	</div>
+        </div>        		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+        			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+        		</div>        					<div class="promo-banner cartHide">
 
 
 			<div>
 				<div class="promo-banner__container promo-banner__container--sale">
-<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div>
-</div>
+<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div></div>
 <div class="promo-banner__container promo-banner__container--sale">
-<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 10% off your online order</a></div>
-<div class="promo-banner__container promo-banner__container--primary">Enjoy Free Shipping And Easy Returns</div>
+<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 15% off your online order</a></div>
+<div class="promo-banner__container promo-banner__container--primary">Free Domestic Shipping And Easy Returns</div>
 <div class="promo-banner__container promo-banner__container--secondary">International Shipping Available</div>
 			</div>
-							</div>
+		        					</div>
 	</div>
 
 	
@@ -168,7 +187,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 						</div>
 					</div>
 						<div class="text-center login-external">
-							<a ng-click="loginFB()" href="" class="btn btn-fb btn-lg btn-block"><img src="/static/images/sites/facebook-f.png">log in with <strong>Facebook</strong></a>
+							<a ng-click="loginFB()" href="" class="btn btn-fb btn-lg btn-block"><span class="fb-icon"></span>log in with <strong>Facebook</strong></a>
 						</div>
 
 						<div class="horizontal-line">
@@ -176,7 +195,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 						</div>
 					<div>
 						<form method="POST" autocomplete="on" autofill-form="" name="signin">
-							<input type="email" class="input-block-level" name="email" ng-model="loginInput.email" required="" placeholder="example@mail.com" autocomplete="email" autofill="" autofocus="">
+							<input type="text" class="input-block-level" name="email" ng-model="loginInput.email" required="" placeholder="example@mail.com" autocomplete="email" autofill="" autofocus="">
 							<sp-password password="loginInput.password" hide-password="hidePassword"></sp-password>					
 							<button sp-wait-btn="" submit-form="loginEmail" class="default btn btn-lg btn-block">Secure Sign in</button>
 						</form>
@@ -190,7 +209,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 				<div class="text-center" ng-show="isRegState() &amp;&amp; !currentUser">
 					<div class="alert alert-error" ng-bind="formError" ng-show="formError"></div>
 						<div class="text-center login-external">
-							<a ng-click="loginFB()" href="" class="btn btn-fb btn-lg btn-block"><img src="/static/images/sites/facebook-f.png">Signup with <strong>Facebook</strong></a>
+							<a ng-click="loginFB()" href="" class="btn btn-fb btn-lg btn-block"><span class="fb-icon"></span>Signup with <strong>Facebook</strong></a>
 						</div>
 						<div class="horizontal-line">
 							<h4> OR </h4>
@@ -212,15 +231,27 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 					</div>
 				</div>
 
-				<div class="text-center" ng-show="currentUser">
-					<h3>Welcome!</h3>
-				</div>
+                <div class="text-center" ng-show="currentUser">
+                    <h3>Welcome!</h3>
+                    <div ng-show="!isAdmin &amp;&amp; !currentUser.verified" verify-account="">
+                        <p>An account confirmation email has been sent to <strong ng-bind="currentUser.email"></strong></p>
+                        <p>Please click the link in your confirmation email to track or modify your orders. To resend the confirmation email, <a ng-click="verifyAccount()">click here.</a></p>
+                    </div>
+                    <div ng-show="isAdmin" login-as-header="" class="login-as-welcome">
+                        <p>You are logged in as</p>
+                        <div class="email" ng-bind="getEmail()"></div>
+                        <div>
+                            <button type="button" class="primary" data-dismiss="modal" aria-hidden="true">Continue</button>
+                            <button type="button" ng-click="logout()" data-dismiss="modal" aria-hidden="true">Log out</button>
+                        </div>
+                    </div>
+                </div>
 
 				<div class="text-center" ng-show="isForgotPassState() &amp;&amp; !currentUser">
 					<div class="alert alert-error forgotpass-error" ng-show="formError">
 						[[formError]]
 						<div class="text-center login-external" ng-show="forgotPassFBError">
-							<a ng-click="loginFB()" href="" class="btn btn-fb btn-lg btn-block"><img src="/static/images/sites/facebook-f.png">log in with <strong>Facebook</strong></a>
+							<a ng-click="loginFB()" href="" class="btn btn-fb btn-lg btn-block"><span class="fb-icon"></span>log in with <strong>Facebook</strong></a>
 						</div>
 					</div>
 					<form name="forgot" autocomplete="on" autofill-form="">
@@ -306,7 +337,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 </li>
 
 <li class="dropdown account hidden-xs ng-cloak" ng-show="currentUser.id" sp-dropdown-tablet="" ng-click="toggleDropdownMenu()" aria-haspopup="true">
-	<img src="/static/images/sites/page.wholesale.star.png" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"><span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
+	<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
 	<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer"> [[currentUser.purchasingChannel.name | lowercase]] / </span>
 	<span class="account-wholesale" ng-show="currentUser.wholesaleApplicationInProcess"> wholesale (pending) / </span>
 	<span class="account-name" ng-cloak="" ng-bind="currentUser.firstName || currentUser.email"></span> <span class="arrow">▼</span>
@@ -339,18 +370,22 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 		</div>
 		<ul>
 			<li ng-repeat="item in getCart().displayItems" class="cart-product">
-				<img ng-src="[[item.mainImage.ref]]">
+				<a class="link-unstyled" ng-href="[[item.product.url]]">
+					<img ng-src="[[item.mainImage.ref]]">
+				</a>
 				<div class="remove" ng-click="removeItem(item)">×</div>
 				<div class="dropdown-price" ng-bind="item.total / 100 | currency"></div>
-				<div class="dropdown-product">
-					<div class="product-title" ng-bind="item.product.name"></div>
-					<div class="product-details">
-						<ul class="product-attrs">
-							<li>Qty: [[item.quantity]]</li>
-							<li ng-repeat="(key, attr) in item.variant.attrMap">[[key]]: [[attr.value]]</li>
-						</ul>
-					</div>	
-				</div>
+				<a class="link-unstyled" ng-href="[[item.product.url]]">
+					<div class="dropdown-product">
+						<div class="product-title" ng-bind="item.product.name"></div>
+						<div class="product-details">
+							<ul class="product-attrs">
+								<li>Qty: [[item.quantity]]</li>
+								<li ng-repeat="(key, attr) in item.variant.attrMap">[[key]]: [[attr.value]]</li>
+							</ul>
+						</div>	
+					</div>
+				</a>
 			</li>
 		</ul>
 	</div>
@@ -361,38 +396,46 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 		<header class="navbar navbar-static-top affix-top" id="kiwiHeader" data-spy="affix" sp-cart-class="cartHide">
 			<div class="hidden-xs affix-header">
 				<div class="hidden-xs top-hanging">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+        <div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+        	<div class="login-as-container">
+        		<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+        		<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+        	</div>
+        </div>        		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+        			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+        		</div>        					<div class="promo-banner cartHide">
 
 
 			<div>
 				<div class="promo-banner__container promo-banner__container--sale">
-<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div>
-</div>
+<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div></div>
 <div class="promo-banner__container promo-banner__container--sale">
-<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 10% off your online order</a></div>
-<div class="promo-banner__container promo-banner__container--primary">Enjoy Free Shipping And Easy Returns</div>
+<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 15% off your online order</a></div>
+<div class="promo-banner__container promo-banner__container--primary">Free Domestic Shipping And Easy Returns</div>
 <div class="promo-banner__container promo-banner__container--secondary">International Shipping Available</div>
 			</div>
-							</div>
+		        					</div>
 				</div>
 				<div class="invisible">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+        <div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+        	<div class="login-as-container">
+        		<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+        		<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+        	</div>
+        </div>        		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+        			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+        		</div>        					<div class="promo-banner cartHide">
 
 
 			<div>
 				<div class="promo-banner__container promo-banner__container--sale">
-<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div>
-</div>
+<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div></div>
 <div class="promo-banner__container promo-banner__container--sale">
-<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 10% off your online order</a></div>
-<div class="promo-banner__container promo-banner__container--primary">Enjoy Free Shipping And Easy Returns</div>
+<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 15% off your online order</a></div>
+<div class="promo-banner__container promo-banner__container--primary">Free Domestic Shipping And Easy Returns</div>
 <div class="promo-banner__container promo-banner__container--secondary">International Shipping Available</div>
 			</div>
-							</div>
+		        					</div>
 				</div>
 			</div>
 			
@@ -421,38 +464,46 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 	</div>
 
 	<div class="navbar-mobile sub-hanging visible-xs">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+        <div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+        	<div class="login-as-container">
+        		<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+        		<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+        	</div>
+        </div>        		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+        			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+        		</div>        					<div class="promo-banner cartHide">
 
 
 			<div>
 				<div class="promo-banner__container promo-banner__container--sale">
-<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div>
-</div>
+<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div></div>
 <div class="promo-banner__container promo-banner__container--sale">
-<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 10% off your online order</a></div>
-<div class="promo-banner__container promo-banner__container--primary">Enjoy Free Shipping And Easy Returns</div>
+<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 15% off your online order</a></div>
+<div class="promo-banner__container promo-banner__container--primary">Free Domestic Shipping And Easy Returns</div>
 <div class="promo-banner__container promo-banner__container--secondary">International Shipping Available</div>
 			</div>
-							</div>
+		        					</div>
 	</div>
 	<div class="invisible visible-xs">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+        <div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+        	<div class="login-as-container">
+        		<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+        		<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+        	</div>
+        </div>        		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+        			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+        		</div>        					<div class="promo-banner cartHide">
 
 
 			<div>
 				<div class="promo-banner__container promo-banner__container--sale">
-<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div>
-</div>
+<div class="promo-banner__sale-link"><a href="/women/featured/new-arrivals"></a><a href="/promotion-details"><u></u></a></div></div>
 <div class="promo-banner__container promo-banner__container--sale">
-<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 10% off your online order</a></div>
-<div class="promo-banner__container promo-banner__container--primary">Enjoy Free Shipping And Easy Returns</div>
+<a href="#" class="promo-banner__sale-link js-sign-up-promo-banner">Sign Up Today for 15% off your online order</a></div>
+<div class="promo-banner__container promo-banner__container--primary">Free Domestic Shipping And Easy Returns</div>
 <div class="promo-banner__container promo-banner__container--secondary">International Shipping Available</div>
 			</div>
-							</div>
+		        					</div>
 	</div>
 	
 		<a href="/" class="header-brand-name visible-xs logo">
@@ -498,22 +549,37 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										<a href="/women/featured/best-sellers">Best Sellers</a>
 									</li>
 									<li>
-										<a href="/women/featured/online-exclusives">Online Exclusives</a>
+										<a href="/women/featured/j-list">J List</a>
 									</li>
 									<li>
-										<a href="/women/featured/montauk-collection">Montauk Collection</a>
+										<a href="/women/featured/fall-favorites">Fall Favorites</a>
 									</li>
 									<li>
-										<a href="/women/featured/whites">Whites</a>
+										<a href="/women/featured/coated-denim">Coated Denim</a>
 									</li>
 									<li>
-										<a href="/women/featured/modern-retro">Modern Retro</a>
+										<a href="/women/featured/grey-days">Grey Days</a>
+									</li>
+									<li>
+										<a href="/women/featured/velvet">Velvet</a>
+									</li>
+									<li>
+										<a href="/women/featured/corduroy">Corduroy</a>
+									</li>
+									<li>
+										<a href="/women/featured/hardware">Hardware</a>
+									</li>
+									<li>
+										<a href="/women/featured/cropped-boot">Cropped Boot</a>
+									</li>
+									<li>
+										<a href="/women/featured/j-brand-black">J Brand Black</a>
 									</li>
 									<li>
 										<a href="/women/featured/denim-destructed">Denim Destructed</a>
 									</li>
 									<li>
-										<a href="/women/featured/seriously-black">Seriously Black</a>
+										<a href="/women/featured/hi-def-denim">Hi-Def Stretch Denim</a>
 									</li>
 									<li>
 										<a href="/women/featured/photo-ready">Photo Ready Denim</a>
@@ -522,10 +588,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										<a href="/women/featured/luxe-sateen">Luxe Sateen</a>
 									</li>
 									<li>
-										<a href="/women/featured/high-rise">High Rise</a>
-									</li>
-									<li>
-										<a href="/women/featured/j-list">J List</a>
+										<a href="/women/featured/seriously-black">Seriously Black</a>
 									</li>
 							</ul>
 					</li>
@@ -551,7 +614,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										<a href="/women/categories/pants">Pants &amp; Trousers</a>
 									</li>
 									<li>
-										<a href="/women/categories/shorts-and-jumpsuits">Jumpsuits &amp; Shorts</a>
+										<a href="/women/categories/leather">Leather</a>
 									</li>
 									<li>
 										<a href="/women/categories/shorts-and-skirts">Dresses &amp; Skirts</a>
@@ -560,13 +623,10 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										<a href="/women/categories/tops">Tops</a>
 									</li>
 									<li>
-										<a href="/women/categories/outerwear">Outerwear</a>
-									</li>
-									<li>
-										<a href="/women/categories/leather">Leather</a>
-									</li>
-									<li>
 										<a href="/women/categories/sweaters">Sweaters</a>
+									</li>
+									<li>
+										<a href="/women/categories/outerwear">Outerwear</a>
 									</li>
 							</ul>
 					</li>
@@ -595,25 +655,28 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										<a href="/women/fit/straight">Straight</a>
 									</li>
 									<li>
-										<a href="/women/fit/boy-fit">Boy Fit</a>
-									</li>
-									<li>
 										<a href="/women/fit/boot">Boot</a>
 									</li>
 									<li>
 										<a href="/women/fit/flare">Flare</a>
 									</li>
 									<li>
-										<a href="/women/fit/shorts">Shorts</a>
+										<a href="/women/fit/boyfriend">Boyfriend</a>
+									</li>
+									<li>
+										<a href="/women/fit/maternity">Maternity</a>
 									</li>
 									<li>
 										<a href="/women/fit/cropped">Cropped</a>
 									</li>
 									<li>
-										<a href="/women/fit/petite">Petite</a>
+										<a href="/women/fit/high-rise">High Rise</a>
 									</li>
 									<li>
-										<a href="/women/fit/maternity">Maternity</a>
+										<a href="/women/fit/fit-guide">Fit Guide</a>
+									</li>
+									<li>
+										<a href="/women/fit/size-guide">Size Guide</a>
 									</li>
 							</ul>
 					</li>
@@ -649,25 +712,37 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										<a href="/men/featured/best-sellers">Best Sellers</a>
 									</li>
 									<li>
-										<a href="/men/featured/montauk-collection">Montauk Collection - Cotton Linen</a>
+										<a href="/men/featured/j-list">J List</a>
 									</li>
 									<li>
-										<a href="/men/featured/raw">Raw</a>
+										<a href="/men/featured/the-tapered-tyler">The Tapered Tyler</a>
 									</li>
 									<li>
-										<a href="/men/featured/black-denim">Black Denim</a>
+										<a href="/men/featured/melange">Melange</a>
 									</li>
 									<li>
-										<a href="/men/featured/earth-tones">Colored Denim</a>
+										<a href="/men/featured/fall-favorites">Fall Favorites</a>
+									</li>
+									<li>
+										<a href="/men/featured/utility">Utility</a>
+									</li>
+									<li>
+										<a href="/men/featured/twill">Twill</a>
 									</li>
 									<li>
 										<a href="/men/featured/french-terry">French Terry</a>
 									</li>
 									<li>
-										<a href="/men/featured/denim-destructed">Denim Destructed</a>
+										<a href="/men/featured/raw">Raw</a>
 									</li>
 									<li>
-										<a href="/men/featured/j-list">J List</a>
+										<a href="/men/featured/black-denim">J Brand Black</a>
+									</li>
+									<li>
+										<a href="/men/featured/pima-cotton-denim">Pima Cotton Denim</a>
+									</li>
+									<li>
+										<a href="/men/featured/denim-destructed">Denim Destructed</a>
 									</li>
 							</ul>
 					</li>
@@ -704,9 +779,6 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 									<li>
 										<a href="/men/categories/leather">Leather</a>
 									</li>
-									<li>
-										<a href="/men/categories/sweaters">Sweaters</a>
-									</li>
 							</ul>
 					</li>
 					<li>
@@ -725,16 +797,22 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 									</a>
 								</li>
 									<li>
-										<a href="/men/fit/cole-relaxed">Cole (Relaxed)</a>
-									</li>
-									<li>
-										<a href="/men/fit/kane-straight">Kane (Straight)</a>
+										<a href="/men/fit/mick-skinny">Mick (Skinny)</a>
 									</li>
 									<li>
 										<a href="/men/fit/tyler-slim">Tyler (Slim)</a>
 									</li>
 									<li>
-										<a href="/men/fit/mick-skinny">Mick (Skinny)</a>
+										<a href="/men/fit/kane-straight">Kane (Straight)</a>
+									</li>
+									<li>
+										<a href="/men/fit/cole-relaxed">Relaxed</a>
+									</li>
+									<li>
+										<a href="/men/fit/fit-guide">Fit Guide</a>
+									</li>
+									<li>
+										<a href="/men/fit/size-guide">Size Guide</a>
 									</li>
 							</ul>
 					</li>
@@ -752,22 +830,15 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 						</a>
 					</li>
 					<li>
-						<a href="/get-connected/j-brand-x-elsewhere-montauk-blues">
-							J BRAND x Elsewhere: Montauk Blues
+						<a href="/get-connected/downtown-denim">
+							Downtown Denim
 
 						</a>
 
 					</li>
 					<li>
-						<a href="/get-connected/j-brand-x-elsewhere-blanc-slate">
-							J Brand x Elsewhere: Blanc Slate
-
-						</a>
-
-					</li>
-					<li>
-						<a href="/get-connected/blanc-slate">
-							Blanc Slate
+						<a href="/get-connected/ventura-highway">
+							Ventura Highway
 
 						</a>
 
@@ -794,6 +865,15 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 										Shop All
 									</a>
 								</li>
+									<li>
+										<a href="/get-connected/collections/2016-fall-ad-campaign">2016 Fall Ad Campaign</a>
+									</li>
+									<li>
+										<a href="/get-connected/collections/2016-spring-women">2016 Spring Women</a>
+									</li>
+									<li>
+										<a href="/get-connected/collections/2016-spring-men">2016 Spring Men</a>
+									</li>
 									<li>
 										<a href="/get-connected/collections/2016-pre-spring-women">2016 Pre Spring Women</a>
 									</li>
@@ -858,73 +938,18 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 						</a>
 					</li>
 					<li>
-						<a href="/j-list/core-fits" aria-haspopup="true">
-							J List
+						<a href="/j-list/core-fits/women">
+							Women's J List
 
-								<div class="nested-nav-arrow-container">
-									<div class="nested-nav-arrow"></div>
-								</div>
 						</a>
 
-							<ul class="menu-dropover" aria-haspopup="false">
-								<li>
-									<a href="/j-list/core-fits" class="visible-sm">
-										Shop All
-									</a>
-								</li>
-									<li>
-										<a href="/j-list/core-fits/women">Women</a>
-									</li>
-									<li>
-										<a href="/j-list/core-fits/men">Men</a>
-									</li>
-							</ul>
 					</li>
 					<li>
-						<a href="/j-list/fit-guide" aria-haspopup="true">
-							Fit Guide
+						<a href="/j-list/core-fits/men">
+							Men's J List
 
-								<div class="nested-nav-arrow-container">
-									<div class="nested-nav-arrow"></div>
-								</div>
 						</a>
 
-							<ul class="menu-dropover" aria-haspopup="false">
-								<li>
-									<a href="/j-list/fit-guide" class="visible-sm">
-										Shop All
-									</a>
-								</li>
-									<li>
-										<a href="/j-list/fit-guide/women">Women</a>
-									</li>
-									<li>
-										<a href="/j-list/fit-guide/men">Men</a>
-									</li>
-							</ul>
-					</li>
-					<li>
-						<a href="/jlist/size-guide" aria-haspopup="true">
-							Size Guide
-
-								<div class="nested-nav-arrow-container">
-									<div class="nested-nav-arrow"></div>
-								</div>
-						</a>
-
-							<ul class="menu-dropover" aria-haspopup="false">
-								<li>
-									<a href="/jlist/size-guide" class="visible-sm">
-										Shop All
-									</a>
-								</li>
-									<li>
-										<a href="/size-guide/women">Women</a>
-									</li>
-									<li>
-										<a href="/jlist/size-guide/men">Men</a>
-									</li>
-							</ul>
 					</li>
 			</ul>
 	</li>
@@ -1047,22 +1072,47 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/featured/online-exclusives">Online Exclusives</a>
+														<a href="/women/featured/j-list">J List</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/featured/montauk-collection">Montauk Collection</a>
+														<a href="/women/featured/fall-favorites">Fall Favorites</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/featured/whites">Whites</a>
+														<a href="/women/featured/coated-denim">Coated Denim</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/featured/modern-retro">Modern Retro</a>
+														<a href="/women/featured/grey-days">Grey Days</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/featured/velvet">Velvet</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/featured/corduroy">Corduroy</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/featured/hardware">Hardware</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/featured/cropped-boot">Cropped Boot</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/featured/j-brand-black">J Brand Black</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
@@ -1072,7 +1122,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/featured/seriously-black">Seriously Black</a>
+														<a href="/women/featured/hi-def-denim">Hi-Def Stretch Denim</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
@@ -1087,12 +1137,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/featured/high-rise">High Rise</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/women/featured/j-list">J List</a>
+														<a href="/women/featured/seriously-black">Seriously Black</a>
 													</h5>
 												</div>
 										</div>
@@ -1128,7 +1173,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/categories/shorts-and-jumpsuits">Jumpsuits &amp; Shorts</a>
+														<a href="/women/categories/leather">Leather</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
@@ -1143,17 +1188,12 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/categories/outerwear">Outerwear</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/women/categories/leather">Leather</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
 														<a href="/women/categories/sweaters">Sweaters</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/categories/outerwear">Outerwear</a>
 													</h5>
 												</div>
 										</div>
@@ -1194,11 +1234,6 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/fit/boy-fit">Boy Fit</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
 														<a href="/women/fit/boot">Boot</a>
 													</h5>
 												</div>
@@ -1209,7 +1244,12 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/fit/shorts">Shorts</a>
+														<a href="/women/fit/boyfriend">Boyfriend</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/fit/maternity">Maternity</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
@@ -1219,12 +1259,17 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/fit/petite">Petite</a>
+														<a href="/women/fit/high-rise">High Rise</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/women/fit/maternity">Maternity</a>
+														<a href="/women/fit/fit-guide">Fit Guide</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/women/fit/size-guide">Size Guide</a>
 													</h5>
 												</div>
 										</div>
@@ -1284,22 +1329,32 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/featured/montauk-collection">Montauk Collection - Cotton Linen</a>
+														<a href="/men/featured/j-list">J List</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/featured/raw">Raw</a>
+														<a href="/men/featured/the-tapered-tyler">The Tapered Tyler</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/featured/black-denim">Black Denim</a>
+														<a href="/men/featured/melange">Melange</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/featured/earth-tones">Colored Denim</a>
+														<a href="/men/featured/fall-favorites">Fall Favorites</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/featured/utility">Utility</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/featured/twill">Twill</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
@@ -1309,12 +1364,22 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/featured/denim-destructed">Denim Destructed</a>
+														<a href="/men/featured/raw">Raw</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/featured/j-list">J List</a>
+														<a href="/men/featured/black-denim">J Brand Black</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/featured/pima-cotton-denim">Pima Cotton Denim</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/featured/denim-destructed">Denim Destructed</a>
 													</h5>
 												</div>
 										</div>
@@ -1368,11 +1433,6 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 														<a href="/men/categories/leather">Leather</a>
 													</h5>
 												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/men/categories/sweaters">Sweaters</a>
-													</h5>
-												</div>
 										</div>
 									</div>
 								</div>
@@ -1396,12 +1456,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 											</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/fit/cole-relaxed">Cole (Relaxed)</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/men/fit/kane-straight">Kane (Straight)</a>
+														<a href="/men/fit/mick-skinny">Mick (Skinny)</a>
 													</h5>
 												</div>
 												<div class="panel-heading store-leaf">
@@ -1411,7 +1466,22 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
-														<a href="/men/fit/mick-skinny">Mick (Skinny)</a>
+														<a href="/men/fit/kane-straight">Kane (Straight)</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/fit/cole-relaxed">Relaxed</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/fit/fit-guide">Fit Guide</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/men/fit/size-guide">Size Guide</a>
 													</h5>
 												</div>
 										</div>
@@ -1458,15 +1528,15 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 								<div class="panel-heading">
 									<h4 class="panel-title">
 
-											<a href="/get-connected/j-brand-x-elsewhere-montauk-blues">J BRAND x Elsewhere: Montauk Blues</a>
+											<a href="/get-connected/downtown-denim">Downtown Denim</a>
 									</h4>
 								</div>
-								<div id="store-7835" class="panel-collapse collapse out">
+								<div id="store-8904" class="panel-collapse collapse out">
 									<div class="panel-body">
 										<div class="panel">
 											<div class="panel-heading store-leaf menu-shop-all">
 												<h5>
-													<a href="/get-connected/j-brand-x-elsewhere-montauk-blues">Shop All</a>
+													<a href="/get-connected/downtown-denim">Shop All</a>
 												</h5>
 											</div>
 										</div>
@@ -1475,32 +1545,15 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 								<div class="panel-heading">
 									<h4 class="panel-title">
 
-											<a href="/get-connected/j-brand-x-elsewhere-blanc-slate">J Brand x Elsewhere: Blanc Slate</a>
+											<a href="/get-connected/ventura-highway">Ventura Highway</a>
 									</h4>
 								</div>
-								<div id="store-7512" class="panel-collapse collapse out">
+								<div id="store-8072" class="panel-collapse collapse out">
 									<div class="panel-body">
 										<div class="panel">
 											<div class="panel-heading store-leaf menu-shop-all">
 												<h5>
-													<a href="/get-connected/j-brand-x-elsewhere-blanc-slate">Shop All</a>
-												</h5>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="panel-heading">
-									<h4 class="panel-title">
-
-											<a href="/get-connected/blanc-slate">Blanc Slate</a>
-									</h4>
-								</div>
-								<div id="store-7442" class="panel-collapse collapse out">
-									<div class="panel-body">
-										<div class="panel">
-											<div class="panel-heading store-leaf menu-shop-all">
-												<h5>
-													<a href="/get-connected/blanc-slate">Shop All</a>
+													<a href="/get-connected/ventura-highway">Shop All</a>
 												</h5>
 											</div>
 										</div>
@@ -1541,6 +1594,21 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 													<a href="/store/7095">Shop All</a>
 												</h5>
 											</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/get-connected/collections/2016-fall-ad-campaign">2016 Fall Ad Campaign</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/get-connected/collections/2016-spring-women">2016 Spring Women</a>
+													</h5>
+												</div>
+												<div class="panel-heading store-leaf">
+													<h5>
+														<a href="/get-connected/collections/2016-spring-men">2016 Spring Men</a>
+													</h5>
+												</div>
 												<div class="panel-heading store-leaf">
 													<h5>
 														<a href="/get-connected/collections/2016-pre-spring-women">2016 Pre Spring Women</a>
@@ -1653,94 +1721,35 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 								</div>
 								<div class="panel-heading">
 									<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#nested-menu-container-two" href="#store-7197" class="collapsed">
-												J List
-												<div class="open-close-arrow-container">
-													<div class="open-close-arrow"></div>
-												</div>
-											</a>
-																			</h4>
+
+											<a href="/j-list/core-fits/women">Women's J List</a>
+									</h4>
 								</div>
 								<div id="store-7197" class="panel-collapse collapse out">
 									<div class="panel-body">
 										<div class="panel">
 											<div class="panel-heading store-leaf menu-shop-all">
 												<h5>
-													<a href="/j-list/core-fits">Shop All</a>
+													<a href="/j-list/core-fits/women">Shop All</a>
 												</h5>
 											</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/j-list/core-fits/women">Women</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/j-list/core-fits/men">Men</a>
-													</h5>
-												</div>
 										</div>
 									</div>
 								</div>
 								<div class="panel-heading">
 									<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#nested-menu-container-two" href="#store-7198" class="collapsed">
-												Fit Guide
-												<div class="open-close-arrow-container">
-													<div class="open-close-arrow"></div>
-												</div>
-											</a>
-																			</h4>
+
+											<a href="/j-list/core-fits/men">Men's J List</a>
+									</h4>
 								</div>
-								<div id="store-7198" class="panel-collapse collapse out">
+								<div id="store-7947" class="panel-collapse collapse out">
 									<div class="panel-body">
 										<div class="panel">
 											<div class="panel-heading store-leaf menu-shop-all">
 												<h5>
-													<a href="/j-list/fit-guide">Shop All</a>
+													<a href="/j-list/core-fits/men">Shop All</a>
 												</h5>
 											</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/j-list/fit-guide/women">Women</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/j-list/fit-guide/men">Men</a>
-													</h5>
-												</div>
-										</div>
-									</div>
-								</div>
-								<div class="panel-heading">
-									<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#nested-menu-container-two" href="#store-6876" class="collapsed">
-												Size Guide
-												<div class="open-close-arrow-container">
-													<div class="open-close-arrow"></div>
-												</div>
-											</a>
-																			</h4>
-								</div>
-								<div id="store-6876" class="panel-collapse collapse out">
-									<div class="panel-body">
-										<div class="panel">
-											<div class="panel-heading store-leaf menu-shop-all">
-												<h5>
-													<a href="/jlist/size-guide">Shop All</a>
-												</h5>
-											</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/size-guide/women">Women</a>
-													</h5>
-												</div>
-												<div class="panel-heading store-leaf">
-													<h5>
-														<a href="/jlist/size-guide/men">Men</a>
-													</h5>
-												</div>
 										</div>
 									</div>
 								</div>
@@ -1815,7 +1824,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 </li>
 
 <li class="dropdown account hidden-xs ng-cloak" ng-show="currentUser.id" sp-dropdown-tablet="" ng-click="toggleDropdownMenu()" aria-haspopup="true">
-	<img src="/static/images/sites/page.wholesale.star.png" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"><span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
+	<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
 	<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer"> [[currentUser.purchasingChannel.name | lowercase]] / </span>
 	<span class="account-wholesale" ng-show="currentUser.wholesaleApplicationInProcess"> wholesale (pending) / </span>
 	<span class="account-name" ng-cloak="" ng-bind="currentUser.firstName || currentUser.email"></span> <span class="arrow">▼</span>
@@ -1860,18 +1869,22 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 		</div>
 		<ul>
 			<li ng-repeat="item in getCart().displayItems" class="cart-product">
-				<img ng-src="[[item.mainImage.ref]]">
+				<a class="link-unstyled" ng-href="[[item.product.url]]">
+					<img ng-src="[[item.mainImage.ref]]">
+				</a>
 				<div class="remove" ng-click="removeItem(item)">×</div>
 				<div class="dropdown-price" ng-bind="item.total / 100 | currency"></div>
-				<div class="dropdown-product">
-					<div class="product-title" ng-bind="item.product.name"></div>
-					<div class="product-details">
-						<ul class="product-attrs">
-							<li>Qty: [[item.quantity]]</li>
-							<li ng-repeat="(key, attr) in item.variant.attrMap">[[key]]: [[attr.value]]</li>
-						</ul>
-					</div>	
-				</div>
+				<a class="link-unstyled" ng-href="[[item.product.url]]">
+					<div class="dropdown-product">
+						<div class="product-title" ng-bind="item.product.name"></div>
+						<div class="product-details">
+							<ul class="product-attrs">
+								<li>Qty: [[item.quantity]]</li>
+								<li ng-repeat="(key, attr) in item.variant.attrMap">[[key]]: [[attr.value]]</li>
+							</ul>
+						</div>	
+					</div>
+				</a>
 			</li>
 		</ul>
 	</div>
@@ -2031,7 +2044,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
 </li>						</ul>
 					</li>
 					<li class="col-md-6">
-						<h5 class="footer-title">Giftcards</h5>
+						<h5 class="footer-title">Gift Cards</h5>
 						<ul class="list-unstyled navigation-sublist">
 <li class="navigation-item nav-node-external-url">
 	<a href="/giftcards">Gift Cards</a>
@@ -2113,7 +2126,32 @@ Loader("//www.google-analytics.com/analytics.js", !false);
 
 
 
-				<script type="text/javascript">
+				<!-- Exit Monitor -->
+<script type="text/javascript">
+if(window.location.pathname === '/cart') {
+} else {
+(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){
+(a[b].q=a[b].q||[]).push(arguments)};
+c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;
+d.parentNode.insertBefore(c,d)
+})(window,document,"script","//cdn.app.exitmonitor.com/em.js","em");
+em('set', 'campaign', '562559596632630009110000');
+}
+</script>
+
+
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 578599080]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+<script type="text/javascript">
 var UnbxdSiteName = 'jbrandjeans_com-u1446491445318';
 </script>
 
