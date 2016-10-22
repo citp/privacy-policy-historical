@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indexapk.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401220411id_/http%3A//indexapk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexapk.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022185715id_/http%3A//indexapk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
