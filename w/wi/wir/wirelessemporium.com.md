@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610221540id_/http%3A//www.wirelessemporium.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022153319id_/http%3A//www.wirelessemporium.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | WirelessEmporium.com
+# Privacy Policy | WirelessEmporium
 
 At WirelessEmporium.com, we are committed to protecting your privacy online. Our Privacy Policy demonstrates our firm commitment to protecting the privacy of our customers. When you shop at WirelessEmporium.com, we collect transactional information, or Personally Identifiable Information, from you such as your name, telephone number, e-mail address, billing address, shipping address, credit card or other payment information. Any changes, corrections or updates to your transactional information can be edited during the purchase process. WirelessEmporium.com DOES NOT SHARE, SELL or RENT your transactional information to others, except as described in this statement. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.   
   
