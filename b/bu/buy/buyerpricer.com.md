@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerpricer.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506041526id_/http%3A//buyerpricer.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerpricer.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022190629id_/http%3A//buyerpricer.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
 
 # BuyerPricer.com - BuyerPricer.com
 
