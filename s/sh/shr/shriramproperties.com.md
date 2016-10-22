@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325044526id_/http%3A//www.shriramproperties.com/shriram-properties-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022074321id_/http%3A//www.shriramproperties.com/shriram-properties-privacy-policy) for the most accurate reproduction.*
 
-# Apartments in Bangalore - Shriram Builders Privacy policy
-
-## Privacy Policy
+# Shriram Properties Real Estate Builder | Privacy Policy
 
 The Company and its subsidiaries are committed to privacy protection. it will only retain your personal data for the purposes of sending you information you have specifically requested from our website. We will not circulate data to third parties without your express permission to do so.
 
@@ -16,18 +14,21 @@ The Company accepts no liability for any inaccuracies or omissions in its websit
 
 The Company accepts no liability for any direct, special, indirect or consequential damages, or any other damages of whatsoever kind, resulting from whatever cause through the use of any information obtained either directly or indirectly from its website.
 
-## Security of Personal Information
+### Security of Personal Information
 
 The Company is committed to protecting the security of the visitor’s personal information. It uses a variety of security technologies and procedures to help protect personal information from unauthorized access, use, or disclosure.
 
-## Children
+### Children
 
 The Company does not wish to collect any personal information from children without their parents' consent. If you are under 18, please obtain consent from parents or guardian before supplying any information.
 
-## Links to other websites
+### Links to other websites
 
 Certain links, including hypertext links, in our website will take you outside our website. Links are provided for your convenience and inclusion of any link does not imply endorsement or approval by us of the linked website, its operator or its content. We are not responsible for the content of any website outside our website.
 
-## Cookies
+### Cookies
 
 The Company and its subsidiaries sometimes use 'cookies' to store information. Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors. This information is used by the Company for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of our website. By using this site you hereby acknowledge and give your acceptance to this policy.
+
+
+
