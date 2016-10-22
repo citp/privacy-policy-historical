@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513165752id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022052015id_/https%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Council on Exercise
 
@@ -31,7 +31,7 @@ We use the information you provide about yourself or someone else when placing a
 
 We will not sell your email address or any other personal information. From time to time, we may send information about our services to the email or mailing address provided by you. We may lease your mailing address to organizations that share our mission and meet our criteria and standards of excellence. As an email recipient, your email address is confidential. When an email message is sent to you, the sender does not see your name or email address. The sender of a message however is always identified and the sender's return email address is disclosed. This policy promotes responsible use of email and directs you to the right source if you feel that you are receiving inappropriate messages.
 
-ACE will share and disclose any information posted by certified personal trainers to the ACE database with IDEA Health & Fitness Association and/or other third parties.
+ACE reserves the right to share and disclose any information posted to the ACE database by certified personal trainers, group fitness instructors and medical exercise specialists with third parties (such as CREPS).
 
 To be removed from receiving any mailings, you may contact our customer service department at **[support@ACEfitness.org](mailto:support@acefitness.org)** or (800) 825-3636. Unless we think that such action is necessary to comply with the law or legal process or to protect the interests of ACE or others, we will not release personal information about you without your consent. 
 
