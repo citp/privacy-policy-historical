@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eruptionads.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507005511id_/http%3A//www.eruptionads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eruptionads.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022085218id_/http%3A//eruptionads.com/privacy.php) for the most accurate reproduction.*
 
 # Eruption Ads
 
@@ -34,4 +34,4 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) 2009 Eruption Ads All Rights Reserved 
 
-[Member Login](https://web.archive.org/memberlogin.php)|  [How It Works](https://web.archive.org/members/how.php)|  [Terms and Conditions](https://web.archive.org/terms.php)| [Earnings Disclaimer](https://web.archive.org/earnings.php)|  [ Spam Policy](https://web.archive.org/spam.php)|  [ Privacy Policy](https://web.archive.org/privacy.php)|  [More Traffic](http://hover-traffic.com/kkraakstad.html)
+[Member Login](https://web.archive.org/memberlogin.php)|  [How It Works](https://web.archive.org/members/how.php)|  [Terms and Conditions](https://web.archive.org/terms.php)|  [ Spam Policy](https://web.archive.org/spam.php)|  [ Privacy Policy](https://web.archive.org/privacy.php)|  [More Traffic](http://hover-traffic.com/kkraakstad.html)
