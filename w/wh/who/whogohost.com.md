@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whogohost.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316180352id_/https%3A//www.whogohost.com/tos/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whogohost.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023003523id_/https%3A//www.whogohost.com/tos/privacy-policy.php) for the most accurate reproduction.*
 
 # Whogohost - Refund Policy
 
