@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesondisplay.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629085634id_/http%3A//www.sitesondisplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesondisplay.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022215707id_/http%3A//www.sitesondisplay.com/privacy.html) for the most accurate reproduction.*
 
 # SitesOnDisplay.com : Privacy Statement
 
