@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322013742id_/https%3A//www.eglinfcu.org/disclosures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022181823id_/https%3A//www.eglinfcu.org/disclosures/privacy) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union | Auto Loans, Mortgage Services and MasterCards
 
@@ -95,20 +95,25 @@ Definitions
   |  |   |    
 [AUTO RATES](https://web.archive.org/auto/)
 
-As low as 1.99% APR. Stop in at local preferred dealers in Okaloosa or Escambia County and process your EFCU loan at the dealership. Or, apply online for a PAL (pre-approved loan) to take to any licensed dealership in the USA. 
+As low as 1.99% APR. Stop in at local preferred dealers in Okaloosa or Escambia County and process your EFCU loan at the dealership.
 
-Check out AutoSMARTTM online service enabling you to locate new or used vehicles available in your area. [View Auto Rates](https://web.archive.org/auto/)
+Apply online for a PAL (pre-approved loan) to take to any licensed dealership in the USA. 
+
+Visit AutoSMARTTM to locate new or used vehicles available in your area.  
+[View Auto Rates](https://web.archive.org/auto/)
 
 * * *
 
   
 [MASTERCARD](https://web.archive.org/mastercard/)
 
-Compare, switch, and save with our low-cost credit cards: Platinum MasterCard® or ScoreCard® with Rewards. Both cards have no balance transfer fee, no annual fee, no cash advance fee and only 1.1% International Transaction Fee. [View MasterCard](https://web.archive.org/mastercard/)
+Compare, switch, and save with our low-cost credit cards: Platinum MasterCard® or ScoreCard® with Rewards. Both cards have no balance transfer fee, no annual fee, no cash advance fee and only 1.1% International Transaction Fee.  
+[View MasterCard](https://web.archive.org/mastercard/)
 
 * * *
 
   
 [HOME LOANS](https://web.archive.org/mortgages/)
 
-We finance new home purchases in 7 Florida counties. Compare our rates and low fees and enjoy the savings! Looking to refinance or make home improvements? We can help with that too! [View Mortgage Rates](https://web.archive.org/mortgages/)
+We finance new home purchases in 7 Florida counties. Compare our rates and low fees and enjoy the savings! Looking to refinance or make home improvements? We can help with that too!  
+[View Mortgage Rates](https://web.archive.org/mortgages/)
