@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comedytrash.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908013523id_/http%3A//www.comedytrash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedytrash.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023002001id_/http%3A//www.comedytrash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ComedyTrash.com
+# Privacy Policy - ComedyTrash.com - Boring you with Comedy
 
 ### Our commitment to privacy
 
@@ -16,7 +16,7 @@ ComedyTrash.com (“ComedyTrash”, “we” or “our”) has created this priv
 
 ### What information do we collect?
 
-During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information (“Personal Data”) from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.comedytrash.com/terms-service "Terms of Service") posted on the Site.
+During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information (“Personal Data”) from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.comedytrash.com/terms-of-service/ "Terms of Service") posted on the Site.
 
 In addition, we collect certain information, which cannot be used to personally identify any user, and which may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Site.
 
