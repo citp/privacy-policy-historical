@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinist.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622205334id_/http%3A//bitcoinist.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinist.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022041323id_/http%3A//bitcoinist.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Bitcoinist.net
 
