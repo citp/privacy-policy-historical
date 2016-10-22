@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aum-inc.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325000936id_/https%3A//www.aum-inc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aum-inc.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022225147id_/https%3A//www.aum-inc.com/privacy-policy) for the most accurate reproduction.*
 
 # AUM Privacy Policy
 
