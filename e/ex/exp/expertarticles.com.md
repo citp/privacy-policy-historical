@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertarticles.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919200833id_/http%3A//www.expertarticles.com%3Fact%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertarticles.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023000540id_/http%3A//www.expertarticles.com%3Fact%3D24) for the most accurate reproduction.*
 
 # ExpertArticles.com | Privacy Policy
 
