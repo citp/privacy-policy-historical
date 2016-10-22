@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficflux.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313151748id_/https%3A//main.trafficflux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficflux.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022235138id_/https%3A//main.trafficflux.com/privacy-policy) for the most accurate reproduction.*
 
 # TRAFFIC F LIMITED - Privacy Policy
 
