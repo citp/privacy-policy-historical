@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the qwiklab.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507235917id_/https%3A//qwiklab.com/privacy_policy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwiklab.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022191042id_/https%3A//qwiklab.com/privacy_policy%3Flocale%3Den) for the most accurate reproduction.*
 
 # qwikLABS | Privacy Policy - Hands-On Labs - Amazon Web Services Training and Certification Prep
-
-  
-
 
 ##  PRIVACY POLICY 
 
@@ -87,76 +84,86 @@ We strive to keep your Personal Data accurately recorded. Through the Service, w
 
 If you have any additional questions or concerns about this Privacy Policy or our information practices, please feel free to contact us at any time through this web site or at Privacy Matters, c/o qwikLABS Inc., 37 Davis Road Carlisle, MA 01741 USA. 
 
-  
+##  PRIVACY SHIELD Policy 
 
+Last updated on [September 26, 2016] 
 
-  
+qwikLABS Inc. ("qwikLABS") is committed to upholding the highest ethical standards in its business practices and strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business. This Privacy Shield Policy sets forth the privacy principles that qwikLABS follows with respect to personal consumer information transferred from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States. 
 
+This Privacy Shield Policy applies to all Personal Information received from consumers by qwikLABS in the United States from the European Economic Area, in any format including electronic, paper or verbal. 
 
-##  Safe Harbor Privacy Policy 
+qwikLABS complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. qwikLABS has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
-Last updated on September 1, 2015 
-
-qwikLABS Inc. (“qwikLABS”) is committed to upholding the highest ethical standards in its business practices and strives to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business. This Safe Harbor Privacy Policy sets forth the privacy principles that qwikLABS follows with respect to personal consumer information transferred from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland to the United States. 
-
-qwikLABS complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. qwikLABS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view qwikLABS’ certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
-
-####  SAFE HARBOR 
-
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles (the "U.S.-EU Safe Harbor Principles") and frequently asked questions (collectively the “U.S.-EU Safe Harbor Framework”) to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection. The United States Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of data protection principles (the "U.S.-Swiss Safe Harbor Principles") and frequently asked questions (collectively the “U.S.-Swiss Safe Harbor Framework) to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States. Consistent with its commitment to protect personal privacy, qwikLABS adheres to the U.S.-EU and U.S.-Swiss Safe Harbor Principles (hereinafter “Safe Harbor Principles”). 
-
-####  SCOPE 
-
-This Safe Harbor Privacy Policy applies to all personal information received from consumers by qwikLABS in the United States from the European Economic Area and from Switzerland, in any format including electronic, paper or verbal. 
+The Federal Trade Commission has jurisdiction over qwikLABS?s compliance with the EU-US Privacy Shield Framework. 
 
 ####  DEFINITIONS 
 
-For purposes of this Safe Harbor Privacy Policy, the following definitions shall apply: 
+For purposes of this Privacy Shield Policy, the following definitions shall apply: 
 
-"Agent" means any third party that collects or uses personal information under the instructions of, and solely for, qwikLABS or to which qwikLABS discloses personal information for use on qwikLABS’ behalf or in partnership with qwikLABS. Examples of agents may include service providers and related third parties that qwikLABS may hire to perform certain business-related functions. Other examples of agents may include lab sponsors, business partners and related third parties with which qwikLABS may enter into agreements to make its services available to users. 
+"Agent" means any third party that collects or uses Personal Information under the instructions of, and solely for qwikLABS or to which qwikLABS discloses Personal Information for use on qwikLABS's behalf or in partnership with qwikLABS. Examples of Agents may include service providers and related third parties that qwikLABS may hire to perform certain business-related functions. Other examples of Agents may include lab sponsors, business partners and related third parties with which qwikLABS may enter into agreements to make its services available to users. 
 
-"Personal information" means any information or set of information that identifies or is used by or on behalf of qwikLABS to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. 
+"Personal Information" means any information or set of information that identifies or is used by or on behalf of qwikLABS to identify an individual. This includes first name, last name, email address and company name. Personal Information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal Information. We use this information to give the individual access and personalization to the qwikLABS service. 
 
-"Sensitive personal information" means personal information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, qwikLABS will treat as sensitive personal information any information received from a third party where that third party treats and identifies the information as sensitive. 
+"Sensitive Personal Information" means Personal Information that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, or that concerns health or sex life. In addition, qwikLABS will treat as Sensitive Personal Information any information received from a third party where that third party treats and identifies the information as sensitive. 
+
+####  INFORMATION WE COLLECT 
+
+When you interact with us through the services provided by qwikLABS, including the website(s) we operate (the "Services"), we may collect the following types of Personal Information and other information from you, as further described below. This information is being collected under the EU-US Privacy Shield Framework. We will collect and use the information for the purposes noted below. 
+
+_Personal Information That You Provide Through the Services:_ We collect Personal Information from you when you voluntarily choose to provide such information such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain features of the Services. If you provide Personal Information in order to obtain access to the Services, we will use your Personal Information to provide access to such Services and to monitor your use of such Services. Also, if you contact us by e-mail, we will use the Personal Information you provide to answer your question or resolve your problem. We may also use your Personal Information and other information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. We may also use this information to contact you in the future to tell you about services we believe will be of interest to you. 
+
+_Non-Identifiable Data:_ When you utilize the Services, we may receive certain personally non-identifiable information about your use of the Services. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. We may store such information ourselves or it may be included in databases owned and maintained by our affiliates or Agents. We may use such information and pool it with other information to track, for example, the total number of visitors to websites providing the Services, the number of visitors to each page, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Information is available or used in this process. 
+
+_Cookies:_ In operating the Services, we may use cookies. A cookie is a piece of information that the computer or computers that host our Services give to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze usage of the Services more accurately. For instance, our Services may set a cookie on your browser that keeps you from needing to remember and then enter a password more than once during a visit to the Services. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some features of the Services. 
+
+_Aggregated Personal Data:_ In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our end user's demographics, interests and behavior based on the Personal Information and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and we may share this aggregated data with our affiliates, Agents and business partners. This aggregate information does not identify you personally. We may also disclose aggregated user statistics in order to describe our Services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
 ####  PRIVACY PRINCIPLES 
 
-The privacy principles in this Safe Harbor Privacy Policy are based on the Safe Harbor Principles. 
+The privacy principles in this  Privacy Shield Policy are based on the Privacy Shield Principles. 
 
-**NOTICE:** Where qwikLABS collects personal information directly from individuals in the EEA, it will inform them about the purposes for which it collects and uses personal information about them and the choices and means, if any, qwikLABS offers individuals for limiting the use and disclosure of their personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to qwikLABS, or as soon as practicable thereafter, and in any event before qwikLABS uses or discloses the information for a purpose other than that for which it was originally collected or discloses information to a non-agent third party. 
+**NOTICE:** Where qwikLABS collects Personal Information directly from individuals in the EEA, it will inform them about the purposes for which it collects and uses Personal Information about them and the choices and means, if any, qwikLABS offers individuals for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to qwikLABS, or as soon as practicable thereafter, and in any event before qwikLABS uses or discloses the information for a purpose other than that for which it was originally collected or discloses information to a non-Agent third party. 
 
-**CHOICE:** For personal information, qwikLABS will offer individuals the opportunity to choose (opt-in) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
+**CHOICE:** For Personal Information, qwikLABS offers individuals the opportunity to choose (opt-in) whether their Personal Information is (a) to be disclosed to a non-Agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. To choose, individuals can check the box with the title "Opt-in: Send me valuable promos or updates about new hands-on learning" on the "My Account" page. 
 
-For sensitive personal information, qwikLABS will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
+For Sensitive Personal Information, qwikLABS will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-Agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. 
 
 qwikLABS will provide individuals with reasonable mechanisms to exercise their choices. 
 
-**DATA INTEGRITY:** qwikLABS will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. qwikLABS will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. We will only collect and store personal information that is relevant to fulfill the purpose of the request and will retain such information no longer than appropriate to fulfill the purpose of the request. 
+**ACCOUNTABILITY FOR ONWARD TRANSFER:** qwikLABS may provide Personal Information to Agents to perform tasks on behalf of and under our instructions. Such Agents must agree to use such Personal Information only for the purposes for which they have been engaged by qwikLABS. 
 
-**TRANSFERS TO AGENTS:** qwikLABS will obtain assurances from its agents that they will safeguard personal information consistently with this Safe Harbor Privacy Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding (e.g., companies located in Canada). Where qwikLABS has knowledge that an agent is using or disclosing personal information in a manner contrary to this Safe Harbor Privacy Policy, qwikLABS will take reasonable steps to prevent or stop the use or disclosure. 
+qwikLABS also may disclose Personal Information for other purposes or to other third parties when the individual has consented to or requested such disclosure. Please be aware that qwikLABS may be required to disclose an individual's Personal Information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of Personal Information of EEA individuals received pursuant to the EU-US Privacy Shield, qwikLABS is potentially liable. 
 
-**ACCESS AND CORRECTION:** Upon request, qwikLABS will grant individuals reasonable access to personal information that it holds about them. In addition, qwikLABS will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. These requests can be made by contacting qwikLABS by email at support@qwiklab.com. 
+**SECURITY:** qwikLABS will take reasonable precautions to protect Personal Information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-**SECURITY:** qwikLABS will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+**DATA INTEGRITY AND PURPOSE LIMITATION:** qwikLABS will use Personal Information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. qwikLABS will take reasonable steps to ensure that Personal Information is relevant to its intended use, accurate, complete, and current. We will only collect and store Personal Information that is relevant to fulfill the purpose of the request and will retain such information no longer than appropriate to fulfill the purpose of the request. 
 
-**ENFORCEMENT:** qwikLABS will conduct compliance audits of its relevant privacy practices to verify adherence to this Safe Harbor Privacy Policy. Any employee that qwikLABS determines intentionally violates this policy will be subject to disciplinary action up to and including termination of employment. 
+**ACCESS AND RECOURSE:** qwikLABS acknowledges the right of individual?s access to their personal data. Upon request, qwikLABS will grant individuals reasonable access to Personal Information that it holds about them. In addition, qwikLABS will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. These requests can be made by contacting qwikLABS by mail at 37 Davis Road Carlisle MA 01741 USA. 
 
-**DISPUTE RESOLUTION:** In compliance with the US-EU and US-Swiss Safe Harbor Principles, qwikLABS commits to resolve complaints about your privacy and our collection or use of your personal information. EU or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact qwikLABS at support@qwiklab.com. 
+**ENFORCEMENT AND LIABILITY:** qwikLABS will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Shield Policy. Any employee that qwikLABS determines intentionally violates this policy will be subject to disciplinary action up to and including termination of employment. 
 
-qwikLABS has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20160507235917id_/https%3A//qwiklab.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+####  DISPUTE RESOLUTION 
 
-####  LIMITATIONS ON APPLICATION OF PRINCIPLES 
+In compliance with the EU-US Privacy Shield Principles, qwikLABS commits to resolve complaints about your privacy and our collection or use of your Personal Information. EEA individuals with inquiries or complaints regarding this Privacy Shield Policy should first contact qwikLABS at support@qwiklabs.com. qwikLABS has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
 
-Adherence by qwikLABS to these Safe Harbor Principles may be limited (a) to the extent required or permitted by law or legal process, such as to respond to or investigate a legal or ethical obligation or request or pursuant to court orders, subpoenas, interrogatories or similar directive carrying the force of law; and (b) to the extent expressly permitted by an applicable law, rule or regulation. 
+Finally, as a last resort and in limited situations, EEA individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
 
 ####  PRIVACY POLICY 
 
-qwikLABS Privacy Policy, which can be found at [qwiklab.com/privacy_policy (the “Website Privacy Policy”)](http://qwiklab.com/privacy_policy), contains information regarding how qwikLABS collects and personal information and other information of consumers on our website. This Safe Harbor Privacy Policy is intended to provide additional information about our practices with respect to personal information that is transferred from the European Economic Area or Switzerland to the U.S. In the event of any inconsistencies with the Website Privacy Policy and this Safe Harbor Privacy Policy with respect to such information, this Safe Harbor Privacy Policy shall govern. 
+qwikLABS's Privacy Policy, which can be found at [https://qwiklabs.com/privacy_policy](https://web.archive.org/privacy_policy) (the "Website Privacy Policy"), contains information regarding how qwikLABS collects and personal information and other information of consumers on our website generally. This Privacy Shield Policy is intended to provide additional information about our practices with respect to Personal Information that is transferred from the EEA to the U.S.  In the event of any inconsistencies with the Website Privacy Policy and this Privacy Shield Policy with respect to such information, this Privacy Shield Policy shall govern. 
 
 ####  CONTACT INFORMATION 
 
-Questions or comments regarding this Safe Harbor Privacy Policy should be submitted to qwikLABS by mail at 37 Davis Road Carlisle, MA 01741 USA. 
+Questions or comments regarding this Privacy Shield Policy should be submitted to qwikLABS by mail at 37 Davis Road Carlisle, MA 01741 USA. 
 
-####  CHANGES TO THIS SAFE HARBOR PRIVACY POLICY 
+####  CHANGES TO THIS PRIVACY SHIELD POLICY 
 
-This Safe Harbor Privacy Policy may be amended from time to time, with or without notice, consistent with the requirements of the Safe Harbor Principles. Please review this Safe Harbor Privacy Policy periodically, and especially before you provide any personal information. This Safe Harbor Privacy Policy was last updated on the date indicated above. 
+This Privacy Shield Policy may be amended from time to time, with or without notice, consistent with the requirements of the Privacy Shield Principles. Please review this Privacy Shield Policy periodically, and especially before you provide any Personal Information. This Privacy Shield Policy was last updated on the date indicated above. 
+
+####  US-SWISS SAFE HARBOR 
+
+qwikLABS also complies with the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from Switzerland. qwikLABS has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern with respect to transfers of Personal Information from Switzerland to the US. To learn more about the US-Swiss Safe Harbor program and to view our certification page, please visit <http://www.export.gov/safeharbor/>. 
+
+In compliance with the US-Swiss Safe Harbor Principles, qwikLABS commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact qwikLABS at support@qwiklabs.com. 
+
+qwikLABS has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint. 
