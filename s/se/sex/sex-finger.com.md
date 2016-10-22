@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the sex-finger.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726012000id_/http%3A//www.sex-finger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex-finger.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022183202id_/http%3A//www.sex-finger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sex Finger.com
-
-[](http://www.sex-finger.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=10)  
-
 
 _Last Modified: June 17, 2013_
 
@@ -25,9 +22,9 @@ We reserve the right to revise, amend, or modify this Policy and Our other polic
 
 Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows:
 
-**Members**  \- Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username.
+**Members**  – Members are those Users who interact with Our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide a valid e-mail address in the process of registering a username.
 
-**Browsers**  \- Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
+**Browsers**  – Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devices (explained below).
 
 **IV.        ** ** ** **How We Collect Information from You**
 
@@ -78,3 +75,9 @@ We may offer our Members the opportunity to access or modify information provide
 **XI.        ** ** ** **Where to Direct Questions About Our Privacy Policy**
 
 If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [mailto:admin@Sex-Finger.com](mailto:admin@biglivesexcams.com)
+
+[](https://www.pinterest.com/pin/create/button/)
+
+###### Our visitors found us using these keywords:
+
+[Pov xxx through pants](http://www.sex-finger.com/privacy-policy/ "Pov xxx through pants") 
