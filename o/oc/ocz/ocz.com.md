@@ -1,190 +1,93 @@
-> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310002509id_/http%3A//ocz.com/consumer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022114844id_/https%3A//ocz.com/us/privacy) for the most accurate reproduction.*
 
-# OCZ Website Privacy Policy
+# Privacy Policy
 
-### Online Privacy and Security
+Toshiba America Electronic Components, Inc. ("TAEC") respects the privacy of users who visit this website (the "Site"). This Privacy Policy describes how we collect, use and share information we collect on this Site effective as of the date posted below. By using the Site and submitting information you agree to the terms of this Policy.
 
-Your privacy on the Internet is important to us. That's why we at OCZ Storage Solutions believe in an active approach to safeguarding your privacy online. You can interact and remain assured that you are protected by confidentiality, security, and your individual right to change your mind. OCZ provides this Privacy Statement to inform you of our Privacy Policy and Practices, and of the choices you can make about the way your information is collected online, and how that information is used.
+Information We Collect and How it is Used  
+Access to Your Information and Opting Out  
+Use and Sharing of Personal Information  
+Cookies and Various Technologies  
+Retention Period  
+Sensitive Information  
+Children's Privacy  
+International Visitors  
+Notification of Changes  
+Protecting your Information  
+Links to Third-Party Sites  
+Your Comments and Suggestions
 
-### Confidentiality
+## Information We Collect and How it is Used
 
-In certain areas of this site you may choose to share personal information with us, such as your name, address or even your credit card information. Any personal information you choose to share with us will not be disclosed to anyone outside of OCZ, our related companies, or our business partners who help with this site unless required by law. We will never exchange or sell your personal information to any other company.
+We automatically collect information when you visit the Site including your device’s IP address, and statistics about how you use the Site. 
 
-### Security
+We collect information that you submit when visiting the Site including product registration information (your name, email and postal address, telephone number, product information, and user name and password) or contact information if you sign up for our newsletter or contact us with an inquiry (email address, telephone number). If you submit a comment or suggestion or communicate with us through the Site we collect and retain the information you submit. 
 
-Information in our possession requires a unique password and username to access it. With this password you can edit, delete, or add to information you have shared while visiting our site. Additionally, the information you include in a secure SSL online ordering transaction is encrypted while in transit to us.
+We use e-mail links throughout the site to allow you to contact us directly with any questions or comments you may have. We try to read every message and reply promptly. Information in the message is used to respond directly to your comments or questions. We may also file your comments to improve the site and programs, or review and discard the information.
 
-### Use of P3P Technology
+We may use your personal information to process your transactions, to contact you about products you have purchased, inform you of products and service opportunities that may be of interest to you and of new TAEC updates or offerings, to conduct market research regarding Toshiba products or services, to customize the content of the Site for you, to support and enhance our communications with you, or for other general commercial purposes. 
 
-The Platform for Privacy Preferences (P3P) is a new privacy technology developed by the World Wide Web Consortium (W3C). P3P technology can be found within your Microsoft Internet Explorer 6 browser or later and provides you with the ability to make more informed choices about the use of your personal information online.
+## Access to Your Information and Opting Out
 
-Microsoft Internet Explorer 6 (IE6) was the first browser to support the new privacy standard. With P3P, you can configure your browser to automatically detect if a website collects personally identifiable information, uses that information to create user profiles, or allows visitors to opt-out of the data collection. A P3P-enabled browser has preset options from which you can choose. Or you may customize your setting by answering questions such as, what kinds of data are you willing to share and what types of "cookie" files are you willing to accept. As you surf the Web, the software then determines whether your privacy preferences match a site's data collection practices.
+If you registered through the Site to receive our newsletters, you may change your email address and newsletter preferences on our Manage Your Subscription page, accessible via the emails you receive. You may opt out of receiving our newsletters or other marketing information from us by changing your preferences on our Manage Your Subscription page, if applicable, or by unsubscribing using the link on any email you receive from us. If you opt out of receiving our newsletters or other marketing information, we may still send you certain types of communications, such as product updates for your registered products, transactional or legal notification emails, warranty related communications and we may respond to requests from you by email. If you opt-out through one of these methods we will try to process your request in a timely manner.
 
-### Information Collection and Use
+Some countries allow you to request a copy of the information we hold about you. Requests can be made by contacting us through the “[Contact Us](https://web.archive.org/us/brand/contact)” page, or emailing us at [PrivacyOCZ@taec.toshiba.com](mailto:PrivacyOCZ@taec.toshiba.com), and providing contact information and information that establishes your identity. We will endeavor to respond within 20 days of receipt of your completed request. In some cases we may charge a fee for providing this information.
 
-We will not sell or exchange names or any other information about our online customers. We will not collect, share or sell any information that is not addressed in this statement.
+## Sharing of Personal Information
 
-### Types of Information We Collect
+We do not sell your personal information. We may share your personal information within the Toshiba family of companies for business purposes and with other companies who provide marketing or other services on our behalf and at our direction, but we do not permit them to use such personal information that we have shared for their own direct marketing purposes.
 
-**Dynamic Data**. We collect anonymous information about every visit to our site. We do not create individual profiles for visitors, we collect only aggregate data. Our webserver collects click-stream data and HTTP protocol elements in access logs, used solely for the OCZ Website functionality, traffic analysis, research and development. We use IP addresses to track only aggregate information regarding site traffic. Computers require IP addresses in order for users to communicate on the Internet, browse and shop. We do not collect any personal information via a user's IP address. We use this information only to determine how to make future visits more convenient and productive for our customers. We also collect browser type, access time, and the URL where a user is entering or exiting the site.
+Your personal information may be shared with third parties that provide services to TAEC (such as analyzing data, providing customer support, product registration, etc.), to the extent that such information is necessary for the provision of such services. TAEC has contractual arrangements with these service providers under which these service providers agree not to disclose any information we provide to them. Other than such third parties, TAEC will not share your information with anyone who is not an employee of TAEC or an affiliate with a need to access the information for business purposes, or who has not signed an appropriate non-disclosure agreement except under the special circumstances provided in this Privacy Policy.
 
-**HTTP Cookies.** The P3P-enabled browser places special emphasis on HTTP cookies. A "cookie" is a piece of data which resides on your computer's hard drive to allow a Web application to respond to you as an individual. By gathering and remembering information about your preferences, the Web application can tailor its operation to your needs, likes and dislikes. With a P3P-enabled browser you can make selections based on whether you wish to accept various types of cookies such as session (temporary), permanent, within a given domain or outside it (third party), and to notify you when you receive a cookie, giving you the chance to decide whether to accept it, with or without a special "P3P compact policy" file. A compact P3P policy describes the attributes of a given cookie. At this time, we do not make use of HTTP cookies.
+Your personal information may be shared with unaffiliated third parties under the following special circumstances:
 
-### How We Use Cookies
+(1) if you request or authorize it;   
+(2) if the information is provided to help complete a transaction for you;   
+(3) if the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.); or  
+(4) if the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets). 
 
-Like many websites we use cookies to store and then retrieve small bits of information on your computer when you visit. This information is used to make the site work as you expect it to. It is not personally identifiable to you, but it can be used to give you a more personalised web experience.
+We may disclose your non-private, aggregated, or otherwise non-personally identifiable information, such as usage statistics of our Site or products, to our affiliates and third parties.
 
-Some of the information stored is put there by other companies whose software we have added to the site, and this can also impact your experience of other websites you may visit after leaving ours.
+## Cookies and Various Technologies
 
-If you continue to use this site without taking action to prevent the storage of this information, you are effectively agreeing to this use.
+We use technology to help us deliver customized visitor experiences and understand trends and patterns.
 
-If you want to learn more about the general uses of cookies, including how to stop them being stored by your computer, please visit Cookiepedia - all about cookies.
+We may use or engage third parties to collect non-personal information using "cookies" and/or other industry standard technologies (e.g., clear GIFS, web beacons, pixel tags, javascript tag) to generate statistics or measure and analyze website activity (including page usage and paths followed during visits through our sites) in order to improve Site functionality, deliver content specific to you and/or targeted for your interests while using the Site and/or a third party web site, and to better manage advertising of our products. The collected data also helps us determine which product, service or support information may be appropriate for you. 
 
-Below is a list of the different types of cookies used on this site, and an explanation of what they are used for. If you would like any more information, please get in touch.  
+We may use temporary (“session”) cookies to grant Site visitors access to content and to enable commenting—actions they must be logged in to do. These cookies expire and are automatically erased whenever you close your browser. We may also use long-term (“persistent”) cookies to better understand usage patterns so we can improve the site for our customers. We use a persistent cookie to remember that you closed the cookie disclosure banner giving your consent to receive cookies, but this only works when cookies on our site are enabled. Persistent cookies usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them.
 
+We may collect information about your online activities over time and also your activities on third party web sites. We do not respond to “do not track” signals, if any, being sent from your browser. We may permit select third parties to collect non-personal information about your online activities over time and across different web sites when you use the Site. If you would like to opt-out of any of the technologies that we and/or our third parties employ to collect your information via the Site (e.g. cookies), you may do so by blocking, deleting, or disabling them as your browser or device permits. Please refer to your browser Help instructions to learn more about your browser settings and how to handle cookies. If you do so, however, some areas of our site may not function properly.
 
-  * **Strictly Necessary Cookies**
+For more information on third-party advertising-related cookies and how to exercise your choice to opt-out of them, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and/or [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). Further general information about cookies and how they work is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-These cookies are necessary for the website to function. They are usually only set in response to actions made by you which amount to a request for services, such as logging in or filling in forms.
+## Retention Period
 
-You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
 
-  * **Performance Cookies**
+## Sensitive Information
 
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+We ask that you do not send us or disclose any sensitive personal information (e.g., Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Site or otherwise to us.
 
-All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+## Children's Privacy
 
-_gat   
-__utma   
-__utmc   
-__utmz   
-__utmb   
-__utmt   
-_ga 
+This Site is not directed to or intended to be used by children under the age of 18. TAEC does not knowingly collect personal information about children through the Site. If you are under the age of 18, please do not provide any personally identifiable information to us through this Site.
 
-  * **Functionality Cookies**
+## International Visitors
 
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.
+This Site is operated in the United States of America and information you submit through our Site is stored on servers located in the United States. If you are visiting from a location outside the United States, your information may be processed by us in the United States, where laws regarding data protection may be less stringent than the laws in your country. By using this Site and by providing any personal information to the Site, all users, including without limitation users in Canada and the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States.
 
-If you do not allow these cookies then some or all of these services may not function properly.
+## Notification of Changes
 
-__atuvc   
-__atuvc   
-__atuvc   
-__atuvc   
-lang   
-__atuvc   
-__atuvc 
+From time to time, we may choose to change our Privacy Policy. We will notify you of material changes to this Privacy Policy by posting a revised Privacy Policy on the Site with an updated effective date. Any updates, revisions, supplements, modifications or amendments to this Privacy Policy shall be effective immediately upon its posting. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site and your continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
-  * **Targeting Cookies**
+## Protecting your Information
 
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+We have implemented reasonable physical, electronic and administrative security measures and practices in an effort to protect the security, integrity and confidentiality of your personal information. However, no security system is 100% secure. It may be possible for third parties to intercept or access information that you provide to TAEC or its third party service providers. We cannot guarantee the security of your information, nor can we guarantee that information you supply will not be intercepted while being transmitted. It is important for you to protect against unauthorized access to your personal information. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the "[Contact Us](https://web.archive.org/us/brand/contact)" page. 
 
-They do not store any personally identifiable information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+## Links to Third-Party Sites
 
-dids1437527011   
-datr   
-tuuid   
-pid   
-dids87935525   
-_te_   
-loc   
-__adroll   
-auth_token   
-uit   
-APISID   
-__ar_v4   
-rtn1   
-_te_   
-dids1582935681   
-|  lu   
-put_2760   
-dids1795147013   
-B   
-_te_   
-xtc   
-PREF   
-dids879904272   
-twll   
-__ar_v4   
-__ar_v4   
-secure_session   
-bt2   
-dids1277259370   
-guest_id   
-|  dids168335033   
-tuuid   
-PUBRETARGET   
-__utma   
-i   
-c   
-dids596994156   
-_te_   
-SID   
-_te_   
-remember_checked   
-CfP   
-remember_checked_on   
-id   
-rpb   
-|  KRTBCOOKIE_466   
-uid   
-bh   
-HSID   
-ck1   
-uvc   
-rlas3   
-rpx   
-um2   
-di2   
-__ar_v4   
-__ar_v4   
-khaos   
-JEB2   
-dt   
-  
----|---|---|---  
-  * **Other Cookies**
+When you use the Site, you may be directed to other websites that are beyond our control. These may include sites where you register products that you have purchased. We may also allow third-party sites or applications to link to the Site. We are not responsible for the privacy practices of any third parties or the content of linked sites except where specifically stated, but we do encourage you to read the applicable privacy policies and terms and conditions of such parties or web sites. This Privacy Policy only applies to our Site. 
 
-The following cookies are also set by our site, however their purpose has not yet been identified. We are conducting research into these cookies and will update this page as soon as possible.
+We always appreciate hearing from you and welcome your comments and emails. But we ask that you exercise good judgment because material we receive will be considered public and non-confidential. Additionally, we reserve the right to use any comments and emails you share without limitation. You may contact us through the “[Contact Us](https://web.archive.org/us/brand/contact)” page or email us at [PrivacyOCZ@taec.toshiba.com](mailto:PrivacyOCZ@taec.toshiba.com).
 
-__atuvs   
-__atuvs   
-__atuvs   
-visitor_id47812   
-__atuvs   
-visitor_id47812   
-visitor_id47812   
-pardot   
-lpv47812   
-__atuvs   
-pardot   
-__atuvs 
-
-
-
-
-### Policy Evaluation
-
-P3P-compliant browsers will evaluate this privacy policy's "compact policy" whenever it is used with a cookie. Compact policies are a form of a P3P policy which summarize what the privacy policy says about cookies. The actions they will take depend on what privacy level the user has selected in their browser (i.e., low, medium, medium-high or high). In addition, P3P-compliant browsers will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. 
-
-The Compact Policy of OCZ Storage Solutions is considered satisfactory according to the rules defined by the Platform for Privacy Preferences and Microsoft Internet Explorer 6 and later. IE6+ will accept cookies accompanied by this policy under the _High, Medium High, Medium, Low, and Accept All Cookies_ settings.
-
-### Email Links
-
-We use e-mail links throughout the site to allow you to contact us directly with any questions or comments you may have. We read every message (that does not get filtered as spam) and try to reply promptly to everyone. Information in the message is used to respond directly to your comments or questions. We may also file your comments to improve the site and programs, or review and discard the information. Your personal information is not shared with third parties without your explicit permission.
-
-### Your Comments and Suggestions
-
-We always appreciate hearing from you and welcome your comments and emails. But we ask that you exercise good judgment because material we receive will be considered public and non-confidential. Additionally, we reserve the right to use any comments and emails you share without limitation.
-
-### Questions
-
-If you have further questions about our Privacy Policy, the practices of our site or your experience with our site, or for information on how to opt-in or opt-out of use of your personal data, you may contact our Site Representative.
-
-### Legal
-
-By visiting this site you are agreeing to the terms as outlined above and in the Terms of Use section.
-
-We reserve the right to change our Privacy Policy at any time.
+OCZ is a trademark or registered trademark of Toshiba Corporation and/or its affiliates. All [third party trademarks](https://web.archive.org/us/legal/trademark) are the properties of their respective owners.
