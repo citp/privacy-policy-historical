@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328203514id_/https%3A//www.cheekybingo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022225453id_/https%3A//www.cheekybingo.com/privacy.html) for the most accurate reproduction.*
 
 # View Our Privacy Policy | CheekyBingo.com
 
@@ -8,7 +8,7 @@ Cassava Enterprises (Gibraltar) Limited/888 UK Limited/Virtual Digital Services 
 
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.
 
-If you have any enquiry about this Privacy Policy please write to [support@info.cheekybingo.com](mailto:support@info.cheekybingo.com).
+If you have any enquiry about this Privacy Policy please write to [%#Support_Email%#](mailto:%#Support_Email%#).
 
 ## Information about us
 
@@ -37,11 +37,11 @@ We have implemented suitable security policies, rules and technical measures to 
 
 ## Security
 
-You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email [support@info.cheekybingo.com](mailto:support@info.cheekybingo.com). We may levy a small charge to cover the cost of administration.
+You can write to us at any time to obtain a copy of your PII and to have any inaccuracies corrected. Where appropriate, you may have your PII rectified, amended or completed. Please email [%#Support_Email%#](mailto:%#Support_Email%#). We may levy a small charge to cover the cost of administration.
 
 ## Your Rights in relation to your PII
 
-Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the 'unsubscribe' link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call +44 0800 279 4568 or write to [support@info.cheekybingo.com](mailto:support@info.cheekybingo.com)  
+Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email/SMS offers from us. At any time, you may request to discontinue receiving these offers by clicking the 'unsubscribe' link in any of our emails. If you would like to stop receiving our mail/SMS or telemarketing offers, please call %#Support_International_Telephone_Number%# or write to [%#Support_Email%#](mailto:%#Support_Email%#)  
 
 
 ## Your Choice - Direct Marketing
@@ -60,7 +60,7 @@ We collect PII when you register and use our gaming services, make customer inqu
 
 ## Personal Identifiable Information Collection
 
-The brands on this website (the "Website") are owned by Cheeky Bingo (the "Brand Owner"). The Website is operated by Cassava Enterprises (Gibraltar) Limited ("Company", “we” or “us”), which is registered under the laws of Gibraltar to provide such services.
+The brands on this website (the "Website") are owned by %#Site_Name%# (the "Brand Owner"). The Website is operated by Cassava Enterprises (Gibraltar) Limited ("Company", “we” or “us”), which is registered under the laws of Gibraltar to provide such services.
 
 PLEASE NOTE: If you play or register an account in the United Kingdom (UK) all references herein to the "Company", "us" or "we" shall be deemed as a reference to 888 UK Limited. 888 UK Limited is within the same corporate group as Cassava Enterprises (Gibraltar) Limited.
 
@@ -68,5 +68,5 @@ PLEASE NOTE: If you play in any EU member state except for states which you play
 
 When you use the Company's services, you shall be asked to provide personal identifiable information ("PII") to the Company.
 
-The Company, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to [support@info.cheekybingo.com](mailto:support@info.cheekybingo.com) and we will do our best to answer your questions in full as quickly as possible.  
+The Company, is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PII for the purpose of offering you online gaming services. If you do not understand the Privacy Policy or how we handle or use the PII which you provide to us then you are invited to send in your questions to [%#Support_Email%#](mailto:%#Support_Email%#) and we will do our best to answer your questions in full as quickly as possible.  
 
