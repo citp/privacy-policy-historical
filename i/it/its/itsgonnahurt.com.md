@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the itsgonnahurt.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408160646id_/http%3A//itsgonnahurt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgonnahurt.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022052558id_/http%3A//itsgonnahurt.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site itsgonnahurt.com and all other sites owned or controlled by BangBros.com, Inc. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.    
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site itsgonnahurt.com and all other sites owned or controlled by HMZ INVESTMENTS, LTD. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.    
 
 
 Adults Only Service   
