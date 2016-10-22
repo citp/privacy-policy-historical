@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondrewards.net privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813000908id_/http%3A//diamondrewards.net/privacy%3FbusinessName%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondrewards.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022201458id_/http%3A//diamondrewards.net/privacy%3FbusinessName%3D) for the most accurate reproduction.*
 
 # Diamond Rewards - The Rewards Program That Pays In Diamonds And Cash!
 
