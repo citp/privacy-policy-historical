@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hair-styles.org privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430175043id_/http%3A//hair-styles.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hair-styles.org privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022090844id_/http%3A//www.hair-styles.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
