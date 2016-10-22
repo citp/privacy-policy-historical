@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314105212id_/https%3A//www.skrill.com/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022144808id_/https%3A//www.skrill.com/en/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skrill
 
@@ -6,9 +6,9 @@
 
 The Paysafe Group are committed to respecting the personal information of all visitors to all websites managed or published by us, and to ensure that any personal information you provide to us will be stored securely, treated with confidentiality and processed in accordance with data protection legislation and/or any other relevant consumer legislation that is in place to protect you. 
 
-All companies within the Paysafe Group adhere to a uniform set of standards that can be [found here](https://www.skrill.com/en/footer/privacy-policy/data-protection-standards/). __
+All companies within the Paysafe Group adhere to a uniform set of standards that can be [found here](https://www.skrill.com/en/footer/privacy-policy/data-protection-standards/). 
 
-Individual Websites may have their own privacy policies which are designed to explain in more detail how your personal information will be used for the specific services that they provide.  __
+Individual Websites may have their own privacy policies which are designed to explain in more detail how your personal information will be used for the specific services that they provide. 
 
   * ####  [ A. Introduction ](https://www.skrill.com/#)
 
@@ -40,7 +40,7 @@ We use a number of “cookies” on this site and across all Paysafe Group websi
 
 For further information about all the cookies we use, [click here](https://www.skrill.com/en/footer/privacy-policy/).
 
-To turn off cookies, browsers allow you to do this by changing your browser settings. For further information about how to do this please visit [http://www.aboutcookies.org/](http://www.aboutcookies.org/) Please note that switching off cookies may restrict your use of this site.
+To turn off cookies, browsers allow you to do this by changing your browser settings. For further information about how to do this please visit <http://www.aboutcookies.org/> Please note that switching off cookies may restrict your use of this site.
 
   * ####  [ E. How We Use Collected Information ](https://www.skrill.com/#)
 
