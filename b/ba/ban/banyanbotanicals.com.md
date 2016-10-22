@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the banyanbotanicals.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608224937id_/http%3A//www.banyanbotanicals.com/info/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyanbotanicals.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022145407id_/https%3A//www.banyanbotanicals.com/info/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Banyan Botanicals
 
-At Banyan Botanicals we understand that privacy matters to our customers and we take a number of steps to ensure your private information is protected. The following policy is intended to inform you about what type of information is being gathered and how it is used. If you have any questions, please [contact us](http://www.banyanbotanicals.com/info/contact-us).
+At Banyan Botanicals we understand that privacy matters to our customers and we take a number of steps to ensure your private information is protected. The following policy is intended to inform you about what type of information is being gathered and how it is used. If you have any questions, please [contact us](https://www.banyanbotanicals.com/info/customer-service/contact-us).
 
 ### What information do we collect?
 
