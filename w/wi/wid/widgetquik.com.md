@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widgetquik.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327155952id_/http%3A//widgetquik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetquik.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022211116id_/http%3A//widgetquik.com/privacy.php) for the most accurate reproduction.*
 
 # WidgetQUIK - widgets that work for you!
 
