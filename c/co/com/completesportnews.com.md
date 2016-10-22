@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completesportnews.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405083311id_/http%3A//completesportnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completesportnews.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022044455id_/http%3A//completesportnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | completesportnews.com
 
