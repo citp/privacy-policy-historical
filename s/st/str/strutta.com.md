@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630104349id_/http%3A//www.strutta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022053541id_/http%3A//www.strutta.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Strutta Social Marketing
 
