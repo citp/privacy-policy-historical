@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905172712id_/http%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022113225id_/http%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,9 +95,10 @@ This web site is hosted in the United States. If you are visiting from the Europ
   * You may request deactivation of your PayScale account by sending an email to [privacy@payscale.com](mailto:privacy@payscale.com). (After your account has been deactivated, your profile information may possibly remain in our archived records, but is not used in ways that are publically displayed.)
   * If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change in your account or by emailing our Customer Support email at service@payscale.com, or by contacting us by telephone or postal mail at the contact information below. PayScale will respond to requests within 30 days of receiving the request.
 
-PayScale, Inc  
-542 1st Avenue S, Suite 400  
-Seattle WA, 98104  
+Attention: Privacy Officer  
+PayScale, Inc.  
+1000 1st Ave South #100  
+Seattle, WA 98134  
 1-888-699-0702
 
 
@@ -126,7 +127,7 @@ Postal Mail Address:
 
 **Attention: Privacy Officer  
 PayScale, Inc.  
-542 1st Avenue S, Suite 400  
-Seattle, Washington 98104 **
+1000 1st Ave South #100  
+Seattle, WA 98134 **
 
 **Last Updated: May, 2013**
