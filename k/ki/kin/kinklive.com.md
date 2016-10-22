@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinklive.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202182155id_/http%3A//www.kinklive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinklive.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022231925id_/http%3A//www.kinklive.com/privacy.php) for the most accurate reproduction.*
 
 # Kink Live
 
