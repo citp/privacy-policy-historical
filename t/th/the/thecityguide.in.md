@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecityguide.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324151447id_/http%3A//www.thecityguide.in/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecityguide.in privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022042951id_/http%3A//www.thecityguide.in/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy and website Legal Information - TheCityGuide.in
 
