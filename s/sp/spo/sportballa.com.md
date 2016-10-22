@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sportballa.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310180214id_/http%3A//www.sportballa.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportballa.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022152415id_/http%3A//www.sportballa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Sport Balla
+# Privacy |
 
 **This is a web site of I4U LLC.**  
-Our postal address is   
+Our postal address is  
 16192 Coastal Highway  
 Lewes,DE,19958
 
-We can be reached via e-mail at i4u@i4u.com or you can reach us by telephone at 646-2019511.
+We can be reached via e-mail at [i4u@i4u.com](mailto:i4u@i4u.com) or you can reach us by telephone at 646-2019511.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).  
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).  
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
