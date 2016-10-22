@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardschat.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625003428id_/https%3A//www.cardschat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardschat.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022044323id_/https%3A//www.cardschat.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CardsChat.com Website Privacy Policy
 
@@ -39,3 +39,7 @@ Except as necessary to obtain the services or information requested, you may opt
 ## 7\. Right to Change Privacy Policy. 
 
 CardsChat reserves the right at any time to modify, alter or update this Privacy Policy. Your use of the Site following any changes means that you agree to follow and be bound by the Privacy Policy as changed. Any change to this Privacy Policy shall be effective as to any visitor who has visited the Site before the change was made. It is the obligation of users visiting the Site before the change to learn of changes to the Privacy Policy since their last visit.
+
+* * *
+
+Additional resources: [Responsible Gaming](https://www.cardschat.com/responsible-gaming.php)
