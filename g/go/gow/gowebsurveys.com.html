@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gowebsurveys.com privacy policy that was archived on 2016-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407001346id_/http%3A//gowebsurveys.com/index.php%3Fpagename%3DPrivacy%2520policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gowebsurveys.com privacy policy that was archived on 2016-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161022211113id_/http%3A//gowebsurveys.com/index.php%3Fpagename%3DPrivacy%2520policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
                                                                                 
@@ -76,16 +76,29 @@ setJsVar();
 </script>
 
                                                             <div class="site-content">
-	<div class="site-header">
-		<div class="ui-notify" id="notify-container" style="">
-			&nbsp;</div>
-		<div class="site-wrapper clear">
-			<a alt="Logo" class="site-logo" href="/">Logo</a>
-			<div class="primary-nav">
-				<a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=Home" title="Home">Home</a><a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=About us" title="About us">About us</a><a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=FAQ" title="FAQ">FAQ</a><a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=Contact" title="Contact">Contact</a> <a class="nav-btn nav-cta login" href="http://www.gowebsurveys.com/pl">Log In</a></div>
-		</div>
-	</div>
-	<div class="site-wrapper clear" style="min-height: 500px;">
+    <div class="site-header">
+        <div class="ui-notify" id="notify-container" style="">
+            &nbsp;</div>
+        <div class="site-wrapper clear">
+            <a alt="Logo" class="site-logo" href="/">Logo</a>
+            <div class="primary-nav">
+				<a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=Home" title="Home">Home</a><a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=About us" title="About us">About us</a><a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=FAQ" title="FAQ">FAQ</a><a class="nav-btn" href="http://gowebsurveys.com/index.php?pagename=Contact" title="Contact">Contact</a>
+                <!--?php
+                $urlStyle = $config['components']['urlManager']['urlFormat'];
+                // Simple redirect to still have the old /admin URL
+                if ($urlStyle == 'path') {
+                    header('Location: ../index.php/admin');
+                    echo "<a class='nav-btn nav-cta login' href='http://www.gowebsurveys.com/pl'-->Log In";
+                } else {
+                    header('Location: ../index.php?r=admin');
+                    echo "<a class="nav-btn nav-cta login" href="http://www.gowebsurveys.com/index.php?r=pl">Log In</a>";
+                }
+                ?&gt;
+                <!--<a class="nav-btn nav-cta login" href="http://www.gowebsurveys.com/index.php?r=pl">Log In</a></div>-->
+            </div>          
+        </div>
+    </div>
+    <div class="site-wrapper clear" style="min-height: 500px;">
 		<h1 style="text-align: center;">
 	<span style="color:#008000;"><span style="font-size:28px;"><span style="font-family:verdana,geneva,sans-serif;">Privacy Policy</span></span></span></h1>
 <p>
@@ -128,16 +141,19 @@ setJsVar();
 <p dir="ltr" style="line-height:1;margin-top:5pt;margin-bottom:5pt;">
 	<span style="font-size: 16px; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; ">By agreeing to participate in GoWebSurveys.com, you signify your acceptance of the terms and conditions of this Privacy Policy. GWS hereby reserves the right to make changes to this Privacy Policy. We encourage you to periodically review this Privacy Policy. Your continued participation in GWS after any revisions to this this Privacy Policy constitutes your acceptance of this Privacy Policy, as amended, modified or updated.</span></p>
 <span style="font-size: 16px; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; ">If you have questions or concerns regarding this Privacy Policy, you can </span><a href="http://www.gowebsurveys.com/index.php?pagename=Contact" style="text-decoration:none;"><span style="font-size: 16px; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline; ">contact us.</span></a></div>
-	<div class="site-footer">
-		<div class="site-wrapper clear">
-			<a class="site-logo" href="http://www.gowebsurveys.com/admin">Go Web Surveys</a>
-			<div class="primary-nav" style="width: 70%">
-				<a class="nav-btn footer-btn" href="index.php?pagename=About us" title="About Us">About Us</a> <a class="nav-btn footer-btn" href="index.php?pagename=Privacy policy" title="Privacy policy">Privacy policy</a> <a class="nav-btn footer-btn" href="index.php?pagename=Term" title="Term">Terms &amp; Conditions</a> <a class="nav-btn footer-btn fb" href="https://www.facebook.com/pages/GO-Web-Surveys/827858527241104" style="width: 3%" title="Facebook">&nbsp;</a> <a class="nav-btn footer-btn twitter" href="https://twitter.com/Gowebsurveys" style="width: 3%" title="Twitter">&nbsp;</a></div>
-		</div>
-	</div>
+    <div class="site-footer">
+        <div class="site-wrapper clear">
+            <a class="site-logo" href="http://www.gowebsurveys.com/index.php?r=admin">Go Web Surveys</a>
+            <div class="primary-nav" style="width: 70%">
+                <a class="nav-btn footer-btn" href="index.php?pagename=About us" title="About Us">About Us</a> 
+                <a class="nav-btn footer-btn" href="index.php?pagename=Privacy policy" title="Privacy policy">Privacy policy</a>
+                <a class="nav-btn footer-btn" href="index.php?pagename=Term" title="Term">Terms &amp; Conditions</a> 
+                <a class="nav-btn footer-btn fb" href="" style="width: 3%" title="Facebook">&nbsp;</a> 
+                <a class="nav-btn footer-btn twitter" href="" style="width: 3%" title="Twitter">&nbsp;</a>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="fixed_btm" id="sitelock_shield_logo" style="bottom:0;position:fixed;_position:absolute;right:0;">
-	<a href="https://www.sitelock.com/verify.php?site=gowebsurveys.com" onclick="window.open('https://www.sitelock.com/verify.php?site=gowebsurveys.com','SiteLock','width=600,height=600,left=160,top=170');return false;"><img alt="PCI Compliance and Malware Removal" src="//shield.sitelock.com/shield/gowebsurveys.com" title="SiteLock"></a></div>
  
 
 	
