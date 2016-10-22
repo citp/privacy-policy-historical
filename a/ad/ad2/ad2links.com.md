@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad2links.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206035538id_/http%3A//www.ad2links.com/links-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad2links.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022222320id_/http%3A//ad2links.com/links-privacy.html) for the most accurate reproduction.*
 
 # Ad 2 links
 
