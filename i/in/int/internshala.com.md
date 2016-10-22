@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404104926id_/http%3A//internshala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022031320id_/http%3A//internshala.com/privacy) for the most accurate reproduction.*
 
 # Internshala | Privacy Policy
 
