@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320060218id_/http%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022095233id_/http%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The New Daily
 
@@ -10,7 +10,7 @@ We uphold the principles of the Privacy Act 1988 (Cth) (Act) regarding the manne
 
 This document reflects our Privacy Policy as at March 2016. We reserve the right to amend our Privacy Policy at any time without notice to you. The date of this Privacy Policy will inform you as to whether there have been updates since your last visit.
 
-**Collection of Information**
+ **Collection of Information**
 
 We will only collect personal information where it is reasonably necessary to do so for the conduct of our business. The kinds of personal information that we collect and hold may include:
 
@@ -37,7 +37,7 @@ Your information may also be collected by Netratings Australia Pty Ltd via cooki
 
 We will hold personal information as either physical records, records on our servers, and in some cases, records on third party servers, which may be located overseas.
 
-**Use and Disclosure of Information**
+ **Use and Disclosure of Information**
 
 In general, we will collect, hold, use and disclose personal information for the purposes of providing or offering goods and services to you, any purposes that you may reasonably expect, for any other purpose authorised by law, or for any other purposes disclosed to or authorised by you. This may include disclosures to organisations that provide us with technical and support services, and professional advice, such as solicitors, accountants and business advisors.
 
@@ -62,11 +62,11 @@ Any disclosure that is required to be made to any third party will be made prima
 
 Any personal information submitted via our online form may need to be processed by a third party. By submitting personal information via an online form, you consent to the disclosure of that information to a third party, which may be located overseas, for the sole purpose of processing the online form.
 
-**Information Security**
+ **Information Security**
 
 We will take reasonable steps to hold all hard copy and electronic records of your information in a secure manner to ensure that they are protected from misuse, interference and loss, and unauthorised access, modification or disclosure. We will destroy or de-identify your personal information once it is no longer needed for a valid purpose or required to be kept by law. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
 
-**Data Access & Correction**
+ **Data Access & Correction**
 
 You may request access to your personal information at any time by sending a written request to our Privacy Officer by mail at The New Daily Pty Ltd, 22 Casselden Place, Cnr Lonsdale Street & Spring Street, Melbourne Vic 3000, or by email to [officemanager@thenewdaily.com.au](mailto:officemanager@thenewdaily.com.au).
 
@@ -78,17 +78,17 @@ We will take reasonable steps to ensure that the personal information we collect
 
 If we are unable to provide you with access to your information, or make any amendments which you have requested, we will provide you with reasons for our refusal.
 
-**Cross-Border Disclosures of Information**
+ **Cross-Border Disclosures of Information**
 
 We are not likely to disclose your information to overseas recipients. We will only do so where necessary or useful in the course of operating our business, and only with your express consent or otherwise in accordance with the Australian Privacy Principles.
 
 We will not disclose your information outside of Australia in any other circumstances.
 
-**Anonymity**
+ **Anonymity**
 
 Where practicable, we will provide the option for you to deal with us anonymously or under a pseudonym. This option will not be available where we are required or authorised by law to deal with individuals who have identified themselves, or if we need to verify your identity in order to provide products or services to you.
 
-**Complaints**
+ **Complaints**
 
 If you believe that we may have breached the Australian Privacy Principles, or failed to comply with this policy, you may make a written complaint addressed to:
 
