@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecpi.edu privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623230840id_/http%3A//www.ecpi.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecpi.edu privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022073953id_/https%3A//www.ecpi.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ECPI University
 
