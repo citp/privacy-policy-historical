@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updown.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321211636id_/http%3A//www.updown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updown.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022233032id_/http%3A//updown.com/privacy-policy) for the most accurate reproduction.*
 
 # Stock Market Game - Practice investing $1,000,000 - UpDown.com
 
