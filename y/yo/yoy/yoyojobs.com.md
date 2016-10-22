@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoyojobs.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522165655id_/http%3A//www.yoyojobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyojobs.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022212009id_/http%3A//www.yoyojobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Yo Yo Jobs
+# Privacy Policy - YoYo Jobs
 
 This Privacy Policy governs the manner in which YoYo Jobs Team collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.yoyojobs.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by YoYo Jobs Team .
 
