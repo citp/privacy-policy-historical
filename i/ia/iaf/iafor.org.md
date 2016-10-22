@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafor.org privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325074024id_/http%3A//iafor.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafor.org privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022102837id_/http%3A//iafor.org/about/privacy-policy) for the most accurate reproduction.*
 
 # IAFOR | IAFOR Policy for the Handling and Protecting Personal Information
 
