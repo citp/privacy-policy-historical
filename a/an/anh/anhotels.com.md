@@ -1,94 +1,106 @@
-> *The following text is extracted and transformed from the anhotels.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308224536id_/http%3A//www.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D101155) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anhotels.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022084905id_/http%3A//anhotels.com/privacy-policy) for the most accurate reproduction.*
 
-# Cheap Hotels-Discount Hotels-Reservations - www.anhotels.com -- infocenter
+# Privacy Policy – Anhotels.com
 
-THE SUMMARY  
-IAN.com is in the travel business, not the spying business. We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. We will not sell your personally identifiable information to others, however, if you accessed this website through a IAN.com Affiliate, your personally identifiable information (other than your credit card information) may be forwarded to that Affiliate. Whether you travel the Web or travel the world, IAN.com wants you to always be safe!  THE DETAILS  
-Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  This notice shall apply to all information IAN.com collects or is submitted by the user on the IAN.com website.  To make this notice easy to find; we make it available on our homepage and at every point where personally identifiable information may be requested.  Use of Customer Information  
-IAN.com is the sole owner of the information collected on this site.  We will not sell or rent this information to others in ways that differ from what is disclosed in this statement.  General Information \- What We Collect and Why  
+This privacy policy sets out how Anhotels.com uses and protects any information that you give Anhotels.com when you use this website.
 
+Anhotels.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-  * IAN.com may include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of website visitors or the most popular vacation destinations.
-  * Our server recognizes domain names and the pages visited.  This data is gathered in an aggregate manner for quality control and improvement of our website.
-  * IAN.com does not market to children nor collect personal information about children at this website.
-
-Individual Information \- What We Collect and Why  
+Anhotels.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: September 2016  
 
 
-  * Your name, email address, physical address, phone and fax number, and credit card number, expiration date and billing address are necessary to ensure we are able to make and confirm your reservation. We do not share this personal information with outside parties except to the extent necessary to complete your reservation or product order.
-  * Your contact information is needed in order to notify you in the event of any processing difficulties or unforeseen circumstances fulfilling your reservation or product order.  In some cases, paper tickets may need to be mailed to you.  The more easily we can contact you, the better we can serve you.
-  * IAN.com will use the information you provide about yourself in order to make the IAN.com website as customer friendly as possible.  We want to know you to better serve you, but do not want to invade your life.  We may ask you for more information about your travel interests.  In the future this information may be used to help IAN.com make more applicable travel recommendations. However, this information will always be optional.
+### What we collect
 
-Newsletter \- What We Collect and Why  
+We may collect the following information:
 
-
-  * Your email address ensures you receive the newsletter in a timely manner.
-  * Your name is optional and tells us who personally to address - just a nice touch.
-  * Although we do not want you to miss any great travel deals, you can unsubscribe to any IAN.com newsletter at anytime, by sending an email to [customers@ian.com](mailto:customers@ian.com). Please tell us the newsletter title and the email address you want removed.
-
-Surveys \- What We Collect and Why  
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
-  * From time to time IAN.com conducts voluntary customer surveys, which may ask questions about broad background information and customer preferences.  This survey information is completely optional and you are under no obligation to be a part of any survey. The information IAN.com collects is used to better serve our customers by helping IAN.com determine our customer's travel needs and improve the satisfaction and use of this website.
-  * Participation in these surveys or contests is completely voluntary and  you therefore have  a choice whether or not to disclose this information.  Information requested may include demographic information including, but not limited to:  age, gender, approximate household income, how you travel, how you make your reservations, and why you travel.
-  * Your contact information may be required if a prize is to be awarded to survey respondents either at random or individually. This will enable us to contact you to notify you of details regarding your prize.
 
-COOKIES  
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.
+### What we do with the information we gather
 
-We use cookies to track usage of the Guest path and to serve advertisements through our advertising networks. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+  * Internal record keeping.
+  * We may use the information to improve our products and services
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Advertising  
-A cookie file may also be placed on your hard drive by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does not include your personally identifiable information.The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of a Web beacon (a single-pixel GIF), which is placed on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personally identifiable information is collected during this process. The information is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here](http://www.networkadvertising.org/).
 
-Log Files  
-We use IP addresses to analyze trends, administer the website, track users' movements, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information. 
 
-Affiliates  
-An Affiliate is a Web site not owned or operated by IAN.com, but uses IAN.com's booking capabilities for processing travel reservations.  The IAN.com name may or may not appear on the Affiliate site. 
+### Security
 
-You may have accessed IAN.com via one of our Affiliate websites. Some of our Affiliates also use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies. Please be aware that IAN.com is in no way responsible for the privacy practices of such other websites. We encourage you to read the privacy statement of the Affiliate and each and every website you visit that collects personally identifiable information. This Privacy Statement covers the use of cookies by this website only and does not cover the use of cookies by any of our Affiliates, advertisers or other business partners. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-SHARING  
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. 
+### What is a cookie?
 
-Third Party Intermediaries  
-IAN.com uses an outside a credit card processing company and bank check processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
 
-This website makes use of a technology designed to enhance your browsing experience. The technology, provided as a hosted service application by Fireclick ®, makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the website owner only. No personal or personally identifiable information is gathered or used for this process. 
+You can find more information about cookies at:
 
-If for any reason you do not wish to have this technology enabled while browsing this site, please [click here](javascipt:fcDisableTracking\(\);). A cookie will be set on your browser that instructs the service not to start. If you have disabled the service and wish to reactivate it, please click here. Additional information on Fireclick's technology may be found at [www.fireclick.com](http://www.fireclick.com/). 
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * For a video about cookies visit [how Google uses cookies](https://www.google.com/policies/technologies/cookies/)
 
-Suppliers  
-IAN.com provides information about travel either reserved or purchased on this website to the suppliers whose will fulfill your travel reservation. Although we offers travel products from hotel, airline, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on this website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
 
-IAN.com will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our website visitors. 
 
-IAN.com may contract with a reputable third-party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us. 
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.  
 
-Affiliates  
-If you access our website through one of our Affiliates and make travel reservations, your personally identifiable information (other than credit card information) may be forwarded to that particular Affiliate. 
 
-Aggregate Information (non-personally identifiable information)  
-IAN.com will share aggregated demographic information with our Affiliates and advertisers. 
+### Category 1: strictly necessary cookies
 
-Links  
-This site may contain links to other sites. Please be aware that IAN.com is in no way responsible for the privacy practices of such other sites.  We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.  This privacy statement applies solely to information collected by the IAN.com website.  NOTIFICATION OF CHANGES  
-If IAN.com decides to change its Privacy Statement, we will post those changes this Privacy Statement so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email. You will have a choice as to whether or not we use your information in this different manner.  CORRECTING/UPDATING PERSONAL INFORMATION  
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct or update a user's personally identifiable information. Users can all email our Customer Support at [Customer Care](mailto:customers@ian.com) or contact us by telephone or postal mail at the contact information listed below.  CONTACT INFORMATION
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
 
-If users have any questions or suggestions regarding our Privacy Statement, please contact us at: 
+### Category 2: performance cookies
 
-Email [Customer Care](mailto:customers@ian.com)
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
 
-| Postal Address: |    
----|---  
-  | 10440 North Central Expressway  
-Suite 400  
-Dallas, Texas 75231  
-USA   
-  
-This Privacy Statement is effective as of July 22, 2004 
+By using our website, you agree that we can place these type of cookies on your device.
+
+### Category 3: functionality cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+By using our website, you agree that we can place these type of cookies on your device.
+
+### Category 4: targeting cookies or advertising cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
+
+A list of all the cookies used on this website by category is set out below.  
+
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
+
+Email: [ruth@anhotels.com](mailto:ruth@a%6eh%6ftels.com "Send email to: ruth@anhotels.com")
+
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998.
+
+A small fee will be payable.
+
+If you would like a copy of the information held on you please write to: 
+
+Work
+
+141 Rosemary Ln
+
+Lemon Grove, CA 91945, United States
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
