@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepo.info privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223051146id_/http%3A//deepo.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepo.info privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022075050id_/http%3A//deepo.info/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy — Deepo Digital Marketing
 
