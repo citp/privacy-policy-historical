@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cordial.io privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003141id_/http%3A//cordial.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cordial.io privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022220225id_/http%3A//cordial.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cordial.io - Experiences Delivered
+# Privacy Policy | Cordial.io - An Adaptive Messaging Platform
 
 CORDIAL is committed to protecting your privacy. This statement outlines our practices for gathering and disseminating information on the CORDIAL website and/or CORDIAL Services and explains the terms and conditions of your use of the Services. CORDIAL does not sell, rent, or trade the personal information of any of our customers to any third party. Please review our policy and contact us with any questions.
 
