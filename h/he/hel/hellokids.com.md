@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323084224id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022140613id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
 
 # Footer - Privacy Policy
 
