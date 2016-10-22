@@ -1,100 +1,108 @@
-> *The following text is extracted and transformed from the altoeducation.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altoeducation.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022171630id_/http%3A//altoeducation.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | eSchool News
 
-**Go Daddy Respects Your Privacy**
+Reasons
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Our principles
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+What information do we collect?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Optional Services
 
-**Information Collection and Use**
+What does eSchool News do with the information it gathers and tracks?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+With whom does eSchool News share the information it gathers and tracks?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Blogs and RSS feeds
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Children’s Guidelines
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Opting-Out, Corrections and Cancellations
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Additional Information Or to Report a Problem
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+#### Reasons:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+At eSchool News Online we collect different types of information about our users for two main reasons:
 
-**Security**
+1\. To help us improve the services we offer.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+2\. To provide personalized services unique to individual users.  
+Top of Page
 
-**Updating Your Information**
+#### Our principles:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We are absolutely committed to protecting your privacy. Our policy can be summarized in one sentence: We will not share your information with others without your prior consent. To uphold these principles, **eSchool News Online** has established the following four principles:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+1\. We will continue to invest in high-quality security and do our utmost to protect user privacy through the appropriate use of the latest security technology.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+2\. We will respect your eMail privacy. You will not receive unsolicited mail from **eSchool News Online** and/or from third parties screened by **eSchool News Online** unless you have agreed to this. We will, however, mail you occasionally with information about your registration and/or your subscription account.
 
-      iii.      You may call us at: (480) 505-8800
+3\. We will not pass on any individual user details (including your eMail address) unless we have your prior consent.
 
-       iv.      You may fax us at: (480) 505-8844
+4\. Otherwise, we will only share anonymous aggregate statistics about our users, sales, and traffic patterns with our advertisers.
 
-**Sending Emails**
+Should we elect to change our privacy policy we will post the changes here. Where the changes are significant, we may also choose to eMail all our registered users with new details.  
+Top of Page
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+#### What information do we collect?
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+eSchool News Online has adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that internet technologies are rapidly evolving and that underlying business models are still not established. Accordingly, guidelines are subject to change. Any such changes will be posted on this page.
 
-**Compliance with Laws and Law Enforcement**
+eSchool News Online is not responsible for the content or the privacy policies of web sites to which it might link.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+#### Optional Services:
 
-**Third Party Service Providers**
+For certain optional services, eSchool News Online requires that you supply a unique subscriber ID, eMail address, and demographic information, such as title and school district.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * **Registration/Subscriptions:** For customers’ convenience, eSchool News Online makes it possible to subscribe via credit card to the eSchool News Online family of publications and register for various conferences sponsored by eSchool News.
+  * **Surveys:** On occasion, eSchool News Online also collects additional personal information in connection with optional contests, surveys, or special offers.
+  * **IP Addresses:** **eSchool News Online** logs IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Top of Page
 
-**Contests/Surveys**
+#### What does eSchool News do with the information it gathers/tracks?
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Statistical Analysis and Banner Advertising:** **eSchool News Online** may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or “clicked” their advertising banners. All information is used in aggregate form and no personal information is tied to individual users.  
+eMail: Using the eMail addresses provided at registration, eSchool News Online periodically sends promotional eMail to its subscribers about services offered by eSchool News Online and its advertisers. eSchool News Online may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. To manage your eSchool News Online eMail profile, please go to our [eMail management page](https://web.archive.org/memberprofile/)).
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, eSchool News Online has put in place appropriate physical, electronic, and managerial procedures to protect the information it collects online. These security measures are reviewed and updated as necessary to provide a secure data environment.  
+Top of Page
 
-**Tell-A-Friend**
+#### With whom does eSchool News Online share the information it gathers and tracks?
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+eSchool News Online uses the information it gathers to promote special pricing and discount offers for our newspaper, newsletters, directories, and conferences. The information gathered may also be shared with advertisers and other partners. eSchool News Online will provide registered users with all personal information collected at the time of registration upon request. This information will be sent only to the eMail address on file for the unique subscriber ID associated with it.
 
-**What Happens to my Personal Information if I Opt Out?**
+During the registration process, new users may select to register for various eMail publications. If you select this option, eSchool News Online will use the information collected on the registration form to send targeted eMails to you on behalf of advertisers. eSchool News Online subscribers may opt-out of this service at any time.  
+Top of Page
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+#### Blogs and RSS feeds:
 
-**Transfer of Data Abroad**
+eSchool News Online offers optional resources for communications. Any information you disclose when posting a message in these tools becomes public. Moreover, subscribers who post a message in our communications make their eMail address available to others through a feature of our communications software, which could result in unsolicited eMail from other subscribers or parties.  
+Top of Page
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+#### Children’s Guidelines:
 
-**Changes in Our Practices**
+No section of eSchool News Online is directed at children 12 and under. We collect no personally identifiable information from visitors known to be children.  
+Top of Page
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+#### Opting-Out, Corrections, and Cancellations:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Upon request, eSchool News Online will a) Remove you and your personal information from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to “opt out” of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [Customer Service](mailto:custserv@eschoolnews.com). To manage your eSchool News Online eMail profile, please go to our [eMail management page](https://web.archive.org/memberprofile/).  
+Top of Page
 
-**Contacting Our Site**
+#### Additional Information Or to Report a Problem:
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Please eMail [Nancy David](mailto:ndavid@eschoolnews.com), or call directly at 1-301-913-0115 ext 110.
 
-* * *
+Address:
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+eSchool News  
+Attention: Nancy David  
+Online Director  
+7920 Norfolk Ave., Suite 900  
+Bethesda, MD 20814  
+Top of Page
