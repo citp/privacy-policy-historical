@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplan.co.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515175653id_/http%3A//www.kaplan.co.uk/about-us/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplan.co.uk privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022082509id_/http%3A//www.kaplan.co.uk/about-us/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Kaplan in the UK Privacy | Privacy and Cookie Policy
 
