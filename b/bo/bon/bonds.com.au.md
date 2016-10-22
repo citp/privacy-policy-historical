@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618032506id_/http%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022052759id_/https%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BONDS Australia
 
@@ -10,13 +10,15 @@ Your privacy is very important to us and we will always act to protect your pers
 
 ### WHAT WE COLLECT
 
-The type of personal information we collect is dependent on the type of service or interaction you wish to receive. Personal information we collect may include: your name, address, phone and other contact details (fax, email etc), date of birth, gender, merchandise information (purchases, orders etc), method of payment. Sometimes we will also collect other personal information, such as where you shop or what your interests are, so that we can improve our service and product offering to you. You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information, products, or services. We do not store your credit card details in any way; they are secured by 128-bit SSL encryption and transmitted directly by you to our payment processing provider.
+The type of personal information we collect is dependent on the type of service or interaction you wish to receive. Personal information we collect may include: your name, address, phone and other contact details (fax, email etc), date of birth, gender, merchandise information (purchases, orders etc), method of payment. Sometimes we will also collect other personal information, such as where you shop or what your interests are, so that we can improve our service and product offering to you. You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information, products, or services. We do not store your credit card details in any way; they are secured by 128-bit SSL encryption and transmitted directly by you to our payment processing provider. We may also collection information about your online behaviour and behavioural patterns when using our website, such as the time and date of your visit, the pages you viewed and how you navigated to, and through, our website.
 
 ### HOW WE COLLECT IT
 
 The personal information we collect is generally supplied directly by you through our Website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. There are also certain situations in which we may collect personal information about you from someone else. For example we may collect information from third parties including public sources, our related companies, your organisation, your representatives and information service providers.
 
 We also receive and store certain types of information through the use of 'Cookies', when you interact with Bonds via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our Website.
+
+In addition, we may use third party tracking and analytics software to measure and observe user behaviour. This enables us to improve our Website performance and your experience with us. For example, we use Hotjar and their privacy policy can be seen at <https://www.hotjar.com/privacy>.
 
 ### WHY WE COLLECT IT
 
