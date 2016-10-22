@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opnsense.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322115211id_/https%3A//opnsense.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opnsense.org privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022230056id_/https%3A//opnsense.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OPNsense
+# Privacy Policy - OPNsense, Your Next Open Source Firewall
 
 ### **Personal Information**
 
