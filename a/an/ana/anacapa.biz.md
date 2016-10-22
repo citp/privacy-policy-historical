@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anacapa.biz privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606093843id_/http%3A//www.anacapa.biz/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anacapa.biz privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022233843id_/http%3A//www.anacapa.biz/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Anacapa Wi-Fi Services
 
