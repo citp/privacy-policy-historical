@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322042122id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhrawishesh.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023010225id_/http%3A//www.andhrawishesh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Andhrawishesh Privacy Policy
 
@@ -69,11 +69,11 @@ All information gathered on WISHESH DIGITAL MEDIA is securely stored within the 
 
 If you have any questions about our security practices, please send an email to us at 
 
-If you have any questions about our security practices, please send an email to us at [info@andhrawishesh.com](mailto:info@andhrawishesh.com)
+If you have any questions about our security practices, please send an email to us at info@andhrawishesh.com
 
 ### Enforcement of Privacy Policy
 
-We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact WISHESH DIGITAL MEDIA Support Services at [info@andhrawishesh.com](mailto:info@andhrawishesh.com) or write to the following address:
+We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact WISHESH DIGITAL MEDIA Support Services at info@andhrawishesh.com or write to the following address:
 
 **WISHESH DIGITAL MEDIA Pvt. Ltd** ,  
 Plot No:26, Nagarjuna Hills  
