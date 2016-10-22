@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesnewtab.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403161713id_/http%3A//www.gamesnewtab.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesnewtab.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022081959id_/http%3A//www.gamesnewtab.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
