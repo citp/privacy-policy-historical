@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the butterloads.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124115040id_/http%3A//www.butterloads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterloads.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023003953id_/http%3A//butterloads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site butterloads.com and all other sites owned or controlled by BangBros.com, Inc. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site butterloads.com and all other sites owned or controlled by Program Three, LLC., Inc. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
