@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youloca.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622081249id_/http%3A//youloca.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youloca.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023045859id_/http%3A//youloca.com/privacy) for the most accurate reproduction.*
 
 # Flashlight Enterprises Corporation Privacy Policy Statement
 
