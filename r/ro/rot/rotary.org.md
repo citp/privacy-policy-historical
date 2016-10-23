@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409011744id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023171648id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rotary
 
@@ -147,13 +147,17 @@ We strive to provide you with choices regarding the personal information you pro
 
 
 
+#### Donor Privacy Information
+
+Rotary will not sell, trade or share a donor's personal information, including their name, phone number, email, or physical address with non-Rotary third parties nor will it send donors mailings on behalf of other unrelated organizations. This policy applies to all information received by Rotary, both online and offline, as well as any electronic, written or oral communication. Rotary occasionally uses third-party vendors to manage and process donor information. These vendors are bound by strict confidentiality agreements.
+
 #### Accessing and Correcting Your Information
 
 You can review and change your personal information by logging into our Website and visiting your account profile page on My Rotary.
 
 You may also send us an e-mail at [Contact.Center@rotary.org](mailto:Contact.Center@rotary.org) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Content from the Website, copies of your User Content may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on our Website, including User Content, is governed by our [Terms of Use](https://web.archive.org/en/rotary-international-website-terms-use "Rotary International Website Terms of Use").
+If you delete your User Content from the Website, copies of your User Content may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on our Website, including User Content, is governed by our [Terms of Use](https://www.rotary.org/en/rotary-international-website-terms-use).
 
 #### Children Under the Age of 13
 
@@ -179,4 +183,4 @@ Rotary may change, add, modify or remove portions of this Policy at any time, wh
 
 If you have any questions about Rotary’s privacy protection practices or believe we have not adhered to this Policy, please contact us at [Contact.Center@rotary.org](mailto:Contact.Center@rotary.org)
 
-Last modified: February 2016
+Last modified: August 2016
