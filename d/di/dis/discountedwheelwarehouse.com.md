@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the discountedwheelwarehouse.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202072109id_/http%3A//www.discountedwheelwarehouse.com/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountedwheelwarehouse.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023042816id_/http%3A//www.discountedwheelwarehouse.com/Privacy_Policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Call Today:1-800-901-6003
+# Privacy Policy - Discounted Wheel Warehouse
 
 * * *
-
-## Privacy Policy - Discounted Wheel Warehouse
 
 We Respect your privacy!
 
