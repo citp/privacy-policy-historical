@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529075710id_/https%3A//www.lovemoney.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023041924id_/https%3A//www.lovemoney.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# lovemoney.com - Live life richer with lovemoney.com
+# lovemoney.com - Live life richer with Lovemoney
 
 ## Part 1: General Information
 
