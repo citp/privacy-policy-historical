@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126070237id_/http%3A//pegitboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023060807id_/http%3A//pegitboard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Peg It Board
+# Privacy Policy : Pegitboard
 
-Unless otherwise defined in this Policy, terms used in this Policy have the same meanings as in our Peg It Board Terms of Service, accessible at [http://pegitboard.com/about/terms/](http://pegitboard.com/tos). As used in this Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
-
-* * *
-
+Unless otherwise defined in this Policy, terms used in this Policy have the same meanings as in our Peg It Board Terms of Service, accessible at [http://pegitboard.com/about/terms/](http://pegitboard.com/tos). As used in this Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.  
 Peg It Board, Inc. is the corporate name for Peg It Board. In this Policy, we will refer to Peg It Board, Inc. as “Peg It Board”, “our”, “us” or “we.” 
 
 We take your privacy seriously. We are providing this Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information on our Service. We also want to inform you about your choices regarding information. If you have any questions or concerns, please let us know (see “How to contact us” section below).
