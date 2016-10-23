@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googmark.in privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519124832id_/http%3A//www.googmark.in/privacy_policy_and_disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googmark.in privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023213528id_/http%3A//googmark.in/privacy_policy_and_disclaimer.php) for the most accurate reproduction.*
 
 # Privacy Policy And Disclaimer
 
