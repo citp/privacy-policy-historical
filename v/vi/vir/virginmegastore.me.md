@@ -1,43 +1,51 @@
-> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408214225id_/http%3A//virginmegastore.me/Sub.aspx%3Fpageid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023100332id_/https%3A//www.virginmegastore.ae/en/privacy-policy) for the most accurate reproduction.*
 
-# :: Virgin Megastore MENA ::Privacy Policy
+# Website Privacy Policy | Virgin Megastore
 
-**PRIVACY AND POLICY** VSTar Multimedia LLC (referred to as "we" or "us" or "our") recognizes that your privacy is important. This Privacy Policy applies to all of the products and services offered by us on this website. 
+## VIRGIN MEGASTORE - WEBSITE PRIVACY POLICY
 
-**What information do we collect?**  
-We offer a number of services that do not require you to register for an account or provide any personal information to us. However, we may collect personal information from you when you register on our site or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your information such as your name, e-mail address, phone number as well as user names and passwords. You may, however, visit our site anonymously. Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+This Privacy Policy (the “Policy”) sets out the basis on which Virgin Megastore (“Virgin”, “we”, “our”, etc.) collects, uses and discloses personal information obtained from you when using www.virginmegastore.ae (the “Website”). References in this Policy to “Virgin Megastore Group” are references to different legal entities related by way of common corporate history, and typically trading under the VIRGIN MEGASTORE brand in the United Arab Emirates. This Policy is effective from 01.01.2016.
 
-**What do we use your information for?  
-**  
-Any of the information we collect from you may be used for the following purposes: • To personalize your experience. Your information helps us to better respond to your individual needs. • To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you. • To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs. • To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. • To administer a contest, promotion, survey or other site feature. • To send periodic emails The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+By visiting the Website, and/or by using any services provided via this Website, you expressly agree to be bound by the terms of this Policy and you consent to our collection, use and disclosure of your information in accordance with the terms of this Policy. We may amend this Policy at any time without notice, and such amendments become effective from the date upon which we make them available on the Website. If you do not agree to the Policy (including any amendments), then you should immediately cease using the Website.
 
-**How do we protect your information?**  
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection.
+YOUR INFORMATION
 
-**Accessing and updating your personal information**  
-When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
+ The type of information we collect from you is either personal to you, or is general in nature:
 
-**Do we use cookies?**  
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and improve the quality of our services. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+• Personal Information: When you register on the Website as a customer, update your information, purchase any goods or services, take part in promotions or send emails to us, you provide us with information that we store and process. Such information may include your name, address, phone number, email address, purchase and transaction history, billing information, interests, and other such 'Personal Information'. 
 
-**Do we disclose any information to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+• General Information: We also receive more general information from you as a result of your visits to, and use of, the Website. This general information does not identify you personally, and can include information such as your IP address, the date and time you access the Website, length of time you spend on the Website, your browsing history (recorded by the text and graphics files that compose that page), the Internet address of the website from which you linked directly to our Website, and other such 'General Information'.
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+COLLECTING AND USING INFORMATION
 
-**Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.virginmegastore.me]()
+Most of this Website can be used without giving us any information. However, certain services may involve collection of information from you. We use this information to provide you with a better service, and in particular to: keep internal records; improve our products, services and this Website; communicate with you if you have ordered or purchased products from us; contact you for market research purposes; and provide you with information about new products, promotions, special offers and other information.
 
-**Your Consent**  
-By using our site, you consent to our privacy policy.
+We use Personal Information for a range of business-related purposes, including: account registration (eg. your name, telephone number and email address); billing information, transaction and credit card information (should you make a purchase with us); and information regarding your interests, demographics, experiences and contact preferences in order to provide you with further correspondence about our products and services. If you contact us via the Website, or via email to the contacts set out on the Website, we may keep a record of that correspondence.
 
-**Changes to our Privacy Policy**  
-Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page. If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on March 11th, 2009
+We use General Information to help us make the Website more useful to visitors (including to help us assess content of interest to visitors), and for other purposes such as determining the Website’s technical design specifications and identifying system performance or problem areas, for tracking activity on the Website, preparing reports, assessing trends, and otherwise monitoring the way in which the Website is being used – none of which would be in a way that personally identifies any users.
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us at any time through this website or write to us using the information below:   
-[http://www.virginmegastore.me]()  
-Dubai  
-United Arab Emirates   
-[info@virginmegas](mailto:info@virginmegastore.me)tore.me
+NON-DISCLOSURE OF PERSONAL INFORMATION
+
+You agree that we may share your Personal Information within the Virgin Megastore Group and with any subcontractors that are assisting us with the operation of the Website and who have agreed to abide by the terms of this policy. We will not share, sell or rent your Personal Information in any manner to any third parties outside the Virgin Megastore Group and those subcontractors, except when we have your permission; or if required to do so by law or any governing authority; or to protect our own legitimate interests.
+
+SECURITY
+
+Keeping your Personal Information secure and preventing unauthorized access is of utmost priority to us, and we take all steps reasonably necessary to protect your Personal Information against any unauthorized access, use, alteration, disclosure or destruction. Whilst we have put in place physical, electronic and managerial procedures to secure and safeguard your Personal Information, we will not be held responsible for any unauthorized access by third parties and we cannot guarantee that the Personal Information provided by you or that is transmitted via this Website or by e-mail is totally secure and safe.
+
+COOKIES
+
+The Website uses cookies, which are files that store information on your hard drive that allow a website to recognize users, track new users and to record session information. Most browsers are automatically set to accept cookies but if you choose you can disable the cookies from your browser.
+
+LINKS TO THIRD PARTY WEBSITES 
+
+The Website may provide links to other third party websites not within our control. We cannot be responsible or liable for the content of such websites and we advise you to exercise caution and review and understand the privacy policy of such websites before submitting any of your Personal Information to them. 
+
+APPLICABLE LAW AND JURISDICTION 
+
+This Policy, as well as your access to the Website, is subject to and governed by the laws of the United Arab Emirates as applied in the Emirate of Dubai without giving effect to conflicts of law principles thereof. Any dispute regarding this Policy or our handling of your Personal Information and General Information shall be subject to the exclusive jurisdiction of the Courts in Dubai. 
+
+CONTACT US
+
+If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that we may hold about you is incorrect or incomplete, please contact us at the following address and we will endeavor to respond to you promptly.
+
+[hello@virginmegastore.ae](mailto:hello@virginmegastore.ae?subject=Re%3A%20Virgin%20Megastore%20Privacy%20Policy)
