@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mopvideo.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031322id_/http%3A//mopvideo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mopvideo.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023211442id_/http%3A//mopvideo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch TV Shows Online, Watch Online Free | MOPvideo!
 
