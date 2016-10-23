@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602124415id_/http%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-utility.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023101358id_/https%3A//www.first-utility.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | First Utility
 
@@ -14,7 +14,7 @@ First Utility reserves the right to make amendments to the privacy policy and su
 
 **1\. Your details: What we hold and the purposes for which information is used**
 
-**_(A) What we hold_**
+**(A) What we hold**
 
 We collect information about you from a number of sources in order to provide you with our services. These sources may include:
 
@@ -42,7 +42,7 @@ This information may include information about meter readings, meter type, outst
 
 7.  If you have joined First Utility as a smart meter customer, we collect information from the smart meter showing your gas and electricity usage data and billing information.  You can access this information via the secure customer portal.
 
-**_(B) Purposes for which used_**
+**(B) Purposes for which used**
 
 We use this information for a number of purposes such as:
 
@@ -56,23 +56,27 @@ We use this information for a number of purposes such as:
 
 5\. To update or maintain your account details or to communicate with you by letter, email or telephone
 
-6\. To let you know about our products, services or campaigns that we think may be of interest to you.  If you choose to partially complete your online application and select “Save For Later” we will send you an email providing information of how you can access your application.  Once you become a First Utility customer we will send you a confirmation & welcome email.  If you wish to unsubscribe from emails you can contact us at any time.
+6\. To let you know about our products, services or campaigns that we think may be of interest to you.  If you choose to partially complete your online application and select “Save For Later” we will send you an email providing information of how you can access your application.  Once you become a First Utility customer we will send you a confirmation & welcome email.  If you wish to unsubscribe from emails you can contact us at any time, or you can manage your information settings when you login to your online account via our website and/or App.
 
 7\. To disclose information about you and the services We provide you with to your new utility supplier should you wish to change your supply. 
 
 **2\. Passing on your details**
 
-2.1 We will only pass on personal information about you to third parties to enable us to provide our services or with your prior consent. Once you have given consent you can, at any time, ask us and any relevant third parties to cease passing on your personal information and we/they will cease providing such services to you.
+2.1 We will only pass on personal information about you to third parties to enable us to provide our services, comply with our legal and regulatory obligations, or with your prior consent. Once you have given consent you can, at any time, ask us and any relevant third parties to cease passing on your personal information and we/they will cease providing such services to you. Alternatively, you can manage your information settings when you login to your online account via our website and/or app.
 
 2.2 We may disclose information about you if necessary as a result of you breaching this Privacy Policy, the Web Site Terms and Conditions or applicable law. We may also disclose your details if required to do so by law or requested to do so by any Governmental or law enforcement agency.
 
-2.3 We will from time to time engage with third parties for the purpose of providing research and insight into how our customers interact with the smart meter data. In these circumstances customer data will always be kept anonymous. The output from such research will be used to improve our products and services.
+2.3 We may disclose information to the TRAS fraud prevention agency to help prevent and detect debt and fraud including energy theft and loss. We and the TRAS fraud prevention agency will keep a record of your information which may include information relating to your property type and energy consumption as well as sensitive personal information including that relating to criminal convictions if we believe you may have committed energy theft. 
 
-**3.      ****How your smart meter data is used**
+2.4 We will from time to time engage with and disclose information to third parties for the purpose of providing research and insight into how our customers interact with the smart meter data and to satisfy our monitoring and compliance obligations to Ofgem. The output from such research will be used to improve our products and services and to monitor the quality of our smart meter installation service.
 
-If you sign up to our 'smart as standard' service you will receive a free meter upgrade. This means we will replace you gas and electricity meters with smart meters. Once these meters are up and running they will record your electricity usage every 30 minutes and your gas usage daily. These reads will be stored in your smart meters and sent to us daily via a mobile communication message.  These reads will be added your personal online account and you will have access to them 48 hours after they have been collected. The reads will be displayed in easy to read graphs and can be viewed daily, weekly, monthly or yearly.  You will also have the opportunity to download the data in a CSV file format. Only you have access to this information which is accessed using a unique username and password that you will be asked to set up once you have registered for gas and electricity with us. Your meter data will also be used by us to calculate how much gas and electricity you have used. This information will be used in your monthly bill and may be shared anonymously with third parties in order to improve First Utility's products and services.
+**3.      ****How your Smart Meter data is used**
+
+3.1 If you have a Smart Meter it will record your electricity or gas usage at regular intervals These reads will be stored in your smart meters and sent to us via a mobile communication message. Your meter data will be used by us to calculate how much gas and electricity you have used. This information will be used in your monthly bill and may be shared anonymously with third parties in order to improve First Utility's products and services.
 
 If you decide to switch to another supplier we will use the smart meter reads to provide a closing read to your new supplier. This is to ensure you are only charged for the gas and electricity you have used while you are still on supply with us.
+
+3.2 For more information about the data that is collected from your Smart Meter, what it’s used for and your rights and choices please see our Data Guide which is available in the Help & Advice section of our website.
 
 **4\. Removing your details**
 
@@ -83,6 +87,10 @@ If you decide to switch to another supplier we will use the smart meter reads to
 5.1 When you sign up as a new customer with us we work to protect the security of your information during transmission from your computer to us by using Secure Sockets Layer (SSL) software, which encrypts the information you input. SSL is an industry standard protocol for encryption over the internet. 
 
 When information is encrypted it is scrambled for transmission between your computer and our server. The information is only unscrambled when it reaches us safely. This is a secure data transfer method and ensures that your personal information cannot be read by anyone else. When you sign up with us as a customer none of the information that you provide during the registration process is stored on Our website, instead it is passed to our secure servers for storage.
+
+5.2 Our services are optimised for an enhanced online experience through compatible devices such as laptops, PCs, tablets and mobile phones. We recommend that you install security / anti virus software on any such device before accessing the internet. Please see our Domestic Terms & Conditions for further information. 
+
+5.3 Responsibility for the security of information once it reaches you or contained on any such device or within any medium whatsoever including but not limited to letter, email, App, your Online Account, or IHD supplied with your Smart Meter, rests with you alone. You should take appropriate measures to ensure that any device you use to monitor or manage your account including but not limited to your IHD, mobile phone, tablet, laptop or PC is secure and not accessible to anyone other than you the account holder, unless with your permission. 
 
 **6\. Cookies**
 
@@ -108,8 +116,8 @@ Our web site may contain links to other websites which are outside our control a
 
 7\. **Overseas Data Transfers**
 
-First Utility partners with various trusted organisations to provide its services which are located outside or which use suppliers which are located outside of the European Economic Area ("EEA").   The data that we collect from you may therefore be transferred to, and stored at, a destination outside the EEA (for example in the US and in China).
+First Utility partners with various trusted organisations to provide its services which are located outside or which use suppliers which are located outside of the European Economic Area ("EEA").   The data that we collect from you may therefore be transferred to, processed and stored at, a destination outside the EEA.
 
 These third parties may be engaged in, amongst other things, providing services such as analytical research services and direct marketing. 
 
-The laws of some of the jurisdictions in which these companies are based may not be as strong as those of the UK.  However, we will take all steps reasonably possible to ensure that your data is treated securely and in accordance with this privacy policy.  Accordingly, we have put in place strong contractual commitments with these suppliers to ensure that our data transfers made to them or their own suppliers comply with European data protection law or have ensured that they are signatories to European Union approved privacy principles such as the USA's Safe Harbor.
+The laws of some of the jurisdictions in which these companies are based may not be as strong as those of the UK.  However, we will take all steps reasonably possible to ensure that your data is treated securely and in accordance with this privacy policy.  Accordingly, we have put in place strong contractual commitments with these suppliers to ensure that our data transfers made to them or their own suppliers comply with European data protection law or have ensured that they are signatories to European Union approved privacy principles.
