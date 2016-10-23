@@ -1,83 +1,111 @@
-> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313150445id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023181237id_/https%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Virtuoso - Explore the world's No. 1 luxury travel network
+# World's Best Luxury Travel Advisors and Hotels - Virtuoso
 
-**Last Updated** : January 22, 2014
+### Information We Obtain
 
-The following Privacy Policies (hereinafter “ **Policy** ” or “ **Policies** ”) apply to both a Visitor’s use of the Virtuoso.com web pages (hereinafter “ **Website** ”), as well as use by Authorized Users who  have access to the content and features therein. The terms "you" or “your” refer to the individuals using the Website.  The terms “ **we** ”, “ **our** ” or “ **us** ” refer to Virtuoso Ltd. (“ **Virtuoso** ”).
+We obtain certain personal information in connection with the services we provide. The types of personal information we obtain include:
 
-These policies may be amended by us from time to time to reflect changes and additions we may make.  Please check back for the most current version before relying on any of the provisions in this privacy policy. This privacy policy is a legally binding agreement between you and Virtuoso. 
+•    Contact information, such as name, postal address, email address and telephone number;  
+•    online password and other log-in details;  
+•    payment information, such as name, billing address and payment card details (including card number, expiration date and security code);  
+•    booking information;  
+•    information about travel plans, interests, preferences and agency and advisor affiliation;  
+•    demographic information we acquire from third parties; and  
+•    other personal information in content you provide to us on our websites, such as in comments to our blog posts and feedback
 
-**I.  Privacy Policies Applicable Only To Visitors**
+In addition, when you visit our websites, we obtain certain information by automated means, such as cookies, web server logs and web beacons. The information collected in this manner includes IP addresses, operating systems type, browser type, domain and other system settings. A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we collect “clickstream data,” which is a log of content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. If you wish to disable the storage of cookies on your device, you may do so using the settings on your browser or device. Please note, however, that without cookies you may not be able to use all of the features of our websites. For more information on deleting or controlling cookies, visit www.aboutcookies.org.
 
-Visitors (meaning anyone who has not been issued Access Credentials in the form of a user name and password) are welcome to use the open access portions of the Website.
+### How We Use The Consumer Information We Obtain
 
-BY ACCESSING OR USING THE PORTIONS OF THIS WEBSITE OPEN TO VISITORS, YOU REPRESENT AND ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE POLICIES. YOU ACKNOWLEDGE THAT THESE POLICIES CONSTITUTE AN AGREEMENT BETWEEN YOU AND US, EVEN THOUGH IT IS ELECTRONIC AND IS NOT PHYSICALLY SIGNED BY EITHER OF THE PARTIES. IF YOU DO NOT AGREE TO ALL OF THESE POLICIES, THEN DO NOT ACCESS THE WEBSITE OR USE THE SERVICES OR CONTENT.
+We may use the consumer information we obtain to:
 
-Your privacy is important to us. In this Privacy Policy, we will share with you the type of information we gather and how we may use that information on our Website.
+•    Create and manage your profile and account;  
+•    offer and provide products and services to you, such as hotel bookings and marketing materials;  
+•    communicate with you about, and administer your participation in, surveys, events, programs, contests, promotions and other offers;  
+•    communicate with you on behalf of our Member Agencies and preferred suppliers;  
+•    display content on our websites;  
+•    respond to and communicate with you about your inquiries and requests, and provide information you request;  
+•    process claims we receive in connection with our products and services;  
+•    operate, evaluate and improve our business (including developing new products and services; enhancing and improving our services; managing our communications; analyzing our products; and performing accounting, auditing, billing reconciliation and collection activities and other internal functions);  
+•    perform data analyses (including market and consumer research, trend analysis, financial analysis, and anonymization of personal information);  
+•    protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and  
+•    comply with and enforce applicable legal requirements, relevant industry standards and our policies.
 
-  **Collection And Use Of Information**
+In addition, we use information collected online through cookies, web beacons and other automated means for purposes such as (i) customizing our users’ visits to our websites and (ii) managing our business. We also use this information to help diagnose technical and service problems, administer our websites, identify users of our websites, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users.
 
-When you visit the Website, we may collect the IP address of the device that is making the connection to the Website.  We may retain this information to assist us in analyzing the behavior of Visitors as they experience our Website, to resolve problems with our network, and to administer the Website. We may also collect the following types of information provided by your device: (i) The browsing behavior of your device, as determined by tracking your IP address to certain domain names, (ii) documents downloaded by the IP address associated with your device; and (iii) other anonymous information regarding the behavior of your device on our Website.
+We also use third party web analytics services on the websites, such as those of Google Analytics, Hotjar and Optimizely. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the websites. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the websites. To learn more about Google Analytics, Hotjar and Optimizely and how to opt out, please visit [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html), <https://www.hotjar.com/opt-out>  or <https://www.optimizely.com/opt_out/>.
 
-**Cookies**
+We also may use the information we collect about you in other ways for which we provide specific notice at the time of collection.
 
-A cookie is small data file that is transferred to the cookie file of the web browser you are using to access our website so that we can remember who you are.  We utilize “session” cookies to understand how visitors use our site and to help us improve the structure of our website. We cannot personally identify visitors in this way, and session cookies are deleted from your computer when you log off and close your browser. We also use “persistent” cookies to save your login information for future logins, store your Personal Information to more quickly and easily enable you to process transactions and to receive information from us about the services we offer on our web site in order to make your experience with us more convenient and personal. We, our affiliates and third parties may use these cookies and similar technologies for security purposes, and the delivery to you of products, services and advertising.  
+### Online Tracking
 
-We may also collect information using web beacons and other similar technologies. Web beacons are electronic images that may be used in our services or emails. We may use web beacons to count visits, understand usage and advertising campaign effectiveness, and determine whether an email has been opened and acted upon.
+ 
 
-However, you always have a choice with regard to cookies. You can modify your web browser preferences to allow you to accept or reject all cookies or to notify you when a cookie is set. However, if you choose to reject all cookies, you may be unable to use certain areas of the Website. Please consult your browser instructions for information on how to modify your choices about cookies. Finally, you may delete any existing cookies manually from the hard drive of your device.
+On our websites, we collect information about your online activities to provide you with advertising about products and services tailored to your individual interests. This section of our Privacy Policy provides details and explains how to exercise your choices.
 
-**Third-Party Content and Links to Third-Party Sites**
+You may see certain ads on other websites based on your visits to our websites because we participate in advertising networks administered by third-party vendors. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests and browsing context. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The networks use this information to show you advertisements that are tailored to your individual interests, to track your browser across multiple websites, and to build a profile of your web browsing. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our websites and on third-party websites that participate in the ad networks.  This process also helps us track the effectiveness of our marketing efforts. Our websites are not designed to respond to “do not track” signals received from browsers.
 
-We may allow third-parties to display advertisements or other content on the Website.  These third parties may also use cookies other technologies each time you view or click on or through their advertisements or content.  If you only view the web pages of the Website on which the advertisements appear, no third-party cookies or other technologies will be placed on your computer; you will need to specifically interact with that advertisement or content to trigger them. As with the cookies and similar technologies used by Virtuoso itself, these third parties may be able to compile information about where you, or others who are using your computer, viewed or clicked on the advertisements or content they display, but none of this information will be associated by us with any of your personal information.
+We utilize Google Display Advertising (such as Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting) to (1) show you our ads on other websites based on your prior visits to our websites, and (2) better understand our ad impressions and use of ad services. In connection with the Google Analytics Demographics and Interest Reporting service, we may use data from Google’s interest-based advertising or third-party audience data (such as age, gender and interests) with Google Analytics to understand and improve our marketing campaigns and website content.
 
-Please note that we have no access to or control over the cookies or other tracking technologies third-parties may place on your computer.  This Privacy Policy applies to the use of cookies by Virtuoso only, and does not apply to the use of cookies or other tracking technologies by any of the third-parties.
+Some of our online advertising takes place through Google Display Advertising.  As part of this program, we use Google Analytics features such as retargeting. In connection with that feature and others offered by ad networks, we and the operators of ad networks, including Google, may use third-party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads across the Internet based on a user’s past visits to our websites.  We also may show you ads from some of our affiliates when you visit our websites. You can opt out of Google Ads by clicking [here](http://www.google.com/settings/ads).
 
-**Children's Privacy**
+### Information We Share
 
-Virtuoso has not designed the Website for, and does not intend for the Website to be used by, anyone under age 13. Please do not provide Personal Information to Virtuoso if you are under age 13.
+We do not sell or otherwise share personal information about you, except as described in this Privacy Policy. We share the personal information we obtain with third parties who perform services on our behalf, such as ad network vendors. These third parties are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. In addition, we share consumer personal information with Virtuoso Member Agencies (i.e., travel agencies that are members of Virtuoso’s network of agencies) to provide the services you request and with preferred suppliers to collaborate on special offers for Member Agency clients.
 
-**Changes to this Privacy Policy**
+We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, (iii) for the purpose of or in connection with legal proceedings, or otherwise for the purpose of establishing, exercising or defending our legal rights, or (iv) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 
-Virtuoso may modify this Policy, in whole or in part, at any time. We will notify you about material changes to this Policy by posting the changed terms on our Website. Any such change will be effective immediately, unless we specify otherwise.
+### Data Transfers
 
-**Security**
+We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your information to recipients in other countries (such as the U.S.), we will protect that information as described in this Privacy Policy and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.
 
-We take the need to protect your Personal Information seriously and we make commercially reasonable efforts to prevent unauthorized access, use, alteration, or disclosure. However, we cannot guarantee that our security measures are able to completely prevent unauthorized third parties from obtaining and using your personal information for improper purposes.
+By submitting personal information to us you consent to the transfer of your personal information to countries that may not have the same data protection laws as the country in which you initially provided the information.  If you do not want your personal information transferred as indicated here, please do not submit any information to us.
 
-**Questions**
+If you are located in the European Economic Area (“EEA”), with respect to transfers of personal information to the U.S., Virtuoso is certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S.  [Click here ](https://web.archive.org/Footer/Privacy-Policy-EU-US)to view our EU-U.S. Privacy Shield Privacy Policy.  
 
-Please contact us if you have any questions about Virtuoso's privacy policy or other legal guidelines at [help@virtuoso.com](mailto:help@virtuoso.com).
+### Your Choices
 
-**Cross-Border Data Transmission**
+  
+We offer you certain choices in connection with the personal information we obtain from you, such as how we use the information and how we communicate with you. To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified in the How to Contact Us section of this Privacy Policy.  You may unsubscribe from receiving future marketing and promotional emails by clicking on the unsubscribe link provided in our emails.  We may still contact you to respond to an inquiry and for certain account-related or transactional purposes.   
+ 
 
-Virtuoso is headquartered in the United States of America (“USA”) and all of our primary data storage and processing facilities are in that country. If you are accessing the Website from another country, please note that all data we collect will be transmitted outside of your country and into the USA, where it will reside and be processed.  In addition, your data may pass through or be temporarily stored or processed in countries beyond your country and the USA. By continuing to access this Website, you explicitly consent to have your data so transmitted and stored.
+### Notice to California Residents
 
-**II.  Privacy Policies Applicable To Agency Members and Other Authorized Users**.
+ 
 
-This portion of the Privacy Policy is applicable only to the features on the Website that are available to  our Member Agencies, preferred travel suppliers, and any others who have been provided Access Credentials that allow them to use this portion of the Website. The Policies stated below are in addition to the Policies stated above for Visitors, which fully apply as if set forth in this section. This Privacy Policy is intended to describe for you our treatment of Personal Information (defined below) that you may provide to us as an Authorized User of our services via the Website.
+Subject to certain limits under California law, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact Virtuoso as specified in the How to Contact Us section below.  
+ 
 
-By accepting the Terms of Use through the registration process, you agree to be contractually bound by these Policies. Please note that references in this Policy to affiliates, affiliated sites, network affiliates, marketing affiliates, affiliated advertisers, and the like refer to unrelated, third-party companies and websites that are not owned or controlled by Virtuoso, although in some cases Virtuoso may have a contractual relationship with such third party.
+### Links To Other Websites
 
-**Information collected by Member Agencies and Other Third-Parties**
+  
+Our websites may contain links to other websites for your convenience and information. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites are not owned or controlled by us, we are not responsible for their content, any use of the websites, or the privacy practices of the websites.  
+ 
 
-In order for Virtuoso to provide certain services to its Member Agencies, some Member Agencies may provide Virtuoso with information, which may include their clients’ Personal Information. “Personal Information” is information that can identify you and may include some or all of  the following: (i) your first and last name, (ii) home or other physical address, (iii) email address, and (iv) telephone number. We also may request information about your clients' travel interests and preferences, marketing and contact preferences, and information concerning the clients' Member Agency, if applicable.
+### How We Protect Personal Information
 
-**YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOU HAVE OBTAINED WRITTEN CONSENT FROM YOUR CLIENTS, AND ANY OF THEIR AFFILIATES IF APPLICABLE, THAT PERMITS US TO COLLECT, SELL, OR SHARE ANY PERSONAL INFORMATION YOU PROVIDE TO US IN ACCORDANCE WITH THIS POLICY. IN ADDITION, YOU GIVE VIRTUOSO CONSENT TO AND VIRTUOSO MAY SHARE SUCH PERSONAL INFORMATION WITH ANY THIRD PARTIES WITHOUT LIMITATION; PROVIDED HOWEVER, WE DO NOT SHARE   PERSONAL INFORMATION WITH OTHERS IN ANY MANNER THAT WOULD BREACH ANY WRITTEN AGREEMENT BETWEEN VIRTUOSO AND A THIRD PARTY THAT INCLUDES OBLIGATIONS CONCERNING THE NON-DISCLOSURE OF CONFIDENTIAL CONSUMER INFORMATION.**
+ 
 
-**Referral Services**. If you choose to use our referral service to tell a friend about our Website or travel offers on our Website, we may ask you for your friend’s name, email address or other contact information.  It is your responsibility to obtain consent from your friend to provide his/her information to us.  We may automatically send your friend a one-time email inviting him or her to visit the Website. We store this information for the sole purpose of sending this one-time email and for tracking the success of our referral program. Your friend may contact us at 1-855-570-3827 or [travel@virtuoso.com](mailto:travel@virtuoso.com) to request that we remove this information from our database.
+We maintain administrative, technical and physical safeguards designed to protect personal information against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  
+ 
 
-**Advertising and Remarketing.**
+### Access and Correction
 
-We may affiliate with third party ad networks, including Google, to either display advertising on our Website or to manage our advertising on other sites. Our ad network affiliates may use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other sites to provide you targeted advertising based upon your interests. We will market or advertise our travel related services to those users of third party’s Website who have previously visited any of our affiliated sites. This is called “Remarketing”.  Generally, advertisements that are part of our remarketing campaigns will be focused on our travel related services. If you wish to not have this information used for the purpose of serving you targeted ads or remarketing, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+To the extent provided by the law of your jurisdiction, you may (i) have the right to access certain personal information we maintain about you, (ii) request that we update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) ask us to block or delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Privacy Policy. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. To the extent permitted by applicable law, a charge may apply before we provide you with a copy of any of your personal information that we maintain.
 
-**Security of Information**
+ 
 
-We take the need to protect Personal Information seriously and we make commercially reasonable efforts to prevent unauthorized access, use, alteration, or disclosure. However, we cannot guarantee that our security measures are able to completely prevent unauthorized third parties from obtaining and using your personal information for improper purposes.  You must keep secret any user name or password which is registered in connection with your use of the Website.  However, electronic communication may not be secure.  Please be aware of this inherent risk when requesting information or sending Personal Information to us via this Website or other electronic communication (including email, fax, and voice mail).  VIRTUOSO MAKES NO WARRANTIES AS TO THE SECURITY OF YOUR ELECTRONIC COMMUNICATIONS, OR THAT THIRD PARTIES WILL NOT GAIN UNAUTHORIZED ACCESS TO OR MONITOR YOUR COMPUTER OR ELECTRONIC COMMUNICATIONS.
+### Updates To Our Privacy Policy
 
-**ClickTale**
+  
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our websites to notify you of any significant changes to our Privacy Policy and indicate at the top of the notice when it was most recently updated.  
+ 
 
-This site uses the ClickTale customer experience analytics service.  The ClickTale service helps us analyze how visitors use our Website.  We do not collect through the ClickTale service or transfer to ClickTale any personal identifiable information.  We only use the ClickTale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website.  ClickTale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at [http://www.clicktale.com/privacy_service.aspx).](http://www.clicktale.com/privacy_service.aspx)  You can choose to disable the ClickTale service at <http://www.clicktale.net/disable.html>. 
+### How To Contact Us
 
-_**Questions?**_   If you have any questions or concerns about this Policy or the way we collect and use your Personal Information, please feel free to call us at 1-855-570-3827 or write to us at [travel@virtuoso.com](mailto:travel@virtuoso.com).  Your privacy is of the utmost importance to Virtuoso, and we welcome your feedback.
+If you have any questions about this Privacy Policy, or if you would like us to update information we have about you, change your preferences or exercise other applicable data protection rights, please contact us by e-mail at help@virtuoso.com, by phone at 1-855-570-3827, or write to us at:
+
+Virtuoso, Ltd.  
+505 Main Street, Suite 500  
+Fort Worth, TX 76102
