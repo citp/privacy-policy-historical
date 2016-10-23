@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the poiseandpurpose.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208061003id_/http%3A//poiseandpurpose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poiseandpurpose.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023210823id_/http%3A//poiseandpurpose.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Poise & Purpose
+# Poise & Purpose Privacy Statement
 
 Updated: February 1, 2015
 
-Welcome to Poise & Purpose. This Privacy Statement explains the information practices on our website, poiseandpurpose.com (“Site”).
+Welcome to Poise and Purpose! This Privacy Statement explains the information practices on our website, Poise and Purpose
 
-### Information Collection
+Information Collection
 
-When you visit our Site, we may collect certain personal information you knowingly choose to disclose to us, such as your name and email address. You may provide this information when you register with the Site, participate in promotions or surveys, or agree to receive messages from Poise & Purpose. The Site may also passively collect non-personal information that is automatically sent to us by your web browser or device.
+When you visit our Site, we may collect certain personal information you knowingly choose to disclose to us, such as your name and email address. You may provide this information when you register with the Site, participate in promotions or surveys, or agree to receive messages from Poise and Purpose. The Site may also passively collect non-personal information that is automatically sent to us by your web browser or device.
 
 We may also collect aggregated information as you visit the Site.
 
@@ -16,7 +16,7 @@ We may also collect aggregated information as you visit the Site.
 
 We may use the information we collect from you, your browser or device to:
 
-  * send promotional messages from Poise & Purpose or similar companies to you;
+  * send promotional messages from Poise and Purpose or similar companies to you;
   * respond to your requests;
   * confirm your registration with the Site;
   * analyze preferences, trends, and statistics;
@@ -36,7 +36,7 @@ The Site may include functionality that allows certain kinds of interactions bet
 
 ### Sharing Information
 
-Poise & Purpose may share your personal information, including your name and email address with third parties, such as affiliates, advertising partners, and unaffiliated third parties whose products and services Poise & Purpose thinks you may enjoy. Some of these third parties may use your personal information for marketing purposes.
+Poise and Purpose may share your personal information, including your name and email address with third parties, such as affiliates, advertising partners, and unaffiliated third parties whose products and services Poise and Purpose thinks you may enjoy. Some of these third parties may use your personal information for marketing purposes.
 
 If we or some or all of our assets are acquired by another organization, including through bankruptcy, that organization will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Statement.
 
@@ -44,11 +44,13 @@ We may disclose personal information or other data to comply with law or legal r
 
 ### Third Party Links
 
-For your convenience, this Site may contain certain hyperlinks to other websites. We make no promises or guarantees regarding data collection on the hyperlinked pages that are not operated by Poise & Purpose. We recommend that you read the privacy policy/statement for each site you visit.
+For your convenience, this Site may contain certain hyperlinks to other websites. We make no promises or guarantees regarding data collection on the hyperlinked pages that are not operated by
+
+Poise and Purpose. We recommend that you read the privacy policy/statement for each site you visit.
 
 ### Your Choices
 
-We may use the personal information we collect from you to provide you with opportunities to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of such email communications or by contacting us at [contact@poiseandpurpose.com](mailto:contact@poiseandpurpose.com). If you would no longer like to receive offers from our marketing partners, you can unsubscribe by following the unsubscribe link located at the bottom of each email communication.
+We may use the personal information we collect from you to provide you with opportunities to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of such email communications or by contacting us at poiseandpurposesite@gmail.com. If you would no longer like to receive offers from our marketing partners, you can unsubscribe by following the unsubscribe link located at the bottom of each email communication.
 
 ### Interest Based Advertising
 
@@ -58,7 +60,7 @@ To opt out of these types of ads, please visit the Network Advertising Initiativ
 
 ### Your California Privacy Rights
 
-As described in this Privacy Statement, from time to time we may make your personal information available to third parties for their marketing purposes. If you do not want us to share your personal information with third parties, you may opt-out of this information sharing by emailing us at [contact@poiseandpurpose.com](mailto:contact@poiseandpurpose.com).
+As described in this Privacy Statement, from time to time we may make your personal information available to third parties for their marketing purposes. If you do not want us to share your personal information with third parties, you may opt-out of this information sharing by emailing us at [poiseandpurposesite](mailto:\[contact_email\])@gmail.com.
 
 ### Updates
 
@@ -66,4 +68,4 @@ From time to time, we may update this Privacy Statement. We will notify you of a
 
 ### Contact Us
 
-Please contact us if you have questions about our Privacy Statement at [contact@poiseandpurpose.com](mailto:contact@poiseandpurpose.com).
+Please contact us if you have questions about our Privacy Statement at poiseandpurposesite@gmail.com.
