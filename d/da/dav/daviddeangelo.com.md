@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daviddeangelo.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318223357id_/http%3A//daviddeangelo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviddeangelo.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023114304id_/http%3A//daviddeangelo.com/privacy) for the most accurate reproduction.*
 
-# Double Your Dating | Your Privacy
+# Privacy Policy | David Deagelo
 
 Read very carefully:
 
