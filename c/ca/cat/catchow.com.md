@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617034155id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023061530id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purina®
 
@@ -32,7 +32,7 @@ This Policy describes how we treat U.S. consumer personal information on our US 
 
 This policy does not apply to business to business interactions or Purina business customers (for example, distributors, retailers, etc.). It does not apply to information collected throughout the application, hiring, or employment process. It does not apply to information collected by our parent company or affiliate companies.
 
-By using our web sites or applications you agree to this policy. You also agree to this policy if you otherwise give us your information. If you do not agree, please do not use our websites, applications or give us your information.
+By using our web sites or applications you agree to this policy. You also agree to this policy if you otherwise give us your information. If you do not agree, please do not use our websites, applications or give us your information. This site is subject to U.S. laws, which may not afford the same level of protection as those in other countries.
 
 * * *
 
@@ -130,14 +130,6 @@ Parents, you can learn more about how to protect children's privacy on-line [her
 
 * * *
 
-### ** **
-
-### **We store information in the United States.**
-
-If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
-
-* * *
-
 ### We may link to other sites or have third party services on our site we don’t control.
 
 **If you click on a link to a third party site, you will be taken to websites we do not control.** This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites carefully. We are not responsible for these third party practices. Our site may also serve third party ads or other content that contains their own cookies or tracking technologies. To learn more, [click here](http://www.purina.com/about-our-ads "About Our Ads"). We do not control the use of those technologies.
@@ -161,4 +153,5 @@ Largo, FL 33779**
 
 **From time to time we may change our privacy policies.** We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-_Last revised: May 9, 2016_
+_Last revised: August 10, 2016  
+Effective: February 13, 2013_
