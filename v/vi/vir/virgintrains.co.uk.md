@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgintrains.co.uk privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429181143id_/https%3A//www.virgintrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgintrains.co.uk privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023212607id_/https%3A//www.virgintrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virgin Trains
 
@@ -11,7 +11,12 @@ back to top
 We may collect and process the following data:
 
   * Information you provide to us by filling in forms on our site
-  * Information collected through correspondence with our Sales or Customer Relations teams
+  * Information collected through correspondence with our Sales and/or Customer Relations teams
+  * Information you provide when signing on to station and/or onboard Wi-Fi
+  * Information you provide when using Beam (onboard entertainment system)
+  * Information you provide when booking direct via www.virgintrains.com or through a Virgin Trains ticket office
+  * Information you provide for loyalty purposes
+  * Information you provide when registering for Bump
   * Information you provide to us through the recruitment process
   * Information you provide to us in order to register for alerts
   * Social Media interaction
@@ -90,7 +95,7 @@ back to top
 
 Virgin Trains reserve the right to update and amend the Privacy Policy. All such developments will be notified to you by updating this Privacy Policy.
 
-This policy was last updated on 23/06/2015
+This policy was last updated on 03/06/2016
 
 back to top
 
