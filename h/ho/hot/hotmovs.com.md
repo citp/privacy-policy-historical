@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotmovs.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526145042id_/http%3A//hotmovs.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmovs.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023064913id_/http%3A//hotmovs.com/information/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Hotmovs.com
+# Site Information - Privacy Policy / Hotmovs.com
 
 ### OUR COMMITMENT TO PRIVACY
 
