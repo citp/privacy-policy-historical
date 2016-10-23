@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivids.net privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025033407id_/http%3A//www.ivids.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivids.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023145917id_/http%3A//www.ivids.net/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -51,4 +51,4 @@ IVIDS has the discretion to update this privacy policy at any time. When we do, 
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20151025033407id_/http%3A//www.ivids.net/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20161023145917id_/http%3A//www.ivids.net/tou.htm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
