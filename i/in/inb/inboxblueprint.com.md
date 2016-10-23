@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxblueprint.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213072756id_/http%3A//lurn.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxblueprint.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023211305id_/http%3A//lurn.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Lurn
 
