@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the check4loans.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324180420id_/http%3A//check4loans.net/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the check4loans.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024002100id_/http%3A//check4loans.net/sample-page) for the most accurate reproduction.*
 
-# Privacy Policy | All About Financial Information – Check4Loans.net
+# All About Financial Information – Check4Loans.net » Privacy Policy
 
 About this Notice  
 We are committed to protecting your privacy and earning your trust every day. This notice describes the personal information we collect about you and how we use and protect it. It applies to our current and former customers and replaces earlier versions that we may have given to you.  
