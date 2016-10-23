@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riu.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317022405id_/http%3A//www.riu.com/en/PaginasFinales/rwd_politicas.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riu.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023070623id_/http%3A//www.riu.com/en/PaginasFinales/rwd_politicas.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -16,8 +16,7 @@ Privacy and Security Dept.
 
 If after reading these conditions you have any doubts regarding them or the privacy of your personal data, please send an email to privacy@riu.com or a letter to the address above.
 
-  
-This policy may be updated according to regulatory and legislative modifications in the various countries in which we provide our services, as well as with a view to improving our service.
+The purpose of the privacy@riu.com e-mail address is to address privacy and data protection matters. Please refrain from sending emails regarding business matters,reservations or human resources.This policy may be updated according to regulatory and legislative modifications in the various countries in which we provide our services, as well as with a view to improving our service.
 
  **PERSONAL DATA PROTECTION**
 
@@ -190,4 +189,4 @@ Information about your IP address, language preferences, browser and other data 
 
 Please note that we will register information concerning Internet or email connections in order to troubleshoot any problems that may arise, improve our performance and services, and manage security issues.
 
-June 2.015
+September 2016
