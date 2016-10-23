@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319070605id_/http%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023205823id_/http%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Rights - Steinman Communications
 
@@ -100,7 +100,7 @@ Our agents and contractors who have access to personally identifiable informatio
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.
 
-From time to time, we may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a Site shares personally identifiable information, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.
+We do not disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g. other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you.  We may send you offers occasionally on behalf of a third party, but in so doing we never disclose your personally identifiable information to that third party.
 
 If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this site.
 
@@ -122,7 +122,7 @@ From time to time, we may make mobile device application and mobile marketing ca
 
 Our goal is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which our sites are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across our diverse websites.
 
-Google is one of the companies that serve advertisements onto our sites. It uses the DART cookie to serve ads based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google is one of the companies that serve advertisements onto our sites. It uses the DFP cookie to serve ads based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DFP cookie by visiting the Google ad and content network privacy policy.
 
 Your access to our websites should not be affected if you do not accept cookies served by third parties.
 
