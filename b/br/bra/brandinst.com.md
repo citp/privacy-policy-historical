@@ -1,43 +1,108 @@
-> *The following text is extracted and transformed from the brandinst.com privacy policy that was archived on 2000-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000604000524id_/http%3A//www.brandinst.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandinst.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023224421id_/http%3A//brandinst.com/privacy.html) for the most accurate reproduction.*
 
-# Brand Institute Privacy Statement
+# Untitled Document
 
-## Brand Institute Privacy Statement
+[](http://www.brandinstitute.com/)
 
-**Brand Institute** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.brandinst.com. 
+This Privacy Policy governs the manner in which Brand Institute collects, uses, maintains and discloses information collected from customers, clients and survey takers (“Clients”) of Brand Institute.  This privacy policy applies to [www.brandinstitute.com](http://www.brandinstitute.com/) (“Site”) and all products and services offered by Brand Institute.
 
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected only for IRS compliance. Demographic and profile data is also collected at our site. We use this data to choose people for our surveys and chats. 
+**Personal identification information**
 
-This site may contain links to other sites. **Brand Institute** is not responsible for the privacy practices or the content of such Web sites. 
+We may collect personal identification information from Clients in a variety of ways, including, but not limited to, when Clients contract with Brand Institute for services, when Clients visit our Site, register on the Site, place an order, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Clients may be asked for, as appropriate, name, email address, mailing address, phone number. Clients may, however, visit our Site anonymously. We will collect personal identification information from Clients only if they voluntarily submit such information to us. Clients may refuse to supply personal identification information with the understanding that such refusal may impact Clients contractual relationship with Brand Institute.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+**Non-personal identification information**
 
-Our online surveys ask visitors for contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We may collect non-personal identification information about Clients whenever they interact with our Brand Institute or our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Clients’ means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We do not share any contact information, unique identifiers or demographic information with any third parties. 
+**Web browser cookies**
 
-## Security
+Our Site may use "cookies" to enhance Client experience. Clients’ web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Clients may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-This site has security measures in place to limit the likelihood of loss, misuse and alteration of the information under our control. These measures include, but are not limited to the latest in encryption and security technologies. 
+**How we use collected information**
 
-## Children's Guidelines
+Brand Institute may collect and use Clients personal information for the following purposes:
 
-**Brand Institute's** web site is not specifically directed at children. They may register at our site and will be permitted to participate in any surveys or chats they qualify for. Online information provided will never be provided to any third parties. Parents may request to have children removed from our database at any time. We will not entice children by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. There is no ability to post or otherwise distribute personally identifiable contact information on the site. 
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize Client experience_  
+We may use information in the aggregate to understand how our Clients as a group use the services and resources provided by our company and on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Clients provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Clients information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to send Clients information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If Clients decide to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time Clients would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
-## Choice/Opt-Out
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. It also gives users the abiliy to change and modify information they previously provided. 
-
-  1. email [webmaster@brandinst.com](https://web.archive.org/web/20000604000524id_/http%3A//www.brandinst.com/html/brandcntct.htm)
-  2. visit [www.brandinst.com](https://web.archive.org/web/20000604000524id_/http%3A//www.brandinst.com/home.htm)
-  3. send mail to the following postal address:  Brand Institute   
-1201 Brickell Ave.   
-Miami, Fl 33131 
 
 
+**How we protect your information**
 
-## Contacting the Web Site
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+**Sharing your personal information**
 
-Brand Institute  1201 Brickell Ave  Miami, FL 33131  webmaster@brandinst.com 
+**_We do not sell, trade, or rent Clients’ personal identification information to others._**   
+We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and Clients with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
+
+**_Clients and Site visitors may request that their personal identification information not be shared with third parties._**     
+
+
+**NOTE** : You have the right to access, correct or delete your Personal Data  
+**_If Brand Institute were to share personal information with third parties Brand Institute is responsible for ensuring those third parties uphold Privacy Shield principles._**  
+
+
+**_Brand Institute may share personal information if required to do so in response to lawful requests by public authorities, including to meet national security or law enforcement requirements_**
+
+ _  
+_
+
+**Changes to this privacy policy**
+
+Brand Institute has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and revise the updated date at the bottom of this page. We encourage Clients to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By contracting for services with Brand Institute or using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site and Brand Institute services following the posting of changes to this policy will be deemed as your acceptance of those changes.
+
+**Access to your information**   
+
+
+Clients may access personal identification information, on request, to ensure its accuracy.  
+
+
+**Privacy Shield**  
+
+
+**_Brand Institute is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC)._**  
+Brand Institute complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Brand Institute has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Privacy Shield program, and to view Brand Institute’s certification, please visit <https://www.privacyshield.gov/> ****  
+
+
+**Dispute Resolution**  
+
+
+Any information privacy disputes may be filed as a complaint with JAMS at <https://www.jamsadr.com/eu-us-privacy-shield>   
+**_If neither Brand Institute nor JAMS Privacy Shield Program resolves your complaint, you may have the possibility to engage in binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission._**  
+
+
+In compliance with the Privacy Shield Principles, Brand Institute commits to resolve complaints about our collection or use of your personal information. 
+
+Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact Brand Institute at:   
+[admin_dept@brandinstitute.com](mailto:admin_dept@brandinstitute.com) re: Privacy Shield Dispute  
+
+
+Brand Institute has further committed to refer unresolved Privacy Shield complaints to JAMS Privacy Shield Program, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the JAMS website at <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this Site and Brand Institute, or your dealings with this Site and Brand Institute, please contact our Chief Privacy Officer Andrew Heck at:
+
+Brand Institute, Inc.  
+200 SE 1st St 12th Floor  
+Miami, FL 33131    
+[aheck@brandinstitute.com](mailto:aheck@brandinstitute.com)    
+P: 305 374 2500    
+F: 305 374 2504                                      
+
+This document was last updated on September 6, 2016
