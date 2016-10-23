@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the strathcona.vic.edu.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401025330id_/https%3A//www.strathcona.vic.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strathcona.vic.edu.au privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023045144id_/https%3A//www.strathcona.vic.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Strathcona Baptist Girls Grammar School
 
-## PRIVACY STATEMENT
+## Privacy Statement
 
 Your privacy is important. This statement outlines the School’s policy on how we use and manage personal information provided to or collected by it. The School is bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) as amended. This policy outlines how the School uses and manages personal information provided to, or collected by, it.
 
@@ -28,7 +28,7 @@ Personal information is information or an opinion relating to an individual whic
 
 **Exception in relation to employee records:** Under the Privacy Act and Health Records and Information Privacy Act 2002 (VIC), the Australian Privacy Principles and Health Privacy Principles do not apply to an employee record. As a result, this Privacy Policy does not apply to the School’s treatment of an employee record, where the record is directly related to a current or former employment relationship between the School and the employee.
 
-###  Use of Personal Information
+### Use of Personal Information
 
 The School will use personal information it collects from you for the primary purpose of collection, and for such other secondary purposes that are related to the primary purpose of collection and are reasonably expected, or to which you have consented.
 
