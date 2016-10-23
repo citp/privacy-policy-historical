@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snb.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317030237id_/https%3A//www.snb.com/media/93632/Sterling-National-Bank-Privacy-Notice-Revised-June-2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snb.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023130839id_/https%3A//www.snb.com/stuff/contentmgr/files/0/5fbd606ec33af27faa17ebd50a9706ca/download/sterling_national_bank_privacy_notice_revised_april_2016_f.pdf) for the most accurate reproduction.*
 
-# FACTS
+# 
 
-                       WHAT DOES STERLING NATIONAL BANK DO                                             rev. June 2014
+                       WHAT DOES STERLING NATIONAL BANK DO                                     rev. April 2016
  FACTS                 WITH YOUR PERSONAL INFORMATION?
                        Financial companies choose how they share your personal information. Federal law gives
  Why?                  consumers the right to limit some but not all sharing. Federal law also requires us to tell you
@@ -10,9 +10,9 @@
                        to understand what we do.
                        The types of personal information we collect and share depend on the product or service you
  What?                 have with us. This information can include:
-                               Social Security number and income
-                               account balances and payment history
-                               credit history and credit scores
+                               Social Security number and income
+                               account balances and payment history
+                               credit history and credit scores
                        When you are no longer our customer, we continue to share your information as described
                        in this notice.
                        All financial companies need to share customers’ personal information to run their everyday
@@ -33,7 +33,7 @@
                                                                         Yes                             No
   companies
   For our affiliates’ everyday business purposes—
-                                                                        Yes                             No
+                                                                         No                      We don’t share
   information about your transactions and experiences
   For our affiliates’ everyday business purposes—
                                                                          No                      We don’t share
@@ -56,31 +56,31 @@ Page 2
  protect my personal information?  measures include computer safeguards and secured files and
                                    buildings.
                                    We collect your personal information, for example, when you
-                                        open an account or deposit money
- How does Sterling National Bank        pay your bills or apply for a loan
- collect my personal information?       use your debit card
+                                        open an account or deposit money
+ How does Sterling National Bank        pay your bills or apply for a loan
+ collect my personal information?       use your debit card
                                    We also collect your personal information from others, such as
                                    credit bureaus, affiliates, or other companies.
                                    Federal law gives you the right to limit only
-                                        sharing for affiliates’ everyday business purposes—
+                                        sharing for affiliates’ everyday business purposes—
                                           information about your creditworthiness
- Why can’t I limit all sharing?         affiliates from using your information to market to you
-                                        sharing for nonaffiliates to market to you
+ Why can’t I limit all sharing?         affiliates from using your information to market to you
+                                        sharing for nonaffiliates to market to you
                                    State laws and individual companies may give you additional
                                    rights to limit sharing.
  Definitions
                                   Companies related by common ownership or control. They can be
                                   financial and nonfinancial companies.
  Affiliates
-                                       Our affiliates include financial companies such as Sterling
-                                           Silver Title Agency, L.P. (a title insurance agency).
+                                       We do not have any affiliates related by common ownership or
+                                           control.
                                   Companies not related by common ownership or control. They can be
                                   financial and nonfinancial companies.
  Nonaffiliates
-                                       Sterling National Bank does not share with nonaffiliates so
+                                       Sterling National Bank does not share with nonaffiliates so
                                            they can market to you.
                                   A formal agreement between nonaffiliated financial companies that
                                   together market financial products or services to you.
- Joint marketing                       Our joint marketing partners include companies such as
+ Joint marketing                       Our joint marketing partners include companies such as
                                            credit card companies, insurance agencies and securities
                                            broker-dealers.
