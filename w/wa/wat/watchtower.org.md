@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchtower.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611005226id_/https%3A//www.jw.org/finder%3Fdocid%3D1011512%26prefer%3Dcontent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtower.org privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023105647id_/https%3A//www.jw.org/finder%3Fdocid%3D1011512%26prefer%3Dcontent) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | JW.ORG
 
@@ -71,4 +71,4 @@ If you fail to provide the required personal data to open an account, make a don
 
 If ever it proves necessary to change our Privacy and Cookies Policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
 
-To the extent required by law, you may have additional rights in relation to your personal data. This could include the right to access, correct or delete the personal data you have provided to us through this website. If this applies in your country, you will find contact information [here](https://www.jw.org/apps/TRGCHlZRQVNYVrXF?docid=1011512&output=html&fileformat=PDF&alllangs=0&track=1&langwritten=E&txtCMSLang=E "Download"). If your inquiry about your personal data relates to a donation, please contact the recipient of the gift identified to you during the donation process and included in your donation receipt.
+To the extent required by law, you may have additional rights in relation to your personal data. This could include the right to access, correct or delete the personal data you have provided to us through this website. If this applies in your country, you will find contact information [here](https://www.jw.org/apps/GETPUBMEDIALINKS?docid=1011512&output=html&fileformat=PDF&alllangs=0&track=1&langwritten=E&txtCMSLang=E "Download"). If your inquiry about your personal data relates to a donation, please contact the recipient of the gift identified to you during the donation process and included in your donation receipt.
