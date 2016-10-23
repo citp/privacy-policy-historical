@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601060649id_/https%3A//www.teds.com.au/teds-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023174608id_/https%3A//www.teds.com.au/teds-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ted's Cameras
 
-Ted’s Camera Stores (Vic) Pty Ltd is a retailer which trades utilising the web through its websites and in stores around Australia. Information about us can be obtained here on our website or by contacting our Privacy Officer on 03 8779 5500 or by facsimile on 03 9645 5083 or by e-mail [privacy@teds.com.au](mailto:privacy@teds.com.au).
+Ted’s Camera Stores (Vic) Pty Ltd is a retailer which trades utilising the web through its websites and in stores around Australia. Information about us can be obtained here on our website or by contacting our Privacy Officer on 03 8779 5500, by facsimile on 03 9645 5083, by e-mail [privacy@teds.com.au](mailto:privacy@teds.com.au) or mail PO Box 3082, South Melbourne 8865.
 
 ### YOUR PRIVACY
 
@@ -49,6 +49,10 @@ We strive to ensure the security, integrity and privacy of personal information 
 ### LINKS
 
 This website may contain links to other websites. These links are meant for your convenience only. Links to third party websites do not constitute sponsorship or endorsement or approval of these websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by this website.
+
+### HOW CAN YOU OPT OUT OF DIRECT MARKETING?
+
+If you do not wish to receive direct marketing communications from us or would like to withdraw your consent without any cost, please follow the 'unsubscribe' link in that communication. Or otherwise email us at web@teds.com.au and provide your name, email address and information about the direct marketing communication you no longer wish to receive.
 
 ### CHANGE IN PRIVACY POLICY
 
