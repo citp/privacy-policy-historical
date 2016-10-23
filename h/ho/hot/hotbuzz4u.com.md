@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotbuzz4u.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621102220id_/http%3A//www.hotbuzz4u.com/privacy-policy-may) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbuzz4u.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023192613id_/http%3A//www.hotbuzz4u.com/privacy-policy-may) for the most accurate reproduction.*
 
 # Privacy Policy | Hot Buzz 4U
 
