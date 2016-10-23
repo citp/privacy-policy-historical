@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novusbio.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505034521id_/http%3A//www.novusbio.com/support/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novusbio.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023202828id_/https%3A//www.novusbio.com/support/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Novus Biologicals
+# Privacy Policy: Novus Biologicals
 
 It is important to us to protect your privacy and confidentiality. Please review the following statement to better understand how Novus Biologicals collects, uses, and safeguards the personal information you provide to us on our website.
 
