@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crea8social.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610073128id_/http%3A//www.crea8social.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea8social.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023232455id_/https%3A//crea8social.com/privacy) for the most accurate reproduction.*
 
 # Crea8socialPRO Social Network Software - Privacy Policy
 
