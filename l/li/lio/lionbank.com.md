@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lionbank.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321050604id_/https%3A//www.lionbank.com/documents/customer-protection-and-education/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionbank.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023061618id_/https%3A//www.lionbank.com/documents/customer-protection-and-education/privacy-policy) for the most accurate reproduction.*
 
 # Fidelity Bank - Privacy Policy
 
