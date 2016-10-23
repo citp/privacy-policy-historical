@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322172845id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023064029id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
-(Note that EFF's Technology Projects, such as HTTPS Everywhere, have a different privacy policy, available [here](https://web.archive.org/web/20160322172845id_/https%3A//www.eff.org/code/privacy))
+(Note that EFF's Technology Projects, such as HTTPS Everywhere, have a different privacy policy, available [here](https://web.archive.org/web/20161023064029id_/https%3A//www.eff.org/code/privacy))
 
-The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. EFF has established this Privacy Policy to explain what information we collect through our websites and how it is used.
+The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and volunteers. EFF has established this Privacy Policy to explain what information we collect through our websites and how it is used, as well as protections for our members’ and donors’ personal information.
 
 In this policy, "EFF" refers to EFF staff, board members, cooperating attorneys, interns, volunteers, and consultants, all of whom are bound by law or contract to keep confidential information they receive as part of their assistance to EFF.
 
-EFF does not sell or rent member, donor or website visitor information under any circumstances, and we do not share member, donor or visitor information without prior consent except as compelled by law. (See discussion below.)
+EFF does not sell or rent member, donor or website visitor information under any circumstances, and we do not share member, donor or visitor information without prior consent except as compelled by law. This restriction applies to member and donors who join or donate both online and offline. (See discussion below.)
 
 ## Information Gathered by EFF's Site
 
@@ -36,9 +36,9 @@ In those and similar situations we will delete the information as soon as it is 
 
 **Cookies:** We do not use persistent ID cookies on this site except where you click “remember me” or are logged in, as you can be for the Action Center. We use session cookies on certain portions of the website. Session cookies expire when you close your browser. You can use [Tor](https://www.torproject.org/) if you wish to keep your connection information anonymous, but please note that you can still be identified to EFF if you log in.
 
-**Voluntarily Submitted Information:** In addition, EFF collects and retains information you voluntarily submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member, use the EFF Shop, otherwise donate to EFF or use our Action Center, we may ask for identifying information such as your name, email address, mailing address and phone number and will retain that information. For online donors and shoppers, we also ask for your credit card number. If you agree, we will also maintain records of your use of the Action Center. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction.
+**Voluntarily Submitted Information:** In addition, EFF collects and retains information you voluntarily submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member, use the EFF Shop, otherwise donate to EFF or use our Action Center, we may ask for identifying information such as your name, email address, mailing address and phone number and will retain that information. For online donors and shoppers, we also ask for your credit card number.For the Action Center, we maintain aggregate information about participation in the action campaigns, and, if you agree, we will also maintain account-specific records of your use of the Action Center. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction.
 
-We may ask for additional personal information when you provide feedback or comments, or otherwise communicate with us. We are pleased to receive anonymous donations in the mail, but please note that your personal information is required if you choose to donate using our online form.
+We may ask for additional personal information when you provide feedback or comments, or otherwise communicate with us. We are pleased to receive anonymous donations in the mail or in-person, but please note that your personal information may be required if you choose to donate using our online form, or if you choose to use a mobile payment processor for in-person donations (and the mobile payment processor will also receive your payment information, subject to their privacy policy.)
 
 From time to time, we may ask for personal information on other portions of the site, such as asking you to sign a petition, participate in a contest, or provide prior art for a patent busting project.
 
@@ -50,7 +50,7 @@ In general, EFF uses the information provided by you to further its mission, inc
 
 **Member and Donor Information:** We use member and donor information to process and manage your membership or contribution. If you agree, we will use your email address to send you updates and alerts on protecting your rights in the digital world, so you may take action, such as contacting your representative in Congress or attending an event. If you choose to complete the "Please tell us why you became a member of EFF" field when donating, this information may be shared with the entire EFF staff and board, and select unattributed quotes may be used to promote our mission, such as including a relevant quote in a grant proposal.
 
-**Action Center:** We use the information you supply in our Action Center to help you take action in support of digital civil liberties, such as contacting your representative in Congress, signing a petition or sharing a message on social media. We also may use Action Center information to assess the success of action campaigns and to improve the functionality and effectiveness of our site, and to allow you to see records of your activities.
+**Action Center:** We use the information you supply in our Action Center to help you take action in support of digital civil liberties, such as contacting decision makers (e.g. a representative in Congress) and their staff, signing a petition or sharing a message on social media. We may use Action Center information to assess the success of action campaigns and to improve the functionality and effectiveness of our site, and to allow you to see records of your activities.We, and our coalition partners, may publicize and share aggregate information about action campaigns, such as the number of people who participated in a particular location or region or through a type of action, as well as sharing or publicizing activity trends.
 
 **Invitees to EFF:** If you invite another person to join EFF or take action in one of our alerts, we will ask for that person's name and online contact information. We use this information to contact and, if necessary, remind that person that he or she has been invited to join EFF.
 
@@ -94,6 +94,8 @@ EFF employs industry standard security measures to protect the loss, misuse, and
 
 Although we make good faith efforts to store information collected by EFF in a secure operating environment, we cannot guarantee complete security. Information collected by EFF will be maintained for a length of time appropriate to our needs. However, we generally do not retain credit card information unless you choose to have us make automatic monthly withdrawals from your account for your donation.
 
+_Updated July 14, 2016 to clarify the use of information in the EFF Action Center and protections for members who join EFF offline. ___
+
 _Updated_ _April 7, 2015 to reflect: 1) changes to the types of third-party service providers which may be used by EFF websites; 2) that third-party service providers may be used by any EFF site, not just those on the eff.org domain; and 3) to fix some typographical errors._
 
 _Updated_ _June 12, 2014 to reflect: 1) changes to reflect EFF’s new Action Center, including the consequences for logging in or clicking “remember me,” the identifying information we retain about logged in users and how to manage your account; 2) information use by purchasers in our Shop; 3) a specific section addressing EFF’s use of Third Party Services and API’s._
@@ -112,11 +114,13 @@ _Also recently updated May 1, 2014 to reflect: 1) introduction of EFF's separate
 
   * [Oct 19 2011 - Jul 23 2012](https://www.eff.org/policy/2011/10/19)
 
-  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20160322172845id_/https%3A//www.eff.org/policy/2012/07/24)
+  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20161023064029id_/https%3A//www.eff.org/policy/2012/07/24)
 
-  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20160322172845id_/https%3A//www.eff.org/policy/2014/04/31)
+  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20161023064029id_/https%3A//www.eff.org/policy/2014/04/31)
 
-  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20160322172845id_/https%3A//www.eff.org/policy/2014/06/13)
+  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20161023064029id_/https%3A//www.eff.org/policy/2014/06/13)
+
+  * [Apr 8, 2015 – July 13, 2016](https://web.archive.org/web/20161023064029id_/https%3A//www.eff.org/policy/2016/07/13)
 
 
 
