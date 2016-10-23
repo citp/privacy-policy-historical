@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414072212id_/http%3A//www.tcpiputils.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023235748id_/http%3A//www.tcpiputils.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for TCPIPUTILS.COM
 
