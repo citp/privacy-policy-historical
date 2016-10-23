@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314143529id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023203157id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ You will be required to provide information about your business bank account(s) 
 
 In order to carry out the Services of this engagement and for related purposes such as updating and enhancing our client records, analysis for management purposes and statutory returns, legal and regulatory compliance and crime prevention we may obtain, process, use and disclose personal data about you.
 
-We also have a duty under section 330 of the Proceeds of Crime Act 2002 to report to the Serious Organised Crime Agency (SOCA) if we know, or have reasonable cause to suspect, that you or anyone connected with your business are or have been involved in money laundering. Failure on our part to make a report where we have knowledge, or reasonable grounds for suspicion, would constitute a criminal offence.
+We also have a duty under section 330 of the Proceeds of Crime Act 2002 to report to the National Crime Agency (NCA) if we know, or have reasonable cause to suspect, that you or anyone connected with your business are or have been involved in money laundering. Failure on our part to make a report where we have knowledge, or reasonable grounds for suspicion, would constitute a criminal offence.
 
 To the extent that we are duty bound by any applicable legal or regulatory requirement to cooperate with any competent legal or governmental authority or agency we shall do so in accordance with applicable law. Without limitation, we expressly reserve the right to cooperate with any competent authority, in the investigation of alleged unlawful activities of our website users or relating to our website users. We will have no legal liability for such disclosures of your information.
 
@@ -163,7 +163,9 @@ Visual Website Optimizer - From time to time we like to run tests on our site wi
 
 Desk - a third party customer support platform, which uses cookies to make it easier for you to navigate our Help section.
 
-Facebook – a third party social media platform that also supports its own advertising network. Cookies originating from Facebook also give us power to serve ads on the Facebook network specifically to people who have already visited our site and not signed up, as well as users determined by Facebook to be similar to our site’s visitors.
+Facebook – a third party social media platform that also supports its own advertising network. Cookies originating from Facebook allow us to focus our Facebook advertising specifically to people who have already visited our site who have not signed up, as well as users determined by Facebook to be similar to our site’s visitors.
+
+Crunch also utilises Facebook to identify their users who may be similar to Crunch users. This is done through an anonymous and encrypted process. User data is provided by Crunch and once a ‘lookalike’ audience of Facebook users is created the data provided by Crunch is deleted. Crunch then focuses advertising on the Facebook network specifically to this audience.
 
 Infinity - a third party service used to deliver unique phone numbers to visitors, which enables on line activity to be associated with any phone calls made.
 
@@ -201,6 +203,6 @@ Any changes we may make to our Policy in the future will be posted on this page 
 
 ####  **Please read our Terms of Service**
 
-Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20160314143529id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
+Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20161023203157id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
 
 If you have a question, comment or complaint about the Crunch Privacy Policy please send it to [dp@crunch.co.uk](mailto:dp@crunch.co.uk).
