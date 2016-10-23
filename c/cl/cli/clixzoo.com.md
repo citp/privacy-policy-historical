@@ -1,52 +1,54 @@
-> *The following text is extracted and transformed from the clixzoo.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514020125id_/http%3A//www.easycloud.us/data/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixzoo.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023074925id_/http%3A//clixzoo.com/privacy-policy) for the most accurate reproduction.*
 
-# EasyCloud - Easy PHP Cloud Hosting » Pages » Privacy Policy
+# Privacy Policy - Clixzoo
 
-Our Privacy Policy was last revised on October 20, 2011.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [support@clixzoo.com](mailto:support@clixzoo.com).
 
-EasyCloud ("we" or "us") is concerned about privacy and security of our customers. We know that you care how your personal information is used and shared. We respect your privacy and are committed to maintaining the confidentiality of personal data we collect.
+At www.clixzoo.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.clixzoo.com and how we use it.
 
-This document explains what information of yours will be collected by EasyCloud when you use the EasyCloud services, how the information will be used, and how you can control the collection, correction and/or deletion of information.
+**Log Files**  
+Like many other Web sites, www.clixzoo.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We won't spam you or sell your personal information to others.
+**Cookies and Web Beacons**  
+www.clixzoo.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+**DoubleClick DART Cookie**
 
-We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us a permission to do.
+→ Google, as a third party vendor, uses cookies to serve ads on www.clixzoo.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.clixzoo.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-#### What Do We Collect
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-###### Information Provided by a Customer
+  * Google Adsense
 
-You provide us information about yourself, such as your name and e-mail address, when you register for an account with EasyCloud. You also provide us information in the content you post to be hosted at our service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-###### Cookies
 
-We may place a cookie on your hard drive during the web visit. A cookie is a unique alphanumeric identifier that we use to help us identify the number of unique visitors to our Website, whether or not those visitors are repeat visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website. If you do not wish cookies to be placed on your computer, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](https://privacy.google.com/).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.clixzoo.com._
 
-###### Log Files
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.clixzoo.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-When you use our website, our servers automatically record certain information that your web browser sends. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring or exit pages and their URLs, number of clicks, landing pages, pages viewed, and other such information.
+www.clixzoo.com has no access to or control over these cookies that are used by third-party advertisers.
 
-###### Web Beacons
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.clixzoo.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-A web beacon, also known as clear gif image, is a small graphic (usually 1 pixel x 1 pixel), that may be embedded in a web advertisement, email, or page on our web site, but is invisible to you. When you view a page on our web site, an email or an advertisement your web browser may request the web beacon from a web server, which in turn will set a cookie in your web browser containing a unique identifier. This unique identifier will be linked to log information that is used to track your movements on our web site in order to determine the effectiveness of content and advertising campaigns. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make EasyCloud better for our users. No personally identifiable information from your EasyCloud account is collected using thee web beacons. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-#### How We Use The Collected Information
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
+www.clixzoo.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.clixzoo.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-###### Personal Information
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
+This policy does not apply to any information collected offline or via channels other than this website.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of our service. We may use your information to process your service requests, handle orders, deliver products and services, process payments, communicate with you about orders, provide access to secure areas of the Website, recommend merchandise and services that might be of interest to you, to personalize your visit to our Website, and to enable us to review develop and continually improve the products services and offers we provide on-line. We also use this information to prevent or detect fraud or abuses of our Website and to enable third parties to carry out technical, logistical or other functions on our behalf.
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-###### Web Visit Information
+**Update**  
+This Privacy Policy was last updated on: Friday, July 1st, 2016.
 
-We use the **visitors' IP address** to diagnose and/or fix technology problems reported by our users or engineers that are associated with certain IP addresses. We use **log files** to analyze websites' statistic information and identify issues with our servers and our customers' websites. We use **cookies** to help us recognize visitors as unique visitors when they return to our websites. We use **web beacons** to count the number of times that our advertisements and web-based email content are viewed. We combine web beacon information with cookies to track activity on our website originating from advertisements and web-based email content.
-
-#### Security of Collected Information
-
-EasyCloud is committed to industry's best practices approaches concerning security measures to prevent the loss, misuse and alteration of the information in our possession. We use various security measures to protect the information we collect, as appropriate to the type of information, including encryption, firewalls, and access controls.
-
-#### Changes to Our Privacy Policy
-
-Our business changes constantly and our Privacy Policy may also change from time to time. You should check our website frequently to see recent changes, however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. Changes to this Privacy Policy are effective when they are posted on this page.  
-
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
