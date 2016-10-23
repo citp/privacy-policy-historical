@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginmegastore.ae privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401125338id_/https%3A//www.virginmegastore.ae/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmegastore.ae privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023100332id_/https%3A//www.virginmegastore.ae/en/privacy-policy) for the most accurate reproduction.*
 
-# Virgin Megastore
+# Website Privacy Policy | Virgin Megastore
 
 ## VIRGIN MEGASTORE - WEBSITE PRIVACY POLICY
 
