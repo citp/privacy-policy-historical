@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4myrebate.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316183012id_/https%3A//4myrebate.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4myrebate.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024015316id_/https%3A//4myrebate.com/Home/Privacy) for the most accurate reproduction.*
 
 # Rebate Privacy Statement
 
@@ -16,9 +16,9 @@ Deerfield Beach, FL 33442
 
 You can e-mail us at customerservice@help.4myrebate.com or reach us by phone at 1-800-286-9146. 
 
-Rebate Center has developed relationships with our customers based on respect and integrity. We're aware of the of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
+Rebate Center has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
 
-We will never share your email address , phone number, personal or company information with any unrelated 3rd party except as necessary to fulfill transactions that you initiate. 
+We will never share your email address, phone number, personal or company information with any unrelated 3rd party except as necessary to fulfill transactions that you initiate. 
 
 If you have any questions or concerns about our Privacy Notice, please call us toll-free at 1-800-286-9146 or e-mail us at customerservice@help.4myrebate.com or send a letter to the above address. 
 
@@ -32,7 +32,7 @@ This Privacy Notice and our Terms of Use will change over time and the use of in
 
 ### Children
 
-Rebate Center does not offer rebates to persons under the age of 18. If you are under the age of 18, you cannot conduct business on this site. 
+Rebate Center does not offer rebates to persons under the age of 18. If you are under the age of 18, you cannot conduct business on this site.
 
 ### Personal Information Collected By Rebate Center:
 
@@ -70,7 +70,7 @@ Our Web site contains certain links to third party sites, such as our vendors. R
 
 ### Law Enforcement and Protection of Users:
 
-We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so to comply with the law. We will also do so to cooperate with law enforcement investigations, comply with court orders or subpoenas, protect the legal rights of us and our users, or when we believe it is needed for fraud protection and/ or credit risk reduction. 
+We will release personally identifiable information to third-parties and organizations when we believe it is appropriate for us to do so to comply with the law. We will also do so to cooperate with law enforcement investigations, comply with court orders or subpoenas, protect the legal rights of us and our Users, or when we believe it is needed for fraud protection and/ or credit risk reduction. 
 
 ### Business Transfer:
 
