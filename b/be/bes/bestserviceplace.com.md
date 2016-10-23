@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestserviceplace.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117085034id_/http%3A//www.bestserviceplace.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestserviceplace.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023171535id_/http%3A//bestserviceplace.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BestServicePlace.com
 
