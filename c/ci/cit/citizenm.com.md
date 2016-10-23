@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenm.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623180316id_/https%3A//www.citizenm.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenm.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023144631id_/https%3A//www.citizenm.com/global/privacy) for the most accurate reproduction.*
 
 # citizenM Privacy Policy | citizenM Hotels
 
@@ -8,7 +8,7 @@
 
 citizenM takes your privacy very seriously and treats all your personal data with great care. citizenM always acts in accordance with the applicable data protection legislation. 
 
-When you visit our website [https://www.citizenM.com](https://web.archive.org/) (the “Website”), make a reservation or visit one of our hotels citizenM collects personal data from you. This document describes which personal data is collected and for which purposes this personal data is processed by citizenM.
+When you visit our website [https://www.citizenM.com](https://web.archive.org/homeold) (the “Website”), make a reservation or visit one of our hotels citizenM collects personal data from you. This document describes which personal data is collected and for which purposes this personal data is processed by citizenM.
 
 citizenM is a chain of hotels, and as such we are in the business of hospitality. We have therefore tried to make this Privacy Statement as transparent and understandable as possible for you. 
 
