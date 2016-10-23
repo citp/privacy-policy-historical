@@ -1,53 +1,48 @@
-> *The following text is extracted and transformed from the forexmt4indicators.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516073353id_/http%3A//forexmt4indicators.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmt4indicators.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023062506id_/http%3A//forexmt4indicators.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex MT4 Indicators
 
-Privacy Policy
+**You may optout of your email list at anytime by clicking on the “unsubscribe” link at the bottom of any email received from ForexMT4Indicators.com. You may also email us at admin@forexmt4indicators.com and ask to be removed from the email list.**
 
-This privacy policy (“Privacy Policy”) describes ForexMT4Indicators.com’s privacy practices for our Web site located at ForexMT4Indicators.com (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
+This privacy policy sets out how ForexMT4Indicators.com uses and protects any information that you give ForexMT4Indicators.com when you use this website.
 
-Privacy of Children
+ForexMT4Indicators.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Children (persons under the age of 18) are not eligible to use the Site without the supervision of their parents. If you are under the age of 18 please do not submit any personal information to us or use any function of the Site that require the disclosure of personal information. If you are under the age of 13 please only use this Site under the supervision of your parents or guardian. If you are under 13, please do not provide us with any information about yourself. If we discover that we have collected any Personally Identifiable Information regarding a child 12 or under we will delete the information as soon as possible.
+ForexMT4Indicators.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-What Information is Collected
+**What we collect**
 
-ForexMT4Indicators.com may collect two types of information about you: Personally Identifiable Information and Aggregate Information that is anonymous (such as your IP address – a number used to identify your computer when you are on the Internet – or the type of browser you are using).
+We may collect the following information:
 
-Personally Identifiable Information: “Personally Identifiable Information” refers to information that lets us know the specifics of who you are and can be used to identify, contact, or locate you (such as your name, address, telephone number and e-mail address). You can visit our Site without telling us who you are and without revealing any information about yourself. You may be required to register or otherwise voluntarily provide Personally Identifiable Information to have access to some features of the Site. You always may choose not to provide the Personally Identifiable Information, but this may lead to decreased functionality of the Site for you and our inability to provide you with certain products or services. We also may request you to voluntarily provide Personally Identifiable Information that is not required to access features of our site. This information enables ForexMT4Indicators.com to make general improvements to the Site and better serve your specific interests.
+  * Name
+  * Email Address
 
-Aggregate Information: ForexMT4Indicators.com may transparently collect Aggregate Information through the use of cookies or by other means. We use this information to assess general usage patterns, administer and make improvements to the Site and collect demographic information useful in some way to ForexMT4Indicators.com and our business partners. We hope that by using Aggregate Information, we can update the Site to make it more useful to you and other users. We, and our business partners, reserve the right to use, maintain, update, disclose and/or sell Aggregate Information.
 
-What We Will and Will Not Do With the Information You Provide
 
-ForexMT4Indicators.com uses information generally to compile statistical data, keep in contact with users and provide them with a better interactive experience.
+What we do with the information we gather
 
-We may use your information specifically for the following purposes: to provide easy access every time you return to the Site without requiring re-entry of registration information; to keep you informed about products and services in which you may have interest; to complete business transactions; to contact you as part of a promotion; to allow you to make a posting on the Site; to administer individual accounts; to provide customer support; to meet legal requirements; to provide Internet security; and/or to analyze the collected information. In the event of a merger, consolidation, or sale or transfer of all or substantially all of our assets or business, one of the assets transferred may include the information we collect about our users. We also reserve the right to collect Personally Identifiable Information about you when you sign up for our Forums. We will collect this information to ensure compliance with our Forum rules.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-ForexMT4Indicators.com works closely with our business partners and certain other third parties who may perform functions on our behalf, such as fulfilling orders, providing promotional materials to our users, sending e-mail, managing data, processing credit card payments or providing customer service. They have access to your Personally Identifiable Information only to the extent necessary to perform their functions and may not use it for any other purpose. Further, these business partners and other third parties may from time to time wish to extend special offers to you on their own behalf. We may use your Personally Identifiable Information to assist our business partners in offering you these products, services and information and may act as an intermediary (for instance, sending you e-mail on their behalf). We cooperate with law enforcement inquiries, as well as other efforts to enforce laws. We may also disclose Personally Identifiable Information in response to legal process, such as a court order or subpoena, or to protect the Site, hosted sites or users of these sites. We may also disclose Personally Identifiable Information in response to a request by law enforcement if there is an investigation of criminal conduct or other illegal activity. In most cases you may not receive notice of this disclosure to law enforcement. Therefore, we cannot promise, nor should you expect that, communications you make will always remain private.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
-Other than for the specific purposes set forth in this Privacy Policy, we will not disclose your Personally Identifiable Information to any third parties unless we obtain your prior consent or are legally compelled to do so. In addition, we will not contact you without your permission except as specified above or in connection with the registration process. On the Site, you will be given the opportunity to opt out of receiving e-mails or other information from ForexMT4Indicators.com. If you have questions about how your personally identifiable information is used, please [contact us](http://forexed.com/contact/).
 
-Third Party Advertising
 
-We use third-party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you. If you would like more information about this practice please inquire via our contact page [here](http://forexed.com/contact/).
+**Security**
 
-Cookies
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-When you visit the Site, we or a third-party advertiser may store or recognize some information on your computer in the form of a “cookie” or similar file that can help us in many ways. For example, cookies allow us to tailor the Site to better match your interests and preferences. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. If you reject cookies, functionality of the Site may be severely limited, and you may not be able to take advantage of many of the Site’s best features.
+**Links to other websites**
 
-Linking to Our Business Affiliates’ and Third Party Web Sites
+Our website or promotional material emailed to you from ForexMT4Indicators.com may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-The Site contains links to sites operated by our business partners and other third parties. Once you leave the Site, you may or may not see a new URL in the location bar. Please review the linked site’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that site, terminate your visit to that site. We are not responsible for the privacy policies and practices of the sites operated by our business partners or other third parties.
+**Controlling your personal information**
 
-How Secure is Your Information
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Any unauthorized use of the Site may result in criminal and/or civil prosecution. We have reasonable policies and procedures in place to protect the privacy and confidentiality of your information that we collect and maintain. All Personally Identifiable Information is stored on our secured servers, behind a firewall at a data center with access to data strictly controlled. To help ensure the privacy of your information, we urge you not to share your user name and password with anyone and recommend that you change your password frequently and store it in a safe place. If you are asked to create a user name or password, please select words that do not personally identify you.
+do not submit your personal information to us such as your email address whenever you are asked to fill in a form on the website.
 
-The Site offers “auto login” which allows users to enter member areas of the Site without re-entering password information. You may want to disable auto login on your “Set Up” page if you are not the only person using your computer. You should note that while we take steps to protect your privacy and security there is no “perfect security” on the Internet and by disclosing information there is a chance that the information may be intercepted or become public.
+if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by using the unsubscribe link included in any email that you receive from ForexMT4Indicators.com
 
-How Information Can Be Accessed or Modified
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you have any concerns about privacy procedures at our Web site or wish to access or modify your Personally Identifiable Information collected at the Site Email us your privacy concerns by clicking [here](http://forexmt4indicators.com/contact/).
-
-Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to admin@forexmt4indicators.com
