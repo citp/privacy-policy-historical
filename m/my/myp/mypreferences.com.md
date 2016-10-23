@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypreferences.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427231150id_/http%3A//mypreferences.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypreferences.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023123104id_/http%3A//www.mypreferences.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement | MyPreferences
 
