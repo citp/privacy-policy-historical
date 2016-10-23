@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pccleanplus.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325103746id_/http%3A//www.pccleanplus.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pccleanplus.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023192512id_/http%3A//www.pccleanplus.com/privacypolicy) for the most accurate reproduction.*
 
 # PC Clean Plus – Privacy Policy
 
