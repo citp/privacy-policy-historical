@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502054543id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023144947id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Roots
 
@@ -40,12 +40,14 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Everyday Roots may change its Privacy Policy from time to time, and in Everyday Roots sole discretion. Everyday Roots encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a EverydayRoots.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-**P.S.** Take a look at the [Everyday Roots Book](http://go.everydayrootsbook.com/). It's a Book that we created to help you replace the toxic products and medications in your home with healthier, all-natural alternatives. It contains 215+ effective home remedies and covers everything you will need to protect your family and save money every month.
+**P.S.** [Click here to download my free Coconut Oil eBook.](https://everydayroots.leadpages.co/leadbox/141891afff72a2%3A11403d646346dc/5696457818505216/) It has over 107 everyday coconut oil uses, including uses for- weight loss, pet health, hair, skin, house cleaning, pests, DIY beauty products and so much more.
 
-**+** [Click Here to Get a FREE Bottle of Organic Virgin Coconut Oil](http://everydayroots.com/free/coconut-oil) (while supplies last!)
+\+ Make sure to [claim your free jar of organic coconut oil](http://everydayroots.com/free/coconut-oil) (while supplies last)
 
 By Claire Goodall
 
 Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything :) [Meet Claire](http://everydayroots.com/claire)
+
+[](https://everydayroots.leadpages.co/leadbox/1459771fff72a2%3A11403d646346dc/5696939483987968/)
 
 [](http://go.everydayrootsbook.com/)
