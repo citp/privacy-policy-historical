@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaimportal.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610203237id_/http%3A//www.chinaimportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaimportal.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023094128id_/http%3A//www.chinaimportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chinaimportal.com
 
@@ -21,9 +21,7 @@ When you browse the Website we may collect, through analytics software such as G
 
 
 
-If you decide to let a comment on our website, we’ll collect your name, e-mail address and website (if you choose to add this information). Moreover, when you publish a comment at the bottom of one of our articles, you may decide whether to get notified of followup comments via e-mail or not.
-
-If at any time you would like to unsubscribe from receiving future comment email notifications, we include detailed instructions for unsubscribing at the bottom of each comment email notification that we send. 
+If you decide to let a comment on our website, we’ll collect your name, e-mail address and website (if you choose to add this information). 
 
 If you decide to send an inquiry to us, we’ll collect all the information asked on our contact form, [which can be found here](http://www.chinaimportal.com/contact-us/).
 
@@ -50,7 +48,7 @@ When you make purchases from the Website we may collect the following personal d
   * Where you have registered with us, your username and password;
   * Information about your import project such as your product specifications or the name of your supplier;
   * Your browsing and shopping activities;
-  * All the information and files that you send to us through the ticket system on the ‘[My Account](http://account.chinaimportal.com/my-account/)’ area.
+  * All the information and files that you send to us through the ticket system on the ‘[My Account](https://account.chinaimportal.com/my-account/)’ area.
 
 
 
@@ -80,7 +78,7 @@ In addition, we may collect anonymised details about visitors to our Website for
 
 ### How we protect your information
 
-  * We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information (excepted if a third party acquires all or part of our business and/or assets). This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 
   * In the event that a third party acquires all or part of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition.
@@ -89,7 +87,7 @@ In addition, we may collect anonymised details about visitors to our Website for
   * We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 
-  * We offer the use of a secure server through PayPal. We do not process payment ourselves as, at the moment of purchasing our service, you will be re-direct to PayPal’s website. There, all supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into PayPal’s payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+  * We offer the use of a secure server through PayPal or Stripe. We do not process payment ourselves as, at the moment of purchasing our service, you will be re-direct to PayPal’s website (or buy through Stripe). There, all supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into PayPal’s or Stripe payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 
   * After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
@@ -101,7 +99,7 @@ In addition, we may collect anonymised details about visitors to our Website for
   * If you subscribed to our newsletter and wish to unsubscribe from e-mail communications that we send to you, you can do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent.
 
 
-  * If you hold an account on the Website, you can access and update your contact information by logging in on the ‘[My Account](http://account.chinaimportal.com/my-account/)‘ page with the username and password provided when you opened your account on the Website.
+  * If you hold an account on the Website, you can access and update your contact information by logging in on the ‘[My Account](https://account.chinaimportal.com/my-account/)‘ page with the username and password provided when you opened your account on the Website.
 
 
   * If you want to close your account on the Website, contact us by using the contact information that you find below on this page. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity.
@@ -165,7 +163,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### California Online Privacy Protection Act Compliance
 
-  * Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+  * Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent (excepted if a third party acquires all or part of our business and/or assets, in which case we may disclose your personal data to that third party in connection with the acquisition).
 
 
   * All users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘My Account’ area.
@@ -196,4 +194,4 @@ If we decide to change our Privacy Policy, we will post the changes on this page
 
 If there are any questions regarding this privacy policy you may contact us [through our contact form](http://www.chinaimportal.com/contact-us/ "Contact Us") or by sending an email to info@chinaimportal.com.
 
-**Last Modification: 12 June 2015**
+**Last Modification: 10 October 2016**
