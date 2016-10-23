@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigsalefinder.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523110513id_/http%3A//bigsalefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsalefinder.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023024630id_/http%3A//bigsalefinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Big Sale Finder Privacy Policy - Big Sale Finder
+# Know your Privacy is Important at Big Sale Finder
 
 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -54,4 +54,4 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at mail@bigsalefinder.com
+If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at mail[at]bigsalefinder.com
