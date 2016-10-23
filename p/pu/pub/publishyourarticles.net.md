@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publishyourarticles.net privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529231950id_/http%3A//www.publishyourarticles.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishyourarticles.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023061627id_/http%3A//www.publishyourarticles.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PublishYourArticles.net - Publish Your Articles Now
 
