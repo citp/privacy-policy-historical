@@ -1,25 +1,58 @@
-> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619161324id_/http%3A//photographyblogger.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographyblogger.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023141331id_/http%3A//photographyblogger.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-The privacy of our visitors to photographyblogger.net is important to us.
+### **PhotographyBlogger.net PRIVACY POLICY – Last modified on August 9th, 2016**
 
-At photographyblogger.net, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit photographyblogger.net, and how we safeguard your information. We never sell your personal information to third parties.
+By using this site, PhotographyBlogger.net (the “Photography Blogger”), you consent to our privacy policy. The privacy policy may change from time to time and such changes will be posted on this page.
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+### **What information do we collect?**
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+We collect information from you when you register on our site, subscribe to our newsletter, submit tips, respond to a survey, or fill out a form. You may be asked to enter your: name, email address, mailing address, web address, or other identifying information. You may also have the opportunity to attach photos or other files. You may, however, visit our site anonymously.
 
-We also use third party advertisements on photographyblogger.net to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Google, as a third party vendor, uses cookies to serve ads this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-DoubleClick DART cookies  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+### **What do we use your information for?**
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Any of the information we collect from you may be used in one of the following ways: (1) To personalize your experience (your information helps us to better respond to your individual needs); (2) To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you); (3) To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs); (4) To administer a contest, promotion, survey or other site feature, (5) To connect you with service providers or product providers; or (6) To send periodic emails.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Third parties provide software that we use, such as among others, for subscriptions (Feedburner/Constant Contact), contact forms, comments (Disqus/Wordpress), content management/hosting (WordPress) and advertising (Google Adsense etc). We do not have control over these third-parties or their handling of information.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+### **Do we use cookies?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service provider systems to recognize your browser and capture and remember certain information.
+
+We use cookies to understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+### **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information; provided, however, in the event of a sale of the website or a merger of our company with another company, this information will go with the website or company to the transferee or successor entity, respectively. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. Also, certain forms collect personally identifiable information in order to connect you with service professionals or product providers. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Occasionally, if we receive an email that is clearly intended for another company, such an email request for product information or company response, we may forward that email to a trusted contact at that company.
+
+### **What about the third party links?**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties except as set forth herein without your consent.
+
+### **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### **Additional Terms and Conditions**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. Please also visit our [Terms and Conditions](http://photographyblogger.net/terms-and-conditions/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+### **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+_This policy was last modified on August 9th, 2016._
 
 * * *
 
