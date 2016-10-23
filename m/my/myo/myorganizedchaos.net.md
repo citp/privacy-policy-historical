@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myorganizedchaos.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401222201id_/http%3A//www.myorganizedchaos.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myorganizedchaos.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023164526id_/http%3A//www.myorganizedchaos.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Organized Chaos
 
@@ -18,7 +18,7 @@ Any samples given to me for review purposes, will not be returned. They become t
 
 All text and images on www.myorganizedchaos.net are copyrighted property. They may not be used or reproduced in any manner, shape, way or form  without the written permission of the author, Tammi Roy.
 
-Copyright © 2008-2015  
+Copyright © 2008-2016  
 All Rights Reserved
 
 **What information do we collect?**
@@ -90,7 +90,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.myorganizedchaos.net  
 tammi@myorganizedchaos.net
 
-Copyright © 2008-2015  
-All Rights Reserved.[](http://www.copyscape.com/).[](http://www.myfreecopyright.com/registered_mcn/B4DC5_BA9FE_2E9D2 "MyFreeCopyright.com Registered & Protected")
+Copyright © 2008-2016  
+All Rights Reserved.[](http://www.copyscape.com/).
 
 ~
