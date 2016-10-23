@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324133942id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023221322id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **PRIVACY POLICY**
 
-**LAST UPDATED:   **March 2, 2016
+**LAST UPDATED:   **May 2, 2016
 
 This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, “QuinStreet”). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the “QuinStreet Businesses”), please see the section entitled “QuinStreet Businesses” below.
 
