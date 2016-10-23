@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501134004id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024001952id_/https%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rydges Hotels & Resorts - AHL
+# Privacy Policy | Rydges Hotels & Resorts
 
-### Rydges Privacy Policy
-
-Rydges Hotels Ltd (the Company) and its related bodies corporate own, operate and/or manage the hotels and resorts listed on our website www.rydges.com. The Company is committed to ensuring your personal information is protected. The Company understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. It will explain how we manage your personal information.
+Event Hospitality & Entertainment Ltd and its related bodies corporate (the “EVENT Group”) own, operate and/or manage the hotels and resorts listed on this website. The EVENT Group is committed to ensuring your personal information is protected. The EVENT Group understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. It will explain how we manage your personal information.
 
 In addition to this Privacy Policy, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when participating in a promotion, entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy and those specific and additional provisions, the specific and additional provisions will prevail.
 
@@ -22,37 +20,47 @@ We collect cookie information when you visit our website.  Cookies are pieces o
 
 **How we use your information and who we may disclose it to**
 
-The information that we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any unrelated third parties. The Company uses the information you provide to us to help you access the services or acquire the goods that the Company provides more easily. We also use personal information to administer, improve our products and services and tailor them to your interests. We may also send you marketing material about products and services we believe are suited to you and your interests. If you do not wish to receive any of this material you may simply choose “unsubscribe” from our mailing list and no further material will be sent to you.
+The information that we collect from you is strictly confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any unrelated third parties. The EVENT Group uses the information you provide to us to help you access the services or acquire the goods that the EVENT Group provides more easily. We also use personal information to administer, improve our products and services and tailor them to your interests. We may also send you marketing material about products and services we believe are suited to you and your interests and communicate with you using social media channels and platforms. If you do not wish to receive any of this material you may simply choose “unsubscribe” from our mailing list or contact us using the details below, and no further material or communications will be sent to you.
 
-A number of the hotels listed on our website [www.rydges.com.au](http://www.rydges.com.au/) are managed by the Company on behalf of the hotel owner. Rydges shares customer personal information with these hotel owners and their employees to allow them to undertake similar functions as Rydges, as described in this Privacy Policy.
+The EVENT Group manages a number of hotels as agent on behalf of the relevant hotel owner. The EVENT Group shares customer personal information with these hotel owners and their employees to allow them to undertake similar functions as the EVENT Group, as described in this Privacy Policy.
 
-The Company engages certain trusted third parties (including data hosting and processing companies, and information technology providers) to help us provide, improve and promote our services. We will only disclose your personal information to these third parties to perform tasks on our behalf and in compliance with this Privacy Policy. These third parties may be located in Australia, New Zealand, Singapore, Philippines, Hong Kong, Sri Lanka, India, Germany and the United States of America. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed. In providing us with your personal information, you consent to this disclosure. 
+The EVENT Group engages certain trusted third parties (including data hosting and processing companies, and information technology providers and operators of social media channels and platforms) to help us provide, improve and promote our services and communicate with our customers. We will only disclose your personal information to these third parties to perform tasks on our behalf and in compliance with this Privacy Policy. These third parties may be located in Australia, New Zealand, Singapore, Philippines, Hong Kong, Sri Lanka, India, Germany and the United States of America. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed. In providing us with your personal information, you consent to this disclosure.
 
-Our hotels and resorts use a reservation system that allows those hotels and resorts to view and access customer personal information on our system (for example to view past booking and transaction details).  In providing us with your personal information, you also consent to the disclosure of your personal information to all hotels listed on our website [www.rydges.com](http://www.rydges.com/), including the hotels in foreign countries listed on our website.
+Our hotels and resorts use a reservation system that allows those hotels and resorts to view and access customer personal information on our system (for example to view past booking and transaction details). In providing us with your personal information, you also consent to the disclosure of your personal information to all hotels and resorts owned, managed or operated by the EVENT Group, including any hotels in foreign countries.
 
-The Company will not disclose your personal information for purposes or to parties other than those outlined above without your consent.
+The EVENT Group will not disclose your personal information for purposes or to parties other than those outlined above without your consent.
 
 **User generated content**
 
-If you post reviews or comments on the site, you grant the Company and its affiliates a non-exclusive, royalty free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such reviews and comments throughout the world in any media. You also grant the Company and its affiliates and sub licensees the right to use the name that you submit with any review or comment, if any, in connection with such review or comment.
+If you respond to a post guest survey, post reviews or comments on the site or provide other written feedback to the EVENT Group (“Response”), you grant the EVENT Group a non-exclusive, royalty free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display the Response throughout the world in any media. You also grant the EVENT Group and sub licensees the right to use the name that you submit with any Response if any, in connection with the Response.
 
 **Competitions**
 
-From time to time, the Company may conduct competitions on its website. When these competitions are run, you may also be given the choice of being on a mailing list to receive further contact from us. Unless you choose to receive further communications from the Company, the information we collect from your entry in the competition is not used for any purposes other than the competition.
+From time to time, the EVENT Group may conduct competitions on its website. When these competitions are run, you may also be given the choice of being on a mailing list to receive further contact from us. Unless you choose to receive further communications from the EVENT Group, the information we collect from your entry in the competition is not used for any purposes other than the competition.
+
+**Priority Guest Rewards Program**
+
+The EVENT Group operates the Priority Guest Rewards loyalty program (“PGR Program”). The hotels that participate in the PGR Program are listed on the website [www.priorityguestrewards.com](http://www.priorityguestrewards.com/) (“Participating Hotels”) and include certain Rydges, QT, Atura and Art Series hotels.
+
+Effective from 1 August 2014, any new PGR Program members will automatically also become a member of the Global Hotel Alliance (GHA) loyalty program. Existing PGR Program members need to “opt-in” after 1 August 2014 to become a GHA loyalty program member. GHA member benefits are detailed on the GHA website [www.gha.com](http://www.gha.com/). GHA is based in Switzerland.
+
+The Participating Hotels use a reservation system that allows any of the Participating Hotels to view and access PGR Program member personal information on our system (for example to view past booking and transaction details for PGR Program members and confirm PGR Program member details and status). It is a condition of membership of the PGR Program that all members consent to the EVENT Group disclosing their personal information to all Participating Hotels listed on our website [www.priorityguestrewards.com](http://www.priorityguestrewards.com/), including the Participating Hotels in foreign countries listed on that website, for the purpose of providing services or undertaking activities related to the PGR Program.
 
 **Links to other websites**
 
-The Company’s website provides links to websites outside of the Company’s services. These linked sites are not under our control, and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the privacy policy and terms and conditions of that website.
+The EVENT Group’s website provides links to websites outside of the EVENT Group’s services. These linked sites are not under our control, and we are not responsible for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the privacy policy and terms and conditions of that website.
 
 **Storage and security of your personal information**
 
-Any personal information that we collect about customers, including email addresses, will be kept in the Company’s database. The database will be accessible only by those authorised to perform normal daily tasks such as updating addresses and renewing membership. The Company will take all reasonable precautions to protect the personal information it holds from any misuse, loss, unauthorised access, modification or disclosure.
+Any personal information that we collect about customers, including email addresses, will be kept in the EVENT Group’s database. The database will be accessible only by those authorised to perform normal daily tasks such as updating addresses and renewing memberships. The EVENT Group will take all reasonable precautions to protect the personal information it holds from any misuse, loss, unauthorised access, modification or disclosure.
 
-The internet is not a secure environment. If you use the internet to send us any personal information, the Company will not be liable for events arising from unauthorised access to your information.
+The internet is not a secure environment. If you use the internet to send us any personal information, the EVENT Group will not be liable for events arising from unauthorised access to your information.
 
 **Access to your information**
 
-You have a right to access and correct most of the personal information we hold about you. If you wish to have access to or correct your information, please send us an email or letter at the addresses provided below. If the Company does not allow you to access or correct your personal information we will provide you with the reasons for our decision.
+You have a right to access and correct most of the personal information we hold about you. If you wish to have access to or correct your information, please send us an email or letter at the addresses provided below. If the EVENT Group does not allow you to access or correct your personal information we will provide you with the reasons for our decision.
+
+PGR Program members can also update their membership profile online at [www.priorityguestrewards.com](http://www.priorityguestrewards.com/).
 
 **Accuracy of your information**
 
@@ -60,19 +68,16 @@ Once we receive personal information from you, we take all reasonable steps to e
 
 **Contact us**
 
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [privacy@ahl.com.au](mailto:privacy@ahl.com.au), or by mail addressed to:
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy, if you wish to access or correct your personal information, or if you wish to make a complaint about a privacy matter, please contact us by email at [privacy@evt.com](mailto:privacy@evt.com)  or by mail addressed to:
 
 Privacy Officer  
-Amalgamated Holdings Ltd  
-Level 22, 227 Elizabeth Street  
+Event Hospitality & Entertainment Ltd  
+478 George Street  
 Sydney NSW 2000
 
-You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged.
-
+You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged.  
 If you wish to make a complaint about a privacy matter, we will examine the complaint and endeavour to respond within 14 days. If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see [www.oaic.gov.au](http://www.oaic.gov.au/)).
 
-The Company reserves the right to change this privacy policy at any time. The Company will notify any changes by posting an updated version of the policy on its website.
+The EVENT Group reserves the right to change this privacy policy at any time. The EVENT Group will notify any changes by posting an updated version of the policy on this website.
 
-Rydges Hotels Ltd is a subsidiary company of Amalgamated Holdings Ltd which has its own privacy policy which is available at [www.ahl.com.au](http://www.ahl.com.au/).
-
-11 March 2014
+Updated 23 August 2016
