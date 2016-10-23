@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tranceaddict.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602133014id_/http%3A//www.tranceaddict.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tranceaddict.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023211454id_/http%3A//www.tranceaddict.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
