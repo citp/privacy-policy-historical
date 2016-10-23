@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310083926id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024001924id_/https%3A//mightybell.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###### Last updated: February 29, 2016
+###### Last updated: March 16, 2016
 
 * * *
 
@@ -92,7 +92,7 @@ You get to decide the Networks you want to join. You also get to decide whether 
 
 A Host can determine the visibility of its Network’s membership and accessibility of Member Profiles and postings. This is accomplished by choosing a Public, Private, or Secret Network as described more fully above.
 
-### D. Adjust your notices settings
+### D. Adjust your notification settings
 
 In your account settings, you can control the frequency, type and mode of notifications. You can choose to be notified by email or mobile, both or neither. You can choose to turn on or off your notifications by type, such as cheers on your stuff, and questions you can help answer.
 
@@ -102,11 +102,11 @@ If we send you emails about products or services that may interest you, each ema
 
 ### F. Opt out of google analytics
 
-To prevent your data from being used by Google Analytics, click here for instructions.
+To prevent your data from being used by Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout/) for instructions. 
 
 ### G. Opt out of google behavioral advertising
 
-To opt out of Google behavioral advertising, click here to see your Google ad settings.
+To opt out of Google behavioral advertising, [click here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChTOcTh0Zw8QqBdT-OCxwSpWwNT1J8JqZmRt7ctTZRDA5WnB7C5XGzaxHVmAcVuzxDUMaGmwnnuM2OTd9Ok7b3yLVXop1nNztHTA2RuWExj91hB3Rvsa6LlgnIcta-awwF2vWiSCobqQVwT-EeX9QxZ7GU1jSTs7h08u8BQLwdSH7562q9Ct2j68TucafNQLcODg_rn) to see your Google ad settings. 
 
 ### H. Opting out of tracking generally
 
