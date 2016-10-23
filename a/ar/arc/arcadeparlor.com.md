@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeparlor.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324182115id_/http%3A//arcadeparlor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeparlor.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023230212id_/http%3A//arcadeparlor.com/privacy-policy) for the most accurate reproduction.*
 
 # ArcadeParlor | ArcadeParlor Games
 
