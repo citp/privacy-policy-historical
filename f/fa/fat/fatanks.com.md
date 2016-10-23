@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatanks.com privacy policy that was archived on 2016-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160221015017id_/http%3A//www.fatanks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatanks.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023140156id_/http%3A//www.fatanks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
