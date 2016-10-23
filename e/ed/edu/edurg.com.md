@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edurg.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407081722id_/http%3A//edurg.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edurg.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024002904id_/http%3A//www.edurg.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # EDU Research Group
 
