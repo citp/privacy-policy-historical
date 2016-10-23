@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502200525id_/http%3A//www.lewishowes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023180453id_/http%3A//www.lewishowes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Lewis Howes
+# Privacy Policy - Lewis Howes
 
 This Privacy Policy was last modified on June 17, 2015.
 
