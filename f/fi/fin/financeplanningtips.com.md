@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeplanningtips.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324110943id_/http%3A//financeplanningtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeplanningtips.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023195135id_/http%3A//financeplanningtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Finance Planning Tips
 
