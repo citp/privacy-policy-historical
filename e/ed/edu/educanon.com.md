@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the educanon.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017143913id_/https%3A//www.educanon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educanon.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023141429id_/https%3A//www.playposit.com/privacy) for the most accurate reproduction.*
 
-# eduCanon
+# PlayPosit
 
-**Last Updated:** June 1, 2013
+**Last Updated:** February 16, 2016
 
 **
 
@@ -10,7 +10,7 @@
 
 **
 
-This Privacy Policy describes our privacy practices for eduCanon, our presentation platform and related services (collectively, the “Service”). Our Service allows users to organize and present knowledge. The Service provides Web-based tools to easily create interactive videos which consist of a collection of resources used to present to other users. We provide the Service from our Web site and from mobile applications, mobile sites or other internet points of presence that we may make available from time to time (collectively, our “Site”). By using or accessing our Service and Site, you agree to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). If you have questions about our privacy practices, please contact us at [help@educanon.com](mailto:help@educanon.com). 
+This Privacy Policy describes our privacy practices for PlayPosit, our presentation platform and related services (collectively, the “Service”). Our Service allows users to organize and present knowledge. The Service provides Web-based tools to easily create interactive videos which consist of a collection of resources used to present to other users. We provide the Service from our Web site and from mobile applications, mobile sites or other internet points of presence that we may make available from time to time (collectively, our “Site”). By using or accessing our Service and Site, you agree to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms). If you have questions about our privacy practices, please contact us at [help@playposit.com](mailto:help@playposit.com). 
 
 **1\. SCOPE OF THIS PRIVACY POLICY.** This Privacy Policy covers our collection and use of information when you use our Service and Site. It does not cover third party Web sites or applications to which we provide links from our Service.
 
@@ -42,7 +42,7 @@ This Privacy Policy describes our privacy practices for eduCanon, our presentati
 **7\. HOW TO VIEW AND EDIT YOUR INFORMATION; ACCOUNT DELETION**
 
   * Profile Information. You can view and modify your account information on the Service at any time.
-  * Account Deletion. If you wish to delete your account or contact information from the Service, please email us at [help@educanon.com](mailto:help@educanon.com) requesting deletion. 
+  * Account Deletion. If you wish to delete your account or contact information from the Service, please email us at [help@playposit.com](mailto:help@playposit.com) requesting deletion. 
 
 
 
@@ -52,4 +52,4 @@ This Privacy Policy describes our privacy practices for eduCanon, our presentati
 
 **10\. MODIFICATIONS TO THIS PRIVACY POLICY.** We may modify this Privacy Policy at any time. If you maintain an account for the Service, we will notify you, at the email address you provide to us when you register for an account, of any material modifications to this Privacy Statement. 
 
-**11\. HOW TO CONTACT US.** If you have any questions about our privacy practices, please contact us at [help@educanon.com](mailto:help@educanon.com).
+**11\. HOW TO CONTACT US.** If you have any questions about our privacy practices, please contact us at [help@playposit.com](mailto:help@playposit.com).
