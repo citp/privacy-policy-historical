@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the discountelectronics.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327025035id_/https%3A//www.discountelectronics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountelectronics.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024004137id_/https%3A//www.discountelectronics.com/privacy) for the most accurate reproduction.*
 
-# DiscountElectronics.com Privacy Policy
-
-Fair Information Practices 
-
-Fair information   
-Practices
+# Discount Electronics Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -86,7 +81,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 We use Google Analytics on our website. Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of DiscountElectronics.com, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network.  
 Personal data collected: Cookie and Usage Data.  
 Place of processing: USA.  
-You can access Google's [privacy policy here](http://www.google.com/intl/en/policies/privacy/).
+You can access Google's [privacy policy here](https://web.archive.org/web/20160326024546/http://www.google.com/intl/en/policies/privacy/).
 
 **California Online Privacy Protection Act**
 
@@ -112,7 +107,7 @@ Users are able to change their personal information:
 
 **How does our site handle do not track signals?**
 
-In addition to the ability to control cookies, some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. DiscountElectronics.com does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+In addition to the ability to control cookies, some web browsers may also give you the ability to enable a “do not track” setting. This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. DiscountElectronics.com does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.org](https://web.archive.org/web/20160326024546/http://www.allaboutdnt.org/).
 
 **Does our site allow third party behavioral tracking?**
 
