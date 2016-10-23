@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinity-adz.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412140304id_/http%3A//infinity-adz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinity-adz.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023111050id_/http%3A//infinity-adz.com/privacy.php) for the most accurate reproduction.*
 
 # Infinity-Adz
 
@@ -34,4 +34,4 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) 2010 Infinity-Adz All Rights Reserved 
 
-[Member Login](https://web.archive.org/memberlogin.php)|  [How It Works](https://web.archive.org/members/how.php)|  [Terms and Conditions](https://web.archive.org/terms.php)| [Earnings Disclaimer](https://web.archive.org/earnings.php)|  [ Spam Policy](https://web.archive.org/spam.php)|  [ Privacy Policy](https://web.archive.org/privacy.php)|  [SuperSolo Advertising](http://supersoloadvertising.com/)
+[Member Login](https://web.archive.org/memberlogin.php)|  [How It Works](https://web.archive.org/members/how.php)|  [Terms and Conditions](https://web.archive.org/terms.php)|  [ Spam Policy](https://web.archive.org/spam.php)|  [ Privacy Policy](https://web.archive.org/privacy.php)|  [SuperSolo Advertising](http://supersoloadvertising.com/)
