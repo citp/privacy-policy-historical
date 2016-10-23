@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decidebuddy.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327103450id_/http%3A//decidebuddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decidebuddy.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023144612id_/http%3A//decidebuddy.com/privacy) for the most accurate reproduction.*
 
 # Decidebuddy.com - Privacy
 
