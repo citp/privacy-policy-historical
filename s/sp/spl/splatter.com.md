@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splatter.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622005658id_/http%3A//www.splatter.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splatter.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024040435id_/http%3A//www.splatter.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Splatter
 
