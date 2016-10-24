@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mobilehydraulictips.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606003100id_/http%3A//www.wtwhmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilehydraulictips.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024152622id_/http%3A//www.wtwhmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WTWH Media LLC
 
-WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via our network of websites. A listing of WTWH online properties can be found at wtwhmedia.com. By using our Sites, you consent to the terms of this Policy.
+WTWH Media, LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via our network of websites. A listing of WTWH online properties can be found at wtwhmedia.com and links to this privacy policy are found on every website. By using our Sites, you consent to the terms of this Policy.
 
 ### Information Collection When you visit our Network of Sites
 
-Some information is automatically collected, such as your computer’s Internet Protocol (IP) address, operating system and browser type and the time and date of your visit. This information is collected through the use of “cookies.” Cookies are small files that are stored on your computer by a Web site to give you a unique identification.
+Some information is automatically collected, such as your computer’s Internet Protocol (IP) address, operating system, browser type and the time and date of your visit. This information is collected through the use of “cookies”. Cookies are small files that are stored on your computer by a Web site to give you a unique but anonymous identification.
 
 We also use cookies on our Sites to keep track of services you have used, to record registration information regarding your login name and password, to ensure you do not repeatedly see advertisements, to record your user preferences and to keep you logged into the sites.
 
 Additionally, we use, and allow third parties to use, various Web technologies on the sites to monitor the effectiveness of advertising or for other legitimate purposes.
 
-We use third parties, called third-party ad servers or network advertisers, to deliver ads to you on our behalf. These third-party ad servers may use cookies or other technology to collect non-personally identifiable information about your visits to our sites in order to use it to present advertisements that may be of interest to you.
+We use third parties such as ad servers or network advertisers, to deliver ads to you on our behalf. These third-party ad servers may use cookies or other technology to collect non-personally identifiable information about your visits to our sites in order to use it to present advertisements that may be of interest to you.
 
 ### How We Use the Information
 
@@ -42,7 +42,7 @@ Our sites contain links to other Web sites. Links from our sites to other sites 
 
 ### Updates & Effective
 
-Date From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-The Privacy Notice posted on this site was updated on or about October 29, 2014  
+The Privacy Notice posted on this site was updated on or about September 15, 2016  
 
