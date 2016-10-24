@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402205014id_/http%3A//diyready.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024134322id_/http%3A//diyready.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy DIY Ready
 
