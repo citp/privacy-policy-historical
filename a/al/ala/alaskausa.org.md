@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309144350id_/https%3A//www.alaskausa.org/service/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024162733id_/https%3A//www.alaskausa.org/service/security/privacy.asp) for the most accurate reproduction.*
 
 # Alaska USA Online Information Practices
 
@@ -25,11 +25,12 @@ Collected data may include:
 
 Alaska USA may use your information for several purposes, including:
 
+Purpose | Examples  
+---|---  
 **Security** | Maintain a secure session.   
 Authenticate your computer.   
 Detect potentially fraudulent transactions.   
 Verify transactions.  
----|---  
 **Site Management** | Customize content displayed on Alaska USA sites and apps.   
 Improving the relevance and usefulness of websites, apps, and email communications  
 **Marketing** | Provide personalized promotional content on Alaska USA websites and apps.   
