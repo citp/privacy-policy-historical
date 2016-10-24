@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417185909id_/https%3A//www.virool.com/help/article/214947518) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024140213id_/https%3A//www.virool.com/help/article/214947518) for the most accurate reproduction.*
 
 # Privacy Policy | Virool Help
+
+##  Privacy Policy 
 
 **Privacy Policy**
 
