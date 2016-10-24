@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandhub.in privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065634id_/http%3A//broadbandhub.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandhub.in privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024223003id_/http%3A//broadbandhub.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandHub.in
 
@@ -82,6 +82,6 @@ If there are any questions regarding this privacy policy you may mail us contact
 
 #### Legal Disclaimer Section
 
-We request visitors to confirm the tariff plans from respective ISP website before making a buying decision. Further we also request visitors to read our [LEGAL DISCLAIMER SECTION](https://web.archive.org/web/20160623065634id_/http%3A//broadbandhub.in/legal_disclaimer.php) for more details. 
+We request visitors to confirm the tariff plans from respective ISP website before making a buying decision. Further we also request visitors to read our [LEGAL DISCLAIMER SECTION](https://web.archive.org/web/20161024223003id_/http%3A//broadbandhub.in/legal_disclaimer.php) for more details. 
 
 Last updated on : 01-Dec-2015
