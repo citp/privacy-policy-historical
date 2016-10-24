@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610210458id_/http%3A//www.brandsynario.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024180900id_/http%3A//www.brandsynario.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brandsynario
+# Privacy Policy - Brandsynario
 
 This Privacy Policy governs the manner in which Brandsynario collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://brandsynario.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Brandsynario.
 
