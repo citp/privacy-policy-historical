@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the velocify.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527021307id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocify.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024110512id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Velocify: High Performance Sales
 
 Our privacy policy is pretty simple. We will only contact you if you voluntarily submit your contact information. We will never sell your information.
 
 If you would like all of the details, read on.
-
-## Velocify Incorporated Global Privacy Policy
 
 Velocify Incorporated (“Velocify”) respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. It is Velocify policy to comply with all applicable privacy and data protection laws. This commitment reflects the value we place on earning and keeping the trust of our employees, customers, business partners and others who share their personal information with us. This Global Privacy Policy (this “Policy”) describes how Velocify protects your privacy when we collect personal information on Velocify Internet sites. As used in this Policy, the term “personal information” means information that identifies you personally, alone or in combination with other information available to us.
 
