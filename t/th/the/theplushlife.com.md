@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the theplushlife.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622090245id_/http%3A//theplushlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplushlife.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024134815id_/http%3A//theplushlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – theplushlife.com
-
-**Privacy**
-
-This policy was last updated January 2015.
 
 Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information.
 
@@ -12,31 +8,31 @@ Your privacy is very important to us. This privacy policy describes the informat
 
 _Sure_ Media requires your e-mail address when you subscribe to our newsletters, when you sign up for sweepstakes, and when you take advantage of other services our website offers. To provide you with the best possible service, we also require some basic personal information when you sign up. Those items are marked with an asterisk (*). Furthermore, we ask for some optional information on our sign-up page and in periodic opt-in surveys. We use this basic and optional information, to further tailor our content to your interests. Upon request, we will provide you with the information that we maintain about you.
 
-**Demographic Information  **
+**Demographic Information**
 
 We may use aggregate data such as income, age and geography to further customize our content and enhance our services. We may share this information with advertisers and the media. Likewise, we may share this information with another company in the event that we merge, are acquired or participate in a joint venture with another company, or if we conclude that we are required by law to share it. All aggregate data will be shared without any personally identifiable information about our individual subscribers.
 
-**Cookies  **
+**Cookies**
 
 We and some of our partners may make use of cookies (small text files placed on your computer’s hard disk by our server). They are used to collect traffic information such as the number of visits to our site and pages visited. This information will be used to assess how visitors are using our services. This data will also allow us to manage the functionality of the site. You can disable cookies at any time if your browser permits.
 
 **Web Site Usage Information**
 
-We and our partners also may make use of pixel tags which also collect traffic information regarding the behaviour and usage patterns of users of our site.   Pixel tags allow us, or a third party who provides the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the Web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that Web page or other document, including the sites the users of that computer visit. The entity that provides the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user’s operating system and browser type, and similar information.  Our partners may use this information to display advertisements and other content that targeted to you.  We may also use other technologies that permit data gathering.
+We and our partners also may make use of pixel tags which also collect traffic information regarding the behaviour and usage patterns of users of our site. Pixel tags allow us, or a third party who provides the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the Web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that Web page or other document, including the sites the users of that computer visit. The entity that provides the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user’s operating system and browser type, and similar information. Our partners may use this information to display advertisements and other content that targeted to you. We may also use other technologies that permit data gathering.
 
 **Linked Sites**
 
-Although _Sure Media_ may provide links to third party sites, and advertisements from third parties, we are not responsible for the content that appears on those sites nor do we endorse these sites. Please review each site’s privacy policy to determine their use of information.
+Although _Plush Media_ may provide links to third party sites, and advertisements from third parties, we are not responsible for the content that appears on those sites nor do we endorse these sites. Please review each site’s privacy policy to determine their use of information.
 
 **Social Networking**
 
 If you choose to access, visit and/or use any third-party social networking service(s) that may be integrated with the Service, we may receive personally identifiable information and other information about you and your computer, mobile and other device that you have made available to those services, including information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service. Your decision to use a social networking service in connection with our Service is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available to our Service by vising those services’ privacy policies and/or modifying your privacy settings directly with those services. We reserve the right to use, transfer, assign, share and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Privacy Policy as all of your other information.
 
-**Advertisers  **
+**Advertisers**
 
-To support our efforts we sell sponsorships of _SureWomen_ mailings and on the blog to advertisers who we think you’d like to know about. Collection, use, disclosure and security of information collected by advertisers are subject to the privacy policies of those advertisers.
+To support our efforts we sell sponsorships of _ThePlushLife_ mailings and on the blog to advertisers who we think you’d like to know about. Collection, use, disclosure and security of information collected by advertisers are subject to the privacy policies of those advertisers.
 
-**Agents  **
+**Agents**
 
 From time to time, we may use the services of third-party companies to help facilitate our business activities. These include affiliate or incentive program providers, customer service organizations, e-mail and postal mail brokers, and marketing service providers. These companies are subject to confidentiality agreements with us and are prohibited from using the information we provide for any reason except to perform the functions that we have outlined for them.
 
@@ -58,13 +54,13 @@ In addition, our advertisers or other third parties may use other third-party ad
 
 If we ever send you an email that you did not expressly request, we will provide you with an email address by which you may request to receive no future notices.
 
-**Changes to Privacy Policy  **
+**Changes to Privacy Policy**
 
-_Sure Media_ may change this privacy policy. Any changes will be reflected on this privacy policy page. If you are concerned about how your information will be used, you should check back at this privacy policy page periodically.
+_Plush Media_ may change this privacy policy. Any changes will be reflected on this privacy policy page. If you are concerned about how your information will be used, you should check back at this privacy policy page periodically.
 
 #### Children’s Privacy
 
 Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number or email address. No one under age 13 is allowed to provide any personal information to Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@theplushlife.com
 
-**Contact  **  
+**Contact**  
 If you should have any questions about our privacy policy, please contact us at Info@theplushlife.com.
