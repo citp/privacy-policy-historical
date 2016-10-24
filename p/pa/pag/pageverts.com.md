@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pageverts.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403041440id_/http%3A//pageverts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageverts.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024184306id_/http%3A//pageverts.com/privacy.php) for the most accurate reproduction.*
 
-# Free Traffic Exchange
+# Free Autosurf Traffic Exchange
 
 ## Privacy Policy
 
