@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duedil.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322042508id_/https%3A//www.duedil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duedil.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024191829id_/https%3A//www.duedil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DueDil
 
@@ -41,7 +41,7 @@ We may periodically send promotional emails about new features, products, or oth
 
   6.  **4\. STORAGE OF INFORMATION AND SECURITY**
 
-All information you provide to use is stored on our secure servers. Any payment transactions will be encrypted using commercial grade encryption technology. We are committed to ensuring that your information is secure and have put in place various physical, electronic and managerial procedures in order to attempt to safeguard and secure the information we collect online. Unfortunately, however, the transmission of information via the internet is not completely secure and whilst we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site. Accordingly, any transmission is at your own risk.
+All information you provide to use is stored on our secure servers. Any payment transactions will be encrypted using commercial grade encryption technology. We are committed to ensuring that your information is secure and have put in place various physical, electronic and managerial procedures in order to attempt to safeguard and secure the information we collect online. Unfortunately, however, the transmission of information via the internet is not completely secure and whilst we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site. Accordingly, any transmission is at your own risk. 
 
 Where we have given you or you have chosen a password that enables access to all or part of our Site, you are responsible for keeping this password confidential and we would ask that you do not share this password. 
 
@@ -60,7 +60,7 @@ We may share your personal information with any member of our group, which means
 We may share your information with selected third parties including:
 
     * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
-    * Analytics and search engine providers that assist us in the improvement and optimisation of our Site. We may disclose your personal information to third parties:
+    * Analytics and search engine providers that assist us in the improvement and optimisation of our Site. We may disclose your personal information to third parties: 
     * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
     * If DueDil or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
     * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use (<https://www.duedil.com/legal>) and other agreements; or to protect the rights, property, or safety of DueDil, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; or
