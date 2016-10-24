@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the git.net privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330194714id_/http%3A//git.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the git.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024022323id_/http%3A//git.net/privacy) for the most accurate reproduction.*
 
-# Privacy | Git - Tech News & Articles
+# Privacy - Git - Tech News & Articles
 
 1\. INTRODUCTION
 
