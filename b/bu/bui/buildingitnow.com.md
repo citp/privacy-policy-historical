@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildingitnow.com privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301090905id_/http%3A//buildingitnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingitnow.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024033427id_/http%3A//buildingitnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Building It Now
 
