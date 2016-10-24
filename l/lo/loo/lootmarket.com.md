@@ -1,100 +1,79 @@
-> *The following text is extracted and transformed from the lootmarket.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootmarket.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024141352id_/https%3A//www.lootmarket.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Purpose of the Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy covers the lootmarket.com website (hereinafter “Website”), which is owned and operated by Loot Market, Inc. (“Loot Market”). Loot Market is committed to protecting the privacy of its users and wishes to maintain a safe and secure environment for all users of the Website. Please read the following Privacy Policy to understand how your personal information is treated. From time to time, Loot Market may offer new services and/or products that may require Loot Market to update this Privacy Policy. Please check back with us periodically. If you have questions or concerns regarding this policy, you should contact Loot Market’s Privacy Administrator by email at help@lootmarket.com.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy answers the following questions for you regarding your privacy protection:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## WHAT INFORMATION DOES LOOT MARKET COLLECT?
 
-**Information Collection and Use**
+Loot Market collects personal information from users for different purposes.  Information gathered online can be identified as either anonymous or identifiable.  Anonymous information is information that cannot be traced back to the individual.  Identifiable information is information that is specific to an individual.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### Anonymous Information
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Like many websites, the Website gathers certain information automatically and stores it.  This information may include Internet protocol (IP) addresses, searches performed, browser types, Internet services providers (ISP), referring/exit pages, date/time stamps, and clickstream data. Loot Market uses this information, which does not identify individual users, to analyze trends, administer the Website, gather demographic information about its user base as a whole, and improve its level of service to you. Loot Market does not link this automatically-collected data to personally identifiable information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### Personally Identifiable Information
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+To use the Website, a user must register for an account. In order to create an account, a user must first have an account with Steam (www.steamcommunity.com) and possess a Steam username, password, and trade url. A user may then create an account on the Website by logging with his or her Steam account information. Loot Market will collect the following information from its users: (i) name, (ii) email address, (iii) financial data (credit card number, expiration date, cvv, billing zip code), and (iv) Steam username and/or Steam trade url. The provision of this personal information is mandatory and if you choose not to submit the requested information we will not be able to provide you with an account.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The Website may provide you with the opportunity to share content with another person. For such features to work, Loot Market may need to collect name and/or email address of the person with whom you want to share content. Loot Market does not store this information.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## DOES THE WEBSITE USE "COOKIES"?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Yes, the Website uses cookies. A cookie is a piece of data stored on a user’s device to help improve your access to the Website and identify repeat visitors. Cookies can also enable Loot Market to track and target the interests of users to enhance the experience. Cookies are not linked to any personally identifiable information.
 
-**Security**
+## HOW DOES LOOT MARKET USE MY PERSONALLY IDENTIFIABLE INFORMATION?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Personally identifiable information collected is used primarily for the purpose it is collected (e.g., creating a user account, payment). Loot Market also may use a user’s email address as follows provided that the user grants his/her consent to such additional use: 
 
-**Updating Your Information**
+  * in internal surveys to obtain feedback on aspects of Loot Market’s business;
+  * to notify users of information Loot Market thinks may be of interest to them; and
+  * to send communications or promotional materials.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Loot Market may also use personal information collected to contact users in connection with the inappropriate use of the Website.
 
-      iii.      You may call us at: (480) 505-8800
+## DOES LOOT MARKET DISCLOSE MY PERSONALLY IDENTIFIABLE INFORMATION?
 
-       iv.      You may fax us at: (480) 505-8844
+From time to time, Loot Market may disclose your personal information to organizations that perform services for or on behalf of Loot Market, for example to provide customer service, for research, marketing, data processing, and to measure the use of the Website. Loot Market will share with these companies only that personal information which they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Loot Market, and under the instructions of Loot Market, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Privacy Policy.
 
-**Sending Emails**
+## IS MY PERSONAL INFORMATION SECURE?
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The Website has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about Loot Market’s ability to prevent any such loss, misuse, or alteration to you or to any third party. Please review Loot Market’s Terms of Service regarding Loot Market’s liability for any loss, misuse, or alteration of personally identifiable information.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## CAN I UPDATE THE INFORMATION COLLECTED ABOUT ME?
 
-**Compliance with Laws and Law Enforcement**
+You have the right to correct and update the personal information collected about you through the Website. You can make changes to your personal information at any time by logging into your account. You will need your Steam username and/or trade url in order to access your account.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## WILL YOU NOTIFY ME IN THE EVENT OF CHANGES TO THIS PRIVACY POLICY?
 
-**Third Party Service Providers**
+Loot Market reserves the right to make changes to this Privacy Policy. In the event of a material change in our information collection and handling practices, Loot Market will inform those users who have provided an email address via email. Any changes will apply prospectively only.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## HOW CAN I OPT-OUT FROM RECEIVING EMAIL COMMUNICATIONS?
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Loot Market provides you the opportunity to “opt-out” of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you register for an account but do not wish to receive any additional marketing material from us, you can indicate your preference during the account creation process. If you opted-in to receive marketing communications but no longer wish to receive communications from us, you may opt-out of receiving them by following the instructions included in each communication.
 
-**Supplementation of Information**
+## LINKS
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The Website may contain links to other websites. Please be aware that Loot Market is not responsible for the privacy practices or the content of such other websites. Loot Market encourages users to read the privacy policies of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by Loot Market.
 
-**Contests/Surveys**
+## NOTICE REGARDING CHILDREN
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+The Website is general audience website and does not direct any of its content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy. If we learn or have reason to suspect that a user is under age 13, we will promptly delete any personal information in that user’s account.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## INTERNATIONAL USERS
 
-**Tell-A-Friend**
+Loot Market is a U.S. company and the Website is hosted in the United States. If you access the Website from the European Union, Asia, or any other region, country, or jurisdiction with privacy laws or regulations governing personal data collection, use, and disclosure that differ from United States privacy laws, please note that, by your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer. In addition, you understand that your personal information may be processed in countries (including the United States) where privacy laws may be less stringent than in your country.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## HOW DO I CONTACT LOOT MARKET ABOUT PRIVACY CONCERNS?
 
-**What Happens to my Personal Information if I Opt Out?**
+If you have any further questions or comments regarding this Privacy Policy, you may contact us at help@lootmarket.com.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## REQUIRED DISCLOSURES
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Loot Market may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our site.
