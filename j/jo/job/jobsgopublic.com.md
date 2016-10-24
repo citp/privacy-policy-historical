@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306045401id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024092901id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
 
 # cookies | jobsgopublic - Public Sector Jobs and Careers
 
