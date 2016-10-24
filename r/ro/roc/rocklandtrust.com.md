@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506060239id_/https%3A//www.rocklandtrust.com/about-us/banking-tools--resources--advice-and-faqs/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024024403id_/https%3A//www.rocklandtrust.com/about-us/banking-tools--resources--advice-and-faqs/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ How?  ** |  All financial companies need to share customers' personal informatio
 To limit   
 our sharing  ** | 
 
-  * Call **800.222.2299** \- our menu will prompt you through your choice(s) 
+  * Call **508.732.7072** ** ** \- our menu will prompt you through your choice(s) 
   * [Download this form](https://web.archive.org/assets/files/zFhuqBra/2014/08/11/RT_Privacy_web.pdf) , fill in the form section at the bottom and complete the mail in portion as instructed. 
 
 **Please note** :   
@@ -51,7 +51,7 @@ However, you can contact us at any time to limit our sharing.
 **  
 Questions?  ** | 
 
-Call **800.222.2299**  
+Call **508.732.7072**  
   
 ---|---  
 ** Who We Are **  
