@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whysearch.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401103255id_/http%3A//whysearch.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whysearch.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024054455id_/http%3A//whysearch.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Why Search
 
