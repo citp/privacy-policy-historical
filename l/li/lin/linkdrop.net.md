@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdrop.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606141104id_/http%3A//linkdrop.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdrop.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024215526id_/http%3A//linkdrop.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Linkdrop - The New Age Link Shortener
 
