@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnerduck.net privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312135449id_/http%3A//runnerduck.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerduck.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024082009id_/http%3A//www.runnerduck.net/privacy.php) for the most accurate reproduction.*
 
 # Indian Runner Duck Association | Our Privacy and Cookie Policy
 
@@ -45,7 +45,7 @@ We have legal obligations, under the Data Protection Act 1998, to collect any pe
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or [contact us](https://web.archive.org/web/20160312135449id_/http%3A//runnerduck.net/contact.php) as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or [contact us](https://web.archive.org/web/20161024082009id_/http%3A//www.runnerduck.net/contact.php) as soon as possible. We will promptly correct any information found to be incorrect.
 
 ### 4\. Security
 
