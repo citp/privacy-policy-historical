@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madeit.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606140933id_/http%3A//www.madeit.com.au/Main/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madeit.com.au privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024061131id_/https%3A//www.madeit.com.au/Main/Privacy) for the most accurate reproduction.*
 
 # madeit | Privacy Policy | madeit.com.au
 
