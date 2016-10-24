@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2014-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140113204432id_/http%3A//vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025012411id_/http%3A//www.vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
 
 # vPike.com Privacy Policy
 
@@ -54,7 +54,7 @@ Like most Web servers on the Internet, the vPike.com server collects and stores 
 
 It is impossible to determine the actual identity of an individual user from this information. The logs are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, then please **[Contact Us](mailto:al@vPike.com)**. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, then please **[Contact Us](mailto:al@infosports.com)**. 
 
   
 
