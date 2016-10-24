@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcookies.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617095049id_/http%3A//www.allaboutcookies.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcookies.org privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024203510id_/http%3A//www.allaboutcookies.org/privacy-policy.htm) for the most accurate reproduction.*
 
 # AllAboutCookies.org Privacy and Cookie Policy
 
