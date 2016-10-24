@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315151735id_/https%3A//leanpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanpub.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024170947id_/https%3A//leanpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,11 @@ If you have any questions about this Privacy Policy, please feel free to contact
     
     
     Ruboss Technology Corporation
-    1016 Langley Street
-    Victoria, BC, Canada
-    V8W 1V8
+    1321 Blanshard Street
+    Suite 301
+    Victoria, British Columbia, Canada
+    V8W 0B6
+    604-265-0857
     
 
 Ruboss provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website or public APIs, located at www.leanpub.com (“Site” or “Service”). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
