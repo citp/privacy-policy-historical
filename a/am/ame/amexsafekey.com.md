@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amexsafekey.com privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118054515id_/https%3A//www.americanexpress.com/uk/content/internet-privacy-statement.html%3Finav%3Dgb_legalfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amexsafekey.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024023837id_/https%3A//www.americanexpress.com/uk/content/internet-privacy-statement.html%3Finav%3Dgb_legalfooter_privacy) for the most accurate reproduction.*
 
 # American Express UK - Personal - Privacy Statement
 
@@ -120,6 +120,8 @@ We do not share Personal Information with anyone except as described below. We m
   * for specific products or services, when you have given your consent.
 
 
+
+To protect your security, prevent fraud, and comply with regulatory requirements, we may share personal data about you, your account, and the details of any payments you send us, with third parties such as your bank, building society or payment card issuers, and local regulatory authorities. 
 
 We may transfer Personal Information to Service Providers or companies within the American Express Family of Companies throughout the world, for example, to process transactions and provide you with our products or services. Regardless of where we process your information, we still protect it in the manner described in this online privacy statement and according to the applicable laws.
 
