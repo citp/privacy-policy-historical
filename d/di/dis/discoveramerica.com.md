@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621144614id_/http%3A//www.visittheusa.com/usa/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025001814id_/http%3A//www.visittheusa.com/usa/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Visit The USA
 
