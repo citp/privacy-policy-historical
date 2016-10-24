@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myphone.ae privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327052438id_/https%3A//myphone.ae/en/privacy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphone.ae privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024064911id_/https%3A//myphone.ae/en/privacy_en) for the most accurate reproduction.*
 
 # privacy english
 
