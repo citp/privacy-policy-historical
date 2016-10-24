@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007073129id_/https%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024200203id_/https%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
 
 # ArtStack - art online
 
@@ -20,7 +20,7 @@ We may collect and process the following data about you:
 
 (vi) Any data you upload to our Site including posts, reviews and comments or any personal data we fetch from any other websites or services which you authorize us to.
 
-2) IP ADDRESSES AND COOKIES
+2) IP ADDRESSES & COOKIES
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
@@ -30,7 +30,45 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Please note that our advertisers may also use cookies, over which we have no control.
 
-3) WHERE WE STORE YOUR PERSONAL DATA
+3) MORE ON COOKIES
+
+Specifically, cookies are used in the following cases:
+
+(i) timezone: Storing timezone data of the user.
+
+(ii) fb_uid, fb_access_token: Storing users with Facebook account connection information, including User ID and the access token. (iii) fb_publish_action: A boolean storing whether a user have publish action permission for ArtStack.
+
+(iv) redirect_url_after_stripe: The redirect location after the user connects to his/her Stripe account.
+
+(v) fb_click_id, sharers_user_id, share_id: Information for statistics, storing where and what Facebook post the user click to enter ArtStack.
+
+(vi) fb_click_id is the id of the click action. sharers_user_id is the user ID who shares the post to Facebook. share_id is the ID of the shared post in Facebook.
+
+(vii) detected_locale: Storing the locale of user (default is “en”). asked_open_app: A boolean storing whether already asked the user to use ArtStack mobile app or not.
+
+(viii) return_to: Storing the place to be redirected after login.
+
+(ix) mystack_layout: Storing the chosen layout option of the stacks list on user profile (grid or list).
+
+(x) main_layout: Storing the chosen layout option of homepage (“mosaic or feed).
+
+(xi) work_in_mind_sort: Storing the sorting option Work in Mind (default “recent”).
+
+(xii) _user_credentials: Storing the access token of the user in ArtStack.
+
+(xiii) _web_session: Storing the web session token of the user in ArtStack with respect to the browser.
+
+(xiv) ab_test, ab_test_ref: Storing the information of A/B test. ab_test is a boolean storing whether A/B Test is enabled to that user. ab_test_ref is a number adjusting the probability of variant A and B. currency: Storing the currency code of the user (e.g. USD).
+
+(xv) first_before_signup, last_before_signup: Already no use.
+
+(xvi) channel: The source page where the user signup to ArtStack.
+
+(xvii) OptimizelyBuckets, OptimizelyEndUserId, OptimizelyPendingLogEvents, OptimizelySegments: Cookies created by an A/B Test service called Optimizely.
+
+(xix) mp _{a hash value}_ mixpanel: A cookie created by an analytics service called MixPanel.
+
+4) WHERE WE STORE YOUR PERSONAL DATA
 
 The data that we collect from you may be transferred to, and stored in, countries outside the UK and the European Economic Area ("EEA") for the purpose of operating our Service and some data processing may be carried out by third parties on our behalf (such as a third party host). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
@@ -38,7 +76,7 @@ You are responsible for keeping confidential any password which enables you to a
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we use reasonable efforts to protect your personal data, we cannot guarantee the security of your data transmitted to our Site; any transmission is at your own risk.
 
-4) USES MADE OF THE INFORMATION
+5) USES MADE OF THE INFORMATION
 
 We use information held about you in the following ways:
 
@@ -52,7 +90,7 @@ We use information held about you in the following ways:
 
 (v) To notify you about changes to the service.
 
-5) DISCLOSURE OF YOUR INFORMATION
+6) DISCLOSURE OF YOUR INFORMATION
 
 We do not disclose information about identifiable individuals to our advertisers, affiliates or partner merchants, but we may provide them with aggregate statistical information and analytics about our users and non-registered visitors habits and use of our Site.
 
@@ -66,14 +104,14 @@ We may disclose your personal information to third parties:
 
 (iii) If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or other agreement; or to protect the rights, property, or safety of ArtStack, our users, or partners and others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-6) THIRD PARTIES
+7) THIRD PARTIES
 
 The Site may, from time to time, contain links to and from third party websites of our partner networks, advertisers, retailers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check the applicable privacy policy before you submit any personal data to any third party website.
 
-7) CHANGES TO OUR PRIVACY POLICY
+8) CHANGES TO OUR PRIVACY POLICY
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate in the event of material changes, notified to you by e-mail.
 
-8) CONTACT
+9) CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcome and should be addressed to hello@theartstack.com.
