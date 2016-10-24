@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapersxl.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620215024id_/http%3A//www.wallpapersxl.com/doc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapersxl.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025012850id_/http%3A//www.wallpapersxl.com/doc/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
