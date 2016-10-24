@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515021634id_/http%3A//www.supplyon.com/en/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024032235id_/http%3A//www.supplyon.com/en/privacy_notice.html) for the most accurate reproduction.*
 
 # SupplyOn - Privacy Notice
 
