@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324225905id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024033119id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -38,15 +38,16 @@ Member area
 
 Testimonials
 
-I love this site too! The guy who set this up **really knows** what we shoe people need. Thanks!! :)  
-ELENITA SCHNEIDER 
+Bravo Domestic sale team! The **best website** for free ads i ever seen(and i have seen some)! Excellent job! Keep it up!  
+Best Regards, Melania  
+_Santiago, Chile_
 
 **This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
 Perry Pono  
 _Rhode Island_
 
-This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!! 
+I love your site, **the best** FREE classified site I've come accross EVER!!!  
+Regards, Kerry *pinkbike* 
 
-Bravo Domestic sale team! The **best website** for free ads i ever seen(and i have seen some)! Excellent job! Keep it up!  
-Best Regards, Melania  
-_Santiago, Chile_
+This is a very nice site, I **sold my car** in few days!!!  
+Thank You. Steve. 
