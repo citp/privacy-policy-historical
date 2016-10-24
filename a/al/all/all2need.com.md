@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all2need.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101622id_/http%3A//www.all2need.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all2need.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024060227id_/http%3A//www.all2need.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All2Need
 
