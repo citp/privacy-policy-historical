@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasters.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513140857id_/http%3A//webmasters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasters.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025000813id_/http%3A//www.webmasters.com/privacy.htm) for the most accurate reproduction.*
 
 # Webmasters.com ~ Privacy Policy
 
