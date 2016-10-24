@@ -1,97 +1,88 @@
-> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054342id_/https%3A//premium.wpmudev.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmu.org privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024080744id_/http%3A//incsub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WPMU DEV - The WordPress Experts
+# Privacy Policy | WPMU DEV, Edublogs, CampusPress – Incsub
 
-Effective Date: 07/16/2015
+Your privacy is critically important to us. At Incsub we have a few fundamental principles:
 
-This is the Privacy Policy for WPMU DEV
+We don’t ask you for personal information unless we truly need it. (We too don’t like services that ask you for things like your gender or income level for no apparent reason.)
 
-The privacy of our visitors to WPMU DEV is important to us. This privacy policy applies to [https://premium.wpmudev.org](https://premium.wpmudev.org/), owned and operated by WPMU DEV.
+We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
-Here is information on what types of personal information we receive and collect when you use and visit WPMU DEV, and how we safeguard your information. We never sell your personal information to third parties.
+We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
-#### Information Collection and Use
+In our service, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-We collect personal information from you such as your name, email address, billing address, and credit card information. We use this information in order to contact you, create and administer your account, fulfill your order, and answer to your customer service requests.
+Below is our privacy policy which incorporates these goals. This privacy policy covers all Incsub services, including [WPMU DEV](http://wpmudev.com/), [CampusPress](http://campuspress.com/), and [Edublogs](http://edublogs.org/).
 
-#### Information Sharing
+If you have questions about accessing or correcting your personal data please contact our support team.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy.
+It is Incsub’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service or sending email. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+### Website Visitors
 
-We may also disclose your personal information:
+Like most website operators, Incsub collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Incsub’s purpose in collecting non-personally identifying information is to better understand how Incsub’s visitors use its website. From time to time, Incsub may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-  * As required by law, such as to comply with a subpoena, or similar legal process.
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  * If WPMU DEV is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-  * To any other third party with your prior consent to do so.
+Incsub also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Incsub.org blogs. Incsub only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
+### Gathering of Personally-Identifying Information
 
+Certain visitors to Incsub’s websites choose to interact with Incsub in ways that require Incsub to gather personally-identifying information. The amount and type of information that Incsub gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at Edublogs.org to provide a username and in some cases, an email address. WPMU DEV customers are asked to provide a first name, email address, and username. In each case, Incsub collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Incsub. Incsub does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-#### User Access and Choice
+### Aggregated Statistics
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at contact@wpmudev.org.  We will respond to your request to access within 30 days.
+Incsub may collect statistics about the behavior of visitors to its websites. For instance, Incsub may monitor the most popular blogs on the Incsub site or use spam screened by our filters to help identify spam. Incsub may display this information publicly or provide it to others. However, Incsub does not disclose personally-identifying information other than as described below.
 
-We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+### Protection of Certain Personally-Identifying Information
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at contact@wpmudev.org
+Incsub discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Incsub’s behalf or to provide services available at Incsub’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Incsub’s websites, you consent to the transfer of such information to them. Incsub will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Incsub discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Incsub believes in good faith that disclosure is reasonably necessary to protect the property or rights of Incsub, third parties or the public at large. If you are a registered user of an Incsub website and have supplied your email address, Incsub may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Incsub and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Incsub takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-#### Log Files
+We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. We do link this automatically collected data to other information we collect about you.
+Incsub, LLC acknowledges that all individuals (including EU individuals) have the right to access the personal information/data that we maintain about them. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to admin@incsub.com. If requested to remove data, we will respond within a reasonable timeframe, not to exceed one week.
 
-#### Cookies and other Tracking Technologies
+If we ever were to engage in any onward transfers of your data with third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data.
 
-Technologies such as: cookies are used by WPMU DEV and our affiliates, or analytics or service providers. _We use cookies for  our checkout, to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited._
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Incsub, LLC is potentially liable.
 
-Third parties with whom we partner to provide certain features on our site may use LSOs such as HTML 5 or Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here:  
-[**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+### EU-US Privacy Shield
 
-#### DoubleClick DART cookies
+Incsub, LLC complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Incsub, LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.
+In compliance with the EU-US Privacy Shield Principles, Incsub, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Incsub, LLC at:
 
-#### Joining the site and downloading plugins
+admin@incsub.com  
+Incsub,LLC  
+7700 Northcross Dr #10291  
+Austin, TX 78766  
+USA
 
-If you register to join the site in order to upload or download a plugin we will securely store any details that you provide us with in our databases. We will not share this information with any third party. We may from time to time contact you regarding new plugins and/or policy changes at WPMU DEV, this will be done via email and unsubscription information will be provided with each email.
+Incsub, LLC has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
-#### Security
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.  
+Incsub, LLC is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).”
 
-The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+### US-Swiss Safe Harbor Framework
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at contact@wpmudev.org
+Incsub, LLC complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Incsub, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/
 
-#### Links to third party sites
+In compliance with the US-Swiss Safe Harbor Principles, Incsub, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Incsub, LLC at:
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of WPMU DEV. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+admin@incsub.com  
+Incsub,LLC  
+7700 Northcross Dr #10291  
+Austin, TX 78766  
+USA
 
-#### Blog
+Incsub, LLC has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at contact@wpmudev.org_.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+### Cookies
 
-#### Testimonials
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Incsub uses cookies to help Incsub identify and track visitors, their usage of Incsub website, and their website access preferences. Incsub visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Incsub’s websites, with the drawback that certain features of Incsub’s websites may not function properly without the aid of cookies.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at contact@wpmudev.org.
+### Ads
 
-#### Social Media Widgets
+All Incsub properties are 100% advertising free.
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+### Privacy Policy Changes
 
-#### Single Sign-On
-
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-#### Changes to this Policy
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-#### Contact Us
-
-WPMU DEV
-
-150 S Perry St, Montgomery, AL 36104-4227
-
-+1 (205) 383-3775
-
-contact@wpmudev.org
+Although most changes are likely to be minor, Incsub may change its Privacy Policy from time to time, and in Incsub’s sole discretion. Incsub will notify clients by email when making changes.
