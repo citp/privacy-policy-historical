@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315225907id_/https%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025005100id_/https%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
 
 # ixigo.com - Privacy Policy
 
@@ -16,7 +16,7 @@ ixigo uses information we collect to analyze how the Service is used, diagnose s
 
 User-Provided Information
 
-You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. In the future, you may provide us with your mobile phone number. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail).. We may also use your contact information to send you marketing email messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
+You provide us information about yourself, such as your name, mobile number, and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. We may use your email address and mobile number to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). We may also use your contact information to send you marketing email messages and SMSes. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
 
 If you use your Facebook, Twitter, or other social networking site ("SNS") account information to sign in to ixigo, we will collect and store your SNS user ID, and other information that you explicitly allow us to access when using an SNS login.
 
