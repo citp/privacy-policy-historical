@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429014434id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025013412id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connexity
 
-Last modified on: January 22nd 2016
+Last modified on: May 5th 2016
 
 Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint. 
 
