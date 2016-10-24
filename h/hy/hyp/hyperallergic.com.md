@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyperallergic.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324205551id_/http%3A//hyperallergic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperallergic.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024212339id_/http%3A//hyperallergic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Hyperallergic
 
 Hyperallergic Media, Inc (“us”, “we”, or “our”) operates hyperallergic.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
