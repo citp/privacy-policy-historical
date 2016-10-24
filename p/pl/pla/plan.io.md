@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324213050id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024154410id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Planio
 
@@ -28,9 +28,8 @@ This website uses the following analytics, split testing, retargeting and websit
 
   * _Google Analytics_ , a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; [Google Analytics privacy information](http://www.google.com/analytics/learn/privacy.html)
   * _Calq.io_ , a web analytics service provided by Calq.io Limited, 4 Maguire Street, London, SE1 2NQ, UK; [Calq.io privacy policy](https://calq.io/privacy)
-  * _Visual Website Optimizer_ , a split testing service provided by Wingify, 14th Floor, KLJ Tower North, Netaji Subhash Place, Pitam Pura, Delhi 110034, India; [Visual Website Optimizer privacy policy](https://vwo.com/privacy-policy/)
   * _AdRoll_ , a retargeting service provided by Semantic Sugar, Inc., 972 Mission St, 3rd Floor, San Francisco, CA 94103, USA; [Adroll privacy policy](https://www.adroll.com/about/privacy)
-  * _SnapEngage_ , a website chat service provided by SnapEngage, LLC, 1919 14th St., Suite 505, Boulder, CO 80302, USA; [Snapengage privacy policy](http://snapengage.com/privacy-policy/)
+  * _Userlike_ , a website chat service provided by Userlike UG (limited liability), Aachener Straße 55, 50674 Köln, Germany; [Userlike privacy policy](https://www.userlike.com/en/terms)
 
 
 
@@ -39,28 +38,6 @@ These services use ‘cookies’, which are text files placed on your computer, 
 You can learn about the privacy policies and configuration options for protecting your privacy via the abovementioned links.
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. In order to opt out of targeted ads via Adroll, you can visit the [Adroll website](https://www.adroll.com/about/privacy). In order to opt out of split tests via Visual Website Optimizer, you can visit the [Visual Website Optimizer website](https://vwo.com/opt-out/). By using this website, you consent to the processing of data about you by the service providers in the manner and for the purposes set out above.
-
-## Social networks
-
-This website uses the "Like", "Tweet", "+1", or similarly named functions of the following providers of social networking sites:
-
-  * _Facebook Inc._ , 1601 Willow Road, Menlo Park CA 94025, USA; [Facebook Data Use Policy](https://facebook.com/about/privacy/)
-  * _Twitter Inc._ , 1355 Market St, Suite 900, San Francisco, CA 94103, USA; [Twitter Privacy Policy](https://twitter.com/privacy)
-  * _Google Inc._ , 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; [Google+1 Button Privacy Policy](https://www.google.com/intl/en_uk/+/policy/+1button.html)
-
-
-
-(The privacy policies of the respective providers are linked above.)
-
-You can recognize those functions as buttons/links with respective labeling.
-
-When accessing certain pages within our web site that use said functions, your browser establishes a direct encrypted SSL connection to the servers of the abovementioned Providers to download the contents to be displayed (such as the number of "tweets", "likes" and "+1" mentions, as well as the button graphics). Due to the technology and protocols used, your web browser sends by default so-called header information, which can include cookies by said providers. This information as well as your IP address - which is transmitted by your device - could be used by those providers for purposes like associating your visit to our website with your member account on said platforms.
-
-We have no control over the information collected by said providers nor do we actively transmit data relating to your person or your web site visit to the respective providers.
-
-You can learn about the privacy policies and configuration options for protecting your privacy via the abovementioned links.
-
-If you wish to prevent the providers from associating the data, which are transmitted as described above by your browser when visiting our website, with your member account, please log out of those member accounts before visiting our web site or disable the use of so-called third-party cookies in the settings of your browser.
 
 ## Amendments to this policy
 
