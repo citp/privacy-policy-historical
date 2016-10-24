@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the softgarden.io privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531190400id_/http%3A//www.softgarden.io/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softgarden.io privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024185335id_/http%3A//www.softgarden.io/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement by softgarden
 
-Persons responsible for data protection affairs:
+## softgarden Privacy Statement
 
-softgarden e-recruiting GmbH  
-Grülingsstr. 10,  
-66113 Saarbrücken  
-For any related data protection queries please contact us by email at [privacy@softgarden.de](mailto:privacy@softgarden.de)
+Your protection and data confidentiality is of utmost importance to softgarden (“us” “we” “our”). This privacy statement serves to inform you about the private data we collect and exactly how that information is used. softgarden gathers and uses personal information firmly within the provisions of the data protection law of the Federal Republic of Germany. In the following text we will inform you about the specific information, the scope and purpose of the collection and use of personal data by softgarden.
+
+Persons responsible for data protection affairs: 
+
+softgarden e-recruiting GmbH Grülingsstr. 10, 66113 Saarbrücken For any related data protection queries please contact us by email at [privacy@softgarden.de](mailto:privacy@softgarden.de)
 
 The purpose of data protection is to protect personal details (“data”). According to § 3 para 1 BDSG, personal data is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. This information includes, for example, details such as name, postal address, email address or telephone number. Usage data also applies, this is data that is gathered from access to our website which is further explained below.
 
-AUTOMATED DATA COLLECTION  
-For technical reasons, when accessing the softgarden website your internet browser automatically transmits data to us. The following is separated from that data and may be stored: 
+AUTOMATED DATA COLLECTION For technical reasons, when accessing the softgarden website your internet browser automatically transmits data to us. The following is separated from that data and may be stored:
 
   * Date and time of access
   * Browser type / version
@@ -24,8 +24,7 @@ For technical reasons, when accessing the softgarden website your internet brows
 
 This data is stored purely for technical reasons and cannot be linked to any individual person.
 
-MANUALLY ENTERED DATA  
-In order to make full use of softgarden it is necessary to register an account with us. This requires you to enter your name, email address, company name, user name and a password. These details are needed in order to set up and manage an account on our recruiting platform, as well as use the full range of services we provide. Last but not least, softgarden need this information and perhaps additional details in order to effectively respond to requests, questions, criticisms etc.
+MANUALLY ENTERED DATA In order to make full use of softgarden it is necessary to register an account with us. This requires you to enter your name, email address, company name, user name and a password. These details are needed in order to set up and manage an account on our recruiting platform, as well as use the full range of services we provide. Last but not least, softgarden need this information and perhaps additional details in order to effectively respond to requests, questions, criticisms etc.
 
 As part of the further development of our business it may happen that the structure of the Soft Garden GmbH changes. The legal structure may be adapted, subsidiaries, business units or components may be created, bought or sold. In such transactions customer information may be shared with the transmitted part of the company. In the event of a transfer of personal information softgarden will ensure that it is done in accordance to this privacy policy and the relevant data protection laws.
 
@@ -33,11 +32,12 @@ softgarden offers a free newsletter service to informs users about product updat
 
 softgarden stores cookies in order to provide you with comprehensive features and improved ease of use when navigating our website. Cookies are small files that are stored on your computer with the help of your internet browser. If you do not want to enable cookies you can opt against using them by selecting the appropriate settings on your internet browser. Please note that the efficiency and range of our services may be restricted as a result.
 
-Google Analytics  
-softgarden uses Google Analytics, a web analytics tool provided by Google Inc. (“Google”). Google Analytics uses cookies to help us analyse how users use our website. The information generated by your cookies, including your IP address, is transmitted and stored on a server in the USA. Google use this information to evaluate your use of our website and compile reports for our website operators. Google may also transfer this information on to third parties or, if required or approved by law, third parties may process the information on Google’s behalf. You can disable Google Analytics using an add-on to your browser which you can download here: <http://tools.google.com/dlpage/gaoptout?hl=de>.
+Google Analytics softgarden uses Google Analytics, a web analytics tool provided by Google Inc. (“Google”). Google Analytics uses cookies to help us analyse how users use our website. The information generated by your cookies, including your IP address, is transmitted and stored on a server in the USA. Google use this information to evaluate your use of our website and compile reports for our website operators. Google may also transfer this information on to third parties or, if required or approved by law, third parties may process the information on Google’s behalf. You can disable Google Analytics using an add-on to your browser which you can download here: <http://tools.google.com/dlpage/gaoptout?hl=de>.
 
 If data needs to be retained for legal purposes it will be suspended. However, if private data is no longer needed for the aforementioned purposes it will be deleted and no longer available for further use.
 
 Naturally you have the right to receive, upon request, information about the data stored by us about you. You also have the right to correct inaccurate data, to block and delete details. To do so, please contact [support@softgarden.de](mailto:support@softgarden.de) per email or post to the above address. 
 
 softgarden reserves the right to change this privacy policy. Your continued use of our services and website will be deemed your acceptance of the current privacy policy.
+
+Our website uses cookies designed to enhance your experience. Please click 'OK' or continue browsing to accept cookies from softgarden. For more details see our [Privacy Policy](http://www.softgarden.io/company/privacy/), including how to change your cookie settings. OK
