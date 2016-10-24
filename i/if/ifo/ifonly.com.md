@@ -1,93 +1,61 @@
-> *The following text is extracted and transformed from the ifonly.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116112218id_/http%3A//www.luminarylane.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifonly.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024163153id_/https%3A//www.ifonly.com/website/privacy) for the most accurate reproduction.*
 
-# Luminary Lane - Exclusive Experiences from Luminaries You Love
+# IfOnly | Extraordinary Experiences for Good
 
-## Traina Interactive Privacy Policy
+**IfOnly Privacy Policy**
 
-_Last updated June 27, 2012_
+**Last Updated: September 28, 2015**
 
-  * ### Our Privacy Commitment:
+Your privacy is important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services. This Privacy Policy does not apply to any third-party websites, services or applications.  Any information that we collect is subject to the privacy policy in effect at the time that information is collected.  We may, however, modify and revise this Privacy Policy from time to time.  If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when those changes will become effective.  Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
-TRAINA INTERACTIVE, Inc. ("Traina Interactive," "we," "us" or "our") is committed to respecting the privacy rights and concerns of all users of its applications and websites where this Privacy Policy is posted (the "Sites") including LuminaryLane.com (we refer to the sites and the services made available through the Sites, collectively, as the "Programs").
-  * As such, we have established and implemented this Privacy Policy to inform visitors to the Sites and users of the Programs how we use and protect the information we collect through the Sites. By visiting the Sites or using any of the Programs, you consent to Traina Interactive’s collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.
-  * This Privacy Policy is effective as of the date set forth above and is only applicable to the Sites and Programs, and not to any other website that you may be able to access from the Sites which may have its own data collection and use practices and policies.
-  * This policy answers the following questions: 
-    * What information do we collect about you and how do we use it?
-    * Will we share your personal information with third parties?
-    * What choices do you have about the collection and use of your personal information?
-    * What security measures do we take to safeguard your personal information?
-  * ### WHAT INFORMATION DO WE COLLECT ABOUT YOU AND HOW DO WE USE IT?
+**How do we collect and use information?**
 
-### Types of Information We Collect
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are a Member), to provide you with more relevant Experiences recommendations and otherwise improve the Services, and to enable you to easily offer, browse and purchase Experiences. 
 
-Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access certain areas of the Sites, but if you do not want to disclose certain personal information to us, you will not be able to access certain areas of the Sites or aspects of the Programs.
-  * We collect personal information when you create an account through the Programs; participate in sales and/or auctions, polls, surveys, and/or questionnaires; participate in contests, sweepstakes, and/or other promotions.
-  * To create an account for the Programs, we require you to provide your name, date of birth; email address, Twitter screen name and/or Facebook (Fan) Page name and URL, mailing address (if you choose to be paid by check) and phone number.
-  * When you are buying products or services through the Programs, in addition to the information above, we will ask for your billing address, telephone number and credit card or other payment information.
-  * Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, social platform preferences, and other similar information. This demographic information may be associated with your personal information.
-  * ### How We Use Your Personal Information
+Account Information. If you create an Account, we’ll collect certain information that can be used to identify you, such as your name, email address, postal address and phone number (“ **PII** ”). If you create an Account using your login credentials from one of your SNS Accounts, we’ll be able to access and collect your name and email address and other PII that your privacy settings on the SNS Account permit us to access. When you make purchases on our Site, we may store your billing information, purchase history and your credit card information.
 
-The personal information you provide to us will allow us to fulfill your Program sales or purchases; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. We also use your e-mail address to send you messages about the Programs and other general announcements.
-  * We keep track of your interactions with us, including but not limited to your activity within the Programs. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Programs. We may also use your personal information to contact you when necessary.
-  * ### Cookies
+Information Collected Using Log Files, Cookies and other Web Technologies.  Like many website owners, we use automated data collection tools such as Cookies to collect certain information. “ **Cookies** ” are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties. 
 
-"Cookies" are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Sites to allow us to provide information that is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. Should you disable cookies in your browser, you will have to provide your user ID and password each time you log in.
-  * ### Log Information
+Information Related to Use of the Services. Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”), including both Account holders and non-Account holders (either, a “ **User** ”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, search terms, the links on our Services that a User clicked on and other statistics. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences.
 
-Our servers automatically record information that your browser sends whenever you visit the Sites. This information includes your Internet Protocol (IP) address, your browser type and version, the search engine you used to find the Program, if any, the operating system your computer uses, which Programs you use and when and how long you use them. We use this information to monitor and analyze how users use the Programs, to provide customer service and to maintain and improve the Programs.
-  * ### Children’s Privacy
+**What Information Do We Share With Third Parties?**
 
-We do not knowingly collect personal information from children under 13. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
-  * ### WILL WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?
+We will not share any PII that we have collected from you except as described below:
 
-### Sharing of Information
+Information Shared when Using the Services.  There are various ways Members can make their PII publicly available through the Services or ways in which they can supply such information to Traina Interactive and other Members. Proving your PII and any other data through the Services, in connection with Experiences or to Traina Interactive whether you are Member or otherwise, is voluntary and should correlate with the degree of interaction you want to have with other users and Traina Interactive. 
 
-We may use your personal information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non- personal information about customers.
-  * In addition, we will share the personal information we collect from you under the following circumstances:
-  * Protection of rights. We will share personal information if we have a good faith belief that:   
-(i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities,   
-(ii) such action is appropriate to enforce the Terms of Use for the Programs, including any investigation of potential violations thereof,   
-(iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Programs, or   
-(iv) such action is appropriate to protect the rights, property or safety of Traina Interactive, its employees, users of the Programs or others.
-  * Asset transfers. If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Traina Interactive’s assets, user information, including personal information collected from you through your use of the Programs, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Sites.
-  * Service Providers. We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, we may have partnered with other companies to maintain or manage the Programs, fulfilling orders or processing payments. Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
-  * ### Additional Information You Should Know About Third Parties
+When you apply to become a Luminary you will submit certain PII to us to complete your application.  If you are approved and become a Luminary, the PII you provide in your Experience Listing will be publicly available for viewing via the Services.  In connection with fulfilling in-person Experiences, as a Luminary, the contact information you provide for use on the day of the Experience will be shared with the purchasing End User.  As an End User, the PII that is shared with the Luminary depends on the type of Experience and information about you that is necessary to process your request. For example, when you purchase a physical Product your name and billing address, and the name, shipping address and phone number for the recipient of the Product, will be shared with the Luminary; and when you request to schedule an Experience, your name and any other required information indicated in the Experience Listing like the names of any other participants, the location address and other details necessary to schedule the Experience will be shared with the Luminary to process your request.  Luminaries are obligated to use your PII solely to fulfill the Experience and administer your related requests.  Luminaries and End Users also have the opportunity to communicate with each other one-to-one via our Services in connection with the purchase, scheduling and participation in Experiences.
 
-This Privacy Policy does not cover the information practices of third party websites linked to the Sites. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information. You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.
-  * When you have clicked on an advertisement or third party logo displayed on our Sites which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
-  * ### WHAT CHOICES DO YOU HAVE ABOUT THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION?
+Information Shared with Our Services Providers.  We may engage third party service providers to work with us to administer, provide and improve the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.
 
-### Control of Your Information
+Information Shared with Third Parties. We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.
 
-You may delete your account (and thus your personal information) at any time by accessing the "Delete Account" area of the Sites or by emailing us at support@luminarylane.com. Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
-  * ### Opting Out of Receiving Communications from Us
+Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including PII, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your PII may be disclosed or transferred to the third-party acquirer in connection with the transaction.
 
-The only way for you to unsubscribe from receiving all communications from us, including messages relating to your account transactions, is to delete your account.
-  * If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy, you and Traina Interactive will attempt in good faith to directly negotiate a written resolution of the matter. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
-  * ### Dispute Resolution for Residents of the European Union
+Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
-If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction.
-  * ### WHAT SECURITY MEASURES DO WE TAKE TO SAFEGUARD YOUR PERSONAL INFORMATION?
+Information We Disclose With Your Consent or at Your Request. We will share your information when you give us your consent to do so. For example, if you expressly request that we do so, we will share your PII with third-party sites or platforms, such as social networking sites.
 
-The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to Traina Interactive employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Programs. All Traina Interactive personnel who have access to this information are trained in the maintenance and security of such information. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of the Sites or Programs, and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
-  * ### European Commission’s Directive on Data Protection – Safe Harbor
+**The Security of Your Information**
 
-Traina Interactive adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission’s Directive on Data Protection.
-  * ### Notification of Changes
+We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
-This Privacy Policy may change from time to time and we will post all changes on this page.
-  * ### Terms of Use:
+**Links to Other Sites**
 
-Please read the Traina Interactive Terms of Service governing the use of the Site(s) and the IfOnly Features.
-  * ### Questions:
+Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-Please contact us at support@luminarylane.com or (415) 967-0602 M-F 9a - 5p PST.
-  * You can also reach us via mail at Traina Interactive, 150 Green Street, Suite 309, San Francisco, CA 94111 Attn: Customer Service.
+**Modifying Your Information**
 
+You can access and modify the PII associated with your Account by emailing terms@ifonly.com. If you want us to delete your PII and your Account, please contact us at concierge@ifonly.com with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
+**International Transfer**
 
-## Need assistance?
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. 
 
-Call (415) 967-0602
+**Our Policy Toward Children**
 
-or [Email Us > ](mailto:support@luminarylane.com)
+Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
+
+**Questions?**
+
+Please contact us at terms@ifonly.com if you have any questions about our Privacy Policy.
