@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009201053id_/https%3A//www.mindtools.com/policies/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025002839id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.*
 
-# Mind Tools Privacy Policy
+# Terms and Conditions
+
+* * *
 
 Mind Tools Ltd (Company Number 04829074) ("We") are committed to protecting and respecting your privacy.
 
@@ -16,7 +18,7 @@ We may collect and process the following data about you:
 
 **Information we collect about you.** With regard to each of your visits to our Website, we may automatically collect the following information:
 
-  * Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform.
+  * Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform. 
   * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website (including date and time); products or services you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call our customer service number. 
 
 
@@ -32,17 +34,17 @@ We use information held about you in the following ways:
 **Information you give to us.** We will use this information:
 
   * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
-  * To provide you with information about other products and services we offer that are similar to those that you have already purchased or enquired about, or that you may be interested in.
-  * If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, please notify us by e-mail or post.
+  * To provide you with information about other products and services we offer that are similar to those that you have already purchased or enquired about, or that you may be interested in. 
+  * If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, please notify us by e-mail or post. 
   * To notify you about changes to our service.
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
 
 
 **Information we collect about you.** We will use this information:
 
   * To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
-  * To improve our site to ensure that content is presented in the most effective manner for you and for your computer. 
+  * To improve our site to ensure that content is presented in the most effective manner for you and for your computer.
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * As part of our efforts to keep our site safe and secure.
   * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
@@ -57,7 +59,7 @@ The data you enter is needed to provide a good service to you on the Mind Tools 
 In rare cases, we may also disclose personal information to third parties:
 
   * If Mind Tools Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or to protect the rights, property, or safety of Mind Tools Ltd, our customers, or others.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or to protect the rights, property, or safety of Mind Tools Ltd, our customers, or others. 
 
 
 
