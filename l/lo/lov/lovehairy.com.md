@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehairy.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509022632id_/http%3A//www.lovehairy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehairy.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024023013id_/http%3A//www.lovehairy.com/privacy) for the most accurate reproduction.*
 
 # Love Hairy - Privacy
 
