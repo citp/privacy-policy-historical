@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510133502id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024105416id_/http%3A//www2.experient-inc.com/Privacy) for the most accurate reproduction.*
 
-# Experient: Privacy Policy
+# Privacy
+
+## Privacy Policy Statement:   
+Our Commitment to You
 
 ### This is the Web site of Experient 2500 Enterprise Parkway East, Twinsburg, OH 44087
 
-We are committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. 
+We are committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
-### Information Collection and Use 
+### Information Collection and Use
 
 There are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address.
 
@@ -20,7 +23,7 @@ For each visitor to the Knowledge Center portion of our Web site, our Web server
 
 ### Policy Changes
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclose in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclose in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.
 
 ### Contact Us
 
