@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatasstic.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814040800id_/http%3A//www.fatasstic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatasstic.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024115549id_/http%3A//www.fatasstic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
