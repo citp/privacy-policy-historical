@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cavsnation.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414032406id_/http%3A//cavsnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavsnation.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024204615id_/http%3A//cavsnation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cavs Nation
+# Privacy Policy - Cavs Nation
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services  that are operated by, controlled by or are affiliate with CavsNation.com, (collectively, “we,” “us” or “our”).
 
