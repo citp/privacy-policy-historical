@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erobertparker.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607181318id_/https%3A//www.erobertparker.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erobertparker.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024134822id_/https%3A//www.erobertparker.com/info/privacy.asp) for the most accurate reproduction.*
 
 # eRobertParker.com: Privacy
 
