@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrightwheel.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620222818id_/http%3A//mybrightwheel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrightwheel.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024041143id_/http%3A//mybrightwheel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - brightwheel
 
