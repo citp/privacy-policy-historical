@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stackdriver.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309180326id_/http%3A//www.stackdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackdriver.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024144442id_/https%3A//www.stackdriver.com/privacy) for the most accurate reproduction.*
 
 # Stackdriver Privacy Policy
-
-## PRIVACY POLICY
 
 Your privacy is important to Stackdriver Inc. (“Stackdriver’) so we’ve implemented practices and take precautions on how we collect, use and disclose your information. Please take a moment to familiarize yourself with this Privacy Policy and [let us know](mailto:inquiry@stackdriver.com) if you have any questions.  This Privacy Policy is incorporated into the Stackdriver Terms of Service located at [www.stackdriver.com/tos/](http://www.stackdriver.com/tos/).
 
@@ -48,10 +46,18 @@ Stackdriver websites, products, applications, and services may contain links to 
 
 By submitting or making available P&T Information through use of our products and services or access to our website, you agree to our use, processing and sharing of P&T Information in accordance with the terms of this Privacy Policy. Please note that for our customers outside of the United States that your Personal Information may be used, processed and/or shared in the United States, where the laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
+### COMPLIANCE AND COOPERATION WITH REGULATORY AUTHORITIES:
+
+We regularly review our compliance with our Privacy Policy. We also comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Stackdriver, as a wholly-owned US subsidiary of Google Inc., has certified that it adheres to the Privacy Shield Principles. Stackdriver remains responsible for any of your personal information that is shared under the Onward Transfer Principle with third parties for external processing on our behalf, as described in the “Disclosure of Information by Stackdriver to Third Parties” section. To learn more about the EU-US Privacy Shield program, and to view Google’s certification, please visit the [Privacy Shield website](https://www.privacyshield.gov/welcome).
+
 ### PRIVACY QUESTIONS:
 
-If you have any questions or concerns about Stackdriver’s Privacy Policy, please contact us at [inquiry@stackdriver.com](mailto:inquiry@stackdriver.com).
+If you have any questions or concerns about Stackdriver’s Privacy Policy, including our Privacy Shield certification, please contact us at [inquiry@stackdriver.com](mailto:inquiry@stackdriver.com). Stackdriver is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). You may also refer a Privacy Shield complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
-Stackdriver may update its Privacy Policy from time to time. If we change this Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy at [www.stackdriver.com/privacy/](http://www.stackdriver.com/privacy/).
+We also comply with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from Switzerland. Stackdriver, as a wholly-owned US subsidiary of Google Inc., has certified that it adheres to the Safe Harbor Privacy Principles and also applies the EU-US Privacy Shield Principles to personal information from Switzerland. To learn more about the Safe Harbor program, and to view Google’s certification, please visit the Safe Harbor website.
+
+We may update our Privacy Policy from time to time. If we change this Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy at [www.stackdriver.com/privacy/](http://www.stackdriver.com/privacy/).
 
 Stackdriver Inc., 77 Summer Street, 7th Floor, Boston, Massachusetts, 02110
+
+Last Updated: 9/19/2016
