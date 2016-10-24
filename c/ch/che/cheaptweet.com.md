@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaptweet.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416235800id_/https%3A//givingassistant.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptweet.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024184151id_/https%3A//givingassistant.org/privacy-policy) for the most accurate reproduction.*
 
 # Giving Assistant - Privacy Policy
 
