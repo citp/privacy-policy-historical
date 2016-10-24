@@ -1,82 +1,85 @@
-> *The following text is extracted and transformed from the getyourguide.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127000714id_/http%3A//www.getyourguide.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourguide.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024170754id_/https%3A//www.getyourguide.com/privacy_policy) for the most accurate reproduction.*
 
 # GetYourGuide Privacy
 
-_Last updated: August 16th, 2013_
+Like every service operator, we also capture, process and use data as part of our service of offering tourist services online via the internet and mobile applications (the **“Service”** ). The protection of your personal data as a part of all the services we provide is very important to us. Therefore we gather, pro-cess and use your personal data exclusively in accordance with the applicable legal regulations. 
 
-**Navigation:**
+In this privacy statement we explain how we handle your personal data as part of your use of our web-site.
 
-1\. Scope and amendments
+The party responsible for data protection is GetYourGuide Deutschland GmbH, Erich-Weinert-Strasse 145C, 10409 Berlin, Germany ( **“GetYourGuide”** or **“we”** ) as well as those companies affiliated with GetYourGuide, to whom you have given the appropriate consent for the use of your personal data.
 
-This policy (" **Privacy Policy** ") sets out how we process personal information that you share with us or that we may collect when you browse the Website. Capitalized terms in this Privacy Policy have the meanings defined in the [Terms of Use](https://web.archive.org/terms_of_use.html).
+We reserve the right to adjust the content of this privacy statement from time to time. It is therefore ad-visable to periodically review this privacy statement.
 
-This Privacy Policy applies to any use of the Website. We may amend this Privacy Policy at any time and effective immediately, with effect for the future. If we make amendments, they apply as of the date of their publication on the Website. We expect you to regularly refer to this section to make sure you are familiar with the applicable Privacy Policy. 
+  1. **General Information**
 
-Back to top
+We commit ourselves to observe the applicable data protection laws, in particular, the provisions of the German Federal Data Protection Act (BDSG) and the German Telemedia Act (TMG).
 
-2\. Information used for statistical and similar purposes
+We collect, process and use your personal data only with your consent or when this processing or use is permissible by law. We only process or use the data which is required for using the site or the data which you provide to us.
 
-When you use the Site, we collect certain data (including your IP address, browser type and operating system, the number of sites you visit, the duration of your visits, if you are a returning visitor or not, from where you came to the Site, and other similar information). We use this information for statistical purposes, to improve your experience on the Site, to make it easier to use, to better tailor it to your interests and needs, or to speed up your future activities and experience on the Site. We use this information anonymously and in the aggregate.
+  2. **Personal Data**
 
-If you transfer additional information to us, for example when you carry out booking queries or fill data into forms, we may evaluate such information anonymously and in the aggregate for statistical purposes, even without prior registration and even if no booking takes place. 
+Personal data is specific information about personal or factual circumstances regarding an identified or identifiable natural person, in accordance with Section 3 paragraph 1 of the German Federal Data Protec-tion Act (BDSG). This includes information such as your name, your address and email address or your phone number.
 
-Back to top
+  3. **Processing and Using Your Data**
+    1. We collect, process and use the personal data you provided to us when you registered for our membership area, to the extent required, for the following purposes: 
+      * **Registration and Execution of the Contract**
+        * Data that you provide when setting up an account, such as your name, email address, telephone number, mobile phone number, postal address and the information provided depending on the services used.
+        * We collect, process and use transaction data relating to your activities on the websites (such as purchases and content which you generate or associate with your account).
+        * Billing and other data which you specify for the purchase. 
+        * Data which is transmitted as part of community discussions, reviews, chats and corre-spondence on the website or by email, fax or postal mail.
+        * Other personal data which we ask you for.
+        * If you voluntarily provide us with additional personal data during the registration pro-cess, this will also be used these to implement the conditions of use. All personal data collected during registration will be stored by us for as long as the user’s registration is active. This is subject to our [General Terms and Conditions](https://web.archive.org/terms_of_use.php).
+      * **Establishing Contact:**
 
-3\. Account information and bookings
+If the user shares personal data for the purpose of establishing contact, we will store this data only for as long as it is required for the purpose of communication, customer contact and pro-ject planning and implementation. Once the personal data is no longer required by us for these purposes, it will be immediately deleted.
 
-When you register an account with us, you will transfer personal information to us, such as your name, address, date of birth, phone number and e-mail address, and information relating to booked activities. By registering your account, you provide consent for us to send you messages and documents through electronic means. By registering an account with us, you also permit us to send you our regular newsletters and updates about specials and other announcements. You can at any time unsubscribe from receiving such messages through an included link. When you book an activity, personal information will be transmitted to the relevant supplier, who may be located abroad including in countries without an adequate level of data protection. When you book an activity you also permit the relevant supplier to send you related information. For details, please see our [General Terms of Business](https://web.archive.org/terms_of_business.html). When you pay for booked activities using a credit card, the payment will be processed by a payment solution provider we select in our sole discretion, currently Adyen ([https://www.adyen.com/home/](http://www.concardis.com/)). We do not store credit card information. 
+    2. Additionally, we collect anonymous technical data, such as the name of your internet service pro-vider, internet browser and operating system, screen resolution and information about the web-sites that directed you to us, the number and date of your visits, your average time on our site and which of our websites you visited. This data is stored automatically. The evaluation is done anonymously and exclusively for statistical purposes with the goal of continuing to improve our web presence for you.
+  4. **Transfer of Personal Data**
 
-Back to top
+GetYourGuide will not share your personal data with third parties, unless you have previously giv-en your express permission or unless the transmission is required or permissible by law. We will in particular not sell or otherwise market your data to third parties. Transfers of data to government institutions and authorities is done only within the scope of mandatory national legal requirements. Our employees and partners are obligated by us to maintain secrecy and to comply with legal da-ta protection regulations.
 
-4\. Sharing information with third parties
+  5. **Cookies and Google Analytics**
+    1. We use cookies in order to recognize you as a user during the use of the service and to store technical data for the correct functioning of the website on your computer. A cookie is a text file that is stored on your computer and which allows an analysis of your use of the website. With this cookie, we store only each random session and the serial number of your visit.
+    2. If you do not wish to use cookies, you can block their use in your browser. However, as a result of blocking cookies, it is possible that you may be unable to use certain areas of our website.
+    3. GetYourGuide uses Google Analytics, a web analytics service of Google Inc. ( **“Google”** ). Google Analytics also uses cookies (see paragraph 5.1). The information generated by cookies about your use of the website is usually transferred to a Google service in the United States and stored there. In case IP anonymization is activated on this website, Google will truncate your IP address within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be first transferred to a Google server in the United States and truncated there. Google will use this information on the behalf of GetYourGuide as the operator of this website for the purpose of evaluating your use of our website, to compile reports for GetYourGuide on website activities and for providing other services related to website use and internet use. The IP address that your browser sends as part of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however we would like to point out that if you do this, you may not be able to fully use all the functions of our website. You can also prevent the data generated by the cookie about your use of our website (including your IP address) from being sent to Google and the data from being processing by Google, by downloading and installing the browser plugin available at the following link: <http://tools.google.com/dlpage/gaoptout?hl=en.>
+    4. GetYourGuide uses the Google service **Google Maps** ( **“Google Maps API”** ) which provides you with more information. Certain data may be transmitted to Google when it is being used, but this is done anonymously.
+  6. **Use of Data for Marketing Purposes / Consent**
+    1. Based on your declaration of consent, GetYourGuide processes and uses your personal data when applicable for marketing activities, such as for sending emails with general information or advertising information (newsletters).
+    2. We wish to obtain the following declaration of consent from you: 
 
-We and suppliers of booked activities may be obliged to pass on or make certain information available to authorities. Some data is also transmitted to Google, as set out in section 7 and 8. In case of payments carried out through the Website, relevant information will be passed on to our external payment provider (see section 3). When you permit us to send you newsletters and updates (see section 3), the required data will be hosted by an external e-mail marketing service provider. Moreover, we may pass on information to authorities, officials and other third parties if we are required to do so by law, and for legitimate business reasons. 
+_I agree that every week, GetYourGuide will send me exciting travel tips, city guides and top offers by email. You may revoke this consent with GetYourGuide at any time without observing any form (for example, by telephone or by email)._
 
-Back to top
+    3. You can revoke your declarations of consent with us with future effect at any time. Additionally, if we use your personal information as permissible by law, for example for marketing activities by mail, you may object to this use. 
 
-5\. Storage time
+All that is necessary in both cases is to send an email to the following address: [info@getyourguide.com](mailto:info@getyourguide.com)
 
-We store personal information for as long as reasonably required for its purpose. Account information is deleted when you or when we delete your account. We may store information longer for legitimate business reasons (for example, personal information may remain in backups for a reasonable period of time), or as legally required. 
+  7. **About Data Collected From Mobile Applications or Devices**
+    1. When you download data, use our mobile applications or access one of our webpages optimized for mobile devices, we may, as described above in this declaration, collect information about you and your mobile device. This many include data about your location. We use this information to provide location-based services such as search results and other personalized content for you, if approved by you and your device. On most mobile devices, you can control or disable location services in the settings menu. If you have questions about how to disable location services on your device, we recommend that you contact your mobile service provider or the manufacturer of your device.
+    2. If we collect additional personal data which is transmitted as a result of your use of our mobile applications or your accessing our website with a mobile device, we will obtain your express con-sent in advance.
+  8. **Data Collected From Other Sources**
 
-Back to top
+We may collect additional information about you from third parties in order to supplement our ac-count information. This information may be, among other things, demographic and navigation da-ta, credit check information and information from credit reporting agencies, to the extent legally permissible.
 
-6\. Cookies
+  9. **Data Storage**
 
-Like most internet service providers, we use what is known as browser cookies to simplify the use of the Website and obtain information that can help us to improve the information and services made available through the Website. Cookies are small text files that your browser stores on your device (for example your computer). We use cookies to make the Website easy to use and to better tailor the Website and our products to your interests and needs. Cookies may also be used to help speed up your future activities and experience on the Website. We also use cookies to compile anonymous, aggregated statistics that allow us to understand how people use our Website and to help us improve their structure and content. One of the cookies we use has already been set. This site does not work without cookies. By using the Website, you agree to the use of cookies for this purpose. You can decide for yourself if our Website's server is allowed to save cookies on your device or not. You can opt to change your web browser settings so that your browser does not allow cookies to be accepted or saved at any time. Alternatively, you can opt to be shown a warning message every time before you accept cookies or you can set your browser up in such a way that it only accepts cookies from certain websites. You can also delete cookies that have already been saved at any time. This can be done through the settings of your web browser, and by deleting all cookies. To find how to manage and delete cookies, please visit the UK Information Commissioner’s Office website ([www.ico.gov.uk](http://www.ico.gov.uk/)). However, if you decline cookies on the Website, some functions on the Website may be limited or unavailable. As a result, to make it easier to use the Website, we recommend that your browser settings accept cookies on the Website. 
+Your personal data will be stored for only as long as necessary for the purposes stated in this privacy statement or for as long as we are required by law or legally obligated to store this infor-mation.
 
-Back to top
+  10. **Right of Access, Rectification, Deletion**
 
-7\. GetYourGuide Apps
+You have the right at any time to receive information free of charge about your personal data stored with us. If your data is stored incorrectly or wrongly by us, we will gladly correct, block or delete it. Please inform us of any changes to your data immediately.
 
-If you download and install a GetYourGuide App, all data that you transfer to Apple Inc., iTunes Store, Google Inc. or any other app provider, as applicable (together "App Provider"), will be collected, stored and otherwise processed by the App Providers according to their privacy term. App Provider provide their services independently from us. 
+Please direct requests for information, questions, complaints or suggestions to the following ad-dress:
 
-Back to top
+**GetYourGuide GmbH  
+Erich-Weinert-Strasse 145C   
+10409 Berlin   
+Germany **
 
-8\. Google Analytics
+**Tel: + 49 30 544 459 44**
 
-The Website uses Google Analytics, a web analytics service provided by Google, Inc. (“ **Google** ”). Google Analytics uses cookies (see above), to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. You may refuse the use of cookies (see above). You can also opt out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <http://tools.google.com/dlpage/gaoptout>
 
-Back to top
 
-9\. Google Maps API
 
-We use Google Maps on the Website through an interface provided by Google (" **Google Maps API** ") to provide you with additional information. Through the Google Maps API, certain data can be transmitted to Google, but only in an anonymous form 
+**Or via email:[info@getyourguide.com](mailto:info@getyourguide.com)**
 
-Back to top
-
-10\. Other locally stored information
-
-When you browse the Website, information may be stored on your device (locally) through the "DOM Storage" process. DOM storage is used for storing data in a web browser, similar to cookies (see below), but with enhanced capacity. Locally stored information does not permit us to identify you, but the DOM storage process records information on how you browse the Website on your computer (the pages you have viewed, date and time of viewing, etc.) that we can read during your subsequent visits. You can delete that information manually. Please consult the user help section of your web browser. 
-
-Back to top
-
-11\. Data transfer through the internet
-
-Data transmitted through an open network such as the internet or an email service can be accessed openly. We cannot guarantee the confidentiality of messages or materials sent through such open networks. When you share personal information through an open network, you should consider the fact that third parties may access this information and collect and use it for their purposes. Even where the sender and the recipient are in the same country, data may be routed through third countries including countries that do not have an adequate level of protection. Please use other means of communication where you consider this appropriate for security concerns. 
-
-Back to top
-
-GetYourGuide GmbH  
-Erich-Weinert-Straße 145C  
-10409 Berlin  
-Germany
+Berlin, September 2015
