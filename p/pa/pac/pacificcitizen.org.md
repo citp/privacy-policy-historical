@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacificcitizen.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623011012id_/http%3A//www.pacificcitizen.org/faqs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacificcitizen.org privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024072159id_/http%3A//www.pacificcitizen.org/faqs) for the most accurate reproduction.*
 
 # Privacy Policy | Pacific Citizen | The National Newspaper of the JACL
 
