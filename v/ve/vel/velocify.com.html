@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the velocify.com privacy policy that was archived on 2016-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527021307id_/http%3A//velocify.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the velocify.com privacy policy that was archived on 2016-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161024110512id_/http%3A//velocify.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head>
 	
@@ -14,14 +14,14 @@
 <link rel="pingback" href="http://velocify.com/xmlrpc.php">
 
 <!--[if lt IE 9]>
-<script src="http://velocify.com/wp-content/themes/hostmev2/js/html5.js" type="text/javascript"></script>
+<script src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/html5.js" type="text/javascript"></script>
 <![endif]-->
 
 	<link rel="shortcut icon" href="http://velocify1.wpengine.com/wp-content/uploads/2015/04/velocify.ico" type="image/x-icon"> 
 
 <!-- iscat !613  -->
 <!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
-<script type="text/javascript">
+<script data-cfasync="false" type="text/javascript">
 	var gtm4wp_datalayer_name = "dataLayer";
 	var dataLayer = dataLayer || []
 
@@ -32,7 +32,7 @@
 	var gtm4wp_scrollerscript_scannertime       = 60;
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi -->
-<!-- This site is optimized with the Yoast SEO Premium plugin v3.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://velocify.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -44,11 +44,15 @@
 <meta property="DC.date.issued" content="2013-05-27T08:55:59-07:00">
 <!-- / Yoast SEO Premium plugin. -->
 
+<link rel="dns-prefetch" href="//player.vimeo.com">
+<link rel="dns-prefetch" href="//netdna.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Velocify: High Performance Sales » Feed" href="http://feeds.feedburner.com/AppThemes/">
 <link rel="alternate" type="application/rss+xml" title="Velocify: High Performance Sales » Comments Feed" href="http://velocify.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Velocify: High Performance Sales » Privacy Comments Feed" href="http://velocify.com/privacy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/velocify.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/velocify.com\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/velocify.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/velocify.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -65,7 +69,7 @@
 		var canvas = document.createElement( 'canvas' ),
 			context = canvas.getContext && canvas.getContext( '2d' ),
 			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -91,7 +95,29 @@
 				 * to a larger image (4-5KB data URL).
 				 */
 				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
 			case 'diversity':
 				/*
 				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
@@ -124,6 +150,13 @@
 				 */
 				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
 				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 
 		return false;
@@ -137,7 +170,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
 
 	settings.supports = {
 		everything: true,
@@ -189,7 +222,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://velocify.com/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://velocify.com/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
+		</script><script src="http://velocify.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://velocify.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -204,53 +237,52 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="popup-maker-site-css" href="http://velocify.com/wp-content/plugins/popup-maker/assets/css/site.css?ver=1.4.9" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="http://velocify.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/popup-maker/assets/css/site.css?ver=1.4.9" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5.2" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 .julias_class{color:#ffffff !important;font-size:18px;line-height:22px;font-weight:700;font-family:proxima_nova_ltlight}.julias_class:hover{color:#009add !important;font-size:18px;line-height:22px;font-weight:700;font-family:proxima_nova_ltlight}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#fff}.bqstart{float:left;   height:45px;   margin-top:-20px;   padding-top:45px;   margin-bottom:-50px;   font-size:700%;   color:#002b68}.bqend{float:right;   height:25px;   margin-top:0px;   padding-top:45px;   font-size:700%;   color:#002b68}.vlfylightblue{color:#009add}.vlfylightblue:hover{color:#ffffff}.vlfyblue{color:#4a7fbf}.vlfydarkblue{color:#004a97}.diqtabs:hover{color:#ffb546}.diqtabs:active{color:#ff0000}.diqtabtitle{color:#ffffff}.diqtabtitle:active{color:#009add}.tp-button.orange{background-color:#ef7521;  color:#ffb547 !important; -webkit-box-shadow:0px 0px 0px 0px #a34c00;  -moz-box-shadow:0px 0px 0px 0px #a34c00;   box-shadow:0px 0px 0px 0px #a34c00}.tp-button{padding:5px 13px 5px; border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px; height:35px; cursor:pointer; color:#fff !important; text-shadow:0px 0px 0px rgba(0,0,0,0.6) !important; font-size:15px; font-weight:semibold; line-height:45px !important; background:#ef7521; letter-spacing:-1px; text-decoration:none}.tp-button:hover.orange,{padding:5px 13px 5px; border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px; height:35px; font-weight:semibold; cursor:pointer; color:#fff !important; text-shadow:0px 0px 0px rgba(0,0,0,0.6) !important; font-size:15px; line-height:45px !important; background:#ffb547; letter-spacing:-1px; text-decoration:none}
 </style>
-<link rel="stylesheet" id="bootstrap-css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="hostmev2-style-css" href="http://velocify.com/wp-content/themes/hostmev2-child/style.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="iva-animate-css" href="http://velocify.com/wp-content/themes/hostmev2/css/animate.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="iva-prettyphoto-css" href="http://velocify.com/wp-content/themes/hostmev2/css/prettyPhoto.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="iva-shortcodes-css" href="http://velocify.com/wp-content/themes/hostmev2/css/shortcodes.css?ver=2.0" type="text/css" media="all">
-<link rel="stylesheet" id="iva-fortawesome-css" href="http://velocify.com/wp-content/themes/hostmev2/css/fortawesome/font-awesome.css?ver=2.0" type="text/css" media="all">
-<link rel="stylesheet" id="iva-fontawesome-css" href="http://velocify.com/wp-content/themes/hostmev2/css/fontawesome/css/font-awesome.css?ver=4.0" type="text/css" media="all">
-<link rel="stylesheet" id="iva-jplayer.blue.monday-css" href="http://velocify.com/wp-content/themes/hostmev2/css/blue.monday/jplayer.blue.monday.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="iva-datepicker-css" href="http://velocify.com/wp-content/themes/hostmev2/framework/admin/css/datepicker.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="iva-flexslider-css" href="http://velocify.com/wp-content/themes/hostmev2/css/flexslider.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="iva-responsive-css" href="http://velocify.com/wp-content/themes/hostmev2/css/responsive.css?ver=all" type="text/css" media="all">
-<link rel="stylesheet" id="atp-style-css" href="http://velocify.com/wp-content/themes/hostmev2/colors/light.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="iva-owl-style-css" href="http://velocify.com/wp-content/themes/hostmev2/css/owl.carousel.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="iva-owl-theme-css" href="http://velocify.com/wp-content/themes/hostmev2/css/owl.theme.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="wptoolset-field-datepicker-css" href="http://velocify.com/wp-content/plugins/types/library/toolset/toolset-common//toolset-forms/css/wpt-jquery-ui/jquery-ui-1.11.4.custom.css?ver=1.11.4" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelement-css" href="http://velocify.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.18.1" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="http://velocify.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="views-pagination-style-css" href="http://velocify.com/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=2.0" type="text/css" media="all">
-<link rel="stylesheet" id="style_provide-css" href="http://velocify.com/wp-content/plugins/provide-support-live-chat/etc/css/f7style.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="hostmev2-style-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2-child/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-animate-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/animate.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-prettyphoto-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/prettyPhoto.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-shortcodes-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/shortcodes.css?ver=2.0" type="text/css" media="all">
+<link rel="stylesheet" id="iva-fortawesome-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/fortawesome/font-awesome.css?ver=2.0" type="text/css" media="all">
+<link rel="stylesheet" id="iva-fontawesome-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/fontawesome/css/font-awesome.css?ver=4.0" type="text/css" media="all">
+<link rel="stylesheet" id="iva-jplayer.blue.monday-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/blue.monday/jplayer.blue.monday.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-datepicker-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/framework/admin/css/datepicker.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-flexslider-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/flexslider.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-responsive-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/responsive.css?ver=all" type="text/css" media="all">
+<link rel="stylesheet" id="atp-style-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/colors/light.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-owl-style-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/owl.carousel.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="iva-owl-theme-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/css/owl.theme.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="wptoolset-field-datepicker-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/types/library/toolset/toolset-common//toolset-forms/css/wpt-jquery-ui/jquery-ui-1.11.4.custom.css?ver=1.11.4" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="views-pagination-style-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination.css?ver=2.0" type="text/css" media="all">
+<link rel="stylesheet" id="style_provide-css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/provide-support-live-chat/etc/css/f7style.css?ver=4.6.1" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var atp_panel = {"SiteUrl":"http:\/\/velocify.com\/wp-content\/themes\/hostmev2-child"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-social-tracker.js?ver=1.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/duracelltomi-google-tag-manager/js/froogaloop.js?ver=2.0"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-vimeo.js?ver=1.0"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2-child/js/functions.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2-child/js/velocify-pages.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2-child/price.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.2"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.2"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.4"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-social-tracker.js?ver=1.4"></script>
+<script type="text/javascript" src="https://player.vimeo.com/api/player.js?ver=1.0"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-vimeo.js?ver=1.4"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.4"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2-child/js/functions.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2-child/js/velocify-pages.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var f7php = {"code":"<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->\n<div id=\"ciYhGM\" style=\"z-index:100;position:absolute\"><\/div><div id=\"scYhGM\" style=\"display:inline;position:fixed;z-index:9999;right:0%;bottom:50%;\"><\/div><div id=\"sdYhGM\" style=\"display:none\"><\/div><script type=\"text\/javascript\">var seYhGM=document.createElement(\"script\");seYhGM.type=\"text\/javascript\";var seYhGMs=(location.protocol.indexOf(\"https\")==0?\"https\":\"http\")+\":\/\/image.providesupport.com\/js\/02sowuea44j681a2llmlnty1o9\/safe-standard.js?ps_h=YhGM&ps_t=\"+new Date().getTime()+\"&online-image=http:\/\/velocify1.wpengine.com\/wp-content\/uploads\/2014\/12\/chat-now-horz-orange.gif&offline-image=http:\/\/velocify1.wpengine.com\/wp-content\/uploads\/2014\/12\/chat-now-horz-orange.gif\";setTimeout(\"seYhGM.src=seYhGMs;document.getElementById('sdYhGM').appendChild(seYhGM)\",1)<\/script><noscript><div style=\"display:inline\"><a href=\"http:\/\/www.providesupport.com?messenger=02sowuea44j681a2llmlnty1o9\">Customer Service<\/a><\/div><\/noscript>\n<!-- END ProvideSupport.com Graphics Chat Button Code -->","hiddencode":"<!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->\n<div id=\"ciHVOp\" style=\"z-index:100;position:absolute\"><\/div><div id=\"sdHVOp\" style=\"display:none\"><\/div><script type=\"text\/javascript\">var seHVOp=document.createElement(\"script\");seHVOp.type=\"text\/javascript\";var seHVOps=(location.protocol.indexOf(\"https\")==0?\"https\":\"http\")+\":\/\/image.providesupport.com\/js\/02sowuea44j681a2llmlnty1o9\/safe-monitor.js?ps_h=HVOp&ps_t=\"+new Date().getTime();setTimeout(\"seHVOp.src=seHVOps;document.getElementById('sdHVOp').appendChild(seHVOp)\",1)<\/script><noscript><div style=\"display:inline\"><a href=\"http:\/\/www.providesupport.com?monitor=02sowuea44j681a2llmlnty1o9\">Customer Service<\/a><\/div><\/noscript>\n<!-- END ProvideSupport.com Visitor Monitoring Code -->","settings":{"pluginEnabled":true,"buttonImageType":"graphic","buttonImageSource":"custom","buttonImageUrlOnline":"http:\/\/velocify1.wpengine.com\/wp-content\/uploads\/2014\/12\/chat-now-horz-orange.gif","buttonImageUrlOffline":"http:\/\/velocify1.wpengine.com\/wp-content\/uploads\/2014\/12\/chat-now-horz-orange.gif","buttonImageTextOnline":false,"buttonImageTextOffline":false,"buttonLocation":"fixed","buttonLocationVerticalBy":"%","buttonLocationVerticalValue":"50","buttonLocationVerticalFrom":"bottom","buttonLocationHorizontalBy":"%","buttonLocationHorizontalValue":"0","buttonLocationHorizontalFrom":"right","buttonAvailableMain":true,"buttonAvailablePages":true,"buttonAvailablePagesWhich":"all","buttonAvailablePagesList":[],"buttonAvailablePosts":true,"buttonAvailableOther":true,"buttonAvailableWhole":false},"url":"velocify.com\/privacy\/","single":"","page":"1","frontpage":"","pageid":"162","other":"0","posttype":"page"};
+var f7php = {"code":"<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->\n<div id=\"ciCArM\" style=\"z-index:100;position:absolute\"><\/div><div id=\"scCArM\" style=\"display:inline;position:fixed;z-index:9999;right:0%;bottom:50%;\"><\/div><div id=\"sdCArM\" style=\"display:none\"><\/div><script type=\"text\/javascript\">var seCArM=document.createElement(\"script\");seCArM.type=\"text\/javascript\";var seCArMs=(location.protocol.indexOf(\"https\")==0?\"https\":\"http\")+\":\/\/image.providesupport.com\/js\/02sowuea44j681a2llmlnty1o9\/safe-standard.js?ps_h=CArM&ps_t=\"+new Date().getTime();setTimeout(\"seCArM.src=seCArMs;document.getElementById('sdCArM').appendChild(seCArM)\",1)<\/script><noscript><div style=\"display:inline\"><a href=\"http:\/\/www.providesupport.com?messenger=02sowuea44j681a2llmlnty1o9\">Customer Service<\/a><\/div><\/noscript>\n<!-- END ProvideSupport.com Graphics Chat Button Code -->","hiddencode":"<!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->\n<div id=\"ciCArM\" style=\"z-index:100;position:absolute\"><\/div><div id=\"sdCArM\" style=\"display:none\"><\/div><script type=\"text\/javascript\">var seCArM=document.createElement(\"script\");seCArM.type=\"text\/javascript\";var seCArMs=(location.protocol.indexOf(\"https\")==0?\"https\":\"http\")+\":\/\/image.providesupport.com\/js\/02sowuea44j681a2llmlnty1o9\/safe-monitor.js?ps_h=CArM&ps_t=\"+new Date().getTime();setTimeout(\"seCArM.src=seCArMs;document.getElementById('sdCArM').appendChild(seCArM)\",1)<\/script><noscript><div style=\"display:inline\"><a href=\"http:\/\/www.providesupport.com?monitor=02sowuea44j681a2llmlnty1o9\">Customer Service<\/a><\/div><\/noscript>\n<!-- END ProvideSupport.com Visitor Monitoring Code -->","settings":{"pluginEnabled":true,"buttonImageType":"graphic","buttonImageSource":"account","buttonImageUrlOnline":false,"buttonImageUrlOffline":false,"buttonImageTextOnline":false,"buttonImageTextOffline":false,"buttonLocation":"fixed","buttonLocationVerticalBy":"%","buttonLocationVerticalValue":"50","buttonLocationVerticalFrom":"bottom","buttonLocationHorizontalBy":"%","buttonLocationHorizontalValue":"0","buttonLocationHorizontalFrom":"right","buttonAvailableMain":true,"buttonAvailablePages":true,"buttonAvailablePagesWhich":"all","buttonAvailablePagesList":[],"buttonAvailablePosts":true,"buttonAvailableOther":true,"buttonAvailableWhole":true},"url":"velocify.com\/privacy\/","single":"","page":"1","frontpage":"","pageid":"162","other":"0","posttype":"page"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/provide-support-live-chat/etc/js/fixed.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/provide-support-live-chat/etc/js/fixed.js?ver=4.6.1"></script>
 <link rel="https://api.w.org/" href="http://velocify.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://velocify.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://velocify.com/wp-includes/wlwmanifest.xml"> 
@@ -303,12 +335,12 @@ div#logo-slider-wraper #logo-slider .slide img{
             text-indent:-9000px;
 	}
 	#prev{
-            background:url(http://velocify.com/wp-content/plugins/logo-slider/arrows/arrow0.png) no-repeat center;
+            background:url(http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/logo-slider/arrows/arrow0.png) no-repeat center;
             float:right;
             margin-right:-50px;
 	}	
 	#next{
-            background:url(http://velocify.com/wp-content/plugins/logo-slider/arrows/arrow0-prev.png) no-repeat center;
+            background:url(http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/logo-slider/arrows/arrow0-prev.png) no-repeat center;
             float:left;
             margin-left:-50px
 	}	
@@ -345,7 +377,7 @@ div#logo-slider-wraper #logo-slider .slide img{
                 width: 100% !important;
             }
             #next{
-                background:url(http://velocify.com/wp-content/plugins/logo-slider/arrows/arrow0-prev.png) no-repeat center;
+                background:url(http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/logo-slider/arrows/arrow0-prev.png) no-repeat center;
                 float:left;
                 margin-left:-66px !important;
             }
@@ -544,10 +576,10 @@ div#logo-slider-wraper #logo-slider .slide img{
 .pum-theme-15840 .pum-title, .pum-theme-default-theme .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 255, 255, 255, 0.23 ); font-family: inherit; font-weight: normal; font-size: 32px; font-style: normal; line-height: 36px } 
 .pum-theme-15840 .pum-content, .pum-theme-default-theme .pum-content { color: #ffffff; font-family: inherit; font-weight: normal; font-style: normal } 
 .pum-theme-15840 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: normal; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
-        </style><script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:"7804985f-8432-443c-a303-fc0cf33d9d43", doNotCopy: true, hashAddressBar: false, doNotHash: true});var st_type='wordpress3.5.1';</script><link rel="stylesheet" type="text/css" href="http://velocify.com/wp-content/themes/hostmev2/whmcs.css" media="screen"><meta name="generator" content="Powered by Slider Revolution 5.2.5.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+        </style><script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:"7804985f-8432-443c-a303-fc0cf33d9d43", doNotCopy: true, hashAddressBar: false, doNotHash: true});var st_type='wordpress3.5.1';</script><link rel="stylesheet" type="text/css" href="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/whmcs.css" media="screen"><meta name="generator" content="Powered by Slider Revolution 5.2.5.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
 
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
-<script type="text/javascript">
+<script data-cfasync="false" type="text/javascript">
 	dataLayer.push({"visitorType":"visitor-logged-out","pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin"});
 </script><style>
 
@@ -686,10 +718,10 @@ div#scIWnK {
 
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WKWXNK"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WKWXNK');</script>
 <!-- End Google Tag Manager --><!-- End Google Tag Manager -->
 
@@ -700,7 +732,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	
 	<div id="wrapper">
-			<div class="topbar">
+		
+<div id="velocify-top">
+	<div class="topbar">
 		<div class="inner">
 			<div class="topbar_left">
 			  <div class="topbar-menu-wrapper">
@@ -709,10 +743,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="col-md-6">
 					  <div class="topbar-menu topbar-menu-left">
 						<a class="logo-link" href="/"></a>
-						<a class="logo-link" href="/"></a>
 						<ul>
 						  <li class="menu-item topnav">
-							<a href="tel:8888431777"><span style="font-size:20px;">SALES (888) 843-1777</span></a>
+							<a id="call-sales" href="tel:8888431777"><span style="font-size:20px;">SALES (888) 843-1777</span></a>
 						  </li>
 						</ul>
 					  </div>
@@ -771,21 +804,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							</form>
 						  </li>
 						  <li class="menu-item topnav">
-							<a href="/blog/" onclick="analytics.track('Click Topbar', {category:'Global',label:'LM SignIn',value:0});">BLOG</a>
+							  <a id="blog" href="/services/support/">SUPPORT</a>
+						  </li>
+						  <li class="menu-item topnav">
+							<a id="blog" href="/blog/">BLOG</a>
 						  </li>
 						  <li class="menu-item has-sub-menu topnav signin">
 							<a href="#">SIGN IN</a>
 							<ul class="sub-menu" style="width:160px;">
 							  <li class="menu-item topnav">
-								<a target="_blank" href="https://lm.velocify.com">Velocify LeadManager</a>
+								<a id="leadmanager-login" target="_blank" href="https://lm.velocify.com">Velocify LeadManager</a>
 							  </li>
 							  <li class="menu-item topnav">
-								<a target="_blank" href="https://login.salesforce.com/">Velocify Pulse</a>
+								<a id="pulse-login" target="_blank" href="https://login.salesforce.com/">Velocify Pulse</a>
 							  </li>
+							  <li class="menu-item topnav">
+								<a id="loanengage-login" target="_blank" href="https://lm.velocify.com/">Velocify LoanEngage</a>
+							  </li>							  
 							</ul>
 						  </li>
 						  <li class="menu-item">
-							<a onclick="analytics.track('Click Topbar', {category:'Global',label:'Get Demo Top',value:0});" href="http://pages.velocify.com/Demo.html"><span class="button-orange button-small">GET DEMO</span></a>
+							<a id="get-demo-topbar" href="http://pages.velocify.com/Demo.html" target="_blank"><span class="button-orange button-small">GET DEMO</span></a>
 						  </li>
 						</ul>
 					  </div>
@@ -806,9 +845,66 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="clear"></div>
 
 <header>
+<style>
+@media only screen and (max-width: 650px){
+	/* Reset margins and height (these elements behave differently on different pages, so they are reset here)*/
+	#velocify-top .topbar-menu-left:before{
+		margin: 0px;
+	}
+	#velocify-top .topbar_left{
+		height: 27px;
+	}
+	/* Set Backgrounds  */
+	#velocify-top{
+		background: #004A97;
+	}
+	#velocify-top .topbar,
+	#velocify-top #fixedheader{
+		background: transparent;
+	}
+	/* Display the "V" instead of the full logo */
+	#velocify-top .topbar-menu-left:before{
+		position: absolute;
+		top: 30px;
+		left: 20px;
+		width: 35px;
+		height: 39px;
+		background: url('http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/velocify-vlogo-white.png');
+		background-repeat: no-repeat;
+	}
+	#velocify-top .topbar > .inner{
+		width: 50px !important;
+		margin: 0 20px;
+	}
+	/* Set click area for the "V" */
+	#velocify-top .logo-link{
+		width: 35px;
+	}
+	/* Position the phone number */
+	#velocify-top .responsive-phone{
+		margin-top: -5px;
+	}
+	/* Hide the tactical menu at the top (Blog link)*/
+	#velocify-top .topbar-menu-right{
+		display: none;
+	}
+	/* Hide the Lock icon */
+	#velocify-top #velocify-logo > a:before{
+		display: none;
+	}
+	/* Hamburger position */
+	#velocify-top #velocify-logo{
+		display: none;
+	}
+	#velocify-top .mobile-menu-wrap{
+		margin-top: -32px;
+	}
+	
+}
+</style>
 <div id="fixedheader" class="header clearfix">
 	<div class="header-area">
-		<div class="logo">				<a href="http://velocify.com" title="Velocify: High Performance Sales">
+		<div id="velocify-logo" class="logo">				<a href="http://velocify.com" title="Velocify: High Performance Sales">
 					<img src="http://velocify1.wpengine.com/wp-content/uploads/2013/05/velocify-logo-white.png" alt="Velocify: High Performance Sales">
 				</a>
 			</div><!-- /logo -->
@@ -816,14 +912,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<ul id="atp_menu" class="sf-menu"><li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://velocify.com/products/">Products</a>
 <ul class="sub-menu">
 	<li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/">Overview</a></li>
-	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/leadmanager/">LeadManager</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/leadmanager/">Velocify LeadManager</a></li>
 	<li id="menu-item-16725" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-pulse-overview/">Velocify Pulse</a></li>
+	<li id="menu-item-20912" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-loanengage-overview/">Velocify LoanEngage</a></li>
+	<li id="menu-item-22730" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-dial-iq/">Velocify Dial-IQ</a></li>
 </ul>
 </li>
 <li id="menu-item-14160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/products/pricing-editions/">Pricing</a>
 <ul class="sub-menu">
-	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/pricing-editions/">LeadManager</a></li>
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/pricing-editions/">Velocify LeadManager</a></li>
 	<li id="menu-item-16727" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-pulse-pricing/">Velocify Pulse</a></li>
+	<li id="menu-item-20913" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-loanengage-pricing/">Velocify LoanEngage</a></li>
+	<li id="menu-item-22729" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-dial-iq-pricing/">Velocify Dial-IQ</a></li>
 </ul>
 </li>
 <li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://velocify.com/services/">Services</a>
@@ -854,6 +954,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://velocify.com/resources/">Resources</a>
 <ul class="sub-menu">
 	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/case-studies/">Case Studies</a></li>
+	<li id="menu-item-23109" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/videos/">Videos</a></li>
 	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/whitepapers/">Whitepapers &amp; eBooks</a></li>
 	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/infographics/">Infographics</a></li>
 	<li id="menu-item-9164" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/product-materials/">Product Materials</a></li>
@@ -878,14 +979,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="iva-mobile-menu"><ul id="menu-main-menu" class="iva_mmenu"><li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://velocify.com/products/">Products<span class="iva-children-indenter"><i class="glyphicon glyphicon-triangle-right"></i></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/">Overview</a></li>
-	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/leadmanager/">LeadManager</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/leadmanager/">Velocify LeadManager</a></li>
 	<li id="menu-item-16725" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-pulse-overview/">Velocify Pulse</a></li>
+	<li id="menu-item-20912" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-loanengage-overview/">Velocify LoanEngage</a></li>
+	<li id="menu-item-22730" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-dial-iq/">Velocify Dial-IQ</a></li>
 </ul>
 </li>
 <li id="menu-item-14160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/products/pricing-editions/">Pricing<span class="iva-children-indenter"><i class="glyphicon glyphicon-triangle-right"></i></span></a>
 <ul class="sub-menu">
-	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/pricing-editions/">LeadManager</a></li>
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/pricing-editions/">Velocify LeadManager</a></li>
 	<li id="menu-item-16727" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-pulse-pricing/">Velocify Pulse</a></li>
+	<li id="menu-item-20913" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-loanengage-pricing/">Velocify LoanEngage</a></li>
+	<li id="menu-item-22729" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/products/velocify-dial-iq-pricing/">Velocify Dial-IQ</a></li>
 </ul>
 </li>
 <li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://velocify.com/services/">Services<span class="iva-children-indenter"><i class="glyphicon glyphicon-triangle-right"></i></span></a>
@@ -916,6 +1021,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://velocify.com/resources/">Resources<span class="iva-children-indenter"><i class="glyphicon glyphicon-triangle-right"></i></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/case-studies/">Case Studies</a></li>
+	<li id="menu-item-23109" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/videos/">Videos</a></li>
 	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/whitepapers/">Whitepapers &amp; eBooks</a></li>
 	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/infographics/">Infographics</a></li>
 	<li id="menu-item-9164" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://velocify.com/resources/product-materials/">Product Materials</a></li>
@@ -935,6 +1041,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li id="menu-item-14003" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://pages.velocify.com/Demo.html">GET DEMO</a></li>
 </ul></div>	
 </header><!-- /header -->
+</div>
 		<div class="pagemid">
 	<div class="inner">
 
@@ -948,7 +1055,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 					<p>Our privacy policy is pretty simple. We will only contact you if you voluntarily submit your contact information. We will never sell your information.</p>
 <p>If you would like all of the details, read on.</p>
-<h2>Velocify Incorporated Global Privacy Policy</h2>
+<h1>Velocify Incorporated Global Privacy Policy</h1>
 <p>Velocify Incorporated (“Velocify”) respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. It is Velocify policy to comply with all applicable privacy and data protection laws. This commitment reflects the value we place on earning and keeping the trust of our employees, customers, business partners and others who share their personal information with us. This Global Privacy Policy (this “Policy”) describes how Velocify protects your privacy when we collect personal information on Velocify Internet sites. As used in this Policy, the term “personal information” means information that identifies you personally, alone or in combination with other information available to us.</p>
 <h3>Your Consent</h3>
 <p>By visiting a Velocify website or providing personal information to us, you are consenting to the collection, use and disclosure of your personal information as described in this Policy. If you do not consent to the collection, use and disclosure of your personal information as described in this Policy (and any applicable Country or Web Site Privacy Statements), do not use Velocify Internet Sites, contact Velocify, or Submit Data to Velocify via Internet form. Limitations on the Collection, Use and Disclosure of Personal Information To the extent required by applicable law, whenever Velocify collects personal information on a Velocify Internet Site, Velocify will:</p>
@@ -1023,10 +1130,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 		<div class="inner">
 						<div class="footer-sidebar"><div class="one_sixth "><aside id="nav_menu-10" class="widget clearfix widget_nav_menu"><h3 class="widget-title">Products</h3><div class="menu-footer-menu-products-container"><ul id="menu-footer-menu-products" class="menu"><li id="menu-item-13935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13935"><a href="http://velocify.com/products/">Products Overview</a></li>
-<li id="menu-item-12462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12462"><a href="http://velocify.com/products/leadmanager/">LeadManager</a></li>
+<li id="menu-item-12462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12462"><a href="http://velocify.com/products/leadmanager/">Velocify LeadManager</a></li>
 <li id="menu-item-16722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16722"><a href="http://velocify.com/products/velocify-pulse-overview/">Velocify Pulse</a></li>
-</ul></div></aside><aside id="nav_menu-17" class="widget clearfix widget_nav_menu"><h3 class="widget-title">Pricing</h3><div class="menu-footer-menu-pricing-container"><ul id="menu-footer-menu-pricing" class="menu"><li id="menu-item-14457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14457"><a href="http://velocify.com/products/pricing-editions/">LeadManager</a></li>
+<li id="menu-item-20929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20929"><a href="http://velocify.com/products/velocify-loanengage-overview/">Velocify LoanEngage</a></li>
+</ul></div></aside><aside id="nav_menu-17" class="widget clearfix widget_nav_menu"><h3 class="widget-title">Pricing</h3><div class="menu-footer-menu-pricing-container"><ul id="menu-footer-menu-pricing" class="menu"><li id="menu-item-14457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14457"><a href="http://velocify.com/products/pricing-editions/">Velocify LeadManager</a></li>
 <li id="menu-item-16724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16724"><a href="http://velocify.com/products/velocify-pulse-pricing/">Velocify Pulse</a></li>
+<li id="menu-item-20931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20931"><a href="http://velocify.com/products/velocify-loanengage-pricing/">Velocify LoanEngage</a></li>
 </ul></div></aside>				</div><div class="one_sixth "><aside id="nav_menu-11" class="widget clearfix widget_nav_menu"><h3 class="widget-title">Services</h3><div class="menu-footer-menu-services-container"><ul id="menu-footer-menu-services" class="menu"><li id="menu-item-12466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12466"><a href="http://velocify.com/services/">Overview</a></li>
 <li id="menu-item-12464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12464"><a href="http://velocify.com/services/onboarding/">Onboarding</a></li>
 <li id="menu-item-13937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13937"><a href="http://velocify.com/services/support/">Support</a></li>
@@ -1056,12 +1165,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li id="menu-item-12484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12484"><a href="http://velocify.com/company/benefits-perks/">Benefits</a></li>
 <li id="menu-item-12486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12486"><a href="http://velocify.com/company/contact-us/">Contact Us</a></li>
 <li id="menu-item-14459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14459"><a href="/blog/">Blog</a></li>
+<li id="menu-item-21782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21782"><a href="http://velocify.com/company/brand/">Our Brand</a></li>
 </ul></div></aside>				</div></div>
 			<div class="clear"></div>
 			
 			<div class="copyright clearfix">
 				<div class="copyright_left">
-					<div class="footer-logo"><a href="/" onclick="analytics.track('Click Image', {category:'Global',label:'Footer Velocify Logo',value:0});"><img src="/wp-content/uploads/2015/03/logo4navigation.png" alt="Velocify: High Performance Sales" "=""></a></div><div class="footer-social"><ul class="atpsocials"><li><a href="https://twitter.com/velocify" target="_blank"><i class="fa fa-twitter fa-lg" title="Twitter"></i> </a></li><li><a href="https://www.facebook.com/Velocify" target="_blank"><i class="fa fa-facebook fa-lg" title="Facebook"></i> </a></li><li><a href="https://plus.google.com/u/0/+Velocify" target="_blank"><i class="fa fa-google fa-lg" title="Google+"></i> </a></li><li><a href="https://www.linkedin.com/company/velocify" target="_blank"><i class="fa fa-linkedin fa-lg" title="LinkedIn"></i> </a></li></ul></div><br>
+					<div class="footer-logo"><a href="/" onclick="analytics.track('Click Image', {category:'Global',label:'Footer Velocify Logo',value:0});"><img src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/logo4navigation.png" alt="Velocify: High Performance Sales" "=""></a></div><div class="footer-social"><ul class="atpsocials"><li><a href="https://twitter.com/velocify" target="_blank"><i class="fa fa-twitter fa-lg" title="Twitter"></i> </a></li><li><a href="https://www.facebook.com/Velocify" target="_blank"><i class="fa fa-facebook fa-lg" title="Facebook"></i> </a></li><li><a href="https://plus.google.com/u/0/+Velocify" target="_blank"><i class="fa fa-google fa-lg" title="Google+"></i> </a></li><li><a href="https://www.linkedin.com/company/velocify" target="_blank"><i class="fa fa-linkedin fa-lg" title="LinkedIn"></i> </a></li></ul></div><br>
 				</div>
 				<div class="copyright_right">
 					© Copyright - 2016 : All Rights Reserved. <a href="/terms-of-use/" analytics.track('click="" link',="" {category:'global',label:'footer="" terms="" of="" use',value:0});"="">Terms of Use</a>   <a href="/privacy/" analytics.track('click="" link',="" {category:'global',label:'footer="" privacy',value:0});"="">Privacy</a>   <a href="/security/" analytics.track('click="" link',="" {category:'global',label:'footer="" security',value:0});"="">Security</a>				</div>
@@ -1128,50 +1238,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }());
         // ]]>
         </script>
-        <script type="text/javascript" src="http://velocify.com/wp-includes/js/comment-reply.js?ver=4.5.2"></script>
+        <script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.js?ver=4.6.1"></script>
 <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js?ver=3.3"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.easing.1.3.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/hoverIntent.js?ver=1.8.1"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/superfish.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.jplayer.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.preloadify.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.prettyPhoto.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.fitvids.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.sticky.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.appear.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/sys_custom.js?ver=1.0"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/jquery.flexslider.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/themes/hostmev2/js/waypoints.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.easing.1.3.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/hoverIntent.js?ver=1.8.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/superfish.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.jplayer.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.preloadify.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.prettyPhoto.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.fitvids.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.sticky.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.appear.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/sys_custom.js?ver=1.0"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/jquery.flexslider.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/themes/hostmev2/js/waypoints.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/wp-util.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/backbone.min.js?ver=1.2.3"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/mediaelement/wp-playlist.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/wp-util.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/backbone.min.js?ver=1.2.3"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/wp-playlist.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wpv_pagination_local = {"front_ajaxurl":"http:\/\/velocify.com\/wp-admin\/admin-ajax.php","ajax_pagination_url":"http:\/\/velocify.com\/wpv-ajax-pagination\/","ajax_pagination_url_safe":"http:\/\/velocify.com\/wp-content\/plugins\/wp-views\/embedded\/inc\/wpv-ajax-pagination-default.php","calendar_image":"http:\/\/velocify.com\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"resize_debounce_tolerance":"100"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=2.0"></script>
-<script type="text/javascript" src="http://velocify.com/wp-content/plugins/logo-slider/lgs_jquery.cycle2.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://velocify.com/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
-            <span style="color:#eee;">pod-31249</span>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded.js?ver=2.0"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-content/plugins/logo-slider/lgs_jquery.cycle2.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://42d3agjcsyy46s3v5209co3g.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+            <span style="color:#eee;">pod-100165</span>
 
 </body></html>
