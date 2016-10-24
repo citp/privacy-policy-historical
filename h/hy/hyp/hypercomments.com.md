@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypercomments.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630232119id_/https%3A//www.hypercomments.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypercomments.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024044843id_/https%3A//www.hypercomments.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - HyperComments
 
