@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the in-gender.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401031931id_/http%3A//www.ingender.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-gender.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024091145id_/http%3A//www.ingender.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Ingender.com
 
