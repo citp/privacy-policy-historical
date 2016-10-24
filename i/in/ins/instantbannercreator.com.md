@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantbannercreator.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429003349id_/http%3A//akhmediagroup.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantbannercreator.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024230336id_/http%3A//akhmediagroup.com/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
