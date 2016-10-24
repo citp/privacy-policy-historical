@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417180015id_/http%3A//tradablebits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradablebits.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024070355id_/http%3A//tradablebits.com/privacy) for the most accurate reproduction.*
 
 # Tradable Bits Privacy Policy
 
@@ -47,5 +47,5 @@ We reserve the right to make changes to this privacy policy at any time. If we c
 
 "Tradable Bits" is defined as Tradable Bits Media Inc, the owner and creator of the Tradable Bits platform and all included services: apps (campaigns), Stream, Fan CRM, etc.  
 "Company" is any client of Tradable Bits who uses or has a licence to use the Tradable Bits platform on behalf of another entity.  
-“Person" is the enduser who interacts with the Company through the Tradable Bits platform, thus extending their personally identifiable information to the Company via Tradable Bits.  
+“Person" is the end user who interacts with the Company through the Tradable Bits platform, thus extending their personally identifiable information to the Company via Tradable Bits.  
 
