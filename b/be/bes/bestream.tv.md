@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestream.tv privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414034106id_/http%3A//bestream.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestream.tv privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024130330id_/http%3A//bestream.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # About - Best Stream - BeStream.TV
 
