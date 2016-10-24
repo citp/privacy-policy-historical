@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the orcinternational.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517072329id_/http%3A//orcinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcinternational.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024195155id_/http%3A//orcinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ORC International, Inc.
 
 **Regional Policies**
 
 View [ **Australia Privacy Policy**](http://orcinternational.com/australia-privacy-policy/)
+
+View **[UK Privacy Policy ](http://orcinternational.com/uk-privacy-policy/)**
 
 View **[UK Terms of Use](http://orcinternational.com/terms-of-use/)**
 
@@ -38,11 +40,6 @@ Except as stated in this Policy, ORC International does not disclose the persona
 **
 
 We take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. However, as information transmission over the internet is inherently insecure, we cannot guarantee the security of data sent over the internet.
-
-**Safe Harbor Certification  
-**
-
-ORC International adheres to the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland. ORC International has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ORC International’s certification, please visit <http://www.export.gov/safeharbor>.
 
 **Contact Us**  
 Questions regarding this Policy and related privacy issues should be directed to ORC International by sending an e-mail with the subject line “privacy,” along with a thorough description of your concern.
