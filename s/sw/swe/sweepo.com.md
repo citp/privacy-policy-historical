@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepo.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403071611id_/https%3A//sweepo.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepo.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024045015id_/https%3A//sweepo.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy@Sweepo - Free Cash Sweepstakes, Lottery Style Free Raffle
 
