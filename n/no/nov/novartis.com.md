@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413125354id_/https%3A//www.novartis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024180524id_/https%3A//www.novartis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Novartis
 
@@ -33,7 +33,7 @@ To ensure the security and confidentiality of Personal Data that we collect onli
 
 We are part of the Novartis Group which is a global group of companies and has databases in different countries, some of which are operated by the local Novartis Group Company, and some of which are operated by third parties on behalf of the local Novartis Group Company. We may transfer your data to one of the Group's databases outside your country of domicile, potentially including countries which may not require an adequate level of protection for your Personal Data compared with that provided in your country.
 
-However, Novartis has adopted Binding Corporate Rules, a system of principles, rules and tools, provided by European law, in an effort to ensure effective levels of data protection, in particular relating to transfers of personal information outside the EEA and Switzerland. Read more about your rights under the [Novartis Binding Corporate Rules](https://www.novartis.com/about-us/corporate-responsibility/our-actions/ethics-compliance/data-privacy).
+However, Novartis has adopted Binding Corporate Rules, a system of principles, rules and tools, provided by European law, in an effort to ensure effective levels of data protection, in particular relating to transfers of personal information outside the EEA and Switzerland. Read more about your rights under the [Novartis Binding Corporate Rules](https://www.novartis.com/about-us/corporate-responsibility/doing-business-responsibly/ethics-compliance/data-privacy).
 
 ## 7\. "Cookies" and internet tags
 
