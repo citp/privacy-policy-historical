@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealerinspire.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419003443id_/https%3A//www.dealerinspire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerinspire.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024233227id_/https%3A//www.dealerinspire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dealer Inspire
 
