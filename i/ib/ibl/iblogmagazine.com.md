@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblogmagazine.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145835id_/http%3A//iblogmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblogmagazine.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024024509id_/http%3A//iblogmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # iBlog Magazine Privacy Policy - iBlog magazine
 
