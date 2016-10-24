@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyrock.tv privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324185553id_/http%3A//www.bodyrock.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyrock.tv privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024075602id_/http%3A//www.bodyrock.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BodyRock
 
