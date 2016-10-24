@@ -1,124 +1,47 @@
-> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624065415id_/http%3A//www.experian.com/privacy/hitwise.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025013412id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Hitwise at Experian.com
+# Privacy Policy - Connexity
 
-**Hitwise Privacy Policy**
+Last modified on: May 5th 2016
 
-**Last Update: June  17, 2015**
+Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint. 
 
-Hitwise, an Experian company, is strongly committed to protecting and respecting your privacy rights in accordance with the respective compliance obligations of the countries in which we operate. This Hitwise Privacy Policy sets out the bases on which Hitwise collects and uses personal data from our customers and should assist our web site visitors in understanding our data security and privacy practices regarding collecting personal data from customers of Hitwise services. This Privacy Policy also encompasses data collected by Hitwise via its data partners.
+The information here can be read at any time on our website, at <http://connexity.com/privacy-policy/> or via the link to “Privacy Policy”. 
 
-**What Personally Identifiable Information is Collected?**
+## Data Controller
 
-Hitwise seeks to collect information from its customers in a fair and lawful manner for the purposes of customer identification, providing services and billing and related administration. Hitwise collects data, such as name, address, e-mail address, fax and telephone numbers, on customers and prospects, through the Experian corporate website, Experian.com.
+The data controller for the collection, processing and use of data in connection with the use of our internet site is Connexity, Inc., 12200 West Olympic Boulevard, Suite 300, Los Angeles, CA 90064, California, USA, Tel: (310) 571-1235. 
 
-Hitwise may collect other information about customers and prospects use of the website and their business or the company for whom they work, for the purpose of direct marketing campaigns, as permitted by law. Customers and prospects are not obliged to provide such information and may choose to opt out of such direct marketing campaigns through contacting their account representative or our Privacy Office.
+## General
 
-  * Hitwise will give you the option to opt out of each commercial email communication that we may send to you.
-  * Hitwise may keep a record of any correspondence with customers and newsletter subscribers until it is no longer necessary.
-  * Hitwise may also ask you to complete surveys for research purposes and may keep a copy of your responses. Please note that you are not obliged to respond to such surveys.
+The use of our website does not require any prior registration and/or other provision of personal data. Whilst you are visiting our website, we collect and process information which is automatically sent to us by you (see clause 3) and/or personal data which you send to us voluntarily, in particular via our contact form (see clause 4) or when ordering our newsletter
 
+## Automatically collected data during visits to the website
 
+When you visit our website or use our services, the device and the internet browser you are using to access the site automatically send log files to our servers. These log files contain, in particular, the name of the file accessed (internet page), the volume of data transmitted, the type and version of the browser used, the operating system (type and version), the date and time of the visit, the referrer URL (website containing the link through which you arrived at our site) as well as the IP address of the requesting computer. Once it is no longer technically required for the provision of access to the website, the IP address is only stored for statistics purposes in an abbreviated (anonymized) form. 
 
-**Are Cookies and Log Files Used?**
+The aforementioned, automatically transmitted data is collected and analyzed solely for the purpose of enabling a normal and optimized presentation of the information and for the purpose of statistical analysis. It is not possible for us to associate the data transmitted to the server with specific natural persons, i.e. it is not possible to identify you directly on the basis of the data transmitted automatically. However, we advise you that it is theoretically possible, with the assistance of your access provider and for a certain time, to identify the owner of the internet connection through which you access our website, on the basis of the communicated IP address. Your access provider can inform you of the length of time they store and use associated IP addresses. 
 
-Hitwise may collect information about your computer and browsing preferences, including where available your IP address, operating system and browser type, for system administration purposes. This is statistical data about Hitwise's users' browsing actions and patterns, and does not identify any individual.
+## Contact form 
 
-In some circumstances, Hitwise uses cookies to enhance the functionality of the service we offer our customers. A cookie is a small data file on the hard drive of your computer. Hitwise uses cookies to identify a customer and to store registration details so that the customer is no longer required to re-enter these details on subsequent visits. In addition, Hitwise uses cookies to indicate the number of computers used by each customer to log-in to the Hitwise service, to prevent abuse of the system and logins. Hitwise also collects information on IP addresses and web browsers used by customers when they access the service for the same reasons mentioned above.
+You have the possibility of communicating with us via the contact form available on our website. The use of that contact form as well as the provision of personal data on that form is, naturally, wholly voluntary. Any personal data communicated by you in that way will be used for the sole purpose of processing your enquiry, insofar as you have not expressly consented to a use beyond that purpose. 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts or functionality of the Hitwise website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Hitwise website.
+## Newsletter
 
-Please note that Hitwise may use technology service providers to help us monitor our website usage. Some of these service providers may collect non personal information through cookies on our behalf. These vendors are obliged to comply with the terms of this privacy policy.
+On our website, you have the possibility of registering to receive our Newsletter or email update, which is sent out monthly by email. This communication contains information and news on our products and services. In order to register to receive that newsletter or email, a separate declaration of consent is required, including the provision of an email address, which is stored solely for the purpose of sending the newsletter to the specified address. The consent to store and use the email address for the purpose of sending the publication may be revoked at any time by the person concerned, directly via a link at the end of every newsletter, via the Connexity website or by sending a message to Connexity. 
 
-**Uses Made of the Information**
+## Disclosure to third parties
 
-Hitwise uses information held about you in the following ways:
+Any disclosure to third parties of personal data communicated during use of our website will only occur under observance of the strict requirements of applicable national law. This would only be if you have consented to the disclosure of such data, if we are entitled to such disclosure under the statutory provisions and/or if such disclosure is required on the basis of laws, regulations, official or court orders. Disclosure to third parties for the purposes of advertising will not occur. 
 
-  * To provide you with information and services that you request from Hitwise or which Hitwise feels may interest you, where you have consented for such purposes;
-  * To carry out its obligations in any contracts with you;
+## Links to external websites
 
+Our website contains links to third party websites. We advise that we have no influence on whether any external website observes the relevant data protection rules. We are responsible as the provider of our own content according to the general laws. We do not accept responsibility for third party content, which is made available via links, and do not adopt their content as our own. 
 
-  * To allow you to participate in interactive features of the Hitwise service, when you choose to do so;
-  * To notify you about the changes to the Hitwise service, including new product announcements; and
-  * To conduct internal administration of Hitwise's business.
+## Access to information, rectification, blocking and erasure
 
+You have the right to demand information from us, free of charge, as to the personal data we have stored about you, the recipients or categories of recipient to which we have disclosed that data as well as the purpose of storage. Beyond that, you have, where applicable, the right to rectification, blocking or erasure of personal data within the statutory requirements. You can find contact information in the website’s Imprint.
 
+## Connexity shopping data use in Online Behavioral Advertising (“OBA”)
 
-**Does Hitwise Disclose Information to Third Parties?**
-
-Hitwise uses third party vendors for customer relationship management purposes, including with the distribution of email communications. Hitwise does not permit third party vendors to use customer personal data for any purpose outside of those disclosed within this privacy policy.  
-Hitwise may disclose the names of users of the Hitwise service to enquiring parties only if the enquiring party is from the same organization as the Hitwise user.
-
-Hitwise may disclose your personal data to other parties:
-
-  * To companies who are legally affiliated with Hitwise, including those within the Experian family. Information on Experian business lines can be found at www.experianplc.com
-  * In the event that Hitwise sells or buys any business or assets, in which case Hitwise may disclose your personal data to the prospective seller or buyer of such business or assets
-  * If Hitwise or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * If Hitwise is under a duty to disclose or share your personal data in order to comply with any legal obligation;
-  * In order to enforce or apply our Conditions of Use and other agreements with you;
-  * To protect the rights, property or safety of Hitwise or its customers, which includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-
-
-
-**Where We Store Your Personal Data**
-
-By submitting your personal data to Hitwise, you consent to the transfer and storage of personal data for processing by Hitwise in another country of our choosing, including Australia and the United States. Hitwise will take reasonable steps to ensure that your data is treated securely outside of your country of origin and in accordance with this privacy policy.
-
-**Securing Your Personal Data**
-
-All information you provide to Hitwise is stored on secure servers. Any payment transaction information will be encrypted and used solely to process the transaction. Where Hitwise has given you a password which enables you to access Hitwise client portal such as login.us.hitwise.com, you are responsible for keeping this password confidential.
-
-Once Hitwise has received your information, Hitwise will use strict procedures and security features to try to prevent unauthorized access. However please note that Hitwise cannot guarantee the security of your data in transmission to Hitwise. Transmission is at your own risk.
-
-**Links to Third Party Sites**
-
-The Hitwise client portal may from time to time contain links to external websites. Hitwise encourages its customers to review the privacy and security policies of any externally linked websites that may be accessed through the Hitwise website. Hitwise assumes no responsibility or liability for the information, collection and disclosure practices of any sites that a user can access through the Hitwise website. Please check the privacy policies of external websites before you submit any personal data to them.
-
-**Can I Change or Delete Information Secured?**
-
-Hitwise does its utmost to ensure the quality and accuracy of the customer personal data in its possession, and as such invites newsletter subscribers and customers of the service to access or update their details as necessary. Hitwise is committed to providing reasonable and practical access to allow visitors the opportunity to identify and correct any inaccurate details we may hold.
-
-  * Hitwise shall respond to your data access request within 30 days of receiving your request. 
-  * If Hitwise is unable to respond to your request within such period Hitwise shall notify you of the reason why Hitwise is so unable.
-
-
-
-All Hitwise customers and prospects have the right to access or update personal data that they have submitted through the Experian website by [clicking here](https://www.experian.com/privacy/marketing-data-report-request.html) or by contacting the Privacy Office. Should subscribers and customers subsequently choose to unsubscribe from mailing lists they can do so by following the instructions on how to unsubscribe provided in all Hitwise communications. On request, Hitwise will delete personally identifiable information that has been submitted from the current database, unless it is required to retain such information by law.
-
-**Children's Online Privacy Protection**
-
-The Hitwise service is directed towards adult business users. Hitwise does not knowingly collect information from children under the age of 13. Children under the age of 13 should not use the Hitwise website or submit information to Hitwise.
-
-**Data Collected Through Partnerships**
-
-Hitwise’s principal business is driven by the collection of consumer data, including non-identifying internet browsing data, from data partners (and not directly from end-users), including:
-
-  * **Internet Service Providers (ISPs).** We partner with ISPs operating across a wide range of metropolitan and regional areas. These ISPs provide Experian with browsing data from their users. 
-
-
-  * **Internet User Panels.** We partner with consumer research companies which have assembled panels of consumers who have agreed to the collection and sharing of their internet browsing and/or other data (such as in response to surveys), in return for incentives, e.g. points for rewards programs. 
-
-
-  * **Software Vendors.** We also partner with global software providers (e.g., toolbar providers) who provide us with browsing data of their end-users who have agreed to have such data shared with market research companies like Hitwise.
-
-
-
-**The Data.** Generally, the data collected includes browsing data (e.g., URLs visited). Hitwise does not intend to collect personally identifiable information from its data partners and takes steps to avoid collecting or receiving such data. Specifically, Hitwise has developed a proprietary filtering solution, which it provides to data partners, that seeks to expunge personal information before the partner provides any collected data to Hitwise.
-
-**Use of the Data**. Hitwise uses the partner-collected data in the services that it provides to its customers, including to provide marketing and behavioral insights to our customers and perform market research and other analytics.  We do not sell or rent data to third parties in a manner that identifies individuals/consumers.
-
-**Changes**
-
-Any changes that Hitwise makes to this Privacy Policy shall be posted on the Experian corporate website and, where appropriate with material changes, we may also notify you via email.
-
-**Contact our Privacy Office**  
-Please direct any questions or comments regarding our Privacy Policy or practices to us at:
-
-Experian Marketing Services  
-Attention: Hitwise Privacy  
-29 Broadway  
-New York, NY 10006  
-Phone: 212 809-0825  
-Email: [digitalprivacy@experian.com](mailto:digitalprivacy@experian.com)
-
-For more information on Experian and their related services, please refer to [www.experian.com](http://www.experian.com/).
+Connexity believes that relevant advertising is a good thing for consumers, and so we leverage shopping and other data we know about consumer to help power more relevant advertising across the Internet. Our OBA is cookie based and does not collect or use any personally identifiable information. We do collect and share behavioral data (such as what products you viewed, what categories you browsed, or what stores and brands you visited). This information can power both advertising on our own platform as well as advertising on other third party platforms. If you want to learn about ways to opt out of OBA, please visit our [opt out page](http://connexity.com/opt-out/).
