@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327113250id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024102004id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
 
 # Scholarship Zone Privacy Statement
-
-### Privacy & Security Policy:
 
 scholarshipzone.com ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
 [](https://privacy.truste.com/privacy-seal/Vinyl-Interactive,-LLC-/validation?rid=9151bf8c-1bb0-4306-a858-222e74658688 "TRUSTe online privacy certification")
 
@@ -20,7 +18,7 @@ The site only collects information that is volunteered during the registration p
 
 ScholarshipZone reserves the right to use this information provided by you for:
 
-  1. The specific purpose for which such information was provided (including matching registrants with the education providers and other advertisers on our site;
+  1. The specific purpose for which such information was provided (including matching registrants with the education providers and other advertisers on our site);
   2. Personal, demographic and profile data to improve our site;
   3. Our marketing and promotional purposes;
   4. As disclosed at the time such information is provided; and/or as disclosed in this Policy.
@@ -57,7 +55,11 @@ We use cookies to remember users’ settings (e.g. your prior registration infor
 
 ### Log Files:
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+
+### LSOs
+
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Widgets:
 
@@ -70,10 +72,6 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 ### Registry Compliance:
 
 By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from scholarshipzone.com, our affiliates, and our partners for contact via telephone.
-
-### LSOs
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Behavioral Targeting
 
@@ -105,7 +103,7 @@ Under California law, site visitors who are residents of California may request 
 
 ### Access to your information:
 
-When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wanted to have your personal information removed from our public forum, directory or testimonial on our site or deactivate it, you can contact us as described below. We will respond to your request within a reasonable timeframe.
+When you submit your personal information on a form, it is not possible to update, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wish to request deletion of your personal information, ask to have it removed from our public forum, directory or testimonial on our site, you can contact us as described below. We will respond to your request within a reasonable time frame.
 
 ### Transfer, Sale, or Assign:
 
@@ -119,11 +117,9 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: July 10th, 2015
+Effective: April 1, 2016
 
 ### Contact Information
 
 Email us at: [Info@scholarshipzone.com](mailto:info@scholarshipzone.com)  
 Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
-
-[](http://www.bbb.org/greater-san-francisco/business-reviews/scholarships-and-financial-aid/free-college-scholarships-in-san-francisco-ca-192171#bbblogo "Free College Scholarships, LLC, Scholarships & Financial Aid, San Francisco, CA")
