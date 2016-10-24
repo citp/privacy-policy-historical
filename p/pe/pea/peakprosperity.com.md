@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakprosperity.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318212859id_/http%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakprosperity.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024022530id_/https%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Prosperity
 
@@ -20,7 +20,7 @@ We also store certain types of information when you interact with us on our web 
 
 ## Google Data Collection
 
-The PeakProsperity.com website displays Google AdSense advertisements.  Google, as a third party vendor, uses cookies to serve ads on PeakProsperity.com.  The cookie used by Google is known as the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) ("DART cookie").
+The PeakProsperity.com website displays Google AdSense advertisements.  Google, as a third party vendor, uses cookies to serve ads on PeakProsperity.com.  The cookie used by Google is known as the [DoubleClick DART cookie](https://www.doubleclick.com/privacy/faq.aspx) ("DART cookie").
 
 Google's use of the DART cookie enables it to serve ads to PeakProsperity.com visitors based on their visit to our site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy page.  This can be found by clicking the following link: <http://www.google.com/privacy_ads.html>
 
