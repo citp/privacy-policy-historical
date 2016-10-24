@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxtrack.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326192546id_/http%3A//www.gfxtrack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxtrack.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024191834id_/http%3A//www.gfxtrra.com/privacy.html) for the most accurate reproduction.*
 
 # GFXTRA.COM Privacy Policy » Vector, Photoshop PSDAfter Effects, Tutorials, Template, 3D,
 
