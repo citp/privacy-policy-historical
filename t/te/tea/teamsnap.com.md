@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623235654id_/https%3A//www.teamsnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025182052id_/https%3A//www.teamsnap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TeamSnap | Manage Your Team Online with TeamSnap's Free Sports Team Websites
+# Privacy Policy
 
 Last modified: Jan 6, 2016
 
