@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401154748id_/http%3A//www.ptk.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025111320id_/http%3A//www.ptk.org/privacy.aspx) for the most accurate reproduction.*
 
 # Phi Theta Kappa Honor Society
 
