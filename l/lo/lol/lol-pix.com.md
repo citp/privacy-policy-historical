@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lol-pix.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618074739id_/http%3A//lol-pix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lol-pix.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025020607id_/http%3A//lol-pix.com/privacy) for the most accurate reproduction.*
 
 # LOL Pix funny pics
 
