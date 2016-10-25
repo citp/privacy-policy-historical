@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the databasedev.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324012014id_/http%3A//www.databasedev.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databasedev.co.uk privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025200256id_/http%3A//www.databasedev.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Printing Query Parameter Values in your Report | Database Solutions for Microsoft Access | databasedev.co.uk
 
