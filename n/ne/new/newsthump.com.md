@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsthump.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410052337id_/http%3A//newsthump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsthump.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025161328id_/http%3A//newsthump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,9 +23,13 @@ Such information will not identify you personally, it is statistical data about 
 
 Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer’s hard drive. They help us to improve our website and the service that we provide to you.
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
-
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+
+**Turning off cookies**
+
+All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please refer to the documentation for your chosen browser in order to do this, more information can be found [here](http://www.wikihow.com/Disable-Cookies).
+
+Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
 
 **Use of Your Information  
 **
