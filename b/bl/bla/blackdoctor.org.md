@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610183425id_/http%3A//blackdoctor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdoctor.org privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025062348id_/http%3A//blackdoctor.org/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Screen | BlackDoctor
+# Privacy Policy | BlackDoctor
 
 This Privacy Policy applies to the BlackDoctor.org Web site (“Company Site” or “Site”), which is owned and operated by BlackDoctor, Inc. The BlackDoctor.org Web site contains links to other sites. Once you enter another Web site (whether through an advertisement, service, or content link), be aware that BlackDoctor.org is not responsible for the privacy practices of such other site.
 
