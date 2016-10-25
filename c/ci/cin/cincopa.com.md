@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincopa.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601220448id_/http%3A//www.cincopa.com/cincopamanager/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincopa.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025153913id_/https%3A//www.cincopa.com/cincopamanager/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Cincopa.com
 
