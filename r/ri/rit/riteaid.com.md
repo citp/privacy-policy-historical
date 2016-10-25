@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314044312id_/https%3A//www.riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025150432id_/https%3A//www.riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy – Rite Aid
 
