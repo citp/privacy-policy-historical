@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225015203id_/http%3A//www.peakpotentials.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025152719id_/http%3A//newpeaks.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Peak Potentials™ – Privacy Policy
+# Privacy Policy - New Peaks
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Peak Potentials™ Training (hereinafter “PPT”) collects information from all users of our website (the “Services”), including those who may register for programs (“Participants”) and those who do not register (“Visitors”). This Policy also explains what we do with the information we collect, and the choices Visitors and Participants have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how New Peaks Training (hereinafter "NPT") collects information from all users of our website (the "Services"), including those who may register for programs ("Participants") and those who do not register ("Visitors"). This Policy also explains what we do with the information we collect, and the choices Visitors and Participants have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-Personal Information PPT Collects and How It Is Used
+Personal Information NPT Collects and How It Is Used
 
 #### Introduction
 
-Participants may be asked to provide certain personal information when they sign up for our Programs including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Participants during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Programs and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the “Disclosure” section below.
+Participants may be asked to provide certain personal information when they sign up for our Programs including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Participants during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Programs and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the "Disclosure" section below.
 
 #### Disclosure
 
@@ -40,7 +40,7 @@ We may take the information we receive from individuals responding to our survey
 
 #### Automatic Collection of Information
 
-**Cookies:** We may use “Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Cookies do not contain any personal information, but are used primarily as follows:
+**Cookies:** We may use "Cookies" to collect information. Cookies are small pieces of information stored by your browser on your computer's hard drive, at a web site's request. Our Cookies do not contain any personal information, but are used primarily as follows:
 
   * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
   * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
@@ -52,30 +52,30 @@ We may take the information we receive from individuals responding to our survey
 
 
 
-**Web Beacons:** We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
+**Web Beacons:** We may also place small "tracker gifs" or "beacons" on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor's Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
 
 **Disabling Cookies and Beacons:** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
 
 #### Child Privacy
 
-Protecting the online privacy of children is especially important, and those under the age of 13 are protected by federal law. For that reason, we do not knowingly permit children under the age of 13 to become registered members of our sites, or to buy goods and services on our sites, without verifiable parental consent. We do not knowingly collect or solicit personal information about children under 13, except with their parent’s express consent.
+Protecting the online privacy of children is especially important, and those under the age of 13 are protected by federal law. For that reason, we do not knowingly permit children under the age of 13 to become registered members of our sites, or to buy goods and services on our sites, without verifiable parental consent. We do not knowingly collect or solicit personal information about children under 13, except with their parent's express consent.
 
-If we ever include children under the age of 13 as part of our intended site audience, those specific web pages will, in accordance with the provisions of the Children’s Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice; and we will provide processes to obtain parental approval, provide access to information and allow parents to request removal of their children’s personal information.
+If we ever include children under the age of 13 as part of our intended site audience, those specific web pages will, in accordance with the provisions of the Children's Online Privacy Protection Act (COPPA), be clearly identified and provide an explicit privacy notice; and we will provide processes to obtain parental approval, provide access to information and allow parents to request removal of their children's personal information.
 
 We encourage parents and guardians to spend time with their children online and to participate in their interactive activities and interests.
 
 #### Public Forums
 
-Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We cannot control the comments that you may receive while you participate in these services. You may find other people’s comments to be offensive, harmful or inaccurate.
+Some parts of our site may enable you to participate in public services such as discussion boards, chats, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We cannot control the comments that you may receive while you participate in these services. You may find other people's comments to be offensive, harmful or inaccurate.
 
 #### Our Commitment to Data Security
 
 We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. We have various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet.
 
-Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
 #### Where to Direct Questions About Our Privacy Policy
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. We reserve the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
-© 2013 Peak Potentials™ Training, All Rights Reserved.
+© 2013 New Peaks Training, All Rights Reserved.
