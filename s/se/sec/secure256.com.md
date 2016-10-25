@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207121501id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026002014id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy for CPASiteSolutions Websites for CPAs and Accountants
 
   1. [Home](https://web.archive.org/index.php)
-  2. [CPA Site Solutions' Privacy Policy](https://web.archive.org/web/20160207121501id_/http%3A//secure256.com/privacypolicy.php)
+  2. [CPA Site Solutions' Privacy Policy](https://web.archive.org/web/20161026002014id_/http%3A//secure256.com/privacypolicy.php)
 
 
 
