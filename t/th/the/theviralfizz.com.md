@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theviralfizz.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507234250id_/http%3A//theviralfizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theviralfizz.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025172501id_/http%3A//theviralfizz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | theviralfizz
 
@@ -16,7 +16,7 @@ theviralfizz.com does use cookies to store information about visitors preferenc
 
   * Google, as a third party vendor, uses cookies to serve ads on theviralfizz.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to theviralfizz.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://www.google.com/privacy_ads.html>.
 
 
 
