@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startingelectronics.org privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515101450id_/http%3A//startingelectronics.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startingelectronics.org privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025092659id_/http%3A//startingelectronics.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,8 @@ startingelectronics.org does not use cookies.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
 Google Adsense  
-amazon.com
+amazon.com  
+amazon.co.uk
 
 Third-party vendors, including Google, use cookies to serve ads based on user's prior visits to startingelectronics.org.
 
@@ -29,9 +30,3 @@ Google's use of the DART cookie enables it and its partners to serve ads to user
 Users may opt out of the use of the DART cookie by visiting the advertising opt-out page at http://www.google.com/policies/privacy/ads/.
 
 Users may visit those websites to opt out of cookies (if the vendor or ad network offers this capability). You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at www.networkadvertising.org/managing/opt_out.asp.
-
-Click the Privacy Information link below Amazon advertisements to see the Amazon privacy information and options.
-
-[](https://www.elektor.com/c-programming-with-arduino)
-
-[](https://share.payoneer.com/nav/orTf6l4w4CA_xk91WTK_uRhdE-LqeBGCTY01kt5c1DCGLQFOYhrM1Hdu8crWmHL_0sd9HA_E9L2sOJ7W4sFxpA2)
