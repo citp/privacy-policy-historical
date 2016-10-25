@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the riamoneytransfer.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601021630id_/https%3A//www.riamoneytransfer.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riamoneytransfer.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025194407id_/https%3A//www.riamoneytransfer.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ria Money Transfer
 
-Last Updated: August 7, 2015 
+Last Updated: October 12, 2016 
 
-Welcome to Ria Money Transfer’s ("Ria") website, www.riamoneytransfer.com. Protecting your privacy is very important to us. Therefore the intent of this policy is to inform you about our collection and use of your personal and nonpersonal information. This policy is applicable to all Ria consumers and visitors of our website. [www.riamoneytransfer.com](https://web.archive.org/)
+Welcome to Ria Money Transfer’s ("Ria") website, www.riamoneytransfer.com. Protecting your privacy is very important to us. Therefore the intent of this policy is to inform you about our collection and use of your personal and nonpersonal information. The policy is applicable to all Ria consumers and visitors of our mobile app and website. [www.riamoneytransfer.com](https://web.archive.org/)
 
 ##  Personal Information 
 
@@ -16,7 +16,7 @@ We (or our service providers acting on our behalf) may collect Personal Informat
 
 It's easy to unsubscribe. Simply: 
 
-  1. Log in to your Ria account. 
+  1. Sign in to your Ria account. 
   2. Click on Profile and Settings in the left column. 
   3. Under "Communication Preferences," UN-CHECK the box. 
 
@@ -26,15 +26,15 @@ It's easy to unsubscribe. Simply:
 
 A cookie is a piece of text information that a web server may transfer to your web browser when you visit this website. Cookies are commonly used by websites to improve your experience and to enable systems to recognize your browsers. Only the information that you provide, or the choices you make while visiting a website, can be stored in a cookie. For example, the site cannot determine your email name unless you choose to type it. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer and only the site that created the cookie can interpret it. 
 
-We may use cookies for a variety of purposes: to assist us in providing our services to you, to allow you to change pages during your visit to our website without reentering your password, to track activity on our website, or to determine whether you came to our site from an affiliate website. We may use temporary, session cookies that expire and are automatically erased when you close your browser window to enable you to perform actions when you are logged into your account. We may use long term, persistent cookies that expire in the distant future to better understand usage patterns so that we can improve our Service or to remember your choices for our Services. We may permit third parties to place cookies through our website to provide us with better insights into the use of our Services and user demographics or to provide relevant advertising to you. These third parties may collect information about your online activities over time and across different websites when you use our Services. 
+We may use cookies for a variety of purposes: to assist us in providing our services to you, to allow you to change pages during your visit to our website without reentering your password, to track activity on our website, or to determine whether you came to our site from an affiliate website. We may use temporary, session cookies that expire and are automatically erased when you close your browser window to enable you to perform actions when you are signed into your account. We may use long term, persistent cookies that expire in the distant future to better understand usage patterns so that we can improve our Service or to remember your choices for our Services. We may permit third parties to place cookies through our website to provide us with better insights into the use of our Services and user demographics or to provide relevant advertising to you. These third parties may collect information about your online activities over time and across different websites when you use our Services. 
 
 By accessing or using our Services, you consent to the placement of cookies on your computer or other device as described in this Privacy Policy. You may adjust your browser settings to refuse or limit cookies, but if you do, certain features of our site may be limited or not work at all. To learn more about cookies visit www.allaboutcookies.org/manage-cookies.
 
 Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties. We do not use technology that recognizes DNT signals from your web browser. 
 
-### Google Analytics
+### Web Analytics
 
-We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy.](http://www.google.com/policies/privacy/) You may opt out of Google Analytics by visiting the [Google Analytics opt-out page.](https://tools.google.com/dlpage/gaoptout)
+We utilize tools to collect information around the use of this site. Google Analytics and Adobe Analytics are deployed throughout the site to collect information such as how often users visit, what pages they visit, and other sites they used prior to coming to this site. We use the information we receive from our web analytics tools only to improve this site. The analytics collects the IP address assigned to the user on the date this site was visited, rather than the user’s name or other identifying information. We do not combine the information collected through the use of web analytics tools with personally identifiable information. Although Google Analytics and Adobe Analytics plant a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google or Adobe. Visit [Google's Privacy Policy](https://www.google.com/policies/privacy/) to learn more. Or, to opt-out, [ click here.](https://tools.google.com/dlpage/gaoptout) Visit [Adobe's Privacy Center](http://www.adobe.com/privacy/marketing-cloud.html) to learn more. Or, to opt-out of Adobe, [ click here.](http://www.adobe.com/privacy/opt-out.html)
 
 ##  Use and Disclosure of Information 
 
@@ -46,11 +46,11 @@ Ria does not sell or exchange consumer lists or consumer information for marketi
 
 ##  Safeguards to Protect Privacy 
 
-Ria takes precautions to protect the information of its consumers. We maintain physical, electronic and procedural safeguards in an effort to secure your nonpublic personal information. When you enter sensitive or private consumer information, the information is encrypted and protected. Ria’s database of consumer information resides on Ria’s servers behind various firewalls to protect against loss, misuse, theft, and unauthorized modification, deletion, or alteration of the information contained in the database. 
+Ria takes precautions to protect the information of its consumers. We maintain physical, electronic and procedural safeguards in an effort to secure your nonpublic personal information. When you enter sensitive or private consumer information, the information is protected using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Ria’s database of consumer information resides on Ria’s servers behind various firewalls to protect against loss, misuse, theft, and unauthorized modification, deletion, or alteration of the information contained in the database. 
 
 Ria has taken preventative measures to restrict access to sensitive data and private information. Only those employees and agents who need to know that information to provide services related to the processing of fund transfers are granted access to personal information. Although Ria measures conform to those of the industry, Ria makes no claim or warranty as to the security or impenetrability of Ria’s system under unusual circumstances or its resilience to future sophisticated attacks. 
 
-You also play a role in protecting your personal information. Please safeguard your username and password for your account and do not share them with others. If we receive instructions using your account log-in information, we will consider that you have authorized the instructions. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. 
+You also play a role in protecting your personal information. Please safeguard your username and password for your account and do not share them with others. If we receive instructions using your account sign-in information, we will consider that you have authorized the instructions. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. 
 
 ##  Privacy Practices of Third Parties 
 
@@ -58,7 +58,7 @@ Our website may feature links to third party sites that offer goods, services, o
 
 ##  User Access, Change or Deletion of Private Information 
 
-Consumers using Ria’s website can change, edit, delete or update their private information at any time by going to the Ria website, logging in, and clicking on "Member Services." 
+Consumers using Ria’s website can change, edit, delete or update their private information at any time by going to the Ria website, signing in, and clicking on "Member Services." 
 
 ##  Information of Minors and Children 
 
