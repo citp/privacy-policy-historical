@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desimovielinks.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401015311id_/http%3A//www.eindianclassifieds.com/privacy-police.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desimovielinks.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025150034id_/http%3A//www.eindianclassifieds.com/privacy-police.php) for the most accurate reproduction.*
 
 # eindianclassifieds Web Site
 
