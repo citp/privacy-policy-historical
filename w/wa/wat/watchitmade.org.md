@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchitmade.org privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326032821id_/http%3A//watchitmade.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchitmade.org privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025232222id_/http%3A//watchitmade.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Watch it Made -
 
