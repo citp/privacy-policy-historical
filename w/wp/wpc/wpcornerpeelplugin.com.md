@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcornerpeelplugin.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325083942id_/http%3A//wpcornerpeelplugin.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcornerpeelplugin.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025202835id_/http%3A//wpcornerpeelplugin.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Wordpress Corner Peel Plugin
 
