@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funguerilla.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505160257id_/http%3A//funguerilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funguerilla.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025122929id_/http%3A//funguerilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fun Guerilla - Fighting Boredom with Funny and Amazing
 
