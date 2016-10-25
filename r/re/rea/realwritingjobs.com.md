@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realwritingjobs.com privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127073756id_/http%3A//www.realwritingjobs.com/cb/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwritingjobs.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025133146id_/http%3A//realwritingjobs.com/cb/privacy.php) for the most accurate reproduction.*
 
 # Real Writing Jobs - Privacy Policy
 
