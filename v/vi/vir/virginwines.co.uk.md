@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the virginwines.co.uk privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327012029id_/https%3A//www.virginwines.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginwines.co.uk privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025163713id_/https%3A//www.virginwines.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Help | Virgin Wines
 
 We are totally committed to protecting the privacy of our site visitors and customers and to promoting the responsible consumption of alcohol. We are all customers of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
 
-If you have any questions regarding our privacy policy, please email us at [privacy@virginwines.co.uk](mailto:privacy@virginwines.co.uk) or call 0843 224 1001.
+If you have any questions regarding our privacy policy, please email us at [privacy@virginwines.co.uk](mailto:privacy@virginwines.co.uk) or call 0343 224 1001.
 
 ## Your Consent
 
-We will not sell, or make available, your name, address, e-mail address, credit card information or personal information to any third party (excluding partners from whom you may have linked to our site) without your permission. 
+We will not sell, or make available, your name, address, e-mail address, phone number, credit card information or personal information to any third party (excluding partners from whom you may have linked to our site) without your permission. 
 
 ## Communication & Marketing
 
@@ -67,7 +67,7 @@ Virgin Wines Online Limited (at the address below) is the data controller for th
 
 We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact customer services, who will be delighted to answer any questions you may have.
 
-You can contact customer services via email at [privacy@virginwines.co.uk](mailto:privacy@virginwines.co.uk), call on 0843 224 1001 or write to us at:
+You can contact customer services via email at [privacy@virginwines.co.uk](mailto:privacy@virginwines.co.uk), call on 0343 224 1001 or write to us at:
 
 Virgin Wine Online Limited  
 St James' Mill  
