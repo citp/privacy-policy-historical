@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328225859id_/https%3A//www.doxo.com/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025185123id_/https%3A//www.doxo.com/privacy-and-security-policy) for the most accurate reproduction.*
 
 # doxo privacy and security policy
 
@@ -125,13 +125,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 Doxo reserves the right to modify this Policy at any time, so please review it frequently. If Doxo makes material changes to this Policy, Doxo will notify you here, by email, by means of a notice to the Doxo home page, or via a notification in your Doxo account prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. The date last revised appears at the top of the Policy.
 
-## 13\. Doxo and TRUSTe's Privacy Seal
-
-Doxo has been awarded TRUSTe's Privacy Seal signifying that this Policy and Doxo's privacy practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Policy or Doxo's privacy practices, please contact us at [security@doxo.com](mailto:security@doxo.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the Sites, [http://www.doxo.com](http://www.doxo.com/) [http://user.doxo.com](http://user.doxo.com/) and does not cover information that may be collected through software downloaded from the Site, through our Mobile Applications and platform.
-
-[](https://privacy.truste.com/privacy-seal/doxo/validation?rid=2e71c1c9-cd9d-488e-b785-4f2538bba3d7 "Validate TRUSTe privacy certification")
-
-## 14\. Contact Doxo if you have questions or concerns
+## 13\. Contact Doxo if you have questions or concerns
 
 If you have questions, comments, concerns or feedback regarding this Policy or any other privacy or security concern, send an e-mail to [security@doxo.com](mailto:security@doxo.com).
 
