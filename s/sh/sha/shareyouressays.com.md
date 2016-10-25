@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareyouressays.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402122443id_/http%3A//www.shareyouressays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareyouressays.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025141336id_/http%3A//www.shareyouressays.com/content-quality-guidelines/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy World’s Largest Collection of Essays! Published by Experts
+# Privacy Policy | World’s Largest Collection of Essays! Published by Experts
 
 ****If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mailbox@shareyouressays.com.  
 At www.shareyouressays.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.shareyouressays.com and how it is used.
