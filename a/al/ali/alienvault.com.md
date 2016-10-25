@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403190139id_/https%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienvault.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025161952id_/https%3A//www.alienvault.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlienVault
 
@@ -54,4 +54,4 @@ We may amend this privacy policy at any time by posting the amended version on o
 
 If you have any questions regarding this privacy policy, please [contact support](https://www.alienvault.com/contact). We will use commercially reasonable efforts to resolve disputes within 90 days.
 
-_Last updated on April 16, 2015_
+ _Last updated on April 16, 2015_
