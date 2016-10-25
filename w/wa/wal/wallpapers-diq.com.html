@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallpapers-diq.com privacy policy that was archived on 2016-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314172708id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallpapers-diq.com privacy policy that was archived on 2016-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161025110943id_/http%3A//wallpapers-diq.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="UTF-8">
@@ -83,24 +83,13 @@
                     <div class="jumbotron text-center">
                         <div class="row">
                             <div class="col-md-7">
-                                <h1 class="jumbotron-heading">Desktop Wallpaper</h1><p class="lead text-muted">Since computer screens are essentially two-dimensional, 3D graphics are just 2D optical illusions that trick your brain into thinking it is seeing a 3D object. A 3D graphics engine works by calculating what 2D shapes a 3D object would project on to the screen.  <a class="source-link" href="//petercollingridge.appspot.com/3D-tutorial&#10;" target="_blank">— <cite>petercollingridge.appspot.com</cite></a></p>                            </div>
+                                <h1 class="jumbotron-heading">Desktop Wallpaper</h1><p class="lead text-muted">"Wallpaper" was the term used in Microsoft Windows before Windows Vista (where it is called the "desktop background"), while Mac OS X calls it "desktop picture". (Previously, the term desktop pattern was used to refer to a small pattern that was repeated to fill the screen.) <a class="source-link" href="//en.wikipedia.org/wiki/Wallpaper_%28computing%29&#10;" target="_blank">— <cite>en.wikipedia.org</cite></a></p>                            </div>
                             <div class="col-md-5">
-                                                                    <div class="ad-container ad-300x250">
-                                        <script type="text/javascript">
-                                                if (!window.OX_ads) {
-                                                    OX_ads = [];
-                                                }
-                                                OX_ads.push({"auid": "324831"});
-                                        </script>
-                                        <script type="text/javascript">
-                                            document.write('<scr' + 'ipt src="http://ax-d.pixfuture.net/w/1.0/jstag"><\/scr' + 'ipt>');
-                                        </script><script src="http://ax-d.pixfuture.net/w/1.0/jstag"></script>
-                                        <noscript><iframe id="50c6f3a7e45ed" name="50c6f3a7e45ed" src="http://ax-d.pixfuture.net/w/1.0/afr?auid=324831&amp;cb=6427" frameborder="0" scrolling="no" width="300" height="250"><a href="http://ax-d.pixfuture.net/w/1.0/rc?cs=50c6f3a7e45ed&amp;cb=6427"><img src="http://ax-d.pixfuture.net/w/1.0/ai?auid=324831&amp;cs=50c6f3a7e45ed&amp;cb=6427" border="0" alt=""></a></iframe></noscript>
-                                    </div>
+                                                                                                            </div>
                                                             </div>
                         </div>
                     </div>
-                </div>
+                
             </section>
 
             <section id="breadcrumb">
@@ -303,7 +292,7 @@ This privacy policy is effective and was last updated on November 21, 2012<br><b
         </footer>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.1.0/masonry.pkgd.min.js"></script>
         <script src="/assets/js/script.min.js"></script>
 
                     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
@@ -338,21 +327,6 @@ This privacy policy is effective and was last updated on November 21, 2012<br><b
                     }(jQuery);
 
                     $(function () {
-                        // Restore results
-                        puzzle.ajax.request({
-                            grid: 3
-                        }, function (response) {
-                            try {
-                                puzzle.result.timers = JSON.parse(response);
-                                
-                                // Start new game
-                                puzzle.game.height();
-                                puzzle.game.start();
-                            } catch (err) {
-                                console.log(err);
-                            }
-                        });
-
                         // Restart puzzle buttons
                         var $restart_puzzle = $(".restart-puzzle");
                         $restart_puzzle.click(function () {
@@ -372,11 +346,20 @@ This privacy policy is effective and was last updated on November 21, 2012<br><b
                         });
 
                         $(window).on("load resize", puzzle.game.refresh);
+                        $(window).on("resize scroll", function () {
+                            // Use a 20 msec detection period
+                            debounce(App.restoreResults.start(), 20, false);
+                        });
                     });
             </script>
         
         <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=diq" async="async"></script>
-            
+                        <script type="text/javascript">
+                          var uid = '661';
+                          var wid = '599';
+                </script>
+                <script type="text/javascript" src="http://popcash.net/pop.js" async="async"></script>
+                    
 
 
-<!-- 0.0314 sec | 162.158.255.38 //--></body></html>
+<!-- 0.0043 sec | 199.27.128.67 //--></body></html>
