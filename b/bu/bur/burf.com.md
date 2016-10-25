@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burf.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310220454id_/http%3A//www.burf.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burf.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025223537id_/http%3A//burf.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Compare Lowest Prices & Best Deals From Trusted US Stores
 
