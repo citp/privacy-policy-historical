@@ -1,103 +1,163 @@
-> *The following text is extracted and transformed from the vinepair.com privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001163037id_/http%3A//shop.vinepair.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinepair.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025204444id_/http%3A//vinepair.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – VinePair
+# Privacy Policy | VinePair
 
-PRIVACY STATEMENT
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-\----
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
+We do not collect information from visitors of our site.
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
+**When do we collect information?**
 
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+We collect information from you when you or enter information on our site.
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
+**How do we use your information?**
 
-**SECTION 2 - CONSENT**
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-How do you get my consent?
+**How do we protect visitor information?**
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+We only provide articles and information. We never ask for personal or private information like names, email addresses or credit card numbers.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+We use regular Malware & Security Scanning.
 
-How do I withdraw my consent?
+We do not use an SSL certificate
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at shop@vinepair.com or mailing us at:
+******Do we use ‘cookies’?**
 
-VinePair
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-244 East 3rd Street P.O. Box 20920 New York New York US 10009
+**We use cookies to:**
 
-**SECTION 3 - DISCLOSURE**
+**•** Understand and save user’s preferences for future visits.
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
+**•** Keep track of advertisements.
 
-**SECTION 4 - SHOPIFY**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
+If you disable cookies off, some features will be disabled It won’t affect the user’s experience that make your site experience more efficient and some of our services will not function properly.
 
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+However, you can still place orders .
 
-Payment:
+**Third-party disclosure**
 
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+**Third-party links**
 
-For more insight, you may also want to read Shopify’s Terms of Service or Privacy Statement.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**SECTION 5 - THIRD-PARTY SERVICES**
+**Google**
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+**We have implemented the following:**
 
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+**•** Google Display Network Impression Reporting
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+**•** Demographics and Interests Reporting
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-_Links_
+Opting out:
 
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-**SECTION 6 - COOKIES & WEB BEACONS**
+**California Online Privacy Protection Act**
 
-Non-Personally Identifiable Information (“NPII”) data is collected by VinePair and our partners and is used for retargeting. We, and/or one or more of our ad technology partners, may collect NPII from people who visit our website or people who visit our clients’ websites. This data is anonymous, and can include information such as web pages you’ve viewed, date and time of pageviews, domain type, location information associated with your IP address, and your interactions to an ad delivered by us or our ad technology partners. VinePair and our ad technology partners use different methods to collect this type of data, including cookies and web beacons, and it is stored indefinitely.
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-As you browse VinePair, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, [AdRoll](https://app.adroll.com/), then enables us to present you with retargeting advertising on other sites based on your previous interaction with VinePair. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll’s and their partners’ targeted advertising.
+**According to CalOPPA we agree to the following:**
 
-**SECTION 7 - SECURITY**
+Users can visit our site anonymously.
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
 
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
 
-**SECTION 8 - AGE OF CONSENT**
+Users will be notified of any privacy policy changes:
 
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+**•** On our Privacy Policy Page
 
-**SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
+Users are able to change their personal information:
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+**•** By emailing us
 
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+**How does our site handle do not track signals?**
 
-**QUESTIONS AND CONTACT INFORMATION**
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@vinepair.com or by mail at 
+**Does our site allow third-party behavioral tracking?**
 
-VinePair
+It’s also important to note that we allow third-party behavioral tracking
 
-[Re: Privacy Compliance Officer]  
+**COPPA (Children Online Privacy Protection Act)**
 
-[244 East 3rd Street P.O. Box 20920 New York New York US 10009
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-\----
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+**•** Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•** Send information, respond to inquiries, and/or other requests or questions.
+
+**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**•** NOT use false or misleading subjects or email addresses.
+
+**•** Identify the message as an advertisement in some reasonable way.
+
+**•** Include the physical address of our business or site headquarters.
+
+**•** Monitor third-party email marketing services for compliance, if one is used.
+
+**•** Honor opt-out/unsubscribe requests quickly.
+
+**•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+**•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+vinepair.com
+
+115 W. 18th St. 2nd Floor
+
+New York, NY 10011
+
+US
+
+info@vinepair.com
+
+646-801-2722
+
+Last Edited on 2016-05-05
