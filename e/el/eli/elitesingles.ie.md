@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322081438id_/https%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025113845id_/https%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
@@ -101,7 +101,7 @@ The use of personal data for the provision of the ELITESINGLES service
 The collection of personal data at ELITESINGLES is done principally with the aim of giving the customer a safe, smooth, efficient, and personal experience when using the ELITESINGLES service. The data is therefore used to provide the services requested and desired by the customer. However, they also serve to detect and investigate potentially prohibited or illegal activities, and for the enforcement of the Terms and Conditions of the contract.
 
 **In the following, the use of personal data is described in more detail:**  
-a) Other members can see your profile information and entries on the ELITESINGLES page. Premium and Premium Plus members can also see the photos you upload on ELITESINGLES.
+a) Other members can see your profile information and entries on the ELITESINGLES page. Premium and Premium members can also see the photos you upload on ELITESINGLES.
 
 b) Your profile - and thus your profile information and uploaded photos - is suggested to other members as part of our matching method. The matching can be switched off in your account. When switched off, your profile will not be suggested to any other members and at the same time you do not get any partner suggestions.
 
@@ -122,13 +122,13 @@ e) ELITESINGLES sends various notifications via email to every registered user.
 
 f) ELITESINGLES sets a filter to protect users from unsolicited mail. For example, automatic filters prevent the sending of messages with certain pay numbers or certain inappropriate keywords.
 
-g) Identity Verification: Premium Plus members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. ELITESINGLES does not store the ID copies and destroys them after identity verification.
+g) Identity Verification: Premium members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. ELITESINGLES does not store the ID copies and destroys them after identity verification.
 
 **Features:**
 
 a) Under the photos and entries of other profiles there is a “Like" button that can be clicked. With the "Like" function, you can express that you like statements or pictures in the profile of another member with one click. As a consequence, the other member is notified. In your own profile you can see how many members like a particular text field or photo of you. You can also see which members have clicked "Like" on a certain profile element.
 
-b) “Message Read”: Premium Plus members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed. You can disable this feature allows in the user account.
+b) “Message Read”: Premium members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed. You can disable this feature allows in the user account.
 
 c) Import photos from Facebook: If you have a user profile on Facebook, you can transfer photos from this profile to your ELITESINGLES profile. To do this you must click on the appropriately labeled button to connect to Facebook and log in there with your Facebook user data. After successful login a window will appear were all your Facebook user account pictures are stored. You can select up to 24 photos and import them into your ELITESINGLES profile.
 
