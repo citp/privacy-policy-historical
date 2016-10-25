@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askstudent.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630223602id_/http%3A//www.askstudent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askstudent.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025043713id_/http%3A//www.askstudent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AskStudent | AskStudent
 
