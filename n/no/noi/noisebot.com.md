@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419191242id_/http%3A//www.noisebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025203823id_/http%3A//noisebot.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NoiseBot.com
 
@@ -10,7 +10,7 @@ NoiseBot.com collects customer information in an effort to improve our customer'
 
 NoiseBot.com will not rent or sell your e-mail address for any reason. We do not share credit card information with third parties except for the purpose of processing payment for products you've ordered and as required by law.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. 
 
 note to kids
 
