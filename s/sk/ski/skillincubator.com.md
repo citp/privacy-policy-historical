@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillincubator.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530235043id_/http%3A//skillincubator.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillincubator.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025113137id_/http%3A//skillincubator.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Skill Incubator
 
