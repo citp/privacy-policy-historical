@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsexclusive.com.au privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531214841id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsexclusive.com.au privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025042021id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Brands Exclusive - Privacy Policy
 
@@ -64,13 +64,13 @@ Other companies or organisations may have links to their website on our Website.
 
 ### Changes to Personal Data
 
-You can view and change your Personal Information we have stored in the "My Account" the Website.
+You can view and change your Personal Information we have stored in the "My Account" area on the website.
 
 ### Unsubscribe or Membership Cancellation
 
 We will send you emails for new sales events, promotions, special offers, reminders, contests and marketing promotions. Such emails may include marketing information about brandsExclusive.com.au or selected business partners. If you wish to unsubscribe, please go to the My Account section on each Website and update your email preferences. In addition, each email we send will contain an easy automated unsubscribe link so that you can opt-out of that subscription.
 
-If you wish to cancel your membership and have your Personal Information removed from our database for any reason, simply contact us via the "Contact Us" page on our Website or call us on 02 9046 4400.
+If you wish to cancel your membership and have your Personal Information removed from our database for any reason, simply contact us via the "Contact Us" page or email us at [support@brandsexclusive.com.au](mailto:support@brandsexclusive.com.au)
 
 ### Modification and Notification of Changes
 
@@ -82,4 +82,4 @@ If you have questions or suggestions regarding this Privacy Policy or our privac
 
 Any complaints in relation to your privacy may be directed to The Privacy officer at [support@brandsexclusive.com.au](mailto:support@brandsexclusive.com.au) or by letter to Brands Exclusive (Australia) pty ltd,
 
-Unit C-2, 3-29 Birnie Av, Lidcombe, NSW 2141
+Level 12, 201 Kent St, Sydney NSW 2000
