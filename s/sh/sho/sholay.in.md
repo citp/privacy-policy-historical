@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sholay.in privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414101757id_/http%3A//www.sholay.in/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sholay.in privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025161101id_/http%3A//www.sholay.in/about/privacy) for the most accurate reproduction.*
 
 # 100% Safe and Secure - business directory india Privacy Policy
 
