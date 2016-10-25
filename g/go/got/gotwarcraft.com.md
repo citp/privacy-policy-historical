@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424153719id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025020200id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
 
 # About Us, Credits, and Policies - GotWarcraft.com
 
