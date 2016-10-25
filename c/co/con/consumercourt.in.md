@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercourt.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323082212id_/http%3A//www.consumercourt.in/address/15032-privacy-policy.html%23post33197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercourt.in privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025144022id_/http%3A//www.consumercourt.in/address/15032-privacy-policy.html%23post33197) for the most accurate reproduction.*
 
 # Privacy Policy
 
