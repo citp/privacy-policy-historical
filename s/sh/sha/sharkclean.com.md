@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sharkclean.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331120916id_/http%3A//www.sharkclean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkclean.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025210611id_/http%3A//www.sharkclean.com/privacy-policy) for the most accurate reproduction.*
 
-# Shark® Privacy Policy | Official Site
+# Shark® Privacy Policy | SharkNinja Operating LLC
+
+## Privacy Policy
 
 SharkNinja Operating LLC is committed to ensuring your privacy on the Internet by adhering to high standards of fairness and integrity. We are committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites (collectively, the “Websites”). Our Policy is developed from principles established by the Federal Trade Commission and Direct Marketing Association regarding information collected via the Internet. 
 
@@ -27,7 +29,7 @@ Personal information cannot be extracted by simply placing a "cookie" on an indi
 
 We use the information you provide for internal purposes, such as confirming and tracking your order, subscription, or registration, analyzing trends and statistics, connecting with you on social media, collecting aggregated demographic information, informing you of our new products, services and offers, providing you with information from and about SharkNinja and its sister companies, help diagnose technical and service problems, and administer our Website. We also share the information with third-party service providers to perform certain services on our behalf, such as payment processing, sending marketing materials, performing analytics, and other similar services. 
 
-From time to time, we make our mailing list and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share email addresses, phone numbers or any personal financial information with these companies. If you prefer that we do not share any information with these companies, please contact us at [customersupport@sharkninja.com](mailto:customersupport@sharkninja.com). 
+From time to time, we make our mailing list and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share email addresses, phone numbers or any personal financial information with these companies. If you prefer that we do not share any information with these companies, please contact us at [privacy@sharkninja.com](mailto:privacy@sharkninja.com). 
 
 #### _Online Behavioral Advertising_
 
@@ -58,7 +60,7 @@ We do not seek nor will we knowingly collect personal information from anyone un
 
 #### What is SharkNinja Operating LLC 's policy for allowing me to update, correct or delete my personally identifiable information?
 
-You may change or update your personal information at any time. If you have questions or comments please email us at [customersupport@sharkninja.com](mailto:customersupport@sharkninja.com). If you have previously given consent to be contacted by SharkNinja Operating LLC and no longer wish to be, please email us at the address above requesting that we remove you from our list of consumers who receive correspondence from the Websites or SharkNinja Operating LLC. Even if you opt-out of sharing your mailing address and general shopping activity, we may still communicate with you using the contact information we have on file regarding your use of the Websites, the status of your orders or your account, or for similar transactional or administrative reasons. 
+You may change or update your personal information at any time. If you have questions or comments please email us at [privacy@sharkninja.com](mailto:privacy@sharkninja.com). If you have previously given consent to be contacted by SharkNinja Operating LLC and no longer wish to be, please email us at the address above requesting that we remove you from our list of consumers who receive correspondence from the Websites or SharkNinja Operating LLC. Even if you opt-out of sharing your mailing address and general shopping activity, we may still communicate with you using the contact information we have on file regarding your use of the Websites, the status of your orders or your account, or for similar transactional or administrative reasons. 
 
 #### Material Changes to Privacy Policy
 
@@ -66,7 +68,7 @@ In the event that SharkNinja Operating LLC materially changes its privacy policy
 
 #### Additional Note
 
-This statement may be revised from time to time to provide better service and maintain accuracy. The Websites may contain links to other websites. While we try to link only to sites that share our high standards and respect for your privacy, we are not responsible for the content or privacy practices of other sites. If you have further questions regarding this Policy you may email us at [customersupport@sharkninja.com](mailto:customersupport@sharkninja.com). 
+This statement may be revised from time to time to provide better service and maintain accuracy. The Websites may contain links to other websites. While we try to link only to sites that share our high standards and respect for your privacy, we are not responsible for the content or privacy practices of other sites. If you have further questions regarding this Policy you may email us at [privacy@sharkninja.com](mailto:privacy@sharkninja.com). 
 
 #### Effective Date
 
