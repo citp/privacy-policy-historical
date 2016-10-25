@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclassiphosting.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203072507id_/http%3A//www.cclassiphosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclassiphosting.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025100730id_/http%3A//www.cclassiphosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RankFirst Hosting
 
