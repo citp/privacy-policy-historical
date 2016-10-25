@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingplay.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623045635id_/http%3A//accountingplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingplay.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025113216id_/http%3A//accountingplay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Accounting Play
 
