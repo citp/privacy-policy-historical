@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323093253id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025172654id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaydayUK
 
-PaydayUK is a trading name of Instant Cash Loans Limited. We are registered in England and Wales under company number 2685515 and we have our registered office at 6 Bevis Marks, London, EC3A 7BA. Data Protection registration number Z6250344.
+PaydayUK is a trading name of Instant Cash Loans Limited. We are registered in England and Wales under company number 681750 and we have our registered office at 6 Bevis Marks, London, EC3A 7BA. Data Protection registration number Z6250344.
 
 We understand that your privacy is extremely important to you. As a result we have put in place a number of measures to ensure that any personal data we obtain from you visiting this website is processed and maintained in accordance with accepted principles of good information handling and also in accordance with the Data Protection Act 1998. This statement provides you with details of the type of information we may hold about you, how we obtain and use any information and how we protect your privacy.
 
