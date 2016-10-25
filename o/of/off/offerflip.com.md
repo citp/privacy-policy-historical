@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerflip.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201070025id_/http%3A//offerflip.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerflip.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025053931id_/http%3A//offerflip.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Offerflip
 
