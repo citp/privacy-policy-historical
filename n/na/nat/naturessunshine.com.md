@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324215103id_/https%3A//www.naturessunshine.com/us/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025225150id_/https%3A//www.naturessunshine.com/us/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,7 +52,11 @@ The Site is a general audience website and is not designed or targeted at childr
 
 The Site may contain links to web sites operated and maintained by third parties over which we have absolutely no control. Any information you provide to third party websites will be governed under the terms of each websites' privacy policy and we encourage you to investigate and ask questions before disclosing any information to the operators of third party websites. We have no responsibility or liability whatsoever for the content, actions or policies of third party websites. The inclusion of third party websites on our Site in no way constitutes an endorsement of such websites' content, actions or policies.
 
-### 9\. Questions and Complaints
+### 9\. Privacy Shield Statement
+
+NSP recognizes that the European Union and its member states have a data protection regime that generally restricts the transfer of PII about individuals located in the EU to recipients located outside of the European Economic Area (“EEA”). NSP has previously certified its compliance under the EU-U.S. Safe Harbor Framework, designed to allow transfer of PII between the EEA and the United States consistent with European Union law. Nature’s Sunshine Products, Inc. and its U.S. affiliate entities now comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from the EEA. NSP has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability with regard to all PII received from the EEA in reliance on the Privacy Shield. To learn more about the Privacy Shield program, and to view NSP’s certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). EEA data subjects who have questions or complaints regarding NSP’s transfer or treatment of their personally identifiable information may file a complaint with NSP at the contact information below. To the extent that any EEA data subject is not satisfied with the results of an internal complaint review process, they may file a complaint, free of charge, with our chosen independent recourse mechanism, the International Centre for Dispute Resolution® of the American Arbitration Association® (ICDR/AAA) where they may invoke binding arbitration under certain conditions. In addition, NSP is subject to the investigatory and enforcement powers of the Federal Trade Commission, the Department of Transportation, and any other authorized U.S. statutory body.
+
+### 10\. Questions and Complaints
 
 NSP takes your privacy seriously. If you believe we have not complied with this privacy statement, please contact us so we can investigate your complaint.
 
@@ -68,4 +72,4 @@ Please summarize the nature of your question in the subject line of any email yo
 
 Thank you for reviewing this policy.
 
-Effective Date: September 28, 2015
+Effective Date: September 27, 2016
