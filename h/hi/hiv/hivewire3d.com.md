@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivewire3d.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625215615id_/http%3A//hivewire3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivewire3d.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025233545id_/http%3A//hivewire3d.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,9 +116,7 @@ If you are between the ages of 13 and 18, please have your parent or guardian re
 
 Parents should regularly oversee their kid's use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids. You can find out about software that protects your children here:
 
-<http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>
-
-<http://kids.getnetwise.org/tools/>
+<https://www.comparitech.com/blog/vpn-privacy/protecting-childrens-privacy/>
 
 If your son or daughter has used your credit card on our Services without your permission, contact [HiveWire 3D Support](http://hivewire3d.com/contacts/ "HiveWire 3D Contact Us") immediately.
 
