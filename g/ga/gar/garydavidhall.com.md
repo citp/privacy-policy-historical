@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garydavidhall.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322132746id_/http%3A//garydavidhall.com/all-things-real-estate-crm/terms-of-use-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garydavidhall.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025112245id_/http%3A//garydavidhall.com/all-things-real-estate-crm/terms-of-use-disclaimer) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy - Gary David Hall
 
