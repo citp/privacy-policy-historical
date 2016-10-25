@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ltretire.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429002829id_/http%3A//ltretire.com/wp-content/uploads/2015/09/CRS-5560-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltretire.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025082429id_/http%3A//ltretire.com/wp-content/uploads/2015/09/CRS-5560-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # 
 
