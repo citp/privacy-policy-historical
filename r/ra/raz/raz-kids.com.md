@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raz-kids.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528214225id_/https%3A//www.learninga-z.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raz-kids.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025220036id_/http%3A//help.learninga-z.com/customer/portal/articles/1649236-privacy) for the most accurate reproduction.*
 
 # Learning A-Z - Privacy
 
