@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rank10.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906040219id_/http%3A//rank10.org/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rank10.org privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025221700id_/http%3A//rank10.org/static/privacy.html) for the most accurate reproduction.*
 
 # Page Rank Checkcer - rank10.org
 
@@ -52,4 +52,4 @@ Email: team@rank10.org
 
 
 Your IP Address  
-204.236.235.245 
+207.241.231.144 
