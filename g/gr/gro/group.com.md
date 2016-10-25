@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603111758id_/https%3A//www.group.com/category/customer-support/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025094906id_/https%3A//grouppublishingps.zendesk.com/hc/en-us/articles/211878208-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Group
+# Privacy Policy – Group Support
 
 At Group Publishing our goal is to be the first source that you turn to for tips and resources to help you maximize the effectiveness of your ministry. Group Publishing respects your privacy and holds it as a priority. Our privacy policy is intended to keep you informed about the information we collect about you, when and with whom we share your information, and to give you a choice in how we use and disclose your information.
 
@@ -10,7 +10,7 @@ This privacy policy addresses all information received by any Web site that is h
 
 When you participate in activities on Group Publishing's Web sites, you provide certain personally identifiable information (PII). Examples of this information may be any of the following: your name, email address, church or organization affiliation, personal or church address, personal or church phone number, credit card information, personal and/or church demographic information, personal shopping, contact preferences, and personal and/or professional opinions.
 
-## How We Use Your PII
+## How We Use Your Personal Information
 
 We use your personal information to complete the transaction (including order confirmation and appropriate follow up) and/or other interaction that you initiated and to operate, maintain, and provide to you the features and functionality of the Group Publishing Web sites. We may also use the information you have provided to send you mail or e-mail, or to call you, about new products, services, events, membership benefits or important information relating to Group or to contact you on behalf of selected ministry partners we work with.
 
@@ -22,9 +22,10 @@ When you submit content to a Group Publishing Web site (such as the Rough Edit W
 
 ## How to "Opt Out" of Group Communications
 
-If you prefer that we not (a) contact you about new products, services, events, membership benefits or important information relating to Group or a selected ministry partners we work with, or (b) share your postal contact information with select catalog publishers, other book and magazine publishers, charitable organizations, or other church and/or general use resource providers, you can "opt out."
+If you prefer that we not (a) contact you about new products, services, events, membership benefits or important information relating to Group or a selected ministry partners we work with, or (b) share your postal contact information with select catalog publishers, other book and magazine publishers, charitable organizations, or other church and/or general use resource providers, you can "opt out." To do so, please e-mail your request to [**marketing-reply  
+@group.com**](mailto:marketing-reply@group.com). Be sure to include your name, church name, and address so the appropriate changes are made to your account and/or record. Or you can call one of our customer representatives at **1-800-447-1070**.
 
-When you subscribe to our any of our newsletters there are instructions at the bottom allowing you to unsubscribe if you ever wish to do so. If you prefer, simply email your request to [info@group.com](mailto:info@group.com).
+When you subscribe to our online newsletters there are instructions at the bottom of your e-mail newsletter telling you how to unsubscribe if you ever wish to do so.
 
 ## Cookies
 
@@ -78,8 +79,14 @@ We may update this privacy notice periodically. Please check this page for chang
 
 ## How to Contact Us
 
-Our goal is to protect your privacy. If, at any time, you have any concerns, questions, or suggestions about our privacy policies, please send us your feedback so that we can improve our policies. You may e-mail us at [info@group.com](mailto:info@group.com) or write to us at Group Publishing Inc., 1515 Cascade Ave., Loveland CO, 80538. By working continuously to understand and meet your needs, we hope Group Publishing continues to be the first source that you turn to for tips and resources to help you maximize the effectiveness of your ministry.
+Our goal is to protect your privacy. If, at any time, you have any concerns, questions, or suggestions about our privacy policies, please send us your feedback so that we can improve our policies. You may e-mail us at [**info@group.com**](mailto:info@group.com) or write to us at Group Publishing Inc., 1515 Cascade Ave., Loveland CO, 80538. By working continuously to understand and meet your needs, we hope Group Publishing continues to be the first source that you turn to for tips and resources to help you maximize the effectiveness of your ministry.
 
 ## Effective Date
 
 The Privacy Policy posted on this site was updated on or about January 19, 2007.
+
+Was this article helpful?
+
+0 out of 0 found this helpful
+
+## Comments
