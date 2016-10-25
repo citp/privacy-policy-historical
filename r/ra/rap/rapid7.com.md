@@ -1,14 +1,24 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601105835id_/https%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025020056id_/https%3A//www.rapid7.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Rapid7
 
-**Effective as of May 4, 2016**
+**EFFECTIVE AS OF SEPTEMBER 30, 2016**
 
-Rapid7 LLC and its affiliates (collectively, "we", "our", "us" or "Rapid7") are committed to your privacy. This Privacy Policy describes how Rapid7 collects and uses the personal information you provide on our Web sites: [www.rapid7.com](http://www.rapid7.com/) and [www.metasploit.com](http://www.metasploit.com/) (each a "Site" and collectively, the "Sites"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We encourage you to read this Privacy Policy carefully when using the Site, or when providing information to us through the Site. You understand that by using the Site you are accepting our practices as described in this privacy statement.
+Rapid7 LLC and its affiliates (collectively, "we", "our", "us" or "Rapid7") are committed to your privacy. This Privacy Policy describes how Rapid7 collects and uses the personal information you provide on our Web sites: [www.rapid7.com](https://www.rapid7.com/) and [www.metasploit.com](https://www.metasploit.com/) (each a "Site" and collectively, the "Sites"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We encourage you to read this Privacy Policy carefully when using the Site, or when providing information to us through the Site. You understand that by using the Site you are accepting our practices as described in this privacy statement 
 
-The TRUSTe program covers information collected through these Web sites, [www.rapid7.com](http://www.rapid7.com/) and [www.metasploit.com](http://www.metasploit.com/) and does not cover information that may be collected through any software downloaded from the Sites. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@rapid7.com](mailto:mailto:info@rapid7.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+#### EU-U.S. Privacy Shield 
 
-Rapid7 participates in the U.S.-Swiss Safe Harbor and U.S.-EU Safe Harbor Privacy Frameworks as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Rapid7 has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. To learn more about the Safe Harbor program, and to view Rapid7's certification, please visit <http://www.export.gov/safeharbor/>.
+Rapid7 LLC and its parent and subsidiary companies (Rapid7, Inc., Rapid7 Ireland Ltd., Rapid7 International Ltd., Rapid7 Netherlands B.V., Rapid7 Singapore Pte. Ltd., Rapid7 Germany GmbH, Rapid7 Canada, Inc., and Rapid7 Australia Pty Ltd.) participate in and have certified its compliance with the EU-U.S. Privacy Shield Framework. Rapid7 LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
+
+Rapid7 LLC is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Rapid7 LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Rapid7 LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Rapid7 LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+
+Rapid7 participates in the U.S.-Swiss Safe Harbor and U.S.-EU Safe Harbor Privacy Frameworks as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Rapid7 has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. To learn more about the Safe Harbor program, and to view Rapid7's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 #### Collection and Use of Personal Information
 
@@ -19,8 +29,6 @@ We collect the following personal information from you
   * Unique Identifiers such as user name, account number, password
 
 
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
 We use this information to
 
@@ -43,7 +51,7 @@ We may use the information described above to send you a newsletter or other mar
 
 We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personal information to third parties.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
 We may also disclose your personal information
 
@@ -56,19 +64,19 @@ We may also disclose your personal information
 
 #### Third Party E-Commerce Solutions Provider
 
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
 
 #### Cookies and Other Tracking Technologies
 
 Technologies such as: cookies, beacons, tags and scripts are used by Rapid7 and our affiliates, or analytics or service providers, such as our online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies for our shopping cart, to remember users' settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies for our shopping cart, to remember users' settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
 We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you.
 
-We and our partners use Local Storage (LS) such as HTML5 or similar technologies to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We use Local Storage (LS) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LS such as HTML 5 and Flash cookies to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 We partner with third party sites to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <http://preferences-mgr.truste.com/> (or if located in the European Union click <http://www.youronlinechoices.eu/>) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
@@ -96,11 +104,17 @@ Our Site may also offer publicly accessible blogs or community forums. You shoul
 
 #### Customer Testimonials/Comments/Reviews
 
-We post customer testimonials/comments/reviews on our website which may contain Personal Information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [info@rapid7.com](mailto:info@rapid7.com). 
+We post customer testimonials/comments/reviews on our website which may contain Personal Information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [info@rapid7.com](mailto:info@rapid7.com "mailto:info@rapid7.com").
+
+#### Send Invites
+
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Rapid7 stores this information via our hosting provider for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at [info@rapid7.com](mailto:info@rapid7.com) to request that we have this information removed from our provider's database
 
 #### Correcting and Updating Your Personal Information
 
-To review, delete or and update your personal information to ensure it is accurate, contact us at [info@rapid7.com](mailto:info@rapid7.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 5 days.
+Upon request RAPID7 will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by emailing us at [info@rapid7.com](mailto:info@rapid7.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 #### Data Retention
 
