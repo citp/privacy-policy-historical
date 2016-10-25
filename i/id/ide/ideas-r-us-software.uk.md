@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideas-r-us-software.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603225651id_/http%3A//ideas-r-us-software.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas-r-us-software.uk privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025042029id_/http%3A//ideas-r-us-software.uk/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ideas R Us Software - Privacy Policy
 
@@ -140,13 +140,13 @@
 
 ### 13\. Cookies
 
-13.1 See our Cookies Policy [Cookies](https://web.archive.org/web/20160603225651id_/http%3A//ideas-r-us-software.uk/Legal/CookiesPolicy.aspx).
+13.1 See our Cookies Policy [Cookies](https://web.archive.org/web/20161025042029id_/http%3A//ideas-r-us-software.uk/Legal/CookiesPolicy.aspx).
 
 ### 14\. Data protection registration
 
 14.1 We are registered as a data controller with the UK Information Commissioner's Office.
 
-14.2 Our data protection registration number is [PENDING].
+14.2 Our data protection registration number is ZA192618.
 
 ### 15\. Our details
 
