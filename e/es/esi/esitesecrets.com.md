@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esitesecrets.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416064520id_/http%3A//esitesecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esitesecrets.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025061747id_/http%3A//esitesecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
