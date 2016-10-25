@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605013936id_/https%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvaslms.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025040225id_/https%3A//www.canvaslms.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,8 +51,6 @@ We will share your personal information with third parties only in the ways that
 **THIRD PARTY SERVICE PROVIDERS.** We may share your personal information with third party service providers for the sole purpose of providing you with the Services that we offer you through our Site ( **“INTERNAL PURPOSES”** ). For example, we may share data with service providers who host our websites or provide email services on our behalf.
 
 **OTHER DISCLOSURES.** Instructure may disclose information about you if it believes such disclosure is necessary to (a) comply with laws or to respond to lawful requests and legal process; or (b) protect or defend the rights, safety, or property of Instructure, users of the Services, or any person including to enforce our agreements, policies, and terms of use, or (c) in an emergency to protect the personal safety of any person (collectively, “a”, “b” and “c”, ENFORCEMENT PURPOSES”).
-
-We may also share information about you in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company. In these circumstances, we will only share information with a company that has agreed to data privacy standards no less stringent than our own. In the event that information is shared in this manner, notice will be posted on our Site.
 
 We may also share de-identified and aggregated data with others for their own uses.
 
