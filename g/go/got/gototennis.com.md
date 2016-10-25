@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gototennis.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603163246id_/http%3A//gototennis.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gototennis.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025225410id_/http%3A//gototennis.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | GOTOTENNIS
 
