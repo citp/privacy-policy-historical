@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the greenwichmeantime.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627194735id_/http%3A//wwp.greenwichmeantime.com/privacy-and-cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichmeantime.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025221956id_/http%3A//greenwichmeantime.com/privacy-and-cookies.htm) for the most accurate reproduction.*
 
 # GMT: Greenwich Mean Time - World Time / Time in every Time Zone | Greenwich Mean Time
 
-  * [Home](https://web.archive.org/)
-  * [ Privacy And Cookies](https://web.archive.org/privacy-and-cookies.htm/ " Privacy And Cookies")
+  * [Home](https://greenwichmeantime.com/)
+  * [ Privacy And Cookies](https://greenwichmeantime.com/privacy-and-cookies/ " Privacy And Cookies")
 
 
 
-**Effective Date: 21 May 2015**
+**Effective Date: 10 August 2016**
 
   1. **Who are we?**
     1. We are Greenwich 2000 Limited. We own and operate this site. Our contact details are on the site. Please contact us if you have any questions or feedback about this policy.
@@ -45,7 +45,8 @@
       5. **_Dstillery advertising cookies:_** Dstillery places third party advertising cookies on our site. Click [here](http://dstillery.com/privacy-policy/) for more information and to opt out.
       6. **_Analytics cookies:_** Our site also uses analytics cookies placed by [Drawbrid.ge](http://www.drawbrid.ge/privacy) (opt out [here](http://www.drawbrid.ge/optout)), [Datalogix](https://www.datalogix.com/privacy/)  (includes opt out) and [Scorecard](http://www.scorecardresearch.com/privacy.aspx) (includes opt out).
       7. **_Twitter cookies:_** Twitter places persistent cookies (up to two years) to facilitate tweets relating to our site. Click [here](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies) for more information.
-      8. **_Cookie warning cookie:_** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the site. This persistent cookie will remember your preference for up to two years.
+      8. **_Cookie warning cookie (:_** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which will appear when you first visit the site. This persistent cookie will remember your preference for one year.
+      9. **_Pingdom cookie ("PRUM_EPISODES") (:_** This cookie is created by the Pingdom Real User monitoring service, used for analytics and to filter out web crawlers.
     4. By continuing to use our site, having seen our cookie notice, we assume that you consent to use of the cookies outlined above.  
 
 
@@ -80,6 +81,12 @@
 
 
 Version 6
+
+#### Rate this page
+
+5 stars 4 stars 3 stars 2 stars 1 star
+
+Thanks for your feedback
 
   
 
