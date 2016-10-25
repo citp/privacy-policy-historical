@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322053800id_/http%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025070014id_/https%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Golden Tours
 
@@ -14,7 +14,7 @@ This policy only applies to our site. Where our site contains links to other sit
 
 We may collect and process the following data about you:
 
-Information that you provide by filling in forms on our site <http://www.goldentours.com/>. This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
+Information that you provide by filling in forms on our site <https://www.goldentours.com/>. This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.
 
 If you contact us, we may keep a record of that correspondence.
 
@@ -22,7 +22,7 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-Please also refer to our cookie policy <http://www.goldentours.com/cookie-policy>
+Please also refer to our cookie policy <https://www.goldentours.com/cookie-policy>
 
 ### Use of Customer Information
 
