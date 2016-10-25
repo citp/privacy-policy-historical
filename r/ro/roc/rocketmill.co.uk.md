@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketmill.co.uk privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322185416id_/https%3A//www.rocketmill.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketmill.co.uk privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025025740id_/https%3A//www.rocketmill.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RocketMill
 
