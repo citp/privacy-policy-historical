@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracyanderson.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324061825id_/http%3A//tracyanderson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracyanderson.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025151502id_/http%3A//tracyanderson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tracy Anderson | A revolutionary fitness method, created by Tracy Anderson, providing customized training, DVDs, and more.
 
@@ -114,5 +114,5 @@ and we will promptly remove you from **ALL** correspondence.
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 www.tracyanderson.com  
 USA  
-info[@tracyandersonmethod.com](http://tracyanderson.com/members/5994/)  
+info[@tracyandersonmethod.com](http://tracyanderson.com/members/29125/)  
 Last Edited on 2015-03-26
