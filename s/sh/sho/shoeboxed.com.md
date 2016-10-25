@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514022609id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025104401id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoeboxed.com | Shoeboxed.com
 
@@ -10,7 +10,7 @@
   * [Contact](https://web.archive.org/contact/)
   * [Sign Up for a Forever Free Account](https://register.shoeboxed.com/)
 
-Last Updated: July 16, 2015
+Last Updated: May 23, 2016
 
 Shoeboxed Privacy Practices Verified by TRUSTe
 
@@ -89,7 +89,7 @@ We follow generally accepted standards to protect the personal information submi
 
 ## Your choices about your privacy
 
-You may always opt not to disclose certain personal information, but that may mean that you will not be able to access certain services. For example, your name and e-mail address are necessary to complete the registration process. After registration, you can always opt out of receiving non-service related messages by clicking manage your subscription at the bottom of these messages or by contacting us at [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com).
+You may always opt not to disclose certain personal information, but that may mean that you will not be able to access certain services. For example, your name and e-mail address are necessary to complete the registration process. After registration, you can always opt out of receiving non-service related messages by clicking manage your subscription at the bottom of these messages or by contacting us at [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com). We will respond to your request within a reasonable timeframe.
 
 You will receive an automatic welcome e-mail necessary to complete your registration process. You may also receive service-related announcements on rare occasions, for example, if our service is temporarily suspended. If you do not wish to receive these announcements, you have the option of deactivating your account. You may request that your account be deleted or deactivated from Shoeboxed by sending an e-mail to [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com).
 
