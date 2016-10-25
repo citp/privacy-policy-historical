@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jilt.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331143902id_/https%3A//jilt.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jilt.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025062030id_/https%3A//jilt.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jilt
 
