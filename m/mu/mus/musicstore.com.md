@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the musicstore.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325020959id_/https%3A//www.musicstore.de/en_GB/GBP/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicstore.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025042144id_/https%3A//www.musicstore.de/en_GB/GBP/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### The protection of your personal data is very important to us.
 
-Here, we would like to inform you of our privacy policy. Of course we respect the standards and regulations of the Federal Data Protection Act (FDPA/BDSG), the German Teleservices Act (TMG) and other data protection laws and regulations.
+We would like to inform you of our privacy policy. Of course we respect the standards and regulations of the Federal Data Protection Act (FDPA/BDSG), the German Teleservices Act (TMG) and other data protection laws and regulations.
 
 When you visit our website we will store your computer’s current IP address, date and time, the type of browser used, your computer’s operating system and the pages you have visited. Your personal data is collected and stored exclusively in a anonymized or pseudonymized form and lead back to you as a natural person.
 
@@ -36,7 +36,7 @@ E-Mail: [datenschutz@musicstore.de](mailto:datenschutz@musicstore.de)
 
 ### Use of Cookies
 
-In order to expand the range of functions on our website and in order to make your visit to our website more comfortable we use technologies like „cookies“. With the help of these cookies data can be stored on your computer when visiting our website. You have the option to prevent cookies from being stored on your computer by changing your browser’s settings. Refer to the help section of your internet browser for further information on how to delete and disable cookies. The range of functions of our website might be limited when cookies are disabled.
+Similarly to many other commercial sites, we use so-called "Cookies" to expand the functionality of our website and to make the use more comfortable for you. Using these Cookies allows data to be stored on your computer when you visit our website. However, Cookies can not read information from your computer or interact with other Cookies on your hard drive. If you do not wish your browser to accept cookies, you have the option to prevent cookies being stored on your computer by changing the relevant settings of your browser. For more information, please refer to the user instructions of your internet browser. Please note that preventing their use may restrict the functionality and limit your experience of our website, it is even possible that this prevents our website from functioning entirely, specifically the purchasing functions.
 
 ### Data Collection via Use of Google Analytics
 
@@ -49,3 +49,37 @@ You have the option to prevent cookies from being stored on your computer by cha
 In case our website refers or links you to third party websites we do not assume liability and responsibility for the accuracy and completeness of content and data security of these websites. Since we have no control of statutory data protection regulations via third parties we ask you to verify the provided privacy policy separately.
 
 Finally, we’d like to point out that the data transfer within the internet (e.g. vie e-mail communication) can provide security gaps. A gapless protection of data when third party access is involved is not possible.
+
+### **Data Collection with Econda**
+
+In order to better meet our customer’s demands and to optimize this website, anonymised data is collected and stored using solutions and technologies offered by Econda GmbH (http://www.econda.de/), as well as the generation of user profiles using pseudonyms. For this purpose, cookies can be used which enable the recognition of your internet browser. However, user profiles are not combined with the pseudonym data without the explicit consent of the visitor. In particular, IP addresses are made unrecognizable immediately after receipt, which makes it impossible to assign user profiles to IP addresses. Visitors to this website may object to this data collection and storage at any time.
+
+More information:
+
+<http://www.econda.com/econda/company/data-protection/>
+
+### **Data Collection with Adnexus**
+
+Adnexus, a web analytics service provided by AdNexusMedia LLC, collects and stores data from which user profiles are created using pseudonyms. These user profiles are used to analyze the visitor’s behavior and are evaluated in order to make improvements to our service. Cookies can be used to this end. These are small text files which are stored locally on the computer of the site visitor, they enable the ability to recognize user upon repeated visits. The anonymous user profiles are not combined with personal data about the user of the pseudonym without the express consent of the data subject. Data collection and storage for the purpose of web analysis can be restricted at any time with immediate effect and for all future use. Please visit [https://www.appnexus.com/en/company/platform-privacy-policy] to opt out.
+
+More information:
+
+<https://www.appnexus.com/en/company/privacy-policy>
+
+### **Use of Facebook Plugin**
+
+This website uses the so-called social plugin from the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ( "Facebook"). The plugin is marked with a Facebook logo or with "Facebook Social Plugin". An overview of the Facebook plugin and its appearance can be found here:
+
+<https://developers.facebook.com/docs/plugins>
+
+When you visit a page of our website that contains such a plug-in, your browser connects directly to the Facebook servers. The content of the plugin is transmitted from Facebook directly to your browser and integrated into the page. Through this integration, Facebook recieves the information that your browser has accessed the corresponding webpage of our website, even if you do not have a Facebook profile or have not logged into your account. This information (including your IP address) is sent directly from your browser to a Facebook server and stored there.
+
+If you are logged into Facebook, Facebook can directly associate our website to your Facebook profile. If you interact with the plugin, for example, press the "Like" button or leave a comment, this information is also sent directly to a Facebook server and stored there. The information is also published to your Facebook profile and displayed to your Facebook friends.
+
+The purpose and scope of the data collection and the further processing and use of the data by Facebook, as well as your rights and settings for the protection of your privacy, please refer to the Privacy Policy of Facebook:
+
+<http://www.facebook.com/policy.php/>
+
+If you do not wish Facebook to map the data collected through our website directly to your Facebook profile, you must log out of your Facebook account before you visit our website. You can also completely prevent the loading of Facebook plugins with add-ons for your browser, for example with the "Facebook Blocker":  
+[  
+http://webgraph.com/resources/facebookblocker/](http://webgraph.com/resources/facebookblocker/)
