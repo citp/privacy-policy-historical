@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentai.to privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033505id_/http%3A//www.hentai.to/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentai.to privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025063500id_/http%3A//www.hentai.to/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hentai.TO
 
