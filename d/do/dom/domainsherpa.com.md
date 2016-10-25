@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427173716id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025213541id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
 
 # DomainSherpa Privacy Policy
 
@@ -71,5 +71,3 @@ Attn: Privacy Agent
 Bainbridge Island, WA 98110
 
 #### If you enjoyed this article, subscribe for updates (it's free)
-
-[](https://uniregistry.com/professionals?utm_source=domainsherpa&utm_medium=banner&utm_content=protools&utm_campaign=2016Q2)
