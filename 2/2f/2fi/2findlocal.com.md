@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2findlocal.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428233809id_/http%3A//www.2findlocal.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2findlocal.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025170831id_/http%3A//www.2findlocal.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 2FINDLOCAL.COM
 
