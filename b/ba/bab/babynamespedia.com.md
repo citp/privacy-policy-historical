@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamespedia.com privacy policy that was archived on 2008-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080501221856id_/http%3A//www.babynamespedia.com/general%3Fd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamespedia.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025224440id_/http%3A//www.babynamespedia.com/general%3Fd%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy at Baby Names Pedia
 
@@ -57,11 +57,11 @@ Cookies
 
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Baby Names Pedia uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on this site. Their DART cookie enables them to serve ads to you based on your visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to use the "My Shortlist" function and to participate actively in message boards, forums, polling and surveys.
 
 ## Privacy Policy Use
-
-How the information you gather is used if relevent.
 
 **USE OF INFORMATION**
 
