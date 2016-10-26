@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mardox.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213102502id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardox.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026234105id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.*
 
-# Mardox Main Page
+# Mardox.com - Privacy Policy
 
 ## Privacy Policy
 
@@ -46,7 +46,7 @@ For site security purposes and to ensure that this service remains available to 
 
 ## Links to Other Sites 
 
-This website contains links to external sites. Mardox Corp is not responsible for the content and the privacy practices of other websites, and we encourage you to examine each site’s privacy policy and disclaimers in order to make your own decisions regarding the accuracy, reliability and correctness of material and information found therein.  
+This website contains links to external sites. Mardox Corp is not responsible for the content and the privacy practices of other websites, and we encourage you to examine each site�s privacy policy and disclaimers in order to make your own decisions regarding the accuracy, reliability and correctness of material and information found therein.  
 
 
 ## Retention of Your Information 
