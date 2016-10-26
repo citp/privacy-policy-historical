@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keyscity.net privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216125354id_/http%3A//keyscity.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyscity.net privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026165558id_/https%3A//a2zcity.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Keyscity.Info
+# Privacy Policy | A2zcity.Net
 
 **Your Privacy**
 
@@ -16,7 +16,7 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 **Collection of Personal Information**
 
-When visiting Keyscity.Info, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting A2zcity.Net, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 **Links to third party Websites**
 
@@ -26,11 +26,11 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Keyscity.Info  then you may [Contact US](http://keyscity.info/contact-us/)
+If you have any questions regarding the privacy policy of A2zcity.Net  then you may [Contact US](http://a2zcity.net/contact-us/)
 
 **Submiting Articles or Tutorials:**
 
-If you have an article you’ve written that you want read by a broad audience? Articles on Keyscity.Net are read by thousands of visitors a day and can provide great exposure for writers.
+If you have an article you’ve written that you want read by a broad audience? Articles on A2zcity.Net are read by thousands of visitors a day and can provide great exposure for writers.
 
 **Before Downloading Read Term’s and Condition :**
 
