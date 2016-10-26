@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odownloadmanager.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612103520id_/http%3A//www.odownloadmanager.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odownloadmanager.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027004219id_/http%3A//odownloadmanager.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Open Download Manager :: Privacy Policy
 
