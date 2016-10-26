@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the senukeinferno.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103304id_/http%3A//senukeinferno.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senukeinferno.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026154948id_/http%3A//senukeinferno.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Senuke Inferno
 
 PRIVACY POLICY  
 
 
-Welcome to http://senukeinferno.com (the “Site”).
+Welcome to http://senukeinferno.com (the "Site").
 
 We understand that privacy online is important to users of our Site, especially when conducting business.  
-This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Senuke Inferno (collectively, “Services”) (“Authorized Customers”).
+This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without  
+transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Senuke Inferno (collectively, "Services") ("Authorized Customers").
 
-“Personally Identifiable Information”   
+"Personally Identifiable Information"   
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
 or demographic information not connected to an identified individual.
 
@@ -25,7 +25,7 @@ How does the Site use Personally Identifiable Information?
 We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
 With whom may the information may be shared?  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
 
 How is Personally Identifiable Information stored?  
 Personally Identifiable Information collected by Senuke Inferno is securely stored and is not accessible to third parties or employees of Senuke Inferno except for use as indicated above.
@@ -37,7 +37,7 @@ Are Cookies Used on the Site?
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
 How does Senuke Inferno use login information?   
-Senuke Inferno uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+Senuke Inferno uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?  
 Senuke Inferno has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
@@ -52,7 +52,7 @@ How can Visitors correct any inaccuracies in Personally Identifiable Information
 Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at senukeinferno@hotmail.com
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 What happens if the Privacy Policy Changes?  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
