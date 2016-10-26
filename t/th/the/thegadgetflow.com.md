@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327173800id_/http%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026215946id_/http%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » The Gadget Flow
 
