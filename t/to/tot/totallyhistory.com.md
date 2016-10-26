@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyhistory.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426024902id_/http%3A//totallyhistory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyhistory.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026020644id_/http%3A//totallyhistory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
