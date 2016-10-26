@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153607id_/http%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsitecare.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026232721id_/https%3A//www.wpsitecare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WP Site Care
+# Privacy Notice | WP Site Care
 
 **What information do we collect?**
 
@@ -56,11 +56,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.wpsitecare.com/tos>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.wpsitecare.com/tos>
 
 **Your Consent**
 
-By using our site, you consent to our online privacy policy.
+By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -70,7 +70,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.wpsitecare.com](http://www.wpsitecare.com/)  
+[https://www.wpsitecare.com](https://www.wpsitecare.com/)  
 1755 East 200 North  
 Spanish Fork, UT 84660  
 United States  
