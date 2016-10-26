@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312083623id_/https%3A//www.hover.com/privacy%3Fsource%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaindirect.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027015741id_/https%3A//www.hover.com/privacy%3Fsource%3Dfooter) for the most accurate reproduction.*
 
 # Domains and domain email made simple - Hover
 
