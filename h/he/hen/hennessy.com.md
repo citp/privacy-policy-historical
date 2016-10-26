@@ -1,64 +1,70 @@
-> *The following text is extracted and transformed from the hennessy.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622210806id_/http%3A//www.hennessy.com/en-int/legal_notes/policy_cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hennessy.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026060648id_/http%3A//www.hennessy.com/en-int/legal_notes/policy_cookies) for the most accurate reproduction.*
 
 # PERSONAL DATA & COOKIES POLICY | Hennessy
 
-_Last updated: 23_ _May_ _2014_
+_Last updated: 22 september 2016_
 
-The policy below details the data protection and cookies policy of Jas Hennessy & Co, having its registered address in France, Cognac (16100), rue de la Richonne, (“Hennessy”) with regard to personal data provided on the website ([www.hennessy.com](http://www.hennessy.com/)) (the “Site”). Hennessy respects your concerns regarding the confidentiality of personal information and data provided by you. By providing your personal information and data, you consent to the use, analysis and, where applicable, disclosure of such information under the terms and conditions outlined below.
+The policy below details the data protection and cookies policy of Jas Hennessy & Co, having its registered address in France, Cognac (16100), rue de la Richonne, (“Hennessy”) with regard to personal data provided on the website ([www.hennessy.com](http://www.hennessy.com/)) (the “Site”).
+
+Hennessy respects your concerns regarding the confidentiality of personal information and data provided by you. By providing your personal information and data, you consent to the use, analysis and, where applicable, disclosure of such information under the terms and conditions outlined below. ovided on the website ([www.hennessy.com](http://www.hennessy.com/)) (the “Site”). Hennessy respects your concerns regarding the confidentiality of personal information and data provided by you. By providing your personal information and data, you consent to the use, analysis and, where applicable, disclosure of such information under the terms and conditions outlined below.
 
 ## 1\. GENERAL INFORMATION
 
-Hennessy may collect personal data via the Site from users in relation notably with documents or services request, visit booking or subscription to certain services or purchase of products or services (eg last & first name, e-mail address, age, city, state and country of residence, telephone number). Any personal data you may be providing Hennessy with for the use of certain services is governed by the French law n°78-17 “Informatique et Libertés” dated 6 January 1978 (amended).
+Hennessy may collect personal data via the Site from users in relation notably with documents or services request, visit booking or subscription to certain services or purchase of products or services (eg last & first name, e-mail address, age, city, state and country of residence, telephone number).
+
+Any personal data you may be providing Hennessy with for the use of certain services is governed by the French law n°78-17 “Informatique et Libertés” dated 6 January 1978 (amended). 
 
 ## 2\. RIGHT TO ACCESS, CORRECT AND DELETE DATA AND TO OBJECT TO DATA PROCESSING
 
-You are entitled to access, correct and delete your personal data, and to object to the processing of such data. You are also entitled to object at no cost to the use of your personal data for commercial prospecting messages. You may exercise these rights, at any time, by writing to the following address: Jas Hennessy & Co, Consumer Relations Department, rue de la Richonne, CS 20020 16101 Cognac Cedex (France) or by sending an e-mail to: contact@hennessy.fr.You are also entitled, if relevant, to change your choices previously expressed via your account or using unsubscribe links contained in our prospecting messages sent by e-mail
+You are entitled to access, correct and delete your personal data, and to object to the processing of such data. You are also entitled to object at no cost to the use of your personal data for commercial prospecting messages. You may exercise these rights, at any time, by writing to the following address: Jas Hennessy & Co, Consumer Relations Department, rue de la Richonne, CS 20020 16101 Cognac Cedex (France) or by sending an e-mail to: contact@moethennessy.com.
+
+You are also entitled, if relevant, to change your choices previously expressed via your account or using unsubscribe links contained in our prospecting messages sent by e-mail
 
 ## 3\. MANAGEMENT OF PERSONAL DATA
 
-**3.1 Purpose of data collection**
+ **3.1 Purpose of data collection**
 
 Hennessy collects your personal data via the Site only for the following purposes:
 
-\- handling of customer relation and prospects,
+-            handling of customer relation and prospects,
 
-\- commercial segmentation, personalization of our services and communications,
+-            commercial segmentation, personalization of our services and communications,
 
-\- sending information about Hennessy and its activities and  advertising or commercial prospecting messages in compliance with your choices about commercial prospection,
+-            sending information about Hennessy and its activities and advertising or commercial prospecting messages in compliance with your choices about commercial prospection,
 
-\- booking of visit,
+-            booking of visit,
 
-\- set-up of a personal account,
+-            set-up of a personal account,
 
-\- statistics, studies and analysis, marketing, improvement of the Site, products and services of Hennessy,
+-            statistics, studies and analysis, marketing, improvement of the Site, products and services of Hennessy,
 
 Mandatory information must be entered in the information fields marked with an asterisk in the data collection forms. If these fields are not completed, we are unable to address your query and/or to provide the services requested.
 
 To express your preferences about commercial prospection or to change your previous choices, we invite you to consult the section “RIGHT TO ACCESS, CORRECT AND DELETE DATA AND TO OBJECT TO DATA PROCESSING” above mentioned.
 
-**3.2 Retention of data**
+ **3.2 Retention of data**
 
-Data is retained for a period appropriate to the purposes for which it was collected and is, in any event, destroyed at the end of such period:
+Data is retained for a period appropriate to the purposes for which it was collected and is, in any event, destroyed at the end of such period
 
-**3.3 Data recipients**
+ **3.3 Data recipients**
 
 Hennessy is the recipient of the data.
 
-Hennessy may share your personal data with other entities of the Moët Hennessy group either in France and abroad, for customer/prospect relationship management, commercial prospection, studies and statistics in compliance with your choices about commercial prospection.
+Hennessy may share your personal data with other entities of the Moët Hennessy group either in France and abroad (including to our service providers), for customer/prospect relationship management, commercial prospection, studies and statistics in compliance with your choices about commercial prospection.
 
 Except the cases above mentioned, Hennessy may communicate your personal data to third parties only provided that:
 
-\- you have given your prior consent to such communication to a third party, and/or,
+-            you have given your prior consent to such communication to a third party, and/or,
 
-\- Hennessy has to share such information with third parties in order to provide the products or service you have requested, and/or,
+-            Hennessy has to share such information with third parties in order to provide the products or service you have requested, and/or,
 
-\- Hennessy is required by a judicial authority or any other administrative authority to provide it with such information.
+-            Hennessy is required by a judicial authority or any other administrative authority to provide it with such information.
 
-**3.4** **Transfers of your personal information outside the European Union**
+ **3.4** **Transfers of your personal information outside the European Union**
 
-Hennessy is an entity of the Moet Hennessy group which operates its businesses worldwide. Your information may thus be sent outside the European Union, to other entities of the Moet Hennessy group or to our service providers, including to countries which do not have data protection laws equivalent to those in force in the European Union (including in the United States and in Asia) for the purposes identified in this policy. Such transfers occur in conditions enabling to ensure the protection and security of your personal data, notably due to implemented contractual guarantees or, as the case may be, for transfers to the United States, under the guarantees held set under the Safe Harbor, in order to ensure a satisfactory protection level, in accordance with the applicable regulation.
+The Company is an entity of the Moet Hennessy group which operates its businesses worldwide. Your information may thus be sent outside the European Union, to other entities of the Moet Hennessy group or to our service providers, including to countries which do not have data protection laws equivalent to those in force in the European Union (including in the United States and in Asia) for the purposes identified in this policy. Such transfers occur in conditions enabling to ensure the protection and security of your personal data, notably due to implemented contractual guarantees in order to ensure a satisfactory protection level, in accordance with the applicable regulation.
 
-**3.5 Data security and privacy**
+ **3.5 Data security and privacy**
 
 Hennessy makes every effort to put in place suitable precautions to safeguard the security and privacy of personal data, and to prevent it from being altered, corrupted, destroyed or accessed by unauthorized third parties.
 
@@ -72,11 +78,11 @@ These Cookies do not allow us to identify users individually and their duration 
 
 Unless you prefer to disable these Cookies as indicated below, the following Cookies will be placed on your terminal:
 
-**Technical** **name**
+ **Technical** **name**
 
 | 
 
-**Description and Aim**  
+ **Description and Aim**  
   
 ---|---  
   
@@ -102,7 +108,7 @@ You can disable Cookies in your web browser. However, this may disable all cooki
 
 You can disable cookies in your web browser as follows:
 
-_Microsoft Internet Explorer 6.0 and above:_
+ _Microsoft Internet Explorer 6.0 and above:_
 
 1\. Go to "Tools", then "Internet Options".
 
@@ -110,7 +116,7 @@ _Microsoft Internet Explorer 6.0 and above:_
 
 3\. Use the cursor to select the level you require.
 
-_Microsoft Internet Explorer 5:_
+ _Microsoft Internet Explorer 5:_
 
 1\. Go to "Tools", then "Internet Options".
 
@@ -120,7 +126,7 @@ _Microsoft Internet Explorer 5:_
 
 4\. Under "cookies", select the option you want.
 
-_Netscape 6.x and 7.x:_
+ _Netscape 6.x and 7.x:_
 
 1\. Click the "Edit" menu, then "Preferences".
 
@@ -128,13 +134,13 @@ _Netscape 6.x and 7.x:_
 
 3\. Cookies.
 
-_Firefox:_
+ _Firefox:_
 
 1\. Go to "Tools", then "Options".
 
 2\. Click on the "Privacy" setting.
 
-_Safari 3.x for Mac OS X:_
+ _Safari 3.x for Mac OS X:_
 
 1\. Click the "Edit" menu.
 
@@ -144,7 +150,59 @@ _Safari 3.x for Mac OS X:_
 
 4\. Click "Display cookies".
 
-**_Chrome_**
+ ** _Chrome_**
+
+1.   Select Settings.
+
+2.   Click Show advanced settings.
+
+3.   In the "Privacy" section, click the Content settings button.
+
+4.   In the "Cookies" section, you can change the cookies settings:
+
+ _Microsoft Internet Explorer 6.0 and above:_
+
+1\. Go to "Tools", then "Internet Options".
+
+2\. Click on the "Privacy" tab.
+
+3\. Use the cursor to select the level you require.
+
+ _Microsoft Internet Explorer 5:_
+
+1\. Go to "Tools", then "Internet Options".
+
+2\. Click on the "Security" tab.
+
+3\. Select "Internet", then click on "Custom Level".
+
+4\. Under "cookies", select the option you want.
+
+ _Netscape 6.x and 7.x:_
+
+1\. Click the "Edit" menu, then "Preferences".
+
+2\. Privacy and security.
+
+3\. Cookies.
+
+ _Firefox:_
+
+1\. Go to "Tools", then "Options".
+
+2\. Click on the "Privacy" setting.
+
+ _Safari 3.x for Mac OS X:_
+
+1\. Click the "Edit" menu.
+
+2\. Click the "Preferences" option.
+
+3\. Click the "Security" option.
+
+4\. Click "Display cookies".
+
+ ** _Chrome_**
 
 1.   Select Settings.
 
