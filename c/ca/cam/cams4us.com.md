@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cams4us.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515072352id_/http%3A//www.cams4us.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cams4us.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026064211id_/http%3A//cams4us.com/privacy.php) for the most accurate reproduction.*
 
 # Cams4Us - live porn webcam site privacy page
 
@@ -28,4 +28,5 @@ This site has security measures in place to protect the loss, misuse, and altera
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. You can remove yourself from each service we offer as explained in each of the services.   
 
 
-[Disclaimer](https://web.archive.org/disclaimer.php) \- [Privacy](https://web.archive.org/privacy.php) \- [Sitemap](https://web.archive.org/sitemap.php)
+[Disclaimer](https://web.archive.org/disclaimer.php) \- [Privacy](https://web.archive.org/privacy.php) \- [Sitemap](https://web.archive.org/sitemap.php)   
+© cammanager 1.0 
