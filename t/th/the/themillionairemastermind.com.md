@@ -1,33 +1,45 @@
-> *The following text is extracted and transformed from the themillionairemastermind.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005184033id_/http%3A//themillionairemastermind.com/privacypolicymm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionairemastermind.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026223515id_/https%3A//www.themillionairemastermind.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy MM | The Millionaire Mastermind
+# privacy policy - The Millionaire Mastermind
 
-themillionairemastermind.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
+This privacy policy discloses the privacy practices for TheMillionaireMastermind.com
 
-**How we gather information from users**
+This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, themillionairemastermind.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences. You may at any time opt-out of any email notifications and/or newsletters simply by clicking the link provided at the bottom of any of the messages you receive or by submitting a removal request via ticket at our help desk found at http://themillionairemastermind.com/.
+– What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
+– What choices are available to you regarding the use of your data.  
+– The security procedures in place to protect the misuse of your information.  
+– How you can correct any inaccuracies in the information.
 
-**What we do with the information we collect**
+Information Collection, Use, and Sharing
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. We may use Personally Identifiable Information collected on http://themillionairemastermind.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by themillionairemastermind.com and other topics we think you might find of interest. Personally Identifiable Information collected by themillionairemastermind.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-**Affiliated sites, linked sites and advertisements**
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-themillionairemastermind.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a themillionairemastermind.com page, certain content that is actually created or hosted by a third party. Also, through themillionairemastermind.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. themillionairemastermind.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. themillionairemastermind.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of themillionairemastermind.com and this policy.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-**Children**
+Your Access to and Control Over Information
 
-themillionairemastermind.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe themillionairemastermind.com has any information from or about anyone under 13, please contact us at the address listed below.
+You may opt-out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-**Contacting Us**
+– See what data we have about you, if any.  
+– Change/correct any data we have about you.  
+– Have us delete any data we have about you.  
+– Express any concern you have about our use of your data.
 
-We can be reached by contacting: http://themillionairemastermind.com Email: support@themillionairemastermind.com
+Security
 
-**Changes to this Policy**
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-themillionairemastermind.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
-**Governing Law**
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-This policy and the use of this Site are governed by Indiana law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Indiana. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Indiana, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. themillionairemastermind.com is controlled, operated and administered entirely within Indiana. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. This PRIVACY POLICY Was Produced Using AutoWebLaw.
+Updates
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email by help@themillionairemastermind.com or via mail by 5138 Vistamere Ct  Orlando FL 32819 United States.
+
+© 2016 TheMillionaireMastermind.com – All Rights Reserved.
