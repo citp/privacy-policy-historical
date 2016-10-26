@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsetap.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609194202id_/https%3A//www.responsetap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsetap.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026201344id_/https%3A//www.responsetap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
