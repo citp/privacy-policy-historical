@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serendeputy.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528233356id_/http%3A//serendeputy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serendeputy.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026120540id_/http%3A//serendeputy.com/privacy) for the most accurate reproduction.*
 
 # Serendeputy - Your Personal News Assistant
 
