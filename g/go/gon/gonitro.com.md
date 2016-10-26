@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonitro.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506060507id_/https%3A//www.gonitro.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonitro.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027015142id_/https%3A//www.gonitro.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nitro
 
