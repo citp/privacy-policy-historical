@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multcloud.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327000403id_/https%3A//www.multcloud.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcloud.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026222207id_/https%3A//www.multcloud.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
