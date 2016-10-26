@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425141852id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026070256id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pets At Home
 
@@ -9,6 +9,7 @@
   * Statement on the use of Personal Data
   * Cookies
   * Access Rights
+  * [Terms and conditions](http://www.petsathome.com/shop/en/pets/terms-and-conditions "Terms and conditions")
 
 
 
@@ -37,6 +38,8 @@ When you make a purchase in store or online, sign up to our VIP Club or enter a 
 
 
 We will also automatically collect data such as dates and times of your visits to the Website.
+
+When you use our website as a Guest user, we also collect your email address and may contact you to let you know if you abandon a purchase part way through the process and have unpurchased items in your basket.
 
 Back to Top
 
