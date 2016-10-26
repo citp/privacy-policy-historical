@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplypsychology.org privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310131333id_/http%3A//www.simplypsychology.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplypsychology.org privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026112359id_/http%3A//www.simplypsychology.org/privacy.html) for the most accurate reproduction.*
 
 # simplypsychology.org | Privacy Policy
 
