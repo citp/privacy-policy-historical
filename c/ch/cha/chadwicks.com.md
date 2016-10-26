@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chadwicks.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505060320id_/https%3A//www.chadwicks.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chadwicks.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026020442id_/https%3A//www.chadwicks.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Get To Know Us | Chadwicks of Boston
 
