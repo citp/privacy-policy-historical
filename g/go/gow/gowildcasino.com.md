@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409025315id_/https%3A//www.gowildcasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026141813id_/https%3A//www.gowildcasino.com/privacy-policy) for the most accurate reproduction.*
 
 # GoWild Casino Privacy Policy
 
@@ -8,9 +8,30 @@ This website (the "Site") is operated by and information gathered from this Site
 
 If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and GoWild Casino will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site, after we either personally notify you or generally post changes on the Site, will constitute your acceptance of those changes.
 
-## USE OF COOKIES AND OTHER INFO STORED ON A USER'S MACHINE
+## Cookie Policy
 
-A cookie is a file containing electronic information, which is stored on a user's hard drive to provide information needed by the user on a regular basis. Cookies are often used to save website customizations and website login data. GoWild Casino only uses cookies for the operation of the Site. An IP address is a number that uniquely identifies your computer on the internet. GoWild Casino may collect IP addresses for the purposes of system administration, security, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Site). When you visit a particular web page on the Site, our servers may log your IP address.
+**What Are Cookies**   
+Like the majority of websites, we use cookies to a limited extent to enhance the user experience, provide customization and useful features to our site and products. We also use standard analytics software to help us learn how our users are interacting with the website.   
+This page describes how we use it and why we sometimes need to store these cookies.   
+We will also share how you can prevent these cookies from being stored however, this may block certain elements of the sites functionality. 
+
+**How We Use Cookies**   
+Knowing more about you, helps us give you more of what you want. More exclusive offers, more information, and more control.   
+There are no industry standard options for disabling cookies without completely disabling the functionality and features they add to the site. It is recommended that you leave on all cookies if you are unsure of whether you need them or not. We know that personal information is valuable and needs to be treated with care. Be assured that your personal data will not be disclosed, to any third party. 
+
+**Disabling Cookies**   
+You can prevent cookies by adjusting your browser settings but keep in mind that disabling cookies will usually result in also disabling certain functionality and features of this site and many other websites that you visit, such as the ability to log in or play games. Therefore, it is recommended that you do not disable cookies. 
+
+**The Cookies We Set**   
+When creating an account with us, we will use cookies for the management of the sign-up process and general account administration. The cookies are usually deleted when you log out, however, in some cases they may remain to help remember your site preferences when logged out. This prevents you from having to log in every single time you visit a new page.   
+When you submit data through a form such as those found on the contact pages, cookies may be set to remember your user details for future correspondence. 
+
+**Third Party Cookies**   
+We use Google as our trusted analytics solution to help us understand how you use the site and the ways in which we can improve your experience. These cookies may track aspects such as how long you spend on our site and the pages that you visit so we can continue to produce the most enticing and engaging content.   
+We do have partners who advertise on our behalf and affiliate tracking cookies help us track if our customers have come to our site through one of our partners and this way, we can credit them appropriately. Sometimes, the cookies allow our affiliate partners to provide bonuses that they may offer to customers for their interaction. 
+
+**More Info**   
+We hope that has clarified the cookies usage for you and as we mentioned before, if there is something that you are not completely sure of, it is safer to leave cookies enabled. If you are still looking for more information, please [contact us](https://web.archive.org/support).
 
 ## PUBLIC MESSAGES
 
