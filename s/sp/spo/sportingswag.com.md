@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingswag.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202112400id_/http%3A//sportingswag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingswag.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026065940id_/http%3A//sportingswag.com/privacy-policy) for the most accurate reproduction.*
 
 # Sporting Swag |
 
