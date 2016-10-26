@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609135653id_/https%3A//www.alarm.com//privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026222606id_/https%3A//www.alarm.com//privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
