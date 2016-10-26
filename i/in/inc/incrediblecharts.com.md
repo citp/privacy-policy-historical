@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404153806id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026065524id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -74,8 +74,15 @@ We may use third-party service providers to facilitate some aspects of our servi
 
 We ask that children under the age of 18 have a parent or guardian verify their subscription or membership application. While we will make every reasonable effort to ensure that children's privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children's Internet usage.
 
-If you have any questions regarding privacy, please [contact us](https://web.archive.org/support/general.php) or write to us at Incredible Charts, PO Box 5182, Gold Coast Mail Centre, Queensland 4217. 
+If you have any questions regarding privacy, please [contact us](https://web.archive.org/support/general.php) or write to us at Incredible Charts, PO Box 5182, GCMC, BUNDALL, Queensland 4217, Australia. 
 
 ## Policy Modifications
 
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on November 12th 2014.
+
+| 
+
+Perfect Your Market Timing  
+Learn how to manage your market risk.  
+  
+---|---
