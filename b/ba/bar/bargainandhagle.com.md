@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainandhagle.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121055952id_/http%3A//www.bargainandhagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainandhagle.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027001010id_/http%3A//www.bargainandhagle.com/privacy) for the most accurate reproduction.*
 
 # BargainAndHagle.com - Privacy Policy
 
