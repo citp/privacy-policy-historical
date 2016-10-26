@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmefree.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325090822id_/http%3A//www.textmefree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmefree.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026051609id_/http%3A//textmefree.com/privacy.html) for the most accurate reproduction.*
 
 # TextMeFree Privacy Statement
 
