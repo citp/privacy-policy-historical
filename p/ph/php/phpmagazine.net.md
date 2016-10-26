@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpmagazine.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226112652id_/http%3A//phpmagazine.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpmagazine.net privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027011758id_/http%3A//phpmagazine.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy | PHP Magazine Network
 
