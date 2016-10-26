@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the short-hairstyles.co privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323145253id_/http%3A//www.short-hairstyles.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hairstyles.co privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026164636id_/http%3A//www.short-hairstyles.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Best Short Hairstyles for Women 2015
+# Privacy Policy | The Best Short Hairstyles for Women 2016
 
 PRIVACY POLICY FOR SHORT-HAIRSTYLES.CO
 
-Our Privacy Policy was last updated and posted on March 21, 2013. It governs the privacy terms of our Website, located at www.short-hairstyles.co. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+Our Privacy Policy was last updated and posted on March 21, 2016. It governs the privacy terms of our Website, located at www.short-hairstyles.co. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
 **Your Privacy**  
 **www.short-hairstyles.co**  follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
