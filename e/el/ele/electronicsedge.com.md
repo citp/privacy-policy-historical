@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsedge.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322163816id_/http%3A//electronicsedge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsedge.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026053818id_/http%3A//electronicsedge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronics Edge
 
