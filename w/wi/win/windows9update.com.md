@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windows9update.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325161821id_/http%3A//www.windows9update.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows9update.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026151140id_/http%3A//www.windows10update.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Windows 10 News and Updates
 
 This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
@@ -23,4 +23,4 @@ Our firm and its affiliated sites use only an “opt-in or opt out” method of 
 
 We obtain email addresses and personal information from third parties that follow the same set of policies. Email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via the [contact form](http://www.windows9update.com/contact-us/).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via the [contact form](http://www.windows10update.com/contact-us/ "Contact Us").
