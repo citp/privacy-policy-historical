@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403003334id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026134842id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - HelpwithCooking.com
 
@@ -15,6 +15,8 @@ We use third-party advertising companies to serve ads when you visit our website
 ## Cookies
 
 Some of the advertisements we have within our webpages require your browser to request the advert from the ad network website (just like your browser requesting a webpage), these companies can store their own cookies on your machine, other companies' use of cookies is subject to their own privacy policy not this one. 
+
+HelpwithCooking.com uses cookies to enable you to login to use certain features of our website. These features include our free meal planner and also the review system which allows you to leave a review about one of our pages or recipes. 
 
 ## Information sharing and disclosure
 
