@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomox.net privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327004315id_/http%3A//superfastvps.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomox.net privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027013122id_/http%3A//superfastvps.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SuperfastVPS, Super Fast Cloud web hosting and VPS Servers provider SuperfastVPS, Super Fast Cloud web hosting and VPS Servers provider
 
