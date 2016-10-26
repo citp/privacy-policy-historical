@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2016-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160318234344id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2016-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161026060911id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script>
-<!-- 1458344622 -->
+<!-- 1477462151 -->
 
 	<title>Privacy Policy | Archinect</title>
 
@@ -27,7 +27,7 @@
 
         <style type="text/css">span.archinect_error{color: red;}</style>
 
-	<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+	<script async="" src="//widgets.getsitecontrol.com/41282/script.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         var CKEDITOR_BASEPATH = '/js/ckeditor/';
 </script>
 <script type="text/javascript" src="/js/archinect.js?17"></script><style type="text/css">.noscript{display:none}</style>
@@ -145,6 +145,8 @@
 						var matches = /url=(.*)/.exec(xhr.getResponseHeader("refresh"));
 						if( matches != null ) {
 							location.replace(matches[1]);
+							if (document.location.hash == '#arc_new_comment')
+								window.location.reload();
 							return;
 						}
 						$(form).replaceWith(data);
@@ -412,7 +414,8 @@
 						return false;
 
 					e.preventDefault();
-					$('#modal_dialog').jqm({ajax: $(this).attr('href')+arc_pathname(document.location.pathname) });
+
+					$('#modal_dialog').jqm({ajax: $(this).attr('href')+arc_pathname(document.location.pathname) + (document.location.hash == '#arc_new_comment' ? '/hash/arc_new_comment':'') });
 					$('#modal_dialog').jqmShow();
 					return false;
 				});
@@ -445,6 +448,14 @@
 		});
 
 		$(document).ready(function(){
+			
+			$('#edition_switch_slickbox').hide();
+
+			$(".edition-switch-background").hover(function(){
+				$('#edition_switch_slickbox').show();
+			},function(){
+				$('#edition_switch_slickbox').hide();
+			});
 
 			$(".StatusLinks").css({opacity: 0});
 
@@ -702,9 +713,24 @@
 		</a>
 		</div>
 
-
 		<div id="arc_session_area" class="SessionArea"></div>
+		<div class="edition-switch">
+			<div class="edition-switch-wrapper">
+				<div class="edition-switch-toggle edition-uk">
+					<div class="edition-switch-background">
+					<p>Global Edition</p>
 
+					<div id="edition_switch_slickbox" class="Slickbox" style="display: none;">
+						<ul>
+						<li><a href="/ukredirect">UK Edition</a></li>
+						</ul>
+					</div><!--/#slickbox-->
+
+					</div><!--/.edition-switch-background-->
+				</div><!--/.edition-switch-toggle-->
+			</div><!--/.edition-switch-wrapper-->
+		</div>
+			
 		</div><!--/.MainMenu-->
 
 	</div><!--/.ColA-->
@@ -955,5 +981,10 @@ _qevents.push( { qacct:"p-97pfFgotR3QOc"} );
 <noscript>
 <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-97pfFgotR3QOc.gif" height="1" width="1" alt="Quantcast"/></div>
 </noscript>
+<script>
+ (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+   t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+ })(window, document, '_gscq','script','//widgets.getsitecontrol.com/41282/script.js');
+</script>
 
 </body></html>
