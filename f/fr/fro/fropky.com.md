@@ -1,55 +1,135 @@
-> *The following text is extracted and transformed from the fropky.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807172634id_/http%3A//www.fropky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropky.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026075703id_/http%3A//www.fropky.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Fropky.com
-
-**Our commitment to privacy**
-
-Fropky.com ("Fropky", "we" or "our") has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of Fropky. Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site. 
-
-**Our privacy policy in short**
-
-  * We will only use personal information you provide us according to the terms outlined in this document. 
-
-  * In order to utilize the features and services offered through this Site, you must provide a limited amount of information. 
-
-  * We will never provide personally identifiable information about you to third parties without your consent or unless we are required to do so by law.
-
-
-
+# fropky.com | Privacy Policy
 
 **What information do we collect?**
 
-During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information ("Personal Data") from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.fropky.com/terms.php) posted on the Site.In addition, we collect certain information, which cannot be used to personally identify any user, and which may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Site.You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the website. .Any user providing personal data is certifying that he/she is over the age of 13. As such, we do not collect or maintain personal data from individuals we actually know are under 13 years of age, and no part of our Site is designed to attract people under 13. Protecting the privacy of children is very important to us. Thus, if we ever obtain knowledge that that a user is under 13, we will take steps to remove that user's personal data from our databases and to prevent the user from utilizing the Site. 
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-**How do we use and disclose collected information?**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Fropky, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don't have to re-enter them each time you visit our site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site. We may also log IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). In some cases your IP address stays the same from browser session to browser session; but if you use a consumer Internet service provider (ISP), chances are that your IP address varies each session? Thus making it effectively impossible for us to use your IP address (by itself) to determine who you are. In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. We also disclose aggregated user statistics in order to describe our services and reach to prospective partners, advertisers, and other third parties. However, aggregate data is not traceable to you specifically. We may use contractors to help us with our operations. Some or all of these contractors may access our databases of user information. These contractors will enter into an agreement with us that places restrictive provisions on their use and disclosure of all information they obtain through the relationship. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Information from Other Sites**
+ **DoubleClick DART Cookie**
 
-We use Google Adsense and DoubleClick to display Ads on our website. Google may display Interest-based advertisements on your computer which will allow advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, Google Adsense will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, Google Adsense will add them to the "sports enthusiast" interest category. Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/settings/ads?hl=en). We also track users information using Google Analytics. Users can optout by [clicking here](https://tools.google.com/dlpage/gaoptout). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/choices/) of several third party ad servers and networks cookies simultaneously. The Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again. Fropky uses third party sites for hosting images. These sites may gather data from the referrer logs that identify where and how frequently user images being hosted on the respective sites are being displayed on Fropky in order to provide more relevant advertising and monitor user bandwidth usage.Fropky contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. Fropky is not responsible for the privacy practices or the content of such other sites. 
+.:: Google, as a third party vendor, uses cookies to serve ads on fropky.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to fropky.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-**Security Precautions**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-Fropky makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. Fropky encourages our users to be smart about choosing when, and to whom to release information online.Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you'd expect -- we use and disclose this information in a commercially reasonable business manner. 
 
-**Our commitment to data security**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on fropky.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, Fropky assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-**Mailing list subscriptions**
+fropky.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-Fropky provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. fropky.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-**Acceptance of Privacy Policy**
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-By using Fropky, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**How to Contact Us**
+**What do we use your information for?**
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us in any of the methods given below:
+Any of the information we collect from you may be used in one of the following ways: 
 
-  * [Click here](https://web.archive.org/web/20150807172634id_/http%3A//www.fropky.com/contact.php) to fill in the Contact Us form.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+\- To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+\- To administer a contest, promotion, survey or other site feature
+
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+
+\- To send periodic emails
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+fropky.com 
+
+Email:  
+contact@fropky.com  
 
