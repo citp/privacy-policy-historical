@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newlifeoutlook.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421041709id_/http%3A//newlifeoutlook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlifeoutlook.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026040302id_/http%3A//newlifeoutlook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NewLifeOutlook
+# Privacy Policy | NewLifeOutlook | Together We Are Strong
 
-This privacy policy (the “Privacy Policy”) describes the manner in which Rebellion Media Group Corp. and its subsidiaries and affiliates (“we”, “us”, or “our”, as the context requires) collects information from you on our websites, mobile applications or any related software, features or functionality (collectively the “Sites and Services”) and how we use and maintain that information .If you do not agree to this Privacy Policy, please do not use the Sites and Services.
+This privacy policy (the “Privacy Policy”) describes the manner in which Perk.com Canada Inc. and its subsidiaries and affiliates (“we”, “us”, or “our”, as the context requires) collects information from you on our websites, mobile applications or any related software, features or functionality (collectively the “Sites and Services”) and how we use and maintain that information .If you do not agree to this Privacy Policy, please do not use the Sites and Services.
 
 **1\. Information We Collect**
 
@@ -66,7 +66,7 @@ If you use a link to leave the Sites and Services to purchase products or servic
 
 **8\. Compliance with U.S. _Children’s Online Privacy Protection Act_**
 
-The safety and privacy of children is important to us .We do not knowingly collect or maintain information from users who are under the age of 13 .The Sites and Services are directed at a general audience and intended to be used by adults .No part of our Sites and Services are structured to attract anyone under the age of 13 .If you become aware that your child has provided us with personally identifiable information without your consent, please contact us at info@rebellionmedia.com.
+The safety and privacy of children is important to us .We do not knowingly collect or maintain information from users who are under the age of 13 .The Sites and Services are directed at a general audience and intended to be used by adults .No part of our Sites and Services are structured to attract anyone under the age of 13 .If you become aware that your child has provided us with personally identifiable information without your consent, please contact us at info@perk.com.
 
 **9\. California _Online Privacy Protection Act_ Compliance**
 
