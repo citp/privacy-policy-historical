@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfsource.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609191726id_/http%3A//tfsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfsource.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026174803id_/http%3A//tfsource.com/privacy-policy) for the most accurate reproduction.*
 
 # TF Source Privacy Policy
 
@@ -70,7 +70,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms & Conditions
 
-Please also visit our Terms & Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [**tfsource.com**](http://tfsource.com/).
+Please also visit our Terms & Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [**tfsource.com**](https://tfsource.com/).
 
 #### Your Consent
 
@@ -83,7 +83,7 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 ### What if I have questions about the Privacy Policy?
 
 If there are any questions regarding this Privacy Policy you may contact us using the information below.  
-[ **tfsource.com**](http://tfsource.com/).  
+[ **tfsource.com**](https://tfsource.com/).  
 508 SW 15th Ave, Suite C  
 Lake Forest, MN 55025 USA  
 [ **support@tfsource.com**](mailto:support@tfsource.com)  
