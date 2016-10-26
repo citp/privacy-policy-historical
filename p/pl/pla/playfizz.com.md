@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfizz.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617210216id_/http%3A//www.playfizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfizz.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027003342id_/http%3A//playfizz.com/privacy-policy) for the most accurate reproduction.*
 
 # PlayFizz | Privacy Policy
 
