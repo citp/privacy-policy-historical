@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momvantage.net privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329171216id_/http%3A//momvantage.net/pr-welcome/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momvantage.net privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026163416id_/http%3A//momvantage.net/pr-welcome/disclosure) for the most accurate reproduction.*
 
 # Disclosure Policy & Privacy Policy
 
