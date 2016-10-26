@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft-java.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619120010id_/http%3A//slovoed.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft-java.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026192435id_/http%3A//slovoed.com/en/privacy) for the most accurate reproduction.*
 
 # Slovoed
 
