@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630201224id_/http%3A//www.tello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026233327id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
 
 # Tello US | Privacy Policy & Statement | You are safe with us
 
@@ -10,7 +10,7 @@ At Tello we care about the privacy of our visitors and we are committed to prote
 
 We collect personally identifiable information, like names, postal addresses, phone numbers, email addresses, credit card number, etc, when voluntarily submitted by our visitors. This information is used only to fulfill your specific request or process your order, unless you give us permission to use it in another manner, for example to add you to one of our contact lists.
 
-Once registered with Tello, you authorize us to use the information you provide to customize your interaction with our website.
+Once registered with Tello, you authorize us to use the information you provide to customize your interaction with our website. If you choose to sign up or log in to Tello using a social media account (Facebook, Google, etc), Tello will have access to the name and email address you registered in your social media account. Even if you remove the social media account you connected with from your Tello account, your name and email address will not be removed from your Tello account. 
 
 ## Security
 
@@ -47,7 +47,7 @@ Our partners, affiliates and service providers use cookies in order to make it e
 
 ## Third Parties
 
-Also, in our efforts to match our products with the people interested in them, we use advertising services belonging to third party vendors, such as Google. Your visit on our website is likely to be a result of this third party service provided to us (AdWords, DoubleClick, etc), as well as a source to be exposed to future ads based on your past visits and interests. To opt out the use of cookies you should visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). Also to set up your advertising preferences please visit [AdRoll](http://www.adroll.com/about/privacy#optpolicy).
+Also, in our efforts to match our products with the people interested in them, we use advertising services belonging to third party vendors, such as Google. Your visit on our website is likely to be a result of this third party service provided to us (AdWords, DoubleClick, etc), as well as a source to be exposed to future ads based on your past visits and interests. To opt out the use of cookies you should visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Our presence across the Internet is the outcome of this matching of users' preference and products available. In order to reach the right audience, the external companies we collaborate with (like Google or Quantcast) may use certain information to establish consumers' habits: visits to a website, goods and services to determine or predict our visitors' characteristics, behavior, or preferences.
 
@@ -78,6 +78,6 @@ By using our website, you give Tello permission to collect information about the
 If you wish to change any information you have made available when registering, or have questions about our Privacy Policy, you can contact us at: [customerservice@tello.com](mailto:customerservice%40tello.com)
 
 Tello  
-1040 Crown Pointe Pkwy  
+4780 Ashford Dunwoody Rd  
 Atlanta, GA, 30338  
 United States
