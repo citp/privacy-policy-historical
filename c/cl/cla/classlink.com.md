@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215142925id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027014539id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
 
-# Privacy | ClassLink | Your Cloud, Your Way…
+# Privacy - ClassLink | Single Sign-On for Education
 
 As a system that connects school districts to the applications they use, ClassLink ensures that school district customers retain 100% control of their teacher, student, and parent information, including granting permission for third-party applications to access said data through ClassLink’s single sign-on connectors. In the course of enabling access, ClassLink does not retrieve nor distribute personal identifying information from districts or to third-party applications.
 
