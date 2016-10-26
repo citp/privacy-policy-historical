@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322024752id_/http%3A//www.kieselguitars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026145350id_/http%3A//www.kieselguitars.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KieselGuitars.com
 
@@ -9,7 +9,7 @@ At Carvin Guitars & Kiesel Guitars, we care about your online privacy and securi
 
   * CarvinGuitars.com
 
-  * CarvinBBS.com
+  * KieselGuitarsBBS.com
 
 
 
@@ -28,12 +28,10 @@ At Carvin Guitars & Kiesel Guitars, we care about your online privacy and securi
 Our postal address is:
 
 **Kiesel Guitars  
-12340 World Trade Drive  
-San Diego CA 92128**
+2015 Aldergrove Avenue  
+Escondido, CA 92029-1902**
 
 We can be reached via telephone at (858) 484-8277. 
-
-For BBS-specific privacy issues, contact [ administrator@carvinbbs.com](mailto:administrator@carvinbbs.com?subject=Privacy%20Policy).
 
 This privacy notice discloses the privacy practices for KieselGuitars.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
