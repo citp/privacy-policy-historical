@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlinebill.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616090138id_/http%3A//www.myonlinebill.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlinebill.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026133009id_/http%3A//myonlinebill.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Electronic Bill Presentment & Payment
 
