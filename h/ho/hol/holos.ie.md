@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holos.ie privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427152604id_/http%3A//www.holos.ie/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holos.ie privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027010747id_/http%3A//www.holos.ie/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security - Holos.ie
 
