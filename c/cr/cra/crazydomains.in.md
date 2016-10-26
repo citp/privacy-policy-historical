@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazydomains.in privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630003023id_/https%3A//www.crazydomains.in/privacy/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazydomains.in privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026151804id_/https%3A//www.crazydomains.in/privacy/terms-privacy-policy) for the most accurate reproduction.*
 
 # Crazy Domains Policies & Privacy - Domain Names
 
@@ -14,14 +14,14 @@ This policy governs the use and disclosure by us of personal information of our 
 
 We collect or maintain the following personal information about our users:
 
-  * Name
-  * Address
-  * Telephone Number
-  * Email Address
-  * Username & Password
-  * Credit Card details (if applicable), including a protected scan/photo of the card
-  * Photo/Official Identification
-  * Business/entity/organisation details and identification
+  * Name;
+  * Address;
+  * Telephone Number;
+  * Email Address;
+  * Username & Password;
+  * Credit Card details (if applicable), including a protected scan/photo of the card;
+  * Photo/Official Identification;
+  * Business/entity/organisation details and identification.
 
 
 
@@ -51,8 +51,8 @@ The personal information we collect may be used for the following purposes:
 
   * To administer our network;
   * For billing purposes;
-  * If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the account settings in your members console or you can contact us at customercare@crazydomains.com;
-  * For any other purpose for which you would reasonably expect your personal information to be used;
+  * If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the account settings in your members console or you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com);
+  * For any other purpose for which you would reasonably expect your personal information to be used.
 
 
 
@@ -62,35 +62,35 @@ We will share your personal information with third parties only in the ways that
 
 Your personal information may be disclosed, and you hereby irrevocably consent to such disclosure, in the following circumstances:
 
-  * To our authorised officers and our agents for the purpose of administering our network or for billing or credit collection purposes
-  * To companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us
-  * Under compulsion of law, for example if a warrant or court order is received or such as to comply with a subpoena, or similar legal process
-  * To lessen or prevent a serious and imminent threat to an individual's life or health
-  * If DreamScape Networks FZ-LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
-  * To you or with your consent;
+  * To our authorised officers and our agents for the purpose of administering our network or for billing or credit collection purposes;
+  * To companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us;
+  * Under compulsion of law, for example if a warrant or court order is received or such as to comply with a subpoena, or similar legal process;
+  * To lessen or prevent a serious and imminent threat to an individual's life or health;
+  * If DreamScape Networks FZ-LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
+  * To you or with your consent.
 
 
 
-Otherwise we will use reasonable endeavours to avoid the disclosure of your personal information, save that aggregated demographic information may be disclosed so long as the information is unable to identify you or any other individual.
+Otherwise, we will use reasonable endeavours to avoid the disclosure of your personal information, save that aggregated demographic information may be disclosed so long as the information is unable to identify you or any other individual.
 
 7.6 Accessing your personal information
 
-You can contact us to request a copy of your personal information by emailing our Privacy Officer at customercare@crazydomains.com, or by contacting us by telephone or postal mail at the contact information listed below. The Privacy Officer shall attend to your request on a confidential basis within fourteen (14) days of the request being received. No fee will be levied for access to this information.
+You can contact us to request a copy of your personal information by emailing our Privacy Officer at [customercare@crazydomains.com](mailto:customercare@crazydomains.com), or by contacting us by telephone or postal mail at the contact information listed below. The Privacy Officer shall attend to your request on a confidential basis within fourteen (14) days of the request being received. No fee will be levied for access to this information.
 
 7.7 Refusal of access
 
 Access of your personal information may be refused if:
 
-  * Providing access would pose a serious and imminent threat to life or health of a person
-  * Providing access would create an unreasonable impact on the privacy of others
-  * The request is frivolous and vexatious
-  * Denial of access is authorised or required by law
+  * Providing access would pose a serious and imminent threat to life or health of a person;
+  * Providing access would create an unreasonable impact on the privacy of others;
+  * The request is frivolous and vexatious;
+  * Denial of access is authorised or required by law.
 
 
 
 7.8 Data quality
 
-We will use all reasonable endeavours to ensure the accuracy and quality of the information collected about you. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate your account by making the change on our member information page or by emailing us at customercare@crazydomains.com. Alternatively, you can contact us via other avenues specified on our [Contact Us](http://www.crazydomains.in/contact/) page. Should personal information that you know has been collected about you change, it is your responsibility to bring the changes to our attention.
+We will use all reasonable endeavours to ensure the accuracy and quality of the information collected about you. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate your account by making the change on our member information page or by emailing us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com). Alternatively, you can contact us via other avenues specified on our [Contact Us](http://www.crazydomains.in/contact/) page. Should personal information that you know has been collected about you change, it is your responsibility to bring the changes to our attention.
 
 We will retain your information for as long as your account is active or as needed to provide you services. Deactivation of your account will not delete your personal information from our database entirely. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -100,7 +100,7 @@ We will endeavour to keep your personal information as secure as reasonably poss
 
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at customercare@crazydomains.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com).
 
 7.10 WHOIS
 
@@ -124,11 +124,11 @@ You acknowledge and agree that any testimonials or feedback you provide to us ma
 
 You acknowledge that you relinquish any proprietary rights you may hold over information, data, or opinions that you provide to us by way of a testimonial, complaint, or feedback.
 
-If you wish to update or delete your testimonial or feedback, you can contact us at customercare@crazydomains.com.
+If you wish to update or delete your testimonial or feedback, you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com).
 
 7.15 Changes to this policy
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 7.16 Contact us
 
@@ -137,6 +137,6 @@ If you have questions about this privacy policy, you may contact us at:
 DreamScape Networks FZ-LLC  
 211, DIC Building 11, Dubai Internet City, Dubai, United Arab Emirates
 
-Email Address: customercare@crazydomains.com  
+Email Address: [customercare@crazydomains.com](mailto:customercare@crazydomains.com)  
 Indian Callers: 000 800 100 3215  
 International Callers: +44 8456 171 171
