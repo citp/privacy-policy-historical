@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lkrsocialmedia.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004522id_/http%3A//lkrsocialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkrsocialmedia.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026093628id_/http%3A//lkrsocialmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Social Media Marketing Made Easy | Facebook & Twitter for Business
+# PRIVACY POLICY
 
 PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE.
 
