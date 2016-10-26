@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the worldremit.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507055953id_/https%3A//www.worldremit.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldremit.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026094404id_/https%3A//www.worldremit.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # WorldRemit Privacy Policy
-
-Send from
-
-English
-
-[ ](https://web.archive.org/ "WorldRemit - Online Money Transfer")
 
 ## Australia
 
@@ -209,7 +203,7 @@ We may update this Policy to reflect changes to our information handling practic
 You can contact us about this Privacy Policy by writing or email us at the address below:
 
   * By Email: [privacy@worldremit.com](mailto:privacy@worldremit.com)
-  * By Phone: (02) 6145 2161
+  * By Phone: +61 (02) 6145 2161
   * By Mail: WorldRemit Pty Ltd, Level 16, 1-7 Castlereagh Street Sydney NSW 2000
 
 
@@ -220,7 +214,7 @@ You can contact us about this Privacy Policy by writing or email us at the addre
 
 **Effective November 27, 2015**
 
-This privacy policy applies to WorldRemit Inc.  The use of personal information in Canada is protected by the _Personal Information Protection and Electronic Documents Act_ (PIPEDA) and Canada’s anti-spam legislation
+This privacy policy applies to WorldRemit Inc. The use of personal information in Canada is protected by the _Personal Information Protection and Electronic Documents Act_ (PIPEDA) and Canada’s anti-spam legislation
 
 **"Personal Information"** refers to information that can be used to identify an individual.
 
@@ -244,7 +238,7 @@ Personal information we may collect can include:
   * Beneficiary information such as name, address, mobile number e-mail address.
   * Banking details of the recipient if this option is available in the receive country.
   * Information that we indirectly obtain from you, such as information about the device, hardware and software you use when accessing the Service, your IP address, the pages you access on this website, and other websites that you visit prior to accessing the Service.
-  * Recordings of your communications with our Customer Service department, including telephone calls and electronic communications.  This information may also be used for training purposes.
+  * Recordings of your communications with our Customer Service department, including telephone calls and electronic communications. This information may also be used for training purposes.
   * Any additional information requested by staff such as occupation
   * Any additional personal information you provide to WorldRemit online, by e-mail or telephone.
 
@@ -254,9 +248,9 @@ Personal information we may collect can include:
 
   * Related entities which would include our headquarters located in the United Kingdom and any of our affiliate offices.
   * The Identification Verification agencies used to confirm your identity and meet the applicable identification and verification regulatory requirements;
-  * Agents for the purposes of completing the transaction.  In order to complete a transaction, we may on occasion need to provide additional information
+  * Agents for the purposes of completing the transaction. In order to complete a transaction, we may on occasion need to provide additional information
   * Canadian regulators and Law enforcement in order to meet regulatory requirements
-  * Marketing in order to ascertain and establish effective promotional, marketing campaigns.  You may choose to stop receiving electronic marketing messages we send my clicking on the unsubscribe button
+  * Marketing in order to ascertain and establish effective promotional, marketing campaigns. You may choose to stop receiving electronic marketing messages we send my clicking on the unsubscribe button
 
 
 
@@ -308,7 +302,155 @@ Montreal, Quebec, H3B 4W5
 
 [PrivacyCA@WorldRemit.com ](mailto:PrivacyCA@WorldRemit.com%20)
 
-514-448-7496
++1-514-448-7496
+
+[](https://privacy.truste.com/privacy-seal/WorldRemit-Ltd/validation?rid=0c9e6095-2e6a-40c7-af19-f8c85ae26209 "TRUSTe online privacy certification")
+
+## Japan
+
+Effective on 12/11/2015 .
+
+WorldRemit Ltd is registered as a data controller with the UK Information Commissioner’s Office with a registration number 07110878. This privacy policy describes how WorldRemit Ltd collects and uses your personal information, including the information you provide on the website:[www.worldremit.com](https://web.archive.org/en), owned and operated by WorldRemit Ltd (“we”, “us” or “our”) or our mobile application. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
+
+If you have questions or concerns regarding this policy, you should first contact us using [this form](https://web.archive.org/en/contact-us).
+
+WorldRemit Ltd has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.worldremit.com](https://web.archive.org/en) and does not cover information that may be collected through our mobile application.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here
+
+**Collection and Use of Personal Information**
+
+We collect the following personal information from you
+
+• Contact information such as name, title, email address, mailing address, phone number
+
+• Evidence of your identity (for example passport information)
+
+  * Information about your social media profiles made available to us from your interactions with us on social media sites such as Facebook or Twitter
+
+
+
+• Unique Identifiers such as user name, account number, password
+
+• Billing information such as a credit card number and billing address
+
+• Date of birth
+
+• Demographic information such as age, education, gender, interests and zip code
+
+We use this information to
+
+• Register you with an account
+
+• Provide the Services as described in our [terms and conditions](https://web.archive.org/en/about-us/terms-and-conditions)
+
+• Fulfill your Transaction/ (Airtime Top Up) Request
+
+• Send you a confirmation
+
+• Send you requested service information
+
+• Improve your online experience and our website/ service
+
+• Comply with our legal and regulatory obligations
+
+We also maintain records of your transactions and card and bank details where appropriate.
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us using [this form](https://web.archive.org/en/contact-us).
+
+We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.
+
+**Information Obtained about Third Parties**
+
+You may provide us with personal information about others, such as Recipients’ name and identifiers, address, phone number, bank account details or email address. If so, you confirm that you have appropriate authority to do so and to allow us to use that information and we will only use it for the specific reason for which it was provided to us.
+
+**Information Sharing**
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy or the [terms and conditions](https://web.archive.org/en/about-us/terms-and-conditions), such as credit reference agencies to verify your identity or Recipients of the money transferred through the Service. We may share your information with certain third parties who we believe may be of interest to you where we have your consent to do so.
+
+We may provide your personal information to companies that provide services to help us with our business activities or offering customer service such as local banks or money exchange houses or IT or digital marketing providers. These companies are authorised to use your personal information only as necessary to provide these services. If in any doubt, please [contact us](https://web.archive.org/en/about-us/privacy-policy).
+
+We may also disclose your personal information
+
+• as required by law such as to comply with a court order, subpoena, or similar legal process,
+
+• when we believe in good faith that disclosure is necessary to protect our rights, fulfil our legal or compliance obligations, protect your safety or the safety of others, investigate fraud, or respond to a governmental or regulatory request,
+
+• if WorldRemit Ltd is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+
+• to any other third party with your prior consent to do so.
+
+We may transfer your personal information overseas and to jurisdictions which may offer a level of legal protection to your information which does not meet European legal standards. In such cases, we take steps to protect your information and only make such transfers in compliance with the Data Protection Act 1998.
+
+**Cookies and Other Tracking Technologies**
+
+Technologies such as: cookies, beacons, tags and scripts are used by WorldRemit Ltd and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies to remember users’ settings, for authentication and for enhanced user experience. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. Please see our [Cookies Policy](https://web.archive.org/en/about-us/cookies-policy) for further information and how to opt out.
+
+  * **Log Files**
+
+
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and site functionality.
+
+  * **Local Storage Objects (HTML 5)**
+
+
+
+We use Local Storage Objects (LSOs) such as HTML5 to store preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your Web browsing activity also use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
+
+  * **Behavioral Targeting / Re-Targeting**
+
+
+
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). You will continue to receive generic ads.
+
+**Links to Other Web Sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of WorldRemit Ltd. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+**Security**
+
+The security of your personal information is important to us. When you enter certain information such as a credit card number on our order forms, we encrypt the transmission of that information using reasonable security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [this form](https://web.archive.org/en/contact-us).
+
+**Social Media Widgets**
+
+Our website includes Social Media Widgets or Features, such as the Facebook Like button and Twitter button which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+
+**Testimonials**
+
+We display personal testimonials of satisfied customers on our website in addition to other endorsements, where you have agreed with a third party review site that we may do so. If you wish to update or delete your testimonial, you can contact us at [this form](https://web.archive.org/en/contact-us).
+
+**Correcting and Updating Your Personal Information**
+
+You may request to review, delete or update your personal information to ensure it is accurate, by contacting us at [this form](https://web.archive.org/en/contact-us). We aim to respond to your request for access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services, including a record of your Transactions on our website. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [this form](https://web.archive.org/en/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and will securely delete your information when we no longer have a need to retain it.
+
+**Notification of Privacy Policy Changes**
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website or via a link from your mobile application prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Contact Information**
+
+You can contact us about this privacy policy by writing or email us at the address below:
+
+WorldRemit Ltd. 
+
+Japan
+
+Ark Mori Building 12F
+
+1-12-32 Akasaka, Minato-ku
+
+Tokyo 107-6012
+
+Email: [this form](https://web.archive.org/en/contact-us)
+
+Phone: +81-3-4588-8160
 
 [](https://privacy.truste.com/privacy-seal/WorldRemit-Ltd/validation?rid=0c9e6095-2e6a-40c7-af19-f8c85ae26209 "TRUSTe online privacy certification")
 
@@ -515,8 +657,8 @@ We may update this Policy to reflect changes to our information handling practic
 You can contact us about this Privacy Policy by writing or email us at the address below:
 
   * By Email: [privacy@worldremit.com](mailto:privacy@worldremit.com)
-  * By Phone: 02 6145 2161
-  * By Mail: WorldRemit (New Zealand) Limited, 41 Shortland Street Plaza Level, Auckland, New Zealand 1010
+  * By Phone: +64 (09) 887 1710
+  * By Mail: WorldRemit (New Zealand) Limited, 41 Shortland Street Plaza Level, Auckland, New Zealand 1010
 
 
 
@@ -630,7 +772,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies, you will not be able to conduct a transaction.
 
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests.
 
@@ -720,21 +862,21 @@ USA
 
 [PrivacyUSA@WorldRemit.com ](mailto:PrivacyUSA@WorldRemit.com)
 
-1-888-961-4869
++1-888-961-4869
 
 [](https://privacy.truste.com/privacy-seal/WorldRemit-Ltd/validation?rid=0c9e6095-2e6a-40c7-af19-f8c85ae26209 "TRUSTe online privacy certification")
 
 ## All other countries
 
-Effective on 12/11/2015 ** **
+Effective on 12/11/2015
 
 WorldRemit Ltd is registered as a data controller with the UK Information Commissioner’s Office with a registration number 07110878. This privacy policy describes how WorldRemit Ltd collects and uses your personal information, including the information you provide on the website:[www.worldremit.com](https://web.archive.org/en), owned and operated by WorldRemit Ltd (“we”, “us” or “our”) or our mobile application. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-If you have questions or concerns regarding this policy, you should first contact us using [this form](https://web.archive.org/en/contact-us).
+If you have questions or concerns regarding this policy, you should first contact us using [this form](https://web.archive.org/en/contact-us).
 
-WorldRemit Ltd has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.worldremit.com](https://web.archive.org/en) and does not cover information that may be collected through our mobile application.
+WorldRemit Ltd has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.worldremit.com](https://web.archive.org/en) and does not cover information that may be collected through our mobile application.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here
 
 **Collection and Use of Personal Information**
 
@@ -760,7 +902,7 @@ We use this information to
 
 • Register you with an account
 
-• Provide the Services as described in our [terms and conditions](https://web.archive.org/en/about-us/terms-and-conditions)
+• Provide the Services as described in our [terms and conditions](https://web.archive.org/en/about-us/terms-and-conditions)
 
 • Fulfill your Transaction/ (Airtime Top Up) Request
 
@@ -776,7 +918,7 @@ We also maintain records of your transactions and card and bank details where ap
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us using [this form](https://web.archive.org/en/contact-us).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us using [this form](https://web.archive.org/en/contact-us).
 
 We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.
 
@@ -786,9 +928,9 @@ You may provide us with personal information about others, such as Recipients’
 
 **Information Sharing**
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy or the [terms and conditions](https://web.archive.org/en/about-us/terms-and-conditions), such as credit reference agencies to verify your identity or Recipients of the money transferred through the Service. We may share your information with certain third parties who we believe may be of interest to you where we have your consent to do so.
+We will share your personal information with third parties only in the ways that are described in this privacy policy or the [terms and conditions](https://web.archive.org/en/about-us/terms-and-conditions), such as credit reference agencies to verify your identity or Recipients of the money transferred through the Service. We may share your information with certain third parties who we believe may be of interest to you where we have your consent to do so.
 
-We may provide your personal information to companies that provide services to help us with our business activities or offering customer service such as local banks or money exchange houses or IT or digital marketing providers. These companies are authorised to use your personal information only as necessary to provide these services. If in any doubt, please [contact us](https://web.archive.org/en/about-us/privacy-policy).
+We may provide your personal information to companies that provide services to help us with our business activities or offering customer service such as local banks or money exchange houses or IT or digital marketing providers. These companies are authorised to use your personal information only as necessary to provide these services. If in any doubt, please [contact us](https://web.archive.org/en/about-us/privacy-policy).
 
 We may also disclose your personal information
 
@@ -806,7 +948,7 @@ We may transfer your personal information overseas and to jurisdictions which ma
 
 Technologies such as: cookies, beacons, tags and scripts are used by WorldRemit Ltd and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to remember users’ settings, for authentication and for enhanced user experience. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. Please see our [Cookies Policy](https://web.archive.org/en/about-us/cookies-policy) for further information and how to opt out.
+We use cookies to remember users’ settings, for authentication and for enhanced user experience. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. Please see our [Cookies Policy](https://web.archive.org/en/about-us/cookies-policy) for further information and how to opt out.
 
   * **Log Files**
 
@@ -820,11 +962,11 @@ As is true of most web sites, we gather certain information automatically and st
 
 We use Local Storage Objects (LSOs) such as HTML5 to store preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your Web browsing activity also use LSOs such as HTML 5. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
-  * **Behavioral Targeting / Re-Targeting**  
+  * **Behavioral Targeting / Re-Targeting**
 
 
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). You will continue to receive generic ads.
 
 **Links to Other Web Sites**
 
@@ -832,21 +974,21 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 **Security**
 
-The security of your personal information is important to us. When you enter certain information such as a credit card number on our order forms, we encrypt the transmission of that information using reasonable security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [this form](https://web.archive.org/en/contact-us).
+The security of your personal information is important to us. When you enter certain information such as a credit card number on our order forms, we encrypt the transmission of that information using reasonable security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [this form](https://web.archive.org/en/contact-us).
 
 **Social Media Widgets**
 
-Our website includes Social Media Widgets or Features, such as the Facebook Like button and Twitter button which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+Our website includes Social Media Widgets or Features, such as the Facebook Like button and Twitter button which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
-**Testimonials**  
+**Testimonials**
 
-We display personal testimonials of satisfied customers on our website in addition to other endorsements, where you have agreed with a third party review site that we may do so. If you wish to update or delete your testimonial, you can contact us at [this form](https://web.archive.org/en/contact-us). 
+We display personal testimonials of satisfied customers on our website in addition to other endorsements, where you have agreed with a third party review site that we may do so. If you wish to update or delete your testimonial, you can contact us at [this form](https://web.archive.org/en/contact-us).
 
-**Correcting and Updating Your Personal Information**  
+**Correcting and Updating Your Personal Information**
 
-You may request to review, delete or update your personal information to ensure it is accurate, by contacting us at [this form](https://web.archive.org/en/contact-us). We aim to respond to your request for access within 30 days.
+You may request to review, delete or update your personal information to ensure it is accurate, by contacting us at [this form](https://web.archive.org/en/contact-us). We aim to respond to your request for access within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services, including a record of your Transactions on our website. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [this form](https://web.archive.org/en/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and will securely delete your information when we no longer have a need to retain it.
+We will retain your information for as long as your account is active or as needed to provide you services, including a record of your Transactions on our website. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [this form](https://web.archive.org/en/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and will securely delete your information when we no longer have a need to retain it.
 
 **Notification of Privacy Policy Changes**
 
@@ -864,8 +1006,8 @@ London, SW1E 6AJ
 
 United Kingdom
 
-Email: [this form](https://web.archive.org/en/contact-us)
+Email: [this form](https://web.archive.org/en/contact-us)
 
-Phone: +44 020 7148 5800
+Phone: +44 (0)20 7148 5800
 
 [](https://privacy.truste.com/privacy-seal/WorldRemit-Ltd/validation?rid=0c9e6095-2e6a-40c7-af19-f8c85ae26209 "TRUSTe online privacy certification")
