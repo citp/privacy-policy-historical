@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabpower.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626172619id_/http%3A//tabpower.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabpower.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027154515id_/http%3A//tabpower.com/privacy.php) for the most accurate reproduction.*
 
 # Tabs/Tablatures/Lyrics - Guitar/Bass - TAB POWER - PRIVACY POLICY
 
