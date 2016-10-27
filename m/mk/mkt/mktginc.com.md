@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mktginc.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215223422id_/http%3A//mktginc.com/pdf/Mktg_Privacy_Policy_052013.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mktginc.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027071045id_/http%3A//mktginc.com/pdf/Mktg_Privacy_Policy_052013.pdf) for the most accurate reproduction.*
 
 # Mktg, Inc. Privacy Policy
 
@@ -156,18 +156,3 @@ postage pre-paid to:
 Mktg, Inc.
 200 Carleton Avenue
 East Islip, NY 11730 USA
-
-
-Attn: ?
-[Do we want to include an email channel?]
-Last Updated: June 1, 2013
-Notes:
-1. We’ll need to place a link to this Privacy Policy on website(s).
-2. We’ll likely need to place a link to this Privacy Policy on the screens that ask for
-Facebook ‘Likes.’
-3. Once Mktg builds a panel, we’ll need to:
-a. Place link to this Privacy Policy on survey invites
-b. We’ll need to expand to speak to panelist access to Personal Information.
-c. We’ll need to expand to address opt-out.
-d. We’ll likely need to expand to address EU Safe Harbor Certification (if we get any
-panel joins from the EU, etc.)
