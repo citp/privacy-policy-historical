@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.sg privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420073242id_/http%3A//www.decathlon.sg/content/2_legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.sg privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027055708id_/https%3A//www.decathlon.sg/content/2_legal-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Decathlon Singapore
 
