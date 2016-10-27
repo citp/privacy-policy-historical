@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421204411id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027210831id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
 
 # TrustedPros Privacy Policy
 
