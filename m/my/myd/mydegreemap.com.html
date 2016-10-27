@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mydegreemap.com privacy policy that was archived on 2016-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160318091507id_/http%3A//www.mydegreemap.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydegreemap.com privacy policy that was archived on 2016-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161027032536id_/http%3A//www.mydegreemap.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -93,9 +93,10 @@ qacct:"p-sVdszzQV9ckbA"
 </style>
 <![endif]-->
 
-<script>
+<script type="text/javascript">
 function seldegree(id)
 {
+
 	if(id=="")
 	{
 		alertify.alert('Please Select Career Area');
@@ -116,7 +117,7 @@ function seldegree(id)
   				if (xmlhttp.readyState==4 && xmlhttp.status==200)
     			{
 					document.getElementById('program').innerHTML=xmlhttp.responseText;
-					//alert(xmlhttp.responseText);
+					
     			}
   			}
 			xmlhttp.open("GET","http://www.mydegreemap.com/seldegree.php?degree="+id,true);
@@ -153,30 +154,32 @@ function selsubject(id)
 	 }
 }
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function() {
-    $('#FindCollege').submit(function() {
-		if($('#degree').val() == "")
+var jQ=jQuery.noConflict();
+jQ(document).ready(function() {
+    jQ('#FindCollege').submit(function() {
+		if(jQ('#degree').val() == "")
 		{
 			alertify.alert('Please Choose Degree Level');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		 if( $('#program').val() == "")
+		 if(jQ('#program').val() == "")
 		 {
 			alertify.alert('Please Select Category');
 			$('#program').focus();
 			return false;
 		}
-		if( $('#dsubject').val() == "" )
+		if( jQ('#dsubject').val() == "" )
 		{
 			alertify.alert('Please Select Subject');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		var degree = $('#degree').val();
-		var program = $('#program').val();
-		var dsubject = $('#dsubject').val();
+		var degree = jQ('#degree').val();
+		var program = jQ('#program').val();
+		var dsubject = jQ('#dsubject').val();
 		if(degree == "" ){ degree=null; }
 		if(program == "" ){ program=null; }
 		if(dsubject == "" ){ dsubject=null; }
@@ -192,29 +195,29 @@ $(document).ready(function() {
     });
 });
 
-$(document).ready(function() {
-    $('#FindCollege1').submit(function() {
-		if($('#degree').val() == "")
+jQ(document).ready(function() {
+    jQ('#FindCollege1').submit(function() {
+		if(jQ('#degree').val() == "")
 		{
 			alertify.alert('Please Choose Degree Level');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		 if( $('#program').val() == "")
+		 if( jQ('#program').val() == "")
 		 {
 			alertify.alert('Please Select Category');
-			$('#program').focus();
+			jQ('#program').focus();
 			return false;
 		}
-		if( $('#dsubject').val() == "" )
+		if( jQ('#dsubject').val() == "" )
 		{
 			alertify.alert('Please Select Subject');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		var degree = $('#degree').val();
-		var program = $('#program').val();
-		var dsubject = $('#dsubject').val();
+		var degree = jQ('#degree').val();
+		var program = jQ('#program').val();
+		var dsubject = jQ('#dsubject').val();
 		if(degree == "" ){ degree=null; }
 		if(program == "" ){ program=null; }
 		if(dsubject == "" ){ dsubject=null; }
@@ -244,11 +247,10 @@ $(document).ready(function() {
 
 
 
-
 <div class="col-sm-3 col-xs-12">
 <div class="row">
   <header class="col-xs-12"> <a href="http://www.mydegreemap.com" title="logo">
-        <img src="http://www.mydegreemap.com/Logo/logo.jpg?1458292508" alt="My Degree Map" title="My Degree Map" class="img-responsive">
+        <img src="http://www.mydegreemap.com/Logo/logo.jpg?1477538736" alt="My Degree Map" title="My Degree Map" class="img-responsive">
         </a> </header>
   <div class="col-xs-12 left-sidebar">
     <h2>Quick Degree Finder</h2>
@@ -388,7 +390,7 @@ $(document).ready(function() {
 
   
               
-                <img src="http://www.mydegreemap.com/HomeBanner/Banner_47.jpg?1458292508" title="Search" alt="Search" width="100%" class="img-responsive inner-banner">
+                <img src="http://www.mydegreemap.com/HomeBanner/Banner_47.jpg?1477538736" title="Search" alt="Search" width="100%" class="img-responsive inner-banner">
                
                 	</div>
        
@@ -443,7 +445,7 @@ directed to another website.</span></p>
     <div class="col-sm-5">
       <div class="copy pull-right">
         <p>
-          © 2015 mydegreemap.com All Rights Reserved.        </p>
+          © 2016 mydegreemap.com All Rights Reserved.        </p>
       </div>
     </div>
   </div>
@@ -502,8 +504,9 @@ else if(document.getElementById('department').value == ""){
 <script src="http://www.mydegreemap.com/js/jquery.slicknav.js"></script>
 <script src="http://www.mydegreemap.com/js/jquery-ui.js"></script>
 <script type="text/javascript">
-$(document).ready(function(){
-	$('#menu').slicknav({
+var j=jQuery.noConflict();
+j(document).ready(function(){
+	j('#menu').slicknav({
 	label: 'Menu',
 	duration: 500,
 	easingOpen: "easeInOutQuint", 
@@ -518,37 +521,38 @@ $(document).ready(function(){
 <script type="text/javascript" src="http://www.mydegreemap.com/js/validate_form.js"></script>
 
 <script type="text/javascript">
-$(document).ready(function() {
-    $('#FindCollege').submit(function() {
-		if($('#degree').val() == "")
+var jQ=jQuery.noConflict();
+jQ(document).ready(function() {
+   jQ('#FindCollege').submit(function() {
+		if(jQ('#degree').val() == "")
 		{
 			alertify.alert('Please Choose Degree Level');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		 if( $('#program').val() == "")
+		 if( jQ('#program').val() == "")
 		 {
 			alertify.alert('Please Select Category');
-			$('#program').focus();
+			jQ('#program').focus();
 			return false;
 		}
-		if( $('#dsubject').val() == "" )
+		if( jQ('#dsubject').val() == "" )
 		{
 			alertify.alert('Please Select Subject');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		if( $('#type').val() == "" )
+		if( jQ('#type').val() == "" )
 		{
 			alertify.alert('Please Select Location');
-			$('#type').focus();
+			jQ('#type').focus();
 			return false;
 		}
-		var degree = $('#degree').val();
-		var program = $('#program').val();
-		var dsubject = $('#dsubject').val();
-		var type = $('#type').val();
-		var zip = $('#zip').val();
+		var degree = jQ('#degree').val();
+		var program = jQ('#program').val();
+		var dsubject = jQ('#dsubject').val();
+		var type = jQ('#type').val();
+		var zip = jQ('#zip').val();
 		if(degree == "" ){ degree=null; }
 		if(program == "" ){ program=null; }
 		if(dsubject == "" ){ dsubject=null; }
@@ -570,37 +574,37 @@ $(document).ready(function() {
     });
 });
 
-$(document).ready(function() {
-    $('#FindCollege1').submit(function() {
-		if($('#degree').val() == "")
+jQ(document).ready(function() {
+    jQ('#FindCollege1').submit(function() {
+		if(jQ('#degree').val() == "")
 		{
 			alertify.alert('Please Choose Degree Level');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		 if( $('#program').val() == "")
+		 if( jQ('#program').val() == "")
 		 {
 			alertify.alert('Please Select Category');
-			$('#program').focus();
+			jQ('#program').focus();
 			return false;
 		}
-		if( $('#dsubject').val() == "" )
+		if( jQ('#dsubject').val() == "" )
 		{
 			alertify.alert('Please Select Subject');
-			$('#degree').focus();
+			jQ('#degree').focus();
 			return false;
 		}
-		if( $('#type').val() == "" )
+		if( jQ('#type').val() == "" )
 		{
 			alertify.alert('Please Select Location');
-			$('#type').focus();
+			jQ('#type').focus();
 			return false;
 		}
-		var degree = $('#degree').val();
-		var program = $('#program').val();
-		var dsubject = $('#dsubject').val();
-		var type = $('#type').val();
-		var zip = $('#zip').val();
+		var degree = jQ('#degree').val();
+		var program = jQ('#program').val();
+		var dsubject = jQ('#dsubject').val();
+		var type = jQ('#type').val();
+		var zip = jQ('#zip').val();
 		if(degree == "" ){ degree=null; }
 		if(program == "" ){ program=null; }
 		if(dsubject == "" ){ dsubject=null; }
