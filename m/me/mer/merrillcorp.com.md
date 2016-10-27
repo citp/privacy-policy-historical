@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308025741id_/https%3A//www.merrillcorp.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027185815id_/https%3A//www.merrillcorp.com/en/privacy-notice) for the most accurate reproduction.*
 
 # Merrill - Privacy Notice
 
@@ -12,7 +12,7 @@ You may visit our public Web site without providing any information about yourse
 
 ### Online Services
 
-We provide online services and service facilitation tools such as: Merrill DataSite®, MerrillBridge™, Merrill Connect®; and iTrac® (“Online Services”). These Online Services are part of a business relationship. If you have been invited to an Online Service, your profile has been provided to us by a Merrill client. By accepting the invitation to the Online Service, you are agreeing to the use of your contact details in accordance with this Privacy Notice. If you request access to an Online Service, you are agreeing to the use of your contact details in accordance with this Privacy Notice. We may contact you regarding updates, modifications and additional service offerings. Your access to these Online Services will be retained and used for support, transition and maintenance, as well as to comply with reporting, audit and data retention requirements.
+We provide online services and service facilitation tools such as: Merrill DataSite®, MerrillBridge™ and Merrill Connect® (“Online Services”). These Online Services are part of a business relationship. If you have been invited to an Online Service, your profile has been provided to us by a Merrill client. By accepting the invitation to the Online Service, you are agreeing to the use of your contact details in accordance with this Privacy Notice. If you request access to an Online Service, you are agreeing to the use of your contact details in accordance with this Privacy Notice. We may contact you regarding updates, modifications and additional service offerings. Your access to these Online Services will be retained and used for support, transition and maintenance, as well as to comply with reporting, audit and data retention requirements.
 
 ### Notification of changes to this Notice
 
@@ -54,11 +54,15 @@ This Web site may contain hyperlinks to Web sites that are not operated by us. T
 
 ### Server Location
 
-Merrill has data servers located in the U.S. Germany, and UK. If you are visiting this Web site from a country other than the country in which our servers are located, the various communications may result in the transfer of information across international boundaries. If you are accessing an Online Service, the content data will be stored in accordance with the terms and conditions outlined in an agreement. However, your access information (e.g. user id and password), may be stored in the server located in the U.S. Any personal data will be protected in accordance with this Privacy Notice. By visiting this Web site and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Notice.
+Merrill has data servers located in the U.S. Germany, and UK. If you are visiting this Web site from a country other than the country in which our servers are located, the various communications may result in the transfer of information across international boundaries. If you are accessing an Online Service, the content data will be stored in accordance with the terms and conditions outlined in an agreement. However, your access information (e.g. user id and password), may be stored in the server located in the U.S. (see Merrill’s Continued Adherence to Safe Harbor Framework below). Any personal data will be protected in accordance with this Privacy Notice. By visiting this Web site and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Notice.
+
+### Continued Adherence to Safe Harbor Framework
+
+Merrill maintains compliance with the U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Merrill continues to adhere to the Safe Harbor Privacy Principles including notice, choice, onward transfer, security, data integrity, access and enforcement. For additional information see: http://www.export.gov/safeharbor/.
 
 ### Enforcement
 
-We will regularly review how we are meeting privacy objectives. If you have questions about our privacy practices or to issue a complaint you may contact us by e-mailing [privacy@merrillcorp.com](mailto:privacy@merrillcorp.com).
+We will regularly review how we are meeting privacy objectives. If you have questions about our privacy practices or to issue a complaint you may contact us by e-mailing [privacy@merrillcorp.com](mailto:privacy@merrillcorp.com). We agree to participate in the dispute resolution procedures established by Judicial Arbitration and Mediation Services (JAMS) and the European Data Protection Authorities.
 
 ### Contact us; mail unsubscribe
 
