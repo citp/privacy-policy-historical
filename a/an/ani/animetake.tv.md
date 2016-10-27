@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animetake.tv privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123012955id_/http%3A//animetake.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animetake.tv privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027150515id_/http%3A//animetake.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animetake
 
@@ -6,5 +6,5 @@ If you require any more information or have any questions about our privacy poli
 
 * * *
 
-**© Animetake.tv 2015**  
+**© Animetake.tv 2016**  
 Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. 
