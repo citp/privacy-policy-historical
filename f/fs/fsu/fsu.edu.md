@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsu.edu privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208032135id_/http%3A//fsu.edu/misc/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsu.edu privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027040026id_/http%3A//fsu.edu/misc/policy.html) for the most accurate reproduction.*
 
 # FSU's Internet Privacy Policy
 
