@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatusee.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317100715id_/http%3A//whatusee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatusee.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027190203id_/http%3A//www.whatusee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
