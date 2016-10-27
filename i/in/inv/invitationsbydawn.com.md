@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315003505id_/https%3A//www.invitationsbydawn.com/content/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationsbydawn.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027021248id_/https%3A//www.invitationsbydawn.com/content/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Invitations By Dawn
 
