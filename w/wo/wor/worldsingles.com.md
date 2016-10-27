@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027093931id_/http%3A//worldsingles.com/page/privacy) for the most accurate reproduction.*
 
-# World Singles - Terms of Service
-
-[](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/index.html)
-
-  * [Home](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/index.html)
-  * [Our Sites](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/sites.html)
-  * [Refund](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/refund.html)
-  * Cancel Subscription
-
-
+# WorldSingles.com
 
 World Singles, LLC ("World Singles") created this privacy policy to demonstrate its commitment to protecting your personal information and informing you on how it is handled. This privacy policy only applies to transactions and activities in which you engage, data gathered on the World Singles Websites (the “Site”) and email communications between World Singles members. It does not apply to any other Website or offline point of contact between World Singles, or any other company and consumers. Please review this privacy policy periodically as World Singles may modify it from time to time. Each time you visit the Site or provide World Singles with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
@@ -78,7 +69,3 @@ If you have any questions about this Privacy Statement, the practices of this si
 32565-B Golden Lantern St., #179 Dana Point, CA, 92629 USA 
 
 _Last updated January 7, 2014_
-
-### Need or want to talk to a person?
-
-Whether you’re seeking more information or you have questions about an existing account, please reach out and let us know. You can contact us via chat, phone or email--whichever is the most convenient for you.
