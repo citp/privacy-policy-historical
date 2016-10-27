@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quirkycook.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627191124id_/http%3A//quirkycook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quirkycook.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027044856id_/http%3A//quirkycook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Quirky Cook
 
