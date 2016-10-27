@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbstartingnine.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423090207id_/http%3A//mlbstartingnine.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbstartingnine.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027061117id_/http%3A//mlbstartingnine.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
