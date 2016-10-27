@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muviworld.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404134706id_/http%3A//muviworld.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muviworld.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027214305id_/http%3A//muviworld.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MuviWorld
 
@@ -58,7 +58,7 @@ MuviWorld is an online video service based in the U.S., and our offices are head
 
 **What happens when MuviWorld changes its Privacy Policy?**
 
-From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or changes to the scope of the MuviWorld Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at [privacy](https://web.archive.org/web/20160404134706id_/http%3A//muviworld.net/privacy.html) each time you visit MuviWorld.net or use any of the MuviWorld Services to ensure you are familiar with the most updated policies and practices. If we make any material revisions to this Privacy Policy, we will notify you by posting notice on MuviWorld.net or by sending you an email to the email address you most recently provided to us prior to such revisions taking effect. If the material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.
+From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or changes to the scope of the MuviWorld Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at [privacy](https://web.archive.org/web/20161027214305id_/http%3A//muviworld.net/privacy.html) each time you visit MuviWorld.net or use any of the MuviWorld Services to ensure you are familiar with the most updated policies and practices. If we make any material revisions to this Privacy Policy, we will notify you by posting notice on MuviWorld.net or by sending you an email to the email address you most recently provided to us prior to such revisions taking effect. If the material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personally identifiable information, we will obtain your consent before taking any action inconsistent with those representations.
 
 **What technologies are used to understand how people use MuviWorld Services?**
 
