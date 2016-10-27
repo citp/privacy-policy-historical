@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartooncrazy.me privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520055446id_/http%3A//www.cartooncrazy.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartooncrazy.me privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027071817id_/http%3A//www.cartooncrazy.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CartoonCrazy
 
