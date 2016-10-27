@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxviral.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614205447id_/http%3A//www.maxviral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxviral.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027175819id_/http%3A//www.maxviral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Max Viral
+# Privacy Policy - MaxViral
 
 ## MaxViral.com (hereinafter “MV”, “MaxViral”, “we”, “us”, or “our”) adopts policies and procedures on the treatment of personally identifiable information (hereinafter “Personal Information”) collected, directly or indirectly, when you are accessing or using www.maxviral.com (hereinafter “Site”) or our services, features, content or applications (collectively with the Site, the “Services”).
 
