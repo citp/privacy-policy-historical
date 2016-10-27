@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322011328id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027185918id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Legal/Privacy | SunglassHut.com
 
