@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amedicsworld.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122151441id_/http%3A//amedicsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amedicsworld.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027040129id_/http%3A//www.tomstakeonthings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ~ A Medic's World
+# Privacy Policy ~ Tom's Take On Things
 
 Disclosure of Material Connection: I have not received any compensation for writing this post. I have no material connection to the brands, products, or services that I have mentioned. I am disclosing this in accordance with the Federal Trade Commission's [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): "Guides Concerning the Use of Endorsements and Testimonials in Advertising."
 
-This Privacy Policy governs the manner in which A Medic’s World collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://amedicsworld.com/> website (“Site”).
+This Privacy Policy governs the manner in which A Medic’s World collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://tomstakeonthings.com/> website (“Site”).
 
 ### Personal identification information
 
