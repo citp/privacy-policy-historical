@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketplace-live.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624042614id_/http%3A//www.marketplace-simulation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketplace-live.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027181926id_/http%3A//www.marketplace-simulation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketplace Business Simulations
 
@@ -15,6 +15,7 @@ This Privacy Policy applies to the following domain names and all web sites (the
   * ilsworld.com
   * ilshome.com
   * map-mind.com
+  * marketplacebike.com
 
 
 
@@ -22,7 +23,7 @@ and all of their subdomains and web sites associated with them respectively. ILS
 
 ## 1\. Collection of personally-identifiable information
 
-Innovative Learning Solutions, Inc., collects your personally-identifiable information (such as your name, address, telephone number, billing and shipping information, credit card information or e-mail address) submitted through the web site, email, telephone, fax or mail relating to your participation in the Learning Tools. We keep this personally-identifiable information on our servers for a period of 3 years. After this period is over, the data will be taken offline and stored on a tape media for an additional two years.
+Innovative Learning Solutions, Inc., collects your personally-identifiable information (such as your name, address, telephone number, billing and shipping information, credit card information or e-mail address) submitted through the web site, email, telephone, fax or mail relating to your participation in the Learning Tools. We keep this personally-identifiable information on our servers for a period of 3 years. After this period is over, the data will be backed up to tape backup media and stored offline. 
 
 All credit card payments are timely processed using third-party gateways. Once the credit/debit card information is processed, the transaction is deleted from our electronic database and is kept only with the credit/debit card processor, not on our servers.
 
@@ -42,6 +43,8 @@ When you provide your contact information to us, or request information about ou
 
 Employees of Innovative Learning Solutions, Inc. who have access to any of your personal information in connection with the Innovative Learning Solutions, Inc. are not permitted to use this information for any other purpose than to carry out services on behalf of Innovative Learning Solutions, Inc. We may share information about your participation in the Learning Tools with your game instructor (professor). We may share your name with other users to help those users identify the proper game and team to join.
 
+We may gather additional information for remarketing or similar audiences on the Sites. This allows us to advertise to people who previously visited the Sites. We engage third-party vendors, such as Google, to provide remarketing services on our behalf.
+
 We will not seek to gather additional information from third parties or enhance or merge personally-identifiable information with data obtained from third parties. We will not give or sell your personally-identifiable information to any outside organization.
 
 We may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. There may be instances when we may access or disclose your information in order to protect or defend the legal rights or property of Innovative Learning Solutions, Inc., and its affiliated companies or their employees and agents, to protect the safety and security of users, and to protect against fraud.
@@ -57,6 +60,8 @@ We may disclose all the personal information we collect as permitted or required
 ## 6\. Third Party Websites
 
 This privacy policy is applicable only to the Sites and does not apply to any third party websites or to other companies or persons. The Sites may contain links to, and media and other content from, other sites. In addition, such third-party media and content may also contain external links. Innovative Learning Solutions cannot and does not guarantee the privacy policies and practices of any third party. Innovative Learning Solutions does not control, operate, or endorse any information, products, or services of any third-party websites that may be reached through links from the Site. The use of any personal information provided by you to such a third party will be governed by that party's privacy policy. You should review the privacy policy at each linked website to determine how that website treats your personal information.
+
+In connection with our remarketing activities, third-party websites, such as Google, Bing, etc. show our advertisements on websites across the Internet. These third-party websites use cookies or similar tracking technologies to serve advertisements based on your interests and your past visits to the Sites. We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of Google's use of cookies by visiting Google's Ads Settings (located at <http://www.google.com/settings/ads>). You can opt out of receiving targeted advertisements from members of the Network Advertising Initiative ("NAI") on the NAI's website (located at <http://www.networkadvertising.org/managing/opt_out.asp>).
 
 ## 7\. Visiting our site from outside the United States
 
@@ -84,4 +89,4 @@ Telephone number: +1 (865) 522 1946
 
 We will then use reasonable efforts to remove your personal information from our files and/or database. You may also contact us through any of the above methods to request information about the knowledge we have about you in our database.
 
-Last updated 1/2/2015
+Last updated 8/10/2016
