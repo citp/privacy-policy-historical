@@ -1,93 +1,177 @@
-> *The following text is extracted and transformed from the marketmesuite.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430050255id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmesuite.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027183013id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LocalVox
 
-**Privacy Policy**
+LocalVox, a Vivial Company (to gather with its subsidiaries and affiliates, “Vivial,” “we,” “us” or “our”) respects the privacy of its customers and the visitors and users of its website.
 
-Protecting your private information is our priority. This Statement of Privacy applies to the LocalVox Media including it’s owned and operated websites at www.localvox.com and www.nearsay.com, and any LocalVox-developed software applications that use those services, and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to LocalVox Media Inc. include www.localvox.com, www.nearsay.com and LocalVox. The LocalVox website is a Business Website site. By using the LocalVox website, you consent to the data practices described in this statement.
+This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information or Personal Health Information (as those terms are defined below) we obtain about you based upon your use of our website, products or services.
 
-**Collection of your Personal Information**
+Your privacy is important to us, and we pay close attention to the use and sharing of Personal Information and Personal Health Information.
 
-LocalVox may collect personally identifiable information, such as your name, phone and email address. LocalVox may also collect anonymous demographic information, which is not unique to you, such as your age and gender. We may gather additional personal or non-personal information in the future.
+## Information We Collect
 
-Information about your computer hardware and software may be automatically collected by LocalVox. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the LocalVox website.
+In providing our products and services to you, we may collect the following types of information:
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through LocalVox’s public message boards, this information may be collected and used by others.
+“Personal Information,” or information about you that is personally identifiable to you, such as your name, address, e-mail address, phone number and other non-public information that is associated with the foregoing.
 
-LocalVox encourages you to review the privacy statements of websites you choose to link to from LocalVox so that you can understand how those websites collect, use and share your information. LocalVox is not responsible for the privacy statements or other content on websites outside of the LocalVox website.
+For certain services, we also collect credit card or payment account information.
 
-**Do Not Track  Browser Setting**
+“Personal Health Information,” or health-related information about you (such as weight, blood pressure or glucose levels, lab results, medications and health history) that you give us or that we receive from third parties.
 
-Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked. Tracking is not the same as using or collecting information in connection with a single website. For these purposes tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time.
+We act as a service provider to our customers and may process and store on behalf of our customers Personal Information and/or Personal Health Information that our customers collect about third parties (or about you). 
 
-How browsers communicate the Do Not Track signal is not yet uniform. As a result, LocalVox does not interpret or respond to Do Not Track signals communicated by your browser. Even so, as described more fully throughout this Privacy Policy, we limit our use and collection of your personal information.
+We do not own that Personal Information or Personal Health Information.
 
-For a description of Do Not Track protocols for browsers and mobile devices, or simply to learn more about the choices available to you, you can visit the All About Do Not Track website:[http://allaboutdnt.com](http://allaboutdnt.com/)
+You are responsible for ensuring the accuracy of the Personal Information and Personal Health Information that we collect from you. Inaccurate information will affect the use and effectiveness of our products and services and our ability to contact you.
 
-**Use of your Personal Information**
+Our servers may automatically collect information, such as Internet Protocol (IP) addresses, browser type, pages visited, access times, duration of visit, referring URL, platform, links accessed, timestamp and exit page information (“Automated Information”) with respect to each visitor to websites, whether or not such visitor is a logged-on user.
 
-LocalVox collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+We may receive Personal Information or Personal Health Information about you from other sources, such as telephone or telefax. We may add this information to the information we have already collected about you in order to improve our products and services.
 
-LocalVox may also use your personally identifiable information to inform you of other products or services available from LocalVox and its affiliates. LocalVox may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+## User Consent
 
-LocalVox does not sell, rent or lease its customer lists to third parties.
+By visiting our website or using our products or services, you agree to the terms of this Privacy Policy.
 
-LocalVox may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to LocalVox, and they are required to maintain the confidentiality of your information.
+You expressly consent to the use and processing of your Personal Information and Personal Health Information according to this Privacy Policy.
 
-Personally identifying information may be collected by third party companies that provide services to help us with service operation including, but not limited to website analytics, social sharing and advertising. These third parties are authorized to use your personally identifying information and may use such information over time and across different websites and services beyond LocalVox.
+Personal Information and Personal Health Information may be processed by us or our vendors or other third parties in the country where it was collected as well as other countries where laws regarding processing of Personal Information and Personal Health Information may be less stringent.
 
-LocalVox may keep track of the websites and pages our users visit within LocalVox, in order to determine what LocalVox services are the most popular. This data is used to deliver customized content and advertising within LocalVox to customers whose behavior indicates that they are interested in a particular subject area.
+## How We Use and Disclose Information
 
-LocalVox will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on LocalVox or the site; (b) protect and defend the rights or property of LocalVox; and, (c) act under exigent circumstances to protect the personal safety of users of LocalVox, or the public.
+In general, we use information collected, including Personal Information and Personal Health Information, to provide our products and services, to respond to requests that you make, to process transactions and to enable us to serve you more effectively.
 
-**Use of Cookies**
+We do not use or disclose your Personal Information and Personal Health Information except as described in this Privacy Policy or as required by law.
 
-The LocalVox website, and third partners with whom we partner,  may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+You control who can access your Personal Health Information. If you choose to, you can share your information with others.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize LocalVox pages, or register with LocalVox site or services, a cookie helps LocalVox to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same LocalVox website, the information you previously provided can be retrieved, so you can easily use the LocalVox features that you customized.
+We will not sell, rent, or share your Personal Information or Personal Health Information without your explicit consent, except in the limited situations described below.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the LocalVox services or websites you visit.
+We may access and/or disclose your Personal Information and Personal Health Information if we believe such action is necessary to:
 
-**Security of your Personal Information**
+(a) comply with the law or legal process served on us;
+(b) protect and defend our rights or property (including the enforcement of agreements between you and us); or
+(c) act in urgent circumstances to protect the personal safety and welfare of our customers or members of the public.
 
-To secure your personal information from unauthorized access, use or disclosure, LocalVox uses the following:
 
-GeoTrust
+We may also use the Personal Information and Personal Health Information that we obtain from you or from other sources for the following purposes:
 
-**Children Under Thirteen**
+**To Provide and Improve Our Website, Products and Services**  
+We use the information that you provide for such purposes as responding to your requests, improving our website, products and services, and communicating with you.
 
-LocalVox does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+We may combine your information with information that we collect from other companies (such as demographic data) to improve and personalize services. We may collect information for auditing, research and analysis in order to maintain, protect and improve our website, products and services.
 
-**Disconnecting your LocalVox Account from Third Party Websites**
+**To Track Site Traffic Information**  
+As you navigate our website, we may collect certain passive information, including your IP address, browser type and operating system.
 
-You will be able to connect your LocalVox account to third party accounts. BY CONNECTING YOUR LOCALVOX ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. We use a service called Disqus. Users are able to disconnect through the Disqus preferences and settings..
+We may also use cookies and navigational data such as Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. 
 
-**Opt-Out & Unsubscribe**
+This type of information is collected to make our solutions and services more useful to you.
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LocalVox by contacting us here:
+In addition, we may use non-business IP addresses and other Automated Information collected to track aggregate information regarding website traffic.
 
-– Web page: www.localvox.com
+We do not collect any Personal Information or Personal Health Information via a user’s non-business IP address. 
 
-– Email: gethelp@localvox.com
+One of the uses for which this data may be gathered is for statistical purposes so that we may analyze trends and performance over time.
 
-– Phone: 646-545-3400
+**To Transfer Information for Legal Purposes**  
+We may need to disclose certain information to comply with a legal requirement (such as a law, regulation, court order, subpoena or search warrant) in the course of a legal proceeding or in response to a law enforcement agency request.
 
-**Changes to this Statement**
+If there is a change of control of Vivial (whether by merger, sale or otherwise), or a sale or transfer of our assets, Personal Information or Personal Health Information could be sold or transferred as part of that transaction and your Personal Information or Personal Health Information could be used by the purchaser or other recipient of such information.
 
-LocalVox will occasionally update this Statement of Privacy to reflect company and customer feedback. LocalVox encourages you to periodically review this Statement to be informed of how LocalVox is protecting your information.
+**For Data Aggregation**  
+We may disclose aggregated, non-personal data generated from our website, products and services to third parties. 
 
-**Contact Information**
+Depending on the circumstances, we may or may not charge third parties for this aggregated, non-personal data. 
 
-LocalVox welcomes your questions or comments regarding this Statement of Privacy. If you believe that LocalVox has not adhered to this Statement, please contact LocalVox at:
+You grant us the right to accept payment or other remuneration for such data. 
 
-LocalVox Media Inc.
+We require parties with whom we share aggregated, non-personal data to agree that they will not attempt to make this information personally identifiable.
 
-462 Seventh Avenue, 10th Floor
+**For Use With Third Parties**  
+We may hire third parties to provide services on our behalf, such as developing websites and answering customer service and billing questions. 
 
-New York, New York 10018
+We will give those third parties only the Personal Information or Personal Health Information they need to deliver the service for which they have been hired. 
 
-Email Address: gethelp@localvox.com
+We may also share your Personal Information and Personal Health Information with vendors or other third parties in order for them to provide you with offers that we think you will find valuable. 
 
-Telephone number: (646) 545-3400
+We will require such third parties to maintain the confidentiality of any information we provide.
 
-Effective as of June 27, 2014
+To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific descriptions about your business, information about your location, and information about your products and services to third-party services and to the general public.
+
+We may also use third parties to maintain and store your Personal Information to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by us.
+
+**For Use By Subsidiaries and Affiliates**  
+We have subsidiaries and other companies under a common control (collectively, “affiliates”). 
+
+We may share some or all of your Personal Information and Personal Health Information with these affiliates, in which case we will require them to honor this Privacy Policy.
+
+**Sharing Your Information**  
+If you grant access to your Personal Information or Personal Health Information to other individuals, websites or health care professionals, these other individuals, websites or health care professionals will be able to access your information and store a copy of it. 
+
+Any copies of your information will be governed by that individual’s, website’s or health care professional’s privacy policy. 
+
+Others may be able to view your information from such copies. We are not responsible for the use of your information by others to whom you grant access to such information.
+
+**Protecting the Confidentiality and Security of Information**  
+We are committed to protecting the security of your information. 
+
+We have adopted commercially reasonable security measures consistent with industry practice that i designed to assist in protecting against the loss, misuse and alteration of your Personal Information and Personal Health Information which is under our control. 
+
+As you know, no security system or system of transmitting data over the Internet can be guaranteed to be 100% secure. 
+
+Accordingly, you should not expect that any information provided to us or to any third party will always remain private.
+
+**How to Unsubscribe**  
+Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail.
+
+If at any time you wish to unsubscribe from any communications from us, you may do so by contacting us at [donot.contact@theberrycompany.com](mailto:donot.contact@theberrycompany.com).
+
+Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. 
+
+From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care.
+
+**Privacy of Minors**  
+We are committed to protecting the privacy of minors. Our services are not designed or intended to attract people under the age of 18. We do not collect Personal Information from any person we actually know is under the age of 18.
+
+**Links to Other Sites**  
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents.
+
+We have no control over, do not review, and cannot be responsible for these outside websites or their content.
+
+Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
+
+## Contact Us
+
+Should you have any questions or concerns regarding this Privacy Policy, please contact us as follows:
+
+Vivial Legal Department  
+Attention: Privacy Policy Administration  
+160 Inverness Drive West  
+Englewood, CO 80112  
+(303) 867-1600  
+[legal@theberrycompany.com](mailto:legal@theberrycompany.com)
+
+
+## Privacy Policy Updates
+
+We may revise this Privacy Policy at any time, in our sole discretion, by posting an amended Privacy Statement on our website.
+
+Any changes that we make to this Privacy Policy will be effective immediately upon posting.
+
+You should check this page periodically for changes to the Privacy Policy.
+
+If you object to any such changes, you must cease using our website, products and services.
+
+Continued use of our website, products or services following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
+
+## Notice for California Users
+
+Under California Civil Code Section 1789.3, California website users are entitled to the following specific consumer rights notice:
+
+The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted by email at [dca@dca.ca.gov](mailto:dca@dca.ca.gov), in writing at Department of Consumer Affairs, Consumer Information Division, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+
+## Additional Rights
+
+You may have other privacy protections under applicable state laws.
+
+To the extent these laws apply, we will comply with them when we share information about you.
