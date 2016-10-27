@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the turbotizer.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521025948id_/http%3A//www.turbotizer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotizer.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028001308id_/http%3A//turbotizer.com/privacy-policy) for the most accurate reproduction.*
 
 # Turbotizer – Revenue Share, Traffic Exchange 1:5 Ratio, Paid to Click, Advertising site.
+
+**Warning** : Cannot modify header information - headers already sent by (output started at /home/turbotizer/secure.docs/classes/class.db2.php:0) in **/home/turbotizer/public_html/globals.php** on line **229**
 
 ### Privacy Policy
 
