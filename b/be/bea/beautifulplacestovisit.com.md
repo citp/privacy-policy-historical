@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautifulplacestovisit.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624141754id_/http%3A//beautifulplacestovisit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulplacestovisit.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027071824id_/http%3A//beautifulplacestovisit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beautiful Places to Visit
+# Privacy Policy - Beautiful Places to VisitBeautiful Places to Visit
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
