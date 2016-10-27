@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photographicblog.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614070045id_/http%3A//photographicblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographicblog.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027174000id_/http%3A//photographicblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at PhotographyBlog.com | Photographic Blog
+# Photographic BlogPrivacy Policy - Photographic Blog
 
 ### Who we Are
 
@@ -32,3 +32,5 @@ We may need to pass the information we collect to other companies for administra
 ### Other Websites
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+
+You must be login to post a comment. [ Log in now](http://photographicblog.com/wp-login.php?redirect_to=http%3A%2F%2Fphotographicblog.com%2Fprivacy-policy%2F)
