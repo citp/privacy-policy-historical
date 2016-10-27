@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509173037id_/http%3A//www.macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027210715id_/https%3A//www.macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Macroplant - iExplorer License Agreement
 
@@ -45,4 +45,4 @@ www.macroplant.com
 McKinney, Texas 75089  
 United States
 
-support@macroplant.com
+support@macroplant.com 
