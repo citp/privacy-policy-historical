@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rokuguide.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611183427id_/http%3A//www.rokuguide.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rokuguide.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027223850id_/http%3A//www.rokuguide.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roku Guide
 
