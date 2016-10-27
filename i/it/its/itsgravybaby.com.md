@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331162015id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027175110id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - It's Gravy, Baby!
 
@@ -63,3 +63,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 whitney.baugh@yahoo.com
 
 This document was last updated on September 14, 2011
+
+[](http://shareasale.com/r.cfm?b=839073&u=356661&m=46239&urllink=&afftrack=)
