@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worxware.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426041902id_/http%3A//www.worxware.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worxware.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027214324id_/http%3A//worxware.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Worx International Inc. - WorxWare.com
 
