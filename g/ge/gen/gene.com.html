@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618183921id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2016-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161027075243id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -10,6 +10,13 @@
     <meta property="og:title" content="Genentech: Privacy Policy">
     <meta property="og:description" content="Breakthrough science. One moment, one day, one person at a time.">
     <meta property="og:image" content="http://gene.com/assets/content/tile_image/press-release.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@genentech">
+    <meta name="twitter:title" content="Genentech: Privacy Policy">
+    <meta name="twitter:description" content="Breakthrough science. One moment, one day, one person at a time.">
+    <meta name="twitter:creator" content="@genentech">
+
 
     <link rel="stylesheet" href="//fast.fonts.com/cssapi/27f61167-9264-457b-9f5d-e102c0da5b27.css">
     <link rel="stylesheet" href="https://cdn.gene.com/assets/frontend/css/gene-styles.dist.css">
@@ -23,6 +30,7 @@
     <link rel="icon" href="https://cdn.gene.com/assets/frontend/img/favicon.ico">
     <link rel="apple-touch-icon-precomposed" href="https://cdn.gene.com/assets/frontend/img/apple-icon-touch.png">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="https://cdn.gene.com/sitemap">
+
 <script>
     var jQ = {
         queue: [],
@@ -56,10 +64,22 @@
 </script>
 
 <script type="text/javascript">
+    function getQueryParam(str) {
+       var v = window.location.search.match(new RegExp('(?:[\?\&]'+str+'=)([^&]+)'));
+       return v ? v[1] : null;
+    }
+    var src = getQueryParam('src');
+    
     var _gaq = _gaq || [];
+    
     _gaq.push(['_setAccount', 'UA-22947831-2']);
     _gaq.push(['_setDomainName', 'gene.com']);
     _gaq.push(['_setAllowLinker', true]);
+    
+    if (src) {
+    	_gaq.push(['_setCustomVar', 1, 'Source', src]);
+    }
+    
         _gaq.push(['_trackPageview']);
     
     (function() {
@@ -88,6 +108,7 @@
                 <li class="search-item">
                     <form action="/meta/search" method="get">
                         <input id="search-input" class="search-input" type="search" name="q" placeholder="Search gene.com">
+                        <input type="hidden" name="_token" id="csrf-token" value="">
                     </form>
                 </li>
             </ul>
@@ -275,6 +296,9 @@
                                                     <li>
                                 <a href="/scientists/bioinformatics">Bioinformatics</a>
                             </li>
+                                                    <li>
+                                <a href="/scientists/mta">Outgoing MTA Program</a>
+                            </li>
                                                             </ul>
                             <ul>
                     <li class="first-level">
@@ -282,6 +306,9 @@
                     </li>
                                                                         <li>
                                 <a href="/medical-professionals/medicines">Our Medicines</a>
+                            </li>
+                                                    <li>
+                                <a href="/medical-professionals/investigator-initiated-studies">Investor Initiated Studies</a>
                             </li>
                                                     <li>
                                 <a href="/medical-professionals/pipeline">Our Pipeline</a>
@@ -481,41 +508,41 @@
     </script>
 
 <script src="https://cdn.gene.com/assets/frontend/js/vendor/jquery-1.7.2.min.js"></script>
-    <script>
-        Modernizr.load([
-        {   // Polyfill placeholder
-            test: Modernizr.input.placeholder,
-            nope: [ '/assets/frontend/js/vendor/placeholder_polyfill.min.css',
-                '/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js' ]
-        },{  // Date placeholder
-            test: Modernizr.inputtypes.date,
-            load: [ '/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css',
-                '/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js' ],
-            callback: function(url, result, key) {
-                // Only run once
-                if (key != 1) return;
+<script>
+    Modernizr.load([
+    {   // Polyfill placeholder
+        test: Modernizr.input.placeholder,
+        nope: [ '/assets/frontend/js/vendor/placeholder_polyfill.min.css',
+            '/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js' ]
+    },{  // Date placeholder
+        test: Modernizr.inputtypes.date,
+        load: [ '/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css',
+            '/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js' ],
+        callback: function(url, result, key) {
+            // Only run once
+            if (key != 1) return;
 
-                $(function() {
-                    // Polyfill
-                    if (result == false) {
-                        // If date input type detection fails, polyfill (after js has loaded)
-                        $('input[type="date"]').datepicker({
-                            dateFormat: 'yy-mm-dd'
-                        });
-                    }
-                    // Temporary webkit workaround
-                    var tomorrow = new Date();
-                    tomorrow.setDate( tomorrow.getDate() + 1 );
-
-                    $('.datepicker-future-only').datepicker({
-                        dateFormat: 'yy-mm-dd',
-                        minDate: tomorrow
+            $(function() {
+                // Polyfill
+                if (result == false) {
+                    // If date input type detection fails, polyfill (after js has loaded)
+                    $('input[type="date"]').datepicker({
+                        dateFormat: 'yy-mm-dd'
                     });
+                }
+                // Temporary webkit workaround
+                var tomorrow = new Date();
+                tomorrow.setDate( tomorrow.getDate() + 1 );
+
+                $('.datepicker-future-only').datepicker({
+                    dateFormat: 'yy-mm-dd',
+                    minDate: tomorrow
                 });
-            }
+            });
         }
-        ]);
-    </script>
+    }
+    ]);
+</script>
 
 <script src="https://cdn.gene.com/assets/frontend/js/js-dist/gene-scripts.min.js"></script>
 
