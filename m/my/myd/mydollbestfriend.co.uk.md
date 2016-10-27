@@ -1,78 +1,94 @@
-> *The following text is extracted and transformed from the mydollbestfriend.co.uk privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313203203id_/http%3A//www.mydollbestfriend.co.uk/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydollbestfriend.co.uk privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027111928id_/http%3A//www.mydollbestfriend.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Notice : My Doll Best Friend
+# Privacy Policy
 
-My Doll Best Friend will not sell your information to third parties for marketing purposes. Information you provide is held on a central database hosted by X3 Internet Solutions for the purpose of assisting you with past and present purchases. 
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-**What kind of information does My Doll Best Friend collect from customers?**
+This privacy policy sets out how My Doll Best Friend uses and protects any information that you give My Doll Best Friend when you use this website. My Doll Best Friend is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. My Doll Best Friend may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-My Doll Best Friend collect the necessary information such as name, telephone number, mailing address, e-mail address, credit card information, billing information, IP address, etc. to ensure secure ordering process. We use this information to identify our customers. We use your e-mail address to notify you of any promotions and important informational updates we might have. We also keep track of the pages that you visit to help us provide a more personalised browsing experience for you.
+## What we collect
 
-**What do we do with your information?**
+We may collect the following information:
 
-My Doll Best Friend use Website Analysis Software to track our website visitors. The information we obtain from the Website Analysis Software is strictly for internal use to aid us in providing better services to our customers.
-
-**Does My Doll Best Friend share your information with other parties?**
-
-We provide information to courier companies delivering parcels which might include your telephone and email addresses for ease of delivery.
-
-Basic details are sent to an outsourced independent reviews company called Reviews, www.reviews.co.uk. This enables them to verify the authenticity of the customer and sales invoice if you voluntarily submit a review of your shopping experience.
-
-**Cookies**
-
-A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits). They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
-
-Cookies are used by websites to save user preferences between visits.
-
-**Types of Cookies**
-
-_Category 1_ \- Strictly Necessary Cookies
-
-  * These cookies are essential to using the website. Without these cookies services you have asked for cannot be provided and the website will not function.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-_Category 2_ \- Performance Cookies
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-  * These cookies are used for Web analytics, Ad response rates and Affiliate tracking. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+## What we do with the information we gather
 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-
-_Category 3_ \- Functionality Cookies
-
-  * These cookies are used for things such as remembering settings a user has applied to a website such as layout, font size, preferences, colours etc. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-
-
-
-_Category 4_ \- Targeting or Advertising Cookies
-
-  * Cookies placed by advertising networks to collect browsing habits in order to target relevant adverts to the user.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
 
 
-**Cookies Used on this Website**
+## Security
 
-| Cookie Name | Cat | Party | Type | Lifetime | Description  
----|---|---|---|---|---  
-PHPSESSID | 1 | 1st | Session | \--- | Used for Website Operation  
-osCsid | 1 | 1st | Session | \--- | Used for Shopping Cart Operation  
-cookie_test | 1 | 1st | Persistent | 30 Days | Used for Shopping Cart Operation  
-osC_AutoCookieLogin | 3 | 1st | Persistent | 14 Days | Used for Auto Login. Only set if you tick the 'remember me box'  
-  
-Session cookies expire when you close your browser. Persistent cookies have a lifetime set by the website and will retain information that can be used when you reopen a website in the future.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-1st Party Cookies are set by the website you are actually visiting. 3rd Party Cookies are set from content displayed on the website from other websites. This can be from advertising or sharing tools such as Facebook, Twitter or Google+.
+## How we use cookies
 
-**Will I receive any e-mail regarding My Doll Best Friend product promotions?**
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-You will receive product promotional e-mail if you want to receive them.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-**Children's privacy**
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-In order for you to make transactions through our website, you need to be at least 18 years of age. However, this does not mean that we restrict our services to visitors above 18 years of age. If you are under 18 years of age, you need to contact us either via e-mail or phone in order to place any order. We may need your parental permissions in order to setup our services with you.
+## Links to other websites
 
-**Policy changes**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-My Doll Best Friend reserve the right to make changes to our policy at any time without any notification. Changes to policy become immediately effective upon being posted in this site.
+## Controlling your personal information
 
-Privacy statement contact Questions regarding this Policy should be directed to [customerservice@mydollbestfriend.co.uk](mailto:customerservice@mydollbestfriend.co.uk)
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customerservice@mydollbestfriend.co.uk 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 52 Stapleton Hall Road London N4 3QG. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
