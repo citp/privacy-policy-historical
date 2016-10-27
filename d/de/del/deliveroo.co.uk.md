@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413113425id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027194029id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
 
-# Deliveroo | Privacy
+# Privacy - Deliveroo
 
 Roofoods Limited ("we", "our" or "Deliveroo") is committed to protecting the privacy of all visitors to our website deliveroo.co.uk and all visitors who access our website or services through any mobile application (together, **"Website"** ). Please read the following privacy policy which explains how we use and protect your information. 
 
