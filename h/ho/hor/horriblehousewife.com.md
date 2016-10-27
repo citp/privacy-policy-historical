@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horriblehousewife.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505191654id_/http%3A//horriblehousewife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horriblehousewife.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027031313id_/http%3A//horriblehousewife.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Horrible Housewife
 
