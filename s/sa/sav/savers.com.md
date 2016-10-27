@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2016-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160214143142id_/https%3A//www.savers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027021457id_/https%3A//www.savers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Savers Thrift Store
+# Privacy Policy | Savers
 
 Privacy Statement  
 Effective Date:  April 23, 2015
 
 Savers, LLC, including TVI, Inc. (“TVI”), doing business as Savers and Value Village, and VALUE VILLAGE STORES (“VALUE VILLAGE”), doing business as Value Village and Village des Valeurs (jointly “Savers”), is committed to protecting your privacy. To make your experience at our website more convenient and enable participation in programs like the Super Savers Club Card program, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that help prevent unauthorized use of your personal information.
 
-By visiting our websites, including [www.savers.com](http://www.savers.com/), [www.supersaversclubcard.com](http://www.supersaversclubcard.com/), and [www.valuevillage.com](http://www.valuevillage.com/) , [www.imunique.com](http://www.imunique.com/), savers.com.au, villagedesvaluers.com, and any other online sites, social media or related online apps operated by Savers (the “Sites”), making a purchase from us, or otherwise interacting with Savers you are accepting the practices described in this Privacy Statement.  The effective version of this Privacy Statement will be posted and may be updated from time-to-time on our Sites.  
+By visiting our websites, including www.savers.com, www.supersaversclubcard.com, and www.valuevillage.com , [www.imunique.com](http://www.imunique.com/), savers.com.au, villagedesvaluers.com, and any other online sites, social media or related online apps operated by Savers (the “Sites”), making a purchase from us, or otherwise interacting with Savers you are accepting the practices described in this Privacy Statement.  The effective version of this Privacy Statement will be posted and may be updated from time-to-time on our Sites.  
 
 What Personal Information Do We Collect, and How Is It Used?  
 We collect certain information (a) when you voluntarily give us information; and (b) automatically when you visit our Sites.  As described below, we may combine different sources of information, and may participate in interest-based advertising.
