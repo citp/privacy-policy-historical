@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319145739id_/http%3A//www.mynaturalmarket.com/privacy.html%3FosCsid%3Dainp44hp6d4dgumtpq2m7sncr7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027040043id_/https%3A//www.mynaturalmarket.com/privacy.html%3FosCsid%3Docqefpnd8oapr6ektoej4aru05) for the most accurate reproduction.*
 
 # Natural, Organic Vitamins & Supplements | MyNaturalMarket.com
 
@@ -79,6 +79,6 @@ Our digital operations are conducted, in whole or in part, in the United States.
 
 TERMS OF USE
 
-Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](http://www.mynaturalmarket.com/terms.html). Please carefully read our [Terms of Use](http://www.mynaturalmarket.com/terms.html) which explains other terms governing the use of Site, as well as our products and services.
+Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](https://www.mynaturalmarket.com/terms.html). Please carefully read our [Terms of Use](https://www.mynaturalmarket.com/terms.html) which explains other terms governing the use of Site, as well as our products and services.
 
-For questions or concerns, please contact MyNaturalMarket at: cs@mynaturalmarket.com or MyNaturalMarket Privacy, 12636 S 125 W Ste C, Draper UT 84020 
+For questions or concerns, please contact MyNaturalMarket at: cs@mynaturalmarket.com or MyNaturalMarket Privacy, 313 W 12800 S Ste 301, Draper UT 84020 
