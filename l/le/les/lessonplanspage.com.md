@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403082911id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027061023id_/http%3A//lessonplanspage.com/privacy-htm) for the most accurate reproduction.*
 
 # LessonPlansPage.com Privacy Policy | HotChalk Lesson Plans Page
 
@@ -139,5 +139,3 @@ The Lesson Plans Page respects your privacy and will not do anything in violatio
 >   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 > 
 
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Flessonplanspage.com%2Fprivacy-htm%2F)
