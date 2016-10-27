@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nowfoods.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629220151id_/http%3A//www.nowfoods.com/AboutUs/099487.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowfoods.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027135300id_/https%3A//www.nowfoods.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NOW Foods
+# Privacy Policy | NOW Foods
 
 This Privacy Policy explains the privacy practices of NOW Health Group, Inc. (“NHGI”), and describes the way we use and protect the information we collect from our website nowfoods.com (and the related subdomains such as now-2-u.com and other NHGI sites linked to this website) (collectively referred to as the “Site”) about customers and users.
 
@@ -54,7 +54,7 @@ Our Site may contain links to third party sites whose privacy practices are diff
 
 This Site is not directed to nor does it knowingly collect any personal information from children under 18 years of age. If you are under 18, you may only use this Site with the involvement of a parent or guardian.
 
-YOUR CONSENT
+### YOUR CONSENT
 
 By using our Site, you consent to our privacy policy.
 
@@ -71,5 +71,3 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 These web pages are controlled and operated by NOW Health Group, Inc. in the United States. NHGI makes no representation that this Privacy Policy complies with any applicable laws outside the United States. Those who choose to access these pages from locations outside the United States do so at their own initiative and risk.
 
 This Privacy Policy and other policies on this Site shall be governed by and construed in accordance with the laws of the State of Illinois. All claims, disputes, and lawsuits arising out of or in connection with this Privacy Policy shall be resolved or adjudicated in DuPage County, Illinois.
-
-This information current as of **3/3/16 9:31 AM.**
