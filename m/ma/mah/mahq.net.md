@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahq.net privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306111105id_/http%3A//www.mahq.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahq.net privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027082106id_/http%3A//mahq.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
