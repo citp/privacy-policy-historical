@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareadult.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426062929id_/http%3A//www.shareadult.com/amateurs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareadult.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027044516id_/http%3A//www.shareadult.com/amateurs/privacy.php) for the most accurate reproduction.*
 
 # 
 
