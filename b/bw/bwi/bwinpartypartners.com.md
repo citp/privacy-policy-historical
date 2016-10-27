@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwinpartypartners.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527052315id_/https%3A//www.bwinpartypartners.com/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwinpartypartners.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027223552id_/https%3A//www.bwinpartypartners.com/policy.do) for the most accurate reproduction.*
 
 # bwin.party Limited Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We are committed to protecting your personal information. We have created this Privacy Policy to let you know what information We collect when you participate in the Affiliate Network at [the bwin.party partners Website](http://www.bwinpartypartners.com/) (collectively, the ' **Affiliate Network** '), why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between you and bwin.party Limited and the bwin.party Group, being bwin.party digital entertainment plc together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20160527052315id_/https%3A//www.bwinpartypartners.com/legal.do) (' **bwin.party partners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Policy will be agreed between you and bwin.party Limited and the GVC Group, being GVC Holdings PLC together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20161027223552id_/https%3A//www.bwinpartypartners.com/legal.do) (' **bwin.party partners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
 We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on the [bwin.party partners Website](http://www.bwinpartypartners.com/). We recommend that you revisit this Privacy Policy regularly.
 
@@ -18,7 +18,7 @@ We consider information that may be used to identify an individual, including, b
 
 **3\. MEANS OF COLLECTING AND PROCESSING DATA**
 
-We may automatically collect certain data as discussed above and receive Personal Information about you where you provide such information through the Affiliate Network or other communications and interactions with Us. We may also receive Personal Information from customer lists lawfully acquired from third-party vendors. In addition, We may engage the services of third-party service providers to provide technical support, process your online transactions and maintain your online account. We will have access to any information you provide to such vendors, service providers and third-party e-commerce services, and We will use the Personal Information as set out in this Privacy Policy below. This information will only be disclosed to third parties outside the bwin.party Group in accordance with this Privacy Policy. We take steps to ensure that Our arrangements with third-party service providers and online vendors protect your privacy.
+We may automatically collect certain data as discussed above and receive Personal Information about you where you provide such information through the Affiliate Network or other communications and interactions with Us. We may also receive Personal Information from customer lists lawfully acquired from third-party vendors. In addition, We may engage the services of third-party service providers to provide technical support, process your online transactions and maintain your online account. We will have access to any information you provide to such vendors, service providers and third-party e-commerce services, and We will use the Personal Information as set out in this Privacy Policy below. This information will only be disclosed to third parties outside the GVC Group in accordance with this Privacy Policy. We take steps to ensure that Our arrangements with third-party service providers and online vendors protect your privacy.
 
 **4\. INFORMATION USE**
 
