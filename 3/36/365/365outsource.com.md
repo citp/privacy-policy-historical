@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365outsource.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606070728id_/http%3A//www.365outsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365outsource.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027150402id_/http%3A//www.365outsource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 365 Outsource.com
 
