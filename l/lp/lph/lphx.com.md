@@ -1,25 +1,29 @@
-> *The following text is extracted and transformed from the lphx.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927171643id_/http%3A//www.adagiogame.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lphx.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027062506id_/http%3A//lphx.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Adagio Game - Online Amazing Games - Privacy Policy
+# Play Snooker Games - Snooker Online Games
 
-**Your Privacy at adagiogame.com**
+**Privacy Policy for www.lphx.com**
 
-We collect no personal information about you when you visit our website, However, we collect and store certain information automatically. Here is list what we colect and store automatically. 
+At www.lphx.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.lphx.com and how it is used.
 
-**What We Collect and Store Automatically**
+**Log Files**  
+Like many other Web sites, www.lphx.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
+**Cookies and Web Beacons**  
+www.lphx.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-* The Internet domain (for example, "yoursite.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.  
-* The type of browser and operating system.  
-* The date and time you access our site.  
-* The pages you visit.  
-* If you linked to our website from another website and the address of that website.  
-* **Our web server logs all visitor information for statistical purposes only**.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.lphx.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.lphx.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-**Links to Other Sites**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
 
-Our website has links to other sites. When you go to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.lphx.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**Members**  
-If you are mamber of "adagiogame.com" your profile information will be available to anyone who chooses to view it. Do not put sensitive personal information in your profile. We will not share your e-mail address with anyone. It will be used to send you site news and newsletters. You may opt-out of these at any time once you've logged into the site.
+www.lphx.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.lphx.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
