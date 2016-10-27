@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the harrietandfriends.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529010330id_/http%3A//poshonabudget.com/%3Fp%3D58623) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietandfriends.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027221844id_/http%3A//poshonabudget.com/%3Fp%3D58623) for the most accurate reproduction.*
 
 # Privacy Policy/ FTC Disclosure
-
-[ ](https://www.linksalpha.com/social/mobile)
 
 ### Your privacy  
 
@@ -37,6 +35,4 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does not contain any content which might present a conflict of interest.
 
-[](https://www.pinterest.com/pin/create/button/)
-
-(Visited 229 time, 4 visit today)
+r
