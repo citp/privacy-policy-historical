@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopgamer.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504172514id_/http%3A//hotpopgamer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopgamer.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027080803id_/http%3A//hotpopgamer.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Gamer
 
@@ -58,10 +58,10 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recent Posts
 
-[ ](http://hotpopgamer.com/the-greatest-star-wars-games-ever-2/ "The Greatest Star Wars Games Ever")
+[ ](http://hotpopgamer.com/top-8-game-hacks-2/ "Top 8 Game Hacks")
 
-### [The Greatest Star Wars Games Ever](http://hotpopgamer.com/the-greatest-star-wars-games-ever-2/)
+### [Top 8 Game Hacks](http://hotpopgamer.com/top-8-game-hacks-2/)
 
-__Feb 02, 2016
+__Mar 27, 2016
 
-If you’re like everyone else and simply can’t get enough Star Wars right now, your best bet is to probably turn to the wonderful world of video games. There have... 
+Everyone wants a edge when gaming. Whether it's a cheat or just using a tech gadget, here are our Top 8 Game Hacks for you to try the next time you need your game fix. 
