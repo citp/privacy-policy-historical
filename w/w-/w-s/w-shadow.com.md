@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326033449id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w-shadow.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027225431id_/http%3A//w-shadow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | W-Shadow.com
 
