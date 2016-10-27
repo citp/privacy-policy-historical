@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuecentral.net privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620224010id_/http%3A//revenuecentral.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuecentral.net privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027032731id_/http%3A//revenuecentral.net/page/privacy-policy) for the most accurate reproduction.*
 
 # revenuecentral.net
 
