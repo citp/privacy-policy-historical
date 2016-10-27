@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layer.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405111439id_/https%3A//layer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layer.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027161635id_/https%3A//layer.com/privacy) for the most accurate reproduction.*
 
 # Layer - Privacy
 
@@ -80,5 +80,5 @@ Effective Date: August 7, 2014
 Updated: October 10, 2014
 
 Layer, Inc.  
-650 Townsend Street, Suite 480  
-San Francisco, CA 94103 
+655 4th Street, 2nd Floor  
+San Francisco, CA 94107 
