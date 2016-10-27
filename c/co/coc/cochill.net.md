@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochill.net privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208052010id_/http%3A//cochill.net/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochill.net privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027143605id_/https%3A//www.uspcaregion12.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
