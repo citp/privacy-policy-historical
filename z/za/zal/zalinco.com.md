@@ -1,81 +1,98 @@
-> *The following text is extracted and transformed from the zalinco.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013047id_/http%3A//zalinco.com/privacylangen-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalinco.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027024017id_/http%3A//zalinco.com/malaysia/privacy-policy) for the most accurate reproduction.*
 
-# ZinQ Media B.V. Privacy Statement | Zalinco
+# Privacy Policy
 
-Introduction 
+**1\. Purpose of Privacy Policy**
 
-Personal information about customers and website visitors is held securely and is treated with the utmost care. Zinq Media bv is committed to protecting the privacy of its customers and visitors to its websites as being an absolute necessity to the operation of its business.
+This Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us, and in making informed decisions when you are using our website.
 
-Zinq Media bv complies with the requirements of the Personal Data Protection Act and other privacy legislation for an accurate processing of personal data. The party responsible for data processing (Controller) is Zinq Media bv (Max Euweplein 24, 1017 MB Amsterdam, The Netherlands). The Dutch Data Protection Authority in The Hague is notified of all processing of personal data.
+**2\. What information do we collect?**  
+When you visit our website, you may be providing us with two types of information:
 
-Processing personal data
+  1. personal information you knowingly choose to disclose to us, e.g., your name, mailing and email addresses and telephone number which you provide to us during the registration process for the Lucky Draw; and
+  2. website use information collected on an aggregate basis as you and others browse our website.
 
-Data is stored and maintained in the course of providing our services. Your personal details are stored when you take out a subscription to a (mobile) service or a newsletter, when you are a participant to a promotion or invited to join a game. Data is also processed in the course of providing our services by other companies in the group, sponsors and partners, when making available the prize to the winner, register an interest in one of our services, or contact us for some other reason. The personal information we hold includes information such as contact details, mobile phone number, unsubscribe data, for instance to a newsletter, new products/services and/or when you have registered an interest in our different sorts of services.
 
-We use this information for the fulfillment and processing of agreements with you, to provide other services (by our subsidiaries and sponsors or partners), internal business processes and, to update customers of (new) products and services provided by us, other companies in the group or by sponsors and partners. Your (contact) details may also be passed to sponsors and partners in order to provide you with information about offers or other relevant information you consented to by participating. If you do not wish to receive this information, you can unsubscribe at any time.
 
-Use of data 
+**3\. What do we use your personal information for?**  
+The personal information we collect from you may be used in one of the following ways:
 
-In order to use our mobile services you are asked to pass through a (usually country specific) process. You are asked to specify a number of data, such as your name, address, postal code, residence, gender, mobile phone number, e-mail address and bank account number. These data are used to send you information in the course of providing our (requested) services and to be able to improve the performance with you, when appropriate. We also want to keep you up-to-date with new, different sorts of products and services and interesting offers.
+  1. To promote and market products or services offered by us, our sponsors and our clients;
+  2. To improve on our website;
+  3. To enable us to send periodic emails and/or newsletters, and to contact you via any media pertaining to updates and information on products or services offered by us, our sponsors and our clients;
+  4. To enable our sponsors to contact you directly via any media, on their products and services; and
+  5. To transfer, sell or assign such information to any entity to which we divest all or a portion of our business, or to such of our clients as we deem appropriate.
 
-Your mobile telephone number 
 
-If you have specified your (mobile) telephone number this is used to communicate with you. When you have indicated to be interested, we also use you (mobile) telephone number to keep you informed of (new) products and services. You can unsubscribe at any moment by clicking on the link in the text message which you receive on your mobile telephone.
 
-Your e-mail address 
+**4\. Will your personal information be passed on to any third parties?**  
+We treat the personal information that you have provided to us confidentially. We do not release any of your data for identification or convey it to third parties if you have not given your explicit consent permitting us to do so. However, please note that we will release your personal information if required to do so by law, including without limitation, by search warrant, subpoena or court order. In the event that you have provided information directly to our sponsors, such data will be subject to the respective privacy policies of our sponsors. We shall not be held responsible for the protection of the information supplied by you directly to our sponsors.
 
-When you have specified your e-mail address and actively have indicated for instance to receive a new letter or other information, just by participating, then we can inform you (better) as a customer of different sorts of offers and prize actions. When you do not wish to receive this information, you can unsubscribe at any time by clicking on the link in the e-mail you received. You may also have given your consent to disclose your e-mail address to be sent offers and campaigns from other companies from time to time. Such companies are beforehand carefully selected. You can indicate and view this on the site most of the times.
+**5\. Can your personal data for identification be updated, corrected or deleted?**  
+You can have your account deleted or deactivated by sending an email to info@zalinco.com. However, please keep in mind that once you have deleted or deactivated your account, your user alternatives regarding our range of services will then be limited to those of a non-member.
 
-Viewing for correction 
+**6\. What security measures are put in place to protect your personal information against loss, misuse or alteration?**  
+We take reasonable precautions to keep your personal information secured. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse. However, we cannot assume responsibility for the publication of information due to errors in data transmission or unauthorised access by third parties.
 
-You view the data we maintain on you at any time. If such information is incorrect you can help us to correct these. To view or correct your data, you can send your request to the above mentioned address. Please contact us also at the above address if you have questions or any queries about how we handle personal information.
+**7\. What else should you know about data protection?**  
+You should be aware that information which you voluntarily reveal over the Internet, e.g. in discussion forums, via email or in chat rooms can be used by other parties. We do not monitor the actions of our visitors and registered members. If you reveal personal information to such third parties, you do so at your own risk.
 
-Preferences kind of products and services 
+**8\. Changes in our policy**  
+We reserve the right to change or remove this Privacy Policy at our absolute discretion. We will post any new policy here and we encourage you to visit this area frequently to stay informed.
 
-Our aim is to take into account your preferences as much as possible. If you are not interested in information about (new) relevant products and services, then we ask you to let us know on the special unsubscribe page on the site. Note: our service is aimed at sharing information with you on preferences for different kinds of products and services. A total blocking of your data may lead to the not receiving information on offers and campaigns in which you probably may be interested in.
+**9\. Who to contact?**  
+Please write to us at info@zalinco.com if you have any comments or questions about this Privacy Policy, or if you wish to be removed from our mailing list or report any violations of the Privacy Policy. We will respond to you as soon as we receive an email or notification from you.
 
-Database records 
+**10\. Data Retention Period**  
+All data given to us will be retained for 20 years.
 
-For the provision of our service we keep database records in order to have a robust control in place on our services (and our service providers). The purpose of this is to optimize the reliability of the service. The information derived from these data is used to prevent misuse of data and if necessary to comply with more detailed information queries from third parties on the basis of (self)regulation.
+**11\. Cookies**  
+We collect information about the pages you view, and the links you click, including advertisements, through common internet technologies such as cookies and web beacons, and your IP-address, which is a number that is automatically assigned to your computer when you use the Internet.
 
-Browsing session and IP-address
+**POLISI PRIVASI**
 
-We also make use of the IP-address of your computer. This IP-address is a number which automatically assigned to your computer when you have a browsing session on the internet, such as when you visit one of our sites or landing pages. They can be used to see which use has been made of the website and for drafting analyses and reports with non-identifiable information.
+**1\. Tujuan dari Polisi Privasi**  
+Polisi Privasi ini direka untuk membantu anda memahami bagaimana kami mengumpul dan menggunakan maklumat peribadi yang telah anda berikan, dan juga membantu anda membuat keputusan yang sesuai apabila menggunakan laman web kami.
 
-Security 
+**2\. Apakah maklumat yang kami kumpulkan?**  
+Apabila anda melayari laman web kami, anda mungkin memberi kami dua jenis maklumat:
 
-Due to the nature of the service and the trust which one must have in our service we have designed and implemented technical and organizational measures governing an adequate level of security and ensure compliance with these measures.
+  1. maklumat peribadi anda contohnya, nama, alamat rumah dan e-mel dan nombor telefon yang telah dikemukakan semasa proses pendaftaran anda untuk Cabutan Bertuah;
+  2. maklumat menenai penggunaan laman web anda dan pengunjung lain yang turut melayari laman web kami yang dikumpul secara kolektif
 
-Cookies 
 
-Sites which transmit advertisements are making use of cookies to keep count of which advertisements have been shown. These cookies are places by the company which provides these advertisements. The only purpose of these cookies is to transmit the communication necessary to show the advertisement on the website or to provide the requested service after clicking the advertisement on the website. These ‘clicks’ give us information which is in the interests of statistical analysis on a non-identifiable level. You personal use cannot be derived from such use.
 
-Links
+**3\. Bagaimanakah kami menggunakan maklumat peribadi anda?**  
+Maklumat peribadi yang telah kami kumpulkan boleh digunakan dengan salah satu cara seperti berikut:
 
-On this site you see a number of hyperlinks to other websites. We cannot be held responsible for the data processing activities by these organizations. Read the privacy policy, if present, of the site you are visiting.
+  1. Untuk mempromosi dan memasarkan produk atau perkhidmatan yang ditawarkan oleh kami, penaja kami(partners) dan pelanggan kami;
+  2. Untuk memperbaiki laman web kami;
+  3. Untuk membolehkan kami menghantar e-mel atau newsletter secara rutin, dan menghubungi anda melalui mana-mana media, mengenai sebarang maklumat terkini tentang produk atau perkhidmatan yang ditawarkan oleh kami, penaja kami (partners) dan pelanggan kami;
+  4. Untuk membolehkan penaja kami menghubungi anda secara langsung melalui mana-mana media, mengenai produk dan perkhidmatan mereka;
+  5. Untuk memindahkan, menjual atau memberikan sebarang maklumat kepada mana-mana entiti yang telah kami serahkan kesemua atau sebahagian daripada perniagaan kami, atau untuk pelanggan kami sebagaimana yang kami fikirkan sesuai.
 
-Adjustments 
 
-We reserve the right to make adjustments to this privacy policy. Important adjustments are made know on this site in the privacy policy.
 
-**Complaints**
+**4\. Adakah maklumat peribadi anda akan disampaikan kepada mana-mana pihak ketiga?**  
+Kami memastikan semua maklumat peribadi yang anda telah berikan kepada kami secara sulit. Kami tidak akan memberi sebarang maklumat peribadi anda kepada mana-mana pihak ketiga tanpa persetujuan jelas daripada anda. Walau bagaimanapun, perlu diingatkan bahawa kami akan memberi maklumat peribadi anda jika dikehendaki oleh undang-undang, termasuk dan tidak terbatas oleh, waran tangkap, sepina atau perintah mahkamah. Sekiranya anda telah memberikan maklumat langsung kepada penaja(partner) kami, data tersebut akan tertakluk kepada dasar privasi penaja(partner) kami. Kami tidak akan bertanggungjawab atas perlindungan maklumat yang telah anda berikan kepada penaja(partner) kami.
 
-If you wish to make a complaint or provide any comments on our Privacy Policy please contact us on: [info@zalinco.com](mailto:info@zinqmedia.com). We will contact you to discuss any concerns within 48 hours of receiving your e-mail.
+**5\. Adakah maklumat peribadi anda boleh dikemaskini, diperbetulkan atau dipadamkan?**  
+Anda boleh memadam atau menutup akaun anda dengan menghantarkan email ke info@zalinco. Walau bagaimanapun, perlu diingatkan bahawa akses anda untuk perkhidmatan kami akan terhad sebagai bukan ahli (non-member) setelah akaun anda telah dipadam atau ditutup.
 
-ZinQ Media B.V.
+**6\. Apakah langkah-langkah keselamatan yang digunakan untuk melindungi maklumat peribadi anda daripada sebarang penyalahgunaan atau perubahan?**  
+Kami mengambil langkah berjaga-jaga untuk memastikan maklumat peribadi anda selamat. Semua maklumat peribadi anda adalah tertakluk kepada akses terhad untuk mencegah akses tanpa izin, pengubahsuaian atau penyalahgunaan. Walau bagaimanapun, kami tidak bertanggungjawab di atas penerbitan maklumat yang disebabkan oleh kesilapan dalam transmisi data atau akses yang tidak dibenarkan oleh pihak ketiga.
 
-Address: Max Euweplein 24
+**7\. Apa lagi yang anda harus tahu mengenai perlindungan data anda?**  
+Anda harus menyedari bahawa maklumat yang telah anda kemukakan melalui Internet, contohnya dalam forum perbincangan, melalui e-mel atau bilik sembang boleh digunakan oleh pihak lain. Kami tidak memantau kegiatan pengunjung dan ahli-ahli lain yang berdaftar. Jika anda mendedahkan maklumat peribadi kepada pihak ketiga, anda berbuat demikian di atas risiko anda sendiri.
 
-Postal Code: 1017 MB
+**8\. Perubahan bagi Polisi Privasi**  
+Kami berhak untuk mengubah atau menghapuskan Polisi Privasi ini. Kami menggalakkan agar anda sering melayari halaman ini supaya dapat dimaklumkan dengan maklumat terkini yang dikumpul.
 
-City: Amsterdam
+**9\. Siapa yang dapat anda hubungi?**  
+Anda boleh menghubungi kami di info@zalinco.com sekiranya anda mempunyai sebarang komen atau soalan mengenai Polisi Privasi ini, atau jika anda ingin dikeluarkan daripada senarai e-mel kami atau melaporkan sebarang pelanggaran dari Polisi Privasi ini. Kami akan membalas secepat mungkin.
 
-Country: Netherlands
+**10\. Tempoh Pengekalan Data**  
+Semua data yang diberikan kepada kami akan disimpan selama 20 tahun.tracy tavaneeta
 
-Phone: +31(0)20 530 6667
-
-Email: info@zalinco.com
-
-Chamber of Commerce nr: 54535565
-
-VAT nr: NL 8513.41.986B01
+**11\. Cookies**  
+Kami mengumpul maklumat berkaitan dengan interaksi online anda dari halaman web yang anda kunjungi dan pautan yang anda klik, termasuk iklan-iklan, melalui teknologi seperti ‘cookies’, ‘web beacon’ dan alamat IP anda, yang merupakan nombor yang diberikan secara automatik kepada komputer anda apabila anda menggunakan Internet.
