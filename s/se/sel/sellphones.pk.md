@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellphones.pk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324152051id_/http%3A//sellphones.pk/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellphones.pk privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027155022id_/http%3A//sellphones.pk/Privacy.html) for the most accurate reproduction.*
 
 # Sellphones.pk - Privacy Policy
 
