@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the voiceshot.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314184417id_/http%3A//www.voiceshot.com/public/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceshot.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027230142id_/http%3A//voiceshot.com/public/privacy.asp) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - VoiceShot
+
+Privacy Policy
 
 **Information Collection and Use**  
 VoiceShot is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VoiceShot collects information from our users at several different points on our website. 
