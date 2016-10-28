@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchassist.net privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126184318id_/http%3A//www.searchassist.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchassist.net privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028080904id_/http%3A//www.searchassist.net/privacy) for the most accurate reproduction.*
 
 # Search
 
@@ -33,3 +33,7 @@ In the event that SearchAssist.net goes through a business transition, such as a
 ### Changes to Policy
 
 From time to time, SearchAssist.net may revise this Policy. SearchAssist.net will post the revised Policy on the Site, so that users can always be aware of what information SearchAssist.net collects, how the information is used and under what circumstances such information may be disclosed.
+
+### Searches
+
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy> , and the search provider's privacy policy, as applicable
