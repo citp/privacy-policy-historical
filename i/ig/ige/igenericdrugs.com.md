@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the igenericdrugs.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603125958id_/http%3A//igenericdrugs.com%3Fact%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenericdrugs.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028160208id_/http%3A//igenericdrugs.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy policy
 
-**What’s our policy?  
-**iGenericDrugs is committed to protecting the privacy of its users and we have taken strong measures to ensure that the information we gather from you will be secure and confidential.
+**iGenericDrugs.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-**What information do we need and what do we do with it?  
-**If you join iGenericDrugs, we will need your name, email address, city and postal code. We will use this information to contact you when a new development needs your support, or when we have new information important to our members.
+## Routine Information Collection
 
-**How do we protect your information?  
-**We make sure that every online communication with our users meets our high standards of privacy and security. In addition, we take strong measures to protect all customer data against unauthorized access.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Do we have "cookies"?  
-**Cookies are small bytes of information that are stored by your browser on your computer’s hard drive. iGenericDrugs does not use cookies on our web site.
+## Cookies and Web Beacons
 
-**Will iGenericDrugs share any of my personal information?  
-**Absolutely NOT! iGenericDrugs will not trade, sell, rent of give your personal information to third parties without your consent. Access to the iGenericDrugs email list is restricted to the two members within iGenericDrugs who administer our Web site.
+Where necessary, NasalPolypTreatment.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-**Will iGenericDrugs change its policy?  
-**When you join iGenericDrugs you consent to the collection and use of your information by iGenericDrugs. If we alter our privacy policy in any way we will post those changes here so you can be aware of anything that may affect you in the way we disclose information.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-**Any more questions?  
-**iGenericDrugs takes the issue of protecting your privacy seriously. If you have any concerns, questions, or just want to tell us what you think, feel free to contact us at [info@igenericdrugs.com](mailto:info@igenericdrugs.com).
+## Controlling Your Privacy
 
- [0-9](https://web.archive.org/?n=0) [A](https://web.archive.org/?n=A) [B](https://web.archive.org/?n=B) [C](https://web.archive.org/?n=C) [D](https://web.archive.org/?n=D) [E](https://web.archive.org/?n=E) [F](https://web.archive.org/?n=F) [G](https://web.archive.org/?n=G) [H](https://web.archive.org/?n=H) [I](https://web.archive.org/?n=I) [J](https://web.archive.org/?n=J) [K](https://web.archive.org/?n=K) [L](https://web.archive.org/?n=L) [M](https://web.archive.org/?n=M) [N](https://web.archive.org/?n=N) [O](https://web.archive.org/?n=O) [P](https://web.archive.org/?n=P) [Q](https://web.archive.org/?n=Q) [R](https://web.archive.org/?n=R) [S](https://web.archive.org/?n=S) [T](https://web.archive.org/?n=T) [U](https://web.archive.org/?n=U) [V](https://web.archive.org/?n=V) [W](https://web.archive.org/?n=W) [X](https://web.archive.org/?n=X) [Y](https://web.archive.org/?n=Y) [Z](https://web.archive.org/?n=Z) 
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+
+## Special Note About Google Advertising
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+## Contact Information
+
+Concerns or questions about this privacy policy can be directed to info@igenericdrugs.com for further clarification.
