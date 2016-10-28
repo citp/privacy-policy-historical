@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328091021id_/https%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028171743id_/https%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Pitchup.com
 
