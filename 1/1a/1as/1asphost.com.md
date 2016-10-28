@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1asphost.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429003609id_/http%3A//1asphost.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1asphost.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028173003id_/http%3A//1asphost.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Dotster's Privacy Policy
 
