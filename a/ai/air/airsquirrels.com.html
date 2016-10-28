@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the airsquirrels.com privacy policy that was archived on 2016-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314151413id_/https%3A//store.airsquirrels.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the airsquirrels.com privacy policy that was archived on 2016-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161028113500id_/https%3A//store.airsquirrels.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,8 +8,8 @@
 <meta name="description" content="Apps to go nuts for">
 <meta name="keywords" content="Mobile Apps">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="/favicon-as.png" type="image/x-icon">
-<link rel="shortcut icon" href="/favicon-sq.png" type="image/x-icon">
+<link rel="icon" href="/favicon-new.png" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon-new.png" type="image/x-icon">
 <!--TypeKit Up in Here-->
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PNBVFM"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://use.typekit.net/bjc4mjn.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -323,7 +323,12 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 			dataString['howheard'] = jQuery('#airparrot-form select[name=howheard]').val();
 			dataString['operating_system'] = jQuery('#airparrot-form select[name=os]').val();
 			dataString['qty'] = jQuery('#airparrot-form select[name=qty]').val();
+			dataString['devices'] = jQuery("#airparrot-form input[name=devices]:checked").map(function() {
+											    return this.value;
+											}).get().join(", ");
+			dataString['currency'] = jQuery('#airparrot-form select[name=currency]').val();
 			dataString['message'] = jQuery('#airparrot-form textarea').val();
+			console.log('form submit ',dataString);
 			if(dataString['email']!='' && dataString['name']!='' && dataString['qty']!='' && dataString['message']!=''){
 				jQuery.ajax({
 			 		type: "POST",
@@ -342,6 +347,8 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 							jQuery('#airparrot-form select[name=howheard]').val('');
 							jQuery('#airparrot-form select[name=os]').val('');
 							jQuery('#airparrot-form select[name=qty]').val('');
+							jQuery('#airparrot-form input[name=devices]').val('');
+							jQuery('#airparrot-form select[name=currency]').val('');
 							jQuery('#airparrot-form textarea').val('');
 						}
 						else {
@@ -371,6 +378,10 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 			dataString['operating_system'] = jQuery('#reflector-form select[name=os]').val();
 			dataString['qty'] = jQuery('#reflector-form select[name=qty]').val();
 			dataString['message'] = jQuery('#reflector-form textarea').val();
+			dataString['devices'] = jQuery("#reflector-form input[name=devices]:checked").map(function() {
+											    return this.value;
+											}).get().join(", ");
+			dataString['currency'] = jQuery('#reflector-form select[name=currency]').val();
 						if(dataString['email']!='' && dataString['name']!='' && dataString['qty']!='' && dataString['message']!=''){
 				jQuery.ajax({
 			 		type: "POST",
@@ -388,6 +399,8 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 							jQuery('#reflector-form input[name=company]').val('');
 							jQuery('#reflector-form select[name=os]').val('');
 							jQuery('#reflector-form select[name=qty]').val('');
+							jQuery('#reflector-form input[name=devices]').val('');
+							jQuery('#reflector-form select[name=currency]').val('');
 							jQuery('#reflector-form textarea').val('');
 						}
 						else {
@@ -414,7 +427,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script></head>
+        //]]></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNBVFM"
@@ -448,6 +461,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<ul>
 							<li><a href="http://www.airsquirrels.com/airparrot/" class="green">AirParrot</a></li>
 							<li><a href="http://www.airsquirrels.com/reflector/" class="orange">Reflector</a></li>
+							<li><a href="http://www.airsquirrels.com/ditto/" class="blue">Ditto</a></li>
 							<li><a href="http://www.airsquirrels.com/screentoss/" class="altblue">ScreenToss</a></li>
 						</ul>
 					</li>
@@ -495,15 +509,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p><strong>COLLECTION OF INFORMATION</strong></p>
 <p>Information You Provide to Us:<br> We collect information you provide directly to us. For example, we collect information when you purchase items, subscribe, participate in any interactive features of our services, fill out a form, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, billing address and other contact or identifying information you choose to provide.</p>
 <p>Information We Collect Automatically When You Use the Services:<br> When you access or use our services, we automatically collect information about you, including:</p>
-<ul style="font-weight:200 !Important;">
+<ul style="font-size: 0.9em;">
 <li>Log Information: We log information about your use of our services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our services.</li>
-<li>Device Information: We collect information about the device you use to access our services, including the hardware model, and operating system and version.</li>
+<li>Device Information: We collect information about the device you use to access our services, including the hardware model, and operating system and version.&nbsp;</li>
 </ul>
-<p>&nbsp;</p>
 <p>Information Collected by Cookies and Other Tracking Technologies:<br> We use various technologies to collect information, and this may include sending cookies to your computer. Cookies are small data files stored on your hard drive or in your device memory that helps us to improve our services and your experience, see which areas and features of our services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our services or emails and to track count visits or understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Information Choices" below.</p>
 <p><strong>USE OF INFORMATION</strong></p>
-<p>We do not use your information for serving ads. We use information about you for various purposes, including:</p>
-<ul style="font-weight:200 !Important;">
+<p>We use information about you for various purposes, including:</p>
+<ul style="font-size: 0.9em;">
 <li>Providing, maintaining and improving our services, providing services you request, process transactions and to send you related information, including confirmations and invoices</li>
 <li>Send you technical notices, updates, security alerts and support and administrative messages</li>
 <li>Respond to your comments, questions and requests and provide customer service</li>
@@ -511,7 +524,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Monitor and analyze trends, usage and activities in connection with our services; and</li>
 <li>Personalize and improve our services.</li>
 </ul>
-<p>&nbsp;</p>
 <p>By accessing and using our services, you consent to the processing and transfer of your information in and to the United States and other countries.</p>
 <p><strong>SHARING OF INFORMATION</strong></p>
 <p>We don't share your personal information with 3rd parties except those necessitated for the direct functionality of your purchase (such as our payment processors who handle the payment of your transactions).</p>
@@ -542,14 +554,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<li><a href="https://store.airsquirrels.com/onestepcheckout/">Checkout</a></li>
 					<li><a href="https://store.airsquirrels.com/license-key-lookup/">License Key Lookup</a></li>
 					<li><a href="http://help.airsquirrels.com/support/home">Help</a></li>
-					<li><a href="http://www.airsquirrels.com/?contact=1" name="modal" id="footer_contact_link" onclick="ga('send', 'event', 'Forms', 'Contact Open', 'Initial Click on Contact Form');">Contact</a></li>
+					<li><a href="#contact-modal" name="modal" onclick="ga('send', 'event', 'Forms', 'Contact Open', 'Initial Click on Contact Form');">Contact</a></li>
 					<li><a href="http://blog.airsquirrels.com">Blog</a></li>
 					<li><a href="http://press.airsquirrels.com">Press</a></li>
 					<li><a href="http://alpha.airsquirrels.com">Alpha</a></li>
 					<li><a href="http://www.airsquirrels.com/about-us/">About Us</a></li>
 					<li><a href="http://www.airsquirrels.com/jobs/">Jobs</a></li>
 					<li><a href="https://store.airsquirrels.com/return-policy/">Return Policy</a></li>
-					<li><a href="https://store.airsquirrels.com/privacy-policy/">Privacy Policy</a></li>
+					<li><a href="http://www.airsquirrels.com/privacy-policies-all/">Privacy Policies</a></li>
 					<li><a href="https://store.airsquirrels.com/licensing-terms/">Licensing Terms</a></li>
 				</ul>
 			</div>
@@ -668,6 +680,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<option value="Other">Other</option>
 			</select>
 		</div>
+		
 		<div class="grid_6 omega">
 			
 			
@@ -738,6 +751,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</select>
 		</div>
 		<div class="grid_6 omega">
+			<p class="label">Which devices are you trying to share?</p>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Chromebooks"><label for="chromebooks">Chromebooks</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="iPads"><label for="ipads">iPads</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value=">Windows Laptop/Surface Pro"><label for="windows">Windows Laptop/Surface Pro</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Android"><label for="android">Android</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Mac"><label for="mac">Mac</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="BYOD"><label for="byod">BYOD</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Other"><label for="other">Other</label>
+		</div>
+		<div class="grid_6 alpha">
+			<p class="label">Which is your preferred currency?</p>
+			<select name="currency">
+				<option value="">Please select one</option>
+				<option value="USD">USD</option>
+				<option value="GBP">GBP</option>
+				<option value="EUR">EUR</option>
+				<option value="AUD">AUD</option>
+			</select>
+		</div>
+		<div class="grid_6 omega">
 			<p class="label">How'd You Hear About Us? *</p>
 			<select name="howheard" id="ap-howheard" class="required">
 				<option value="">Please select one</option>
@@ -751,17 +790,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</optgroup>
 				<optgroup label="---- Conference / Exhibition -----">
 					<option value="BETT">BETT</option>
+					<option value="Camput Technology">Campus Technology</option>
 					<option value="DevLearn">DevLearn</option>
 					<option value="ECO PD">ECO PD</option> 
 					<option value="EDCAMP">EDCAMP</option> 
 					<option value="FETC">FETC</option>
-					<option value="ISTE 2015">ISTE 2015</option>
-					<option value="ISTE 2014">ISTE 2014</option>
+					<option value="ISTE">ISTE</option>
 					<option value="ITIP Ohio">ITIP Ohio</option>
 					<option value="MACUL">MACUL</option>
+					<option value="NCTIES">NCTIES</option>
 					<option value="NJEA">NJEA</option>
 					<option value="NYSCATE">NYSCATE</option>
-					<option value="OETC 2016">OETC 2016</option>
+					<option value="OETC">OETC</option>
+					<option value="TIES SD">TIES SD</option>
 					<option value="VSTE">VSTE</option>
 					<option value="Another Conference">Another Conference</option>
 				</optgroup>
@@ -824,6 +865,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</select>
 		</div>
 		<div class="grid_6 omega">
+			<p class="label">Which devices are you trying to share?</p>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Chromebooks"><label for="chromebooks">Chromebooks</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="iPads"><label for="ipads">iPads</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value=">Windows Laptop/Surface Pro"><label for="windows">Windows Laptop/Surface Pro</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Android"><label for="android">Android</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Mac"><label for="mac">Mac</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="BYOD"><label for="byod">BYOD</label>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="devices" value="Other"><label for="other">Other</label>
+		</div>
+		<div class="grid_6 alpha">
+			<p class="label">Which is your preferred currency?</p>
+			<select name="currency" id="currency" class="required">
+				<option value="">Please select one</option>
+				<option value="USD">USD</option>
+				<option value="GBP">GBP</option>
+				<option value="EUR">EUR</option>
+				<option value="AUD">AUD</option>
+			</select>
+		</div>
+		<div class="grid_6 omega">
 			<p class="label">How'd You Hear About Us? *</p>
 			<select name="howheard" id="rf-howheard" class="required">
 				<option value="">Please select one</option>
@@ -837,17 +904,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</optgroup>
 				<optgroup label="---- Conference / Exhibition -----">
 					<option value="BETT">BETT</option>
+					<option value="Campus Technology">Campus Technology</option>
 					<option value="DevLearn">DevLearn</option>
 					<option value="ECO PD">ECO PD</option> 
 					<option value="EDCAMP">EDCAMP</option> 
 					<option value="FETC">FETC</option>
-					<option value="ISTE 2015">ISTE 2015</option>
-					<option value="ISTE 2014">ISTE 2014</option>
+					<option value="ISTE">ISTE</option>
 					<option value="ITIP Ohio">ITIP Ohio</option>
 					<option value="MACUL">MACUL</option>
+					<option value="NCTIES">NCTIES</option>
 					<option value="NJEA">NJEA</option>
 					<option value="NYSCATE">NYSCATE</option>
-					<option value="OETC 2016">OETC 2016</option>
+					<option value="OETC">OETC</option>
+					<option value="TIES SD">TIES SD</option>
 					<option value="VSTE">VSTE</option>
 					<option value="Another Conference">Another Conference</option>
 				</optgroup>
@@ -872,6 +941,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Mask to cover the whole screen -->
 <div id="mask"></div>
 
+<!-- Ad Roll Pixel - Start --> 
+<script type="text/javascript">
+    adroll_adv_id = "KHJDSGFO7FHFPCB7GVO6VN";
+    adroll_pix_id = "7VMSRFULSFF3JM52DGGY4S";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+
+</script>
+<!-- Ad Roll Pixel - End --> 
 
 
 
