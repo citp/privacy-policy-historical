@@ -1,107 +1,84 @@
-> *The following text is extracted and transformed from the zeeto.io privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317125859id_/http%3A//zeeto.io/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeto.io privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028085308id_/http%3A//zeeto.io/zeeto-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zeeto
+# Zeeto Privacy Policy - Zeeto.io
 
-Thank you for visiting Zeeto Media. Zeeto Media ("us" or "we") is committed to respecting the privacy rights of its customers, visitors, and other users of zeetomedia.com ("website"). This privacy notice applies solely to information collected by this website, and not to any other sites that you may be able to access from this website, each of which may have data collection and use practices and policies that differ materially from this privacy notice. This privacy notice will notify you of the following: 
+**Privacy Notice/Your California Privacy Rights**
 
-  1. What personally identifiable information is collected from you through this website, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
+This website is operated by ZeetoGroup, LLC (“Zeeto,” “We,” or “Us”)  This privacy notice (the “Privacy Policy”) discloses the information gathering and dissemination practices for the Zeeto website, mobile and website platforms or applications, electronic services, and social networking sites (collectively, the “Site”). We provide this policy to help you understand how we treat the information collected and how such information is used and shared.
 
+Please note that by using this Site and our services, you agree to the terms of this Privacy Policy.  If you do not agree with the terms described in this Privacy Policy, please do not provide us with your personal information or interact with the Site.
 
+**Information We Collect**
 
-###  Information We Collect 
+User Provided Information – We may collect information from you directly when you use our services, visit and register with us on the Site, or participate in our online surveys. This information may include: (a) your name, mobile or residential phone number, zip code, e-mail address, postal address, date of birth, gender, answers to survey questions and other registration information; (b) transaction-related information, such as when you enter sweepstakes, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us; (d) information you enter into our system when using the Site, such as contact information which is clearly labeled at the time you submit it; and (e) information you post on our Site.
 
-We may collect information about you from you directly and when you visit this website, use our services, or view our online advertisements. 
+Automatically Collected Information – When you use the Site, we automatically collect certain information from you, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, clickstream data, the type of mobile device you use, your mobile device’s unique device ID, the IP address of your mobile device, and your mobile operating system. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged and used for purposes such as to help diagnose technical problems and to administer our Site so that we can constantly improve it.  Further, when you register with any of our third-party partners, the information you provide during registration may be forwarded to us automatically.  This information is sent to us so that we may match you with the best offers that align with your interests.
 
-We collect information directly from you when you chose to register on this website, participate in our online surveys, or fill out other online forms. The following are examples of information we may collect directly from you: 
+_Cookies._  Cookies are small data files placed in your browser. Cookies transmit information such as session ID, user ID, and conversion data. This information helps website providers recognize a browser or mobile device and helps us gather information such as how many users have visited our site and which pages and advertisements have been seen and clicked on. We use first-party cookies and third-party cookies together to report ad impressions, other uses of ad services, and interactions with ad impressions related to your visit to our Site.  Such information is used to tailor your experience on our Site. 
 
-  * Your name, e-mail address, postal address and other contact information
-  * Any other information you provide to us via email or other direct contact
+_Third-Party Analytics._  We may collect certain information via third-party analytics services and data providers, which may collect your non-sensitive user information. This may include: the information you provide us, your session ID, your user ID, and conversion data. This information provides us with tools to calculate the numbers and frequency of visitors on the Site and to understand how you and other users use the Site so to improve your experience.
 
-
-
-We use cookies and other technologies to collect information about you when you visit this website. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to this website and identify repeat visitors. The following are examples of information we may collect with these technologies: 
-
-  * Your IP addresses
-  * Your browser type and operating system
-  * Web pages you view
-  * Links you click
-  * The site you visited before coming to this website
-  * Emails from Zeeto Media you open and/or forward
-  * Offers or links from Zeeto Media you connect to via emails
+_Data Providers._   We may work with data providers who may collect web log data from you (including IP address and information about your browser or operating system), place, or recognize a unique cookie on your browser to enable you to receive customized ads, personalized e-mail or content.  Such cookies do not contain any personally identifiable information, but reflect de-identified demographic or other data linked to the data you voluntarily submitted to us (e.g. your e-mail address that is shared solely in hashed, non-human readable form).  
 
 
+**How We Use This Information**
 
-###  How We Use This Information 
+We use the information that we collect for several purposes, including to provide our services, send you samples or offers that you request, contact you regarding new promotions, improve our Site, resolve disputes, troubleshoot problems, and enforce our customer agreements. We also use this information—directly, indirectly, and in combination with data we share with other parties—to introduce you to informational, service, and/or product offerings of Zeeto and/or its subsidiaries, affiliated companies, partners, advertisers, select unaffiliated companies, unaffiliated list brokers, affiliate marketers, companies that want to advertise other products/services, assigns, and/or brands that are owned by, licensed by, and/or partnering with Zeeto (collectively, “Affiliates”). We do this by transferring, licensing, and/or sharing your information with Affiliates so they may correspond with you and provide you with marketing materials and/or promotions that may be of interest to you. Affiliates may also transfer, and/or share your information with unaffiliated list brokers, affiliate marketers, and/or companies that want to advertise other products and/or services. Once a third party obtains your information, its subsequent use is controlled by the privacy policies and terms of use of the third party.
 
-We use the information we collect to respond to communications or requests for information from you, to tell you about other services offered by Zeeto Media, and to manage this website and our services. 
+_Third Party Advertisers:_ Any survey question on any survey page is optional and is not required to qualify for any reward. When you answer any survey question, we will transfer some or all of the information that you submit during the website registration process to Affiliates that we believe, based on your answer, may be of interest to you.  We work with several Third Party Advertisers to provide you with the best offers available.  Once a Third Party Advertiser receives the information you submit to them, their use of your information is controlled by the [privacy policy](http://www.getitfree.us/offers) of that third party. 
 
-We may use the information we collect about you in the following ways: 
+_Other Data Sharing:_  In addition, we may share information that we collect with our vendors or service providers who help us operate our business; in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; when we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property, or safety of our company, our employees, our web site users, or others; or to enforce our website terms and conditions or other agreements or policies. We may also transfer any data we collect in connection with a corporate change such as a merger, our acquisition by another company, or a partial or total sale of our assets (including as part of a bankruptcy proceeding).
 
-  * Send you information
-  * Follow up with transactions initiated on this website
-  * Develop new products and services
-  * Verify your identity
-  * Analyze the use of our services and this website
-  * Understand how you arrived at our website
-  * Determine the effectiveness of our advertising
-  * Inform you of any changes to our website or to this privacy notice
-  * Email you about specials, new products or services
-  * Develop and provide advertising tailored to your interests
-  * Save your password so you don't have to re-enter it each time you visit our website
-  * Administer this website and otherwise manage our business
+**What are my opt-out rights?**
+
+  * Tracking: At this time, when we collect information from you for the purpose of tracking your online activities over time and across third-party websites or online services, we do not respond to “Do Not Track” signals or frameworks requesting an alteration to our online tracking of individual users who visit our Site or use our services.  
+
+  * Cookies _:_   Information we collect through cookies and other technologies that does not by itself identify you is used to assist us in delivering you relevant ads when you are on a webpage. We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our Site used for targeted advertising during your visits to other websites. To opt-out of data collection for targeted advertising on other sites, please read the instructions found here: [Opt-out](http://media.getitfree.us/optout.html). To learn more about interest-based advertising by third parties that may collect data on our Site and to learn about choices available from companies that participate in industry self-regulation, you can visit [www.aboutads.info](http://www.aboutads.info/).  
 
 
 
-###  Information Sharing 
 
-We share your personal information only as described below and within Zeeto Media. We may disclose your personal information: 
+**Your California Privacy Rights**
 
-  * If a Zeeto Media brand is sold to another company
-  * To third-party service providers to perform services on our behalf
-  * Where permitted by law, to protect and defend the rights and property of Zeeto Media
-  * When required by law or to comply with legal process served on Zeeto Media or its parent company, subsidiaries or affiliates
+We may make your personal information available to third parties for their marketing purposes as described in this Privacy Policy.  We maintain the policy of only disclosing such personal information to third parties with your affirmative consent.  If, however, you no longer wish to share your personal information in this way, please send your request in writing to:
 
+ZeetoGroup, LLC  
+Attn: Legal Department  
+925 B Street, Fifth Floor  
+San Diego, CA 92101  
+[legal@zeetogroup.com](mailto:legal@getitfree.us)
 
+**Data Retention Policy, Managing Your Information**
 
-We may also share aggregated information that cannot identify you for general business analysis. 
+We will retain User Provided data for as long as you use the Site and for a reasonable time thereafter. If you’d like to access, update, or delete User Provided Data that you have provided via the Site, please contact us at legal@zeetogroup.com and we will respond in a reasonable time. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity. Please note that some or all of the User Provided Data may be required in order for the Site to function properly, and we may be required to retain certain information by law.
 
-###  Your Access to and Control Over Information 
+**Security**
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the e-mail address or phone number given on our website: 
+We take reasonable and appropriate measures to help prevent the loss, misuse, and alteration of your information by carefully limiting access to the database in which your personal information is stored. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances. 
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
+**Children’s Online Privacy**
 
+The Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personally identifiable information from someone under the age of 13, we will delete such information from our records.
 
+**Links to Other Sites**
 
-###  Information Security 
+Our Site may contain links to other sites whose information practices may be different than ours.  We do not have control over the information that is submitted to, or collected by, these third parties.  You should consult the privacy policy of these other sites to learn how your privacy is protected.
 
-We are committed to keeping personal information secure. This website has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you. Notwithstanding the foregoing, we make no assurances about our ability to prevent any such loss, misuse, or alteration to you or to any third party. 
+**Your Consent**
 
-###  Children's Online Privacy 
+Please note that by using the Site, you agree to the terms of this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please do not provide us with your personal information or interact with the Site. Your assent to these practices is essential for us to continue operating this website, including the services it provides. Similarly, we need you to provide accurate personal information so that you can be contacted and receive the information you request. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information and/or service you are requesting.
 
-We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a user to this website is under age 13, we will promptly delete any personal information in that user's account. 
+**Contact Us**
 
-###  Contact Us 
+If you have any questions or concerns regarding your privacy or our practices related to this website, or if you would like to have us remove your information from our database please feel contact us at the following e-mail address or postal address:
 
-If you have any questions or concerns regarding your privacy or our practices related to this website, or if you would like to have us remove your information from our database please feel contact us at the following e-mail address or postal address: 
+Zeeto Group, LLC  
+925 B St, Fifth Floor  
+San Diego, CA 92101  
+legal@zeetogroup.com
 
-Zeeto Group / LLC   
-925 B St, Fifth Floor   
-San Diego, CA 92101   
-[inquiry@zeetogroup.com](mailto:inquiry@zeetogroup.com)
+**Changes to this Privacy Notice**
 
-We are committed to working with you to obtain a fair resolution of any complaint of concern about privacy. 
+We may make modifications to this Privacy Policy from time to time. If we make any material changes, we will notify you of such changes by posting the new policy on the Site or by sending you an e-mail. If you continue to use the Site after modifications, your continued use will constitute as acceptance of the changes and you agree to be bound by the revised Privacy Policy. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
-We participate in the U.S. Council of Better Business Bureau's (BBB) Accredited Business Program. Further information about this program and its dispute resolution process is available at [www.bbb.org](http://www.bbb.org/). 
-
-###  Changes to This Privacy Notice 
-
-We will post changes to this privacy notice and update the effective date when this privacy notice is updated. If we make any material changes to this privacy notice, we will notify you by sending an e-mail to the e-mail address you most recently provided us or by posting notice of the changes on this site. 
-
-Date of last update: July 3, 2012 
+**Last Updated on April 18, 2016**
