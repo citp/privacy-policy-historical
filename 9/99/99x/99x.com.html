@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the 99x.com privacy policy that was archived on 2015-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026200218id_/http%3A//www.atlantasclassicrock.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 99x.com privacy policy that was archived on 2016-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161029015705id_/http%3A//www.99x.com/1111/11/11/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class=" js csstransitions"><head>
+<!DOCTYPE html><html lang="en-US" class="js csstransitions"><head>
 <meta charset="UTF-8">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=115048235577478"></script><script async="" src="//cdn.taboola.com/libtrc/cumulus-kfog/loader.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P28V4F&amp;l=corpDataLayer"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>(function(html){ html.className = html.className.replace(/\bno-js\b/,'js'); if (html.classList) { html.classList.add( 'js' ); } else { html.className += ' js'; } })(document.documentElement);</script><style type="text/css">.js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column { visibility:hidden; }</style>
 <!-- Title -->
-<title>Privacy Policy | ROCK 100.5 | WNNX-FM</title><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=7"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PDPX2C&amp;l=corpDataLayer"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>document.documentElement.className += " js";</script><link rel="canonical" href="http://www.atlantasclassicrock.com/privacy-policy/">
+<title>Privacy Policy | 99x | WWWQ-H2</title><link rel="dns-prefetch" href="//www.99x.com">
+<link rel="dns-prefetch" href="//see-p-elb-01.tritondigital.net">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="canonical" href="http://www.99x.com/1111/11/11/privacy-policy/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.atlantasclassicrock.com\/wp-includes\/js\/wp-emoji.js?ver=4.2.4","twemoji":"http:\/\/www.atlantasclassicrock.com\/wp-includes\/js\/twemoji.js?ver=4.2.4"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.99x.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.99x.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -18,12 +21,14 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -37,27 +42,83 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
@@ -68,17 +129,31 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -106,11 +181,11 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.atlantasclassicrock.com/wp-includes/js/twemoji.js?ver=4.2.4" type="text/javascript"></script><script src="http://www.atlantasclassicrock.com/wp-includes/js/wp-emoji.js?ver=4.2.4" type="text/javascript"></script>
+		</script><script src="http://www.99x.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.99x.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
 		
 
 <!-- Stylesheets -->
-<link rel="stylesheet" id="headway-google-fonts" href="//fonts.googleapis.com/css?family=Oswald" type="text/css" media="all">
+<link rel="stylesheet" id="headway-google-fonts" href="//fonts.googleapis.com/css?family=Special+Elite|Montserrat|Roboto+Slab|Archivo+Narrow|Oswald|PT+Serif|Questrial|Palanquin|Karla|PT+Sans+Narrow" type="text/css" media="all">
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -125,84 +200,78 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="bxslider-style-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="amp-promo-reel-widget-style-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="headway-general-css" href="http://www.atlantasclassicrock.com/wp-content/uploads/sites/211/headway/cache/general-28e3545.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="headway-layout-single-css" href="http://www.atlantasclassicrock.com/wp-content/uploads/sites/211/headway/cache/layout-single-59df73c.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="headway-responsive-grid-css" href="http://www.atlantasclassicrock.com/wp-content/uploads/sites/211/headway/cache/responsive-grid-d2119e4.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="amp-styles-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-styles/css/public.css?ver=1.1.0" type="text/css" media="all">
-<link rel="stylesheet" id="amp-events-calendar-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-events/css/calendar.css?ver=1.0.6" type="text/css" media="all">
-<link rel="stylesheet" id="amp-events-export-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-events/css/public.css?ver=1.0.6" type="text/css" media="all">
-<link rel="stylesheet" id="amp_feed-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-feeds/css/public.css?ver=0.3.7" type="text/css" media="all">
-<link rel="stylesheet" id="amp-image-rotator-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-image-rotator/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="amp-listen-live-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-listen-live/public/assets/css/public.css?ver=1.4.1" type="text/css" media="all">
-<link rel="stylesheet" id="amp-listen-live-player-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-listen-live/public/../player/css/player.min.css?ver=1.4.1" type="text/css" media="all">
-<link rel="stylesheet" id="amp-onair-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-onair/public/assets/css/public.css?ver=1.3.8" type="text/css" media="all">
-<link rel="stylesheet" id="AMPPromoReel-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-promo-reel/css/public.css?ver=1.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="mediaelement-css" href="http://www.atlantasclassicrock.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.16.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.atlantasclassicrock.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="amp-tabs-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-tabs/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/css/lightbox.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="themify-font-icons-css-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/fontawesome/css/font-awesome.min.css?ver=1.3.4" type="text/css" media="all">
-<link rel="stylesheet" id="themify-builder-style-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/css/themify-builder-style.css" type="text/css" media="all">
-<style id="themify-builder-style-inline-css" type="text/css">
-.js.csstransitions .module.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column{ visibility:hidden; }
-</style>
-<link rel="stylesheet" id="themify-animate-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/css/animate.min.css" type="text/css" media="all">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.atlantasclassicrock.com/wp-content/themes/Headway-AMP_CMS/style.css">
+<link rel="stylesheet" id="m2g-bar-css" href="http://www.99x.com/wp-content/plugins/m2g-wp-fbar/css/m2g-bar.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="bxslider-style-css" href="http://www.99x.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="amp-promo-reel-widget-style-css" href="http://www.99x.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="headway-general-css" href="http://www.99x.com/wp-content/uploads/sites/1454/headway/cache/general-4c59abd.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="headway-layout-single-post-css" href="http://www.99x.com/wp-content/uploads/sites/1454/headway/cache/layout-single-post-3052ce6.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="headway-responsive-grid-css" href="http://www.99x.com/wp-content/uploads/sites/1454/headway/cache/responsive-grid-d2119e4.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="themify-builder-style-css" href="http://www.99x.com/wp-content/plugins/themify-builder/css/themify-builder-style.css?ver=1.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="amp-breaking-news-css" href="http://www.99x.com/wp-content/plugins/amp-breaking-news/public/css/public.css?ver=0.1.17" type="text/css" media="all">
+<link rel="stylesheet" id="animate-style-css" href="http://www.99x.com/wp-content/plugins/shared/css/animate.css?ver=0.1.17" type="text/css" media="all">
+<link rel="stylesheet" id="amp-styles-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-styles/css/public.css?ver=1.2.9" type="text/css" media="all">
+<link rel="stylesheet" id="amp-events-calendar-styles-css" href="http://www.99x.com/wp-content/plugins/amp-events/css/calendar.css?ver=1.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="amp-events-export-styles-css" href="http://www.99x.com/wp-content/plugins/amp-events/css/public.css?ver=1.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="amp_feed-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-feeds/css/public.css?ver=0.3.7" type="text/css" media="all">
+<link rel="stylesheet" id="amp-image-rotator-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-image-rotator/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="amp-listen-live-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-listen-live/public/assets/css/public.css?ver=1.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="amp-onair-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-onair/public/assets/css/public.css?ver=1.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="AMPPromoReel-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-promo-reel/css/public.css?ver=1.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="http://www.99x.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.99x.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="amp-tabs-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-tabs/public/assets/css/public.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="amp-header-rotator-css" href="http://www.99x.com/wp-content/themes/Headway-AMP_CMS/css/amp-header-rotator.css?ver=1.1.4" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.99x.com/wp-content/themes/Headway-AMP_CMS/style.css">
 
 <!-- Scripts -->
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/uploads/sites/211/headway/cache/block-dynamic-js-layout-single-769a883.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-promo-reel/includes/../js/widget.js?ver=1.2.3"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/uploads/sites/211/headway/cache/responsive-grid-js-e6e6939.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-styles/js/public.js?ver=1.1.0"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/themes/headway/library/blocks/navigation/js/selectnav.js?ver=1477494595"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/uploads/sites/1454/headway/cache/block-dynamic-js-layout-single-post-3f428ce.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-promo-reel/includes/../js/widget.js?ver=1.3.0"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/uploads/sites/1454/headway/cache/responsive-grid-js-e6e6939.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _ampconfig = {"site_url":"http:\/\/www.atlantasclassicrock.com","version":"2.22.2","env":"prod","ts":"1445517660"};
+var _ampconfig = {"site_url":"http:\/\/www.99x.com","site_id":"1454","tz":"America\/New_York","tz_offset":"-4","version":"2.39.0","env":"prod","ts":"1477494595","settings":{"tenant_id":"see_10368","vidible_company_key":"06125e55709b3c4ffdfe3c3f8a9ed8bd","client_name":"","nielsen_provider":"cumulus"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/shared/js/amp-common.js?ver=1445517660"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-events/js/calendar.js?ver=1.0.6"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-events/js/public.js?ver=1.0.6"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-feeds/js/jquery.totemticker.min.js?ver=0.3.7"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-feeds/js/amp-feed.js?ver=0.3.7"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-feeds/js/public.js?ver=0.3.7"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-feeds/js/date.js?ver=0.3.7"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-listen-live/public/assets/js/public.js?ver=1.4.1"></script>
-<script type="text/javascript" src="//see-p-elb-01.tritondigital.net/widget/see_1990/see.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://secure-us.imrworldwide.com/novms/js/2/ggcmb400.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/shared/js/amp-common.js?ver=1477494595"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-breaking-news/public/js/public.js?ver=0.1.17"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-styles/js/public.js?ver=1.2.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var amp_player_config = {"provider":"stream_the_world","mount_name":"WNNXFM","player_enabled":"1","tenant_id":"see_1990","stream_id":"10191","station":"WNNXFM","player_display":"In-page","callsign":"","env":"prod","see_server":"see-p-elb-01.tritondigital.net","cacheBust":"1445517660","host":"\/\/www.atlantasclassicrock.com","display":"in-page"};
+var dates = {"start_of_week":"1","moment_date_format":"MMMM D, YYYY","moment_time_format":"h:mm a","calendar_date_format":"MMMM d, yyyy","calendar_time_format":"h:mm tt","date_format":"MM d, yy","time_format":"h:mm tt"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-listen-live/public/../player/dist/player.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-onair/public/assets/js/public.js?ver=1.3.8"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/carousel.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/video.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/bigvideo.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-events/js/calendar.js?ver=1.1.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-events/js/public.js?ver=1.1.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-feeds/js/jquery.totemticker.min.js?ver=0.3.7"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-feeds/js/amp-feed.js?ver=0.3.7"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-feeds/js/public.js?ver=0.3.7"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-feeds/js/date.js?ver=0.3.7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var tbScrollHighlight = {"fixedHeaderSelector":"","scrollOffset":"0"};
+var _amplistenlive = {"blog_id":"1454","callsign":"","mount_name":"KFOGFM","provider":"stream_the_world","gmt_offset":"-14400"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/js/themify.scroll-highlight.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-listen-live/public/assets/js/public.js?ver=1.4.4"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-onair/public/assets/js/public.js?ver=1.5.7"></script>
+<script type="text/javascript" src="//see-p-elb-01.tritondigital.net/widget/see_10368/see.js?ver=1.2.0"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/themes/Headway-AMP_CMS/js/amp-theme.js?ver=1.1.4"></script>
 
 <!--[if lt IE 9]>
-<script src="http://www.atlantasclassicrock.com/wp-content/themes/headway/library/media/js/html5shiv.js"></script>
+<script src="http://www.99x.com/wp-content/themes/headway/library/media/js/html5shiv.js"></script>
 <![endif]-->
 
 <!--[if lt IE 8]>
-<script src="http://www.atlantasclassicrock.com/wp-content/themes/headway/library/media/js/ie8.js"></script>
+<script src="http://www.99x.com/wp-content/themes/headway/library/media/js/ie8.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -227,42 +296,44 @@ var leaderboardSizeMap = googletag.sizeMapping()
  .addSize([0, 0], [[320, 50], [300, 50]])
  .build();
 
-googletag.defineSlot('/6717/cd.WNNX.FM', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-0').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-0').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","mid");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[728, 90], [970, 90]], 'div-gpt-ad-1418849849333-1').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[728, 90], [970, 90]], 'div-gpt-ad-1418849849333-1').addService(googletag.pubads())
 .defineSizeMapping(leaderboardSizeMap).setCollapseEmptyDiv(true).setTargeting("pos","top");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[728, 90], [970, 90]], 'div-gpt-ad-1418849849333-2').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[728, 90], [970, 90]], 'div-gpt-ad-1418849849333-2').addService(googletag.pubads())
 .defineSizeMapping(leaderboardSizeMap).setCollapseEmptyDiv(true).setTargeting("pos","bot");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-3').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-3').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","mid2");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[160, 600]], 'div-gpt-ad-1418849849333-4').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[160, 600]], 'div-gpt-ad-1418849849333-4').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","left");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[160, 600]], 'div-gpt-ad-1418849849333-5').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[160, 600]], 'div-gpt-ad-1418849849333-5').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","right");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[654, 70]], 'div-gpt-ad-1418849849333-6').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[654, 70]], 'div-gpt-ad-1418849849333-6').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","rdioplayer");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[300, 100]], 'div-gpt-ad-1418849849333-7').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 100]], 'div-gpt-ad-1418849849333-7').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","contest1");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[300, 100]], 'div-gpt-ad-1418849849333-8').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 100]], 'div-gpt-ad-1418849849333-8').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","contest2");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[300, 100]], 'div-gpt-ad-1418849849333-9').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 100]], 'div-gpt-ad-1418849849333-9').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","contest3");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[100, 51]], 'div-gpt-ad-1418849849333-10').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[100, 51]], 'div-gpt-ad-1418849849333-10').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","rdiobutton");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[113, 23]], 'div-gpt-ad-1418849849333-11').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[113, 23]], 'div-gpt-ad-1418849849333-11').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor1");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[113, 23]], 'div-gpt-ad-1418849849333-12').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[113, 23]], 'div-gpt-ad-1418849849333-12').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor2");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[113, 23]], 'div-gpt-ad-1418849849333-13').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[113, 23]], 'div-gpt-ad-1418849849333-13').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor3");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[113, 23]], 'div-gpt-ad-1418849849333-14').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[113, 23]], 'div-gpt-ad-1418849849333-14').addService(googletag.pubads())
 .setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor4");
-googletag.defineSlot('/6717/cd.WNNX.FM', [[1, 1]],'div-gpt-ad-1418849849333-16').addService(googletag.pubads())
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[1, 1]],'div-gpt-ad-1418849849333-16').addService(googletag.pubads())
 .setTargeting("pos","wallpaper-ad");
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-18').setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("pos","midresponsive");
+googletag.defineSlot('/6717/cd.WWWQ.HD', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-19').setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("pos","remnantcube");
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
-googletag.defineSlot('/6717/cd.gram.fm', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-18').setCollapseEmptyDiv(true).addService(googletag.pubads())
-.setTargeting("pos","midresponsive");
 });
 </script>
 
@@ -271,7 +342,7 @@ googletag.defineSlot('/6717/cd.gram.fm', [[300, 250], [300, 600]], 'div-gpt-ad-1
   <!--
   jQuery(document).ready(function(){
     var d=document;
-    var sid="wnnx-fm.cumulus";
+    var sid="wwwq-h2.tritondigitalmedia.com";
     var CONTENTSECTION="";
     var osp_URL=d.URL;
     var osp_Title=d.title;
@@ -304,19 +375,66 @@ googletag.defineSlot('/6717/cd.gram.fm', [[300, 250], [300, 600]], 'div-gpt-ad-1
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','corpDataLayer','GTM-PDPX2C');</script>
+})(window,document,'script','corpDataLayer','GTM-P28V4F');</script>
 <!-- End Google Tag Manager -->
 
-<!-- Extras -->
-<link rel="alternate" type="application/rss+xml" href="http://www.atlantasclassicrock.com/feed/" title="ROCK 100.5 | WNNX-FM">
-<link rel="pingback" href="http://www.atlantasclassicrock.com/xmlrpc.php">
-	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<link rel="alternate" type="application/rss+xml" title="ROCK 100.5 | WNNX-FM » Feed" href="http://www.atlantasclassicrock.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="ROCK 100.5 | WNNX-FM » Comments Feed" href="http://www.atlantasclassicrock.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="ROCK 100.5 | WNNX-FM » Privacy Policy Comments Feed" href="http://www.atlantasclassicrock.com/privacy-policy/feed/">
-<meta name="generator" content="WordPress 4.2.4">
-<link rel="shortlink" href="http://www.atlantasclassicrock.com/?p=113">
+<!-- Start Taboola Content -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/cumulus-kfog/loader.js');
+</script> 
+<!-- End Taboola Content -->
 
+<!--TypeKit Fonts-->
+<script src="https://use.typekit.net/joh3vfm.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!--TypeKit Font End-->
+
+
+</head><body class="single single-post postid-319074 single-format-standard custom responsive-grid-enabled responsive-grid-active layout-single-post-319074 layout-using-single-post" itemscope="" itemtype="http://schema.org/WebPage"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=115048235577478";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<meta property="fb:app_id" content="{115048235577478}">
+
+<!-- Extras -->
+<link rel="alternate" type="application/rss+xml" href="http://www.99x.com/feed/" title="99x | WWWQ-H2">
+<link rel="pingback" href="http://www.99x.com/xmlrpc.php">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<link rel="alternate" type="application/rss+xml" title="99x | WWWQ-H2 » Feed" href="http://www.99x.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="99x | WWWQ-H2 » Comments Feed" href="http://www.99x.com/comments/feed/">
+<link rel="https://api.w.org/" href="http://www.99x.com/wp-json/">
+<meta name="generator" content="WordPress 4.6.1">
+<link rel="shortlink" href="http://www.99x.com/?p=319074">
+<link rel="alternate" type="application/json+oembed" href="http://www.99x.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.99x.com%2F1111%2F11%2F11%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.99x.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.99x.com%2F1111%2F11%2F11%2Fprivacy-policy%2F&amp;format=xml">
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+
+				
+									_gaq.push(['b._setAccount', 'UA-71603865-7']);
+					_gaq.push(['b._trackPageview']);
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+
+        
             <script>
                 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -328,384 +446,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                             </script>
 
-		<meta property="og:site_name" content="ROCK 100.5 | WNNX-FM">
+		<meta property="og:site_name" content="99x | WWWQ-H2">
 <meta property="og:type" content="article">
-<meta property="og:description" content=" CUMULUS MEDIA INC.  INTERNET PRIVACY POLICY  Cumulus Media Inc. and its radio stations (collectively “Cumulus”) respect the personal privacy of visitors to our websites (“Cumulus Radio Websites”). Please read this Internet Privacy Policy carefully so that you understand what information we collect through our websites, what we do with that information, and how to safeguard ...">
-<meta property="og:url" content="http://www.atlantasclassicrock.com/privacy-policy/">
+<meta property="og:description" content="Cumulus Media, Inc. Internet Privacy Policy">
+<meta property="og:url" content="http://www.99x.com/1111/11/11/privacy-policy/">
 <meta property="og:title" content="Privacy Policy">
-<script>			function isSupportTransition() {
-				var b = document.body || document.documentElement,
-					s = b.style,
-					p = 'transition';
+<!-- Customization: Default -->
+<style style="text/css" id="customize-styles">
+#whitewrap {background-image: url(http://www.99x.com/wp-content/uploads/sites/1454/2016/06/99x-sitebg-1.jpg) !important;
+background-repeat: repeat-x;
+}
+#whitewrap > .wrapper-header {background-color: #000000 !important; 
+background-image: none !important;
+}
+#whitewrap > .wrapper-content {background-color: transparent !important; background-image: none !important;}
+#whitewrap > .wrapper-footer {background-color: transparent !important; background-image: none !important;}
+body {background-color: #000000 !important; 
+}
 
-				if (typeof s[p] == 'string') { return true; }
+</style>
+<script>_AMP.theme.data = [];</script>
 
-				// Tests for vendor specific prop
-				var v = ['Moz', 'webkit', 'Webkit', 'Khtml', 'O', 'ms'];
-				p = p.charAt(0).toUpperCase() + p.substr(1);
+					<!-- equalcolumn-ie-fix.js -->
+					<!--[if IE 9]>
+						<script src="http://www.99x.com/wp-content/plugins/themify-builder/js/equalcolumn-ie-fix.js"></script>
+					<![endif]-->
+					<script type="text/javascript">                    function isSupportTransition() {
+                    var b = document.body || document.documentElement,
+                    s = b.style,
+                    p = 'transition';
 
-				for (var i=0; i<v.length; i++) {
-					if (typeof s[v[i] + p] == 'string') { return true; }
-				}
-				return false;
-			}
-			if ( isSupportTransition() ) {
-				document.documentElement.className += " csstransitions";	
-			}
-			</script><script type="text/javascript">var ajaxurl = "http://www.atlantasclassicrock.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.atlantasclassicrock.com/wp-admin/admin-ajax.php"</script>
+                    if (typeof s[p] == 'string') { return true; }
+
+                    // Tests for vendor specific prop
+                    var v = ['Moz', 'webkit', 'Webkit', 'Khtml', 'O', 'ms'];
+                    p = p.charAt(0).toUpperCase() + p.substr(1);
+
+                    for (var i=0; i<v.length; i++) {
+                        if (typeof s[v[i] + p] == 'string') { return true; }
+                        }
+                        return false;
+                        }
+                        if ( isSupportTransition() ) {
+                        document.documentElement.className += " csstransitions";	
+                        }
+                        </script><script type="text/javascript">var ajaxurl = "http://www.99x.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.99x.com/wp-admin/admin-ajax.php"</script>
 <!-- AMP CMS DFP custom tags -->
 <script type="text/javascript">
   googletag.cmd.push(function() {
-      googletag.pubads().setTargeting('cms-sname', 'ROCK 1005  WNNXFM');
-      googletag.pubads().setTargeting('cms-sgroup', ['All Sites', 'Format  Classic Rock', 'Market  Atlanta GA']);
+      googletag.pubads().setTargeting('cms-sname', '99x  WWWQH2');
+      googletag.pubads().setTargeting('cms-sgroup', 'All Sites');
       googletag.pubads().setTargeting('cms-ptitle', 'Privacy Policy');
+      googletag.pubads().setTargeting('cms-pcat', 'Cumulus Legal');
   });
 </script>
 
-</head><!-- End <head> -->
+<!-- End <head> -->
 
-<body class="page page-id-113 page-template-default custom responsive-grid-enabled responsive-grid-active pageid-113 page-slug-privacy-policy layout-single-page-113 layout-using-single" itemscope="" itemtype="http://schema.org/WebPage">
 
-<!-- START #PLAYER-WIDGET -->
-<div id="player-widget">
-    
-<!--  Player Widget Templates -->
-<script type="text/x-jsrender" id="td-player-history">
-    {{if history.length}}
-        {{for history}}
-            <div class="tdpw-song" data-id="{{:id}}">
-                <img class="tdpw-art" src="{{:image}}">
-                <div class="tdpw-info">
-                    {{:title}}
-                    <span class="tdpw-history-artist">{{:artist}}</span>
-                    <span class="tdpw-album">{{:album}}</span>
-                </div>
-                <span class="tdpw-history-bars"><i class="fa fa-bars mobile-bars"></i></span>
-                <span class="tdpw-button tdpw-time">{{if start}}<i class="fa fa-history"></i>{{:ago}}{{/if}}</span>
-                <span class="tdpw-button tdpw-buy">
-                    <a href="{{:buy}}" target="_blank" title="Buy this song" style="{{if !buy}}display:none;{{/if}}"><i class="fa fa-shopping-cart"></i></a>
-                </span>
-                <span class="tdpw-button tdpw-favorite">
-                    <i class="fa {{if favorite}}fa-heart{{else}}fa-heart-o{{/if}}"></i>
-                </span>
-            </div>
-        {{/for}}
-    {{else}}
-        <p class="tdpw-empty">Sorry, history is not currently available.</p>
-    {{/if}}
-</script>
 
-<script type="text/x-jsrender" id="td-player-favorites">
-    {{for favorites}}
-        {{if removed}}
-            <div class="tdpw-song tdpw-remove-confirm" data-id="{{:id}}">
-                <div class="">
-                    <div class="tdpw-remove-confirm-text">
-                        <span class="tdpw-remove-row-text">{{:title}}</span><br>
-                        <span>REMOVED</span>
-                    </div>
-                    <div class="tdpw-remove-confirm-control">
-                        <span class="undo-remove-control">
-                        <i class="fa fa-reply"></i>Undo
-                        </span>
-                    </div>
-                </div>
-            </div>
-        {{else}}
-            <div class="tdpw-song" data-id="{{:id}}">
-                <img src="{{:image}}">
-                <div class="tdpw-info">
-                    <span>{{:title}}</span>
-                    <span class="tdpw-history-artist">{{:artist}}</span>
-                    <span class="tdpw-album">{{:album}}</span>
-                </div>
-                <span class="tdpw-button tdpw-buy">
-                    <a href="{{:buy}}" target="_blank" title="Buy this song" style="{{if !buy}}display:none;{{/if}}"><i class="fa fa-shopping-cart"></i></a>
-                </span>
-                <span class="tdpw-button tdpw-favorite">
-                    <i class="fa fa-trash"></i>
-                </span>
-                <span class="tdpw-favorites-bars">
-                    <i class="fa fa-bars"></i>
-                </span>
-            </div>
-        {{/if}}
-    {{/for}}
-</script>
-
-<script type="text/x-jsrender" id="td-player-nowplaying">
-    <img class="tdpw-art" src="{{:img}}" />
-    <span class="tdpw-track">
-        <span>{{:title}}</span>
-        <span class="tdpw-buy">
-            <a class="buy_{{:id}}" target="_blank" href="{{:buy}}" title="Buy this song" style="display:none;"><i class="fa fa-shopping-cart"></i></a>
-        </span>
-    </span>
-    <span class="tdpw-artist">{{:artist}}</span>
-    <span class="tdpw-album">{{:album}}</span>
-</script>
-
-<script type="text/x-jsrender" id="td-player-nowplaying-stopped">
-    <img class="tdpw-art" src="{{:img}}" />
-    <span class="tdpw-track">{{:title}}</span>
-</script>
-
-<script type="text/x-jsrender" id="td-player-image-ad">
-    {{if clickThroughURL}}<a href="{{:clickThroughURL}}">{{/if}}<img src="{{:url}}" height="{{:height}}" width="{{:width}}" alt="{{:altText}}" />{{if clickThroughURL}}</a>{{/if}}
-</script>
-
-<script type="text/x-jsrender" id="td-player-flash-ad">
-    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="{{:width}}" height="{{:height}}">
-        <param name="movie" value="{{:url}}" />
-        <embed type="application/x-shockwave-flash" src="{{:url}}" width="{{:width}}" height="{{:height}}" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-    </object>
-</script>
-
-<script type="text/x-jsrender" id="td-player-mobile-buyfavorite">
-    <div class="tdpw-mobile-buy-favorites-wpr" style="width:100%; position:absolute; top:0px; right:-400px; z-index:2002;">
-        <div class="tdpw-mobile-buy-ctrl-wpr">
-            <span class="tdpw-mobile-history-bars"><i class="fa fa-bars"></i></span>
-            <span class="tdpw-mobile-buy-ctrl">Buy<i class="fa fa-shopping-cart"></i></span>
-        </div>
-        <div class="tdpw-mobile-favorites-ctrl-wpr">
-            <span class="tdpw-mobile-favorites-ctrl">Favorite<i class="fa fa-heart"></i></span>
-        </div>
-    </div>
-</script>
-
-<script type="text/x-jsrender" id="td-player-mobile-buy-remove">
-    <div
-        class="tdpw-mobile-buy-favorites-wpr"
-        style="width:100%; position:absolute; top:0px; right:-400px; z-index:2002;">
-        <div class="tdpw-mobile-buy-ctrl-wpr">
-            <span class="tdpw-mobile-history-bars"><i class="fa fa-bars"></i></span>
-            <span class="tdpw-mobile-buy-ctrl">Buy<i class="fa fa-shopping-cart"></i></span>
-        </div>
-        <div class="tdpw-mobile-favorites-remove-wpr">
-            <span
-                class="tdpw-mobile-favorites-remove">Remove<i class="fa fa-trash"></i></span>
-        </div>
-    </div>
-</script>
-
-<!--  Main Player HTML -->
-<div class="tdpw tdpw-noseereg tdpw-noseemeta tdpw-noseesupport tdpw-is-loading">
-
-    <div class="tdpw-loading-image">
-        <section class="frontWave">
-            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        </section>
-        <section class="rearWave">
-            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        </section>
-        <h3>Loading<span>.</span><span>.</span><span>.</span></h3>
-    </div>
-    
-    <div class="tdpw-content-wrapper">
-
-        <!--  HISTORY / FAVORITES PANEL -->
-        <div class="tdpw-songs">
-
-            <!--  HISTORY CONTENTS -->
-            <div class="tdpw-history">
-                <div class="tdpw-list"></div>
-                <div class="tdpw-nav">
-                    <div class="tdpw-button tdpw-prev disabled"><i class="fa fa-chevron-left"></i> PREV</div>
-                    <div class="tdpw-button tdpw-next">NEXT <i class="fa fa-chevron-right"></i></div>
-                </div>
-            </div>
-
-            <!--  FAVORITES CONTENTS -->
-            <div class="tdpw-favorites">
-                <div class="tdpw-favorites-empty">
-                    <span>Your favorites list is empty <br>
-                    Click the heart to add a song to your playlist</span>
-                    <div class="tdpw-favorites-empty-icons">
-                        <i class="fa fa-heart-o"></i>
-                        <i class="fa fa-hand-o-up"></i>
-                    </div>
-                </div>
-                <div class="tdpw-favorites-content">
-                    <div class="tdpw-clear-all-wpr">
-                        <span class="tdpw-clear-all">Clear All<i class="fa fa-times-circle"></i></span>
-                        <div class="tdpw-clear-all-confirm">
-                            <div class="fa fa-sort-asc"></div>
-                            <span class="tdpw-confirm-text">Are you sure you want to clear out all your favorites?</span>
-                            <br>
-                            <span class="tdpw-favorites-cancel-control">Cancel</span>
-                            <span class="tdpw-favorites-clear-control">Yes</span>
-                        </div>
-                    </div>
-                    <div class="tdpw-favorites-list"></div>
-                    <div class="tdpw-nav">
-                        <div class="tdpw-button tdpw-prev disabled"><i class="fa fa-chevron-left"></i> PREV</div>
-                        <div class="tdpw-button tdpw-next">NEXT <i class="fa fa-chevron-right"></i></div>
-                    </div>
-                </div>
-                <div class="tdpw-favorites-login">
-                    <span class="tdpw-favorites-login-text">To add favorites to your list please sign up to create an account or sign in</span>
-                    <div class="tdpw-favorites-login-icons">
-                        <i class="fa fa-heart"></i>
-                        <i class="fa fa-user"></i>
-                    </div>
-                    <div class="tdpw-buttons">
-                        <span class="tdpw-button tdpw-login">Log In</span>
-                        <span class="tdpw-button tdpw-signup">Sign Up</span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="tdpw-tabs">
-                <div class="tdpw-history-tab tdpw-tab" data-tab="history">
-                    <i class="fa fa-history"></i>
-                    Song History
-                </div>
-                <div class="tdpw-favorites-tab tdpw-tab" data-tab="favorites">
-                    <i class="fa fa-heart"></i>
-                    My Favorites
-                    <span class="tdpw-favorites-total"></span>
-                </div>
-            </div>
-
-            <div class="tdpw-history-bottom-shadow"></div>
-
-        </div>
-
-        <!--  SONG INFORMATION / Buy and Favorite links -->
-        <div class="tdpw-mobile-overlay-open"></div>
-
-        <div class="tdpw-nowplaying tdpw-song"></div>
-
-        <div class="tdpw-controls-mobile">
-    
-            <!--  SUPPORT -->
-            <div class="tdpw-controls tdpw-support">
-                Need Help?
-            </div>
-    
-            <!--  LOGIN / SIGNUP -->
-            <div class="tdpw-controls tdpw-login-controls-wpr">
-                <div class="tdpw-vr"></div>
-                <div class="tdpw-login-controls">
-                    <span class="tdpw-login-ctrl tdpw-login">Log In</span>
-                    <span class="tdpw-login-ctrl">or</span>
-                    <span class="tdpw-login-ctrl tdpw-signup">Sign Up</span>
-                </div>
-                <div class="tdpw-profile">
-                    <span class="tdpw-profile-icon-wpr">
-                        <img class="tdpw-profile-icon" src="about:blank">
-                    </span>
-                    <div class="tdpw-profile-controls">
-                        <span class="tdpw-username"></span>
-                        <span class="tdpw-profile-ctrl tdpw-my-profile">My Profile</span>
-                        <span class="tdpw-profile-ctrl tdpw-logout">Log Out</span>
-                    </div>
-                </div>
-            </div>
-    
-            <!--  MAIN CONTROLS -->
-            <div class="tdpw-controls">
-    
-                <div class="tdpw-control tdpw-control-history">
-                    <i class="fa fa-music"></i>
-                </div>
-    
-                <div class="tdpw-control tdpw-control-volume" vol="2">
-                    <i class="fa fa-volume-off"></i>
-                    <i class="fa fa-volume-down"></i>
-                    <i class="fa fa-volume-up"></i>
-                    <div class="tdpw-control-volume-slider">
-                        <div class="tdpw-slide"></div>
-                    </div>
-                </div>
-    
-                <div class="tdpw-control tdpw-control-playstop">
-                    <span class="fa-stack">
-                        <i class="fa fa-circle-o fa-stack-2x"></i>
-                        <i class="fa fa-play fa-stack-1x"></i>
-                        <i class="fa fa-stop fa-stack-1x"></i>
-                    </span>
-                </div>
-            </div>
-
-        </div>
-
-        <!--  MOBILE LOGIN / REG  -->
-        <div class="tdpw-mobile-reg">
-            <div class="tdpw-profile">
-                <img class="tdpw-profile-icon" src="about:blank">
-                <span class="tdpw-username"></span>
-                <span class="tdpw-button tdpw-my-profile">
-                    <span class="tdpw-label">My Profile</span>
-                    <i class="fa fa-gear"></i></span>
-                <span class="tdpw-button tdpw-logout">
-                    <span class="tdpw-label">Log Out</span>
-                    <i class="fa fa-power-off"></i>
-                </span>
-            </div>
-            <div class="tdpw-userreg">
-                <div class="tdpw-message"></div>
-                <span class="tdpw-button tdpw-login"><i class="fa fa-arrow-right"></i>Log In</span>
-                <span class="tdpw-button tdpw-signup"><i class="fa fa-user"></i>Sign Up</span>
-            </div>
-            <span class="tdpw-tab">
-                <i class="v1p-closed fa fa-bars"></i>
-            </span>
-        </div>
-
-    </div>
-
-    <!-- Global Overlay Exit -->
-    <div class="tdpw-overlay-exit"></div>
-
-</div>
-
-<div class="tdpw-companion-ads">
-    <div class="ad ad-bottom ad-leaderboard">
-        <p class="ad-title">Sponsor ad:</p>
-        <i class="ad-close fa fa-times"></i>
-        <div id="tdpw-ad-1"></div>
-    </div>
-
-    <div class="ad ad-bottom ad-left ad-medium-rectangle">
-        <p class="ad-title">Sponsor ad:</p>
-        <i class="ad-close fa fa-times"></i>
-        <div id="tdpw-ad-2"></div>
-    </div>
-</div>
-
-<div class="tdpw-preroll-ad-wrapper" style="display:none">
-    <div class="video-player-wrapper">
-        <div class="video-player-label">Sponsor Ad:</div>
-        <div class="video-player" style="height:277px;width:494px; text-align: center">
-
-            <img src="data:image/gif;base64,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">
-
-        </div>
-    </div>
-    <div class="banner-ad banner-ad-right" id="tdpw-preroll-ad-2"></div>
-    <div class="banner-ad banner-ad-bottom" id="tdpw-preroll-ad-1"></div>
-</div>
-
-</div>
-<div id="td_audio_stream_player"></div>
-<script>
-    // load the player
-    TDPlayerLoader.init(amp_player_config);
-</script>
-<!-- END #PLAYER-WIDGET -->
 
 <div id="whitewrap">
 
 
-<div id="wrapper-48" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-8 wrapper-first wrapper-header" data-alias="Wrapper Header">
+<div id="wrapper-wxa55b6d5ea50051" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-8 wrapper-first wrapper-header" data-alias="Wrapper Header">
 
 <div class="grid-container clearfix">
 
 <section class="row row-1">
 
 <section class="column column-1 grid-left-0 grid-width-24">
-<div id="block-27" class="block block-type-custom-code block-fluid-height" data-alias="728x90 Leaderboard Ad">
+<div id="block-b7c575841ba0a299" class="block block-type-custom-code block-fluid-height" data-alias="728x90 Leaderboard Ad">
 <div class="block-content">
 <div align="center"><div id="div-gpt-ad-1418849849333-1">
 <script type="text/javascript">
@@ -714,51 +525,66 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1');
 </div></div>
 </div><!-- .block-content -->
 
-</div><!-- #block-27 -->
+</div><!-- #block-b7c575841ba0a299 -->
 
 </section><!-- .column -->
 
-</section><!-- .row -->
-
-
-<section class="row row-2">
-
-<section class="column column-1 grid-left-0 grid-width-7">
+<section class="column column-2 grid-left--24 grid-width-7">
 <figure id="block-31" class="logo block block-type-image block-fixed-height" data-alias="Logo" itemscope="" itemtype="http://schema.org/ImageObject">
 <div class="block-content">
-<a href="/" class="image"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wnnx-fm/wp-content/uploads/sites/211/2015/02/site-logo.png" alt="" title="" itemprop="contentURL"></a>
+<a href="/" class="image"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wwwq-hd2/wp-content/uploads/sites/1454/2016/06/99x-logo-white.png" alt="" title="" itemprop="contentURL"></a>
 </div><!-- .block-content -->
 
 </figure><!-- #block-31 -->
 
 </section><!-- .column -->
 
-<section class="column column-2 grid-left-0 grid-width-10">
-<aside id="block-29" class="on-air block block-type-widget-area block-fluid-height" data-alias="Home - On Air Now" itemscope="" itemtype="http://schema.org/WPSideBar">
+<section class="column column-3 grid-left-0 grid-width-12">
+<nav id="block-32" class="main-nav block block-type-navigation block-fluid-height" data-alias="Main Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 <div class="block-content">
-<ul class="widget-area"><div class="amp-onair-widget" id="amp_onair_widget-2" amplink="false">
-	<div class="amp-onair">
-		<!-- Widget Title -->
-		<div class="amp-onair-widget-title"></div>
-		<!-- Show Image -->
-		<div class="amp-onair-show-image js-image"></div>
-
-		<!-- Show Title -->
-		<div class="amp-onair-show-title js-title"></div>
-		<!-- Show Timeslot -->
-		<div class="amp-onair-show-timeslot js-timeslot"></div>
-	</div>
-</div></ul>
+<div class="nav-horizontal nav-align-left"><ul id="menu-main-navigation" class="menu"><li id="menu-item-537084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-537084"><a href="#">Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-658760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658760"><a href="http://www.99x.com/something-local/">Something Local presented by Georgia United Credit Union</a></li>
+	<li id="menu-item-604751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604751"><a href="http://www.99x.com/something-fresh/">Something Fresh</a></li>
+	<li id="menu-item-604748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604748"><a href="http://www.99x.com/must-not-suck/">Must Not Suck</a></li>
+</ul>
+</li>
+<li id="menu-item-600008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-600008"><a href="#">Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-604790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604790"><a href="http://www.99x.com/eat-and-drink/">Eat and Drink</a></li>
+	<li id="menu-item-609953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609953"><a href="http://www.99x.com/things-to-do/">Things to Do</a></li>
+	<li id="menu-item-604850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604850"><a href="http://www.99x.com/places-to-go/">Places To Go</a></li>
+	<li id="menu-item-604793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604793"><a href="http://www.99x.com/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-609950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609950"><a href="http://www.99x.com/blogs/">Blogs</a></li>
+	<li id="menu-item-631583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-631583"><a href="http://www.99x.com/trending/">Trending</a></li>
+</ul>
+</li>
+<li id="menu-item-604010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-604010"><a href="http://www.99x.com/concerts/">Around Town</a>
+<ul class="sub-menu">
+	<li id="menu-item-610574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610574"><a href="http://www.99x.com/concerts/">Concerts</a></li>
+	<li id="menu-item-604784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604784"><a href="http://www.99x.com/x-events/">X Events</a></li>
+</ul>
+</li>
+<li id="menu-item-608738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-608738"><a href="#">99x Nation</a>
+<ul class="sub-menu">
+	<li id="menu-item-679454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-679454"><a href="http://www.99x.com/99-text/">99 teXt</a></li>
+	<li id="menu-item-676205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-676205"><a href="http://www.whatsnextradio.listenernetwork.com">Join the Next 99!</a></li>
+	<li id="menu-item-659159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659159"><a href="http://www.99x.com/99x-internship-application/">99x Internship Application</a></li>
+</ul>
+</li>
+<li id="menu-item-630833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630833"><a href="http://www.99x.com/contests/">Contests</a></li>
+<li id="menu-item-715893" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-715893"><a href="http://games.99x.com/">Games</a></li>
+</ul></div><!-- .nav-horizontal nav-align-left -->
 </div><!-- .block-content -->
 
-</aside><!-- #block-29 -->
+</nav><!-- #block-32 -->
 
 </section><!-- .column -->
 
-<section class="column column-3 grid-left-0 grid-width-7">
+<section class="column column-4 grid-left-0 grid-width-4">
 <section id="block-30" class="social-nav block block-type-social block-fixed-height" data-alias="Social Navigation">
 <div class="block-content">
-<div class="social-icons-container"><ul class="social-icons"><li><a href="http://www.rdio.com" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wnnx-fm/wp-content/uploads/sites/211/2014/11/rdio.png" title="Rdio" class="img-1"></a></li><li><a href="https://www.facebook.com/Rock1005" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wnnx-fm/wp-content/uploads/sites/211/2014/10/facebook.png" title="Like us on Facebook!" class="img-2"></a></li><li><a href="https://twitter.com/rock1005atlanta" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wnnx-fm/wp-content/uploads/sites/211/2014/10/twitter.png" title="Follow us on Twitter!" class="img-3"></a></li><li><a href="http://rockvip.atlantasclassicrock.com/" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wnnx-fm/wp-content/uploads/sites/211/2015/01/cumulus-vip.png" title="VIP" class="img-4"></a></li></ul></div><!-- .social-icons-container -->
+<div class="social-icons-container"><ul class="social-icons"><li><a href="http://www.facebook.com/99xatlanta" target="_blank" alt="Find KFOG on Facebook"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wwwq-hd2/wp-content/uploads/sites/1454/2016/06/kfogfacebook3.png" title="Find KFOG on Facebook" class="img-1"></a></li><li><a href="http://www.twitter.com/99x" target="_blank" alt="Follow us on Twitter"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wwwq-hd2/wp-content/uploads/sites/1454/2016/06/kfogtwitter1.png" title="Follow us on Twitter" class="img-2"></a></li><li><a href="http://www.instagram.com/99xitswhatsnext" target="_blank" alt="Fogheads on Instagram"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wwwq-hd2/wp-content/uploads/sites/1454/2016/06/kfoginstagram.png" title="Fogheads on Instagram" class="img-3"></a></li><li><a href="https://itunes.apple.com/us/app/ninety-nine-x/id859524419?mt=8" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wwwq-hd2/wp-content/uploads/sites/1454/2016/06/kfogios.png" title="App Store" class="img-4"></a></li><li><a href="https://play.google.com/store/apps/details?id=com.airkast.WWWQHD2"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/wwwq-hd2/wp-content/uploads/sites/1454/2016/06/kfogplay.png" title="GooglePlay" class="img-5"></a></li></ul></div><!-- .social-icons-container -->
 </div><!-- .block-content -->
 
 </section><!-- #block-30 -->
@@ -768,91 +594,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1');
 </section><!-- .row -->
 
 
-<section class="row row-3">
-
-<section class="column column-1 grid-left-7 grid-width-15">
-<nav id="block-32" class="main-nav block block-type-navigation block-fluid-height" data-alias="Main Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-<div class="block-content">
-<div class="nav-horizontal nav-align-left"><ul id="menu-main-navigation" class="menu"><li id="menu-item-53303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-53303"><a href="http://www.atlantasclassicrock.com/full-schedule/">On Air</a>
-<ul class="sub-menu">
-	<li id="menu-item-306045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-306045"><a href="http://therockmorningshow.com/">Rock 100.5 Morning Show</a></li>
-	<li id="menu-item-54059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54059"><a href="http://www.atlantasclassicrock.com/lyndsey-marie/">Lyndsey Marie</a></li>
-	<li id="menu-item-76838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76838"><a href="http://www.atlantasclassicrock.com/jay-philpott-afternoons/">Jay Philpott: Afternoons</a></li>
-	<li id="menu-item-259023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259023"><a href="http://www.atlantasclassicrock.com/axel-lowe-nights/">Axel Lowe: Nights</a></li>
-	<li id="menu-item-54170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54170"><a href="http://www.atlantasclassicrock.com/54152-2/">Chris Swan: Overnight</a></li>
-	<li id="menu-item-54197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54197"><a href="http://www.atlantasclassicrock.com/christian-lee-traffic/">Christian Lee: Traffic</a></li>
-	<li id="menu-item-54218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54218"><a href="http://www.atlantasclassicrock.com/local-licks/">Local Licks</a></li>
-</ul>
-</li>
-<li id="menu-item-53606" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53606"><a href="http://www.atlantasclassicrock.com/category/contests/">Contests</a></li>
-<li id="menu-item-55775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55775"><a>Events</a>
-<ul class="sub-menu">
-	<li id="menu-item-74897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74897"><a href="http://www.atlantasclassicrock.com/station-appearances/">Station Appearances</a></li>
-	<li id="menu-item-75812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75812"><a href="http://www.atlantasclassicrock.com/concert-calendar/">Concert Calendar</a></li>
-	<li id="menu-item-221973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221973"><a href="http://www.atlantasclassicrock.com/featured-around-town/">Featured Around Town</a></li>
-</ul>
-</li>
-<li id="menu-item-55451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55451"><a>Features</a>
-<ul class="sub-menu">
-	<li id="menu-item-53912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53912"><a href="http://www.atlantasclassicrock.com/category/features/photos-features/">Photos</a></li>
-	<li id="menu-item-53612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53612"><a href="https://www.youtube.com/user/atlantasrockstation">Videos</a></li>
-	<li id="menu-item-53624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53624"><a href="http://www.atlantasclassicrock.com/babe-of-the-day/">Babe of the Day</a></li>
-	<li id="menu-item-55457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55457"><a href="http://www.atlantasclassicrock.com/category/jons-movie-blog/">Jon’s Movie Blog</a></li>
-</ul>
-</li>
-<li id="menu-item-136092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-136092"><a>Connect</a>
-<ul class="sub-menu">
-	<li id="menu-item-136095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136095"><a href="http://www.atlantasclassicrock.com/station-information/">Station Information</a></li>
-	<li id="menu-item-136098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136098"><a target="_blank" href="https://www.facebook.com/Rock1005">Facebook</a></li>
-	<li id="menu-item-136101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136101"><a target="_blank" href="https://twitter.com/rock1005atlanta">Twitter</a></li>
-	<li id="menu-item-177484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177484"><a href="http://www.atlantasclassicrock.com/rock-100-5-internship-application/">ROCK 100.5 Internship Application</a></li>
-	<li id="menu-item-55733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55733"><a href="http://www.atlantasclassicrock.com/download-the-rock-100-5-mobile-app/">ROCK 100.5 Mobile Apps</a></li>
-</ul>
-</li>
-</ul></div><!-- .nav-horizontal nav-align-left -->
-</div><!-- .block-content -->
-
-</nav><!-- #block-32 -->
-
-</section><!-- .column -->
-
-<section class="column column-2 grid-left-0 grid-width-1">
-<nav id="block-33" class="search-box block block-type-navigation block-fluid-height" data-alias="Navigation Search" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-<div class="block-content">
-<div class="nav-horizontal nav-align-right nav-search-active nav-search-position-right"><div class="nav-search">
-		<form method="get" id="searchform" action="http://www.atlantasclassicrock.com/">
-			<label for="s" class="assistive-text">Search</label>
-			<input type="text" class="field" name="s" id="s" value="Type to search, then press enter" onclick="if(this.value=='Type to search, then press enter')this.value='';" onblur="if(this.value=='')this.value='Type to search, then press enter';">
-			<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
-		</form>
-	</div></div><!-- .nav-horizontal nav-align-right nav-search-active nav-search-position-right -->
-</div><!-- .block-content -->
-
-</nav><!-- #block-33 -->
-
-</section><!-- .column -->
-
-<section class="column column-3 grid-left-0 grid-width-1">
-<div id="block-bn15526b74440abf" class="search-icon block block-type-custom-code block-fluid-height" data-alias="Search Icon">
-<div class="block-content">
-<script>
-jQuery(function($){
-$(".show-search").click(function(){
-$(".search-box").toggle(200); 
-});
-});
-</script>
-<img class="show-search" src="/wp-content/uploads/sites/211/2015/04/search.png">
-</div><!-- .block-content -->
-
-</div><!-- #block-bn15526b74440abf -->
-
-</section><!-- .column -->
-
-</section><!-- .row -->
-
-
-<section class="row row-4">
+<section class="row row-2">
 
 <section class="column column-1 grid-left-0 grid-width-5">
 <div id="block-b8z54a44441b0250" class="takeover-left block block-type-custom-code block-fluid-height" data-alias="Skyscraper - Left">
@@ -891,57 +633,226 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-5');
 
 </div><!-- .wrapper -->
 
-<div id="wrapper-49" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-content" data-alias="Wrapper Content">
+<div id="wrapper-wgc55b6d5ea4d68c" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-content" data-alias="Wrapper Content">
 
 <div class="grid-container clearfix">
 
 <section class="row row-1">
 
 <section class="column column-1 grid-left-0 grid-width-16">
-<div id="block-130" class="block block-type-content block-fluid-height" data-alias="">
+<div id="block-130" class="single block block-type-content block-fluid-height block-mirrored block-mirroring-b3e5499e7ec227bc block-original-bdi55b6d5ea54d93" data-alias="Single Post">
 <div class="block-content">
-<div class="loop"><article id="post-113" class="post-113 page type-page status-publish hentry author-tritonadmin " itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="entry-title" itemprop="headline">Privacy Policy</h1></header><div class="entry-content" itemprop="text"><div id="content_right">
-<div id="content_body">
-<p style="text-align: center"><strong>CUMULUS MEDIA INC. </strong></p>
-<p style="text-align: center"><strong>INTERNET PRIVACY POLICY </strong></p>
-<p>Cumulus Media Inc. and its radio stations (collectively “Cumulus”) respect the personal privacy of visitors to our websites (“Cumulus Radio Websites”). Please read this Internet Privacy Policy carefully so that you understand what information we collect through our websites, what we do with that information, and how to safeguard the personal information you provide to us. This Internet Privacy Policy applies only to information collected online through the Cumulus Radio Websites and does not describe the ways in which we may collect or use information obtained offline or through any means other than our Cumulus Radio Websites.</p>
-<p><strong>INTERNET PRIVACY POLICY</strong></p>
-<p>Your personal privacy is a principal concern to us at Cumulus. Our goal in outlining our policy on the collection and use of listener/customer information is to ensure the highest level of confidentiality and security. When you provide your personal information on any Cumulus Radio Website, we will not give or sell your personal information to any outside company for its use in marketing or solicitation without your permission, which may be express or implied. We will maintain the confidentiality of your personal information and it will be used only to support your customer relationship with our radio stations and to assist us in providing better and more targeted services to you. Additionally, internal practices are in place to help protect your privacy by limiting employee access to and use of customer information. When we ask customers/listeners to provide their personal information on a Cumulus Radio Website, it is done with the goal of improving the relationship between a Cumulus radio station and the listener. At Cumulus, we allow our listeners to maintain control over their personal information while attempting to provide a more interactive online experience. Our intention is to send e‐mail only to listeners/customers who have chosen to receive such e‐mails. At any time, you have the right to decline receiving future communications from Cumulus in any manner, including email, fax, telephone and postal mail.</p>
-<p><strong>HOW WE COLLECT INFORMATION</strong></p>
-<p>When you browse any Cumulus Radio Website, you do so anonymously. Personal information—including your email address—is not collected. However, there are three (3) ways in which a Cumulus Radio Website may collect information about you.</p>
-<p>1. Some Cumulus Radio Websites may request that you voluntarily provide personal information for purposes such as correspondence, site registration, membership, making a purchase, or participating in contests or online surveys. Information that we ask you to provide may include your name, e‐mail address, telephone number, mailing address and birth date. We may also request that you provide listener/customer preference information, social security numbers, lifestyle interests, and other demographic information that may be needed to register or subscribe you to services or offers.</p>
-<p>2. Like many other commercial websites, a Cumulus Radio Website may use a standard technology called a “cookie” to collect information about how our websites are used. Cookies are small text files on your system used for keeping track of settings or data for a particular website. You may turn them off through your browser or set your browser to notify you before accepting them. Some Cumulus Radio Websites use cookies to store information necessary to provide a service or access into a site. Any information that we may store in cookies is used for internal purposes only.</p>
-<p>3. Each time a Cumulus Radio Website page is requested from your browser, we log your computer’s IP address into our log files. Your computer has been pre‐assigned a 12‐digit number from your Internet Service Provider and may be static or dynamically assigned—this number is the IP address. Cumulus uses IP addresses to analyze trends, administer the site, track movements on the site, and gather broad demographic information for aggregate use. IP addresses are not linked to any other personally identifiable information by Cumulus.</p>
-<p><strong>THE INFORMATION WE COLLECT</strong></p>
-<p>We collect only information that is needed, and we tell listeners/customers how we use it. We limit the collection of information about our listeners/customers to what we need to know to manage their membership, to provide customer service, to offer new products and services, and to fulfill any legal and regulatory requirements. We tell our listeners/customers about the general uses of information we collect about them, and we will provide additional explanation if requested. A listener/customer may change, update or add additional information about themselves at any time through the Cumulus Radio Websites that offer this feature. If a Cumulus Radio Website does not currently provide this ability, listeners/customers can still change their data profile by contacting the local radio station. All Cumulus Radio Websites will provide this feature in the near future.</p>
-<p><strong>SECURITY</strong></p>
-<p>Access to listener/customer information is limited to those who specifically need it to conduct their business responsibilities. We use security techniques designed to protect our listener/customer information—especially information that is used by employees and business partners to fulfill listener/customer services. In addition to providing listeners/customers with the opportunity to refuse marketing offers, we release information only at the listeners’/customers’ requests, or when required to do so by law or other regulatory authority. When a court order or subpoena requires us to release information, we notify the listener/customer directly so that his/her legal rights can be exercised, if appropriate. The only exceptions to this policy are when we are prohibited by court order or law from notifying the listener/customer, or cases in which fraud and/or criminal activity is suspected. Finally, each Cumulus employee is personally responsible for maintaining listener and customer confidentiality. All Cumulus employees are required to sign an agreement that they will comply with these policies. Employees who violate these policies are subject to disciplinary action, up to and including termination of employment. Employees are expected to report violations—and may do so confidentially—to their managers or other supervisors. Each radio station has an employee who has been assigned the responsibility for assuring the adherence to Cumulus’s privacy policy. Check your local Cumulus Radio Website for this contact.</p>
-<p><strong>USE AND DISCLOSURE OF INFORMATION</strong></p>
-<p>As a result of providing your personal information to us, Cumulus radio stations can provide a more customized online experience, making your interaction with us more productive, helpful and fun, and will enhance the services and offers our radio stations bring to you. If you provide us with your e‐mail address, or have done so in the past, we may send you e‐mail offers or newsletters. These offers or newsletters are based on information you provided in your membership application, registration forms, surveys, or from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. These e‐mail offers will come from a Cumulus radio station only. <em>Your information or email address is never sold to a third party.</em> All offers are carefully developed to guarantee that they meet our standards. Our goal is to target offers to listeners/customers who will find them of value. At any time, you may request to discontinue receiving these communications from us by simply replying to the e‐mail address included in every e‐mail message that you receive from a Cumulus radio station.</p>
-<p>From time to time, we may offer contests or other promotions on a Cumulus Radio Website . If you enter a contest or participate in a promotional event, we will ask you to provide information about yourself (such as your name, address, and email address). Among other things, we will need this information to contact you if you win, and we may also use this information for marketing purposes. We may share this information with any co‐sponsors of the contest or promotional event; co‐sponsors will be identified in the contest rules. We may also share this information with or other third‐party service providers that help administer our contests and promotional events, such as by conducting drawings, and/or delivering prizes to winners. If you do not want to provide the requested information or have the information provided to co‐sponsors or other third‐party service providers, please do not enter the contest or participate in the promotional event.</p>
-<p>At times, our clients might collect personal information from listeners on Cumulus Radio Websites or on‐site at a retail location or other station events. The collection of this information is clearly marked as information being collected by or for a third party, and providing such information is strictly voluntary. The station may help facilitate the collection of the information by providing forms and collection boxes for the client. Sometimes this information is shared with the radio station, though the station will only market to you if you have given us permission. <em>Information gathered in this manner is shared with our client partners; and other information you may have previously provided to us remains private.</em></p>
-<p>We do monitor URL click‐throughs found in our email messages. The click‐through rate is reviewed in order to track (i) participation in contests to judge effectiveness and award prizes; (ii) listener interests; and/or (iii) response rates for station‐marketing purposes or to report to a client in aggregate form only, the response of listeners. Individual activity is never shared with employees or third parties.</p>
-<p><strong>PROTECTING THE PRIVACY OF CHILDREN</strong></p>
-<p>Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Cumulus Radio Websites are not directed at children under the age of 13 and we will not knowingly allow anyone under 13 to provide us any personal identifying information. If you are under the age of 13, please do not provide any information about yourself to any Cumulus Radio Website.</p>
-<p><strong>OTHER DISCLOSURES</strong></p>
-<p>Third‐party Internet sites and services accessible through Cumulus Radio Websites have separate privacy and information collection practices, independent of us. Cumulus has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining the secrecy of your passwords, membership ID, or any account information. Please be careful and responsible whenever you are online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we aim to protect your personal information, Cumulus cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.</p>
-<p>While each Cumulus radio station puts forth its best efforts in adhering to these minimum privacy standards, additional restrictions may be imposed to comply with state and local laws, and/or station‐specific programs, products and services.</p>
-<p><strong>CHANGES TO THIS PRIVACY STATEMENT</strong></p>
-<p>The Internet is an evolving medium. If we need to change this Internet Privacy Policy at some point in the future, we will post the changes to this Internet Privacy Policy on this website and update the reference to the effective date to reflect the date of the amendment. By visiting a Cumulus Radio Website, you agree that your visit, and any dispute over privacy, is governed by this Internet Privacy Policy.</p>
-<p><em>Revised November 5, 2008.</em></p>
+<div class="loop"><article id="post-319074" class="post-319074 post type-post status-publish format-standard hentry category-cumulus-legal author-dvena " itemscope="" itemtype="http://schema.org/BlogPosting"><header><h1 class="entry-title" itemprop="headline">Privacy Policy</h1></header><div class="entry-content" itemprop="text"><h2>CUMULUS MEDIA, INC<br>
+INTERNET PRIVACY POLICY</h2>
+<p><strong>UPDATED AS OF MAY 1, 2015</strong></p>
+<p>Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicated to preserving your confidence and trust as it relates to the privacy of your information. Please read this policy so you understand how we collect, safeguard, use and share the information you provide to us through our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application (collectively the “Cumulus Platform”).</p>
+<h3>PRIVACY POLICY</h3>
+<p>Your personal privacy is a principal concern to us at Cumulus. Our goal in outlining our policy on the collection and use of your information is to ensure the highest level of confidentiality and security. When you provide your personal information on any Cumulus Platform, we will not give or sell your personal information to any outside company for its use in marketing or solicitation without your permission, which may be express or implied. We will maintain the confidentiality of your personal information and it will be used only to support your customer relationship with our company and to assist us in providing better and more targeted services to you. Additionally, internal practices are in place to help protect your privacy by limiting employee access to and use of customer information. When we ask you to provide personal information through the Cumulus Platform, it is done with the goal of improving the relationship between you and Cumulus. At Cumulus, we allow you to maintain control over your personal information while attempting to provide a more interactive experience. Our intention is to send communications only those of you who have chosen to receive such communications. At any time, you have the right to decline receiving future communications from Cumulus in any manner, including email, text, social media, fax, telephone and postal mail.</p>
+<h3>INFORMATION COLLECTED THROUGH THE CUMULUS PLATFORMS</h3>
+<p>When you utilize any Cumulus Platform, you do so anonymously. Personal information that could be used to identify you as an individual is not automatically collected. However, there are several ways in which information about you may be collected through the Cumulus Platform.</p>
+<ol>
+<li>Voluntary Disclosure: Some Cumulus Platforms may request that you voluntarily provide personal information for purposes such as correspondence, site registration, membership, making a purchase, or participating in contests or online surveys. Information that we may ask you to provide may include your name, e‐ mail address, telephone number, mailing address, birth date, and payment information (such as account or credit card number). We may also request that you provide your preference information, social security numbers, lifestyle interests, and other demographic information that may be needed to register or subscribe you to services or offers.</li>
+<li>Device Identifier: Each time the Cumulus Platform is accessed, we or our service providers automatically collect your IP address or other unique identifier for the device (computer, mobile phone, tablet or other device) you use to access the Platforms (“Device Identifier”). Cumulus uses Device Identifiers to analyze trends, administer the site, track movements on the site, help identify you and your shopping cart, and gather broad demographic information for aggregate use. Device Identifiers are not linked to any other personally identifiable information by Cumulus.</li>
+<li>Usage Information: Whenever you access or interact with the Cumulus Platform, we, as well as any third‐party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Cumulus Platform is accessed and used (“Usage Information”). Usage Information may include device type, operating system, browser type, application version, the page accessed, the date and time, your use of features or applications, your preceding page views, and your interactions with friends and group activities. This information helps us maintain a platform that is up‐to‐date and to devise content that is responsive to your interests.</li>
+<li>Cookies, Mobile Analytics, and Pixel Tags: Like many other commercial technology platforms, the Cumulus Platform may use standard technologies such as cookies, mobile analytics software and pixel tags to collect Usage Information and Device Identifiers. Cookies are small text files on your system used for keeping track of settings or data for a particular website and can be used to store information necessary to provide a service or access into a site, including associating you with social networking sites like Facebook and Twitter and enable interactions between your activities on the Cumulus Platform and your activities on such social networking sites. We, or our vendors and third party partners, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting the Cumulus Platform, such as allowing us to select the ads or offers that are most likely to appeal to you based on your interests, preferences, location, or demographic information), as well as for market research related purposes. Any information that we may store in cookies is used for internal purposes only. You may turn cookies off through your browser or set your browser to notify you before accepting them. You can learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser.</li>
+</ol>
+<p>Your browser’s help menu or other instructions related to your browser will show you how to reduce the number of cookies you receive from us or delete cookies that have already been installed in your browser’s cookie folder. If you elect to disable or opt out of receiving cookies, please understand that some features and services on the Cumulus Platform may not work properly because we may not be able to recognize and associate you with your Cumulus account(s). Also, the offers we make available to you when you visit the Cumulus Platform us may not be as relevant to you or tailored to your interests.</p>
+<p>Pixel Tags are transparent graphic images, sometimes called web beacons or tracking beacons, that are placed on a web page or in an email to indicate that the page or email has been viewed. A pixel tag also may tell your browser to get content from another server.</p>
+<h3>HOW WE USE AND DISCLOSE THE INFORMATION WE COLLECT</h3>
+<p>We collect only information that is needed, and we tell you how we use it. We limit the collection of information about you to what we need to know to manage your membership; provide customer service, including responding to your questions and communicating with you about your account and activities on the Cumulus Platform; make access to certain areas and features of the Cumulus Platform available to you; verify your identity; offer new products and services; notify you of changes to Cumulus policies; perform market research, analytics and operations; tailor content, advertisements, and offers we make available to you; improve the Cumulus Platform; fulfill any legal and regulatory requirements; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. Under certain circumstances we may share location data with our third party partners for market research and other data analytics related purposes. We tell you about the general uses of information we collect about you, and we will provide additional explanation if requested. You may change, update or add additional information about yourself at any time through the Cumulus Platforms that offer this feature. If a Cumulus Platform does not currently provide this ability, you can still change your data profile by contacting your local radio station. All Cumulus Platforms will provide this feature in the near future.</p>
+<p>As a result of providing your personal information to us, the Cumulus Platform can provide a more customized experience, making your interaction with us more productive, helpful and fun, and will enhance the services and offers that we can bring to you. If you provide us with your e‐mail address or cell phone number, or have done so in the past, we may send you e‐mail or text offers or newsletters. These offers or newsletters are based on information you provided in your membership application, registration forms, surveys, or from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. These e‐mail/text offers will come from Cumulus only. Your information, email address or cell phone number is never sold to a third party. All offers are carefully developed to guarantee that they meet our standards. Our goal is to target offers that you will find to be of value to you. At any time, you may request to discontinue receiving these communications from us by simply replying to the e‐mail address or text number included in every e‐mail/text message that you receive from us.</p>
+<p>From time to time, we may offer contests or other promotions on the Cumulus Platform. If you enter a contest or sweepstakes, or participate in a promotional event, we will ask you to provide information about yourself (such as your name, address, and email address). Among other things, we will need this information to contact you if you win, and we may also use this information for marketing purposes. We may share this information with any sponsors and prize providers of the contest, sweepstakes, or promotional event; sponsors and prize providers will be identified in the official rules. We may also share this information with or other third‐party service providers that help administer our contests, sweepstakes, and promotional events, such as by conducting drawings, and/or delivering prizes to winners. If you do not want to provide the requested information or have the information provided to sponsors, prize providers, or other third‐party service providers, please do not enter the contest, sweepstakes, or participate in the promotional event.</p>
+<p>We monitor URL click‐throughs found in our electronic communications. The click‐through rate is reviewed in order to track (i) participation in contests and sweepstakes to judge effectiveness and award prizes; (ii) your interests and preferences; and/or (iii) response rates for marketing purposes or to report to a client in aggregate form only, the response of listeners. Individual activity is never shared with employees or third parties.</p>
+<p>At times, our clients might collect Personal Information about you on the Cumulus Platform or on‐site at a retail locations or other Cumulus events. The collection of this information is clearly marked as information being collected by or for a third party, and providing such information is strictly voluntary. We may help facilitate the collection of the information by providing forms and collection boxes for the client. Sometimes this information is shared with us Cumulus, though we will only market to you if you have given us permission. Information gathered in this manner is shared with our client partners; and other information you may have previously provided to us remains private.</p>
+<p>We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate the Cumulus Platform, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, surveys or provide marketing or promotional assistance and our partners in co‐branded sites and promotions. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties in connection with marketing, promotional, and other offers, as well as product information, and for such third party’s analytics and market research. The Cumulus Platform may include Nielsen’s proprietary measurement software which may allow you to contribute to market research. For more information, visit: http://www.nielsen.com/digitalprivacy.</p>
+<p>We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that we are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. Additionally, we may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to the Cumulus Platform or the public.</p>
+<h3>OTHER DISCLOSURES</h3>
+<p>Third‐party platforms and services accessible through the Cumulus Platform have separate privacy and information collection practices, independent of us. Cumulus has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining your Personal Information, the secrecy of your passwords, membership ID, or any account information. Please be careful and responsible whenever you are online. If you post Personal Information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we aim to protect your personal information, Cumulus cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. While we put forth our best efforts in adhering to these minimum privacy standards, additional restrictions may be imposed to comply with state and local laws, and/or station‐specific programs, products and services.</p>
+<h3>INFORMATION WE RECEIVE FROM THIRD PARTIES</h3>
+<p>We may receive information about you from third parties. For example, if you are on another website and you opt‐ in to receive information from Cumulus, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information, Device Identifiers, and Personal Information such as lists of your friends, “likes”, comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on the Cumulus Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections'” web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We may supplement the information we collect about you through the Cumulus Platform with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
+<h3>SECURITY</h3>
+<p>Access to your Personal Information is limited to those who specifically need it to conduct their business responsibilities. We use security techniques designed to protect your Personal Information-especially information that is used by employees and business partners to provide services to you. In addition to providing you with the opportunity to refuse marketing offers, we release information only with your consent or at your requests, or when required to do so by law or other regulatory authority. When a court order or subpoena requires us to release information, we notify you directly so that you legal rights can be exercised, if appropriate. The only exceptions to this policy are when we are prohibited by court order or law from notifying you, or cases in which fraud and/or criminal activity is suspected. Finally, each Cumulus employee is personally responsible for maintaining listener and customer confidentiality. All Cumulus employees are required to sign an agreement that they will comply with these policies. Employees who violate these policies are subject to disciplinary action, up to and including termination of employment. Employees are expected to report violations-and may do so confidentially-to their managers or other supervisors. Each radio station has an employee who has been assigned the responsibility for assuring the adherence to Cumulus’s privacy policy. Check your local Cumulus Radio Website for this contact.</p>
+<p>While we take information security seriously, please understand that no electronic data transmission or storage of information can be guaranteed to be 100% secure. Therefore, we cannot ensure or warrant the security of any information you transmit to us or that you use the Cumulus Platform. You are providing your information to us at your own risk.</p>
+<h3>YOUR PRIVACY RIGHTS, CHOICE AND ACCESS</h3>
+<p>You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Cumulus Platform; (ii) sending us an email at privacy@cumulus.com; (iii) contacting us by mail at Cumulus Digital Department, 3280 Peachtree Road, Suite 2300, Atlanta, GA 30305; Attn: Customer Service; or (iv) following the removal instructions in the communication that you receive. Your opt‐out request will be processed within 30 days of the date on which we receive it.</p>
+<p>If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Cumulus Platform, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Cumulus Platform. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo‐location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@cumulus.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.</p>
+<h3>ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT‐OUT</h3>
+<p>We may use third party ad network providers to help present ads on the Cumulus Platform, as well as other service providers to evaluate and provide us with information about the use of the Cumulus Platform and viewing of our content. Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Cumulus Platform and other sites you have visited. In doing so, the provider collects or has access to non‐Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours.</p>
+<p>If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the NAI Opt‐Out Page. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you’re browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt‐Out Page provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. Please note that if you opt‐out of targeted advertising, we may still track your visits to the Cumulus Platform for our own analytics, operations and security purposes.</p>
+<h3>PROTECTING THE PRIVACY OF CHILDREN</h3>
+<p>Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. The Cumulus Platform is not directed at children under the age of 13 and we will not knowingly allow anyone under 13 to provide us any Personal Information. If you are under the age of 13, please do not provide any information about yourself to any Cumulus Platform.</p>
+<h3>CONSENT TO PROCESSING AND TRANSFER OF INFORMATION</h3>
+<p>The Cumulus Platform is governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Cumulus makes no representation that the Cumulus Platform is governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Cumulus Platform, or providing us with any information, you (a) acknowledge that the Cumulus Platform is subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.</p>
+<h3>CHANGES TO THIS PRIVACY STATEMENT</h3>
+<p>Technology is an evolving medium. If we need to change this Privacy Policy at some point in the future, we will post the changes to this Privacy Policy on the Cumulus Platform and update the reference to the effective date to reflect the date of the amendment. By visiting the Cumulus Platform, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy.</p>
+<h3>CONTACT US</h3>
+<p>If you have any questions or concerns about this Privacy Policy, the practices of the Cumulus Platform, or your experiences with the Cumulus Platform, please contact us at:</p>
+<p>Cumulus Digital Department<br>
+3280 Peachtree Road<br>
+Suite 2300<br>
+Atlanta, GA 30305<br>
+Attn: Customer Service</p>
+<p>E‐Mail: <a href="mailto:privacy@cumulus.com">privacy@cumulus.com</a></p>
+<div id="themify_builder_content-319074" data-postid="319074" class="themify_builder_content themify_builder_content-319074 themify_builder themify_builder_front">
+
+	
+                <!-- module_row -->
+                <div data-gutter="gutter-default" class="themify_builder_row themify_builder_319074_row module_row module_row_0 clearfix gutter-default" data-equal-column-height="" data-column-alignment="">
+
+                    
+                    
+                    <div class="row_inner_wrapper">
+                        <div class="row_inner">
+
+                            
+                            
+                                
+                                        <div class="col-full first tb-column  tb_319074_column module_column">
+
+                                            
+                                            
+                                            <div class="tb-column-inner">
+
+                                                
+                                                
+                                                    
+
+    <!-- module widget -->
+    <div id="widget-319074-0-0-1" class="module module-widget widget-319074-0-0-1   ">
+        <div class="widget widget_text">			<div class="textwidget"><style>.category-cumulus-legal .entry-meta,#comments { display: none !important; }</style></div>
+		</div>    </div>
+    <!-- /module widget -->
+
+
+                                                    </div>
+                                                    <!-- /.tb-column-inner -->
+                                                                                                </div>
+                                            <!-- /.tb-column -->
+                                        
+                                    
+                                    
+                                
+                            </div>
+                            <!-- /row_inner -->
+                        </div>
+                        <!-- /row_inner_wrapper -->
+                    </div>
+                    <!-- /module_row -->
+                    
 </div>
-</div>
-<div id="themify_builder_content-113" data-postid="113" class="themify_builder_content themify_builder_content-113 themify_builder themify_builder_front">
-	</div>
-<!-- /themify_builder_content --></div><!-- .entry-content --></article><!-- #post-113 --></div>
+<!-- /themify_builder_content --></div><!-- .entry-content --><footer class="entry-utility entry-utility-below entry-meta">
+<a href="http://www.99x.com/category/cumulus-legal/" rel="category tag">Cumulus Legal</a></footer><!-- .entry-utility --></article><!-- #post-319074 --></div>
 </div><!-- .block-content -->
 
 </div><!-- #block-130 -->
+<div id="block-bn855b6d5ea79d15" class="block block-type-custom-code block-fluid-height" data-alias="Facebook Comments">
+<div class="block-content">
+<div class="fbCOMMENTS">
+<div id="fb-root">&nbsp;</div>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1">
+</script><script language="JavaScript">
+<!--
+document.write ("<fb:comments href='"+location.href+"'num_posts='20' width='100%'></fb:comments>")
+// -->
+</script><fb:comments href="https://web.archive.org/web/20161029015705id_/http%3A//www.99x.com/1111/11/11/privacy-policy" num_posts="20" width="100%"></fb:comments></div>
+</div><!-- .block-content -->
+
+</div><!-- #block-bn855b6d5ea79d15 -->
+<div id="block-bpz57d1d0259f32e" class="more-from block block-type-content block-fluid-height" data-alias="More From 99x">
+<div class="block-content">
+<h1 class="block-title"><span>More From 99x</span></h1><div class="loop">
+
+<div class="entry-row">
+
+<article id="post-716094" class="post-716094 post type-post status-publish format-standard has-post-thumbnail hentry category-trending author-khenderson alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/25/girl-scout-cookie-breakfast-cereal-is-happening/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/1F-1.jpg" alt="Girl Scout Cookie Breakfast Cereal Is Happening" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/25/girl-scout-cookie-breakfast-cereal-is-happening/" title="Girl Scout Cookie Breakfast Cereal Is Happening" rel="bookmark">Girl Scout Cookie Breakfast Cereal Is Happening</a></h2></header></article><!-- #post-716094 --><article id="post-716058" class="post-716058 post type-post status-publish format-standard has-post-thumbnail hentry category-trending author-khenderson custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/25/krispy-kreme-is-going-pumpkin-spice-tomorrow/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/9F.jpg" alt="Krispy Kreme Is Going Pumpkin Spice Tomorrow!" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/25/krispy-kreme-is-going-pumpkin-spice-tomorrow/" title="Krispy Kreme Is Going Pumpkin Spice Tomorrow!" rel="bookmark">Krispy Kreme Is Going Pumpkin Spice Tomorrow!</a></h2></header></article><!-- #post-716058 --><article id="post-714861" class="post-714861 post type-post status-publish format-standard has-post-thumbnail hentry category-eat-and-drink author-khenderson alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/21/a-pumpkin-tap-is-exactly-what-you-need-for-your-next-fall-fiesta/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/rsz_pumpkin-keg-tap-0.jpg" alt="A Pumpkin Tap Is Exactly What You Need For Your Next Fall Fiesta" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/21/a-pumpkin-tap-is-exactly-what-you-need-for-your-next-fall-fiesta/" title="A Pumpkin Tap Is Exactly What You Need For Your Next Fall Fiesta" rel="bookmark">A Pumpkin Tap Is Exactly What You Need For Your Next Fall Fiesta</a></h2></header></article><!-- #post-714861 --><article id="post-714708" class="post-714708 post type-post status-publish format-standard has-post-thumbnail hentry category-trending author-jpetrini custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/20/wheres-your-money-going/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/money.jpg" alt="Where’s your money going?" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/20/wheres-your-money-going/" title="Where’s your money going?" rel="bookmark">Where’s your money going?</a></h2></header></article><!-- #post-714708 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-713454" class="post-713454 post type-post status-publish format-standard has-post-thumbnail hentry category-trending author-khenderson alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/14/the-new-starbucks-drink-is-beer-mixed-with-espresso/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/Untitled-3-feature.jpg" alt="The New Starbucks Drink Is Beer Mixed with Espresso" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/14/the-new-starbucks-drink-is-beer-mixed-with-espresso/" title="The New Starbucks Drink Is Beer Mixed with Espresso" rel="bookmark">The New Starbucks Drink Is Beer Mixed with Espresso</a></h2></header></article><!-- #post-713454 --><article id="post-713193" class="post-713193 post type-post status-publish format-standard has-post-thumbnail hentry category-trending author-clykens custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/13/blink-182s-tom-delonge-emails-hillary-clintons-campaign-manager-to-discuss-ufos/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/Tom-Delonge-F.jpg" alt="Blink-182’s Tom DeLonge Emails Hillary Clinton To Discuss UFOs" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/13/blink-182s-tom-delonge-emails-hillary-clintons-campaign-manager-to-discuss-ufos/" title="Blink-182’s Tom DeLonge Emails Hillary Clinton To Discuss UFOs" rel="bookmark">Blink-182’s Tom DeLonge Emails Hillary Clinton To Discuss UFOs</a></h2></header></article><!-- #post-713193 --><article id="post-712914" class="post-712914 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-music author-clykens alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/12/this-alternative-love-blueprint-poster-is-a-must-have-for-alt-rock-fans/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/blueprint-F.jpg" alt="This “Alternative Love Blueprint” Poster Is A Must-Have" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/12/this-alternative-love-blueprint-poster-is-a-must-have-for-alt-rock-fans/" title="This “Alternative Love Blueprint” Poster Is A Must-Have" rel="bookmark">This “Alternative Love Blueprint” Poster Is A Must-Have</a></h2></header></article><!-- #post-712914 --><article id="post-712662" class="post-712662 post type-post status-publish format-standard has-post-thumbnail hentry category-eat-and-drink author-khenderson custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/11/these-caramel-apple-fireball-shots-will-satisfy-the-sweet-tooth/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/rsz_54643b642b63487dcdbc955ac8829ce3.jpg" alt="These Caramel Apple Fireball Shots Will Satisfy The Sweet Tooth" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/11/these-caramel-apple-fireball-shots-will-satisfy-the-sweet-tooth/" title="These Caramel Apple Fireball Shots Will Satisfy The Sweet Tooth" rel="bookmark">These Caramel Apple Fireball Shots Will Satisfy The Sweet Tooth</a></h2></header></article><!-- #post-712662 -->
+
+</div><!-- .entry-row -->
+
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-bpz57d1d0259f32e -->
+<div id="block-b7757d1d025a391d" class="more-from block block-type-content block-fluid-height" data-alias="Contest">
+<div class="block-content">
+<h1 class="block-title"><span>99x Contests</span></h1><div class="loop">
+
+<div class="entry-row">
+
+<article id="post-715497" class="post-715497 post type-post status-publish format-standard has-post-thumbnail hentry category-contests category-national-contests tag-contest tag-thanksgiving-together author-dvena alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/24/thanksgiving-together/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/Thanksgiving-ContestHeader.jpg" alt="Win Cash for a Thanksgiving Together" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/24/thanksgiving-together/" title="Win Cash for a Thanksgiving Together" rel="bookmark">Win Cash for a Thanksgiving Together</a></h2></header></article><!-- #post-715497 --><article id="post-708396" class="post-708396 post type-post status-publish format-standard has-post-thumbnail hentry category-contests category-national-contests tag-contest tag-scarecation author-dvena custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/24/win-scarecation-week4/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/09/Scare-Header-SAVANNAH.jpg" alt="Win Cash for a SCAREcation Week 4: SAVANNAH" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/24/win-scarecation-week4/" title="Win Cash for a SCAREcation Week 4: SAVANNAH" rel="bookmark">Win Cash for a SCAREcation Week 4: SAVANNAH</a></h2></header></article><!-- #post-708396 --><article id="post-713694" class="post-713694 post type-post status-publish format-standard has-post-thumbnail hentry category-contests tag-contest tag-kings-of-leon tag-text-to-win tag-text2win author-dvena alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/10/17/meet-kings-of-leon/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/10/Kings-Header.jpg" alt="Win a trip to meet Kings of Leon in Boston" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/10/17/meet-kings-of-leon/" title="Win a trip to meet Kings of Leon in Boston" rel="bookmark">Win a trip to meet Kings of Leon in Boston</a></h2></header></article><!-- #post-713694 -->
+
+</div><!-- .entry-row -->
+
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-b7757d1d025a391d -->
 
 </section><!-- .column -->
 
 <section class="column column-2 grid-left-0 grid-width-8">
-<div id="block-34" class="300x250-ad-1 block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-bgz5499e7ebd2120 block-original-65" data-alias="300x250 Ad 1">
+<div id="block-bnv5756f5482c08d" class="feature-right block block-type-content block-fluid-height block-mirrored block-mirroring-bnv5756f5482c08d block-original-btm57570c0d7f485" data-alias="Feature Right Rail">
+<div class="block-content">
+<div class="loop"><article id="post-602669" class="post-602669 post type-post status-publish format-standard has-post-thumbnail hentry category-discover-download author-dmoncrief custom-query" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="http://www.99x.com/2016/06/08/music-discovery-chvrches/" class="post-thumbnail post-thumbnail-above-title">
+				<img src="http://www.99x.com/wp-content/uploads/sites/1454/2016/09/kFlay.png" alt="Music Discovery: K. Flay" width="auto" height="auto" itemprop="image">
+			</a>
+		<header><h2 class="entry-title" itemprop="headline"><a href="http://www.99x.com/2016/06/08/music-discovery-chvrches/" title="Music Discovery: K. Flay" rel="bookmark">Music Discovery: K. Flay</a></h2><div class="entry-meta entry-meta-above"><a href="http://www.99x.com/category/discover-download/" rel="category tag">Music Discovery</a></div><!-- .entry-meta --></header></article><!-- #post-602669 --></div>
+</div><!-- .block-content -->
+
+</div><!-- #block-bnv5756f5482c08d -->
+<div id="block-34" class="rightrail block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-bgz5499e7ebd2120 block-original-bil55b6d5ea6badb" data-alias="300x250 Ad 1">
 <div class="block-content">
 <div id="div-gpt-ad-1418849849333-0">
 <script type="text/javascript">
@@ -951,125 +862,20 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0');
 </div><!-- .block-content -->
 
 </div><!-- #block-34 -->
-<div id="block-38" class="sweet-deals-ad block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-bqk5499e7ebd6bb4 block-original-68" data-alias="Sweet Deals Ad">
+<div id="block-bdu5759b95f675ba" class="rightrail block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bdu5759b95f675ba block-original-bp055b6d5ea58547" data-alias="Playlist">
 <div class="block-content">
-<a href="http://www.sweetjack.com/"><img src="/wp-content/uploads/sites/211/2014/10/sweetdeals.png"></a>
-</div><!-- .block-content -->
-
-</div><!-- #block-38 -->
-<aside id="block-45" class="free-apps block block-type-widget-area block-fluid-height block-mirrored block-mirroring-bcg5499e7ebdfbb2 block-original-74" data-alias="Home - Free Apps" itemscope="" itemtype="http://schema.org/WPSideBar">
-<div class="block-content">
-<h1 class="block-title"><span>GET THE ROCK 100.5 APP</span></h1><ul class="widget-area"><li id="text-3" class="widget widget_text">
-			<div class="textwidget"><div align="center">
-<a href="https://itunes.apple.com/us/app/rock-100.5/id738382454?mt=8" target="_blank"><img src="/wp-content/uploads/sites/211/2014/10/appstore.png" border="0"></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.airkast.WNNXFM" target="_blank"><img src="/wp-content/uploads/sites/211/2014/10/googleplay.png" border="0"></a>
-</div></div>
-		</li><!-- .widget -->
-</ul>
-</div><!-- .block-content -->
-
-</aside><!-- #block-45 -->
-<div id="block-bmh5509cfedd7133" class="headlines block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bmh5509cfedd7133 block-original-b805509d10378acc" data-alias="Tunegenie Playlist">
-<div class="block-content">
-<h1 class="block-title"><span>Playlist</span></h1><p><iframe align="top,left" frameborder="0" height="480" id="tunegenie-onair" marginheight="0" marginwidth="0" name="onair" scrolling="no" src="http://wnnx.tunegenie.com/plugins/onair/?branding=no&amp;colorscheme=light&amp;bg=ffffff" width="310"></iframe></p>
+<iframe name="onair" frameborder="0" align="top,left" marginheight="0" marginwidth="0" scrolling="no" width="300" height="480" src="http://wwwqh2.tunegenie.com/plugins/onair/?searchbar=on&amp;streamfooter=on"></iframe>
 
 </div><!-- .block-content -->
 
-</div><!-- #block-bmh5509cfedd7133 -->
-<aside id="block-b0a55352e130e6d7" class="headlines block block-type-widget-area block-fluid-height block-mirrored block-mirroring-b0a55352e130e6d7 block-original-byj55352fc7efb84" data-alias="Right Rail Widget" itemscope="" itemtype="http://schema.org/WPSideBar">
+</div><!-- #block-bdu5759b95f675ba -->
+<div id="block-bjc55b6d5ea5b2de" class="rightrail block block-type-custom-code block-fluid-height" data-alias="300x250 Ad 2">
 <div class="block-content">
-<ul class="widget-area"><li id="text-4" class="widget widget_text">
-			<div class="textwidget">&nbsp;</div>
-		</li><!-- .widget -->
-</ul>
+<script type="text/javascript">if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}if(typeof(tile) == "undefined"){var tile = 1} else {tile++}document.write('<scr'+'ipt src="http://ad.doubleclick.net/N6717/adj/cd.klif.fm/home;form=pop;ag=4 ;gen=2;pos=mid;' + dcopt + ';tile=' + tile + ';sz=300x250;ord=' + cachebuster + '?"></scr'+'ipt>');</script><script src="http://ad.doubleclick.net/N6717/adj/cd.klif.fm/home;form=pop;ag=4 ;gen=2;pos=mid;dcopt=ist;;tile=1;sz=300x250;ord=3311827900?"></script>
+
 </div><!-- .block-content -->
 
-</aside><!-- #block-b0a55352e130e6d7 -->
-<div id="block-44" class="twitter-ad block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bm65499e7ebde2f1 block-original-73" data-alias="Twitter Ad">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-9">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-9'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-44 -->
-<div id="block-36" class="vip-club-ad block block-type-custom-code block-fluid-height block-mirrored block-mirroring-b6c5499e7ebd52a8 block-original-67" data-alias="VIP Club Ad">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-7">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-7'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-36 -->
-<div id="block-43" class="headlines block block-type-content block-fluid-height block-mirrored block-mirroring-bch5499e7ebdc8c7 block-original-72" data-alias="Classic Rock Archives">
-<div class="block-content">
-<h1 class="block-title"><span>Classic Rock Archives</span></h1><div class="loop">
-
-<div class="entry-row">
-
-<article id="post-352656" class="post-352656 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/16/cassette-store-day-is-saturday-oct-17th/" title="CASSETTE STORE DAY IS SATURDAY OCT 17th!" rel="bookmark">CASSETTE STORE DAY IS SATURDAY OCT 17th!</a></h2></header></article><!-- #post-352656 --><article id="post-340884" class="post-340884 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/12/tyler-tells-trump-to-stop-using-dream-on-after-norcross-rally/" title="TYLER TELLS TRUMP TO STOP USING “DREAM ON” AFTER NORCROSS RALLY" rel="bookmark">TYLER TELLS TRUMP TO STOP USING “DREAM ON” AFTER NORCROSS RALLY</a></h2></header></article><!-- #post-340884 -->
-
-</div><!-- .entry-row -->
-
-
-
-<div class="entry-row">
-
-<article id="post-340266" class="post-340266 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/11/gary-rossington-has-suffered-a-heart-attack/" title="GARY ROSSINGTON HAS SUFFERED A HEART ATTACK" rel="bookmark">GARY ROSSINGTON HAS SUFFERED A HEART ATTACK</a></h2></header></article><!-- #post-340266 --><article id="post-332604" class="post-332604 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/07/tom-petty-opens-up-about-his-heroin-problem-in-the-90s/" title="TOM PETTY OPENS UP ABOUT HIS HEROIN PROBLEM IN THE 90’s" rel="bookmark">TOM PETTY OPENS UP ABOUT HIS HEROIN PROBLEM IN THE 90’s</a></h2></header></article><!-- #post-332604 -->
-
-</div><!-- .entry-row -->
-
-
-
-<div class="entry-row">
-
-<article id="post-328662" class="post-328662 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/06/massive-music-news-update-10515/" title="MASSIVE MUSIC NEWS UPDATE: 10/5/15" rel="bookmark">MASSIVE MUSIC NEWS UPDATE: 10/5/15</a></h2></header></article><!-- #post-328662 --><article id="post-328653" class="post-328653 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/05/van-halen-finishes-their-tour/" title="VAN HALEN FINISHES THEIR TOUR" rel="bookmark">VAN HALEN FINISHES THEIR TOUR</a></h2></header></article><!-- #post-328653 -->
-
-</div><!-- .entry-row -->
-
-
-
-<div class="entry-row">
-
-<article id="post-328626" class="post-328626 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/10/05/roger-waters-slams-bon-jovi-for-playing-israel/" title="ROGER WATERS SLAMS BON JOVI FOR PLAYING ISRAEL" rel="bookmark">ROGER WATERS SLAMS BON JOVI FOR PLAYING ISRAEL</a></h2></header></article><!-- #post-328626 --><article id="post-312429" class="post-312429 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/09/28/how-to-cancel-the-apple-music-free-trial-before-it-starts-charging-you/" title="HOW TO CANCEL THE APPLE MUSIC FREE TRIAL BEFORE IT STARTS CHARGING YOU" rel="bookmark">HOW TO CANCEL THE APPLE MUSIC FREE TRIAL BEFORE IT STARTS CHARGING YOU</a></h2></header></article><!-- #post-312429 -->
-
-</div><!-- .entry-row -->
-
-
-
-<div class="entry-row">
-
-<article id="post-312003" class="post-312003 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott alt custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/09/28/vinyl-re-releases-rush-is-in-no-rush/" title="VINYL RE-RELEASES: RUSH IS IN NO RUSH" rel="bookmark">VINYL RE-RELEASES: RUSH IS IN NO RUSH</a></h2></header></article><!-- #post-312003 --><article id="post-311862" class="post-311862 post type-post status-publish format-standard has-post-thumbnail hentry category-classic-rock-news author-jphilpott custom-query" itemscope="" itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.atlantasclassicrock.com/2015/09/28/bon-jovi-having-a-rough-time-touring-asia/" title="BON JOVI HAVING A ROUGH TIME TOURING ASIA" rel="bookmark">BON JOVI HAVING A ROUGH TIME TOURING ASIA</a></h2></header></article><!-- #post-311862 -->
-
-</div><!-- .entry-row -->
-
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-43 -->
-<div id="block-42" class="facebook-ad block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bxz5499e7ebdb200 block-original-71" data-alias="Facebook Ad">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-8">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-8'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-42 -->
-<div id="block-46" class="300x250-ad-2 block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bll5499e7ebe1218 block-original-79" data-alias="300x250 Ad 2">
-<div class="block-content">
-<div id="div-gpt-ad-1418849849333-3">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-3'); });
-</script>
-</div>
-</div><!-- .block-content -->
-
-</div><!-- #block-46 -->
+</div><!-- #block-bjc55b6d5ea5b2de -->
 
 </section><!-- .column -->
 
@@ -1080,7 +886,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-3');
 
 </div><!-- .wrapper -->
 
-<div id="wrapper-50" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-10 wrapper-last wrapper-footer" data-alias="Wrapper Footer">
+<div id="wrapper-wxn55b6d5ea4eb14" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-10 wrapper-last wrapper-footer" data-alias="Wrapper Footer">
 
 <div class="grid-container clearfix">
 
@@ -1089,17 +895,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-3');
 <section class="column column-1 grid-left-0 grid-width-6">
 <nav id="block-50" class="footer-nav block block-type-navigation block-fluid-height" data-alias="Footer Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
 <div class="block-content">
-<div class="nav-vertical nav-align-left"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://www.atlantasclassicrock.com/station-information/">Station Information</a></li>
-<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="http://www.atlantasclassicrock.com/terms-of-service/">Terms of Service</a></li>
-<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-113 current_page_item menu-item-131"><a href="http://www.atlantasclassicrock.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://www.atlantasclassicrock.com/contest-rules/">Contest Rules</a></li>
-<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://www.atlantasclassicrock.com/advertise-with-us/">Advertise With Us</a></li>
-<li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141"><a target="_blank" href="http://www.cumulus.com/careers/">Employment Opportunities</a></li>
+<div class="nav-vertical nav-align-left"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-320217" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-320217"><a href="/1111/11/11/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-320220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320220"><a href="/1111/11/11/terms-of-service">Terms of Service</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://www.99x.com/station-information/">Station Information</a></li>
 </ul></div><!-- .nav-vertical nav-align-left -->
 </div><!-- .block-content -->
 
 </nav><!-- #block-50 -->
-<div id="block-bln55f071ab3e851" class="block block-type-custom-code block-fluid-height" data-alias="Wallpaper Ad">
+<div id="block-bo055c9e45595086" class="block block-type-custom-code block-fluid-height" data-alias="Wallpaper Ad">
 <div class="block-content">
 <div id="div-gpt-ad-1418849849333-16">
 <script type="text/javascript">
@@ -1108,7 +911,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-16')
 </div>
 </div><!-- .block-content -->
 
-</div><!-- #block-bln55f071ab3e851 -->
+</div><!-- #block-bo055c9e45595086 -->
 
 </section><!-- .column -->
 
@@ -1132,7 +935,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2');
 <div class="footer-container">
 
 <div class="footer">
-<p class="copyright footer-copyright">Copyright 2014 Cumulus Media Cumulus Media is an equal opportunity employer / AA</p><p class="footer-responsive-grid-link-container footer-responsive-grid-link-disable-container"><a href="http://www.atlantasclassicrock.com/privacy-policy/?full-site=true" rel="nofollow" class="footer-responsive-grid-link footer-responsive-grid-disable footer-link">View Full Site</a></p>
+<p class="copyright footer-copyright">Copyright 2015 Cumulus Media. <a href="/wp-content/uploads/sites/184/2015/08/SFO2015EEOReport.pdf" target="_blank" style="color:#ffffff;">Cumulus Media is an equal opportunity employer / AA</a></p><p class="footer-responsive-grid-link-container footer-responsive-grid-link-disable-container"><a href="http://www.99x.com/1111/11/11/privacy-policy/?full-site=true" rel="nofollow" class="footer-responsive-grid-link footer-responsive-grid-disable footer-link">View Full Site</a></p>
 </div><!-- .footer -->
 </div><!-- .footer-container -->
 </div><!-- .block-content -->
@@ -1150,48 +953,76 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2');
 
 
 
-<script> _AMP.options.onAir = {"data":{"title":"Jay Philpott","timeslot":"3:00pm - 7:00pm","excerpt":"","personality":"<div class=\"amp-onair-personality-container\"><div class=\"amp-onair-personality-image\"><a href=\"http:\/\/www.atlantasclassicrock.com\/personalities\/jay\/\"><img class=\"amp-onair-personality-image-img\" src=\"http:\/\/www.atlantasclassicrock.com\/wp-content\/uploads\/sites\/211\/2015\/02\/jay.jpg\" \/><\/a><\/div><div class=\"amp-onair-personality-name\"><a href=\"http:\/\/www.atlantasclassicrock.com\/personalities\/jay\/\">Jay Philpott<\/a><\/div><\/div>","image":"<img class=\"amp-onair-show-image-img\" src=\"http:\/\/www.atlantasclassicrock.com\/wp-content\/uploads\/sites\/211\/2015\/02\/jay.jpg\" \/>"},"timeout":28970,"instance":2,"status":true,"endtime":1445900400,"memcache":true}; </script>
+<script> _AMP.options.onAir = {"data":{"title":"KFOG Music","timeslot":"12:00 am - 11:59 pm","excerpt":"","personality":"<div class=\"amp-onair-personality-container\"><div class=\"amp-onair-personality-image\"><a href=\"http:\/\/www.99x.com\/personalities\/kfog-music\/\"><img class=\"amp-onair-personality-image-img\" src=\"http:\/\/www.99x.com\/wp-content\/uploads\/sites\/1454\/2015\/02\/kfogblank.png\" \/><\/a><\/div><div class=\"amp-onair-personality-name\"><a href=\"http:\/\/www.99x.com\/personalities\/kfog-music\/\">KFOG Music<\/a><\/div><\/div>","image":"<img class=\"amp-onair-show-image-img\" src=\"http:\/\/www.99x.com\/wp-content\/uploads\/sites\/1454\/2015\/02\/kfogblank.png\" \/>","link":"http:\/\/www.99x.com\/shows\/kfog-music-4\/"},"timeout":8210,"instance":2,"status":true,"endtime":1477713540,"memcache":true}; </script>
 <script>_AMP.theme.init();</script>
-	<script type="text/javascript">
-		// js code goes here
-		jQuery(window).load(function(){
-			// Lightbox / Fullscreen initialization ///////////
-			if(typeof ThemifyGallery !== 'undefined'){ ThemifyGallery.init({'context': jQuery(themifyScript.lightboxContext)}); }
-		});
-	</script>
-<link rel="stylesheet" id="media_library_assistant-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/media-library-assistant/includes/../css/prettyPhoto.css?ver=1.61" type="text/css" media="all">
-<link rel="stylesheet" id="media_library_assistant-widget-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/media-library-assistant/includes/../css/widget.css?ver=1.61" type="text/css" media="all">
-<link rel="stylesheet" id="amp-polls-plugin-styles-css" href="http://www.atlantasclassicrock.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.2.4" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var themifyScript = {"lightbox":{"lightboxSelector":".lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body","isTouch":"false"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/themify.gallery.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/lightbox.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/js/themify.builder.module.plugins.js"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/waypoints.min.js?ver=4.2.4"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var tbLocalScript = {"isTouch":"","isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"animationOffset":"100","videoPoster":"http:\/\/www.atlantasclassicrock.com\/wp-content\/plugins\/themify-builder\/img\/blank.png"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/js/themify.builder.script.js"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/themify-mediaelement.min.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/themify-builder/themify/js/themify-mediaelement.js?ver=4.2.4"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/media-library-assistant/includes/../js/jquery.prettyPhoto.js?ver=1.61"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1445517660"></script>
-<script type="text/javascript" src="http://www.atlantasclassicrock.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.2.4"></script>
 
 <script>
-	jQuery(window).load(function(){ jQuery(window).resize(); });
+	jQuery(window).load(function(){ jQuery(window).resize(); jQuery( 'body' ).addClass( 'page-loaded' ); });
 </script>
-
+<link rel="stylesheet" id="media_library_assistant-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/media-library-assistant/includes/../css/prettyPhoto.css?ver=1.61" type="text/css" media="all">
+<link rel="stylesheet" id="media_library_assistant-widget-styles-css" href="http://www.99x.com/wp-content/plugins/media-library-assistant/includes/../css/widget.css?ver=1.61" type="text/css" media="all">
+<link rel="stylesheet" id="amp-polls-plugin-styles-css" href="http://www.99x.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.6.1" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var themify_vars = {"version":"1.8.1","url":"http:\/\/www.99x.com\/wp-content\/plugins\/themify-builder\/themify","TB":"1"};
+var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","animationInviewSelectors":[".module.wow",".themify_builder_content .themify_builder_row.wow",".module_row.wow",".builder-posts-wrap > .post.wow",".fly-in > .post",".fly-in .row_inner > .tb-column",".fade-in > .post",".fade-in .row_inner > .tb-column",".slide-up > .post",".slide-up .row_inner > .tb-column"],"createAnimationSelectors":[],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.99x.com\/wp-content\/plugins\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/www.99x.com\/wp-content\/plugins\/themify-builder","framework_url":"http:\/\/www.99x.com\/wp-content\/plugins\/themify-builder\/themify","version":"1.8.1","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"1"};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"","speed":"900","navigation":"#main-nav","scrollOffset":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/themify-builder/themify/js/main.js?ver=1.8.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/media-library-assistant/includes/../js/jquery.prettyPhoto.js?ver=1.61"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1477494595"></script>
+<script type="text/javascript" src="http://www.99x.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.6.1"></script>
+            <script type="text/javascript">
+                if ('object' === typeof tbLocalScript) {
+                    tbLocalScript.transitionSelectors = ".js.csstransitions .module.wow, .js.csstransitions .themify_builder_content .themify_builder_row.wow, .js.csstransitions .module_row.wow, .js.csstransitions .builder-posts-wrap > .post.wow, .js.csstransitions .fly-in > .post, .js.csstransitions .fly-in .row_inner > .tb-column, .js.csstransitions .fade-in > .post, .js.csstransitions .fade-in .row_inner > .tb-column, .js.csstransitions .slide-up > .post, .js.csstransitions .slide-up .row_inner > .tb-column";
+                }
+            </script>
+            <script>
+window.tgmplibs='cumulus';
+      window===top && document.write('<script id="tgmpjs" src="http://mpl.tunegenie.com/js/loader.min.js?'+Math.random()+'"><\/script>');
+</script><script id="tgmpjs" src="http://mpl.tunegenie.com/js/loader.min.js?0.30141458704855295"></script>
+<script id="tgmpjs">
+      top.tgmp?top.tgmp.onload():window.tgmp=new TuneGenieMediaPlayer('playerbar',
+    { brand: 'wwwqh2',
+      zindex: '5000',
+      theme: ["#000000"],
+      position: 'bottom',
+      debug: true,
+      ios_frame: 3,
+      autostart: false,
+      infoTrayOnLoad: true,
+      useTritonPlayer: true,
+      promptZag: false,
+      delayed_frame: true,
+      refreshGoogleBannerAds:true}
+);
+var tgmp_rc=top.tgmp_rc||new TuneGenieRC(tgmp);
+tgmp_rc.recentSongWidget(document.getElementById('tgrecent'),{});
+tgmp_rc.nowPlayingWidget(document.getElementById('tgnowplaying'),{});
+</script>
 
 </div><!-- #whitewrap -->
 
- <script> _AMP.debug && console.info('TDPW.Proxy: [3] adding dojo.js to page '); </script>
-<script src="//api.listenlive.co/tdplayerapi/2.6/dojo/dojo.js" data-dojo-config="async: 1, tlmSiblingOfDojo: 0, deps:['tdapi/run']"></script>
+<!-- TGMP PLUGIN ENABLED 2016-08-04T21:59:28.717Z -->
+<!-- DISABLE TGMP INFO TRAY -->
+<!-- ADDED 2016-08-04T21:59:28.717Z -->
+<script>
+	if (window.top.tgmp) {
+		window.top.tgmp.updateOption('infoTrayOnLoad',false);
+	}
+</script>
+<!-- END DISABLE TGMP INFO TRAY -->
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -1202,11 +1033,18 @@ var tbLocalScript = {"isTouch":"","isAnimationActive":"1","isParallaxActive":"1"
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<!-- Start Taboola Content -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script> 
+<!-- End Taboola Content -->
+
 <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=7';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
@@ -1217,7 +1055,7 @@ var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_ele
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 64/73 queries in 0.207 seconds using memcached
-Object Caching 2107/2207 objects using memcached
+Database Caching 69/114 queries in 0.623 seconds using memcached
+Object Caching 2674/2840 objects using memcached
 
- Served from: southernsportstoday.com @ 2015-10-26 16:02:17 by W3 Total Cache --></body></html>
+ Served from: www.nashfm1007.com @ 2016-10-28 21:57:05 by W3 Total Cache --></body></html>
