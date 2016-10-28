@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwtechz.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405034810id_/https%3A//www.dwtechz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtechz.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028185818id_/https%3A//www.dwtechz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : DWTechz.com
 
