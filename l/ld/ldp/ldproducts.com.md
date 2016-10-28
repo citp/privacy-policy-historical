@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508023357id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028154259id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - LD Products
 
@@ -99,10 +99,14 @@ Long Beach, CA 90808
 
 We may record the conversations that our agents or employees have with you. We do this from time to time to monitor the quality of service and accuracy of information our agents and employees give to you and to ensure that your instructions are followed. No agent or employee of the Company is authorized to waive any provisions of any of LD Products’ policies or procedures.
 
+* ### Adobe Marketing Cloud Device Co-op.
+
+This website participates in the Adobe Marketing Cloud Device Co-op, which enables participating Adobe Marketing Cloud companies to better recognize their consumers across devices. Each participating company provides the Co-op with automatically collected technical information, such as cryptographically hashed login IDs and HTTP header information. Personally identifiable information (such as name, email address, phone number, etc.) is not shared with the Co-op. The Co-op combines and processes only technical information to recognize when multiple devices are used by the same individual and creates links among those devices. These device links are used by participating companies to link devices they have already seen visit their sites or advertising, and to provide consistent experiences and marketing activities across the devices. Personally identifiable information is not used in determining linked devices. You can learn more about how the Co-op works or opt-out of the Co-op by clicking [here](https://cross-device-privacy.adobe.com/). To learn more about Adobe's privacy practices, please visit Adobe's Privacy Center by clicking [here](http://www.adobe.com/privacy.html).
+
 * ### Updates to Policy.
 
 We may amend this Policy at any time by posting the changes on this page. Any changes to the Policy will become effective upon posting. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your continued use of the Website following any changes means you accept such revisions.You should check the effective date of the Policy below and review any changes since the last time you used the website.
 
 * ### Effective Date.
 
-This Policy is effective as of March 3, 2014.
+This Policy is effective as of September 16, 2016.
