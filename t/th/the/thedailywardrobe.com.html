@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the thedailywardrobe.com privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624200927id_/http%3A//thedailywardrobe.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedailywardrobe.com privacy policy that was archived on 2016-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161029011325id_/http%3A//thedailywardrobe.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><head>
 	<meta charset="UTF-8">
 	<title>  Privacy Policy</title>
 	<!--iOS/android/handheld specific -->	
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136911316406581"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=136911316406581"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"525a7d415e43d2b3a3b3e1537c54bf2d",petok:"c68c1e54b719a52a5c11a6d52012339901d8380d-1466798967-1800",adblock:1,betok:"5b18a2958bdda8d71dccec1e63960e45c0a70c8b-1466798967-120",zone:"thedailywardrobe.com",rocket:"0",apps:{},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"5411243b6110ac42e84cdd7890367881",petok:"2409fa030b2d9e3c2de64ec4536a217b1a0b3490-1477703606-1800",adblock:1,betok:"e66d48663c79a3d245b966e0e28c0910d6fddae3-1477703606-120",zone:"thedailywardrobe.com",rocket:"0",apps:{}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -70,7 +70,17 @@ body {background-image:url(http://thedailywardrobe.com/app/themes/fashionblog/im
 	
 <script>
 window['process_tag_vars'] = {};
-
+String.prototype.parseUrlParams = String.prototype.parseUrlParams || function () {
+		var str = this || '';
+		if (str) {
+			str = str.split("+").join(" ");
+		}
+		var params = {}, tokens, re = /[?&]([^=]+)=([^&]*)/g;
+		while (tokens = re.exec(str)) {
+			params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+		}
+		return params;
+	};
 function process_tag(tag) {
 	var topWindow = window['topWindow'] || window;
 	window['process_tag_vars']['v'] = 1;
@@ -93,10 +103,26 @@ function process_tag(tag) {
 		window['errorLog'] && window['errorLog']('pt2', e);
 		window['track'] && window['track']('pt2', e);
 	}
-	return tag;
+	// return tag;
+	var anId = '922817'
+	var proxy = 'http://pixel.adsafeprotected.com/vast?anId=' + anId + '&campId=general';
+	try {
+		var urlParams = String(window.location.href).parseUrlParams();
+		var zz = urlParams && urlParams.zz || 'unknown';
+		proxy += '&placementId=' + encodeURIComponent(window.location.host)
+		proxy += '&pubId=' + encodeURIComponent(zz)
+	} catch (e) {
+		console.warn(e)
+	}
+	try {
+		proxy += '&originalVast=' + encodeURIComponent(tag)
+	} catch (e) {
+		console.warn(e)
+	}
+	return proxy;
 }</script>
 	<!-- jwplayer -->
-<script src="//c.fqtag.com/tag/implement-r.js?org=zoYCz5adAIgRlrLNaegK&amp;p=unknown&amp;fmt=video&amp;rd=thedailywardrobe.com&amp;rt=display&amp;sl=1&amp;fq=1" type="text/javascript"></script></head>
+</head>
 
 
 <body id="blog" class="page page-id-10 page-template-default main">
