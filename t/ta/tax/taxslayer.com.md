@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405184437id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028130011id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
 **_YOUR PRIVACY IS A PRIORITY TO US_**
 
-[ ](https://privacy.truste.com/privacy-seal/TaxSlayer-com/validation?rid=525b61c6-347c-49bc-b7d5-7ad9f0fc0760 "TRUSTe online privacy certification")
-
 At TaxSlayer.com (collectively “We”, “Us”, “Our or “TaxSlayer”), we are committed to safeguarding customer information on www.taxslayer.com. Since your privacy is a priority to us, TaxSlayer will not share nonpublic information about you with third parties outside of the TaxSlayer corporate family without your consent, except as explained in our Privacy Policy 
 
-The TRUSTe program covers only information that is collected through this website, www.taxslayer.com and mobile application and does not cover information that may be collected through software downloaded from the website. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> . 
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+The TRUSTe program covers only information that is collected through this website, www.taxslayer.com and mobile application and does not cover information that may be collected through software downloaded from the website. 
 
 **PRIVACY POLICY**
 
@@ -45,15 +43,11 @@ The purpose of this site is to market and sell our software. As a result, you ma
 
 **Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by TaxSlayer and our partners affiliates, or analytics or service providers. For an updated list of these providers please contact our marketing team. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for [ _our shopping cart, to remember users’ settings (e.g. language preference), for authentication_ ]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
-
-**Local Storage (HTML5)**
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
+Technologies such as: cookies, beacons, tags, scripts or similar technologies are used by TaxSlayer and our partners affiliates, or analytics or service providers. For an updated list of these providers please contact our marketing team. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies for [ _our shopping cart, to remember users’ settings (e.g. language preference), for authentication_ ]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 **Behavioral Advertising**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here.](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 **Information Gathering**
 
@@ -67,13 +61,14 @@ Cardholder's name, credit card type, credit card number, expiration date, billin
 
 User name, user ID, email address, operating system, connection, browser. 
 
-**• Tell A Friend**
+_We may also collect, from you, the following personal information about your contacts:_
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TaxSlayer.com stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program. Your friend may contact us at [http://www.taxslayer.com/optout.aspx ](http://www.taxslayer.com/optout.aspx)to request that we remove this information from our database. 
+Tell A Friend / TaxPerks   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TaxSlayer.com stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program. Your friend may contact us at http://www.taxslayer.com/optout.aspx to request that we remove this information from our database. 
 
-**Collection and Use of Third Party Personal Information**
+When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. 
 
-You may also provide personal information about other people, such as their name, date of birth and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided 
+If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at 3003 TaxSlayer Drive Evans, GA 30809. 
 
 **Newsletters**
 
@@ -91,7 +86,7 @@ We may share information about you and the products and services you have purcha
   * **With Our Service Providers**  
 In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include using Web analytical software, Web beacons, delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf. 
   * **For Legal Reasons**  
-We may be required to provide information about you to third parties outside of the TaxSlayer corporate family without your consent as provided by law, such as, to respond to a subpoena or court order, judicial process or bankruptcy proceedings, regulatory authorities, to protect against fraud. 
+We may be required to provide information about you to third parties outside of the TaxSlayer corporate family without your consent as provided by law, such as, to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements , a subpoena or court order, judicial process or bankruptcy proceedings, regulatory authorities, to protect against fraud. 
   * **In Case of Sale of Company**  
 Your information may be transferred in connection with a proposed or actual sale, merger, or transfer of all or a portion of a business or operating unit. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
@@ -113,10 +108,6 @@ As a service to our customers, we have installed links to various tax agencies/s
 
 Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-**Push Notification**
-
-We will send you push notifications if you opt-in to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off. 
-
 **Our Former Customers**
 
 Even if you are no longer a TaxSlayer customer, our Privacy Policy will continue to apply to you. 
@@ -125,7 +116,7 @@ Even if you are no longer a TaxSlayer customer, our Privacy Policy will continue
 
 TaxSlayer understands the importance of protecting customer information. TaxSlayer adheres to regulatory, security, and privacy standards applicable to the tax preparation industry. TaxSlayer’s web-based and desktop applications have a proven record of securing Taxpayer information by utilizing a variety of security related technologies including, but not limited to, firewalls, intrusion detection systems, web application firewalls, encryption, access controls, network isolation, auditing systems, data classifications, and data obfuscation. In order to protect the data as our client enters it in the system, TaxSlayer incorporates the use of SSL encryption facilitated by an Extended Validation SSL Certificate issued by a recognized trusted certificate authority. TaxSlayer utilizes security guards, access controls, biometrics, man traps, and other security mechanisms to protect physical access to the datacenter. 
 
-TaxSlayer’s information systems maintain PCI compliance which must be renewed annually. Additionally, our systems are routinely subject to automated vulnerability testing purposely exceeding the requirements of PCI compliance. This practice allows quicker identification and remediation of risks to the privacy of taxpayer data. Internal audits are performed continuously throughout the year to ensure compliance with regulatory standards and TaxSlayer’s Information Security Policy Manual. 
+TaxSlayer’s information systems maintain PCI compliance which must be renewed annually. Additionally, our systems are routinely subject to automated vulnerability testing purposely exceeding the requirements of PCI compliance. This practice allows quicker identification and remediation of risks to the privacy of taxpayer data. Internal audits are performed continuously throughout the year to ensure compliance with regulatory standards and TaxSlayer’s Information Security Policy Manual. If you have any questions about the security of your personal information, you can contact us at [support@taxslayer.com](mailto:support@taxslayer.com.)
 
 **Data Retention**
 
@@ -133,7 +124,7 @@ We will retain your information for up to three tax years as long as your accoun
 
 **Access to Personal Information:**
 
-Personal Information is accessible online through October 20 of the year in which the return is filed. You may view, delete and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information" [or by emailing our Customer Support at [support@taxslayer.com](mailto:support@taxslayer.com.) or by contacting us by telephone or postal mail at the contact information listed below. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). We will respond to your request to access within a reasonable timeframe. 
+Upon request TaxSlayer.com will provide you with information about whether we hold any of your personal information. Personal Information is accessible online through October 20 of the year in which the return is filed. You may view, delete and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information" or by emailing our Customer Support at [support@taxslayer.com](mailto:support@taxslayer.com.) or by contacting us by telephone or postal mail at the contact information listed below. Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). We will respond to your request to access within a reasonable timeframe. 
 
 **Web Analytics Tracking**
 
@@ -150,4 +141,4 @@ TaxSlayer.com Privacy
 
 The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting. We will also email users with this information. If we make any material changes we will notify you by email (sent to the e-mail Other Types of Information We Gather, address specified in your account) or by means of a notice on this Site prior to the change becoming effective. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
-**Approved and Effective 01/08/16**
+**Approved and Effective 09/23/16**
