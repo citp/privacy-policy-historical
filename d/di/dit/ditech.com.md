@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328075505id_/https%3A//www.ditech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028073658id_/https%3A//www.ditech.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | ditech
 
-## Protecting Your Personal Information: ditech Privacy Policies
+## Protecting Your Personal Information: Ditech Privacy Policies
 
-ditech recognizes the importance of your privacy and protecting your Personal Information while you are visiting our websites. It is our goal to provide our Customers with the opportunity to access and use our products and services in a secure environment.
+Ditech recognizes the importance of your privacy and protecting your Personal Information while you are visiting our websites. It is our goal to provide our Customers with the opportunity to access and use our products and services in a secure environment.
 
 ### We recognize your expectation of privacy.
 
@@ -32,11 +32,11 @@ We maintain procedures and security levels to limit employee access to your pers
 
 ### We maintain security procedures to protect your Personal Information.
 
-We maintain appropriate security standards and procedures to protect your Personal Information from unauthorized access. We periodically upgrade and test these security procedures and safeguards. Current ditech Customers can also [update your privacy preferences](https://myaccount.ditech.com/Account/UpdatePrivacyPolicy).  To view our policy on sharing information with others, please choose one of the following: [Personal information policy for Customers in Vermont](https://www.ditech.com/wp-content/uploads/2016/01/Privacy-Notice-Vermont-LSLTR-657-01-22-16-Final.pdf) | [Personal information policy for Customers in California](https://www.ditech.com/wp-content/uploads/2015/08/Privacy-Notice-California-00113-08-11-15.pdf) | [Personal information policy for Customers in other states including Texas and Alaska](https://www.ditech.com/wp-content/uploads/2015/12/ditech-Privacy-Notice-LSLTR-601-12-24-15-Final.pdf) | [Delaware Online Privacy Notice](https://www.ditech.com/privacy/delaware-online-privacy-notice/). If you don’t have the Adobe Reader installed on your computer, scroll down to the bottom of the page and click on the Adobe graphic button to download it.
+We maintain appropriate security standards and procedures to protect your Personal Information from unauthorized access. We periodically upgrade and test these security procedures and safeguards. Current Ditech Customers can also [update your privacy preferences](https://myaccount.ditech.com/Account/UpdatePrivacyPolicy).  To view our policy on sharing information with others, please choose one of the following: [Personal information policy for Customers in Vermont](https://www.ditech.com/wp-content/uploads/2016/01/Privacy-Notice-Vermont-LSLTR-657-01-22-16-Final.pdf) | [Personal information policy for Customers in California](https://www.ditech.com/wp-content/uploads/2015/08/Privacy-Notice-California-00113-08-11-15.pdf) | [Personal information policy for Customers in other states including Texas and Alaska](https://www.ditech.com/wp-content/uploads/2015/12/ditech-Privacy-Notice-LSLTR-601-12-24-15-Final.pdf) | [Delaware Online Privacy Notice](https://www.ditech.com/privacy/delaware-online-privacy-notice/). If you don’t have the Adobe Reader installed on your computer, scroll down to the bottom of the page and click on the Adobe graphic button to download it.
 
 ### We restrict the disclosure of account information.
 
-We do not reveal specific information about you or your account(s) or other personally identifiable data outside of the ditech family unless (1) the information is provided to help complete a transaction initiated by you; (2) you request it; (3) the disclosure is required or allowed by law; or (4) you have been informed about the possibility of such disclosure for marketing or similar purposes and we have given you the opportunity to decline.
+We do not reveal specific information about you or your account(s) or other personally identifiable data outside of the Ditech family unless (1) the information is provided to help complete a transaction initiated by you; (2) you request it; (3) the disclosure is required or allowed by law; or (4) you have been informed about the possibility of such disclosure for marketing or similar purposes and we have given you the opportunity to decline.
 
 ### We maintain your privacy in business relationships with third parties.
 
@@ -51,6 +51,6 @@ _1700 Landmark Towers_
 _345 St. Peter St._  
 _St. Paul, MN 55102_
 
-ditech uses Adobe .pdf format to share secure documents with borrowers, such as electronic statements. If your device is not able to open these documents, it’s a simple matter of downloading Adobe Reader, a free product from Adobe. To download and install Adobe Reader, go to [_http://get.adobe.com/reader_ /](http://get.adobe.com/reader/).
+Ditech uses Adobe .pdf format to share secure documents with borrowers, such as electronic statements. If your device is not able to open these documents, it’s a simple matter of downloading Adobe Reader, a free product from Adobe. To download and install Adobe Reader, go to [_http://get.adobe.com/reader_ /](http://get.adobe.com/reader/).
 
 _Effective date August 31, 2015_
