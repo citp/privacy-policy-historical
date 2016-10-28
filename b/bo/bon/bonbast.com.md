@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonbast.com privacy policy that was archived on 2016-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160217192747id_/http%3A//www.bonbast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonbast.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028191959id_/http%3A//www.bonbast.com/privacy-policy) for the most accurate reproduction.*
 
-# IRR exchange rates in Iran's free market - Bonbast.com
+# Privacy Policy - Bonbast.com
 
 #### Privacy Policy for www.bonbast.com
 
