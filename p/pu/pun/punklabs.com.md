@@ -1,17 +1,35 @@
-> *The following text is extracted and transformed from the punklabs.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328044929id_/http%3A//punklabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punklabs.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028110038id_/http%3A//punklabs.com/privacy) for the most accurate reproduction.*
 
 # Punk Labs - Privacy Policy
 
-At PunkLabs.com, we recognize that privacy of your personal information is important. This page will explain what types of personal information we receive and collect when you use and visit PunkLabs.com, and how we safeguard your information. We never sell your personal information to third parties.
+At Punk Labs LLC, we take your privacy very seriously. This Privacy Policy will define what "personal information" and "non personal information" we collect from PunkLabs.com, and how that information is used.
 
-### Log Files
+## Personal Information
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+"Personal Information" is any information that identifies you as an individual. We may collect your name and email address when you register on one of our websites. If you contact us directly for any reason, we may keep a copy of that correspondence.
 
-### Cookies and Web Beacons
+## Sensitive Information
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Sensitive information is defined in the US Privacy Act (1974) to include information or opinion about such things as an individual’s racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a professional body, criminal records or health information.
 
-We also use third party advertisements on PunkLabs.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We will not attempt to collect any sensitive information.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+## Children
+
+We do not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at contact@punklabs.com. We will delete such information from our files within a reasonable time.
+
+## Disclosure
+
+We will not sell, trade, rent or disclose any of the personal information you provide to us without your prior consent, except where required or allowable by law.
+
+## Security
+
+Your Personal Information is stored offsite in a manner that reasonably protects it from misuse, loss, unauthorized access, modification or disclosure. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+## Non-Personal Information
+
+PunkLabs.com may use APIs from third parties to collect and log anonymous data including, but not limited to, the type of web browser and device you use, your device’s unique ID and IP address, and information about the way you use PunkLabs.com. This information may be used to analyize and improve PunkLabs.com.
+
+## Changes
+
+This Privacy Policy may be updated in the future for any reason. The most up-to-date version of this Privacy Policy will be posted on this page. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
