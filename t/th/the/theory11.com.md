@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theory11.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414203310id_/https%3A//www.theory11.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theory11.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028072854id_/https%3A//www.theory11.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | theory11
 
 > At THEORY11, we are committed to protecting your privacy. We will never sell or give any of your personal information to anyone. The information we gather is used to provide better service and information to you, our customer.
 
