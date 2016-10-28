@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406030419id_/https%3A//www.reliant.com/en/residential/appendix-navigation/legal/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028162831id_/https%3A//www.reliant.com/en/about/legal/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | Reliant
-
-  * [ Home ](https://web.archive.org/en/)
-  * [ Legal ](https://web.archive.org/en/residential/appendix-navigation/legal/index.jsp)
-  * Privacy Statement 
-
-
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Statement outlines the information Reliant will collect and how we will use that information. 
 
@@ -135,7 +129,7 @@ P.O. Box 1559
 
 Carmel, NY 10512
 
-Be sure to include your complete name, address and telephone number and sign the request.The Mail Preference Service and Telephone Preference Service are consumer services provided by the Direct Marketing Association. When you register for these services, direct marketers will use the information you provide to purge your name, address and telephone number from their marketing campaigns. You should see a reduction in the amount of national advertising solicitations you receive within ninety days of registering with the service. Before making your final decision about registering with the Direct Marketing Association or if you wish to learn more about the privacy initiatives of the Direct Marketing Association, consider visiting the following web site: [www.dmachoice.org](http://www.dmachoice.org/ "DMAchoice"). You may also register online for MPS and TPS at the above web site. There is a fee to register online.
+Be sure to include your complete name, address and telephone number and sign the request.The Mail Preference Service and Telephone Preference Service are consumer services provided by the Direct Marketing Association. When you register for these services, direct marketers will use the information you provide to purge your name, address and telephone number from their marketing campaigns. You should see a reduction in the amount of national advertising solicitations you receive within ninety days of registering with the service. Before making your final decision about registering with the Direct Marketing Association or if you wish to learn more about the privacy initiatives of the Direct Marketing Association, consider visiting the following web site: [www.dmachoice.org](http://www.dmachoice.org/ "dmaChoice"). You may also register online for MPS and TPS at the above web site. There is a fee to register online.
 
 **To the Public Utility Commission of Texas**
 
@@ -198,10 +192,8 @@ By using this website or any other Reliant website or interactive banner ads, yo
 
 Back to Top
 
-#### **For Your Convenience**
+#### For Your Convenience
 
-Please print the Reliant Privacy Statement for your records.
-
-[Privacy Statement](https://web.archive.org/public/legal/privacy/preferences/privacyPreference.htm "Privacy Statement")
+Please print the Reliant Privacy Statement (this page) for your records.
 
 Back to Top
