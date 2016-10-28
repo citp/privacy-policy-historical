@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the qirina.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417035559id_/http%3A//www.qirina.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qirina.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028214708id_/http%3A//www.qirina.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|   
----  
-[Home](http://www.qirina.com/) > Privacy Policy  
+[Home](http://www.qirina.com/) > Privacy Policy
+
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Qirina.com, and how we safeguard your information. We never sell your personal information to third parties. In short, this site does not store any information except your IP address, your user agent (browser) version, and which of our pages you accessed when. 
 
 ## Log Files
@@ -24,11 +23,3 @@ We also may use DART cookies for ad serving through Google's DoubleClick, which 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
-
-**Sites**
-
-[#](http://sites.qirina.com/sites:0) [a](http://sites.qirina.com/sites:a) [b](http://sites.qirina.com/sites:b) [c](http://sites.qirina.com/sites:c) [d](http://sites.qirina.com/sites:d) [e](http://sites.qirina.com/sites:e) [f](http://sites.qirina.com/sites:f) [g](http://sites.qirina.com/sites:g) [h](http://sites.qirina.com/sites:h) [i](http://sites.qirina.com/sites:i) [j](http://sites.qirina.com/sites:j) [k](http://sites.qirina.com/sites:k) [l](http://sites.qirina.com/sites:l) [m](http://sites.qirina.com/sites:m) [n](http://sites.qirina.com/sites:n) [o](http://sites.qirina.com/sites:o) [p](http://sites.qirina.com/sites:p) [q](http://sites.qirina.com/sites:q) [r](http://sites.qirina.com/sites:r) [s](http://sites.qirina.com/sites:s) [t](http://sites.qirina.com/sites:t) [u](http://sites.qirina.com/sites:u) [v](http://sites.qirina.com/sites:v) [w](http://sites.qirina.com/sites:w) [x](http://sites.qirina.com/sites:x) [y](http://sites.qirina.com/sites:y) [z](http://sites.qirina.com/sites:z)
-
-**Keys**
-
-[#](http://keys.qirina.com/keys:0) [a](http://keys.qirina.com/keys:a) [b](http://keys.qirina.com/keys:b) [c](http://keys.qirina.com/keys:c) [d](http://keys.qirina.com/keys:d) [e](http://keys.qirina.com/keys:e) [f](http://keys.qirina.com/keys:f) [g](http://keys.qirina.com/keys:g) [h](http://keys.qirina.com/keys:h) [i](http://keys.qirina.com/keys:i) [j](http://keys.qirina.com/keys:j) [k](http://keys.qirina.com/keys:k) [l](http://keys.qirina.com/keys:l) [m](http://keys.qirina.com/keys:m) [n](http://keys.qirina.com/keys:n) [o](http://keys.qirina.com/keys:o) [p](http://keys.qirina.com/keys:p) [q](http://keys.qirina.com/keys:q) [r](http://keys.qirina.com/keys:r) [s](http://keys.qirina.com/keys:s) [t](http://keys.qirina.com/keys:t) [u](http://keys.qirina.com/keys:u) [v](http://keys.qirina.com/keys:v) [w](http://keys.qirina.com/keys:w) [x](http://keys.qirina.com/keys:x) [y](http://keys.qirina.com/keys:y) [z](http://keys.qirina.com/keys:z)
