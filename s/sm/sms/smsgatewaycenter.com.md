@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408100753id_/http%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028135157id_/http%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of SMS Gateway Center
 
@@ -73,14 +73,16 @@ All Rights Reserved. Privacy Policy.
 
 #### SMS Pricing
 
-  * [Transactional SMS Pricing](http://www.smsgatewaycenter.com/transactional-sms-pricing.html)
-  * [Promotional SMS Pricing](http://www.smsgatewaycenter.com/promotional-sms-pricing.html)
-  * [Community Opt-in SMS Pricing](http://www.smsgatewaycenter.com/community-optin-sms-pricing.html)
-  * [Short Code SMS Pricing](http://www.smsgatewaycenter.com/shortcode-pricing.html)
-  * [Long Code SMS Pricing](http://www.smsgatewaycenter.com/longcode-pricing.html)
-  * [Voice Calls Pricing](http://www.smsgatewaycenter.com/voice-calls-pricing.html)
-  * [Missed Call Pricing](http://www.smsgatewaycenter.com/missed-call-notification-pricing.html)
-  * [Email Marketing Pricing](http://www.smsgatewaycenter.com/email-marketing-pricing.html)
+  * [Transactional SMS Pricing](https://www.smsgatewaycenter.com/transactional-sms-pricing.html)
+  * [One Time Password SMS Pricing](https://www.smsgatewaycenter.com/otp-sms-pricing.html)
+  * [Promotional SMS Pricing](https://www.smsgatewaycenter.com/promotional-sms-pricing.html)
+  * [Community Opt-in SMS Pricing](https://www.smsgatewaycenter.com/community-optin-sms-pricing.html)
+  * [International SMS Pricing](https://www.smsgatewaycenter.com/international-sms-pricing.html)
+  * [Short Code SMS Pricing](https://www.smsgatewaycenter.com/shortcode-pricing.html)
+  * [Long Code SMS Pricing](https://www.smsgatewaycenter.com/longcode-pricing.html)
+  * [Voice Calls Pricing](https://www.smsgatewaycenter.com/voice-calls-pricing.html)
+  * [Missed Call Pricing](https://www.smsgatewaycenter.com/missed-call-notification-pricing.html)
+  * [Email Marketing Pricing](https://www.smsgatewaycenter.com/email-marketing-pricing.html)
 
 
 
@@ -88,22 +90,32 @@ All Rights Reserved. Privacy Policy.
 
 #### Services
 
-  * [Transactional SMS](http://www.smsgatewaycenter.com/transactional-sms.html)
-  * [Promotional SMS](http://www.smsgatewaycenter.com/promotional-sms.html)
-  * [Community SMS / Optin SMS](http://www.smsgatewaycenter.com/community-optin-sms.html)
-  * [Toll Free SMS](http://www.smsgatewaycenter.com/toll-free-sms.html)
-  * [Short Code SMS](http://www.smsgatewaycenter.com/short-code-sms-services.html)
-  * [Long Code SMS](http://www.smsgatewaycenter.com/long-code-sms-services.html)
-  * [Voice Calls](http://www.smsgatewaycenter.com/voice-calls.html)
-  * [Missed Call Notification](http://www.smsgatewaycenter.com/missed-call-notification.html)
-  * [Email Marketing Campaign](http://www.smsgatewaycenter.com/email-marketing-campaign.html)
+  * [Transactional SMS](https://www.smsgatewaycenter.com/transactional-sms.html)
+  * [One Time Password Verification SMS](https://www.smsgatewaycenter.com/site/otp-sms-time-password-verification-sms/)
+  * [Promotional SMS](https://www.smsgatewaycenter.com/promotional-sms.html)
+  * [Community SMS / Optin SMS](https://www.smsgatewaycenter.com/community-optin-sms.html)
+  * [Toll Free SMS](https://www.smsgatewaycenter.com/toll-free-sms.html)
+  * [Short Code SMS](https://www.smsgatewaycenter.com/short-code-sms-services.html)
+  * [Long Code SMS](https://www.smsgatewaycenter.com/long-code-sms-services.html)
+  * [Voice Calls](https://www.smsgatewaycenter.com/voice-calls.html)
+  * [Missed Call Notification](https://www.smsgatewaycenter.com/missed-call-notification.html)
+  * [Email Marketing Campaign](https://www.smsgatewaycenter.com/email-marketing-campaign.html)
+  * [Free SMS Campaign Database](https://www.smsgatewaycenter.com/site/sms-campaign-database/)
+  * [Quiz SMS](https://www.smsgatewaycenter.com/quiz-sms/)
 
 
 
 #### SMS Business Opportunities
 
-  * [Bulk SMS Reseller Program](http://www.smsgatewaycenter.com/bulk-sms-reseller-gateway.html)
-  * [SMS Reseller FAQ](http://www.smsgatewaycenter.com/reseller-faq.html)
+  * [Bulk SMS Reseller Program](https://www.smsgatewaycenter.com/bulk-sms-reseller-gateway.html)
+  * [SMS Reseller FAQ](https://www.smsgatewaycenter.com/reseller-faq.html)
+
+
+
+#### Bulk SMS Know-how
+
+  * [How Opt-In SMS Works?](https://www.smsgatewaycenter.com/how-optin-sms-works.php)
+  * [How Transactional SMS Works?](https://www.smsgatewaycenter.com/how-transactional-sms-works.php)
 
   
 
