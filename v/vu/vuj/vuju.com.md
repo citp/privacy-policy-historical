@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vuju.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628171926id_/http%3A//www.vuju.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuju.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028045820id_/http%3A//www.vuju.com/privacy.php) for the most accurate reproduction.*
 
 # Vuju Privacy Policy
 
 ## **Vuju Privacy Policy**
 
-(last updated February 2016) 
+(last updated September 2016) 
 
 Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
@@ -43,6 +43,3 @@ Google, as a third party vendor, uses cookies to serve ads.
 Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-  
-
