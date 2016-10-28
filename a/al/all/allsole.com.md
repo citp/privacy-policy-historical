@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsole.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626122616id_/http%3A//www.allsole.com/articles/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsole.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028124420id_/http%3A//www.allsole.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # privacy-policy - FREE UK Delivery
 
