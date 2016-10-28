@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdailywire.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628014159id_/http%3A//healthdailywire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdailywire.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028205943id_/http%3A//healthdailywire.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Health Daily Wire
 
