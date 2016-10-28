@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penatropin.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330004005id_/http%3A//penatropin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penatropin.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028113404id_/http%3A//penatropin.com/privacy.php) for the most accurate reproduction.*
 
 # Penatropin | Official Website
 
