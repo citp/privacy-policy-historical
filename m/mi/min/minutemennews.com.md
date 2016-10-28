@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minutemennews.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430055531id_/http%3A//minutemennews.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minutemennews.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029010328id_/http%3A//minutemennews.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy / Terms & Conditions - Minutemen News
 
