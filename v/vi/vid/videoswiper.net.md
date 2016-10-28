@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the videoswiper.net privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423155528id_/http%3A//videoswiper.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoswiper.net privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028023700id_/http%3A//videoswiper.net/privacy.html) for the most accurate reproduction.*
 
-# VideoSWIPER - Video Search Engine Web 2.0 Video Application Add Millions of Videos to Your Websites
+# VideoSWIPER - Video Search Engine Web 2.0 Video Application
 
-## Please read & agree to our user privacy policy
-
-It is important that you read and understand the VideoSwiper privacy policy before commiting to any of our subscriptions or services.
+## Please read & agree to our user privacy policy. It is important that you read and understand the VideoSwiper privacy policy before commiting to any of our subscriptions or services.
 
 #### What information do we collect?
 
@@ -74,10 +72,10 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 #### Non Members Contact
 
-<http://videoswiper.net/contact>
+<https://videoswiper.net/contact>
 
 #### VideoSwiper Members Contact
 
-<http://videoswiper.net/support>
+<https://videoswiper.net/support>
 
 #### End of Privacy Statement.
