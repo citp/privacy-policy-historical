@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the chestofbooks.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521184821id_/http%3A//chestofbooks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestofbooks.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028190349id_/http%3A//chestofbooks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 This site doesn't collect any information from its visitors, other than the usual browser access logs, which are recycled on the constant basis. No information about your visit of this site is made available to any 3rd party.
 
