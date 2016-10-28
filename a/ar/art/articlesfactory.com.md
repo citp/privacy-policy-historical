@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428212433id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028061304id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
+
+live dealer casinos guide <https://livedealercasino.online/>
 
 Effective February 10, 2005
 
