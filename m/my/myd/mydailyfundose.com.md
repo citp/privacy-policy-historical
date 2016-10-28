@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the mydailyfundose.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915195402id_/http%3A//mydailyfundose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyfundose.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028171605id_/http%3A//mydailyfundose.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | mydailyfundose
+# Privacy Policy |
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://mydailyfundose.com/privacy-policy](mailto:harsaat.com%20a-t%20gmail%20d0t%20c0m).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Email](mailto:harsaat.com@gmail.com).
 
-At mydailyfundose.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by mydailyfundose.com and how we use it.
+At eachour.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by eachour.com and how we use it.
 
 **Log Files**  
-Like many other Web sites, mydailyfundose.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, eachour.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
-mydailyfundose.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+eachour.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**
 
-→ Google, as a third party vendor, uses cookies to serve ads on mydailyfundose.com.
+→ Google, as a third party vendor, uses cookies to serve ads on eachour.com.
 
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to mydailyfundose.com and other sites on the Internet.
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to eachour.com and other sites on the Internet.
 
 → Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
@@ -31,21 +31,33 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
- _You may consult this listing to find the privacy policy for each of the advertising partners of mydailyfundose.com._
+You may consult this listing to find the privacy policy for each of the advertising partners of eachour.com.
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on mydailyfundose.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on eachour.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-mydailyfundose.com has no access to or control over these cookies that are used by third-party advertisers.
+eachour.com has no access to or control over these cookies that are used by third-party advertisers.
 
 **Third Party Privacy Policies**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mydailyfundose.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. eachour.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
+**Contact & Communication**
+
+Users contacting this website and/or it’s owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
+
+This website and it’s owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+
+**External Links**
+
+Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
+
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
 **Children’s Information**  
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
-mydailyfundose.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that mydailyfundose.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+eachour.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that eachour.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
 **Online Privacy Policy Only**
 
