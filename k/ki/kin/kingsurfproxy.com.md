@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsurfproxy.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516083324id_/http%3A//kingsurfproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsurfproxy.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028095029id_/http%3A//www.kingsurfproxy.com/privacy.php) for the most accurate reproduction.*
 
 # KingSurfProxy | Free Czech Republic Service, Unblock Youtube, facebook, Twitter
 
@@ -43,3 +43,6 @@ We do not have any control over any information you submit to this or any other 
 This website does not offer any warrenty or guarantees of any kind, nor should any be implied or assumed.
 
 We do try to conform to all our advertise's policies and we will do what is necessary to stay within their terms. This privacy policy is subject to change without notice and it is your responsabilty to keep up to date with our requirements.
+
+[](http://click.tunnelbear.com/aff_c?offer_id=2&aff_id=1370&file_id=18)  
+
