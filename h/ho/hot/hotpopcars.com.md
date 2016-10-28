@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopcars.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626081702id_/http%3A//hotpopcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopcars.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028132339id_/http%3A//hotpopcars.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Cars
 
@@ -58,10 +58,10 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recently on Hot Pop Cars
 
-[ ](http://hotpopcars.com/the-stupidest-cars-in-modern-history-2/ "The Stupidest Cars In Modern History")
+[ ](http://hotpopcars.com/10-james-bond-cars-that-memorable-2/ "10 James Bond Cars That Memorable!")
 
-### [The Stupidest Cars In Modern History](http://hotpopcars.com/the-stupidest-cars-in-modern-history-2/)
+### [10 James Bond Cars That Memorable!](http://hotpopcars.com/10-james-bond-cars-that-memorable-2/)
 
-__Feb 28, 2016
+__Apr 03, 2016
 
-Stupid can be subjective, but it’s surprising when automakers can get something so very, very wrong, or even worse, proceed in the face of a better idea. When it comes... 
+He is known as Bond...James Bond. But besides, the glitz and glamour and the women that James Bond loves on screen, one of the favorites are his cars. Here's our Top 10... 
