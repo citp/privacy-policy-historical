@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opteck.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605144853id_/https%3A//www.opteck.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opteck.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028093646id_/https%3A//www.opteck.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
