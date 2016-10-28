@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herolens.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401200808id_/http%3A//herolens.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herolens.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028180711id_/http%3A//herolens.com/privacy.html) for the most accurate reproduction.*
 
 # Herolens | Beyond Programmatic Creative
 
@@ -24,7 +24,7 @@ Herolens may choose to collect the anonymous information through the use of brow
 
 You can remove our cookies and opt-out by [clicking here](https://api.herolens.com/t/optout.html).
 
-You can opt-in again in order to receive a better targeted and personalized ad experience by clicking here.
+You can opt-in again in order to receive a better targeted and personalized ad experience by [clicking here](https://api.herolens.com/t/optin.html).
 
 ### Display of Herolens Programmatic Creative Ads
 
@@ -38,6 +38,6 @@ Herolens may choose to implement and incorporate, as part of the assets in its a
 
 If you have any questions or concerns regarding our policies, please contact us through our website. Alternatively you can contact us in writing at the following address: privacy (at) herolens (dot) com. We will address any issue to the best of our abilities as soon as possible.
 
-Herolens Corporation - 79 Madison Ave. 4th Floor Suite 411, New York, New York, United States
+Herolens Group LLC - 116 west 23rd Street Suite 500, New York NY 10011, NEW YORK, NY
 
-**Last revised: Sep 29th, 2015.**
+**Last revised: May 10th, 2016.**
