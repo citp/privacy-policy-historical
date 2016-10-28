@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aarpmedicaresupplement.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316192742id_/https%3A//www.aarpmedicaresupplement.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmedicaresupplement.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028032747id_/https%3A//www.aarpmedicaresupplement.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Our Privacy Policy | AARP® Medicare Supplement
+# Privacy Policy | AARP® Medicare Supplement
 
   * [HIPAA Notice of Privacy Practices.](https://www.aarpmedicaresupplement.com/privacypolicy.html#hipaa)
   * [Website Privacy Policy.](https://www.aarpmedicaresupplement.com/privacypolicy.html#website)
@@ -106,7 +106,7 @@ To contact us regarding this policy and our related privacy practices, please [v
 [Back to top](https://www.aarpmedicaresupplement.com/privacypolicy.html#top)
 
 **Effective Date**   
-The effective date of this policy is January 1, 2014.
+The effective date of this policy is January 1, 2016.
 
 [Back to top](https://www.aarpmedicaresupplement.com/privacypolicy.html#top)
 
@@ -126,33 +126,31 @@ UnitedHealth Group collects and maintains oral, written and electronic informati
 
 [Back to top](https://www.aarpmedicaresupplement.com/privacypolicy.html#top)
 
-### HIPAA NOTICES OF PRIVACY PRACTICES
+### HEALTH PLAN NOTICES OF PRIVACY PRACTICES
 
-### MEDICAL INFORMATION PRIVACY NOTICE
+NOTICE FOR MEDICAL INFORMATION: Pages 1-7.
 
-NOTICE FOR MEDICAL INFORMATION: Pages 1-6.
-
-NOTICE FOR FINANCIAL INFORMATION: Pages 7-8.
+NOTICE FOR FINANCIAL INFORMATION: Pages 8-9.
 
 **MEDICAL INFORMATION PRIVACY NOTICE**
 
 **THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
 
-Effective September 23, 2013
+Effective January 1, 2016
 
 We1 are required by law to protect the privacy of your health information. We are also required to send you this notice, which explains how we may use information about you and when we can give out or "disclose" that information to others. You also have rights regarding your health information that are described in this notice. We are required by law to abide by the terms of this notice.
 
 The terms "information" or "health information" in this notice include any information we maintain that reasonably can be used to identify you and that relates to your physical or mental health condition, the provision of health care to you, or the payment for such health care. We will comply with the requirements of applicable privacy laws related to notifying you in the event of a breach of your health information.
 
-We have the right to change our privacy practices and the terms of this notice. If we make a material change to our privacy practices, we will provide to you, in our next annual distribution, either a revised notice or information about the material change and how to obtain a revised notice. We will provide you with this information either by direct mail or electronically, in accordance with applicable law. In all cases, we will post the revised notice on your health plan website, such as [www.aarpmedicaresupplement.com](https://www.aarpmedicaresupplement.com/). We reserve the right to make any revised or changed notice effective for information we already have and for information that we receive in the future.
+We have the right to change our privacy practices and the terms of this notice. If we make a material change to our privacy practices, we will provide to you, in our next annual distribution, either a revised notice or information about the material change and how to obtain a revised notice. We will provide you with this information either by direct mail or electronically, in accordance with applicable law. In all cases, if we maintain a website for your particular health plan, we will post the revised notice on your health plan website, such as [www.aarpmedicaresupplement.com](https://www.aarpmedicaresupplement.com/). We reserve the right to make any revised or changed notice effective for information we already have and for information that we receive in the future.
 
-UnitedHealth Group collects and maintains oral, written and electronic information to administer our business and to provide products, services and information of importance to our enrollees. We maintain physical, electronic and procedural security safeguards in the handling and maintenance of our enrollees' information, in accordance with applicable state and federal standards, to protect against risks such as loss, destruction or misuse.
+UnitedHealth Group collects and maintains oral, written and electronic information to administer our business and to provide products, services and information of importance to our enrollees. We maintain physical, electronic and procedural security safeguards in the handling and maintenance of our enrollees' information, in accordance with applicable state and federal standards, to protect against risks such as loss, destruction or misuse. 
 
 **How We Use or Disclose Information**   
 **We must** use and disclose your health information to provide that information:
 
   * To you or someone who has the legal right to act for you (your personal representative) in order to administer your rights as described in this notice; and
-  * To the Secretary of the Department of Health and Human Services, if necessary, to make sure your privacy is protected.
+  * To the Secretary of the Department of Health and Human Services, if necessary, to make sure your privacy is protected. 
 
 
 
@@ -171,7 +169,7 @@ UnitedHealth Group collects and maintains oral, written and electronic informati
 **We may** use or disclose your health information for the following purposes under limited circumstances: 
 
   * **As Required by Law.** We may disclose information when required to do so by law.
-  * **To Persons Involved With Your Care.** We may use or disclose your health information to a person involved in your care or who helps pay for your care, such as a family member, when you are incapacitated or in an emergency, or when you agree or fail to object when given the opportunity. If you are unavailable or unable to object, we will use our best judgment to decide if the disclosure is in your best interests. Special rules apply regarding when we may disclose health information to family members and others involved in a deceased individual's care. We may disclose health information to any persons involved, prior to the death, in the care or payment for care of a deceased individual, unless we are aware that doing so would be inconsistent with a preference previously expressed by the deceased.
+  * **To Persons Involved With Your Care.** We may use or disclose your health information to a person involved in your care or who helps pay for your care, such as a family member, when you are incapacitated or in an emergency, or when you agree or fail to object when given the opportunity. If you are unavailable or unable to object, we will use our best judgment to decide if the disclosure is in your best interests. Special rules apply regarding when we may disclose health information to family members and others involved in a deceased individual’s care. We may disclose health information to any persons involved, prior to the death, in the care or payment for care of a deceased individual, unless we are aware that doing so would be inconsistent with a preference previously expressed by the deceased.
   * **For Public Health Activities** such as reporting or preventing disease outbreaks to a public health authority.
   * **For Reporting Victims of Abuse, Neglect or Domestic Violence** to government authorities that are authorized by law to receive such information, including a social service or protective service agency.
   * **For Health Oversight Activities** to a health oversight agency for activities authorized by law, such as licensure, governmental audits and fraud and abuse investigations.
@@ -185,7 +183,7 @@ UnitedHealth Group collects and maintains oral, written and electronic informati
   * **For Organ Procurement Purposes.** We may use or disclose information to entities that handle procurement, banking or transplantation of organs, eyes or tissue to facilitate donation and transplantation.
   * **To Correctional Institutions or Law Enforcement Officials** if you are an inmate of a correctional institution or under the custody of a law enforcement official, but only if necessary (1) for the institution to provide you with health care; (2) to protect your health and safety or the health and safety of others; or (3) for the safety and security of the correctional institution.
   * **To Business Associates** that perform functions on our behalf or provide us with services if the information is necessary for such functions or services. Our business associates are required, under contract with us and pursuant to federal law, to protect the privacy of your information and are not allowed to use or disclose any information other than as specified in our contract and as permitted by federal law.
-  * **Additional Restrictions on Use and Disclosure.** Certain federal and state laws may require special privacy protections that restrict the use and disclosure of certain health information, including highly confidential information about you. "Highly confidential information" may include confidential information under Federal laws governing alcohol and drug abuse information and genetic information as well as state laws that often protect the following types of information:
+  * **Additional Restrictions on Use and Disclosure.** Certain federal and state laws may require special privacy protections that restrict the use and disclosure of certain health information, including highly confidential information about you. “Highly confidential information” may include confidential information under Federal laws governing alcohol and drug abuse information and genetic information as well as state laws that often protect the following types of information:
 
 
   1. HIV/AIDS;
@@ -197,30 +195,29 @@ UnitedHealth Group collects and maintains oral, written and electronic informati
 
 
 
-If a use or disclosure of health information described above in this notice is prohibited or materially limited by other laws that apply to us, it is our intent to meet the requirements of the more stringent law. Attached to this notice is a "Federal and State Amendments" document.
+If a use or disclosure of health information described above in this notice is prohibited or materially limited by other laws that apply to us, it is our intent to meet the requirements of the more stringent law. Attached to this notice is a “Federal and State Amendments” document.
 
-Except for uses and disclosures described and limited as set forth in this notice, we will use and disclose your health information only with a written authorization from you. This includes, except for limited circumstances allowed by federal privacy law, not using or disclosing psychotherapy notes about you, selling your health information to others, or using or disclosing your health information for certain promotional communications that are prohibited marketing communications under federal law, without your written authorization. Once you give us authorization to release your health information, we cannot guarantee that the recipient to whom the information is provided will not disclose the information. You may take back or "revoke" your written authorization at anytime in writing, except if we have already acted based on your authorization. To find out where to mail your written authorization and how to revoke an authorization, contact the phone number listed on the back of your ID card.
+Except for uses and disclosures described and limited as set forth in this notice, we will use and disclose your health information only with a written authorization from you. This includes, except for limited circumstances allowed by federal privacy law, not using or disclosing psychotherapy notes about you, selling your health information to others, or using or disclosing your health information for certain promotional communications that are prohibited marketing communications under federal law, without your written authorization. Once you give us authorization to release your health information, we cannot guarantee that the recipient to whom the information is provided will not disclose the information. You may take back or "revoke" your written authorization at any time in writing, except if we have already acted based on your authorization. To find out where to mail your written authorization and how to revoke an authorization, contact the phone number listed on your ID card. 
 
 **What Are Your Rights**   
 The following are your rights with respect to your health information: 
 
   * **You have the right to ask to restrict** uses or disclosures of your information for treatment, payment, or health care operations. You also have the right to ask to restrict disclosures to family members or to others who are involved in your health care or payment for your health care. We may also have policies on dependent access that authorize your dependents to request certain restrictions. **Please note that while we will try to honor your request and will permit requests consistent with our policies, we are not required to agree to any restriction.**
-  * **You have the right to ask to receive confidential communications** of information in a different manner or at a different place (for example, by sending information to a P.O. Box instead of your home address). We will accommodate reasonable requests where a disclosure of all or part of your health information otherwise could endanger you. We will accept verbal requests to receive confidential communications, but requests to modify or cancel a previous confidential communication request must be made in writing. Mail your request to the address listed below.
-  * **You have the right to see and obtain a copy** certain health information we maintain about you such as claims and case or medical management records. If we maintain your health information electronically, you will have the right to request that we send a copy of your health information in an electronic format to you. You can also request that we provide a copy of your information to a third party that you identify. In some cases you may receive a summary of this health information. You must make a written request to inspect and copy your health information or have your information sent to a third party. Mail your request to the address listed below. In certain limited circumstances, we may deny your request to inspect and copy your health information. If we deny your request, you may have the right to have the denial reviewed. We may charge a reasonable fee for any copies.
+  * **You have the right to ask to receive confidential communications** of information in a different manner or at a different place (for example, by sending information to a P.O. Box instead of your home address). We will accommodate reasonable requests where a disclosure of all or part of your health information otherwise could endanger you. In certain circumstances, we will accept your verbal request to receive confidential communications, however, we may also require you confirm your request in writing. In addition, any requests to modify or cancel a previous confidential communication request must be made in writing. Mail your request to the address listed below.
+  * **You have the right to see and obtain a copy** of certain health information we maintain about you such as claims and case or medical management records. If we maintain your health information electronically, you will have the right to request that we send a copy of your health information in an electronic format to you. You can also request that we provide a copy of your information to a third party that you identify. In some cases you may receive a summary of this health information. You must make a written request to inspect and copy your health information or have your information sent to a third party. Mail your request to the address listed below. In certain limited circumstances, we may deny your request to inspect and copy your health information. If we deny your request, you may have the right to have the denial reviewed. We may charge a reasonable fee for any copies.
   * **You have the right to ask to amend** certain health information we maintain about you such as claims and case or medical management records, if you believe the health information about you is wrong or incomplete. Your request must be in writing and provide the reasons for the requested amendment. Mail your request to the address listed below. If we deny your request, you may have a statement of your disagreement added to your health information.
   * **You have the right to receive an accounting** of certain disclosures of your information made by us during the six years prior to your request. This accounting will not include disclosures of information made: (i) for treatment, payment, and health care operations purposes; (ii) to you or pursuant to your authorization; and (iii) to correctional institutions or law enforcement officials; and (iv) other disclosures for which federal law does not require us to provide an accounting.
-  * **You have the right to a paper copy of this notice.** You may ask for a copy of this notice at any time. Even if you have agreed to receive this notice electronically, you are still entitled to a paper copy of this notice. You also may also obtain a copy of this notice on your health plan website, such as [www.aarpmedicaresupplement.com](https://www.aarpmedicaresupplement.com/).
+  * **You have the right to a paper copy of this notice.** You may ask for a copy of this notice at any time. Even if you have agreed to receive this notice electronically, you are still entitled to a paper copy of this notice. If we maintain a website for your particular health plan, you may also obtain a copy of this notice on your website, such as [www.aarpmedicaresupplement.com](https://www.aarpmedicaresupplement.com/).
 
 
 
 **Exercising Your Rights**
 
-  * **Contacting your Health Plan.** If you have any questions about this notice or want information about exercising your rights, **please call the toll-free member phone number on the back of your health plan ID card** or you may contact a UnitedHealth Group Customer Call Center Representative at 800-523-5800.
-  * Submitting a Written Request. Mail to us your written requests to exercise any of your rights, including modifying or cancelling a confidential communication, requesting copies of your records, or requesting amendments to your record, at the following address: 
+  * **Contacting your Health Plan.** If you have any questions about this notice or want information about exercising your rights, please **call the toll-free member phone number on your health plan ID card** or you may contact a UnitedHealth Group Customer Call Center Representative at 1-800-523-5800 (TTY 711).
+  * **Submitting a Written Request.** Mail to us your written requests to exercise any of your rights, including modifying or cancelling a confidential communication, requesting copies of your records, or requesting amendments to your record, at the following address: 
 
-UnitedHealthcare   
-Government Programs Privacy Office   
-MN006- W800   
+UnitedHealthcare Privacy Office   
+MN017-E300   
 PO Box 1459   
 Minneapolis, MN 55440 
 
@@ -230,22 +227,22 @@ Minneapolis, MN 55440
 
 **You may also notify the Secretary of the U.S. Department of Health and Human Services of your complaint.** We will not take any action against you for filing a complaint.
 
-1This Medical Information Notice of Privacy Practices applies to the following health plans that are affiliated with UnitedHealth Group: ACN Group of California, Inc.; All Savers Insurance Company; All Savers Life Insurance Company of California; AmeriChoice of Connecticut, Inc.; AmeriChoice of Georgia, Inc.; AmeriChoice of New Jersey, Inc.; Arizona Physicians IPA, Inc.; Care Improvement Plus of Maryland, Inc.; Care Improvement Plus of Texas Insurance Company; Care Improvement Plus South Central Insurance Company; Care Improvement Plus Wisconsin Insurance Company; Citrus Health Care, Inc.; Dental Benefit Providers of California, Inc.; Dental Benefit Providers of Illinois, Inc.; Evercare of Arizona, Inc.; Golden Rule Insurance Company; Health Plan of Nevada, Inc.; MAMSI Life and Health Insurance Company; MD - Individual Practice Association, Inc.; Medical Health Plans of Florida, Inc.; Medica HealthCare Plans, Inc.; Midwest Security Life Insurance Company; National Pacific Dental, Inc.; Neighborhood Health Partnership, Inc.; Nevada Pacific Dental; Optimum Choice, Inc.; Oxford Health Insurance, Inc.; Oxford Health Plans (CT), Inc.; Oxford Health Plans (NJ), Inc.; Oxford Health Plans (NY), Inc.; PacifiCare Life and Health Insurance Company; PacifiCare Life Assurance Company; PacifiCare of Arizona, Inc.; PacifiCare of Colorado, Inc.; PacifiCare of Nevada, Inc.; Physicians Health Choice of New York, Inc.; Physicians Health Choice of Texas, LLC; Preferred Partners, Inc.; Sierra Health and Life Insurance Company, Inc.; UHC of California; U.S. Behavioral Health Plan, California; Unimerica Insurance Company; Unimerica Life Insurance Company of New York; Unison Health Plan of Delaware, Inc.; Unison Health Plan of the Capital Area, Inc.; United Behavioral Health; UnitedHealthcare Benefits of Texas, Inc.; UnitedHealthcare Community Plan, Inc.; UnitedHealthcare Community Plan of Texas, L.L.C.; UnitedHealthcare Insurance Company; UnitedHealthcare Insurance Company of Illinois; UnitedHealthcare Insurance Company of New York; UnitedHealthcare Insurance Company of the River Valley; UnitedHealthcare Life Insurance Company; UnitedHealthcare of Alabama, Inc.; UnitedHealthcare of Arizona, Inc.; UnitedHealthcare of Arkansas, Inc.; UnitedHealthcare of Colorado, Inc.; UnitedHealthcare of Florida, Inc.; UnitedHealthcare of Georgia, Inc.; UnitedHealthcare of Illinois, Inc.; UnitedHealthcare of Kentucky, Ltd.; UnitedHealthcare of Louisiana, Inc.; UnitedHealthcare of Mid-Atlantic, Inc.; UnitedHealthcare of the Midlands, Inc.; UnitedHealthcare of the Midwest, Inc.; United HealthCare of Mississippi, Inc.; UnitedHealthcare of New England, Inc.; UnitedHealthcare of New Mexico, Inc.; UnitedHealthcare of New York, Inc.; UnitedHealthcare of North Carolina, Inc.; UnitedHealthcare of Ohio, Inc.; UnitedHealthcare of Oklahoma, Inc.; UnitedHealthcare of Oregon, Inc.; UnitedHealthcare of Pennsylvania, Inc.; UnitedHealthcare of Texas, Inc.; UnitedHealthcare of Utah, Inc.; UnitedHealthcare of Washington, Inc.; UnitedHealthcare of Wisconsin, Inc.; UnitedHealthcare Plan of the River Valley, Inc.
+1This Medical Information Notice of Privacy Practices applies to the following health plans that are affiliated with UnitedHealth Group: ACN Group of California, Inc.; All Savers Insurance Company; All Savers Life Insurance Company of California; AmeriChoice of Connecticut, Inc.; Inc.; AmeriChoice of New Jersey, Inc.; Arizona Physicians IPA, Inc.; Care Improvement Plus of Maryland, Inc.; Care Improvement Plus of Texas Insurance Company; Care Improvement Plus South Central Insurance Company; Care Improvement Plus Wisconsin Insurance Company; Dental Benefit Providers of California, Inc.; Dental Benefit Providers of Illinois, Inc.; Golden Rule Insurance Company ;Health Plan of Nevada, Inc.; MAMSI Life and Health Insurance Company; MD – Individual Practice Association, Inc.; Medica Health Plans of Florida, Inc.; Medica Healthcare Plans, Inc.; National Pacific Dental, Inc.; Neighborhood Health Partnership, Inc.; Nevada Pacific Dental; Optimum Choice, Inc.; Oxford Health Insurance, Inc.; Oxford Health Plans(CT), Inc.; Oxford Health Plans (NJ), Inc.; Oxford Health Plans (NY), Inc.; PacifiCare Life and Health Insurance Company; PacifiCare Life Assurance Company; PacifiCare of Arizona, Inc.; PacifiCare of Colorado, Inc.; PacifiCare of Nevada, Inc.; Physicians Health Choice of Texas, LLC; Preferred Care Partners, Inc.; Sierra Health and Life Insurance Company, Inc.; UHC of California; U.S. Behavioral Health Plan, California; Unimerica Insurance Company; Unimerica Life Insurance Company of New York; Unison Health Plan of Delaware, Inc.; Unison Health Plan of the Capital Area, Inc.; UnitedHealthcare Benefits of Texas, Inc.; UnitedHealthcare Community Plan of Georgia, Inc.; UnitedHealthcare Community Plan of Ohio, Inc.; UnitedHealthcare Community Plan, Inc.; UnitedHealthcare Community Plan of Texas, L.L.C.; UnitedHealthcare Insurance Company; UnitedHealthcare Insurance Company of Illinois; UnitedHealthcare Insurance Company of New York; UnitedHealthcare Insurance Company of the River Valley; UnitedHealthcare Life Insurance Company; UnitedHealthcare of Alabama, Inc.; UnitedHealthcare of Arizona, Inc.; UnitedHealthcare of Arkansas, Inc.; UnitedHealthcare of Colorado, Inc.; UnitedHealthcare of Florida, Inc.; UnitedHealthcare of Georgia, Inc.; UnitedHealthcare of Illinois, Inc.; UnitedHealthcare of Kentucky, Ltd.; UnitedHealthcare of Louisiana, Inc.; UnitedHealthcare of the Mid-Atlantic, Inc.; UnitedHealthcare of the Midlands, Inc.; UnitedHealthcare of the Midwest, Inc.; United Healthcare of Mississippi, Inc.; UnitedHealthcare of New England, Inc.; UnitedHealthcare of New Mexico, Inc.; UnitedHealthcare of New York, Inc.; UnitedHealthcare of North Carolina, Inc.; UnitedHealthcare of Ohio, Inc.; UnitedHealthcare of Oklahoma, Inc.; UnitedHealthcare of Oregon, Inc.; UnitedHealthcare of Pennsylvania, Inc.; UnitedHealthcare of Texas, Inc.; UnitedHealthcare of Utah, Inc.; UnitedHealthcare of Washington, Inc.; UnitedHealthcare of Wisconsin, Inc.; UnitedHealthcare Plan of the River Valley, Inc.
 
 **FINANCIAL INFORMATION PRIVACY NOTICE**
 
-**THIS NOTICE DESCRIBES HOW FINANCIAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**   
-Effective September 23, 2013
+**THIS NOTICE DESCRIBES HOW FINANCIAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED. PLEASE REVIEW IT CAREFULLY.**   
+Effective January 1, 2016
 
 We2 are committed to maintaining the confidentiality of your personal financial information. For the purposes of this notice, "personal financial information" means information about an enrollee or an applicant for health care coverage that identifies the individual, is not generally publicly available, and is collected from the individual or is obtained in connection with providing health care coverage to the individual.
 
 **Information We Collect**
 
-We collect personal financial information about you from the following sources:
+Depending upon the product or service you have with us, we may collect personal financial information about you from the following sources:
 
   * Information we receive from you on applications or other forms, such as name, address, age, medical information and Social Security number;
   * Information about your transactions with us, our affiliates or others, such as premium payment and claims history; and
-  * Information from consumer reports.
+  * Information from a consumer reporting agency.
 
 
 
@@ -264,16 +261,16 @@ We maintain physical, electronic and procedural safeguards, in accordance with a
 
 **Questions About this Notice**
 
-If you have any questions about this notice, please call the toll-free member phone number on the back of your health plan ID card or contact the UnitedHealth Group Customer Call Center at 800-523-5800.
+If you have any questions about this notice, please **call the toll-free member phone number on your health plan ID card** or you may contact a UnitedHealth Group Customer Call Center Representative at 1-800-523-5800 (TTY 711).
 
-2For purposes of this Financial Information Privacy Notice, "we" or "us" refers to the entities listed in footnote 1, beginning on the first page of the Health Plan Notices of Privacy Practices, plus the following UnitedHealthcare affiliates: AmeriChoice Health Services, Inc.; Dental Benefit Providers, Inc.; HealthAllies, Inc.; MAMSI Insurance Resources, LLC; Managed Physical Network, Inc.; OneNet PPO, LLC; Oxford Benefit Management, Inc.; Oxford Health Plans LLC; ProcessWorks, Inc.; Spectera, Inc.; UMR, Inc.; Unison Administrative Services, LLC; United Behavioral Health of New York I.P.A., Inc.; United HealthCare Services, Inc.; UnitedHealth Advisors, LLC; UnitedHealthcare Service LLC; UnitedHealthcare Services Company of the River Valley, Inc.; UnitedHealthOne Agency, Inc. This Financial Information Privacy Notice only applies where required by law. Specifically, it does not apply to (1) health care insurance products offered in Nevada by Health Plan of Nevada, Inc. and Sierra Health and Life Insurance Company, Inc.; or (2) other UnitedHealth Group health plans in states that provide exceptions for HIPAA covered entities or health insurance products.
+2For purposes of this Financial Information Privacy Notice, “we” or “us” refers to the entities listed in footnote 1, beginning on the sixth page of the Health Plan Notices of Privacy Practices, plus the following UnitedHealthcare affiliates: Alere Women’s and Children’s Health, LLC; AmeriChoice Health Services, Inc.; Connextions HCI, LLC; LifePrint East, Inc.; Life Print Health, Inc.; Dental Benefit Providers, Inc.; HealthAllies, Inc.; MAMSI Insurance Resources, LLC; Managed Physical Network, Inc.; OneNet PPO, LLC; OptumHealth Care Solutions, Inc.; OrthoNet, LLC; OrthoNet of the Mid-Atlantic, Inc.; OrthoNet West, LLC; OrthoNet of the South, Inc.; Oxford Benefit Management, Inc.; Oxford Health Plans LLC; Spectera, Inc.; UMR, Inc.; Unison Administrative Services, LLC; United Behavioral Health; United Behavioral Health of New York I.P.A., Inc.; United HealthCare Services, Inc.; UnitedHealth Advisors, LLC; UnitedHealthcare Service LLC; UnitedHealthcare Services Company of the River Valley, Inc.; UnitedHealthOne Agency, Inc. This Financial Information Privacy Notice only applies where required by law. Specifically, it does not apply to (1) health care insurance products offered in Nevada by Health Plan of Nevada, Inc. and Sierra Health and Life Insurance Company, Inc.; or (2) other UnitedHealth Group health plans in states that provide exceptions for HIPAA covered entities or health insurance products.
 
 **UNITEDHEALTH GROUP  
 HEALTH PLAN NOTICE OF PRIVACY PRACTICES:   
 FEDERAL AND STATE AMENDMENTS**
 
-**Revised: June 30, 2013**   
-The first part of this Notice, which provides our privacy practices for Medical Information (pages 1-6), describes how we may use and disclose your health information under federal privacy rules. There are other laws that may limit our rights to use and disclose your health information beyond what we are allowed to do under the federal privacy rules. The purpose of the charts below is to:
+**Revised: January 1, 2016**   
+The first part of this Notice, which provides our privacy practices for Medical Information (pages 1-7), describes how we may use and disclose your health information under federal privacy rules. There are other laws that may limit our rights to use and disclose your health information beyond what we are allowed to do under the federal privacy rules. The purpose of the charts below is to:
 
   1. show the categories of health information that are subject to these more restrictive laws; and
   2. give you a general summary of when we can use and disclose your health information without your consent.
@@ -298,27 +295,28 @@ We are allowed to disclose general health information only (1) under certain lim
 HMOs must give enrollees an opportunity to approve or refuse disclosures, subject to certain exceptions. | KY  
 You may be able to restrict certain electronic disclosures of health information. | NC, NV  
 We are not allowed to use health information for certain purposes. | CA, IA  
-We will not use and/or disclosure information regarding certain public assistance programs except for certain purposes | MO, NJ, SD  
+We will not use and/or disclose information regarding certain public assistance programs except for certain purposes | KY, MO, NJ, SD  
 Prescriptions  
-We are allowed to disclose prescription-related information only (1) under certain limited circumstances, and /or (2) to specific recipients. | ID, NH, NV  
+We are allowed to disclose prescription-related information only (1) under certain limited circumstances, and /or (2) to specific recipients.  | ID, NH, NV  
 Communicable Diseases  
-We are allowed to disclose communicable disease information only (1) under certain limited circumstances, and /or (2) to specific recipients. | AZ, IN, KS, MI, NV, OK  
+We are allowed to disclose communicable disease information only (1) under certain limited circumstances, and /or (2) to specific recipients.  | AZ, IN, KS, MI, NV, OK  
 Sexually Transmitted Diseases and Reproductive Health  
 We are allowed to disclose sexually transmitted disease and/or reproductive health information only (1) under certain limited circumstances and/or (2) to specific recipients. | CA, FL, IN, KS, MI, MT, NJ, NV, PR, WA, WY  
 Alcohol and Drug Abuse  
-We are allowed to use and disclose alcohol and drug abuse information (1) under certain limited circumstances, and/or disclose only (2) to specific recipients. | CT, GA, KY, IL, IN, IA, LA, MN, NC, NH, WA, WI  
+We are allowed to use and disclose alcohol and drug abuse information (1) under certain limited circumstances, and/or disclose only (2) to specific recipients. | AR, CT, GA, KY, IL, IN, IA, LA, MN, NC, NH, OH, WA, WI  
 Disclosures of alcohol and drug abuse information may be restricted by the individual who is the subject of the information. | WA  
 Genetic Information  
-We are not allowed to disclose genetic information without your written consent. | CA, CO, IL, KS, KY, LA, NY, RI, TN, WY  
-We are allowed to disclose genetic information only (1) under certain limited circumstances and/or (2) to specific recipients. | AK, AZ, FL, GA, IA, MD, MA, MO, NJ, NV, NH, NM, OR, RI, TX, UT, VT  
+We are not allowed to disclose genetic information without your written consent.  | CA, CO, KS, KY, LA, NY, RI, TN, WY  
+We are allowed to disclose genetic information only (1) under certain limited circumstances and/or (2) to specific recipients.  | AK, AZ, FL, GA, IL, IA, MD, ME, MA, MO, NJ, NV, NH, NM, OR, RI, TX, UT, VT  
 Restrictions apply to (1) the use, and/or (2) the retention of genetic information. | FL, GA, IA, LA, MD, NM, OH, UT, VA, VT  
 HIV / AIDS  
-We are allowed to disclose HIV/AIDS-related information only (1) under certain limited circumstances and/or (2) to specific recipients. | AZ, AR, CA, CT, DE, FL, GA, IA, IL, IN, KS, KY, ME, MI, MO, MT, NY, NC, NH, NM, NV, OR, PA, PR, RI, TX, VT, WV, WA, WI, WY  
+We are allowed to disclose HIV/AIDS-related information only (1) under certain limited circumstances and/or (2) to specific recipients. | AZ, AR, CA, CT, DE, FL, GA, IA, IL, IN, KS, KY, ME, MI, MO, MT, NY, NC, NH, NM, NV, OR, PA, PR, RI, TX, VT, WV, WA, WI, WY   
 Certain restrictions apply to oral disclosures of HIV/AIDS-related information. | CT, FL  
+We will collect certain HIV/AIDS-related information only with your written consent | OR  
 Mental Health  
 We are allowed to disclose mental health information only (1) under certain limited circumstances and/or (2) to specific recipients. | CA, CT, DC, IA, IL, IN, KY, MA, MI, NC, NM, PR, TN, WA, WI  
 Disclosures may be restricted by the individual who is the subject of the information. | WA  
 Certain restrictions apply to oral disclosures of mental health information. | CT  
 Certain restrictions apply to the use of mental health information. | ME  
 Child or Adult Abuse  
-We are allowed to use and disclose child and/or adult abuse information only (1) under certain limited circumstances, and/or disclose only (2) to specific recipients. | AL, CO, IL, LA, NE, NJ, NM, RI, TN, TX, UT, WI
+We are allowed to use and disclose child and/or adult abuse information only (1) under certain limited circumstances, and/or disclose only (2) to specific recipients. | AL, CO, IL, LA, MD, NE, NJ, NM, NY, RI, TN, TX, UT, WI
