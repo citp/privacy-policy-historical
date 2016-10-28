@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dwtricks.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630174334id_/http%3A//dwtricks.com/any-of-information-we-collect-you-may) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwtricks.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028204359id_/http%3A//www.dwtricks.com/any-of-information-we-collect-you-may) for the most accurate reproduction.*
 
-# PRIVACY POLICY -
+# Privacy -
 
 Any of the information we collect from you may be used in one of the following ways:
 
