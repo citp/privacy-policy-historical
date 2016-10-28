@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airsquirrels.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314151413id_/https%3A//store.airsquirrels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsquirrels.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028113500id_/https%3A//store.airsquirrels.com/privacy-policy) for the most accurate reproduction.*
 
 # Squirrels Store - Apps to go nuts for.
 
@@ -13,7 +13,7 @@ Information We Collect Automatically When You Use the Services:
 When you access or use our services, we automatically collect information about you, including:
 
   * Log Information: We log information about your use of our services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our services.
-  * Device Information: We collect information about the device you use to access our services, including the hardware model, and operating system and version.
+  * Device Information: We collect information about the device you use to access our services, including the hardware model, and operating system and version. 
 
 
 
@@ -22,7 +22,7 @@ We use various technologies to collect information, and this may include sending
 
 **USE OF INFORMATION**
 
-We do not use your information for serving ads. We use information about you for various purposes, including:
+We use information about you for various purposes, including:
 
   * Providing, maintaining and improving our services, providing services you request, process transactions and to send you related information, including confirmations and invoices
   * Send you technical notices, updates, security alerts and support and administrative messages
