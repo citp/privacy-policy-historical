@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getappsonline.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627114217id_/http%3A//www.getappsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getappsonline.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028160553id_/http%3A//www.getappsonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - getAppsOnline
 
@@ -50,4 +50,4 @@ We may update this privacy statement to reflect changes in our information pract
 
 ## Contact Information
 
-You can contact us about this privacy statement by emailing us at: support@getappsonline.com
+You can contact us about this privacy statement by emailing us at: getappsonline@yahoo.com
