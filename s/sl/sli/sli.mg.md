@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sli.mg privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604054411id_/https%3A//sli.mg/public/privacy%3Fv%3D1.1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sli.mg privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028033943id_/https%3A//sli.mg/public/privacy%3Fv%3D1.1) for the most accurate reproduction.*
 
 # sli.mg - 1.1 Privacy Policy
 
