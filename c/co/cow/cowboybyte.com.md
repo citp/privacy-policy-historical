@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cowboybyte.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213180419id_/http%3A//cowboybyte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cowboybyte.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028031459id_/http%3A//patriottribune.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms & Conditions - CowboyByte
+# Privacy Policy / Terms & Conditions - Patriot Tribune
 
-At CowboyByte.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the CowboyByte.com website (“Site”). This privacy policy applies to the Site and all products and services offered by CowboyByte.com.
+At PatriotTribune.com, the privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the PatriotTribune.com website (“Site”). This privacy policy applies to the Site and all products and services offered by PatriotTribune.com.
 
-Cowboybyte.com prohibits unsolicited messages. If you want to receive Patriot Update emails you will need to optin in and confirm your email address.
+PatriotTribune.com prohibits unsolicited messages. If you want to receive Patriot Update emails you will need to optin in and confirm your email address.
 
 **Personal identification information**
 
@@ -24,7 +24,7 @@ We, or a data provider we have engaged, may place or recognize a unique cookie o
 
 **How we use collected information**
 
-CowboyByte.com collects and uses Users’ personal information for the following purposes:
+PatriotTribune.com collects and uses Users’ personal information for the following purposes:
 
   * To improve customer service  
 Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -62,7 +62,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-CowboyByte.com has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+PatriotTribune.com has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
