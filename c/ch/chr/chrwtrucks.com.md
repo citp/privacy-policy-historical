@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513084910id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028185935id_/https%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
 
 # Global Privacy Policy - C.H. Robinson
 
@@ -147,7 +147,7 @@ Our Web Sites may provide links to other sites for your convenience and informat
 
 ### Use of Navisphere® Carrier Mobile Application
 
-The provisions and disclosures in this paragraph pertain solely to the use of our Navisphere® Carrier Mobile Application within North America. In addition to the processes and policies set forth in this Global Privacy Policy, the Navisphere® Carrier Mobile Application also utilizes Google Analytics to collect and process data related to use of the Navisphere® Carrier Mobile Application, including but not limited to storing cookies and your IP address. C.H. Robinson is required to share the information collected through Google Analytics with Google. For a more thorough description of Google’s use of data collected through the Beta Mobile App and the restrictions it follows with regard to privacy concerns related to such data, please see the Google Analytics policy regarding privacy and its partners’ apps located at [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20160513084910id_/https://www.chrobinson.com/en/us/privacy-policy/www.google.com/policies/privacy/partners/). 
+The provisions and disclosures in this paragraph pertain solely to the use of our Navisphere® Carrier Mobile Application within North America. In addition to the processes and policies set forth in this Global Privacy Policy, the Navisphere® Carrier Mobile Application also utilizes Google Analytics to collect and process data related to use of the Navisphere® Carrier Mobile Application, including but not limited to storing cookies and your IP address. C.H. Robinson is required to share the information collected through Google Analytics with Google. For a more thorough description of Google’s use of data collected through the Beta Mobile App and the restrictions it follows with regard to privacy concerns related to such data, please see the Google Analytics policy regarding privacy and its partners’ apps located at [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20161028185935id_/https://www.chrobinson.com/en/us/Privacy-Policy/www.google.com/policies/privacy/partners/). 
 
 ### Updates to Our Global Privacy Policy
 
