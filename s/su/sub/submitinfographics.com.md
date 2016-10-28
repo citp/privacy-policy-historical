@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the submitinfographics.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416215222id_/http%3A//submitinfographics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitinfographics.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028210200id_/http%3A//submitinfographics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Submit Infographics
+# Privacy Policy – Submit Infographics
 
 Your privacy is very important to us. We designed our Privacy Policy (the “Policy”) to make important disclosures about how you can use the Site to purchase and download customizable infographic content.  We encourage you to read the Policy, and to use it to help you make informed decisions.  This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Terms of Use Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
 
