@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locateadegree.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902022642id_/http%3A//www.locateadegree.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadegree.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029014543id_/http%3A//www.locateadegree.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to Learn to Earn
 
