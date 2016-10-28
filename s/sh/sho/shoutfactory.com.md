@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314154513id_/https%3A//www.shoutfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028061746id_/https%3A//www.shoutfactory.com/privacy-policy) for the most accurate reproduction.*
 
-# Shout! Factory - Privacy Policy
+# Privacy Policy | Shout! Factory
 
 ### Introduction
 
