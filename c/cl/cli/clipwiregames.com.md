@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clipwiregames.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416041427id_/http%3A//www.clipwiregames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipwiregames.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029175651id_/http%3A//www.clipwiregames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Clipwire Games
 
-This policy governs the method in which this game ("Redshift") collects stores and manages data related to the users of this game. This includes personal, demographic and technical information; including IP addresses and access logs.
+This policy governs the method in which this website and all of Clipwire Games products collects, stores and manages data related to the users of all websites and games. This includes personal, demographic and technical information; including IP addresses and access logs.
 
   
  **What we gather**  
