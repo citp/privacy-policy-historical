@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512224013id_/https%3A//www.nationalnotary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029032713id_/https%3A//www.nationalnotary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NNA
 
-(Last updated: April 2016)
+(Last updated: October 2016)
 
 The National Notary Association (NNA) is committed to protecting your privacy. This NNA Privacy Statement governs the data collection and usage within the NNA family of Web sites: NationalNotary.org, SigningAgent.com, NNAcnap.org and any other domain under the ownership or control of the NNA (the “NNA family of Web sites”). By visiting these Web sites, you consent to the practices set forth in this Privacy Statement. Please take a moment to review the sections below.
 
@@ -60,13 +60,15 @@ Some areas and content on our website may require you to register with us or log
 
 ### Control of Your Personal Information
 
-As an NNA member, you may log in to the NNA Community and select My NNA to view and/or edit your personal information at any time. Please keep in mind that changing your address after an order has been placed will not change the shipping address for the order. To make a change to a shipping address after placing an order, you will need to contact customer service at 1-800-876-6827.
+As a Customer or NNA member, you may log in to the NNA Community and select My NNA to view and/or edit your personal information at any time. Please keep in mind that changing your address after an order has been placed will not change the shipping address for the order. To make a change to a shipping address after placing an order, you will need to contact customer service at 1-800-876-6827.
 
 As a Signing Agent, you may log in to My NNA and select Update Your Profile to view and/or edit your personal information within your listing on SigningAgent.com. All personal information included within your SigningAgent.com listing is considered “public” and is viewable by registered companies searching the SigningAgent.com Directory. The NNA urges you to be careful only to enter information on your SigningAgent.com listing that you are comfortable sharing with registered SigningAgent.com companies.
 
 In each case described above, you will be asked to make your requests while logged into a secure area, so that the NNA can associate your preferences with a particular account.
 
 As part of your NNA membership, you may receive periodic emails informing you of technical service issues, product surveys, featured news articles and news about NNA products and services. These emails provide an option for you to unsubscribe to future mailings.
+
+In the event that the Customer or NNA Member is denied access to this information for any reason, please contact our Customer Care department to resolve this access issue and/or to look up a user ID or reset a password to gain access.  Password resets can be performed online on a self-serve basis as well.
 
 ### California Privacy Rights
 
