@@ -1,63 +1,100 @@
-> *The following text is extracted and transformed from the computersight.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231033247id_/http%3A//computersight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computersight.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy | Computersight
+# Legal Agreement
 
-1\. General .
+**GoDaddy Respects Your Privacy**
 
-a. Computersight regards the privacy of your personal information very seriously. This Privacy Policy describes the manner in which Computersight treats and uses personal information that Computersight will receive and collect from you.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-b. Personal information refers to information about you that is personally identifiable, as further detailed herein, that is provided by you and which is not otherwise publicly available.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-c. Please review the ter ms of this Privacy Policy carefully. By accepting the Privacy Policy and the Computersight Standard Ter ms of Use you shall be deemed to have expressly consented to the use of your personal information in the manner described herein.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-d. This policy may be revised by Computersight from time to time, and at any time. Any material changes will be effective only after Computersight will provide prior notice of the amended Privacy Policy at least 10 days in advance. Notice of the amended Privacy Policy may be given by general notice on the Web-Site ( http://www.computersight.com ) (the “ Site ”) or by e-mail. Any amended Privacy Policy will be clearly posted on the Site. If such changes will result in the use or disclosure of your personal information in a manner materially different from that stated at the time Computersight collected the information, you will have choice whether or nor Computersight shall use or disclose your information in accordance with the amended Privacy Policy. Notice of your choice not to disclose your information is to be delivered in the manner instructed on the Site.
+**Information Collection and Use**
 
-e. This Privacy Policy applies to the practices of Computersight and its affiliates only. Other Web-Sites to which the Site is linked may be governed by their own privacy policies and statements, and Computersight is not and shall not be responsible for their operation, including but not limited to their information practices. Submission of information to or through these third party Web-Sites should be made by you after reviewing the privacy policies and statements of these sites.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-2\. Information Collected .
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-a. Computersight collects personal information when you register with Computersight for the purpose of receiving Computersight’s newsletters.. Computersight may also collect personal information and/or install a “cookie” on your personal computer when you use, access or logon other products or services provided by Computersight, when you visit pages of certain partners of Computersight, and when you enter certain links or other promotional features on the Site.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-b. Personal information which we will collect shall include information such as (but not limited to) your full name, email/IP address, and any such other general information Computersight may request.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-c. The information collected by Computersight is used primarily for the delivery of Computersight newsletters, but may be used for other general purposes, such as trying to understand user preferences; customize promotional and advertising content users see;; improve services provided; contact users
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-d. Computersight may offer, from time to time, optional questionnaires, surveys and user services correspondences for the purpose of collecting information assessing users’ interests and needs (“Informative Data Requests”). Any use of any personal information collected in such Informative Date Requests shall be explained in advance and in detail.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-3\. Use and Disclosure of Information .
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-a. Computersight collects, stores and processes your personal information on serves located in San Francisco, CA, USA. Computersight shall use your personal information for such purposes stated above in Section 2(e);
+**Security**
 
-b. Unless otherwise expressly provided herein Computersight will not sell, lease or otherwise share or provide your personal information to any third parties, without your express permission. Notwithstanding the above, there may be certain circu ms tances in which some of your personal information will be shared with third parties, under strict restrictions, as further provided in this Privacy Policy.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-c. Computersight may disclose personal information collected as provided herein:
+**Updating Your Information**
 
-(1) Computersight shall disclose information that it, in good faith, believes is appropriate to cooperate in investigations of suspected fraud or other illegal activity, situations involving potential threat to the physical safety of any person, or to conduct investigations of violation of its Publishing Agreement; or any such similar information.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-(2) Computersight shall disclose information in response to a subpoena, warrant, court order, levy, attachment, or any comparable or applicable process; or otherwise to establish or exercise Computersight’s legal rights or to defend against legal clai ms .
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-(3) Computersight may share information with or disclose information to its employees, officers, directors, consultants, advisors, subsidiaries, affiliates, business partners, joint ventures, provided such disclosure is on a need-to-know basis, and subject to confidentiality provisions.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-(4) Computersight may share aggregated statistic data provided such information is not connected with personally identifiable data.
+      iii.      You may call us at: (480) 505-8800
 
-(5) In the event that v is merged with or acquired by another entity, the successor entity will have access to the information maintained by Computersight. In such case the successor entity shall continue to be bound by the provisions of this Privacy Policy, unless and until amended in accordance with the provisions in this Privacy Policy.
+       iv.      You may fax us at: (480) 505-8844
 
-(6) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+**Sending Emails**
 
-4\. Communications .
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-a. Computersight will generally communicate with its users via email. Computersight further reserves the right to use your email address to send you other communications, such as periodic newsletters, user questionnaires and surveys, and any other communications.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-b. You will be able to choose whether to receive these communications, in whole or in part, upon completing a standard registration form, or at any time thereafter, by changing your preferences as instructed on the Site.
+**Compliance with Laws and Law Enforcement**
 
-5\. Changing your Information .
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-You can review the personal information you have provided us and make any desired changes to such information including deleting information, at any time, by changing the preferences and information as instructed on the Site.
+**Third Party Service Providers**
 
-6\. Security .
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Computersight is committed to handling your personal information with the highest standards of security information. Computersight shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-7\. Contact .
+**Supplementation of Information**
 
-If you have any questions about this Privacy Policy or your dealings with Computersight, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@computersight.com .
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
