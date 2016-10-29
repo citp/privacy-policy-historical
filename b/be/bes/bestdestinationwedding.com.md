@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdestinationwedding.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630012051id_/http%3A//www.bestdestinationwedding.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdestinationwedding.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030014323id_/http%3A//www.bestdestinationwedding.com/privacypolicy) for the most accurate reproduction.*
 
 # Terms & Privacy - Best Destination Wedding
 
