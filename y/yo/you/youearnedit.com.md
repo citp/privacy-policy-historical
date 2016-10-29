@@ -1,11 +1,149 @@
-> *The following text is extracted and transformed from the youearnedit.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402231935id_/http%3A//youearnedit.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youearnedit.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029145800id_/http%3A//youearnedit.com/privacy) for the most accurate reproduction.*
 
-# youearnedit.com
+# Privacy Policy | YouEarnedIt.com - Reward & Recognize Your Team
 
-Privacy Policy
+#### **YouEarnedIt(TM) Privacy Policy Statement**
 
-SmartName.com (or NameMedia) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties.
+**Last Updated: September 1, 2016**
 
-SmartName.com (or NameMedia) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind.
+YouEarnedIt, Inc., a Delaware corporation (“YEI,” “our,” “us,” or “we”) respects your privacy. In that regard, we have created this Privacy Policy Statement to let you know what information we collect when you use our proprietary service (the “Service”) through your company, whether through the www.YouEarnedIt.com website or any sub-domain name available to one of our customers as an employee or independent contractor of such customer (collectively, the “Website”), our smart phone applications (each an “Application”) or such other features, websites or applications offered from time to time, why we collect it, and how it is used. By using the Service, you consent to the practices described in this Privacy Policy Statement. This Privacy Policy Statement includes YEI’s Website Privacy Policy Statement, EU-US Privacy Shield Privacy Policy Statement and US-Swiss Safe Harbor Privacy Policy Statement.
 
-SmartName.com (or NameMedia) or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+#### **I. Website Privacy Statement**
+
+**A). What information does YEI collect?**
+
+In general, YEI collects information about you for services administration. Our services are not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from children.
+
+**YEI specifically collects information, which includes:**
+
+Personal Information. “Personal Information” means any information that may be used to identify an individual, including, but not limited to, first and last name, shipping address, email address and YEI password age and credit card or other payment information that you choose to provide to YEI. We may ask you to provide Personal Information that will enable us to enhance your use of the Service, or for purposes such as facilitating correspondence with you or your company, registering your entitlement to access certain special features, or to complete transactions. We also collect information on the pages you access and other information you may volunteer, such as survey information. It is always your choice whether or not to provide that Personal Information to us and this is not a requirement for the use of the Service.
+
+Technical Information. We may collect and use technical data and related information—including but not limited to technical information about your device, system and application software, peripherals and your interactions with the Service—that is gathered periodically to facilitate the provision of software updates, product support, product enhancements and other services to you (if any) related to the Service. We may also automatically receive and record information on our server logs from your browser or mobile device, which could include your IP address, cookie information, browser information and the page you request. We may also collect user location information, as further described in the “Global Positioning System” paragraph below.
+
+YEI may be aggregate such information and use it to enhance the Service to you. Note that Technical Information may be considered Personal Information in some jurisdictions.
+
+With respect to cookies, the Website and Applications use cookies to provide enhanced functionality (e.g., user ID and password prompts, and conference registration) and aggregate traffic data (e.g., what pages are the most popular). You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.
+
+We may use standard Internet technology, such as web beacons and other similar technologies, to track your use on our sites and software. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our users to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+
+This Website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the Website analyze how users use the site. The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for website operators and providing other services relating to Website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+**B). How does YEI use this Information?**
+
+Except as otherwise set forth herein or in our Basic User Terms, Personal Information, Technical Information (collectively, “Information”) that you provide or that we collect will be kept confidential and used to support your use of the Service.
+
+YEI may use your Information, as long as it is in a form that does not personally identify you, to improve market or promote the Service and your company’s YEI-enabled reward program.
+
+You own all right, title, and interest in and to any data that we collect from you via your use of and interaction with the Service (“Data”). You also grant YEI a perpetual, non-exclusive, transferable, sublicensable, royalty free license to use such Data in order to collect, develop, create, extract or otherwise generate statistics and other information and to otherwise compile, synthesize and analyze such Data (“Blind Data”). Notwithstanding anything herein to the contrary, to the extent that YEI collects or generates Blind Data, such Blind Data will be owned solely by YEI and may be used for any lawful business purpose without a duty of accounting to you or your company, provided that such data is not personally identifiable and does not identify the source of such data. You agree and acknowledge that post termination or expiration of the period of Service, you may not have access to the Data.
+
+**C). Our Sharing of Information to Third Parties**
+
+Except as set forth herein and for certain Information that YEI provides to your company, YEI does not rent, sell or share Information with or to third parties, and Information is only used to provide you with YEI products and services and to comply with any requirements of law. Agents, technology vendors and/or contractors of YEI may have access to your Information on a need to know
+
+Agents, technology vendors and/or contractors of YEI may have access to your Information on a need to know basis for the purpose of performing services on behalf of YEI or providing or enabling elements of the Service. All such agents or contractors who have access to such information are required to keep the Information confidential and not use it for any other purpose than to carry out the services they are performing for YEI or as otherwise required by law.
+
+YEI or its agents or contractors may disclose Information (A) if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process; (2) address disputes, claims or to protect and defend the rights or property of YEI or its agents or contractors; or (3) to address emergencies or acts of God or to act in urgent circumstances to protect the personal safety of users of the Service or the public or (B) to any other third party with your prior consent to do so.
+
+Global Positioning System (GPS) tracking technology may need to be enabled in our products and services in order to determine the location (latitude and longitude) of users of our products and services. This information is transmitted to YEI, our users, and temporarily stored by us. We do not provide this information to any other third party. This information is used in conjunction with YEI’s applications.
+
+If YEI should ever merge with another organization, file for bankruptcy, or sell our assets or capital stock, we may transfer the Information to a third party or share the Information to the company or its agents with which we enter into such transaction as a part of such transaction.
+
+**D). Our Security Measures to Protect Your Information**
+
+We maintain physical, technical, and administrative safeguards designed to protect the Information from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access.
+
+Despite the actions and precautions we take, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of the Information and you acknowledge and agree that you transmit it to us at your own risk.
+
+Please keep in mind that whenever you voluntarily disclose Information on our message boards or other public forums or features or through e-mail or group messaging, or voluntarily utilize features of the Service that inherently share Information, that Information can be collected and used by others, including your company. In short, by posting Information online that is publicly accessible (i.e. within message boards and the like), you may receive unsolicited messages from other parties in return or make others aware of your location. We are not responsible for the security or privacy of any Information you choose to submit in connection with these public features.
+
+You acknowledge that certain information or content that you provide in connection with the Service may inherently allow or help third parties to personally identify or locate you.
+
+Information Retention: We will retain your Information only for as long as is necessary to fulfil the business purpose it was collected, for example, for as long as your account is active or as needed to provide you with our Service. We will also retain and use your Information for as long as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**E). Inapplicability of this Privacy Statement to Third-Party Websites, Services and Technologies**
+
+This Privacy Statement only applies to does not YEI’s use and disclosure of your Information. We may provide links to third-party websites on the Website or in other communications to you. Such links may appear as a specific domain name or URL or may be activated by clicking on an advertisement or other icon or graphic. Please be aware that other websites and services, including the websites of third parties that you connect with through the Service, may collect personally identifiable information about you. This Privacy Statement does not cover the information practices of those third-party websites, services or applications and cannot control and are not responsible for the information collection practices of any such websites, services or applications. We encourage you to carefully review the terms of use, privacy policies, and any other legal notifications on such websites before using or providing information through such websites, services or applications. Further, our Service may employ third party technologies that require you to accept such third party’s terms. This Privacy Statement does not cover the information practices of those third-party technologies.
+
+Also, many other sites that are not associated or authorized by YEI may have links leading to our Website. We cannot control these links, and therefore, we are not responsible for any content appearing on these sites.
+
+**F). International Transfers of Information**
+
+Information collected from you may be stored and processed in the United States or any other country in which YEI or its affiliates, subsidiaries, agents or contractors maintain facilities, and by using the Service, you consent to any such transfer of information outside of your country.
+
+**G). Your Consent to this Privacy Statement, Changes to this Privacy Statement**
+
+By using the Service, you agree to this Privacy Statement. This is our entire and exclusive Privacy Statement and it supersedes any earlier version.
+
+We may change this Privacy Statement by posting a new version of this Privacy Statement on the Website or through the Service, and it is your responsibility to review this Statement periodically. When we do change the Statement, we will also revise the “last updated” date at the Privacy Statement and may notify you or post a message via the Application, on the Website and/or through the Service. Your continued use of the Service constitutes your agreement to the current version of the Privacy Statement. Statement
+
+**H). Your Access to and Updating of Information**
+
+Reasonable access to your Information may be provided at no cost to you upon request made to YEI at the contact information provided below. If access cannot be provided within that time frame, YEI will provide the requesting party a date when the Information will be provided. If for some reason access is denied, YEI will provide an explanation as to why access has been denied.
+
+**I). Contacting YEI**
+
+For questions, complaints, or comments regarding this Privacy Statement, please contact our Chief Technology Officer at support@YouEarnedIt.com. Our Website provides you the opportunity to opt-out of receiving communications from us. To opt-out of receiving our communications, you can (i) send email to support@YouEarnedIt.com; or (ii) send postal mail to: YouEarnedIt, Inc., 206 East 9th Street Floor 18, Austin, TX 78701.
+
+#### **II. EU-US Privacy Shield Privacy Policy Statement**
+
+YouEarnedIt, Inc. (“YEI”) complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. YEI has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
+
+This Privacy Statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This Privacy Statement applies to all personal information received by YEI whether in electronic, paper or verbal format.
+
+**A). Definitions**
+
+“Personal Data” means information that (1) is trans­ferred from the EU to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
+
+“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosoph­ical beliefs, trade union membership or that concerns an individual’s health.
+
+**B). Principles**
+
+Notice. YEI shall inform an individual of the purpose for which it collects and uses the Personal Data and the types of non-agent third parties to which YEI discloses or may disclose that Personal Data. YEI shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to YEI, or as soon as practicable thereafter, and in any event before YEI uses or discloses the Personal Data for a purpose other than for which it was originally collected. YEI may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+YEI may collect your first and last name, shipping address, email address and YEI password, age, and credit card or other payment information that you choose to provide to YEI. We may ask you to provide Personal Information that will enable us to enhance your use of the Service, or for purposes such as facilitating correspondence with you or your company, registering your entitlement to access certain special features, or to complete transactions. We also collect information on the pages you access and other information you may volunteer, such as survey information. It is always your choice whether or not to provide that Personal Information to us and this is not a requirement for the use of the Service. Choice. YEI will offer individuals the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For Sensitive Personal Information, YEI will give individuals the opportunity to affirmatively or explicitly (opt out) consent to the disclosure of the informa­tion for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. YEI shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.
+
+Agents, technology vendors and/or contractors of YEI may have access to your Personal Data on a need to know basis for the purpose of performing services on behalf of YEI or providing or enabling elements of the Service. All such agents or contractors who have access to such information are required to keep the Information confidential and not use it for any other purpose than to carry out the services they are performing for YEI or as otherwise required by law.
+
+Accountability for Onward Transfer. Prior to disclosing Personal Data to a third party, YEI shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. YEI shall ensure that any third party for which Personal Data may be disclosed subscribes to the Principles or are subject to law providing the same level of privacy protection as is required by the Principles and agree in writing to provide an adequate level of privacy protection. YEI may be held responsible in cases of onward transfers to third parties. Data Security. YEI shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. YEI has put in place appropriate physical, electronic and manage­rial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. YEI cannot guarantee the security of Personal Data on or transmitted via the Internet.
+
+Data Security. YEI shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. YEI has put in place appropriate physical, electronic and manage­rial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. YEI cannot guarantee the security of Personal Data on or transmitted via the Internet.
+
+Data Integrity and Purpose Limitation. YEI shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, YEI shall take reasonable steps to ensure that Personal Data is accurate, com­plete, current and reliable for its intended use.
+
+Access and Recourse. YEI shall allow an individual access to their Personal Data and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.
+
+Enforcement and Liability. In compliance with the EU-US Privacy Shield Principles, YEI commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact at:
+
+YouEarnedIt, Inc.
+
+Chief Technology Officer
+
+206 East 9th Street Floor 18 Austin, Texas 78701
+
+USA E-mail: support@YouEarnedIt.com
+
+YEI has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+
+Under certain limited conditions, individuals may invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission. The Federal Trade Commission has jurisdiction over YEI’s compliance with the EU-US Privacy Shield.
+
+**C). Amendments**
+
+This Privacy Statement may be amended from time to time consistent with the requirements of the EU-US Privacy Shield. We will post any revised policy on this website.
+
+**III. US – Swiss Safe Harbor Privacy Policy Statement**
+
+YEI complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. YEI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/
+
+In compliance with the US-Swiss Safe Harbor Principles, YEI commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact YEI at:
+
+YouEarnedIt, Inc.
+
+Chief Technology Officer
+
+206 East 9th Street Floor 18 Austin, Texas 78701
+
+USA E-mail: support@YouEarnedIt.com
+
+YEI has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+This Privacy Statement may be amended from time to time consistent with the requirements of the US-Swiss Safe Harbor. We will post any revised policy on this website.
