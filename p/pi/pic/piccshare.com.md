@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piccshare.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520065755id_/http%3A//piccshare.com/application/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccshare.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029234246id_/http%3A//piccshare.com/application/page/privacy) for the most accurate reproduction.*
 
 # PiccShare - Privacy Policy
 
