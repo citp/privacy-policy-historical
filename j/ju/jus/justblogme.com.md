@@ -1,57 +1,100 @@
-> *The following text is extracted and transformed from the justblogme.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230092108id_/http%3A//www.maddhattentertainment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justblogme.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# MaDD HaTT Entertainments' privacy policy
+# Legal Agreement
 
-If you have questions or concerns regarding this statement, you should first contact Angella Burchell, Senior Marketing Manager, via email at [support@maddhattentertainment.com](mailto:support@maddhattentertainment.com). 
+**GoDaddy Respects Your Privacy**
 
-MaDD HaTT Entertainment™ Incorporated ("MaDD HaTT Entertainment") has the following Privacy Policy with respect to information gathered on Web pages hosted by MaDD HaTT Entertainment ("Service Pages"). Such information is received by both MaDD HaTT Entertainment and the Partner through which MaDD HaTT Entertainment provides our services to you. You should contact the Partner to determine the privacy policy, if any, that applies to Partner's collection and use of such information. However, in no event shall MaDD HaTT Entertainment be liable for Partner's use or disclosure of such information.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The terms "we" and "us" refer to MaDD HaTT Entertainment.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The Information We Collect
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-This notice applies to all information collected on the MaDD HaTT Entertainment Web site or submitted to MaDD HaTT Entertainment at any time through any Service Pages.
+**Information Collection and Use**
 
-Personally Identifiable Information—When visiting MaDD HaTT Entertainment's or any Partner's Web site and signing up for or using MaDD HaTT Entertainment services through any Service Page, you may choose to supply MaDD HaTT Entertainment with information that identifies you personally. For End-Users, this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. We collect prospect information, which may include name and contact information of individual(s) you think would be interested in our services. For Partners, this information may include your name and contact information, your Web site information (name, URL, visitors per day, page views per month, description, categorization), payment information (check payee, SSN/Tax ID, bank information), and user comments.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Aggregate Information—We collect non-identifying and aggregate information to better design our Web site and services, and share the aggregate data with advertisers and other third parties.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Each of MaDD HaTT Entertainment's Partners has access to information specific to their site only. Each Partner will determine what it will do with the collected information; however, each Partner has individually agreed to abide by this Privacy Policy and the MaDD HaTT Entertainment End-User Agreement.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Collection of Personal Information from Children under Thirteen
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-MaDD HaTT Entertainment does not allow children known to be under the age of thirteen (13) to register for our services. We may momentarily capture personally identifiable information for purposes of determining whether a user is over the age of thirteen (13), and thus qualifies to use our services. Where the user is under the age of thirteen (13), such information is automatically deleted.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-The Way We Use Information
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include administering a service, such as email, search, community, advertising sales, ecommerce; completing an order; shipping a product; replying to support requests; or contacting you if you have granted us permission to do so. We do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Partners and End-Users.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-From time to time, we also use the information you provide about yourself or others to inform you of additions or improvements to the MaDD HaTT Entertainment services. When supplying name and contact information to MaDD HaTT Entertainment, you can indicate your preference to receive or not receive information and updates about Partner's services or special offers from other companies through our registration processes.
+**Security**
 
-We may also use personally identifiable End-User information to provide targeted content and commerce opportunities to End-Users based on their demographic and behavioral information.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
+**Updating Your Information**
 
-Our Commitment to Data Security
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We use SSL (Secure Socket Layer) encryption to secure personal identification. In addition, personnel who have access to our database are trained to maintain and secure all information 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-How You Can Access or Update Your Information
+      iii.      You may call us at: (480) 505-8800
 
-Partners can access your personally identifiable information that MaDD HaTT Entertainment collects online and maintains by logging in to your password-protected (SSL encrypted) Control Center account at http://www.maddhattentertainment.com and selecting "Edit My Profile." End-Users can access your information by logging in to your password-protected End-User account and selecting to update your "Personal Info." You can also correct factual errors in your personally identifiable information by sending us a request that credibly documents and explains the error.
+       iv.      You may fax us at: (480) 505-8844
 
-If you have submitted information on our site but do not currently have an account with us, you can access and correct the information that we collect and maintain by contacting us.
+**Sending Emails**
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-How to Contact Us
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Should you have other questions or concerns about this privacy policy, please contact us by email ([support@maddhattentertainment.com](mailto:support@maddhattentertainment.com)) .
+**Compliance with Laws and Law Enforcement**
 
-Email, Search, and Community Specific Terms and Conditions
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-MaDD HaTT Entertainment considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit, or disclose the contents of your private communications, except for reasons provided for in the End-User Agreement.
+**Third Party Service Providers**
 
-Content posted to public community areas is publicly available and MaDD HaTT Entertainment reserves the right to remove any publicly posted content that is objectionable.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
