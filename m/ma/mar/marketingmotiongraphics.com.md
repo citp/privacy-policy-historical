@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmotiongraphics.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110154828id_/http%3A//www.marketingmotiongraphics.com/Privacy-Policy_ep_46-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmotiongraphics.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029175709id_/http%3A//marketingmotiongraphics.com/Privacy-Policy_ep_46-1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
