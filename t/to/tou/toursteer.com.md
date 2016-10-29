@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toursteer.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407032913id_/http%3A//toursteer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toursteer.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029110117id_/http%3A//toursteer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toursteer.com
 
