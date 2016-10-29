@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justcauseit.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301185950id_/http%3A//justcauseit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justcauseit.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029081440id_/http%3A//justcauseit.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | JUST CAUSE (beta)
 
-JUST CAUSE is committed to protecting the private information that our users give us. This privacy policy explains what personal information is collected, when and how it is used, disclosed and protected with respect to our web site located at [www.justcauseit.com](http://www.justcauseit.com/ "Linkification: http://www.justcauseit.com") (the "Site"). By using the Site, you accept the policy, even as modified by us periodically. Please carefully review this policy so you understand our data privacy practices. 
+JUST CAUSE is committed to protecting the private information that our users give us. This privacy policy explains what personal information is collected, when and how it is used, disclosed and protected with respect to our web site located at [www.justcauseit.com](https://web.archive.org/web/20161029081440id_/http%3A//justcauseit.com/ "Linkification: http://www.justcauseit.com") (the "Site"). By using the Site, you accept the policy, even as modified by us periodically. Please carefully review this policy so you understand our data privacy practices. 
 
 ## What is Personal Information?  
 
