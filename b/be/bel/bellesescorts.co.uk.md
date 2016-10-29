@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellesescorts.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174459id_/http%3A//www.bellesescorts.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellesescorts.co.uk privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029054821id_/http%3A//www.bellesescorts.co.uk/privacy.html) for the most accurate reproduction.*
 
 # 
 
