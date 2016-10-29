@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the euronaming.com privacy policy that was archived on 2016-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160404232228id_/http%3A//www.euronaming.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the euronaming.com privacy policy that was archived on 2016-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161029152859id_/http%3A//www.euronaming.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,9 +9,10 @@
 <script type="text/javascript" src="/assets/js/jquery.min.js"></script>
 <link href="templates/FastHosting/css/bootstrap.css" rel="stylesheet">
 <link href="templates/FastHosting/css/whmcs.css" rel="stylesheet">
-<link rel="shortcut icon" type="image/x-icon" href="https://www.euronaming.eu/favicon.png">
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.euronaming.eu/favicon.png">
 <script src="templates/FastHosting/js/whmcs.js"></script>
-
+    
 <!--WHMCS SEO Module RSS FEEDS-->
 <link rel="alternate" type="application/rss+xml" title="EuroNaming LLC Products Feed" href="index.php?m=whmcs_seo&amp;feed=products">
 <link rel="alternate" type="application/rss+xml" title="EuroNaming LLC Knowledgebase Feed" href="index.php?m=whmcs_seo&amp;feed=knowledgebase">
@@ -103,7 +104,7 @@
 			<div class="drop_container">
 	<div class="top">
 	<form id="euronavWhoisForm" action="domainchecker.php" method="post">
-<input type="hidden" name="token" value="cf560951ac73be92efbc777da865a6fe89d0755c">
+<input type="hidden" name="token" value="070683ea333c4865e749a262e2dea6c4a297944a">
 							<ul>
 								 <input type="hidden" name="direct" value="true">
 									<li><input class="searchdomain" type="text" name="domain" value="Find Your Domain" onfocus="javascript: this.value = &quot;&quot;" onblur="javascript: if(this.value ==&quot;&quot;) this.value = &quot;Find Your Domain&quot;"></li>
@@ -267,7 +268,7 @@ judgment, we are obligated to do so under applicable laws.</p>
 
 
 <div align="right"><form method="post" action="/privacy.php" name="languagefrm" id="languagefrm">
-<input type="hidden" name="token" value="cf560951ac73be92efbc777da865a6fe89d0755c"><strong>Language:</strong> <select name="language" onchange="languagefrm.submit()"><option>Arabic</option><option>Azerbaijani</option><option>Catalan</option><option>Croatian</option><option>Czech</option><option>Danish</option><option>Dutch</option><option selected="selected">English</option><option>Estonian</option><option>Farsi</option><option>French</option><option>German</option><option>Hebrew</option><option>Hungarian</option><option>Italian</option><option>Norwegian</option><option>Portuguese-br</option><option>Portuguese-pt</option><option>Romanian</option><option>Russian</option><option>Spanish</option><option>Swedish</option><option>Turkish</option><option>Ukranian</option></select></form></div>
+<input type="hidden" name="token" value="070683ea333c4865e749a262e2dea6c4a297944a"><strong>Language:</strong> <select name="language" onchange="languagefrm.submit()"><option>Arabic</option><option>Azerbaijani</option><option>Catalan</option><option>Chinese</option><option>Croatian</option><option>Czech</option><option>Danish</option><option>Dutch</option><option selected="selected">English</option><option>Estonian</option><option>Farsi</option><option>French</option><option>German</option><option>Hebrew</option><option>Hungarian</option><option>Italian</option><option>Macedonian</option><option>Norwegian</option><option>Portuguese-br</option><option>Portuguese-pt</option><option>Romanian</option><option>Russian</option><option>Spanish</option><option>Swedish</option><option>Turkish</option><option>Ukranian</option></select></form></div>
 
 </div>
 </div>
@@ -377,6 +378,17 @@ Company Number: 4976373
 </div>
 <!--container-->
 </div>
+<script type="text/javascript">
+jQuery('#btnResendVerificationEmail').click(function() {
+    jQuery.post('clientarea.php',
+        {
+            'token': '070683ea333c4865e749a262e2dea6c4a297944a',
+            'action': 'resendVerificationEmail'
+        }).done(function(data) {
+            jQuery('#btnResendVerificationEmail').prop('disabled', true).text('Email Sent');
+        });
+});
+</script>
 
 
 
