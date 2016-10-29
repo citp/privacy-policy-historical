@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formatmag.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617021918id_/http%3A//formatmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formatmag.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029185929id_/http%3A//formatmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Format Magazine Urban Art Fashion
 
