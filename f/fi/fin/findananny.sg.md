@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findananny.sg privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628202924id_/http%3A//findananny.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findananny.sg privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029213633id_/http%3A//findananny.sg/privacy) for the most accurate reproduction.*
 
-# Privacy - Find a Nanny
+# Privacy | Find a Nanny
 
 Privacy Policy for findananny.sg
 
