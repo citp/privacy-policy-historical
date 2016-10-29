@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rangle.io privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624230555id_/http%3A//rangle.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangle.io privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029214602id_/http%3A//rangle.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rangle.io
 
