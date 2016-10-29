@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userfriendly.org privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223040454id_/http%3A//www.userfriendly.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userfriendly.org privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029071624id_/http%3A//www.userfriendly.org/privacypolicy) for the most accurate reproduction.*
 
 # UF - Privacy Policy
 
