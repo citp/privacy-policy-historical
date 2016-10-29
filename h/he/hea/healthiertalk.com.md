@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthiertalk.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625105712id_/https%3A//healthiertalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthiertalk.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030012717id_/https%3A//healthiertalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,3 +23,12 @@ We require that all e-mails promoting healthiertalk.com or its products are sent
 For any other questions or concerns, please call us at (443) 353-4723, or email us at contact@healthiertalk.com.
 
 ## Reader Interactions
+
+[](https://healthiertalk.com/misc/Reverse-Aging/?xco=X6HTS8AA)
+
+## Ready to look and feel younger, healthier, and more energetic… starting RIGHT NOW?
+
+Get exclusive access to the top 10 anti-aging secrets for looking great and feeling incredible. The Best part is... these tips are cheap -- OR FREE! -- and you can do them right at home.
+
+  
+
