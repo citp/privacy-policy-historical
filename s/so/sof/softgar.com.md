@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softgar.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208123406id_/http%3A//www.softgar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softgar.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029082050id_/http%3A//www.softgar.com/privacy) for the most accurate reproduction.*
 
 # SoftGar - Privacy
 
