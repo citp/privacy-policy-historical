@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323140854id_/http%3A//www.myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myactv.net privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029092930id_/http%3A//myactv.net/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # myACTV.net - High Speed Cable Internet ISP - Hagerstown / Washington County, MD
 
@@ -12,7 +12,7 @@ This policy does not apply to practices of companies that ACT does not own or co
 
 ##### The Cable Privacy Act
 
-In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20160323140854id_/http%3A//www.myactv.net/legal/privacy-policy-annex-a.php).
+In addition, as an ACT cable customer, you are entitled under federal law to a statement about our collection and use of certain information that we learn about you. That information is required to be provided in a separate written statement and is therefore attached to this Privacy Policy as [Annex A](https://web.archive.org/web/20161029092930id_/http%3A//myactv.net/legal/privacy-policy-annex-a.php).
 
 ##### Information Collection and Use
 
