@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankaboveothers.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319234200id_/http%3A//rankaboveothers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankaboveothers.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029152346id_/http%3A//rankaboveothers.com/privacy-policy) for the most accurate reproduction.*
 
 # Rank Above Others | A Strategic Marketing Firm | Privacy Policy
 
