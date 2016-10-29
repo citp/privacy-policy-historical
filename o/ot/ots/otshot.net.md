@@ -1,29 +1,100 @@
-> *The following text is extracted and transformed from the otshot.net privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328135719id_/http%3A//www.otshot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otshot.net privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Ot Shot
+# Legal Agreement
 
-Privacy Policy
+**GoDaddy Respects Your Privacy**
 
-OtShot is a photo application powered by KeyDownload Ltd.("KeyDownload")
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-OtShot is committed to protecting your privacy. The following privacy policy discloses our information-gathering and dissemination practices for our website and our service. By using our website or our service, you agree to be bound by the terms of this policy.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Personal Information Personal information is information that is unique to you (such as your name, address, e-mail address, telephone number and credit card number). We may collect such personal information from you via our service. Because protecting your information is important to us, we do not sell disclose, give, or transfer any personal information any personal information to third parties, unless required to do so by law. Notwithstanding the forgoing, KeyDownload may transfer personal information to a successor entity upon a merger, consolidation or other corporate reorganization in which KeyDownload participates or to a purchaser of all or substantially all of KeyDownload's assets to which the website relates.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-In order to use the OtShot photo application, and email photos directly from within the interface, personal information such as email and password is required upon installation or first use. This information is saved in our systems so long as the software is installed on your computer.
+**Information Collection and Use**
 
-Information Automatically Logged
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-KeyDownload may track the total number of visitors in the website, the number of visitors to each page of the website, and certain details, if they are available, as IP addresses, cookies, log files, browser type, Internet service provider, domain name and country of origin of the user's computer. We may analyze this data and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the website, track users' movement, and gather broad demographic information for aggregate use. This information is collected during the installation process and is saved for the period of six months. [Is that true? Legally it's o.k.] 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Cookies Our services may involve the use of cookies to store information about your visits. In addition, during the course of providing advertisements to this site, third-party advertisers may place or recognize a unique cookie on your computer's hard drive. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Security We will take commercially reasonable measures in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our servers and in securing such personal information stored on our systems. However, you should be aware that there is always some risk involved in transmitting information over the Internet and that there is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security and privacy of personal information you transmit to us, and you do so at your own risk.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-External Links This site may contain links to other sites that are not under our control. These sites have their own policies regarding privacy, which you should review before using them. We bear no responsibility for linked websites and provide these links solely for your convenience and information. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Use of Website by Children Our website is intended for the general audience and is not directed to children under the age of 13. Children under the age of 13 may not use our website. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We respect the privacy of parents and children and are committed to complying with the Children's Online Privacy Protection Act (COPPA). If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Privacy Policy Updates KeyDownload may update this Privacy Policy from time to time. If so, KeyDownload will post its updated Privacy Policy on the website. If any modification is unacceptable to you, you shall cease using the website or our applications. If you do not cease using the website or our applications, you will be deemed to have accepted the changes.
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
