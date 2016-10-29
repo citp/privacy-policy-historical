@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028205756id_/https%3A//www.directline.com/legal/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029093308id_/https%3A//www.directline.com/legal/security) for the most accurate reproduction.*
 
 # Security and Privacy - Legal - Direct Line
 
@@ -68,7 +68,7 @@ back to top
 
 From time to time we may contact you with special offers or suggest products which may be of interest to you. If you would like not to receive any of these updates you can ask us to stop at any time. You can do that by simply calling our customers services department or by writing to Data Protection Officer at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP
 
-From **time to time we may need to change the way we use your information. Where we believe you may not reasonably expect such a change we will write to you. When we do so, you will have 60 days to object to the change but if we do not hear from you within that time you consent to that change.**
+From time to time we may need to change the way we use your information. Where we believe you may not reasonably expect such a change we will write to you. When we do so, you will have 60 days to object to the change but if we do not hear from you within that time you consent to that change.
 
 back to top
 
@@ -112,9 +112,8 @@ back to top
 
 ### **Credit Reference Agencies**
 
-We carry out a consumer search when any application for insurance is submitted to evaluate insurance risks. This is done only using the data that is publically accessible on your credit file (i.e. bankruptcy, CCJ and electoral roll information). Information about access to the public part of your credit file is automatically deleted after 12 months and in no way affects your ability to obtain credit.
-
-You will have been asked to agree to this when you first contacted us but please ensure that you only provide us with sensitive information about other people with their consent.
+We carry out credit searches to evaluate insurance risks.   
+Depending on your credit agreement with us, if you choose to pay your premiums by instalment, we will exchange your information with credit reference agencies to reflect your credit application, both at new business and any subsequent renewals and this will be visible to other credit providers. Failure by you or anyone who pays your premium on your behalf to keep up your monthly payments will be reflected in your credit score.
 
 back to top
 
