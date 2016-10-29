@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyfund.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621160408id_/http%3A//www.libertyfund.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyfund.org privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029124414id_/http%3A//libertyfund.org/privacy.html) for the most accurate reproduction.*
 
 # Liberty Fund
 
