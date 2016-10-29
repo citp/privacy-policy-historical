@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the weightlossmother.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212082545id_/http%3A//weightlossmother.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossmother.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029221131id_/http%3A//weightlossmother.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Weight Loss | Easy Weight Loss Tips | Positive Thoughts | Emotional Eating | Healthy Food Recipes | Simple Weight Loss | Healthy Lifestyle | Self Esteem Confidence | Spiritual Weight Loss | Law of Attraction Weight Loss | Weight Loss Mother | Annette Jones |
+
+**Warning** : Illegal string offset 'wp_pinterest_pin_it_button_layout' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **186**
+
+**Warning** : Illegal string offset 'wp_pinterest_pin_it_button_single_display' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **187**
+
+**Warning** : Illegal string offset 'wp_pinterest_pin_it_button_page_display' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **188**
+
+**Warning** : Illegal string offset 'wp_pinterest_pin_it_button_excerpt_display' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **189**
+
+**Warning** : Illegal string offset 'wp_pinterest_username' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **206**
+
+**Warning** : Illegal string offset 'wp_pinterest_follow_button_layout' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **207**
+
+**Warning** : Illegal string offset 'wp_pinterest_follow_button_single_display' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **208**
+
+**Warning** : Illegal string offset 'wp_pinterest_follow_button_page_display' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **209**
+
+**Warning** : Illegal string offset 'wp_pinterest_follow_button_excerpt_display' in **/home4/iaaswie/public_html/weightlossmother.com/wp-content/plugins/wp-pinterest/includes/functions.php** on line **210**  
+
 
 > Privacy Policy for Weightlossmother.com  
 >  The privacy of our visitors to Weightlossmother.com is important to us.  
