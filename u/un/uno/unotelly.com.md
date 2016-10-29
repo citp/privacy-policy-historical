@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unotelly.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623180848id_/https%3A//www2.unotelly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unotelly.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029073349id_/https%3A//www2.unotelly.com/privacy) for the most accurate reproduction.*
 
 # UnoTelly SmartDNS and VPN | FAQs
 
