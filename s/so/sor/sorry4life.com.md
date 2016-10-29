@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorry4life.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629231843id_/http%3A//sorry4life.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorry4life.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029082951id_/http%3A//www.sorry4life.com/privacy.html) for the most accurate reproduction.*
 
 # Sorry 4 Life
 
