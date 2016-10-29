@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the believemefilm.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326033414id_/http%3A//believemefilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the believemefilm.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030000253id_/http%3A//believemefilm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Believe Me - Learn how we protect you
 
