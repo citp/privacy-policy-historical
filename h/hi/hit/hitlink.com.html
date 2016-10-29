@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the hitlink.com privacy policy that was archived on 2016-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323191138id_/http%3A//www.hitlink.com/public/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitlink.com privacy policy that was archived on 2016-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161029232107id_/http%3A//www.hitlink.com/public/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>Welcome to HitLink</title>
+
     
+    <title>Welcome to HitLink</title>
+
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="content-style-type" content="text/css">
     <meta http-equiv="content-language" content="en-EN">
     <meta http-equiv="imagetoolbar" content="no">
     <meta http-equiv="Pragma" content="no cache">
-    <meta http-equiv="cache-control" content="no-cache, must-revalidate">    
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate">
     <meta name="robots" content="index, follow">
     <meta name="description" content="HitLink.com is a powerful open social and traffic exchange platform. Brand and promote your products, services, sites, and more for free.">
     <meta name="keywords" content="website traffic, traffic exchange, affiliate, social network">
@@ -20,12 +22,12 @@
     <meta name="distribution" content="global">
     <meta name="copyright" content="2012-2016 HitLink.com">
     <meta name="google-site-verification" content="cIXSpSvmDo98tlVy55redxwGK0_kVhAyj_oxOItNihI">
-    
+
     <link href="/css/zoomer.css" rel="stylesheet" type="text/css">
     <link href="/css/jquery-ui-1.9.2.custom.css" rel="stylesheet" type="text/css">
 <!--    <link href="/css/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css"/>-->
     <link href="/css/style.css" rel="stylesheet" type="text/css">
-    <script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" defer="" async="" src="https://analytics.hitlink.com/piwik.js"></script><script src="/js/jquery-1.11.1.min.js" language="javascript" type="text/javascript"></script>
+    <script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/js/jquery-1.11.1.min.js" language="javascript" type="text/javascript"></script>
     <script src="/js/jquery-ui-1.10.4.custom.min.js" language="javascript" type="text/javascript"></script>
 <!--    <script src="/js/jquery-migrate-1.2.1.min.js" language="javascript" type="text/javascript"></script>-->
     <script src="/js/calendar.js" language="javascript" type="text/javascript"></script>
@@ -39,34 +41,37 @@
     <script src="/js/tools.js" language="javascript" type="text/javascript"></script>
     <script src="/js/ajaxupload.js" language="javascript" type="text/javascript"></script>
 
+    <link rel="stylesheet" href="/js/libs/croppie/croppie.css">
+    <script src="/js/libs/croppie/croppie.min.js"></script>
+
     <script type="text/javascript">
-    $(document).ready(function(){
+    $(document).ready(function() {
         $(".slidingDiv").hide();
-            $(".show_hide").show();
-            $('.show_hide').click(function(){
-                $(".slidingDiv").slideToggle();
-                $(this).toggleClass('open');
-                return false;
-            });
+        $(".show_hide").show();
+        $('.show_hide').click(function() {
+            $(".slidingDiv").slideToggle();
+            $(this).toggleClass('open');
+            return false;
+        });
+
+        $('input.surfBtn').on('click', function() {
+            surfType = $(this).attr('name') == "surfBtn2" ? 2 : 1;
+            $.post( "/public/ajax.php", {
+                     action: "saveSurfChoice",
+                     ch: surfType,
+                     //chat: $('#useChat').prop('checked') === true ? 1 : 0
+                 }, function(data){
+                     if( data.action ){
+                         window.location.replace(data.url);
+                     }
+                 }, "json"
+            );
+            return true;
+        });
     });
     </script>
-    
-        <!-- Piwik -->
-    <script type="text/javascript">
-        var _paq = _paq || [];
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (   function() {
-                var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.hitlink.com/";
-                _paq.push(['setTrackerUrl', u+'piwik.php']);
-                _paq.push(['setSiteId', 1]);
-                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-                g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-        })();
-    </script>
-    <noscript><p><img src="http://analytics.hitlink.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
-</head>
+
+        </head>
 <body>
 <div class="wrapper">
     <div class="topnave" style="height: 30px;"> </div>
@@ -88,7 +93,6 @@
                 <li><a href="/public/register.php" title="Register new account">Signup</a></li>
                 <li><a href="/public/contact.php" title="Ask support">Contact us</a></li>
             </ul>
-                            
         </div>
     </div>
     <div style="width: 100%; background-color: #579bca; height: 6px;"></div>
