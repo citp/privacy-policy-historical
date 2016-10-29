@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powergeek.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329213318id_/http%3A//powergeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powergeek.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029185930id_/http%3A//powergeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Power Geek
 
