@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cureresearch.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627180729id_/http%3A//cureresearch.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cureresearch.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029211024id_/http%3A//www.cureresearch.com/crtop/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - CureResearch.com
 
