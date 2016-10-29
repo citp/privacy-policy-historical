@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the focusvision.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416202154id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusvision.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029190313id_/https%3A//www.focusvision.com/privacy-statement) for the most accurate reproduction.*
 
-# FocusVision Privacy Statement
+# Privacy Statement | FocusVision
 
-Last Updated: February 8, 2016
+Last Updated: September 7, 2016
 
-FocusVision Worldwide, and its subsidiaries, collectively (“FVW”) are committed to protecting your privacy.
+FocusVision Worldwide Inc., and its affiliates and subsidiaries, collectively (“FVW”) are committed to protecting your privacy.
 
-Please read the FVW Privacy Statement to understand how your personal information will be treated by both FVW and its subsidiaries.
+Please read the FVW Privacy Statement to understand how your personal information will be treated by FVW and its affiliates and subsidiaries.
 
 ### Collection of Your Personal Information
 
-In order to schedule and access some FVW services, we may require personal information including your name, email address, mailing address and phone number. This information may be provided by you directly or another designated by you to schedule or complete a service. For example: When you log in to view a scheduled FVW transmission project or recording, you will be asked to supply us with your name, email address, phone number and company name. This information is referred to as your personal login information (PLI). Information we obtain during this login process is treated differently than personal information we obtain via other means as noted below. We may also collect information about your visits to our website, including the pages you view, the links you click and other actions taken in connection with our site and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Website addresses. When you receive newsletters or promotional email from FVW, we may use web beacons (described below), customized links or similar technologies to determine whether the email has been opened and which links you click in order to provide you more focused email communications or other information. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to associate your activity while on our website with your IP address in order to improve our site and services.
+In order to schedule and access some FVW services, we may require personal information including your name, email address, mailing address and phone number. This information may be provided by you directly or another designated by you to schedule or complete a service. For example: When you log in to view a scheduled FVW transmission project or recording, you will be asked to supply us with your name, email address, phone number and company name. This information is referred to as your personal login information (PLI). Information we obtain during this login process is treated differently than personal information we obtain via other means as noted below. We may also collect information about your visits to our website, including the pages you view, the links you click and other actions taken in connection with our site and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Website addresses. When you receive newsletters or promotional email from FVW, we may use web beacons (described below), customized links or similar technologies to determine whether the email has been opened and which links you click in order to provide you more focused email communications or other information. On a case by case basis, FVW may also collect additional personal information, subject to the voluntary consent of the discloser, including, but not limited to, likenesses, voices, race, ethnicity, gender, opinions and views on particular products and services from 3rd Parties. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to associate your activity while on our website with your IP address in order to improve our site and services.
 
 ### Use of Your Personal Login Information (PLI)
 
@@ -18,7 +18,7 @@ FVW collects and uses your personal login information, provided to us during the
 
 ### Use of Your Personal Information other than PLI
 
-FVW also collects and uses personal information provided to us during service scheduling or by other means including third party providers to deliver important information on our services and complete transactions you request. These uses may also include making our site or services easier to use by eliminating the need to repeatedly enter the same information; conducting research and analysis to improve our products, services and technologies; and displaying information that is customized to your preferences. We also use your personal information to communicate directly with you. We may send important communications such as service and security announcements, product improvements and technical service issues. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from FVW. All personal information collected by FVW, information collected during login and otherwise, is stored in a secure manner (see Security of your Personal Information below) at our U.S. headquarters in Stamford, CT. By using a FVW site or service, you acknowledge that your information may be stored outside of your country.
+FVW also collects and uses personal information provided to us during service scheduling or by other means including third party providers to deliver important information on our services and complete transactions you request. These uses may also include making our site or services easier to use by eliminating the need to repeatedly enter the same information; conducting research and
 
 ### Sharing of Your Personal Login Information (PLI)
 
@@ -39,36 +39,56 @@ We may disclose personal information that FVW and/or its subsidiaries collect or
 
 
 
+Please be aware that FVW may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+FVW may be liable for appropriate onward transfers of personal data to third parties.
+
 ### Children under the Age of 13
 
 Our surveys are not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at the address provided below.
 
 ### Accessing Your Personal Information
 
-You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to login with information provided by FVW.
+FVW recognizes the right of individuals to access their personal information. You have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to login with information provided by FVW.
 
 ### Communication Preferences
 
-You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by visiting and signing into the following page on our website: <http://www.focusvision.com/clientws/web_clientlog.asp>. In order to help prevent your personal information from being viewed by others, you will be required to login with information provided by FVW.
+You can stop the delivery of future promotional email from FVW sites and services by following the specific instructions in the email you receive. You may also have the option of proactively making choices about the communications you receive from FVW by emailing [privacy@focusvision.com](mailto:privacy@focusvision.com) with your preferences.
 
 ### Security of Your Personal Information
 
 FVW is committed to protecting the security of your personal information. Security technologies and procedures are employed to help protect your personal information from unauthorized access, use, or disclosure. Personal information is stored on computer servers with limited access, located in secured facilities. When we transmit highly confidential information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. If a password is provided to help protect your projects and personal information, it is your responsibility to keep your password confidential.
 
-Where applicable, EU personal data controlled by the Customer, which FVW processes on the Customer’s behalf, shall be processed and stored by FVW in data centers located within the EU territory. For the purpose of fulfilling specific service needs requested by the Customer (e.g. system support requests), it may be necessary for FVW’s service personnel located outside of the EU to access the Customer controlled personal data located in the EU insofar as such access is needed for the performance of the task requested by the Customer. If accessing Customer controlled personal data from outside of the EU for the purposes defined above is regarded a data transfer, Customer hereby permits FVW to perform any such transfer of Customer controlled personal data on Customer’s behalf.
+Where applicable, EU personal data controlled by the Customer, which FVW processes on the Customer’s behalf, shall be processed and stored by FVW in data centers located within the EU territory. For the purpose of fulfilling specific service needs requested by the Customer (e.g. system support requests), it may be necessary for FVW’s service personnel located outside of the EU to access the Customer controlled personal data located in the EU insofar as such access is needed for the performance of the task requested by the Customer. Accessing Customer controlled personal data from outside of the EU for the purposes defined above is regarded a data transfer, and Customer hereby permits FVW to perform any such transfer of Customer controlled personal data on Customer’s behalf.
 
-### Safe Harbor Policy
+### Privacy Shield Policy
 
-FVW complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FVW has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit[ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+FVW complies with the EU-US Privacy Shield Framework as wet forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member companies. FVW has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, FVW commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact FVW at:
+The United States Federal Trade Commission (FTC) is the enforcement authority with jurisdiction over this compliance with the Privacy Shield.
+
+In compliance with the EU-US Privacy Shield Principles, FVW commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact FVW at:
 
 Privacy Officer  
 FocusVision Worldwide, Inc.  
 1266 East Main Street  
 Stamford, CT 06902
 
-FVW has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by FVW, please visit the BBB EU SAFE HARBOR web site at[ www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+FVW has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+**US-SWISS SAFE HARBOR**  
+FVW complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from Switzerland. FVW has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+In compliance with the US-Swiss Safe Harbor Principles, FVW commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact FVW at:  
+Privacy Officer
+
+FocusVision Worldwide, Inc.  
+1266 East Main Street  
+Stamford, CT 06902
+
+FVW has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/bbb-eu-safe-harbor-dispute-resolution/> for more information and to file a complaint.
 
 ### Use of Cookies
 
@@ -85,6 +105,14 @@ If you have questions regarding this statement, please contact us at: Privacy Of
 ### Changes to This Privacy Statement
 
 We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the “last updated” date at the top of this statement. If there are material changes to how FVW will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We suggest you periodically review this statement to be informed of how FVW is protecting your information.
+
+Subsidiaries and Affiliates of FVW, bound by this Privacy Policy include:
+
+  1. Decipher, Inc.
+  2. Kinesis Survey Technologies, LLC
+  3. Revelation, Inc.
+
+
 
 ### Contacting Us
 
