@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629211339id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029063036id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
 
 # Myzips.com Privacy Policy
 
