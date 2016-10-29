@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uheaa.org privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328002446id_/https%3A//www.uheaa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uheaa.org privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029225139id_/https%3A//www.uheaa.org/privacy) for the most accurate reproduction.*
 
 # UHEAA - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Protecting the privacy of your nonpublic personally identifying information (“Personal Information”) is important to us at the Utah Higher Education Assistance Authority (UHEAA). We respect your right to privacy and recognize our obligation to keep your personal information secure and confidential. Information collected and used in connection with this Site, and all other sites of UHEAA with authorized links to this policy, is governed by this online privacy policy. Please review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the products and services enabled by the Site. Submitted information in some cases may be covered by the Privacy Act, the Family Educational Rights and Privacy Act (FERPA), and the Gramm-Leach-Bliley Act; and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found at the following links: 
 
-  * <http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm>
+  * [UHEAA Privacy Notice](https://web.archive.org/files/uheaaprivacypolicy.pdf)
   * <http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html>
   * <http://business.ftc.gov/privacy-and-security/gramm-leach-bliley-act>
 
