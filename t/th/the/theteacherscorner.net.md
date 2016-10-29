@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theteacherscorner.net privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313235021id_/http%3A//www.theteacherscorner.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theteacherscorner.net privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029203720id_/https%3A//www.theteacherscorner.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 **Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of The Teacher's Corner, except as required by law. 
 
 **Credit card details  
-**The Teacher's Corner currently offers a premium subscription service. We use PayPal for credit card processing payments and at no have any credit card or bank information collected or stored on our servers.
+**The Teacher's Corner currently offers a premium subscription service. We use PayPal (www.paypal.com) & Stripe (www.stripe.com) to process credit card payments and do not store _**any**_ credit card or bank information on our servers.
 
 **External Sites  
 **The Teacher's Corner is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information. 
