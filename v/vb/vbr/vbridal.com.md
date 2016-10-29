@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vbridal.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402190903id_/http%3A//vbridal.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbridal.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029185018id_/http%3A//www.vbridal.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice-Vbridal.com
 
 **Privacy Policy**
 
-This privacy policy applies only to www.Vbridal.net, the website controlled by ZC Technologies (HK) Limited and/or its affiliated entities ("ZC," "we" or "us") ("Vbridal.net", the "Site"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE.
+This privacy policy applies only to Vbridal, the website controlled by ZC Technologies (HK) Limited and/or its affiliated entities ("ZC," "we" or "us") ("Vbridal", the "Site"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITE, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE.
 
  **A. Information Collected**
 
@@ -30,7 +30,7 @@ The above list provides an example of the personally identifiable information th
 
 "Non-Personally Identifiable Information" can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Site and a description of how this information is used:
 
-  * Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Site to the interests of our users and to measure traffic within our Site.
+  * Inte Protocol (IP) address -- Your IP address is a number that lets computers attached to the Inte know where to send you data -- such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Site to the interests of our users and to measure traffic within our Site.
   * Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Site. For example, when someone visits a page within the Site, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Site previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Site. Some of the cookies we use may be flash cookies or Adobe cookies. While they are harmless, they may contain Demographic Information (defined below) and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
   * Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages.
   * Demographic Information -- "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Site. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Site meets your needs. For example, if you subscribe to a specific newsletter, Vbridal may collect your zip code or interests. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Site.
@@ -107,7 +107,7 @@ However, we provide you the opportunity to exercise an opt-out choice if you do 
 
  **G. Forums, Chat Rooms and Other Public Posting Areas**
 
-Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
+Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Inte access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
 
  **H. Third Party Web Sites**
 
@@ -115,7 +115,7 @@ This privacy policy applies solely to information collected on the Site. The Sit
 
  **I. Third Party Advertisers**
 
-We may use advertisers, third party ad networks, and other advertising companies, to serve advertisements on the Site. Please be advised that such advertising companies may gather information about your visit to the Site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
+We may use advertisers, third party adworks, and other advertising companies, to serve advertisements on the Site. Please be advised that such advertising companies may gather information about your visit to the Site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
 
  **J. Accessing Your Personally Identifiable Information and Privacy Preferences**
 
@@ -131,7 +131,7 @@ We reserve the right to change this privacy policy from time to time. When we do
 
  **M. Security**
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Vbridal is done at your own risk.
+No data transmissions over the Inte can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Vbridal is done at your own risk.
 
 Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
