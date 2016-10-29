@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwidemedia.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407110543id_/https%3A//globalwidemedia.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwidemedia.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029163447id_/https%3A//globalwidemedia.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # GlobalWide Media | GWM
 
