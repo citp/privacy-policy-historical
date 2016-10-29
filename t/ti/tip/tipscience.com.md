@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipscience.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521180842id_/http%3A//tipscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipscience.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029145447id_/http%3A//tipscience.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Tip Science
 
