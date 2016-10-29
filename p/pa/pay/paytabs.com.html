@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paytabs.com privacy policy that was archived on 2016-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316012439id_/https%3A//www.paytabs.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paytabs.com privacy policy that was archived on 2016-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161029185031id_/https%3A//www.paytabs.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><!-- BEGIN HEAD --><head>
     <meta charset="utf-8">
@@ -179,6 +179,8 @@
                             <li><a href="">Terms &amp; Conditions</a></li>
                         </ul>
                     </li>-->
+                    <li class=""><a href="https://www.paytabs.com/sadad">Sadad</a></li>
+
                     <li class=""><a href="https://www.paytabs.com/pricing">Pricing</a></li>
                     <li class=""><a href="https://www.paytabs.com/developers">Development</a></li>
                     <li class=" "><a href="https://www.paytabs.com/contactus">Contact Us</a>
@@ -364,7 +366,7 @@
 <!--                            <li><a href="https://www.paytabs.com/welcome/live_chat">Live Chat</a></li>-->
                             <!--<li><a href="javascript:void(0)">Social Media</a></li>-->
                             <li style="white-space: nowrap;"><a href="https://www.paytabs.com/faq">FAQ</a></li>
-                            <li style="white-space: nowrap;"><a href="https://www.paytabs.com/howto">User Guide</a></li>
+                            <li style="white-space: nowrap;"><a href="https://www.paytabs.com/howto">Integration Queries</a></li>
                             <li style="white-space: nowrap;"><a href="https://www.paytabs.com/partnerprogram">Partner Program</a></li>
                         </ul>
                         <ul>
@@ -475,19 +477,19 @@
 
     <!-- Script for Country Dropdown in Homepage -->
     <script type="text/javascript">
-                            $(".select_your_country").bind("click", function() {
+                        $(".select_your_country").bind("click", function () {
 
-                                var elment_Height = $('#countries').height();
-                                if (elment_Height == 0)
-                                {
-                                    $("#countries").animate({height: 244}, 'fast');
-                                    $("html, body").animate({scrollTop: $(document).height()});
-                                }
-                                else
-                                {
-                                    $("#countries").animate({height: 0}, 'fast');
-                                }
-                            });
+                            var elment_Height = $('#countries').height();
+                            if (elment_Height == 0)
+                            {
+                                $("#countries").animate({height: 244}, 'fast');
+                                $("html, body").animate({scrollTop: $(document).height()});
+                            }
+                            else
+                            {
+                                $("#countries").animate({height: 0}, 'fast');
+                            }
+                        });
     </script>
     <script type="text/javascript">
         var shadowbox_conf = {
@@ -526,47 +528,6 @@
     </script>
     <script type="text/javascript">
 
-        $("document").ready(function() {
-            if (wb_check_if_bothInput_valid()) {
-                $("#webinar_add").removeClass("disabled");
-            }
-        });
-
-        function hide_modal() {
-            $('#webinar_popup').modal('hide');
-        }
-
-        function wb_check_if_bothInput_valid() {
-            var emailinp = false;
-            var nameinp = false;
-            if ($("#webinar_name").val() !== "") {
-                nameinp = true;
-            }
-            if ($("#webinar_email").val() !== "") {
-                emailinp = true;
-            }
-            if (nameinp && emailinp) {
-                return true;
-            }
-            return false;
-        }
-
-        $("#webinar_name,#webinar_email").keydown(function() {
-            if (wb_check_if_bothInput_valid()) {
-                $("#webinar_add").removeClass("disabled");
-            }
-        });
-
-        $("#webinar_add").click(function() {
-            var wb_name = $("#webinar_name").val();
-            var wb_email = $("#webinar_email").val();
-            createCookie("webinar_ck", 1, new Date(new Date().getTime() + 60 * 24 * 7 * 7 * 1000 * 14), "/", "");
-            $(".modal-body").html("<p><p>Thank you for registration.</p></p>");
-            window.setTimeout(hide_modal, 2300);
-            $("#webinar_add").remove();
-            webinarjam_url = "http://webinarjam.net/webinar/webinar-register-auto.php?webicode=4ee99a0841&memberid=12204&firstname=" + wb_name + "&email=" + wb_email + "&schedule=1";
-            popupWin = window.open(webinarjam_url, 'open_window', '');
-        });
 
         //Cookie Functions
         function createCookie(name, value, expires, path, domain) {
@@ -600,9 +561,9 @@
         }
 
 
-        $(function() {
+        $(function () {
 
-            $('.ahreftouch').on('touchend', function() {
+            $('.ahreftouch').on('touchend', function () {
                 var link = $(this).attr('href');
                 window.open(link); // opens in net window as requested 
                 return; // prevent anchor click    
@@ -611,13 +572,13 @@
             //Fix for placeholders in older browsers
             if (!Modernizr.input.placeholder) {
                 $('[placeholder]').css('color', '#aaa');
-                $('[placeholder]').focus(function() {
+                $('[placeholder]').focus(function () {
                     var input = $(this);
                     if (input.val() == input.attr('placeholder')) {
                         input.val('');
                         input.removeClass('placeholder');
                     }
-                }).blur(function() {
+                }).blur(function () {
                     var input = $(this);
                     if (input.val() == '' || input.val() == input.attr('placeholder')) {
                         input.addClass('placeholder');
@@ -625,8 +586,8 @@
                     }
                 }).blur();
 
-                $('[placeholder]').parents('form').submit(function() {
-                    $(this).find('[placeholder]').each(function() {
+                $('[placeholder]').parents('form').submit(function () {
+                    $(this).find('[placeholder]').each(function () {
                         var input = $(this);
                         if (input.val() == input.attr('placeholder')) {
                             input.val('');
@@ -645,7 +606,7 @@
             $("html, body").animate({scrollTop: 0});
 
         }
-        jQuery(document).ready(function() {
+        jQuery(document).ready(function () {
             var flagname = localStorage.getItem("flagname");
             if (flagname)
             {
@@ -668,7 +629,7 @@
                     min: 0,
                     max: 7000000,
                     step: 10000,
-                    slide: function(event, ui) {
+                    slide: function (event, ui) {
                         var price = parseInt(ui.value);
                         $("#slider-range-min-amount").text(price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
 
@@ -713,7 +674,7 @@
                     min: 0,
                     max: 7000000,
                     step: 10000,
-                    slide: function(event, ui) {
+                    slide: function (event, ui) {
                         var price = parseInt(ui.value);
                         price = 7000000 - price;
                         $("#slider-range-min-amount").text(price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
@@ -755,8 +716,8 @@
                 $("#slider-range-min-amount").text((7000000 - parseInt($("#slider-range-min").slider("value"))).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             }
 
-            $("#change_lang").click(function() {
-                $.post("https://www.paytabs.com/welcome/set_lang/common", function(res) {
+            $("#change_lang").click(function () {
+                $.post("https://www.paytabs.com/welcome/set_lang/common", function (res) {
                     if (res != "0") {
                         pageDir = res;
 
@@ -803,14 +764,14 @@
 
             //Jquery tab Drop Down Selected value
 
-            $("body").on("click", "#myTab .dropdown-menu li a", function(e) {
+            $("body").on("click", "#myTab .dropdown-menu li a", function (e) {
                 var changeableTXT = $(this).text();
                 $(this).parentsUntil(".dropdown").siblings().eq(0).html(changeableTXT + '<b class="caret"></b>');
                 //e.preventDefault();
             });
 
         });
-        $('.transaction_status').click(function() {
+        $('.transaction_status').click(function () {
             var last_4_digits = $('#last_4_digits').val();
             var reference_id = $('#reference_id').val();
             var val = $("input[name='transaction_type']:checked").val();
@@ -831,14 +792,14 @@
             }
             else
             {
-                window.location  = 'https://www.paytabs.com/welcome/transaction_status'+'/'+reference_id+'/'+last_4_digits +'/'+val;
-//                $('#transaction_status').submit();
+                window.location  = 'https://www.paytabs.com/yfo9gagxzwCPQ4H9F2o74l55nYDJjTsiApdXfkoAwG1SqoDEsYg/nmGhyBb88kKba0mJfj7n8nWKAsuVCvTT1MEa1kqkSkKAEa3_Po4'+'/'+reference_id+'/'+last_4_digits +'/'+val;
+                $('#transaction_status').submit();
             }
         });
-        $(function() {
+        $(function () {
 
             $('input[name="transaction_type"]:radio').change(
-                    function() {
+                    function () {
                         var val = this.value;
                         if (val == 1)
                         {
@@ -896,53 +857,7 @@
         document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
        if(oldonload){oldonload()}};
     }());
-    </script>    <!--END ADRoll Code-->
-
-<script type="text/javascript">
-    var amount = '10.00';
-    var currency = 'USD';
-    var discount = '0.00';
-    var title = 'Test Express Checkout Transaction';
-    var order_id = '25';
-    var language = localStorage.getItem("lang");
-    var subdomain='';
-    var url_redirect = "https://www.paytabs.com/policy";
-</script>
-    <script src="https://www.paytabs.com/js/express_checkout_test.js"></script>
-    <script src="https://www.paytabs.com/js/express_checkout_v2.js"></script>
-    <script type="text/javascript">
-    $("#express_checkout").expresscheckout({
-        settings:{
-            amount: "10.00",
-            currency: "USD",
-            title: "Test Express Checkout Transaction",
-            product_names: "Product1,Product2,Product3",
-            order_id: 25,
-            siteurl: "https://www.paytabs.com/",
-            url_redirect: "https://www.paytabs.com/policy",
-            display_shipping_fields: 1,
-            language: localStorage.getItem("lang"),
-        }
-         });
-    </script>
-<!--    <script src="https://www.paytabs.com/js/express_checkout_test_v2.js"></script>
-    <script type="text/javascript">
-     $("#express_checkout").expresscheckout({
-		settings:{
-                        display_address_fields:0,
-		     	amount: '10.00',
-		     	currency: 'USD',
-			title: 'Test Express Checkout Transaction',
-			product_names: 'Product1,Product2,Product3',
-			order_id: 25,
-			subdomain: 'paytabs',
-			url_redirect:'https://www.paytabs.com/policy',
-                        language: localStorage.getItem("lang")
-		}
-	   });
-</script>-->
-    <!-- END PAGE LEVEL JAVASCRIPTS -->
-
+    </script>    
 <!-- END BODY -->
 
   </div></body></html>
