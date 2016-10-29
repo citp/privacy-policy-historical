@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luckstars.co privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404164508id_/http%3A//luckstars.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckstars.co privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029113912id_/http%3A//luckstars.co/privacy-policy) for the most accurate reproduction.*
 
-# Security & Privacy Policy
+# Security & Privacy Policy | Best Casinos Free spins Slots, Games and Bonuses online
 
 If you view and use this website you are agreeing with the following Security & Privacy Policy, together with our disclaimer and terms of use.
 
@@ -28,7 +28,7 @@ This Security & Privacy Policy is subject to change. We reserve the right to ame
 
 Last updated on 23/02/2016.
 
-0 people like this
+1 person likes this
 
   
 
