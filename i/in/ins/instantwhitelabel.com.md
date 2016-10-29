@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantwhitelabel.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233308id_/http%3A//instantwhitelabel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantwhitelabel.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029025401id_/http%3A//instantwhitelabel.com/privacy) for the most accurate reproduction.*
 
 # privacy — instantwhitelabel.com
 
