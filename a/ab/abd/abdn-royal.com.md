@@ -1,86 +1,100 @@
-> *The following text is extracted and transformed from the abdn-royal.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410072404id_/http%3A//abdn-royal.com/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn-royal.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Abdn Royal
+# Legal Agreement
 
-**INTRODUCTION**
+**GoDaddy Respects Your Privacy**
 
-This Privacy Policy tells you the types of information we collect when you use our Sites or Services, how we use that information, and the instances in which we share your information. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**SUMMARY OF KEY PRINCIPLES**
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-We thought it would be helpful to set out briefly the key ways in which we use your information and how we seek to protect privacy. Of course, you should read the terms of our full Privacy Policy.  
-\- We typically collect two kinds of information about you: (a) information that you provide that personally identifies you (e.g., full name or phone number); and (b) information that does not personally identify you (e.g., your IP address or type of browser);  
-\- This information is transmitted to, held and processed by us in the United States of America;  
-\- We typically use this information to provide you with our website and related services, to deliver targeted advertising based on your preferences and our promotions to you, and to produce reports and data about online shopping;  
-\- We may disclose this information to authorized third parties including our merchants, advertising and promotional partners and third party service providers for these purposes;  
-\- We work with and permit advertising networks to use anonymous information about you for preference or targeted online advertising (see section III below);  
-\- You may at any time opt-out of certain activities as set out below (see section VI);  
-\- Our websites use "cookies". You can set your browser not to accept cookies if you so wish although this may affect your use of our websites;  
-\- We encrypt any information you input using Secure Sockets Layer (SSL) software and take reasonable security measures to safeguard information;  
-\- If you register with us, you have the ability to update or correct the information you previously provided via the account section;  
-\- If you have any questions or concerns about privacy at Shopzilla, please contact us by clicking here;  
-\- Our websites and our services are not designed or intended for use by children under 13; and  
-\- This Privacy Policy may change from time to time so please check this policy regularly. Any material changes will be notified to you by email as appropriate.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**I. WHAT INFORMATION DO WE COLLECT?**
+**Information Collection and Use**
 
-We collect two kinds of information related to you: (a) Personally Identifiable Information ("PII"); and (b) Non-Personally Identifiable Information ("Non-PII"). 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**(a) Personally Identifiable Information:** PII includes any information that identifies you as person. We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Sites such as a review, survey or promotion. You may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Sites or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Sites. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**(b) Non-Personally Identifiable Information:** Non-PII is any information that does not identify you as a person including PII which has been rendered anonymous. We obtain non-PII either separately or together with your PII as described above. We collect certain non-PII from you when you access our Sites including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and how you use our Sites such as the web pages you visit, and the duration of your visits. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**II. HOW WE USE & SHARE THE INFORMATION COLLECTED**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-PII and Non-PII is used to provide, or improve, our Sites and Services to you and to carry out your requests, respond to your inquiries, better serve you and understand your needs, or is used in other ways naturally associated with the circumstances in which you provided the information. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We may disclose PII and Non-PII to:  
-(1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc; 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-(2) participating sponsors to a program or promotion you enter through our Sites or Services; 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-(3) our parent company, subsidiaries or other affiliated companies ("affiliated companies") for operational, marketing and promotional purposes; 
+**Security**
 
-(4) co-promotional partners and others with whom we have marketing or other relationships; 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-(5) participating merchants where you consent at the time you submit PII to us when using the interactive features of our Sites such as surveys and reviews concerning our participating merchants; and 
+**Updating Your Information**
 
-(6) our other users where you choose to publicly post reviews, comments or other information relating to products or services, communicate with other users via public forums (e.g., forums, message boards, bulletin boards, etc.).
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-In addition, we use non-PII to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities (see "Preference Based Advertising" below). We may use your non-PII by itself or aggregate it with information we have obtained from others to produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**III. COOKIES AND PREFERENCE BASED ADVERTISING**
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**(a) Cookies and Web Beacons:** We automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that we place on your computer or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. **It is important to note that the cookies that we use do not contain and are not tied to PII about you.**
+      iii.      You may call us at: (480) 505-8800
 
-You may be able to direct your internet browser not to allow cookies and you can delete existing cookies from your computer. Please note, however, some elements of our Sites will not function properly or be available to you. 
+       iv.      You may fax us at: (480) 505-8844
 
-**(b) Preference Based Advertising:** We work with third parties, including advertising companies and website analysis firms, who use cookies to collect non-PII when you visit our Sites and third party sites about your surfing activities. This non-PII, collected through cookies, is typically used by these third party advertising networks to serve you with advertisements while on third party sites tailored to meet your preferences and likely interests. If you do not wish to participate in this activity, please click here and follow the simple opt-out process. 
+**Sending Emails**
 
-A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you ("Opt-out Cookies") - for a general explanation of how Opt-out Cookies work, please click here . Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**IV. SALE OF BUSINESS AND DISCLOSURE BY LAW**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**(a) Business Transactions:** We may disclose PII and Non-PII held by us: (a) to a prospective seller or actual seller of any business or assets we acquire; (b) if all or any of our assets are acquired by a third party, in which case, PII and Non-PII may be one of the transferred assets. 
+**Compliance with Laws and Law Enforcement**
 
-**(b) Required disclosures:** We may disclose and use any PII or non-PII if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Sites, or other users; or (d) in an emergency to protect the health and safety of our Sites's users or the general public. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**V. SECURITY OF INFORMATION**
+**Third Party Service Providers**
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location in the US, firewall protection, controlled access and encryption technology to protect your data. Please be advised, however, that while we strive to protect your PII, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your PII. In the unfortunate event that your personally identifiable information is compromised, we will notify you by e-mail to the last e-mail address you have provided us as soon as feasible under the circumstances (delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system, as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation). 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**VI. YOUR OPTIONS & OPT-OUTS**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**(a) What Information Can I Access?** If you register as a Shopzilla member, you will typically have access to an account section that includes the registration information you previously provided which you can update or correct at any time. If there is any inaccurate information that you are not able to correct, just let us know. Also, if you wish, you can delete your membership account entirely although we may retain certain information in limited circumstances - e.g., to resolve disputes, troubleshoot problems and enforce our Terms of Use . Furthermore, some information is never completely removed from our databases due to technical (e.g., information that is stored in our "back-up" systems) and certain legal constraints. 
+**Supplementation of Information**
 
-**VII. CHILDREN**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-As our Sites nor our Services are not intended for use by children under 13, Children under 13 may not submit any PII to us. Also, if you are under 18, you should use Shopzilla and submit information only with involvement of a parent or guardian. 
+**Contests/Surveys**
 
-**VIII. REVISIONS**
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-This Privacy Policy may change from time to time to reflect our changing business practices. We will provide you notice of any such changes by posting the new policy on our Sites or by email if the changes are material. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**VII. SOLE STATEMENT**
+**Tell-A-Friend**
 
-This Privacy Policy and our Terms of Use , both as posted on our Sites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Sites and Services. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
