@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the europeanlinkdirectoryworld.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224735id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeanlinkdirectoryworld.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
 # Legal Agreement
 
-**Go Daddy Respects Your Privacy**
+**GoDaddy Respects Your Privacy**
 
 **This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
@@ -36,7 +36,7 @@ You may alter your account information or opt out of receiving communications fr
 
         i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
+       ii.      You may send mail to GoDaddy at the following postal address:   
                14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
       iii.      You may call us at: (480) 505-8800
@@ -71,7 +71,7 @@ We may use a third party service provider to conduct these surveys or contests. 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
 **What Happens to my Personal Information if I Opt Out?**
 
@@ -93,7 +93,7 @@ If you have any questions about our Privacy Policy, the practices of this Site, 
 
 * * *
 
-Go Daddy   
+GoDaddy   
 ATTN: Web Team   
 14455 North Hayden Rd.   
 Suite 219   
