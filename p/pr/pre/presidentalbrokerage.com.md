@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentalbrokerage.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616133942id_/http%3A//presidentalbrokerage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentalbrokerage.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029081810id_/http%3A//www.presidentalbrokerage.com/privacy.html) for the most accurate reproduction.*
 
 # Presidental Brokerage
 
