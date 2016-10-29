@@ -1,80 +1,33 @@
-> *The following text is extracted and transformed from the mybluprint.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybluprint.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029113721id_/http%3A//mybluprint.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy | MyBluPrint
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+## ONLINE PRIVACY POLICY
 
-**What information do we collect?**
+mybluprint and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected from you. We have adopted a corporate wide Online Privacy Policy that guides how we collect, store and use the information you provide online. Please note that this policy applies only to sites maintained by mybluprint and its subsidiaries, and not to web sites maintained by other companies or organizations to which we link.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+## INFORMATION COLLECTION AND USE
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through our web site, including, but not limited, our services, to communicate with you, and to manage your registered user account, if you have one.
 
-**What do we use your information for?**
+**Information Collected Upon Registration:**  If you desire to have access to certain restricted sections of our web site, you will be required to become a registered user, and to submit certain personally identifiable information to mybluprint. This happens in a number of instances, such as when you sign up for our services, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**Use of Contact Information:**  In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+**Log Data:**  When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website as Log Data. This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the websites you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+## Cookies and Other Technologies
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+**Cookies:**  We use cookies and other technologies to passively collect demographic information, personalize your experience on our site and monitor advertisements and other activities. Cookies are small files downloaded to your computer to track movements within web sites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store or pages you have viewed. This information is used to keep track of your shopping cart and make sure you don’t see the same ad repeatedly. Also, we use cookies to deliver content specific to your interest and to monitor website usage. Some of our sites use an outside ad mybluprint to display ads. These ads may contain cookies. Our ad companies collect cookies received with banner ads, and mybluprint does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. However some areas of our sites will not function properly if you do so. Please note that this privacy policy covers the use of cookies by mybluprint only and does not cover the use of cookies by any advertisers.
 
-• To process transactions
+**Other Technologies:**  Other technologies used include clear GIFs and IP address logging. Clear GIFs also known as web bugs, beacons or tags, are small graphic images placed on a web page, web-based document, or in an e-mail message. Clear GIFs are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the web page, document or e-mail message. We do not use clear GIFs to collect personal information about you. However, we may use clear GIFs to capture statistical usage information for our web pages, features or other elements on a web page. We may correlate this information to a user to personalize user experience and for statistical analysis of user experiences on our web pages.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+## Third Parties
 
-• To send periodic emails
+**Third Party Services:**  Users may register for other services from our website. Certain products and/or services available on our site are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+**Service Providers:**  We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+**Law Enforcement:**  We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of mybluprint or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
-
-**Do we use cookies?**
-
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
-
-**Do we disclose any information to outside parties?**
-
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+**Business Transfers:**  We may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
