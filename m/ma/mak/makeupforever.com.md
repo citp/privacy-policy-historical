@@ -1,136 +1,229 @@
-> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609152449id_/http%3A//www.makeupforever.com/us/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029162849id_/http%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MAKE UP FOR EVER
 
-Makeupforever.com/en-us (the "Website") is published and maintained by MAKE UP FOR EVER LLC, with offices located at 853 Broadway, 10th Floor New York, NY 10003 ("MAKE UP FOR EVER ", "we," "us" or “our”).
+###  PERSONAL DATA & COOKIES
 
-###  What does this policy cover?
+The website makeupforever.com/fr/fr-fr is published by MAKE UP FOR EVER, a French société anonyme with a share capital of €1,050,000 registered in the Trade and Companies Register of Paris under the number B 318 309 267, Siret no. 31830926700033, with its registered office located at 5 rue de la Boétie, 75008 Paris, France. Tel: 33 1 52 18 61 10.
 
-This privacy policy ("Privacy Policy") describes our policies regarding the collection, use and disclosure of personal information obtained from you online (whether via computer or mobile device), in store, by telephone or at our MAKE UP FOR EVER Academy locations. By “Personal Information” we mean information that is connected to your name. This may include things like your e-mail address, mailing address, birthday or telephone number, when those piece of information are stored with your name. it may also include credit card and other payment information, demographic information or other information that may identify you as an individual or allow online or offline contact with you as an individual.
+This privacy policy describes our policies regarding the collection, use and disclosure of information on or through the website makeupforever.com (hereinafter the "Website"), as well as information you may provide us via mobile and Facebook applications, including product ratings and reviews, in promotional campaigns, sweepstakes, contests and other promotions, at our stores or through customer surveys. 
 
-We may interact with you on third party sites where we post content or invite your feedback, such as Facebook or Twitter. This Privacy Policy does not cover the information that you submit on those other websites, even if we communicate with you on those sites. For example, if you post something on Facebook, Twitter or YouTube, that information is governed by the privacy policies of these third party websites and not this Privacy Policy.
+This Privacy Policy only applies to Personal Information (as defined below) that we collect as stated herein. This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than as stated herein, such as through postal mail or through other live and print media.
 
-###  What personal information is collected?
+By visiting this Website or using a MAKE UP FOR EVER mobile application, participating in promotional operations, sweepstakes and other promotions, or completing customer surveys, you agree to the terms of this Privacy Policy as amended from time to time. If you do not agree with any of the terms in this Privacy Policy, please do not use the website or disclose the information described above. 
 
-Depending on how you use the Sites or engage in the other services described below, we may ask you to share Personal Information with us.
+YThis Privacy Policy only applies to the personal data (as defined below) that we collect.
 
-MAKE UP FOR EVER will ask you for information, including some Personal Information, if you use one of several services.
+MAKE UP FOR EVER does not knowingly collect or use any personal data relating to anyone under the age of 13. If we become aware that any such information has been submitted to us, we will delete the information as soon as possible .
 
-###  Type of Service with Examples of Personal Information Collected:
+Any personal information that you transmit to MAKE UP FOR EVER for our use is subject to the provisions of French Information Technologies and Freedoms Act no. 78-17 of 06 January 1978.
 
-  * Signing up for email blasts, catalogs, Academy information and mailers to get information about new products, events, tips, our Academy and more:  Name, email address, mailing address and optional information regarding preferences and interests
-  * Registering on our Website: Name, email address, and beauty profile information
-  * Making a purchase on our Website: Name, credit card number, billing address and phone number
-  * Entering Sweepstakes, contests and surveys: Name, email address, and other information as required by the particular Sweepstakes, contests or survey
-  * Submitting Ratings & Reviews: Name, email address, and beauty profile information
-  * In store communications: Name, email address, phone number and optional information regarding product preferences
-  * Applying for a Backstage Card (for professional customers): Complete contact information as well as information regarding professional services you offer including your website URL, portfolio images and other relevant content to support your professional status
-  * Birthday program: Name, email address and birth day, month and year
-  * Applying for MAKE UP FOR EVER Loyalty Program: Name, email address, mailing address, phone number, birth day, month and year
-  * Enrolling at the MAKE UP FOR EVER Academy: Name, email address, mailing address and telephone number
-  * Enrolling in the MAKE UP FOR EVER Alumni Network: Name, email address and option information regarding work experience
+###  1\. What type of information is collected?
 
+###  1.1 Personal Data
 
+Your privacy is important to us. Depending upon how you use our websites or other services described below, we may ask you to share personal data with us. 
 
-We also use a number of technologies to automatically collect information about your activities on the Website (and may use other technologies in the future):
+"Personal data" includes, for example, your name; your address; your e-mail address; your telephone number; your credit card or other payment information; and demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual.
 
-  * COOKIES AND FLASH COOKIES  
-We may use "cookies" or “flash cookies” to keep, and sometimes track, information about you. Cookies are small data files that are stored on your computer's hard drive and can be used to collect information about where you travel on our Website and what you look at on our Website. Flash cookies (also called Local Shared Objects) are data files similar to cookies except that they can store more complex data. Cookies and flash cookies may store the information in your shopping cart, your username and/or password, settings, preferences or your IP address. All of these purposes serve to improve and personalize your experience on our Website. You can control how your browser handles cookies received from websites. You can choose to refuse all cookies, or to be prompted before a cookie is saved to your hard drive, or to only accept Cookies from certain websites that you designate. By refusing to accept cookies from MAKE UP FOR EVER, you may not be able to use some of the features and functionality available on the Website.
-  * CLEAR GIFS  
-We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies, in the Website and/or in our communications with you to enable us to know whether you have visited a specific page on the Website or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Website page or in an e-mail that communicates to us whether you viewed an email that we sent you or visited a certain page on our Website. A clear GIF may enable us to relate your viewing or receipt of a Website page or message to other information about you, including your Personal Information.
-  * IP ADDRESS AND CLICKSTREAM DATA  
-Our server automatically collects data about your server's Internet address when you visit the Website. This information, known as an Internet Protocol address, or IP Address, is a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet. When you request pages from our Website, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to our Website (e.g., another website or a search engine); the pages you visit on this Website; the website you visit after this Website; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Website. Such information may also be used to gather broad demographic information, such as country of origin and internet service provider.
+MAKE UP FOR EVER will ask you for information, including some personal data, if you use one of our services, for example:
 
+\- When you sign up for the newsletter or request a product catalogue, you are required to furnish an e-mail address in order to be able to receive information with respect to product launches, professional tips, events, etc. Become a registered user: in order to register, you will be required to furnish personal data, such as your e-mail address. 
 
+\- Sweepstakes, contests and surveys: MAKE UP FOR EVER may ask you to provide personal data in order to enter a sweepstakes or contest, or answer a survey. If you choose to enter a sweepstakes or contest, or answer a survey, you will be required to become a registered user (if you are not one already). We may also ask you for some demographic information, such as your age. If you choose not to answer, you may not be able to participate in the sweepstakes, contest or survey. We may sometimes use a third party application on Facebook or other third party website to host sweepstakes, contests or surveys. **In such circumstances, the information you provide will be subject to the third party's privacy policy which will govern any use of the data you submit.**
 
-Any or all of these activities with regard to Website usage information may be performed on our behalf by our service providers.
+\- Product ratings, comments and other interactive services: We may offer several interactive services, including an opportunity to rate and comment on our products. This privacy policy also covers the use of such services. If you choose to use these interactive services, you are required to become a registered user (if you are not one already) and your personal data will become part of your profile.
 
-  * THIRD PARTY AD SERVERS.  
-We may use the services of one or more third party advertising companies. If We do, these third party advertising companies may also collect information from your activities on the Website as well as other sites for the purpose of providing advertisements and other content that is customized to your interests and preferences. This means that our ads may appear on participating web sites based upon your browsing activity. To allow us to offer our customers streamlined ordering and other useful features, we may use and allow our third party advertising companies to use the technologies listed above and other similar technologies.
-  * MOBILE DEVICES  
-You may be visiting our Website from your mobile device. Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such information if you access the Website through mobile devices. Some features of the Website may allow for the collection of mobile phone numbers and we may associate that phone number to mobile device identification information. Furthermore, some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service. Depending on the provider, we or our third-party service providers may receive this information.
+Personal data that we collect for such purposes and which is indispensable to meet your request is identified by an asterisk in the applicable form. If you do not fill out any of these required fields, we will not be in a position to respond to your request. 
 
+###  1.2 Use of the Website
 
+###  IP Address and browsing data
 
-MAKE UP FOR EVER does not knowingly collect or use any personally identifiable information from individuals under the age of 13. If we become aware that any such information has been provided or submitted to us, we will delete the information as soon as possible.
+When you visit our website our servers automatically collects data from your servers. This information, known as an IP Address, is the number that is assigned to you when you are on the Internet. When you visit the pages on our website, our servers may record your IP Address and sometimes your domain name. Our servers may also save information as to a referring page that contained a link to our website (e.g., another website or a search engine); the pages you visit on this website; the website you visit after this website; the advertisements you have seen and/or clicked on; other information about your web browser, your computer, software and the settings that you are using, any search terms you have entered on this website or another referring website, and other Internet usage activity recorded on our servers. We use this information for internal system administration, to help diagnose problems with our servers, as well as for the management our website.   
+This information may also be used to gather demographic information, such as country of origin and internet service provider. 
 
-MAKE UP FOR EVER retains the Personal Information collected from you until you elect to no longer receive emails or information from us, otherwise terminate your account with us or when MAKE UP FOR EVER concludes it no longer requires that Personal Information for its legitimate business purposes.
+###  Clear GIFs
 
-By providing Personal Information to Us, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.
+We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies, in the Website and/or in our communications with you to enable Us to know whether you have visited a Web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail that communicates to Us whether you viewed an email that we sent you or visited a certain page on our Website. A clear GIF may enable Us to relate your viewing or receipt of a Web page or message to other information about you, including your Personal Information.
 
-###  How is the personal information used?
+###  2\. Right of access, rectification, deletion and objection to processing
 
-We will use the Personal Information you provide to us, for example, to respond to your requests and to provide you with our product and service offerings. We may also use your Personal Information to maintain our internal record keeping, track your purchase history, and contact your for account and promotional purposes. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. We also may analyze user behavior as a measure of interest in, and use of, our Website and e-mails, both on an individual basis and in the aggregate. Finally, we may use your Personal Information for other legitimate business purposes, including to detect and prevent fraud, to collect amounts owing to us and to maintain our business records.
+You possess a right to access, rectify and delete personal data that relates to you, as well as the option to object to the processing of such data that you can exercise at any time by contacting
 
-You may opt out of receiving communications from us by following the instructions in the Right to Opt Out section below. You can also amend your contact information by following the instructions below.
+**Director of Publication:** Nicolas CORDIER, CEO  
+**Editor:** Caroline GRANGE, International Digital Director
 
-###  Do we share personal information and website usage information?
+**Via a letter to the following address:**
 
-  * CORPORATE AFFILIATES  
-We may share certain Personal Information with our affiliates who have services, products and offers that we think might be of interest to you. You can elect not to receive communications from our affiliates by following the instructions in the Right to Opt Out section below.
-  * THIRD-PARTY OFFERS  
-We may provide visitors an opportunity to receive offers from other entities who have services, products and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the instructions in the Right to Opt Out section below, we may from time to time provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the instructions to opt out in the Right to Opt Out section below.
-  * SERVICE PROVIDERS  
-We may use third-party partners to help operate our Website and deliver our products and services, and may share your information with our affiliates, service providers and other third parties that provide products or services for or through this Website or for our business (such as Website or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).
-  * AGGREGATE STATISTICS AND BEHAVIORAL-BASED ADVERTISING  
-We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Website and e-mails to third parties like advertising and marketing partners in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. A third party may use technology (e.g., a cookie) to collect information about your use of our Website and other websites so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our Website, or on other websites.
-  * LEGALLY COMPELLED DISCLOSURES  
-We may disclose user information to government authorities, and to other third parties when compelled to do so by government authorities or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other users of the Website, or anyone else that could be harmed by such activities. Additionally, we cooperate with law enforcement inquiries and other third parties to enforce laws, intellectual property rights and other rights.
-  * CO-SPONSORED CONTESTS, SWEEPSTAKES AND PROMOTIONS  
-Some of our contests, sweepstakes and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstake or offering may be shared with our co-sponsor. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
-  * BUSINESS TRANSFER OR TRANSITION  
-In the event that we are acquired by one or more other parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, or if we sell or otherwise transfer our assets or operations, Personal Information may be one of the transferred assets. We may also disclose Personal Information to prospective purchasers to evaluate a proposed transaction with us.
-  * SOCIAL NETWORKS, WIDGETS AND PLUG-INS  
-If you use any features made available to you on our Website by a third party it may result in information being collected or shared between us and the third party. For example, if you use Facebook’s “Like” feature Facebook may register the fact that you “liked” a product and may post that information on Facebook. As another example, if you posting images to Instagram using hashtags that directly correlate with our campaigns, that gives us permission to dynamically pull this content into our Website.
-  * PUBLIC AND INTERACTIVE AREAS  
-We may from time to time provide interactive services on our Website, including, without limitation, blogs, chat rooms, bulletin boards and discussion groups. Personal Information that you post on or through the public areas of any Website is generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. You should not provide Personal Information about yourself in public or interactive areas of the Website. If posted, such Personal Information is not covered under this Privacy Policy.
+MAKE UP FOR EVER France  
+Customer Service Digital Marketing Europe Department  
+5-7 rue du commandant Pilot 92 200 Neuilly-su-Seine
 
+**Or an e-mail to:**
 
+contact@makeupforever.fr
 
-###  How do we protect your information?
+###  3\. How is the Personal Data Used?
 
-While MAKE UP FOR EVER will take reasonable precautions to protect the security and integrity of Personal Information, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
+###  3.1. Aims in the collection of personal data
 
-We do maintain physical, electronic and procedural safeguards to protect your personal information.
+MAKE UP FOREVER will only collect personal data with respect to you that it strictly necessary for the following purposes :
 
-We use industry-standard Secure Sockets Layer ("SSL") authentication for online transactions made on our site. SSL authentication and encryption of the information that you send to us over the Internet helps protect your online transaction information from third party interception.
+\- Administration of your subscription for the newsletter (subscription and cancellations)
 
-We never display your full credit card number once it has been entered. We will only reveal the last four digits of your credit card for verification purposes.
+\- Use of services offered by the Website
 
-Unfortunately, despite our efforts, there is always a risk that third parties may unlawfully intercept transmissions. This reality is true of all Internet use. As a result, we cannot ensure the security of any information you transmit, and you transmit all information at your own risk. We will not be liable for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+\- Transmission of information as to products, services and offers available from MAKE UP FOREVER
 
-If you contact Us by e-mail or through a "contact us" link or similar feature on our Website, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit.
+\- Statistical information in order to know the usage made by visitors to the website (frequency of consultation of the various website pages, sales statistics and geographical location of visitors to the website, etc ).
 
-If you choose to become a registered user, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Website by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify MAKE UP FOR EVER of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session (especially if you are using a public computer or a shared computer). It is your responsibility to control the dissemination and use of your password, control access to and use of your account, and notify MAKE UP FOR EVER when you desire to cancel your account. We are not responsible or liable for any loss or damage arising from your failure to comply with this provision.
+\- MAKE UP FOREVER may provide visitors, who have expressly given their prior consent, with e-mails containing offers with respect to products or services furnished by commercial partners of MAKE UP FOREVER or that have come from the latter. 
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, We would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification.
+Furthermore, we reserve the right to compile and publish generic information with respect to the profiles of visitors to our website without however indicating any personal data, such as the name and address of the visitors. 
 
-###  What are your choices about your personal information?
+###  3.2 Retention of Data
 
-  * RIGHT TO OPT OUT  
-You may have the right to "opt out" of certain of our uses of your Personal Information. If you would like to opt out of receiving promotional emails from us, please follow the unsubscribe instructions located at the bottom of each email. If you would like to opt out of receiving direct mail or telephone marketing calls from us, or if you prefer that we not share your Personal Information with third parties for marketing purposes, please send your request, including your name, email, street address, city, state, and zip code, via email to contact@makeupforever.com (please use the subject line: Privacy Opt-Out Request). You can also call Customer Service at 1 (855) 575-3820 or go online to your account page on the Site and change your email and marketing preferences at any time.
+The data will be retained for the period necessary for the purposes for which it was collected. 
 
-We are not responsible for notices that are not labeled or sent improperly, or do not have complete information. We will process your request within 30 days of the date we receive your request, but you may, in the meantime, receive previously scheduled emails, mail or calls from us. We will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such date following your request. In these cases, please contact that entity directly. Once you have opted out, you do not need to do so again. Please note that MAKE UP FOR EVER may still use your Personal Information (and may share your information with our service providers) to provide you with services, including sending you administrative and transaction-related emails, relating to your online shopping needs and your other activity on the Website.
+###  3.3 Recipient of the Data
 
-You can opt out of some, but not all, online behavioral based advertising by clicking <http://www.networkadvertising.org/choices/>
+The recipient of the personal data collected is MAKE UP FOR EVER.
 
-  * NOTICE TO CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS  
-If you are a California resident, you have the right to receive information identifying any third party company(ies) to whom MAKE UP FOR EVER may have disclosed, within the past year, personal information (as defined herein) pertaining to you for that company's direct marketing purposes; and a description of the categories of personal information so disclosed. To obtain such information, please email your request to [contact@makeupforeverusa.com](mailto:contact@makeupforeverusa.com) (please use the subject line: California Privacy Information Request
+The personal data collected by MAKE UP FOR EVER may be transmitted to affiliated companies, when:
 
+\- You have given your prior consent to the sharing of this information
 
+\- The sharing of such data is necessary in order to provide you with the service that you require 
 
-###  Will this privacy policy change?
+\- Our sweepstakes, competitions and other promotional offers are sponsored by another company
 
-MAKE UP FOR EVER reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Website by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Website. Under certain circumstances, We may also elect to notify you of changes or updates to our Privacy Policy by other means, such as posting a notice on the front page of our Website or by sending you an e-mail. We also will note the effective date of the latest version at the end of this Privacy Policy. You should review our Privacy Policy periodically so that you keep up-to-date on our most current practices.
+\- MAKE UP FOREVER is required by a court or any other administrative authority to transmit the information to it.
 
-###  How can you communicate with us?
+For the technical requirements for the management of the storage of your personal data, your data will be centralised on the central servers of our service provider located at 8 Rue de l'Industrie, 93200 Saint-Denis FRANCE.
 
-If you have any questions or comments regarding our privacy or security practices, you may contact us at [contact@makeupforeverusa.com](mailto:contact@makeupforeverusa.com) and also by mail or telephone at:
+Host for the website www.makeupforever.com:
 
-MAKE UP FOR EVER LLC  
-208 Fernwood Ave  
-Edison NJ, 08837  
-1(855)575-3820  
-[dphillips@makeupforeverusa.com](mailto:dphillips@makeupforeverusa.com)
+**Hosted by:** LinkbyNet  
+Address: 8 Rue de l'Industrie, 93200 Saint-Denis FRANCE  
+Phone:033 (1) 48 13 00 00  
+Hours: Monday to Friday 8:00 am–7:30 pm
 
-Effective Date: May 2015
+In the event that MAKE UP FOR EVER is acquired by one or more third parties following a transaction involving a purchase, merger, sale, reorganisation, consolidation or liquidation, or if we dispose of or transfer our properties or assets, the personal data may form part of the assets transferred.
+
+###  3.5 Security and Confidentiality of Data
+
+MAKE UP FOR EVER has tried to implement all necessary precautions to preserve the confidentiality and the security of any personal data processed and to prevent it being distorted, damaged or destroyed or any non-authorised third-party gaining access to such data.  
+Technical and organisational security measures in conformity with industry standards, including with respect to the IT systems, have been implemented.   
+However, MAKE UP FOR EVER cannot control all risks related to the operation of the Internet and Internet users should be aware of the existence of the possible risks inherent in the use and functioning of the Internet.  
+If you choose to become a registered user, you will be responsible for keeping your password strictly confidential, and you will also be liable for any access or use of our websites by you or by any other person using your password, with or without your authorisation. You agree to (a) immediately notify MAKE UP FOR EVER if there has been a non-authorised use of your password or your account or any other breach of security, and (b) ensure that you sign off at the end of each session. It will be your responsibility to monitor the use of your password, and any use made of it to access and connect to your account and to notify MAKE UP FOR EVER when you wish your account to be deleted. We shall not be liable for any loss or any consequences which result from your failure to comply with this condition.
+
+###  4\. Send to a Friend Functions
+
+You can use our website to send a wish list to your friends. In order to do so, we require you to fill out the following fields: names and e-mail addresses. We may also ask you to indicate the name and e-mail address of your friend for the purposes of sending the information to them. We only collect this information to ensure the sending of your e-mail is technically possible. We do not store or record data as to the recipient. 
+
+###  5\. Cookies 
+
+###  5.1. What is a cookie?
+
+A cookie is a small text file that can be saved in the dedicated space on the hard disk of your device* when you consult an online service using your web browser. A cookie permits the issuer to identify the device on which it has been saved, during the period the cookie is valid or saved.  
+* The term "device" refers to the hardware (computer, tablet, smartphone, etc.) that you use to consult or display a website, an application, advertising content, etc.
+
+###  5.2. Cookies originating from our website
+
+Whenever you connect to our website, we may, if you have chosen to accept them, install various cookies on your Device which permit us to recognise the browser on your Device for the duration of validity of cookie in question.
+
+The Cookies that we use permit us to:
+
+\- establish statistics and volume of frequency and use for various items included on our Website (pages and content visited, browsing history) permitting us to improve the interest and ergonomics of our services; 
+
+\- adapt the presentation of our Website to the display preferences of your device (language, display resolution, operating system, etc.) during your visits to our Website, in accordance with the hardware and display or browser software included on your device;
+
+\- adapt our advertising to the display preferences of your device (language, display resolution, operating system, etc.), in accordance with the hardware and display or browser software included on your device;
+
+\- adapt the advertising content displayed on your device in accordance with the browsing history of your device on our website;
+
+\- adapt the advertising content displayed on your device in accordance with the location data (longitude and latitude) transmitted by your device with your prior consent;
+
+\- associate personal data, to the extent you have furnished us with such data when you registered for or accessed one of our services, in particular your digital coordinates, with the browsing information with respect to your device in order to send you, for example, digital offers or display on your device, within the advertising spaces included on our Website, personalised advertising specifically intended for you that is likely to be of particular interest to you;
+
+\- memorise information with respect to a form that you have filled out on our Website (registration for or access to your account) or products, services or information that you have selected on our Website (services subscribed for, content of an order basket, etc.);
+
+\- permit you to access reserved and personal spaces on our Website, such as your account, through the use of your username or data that you have previously provided us with; 
+
+\- implement security measures, for example when you request to connect to new content or a service after a certain lapse of time.
+
+###  5.3 Third Party Cookies on Our Website
+
+###  5.3.1. Cookies originating from third party applications integrated into our Website:
+
+We may include third party software applications on our Website, which permit you to share the content of our Website with other people or inform other people of the content you have consulted on our Website and of your opinion on it. These third party applications include the "Share" and "Like" buttons used by social networks (such as "Facebook", "Twitter", etc.).   
+The social network that has furnished the application button is capable of identifying you thanks to this button, even if you have not used the button when you visited our Website. In fact, these types of application button permit the social network in question to follow your browsing history on our Website, whenever your social network account is active on your Device (an open session) when you are browsing our Website.  
+We have no control as to the procedures employed by the social networks for the collection of information with respect to your browsing history on our Website and the related personal data that they hold. Please consult the privacy policies of the social networks in question to discover the purposes, including advertising, for which they use browsing data that they are able to collect using these application buttons. These privacy policies are required to permit you to exercise your choices with respect to such social networks, in particular through your account settings for the use of each of these networks. 
+
+###  5.3.2. Third party targeted advertising Cookies on our website:
+
+Our website may contain third party cookies (from advertising agencies, audience research companies, targeted advertising service providers, etc.) which permit these third parties during the period of these cookies are valid to: 
+
+\- collect browser information with respect to the Devices consulting our Website.
+
+\- determine the advertising content for the promotion of products and/or services offered solely on our Website and likely to correspond to your interests as deduced by the prior browsing history of the device in question.
+
+###  5.4. Your choices with respect to cookies
+
+You have several possibilities with respect to the management of cookies. Any settings you adopt may affect your Internet browser and the availability of certain services that require the use of cookies.  
+You can set up and modify your settings with regard to cookies at any time, using the methods described below. 
+
+###  5.4.1. The choices offered by your web browser:
+
+You can configure your web browser so that cookies are saved on your Device or, in the alternative, systematically rejected depending on their origin. You can also configure your browser in such a manner that you can decide each time whether to accept or reject a cookie, prior to a cookie being saved on your device. For more information, consult the heading "How to exercise your choices, depending on the browser you are using"
+
+(a) Consent as to Cookies
+
+The saving of a cookie on a device is essentially dependent upon the consent of the user of the Device, which the user can establish and modify at any time, free of charge, pursuant to the settings available in their browser software.  
+If you have agreed in your browser software to accept cookies on your Device, the cookies included in the pages and content that you have consulted may be temporarily stored in a dedicated space on your Device. They are only readable by the issuer of the cookie. 
+
+(b) Rejecting Cookies
+
+If you have set your Device to reject cookies, or if you deleted the cookies that have been saved, you will not be able to benefit from a certain number of functions which are nevertheless necessary to navigate in certain spaces on our Website. This will be the case if you attempt to access content or services which require you to be identified. This will also be the case when we, or our service providers, cannot identify, for technical compatibility purposes, the type of browser being used by your device, its language and display settings or the country from which your Device appears to be connected to the Internet.   
+In all circumstances, we shall have no liability with respect to a decline in the functionality of our services resulting from Sephora's inability to save or consult the cookies necessary for their operation that you have rejected or deleted. 
+
+(c) How to exercise your choices, depending on the browser you are using
+
+Each browser is different with respect to its cookie preference settings. The settings are described in the help menu of your browser, which will permit you to know how to modify your settings with respect to cookies.  
+For Internet Explorer™: http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies, browser   
+For Safari™ : http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html  
+For Chrome™:   
+http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647  
+For Firefox™:   
+http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies  
+For Opera™: http://help.opera.com/Windows/10.20/fr/cookies.html
+
+###  5.4.2. "Flash"© cookies from "Adobe Flash Player"™
+
+"Adobe Flash Player"™ is a software application that permits the rapid development of dynamic content using the "Flash" programming language. Flash (and applications of the same type) remember the parameters, preferences and use of content using a technology similar to cookies. However, "Adobe Flash Player"™ manages this information and your personal settings via a different interface to that used by your browser.   
+If your device is configured to visualise content developed in the Flash language, please consult the tools available for you to manage Flash cookies accessible directly on the website http://www.adobe.com/fr/.
+
+###  5.4.3. Expressing your choices online using specialised advertising platforms
+
+With respect to advertising cookies, you can also connect to the website youronlinechoices, offered by the digital advertising industry through the EDAA (European Digital Advertising Alliance) and managed in France by the Interactive Advertising Bureau France.  
+You can also discover the companies registered with this platform, which offers you the possibility of accepting or rejecting cookies used by its member companies to adapt advertising displayed on your device to your browsing history: http://www.youronlinechoices.com/fr/controler-ses-cookies/.  
+This European platform is shared by hundreds of Internet advertising companies and is intended to act as a centralised interface for you to express your choice as to your acceptance or rejection of cookies intended to adapt the advertising displayed on your device to its browsing history. Please note that this procedure does not prevent the display of advertising on the websites you visit. It only blocks technologies which permit the advertising to be adapted to your interests.
+
+###  5.5. If you share your device with other people
+
+If your device is used by several different people and when the same device includes several different browsers, we can provide no assurance that the services and advertising intended for your Device properly corresponds to your use of such device and not to another user of the same Device.   
+You will be solely responsible and liable for any sharing, if applicable, of your Device with other people and for the configuration of your browser settings with respect to cookies.   
+For more information as to cookies and their use, you can consult the information made available by the French Commission Nationale de l’Informatique et des Libertés at the following address: http://www.cnil.fr.
+
+###  6\. Updates to the Privacy Policy
+
+MAKE UP FOR EVER reserves the right to modify or update this Privacy Policy, and institute other policies or practices, from time to time, and will inform users of this website of them via updates to this page. Any change or update will become effective immediately, as soon as it is posted onto this website. In certain circumstances, we may also decide to notify you or update our Privacy Policy by posting a notice on the homepage of our Website or by sending you an e-mail.
+
+###  7\. Contact us
+
+### 
+
+If you have any questions or comments with respect to our privacy policy, please contact us at the following address: unregister@makeupforever.fr
+
+Last Update April 2016 
