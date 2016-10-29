@@ -1,72 +1,98 @@
-> *The following text is extracted and transformed from the 3drobotics.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304015057id_/http%3A//store.3drobotics.com/privacy_info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3drobotics.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029104231id_/https%3A//3dr.com/privacy) for the most accurate reproduction.*
 
-# 3DRobotics - 3DRobotics Inc
+# Privacy Policy | 3DR - Drone & UAV Technology
 
-## What information do we collect?
-
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them. 
+  1. [Support](https://web.archive.org/support/categories/)
+  2. [Legal](https://web.archive.org/support/sections/201260726/legal)
+  3. General
 
 
 
-## How do we use your information?
+In this Statement, we, 3D Robotics, Inc. (“3DR”) describe our practices regarding the collection, use, disclosure and other processing of personal data that we collect from visitors of our web and mobile sites including 3DR web site, 3DR mobile app, including but not limited to the 3DR Solo App, Droneshare, or other 3DR sites (the “Site”). This Statement does not apply to any other data, including, without limitation, data that we collect offline or via apps or sites on which we do not post a direct link to this Statement.
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+**Changes.** Carefully review this Statement. It is effective and current as of November 12, 2015. We will amend it from time to time as features of our Site change.
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions. 
-  * To administer a contest, promotion, survey or other site feature. 
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us. 
+**Using the 3DR Mobile Apps.** When you use the 3DR mobile apps, you may provide us your name, and email address. You may also provide us with and other optional profile information such as address and telephone number. You will know what data you provide us because you will be actively submitting it to us. We use actively submitted data to provide you software updates, provide you with products and services such as airspace information and other in-app services. With your permission we may also provide vehicle registration services. See below for additional types and uses of information.
+
+**Registration and Transaction Data.** When you make purchases in the 3DR Store, visit our Site or send us requests through our Site, you may provide us your name, mailing address, email address and other optional profile information. If you make purchases in the 3DR Store you will be asked to provide name, address, and credit card or other payment information. You will know what data you provide us because you will be actively submitting it to us. We use actively submitted data to provide you software updates, process your purchases, respond to other requests and provide you with information on our products and services (unless or until you opt-out of receiving marketing information, which you can do[here](http://3drobotics.us8.list-manage.com/unsubscribe?u=10b4ca21a4f6f0309a7039d18&id=48ef0db73c&e=&c=76add6ae60).
+
+**Usage Data, Analytics and Cookies.** When you access and use the Site, your device transmits information about your device, software, and other technical information. We place cookies on your devices as necessary to provide functionality to you and as described in more detail here. We may also collect information about your browser, operating system, the address of the external or internal page that referred you, and your IP address. We use a tool called Google Analytics to help us understand how users interact with our Site. It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site. We process usage information to deliver, improve and optimize the Site and to protect you, us and other users from fraud and misuse. We do not currently respond to “Dot Not Track” signals or similar settings.
+
+**Data Retention and Access.** We use servers, routers and other communication equipment in the United States to operate the Site. We retain account and usage data as long as required by applicable law. Beyond required retention periods, we may keep data as long as permitted by law.
+
+**Disclosures, sharing.** We do not disclose your individual account or usage data to third parties, except as follows:
+
+  * With your consent.
+  * We use affiliated and unaffiliated service providers that process data on our behalf, under our instructions and subject to adequate confidentiality agreements.
+  * We share aggregated usage statistics that cannot be used to identify you individually.
+  * We will disclose data as required by law or to protect you, other users, us or third parties from harm, including fraud, data security breaches or where someone’s physical safety seems at risk.
+  * In a reorganization or transfer of our company or assets your data may be transferred, subject to the acquirer accepting the commitments made in this Statement and compliance with applicable law.
 
 
 
-## How do we protect visitor information?
+**Third party data collection.** At our discretion, we may include or offer third party products or services on our Site. These third party sites have separate and independent privacy policies. We have no responsibility for the content and activities of these linked sites.  
+ **Security.** We take reasonable steps to protect messages and data loss, misuse, and unauthorized  
+access. But, no Internet transmission is ever completely secure or error-free. In particular, uploads and downloads to or from our Site are not encrypted.
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. 
+**Questions, Requests, Rights.** If you have any questions or requests, please [contact us here](https://3dr.com/contact/). Under the laws in your country, you may have a right to access information that we have about you, to correct such information and to request the deletion of your personal data in accordance with applicable law. You may also be entitled to object to certain data processing activities or to revoke consent previously granted, to the extent permitted by local law.
 
-## Do we use "cookies"?
+**Information We Collect**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+**Information you give us**
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+  * When you register through the 3DR mobile apps, you provide us information about yourself, such as your name, e-mail address, and product information such as serial number and unique identifiers related to your Solo system. You may also provide additional information such as address and telephone number.
+  * By use of the 3DR mobiles apps, you provide information regarding your vehicle including the flight data, e.g. location, date and time only when you are logged in.
+  * By default when you use the 3DR mobile apps, you share anonymous analytics data so that we can improve the software experience. This may include details about your usage of the system. You may opt out of anonymous analytics at anytime.
+  * When you file a support ticket through the 3DR Solo app, you send your flight logs, Solo settings, and logs collected from your vehicle for us to examine. These logs may be used to improve the Solo experience.
+  * If you make purchases in the 3DR Store you will be asked to provide name, address, and credit card or other payment information. Upon registration you share preferences regarding receipt of promotional and other emails from 3DR or its partners.
+  * On Droneshare, you can add vehicles and choose to share vehicle and mission information. If you choose to share mission information, flight metrics such as date, location, time, altitude speed, air speed and software version of the vehicle will be viewable to other members.
+  * We may also collect information about your browser, operating system, the address of the external or internal page that referred you, and your IP address.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service. 
 
-## Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include 3D Robotics Inc. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+**Log data**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+  * Flight logs will be automatically sent to Droneshare if you are logged in through Tower. If you are logged in with the 3DR Solo app, flight logs are sent to us whenever you file a support ticket.
+  * By default when you use the 3DR mobile apps, you share anonymous analytics data so that we can improve the software experience. This may include details about your usage of the system. You may opt out of anonymous analytics at anytime.
+  * Logs are recorded on the vehicle, controller, and 3DR mobile apps even if you are logged out of your account.
 
-## How can you opt-out, remove or modify information you have provided to us?
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production. 
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. 
+**How We Use Information We Collect**
 
-## Third party links
+  * To provide information about flight conditions in your location.
+  * Your name will be displayed within your Droneshare profile for other members to see and detailed information about your vehicles and missions may be shared with other members based on the sharing preferences you have selected when adding a vehicle.
+  * With your permission, we may share data with regulatory agencies to comply with mandatory or voluntary registration requirements. We will only do this with your permission.
+  * We use aggregated and anonymous data to improve products and services, create new products and services. We reserve the right to use data and to share data with third parties.
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). 
 
-## Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+**3DR Mobile App Services Provided to You by Third Parties**
 
-## Questions and feedback
+We collaborate with third parties to provide services such as no-fly-zone information, and may allow third parties to use our developer platform to offer services and functionality in conjunction with our Services. In order to provide no-fly-zone information, we need to send your location and unique vehicle identifier to a third party service. We may send your location to a third party service in order to receive data that improves the performance of your vehicle (for example: time to acquire GPS lock).
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue. 
+**To Help us Monitor and Improve the Services we Offer**
 
-## Online Policy Only
+We make efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and other activities that violate the terms of service.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+We may employ third party companies and individuals to facilitate our Services (e.g. maintenance, analysis, audit, marketing and development). These third parties have limited access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
 
-## Terms and Conditions
+**For Legal Reasons**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+We may disclose your information (including your personally identifiable information, vehicle and flight information) if required to do so by law, regulation or subpoena. We may also disclose your information to our legal counsel, governmental authorities or law enforcement if we believe that it is reasonably necessary to do so in order to comply with a law or regulation; to protect the safety of any person; to address fraud, security or technical issues; or to protect 3DR’s rights or property.
 
-## Your consent
+**Do Not Track Signals**
 
-By using our site, you consent to our privacy policy. 
+The Droneshare website does not currently respond to a Do Not Track (“DNT”) or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond.
+
+##  Live Chat 
+
+Available hours: 8am - 5pm PST 
+
+##  Email 
+
+Email our team for support 
+
+##  Hardware Services 
+
+Find an Authorized Service Center 
