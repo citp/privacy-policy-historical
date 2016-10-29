@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orocrm.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528230736id_/https%3A//www.orocrm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orocrm.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030004251id_/https%3A//www.orocrm.com/privacy-policy) for the most accurate reproduction.*
 
 # OroCRM: A Top Ecommerce CRM | Privacy Poliy
 
