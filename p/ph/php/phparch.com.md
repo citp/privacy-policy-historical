@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phparch.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430022340id_/https%3A//www.phparch.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phparch.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029121143id_/https%3A//www.phparch.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « php[architect] – Magazine, Training, Books, Conferences
 
