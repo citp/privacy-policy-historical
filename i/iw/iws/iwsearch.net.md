@@ -1,67 +1,100 @@
-> *The following text is extracted and transformed from the iwsearch.net privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410074112id_/http%3A//iwsearch.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwsearch.net privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy: InfoWeb.net Information Directory
+# Legal Agreement
 
-You may also wish to visit the [Policy Page](https://web.archive.org/web/20160410074112id_/http%3A//iwsearch.net/policy.php) for policies other than privacy.  
+**GoDaddy Respects Your Privacy**
 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-## Privacy, Email, and Spam Statement for infoweb.net Domain
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-InfoWeb.net has created this statement in order to demonstrate our firm commitment to privacy, and keeping the Internet Spam-free. It is also intended to answer frequently asked questions that are related to our privacy policy. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-The following statement discloses our information gathering and dissemination practices for websites in the InfoWeb.net domain. 
+**Information Collection and Use**
 
-Please note that advertisers on these sites may set cookies, record your access of their advertisements. This data is usually shared among advertisers to help them track your use of the web and target you with relevant advertisements. Such tracking is not specific to InfoWeb.net , nor does InfoWeb.net actively participate in such data collection. If you do not wish to participate in web advertising, there are software utilities that can be used, such as the Sunbelt Kerio PC Firewall, which can be used to block such tracking, and AdAware, which can remove tracking cookies. You may also choose to view ads without such tracking, which is possible by suitably configuring such software but may impair the functionality or experience of using the site. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Our site may use cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests. We use cookies to assist in site navigation and display your most recent search. We also use cookies to prevent abuse of the site. At times, we may use no cookies at all. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-This site contains links to other sites. **InfoWeb.net** is not responsible for the privacy practices or the content of such Web sites.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## Unsolicited Email ("Spam")
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We do not send unsolicited email ("Spam"). We do send email to customers who have established an account with us, and have voluntarily provided us with their email address and other contact information. We use automated processes or manual processes to verify email addresses that are provided to us. We do not share our customer information with any other party. We do not collect the email addresses of users who do not establish accounts (i.e. with username and password) with us. We do reply to inquiries made by email; such emails may contain incorrect reply addresses: due to limitations of the Internet email system ("return address spoofing"), we are unable to determine when this has occurred, however such a reply message would only occur once per inquiry. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-## Changes to your Computer, Installation of Software
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-We do not automatically install software on your computer (including "Malware" or "Spyware"). We do not make changes to the configuration of your computer. 
+**Security**
 
-InfoWeb.net supports OpenSearch. This mechanism is built into the most recent versions of popular web browsers, and allows the user to add the InfoWeb.net search engine to a list of content search providers. We do not, and are unable to, automatically add our site to this list: adding a site requires manual intervention by the user. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-## Choice/Opt-Out
+**Updating Your Information**
 
-We will not send you email unless you request it or in response to an email you sent to us. We will not collect your email address unless you provide it to us or correspond with us. We will not provide your email address to a third party. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-## Correct/Update
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-This site gives users the following options for changing and modifying information previously provided. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
-  2. send mail to the following postal address:  Unimatics, Inc. 101 Convention Center Drive STE 700 Las Vegas, NV 89109 
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
+**Third Party Service Providers**
 
-## Security
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-## Contacting the Web Site
+**Supplementation of Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us via: 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  1. You can send email via the email panel on the right-hand side of our home page, or by emailing the address that can be found on our [contact page](http://www.mnema.com/contact.html). To prevent spam, direct links to our email address(es) is not included in HTML on our site. We apologize for the inconvenience caused by spammers. 
-  2. send mail to the following postal address:  Unimatics, Inc. 101 Convention Center Drive STE 700 Las Vegas, NV 89109 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Privacy Policy 12/8/2004 revised 11/10/2011   
-(C) 2005-2012, InfoWeb.net 
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
