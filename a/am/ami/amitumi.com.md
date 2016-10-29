@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amitumi.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526172550id_/http%3A//amitumi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amitumi.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029051833id_/http%3A//amitumi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | :AmiTumi: Bangladesh's first 24x7 Lifestyle Magazine
 
@@ -74,4 +74,4 @@ http://www.amitumi.com
 Dhaka  
 Bangladesh  
 amitumilive@gmail.com  
-+8801723054413
++8801720000000
