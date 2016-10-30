@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scubadiverlife.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403013804id_/http%3A//scubadiverlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubadiverlife.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030160746id_/http%3A//scubadiverlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Scuba Diver LifeScuba Diver Life
+# Privacy Policy • Scuba Diver Life
 
 Protecting your private information is our priority. This Statement of Privacy applies to the ScubaDiverLife.com and Scuba Diver Life and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Scuba Diver Life include ScubaDiverLife.com and SDL. The SDL website is a news and information site. By using the SDL website, you consent to the data practices described in this statement.
 
