@@ -1,9 +1,29 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329210910id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030180527id_/https%3A//www.nph.org/ws/contact/privacy.php) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
+|  |  |   
+---|---|---  
+|  |   
+  
+[](https://www.nph.org/)  
+  
+| 
+
+[](https://www.nph.org/)
+
+|   
+| 
+
+| 
+
 ## Privacy Policy 
 
+|   
+---  
+Easter vacation at the beach   
+(NPH Honduras)   
+  
 NPH.org developed this Privacy Policy (the "Policy") as an extension of our commitment to help those in need, while serving our valued friends, donors, visitors, customers, and the companies, businesses and organizations they represent (collectively, "you") with the highest level of integrity. 
 
 **IF YOU DO NOT AGREE TO THE POLICY, YOU SHOULD NOT USE THIS INTERNET WEBSITE (THE "NPH SITE"). WE MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. YOUR CONTINUED USE OF THE NPH SITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED AGREEMENT.**
@@ -117,11 +137,11 @@ To terminate your sponsorship, send a message to the fundraising office that han
 
   9. ### Corrections/Updates
 
-NPH.org gives you the opportunity to change and modify information previously provided to the NPH Site at [our contact page](https://www.nph.org/ws/contact/?lang=en).
+NPH.org gives you the opportunity to change and modify information previously provided to the NPH Site at [our contact page](https://www.nph.org/ws/contact/).
 
   10. ### Contact Us
 
-If you have any questions about this Privacy Policy or the NPH Site, you may contact us at [](mailto:) or write to us at: 
+If you have any questions about this Privacy Policy or the NPH Site, you may contact us at [info@nph.org](mailto:info@nph.org) or write to us at: 
 
 > Nuestros Pequeños Hermanos™ International A.C.  
 > Apdo. Postal 333  
@@ -133,12 +153,8 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 
 * * *
 
-|  | 
+|  |  |   
+---|---|---  
+   
+  
 
-| Donate  
----  
-Sponsor a Child  
-  
-  
-Everybody in the photo!  
-(NPH El Salvador - 2010)
