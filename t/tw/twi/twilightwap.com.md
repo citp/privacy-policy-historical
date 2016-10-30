@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilightwap.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503215606id_/http%3A//twilightwap.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilightwap.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030025505id_/http%3A//twilightwap.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Twilight Zone - Log In
 
