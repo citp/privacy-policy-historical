@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the theme.co privacy policy that was archived on 2016-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310173924id_/http%3A//theme.co/x/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theme.co privacy policy that was archived on 2016-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161030183940id_/http%3A//theme.co/x/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Privacy</title>
   <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -12,16 +12,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Privacy | X</title>
 <link rel="pingback" href="http://theme.co/x/xmlrpc.php">
-<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[265,283] -->
+<!-- All in One SEO Pack 2.3.8 by Michael Torbert of Semper Fi Web Design[265,283] -->
 <meta name="description" itemprop="description" content="Last Updated: October 18, 2013 Themeco (SITE) has established this privacy policy to demonstrate our commitment to the privacy of the users of our website.">
 
 <!-- /all in one seo pack -->
 <link rel="alternate" type="application/rss+xml" title="X » Feed" href="http://theme.co/x/feed/">
 <link rel="alternate" type="application/rss+xml" title="X » Comments Feed" href="http://theme.co/x/comments/feed/">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/theme.co\/x\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.3"}};
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/theme.co\/x\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.6"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://theme.co/x/wp-includes/js/wp-emoji-release.min.js?ver=4.3.3" type="text/javascript"></script>
+		</script><script src="http://theme.co/x/wp-includes/js/wp-emoji-release.min.js?ver=4.3.6" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -36,26 +36,26 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="rs-plugin-settings-css" href="http://theme.co/x/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.6" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://theme.co/x/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.4.1" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-<link rel="stylesheet" id="x-stack-css" href="http://theme.co/x/wp-content/themes/x/framework/css/dist/site/stacks/integrity-light.css?ver=4.3.4" type="text/css" media="all">
-<link rel="stylesheet" id="x-child-css" href="http://theme.co/x/wp-content/themes/x-child-custom/style.css?ver=4.3.4" type="text/css" media="all">
-<link rel="stylesheet" id="x-google-fonts-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C700%2C700italic%2C900%2C400&amp;subset=latin%2Clatin-ext&amp;ver=4.3.4" type="text/css" media="all">
-<link rel="stylesheet" id="x-fa-icon-classes-css" href="http://theme.co/x/wp-content/plugins/cornerstone/assets/css/site/fa-icon-classes.css?ver=1.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="x-stack-css" href="http://theme.co/x/wp-content/themes/x/framework/css/dist/site/stacks/integrity-light.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="x-child-css" href="http://theme.co/x/wp-content/themes/x-child-custom/style.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="x-google-fonts-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C700%2C700italic%2C900%2C400&amp;subset=latin%2Clatin-ext&amp;ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="x-fa-icon-classes-css" href="http://theme.co/x/wp-content/plugins/cornerstone/assets/css/site/fa-icon-classes.css?ver=1.2.4" type="text/css" media="all">
 <script type="text/javascript" src="http://theme.co/x/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://theme.co/x/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.6"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.6"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/themes/x/framework/js/dist/site/x-head.min.js?ver=4.3.4"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/cornerstone/assets/js/dist/site/cs-head.min.js?ver=1.1.1"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.4.1"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.4.1"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/themes/x/framework/js/dist/site/x-head.min.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/cornerstone/assets/js/dist/site/cs-head.min.js?ver=1.2.4"></script>
 <link rel="canonical" href="http://theme.co/x/privacy/">
 <link rel="shortlink" href="http://theme.co/x/?p=438">
-<meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<meta property="og:site_name" content="X"><meta property="og:title" content="Privacy"><meta property="og:description" content="Last Updated: October 18, 2013 Themeco (SITE) has established this privacy policy to demonstrate our commitment to the privacy of the users of our website. Please read the following to learn more about our privacy…"><meta property="og:image" content="http://theme.co/x/wp-content/uploads/2016/04/og-x.png"><meta property="og:url" content="http://theme.co/x/privacy/"><meta property="og:type" content="article"><meta name="generator" content="Powered by Slider Revolution 5.2.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
 <style id="x-generated-css" type="text/css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-topbar .p-info a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-widgetbar .widget ul li a:hover,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:#2ecc71;}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:#2d824c;}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:#2ecc71;}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:#2ecc71;}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0 #2ecc71;}.x-main{width:69.536945%;}.x-sidebar{width:25.536945%;}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#878787;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#ffffff;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0 #2ecc71;}.x-navbar .desktop .x-nav > li > a{height:54px;padding-top:19px;}.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:1px;}.x-navbar .desktop .x-nav > li ul{top:39px;;}.x-colophon.top,.x-colophon.bottom{border-top:1px solid #e0e0e0;border-top:1px solid rgba(0,0,0,0.085);background-color:transparent;box-shadow:inset 0 1px 0 0 rgba(255,255,255,0.8);}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:Lato;font-weight:900;text-transform:uppercase;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:Lato;}.widget ul li a,.widget ol li a,.x-comment-time{color:#272727;}.widget_text ol li a,.widget_text ul li a{color:#2ecc71;}.widget_text ol li a:hover,.widget_text ul li a:hover{color:#2d824c;}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:#272727;}.widget_calendar #wp-calendar th{border-color:#272727;}.h-feature-headline span i{background-color:#272727;}@media (max-width:979px){.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:0;}}body{font-size:15px;font-style:normal;font-weight:300;color:#272727;background-color:#f5f5f5;}a:focus,select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="submit"]:focus,input[type="checkbox"]:focus{outline:thin dotted #333;outline:5px auto #2ecc71;outline-offset:-1px;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Lato",sans-serif;font-style:normal;font-weight:900;text-transform:uppercase;}h1,.h1{letter-spacing:-0.025em;}h2,.h2{letter-spacing:-0.025em;}h3,.h3{letter-spacing:-0.025em;}h4,.h4{letter-spacing:-0.025em;}h5,.h5{letter-spacing:-0.025em;}h6,.h6{letter-spacing:-0.025em;}.w-h{font-weight:900 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:15px;}body,input,button,select,textarea{font-family:"Lato",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#272727;}.cfc-h-tx{color:#272727 !important;}.cfc-h-bd{border-color:#272727 !important;}.cfc-h-bg{background-color:#272727 !important;}.cfc-b-tx{color:#272727 !important;}.cfc-b-bd{border-color:#272727 !important;}.cfc-b-bg{background-color:#272727 !important;}body.x-navbar-fixed-top-active .x-navbar-wrap{height:54px;}.x-navbar-inner{min-height:54px;}.x-brand{margin-top:4px;font-family:"Lato",sans-serif;font-size:44px;font-style:normal;font-weight:400;letter-spacing:0em;text-transform:uppercase;color:#878787;}.x-brand:hover,.x-brand:focus{color:#878787;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Lato",sans-serif;font-style:normal;font-weight:400;letter-spacing:0.221em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:12px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:17px;padding-right:17px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.221em;}.x-btn-navbar{margin-top:10px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:16px;}@media (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}.x-widgetbar{left:0;right:0;}}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#2d824c;background-color:#2ecc71;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #2d824c,0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#205b39;background-color:#28af63;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #205b39,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #2d824c,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #205b39,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}</style></head>
 
-<body class="page page-id-438 page-template page-template-template-layout-full-width page-template-template-layout-full-width-php tco alt x-integrity x-integrity-light x-navbar-fixed-top-active x-full-width-layout-active x-full-width-active x-v4_3_4 x-child-theme-active cornerstone-v1_1_1">
+<body class="page page-id-438 page-template page-template-template-layout-full-width page-template-template-layout-full-width-php tco alt x-integrity x-integrity-light x-navbar-fixed-top-active x-full-width-layout-active x-full-width-active x-v4_5_2 x-child-theme-active cornerstone-v1_2_4">
 
   
   
@@ -120,8 +120,6 @@ img.emoji {
 
               
 <article id="post-438" class="post-438 page type-page status-publish hentry no-post-thumbnail">
-  <div class="entry-featured">
-      </div>
   <div class="entry-wrap">
                 <header class="entry-header">
         <h1 class="entry-title">Privacy</h1>
@@ -197,19 +195,32 @@ img.emoji {
     <div class="x-container max width">
 
               
-<ul id="menu-footer-menu" class="x-nav"><li id="menu-item-495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="http://theme.co/x/">Home</a></li>
-<li id="menu-item-2089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2089"><a href="http://theme.co/x/features/">Features</a></li>
-<li id="menu-item-2282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2282"><a href="http://theme.co/x/extensions/">Extensions</a></li>
-<li id="menu-item-499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-499"><a href="http://theme.co/x/demos/">Demos</a></li>
-<li id="menu-item-2097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2097"><a href="http://theme.co/blog/">Themeco Blog</a></li>
+<ul id="menu-footer-menu" class="x-nav"><li id="menu-item-3288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3288"><a href="//theme.co/">Home</a></li>
+<li id="menu-item-495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="http://theme.co/x/">X</a></li>
+<li id="menu-item-2282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2282"><a href="//theme.co/cornerstone/">Cornerstone</a></li>
+<li id="menu-item-499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-499"><a href="//theme.co/x/demos/">Demos</a></li>
+<li id="menu-item-2097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2097"><a href="//theme.co/blog/">Themeco Blog</a></li>
 <li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-438 current_page_item menu-item-493"><a href="http://theme.co/x/privacy/">Privacy</a></li>
 <li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="http://theme.co/x/terms/">Terms</a></li>
 <li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="http://theme.co/x/support/">Contact</a></li>
 <li id="menu-item-2439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2439"><a href="http://theme.co/x/showcase/">Showcase</a></li>
 <li id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2397"><a href="http://theme.co/x/testimonials/">Testimonials</a></li>
-<li id="menu-item-449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a target="_blank" href="http://theme.co/go/join.php">Buy</a></li>
+<li id="menu-item-449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a target="_blank" href="//theme.co/go/join.php">Buy</a></li>
 </ul>      
-      <img src="//theme.co/media/themeco-logo-light.png" alt="Logo" width="500">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 4320 504" style="enable-background:new 0 0 4320 504;" xml:space="preserve">
+        <polygon points="198,0 0,0 0,108 198,108 198,504 306,504 306,108 504,108 504,0 306,0     "></polygon>
+        <polygon points="1008,198 720,198 720,0 612,0 612,198 612,306 612,504 720,504 720,306 1008,306 1008,504 1116,504 1116,306 1116,198 1116,0 1008,0    "></polygon>
+        <rect x="1224" width="504" height="108"></rect>
+        <rect x="1224" y="198" width="504" height="108"></rect>
+        <rect x="1224" y="396" width="504" height="108"></rect>
+        <polygon points="2214,0 2106,0 1944,0 1836,0 1836,108 1836,504 1944,504 1944,108 2106,108 2106,504 2214,504 2214,108 2376,108 2376,504 2484,504 2484,108 2484,0 2376,0    "></polygon>
+        <rect x="2592" width="504" height="108"></rect>
+        <rect x="2592" y="198" width="504" height="108"></rect>
+        <rect x="2592" y="396" width="288" height="108"></rect>
+        <rect x="2988" y="396" width="108" height="108"></rect>
+        <polygon points="3204,0 3204,108 3204,396 3204,504 3312,504 3708,504 3708,396 3312,396 3312,108 3708,108 3708,0 3312,0     "></polygon>
+        <path d="M4212,0h-288h-108v108v288v108h108h288h108V396V108V0H4212z M4212,396h-288V108h288V396z"></path>
+      </svg>
       <span class="copy">Copyright © 2016</span>
       <a href="//theme.co/x/hiring/" class="a-hiring">We're Hiring</a>
 
@@ -227,11 +238,11 @@ img.emoji {
 var _wpcf7 = {"loaderUrl":"http:\/\/theme.co\/x\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4"></script>
 <script type="text/javascript" src="http://theme.co/x/wp-content/themes/x-child-custom/framework/js/x-custom.js"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/themes/x/framework/js/dist/site/x-body.min.js?ver=4.3.4"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-includes/js/comment-reply.min.js?ver=4.3.3"></script>
-<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/cornerstone/assets/js/dist/site/cs-body.min.js?ver=1.1.1"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/themes/x/framework/js/dist/site/x-body.min.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-includes/js/comment-reply.min.js?ver=4.3.6"></script>
+<script type="text/javascript" src="http://theme.co/x/wp-content/plugins/cornerstone/assets/js/dist/site/cs-body.min.js?ver=1.2.4"></script>
 
   
   
@@ -270,5 +281,5 @@ var _wpcf7 = {"loaderUrl":"http:\/\/theme.co\/x\/wp-content\/plugins\/contact-fo
   </noscript>
 
 
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"77bc235e24","applicationID":"31638363","transactionName":"Ml1TZEYDWURSWkxQDAsXcFNAC1hZHE1dVBMJWUVVGQ5WTlxMTBQFEFRdHUMLU0Nb","queueTime":0,"applicationTime":285,"atts":"HhpQEg4ZSko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
