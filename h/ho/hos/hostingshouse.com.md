@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingshouse.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416142013id_/http%3A//www.hostingshouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingshouse.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030205337id_/http%3A//www.hostingshouse.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hostings House
 
