@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fix4dll.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324021656id_/http%3A//fix4dll.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fix4dll.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030034556id_/http%3A//fix4dll.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fix4Dll.com
 
 [](https://web.archive.org/)
+
+This site is available in other language:
 
 ## Collection and use of information
 
@@ -37,9 +39,3 @@ FIX4DLL processes personal information only for the purposes for which it was co
 ## Changes to this policy 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
-
-Requested missing .dll file and after 3 hours received an email saying that my file can be downloaded now. That was super-fast ! Thx!
-
-Andrea Schiffer, Germany 
-
-[Read more testimonials](https://web.archive.org/testimonials)
