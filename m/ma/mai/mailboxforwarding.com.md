@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailboxforwarding.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418231323id_/https%3A//www.mailboxforwarding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailboxforwarding.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030211444id_/https%3A//www.mailboxforwarding.com/privacy.php) for the most accurate reproduction.*
 
 # Mailbox Forwarding | Virtual Office Address - Mail Scanning
 
