@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneytalkscoaching.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621194339id_/http%3A//moneytalkscoaching.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalkscoaching.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030191547id_/http%3A//moneytalkscoaching.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Money Talks Coaching
 
