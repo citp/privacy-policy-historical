@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallbuilders.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524012635id_/http%3A//wallbuilders.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallbuilders.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030222605id_/http%3A//wallbuilders.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # WallBuilders - Privacy Policy
 
