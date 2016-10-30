@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ranktactics.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508230850id_/http%3A//ranktactics.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranktactics.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030165702id_/http%3A//ranktactics.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | RankTactics.com
 
