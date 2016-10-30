@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621000841id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030021127id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # retailsitesprivacypolicy | Destination Maternity
 
@@ -16,7 +16,7 @@ By providing us your information in-store or by using any of our web sites, you 
 
 **This Privacy Policy applies only to our retail stores and our retail and e-commerce web sites, online services, applications and social networking platforms operated by Destination Maternity Corporation and its affiliates, which include, without limitation:[www.apeainthepod.com](http://www.apeainthepod.com/); [www.motherhood.com](http://www.motherhood.com/); [www.motherhoodnursing.com](http://www.motherhood.com/nursinghome.asp); [www.destinationmaternity.com](http://www.destinationmaternity.com/); [m.destinationmaternity.com](http://www.destinationmaternity.com/mobile); and [www.edamamespa.com](http://www.edamamespa.com/) (the "Retail Web Sites").**
 
-**For the Privacy Policy that applies to our corporate informational web site please go to[www.destinationmaternitycorporation.com](https://web.archive.org/web/20160621000841id_/http%3A//www.destinationmaternity.com/%22http://www.destinationmaternitycorporation.com%22).**
+**For the Privacy Policy that applies to our corporate informational web site please go to[www.destinationmaternitycorporation.com](https://web.archive.org/web/20161030021127id_/http%3A//www.destinationmaternity.com/%22http://www.destinationmaternitycorporation.com%22).**
 
 **Access to and use of the Retail Web Sites is also governed by our[Terms and Conditions of Use](http://www.destinationmaternity.com/TermsandConditions.asp) which are also linked to our Retail Web Sites.**
 
