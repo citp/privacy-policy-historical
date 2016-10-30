@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618081531id_/http%3A//taronga.org.au/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taronga.org.au privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030195421id_/http%3A//taronga.org.au/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taronga
 
@@ -89,7 +89,7 @@ Duration
 Purpose  
   
 ---|---|---|---  
- | 
+  | 
 
 Google analytics
 
@@ -101,7 +101,7 @@ Google analytics
 
 Website usage and e-commerce  
   
- | 
+  | 
 
 Doubleclick
 
@@ -113,7 +113,7 @@ Doubleclick
 
 Advertising  
   
- | 
+  | 
 
 Serving-sys.com
 
@@ -178,7 +178,7 @@ Under no circumstances will TCSA sell or receive payment for licensing or disclo
 
 ## 7\. Access and alteration to personal information
 
-TCSA facilitates individuals to access their personal information in the following manner: 
+TCSA facilitates individuals to access their personal information in the following manner:
 
   * the request must be in writing;
   * we will endeavour to respond in writing to requests for access within twenty eight (28) days of the receipt of the request at the offices of TCSA; and
@@ -190,7 +190,7 @@ If a person wishes to alter personal information held by TCSA, they should advis
 
 ## 8\. Opting out of marketing, promotions or related activities
 
-You can change the type and frequency of information you receive from us by calling 1300 369 116.
+You can change the type and frequency of information you receive from us by calling 1300 369 116. However if you do not wish to receive any more emails from Taronga, you can opt-out by clicking the unsubscribe button in our emails or by emailing [unsubscribe@zoo.nsw.org.au](mailto:unsubscribe@zoo.nsw.org.au)
 
 ## 9\. Changes to this Privacy Statement
 
@@ -204,7 +204,7 @@ In the event that a person considers that TCSA has breached the policy on privac
 
 ## 11\. Contact Details
 
-If you require further information about TCSA's Privacy Internet Policy or wish to comment on the policy, the contact details for TCSA are as follows: 
+If you require further information about TCSA's Privacy Internet Policy or wish to comment on the policy, the contact details for TCSA are as follows:
 
 [Administrative Assistant, Corporate Services](https://owa1.zoo.nsw.gov.au/owa/redir.aspx?C=b69eab78752a4f1a9a3262429fe94e72&URL=http%3a%2f%2ftaronga.org.au%2fcontact%2fadministrative-assistant-corporate-services)
 
@@ -214,7 +214,7 @@ Taronga Conservation Society Australia, PO Box 20, Mosman, NSW 2088
 
 Phone: 
 
-+61 (0)2 9969 2777 
++61 (0)2 9969 2777
 
 Email: 
 
