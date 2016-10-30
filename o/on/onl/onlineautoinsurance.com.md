@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508015229id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030044756id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Auto Insurance
 
