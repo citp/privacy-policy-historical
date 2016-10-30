@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacx.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624060428id_/http%3A//www.tacx.com/en/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacx.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030182102id_/http%3A//www.tacx.com/en/service/privacy-policy) for the most accurate reproduction.*
 
 # tacx.com - Tacx Privacy Policy
 
