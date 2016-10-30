@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipscatalog.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319082301id_/http%3A//tipscatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipscatalog.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030171908id_/http%3A//tipscatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TipsCatalog.Com
 
