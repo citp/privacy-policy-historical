@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paktutorial.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218001838id_/http%3A//paktutorial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktutorial.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030165937id_/http%3A//paktutorial.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PakTutorial
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Paktutorial collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.
 
 
@@ -61,7 +61,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://paktutorial.com/contact-us.html "contact us") at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://paktutorial.com/contact-us.html) at:  
 [Paktutorial](http://www.paktutorial.com/)  
 [http://www.paktutorial.com](http://www.paktutorial.com/)  
 info@paktutorial.com
