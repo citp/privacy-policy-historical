@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lilyandlionel.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618085616id_/http%3A//lilyandlionel.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilyandlionel.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030133110id_/http%3A//lilyandlionel.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy · Lily and Lionel
-
-Privacy AND COOKIE POLICY
 
 All personal information you supply to us will be treated in accordance with Data Protection Act.  The nature of this site means that we will obtain, use and disclose (together "Use") certain information about you ("Data").  This statement sets out the principles governing our Use of Data on this Site.  By registering to use the Site you agree to this Use.
 
