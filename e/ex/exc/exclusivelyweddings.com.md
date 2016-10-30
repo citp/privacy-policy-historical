@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013617id_/http%3A//www.exclusivelyweddings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivelyweddings.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030092217id_/http%3A//www.exclusivelyweddings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Terms and Conditions | ExclusivelyWeddings.com
 
@@ -46,4 +46,4 @@ While we use encryption to protect sensitive information transmitted online, we 
 Instructions for updating your browser to a current version are available [here](http://browser-update.org/update.html). 
 
 **Feedback**   
-Your feedback is important to us. To help us improve our privacy policy and practice, you may [email us](http://www.exclusivelyweddings.com/email-us.html) or call us at **1.800.759.7666** or **1.888.672.9333**. 
+Your feedback is important to us. To help us improve our privacy policy and practice, you may [email us](http://www.exclusivelyweddings.com/email-us.html) or call us at **1.800.759.7666**. 
