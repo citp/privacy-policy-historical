@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the terawarner.com privacy policy that was archived on 2016-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160501215804id_/http%3A//www.terawarner.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the terawarner.com privacy policy that was archived on 2016-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161031000023id_/http%3A//www.terawarner.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <base href="http://www.terawarner.com/privacy-policy">
@@ -46,46 +46,135 @@ JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resi
   <meta property="og:title" content="Privacy Policy">
   <meta property="og:type" content="article">
   <meta property="og:url" content="http://www.terawarner.com/privacy-policy">
-  <meta property="og:site_name" content="BE University">
-  <meta property="og:image" content="http://www.terawarner.com/images/be-logo.png">
+  <meta property="og:site_name" content="Tera Warner - Authenticity Agent and Communication Ninja">
+  <meta property="og:image" content="http://www.terawarner.com/images/rd/tw_logo_2016.jpg">
 
 <meta name="p:domain_verify" content="f744c5666af7868dd40796a93a18ae0a">
 <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <link href="typicons/typicons.css" rel="stylesheet" type="text/css">
-<link href="/templates/js_reserva/css/be-custom.css" rel="stylesheet" type="text/css">
+<link href="/templates/js_reserva/css/be-custom.css?v=2" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon">
 <link rel="stylesheet" type="text/css" href="/captcha/signup/style.css">
 <script type="text/javascript" src="/plugins/system/onescsignupbasic/onescsignupbasic.js"></script>
 <script type="text/javascript" src="/captcha/signup/script.js"></script>
-	  		<script type="text/javascript">
-				window.addEvent('domready', function() {
-					for (var j = 1; j <= 20; j++) {
-						var par = $('ddd_par_' + j);
-						if (par) {
-							var a = par.getElement('a');
-							var rel = a.get('rel');
-							if (rel) {
-								if (rel.match(/ddd(\d+)/)) {
-									var numOld = RegExp.$1;
-									var cont = par.getParent().getParent();
-									var dd = cont.getElement('#ddd' + numOld);
-									if (dd) {
-										dd.set('id', 'ddd' + j);
-									}
+<link rel="stylesheet" href="/blog/wp-includes/css/dashicons.min.css">
+<link rel="stylesheet" href="/templates/js_reserva/css/genesis-resp-menu.css?v=11">
+<script type="text/javascript" src="/templates/js_reserva/js/genesis-resp-menu.js?v=23"></script>
+<script type="text/javascript">
+(function() {
+	var mobileMenuSet = false;
+	var ddsSet = false;
+	var resizeTimeout = 0;
+	function SetDropdowns() {
+		if (ddsSet) return;
+		//ddsSet = true;
+		for (var j = 1; j <= 20; j++) {
+			var par = $('ddd_par_' + j);
+			if (!par) continue;
+			var a = par.getElement('a');
+			var rel = a.get('rel');
+			if (rel) {
+				if (rel.match(/ddd(\d+)/)) {
+					var numOld = RegExp.$1;
+					var cont = par.getParent().getParent();
+					var dd = cont.getElement('#ddd' + numOld);
+					if (dd) {
+						dd.set('id', 'ddd' + j);
+					}
+				}
+				a.set('rel', 'ddd' + j);
+			}
+			if (j == 3 || j == 4) {
+				a.addEvent('mouseover', function(e) {
+					var viewWid = window.getSize().x;
+					var aThis = this;
+					setTimeout(function() {
+						var aTop = aThis.getPosition().y;
+						if (aThis.getParent().get('id').match(/ddd_par_(\d+)/)) {
+							var num = RegExp.$1;
+							var dd = $('ddd' + num);
+							if (viewWid > 480) {
+								dd.setStyle('margin-top', 0);
+							} else {
+								dd.setStyle('height', 'auto');
+								var ddHt = dd.getSize().y;
+								var aHt = aThis.getDimensions(true).height;
+								var margTopNew = 0;
+								var vertDiff = 6;
+								if (ddHt < aTop + vertDiff) {
+									margTopNew = -(aHt + ddHt - vertDiff);
+								} else {
+									margTopNew = -(aTop + aHt);
 								}
-								a.set('rel', 'ddd' + j);
+								//console.log('aTop', aTop, 'ddHt', ddHt, 'margTopNew', margTopNew);
+								dd.setStyle('margin-top', margTopNew + 'px');
 							}
 						}
-					}
-					cssdropdown.startchrome('chromemenu_1');
-					cssdropdown.startchrome('chromemenu_2');
+					}, 10);
 				});
-				</script>
-				<link type="text/css" rel="stylesheet" href="/templates/js_reserva/css/be-custom-resp.css">
-<link type="text/css" rel="stylesheet" href="/templates/js_reserva/css/be-responsive.css">
+			}
+		}
+		cssdropdown.startchrome('chromemenu_1');
+		cssdropdown.startchrome('chromemenu_2');
+		ddsSet = true;
+	}
+// 					window.addEvent('domready', function() {
+// 						setTimeout(SetDropdowns, 500);
+// 					});
+// 					window.addEvent('load', function() {
+// 						setTimeout(SetDropdowns, 10);
+// 					});
+	function SetMobileMenu() {
+		if (mobileMenuSet) return;
+		var menu = $('chromemenu_1');
+		var menuWrap = $(document.body).getElement('.menu1b').getParent();
+		//console.log('menu', menu, 'menuWrap', menuWrap);
+		GRM.SetMenu(menu, menuWrap);
+		mobileMenuSet = true;
+	}
+	function SetMenu(option) {
+// 						if (/dev=1/.test(location.href)) {
+			if (option == 'domready') {
+				var timeout = 500;
+			} else {
+				var timeout = 200;
+			}
+			if (window.getSize().x >= 768) {
+				clearTimeout(resizeTimeout);
+				resizeTimeout = setTimeout(function() {
+					SetDropdowns();
+				}, timeout);
+			} else {
+				clearTimeout(resizeTimeout);
+				resizeTimeout = setTimeout(function() {
+					SetMobileMenu();
+// 									jQ('#mobile-menu').slicknav({
+// 										label: 'Menu'
+// 									});
+				}, timeout);
+			}
+// 						} else {
+// 							if (option != 'resize') {
+// 								SetDropdowns();
+// 							}
+// 						}
+	}
+	window.addEvent('domready', function() {
+		SetMenu('domready');
+	});
+	window.addEvent('load', function() {
+		SetMenu('load');
+	});
+	window.addEvent('resize', function() {
+		SetMenu('resize');
+	});
+})();
+</script>
+				<link type="text/css" rel="stylesheet" href="/templates/js_reserva/css/be-custom-resp.css?v=4">
+<link type="text/css" rel="stylesheet" href="/templates/js_reserva/css/be-responsive.css?v=2">
 <script type="text/javascript" src="/templates/js_reserva/js/be-custom.js"></script>
-<script type="text/javascript" src="/templates/js_reserva/js/be-resize.js"></script>
+<script type="text/javascript" src="/templates/js_reserva/js/be-resize.js?v=5"></script>
 <script type="text/javascript" src="/templates/js_reserva/js/be-sidebar.js"></script>
 <link rel="stylesheet" href="http://www.terawarner.com/plugins/system/customcss/site.css" type="text/css">
 </head>
@@ -144,66 +233,59 @@ JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resi
 .dropmenudiv-nine {position: absolute !important; z-index:999; background-color: transparent; width: auto; visibility: hidden;}
 .dropmenudiv-ten {position: absolute !important; z-index:999; background-color: transparent; width: auto; visibility: hidden;}
 * html .dropmenudiv-one a{ width: 100%; }
-a:hover.ddd1, a:hover.ddd2, a:hover.ddd3, a:hover.ddd4, a:hover.ddd5, a:hover.ddd6, a:hover.ddd7, a:hover.ddd8, a:hover.ddd9, a:hover.ddd10, .ddd1.selected, .ddd2.selected, .ddd3.selected, .ddd4.selected, .ddd5.selected, .ddd6.selected, .ddd7.selected, .ddd8.selected, .ddd9.selected, .ddd10.selected {color:#3988cc;font-size: 14px;;}
+a:hover.ddd1, a:hover.ddd2, a:hover.ddd3, a:hover.ddd4, a:hover.ddd5, a:hover.ddd6, a:hover.ddd7, a:hover.ddd8, a:hover.ddd9, a:hover.ddd10, .ddd1.selected, .ddd2.selected, .ddd3.selected, .ddd4.selected, .ddd5.selected, .ddd6.selected, .ddd7.selected, .ddd8.selected, .ddd9.selected, .ddd10.selected {color:#3988cc;;}
 .chromestyle {
     font-weight: normal;
     width: 310px;
 }
 
 
-</style><script type="text/javascript" src="/modules/mod_dropdowndiv/mod_dropdowndiv.js"></script><div class="chromestyle" id="chromemenu_1"><div id="ddd_par_1" class="ddd-one" style="float:left;"><a class="ddd1" href="/about">about</a></div><div id="ddd_par_2" class="ddd-two" style="float:left;"><a class="ddd2" href="http://www.terawarner.com/blog/">blog</a></div><div id="ddd_par_3" class="ddd-four" style="float:left;"><a class="ddd4" href="#" rel="ddd4">radio</a></div><div id="ddd_par_4" class="ddd-five" style="float:left;"><a class="ddd5" href="#" rel="ddd5">shop</a></div><div id="ddd_par_5" class="ddd-six" style="float:left;"><a class="ddd6" href="http://www.terawarner.com/shop">programs</a></div><div id="ddd_par_6" class="ddd-seven" style="float:left;"><a class="ddd7" href="http://www.terawarner.com/pta">support</a></div></div> <div id="ddd4" class="dropmenudiv-four">
+</style><script type="text/javascript" src="/modules/mod_dropdowndiv/mod_dropdowndiv.js?v=4"></script><div class="chromestyle" id="chromemenu_1"><div id="ddd_par_1" class="ddd-one" style="float:left;"><a class="ddd1" href="/about">about</a></div><div id="ddd_par_2" class="ddd-two" style="float:left;"><a class="ddd2" href="http://www.terawarner.com/blog/">blog</a></div><div id="ddd_par_3" class="ddd-four" style="float:left;"><a class="ddd4" href="http://www.terawarner.com/wishradio/" rel="ddd4">radio</a></div><div id="ddd_par_4" class="ddd-five" style="float:left;"><a class="ddd5" href="/shop" rel="ddd5">shop</a></div><div id="ddd_par_5" class="ddd-six" style="float:left;"><a class="ddd6" href="http://www.terawarner.com/programs">programs</a></div><div id="ddd_par_6" class="ddd-seven" style="float:left;"><a class="ddd7" href="http://www.terawarner.com/pta">support</a></div></div> <div id="ddd4" class="dropmenudiv-four">
 <div class="dropdownbox">
 
 <div>
-<h3><a href="http://www.wishsummit.com/"><img border="0" width="50" class="image-left" src="http://www.terawarner.com/hhh/commons/wish/wish/wish_wb13_thumb.jpg" alt=""><br>Women's Health Interviews</a></h3>
+<h3><a href="http://www.terawarner.com/summits/body-confidence"><img class="image-left" src="/hhh/commons/wish/bodyconfidence/girlcape_50.jpg" alt="" width="50" border="0"><br>Body Confidence</a></h3>
 </div>
-
 <hr>
 
 <div>
-<h3><a href="http://www.wishsummit.com/add"><img border="0" width="50" class="image-left" src="http://www.terawarner.com/hhh/commons/wish/add/wish_add_2013_thumb.jpg" alt=""><br>ADD/Autism</a></h3>
+<h3><a href="http://www.wishsummit.com/"><img class="image-left" src="/hhh/commons/wish/wish/wish_wb13_thumb_50.jpg" alt="" width="50" border="0"><br>Women's Health Interviews</a></h3>
 </div>
-
 <hr>
-
 <div>
-<h3><a href="http://www.wishsummit.com/toothsummit"><img border="0" alt="" src="http://www.terawarner.com/images/rd/tooth_summit_ttt_125x165.jpg" width="50" class="image-left"><br>Natural Dental Health</a></h3>
+<h3><a href="http://www.wishsummit.com/add"><img class="image-left" src="/hhh/commons/wish/add/wish_add_2013_thumb_50.jpg" alt="" width="50" border="0"><br>ADD/Autism</a></h3>
 </div>
-
 <hr>
-
 <div>
-<h3><a href="http://www.wishsummit.com/pinkspeakers"><img border="0" width="50" class="image-left" src="http://www.terawarner.com/images/rd/wish-rethinkpink_thumb_125x165.jpg" alt=""><br>Natural Breast Health</a></h3>
+<h3><a href="http://www.wishsummit.com/toothsummit"><img class="image-left" src="/images/rd/tooth_summit_ttt_50.jpg" alt="" width="50" border="0"><br>Natural Dental Health</a></h3>
 </div>
-
 <hr>
-
 <div>
-<h3><a href="http://www.wishsummit.com/wild"><img border="0" width="50" class="image-left" src="http://www.terawarner.com/hhh/commons/backtothewild/bttw_cover_thumb.jpg" alt=""><br>Back to Wild Living</a></h3>
+<h3><a href="http://www.wishsummit.com/pinkspeakers"><img class="image-left" src="/images/rd/wish-rethinkpink_thumb_50.jpg" alt="" width="50" border="0"><br>Natural Breast Health</a></h3>
 </div>
-
-<div class="clear"></div>
-
-
+<hr>
+<div>
+<h3><a href="http://www.wishsummit.com/wild"><img class="image-left" src="/hhh/commons/wish/backtothewild/bttw_cover_50.jpg" alt="" width="50" border="0"><br>Back to Wild Living</a></h3>
 </div>
-
-</div><div id="ddd5" class="dropmenudiv-five">
+<div class="clear">&nbsp;</div>
+</div></div><div id="ddd5" class="dropmenudiv-five">
 <div class="dropdownbox">
 <div>
-<h3><a href="/healthy-teeth-gums-kit"><img class="image-left" src="/images/rd/great-smile.jpg" alt="" width="50" border="0">Naturally Healthy Teeth &amp; Gums</a></h3>
+<h3><a href="/shop/healthy-teeth-gums"><img class="image-left" src="/images/rd/teeth_care_sm.jpg" alt="" width="50" border="0">Naturally Healthy Teeth &amp; Gums</a></h3>
 </div>
 <hr>
 <div>
-<h3><a href="/natural-skin-care"><img class="image-left" src="/images/rd/Tera-and-Mika-summer.jpg" alt="" width="50" border="0">Naturally Beautiful Skin</a></h3>
+<h3><a href="/shop/healthy-beautiful-skin"><img class="image-left" src="/images/rd/skin_care_sm.jpg" alt="" width="50" border="0"><br>Naturally Beautiful Skin</a></h3>
 </div>
 <hr>
 <div>
-<h3><a href="/essential-oil-perfumes"><img class="image-left" src="/images/rd/flower-path.jpg" alt="" width="50" border="0">Essential Oil Perfumes &amp; Cologne</a></h3>
+<h3><a href="/shop/essential-oil-perfumes-cologne"><img class="image-left" src="/images/rd/EssentialOilPerfume.jpg" alt="" width="50" border="0"><br>Essential Oil Perfumes &amp; Cologne</a></h3>
 </div>
 <hr>
 <div>
-<h3><a href="/be-clean"><img class="image-left" src="/images/rd/green_cleaning_broom.jpg" alt="" width="50" border="0">Natural Home Cleaning Kit</a></h3>
+<h3><a href="/be-clean"><img class="image-left" src="/images/rd/Cleaning_Kit_Family_sm.jpg" alt="" width="50" border="0">Natural Home Cleaning Kit</a></h3>
 </div>
+
 <!--<div>
 <h3><a href="/shop"><img class="image-left" src="http://www.terawarner.com/images/rd/tooth_summit_ttt_125x165.jpg" alt="" border="0" /><br />Books</a></h3>
 </div>
@@ -300,7 +382,7 @@ a:hover.ddd1, a:hover.ddd2, a:hover.ddd3, a:hover.ddd4, a:hover.ddd5, a:hover.dd
 
 </div>
  
-	</div>
+	<script>var shareWidget = new OpenSocialShare();shareWidget.init({isHorizontalLayout: 1,widgetIconSize: "32",widgetStyle: "responsive",isMobileFriendly: true,isTotalShare: false,isEmailContentReadOnly: true,isShortenUrl: true,isOpenSingleWindow: true,theme: 'OpenSocialShareDefaultTheme',providers: { top: ["facebook","twitter"]}});shareWidget.injectInterface(".openSocialShareHorizontalSharing");shareWidget.setWidgetTheme(".openSocialShareHorizontalSharing");</script></div>
 		</section>
 		
 		
@@ -329,20 +411,20 @@ a:hover.ddd1, a:hover.ddd2, a:hover.ddd3, a:hover.ddd4, a:hover.ddd5, a:hover.dd
   <input value="0" id="custom" name="custom" type="hidden"> 
   <input value="250529" id="defaultar" name="defaultar" type="hidden"> 
   <input value="0" id="allowmulti" name="allowmulti" type="hidden"> 
-  <input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1,Workphone">
+  <input name="visiblefields" type="hidden" id="visiblefields" value="Name,Email1">
   <input name="requiredfields" type="hidden" id="requiredfields" value="Name,Email1,security_code">
   <div class="inner-wrap">
     <div class="img-text">
-      <div class="img"><img src="/images/rd/mail.png" border="0"></div>
-      <div class="text"><span style="color:#ffffff;">Sign up and start to design <em>your</em> life:</span></div>
+      
+      <div class="text"><span style="color:#ffffff; font-size: 24px;">Join my community of straight-talkin’ change-makers:</span></div>
     </div>
-    <div class="input name"><input type="text" name="Name" class="txt-onesc" value="" placeholder="enter your name"></div>
-    <div class="input email"><input type="text" name="Email1" class="txt-onesc" value="" placeholder="enter your email address"></div>
-    <div class="input phone"><input type="text" name="Workphone" class="txt-onesc" value="" placeholder="enter your telephone number"></div>
+    <div class="input name"><input type="text" name="Name" class="txt-onesc" value="" placeholder="name"></div>
+    <div class="input email"><input type="text" name="Email1" class="txt-onesc" value="" placeholder="email"></div>
+
     <div class="submit">
       <script type="text/javascript">
-      document.writeln('<input type="submit" name="cmdSubmit" value="submit" class="signup-captcha">');
-      </script><input type="submit" name="cmdSubmit" value="submit" class="signup-captcha">
+      document.writeln('<input type="submit" name="cmdSubmit" value="I&#8217;M IN!" class="signup-captcha">');
+      </script><input type="submit" name="cmdSubmit" value="I’M IN!" class="signup-captcha">
 
       <noscript>JavaScript required.</noscript>
     </div>
@@ -403,13 +485,13 @@ a:hover.ddd1, a:hover.ddd2, a:hover.ddd3, a:hover.ddd4, a:hover.ddd5, a:hover.dd
 </div>
 
 
-<a title="Real Time Analytics" href="http://clicky.com/66520186"><img alt="Real Time Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
+<a title="Web Analytics" href="http://clicky.com/66511315"><img alt="Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(66520186); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66520186ns.gif" /></p></noscript>
+<script type="text/javascript">try{ clicky.init(66511315); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66511315ns.gif" /></p></noscript>
 
 
 </div>
 
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
