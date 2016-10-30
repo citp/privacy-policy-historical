@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doggiesolutions.co.uk privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005084745id_/http%3A//www.doggiesolutions.co.uk/privacy-policy-6382-0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doggiesolutions.co.uk privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030173746id_/http%3A//www.doggiesolutions.co.uk/privacy-policy-6382-0.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,9 +18,7 @@ Phone Number
 Email Address  
 Credit/Debit Card Details
 
-**We will never collect sensitive information about you without your explicit consent.**
-
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
