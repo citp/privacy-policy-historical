@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the nokiapoweruser.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314024947id_/http%3A//www.nokiapoweruser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiapoweruser.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030065711id_/http%3A//nokiapoweruser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Nokiapoweruser
 
-This Privacy policy covers  [Nokiapoweruser.com](http://www.nokiapoweruser.com/). We are based out of India. We provide Nokia and competitors related news, reviews and discussion forums. For any more information please write to us at **Contact@nokiapoweruser.com**
-
-For us, the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by nokiapoweruser.com and how it is used.
-
-Though, you can access our Web site home page and browse our site without disclosing your personal data. But, like many other Web sites, **nokiapoweruser.com** makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This Privacy policy covers  [Nokiapoweruser.com](http://www.nokiapoweruser.com/). We are based out of India. We provide Nokia and competitors related news, reviews and discussion forums. For any more information please write to us at **Contact@nokiapoweruser.com.** For us, the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by nokiapoweruser.com and how it is used. Though, you can access our Web site home page and browse our site without disclosing your personal data. But, like many other Web sites, **nokiapoweruser.com** makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies & 3rd Party Advertisements**
 
