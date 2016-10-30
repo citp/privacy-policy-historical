@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmbc.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429123751id_/https%3A//www.tmbc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmbc.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030054802id_/https%3A//www.tmbc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TMBC - StandOut
 
