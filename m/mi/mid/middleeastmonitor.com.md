@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the middleeastmonitor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905120636id_/https%3A//www.middleeastmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeastmonitor.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030082731id_/https%3A//www.middleeastmonitor.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Middle East Monitor
 
 We at the Middle East Monitor (MEMO) promote the principles of disclosure and informed consent. We want to demonstrate our commitment to your privacy and have detailed our information practices below.
 
@@ -72,10 +72,5 @@ If you wish to contact us regarding the personal data held we hold about you or 
 
 ## 9\. Policy Updates
 
-As part of our commitment to compliance with data privacy requirements, and to reflect changes in our operating procedures, we may update the terms of this policy from time to time and will post the revised policy directly on our website.
-
-  
+As part of our commitment to compliance with data privacy requirements, and to reflect changes in our operating procedures, we may update the terms of this policy from time to time and will post the revised policy directly on our website.  
 This is revision 1.02, published 04/05/2013.
-
-  
-
