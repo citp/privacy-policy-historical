@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peerforest.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427085705id_/http%3A//www.peerforest.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerforest.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030141659id_/http%3A//www.peerforest.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Peerforest - Peerforest
 
