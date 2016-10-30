@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the gocurrency.com privacy policy that was archived on 2016-01-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160111223609id_/http%3A//www.gocurrency.com/content/privacy-policy-0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gocurrency.com privacy policy that was archived on 2016-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161031002544id_/http%3A//gocurrency.com/content/privacy-policy-0) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html lang="en" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8">
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://www.gocurrency.com/sites/all/themes/gocurrency/favicon.ico" type="image/vnd.microsoft.icon">
@@ -11,34 +11,57 @@
 <link rel="canonical" href="http://www.gocurrency.com/content/privacy-policy-0">
 <link rel="shortlink" href="http://www.gocurrency.com/node/5">
   <title>Privacy Policy | GoCurrency</title>
-  <link type="text/css" rel="stylesheet" href="http://www.gocurrency.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.gocurrency.com/sites/default/files/css/css_kvaqtp5WyrrHbRp04EMjxDRU1slGUfavu9v2bsvcoDU.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.gocurrency.com/sites/default/files/css/css_ldpLsJ75NuElBA1-DhYpXfSlKmArg7u9tLP2SZ559yk.css" media="all">
+  <style>
+@import url("http://www.gocurrency.com/modules/system/system.base.css?o94wiu");
+</style>
+<style>
+@import url("http://www.gocurrency.com/modules/field/theme/field.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/modules/views/css/views.css?o94wiu");
+</style>
+<style>
+@import url("http://www.gocurrency.com/sites/all/modules/ctools/css/ctools.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/modules/currency_locations/currency_locations.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/modules/currency_tabs/currency_tabs.css?o94wiu");
+</style>
 <style>.date-selector-block{margin-top:80px;margin-bottom:10px;}.get-rates-button{margin-top:10px;}.data-display{margin-top:20px;}.data-display .container{height:400px;margin:0 auto;}#openexform .form-group{margin-bottom:0px;}
 </style>
 <link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.gocurrency.com/sites/default/files/css/css_JG8Js6sORncLvpgDFUN8EypyEEJf_guZBm3wbZY6FWs.css" media="all">
+<style>
+@import url("http://www.gocurrency.com/sites/all/modules/panels/css/panels.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/modules/gc/plugins/layouts/bs_sideright/bs_sideright.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/libraries/fontawesome/css/font-awesome.css?o94wiu");
+</style>
 <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Droid+Sans:400,700" media="all">
 <link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.gocurrency.com/sites/default/files/css/css_HX3NrSeZYIvVWSX1j9mgR9N0rAdYohKLSUJWXXxhCpA.css" media="all">
+<style>
+@import url("http://www.gocurrency.com/sites/all/themes/bootstrap/css/overrides.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/themes/gocurrency/css/style.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/themes/gocurrency/css/pages.css?o94wiu");
+@import url("http://www.gocurrency.com/sites/all/themes/gocurrency/css/dropdown.css?o94wiu");
+</style>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js"></script>
-<script src="http://www.gocurrency.com/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script src="http://www.gocurrency.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.gocurrency.com/misc/drupal.js?o94wiu"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
-<script src="http://www.gocurrency.com/sites/default/files/js/js_J6b6iA8to_nFG6rNJQAAp00vF2OLrDdk30TnT6YytA4.js"></script>
+<script src="http://www.gocurrency.com/sites/all/modules/currency_locations/markerclusterer_packed.js?o94wiu"></script>
+<script src="http://www.gocurrency.com/sites/all/modules/currency_locations/currency_locations.js?o94wiu"></script>
+<script src="http://www.gocurrency.com/sites/all/modules/currency_tabs/currency_tabs.js?o94wiu"></script>
+<script src="http://www.gocurrency.com/sites/all/modules/gc_goto_blocks/gc_goto_blocks.js?o94wiu"></script>
 <script>var switchTo5x = true;</script>
 <script src="http://w.sharethis.com/button/buttons.js"></script>
 <script>if (stLight !== undefined) { stLight.options({"publisher":"dr-47b69a3f-1d39-5d94-fd7c-1d5db1cc41","version":"5x"}); }</script>
-<script src="http://www.gocurrency.com/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script src="http://www.gocurrency.com/sites/all/modules/google_analytics/googleanalytics.js?o94wiu"></script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-5395078-9", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
 <script src="//code.highcharts.com/highcharts.js"></script>
 <script src="//code.highcharts.com/modules/exporting.js"></script>
-<script src="http://www.gocurrency.com/sites/default/files/js/js_auOrKxBNus_opJKqOqkCcsGlWHd4ToinzslLYUHspHg.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gocurrency","theme_token":"qFe--P4a9IsYYw-mZUn9sQXGw2EYxjMhoXz9mY7_5aI","js":{"\/\/cdnjs.cloudflare.com\/ajax\/libs\/bootstrap-datepicker\/1.3.0\/js\/bootstrap-datepicker.min.js":1,"sites\/all\/modules\/openex\/openex.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.9.1.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/currency_locations\/markerclusterer_packed.js":1,"sites\/all\/modules\/currency_locations\/currency_locations.js":1,"sites\/all\/modules\/currency_tabs\/currency_tabs.js":1,"sites\/all\/modules\/gc_goto_blocks\/gc_goto_blocks.js":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"\/\/code.highcharts.com\/highcharts.js":1,"\/\/code.highcharts.com\/modules\/exporting.js":1,"sites\/all\/themes\/gocurrency\/scripts\/monkeyTime.js":1,"sites\/all\/themes\/gocurrency\/scripts\/money.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/currency_locations\/currency_locations.css":1,"sites\/all\/modules\/currency_tabs\/currency_tabs.css":1,"0":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/bootstrap-datepicker\/1.3.0\/css\/datepicker.min.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/gc\/plugins\/layouts\/bs_sideright\/bs_sideright.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"\/\/fonts.googleapis.com\/css?family=Droid+Sans:400,700":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/gocurrency\/css\/style.css":1,"sites\/all\/themes\/gocurrency\/css\/pages.css":1,"sites\/all\/themes\/gocurrency\/css\/dropdown.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script src="http://www.gocurrency.com/sites/all/themes/gocurrency/scripts/monkeyTime.js?o94wiu"></script>
+<script src="http://www.gocurrency.com/sites/all/themes/gocurrency/scripts/money.js?o94wiu"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gocurrency","theme_token":"l75oFFp7yBGwPlfpa6BDUVh_JLRghT9oZzEJghsAHuo","js":{"\/\/cdnjs.cloudflare.com\/ajax\/libs\/bootstrap-datepicker\/1.3.0\/js\/bootstrap-datepicker.min.js":1,"sites\/all\/modules\/openex\/openex.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.9.1.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/currency_locations\/markerclusterer_packed.js":1,"sites\/all\/modules\/currency_locations\/currency_locations.js":1,"sites\/all\/modules\/currency_tabs\/currency_tabs.js":1,"sites\/all\/modules\/gc_goto_blocks\/gc_goto_blocks.js":1,"1":1,"http:\/\/w.sharethis.com\/button\/buttons.js":1,"2":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"\/\/code.highcharts.com\/highcharts.js":1,"\/\/code.highcharts.com\/modules\/exporting.js":1,"sites\/all\/themes\/gocurrency\/scripts\/monkeyTime.js":1,"sites\/all\/themes\/gocurrency\/scripts\/money.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/currency_locations\/currency_locations.css":1,"sites\/all\/modules\/currency_tabs\/currency_tabs.css":1,"0":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/bootstrap-datepicker\/1.3.0\/css\/datepicker.min.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/gc\/plugins\/layouts\/bs_sideright\/bs_sideright.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"\/\/fonts.googleapis.com\/css?family=Droid+Sans:400,700":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/gocurrency\/css\/style.css":1,"sites\/all\/themes\/gocurrency\/css\/pages.css":1,"sites\/all\/themes\/gocurrency\/css\/dropdown.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-5 node-type-page">
   <div id="skip-link">
@@ -456,7 +479,7 @@
               <div class="country-link-49">
           <a href="/countries/bosnia-and-herzegovina">Bosnia and Herzegovina</a>        </div>
               <div class="country-link-50">
-          <a href="/countries/Botswana">Botswana</a>        </div>
+          <a href="/countries/botswana">Botswana</a>        </div>
               <div class="country-link-51">
           <a href="/countries/brazil">Brazil</a>        </div>
               <div class="country-link-52">
@@ -480,7 +503,7 @@
               <div class="country-link-61">
           <a href="/countries/chad">Chad</a>        </div>
               <div class="country-link-62">
-          <a href="/countries/Chile">Chile</a>        </div>
+          <a href="/countries/chile">Chile</a>        </div>
               <div class="country-link-63">
           <a href="/countries/china-peoples-republic">China, People's Republic of</a>        </div>
               <div class="country-link-64">
@@ -510,7 +533,7 @@
               <div class="country-link-76">
           <a href="/countries/dominica">Dominica</a>        </div>
               <div class="country-link-77">
-          <a href="/countries/dominican-Republic">Dominican Republic</a>        </div>
+          <a href="/countries/dominican-republic">Dominican Republic</a>        </div>
               <div class="country-link-78">
           <a href="/countries/ecuador">Ecuador</a>        </div>
               <div class="country-link-79">
@@ -538,15 +561,15 @@
               <div class="country-link-90">
           <a href="/countries/georgia">Georgia</a>        </div>
               <div class="country-link-91">
-          <a href="/countries/Germany">Germany</a>        </div>
+          <a href="/countries/germany">Germany</a>        </div>
               <div class="country-link-92">
-          <a href="/countries/ghana%20">Ghana</a>        </div>
+          <a href="/countries/ghana">Ghana</a>        </div>
               <div class="country-link-93">
           <a href="/countries/greece">Greece</a>        </div>
               <div class="country-link-94">
           <a href="/countries/grenada">Grenada</a>        </div>
               <div class="country-link-95">
-          <a href="/countries/Guatemala">Guatemala</a>        </div>
+          <a href="/countries/guatemala">Guatemala</a>        </div>
               <div class="country-link-96">
           <a href="/countries/guinea">Guinea</a>        </div>
               <div class="country-link-97">
@@ -554,7 +577,7 @@
               <div class="country-link-98">
           <a href="/countries/guyana">Guyana</a>        </div>
               <div class="country-link-99">
-          <a href="/countries/Haiti">Haiti</a>        </div>
+          <a href="/countries/haiti">Haiti</a>        </div>
               <div class="country-link-100">
           <a href="/countries/honduras">Honduras</a>        </div>
               <div class="country-link-101">
@@ -576,7 +599,7 @@
               <div class="country-link-109">
           <a href="/countries/italy">Italy</a>        </div>
               <div class="country-link-110">
-          <a href="/countries/Jamaica">Jamaica</a>        </div>
+          <a href="/countries/jamaica">Jamaica</a>        </div>
               <div class="country-link-111">
           <a href="/countries/japan">Japan</a>        </div>
               <div class="country-link-112">
@@ -604,13 +627,13 @@
               <div class="country-link-123">
           <a href="/countries/lesotho">Lesotho</a>        </div>
               <div class="country-link-124">
-          <a href="/countries/Liberia">Liberia</a>        </div>
+          <a href="/countries/liberia">Liberia</a>        </div>
               <div class="country-link-125">
           <a href="/countries/libya">Libya</a>        </div>
               <div class="country-link-126">
           <a href="/countries/liechtenstein">Liechtenstein</a>        </div>
               <div class="country-link-127">
-          <a href="/countries/Lithuania">Lithuania</a>        </div>
+          <a href="/countries/lithuania">Lithuania</a>        </div>
               <div class="country-link-128">
           <a href="/countries/luxembourg">Luxembourg</a>        </div>
               <div class="country-link-129">
@@ -682,7 +705,7 @@
               <div class="country-link-162">
           <a href="/countries/paraguay">Paraguay</a>        </div>
               <div class="country-link-163">
-          <a href="/countries/PERU">Peru</a>        </div>
+          <a href="/countries/peru">Peru</a>        </div>
               <div class="country-link-164">
           <a href="/countries/philippines">Philippines</a>        </div>
               <div class="country-link-165">
@@ -720,7 +743,7 @@
               <div class="country-link-181">
           <a href="/countries/sierra-leone">Sierra Leone</a>        </div>
               <div class="country-link-182">
-          <a href="/countries/singapore%20">Singapore</a>        </div>
+          <a href="/countries/singapore">Singapore</a>        </div>
               <div class="country-link-183">
           <a href="/countries/slovakia">Slovakia</a>        </div>
               <div class="country-link-184">
@@ -780,7 +803,7 @@
               <div class="country-link-211">
           <a href="/countries/united-states">United States</a>        </div>
               <div class="country-link-212">
-          <a href="/countries/Uruguay">Uruguay</a>        </div>
+          <a href="/countries/uruguay">Uruguay</a>        </div>
               <div class="country-link-213">
           <a href="/countries/uzbekistan">Uzbekistan</a>        </div>
               <div class="country-link-214">
@@ -917,7 +940,7 @@ GoCurrency does not share any personal information it may collect. We do not sel
  <select class="form-control form-select" id="edit-to" name="to"><option value="AED">United Arab Emirates Dirham</option><option value="AFN">Afghan Afghani</option><option value="ALL">Albanian Lek</option><option value="AMD">Armenian Dram</option><option value="ANG">Netherlands Antillean Guilder</option><option value="AOA">Angolan Kwanza</option><option value="ARS">Argentine Peso</option><option value="AUD">Australian Dollar</option><option value="AWG">Aruban Florin</option><option value="AZN">Azerbaijani Manat</option><option value="BAM">Bosnia-Herzegovina Convertible Mark</option><option value="BBD">Barbadian Dollar</option><option value="BDT">Bangladeshi Taka</option><option value="BGN">Bulgarian Lev</option><option value="BHD">Bahraini Dinar</option><option value="BIF">Burundian Franc</option><option value="BMD">Bermudan Dollar</option><option value="BND">Brunei Dollar</option><option value="BOB">Bolivian Boliviano</option><option value="BRL">Brazilian Real</option><option value="BSD">Bahamian Dollar</option><option value="BTC">Bitcoin</option><option value="BTN">Bhutanese Ngultrum</option><option value="BWP">Botswanan Pula</option><option value="BYR">Belarusian Ruble</option><option value="BZD">Belize Dollar</option><option value="CAD">Canadian Dollar</option><option value="CDF">Congolese Franc</option><option value="CHF">Swiss Franc</option><option value="CLF">Chilean Unit of Account (UF)</option><option value="CLP">Chilean Peso</option><option value="CNY">Chinese Yuan</option><option value="COP">Colombian Peso</option><option value="CRC">Costa Rican Colón</option><option value="CUP">Cuban Peso</option><option value="CVE">Cape Verdean Escudo</option><option value="CZK">Czech Republic Koruna</option><option value="DJF">Djiboutian Franc</option><option value="DKK">Danish Krone</option><option value="DOP">Dominican Peso</option><option value="DZD">Algerian Dinar</option><option value="EEK">Estonian Kroon</option><option value="EGP">Egyptian Pound</option><option value="ERN">Eritrean Nakfa</option><option value="ETB">Ethiopian Birr</option><option value="EUR" selected="selected">Euro</option><option value="FJD">Fijian Dollar</option><option value="FKP">Falkland Islands Pound</option><option value="GBP">British Pound Sterling</option><option value="GEL">Georgian Lari</option><option value="GGP">Guernsey Pound</option><option value="GHS">Ghanaian Cedi</option><option value="GIP">Gibraltar Pound</option><option value="GMD">Gambian Dalasi</option><option value="GNF">Guinean Franc</option><option value="GTQ">Guatemalan Quetzal</option><option value="GYD">Guyanaese Dollar</option><option value="HKD">Hong Kong Dollar</option><option value="HNL">Honduran Lempira</option><option value="HRK">Croatian Kuna</option><option value="HTG">Haitian Gourde</option><option value="HUF">Hungarian Forint</option><option value="IDR">Indonesian Rupiah</option><option value="ILS">Israeli New Sheqel</option><option value="IMP">Manx pound</option><option value="INR">Indian Rupee</option><option value="IQD">Iraqi Dinar</option><option value="IRR">Iranian Rial</option><option value="ISK">Icelandic Króna</option><option value="JEP">Jersey Pound</option><option value="JMD">Jamaican Dollar</option><option value="JOD">Jordanian Dinar</option><option value="JPY">Japanese Yen</option><option value="KES">Kenyan Shilling</option><option value="KGS">Kyrgystani Som</option><option value="KHR">Cambodian Riel</option><option value="KMF">Comorian Franc</option><option value="KPW">North Korean Won</option><option value="KRW">South Korean Won</option><option value="KWD">Kuwaiti Dinar</option><option value="KYD">Cayman Islands Dollar</option><option value="KZT">Kazakhstani Tenge</option><option value="LAK">Laotian Kip</option><option value="LBP">Lebanese Pound</option><option value="LKR">Sri Lankan Rupee</option><option value="LRD">Liberian Dollar</option><option value="LSL">Lesotho Loti</option><option value="LTL">Lithuanian Litas</option><option value="LVL">Latvian Lats</option><option value="LYD">Libyan Dinar</option><option value="MAD">Moroccan Dirham</option><option value="MDL">Moldovan Leu</option><option value="MGA">Malagasy Ariary</option><option value="MKD">Macedonian Denar</option><option value="MMK">Myanma Kyat</option><option value="MNT">Mongolian Tugrik</option><option value="MOP">Macanese Pataca</option><option value="MRO">Mauritanian Ouguiya</option><option value="MTL">Maltese Lira</option><option value="MUR">Mauritian Rupee</option><option value="MVR">Maldivian Rufiyaa</option><option value="MWK">Malawian Kwacha</option><option value="MXN">Mexican Peso</option><option value="MYR">Malaysian Ringgit</option><option value="MZN">Mozambican Metical</option><option value="NAD">Namibian Dollar</option><option value="NGN">Nigerian Naira</option><option value="NIO">Nicaraguan Córdoba</option><option value="NOK">Norwegian Krone</option><option value="NPR">Nepalese Rupee</option><option value="NZD">New Zealand Dollar</option><option value="OMR">Omani Rial</option><option value="PAB">Panamanian Balboa</option><option value="PEN">Peruvian Nuevo Sol</option><option value="PGK">Papua New Guinean Kina</option><option value="PHP">Philippine Peso</option><option value="PKR">Pakistani Rupee</option><option value="PLN">Polish Zloty</option><option value="PYG">Paraguayan Guarani</option><option value="QAR">Qatari Rial</option><option value="RON">Romanian Leu</option><option value="RSD">Serbian Dinar</option><option value="RUB">Russian Ruble</option><option value="RWF">Rwandan Franc</option><option value="SAR">Saudi Riyal</option><option value="SBD">Solomon Islands Dollar</option><option value="SCR">Seychellois Rupee</option><option value="SDG">Sudanese Pound</option><option value="SEK">Swedish Krona</option><option value="SGD">Singapore Dollar</option><option value="SHP">Saint Helena Pound</option><option value="SLL">Sierra Leonean Leone</option><option value="SOS">Somali Shilling</option><option value="SRD">Surinamese Dollar</option><option value="STD">São Tomé and Príncipe Dobra</option><option value="SVC">Salvadoran Colón</option><option value="SYP">Syrian Pound</option><option value="SZL">Swazi Lilangeni</option><option value="THB">Thai Baht</option><option value="TJS">Tajikistani Somoni</option><option value="TMT">Turkmenistani Manat</option><option value="TND">Tunisian Dinar</option><option value="TOP">Tongan Paʻanga</option><option value="TRY">Turkish Lira</option><option value="TTD">Trinidad and Tobago Dollar</option><option value="TWD">New Taiwan Dollar</option><option value="TZS">Tanzanian Shilling</option><option value="UAH">Ukrainian Hryvnia</option><option value="UGX">Ugandan Shilling</option><option value="USD">United States Dollar</option><option value="UYU">Uruguayan Peso</option><option value="UZS">Uzbekistan Som</option><option value="VEF">Venezuelan Bolívar Fuerte</option><option value="VND">Vietnamese Dong</option><option value="VUV">Vanuatu Vatu</option><option value="WST">Samoan Tala</option><option value="XAF">CFA Franc BEAC</option><option value="XAG">Silver (troy ounce)</option><option value="XAU">Gold (troy ounce)</option><option value="XCD">East Caribbean Dollar</option><option value="XDR">Special Drawing Rights</option><option value="XOF">CFA Franc BCEAO</option><option value="XPF">CFP Franc</option><option value="YER">Yemeni Rial</option><option value="ZAR">South African Rand</option><option value="ZMK">Zambian Kwacha (pre-2013)</option><option value="ZMW">Zambian Kwacha</option><option value="ZWL">Zimbabwean Dollar</option></select>
 </div>
 </div><div class="col-md-6"><button class="btn btn-default form-submit" id="edit-submit" name="op" value="Convert" type="submit">Convert</button>
-</div></div><input type="hidden" name="form_build_id" value="form-Ol49WXyta_fd9HeNy0ri-NMs-I5BFgLu2BzYDxq0_x8">
+</div></div><input type="hidden" name="form_build_id" value="form-fsZQBR-Z4unoS2JUeTvrIE4MrZm91u94YnZDiYfUzlY">
 <input type="hidden" name="form_id" value="gc_currency_convert_form">
 </div></form>  </div>
 
@@ -1031,13 +1054,13 @@ GoCurrency does not share any personal information it may collect. We do not sel
 
         <h2 class="block-title">Newsletter</h2>
     
-  <form class="mailchimp-signup-subscribe-form" action="/" method="post" id="mailchimp-signup-subscribe-block-newsletter-form--2" accept-charset="UTF-8"><div><div id="mailchimp-newsletter-480617-mergefields" class="mailchimp-newsletter-mergefields"><div class="form-type-textfield form-item-mergevars-EMAIL form-item form-group">
-  <label for="edit-mergevars-email--2">Email Address <span class="form-required" title="This field is required.">*</span></label>
- <input class="form-control form-text required" type="text" id="edit-mergevars-email--2" name="mergevars[EMAIL]" value="" size="25" maxlength="128">
+  <form class="mailchimp-signup-subscribe-form" action="/currency/nzd" method="post" id="mailchimp-signup-subscribe-block-newsletter-form" accept-charset="UTF-8"><div><div id="mailchimp-newsletter-480617-mergefields" class="mailchimp-newsletter-mergefields"><div class="form-type-textfield form-item-mergevars-EMAIL form-item form-group">
+  <label for="edit-mergevars-email">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-mergevars-email" name="mergevars[EMAIL]" value="" size="25" maxlength="128">
 </div>
-</div><input type="hidden" name="form_build_id" value="form-OyTqILttfbVllZMJYtYDfL82oF8feZGbzmwsiIw_f2w">
+</div><input type="hidden" name="form_build_id" value="form-vckvAx_JopHyh6Yhv17XOKg7OsMsCkS9OY2LI0WOe8s">
 <input type="hidden" name="form_id" value="mailchimp_signup_subscribe_block_newsletter_form">
-<button class="btn btn-primary form-submit" id="edit-submit--4" name="op" value="Submit" type="submit">Submit</button>
+<button class="btn btn-primary form-submit" id="edit-submit--3" name="op" value="Submit" type="submit">Submit</button>
 </div></form>
 </section> <!-- /.block -->
   </div>
@@ -1120,8 +1143,8 @@ GoCurrency does not share any personal information it may collect. We do not sel
 
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.min.js"></script>
-<script src="http://www.gocurrency.com/sites/default/files/js/js_W_Qkg741Fw17i0RuMXW-AtflnUj1KqvawgpoQ_H0NsM.js"></script>
-<script src="http://www.gocurrency.com/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
-
+<script src="http://www.gocurrency.com/sites/all/modules/openex/openex.js?o94wiu"></script>
+<script src="http://www.gocurrency.com/sites/all/themes/bootstrap/js/bootstrap.js?o94wiu"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"daafb0b758","applicationID":"18463916","transactionName":"YFYBYRFSDRJXAEwKWFkcNkcKHAoPUgZATUdfQw==","queueTime":0,"applicationTime":28,"atts":"TBECF1lIHhw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
