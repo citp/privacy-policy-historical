@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openinground.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422190304id_/http%3A//openinground.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openinground.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030090424id_/http%3A//openinground.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Opening Round
 
