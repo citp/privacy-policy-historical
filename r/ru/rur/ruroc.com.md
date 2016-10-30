@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910033542id_/http%3A//www.ruroc.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030054725id_/https%3A//www.ruroc.com/content/2-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Ruroc
+# Privacy Policy - Ruroc
 
-Ruroc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Ruroc Limited (company number 07450896) whose registered office is at North Warehouse Second Floor, Gloucester Docks, Gloucester, United Kingdom ("Ruroc") This privacy policy applies to the Ruroc Web site <http://www.ruroc.com/> and governs our collection and use of personal data. By using the Ruroc website, you consent to the data practices described in this statement.
+## Legal
+
+Ruroc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Ruroc Limited (company number 07450896) whose registered office is at 29 Brunel Court, Waterwells, Quedgeley, Gloucester, United Kingdom ("Ruroc") This privacy policy applies to the Ruroc Web site <http://www.ruroc.com/> and governs our collection and use of personal data. By using the Ruroc website, you consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
 
@@ -31,7 +33,7 @@ The Website uses the following essential cookies, including one other cookie use
 
 ## Google Analytics
 
-__utma | We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. These we deem necessary in order to improve our website and provide data to ensure any improvements are effective. | You can find out more about Google's position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+__utma| We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. These we deem necessary in order to improve our website and provide data to ensure any improvements are effective.| You can find out more about Google's position on privacy as regards its analytics service at<http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
 ---|---|---  
 __utmb  
 __utmc  
