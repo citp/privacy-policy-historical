@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vspink.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410113029id_/https%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vspink.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030042105id_/https%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
 
 # Victoria's Secret Privacy & Security
 
@@ -132,7 +132,7 @@ We use third-party "back-office" contractors to help handle parts of our busines
 
   3. #####  3\.  Other Marketers
 
-We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers on their products and services. If you don't want this information shared with these merchants and exchanges, please **[click here](https://web.archive.org/CustomerService/QuickHelp/ContactUs/NonDisclosureOfPersonalInformation)**.
+We may share your name, postal address, and summary purchase information with other merchants and merchant exchanges. Other merchants may, in turn, use this information to send you offers on their products and services. If you don't want this information shared with these merchants and exchanges, please **[click here](https://customerservice.victoriassecret.com/app/ask)**.
 
   4. #####  4\.  Law Enforcement and Emergency Response
 
@@ -173,7 +173,7 @@ You may always choose to block cookies or even clear cookies from your computer.
 
   6. #####  6\.  Other Marketers
 
-If you don't want your basic contact and purchase information shared with other marketers (other than our affiliates and our contractor/service providers), please [click here](https://web.archive.org/CustomerService/QuickHelp/ContactUs/NonDisclosureOfPersonalInformation).
+If you don't want your basic contact and purchase information shared with other marketers (other than our affiliates and our contractor/service providers), please [click here](https://customerservice.victoriassecret.com/app/ask).
 
   7. #####  7\.  Our Affiliates
 
