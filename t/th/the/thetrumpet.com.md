@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404074345id_/https%3A//www.thetrumpet.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030123509id_/https%3A//www.thetrumpet.com/help/privacy) for the most accurate reproduction.*
 
 # Help - Privacy Policy - theTrumpet.com
 
