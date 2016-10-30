@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairstylescut.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410155727id_/http%3A//www.hairstylescut.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairstylescut.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030223429id_/http%3A//www.hairstylescut.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Home
 
