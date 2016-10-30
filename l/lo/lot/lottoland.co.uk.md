@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottoland.co.uk privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723112551id_/https%3A//www.lottoland.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottoland.co.uk privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030113454id_/https%3A//www.lottoland.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lottoland UK
 
@@ -63,6 +63,10 @@ During your online transactions your personal data will be transmitted encrypted
 We will retain your personal data only as long as is necessary for providing products and services, or as required by applicable law. We will not transmit or disclose your personal data to third parties, except in the cases described above, in the context of a joint venture, in relation to a forecast or actual sale or other transfer of the entire business or parts of the business or if we are compelled to do so by law, or receive a valid, legally compliant request by a law enforcement or governmental authority. 
 
 We may need to change this Privacy Policy from time to time. In such an event, we will post the new version on the Website. The new version of the Privacy Policy will take effect immediately upon its publication on the Website (or at any other point of time published on the Website). You are responsible for knowing the latest version of this Privacy Policy. You are entitled to inspect your personal data provided to us for free at any time. In addition you may ask us to conduct necessary changes to ensure that your data is correct and up-to-date. To inspect, change, delete, or correct your identity and contact information, please log in to your Player Account.
+
+**Provision of data to regulatory and law enforcement agencies**
+
+Lottoland is committed to the enforcement of fraud and money laundering legislation and to compliance with the terms and conditions of our licence. If we have reasonable grounds to believe that fraud or money laundering or any other offence is being committed or at risk being committed by you or by other persons through use of your Player Account, we may, at our sole discretion, provide the relevant regulator or authorised law enforcement agency with your personal data, to the extent that it relates to the commission of an offence under the UK Gambling Act 2005 or any other applicable legislation or code of practice, including an offence resulting from a breach of a licence condition or a code provision having the effect of a licence condition or which we suspect may lead the regulator to make an order to void any Bet which you have placed. 
 
 **Questions**
 
