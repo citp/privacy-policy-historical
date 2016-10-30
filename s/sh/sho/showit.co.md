@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showit.co privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326210538id_/http%3A//showit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showit.co privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030075259id_/http%3A//showit.co/privacy) for the most accurate reproduction.*
 
 # Showit - The easy drag and drop website design app for professional photographers
 
