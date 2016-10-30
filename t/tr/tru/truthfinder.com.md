@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthfinder.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320140835id_/http%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthfinder.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030021032id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # TruthFinder - Privacy Policy
 
@@ -45,7 +45,7 @@ Cookies may be placed by TruthFinder or a third party service provider. Users ca
 
 #### Sharing Information
 
-TruthFinder may share your personal information, including your name, address, email address, and data about transactions conducted on our Site with third parties, including third-party advertising partners who may send you information about their products or services. TruthFinder uses third party service providers to help us with hosting, billing, fulfillment, and data storage and security. We do not share payment information, except with service providers, and only for order fulfillment.
+TruthFinder may share your personal information, including your name, address, email address, and data about transactions conducted on our Site with third parties, including third-party advertising partners who may send you information about their products or services. Your email address will be shared with our mailing partner for the purposes of sending third party promotional email communications. TruthFinder uses third party service providers to help us with hosting, billing, fulfillment, and data storage and security. We do not share payment information, except with service providers, and only for order fulfillment
 
 If you enter a co-sponsored contest or sweepstakes, any information collected will be shared with the co-sponsor in accordance with the co-sponsor’s privacy policy. Do not participate in contests or sweepstakes if you do not wish to share your information in this way.
 
@@ -83,4 +83,4 @@ From time to time, we may update this Privacy Statement. We will notify you of a
 
 #### Contact Us
 
-Please contact us if you have questions about our Privacy Statement at [help@truthfinder.com](mailto:help@truthfinder.com) or 2534 State Street, Suite 473, San Diego, CA, 92101.
+Please contact us if you have questions about our Privacy Statement at [help@truthfinder.com](mailto:help@truthfinder.com) or 
