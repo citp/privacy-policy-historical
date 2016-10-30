@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotoes.org privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118125343id_/http%3A//www.gotoes.org/sales/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoes.org privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031003659id_/http%3A//gotoes.org/sales/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement for gotoes.org
 
@@ -25,4 +25,4 @@ If you have questions or concerns regarding this statement, you should first con
 
 * * *
 
-_[HOME](https://web.archive.org/web/20160118125343id_/http%3A//www.gotoes.org/sales/)_
+_[HOME](https://web.archive.org/web/20161031003659id_/http%3A//gotoes.org/sales/)_
