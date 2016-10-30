@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truepush.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402105549id_/http%3A//www.truepush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truepush.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030061733id_/http%3A//www.truepush.com/privacy) for the most accurate reproduction.*
 
 # :: Privacy Policy Truepush.com ::
 
@@ -25,7 +25,7 @@ We are committed to protecting children's privacy online. This Site is intended 
 
 **Updating or Deleting of Personally Identifiable Information:**
 
-For any update or deletion of your personally identifiable information please email us at [support@truepush.com](https://web.archive.org/web/20160402105549id_/http%3A//www.truepush.com/mail%20to:)
+For any update or deletion of your personally identifiable information please email us at [support@truepush.com](https://web.archive.org/web/20161030061733id_/http%3A//www.truepush.com/mail%20to:)
 
 **Billing:**
 
@@ -53,11 +53,11 @@ We will keep personally identifiable Information of our users for as long as the
 
 To make online purchases you must use an SSL-enabled browser in order to protect the confidentiality of your personal and credit card information while it is transmitted over the Internet.
 
-Access by you to your account is available through a password and/or unique user name selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone, that you change your password often using a combination of letters and numbers, and that you ensure you use a secure web browser. We cannot be held accountable for activity that results from your own neglect to safeguard the secrecy of your password and user name. If you share a computer with anyone, you should always log out of your account after you are finished, in order to prevent access to your information from subsequent users of that computer. Please notify us as soon as possible if your user name or password is compromised. for assistance send you query to [support@truepush.com](https://web.archive.org/web/20160402105549id_/http%3A//www.truepush.com/mail%20to:)
+Access by you to your account is available through a password and/or unique user name selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone, that you change your password often using a combination of letters and numbers, and that you ensure you use a secure web browser. We cannot be held accountable for activity that results from your own neglect to safeguard the secrecy of your password and user name. If you share a computer with anyone, you should always log out of your account after you are finished, in order to prevent access to your information from subsequent users of that computer. Please notify us as soon as possible if your user name or password is compromised. for assistance send you query to [support@truepush.com](https://web.archive.org/web/20161030061733id_/http%3A//www.truepush.com/mail%20to:)
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed and we shall have no liability to you or any third party for loss, misuse, disclosure or alteration of such information; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-In the unlikely event that we believe that the security of your Personally Identifiable Information in our control may have been compromised, we will notify you as promptly as possible under the circumstances. To the extent we have your e-mail address, we may notify you by e-mail and you consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at [support@truepush.com](https://web.archive.org/web/20160402105549id_/http%3A//www.truepush.com/mail%20to:). with the alternative contact information you wish to be used.
+In the unlikely event that we believe that the security of your Personally Identifiable Information in our control may have been compromised, we will notify you as promptly as possible under the circumstances. To the extent we have your e-mail address, we may notify you by e-mail and you consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at [support@truepush.com](https://web.archive.org/web/20161030061733id_/http%3A//www.truepush.com/mail%20to:). with the alternative contact information you wish to be used.
 
 **Linking:**
 
@@ -68,7 +68,7 @@ This Site may contain links to other web sites. The Company cannot and does not 
 If you are visiting from other regions with laws governing data collection and use that may differ from Indian law, please note that you are transferring your personal data to India, which does not have the same data protection laws and by providing your personal data you consent to: The use of your personal data for the uses identified above in accordance with this Privacy Policy; and The transfer of your personal data to the India as indicated above. 
 
 **Contact Us:**  
-If you have questions or concerns regarding this Policy, please contact us by emailing [support@truepush.com. ](https://web.archive.org/web/20160402105549id_/http%3A//www.truepush.com/mail%20to:)  
+If you have questions or concerns regarding this Policy, please contact us by emailing [support@truepush.com. ](https://web.archive.org/web/20161030061733id_/http%3A//www.truepush.com/mail%20to:)  
 TRUEPUSH PRIVATE LIMITED  
 1st Floor, Hansa crest,  
 Plot No 62, Road No 1,  
