@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drrecommendations.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620180712id_/http%3A//www.drrecommendations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drrecommendations.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030035131id_/https%3A//www.drrecommendations.com/privacy.php) for the most accurate reproduction.*
 
 # DrRecommendations.com - Research & Development for Medical Breakthrough™ Massage Chairs!
 
@@ -39,7 +39,7 @@ Dr. Recommendations occasionally requests information from our users and custome
 To opt out of receiving communications from Dr. Recommendations, just click the "unsubscribe" button at the bottom of any email newsletters. 
 
 **Updating Personal Information**  
-If the personal information Dr. Recommendations has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to sales@superearlybirds.com. You can also log into your account and make any changes. 
+If the personal information Dr. Recommendations has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to sales@drrecommendations.com. You can also log into your account and make any changes. 
 
 **Security**  
 Dr. Recommendations is committed to protecting the privacy of your personal information. To protect the information you send from your computer to Dr. Recommendations e-commerce system, this information - including your credit card number, name, and address - is encrypted using Secure Sockets Layer (SSL) software. Internally, we use encryption and Web security technologies to protect the privacy of your personal data. Only parties responsible for processing your order have access to your credit card and bank information. Dr. Recommendations continuously reviews its policies and practices to ensure that all customer information remains secure.
@@ -54,7 +54,7 @@ Dr. Recommendations collects your IP address, which cannot be used to identify y
 To provide the best customer service possible, Dr. Recommendations provides multiple methods for customers to ask questions and provide feedback. 
 
 **Contact Us**  
-Via the "Contact Us" link, Dr. Recommendations allows customers to e-mail sales@superearlybirds.com. This provides direct contact to a Dr. Recommendations customer rep, who reads each e-mail and tries to promptly answer your email. Dr. Recommendations may also file your comments to improve the site and program or review and discard the information. You may also send us your comments about the Dr. Recommendations web site or the shopping experience in general, as we always appreciate feedback. 
+Via the "Contact Us" link, Dr. Recommendations allows customers to e-mail sales@drrecommendations.com. This provides direct contact to a Dr. Recommendations customer rep, who reads each e-mail and tries to promptly answer your email. Dr. Recommendations may also file your comments to improve the site and program or review and discard the information. You may also send us your comments about the Dr. Recommendations web site or the shopping experience in general, as we always appreciate feedback. 
 
 **Fraudulent Charge Protection**  
 If a third party obtains your personal information from a purchase made with Dr. Recommendations and uses that information to perpetrate credit card fraud, you are protected. Under the Fair Credit Billing Act, your bank may hold you liable for up to $50 of fraudulent charges. If your bank holds you liable for any portion of the $50, Dr. Recommendations will cover up to the entire $50. Dr. Recommendations will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on Dr. Recommendations secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures. 
