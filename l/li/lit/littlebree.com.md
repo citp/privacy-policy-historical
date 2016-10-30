@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408155008id_/http%3A//littlebree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebree.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030040752id_/http%3A//www.littlebree.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
