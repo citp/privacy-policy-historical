@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localsearch.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326132335id_/http%3A//www.localsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsearch.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030165027id_/http%3A//www.localsearch.com/privacy-policy) for the most accurate reproduction.*
 
-# localsearch: Privacy Policy
+# Privacy Policy | localsearch
 
 Dex One Service, Inc. (“Dex One”) and SuperMedia Inc. (“SuperMedia”) and any company that is directly or indirectly controlled by, or under common control with Dex One or SuperMedia (collectively, “Dex Media”) respects your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this policy.
 
