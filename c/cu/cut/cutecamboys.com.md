@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutecamboys.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416062629id_/http%3A//www.cutecamboys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutecamboys.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030052701id_/http%3A//www.cutecamboys.com/privacy.php) for the most accurate reproduction.*
 
 # Cute Cam Boys - The Ultimate Gay Cam Show Experience
 
@@ -151,7 +151,7 @@ The Company does not provide a process to update or modify a Website user's pers
 
 ## 8\. Revocation of Consent Procedure (Revocation "Opting-Out")
 
-The Website may also offer to you a procedure for "Opting-Out" if you subsequently choose to revoke or withdraw any consent to accept or receive Offers. If so, to revoke or withdraw a consent to accept or receive Offers, send an e-mail to [list-unsubscribe@vs.com](mailto:list-unsubscribe@vs.com), clearly stating that you have revoked or withdrawn consent to receive any future Offers. You may also Opt-Out or terminate subscriptions or memberships by visiting our unsubscribe/cancel memberships page at <http://www.cutecamboys.com/my-account/>. 
+The Website may also offer to you a procedure for "Opting-Out" if you subsequently choose to revoke or withdraw any consent to accept or receive Offers. If so, to revoke or withdraw a consent to accept or receive Offers, send an e-mail to [list-unsubscribe@vs3.com](mailto:list-unsubscribe@vs3.com), clearly stating that you have revoked or withdrawn consent to receive any future Offers. You may also Opt-Out or terminate subscriptions or memberships by visiting our unsubscribe/cancel memberships page at <http://www.cutecamboys.com/my-account/>. 
 
 If you decide to cancel a subscription, membership or other Offer and later wish to re-subscribe, rejoin or recommence receiving a previously cancelled Offer, you may not always be able or entitled to do so, and you many not be entitled to receive credit towards benefits offered by the Company or a third party. We reserve the right at all times to terminate or suspend any subscription, membership, Offer, service or account at any time with or without notice. 
 
@@ -184,12 +184,12 @@ NO MINOR ACCESS TO ANY OF OUR MEMBER SERVICES IS AUTHORIZED.
 
 ## 12\. Access to Information; Correction of Erroneous Information; Questions; Contact.
 
-If you would like to review and/or change personal information we have retained about you in our database, please send us an e-mail request for this information at [customerservice@vs.com](mailto:customerservice@vs.com) or contact us using the [support page](https://web.archive.org/support.php). Please indicate in detail which information you wish to review and/or change. After you have reviewed the data, we will make reasonable efforts to correct such personal information about you that you state in writing is erroneous or that you otherwise wish to modify. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon receipt of a written request in accordance with the terms herein. Company has no obligation whatsoever to provide you with data about you that has been transferred to one or more third parties or who the third parties are, and Company is not obligated to take any actions with respect to, or shall be liable in any way for, the data in the databases of any third parties, whether or not such data is erroneous. If you have any questions regarding this Privacy Policy, please feel free to contact us at: 
+If you would like to review and/or change personal information we have retained about you in our database, please send us an e-mail request for this information at [customerservice@vsmedia.com](mailto:customerservice@vsmedia.com) or contact us using the [support page](https://web.archive.org/support.php). Please indicate in detail which information you wish to review and/or change. After you have reviewed the data, we will make reasonable efforts to correct such personal information about you that you state in writing is erroneous or that you otherwise wish to modify. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will always make reasonable efforts to do so upon receipt of a written request in accordance with the terms herein. Company has no obligation whatsoever to provide you with data about you that has been transferred to one or more third parties or who the third parties are, and Company is not obligated to take any actions with respect to, or shall be liable in any way for, the data in the databases of any third parties, whether or not such data is erroneous. If you have any questions regarding this Privacy Policy, please feel free to contact us at: 
 
 Toll Free: | 1-800-685-9236 (USA only)  
 ---|---  
 Int'l Phone: | 1-818-880-9021  
-Email: | [customerservice@vs.com](mailto:%20customerservice@vs.com)  
+Email: | [customerservice@vsmedia.com](mailto:%20customerservice@vsmedia.com)  
 Regular Mail: |  VS Media Inc.  
 4607 Lakeview Canyon Rd.  
 #338  
