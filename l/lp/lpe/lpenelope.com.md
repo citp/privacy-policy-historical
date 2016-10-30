@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpenelope.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325233731id_/http%3A//lpenelope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpenelope.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030204110id_/http%3A//lpenelope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - L. Penelope :: Paranormal & Fantasy Romance Author
 
@@ -42,4 +42,4 @@ Although most changes are likely to be minor, Heartspell may change its Privacy 
 
 [](https://web.archive.org/free-download)
 
-Sign up for new release notifications, member giveaways, & exclusive content! Receive your free reading list of early black speculative fiction when you join.
+Join my Reader Society for new release notifications, member giveaways, & exclusive content! Receive your free reading list of early black speculative fiction when you join.
