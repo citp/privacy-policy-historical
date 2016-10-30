@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthcycles.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427141351id_/http%3A//goldsilver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthcycles.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031002608id_/https%3A//support.goldsilver.com/hc/en-us/articles/216269187-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – GoldSilver.com Customer Support
 
@@ -14,7 +14,7 @@ This Privacy Policy tells you:
 
 
 
-This policy pertains to your use of the Goldsilver.com™ website, related translated websites (OroPlata.com™, etc.), and any other websites or applications (collectively “Sites”) operated by Silver & Gold, Inc. (“Company”), except as otherwise stated.
+This policy pertains to your use of the Goldsilver.com™ website, related translated websites (OroPlata.com™, etc.), and any other websites or applications (collectively “Sites”) operated by GoldSilver LLC (“Company”), except as otherwise stated.
 
 By accessing the Sites, you accept the practices described below. The Company is not responsible for the content or privacy practices of any website or application not operated by our Company, to which this Sites links to or which links to this Site. You are advised to be aware when you are leaving our Sites for a third party website or application.
 
@@ -105,7 +105,7 @@ The security, integrity and confidentiality of your information are extremely im
 
 **11\. Changes to this Privacy Policy.**
 
-From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. When we do, we will also revise the "last updated" date at the top of the privacy policy. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent when necessary. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our Sites, or by other means, consistent with applicable law. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect..
+From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. When we do, we will also revise the "last updated" date at the top of the privacy policy. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent when necessary. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our Sites, or by other means, consistent with applicable law. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. In addition, we may freely assign this Privacy Policy or any of our rights and/or obligations hereunder.
 
 **12\. Comments and Questions**
 
@@ -113,9 +113,9 @@ If you have a comment or question about this privacy policy, please contact [inf
 
 _Notice to California Residents:_  If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Silver & Gold, Inc. to third parties for the third parties’ direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to info@goldsilver.com or write us at:
 
-CA Privacy Rights  
-Silver & Gold, Inc.  
+Attn: CA Privacy Rights  
+GoldSilver LLC  
 PO Box 8099  
 Calabasas, CA 91372
 
-Last Updated: January 11, 2016 17:35
+Last Updated: June 30, 2016 21:39
