@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520135834id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030231007id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
 
 # Mothers' Scholarship Application Privacy | Scholarship Provider
 
@@ -7,6 +7,8 @@ scholarshipprovider.net ("the site") is owned and operated by Free College Schol
 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
 
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=9b9e6b91-c6b5-4213-805b-082d4d9b4645 "TRUSTe Privacy Certification")
 
 ### Information Collected:
 
@@ -55,6 +57,10 @@ We use cookies to remember users’ settings (e.g. your prior registration infor
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
+### LSOs
+
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
+
 ### Widgets:
 
 Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying loan information, the news, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
@@ -66,10 +72,6 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 ### Registry Compliance:
 
 By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from scholarshipprovider.net, our affiliates, and our partners for contact via telephone.
-
-### LSOs
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Behavioral Targeting
 
@@ -101,7 +103,7 @@ Under California law, site visitors who are residents of California may request 
 
 ### Access to your information:
 
-When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wanted to have your personal information removed from our public forum, directory or testimonial on our site or deactivate it, you can contact us as described below. We will respond to your request within a reasonable timeframe.
+When you submit your personal information on a form, it is not possible to update, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wish to request deletion of your personal information, ask to have it removed from our public forum, directory or testimonial on our site, you can contact us as described below. We will respond to your request within a reasonable time frame.
 
 ### Transfer, Sale, or Assign:
 
