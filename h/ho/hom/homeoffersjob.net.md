@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeoffersjob.net privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323182209id_/http%3A//ngmmarketing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeoffersjob.net privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030224447id_/http%3A//ngmmarketing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # NGM:: Privay Policy
 
