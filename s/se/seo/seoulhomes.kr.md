@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoulhomes.kr privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630203044id_/http%3A//www.seoulhomes.kr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoulhomes.kr privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030061913id_/http%3A//seoulhomes.kr/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEOUL HOMES
 
