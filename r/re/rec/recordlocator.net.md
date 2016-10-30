@@ -1,86 +1,86 @@
-> *The following text is extracted and transformed from the recordlocator.net privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910011328id_/http%3A//www.recordlocator.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordlocator.net privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030021032id_/https%3A//www.truthfinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Background Checks
+# TruthFinder - Privacy Policy
 
-## InstantCheckmate.com Website Privacy Policy
+## Privacy Policy
 
-**Date of last revision: May 15th, 2013**
+This Privacy Statement describes the information collection, use, and disclosure practices of TruthFinder, hosted at, hosted at www.truthfinder.com (the “Site”).
 
-### 1\. Introduction
+### Information Collection
 
-This Privacy Policy describes how Instant Checkmate, Inc., a Delaware corporation, doing business as "Instant Checkmate" ("Instant Checkmate"), provides access to the people finder and public records on the InstantCheckmate.com website at [http://www.instantcheckmate.com](http://www.instantcheckmate.com/) (along with all subdomains, collectively, the "Site"). This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+When you interact with the Site by registering or making a purchase, we may collect certain personal information you knowingly choose to disclose to us, such as your name and email address; financial data, such as your payment card information; or other demographic data like zip code and age. You may provide this information when you register with the Site, purchase products, participate in promotions or surveys, fill out web forms, or agree to receive messages from TruthFinder. We will also collect any other information you voluntarily provide, like when you send us an email or publicly post on chat groups or forums.
 
-### 2\. Information Collection Practices
+The Site may also passively collect non-personal information that is automatically sent to us by your web browser or device including but not limited to your IP address, domain servers, or your computer or internet browser type. This data is helpful for improving the Site and for marketing purposes.
 
-#### i. Types of Information Collected
+We may also collect aggregated information as you visit the Site.
 
-Traffic Data Collected. We may automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site.
+### Information Use
 
-Cookies and web beacons are very small text files that are stored on your computer when you visit certain web pages. Instant Checkmate collects information through cookies and web beacons about your web browsing activities such as the address of the page you are visiting, the address of the referrer page you previously visited, the time you are viewing the page, your browsing environment and your display settings. We use cookies and web beacons on our Site for some of the following purposes:
+We may use the information we collect to:
 
-  * Understand traffic patterns and the number of visitors to the Site and other non-Instant Checkmate websites that we partner with;
-  * Understand how you use and interact with the Site;
-  * Improve the Instant Checkmate products and services;
-  * Optimize your experience on our Site;
-  * Provide anonymous individual or aggregate auditing, research, modeling and reporting for our advertisers and other partners (no personally identifiable information about you is shared with our advertisers and other partners as part of these activities);
-  * Store your password so you do not have to re-enter it each time you visit the Site;
-  * Provide you relevant advertising and content; and
-  * Properly manage our Site.
+  * Respond to your requests;
+  * Confirm and track your subscription or registration;
+  * Analyze preferences, trends, and statistics;
+  * Inform you of our new products, services, and offers;
+  * Provide our marketing partners with your contact information so they can contact you about goods and services;
+  * Operate the Site and customize your experience;
+  * Identify or remedy potential threats to the Site’s security; and
+  * For any other purpose stated at the time of collection.
 
 
 
-Please note that some cookies may be placed by a third party service provider who performs some of these functions for us. Other companies' use of their cookies is subject to their own privacy policies.
+### Cookies
 
-Personal Information Collected. In order for you to access and purchase products that we offer via the Site, we may require you to provide us with certain information that personally identifies you ("Personal Information"). Personal Information may include the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address); (2) Financial Data (such as your account or credit card number); and (3) Demographic Data (such as your zip code and age). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or contest entries, any information provided in such communication may be collected as Personal Information.
+This Site is cookie-enabled to give you a more customized user experience. We may also use web beacons. Cookies and web beacons are small text files stored on a computer and later used to recognize a user. For example, cookies and web beacons can help store your password so you do not have to re-enter it each time you visit the Site. We use cookies and web beacons for purposes such as the following:
 
-#### ii. Uses of Information Collected
+  * Understanding traffic patterns on the Site and how users interact with the Site;
+  * Improving our products and services; 
+  * Optimizing and managing the Site;
+  * Providing anonymized or aggregated data to our advertisers and partners for research, modeling, or auditing purposes; and
+  * Providing you with relevant advertising and content.
 
-We may use some of your Personal Information to send you information about our company or our products or services or to contact you when necessary. We may also share some of your Personal Information with some of our partners who may use it to contact you about goods and services. However, under no circumstances will we share your Financial Data with our partners. We use your Financial Data only to verify your qualifications for certain products or services and to bill you for products and services. We do not use your Financial Data for any other purpose.
 
-#### iii. Sharing of Personal Information.
 
-We share certain categories of information we collect from you in the ways described in this Privacy Policy. We may share certain types of Personal Information with advertisers and other third parties. The other parties with whom we share the information may want to send you information about products or services. We do not share your Financial Data with these third parties. We may share Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your data to carry out their specific business obligations to Instant Checkmate. If you do not want us to share your Personal Information with any third parties, please email us at privacy@instantcheckmate.com or select the "opt out" box on our online forms. In addition, we maintain a procedure for you to review and request changes to your Personal Information; this procedure is described below.
+Cookies may be placed by TruthFinder or a third party service provider. Users can personalize their browser settings to reject cookies, although certain features of the Site may not function as intended.
 
-##### Interest-Based Ads
+#### Sharing Information
 
-We may also share Traffic Data with advertisers and other third parties who may use it for advertising purposes, including to serve targeted advertising on our behalf on non-affiliated third party sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information we or the online advertising network serving the ad collect about your online activities here and elsewhere over time. For example, anonymous information collected across multiple sites that you visit over time may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+TruthFinder may share your personal information, including your name, address, email address, and data about transactions conducted on our Site with third parties, including third-party advertising partners who may send you information about their products or services. Your email address will be shared with our mailing partner for the purposes of sending third party promotional email communications. TruthFinder uses third party service providers to help us with hosting, billing, fulfillment, and data storage and security. We do not share payment information, except with service providers, and only for order fulfillment
 
-If we or some or all of our assets are acquired by another company, including through a sale in connection with bankruptcy, that company will possess the information collected by us, and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
+If you enter a co-sponsored contest or sweepstakes, any information collected will be shared with the co-sponsor in accordance with the co-sponsor’s privacy policy. Do not participate in contests or sweepstakes if you do not wish to share your information in this way.
 
-We may disclose Personal Information or other data to comply with law or legal requirements, enforce or apply our Terms of Use and other agreements, or protect our rights, property, or safety of our users, or others. 
+If we or some or all of our assets are acquired by another organization, including through a sale in connection with bankruptcy, that organization will possess the information collected by us, and it will assume the rights and obligations regarding your information as described in this Privacy Statement.
 
-#### iv. Email Marketing.
+We may disclose personal information or other data to comply with law or legal requirements, enforce or apply our Terms of Use and other agreements, or protect our rights, property, or safety of our users, or others.
 
-By accepting this Privacy Policy and submitting your email address via the Site, you are expressly consenting to receive e-mail advertisements from Instant Checkmate, including through Instant Checkmate’s independent contractors, and from third parties concerning offers and advertisements unrelated to Instant Checkmate.  To opt-out of receiving promotional email messages from us, please click on the “Unsubscribe” link contained at the bottom of each email.
+#### Third Party Links
 
-#### v. Contests, Sweepstakes, Surveys
+For your convenience, this Site may contain certain hyperlinks to other websites. We make no promises or guarantees regarding data collection on the hyperlinked pages that are not operated by TruthFinder. We recommend that you read the privacy policy/statement for each site you visit.
 
-Instant Checkmate may conduct or cosponsors contests, sweepstakes, or other offerings. In such circumstances, the information we obtain from you may be shared with our co-sponsor. Our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. If you do not wish for the information we obtain from you to be shared with our co-sponsor, you may decline participation.
+#### Your Choices
 
-### 3\. Confidentiality and Security of Personal Information
+We may use the personal information we collect from you to provide you with opportunities to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of such email communications, by selecting the “opt out” box on our online forms, or by contacting us at [help@truthfinder.com](mailto:help@truthfinder.com).
 
-#### i. User Ability to Access, Update, and Correct Personal Information
+If you would no longer like to receive offers from our marketing partners, you can unsubscribe by following the unsubscribe link located at the bottom of each email communication.
 
-We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may contact Instant Checkmate via email: privacy@instantcheckmate.com to update your Personal Information or request that your Personal Information no longer be shared by Instant Checkmate. In the case that your credit card, user name, or password is lost, stolen, or used without permission, promptly contact Instant Checkmate at privacy@instantcheckmate.com to update the Personal Information we have on file for you.
+#### Interest Based Advertising
 
-#### ii. Your California Privacy Rights
+We may partner with third-party advertising providers to serve ads on our behalf on non-affiliated third party sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information we or the online advertising network serving the ad collect about your online activities here and elsewhere over time. For example, anonymous information collected across multiple sites that you visit over time may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf.
 
-You may remove your Personal Information from Instant Checkmate's database. If you remove your information from Instant Checkmate's database it will no longer be used by Instant Checkmate for secondary purposes, disclosed to third parties, or used by Instant Checkmate or third parties to send promotional correspondence to you. You may remove your information by sending your request in writing via email to unsubscribe@instantcheckmate.com.
+To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
-#### iii. Security
+#### Your California Privacy Rights
 
-The information stored on Instant Checkmate's computer use industry standard security measures (such as a firewall and password protections) in place to protect against the loss, misuse, and alteration of the information under Instant Checkmate's control. Notwithstanding such measures, Instant Checkmate cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Personal Information on them stolen or altered.
+As described in this Privacy Statement, from time to time we may make your personal information available to third parties for their marketing purposes. If you do not want us to share your personal information with third parties, you may opt-out of this information sharing by emailing us at [help@truthfinder.com](mailto:help@truthfinder.com).
 
-### 4\. Public Information
+#### Updating Your Personal Information
 
-The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. In the future, we may also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+If your personal information changes, please contact TruthFinder at [help@truthfinder.com](mailto:help@truthfinder.com) with your updated personal information.
 
-### 5\. Updates and Changes to Privacy Policy
+#### Updates
 
-We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
+From time to time, we may update this Privacy Statement. We will notify you of any material changes to our Privacy Statement by updating this page. We encourage you periodically to check this site to learn about the information we collect, use, and share. Your continued use of the Site affirms your agreement to such changes.
 
-If you have questions about this Privacy Policy or want to contact us, please send an email to privacy@instantcheckmate.com or write to us at:
+#### Contact Us
 
-Instant Checkmate  
-4330 S Valley View Blvd, Ste 118  
-Las Vegas, NV 89103-4052
+Please contact us if you have questions about our Privacy Statement at [help@truthfinder.com](mailto:help@truthfinder.com) or 
