@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theskinnybuzz.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624205851id_/http%3A//theskinnybuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theskinnybuzz.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031231157id_/http%3A//theskinnybuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Skinny Buzz
 
