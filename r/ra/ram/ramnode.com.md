@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325151117id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031185703id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
 
 # Client Area - RamNode
 
