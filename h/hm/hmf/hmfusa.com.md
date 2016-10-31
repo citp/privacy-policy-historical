@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hmfusa.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507071300id_/https%3A//www.hmfusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmfusa.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101001120id_/https%3A//www.hmfusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Hyundai Motor Finance (HMF) Privacy Notice Highlights
+## Hyundai Motor Finance (HMF) Privacy Statement Highlights
 
-Privacy and consumer trust is very important to us at Hyundai Motor Finance. This Privacy Statement ("Statement") applies to the Hyundai Motor Finance website (the "Site"), which is owned or controlled by Hyundai Motor Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Hyundai Motor Finance. This Statement describes the types of information that Hyundai Motor Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Hyundai Motor Finance by any other means (such as email or offline activities). 
+Privacy and consumer trust is very important to us at Hyundai Motor Finance. This Privacy Statement ("Statement") applies to the Hyundai Motor Finance Website (the "Site"), which is owned or controlled by Hyundai Motor Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Hyundai Motor Finance. This Statement describes the types of information that Hyundai Motor Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Hyundai Motor Finance by any other means (such as email or offline activities). 
 
 While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. Our goal is to protect your information. 
 
@@ -35,7 +35,7 @@ We do not sell, rent, or lease our customer lists to third parties. In order to 
 
 Hyundai Motor Finance Full Privacy Policy  ****
 
-[Hyundai Motor Finance Customer Privacy Notice](https://web.archive.org/Content/img/img-hmf/Privacy_Notice_HMF.pdf)
+[Download Hyundai Motor Finance Customer Privacy Notice](https://pfile.hcamerica.com/content/dam/hca/hmf/img/privacy-policy/2016-hmf-na-na-privacy_policy-pdf.PDF)
 
 How to Contact Us
 
@@ -66,7 +66,7 @@ Call toll-free (800) 523-4030
 
 **1\. General Privacy Statement**
 
-Privacy and consumer trust is very important to us at Hyundai Motor Finance. This Privacy Statement ("Statement") applies to Hyundai Motor Finance (the "Site"), which is owned or controlled by Hyundai Motor Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Hyundai Motor Finance. This Statement describes the types of information that Hyundai Motor Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Hyundai Motor Finance by any other means (such as email or offline activities). 
+Privacy and consumer trust is very important to us at Hyundai Motor Finance. This Privacy Statement ("Statement") applies to Hyundai Motor Finance Website (the "Site"), which is owned or controlled by Hyundai Motor Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Hyundai Motor Finance. This Statement describes the types of information that Hyundai Motor Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Hyundai Motor Finance by any other means (such as email or offline activities). 
 
 While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. Our goal is to protect your information. 
 
@@ -89,7 +89,7 @@ If you are our customer, we may use and/or disclose all of the information that 
   1. a. _Customer Data_
 
   
-To the extent permitted by law and in accordance the [Hyundai Motor Finance Customer Privacy Notice](https://web.archive.org/Content/img/img-hmf/Privacy_Notice_HMF.pdf), the personally identifiable information we collect about you may be shared with our affiliates and non-affiliates as follows: 
+To the extent permitted by law and in accordance the [Download Hyundai Motor Finance Customer Privacy Notice](https://pfile.hcamerica.com/content/dam/hca/hmf/img/privacy-policy/2016-hmf-na-na-privacy_policy-pdf.PDF), the personally identifiable information we collect about you may be shared with our affiliates and non-affiliates as follows: 
 
     1. I. Affiliates - Our affiliates include companies with a Hyundai name (except dealers); financial companies such as Hyundai Capital Services; and nonfinancial companies such as Hyundai Motor America.
   
@@ -186,7 +186,7 @@ We will not disclose any of your nonpublic personal information to our affiliate
 
 **14\. Your Vermont Privacy Rights**
 
-We automatically limit the sharing of your information as if you elected to limit the sharing as described on page 1 of the [Hyundai Motor Finance Customer Privacy Notice.](https://web.archive.org/Content/img/img-hmf/Privacy_Notice_HMF.pdf) With respect to sharing with nonaffiliated financial companies with whom we have joint marketing agreements, we limit the information to your name, contact information and information about your transactions and experiences with us. We also do not disclose nonpublic personal information about you to non-affiliates without first obtaining your express written consent, unless permitted by law. 
+We automatically limit the sharing of your information as if you elected to limit the sharing as described on page 1 of the [ Download Hyundai Motor Finance Customer Privacy Notice.](https://pfile.hcamerica.com/content/dam/hca/hmf/img/privacy-policy/2016-hmf-na-na-privacy_policy-pdf.PDF) With respect to sharing with nonaffiliated financial companies with whom we have joint marketing agreements, we limit the information to your name, contact information and information about your transactions and experiences with us. We also do not disclose nonpublic personal information about you to non-affiliates without first obtaining your express written consent, unless permitted by law. 
 
 **15\. Changes to Our Privacy Policy**
 
