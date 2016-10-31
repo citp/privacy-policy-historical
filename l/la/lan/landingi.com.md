@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landingi.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604051722id_/http%3A//landingi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landingi.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031152150id_/http%3A//landingi.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Landingi
 
@@ -6,7 +6,7 @@ This Privacy Policy is intended to provide a sense of security to each user of t
 
 **I. Administrator**
 
-The data administrator is Landingi Sp. z o.o. based in Krakow, ul. Ludwinowska 7/9, entered in the Register of Entrepreneurs under KRS number 0000449404, for which registration documents are held by the District Court for Krakow-Srodmiescie in the city of Krakow, 11th Commercial Division of the National Court Register, NIP (tax id): 6762461659, REGON (statistical no.): 122774425. Data protection is ensured in accordance with the requirements of generally applicable laws, and data are stored on secure servers.
+The data administrator is Landingi Sp. z o.o. based in Gliwice, Witkiewicza 6 street, entered in the Register of Entrepreneurs under KRS number 0000449404, for which registration documents are held by the District Court in the city of Gliwice, 10th Commercial Division of the National Court Register, NIP (tax id): 6762461659, REGON (statistical no.): 122774425. Data protection is ensured in accordance with the requirements of generally applicable laws, and data are stored on secure servers.
 
 **II. Cookies**
 
