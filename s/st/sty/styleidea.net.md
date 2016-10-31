@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleidea.net privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319220758id_/http%3A//styleidea.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleidea.net privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031145211id_/http%3A//styleidea.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Style Idea
 
