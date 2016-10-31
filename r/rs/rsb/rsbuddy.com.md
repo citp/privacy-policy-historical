@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401071746id_/https%3A//rsbuddy.com/osbuddy/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031051852id_/https%3A//rsbuddy.com/osbuddy/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RSBuddy
 
