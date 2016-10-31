@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paysec.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501162405id_/http%3A//paysec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paysec.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031061903id_/http%3A//www.paysec.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – PaySec | Delivering your Asia Payments
+# Privacy Policy - PaySec | Delivering your Asia Payments
 
 PaySec is fully committed in protecting the security and ensuring the right to privacy of each individual using the website. This is the privacy policy (“Privacy Policy”) of PaySec, which explains how we use Personal Information that we collect, receive and store for each user and visitor of PaySec.com.
 
