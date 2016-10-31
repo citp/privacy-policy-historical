@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407074435id_/https%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031074155id_/https%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
 
 # Instaflex Advanced – Get a Sample Today | Privacy Policy
 
