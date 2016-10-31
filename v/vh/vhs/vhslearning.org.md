@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vhslearning.org privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320023405id_/http%3A//vhslearning.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhslearning.org privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031125719id_/http%3A//vhslearning.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Virtual High School
 
@@ -16,8 +16,8 @@ We understand that our student users who are under 13 years of age need special 
 
 For information on COPPA and the use of children’s personal information, please contact:
 
-VHS Inc.  
-4 Clock Tower Place Suite 510  
+The Virtual High School (VHS, Inc.)  
+Mill and Main Place, Suite 510  
 Maynard, MA 01754  
 1.978.897.1900  
 [privacy@TheVHS.org](mailto:privacy@thevhscollaborative.org)
@@ -58,8 +58,8 @@ We will occasionally amend this Privacy Policy to reflect company and customer f
 
 If you have any questions about this policy, contact us at:
 
-VHS Inc.  
-4 Clock Tower Place Suite 510  
+The virtual High School, (VHS Inc.)  
+4 Mill and Main Place Suite 510  
 Maynard, MA 01754  
 1.978.897.1900  
 [privacy@TheVHS.org](mailto:privacy@thevhscollaborative.org)
