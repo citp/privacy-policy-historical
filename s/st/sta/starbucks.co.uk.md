@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615060503id_/http%3A//www.starbucks.co.uk/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031154718id_/http%3A//www.starbucks.co.uk/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Starbucks Coffee Company
 
-**Last Updated: 18 January, 2016**
+**Last Updated: 29 July, 2016**
 
 This Privacy Statement ("Statement") applies to the websites located at starbucks.co.uk, store.starbucks.co.uk and any other websites or applications (including mobile applications) associated with Starbucks brands or products that direct the viewer or user to this Statement. In this Statement, the terms “Starbucks,” “we,” and “us” refer to Starbucks Coffee Company (UK) Limited, Starbucks Manufacturing EMEA BV, Starbucks Corporation and their respective subsidiaries and affiliated companies. The Starbucks websites or applications to which this Statement applies may contain links to other websites or applications owned and operated by other companies. However, this Statement does not apply to such third party websites or applications.
 
@@ -159,11 +159,3 @@ This Statement went into effect on the date noted at the top of this web page. W
 **12\. Contact Us**
 
 We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Relations online at <http://www.starbucks.co.uk/customer-service>, by email at [ukinfo@starbucks.com](mailto:ukinfo@starbucks.com), by telephone at 020 8834 5050 or by postal mail at Starbucks Customer Care, Starbucks Coffee Company, Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE.
-
-**13.Safe Harbour and TRUSTe Compliance**
-
-Starbucks follows the US-EU Safe Harbour framework and the US-Swiss Safe Harbour framework that have been adopted by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding both the EU and Swiss Safe Harbour Frameworks can be found at: <http://export.gov/safeharbor>.
-
-Starbucks has received TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The [TRUSTe program requirements](http://www.truste.com/privacy-program-requirements/) cover only information that is collected through the websites and applications to which this Statement applies.
-
-[](https://privacy.truste.com/privacy-seal/Starbucks-Corporation/validation?rid=0fa11366-557d-42f5-aeb6-00de766ee403 "TRUSTe European Safe Harbor certification")
