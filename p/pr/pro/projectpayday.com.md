@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401213822id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031152310id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
 
 # Project Payday - Realistic Extra Income for the Average Joe
 
@@ -73,7 +73,7 @@ You can view and/or modify the information provided to us at any time by logging
 Project Payday provides every user with the opportunity to opt-out of receiving future promotional communications from us. You may do so in the following ways. Please note however that even if you opt-out, you may still receive important announcements or updates regarding your Project Payday account.
 
 1\. Email: [support@projectpayday.com](mailto:support@projectpayday.com)  
-2\. Website: <http://www.projectpayday.com/unsub.cgi>  
+2\. Website: [http://www.projectpayday.com/unsub.cgi](https://web.archive.org/unsub.cgi)  
 3\. Postal Mail: 1675 Larimer St, Suite 640, Denver CO 80202
 
 **_Project Payday Research_**
