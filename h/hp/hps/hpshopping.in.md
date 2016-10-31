@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpshopping.in privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630163935id_/http%3A//www8.hp.com/in/en/privacy/privacy.html%3Fjumpid%3Dreg_r1002_inen_c-001_title_r0001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpshopping.in privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031074712id_/http%3A//www8.hp.com/in/en/privacy/privacy.html%3Fjumpid%3Dreg_r1002_inen_c-001_title_r0001) for the most accurate reproduction.*
 
 # Online privacy statement | HP® India
 
@@ -197,7 +197,7 @@ Subscription communications include email newsletters, software updates, etc. th
   * Select the email 'opt out' or 'unsubscribe' link, or follow the opt-out instructions included in each email subscription communication.
   * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
   * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the [Subscriber's Choice web page](https://h41369.www4.hp.com/subhub.php?country=US&language=US).
-  * Write to the [HP Privacy Office](https://ssl.www8.hp.com/h41268/live/index.aspx?qid=11507) (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
+  * Write to the [HP Privacy Office](http://www8.hp.com/us/en/privacy/ww-privacy-form.html) (contact details below). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
 
   
 
@@ -206,13 +206,13 @@ Subscription communications include email newsletters, software updates, etc. th
 
 HP general communications provide information about products, services, and/or support. This may include new product or services information, special offers, or invitations to participate in market research or compliance reviews.
 
-You will often be able to use [HP Passport](https://hpp12.passport.hp.com/hppcf/login.do?TYPE=33554433&REALMOID=06-0005e03f-3c9d-1562-bd8c-a14d9144a903&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$nrFItGUrP4rn6tl84L%2fmZNZrF9DR%2f5Y%2fvIW%2f6XUi7RldT%2b%2bDTbpI0qztd80EWaYN&TARGET=$SM$HTTPS%3a%2f%2fpassport2%2ehp%2ecom%2fhppcf%2fmodifyuser%2edo%3fhpappid%3dprivacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
+You will often be able to use [HP Passport](https://hpp12.passport.hp.com/hppcf/modifyuser.do?hpappid=privacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
 
 If you are unable to use HP Passport, you may opt out of receiving these general communications by using one of the following methods:
 
   * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
   * To unsubscribe from messages delivered to mobile devices, reply to the message with the words “STOP” or “END.”
-  * Write to the [HP Privacy Office](https://ssl.www8.hp.com/h41268/live/index.aspx?qid=11507). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
+  * Write to the [HP Privacy Office](http://www8.hp.com/us/en/privacy/ww-privacy-form.html). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
 
 
 
@@ -220,7 +220,7 @@ If you are unable to use HP Passport, you may opt out of receiving these general
 
 ### 7\. Access to and accuracy of your information
 
-HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the web page where you originally submitted your data and follow the instructions on that web page, use [HP Passport](https://hpp12.passport.hp.com/hppcf/login.do?TYPE=33554433&REALMOID=06-0005e03f-3c9d-1562-bd8c-a14d9144a903&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$nrFItGUrP4rn6tl84L%2fmZNZrF9DR%2f5Y%2fvIW%2f6XUi7RldT%2b%2bDTbpI0qztd80EWaYN&TARGET=$SM$HTTPS%3a%2f%2fpassport2%2ehp%2ecom%2fhppcf%2fmodifyuser%2edo%3fhpappid%3dprivacy) where enabled, or contact the [HP Privacy Office](https://ssl.www8.hp.com/h41268/live/index.aspx?qid=11507). HP will respond to access requests within 30 days.
+HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the web page where you originally submitted your data and follow the instructions on that web page, use [HP Passport](https://hpp12.passport.hp.com/hppcf/modifyuser.do?hpappid=privacy) where enabled, or contact the [HP Privacy Office](http://www8.hp.com/us/en/privacy/ww-privacy-form.html). HP will respond to access requests within 30 days.
 
   
 
@@ -251,7 +251,7 @@ If we modify our Privacy Statement, we will post the revised statement here, wit
 
 ### 10\. Contacting us & How To Make a Complaint
 
-We value your opinions. If you have comments or questions about our Privacy Statement, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the [HP Privacy Office](https://ssl.www8.hp.com/h41268/live/index.aspx?qid=11507) or write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
+We value your opinions. If you have comments or questions about our Privacy Statement, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the [HP Privacy Office](http://www8.hp.com/us/en/privacy/ww-privacy-form.html) or write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
 
 HP has also committed to refer unresolved privacy complaints from E.U. and Swiss citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: <http://www.bbb.org/us/safe-harbor-complaints>.[](http://www.bbb.org/us/safe-harbor-complaints)
 
