@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankandeileen.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329120153id_/http%3A//frankandeileen.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankandeileen.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031090905id_/http%3A//frankandeileen.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # Shop Frank & Eileen | Privacy Policy | Woven in Italy Made in Sunny California
 
