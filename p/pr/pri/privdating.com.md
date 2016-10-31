@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privdating.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425012355id_/http%3A//privdating.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privdating.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031060359id_/http%3A//privdating.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
