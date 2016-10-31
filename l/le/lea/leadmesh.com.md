@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadmesh.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628195910id_/http%3A//www.leadmesh.com/new/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadmesh.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031035807id_/http%3A//www.leadmesh.com/new/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Leadmesh | Ping Tree | Ping Post Lead Distribution Platform
 
