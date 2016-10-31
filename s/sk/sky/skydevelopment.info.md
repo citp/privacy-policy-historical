@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skydevelopment.info privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501233119id_/http%3A//www.skydevelopment.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skydevelopment.info privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031112112id_/http%3A//skydevelopment.info/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy || SKY DEVELOPMENT CONTROL CENTER - A Complete Web Solution Company
+# Privacy Policy || SKY DEVELOPMENT - A Complete Web Solution Brand
 
 We SKY DEVELOPMENT are committed to protecting any data that we collect concerning you.  By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
 
@@ -36,6 +36,6 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please [contact us here](https://web.archive.org/web/20160501233119id_/http%3A//www.skydevelopment.info/contact.php).  You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please [contact us here](https://web.archive.org/web/20161031112112id_/http%3A//skydevelopment.info/contact.php).  You can also correct any factual errors in that information or require us to remove your details form any list under our control.
 
 Last Update : 01/08/2011
