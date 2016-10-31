@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koggames.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624035442id_/http%3A//koggames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koggames.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101001405id_/http%3A//koggames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # KOG Games | The Most Fun Free to Play Online Games are Here!
 
@@ -58,4 +58,4 @@ By email:[marketing@koggames.com](mailto:marketing@koggames.com)
 **QUESTIONS OR COMMENTS**  
 Questions or comments regarding this Privacy Policy should be directed to our customer service department at [support.koggames.com](http://support.koggames.com/).
 
-[Back to Home](https://web.archive.org/web/20160624035442id_/http%3A//koggames.com/index.html)
+[Back to Home](https://web.archive.org/web/20161101001405id_/http%3A//koggames.com/index.html)
