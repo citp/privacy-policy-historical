@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406190745id_/http%3A//wrestling-edge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031164437id_/http%3A//wrestling-edge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wrestling-Edge
-
-## Privacy Policy
 
 Wrestling-Edge.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
