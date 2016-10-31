@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriaplum.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402232631id_/https%3A//victoriaplum.com/about/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriaplum.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031214100id_/https%3A//victoriaplum.com/about/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy | VictoriaPlum.com
 
@@ -123,7 +123,7 @@ If you choose not to consent to the use of cookies, your experience of our site 
 
 We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
 
-[Adwords: http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/)
+[Adwords: http://www.google.com/policies/privacy/ads/](https://www.google.com/policies/privacy/ads/)
 
 [Criteo: http://www.criteo.com/us/privacy-policy](http://www.criteo.com/us/privacy-policy)
 
@@ -148,7 +148,7 @@ If you wish to exercise any of the above rights, or have any queries regarding t
   * Bridgehead Business Park
   * Hessle
   * HU13 0DG
-  * [0344 804 48 48](tel:03448044848)
+  * [0344 804 48 48](tel:+443448044848)
   * [info@victoriaplum.com](mailto:info@victoriaplum.com)
 
 
