@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keppsmile.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529112930id_/http%3A//keppsmile.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keppsmile.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031050118id_/http%3A//keppsmile.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KEEP YOU SMILE Funny Pictures website
 
