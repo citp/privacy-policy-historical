@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629184552id_/http%3A//www.cancerresearchuk.org/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031175056id_/http%3A//www.cancerresearchuk.org/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Cancer Research UK
 
 ## Introduction
 
-Cancer Research UK promises to respect any personal data you share with us and keep it safe.  We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect. Here we tell you in detail what we will and will not do with your information.
+Cancer Research UK promises to respect any personal data you share with us, or that we get from other organisations and keep it safe.  We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect. Here we tell you what we will and will not do with your information.
 
 This policy includes:
 
   * What personal data we collect and how we use it
-  * How we collect information about you
+  * Where we collect information about you from
   * How we keep your data safe and who has access
   * Keeping your information up to date
   * Right of access and correction of your information
@@ -17,7 +17,7 @@ This policy includes:
 
 
 
-If you have any questions, comments or suggestions, please let us know by contacting the Data Protection Co-ordinator at Legal Department, Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [dataprotection@cancer.org.uk](mailto:dataprotection@cancer.org.uk).
+If you have any questions, comments or suggestions, please let us know by contacting the Data Compliance Team, Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [dataprotection@cancer.org.uk](mailto:dataprotection@cancer.org.uk).
 
 ## What personal data we collect and how we use it
 
@@ -51,7 +51,7 @@ We will mainly use your data to:
 
 
 
-We may analyse your personal information to create a profile of your interests and preferences so that we can contact you with information relevant to you.  We may make use of additional information about you when it is available from external sources to help us do this effectively.  We may also use your personal information to detect and reduce fraud and credit risk.  
+We may analyse your personal information to create a profile of your interests and preferences so that we can contact you with information relevant to you.  We may make use of additional information about you, including geo-demographic information and measures of affluence, when it is available from external sources to help us do this effectively.  This helps us understand the background of the people who support us and helps us to make appropriate requests for gifts to supporters who may be able and willing to give more than they already do. We may also use your personal information to detect and reduce fraud and credit risk. 
 
 If you enter your details onto one of our online forms, and you don’t ‘send’ or ‘submit’ the form, we may contact you to see if we can help with any problems you may be experiencing with the form or our websites.
 
@@ -91,7 +91,7 @@ We collect and manage information from children, and aim to manage it in a way w
 
 Where possible and appropriate we will seek consent from a parent or guardian before collecting information about children.  Our events have specific rules about whether children can participate, and we‘ll make sure advertising for those events is age appropriate.  
 
-## How we collect information about you
+## Where we collect information about you from
 
 We collect information in the following ways:
 
@@ -105,15 +105,19 @@ We collect information in the following ways:
 
 
 
-Your information may be shared with us by independent event organisers, for example the London Marathon or fundraising sites like Just Giving or Virgin Money Giving.  These independent third parties will only do so when you have indicated that you wish to support Cancer Research UK and with your consent. You should check their privacy policy when you provide your information to understand fully how they will process your data.
+Your information may be shared with us by independent event organisers, for example the London Marathon or fundraising sites like Just Giving or Virgin Money Giving.  These independent third parties will only do so when you have indicated that you wish to support Cancer Research UK and with your consent. You should check their Privacy Policy when you provide your information to understand fully how they will process your data.
 
-  * When you give us permission to obtain it from your other online accounts
+  * When you give permission to other organisations to share it
 
 
 
-Depending on your settings or the privacy policies for other online services like Facebook or Twitter, you might give us permission to access information from those accounts or services.  
+Depending on your settings or the privacy policies for social media and messaging services like Facebook, WhatsApp or Twitter, you might give us permission to access information from those accounts or services. 
 
-The information we get from those services depends on your settings, so you should regularly check them.  
+You may also provide permission for 3rd party organisations to share your data with other third parties, including charities.  You may do this when you buy a product or service, register with a website that runs competitions or register with a comparison site. 
+
+The information we get from those services depends on your settings or the responses you give, so you should regularly check them. 
+
+We combine information from these sources with the information you provide to us directly.  This enables us to contact you in the event that you change your address or phone number, or didn’t provide it to us.  We also use this information to gain a better understanding of our supporters to improve our fundraising methods, products and services.
 
   * When we collect it as you use our websites or apps
 
@@ -141,13 +145,15 @@ We will only ever share your data in other circumstances if we have your explici
 
 Where possible we use publicly available sources to keep your records up to date; for example, the Post Office’s National Change of Address database. We really appreciate it if you let us know if your contact details change.
 
-## Right of access and correction of your information
+## Your right to know what we know about you, make changes or ask us to stop using your data 
+
+You have a right to ask us to stop processing your personal data, and if it’s not necessary for the purpose you provided it to us for (e.g. processing your donation or registering you for an event) we will do so.  Contact us on 0300 123 3379 or [preferences@cancer.org.uk](mailto:preferences@cancer.org.uk) if you have any concerns.
 
 You have a right to ask for a copy of the information we hold about you, although we may charge £10 to provide this.  If you spot any mistakes, please let us know and we will correct them.
 
-If you want to access your information, send a description of the information you want to see and proof of your identity by post to Supporter Services, Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ.
+If you want to access your information, send a description of the information you want to see and proof of your identity by post to Supporter Services, Cancer Research UK, PO Box 1561, Oxford, OX4 9GZ.   We do not accept these requests by email,
 
-We do not accept these requests by email, but if you have any questions please send these to [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk), and for [further information see the Information Commissioner’s guidance here.](https://ico.org.uk/for-the-public/personal-information/)
+If you have any questions please send these to  [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk), and for [further information see the Information Commissioner’s guidance here.](https://ico.org.uk/for-the-public/personal-information/)
 
 ## Changes to this Policy
 
