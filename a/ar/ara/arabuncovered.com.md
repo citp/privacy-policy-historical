@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabuncovered.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026145417id_/http%3A//www.arabuncovered.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabuncovered.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031024043id_/http%3A//www.arabuncovered.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
