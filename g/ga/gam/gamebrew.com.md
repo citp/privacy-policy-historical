@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebrew.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613235852id_/http%3A//www.gamebrew.com/help-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebrew.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031164345id_/http%3A//gamebrew.com/help-privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
