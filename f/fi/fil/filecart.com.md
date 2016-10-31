@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecart.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191059id_/http%3A//www.filecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecart.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031015740id_/http%3A//filecart.com/privacy-policy) for the most accurate reproduction.*
 
 # FileCart - Terms of Service
 
@@ -52,7 +52,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.filecart.com/terms-of-service>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://filecart.com/terms-of-service>
 
 **Your Consent**
 
@@ -66,5 +66,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.filecart.com  
+http://filecart.com  
 admin@filecart.com
