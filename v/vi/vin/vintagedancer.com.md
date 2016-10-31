@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vintagedancer.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322063500id_/http%3A//vintagedancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintagedancer.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031021119id_/http%3A//vintagedancer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
