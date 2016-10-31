@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-days.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609210905id_/http%3A//best-days.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-days.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031114412id_/http%3A//best-days.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Best Days are for Best Friends
 
