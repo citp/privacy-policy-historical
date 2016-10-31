@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the better-find.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627072630id_/http%3A//better-find.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better-find.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031045712id_/http%3A//better-find.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Better Find
 
