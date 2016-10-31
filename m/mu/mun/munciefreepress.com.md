@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the munciefreepress.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322104726id_/http%3A//www.munciefreepress.com/news/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munciefreepress.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031203041id_/http%3A//munciefreepress.com/news/special/privacy) for the most accurate reproduction.*
 
 # Privacy | Muncie Free Press
 
