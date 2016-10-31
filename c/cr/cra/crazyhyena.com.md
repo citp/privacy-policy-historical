@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyhyena.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625074640id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyhyena.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031105407id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.*
 
 # Crazy Funny Pictures and Videos
 
