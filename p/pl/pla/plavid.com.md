@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plavid.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405074400id_/https%3A//plavidnetwork.com/about/%23pl-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plavid.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031191546id_/https%3A//plavidnetwork.com/about/%23pl-policy) for the most accurate reproduction.*
 
 # About | Plavid
 
@@ -15,7 +15,7 @@ Join our network to start make money online with **awesome ad formats** that res
 
 Mosaicoon S.p.A. (hereinafter also referred to as “Mosaicoon” or “the Company”) is a leader in the online marketing sector, specialized in creating, designing and distributing advertising campaigns through media channels. 
 
-The company owns the website [www.mosaicoon.com](http://www.mosaicoon.com/), [www.funnected.com](http://funnected.com/), [www.tvapuntate.it](http://www.tvapuntate.it/) (hereinafterjointly referred to as“Website”) as well as online platforms such as [www.plavid.it](http://www.plavid.it/) and [www.crevity.com](http://www.crevity.com/) (hereinafter individually referred to as “Plavid”,“Crevity”, and jointly referred to as “the Platforms”), through which the Company performs the “Services” described hereinafter.
+The company owns the website [www.mosaicoon.com](http://www.mosaicoon.com/), [www.funnected.com](http://funnected.com/), [www.tvapuntate.it](http://www.tvapuntate.it/) (hereinafterjointly referred to as“Website”) as well as online platforms such as [www.plavidnetwork.com](http://www.plavidnetwork.com/) and [creators.mosaicoon.com](http://creators.mosaicoon.com/) (hereinafter individually referred to as “Plavid”,“Mosaicoon Creators”, and jointly referred to as “the Platforms”), through which the Company performs the “Services” described hereinafter.
 
 In particular, the website www.mosaicoon.com allows users (i.e. internet users that visit the company’s website either for private or business-related interests) to know more about the activities and the Services provided by the Company.
 
@@ -23,7 +23,7 @@ By using Plavid, Mosaicoon allows its own users (i.e. besides internet users vis
 
 By using www.funnected.com, www.tvapuntate.it Mosaicoon allows its own users (i.e. internet users that visitwww.funnected.com, www.tvapuntate.it either for private or business-related interests) to gain knowledge of some of the advertising campaigns produced and distributed by the Company.
 
-By using Crevity, Mosaicoon allows its own users (i.e. internet users visiting Crevity’s website, as well as any other user that registers an account on the aforementioned platform) to upload on the platform the specific creative contents they have realized under the terms and conditions agreed upon with the Company.
+By using Mosaicoon Creators, Mosaicoon allows its own users (i.e. internet users visiting Mosaicoon Creators’s website, as well as any other user that registers an account on the aforementioned platform) to upload on the platform the specific creative contents they have realized under the terms and conditions agreed upon with the Company.
 
 In order to better protect and secure the use of the Company’s website and of its platforms, Mosaicoon provides internet users with the following privacy notice (hereinafter also referred to as “Privacy Policy”).
 
@@ -53,7 +53,7 @@ Exclusively for the purpose of satisfying organizational and operational needs a
 
 Personal data are collected and handled by the above mentioned Data Controllers as well as by other persons possibly in charge of processing personal data, of whom an updated list may be requested by sending an email to [[privacy@mosaicoon.com](mailto:privacy@mosaicoon.com)] or through registered mail to the following address:
 
-Mosaicoon S.p.A., Via Nazionale42– 900040, Isola delle Femmine (PA), Italy  
+Mosaicoon S.p.A., Via Nazionale42– 90040, Isola delle Femmine (PA), Italy  
 To the attention of: Giuseppe Costanza
 
 **II.  PLACE WHERE PERSONAL DATA ARE PROCESSED**
@@ -62,7 +62,7 @@ All personal data, related to the Services provided by the Company, is processed
 
 **III.  TYPES OF DATA PROCESSED BY MOSAICOON**
 
-Mosaicoon processes some information and/or personal data related to its Users, that may be processed by the Company while surfing onMosaicoon’s Website  or during the Users’ registration on Mosaicoon’s Platforms as well as whenever a User submits to the Company a request of payment regarding the Services related to the use of the Platforms.
+Mosaicoon processes some information and/or personal data related to its Users, that may be processed by the Company while surfing on Mosaicoon’s Website  or during the Users’ registration on Mosaicoon’s Platforms as well as whenever a User submits to the Company a request of payment regarding the Services related to the use of the Platforms.
 
 In particular, Mosaicoon may collect and use the following type of data:
 
@@ -76,11 +76,11 @@ These data are processed, for the time strictly necessary, for the sole purpose 
 
 **b)  Personal data provided by Users while or after registering on the Platforms**
 
-Mosaicoon is also entitled to collect and use some information and/or personal data provided by Users on a voluntary basis while registering on Plavid and Crevity.
+Mosaicoon is also entitled to collect and use some information and/or personal data provided by Users on a voluntary basis while registering on Plavid and Mosaicoon Creators.
 
 This information and/or personal data may be provided by Users by filling out specific registration forms (available either online or offline), which may require the User to specify, for example, his/her name, surname, date of birth, gender, tax code, profession, VAT registration number, address, email address, phone number, the URL of the homepage of the website owned by the User or of the social network account of the User in order to subscribe to the Services provided by the Company or requested to the User through the Platforms,the number of bank account or other data necessary for processing the payment requests in favor of the Users.
 
-Personal data provided by the User during or after the registration process are processed by Mosaicoon in compliance with the Regulations governing personal data protection and are used only in order to process the registration on the Platforms and allow the use of Plavid and Crevity and of the related Services for the following purposes. 
+Personal data provided by the User during or after the registration process are processed by Mosaicoon in compliance with the Regulations governing personal data protection and are used only in order to process the registration on the Platforms and allow the use of Plavid and Mosaicoon Creators and of the related Services for the following purposes. 
 
 **c)  Personal data provided by the User in order to apply as a candidate for Mosaicoon Human resources Department**
 
@@ -106,7 +106,7 @@ upon prior and informed consent of the Users, send commercial information (e.g. 
 
 Besides the provisions about net surfing data, the User is free to provide the personal data indicated in the registration forms.
 
-Please note that some of the data required in the above-mentioned forms (i.e., the ones marked by an asterisk *) are functional for the use of Plavid and Crevity and, therefore, are necessarily required by the Company in order to allow access to the Platforms and to the related Services.
+Please note that some of the data required in the above-mentioned forms (i.e., the ones marked by an asterisk *) are functional for the use of Plavid and Mosaicoon Creators and, therefore, are necessarily required by the Company in order to allow access to the Platforms and to the related Services.
 
 Not providing these data will preclude the User from successfully completing the registration on the Platforms and from obtaining the Services requested.  
 The provision of personal data in relation to point III lett. c) is optional but hence essential to comply with the specific request of the User for appraisal of his/her application or in   response to a notice published online by the Company.
@@ -239,19 +239,20 @@ Google | Funzioni di condivisione social, videoplayer Youtube, analytics | third
 Twitter | Funzioni di condivisione social | third party | [Twitter Cookie Technologies](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter)  
 Linkedin | Funzioni di condivisione social | third party | [Linkedin Cookie Technologies](http://it.linkedin.com/legal/cookie-policy)  
   
-### Website: Plavid.com
+### Website: Plavidnetwork.com
 
 Company | Service | Type | Link information and management preferences  
 ---|---|---|---  
 Mosaicoon | Analytics | first party |    
 Mosaicoon | preferenze sui cookie | first party |    
 Facebook | Funzioni di condivisione social | third party | <https://www.facebook.com/policy.php>  
+Google | DFP | third party | [Google Ads Technologies](http://www.google.com/policies/technologies/ads/)  
 Google | Funzioni di condivisione social, videoplayer Youtube, analytics | third party | [Google Cookie Technologies](http://www.google.com/intl/it_it/policies/technologies/cookies/)  
 Twitter | Funzioni di condivisione social | third party | [Twitter Cookie Technologies](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter)  
 Linkedin | Funzioni di condivisione social | third party | [Linkedin Cookie Technologies](http://it.linkedin.com/legal/cookie-policy)  
 Disqus | Funzioni per commenti | third party | [Disqus Cookie Technologies](https://help.disqus.com/customer/portal/articles/466235-use-of-cookies)  
   
-### Website: Crevity.com
+### Website: Creators.mosaicoon.com
 
 Company | Service | Type | Link information and management preferences  
 ---|---|---|---  
