@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319070923id_/http%3A//seaseducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031144452id_/http%3A//seaseducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEAS
 
