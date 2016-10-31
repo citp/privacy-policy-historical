@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpbookingcalendar.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318124605id_/http%3A//wpbookingcalendar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpbookingcalendar.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031153424id_/http%3A//wpbookingcalendar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Booking Calendar Personal, Business Small / Medium / Large, MultiUser
 
