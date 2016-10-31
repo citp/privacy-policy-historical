@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404002702id_/https%3A//www.moneydashboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031054440id_/https%3A//www.moneydashboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Money Dashboard
 
@@ -11,21 +11,19 @@ We know that you’ll want to know exactly what information we gather about you 
 We'll try to keep everything in this document as straightforward as possible, but if there’s anything you don’t understand or you’re not happy about, or if you just want to suggest improvements, please get in touch with us by:
 
   * Emailing us at [info@moneydashboard.com](mailto:info@moneydashboard.com)
-
-  * Writing to the Chief Executive Officer, Money Dashboard, CodeBase, Argyle House, 3 Lady Lawson Street, Edinburgh, EH3 9DR
-
+  * Writing to the Chief Executive Officer, Money Dashboard. CodeBase. Argyle House. 3 Lady Lawson Street. Edinburgh EH3 9DR
 
 
 
-The One Place Capital Limited has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.The TRUSTe program does not cover information that may be collected through downloadable software or mobile applications. The TRUSTe program covers only information that is collected through www.moneydashboard.com.
+Money Dashboard has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through [www.moneydashboard.com](https://www.moneydashboard.com/).
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us as indicated above. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request.).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as indicated above. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ### Information Which We May Collect
 
 You do not have to supply any information simply to visit the site.
 
-To register to use our service you will have to supply us with personal information. “Personal Information” means information that identifies you. The personal information we collect to register you is your e-mail address. In order to add your financial accounts, you will also need to provide your UK postcode and date of birth, and choose a secure question and answer. Once you have aggregated accounts with us (see “Other people who have to be able to access your information” below for an explanation) , we will have access to that account information.
+To register to use our service you will have to supply us with personal information. “Personal Information” means information that identifies you. The personal information we collect to register you is your e-mail address. In order to add your financial accounts, you will also need to provide your UK postcode and date of birth, and choose a secure question and answer. If you use our functionality to refer a friend, we will collect their email address from you. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [support@moneydashboard.com](mailto:support@moneydashboard.com) to request that we remove this information from our database. Once you have aggregated accounts with us (see “Other people who have to be able to access your information” below for an explanation) , we will have access to that account information. 
 
 We keep track of the internet addresses from which Users visit us, and track the page(s) on our site that you visit. We analyse this data for trends and statistics. Please see “Cookies and Other Tracking Technologies”.
 
@@ -45,7 +43,7 @@ We do not share personal information for any reason that is not disclosed in thi
 
 ### Other people who have to be able to access your information
 
-We use a company called Yodlee Inc. (www.yodlee.com) to provide software that lets you add details of the accounts which you want to include in the service (“account aggregation”). When you aggregate an account Yodlee collects and securely stores your log in details, such as User name and password. This information is never stored by us nor subsequently disclosed to us and is subject to Yodlee’s privacy policy. For further information on how Yodlee keeps your information secure please visit <http://yodlee.com/yodlee-security/>. Yodlee are headquartered in the USA. They have provided account aggregation to top UK & USA financial institutions for more than 10 years. We have a contract with Yodlee which requires them to be bound by our privacy policy and to meet the requirements of the Data Protection Act in just the same way as it applies to us.
+We use a company called Yodlee Inc. ([www.yodlee.com](http://www.yodlee.com/)) to provide software that lets you add details of the accounts which you want to include in the service (“account aggregation”). When you aggregate an account Yodlee collects and securely stores your log in details, such as User name and password. This information is never stored by us nor subsequently disclosed to us and is subject to Yodlee’s privacy policy. For further information on how Yodlee keeps your information secure please visit <http://yodlee.com/yodlee-security/>. Yodlee are headquartered in the USA. They have provided account aggregation to top UK & USA financial institutions for more than 10 years. We have a contract with Yodlee which requires them to be bound by our privacy policy and to meet the requirements of the Data Protection Act in just the same way as it applies to us.
 
 ### The information we may give to or share with somebody else
 
@@ -62,11 +60,11 @@ We may share your personal information in the following ways:
 
 ### Access to or deleting your account
 
-If you want to terminate your agreement, email [support@moneydashboard.com](mailto:support@moneydashboard.com) using the email address you used when registering for the service. Your account will be closed and your ability to log in deactivated within 30 days.
+If you want to terminate your agreement, email [support@moneydashboard.com](mailto:support@moneydashboard.com) using the email address you used when registering for the service. Your account will be closed and your ability to log in deactivated within 30 days. 
 
-To access and change your personal information, you should log in to your online account on our website and make the necessary changes. We will respond to your request within as soon as possible within a reasonable timeframe, no more than within 30 days.
+To access and change your personal information, you should log in to your online account on our website and make the necessary changes.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [This email address is being protected from spambots. You need JavaScript enabled to view it..">[support@moneydashboard.com](mailto:support@moneydashboard.com)](mailto:%3Cspan%20id=). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@moneydashboard.com](mailto:support@moneydashboard.com) . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ### How long we keep your data
 
@@ -80,15 +78,15 @@ You can use the service to provide you with email and text alerts to provide you
 
 We may use email or text in relation to administrative matters, e.g. sending you a replacement password, or to let you know about changes to the service. An example of this would be a proposed change to this Privacy Policy.
 
-We will not email or text you in relation to promotional matters without your consent, other than explained in our terms and conditions. You can withdraw this consent at any time by contacting us as above or by following unsubscribe instructions within the email. 
+We will not email or text you in relation to promotional matters without your consent, other than explained in our terms and conditions. You can withdraw this consent at any time by contacting us as above or by following unsubscribe instructions within the email.
 
 ### Customer Testimonials/Comments/Reviews
 
-We post customer testimonials/comments/reviews on our website which may contain personal information. We obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [support@moneydashboard.com](mailto:support@moneydashboard.com).
+We post customer testimonials/comments/reviews on our website which may contain personal information. We obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [support@moneydashboard.com](mailto:support@moneydashboard.com). 
 
 ### Blogs/Forums
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@moneydashboard.com](mailto:support@moneydashboard.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@moneydashboard.com](mailto:support@moneydashboard.com) . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please see their [security policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
@@ -98,9 +96,7 @@ Please see our full security policy at [https://www.moneydashboard.com/security/
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-### Links to Other Websites and Social Media Widgets
-
-Our website includes links to other websites whose privacy practices may differ from those of The One Place Capital Limited. If you submit personal information to any of those websites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
+### Links to Other Websites
 
 Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the “Share this" button or interactive mini-programs that run on our site. These Features may collect your IP address or which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -108,7 +104,7 @@ Our website includes Social Media Features, such as the Facebook Like button and
 
 We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-### Changes to this Privacy Policy 
+### Changes to this Privacy Policy
 
 We may need to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, prior to the change becoming effective, we will tell you by email, or by a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -134,10 +130,10 @@ Please remember that disabling your browser from accepting cookies may limit you
 
 The use of cookies by our partners is not covered by our privacy policy. We do not have access to or control over these cookies.
 
-More information on how to control or manage cookies can be found at [http://aboutcookies.org/.](http://aboutcookies.org/)
+Our third party partners employ clear gifs (also known as Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We may tie the information gathered to our Users’ personal information in order to analyse the effectiveness of marketing campaigns.
 
-Technologies such as: cookies, beacons, tags and scripts are used by The One Place Capital Limited and our partners [e.g. marketing channels], affiliates, or analytics or service providers [e.g. online customer support provider, analytics]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Our website also contains cookies set by third party websites (i.e. Social networking sites such as Twitter), which provide information and/or services on the MDB website. In order to manage these cookies you will have to visit the websites of our third parties and adjust your settings accordingly.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+More information on how to control or manage cookies can be found at <http://aboutcookies.org/>.
 
-Last updated: 29th January 2016.
+Last updated: 16th January 2016.
