@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611012759id_/http%3A//parentteacheronline.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031055719id_/http%3A//parentteacheronline.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Parent Teacher Online
 
