@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426011537id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031200432id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Saving Mamasita
+# Privacy Policy – Saving Mamasita
 
 This privacy policy sets out how ALN MEDIA uses and protects any information that you give while using [www.savingmamasita.com](http://www.savingmamasita.com/).
 
@@ -55,15 +55,15 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 
 
-  * [Things to do in Rainy London](http://savingmamasita.com/2016/04/things-to-do-in-rainy-london/) \- April 23, 2016
-  * [GET FIT: The Beauty of Muay Thai Training in Thailand](http://savingmamasita.com/2016/04/get-fit-the-beauty-of-muay-thai-training-in-thailand/) \- April 22, 2016
-  * [Top Tips To Instill The Love Of Nature and Taking Care Of Our Planet With Children](http://savingmamasita.com/2016/04/hbo-sesame-street-earth-day/) \- April 18, 2016
-  * [FREE SAMPLE SATURDAY: M&M’s, Truvia, and More!](http://savingmamasita.com/2016/04/free-sample-saturday-mms-truvia-and-more/) \- April 16, 2016
-  * [DEAL ALERT: $5 Luvs Rebate Through IBotta #SharetheLuv](http://savingmamasita.com/2016/04/deal-alert-5-luvs-rebate-through-ibotta-sharetheluv/) \- April 13, 2016
-  * [HOT DEAL: Save $3 Off Pampers (COUPON)](http://savingmamasita.com/2016/04/hot-deal-save-3-off-pampers-coupon/) \- April 2, 2016
-  * [How to Save Money on Your Monthly Cell Phone Bill](http://savingmamasita.com/2016/03/how-to-save-money-on-your-monthly-cell-phone-bill/) \- March 31, 2016
-  * [14 Easter Breakfast Ideas](http://savingmamasita.com/2016/03/14-easter-breakfast-ideas/) \- March 22, 2016
-  * [How To Knock Out Sugar For National Nutrition Month](http://savingmamasita.com/2016/03/how-to-knock-out-sugar-for-national-nutrition-month/) \- March 16, 2016
-  * [Lice and Super Lice, Oh My!](http://savingmamasita.com/2016/03/lice-and-super-lice-oh-my/) \- March 8, 2016
+  * [Spooktacular Halloween Party Ideas for Adults](http://savingmamasita.com/2016/10/spooktacular-halloween-party-ideas-for-adults/) \- October 29, 2016
+  * [Tips for Studying While Raising Young Kids](http://savingmamasita.com/2016/10/tips-for-studying-while-raising-young-kids/) \- October 28, 2016
+  * [Healthy Halloween Snacks and Treats](http://savingmamasita.com/2016/10/healthy-halloween-snacks-and-treats/) \- October 22, 2016
+  * [How to Save Money on the Cost of Your College Degree](http://savingmamasita.com/2016/09/how-to-save-money-on-the-cost-of-your-college-degree/) \- September 27, 2016
+  * [Hey Hot Mama – Makeup Tips for Moms](http://savingmamasita.com/2016/09/hey-hot-mama-makeup-tips-for-moms/) \- September 24, 2016
+  * [Tips To Make Potty Training A Breeze + #PampersEasyUps Giveaway](http://savingmamasita.com/2016/09/tips-to-make-potty-training-a-breeze-pamperseasyups-giveaway/) \- September 21, 2016
+  * [Top 8 Inspiring Bathroom Tips to Make the Room Seem Bigger](http://savingmamasita.com/2016/09/top-8-inspiring-bathroom-tips-to-make-the-room-seem-bigger/) \- September 20, 2016
+  * [Staying Safe On The Road With Quaker State #CambialoConQS](http://savingmamasita.com/2016/09/staying-safe-on-the-road-cambialoconqs/) \- September 14, 2016
+  * [Honey Bunches Of Oats: This Is Everything!](http://savingmamasita.com/2016/09/honey-bunches-of-oats-this-is-everything/) \- September 9, 2016
+  * [Not Just Wealthy People Need a Financial Plan](http://savingmamasita.com/2016/08/moneymythbpf/) \- August 31, 2016
 
 
