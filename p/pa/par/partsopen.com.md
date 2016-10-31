@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partsopen.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406224244id_/http%3A//partsopen.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partsopen.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031025317id_/http%3A//partsopen.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy.
 
