@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629203045id_/http%3A//wik.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wik.is privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031161423id_/http%3A//wik.is/privacy) for the most accurate reproduction.*
 
 # Wik.is: Free Wiki Hosting | Wik.is
 
@@ -40,7 +40,7 @@ You may provide personal information to us in a number of ways when you visit:
 
 Please note that we are not responsible for any personal information that you voluntarily provide as part of any edits or similar submissions to the Sites, including your user name or user profile. We discourage you from including personal information in any such edits or submissions as such information may be publicly available.
 
-We may, in accordance with our Sites’ [Terms of Use](https://web.archive.org/web/20160629203045id_/http://wik.is/tos/), try to prevent minors from accessing Sites that display adult content or certain other types of content for which we have received user complaints or which we believe is objectionable.
+We may, in accordance with our Sites’ [Terms of Use](https://web.archive.org/web/20161031161423id_/http://wik.is/tos/), try to prevent minors from accessing Sites that display adult content or certain other types of content for which we have received user complaints or which we believe is objectionable.
 
 When you visit our Sites, some information are also automatically collected, such as your computer’s Internet Protocol (IP) address and operating system, the browser type, the address of a referring web site, and the time and date of your visit and Site pages visited. This information is collected through the use of “cookies.” Cookies are small files that are stored on your computer to give you a unique identification. We use cookies on our Sites to help optimize your online experience. For example, we use cookies to track your editing of, and submissions to, our Sites. We treat this information as personal information if we combine it with or link it to any of the personally identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
