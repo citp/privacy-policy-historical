@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421223815id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031144432id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
@@ -45,7 +45,7 @@ If you place an order, the Personal Information you provide is transmitted to yo
   * **To Third Party Marketing Partners:**  
 From time to time we might establish a business relationship with other third parties whom we believe are trustworthy. In such cases we might license, exchange, share and/or cross-reference information, including your name, postal mailing address, telephone number or email address that will enable such third parties to contact you regarding products and services that may be of interest to you. 
   * **To Related Companies:**  
-We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with other subsidiaries and affiliates of our parent company, Systemax Inc. 
+We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with other subsidiaries and affiliates of our parent company, PCM Inc. 
   * **To Shippers:** We may share your information, such as your name, telephone number and shipping information, to third party shippers (such as UPS, FEDEX and the United States Postal Service) to deliver your product(s). There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are given your information, such as your name, email address, postal address, and telephone number, for the sole purpose of fulfilling your order.
   * To fulfill the purpose for which you provide it.
   * For any other purpose disclosed by us when you provide the information.
