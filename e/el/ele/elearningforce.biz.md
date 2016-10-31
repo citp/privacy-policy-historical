@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elearningforce.biz privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602033335id_/https%3A//www.elearningforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elearningforce.biz privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031082901id_/https%3A//www.elearningforce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
