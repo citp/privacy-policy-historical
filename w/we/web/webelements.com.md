@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webelements.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629190620id_/http%3A//www.webelements.com/nexus/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webelements.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031230954id_/https%3A//www.webelements.com/nexus/your-privacy) for the most accurate reproduction.*
 
 # Your privacy | Chemistry Nexus
 
