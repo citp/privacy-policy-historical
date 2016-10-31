@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogenesis.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316180309id_/http%3A//www.videogenesis.com/tos/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogenesis.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031091828id_/http%3A//www.videogenesis.com/tos/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
