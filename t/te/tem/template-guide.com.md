@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the template-guide.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620060901id_/http%3A//template-guide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the template-guide.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031215947id_/http%3A//www.template-guide.com/privacy.php) for the most accurate reproduction.*
 
 # Marketing Solutions
 
-[](https://web.archive.org/web/20160620060901id_/http%3A//template-guide.com/sign.php)
+[](https://web.archive.org/web/20161031215947id_/http%3A//www.template-guide.com/sign.php)
 
 **TEMPLATE-GUIDE PRIVACY POLICY**   
 Template-Guide is committed to protecting your privacy. This privacy policy tells you about our online collection, use and disclosure of personal information. The terms of this policy apply to all personal information collected by Template-Guide on the website template-guide.com and other country-specific Template-Guide websites which are linked to template-guide.com.   
