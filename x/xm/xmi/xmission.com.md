@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618031506id_/http%3A//xmission.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031183025id_/http%3A//xmission.com/legal) for the most accurate reproduction.*
 
 # commitment to privacy | privacy statement | privacy policy :: USA - XMission
 
@@ -42,7 +42,7 @@ Personally identifiable consumer information is shared with Authorize.Net, the c
 
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by contacting [ accounting@xmission.com ](mailto:accounting@xmission.com) or by calling 801-539-0852. The person changing the information MUST be the contact on the account. Normally, the contact is the person who opened the account or a person who was assigned to the account by the business. To change the information, you must be able to verify that you are, in fact, the contact on the account.
 
-All account contact changes must be completed by the customer using an XMission Contact Addition Form. Customers can request this form from any XMission employee. This form should be completed, printed on the customer's business letterhead, and returned to XMission via FAX, postal mail, or secure email. If sent via email, the digital copy must be in a readable format (e.g. PDF, JPG) and emailed to [billing@xmission.com](https://web.archive.org/web/20160618031506id_/http%3A//xmission.com/%E2%80%9Dmailto:billing@xmission.com%E2%80%9D) An XMission staff member will send a confirmation email to the customer to verify that the email address is valid for the company. When the customer responds to that confirmation email, he or she can be added as a contact.
+All account contact changes must be completed by the customer using an XMission Contact Addition Form. Customers can request this form from any XMission employee. This form should be completed, printed on the customer's business letterhead, and returned to XMission via FAX, postal mail, or secure email. If sent via email, the digital copy must be in a readable format (e.g. PDF, JPG) and emailed to [billing@xmission.com](https://web.archive.org/web/20161031183025id_/http%3A//xmission.com/%E2%80%9Dmailto:billing@xmission.com%E2%80%9D) An XMission staff member will send a confirmation email to the customer to verify that the email address is valid for the company. When the customer responds to that confirmation email, he or she can be added as a contact.
 
 ##### Notification of Changes
 
