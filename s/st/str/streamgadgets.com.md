@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamgadgets.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611052657id_/http%3A//streamgadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamgadgets.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031173127id_/http%3A//streamgadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stream Gadgets
 
