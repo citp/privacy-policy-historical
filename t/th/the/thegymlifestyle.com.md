@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegymlifestyle.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621024437id_/http%3A//thegymlifestyle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegymlifestyle.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031102139id_/http%3A//thegymlifestyle.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Gym Lifestyle
 
