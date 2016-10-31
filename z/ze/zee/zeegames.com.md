@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeegames.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207030128id_/http%3A//www.zeegames.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeegames.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031081434id_/http%3A//www.zeegames.com/page/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zee Games-Girl Games and Baby Games
 
