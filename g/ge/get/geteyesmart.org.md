@@ -1,74 +1,56 @@
-> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141132id_/http%3A//www.geteyesmart.org/eyesmart/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteyesmart.org privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031022656id_/http%3A//www.aao.org/privacy-policy) for the most accurate reproduction.*
 
-# EyeSmart Privacy Policy-Eye M.D.-approved information from EyeSmart
+# Privacy Policy - American Academy of Ophthalmology
 
-## What information do we collect?
+The American Academy of Ophthalmology (“Academy”) has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **[www.aao.org](http://www.aao.org/)** and all other Academy-affiliated websites (collectively, “website”).
 
-We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
+## General Principles
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-## What do we use your information for?
-
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To personalize your experience (your information helps us to better respond to your individual needs);
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you);
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs);
-  * To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested.
-  * To administer a contest, promotion, survey or other site feature.To send periodic emails. The email address you provide may be used to send you information and updates pertaining to your request, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * We only use information collected on the website for Academy purposes.
+  * We deploy technology to protect the information you send us.
+  * Cookies are used to keep track of information to allow a better user experience and this information is kept confidential within the Academy.
+  * We use your IP address to help diagnose problems with our server and to administer our website.
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+## The Academy Store and Annual Meeting Registration
 
-## How do we protect your information?
+The website incorporates forms for members and other customers to request information, products, and services and to register on-line for various programs, including the annual meeting. We collect visitors’ contact information (such as email addresses), financial information (such as accounts or credit card numbers), and demographic information (such as zip code, age, or income level). Unique identifiers (such as social security numbers) are collected to verify the user's identity. Contact information from order forms or surveys is used to send orders and information about the Academy to our members and other customers and to analyze website use. Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Our website uses cookies to keep track of your shopping cart. We also use cookies to save and verify your password information if you choose to remain logged in over multiple visits.
 
-## Do we use cookies?
+## Third Party Websites
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+The website contains links to other sites. In the event you choose to access such third party websites, the Academy and the website are not responsible for any actions or policies of such third parties. We recommend that you check the applicable privacy policy of third parties before providing personally identifiable information to it, as its privacy policy may differ from our website’s policies.
 
-We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+## Academy Email Privacy Policy
 
-## Do we disclose any information to outside parties?
+The Academy endeavors to protect your email address from inappropriate use. If the Academy determines the use of your email address is of benefit to its members and/or their patients, the Academy may, with the approval of its CEO/executive vice president, provide your email address to a third party. Users may opt-out of receiving future Academy emails by emailing that request to [opt-out@aao.org](mailto:opt-out@aao.org).
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Policies Governing the Use of Academy Email Addresses
 
-## Third party links
+The Academy’s CEO/executive vice president may grant permission to use Academy email addresses to organizations, firms or individuals who agree to comply with the following conditions:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  1. The Academy determines if the use of email addresses is of benefit to its members and/or their patients.
+  2. The content of every email correspondence is subject to advance approval by the Academy. A sample of each intended email correspondence must be reviewed and approved by the Academy.
+  3. Each set of Academy email addresses will be used only once and only for the purpose approved by the Academy.
+  4. An entity other than the Academy cannot use Academy email addresses to create or update its own database. The email address list is the property of the Academy and may not be duplicated or retransmitted or resold to a third party.
+  5. Use of Academy email addresses does not imply Academy endorsement, and no implication of endorsement will be made in any correspondence.
+  6. Academy email addresses will not be made available for any communication on drugs, medical equipment or devices involving the offer of a rebate, discount, or other remuneration, which in the sole discretion of the Academy might be illegal or unethical.
+  7. Academy email addresses will not be made available for any communication that, in the judgment of the Academy, would tend to mislead, misinform, or deceive.
 
-## California Online Privacy Protection Act Compliance
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-## Childrens Online Privacy Protection Act Compliance
+## Security
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+The website has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-## Online Privacy Policy Only
+## Contacting the website
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-## Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.geteyesmart.org/eyesmart/disclaimer.cfm>
-
-## Your Consent
-
-By using our site, you consent to our privacy policy.
-
-## Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 2/15/2012.
-
-## Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[eyesmart@aao.org](mailto:eyesmart@aao.org)  
-415.447.0213
+**American Academy of Ophthalmology  
+**IT Department  
+655 Beach Street  
+San Francisco, CA 94109  
+[webmaster@aao.org](mailto:webmaster@aao.org)
