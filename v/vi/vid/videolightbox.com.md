@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videolightbox.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513232351id_/http%3A//videolightbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videolightbox.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031034349id_/http%3A//videolightbox.com/privacy.html) for the most accurate reproduction.*
 
 # Video LightBox - Embed video to your website with beautiful Lightbox effect!
 
