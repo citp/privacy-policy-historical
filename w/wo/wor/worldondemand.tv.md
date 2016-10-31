@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldondemand.tv privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317005153id_/http%3A//worldondemand.tv/policy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldondemand.tv privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031162308id_/http%3A//worldondemand.tv/policy/privacy.jsp) for the most accurate reproduction.*
 
 # World On Demand - Privacy Policy
 
