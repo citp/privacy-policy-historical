@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abelcine.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629031803id_/http%3A//www.abelcine.com/store/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abelcine.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031075508id_/http%3A//www.abelcine.com/store/Privacy-and-Security-Statement) for the most accurate reproduction.*
 
 # AbelCine - Equipment Sales, Finance, Training, Rental, Tech Services
 
