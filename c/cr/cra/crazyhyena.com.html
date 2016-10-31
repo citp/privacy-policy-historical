@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crazyhyena.com privacy policy that was archived on 2016-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625074640id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crazyhyena.com privacy policy that was archived on 2016-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161031105407id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=" js no-touch"><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -53,7 +53,7 @@
         <!-- END Stylesheets -->
 
         <!-- Crazy Hyena Specials -->
-        <link rel="stylesheet" href="css/crazy-hyena.css">
+        <link rel="stylesheet" href="css/crazy-hyena_2016-07.css">
         <!-- END Stylesheets -->
 
 		<!-- Site Verifications -->
@@ -72,6 +72,7 @@
 		  })();
 
 		</script>
+		
 		    <link rel="stylesheet" href="/Hyena/jquery-Hyena-2.1.css"><link rel="stylesheet" href="/css/plugins.css"><link rel="stylesheet" href="/css/themes.css"></head>
     <body>
 		<div id="fb-root"></div>
@@ -157,45 +158,60 @@
 			<a href="/" class="site-logo visible-md visible-lg">
                 <img src="/img/logos/crazy-hyena-logo-circle.png" alt="Crazy Hyena Logo" height="130">
             </a>
-            <a href="" style="pointer-events: none; cursor: default;" class="site-logo-text">
+            <a href="/" class="site-logo-text">
 				<img src="/images/crazy-hyena-logo-text.jpg" alt="Crazy Hyena Logo" class="img-responsive">
             </a>
             <!-- Site Logo -->
 
-            <!-- Site Navigation -->
-            <nav>
+			<!-- Search -->
+			<div class="row">
+				<div class="desktop-search col-md-4 col-lg-6 hidden-xs hidden-sm">
+					<form action="/search" method="get" onsubmit="return true;">
+						<div class="input-group">
+							<input type="text" id="search-term" name="f_search" class="form-control" placeholder="Search Crazy Hyena.." value="">
+							<div class="input-group-btn">
+								<button type="submit" class="btn btn-primary btn-black"><i class="fa fa-search"></i></button>
+							</div>
+						</div>
+						<input type="hidden" name="action" value="search">
+					</form>
+				</div>
+			</div>
+			<!-- END Search -->
 
-                <!-- Main Menu -->
-                                <ul class="site-nav">
-                    <!-- Toggles menu on small screens -->
-                    <li class="visible-xs visible-sm">
-                        <a href="javascript:void(0)" class="site-menu-toggle text-center">
-                            <i class="fa fa-times"></i>
-                        </a>
-                    </li>
-                    <!-- END Menu Toggle -->
-					<li><a href="/categories">Categories</a></li>
-					<!--<li class="hidden-sm"><a href="javascript:void(0)" data-toggle="collapse" data-target="#header-stripe-content"><i class="fa fa-search"></i></a></li>-->
-                </ul>
-                                <!-- END Main Menu -->
-            </nav>
-            <!-- END Site Navigation -->
                     </div>
 		<section class="site-section header-stripe clearfix">
 			<div id="header-stripe-content" class="container header-stripe-content">
 				<div class="row">
-					<div class="hidden-xs hidden-sm col-md-8" style="padding-right:10px;">
-						<ul class="tags_menu">
-<li><a href="/funny-pictures/animal">Animal</a></li>
+		            <!-- Site Navigation -->
+		            <nav>
+		
+		                <!-- Main Menu -->
+		                		                <ul class="site-nav">
+		                    <!-- Toggles menu on small screens -->
+		                    <li class="visible-xs visible-sm">
+		                        <a href="javascript:void(0)" class="site-menu-toggle text-center">
+		                            <i class="fa fa-times"></i>
+		                        </a>
+		                    </li>
+		                    <!-- END Menu Toggle -->
+							<li><a href="/">Home</a></li>
+<li><a class="site-nav-sub" href="/categories"><i class="fa fa-angle-down site-nav-arrow"></i>Categories</a>
+<ul class="categories-sub"><li><a href="/funny-pictures/animal">Animal</a></li>
 <li><a href="/funny-pictures/captions">Captions</a></li>
 <li><a href="/funny-pictures/cartoon">Cartoon</a></li>
 <li><a href="/funny-pictures/crazy">Crazy</a></li>
 <li><a href="/funny-pictures/dirty-jokes">Dirty</a></li>
 <li><a href="/funny-pictures/people">People</a></li>
 <li><a href="/categories">More <i class="fa fa-angle-right"></i></a></li>
-</ul>
-					</div>
-					<div class="col-xs-12 col-md-4">
+</ul></li>
+<li><a href="/videos">Videos</a></li>
+							<!--<li class="hidden-sm"><a href="javascript:void(0)" data-toggle="collapse" data-target="#header-stripe-content"><i class="fa fa-search"></i></a></li>-->
+		                </ul>
+		                		                <!-- END Main Menu -->
+		            </nav>
+		            <!-- END Site Navigation -->
+					<div class="col-xs-12 col-md-4 visible-xs visible-sm">
 						<!-- Search -->
 						<div class="sidebar-block">
 							<form action="/search" method="get" onsubmit="return true;">
@@ -307,10 +323,25 @@
 
 <script>
 
+function productMoreImages(brns, offset, cats) {
+	$.ajax({
+		type: "GET",
+		url: "/more_images_list.php", 
+		cache: false,
+		data: { number: brns, offset: offset, mobile: 0, cats: cats},
+		success: function(data){
+				var $out = $('#more_images');
+				$out.html('Success');
+				$out.html(data);
+			}
+	});
+}
+
 $(document).ready(function() {
 
-	$('img.hyena').Hyena({"style":6, "controls":true});			
-	
+	//$(window).scrollTop($('#img-2').offset().top);
+	$('img.hyena').Hyena({"style":6, "controls":true});
+	productMoreImages(24,0,'');
 });
 
 function productVote(product_id, vote) {
