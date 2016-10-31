@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencrave.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326004854id_/http%3A//screencrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencrave.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031060405id_/http%3A//screencrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
