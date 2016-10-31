@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flood.io privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623143929id_/http%3A//www.flood.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flood.io privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031054939id_/http%3A//flood.io/privacy) for the most accurate reproduction.*
 
-# Privacy | Flood IO
+# Flood IO: Privacy
 
 This is our Website Privacy Policy. In this Website Privacy Policy, "we", "our" and "us" are all references to flood.io Pty Ltd ABN 30 164 837 352 of Level 32, 101 Miller Street North Sydney NSW 2060 Australia and references to "this website" or "the website" are to our website, the homepage of which can be accessed via the URL https://flood.io 
 
