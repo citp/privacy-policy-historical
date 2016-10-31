@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartenupnas.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619184940id_/http%3A//smartenupnas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartenupnas.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031180115id_/http%3A//smartenupnas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
