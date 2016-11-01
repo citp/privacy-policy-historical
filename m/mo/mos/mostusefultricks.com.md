@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostusefultricks.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624125030id_/http%3A//mostusefultricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostusefultricks.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101121331id_/http%3A//mostusefultricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Most Useful Tricks
 
