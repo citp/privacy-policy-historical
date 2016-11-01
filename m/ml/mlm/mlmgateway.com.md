@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmgateway.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403095315id_/https%3A//mlmgateway.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmgateway.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101114310id_/https%3A//www.mlmgateway.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MLM Gateway
 
@@ -79,6 +79,6 @@ We also agree to the individual redress principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-If at any time you would like to unsubscribe from receiving future emails from us, you can contact us using [this form](https://web.archive.org/web/20160403095315id_/https%3A//mlmgateway.com/kontakt.php) and we will promptly remove you from all correspondence.
+If at any time you would like to unsubscribe from receiving future emails from us, you can contact us using [this form](https://web.archive.org/web/20161101114310id_/https%3A//www.mlmgateway.com/kontakt.php) and we will promptly remove you from all correspondence.
 
-If there are any questions regarding this privacy policy you may contact us using [this form](https://web.archive.org/web/20160403095315id_/https%3A//mlmgateway.com/kontakt.php).
+If there are any questions regarding this privacy policy you may contact us using [this form](https://web.archive.org/web/20161101114310id_/https%3A//www.mlmgateway.com/kontakt.php).
