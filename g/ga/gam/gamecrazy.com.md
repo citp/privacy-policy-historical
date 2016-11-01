@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626223937id_/http%3A//gamecrazy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101125011id_/http%3A//gamecrazy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
