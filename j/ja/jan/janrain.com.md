@@ -1,22 +1,36 @@
-> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531201556id_/http%3A//janrain.com/janrain-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janrain.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101044811id_/http%3A//www.janrain.com/janrain-privacy-statement) for the most accurate reproduction.*
 
 # Janrain Privacy Statement | Janrain
 
-Effective as of February 1, 2016.
+Effective as of September 15, 2016.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=7bc0f34d-9cf2-427d-af9e-15e2fc354825 "TRUSTe Privacy Certification")
 
-Janrain, Inc. (“Janrain”) is committed to protecting the privacy of individuals who visit our websites and individuals whose personal information we may receive through the use of the Janrain Customer Identity Management Platform and related services provided to our customers.
+Janrain, Inc. (“Janrain”) is committed to protecting the privacy of individuals who visit our websites and individuals whose personal information we may receive through the use of the Janrain Customer Identity and Access Management platform and related services provided to our Clients.
 
-This privacy statement describes our practices regarding the personal information we collect on and through our websites which link to this privacy statement. This privacy statement also describes – under the heading “Customer Data” – our role and practices in connection with personal information we may host on behalf of our SaaS customers.
+This privacy statement describes our practices regarding the personal information we collect on and through our websites which link to this privacy statement. This privacy statement also describes – under the heading “Client Data” – our role and practices in connection with personal information we may host on behalf of our SaaS Clients.
 
 As a visitor to this website, your privacy remains under your control. We want you to have the information you need to make your own decisions regarding your privacy in the context of your interaction with Janrain websites.
 
-Janrain has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, which is viewable on the validation page by clicking the TRUSTe seal. The use of information collected through our service shall be limited to the purpose of providing the service for which the Customer has engaged Janrain. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "Truste").
+The use of personal data collected through our services shall be limited to the purpose of providing the services for which we have been engaged by our Clients.
 
-Janrain complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Janrain has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Janrain’s certification, please visit <http://www.export.gov/safeharbor/>.
+**EU-U.S. Privacy Shield**
 
-The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website [www.janrain.com](http://www.janrain.com/) and our services.
+Janrain participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Janrain is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>.
+
+Janrain is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Janrain complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Janrain is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+In certain situations, Janrain may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**U.S. – Swiss Safe Harbor Framework**
+
+Janrain complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Janrain has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Janrain’s certification, please visit  <https://safeharbor.export.gov/swisslist.aspx>.
 
   1. Web Sites Covered
   2. Consent
@@ -25,7 +39,7 @@ The TRUSTe certification covers only our collection, use and disclosure of infor
   5. Sharing of Personal Information Collected
   6. Choices and Communication Preferences
   7. Security
-  8. Customer Data
+  8. Client Data
   9. Children
   10. Blog
   11. Correcting and updating your information
@@ -38,13 +52,13 @@ The TRUSTe certification covers only our collection, use and disclosure of infor
 
 ### 1\. Web Sites Covered
 
-This Privacy Statement covers the information practices of Janrain websites sites that link to this Privacy Statement, including [http://www.janrain.com](http://www.janrain.com/); <http://janrain.com/>; <http://trust.janrain.com/>; <https://rpxnow.com/privacy>; and <https://janraincapture.com/>. These websites are hosted in the United States.
+This Privacy Statement covers the information practices of Janrain websites sites that link to this Privacy Statement, including [http://www.janrain.com](http://www.janrain.com/); <http://janrain.com/>; <http://trust.janrain.com/>; <https://rpxnow.com/privacy>; and <https://janraincapture.com/>. These websites are hosted in the United States.
 
 Our websites may contain links to non-Janrain websites. We are not responsible for the information practices or the content of such other websites. We invite you to review the privacy statements of those other websites to understand their information.
 
 ### 2\. Consent
 
-By providing personal information to our websites, you consent to its use in accordance with this Privacy Statement and, if you live outside the U.S., you consent to the transfer of such information to the U.S. In particular, we post testimonials on Janrain’s websites that contain information such as Customer names and titles. Salesforce.com obtains the consent of each Customer prior to posting any information on such a list or posting testimonials. If you wish to update or delete your testimonial, you can contact us at [privacy@janrain.com](mailto:privacy@janrain.com).
+By providing personal information to our websites, you consent to its use in accordance with this Privacy Statement and, if you live outside the U.S., you consent to the transfer of such information to the U.S. In particular, we post testimonials on Janrain’s websites that contain information such as Client names and titles. Salesforce.com obtains the consent of each Client prior to posting any information on such a list or posting testimonials. If you wish to update or delete your testimonial, you can contact us at [privacy@janrain.com](mailto:privacy@janrain.com).
 
 ### 3\. Personal Information We Collect
 
@@ -58,21 +72,15 @@ We receive and store any information you enter on our Website or give us in any 
 
 
 
-Technologies such as cookies, beacons, tags and scripts are used by Janrain and our marketing partners or analytics service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Janrain and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-We use cookies to analyze website visitor interest in website content and offer relevant information based on their viewing history _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
-
-We do not link this automatically collected data to other information we collect about you.
-
-We use Local Storage Objects (LSOs) such as HTML5 to store user identifiers to enable single sign on for our registered website users. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
   * **Behavioral Targeting**
 
 
 
-We partner with third parties to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with third parties to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish not to have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
   * **Do-Not-Track**
 
@@ -98,21 +106,25 @@ We may use your information (a) to deliver our website services and features des
 
 We share information that identifies you only as described below and with subsidiaries we control that follow the same practices described in this Privacy Statement. We do not sell your personal information to third parties.
 
-  * Third Party Service Providers: We may retain other companies and individuals to perform functions on our behalf, such as sending email, removing repetitive and inaccurate information from customer lists, analyzing data, processing credit cards, and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Some of our pages utilize framing techniques to serve content to and from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Janrain.
-  * Protecting Others and Ourselves: We will disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and if we believe disclosure is necessary to protect our rights, property, or safety, our customer, or others. In particular, we may cooperate with law enforcement agencies in any official investigation and disclose your personal information to the relevant agency in doing so.
-  * Business Transfer: We reserve the right to transfer your personal information in the event Janrain, Inc. or substantially all of our assets are acquired. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-  * With Your Consent: Other than as stated above, we will not disclose or provide your personal information to a third party without your explicit consent for us to do so.
+**.**     Third Party Service Providers: We may retain other companies and individuals to perform functions on our behalf, such as sending email, removing repetitive and inaccurate information from customer lists, analyzing data, processing credit cards, and providing marketing assistance. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
+**.**     Some of our pages utilize framing techniques to serve content to and from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Janrain.
 
+**.**     Protecting Others and Ourselves: We will disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and if we believe disclosure is necessary to protect our rights, property, or safety, our customer, or others. In particular, we may cooperate with law enforcement agencies in any official investigation and disclose your personal information to the relevant agency in doing so.
+
+**.**     Business Transfer: We reserve the right to transfer your personal information in the event Janrain, Inc. or substantially all of our assets are acquired. You will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+**.**     In certain situations, Janrain may be required to disclose personal data in response to lwaful requests by public authorities, including to meet national security or law enforcement requirements.
+
+**.**     With Your Consent: Other than as stated above, we will not disclose or provide your personal information to a third party without your explicit consent for us to do so.
 
 ### 6\. Choices and Communication Preferences
 
-  * As a visitor to our website you can always choose not to provide us with personal information when requested, although it may be required for you to take full advantage of our website offerings.
-  * If your browser is not already set up to refuse cookies, you can configure your browser to refuse them. By doing so you may not be able to take full advantage of our website features.
-  * You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails. Additionally, you may specify your communications preferences at <http://www1.janrain.com/UnsubscribePage.html>. Customers, however, cannot opt out of receiving transactional emails related to their account.
+**.**     As a visitor to our website you can always choose not to provide us with personal information when requested, although it may be required for you to take full advantage of our website offerings.
 
+**.**     If your browser is not already set up to refuse cookies, you can configure your browser to refuse them. By doing so you may not be able to take full advantage of our website features.
 
+**.**     You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails. Additionally, you may specify your communications preferences at <http://www1.janrain.com/UnsubscribePage.html>. Customers, however, cannot opt out of receiving transactional emails related to their account.
 
 ### 7\. Security
 
@@ -120,19 +132,19 @@ Janrain uses a secure infrastructure, industry standard technology, and appropri
 
 The security of your personal information also depends on your protection of your account. Please do not disclose your website login credentials to unauthorized people. Also, be sure to sign off when finished using a shared computer. If you have any other questions about the security of our websites, please contact us using the contact information provided below in the “Contacting Us” section.
 
-### 8\. Customer Data
+### 8\. Client Data
 
-**Observance of Safe Harbor Principles**
+Janrain collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
-As mentioned at the beginning of this Privacy Statement, we offer our customers a software-as-a-service (“SaaS”) customer profile management platform and abide by the U.S. – EU and U.S. – Swiss Safe Harbor Frameworks for protecting the privacy of data flowing from the EU and Switzerland to the United States. As a processor of personal information on behalf of our customers, we observe the Safe Harbor Principles, several of which are discussed below.
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Janrain’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
-Janrain collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Janrain will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Notice and Choice: Individuals may submit personal information to our customers through the use of the website registration and login services we provide to our customers. (Some of these services may have a notice that they are “powered by Janrain”). This personal information is submitted with notice to, and the consent of, the individual user via identity providers’ permission screens, or voluntarily provided by the user at registration. Once Janrain has successfully facilitated the transmission of personal information to a customer’s database that is not hosted by Janrain, it is that customer’s responsibility to guard any the personal information against unauthorized access or transmission.
+Notice and Choice: Individuals may submit personal information to our customers through the use of the website registration and login services we provide to our Clients. (Some of these services may have a notice that they are “powered by Janrain”). This personal information is submitted with notice to, and the consent of, the individual user via identity providers’ permission screens, or voluntarily provided by the user at registration. Once Janrain has successfully facilitated the transmission of personal information to a Client’s database that is not hosted by Janrain, it is that Clients’s responsibility to guard the personal information against unauthorized access or transmission.
 
-Our Role Processing and Protecting Customer Data: As part of our Janrain Customer Identity Management Platform™, we may receive and host on our customers’ behalf such personal information and other data a customer may provide to us for hosting (collectively, “Customer Data”). Our customers are the data controllers of Customer Data. As the processors of personal information on behalf of our customers, we follow their instructions with respect to the information they control. In doing so, we implement appropriate technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information. We do not determine how our customers use Customer Data, and we will not access or disclose it except as directed by our customers or required by law.
+Our Role Processing and Protecting Client Data: As part of our Janrain Customer Identity and Access Management Platform, we may receive and host on our Clients’ behalf such personal information and other data a customer may provide to us for hosting (collectively, “Client Data”). Our Clients are the data controllers of Client Data. As the processors of personal information on behalf of our customers, we follow their instructions with respect to the information they control. In doing so, we implement appropriate technical, physical and administrative measures against unauthorized processing of such information and against loss, destruction of, or damage to, personal information. We do not determine how our Clients use Client Data, and we will not access or disclose it except as directed or agreed to by our customers or required by law.
 
-Accessing, Correcting, Amending, or Deleting Personal Information: If you are an individual seeking access to, or who would like to correct, amend, or delete your personal information which Janrain may be storing on behalf of our customer, you should direct your request to the applicable Janrain customer acting as the data controller for such information. Customers may access and delete Customer Data, including an individual record, via an application provider interface or API. If requested to remove/access data we will respond within 30 days. Following the deletion of personal information in a database we host, the related backup data will be deleted, generally within 30 days. Janrain will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Accessing, Correcting, Amending, or Deleting Personal Information: If you are an individual seeking access to, or who would like to correct, amend, or delete your personal information which Janrain may be storing on behalf of our Client, you should direct your request to the applicable Janrain Client acting as the data controller for such information. Clients may access, and delete Client Data, including an individual record, via an application provider interface or API. If requested to remove/access data we will respond within 30 days. Following the deletion of personal information in a database we host, the related backup data will be deleted, generally within 30 days. Janrain will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Cookies Related to Our Social Login Service**
 
@@ -148,7 +160,7 @@ An individual using our Single Sign On service will have three cookies placed on
 
 **Anonymous Statistics**
 
-To assist our customers and partners and to market our services, we may disclose anonymous, aggregated, statistical information related to the use of our services by many or all of our customers. Such information will not contain any personal information or identify any customer or user of our services.
+To assist our Clients and partners, and to market our services, we may disclose anonymous, aggregated, statistical information related to the use of our services by some or all of our Clients and their users. Such information will not contain any personal information or identify any customer or user of our services.
 
 ### 9\. Children
 
@@ -156,11 +168,13 @@ We do not sell our services to children and children are not eligible to use our
 
 ### 10\. Blog
 
-Some of our website offers publicly accessible blogs. You should be aware that any information you provide in this area may be read, collected, and used by others who access them. _You can request the removal of your personal information from our blog or community forum, by contacting us at_[ _privacy@janrain.com_](mailto:privacy@janrain.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Some of our website offers publicly accessible blogs. You should be aware that any information you provide in this area may be read, collected, and used by others who access them.  _You can request the removal of your personal information from our blog or community forum, by contacting us at  _[ _privacy@janrain.com_](mailto:privacy@janrain.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### 11\. Correcting and Updating Your Information
 
-If you purchase a service from our website and create an account, you may later access, update, or delete your information on the service dashboard or by contacting us at [privacy@janrain.com](mailto:privacy@janrain.com). To update Billing Information you can contact our Finance department or submit a ticket to support.janrain.com. We will respond to your request to access within 30 days.
+Upon request, we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact us  by writing to VP, Privacy, Janrain, Inc., 519 SW 3rd Ave., Suite 200, Portland, OR 97204 USA and provide your name, address, and email address, so that we have sufficient detail to respond to your inquiry. If you have established a Janrain account or submitted information to us on our website, you may submit your inquiry to [privacy@janrain.com](mailto:privacy@janrain.com). If you do, please provide your name, address, and email address and, if applicable, account information.
+
+If you purchase a service from our website and create an account, you may later access, update, or delete your information on the service dashboard or by contacting us at [privacy@janrain.com](mailto:privacy@janrain.com). To update Billing Information you can contact our Finance department or submit a ticket to support.janrain.com. We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
