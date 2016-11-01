@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2visit.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306201138id_/http%3A//web2visit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2visit.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102000812id_/http%3A//web2visit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web2Visit.com
 
