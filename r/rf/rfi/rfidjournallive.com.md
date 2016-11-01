@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120132353id_/http%3A//www.rfidjournal.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101211352id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
 
 # RFID Journal Privacy Statement - RFID Journal
 
-RFID Journal LLC. ("RFID Journal") recognizes the importance of protecting the privacy of all information provided by users of our Web site and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by RFID Journal, including but not limited to Web sites and newsletters. 
+RFID Journal LLC. ("RFID Journal") recognizes the importance of protecting the privacy of all information provided by users of our website and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by RFID Journal, including but not limited to websites and newsletters. 
 
 **Information Collection And Use**   
-RFID Journal collects information from our Web site users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
+RFID Journal collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
 
-**Web Site Usage**   
-You may visit the RFID Journal Web site without identifying yourself or revealing any personal information. As you use the site, the site collects log file, the IP address of your computer, and other standard tracking data that RFID Journal use to evaluate site traffic and usage patterns. This information is aggregated with tracking data from all site visitors and is used both to enable us to tailor content to the interests of visitors and to inform advertisers of the usage patterns and interests of our readers. 
+**Website Usage**   
+You may visit the RFID Journal website without identifying yourself or revealing any personal information. As you use the site, the site collects log file, the IP address of your computer, and other standard tracking data that RFID Journal use to evaluate site traffic and usage patterns. This information is aggregated with tracking data from all site visitors and is used both to enable us to tailor content to the interests of visitors and to inform advertisers of the usage patterns and interests of our readers. 
 
 **Registering and Subscribing**   
 When attending our events, signing up for certain selected services (such as free subscriptions), or subscribing to our paid content, users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also collect demographic information (such as job title and purchasing responsibilities, and company information). For internal purposes, we use this information to communicate with users and provide requested services. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes. 
@@ -38,7 +38,7 @@ Google's use of the DART cookie enables it to serve ads based on a visitor's beh
 At some of our sites, we offer interactive and community features such as discussion boards. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
 
 **With Whom Your Information Is Shared**   
-We may share your personal information with our affiliates and partners and third parties licensed to access your personal information by any of the foregoing. We rent e-mail lists compiled from e-mail addresses gathered from this web site to those partners or affiliates that we feel may offer products or services that may be of interest to our readers. We do not share credit card information with third parties. 
+We may share your personal information with our affiliates and partners and third parties licensed to access your personal information by any of the foregoing. We rent e-mail lists compiled from e-mail addresses gathered from this website to those partners or affiliates that we feel may offer products or services that may be of interest to our readers. We do not share credit card information with third parties. 
 
 Except as otherwise provided in this privacy policy, RFID Journal will keep your personal information and your financial information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. 
 
@@ -51,7 +51,7 @@ If a user's personally identifiable information changes (such as zip code), or i
 We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
 **Links**   
-Our web site contains links to other sites. RFID Journal is not responsible for the privacy practices or content of such external sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information. 
+Our website contains links to other sites. RFID Journal is not responsible for the privacy practices or content of such external sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. 
 
 **Notification and Changes**   
 If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
