@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430222217id_/http%3A//www.budgetair.ie/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101212713id_/http%3A//www.budgetair.ie/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - BudgetAir.ie - BudgetAir
 
