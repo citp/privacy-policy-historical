@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redkawa.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224833id_/http%3A//www.redkawa.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redkawa.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102000154id_/http%3A//www.redkawa.com/about/privacy.html) for the most accurate reproduction.*
 
 # Red Kawa Privacy Policy
 
