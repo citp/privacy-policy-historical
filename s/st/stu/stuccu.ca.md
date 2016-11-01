@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuccu.ca privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515042330id_/http%3A//stuccu.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.ca privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101133059id_/http%3A//www.stuccu.ca/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | STUCCU.CA
 
