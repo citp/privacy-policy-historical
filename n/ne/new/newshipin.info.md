@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newshipin.info privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322121212id_/http%3A//newshipin.info/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newshipin.info privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101040201id_/http%3A//newshipin.info/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Ship In
 
