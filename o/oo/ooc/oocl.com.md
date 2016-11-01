@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630125349id_/http%3A//www.oocl.com/eng/privacyandsecurity%3Fsite%3Dusa%26lang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101062359id_/http%3A//www.oocl.com/eng/privacyandsecurity%3Fsite%3Dusa%26lang%3Deng) for the most accurate reproduction.*
 
 # OOCL - Privacy & Security
 
@@ -177,7 +177,7 @@ Should you have any questions about this Privacy and Security Statement, the pra
 Corporate Customer Service Department  
 Orient Overseas Container Line Ltd.
 
-Address: 30nd Floor, Harbour Centre,  
+Address: 31st Floor, Harbour Centre,  
 25 Harbour Road, Wanchai,  
 Hong Kong   
 Telephone: (852) 2833 3888  
