@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925200217id_/https%3A//www.pct.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101120721id_/https%3A//www.pct.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
 We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this website. Any and all information collected via the Penn College website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Exceptions exist only as mandated by law or required under a contractual relationship with a service provider as allowed by Family Educational Rights and Privacy Act (FERPA). 
 
-We may provide your personal information to organizations that provide services to help us with our business activities. These organizations are authorized to use your personal information only as necessary to provide these services. In addition, we require all outside organizations that we work with in any area of our organization, including marketing and data processing, to maintain the confidentiality of your information in accordance with this privacy policy and to comply with all applicable laws.
+We may provide your personal information to organizations that provide services to help us with our business activities. These organizations are authorized to use your personal information only as necessary to provide these services. In addition, we require all outside organizations that we work with in any area of our organization, including marketing and data processing, to maintain the confidentiality of your information in accordance with this privacy statement and to comply with all applicable laws.
 
 ## Information Collection
 
@@ -44,7 +44,7 @@ Read [Crescendo's privacy statement](http://www.pctgift.org/?pageID=98) for more
 
 ##### Alumni Information Update
 
-Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://www.pct.edu/oca/classNotes.aspx) published in _One College Avenue_. Alumni may elect to opt out of e-mail from the Alumni Relations office.
+Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://magazine.pct.edu/note.aspx) published in _Penn College Magazine_. Alumni may elect to opt out of e-mail from the Alumni Relations office.
 
 We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and website, and to offer tours during College events such as Open Houses.
 
