@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324043553id_/https%3A//www.pplelectric.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101101628id_/https%3A//www.pplelectric.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy (4/20/15)
+# Privacy Policy (9/12/16)
 
 PPL Electric Utilities Corporation (referred to in this notice as “PPL,” “we,” “us,” “our” and other similar pronouns), has developed this Privacy Notice (“Notice”)for the benefit of residential customers and other customers who are natural persons (referred to as “Users,” “you” or “your”) who use the PPL Electric Utilities Corporation Web site owned and maintained by PPL or the various social networking platforms that we use (collectively, the “Sites”) to demonstrate our serious commitment to protecting privacy on this Site. 
 
@@ -118,7 +118,7 @@ If we believe that the security of your Personal Information in our care may hav
 
 **Opt-Out Right**
 
-PPL offers Users of this Site the ability to opt out of certain of our uses and disclosures of your Personal Information. For instance, a User can opt out of having their Personal Information used by PPL or shared with third parties for marketing purposes. Users can opt out by checking the appropriate box when the data is collected, or may opt out at any time by writing to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-6494; or emailing us at [privacynotice@pplweb.com](mailto:privacynotice@pplweb.com). Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. 
+PPL offers Users of this Site the ability to opt out of certain of our uses and disclosures of your Personal Information. For instance, a User can opt out of having their Personal Information used by PPL or shared with third parties for marketing purposes. Users can opt out by checking the appropriate box when the data is collected, or may opt out at any time by writing to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-5068; or emailing us at [pplnews@pplweb.com](mailto:pplnews@pplweb.com). Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. 
 
 **Access and Ability to Correct Personal Information**
 
@@ -130,7 +130,7 @@ At any time, a User may contact PPL via postal mail, e-mail, or phone to request
 
 
 
-Users may send their requests by mail to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-6494, or may send an email to [privacynotice@pplweb.com](mailto:privacynotice@pplweb.com).  In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User’s personal record. Your right to delete your information is subject to our record retention policies and back-up procedures.
+Users may send their requests by mail to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101, or may call 610-774-5068, or may send an email to [pplnews@pplweb.com](mailto:pplnews@pplweb.com).  In the event PPL receives such a request, PPL may require the User to confirm or verify any change to the User’s personal record. Your right to delete your information is subject to our record retention policies and back-up procedures.
 
 **Collection of Personal Information from Children**
 
@@ -138,16 +138,16 @@ This Site is not intended for individuals under the age of 18 (“children”).
 
 Accordingly, PPL will not knowingly collect or post Personal Information from children without parental or guardian consent. Moreover, PPL will not knowingly use any Personal Information collected from children for any purpose whatsoever, including disclosure to any third party. 
 
-If a child provides us with personally identifiable information, a parent or guardian of that child may have that information deleted from our records (subject to our record retention and backup policies and procedures) by contacting us at PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-6494; or emailing us at [privacynotice@pplweb.com](mailto:privacynotice@pplweb.com). 
+If a child provides us with personally identifiable information, a parent or guardian of that child may have that information deleted from our records (subject to our record retention and backup policies and procedures) by contacting us at PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101; calling 610-774-5068; or emailing us at [pplnews@pplweb.com](mailto:pplnews@pplweb.com). 
 
 ****Future Changes to this Privacy Notice****
 
 Any modifications to this Privacy Notice will be posted in this space, and are effective when posted. Continued use of the Site after the Notice is modified constitutes acceptance of the changes. In some cases (for example, if we significantly expand our use or sharing of your Personal Information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you. In some cases, we may request your consent to the changes. 
 
-Last modified: April 20, 2015.
+Last modified: Sept. 12, 2016.
 
 **Questions**
 
-PPL welcomes questions or comments Users may have regarding this Privacy Notice or the use of your Personal Information. Please send any questions or comments to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101, call 610-774-6494, or send an email to [privacynotice@pplweb.com](mailto:privacynotice@pplweb.com). 
+PPL welcomes questions or comments Users may have regarding this Privacy Notice or the use of your Personal Information. Please send any questions or comments to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101, call 610-774-5068, or send an email to [pplnews@pplweb.com](mailto:pplnews@pplweb.com). 
 
-**Privacy Notice updated April 2015.**
+**Privacy Notice updated September 2016.**
