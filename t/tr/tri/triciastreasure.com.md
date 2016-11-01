@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405125152id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101122026id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
 
 # Tricia's TreasuresDisclosure Policy/Privacy Policy -
 
@@ -71,6 +71,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 7/6/2012
 
-http://www.triciastreasure.com.
+http://triciastreasure.com.
 
 [](http://www.mylivesignature.com/)
+
+  *   *   *   *   *   * 
+
