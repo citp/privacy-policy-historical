@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocompany.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326105623id_/http%3A//seocompany.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocompany.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101205431id_/http%3A//seocompany.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,8 +86,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.thatcompany.com  
-8500 US HWY 441  
-Leesburg, FL 34788  
+4646 Via Del Medicao  
+Leesburg, FL 34748  
 US  
 sales@thatcompany.com  
 352-319-0222 
