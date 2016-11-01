@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfoservers.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420064915id_/https%3A//www.nfoservers.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfoservers.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101092948id_/https%3A//www.nfoservers.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Game Server Rentals and Hosting :: Privacy policy :: NFOservers
 
@@ -14,7 +14,7 @@ If the customer chooses to use Paypal, Paypal may also directly request further 
 
 At any time, customers (and anyone who has created an account in our system) may change the email address we associate with their name and current subscriptions by logging into the Control panel (available from https://www.nfoservers.com) and following the instructions on the Main page under My account. Similarly, information associated with payment sources may be edited or deleted through the Payments page under My account. 
 
-Individuals may not change their last or first name, or remove their account entirely, using this method. If an individual wishes to change his or her first or last name or have his or her account purged from our database, he or she will need to [contact us](https://web.archive.org/web/20160420064915id_/https%3A//www.nfoservers.com/contactus.php), from the registered email address of the account. 
+Individuals may not change their last or first name, or remove their account entirely, using this method. If an individual wishes to change his or her first or last name or have his or her account purged from our database, he or she will need to [contact us](https://web.archive.org/web/20161101092948id_/https%3A//www.nfoservers.com/contactus.php), from the registered email address of the account. 
 
 **Process by which we notify consumers of changes to our privacy policy.**
 
