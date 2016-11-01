@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the screenrobot.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614202728id_/http%3A//screenrobot.com/about-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrobot.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101124243id_/http%3A//screenrobot.com/about-us) for the most accurate reproduction.*
 
 # About Us/Privacy Policy - Screen Robot
 
-Screen Robot is a site made for humans who spend too much time in front of screens.
+Screen Robot was a site made for humans who spend too much time in front of screens. It received millions of views in the year it was alive, but as with most robots, it became dangerous and we had to put it down.
 
-We are a small team from the UK.
+We were a small team from the UK.
 
-We aim to create a community of like-minded robots who love Film, TV, Gaming, and Tech.
+We created a community of like-minded robots who love Film, TV, Gaming, and Tech.
 
-We have a healthy obsession with digital everything.
+We had a healthy obsession with digital everything.
 
-If you want to get involved or have any enquiries, drop us an email at leadrobot@screenrobot.com
+If you have any enquiries, drop us an email at vincent@magnfic.com
 
 We are part of the  **[Magnific](http://magnific.com/)**  network of sites.
 
