@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alligator-sunglasses.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518024150id_/http%3A//www.pbh-network.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alligator-sunglasses.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101052126id_/http%3A//www.pbh-network.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « The PBH Network
+# Privacy Policy – The PBH Network
 
 Effective 1/1/09
 
