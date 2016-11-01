@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the talking-list.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404232138id_/http%3A//talking-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talking-list.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101114519id_/http%3A//talking-list.com/privacy.php) for the most accurate reproduction.*
 
 # TalkingList
 
-[](http://talking-list.com/bannerclick2.php?id=83)  
-
+[](http://talking-list.com/bannerclick.php?id=1549)
 
 TalkingList Privacy Policy
 
