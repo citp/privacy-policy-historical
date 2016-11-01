@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelondonminibuscompany.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315040451id_/http%3A//www.thelondonminibuscompany.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondonminibuscompany.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101124755id_/http%3A//www.thelondonminibuscompany.com/Privacy-Policy) for the most accurate reproduction.*
 
-# 
+# None
 
 This privacy policy sets out how The London Minibus Company Ltd uses and protects any information that you give The London Minibus Company Ltd when you use this website.
 
