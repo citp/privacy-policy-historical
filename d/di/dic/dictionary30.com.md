@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary30.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622093826id_/http%3A//www.dictionary30.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary30.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101234552id_/http%3A//www.dictionary30.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
