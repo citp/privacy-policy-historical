@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindseywilliams.net privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501221011id_/http%3A//www.lindseywilliams.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindseywilliams.net privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101184443id_/http%3A//www.lindseywilliams.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lindsey Williams
 
