@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardbank.co.mw privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423052329id_/http%3A//www.standardbank.co.mw/Malawi/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbank.co.mw privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101075247id_/http%3A//www.standardbank.co.mw/Malawi/About--Us/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
 
 # Standard Bank - Malawi | Privacy and security statement
 
