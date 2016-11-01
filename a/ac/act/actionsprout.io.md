@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionsprout.io privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319180947id_/http%3A//actionsprout.com/app-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionsprout.io privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101121615id_/http%3A//actionsprout.com/app-privacy-policy) for the most accurate reproduction.*
 
 # App Privacy Policy - ActionSprout
 
