@@ -1,118 +1,93 @@
-> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211043554id_/http%3A//www.cohomefinder.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101090247id_/http%3A//frontrange.8z.com/privacy) for the most accurate reproduction.*
 
-# None
+# Front Range Real Estate :: 8z Real Estate
 
-## COhomefinder PRIVACY STATEMENT
+**We are committed to respecting your right to privacy and protecting your information when you visit FrontRange.8z.com or use our services.**
 
-This privacy statement covers the Web site WWW.COHOMEFINDER.COM. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+This Privacy Policy explains our information practices, including how we collect, use and share your personal information. This Privacy Policy is incorporated by reference in our [Terms of Use](https://web.archive.org/terms/) and by using the Website or the Services (as defined therein), you consent to the terms of this Privacy Policy.
 
-1\. What personally identifiable information COhomefinder collects.  
-2\. How COhomefinder uses the information.  
-3\. What choices are available to users regarding collection, use and distribution of the information.   
-4\. What types of security procedures are in place to protect the loss, misuse or alteration of information under COhomefinder control.   
-5\. How users can correct any inaccuracies in the information. If users have questions or concerns regarding this statement, they should first contact Client Care at (303) 543-3083 or [**click here to contact us.**](https://web.archive.org/contact-Boulder-Colorado-homefinder.htm)
+### What information do we collect automatically?
 
-### Information Collection and Use
+When you visit the Website, and in the course of providing the Services, we collect information about you that does not identify you personally. This information may include the type of computer and browser you are using, Uniform Resource Locators ("URLs") used by you to access the Website, your Internet Protocol ("IP") address, your Machine Access Control ("MAC") address, and what web service you are using. We may also collect the date, time, and length of visit, and the pages you visit. Collecting this information helps us design the site and the services to best suit your needs. This information may be compiled and analyzed on both an individual and an aggregate basis.
 
-**Information Collection**
+### Do we use cookies or other tracking devices?
 
-COhomefinder is the sole owner of the information collected on the site www.COhomefinder.com. COhomefinder collects information from our users at several different points on our Web site.
+A "cookie" is a small text file that is stored on your computer and makes it easy for you to move around a website without having to continually re-enter your name, password, preferences, and so on. We use cookies to store visitors' preferences, record user-specific information on what pages users access or visit, customize web page content based on visitors' browser type or other information that the visitor sends, and generally to optimize your website experience.
 
-**Registration**
+We may also use cookies for advertising and targeting purposes. In connection with this advertising, a unique ad-serving cookie will be placed on your computer by us or by a third party vendor. Non -personal information about your browser and your activity at this site may be used to inform, optimize and serve our ads.
 
-In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as first name and email address). We use this information to contact the user about services on our site for which he has expressed interest, such as sending new listings as part of the Automated HomeAlert system. It is optional for the user to provide real estate related information (such as relocation plans and search criteria), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site and the most effective real estate services.
+### What information do we collect as part of the services?
 
-### Information Use
+In the course of using the services, you are required to provide certain Personally Identifiable Information ("PII") to us, including your first and last name, mailing address (including zip code), e-mail address, telephone number, and other information about you and your business that allows us to contact you in person or online. In addition, non-personal information that is automatically collected or that you provide may be linked with your PII in order to improve the provision of the services. We may gather additional personal or non-personal information in the future. Depending on which part of the services you choose to access, some information we ask you to provide is mandatory and some is voluntary. If you do not provide the mandatory information with respect to a portion of the services, you will be unable to access that portion of the services.
 
-**Profile**
+### How do we use your information?
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent real estate information to them. **We do not share personal profiles with any other third parties. Personal profiles can only be only be accessed by designated COhomefinder employees and REALTORS.**
+Initially, we use your information to contact you. By registering via the Website, you are giving us permission to contact you using the email address or by telephone or by text to the mobile telephone number you provided us. You may opt out of any such communications at any time by updating your account preferences. We also use PII that you voluntarily proffer to provide our services to you.
 
-**Cookies**
+We may create and use aggregated data and statistical information that does not identify you individually in order to describe or promote our website and for other lawful purposes.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+### How do we share the information we collect?
 
-By setting a cookie on our site, users do not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section.
+Except as otherwise stated in this Privacy Policy, we will not disclose, sell, trade, or rent your PII to other individuals or companies.
 
-### No Third Party Advertising
+Your PII (and some non-personally identifiable information) will be shared with our employees and with providers of outsourced services, so that they may assist with our website operations or other services we are providing to you. We may also share your information with other providers of real estate-related services that we work with ("Service Partners"), such as lenders that may contact you regarding your mortgage needs. You may opt out of such sharing at any time by following the opt-out procedures in the Terms and Conditions. Our employees, agents, Service Partners, and brokers are contractually bound to use your PII solely in connection with providing the services to you, and may not use it for any other purpose.
 
-**No third party advertisers are allowed on the Web site www.COhomefinder.com, nor does COhomefinder share any personal profile information of its users with any third party advertiser.**
+We may be required by law to provide information about you to government authorities, including law enforcement, homeland security, and intelligence agencies. We fully cooperate with law enforcement agencies in identifying persons using the services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we believe to be unlawful or in violation of our Terms and Conditions.
 
-**Log Files**
+We may disclose information provided by you as part of any merger, sale, acquisition, or financing of our company.
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable and enhance our Web-based service. We use a custom tracking utility that uses log files to analyze use of the site and serve our clients. 
+### How do we protect your information?
 
-### Communications from the Site
+The security of your PII is of the utmost importance to us. We store all such information in accordance with current industry security standards in order to protect it from unauthorized access, use or disclosure. Such information is stored on a secure server that is accessible only by us, our employees, your employees, agents, and brokers (and in some cases by Services Partners), each of whom has a unique ID and password. We encrypt PII using industry-recognized standards in order to prevent unauthorized parties from viewing such information. You may access and update your PII at any time through your user account. We encourage you to keep your information current so that we may contact you regarding the services and any changes to this Privacy Policy. However, any changes to your information will only be reflected going forward. We cannot alter information that we may have already provided to third parties. If you have any questions, concerns, or problems accessing or changing your information, please contact us by (i) filling out the form on the "Contact" page of our website or (ii) sending a letter or postcard to the address on the home or "Contact" page of our website.
 
-**Market Updates and New Listings**
+For all correspondence, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response should be sent (email or postal mail). We will not accept notices via telephone or by facsimile. We are not responsible for failing to respond to notices that are not labeled or sent properly, or do not have complete information.
 
-The Automated HomeAlert system emails users when new listings that match a user's search criteria are posted on the Multiple Listing Service in their search area.
+No data transmission over the Internet or any other wireless communication method can be guaranteed to be totally secure. As a result, while we will make all reasonable efforts to protect the privacy of your information during transmission, WE MAKE NO GUARANTEES, REPRESENTATIONS, OR WARRANTIES WITH RESPECT TO THE PRIVACY OF SUCH TRANSMITTED INFORMATION. Our obligations with respect to the security of your stored information are governed by the Terms and Conditions. State laws may also apply impose obligations to secure stored information.
 
-**Services and Market Updates**
+### What about advertisements and linked sites?
 
-We send all new members a welcoming email to explain the services provided by COhomefinder. Established members will occasionally receive information about our services, market updates, home buying or selling tips, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+This Privacy Policy covers information collected on this website and through our services only. It does not apply to other sites you reach through links on our website. We encourage you to read the privacy policies of those other websites to learn how they collect and use information about you.
 
-**Newsletter**
+If advertisements appear on this website, the advertisers may employ cookies and other tracking technologies in connection with those advertisements. Your accessing any of those advertisements from our webpage may cause your exposure to those tracking technologies. Third party websites that you visit may use the cookies placed by third party vendors for similar purposes. We have no responsibility for any such uses.
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+### How do we comply with California users’ rights under California law?
 
-**COhomefinder Client Care**
+If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options, such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal Information by third parties (such as Service Partners) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your PII for marketing purposes during the preceding year.
 
-Our Client Care team communicates with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by (i) filling out the form on the "Contact" page of our website and including "Request for California Disclosure Choices" in the first line of the message or (ii) sending a letter or postcard to "Request for California Disclosure Choices" at the address on the home page or "Contact" page of our website.
 
-**COhomefinder REALTORS**
+For all requests, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for failing to respond to notices that are not labeled or sent properly, or do not have complete information.
 
-We partner with REALTORS that serve specific geographic markets to provide real estate services to COhomefinder users that expressly request the services of a REALTOR. When the user requests these particular services, the appropriate COhomefinder REALTOR receives the user's name, contact information, and home search criteria in order to provide real estate services to the user. 
+We do not obey Do Not Track signals from a user’s Internet browser. We make no representations concerning third parties that do not collect PII directly through the Website. These disclosures are made under Cal. Bus. & Prof. Code § 22575.
 
-**Service Announcements**
+### Do we collect PII from children?
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+Our website is not intended for use by children. No one under age 13 should use, or provide any personal information to, our website. If we learn that we have mistakenly collected personal information from a child under age 13, we will delete that information as soon as possible. If you believe that we might have information from or about a child under age 13, please contact us via the "Contact" page on the website.
 
-**Business Transitions**
+### Our Canadian Privacy Policy
 
-In the event COhomefinder goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+Our Canadian Privacy Policy governs our actions related to the use of Personal Information collected from users located in Canada, whether through this website or in the course of the services we provide. Our Privacy Policy is based on, and complies with, the Personal Information Protection and Electronic Documents Act ("PIPEDA") (which includes the Ten Privacy Principles outlined in the Canadian Standards Association Model Code for the Protection of Personal Privacy), and applicable provincial privacy legislation.
 
-**Choice/Opt-out**
+The paragraphs above explain how we meet the Privacy Principles of accountability, identifying purposes for which PI is used, obtaining your consent, ensuring accuracy, safeguarding PI, and ensuring openness and your access to your PI. The following sections explain how we meet the other Privacy Principles.
 
-Users who no longer wish to receive Automated HomeAlert emails, our newsletter and/or general communications may opt-out of receiving these communications by [**clicking here to contact us.**](https://web.archive.org/contact-Boulder-Colorado-homefinder.htm) The user may also contact us by phone at (303) 543-3083 or mail at 4041 Hanover, Suite 200, Boulder, CO 80305 to opt-out. 
+#### Limiting collection
 
-**Links**
+We limit the Personal Information we collect to that which is necessary to deliver the products and services that we have outlined above.
 
-This Web site contains links to other sites. Please be aware that we, Colorado HomeFinder is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+#### Limiting use, disclosure and retention
 
-**Surveys & Contests **
+We use and disclose your Personal Information only for the purposes that we have outlined above and we do not sell your information to any third party. All Personal Information is maintained with industry standard physical and electronic protections, including user authentication, firewall technology and the use of detection software. Personal Information may only be retained for the amount of time needed to fulfill the purpose for which it was collected.
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.
+#### Complaints and Access Requests
 
-**Tell-A-Friend**
+If you are a Canadian resident and wish to request information about our privacy practices, or file a complaint or personal information access request, you may do so by (i) filling out the form on the "Contact" page of our website (ii) sending a letter or postcard to "Canadian Privacy Policy Inquiry" at the address on the home page or "Contact" page of our website.
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. COhomefinder will automatically send the friend a one-time email inviting them to visit the site. COhomefinder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact COhomefinder to request the removal of this information from our database.
+For all requests, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for failing to respond to notices that are not labeled or sent properly, or do not have complete information.
 
-**Security**
+#### Transmission outside of Canada
 
-This Web site takes every precaution to protect our users' information. When users submit information via the Web site, their information is protected both online and off-line.
+Personal Information may be transmitted to the facilities of third party service providers in the United States for processing and storage in furtherance of the identified purposes for which it was collected. We and they will abide by the terms of this Privacy Policy in respect of the use, disclosure and storage of your personal information. These service providers are subject to certain safeguards, including the execution of a Non-Disclosure Agreement and the requirement that any Personal Information provided to them be destroyed upon completion of the service or returned to us. Personal Information processed in the United States may be lawfully accessed by U.S. courts, law enforcement and national security agencies.
 
-The information that a user provides when registering on m.cOhomefinder.com is stored in our secure database that is only accessible by designated Colorado HomeFinder employees. 
+### Changes to Our Privacy Policy
 
-Not only do we protect user-information online, we also do everything in our power to protect user information off-line. All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representatives) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment in a locked facility. 
-
-**If users have any questions about the security at our Web site, users can call us at (303) 543-3083.**
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**
-
-If a user's personally identifiable information changes (such as phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at the "Update Profile" page, or by contacting Client Care at (303) 543-3083. 
-
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
-
-Phone: (303) 543-3083  
-Fax: (303) 499-1755  
-Postal Address: 4041 Hanover, Suite 200, Boulder, CO 80305  
-Web site URL: www.cohomefinder.com  
-Security Officer: Lane Hornung, Chief Executive Officer 
+This Privacy Policy was last revised on **February 22, 2015**. We reserve the right to modify or amend this policy at any time by posting the revised Privacy Policy on the website.
