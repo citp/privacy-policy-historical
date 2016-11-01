@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the succeedwithsean.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619181415id_/http%3A//www.succeedwithsean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the succeedwithsean.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101095645id_/http%3A//succeedwithsean.com/privacy-policy) for the most accurate reproduction.*
 
 # Succeed With Sean Mize | Take Your Internet Marketing to the Next Level » Privacy Policy
 
