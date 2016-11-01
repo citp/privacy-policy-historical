@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wakullacounty.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403092107id_/http%3A//www.wakullacounty.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakullacounty.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101194421id_/http%3A//wakullacounty.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WakullaCounty.com Privacy Policy | WakullaCounty.com
 
 WakullaCounty.com Privacy Policy | WakullaCounty.com
-
-[](http://www.epik.com/hosting)
 
 #### Privacy Policy
 
@@ -63,8 +61,6 @@ You may contact us as at admin@spectacular.com if: (a) you have questions or com
 This Privacy Policy as posted on this Website is the sole statement of our Privacy Policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
 
 This Privacy Policy was last modified on February 19, 2015.
-
-[](http://www.epik.com/hosting)
 
   
 
