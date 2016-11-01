@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologiebeaumont.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623041413id_/http%3A//www.technologiebeaumont.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologiebeaumont.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101230558id_/http%3A//technologiebeaumont.com/privacy) for the most accurate reproduction.*
 
 # Wajam.com | Privacy
 
@@ -12,13 +12,13 @@ Effective Date: 01 May, 2016
 
 This privacy policy ("Privacy Policy") is designed to make important and transparent disclosures about how we collect, share and use our users' information. Our users' privacy is important to us. We encourage you to read the Privacy Policy carefully and use it to make informed decisions.
 
-This Privacy Policy governs the data collection practices by Wajam Internet Technology Inc. ("Wajam", "us", "we" and "our") while you use our (i) www.http://www.technologiebeaumont.com.com site; OR (ii) browser extensions; OR (iii) our software product (if applicable) (collectively "Wajam Products").
+This Privacy Policy governs the data collection practices by Wajam Internet Technology Inc. ("Wajam", "us", "we" and "our") while you use our (i) www.http://technologiebeaumont.com.com site; OR (ii) browser extensions; OR (iii) our software product (if applicable) (collectively "Wajam Products").
 
-By using the Wajam Products you agree to the terms of this Privacy Policy. Your continued use of the Wajam Products constitutes your agreement to this Privacy Policy. This Privacy Policy is part of our [End User License Agreement](http://www.technologiebeaumont.com/terms-of-service) and the definitions herein shall have the same meaning as defined in the [End User License Agreement](http://www.technologiebeaumont.com/terms-of-service). If you do not agree to these terms, please do not access or use the Wajam Products.
+By using the Wajam Products you agree to the terms of this Privacy Policy. Your continued use of the Wajam Products constitutes your agreement to this Privacy Policy. This Privacy Policy is part of our [End User License Agreement](http://technologiebeaumont.com/terms-of-service) and the definitions herein shall have the same meaning as defined in the [End User License Agreement](http://technologiebeaumont.com/terms-of-service). If you do not agree to these terms, please do not access or use the Wajam Products.
 
 ### TRUSTe
 
-**TRUSTe Privacy Seal.** [ ](http://privacy.truste.com/privacy-seal/Wajam-Inc-/validation?rid=f1940960-6a7a-4b5a-a313-822cc7bd9902 "TRUSTe online privacy certification") The TRUSTe Program covers only information that is collected through the English version of this Web site, www.technologiebeaumont.com. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+**TRUSTe Privacy Seal.** [ ](http://privacy.truste.com/privacy-seal/Wajam-Inc-/validation?rid=f1940960-6a7a-4b5a-a313-822cc7bd9902 "TRUSTe online privacy certification") The TRUSTe Program covers only information that is collected through the English version of this Web site, technologiebeaumont.com. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
 
 **TRUSTe Trusted Download Program.** [ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=213&sealid=112 "TRUSTe Trusted Download Certification") The Wajam software version 1.0 has been certified by the TRUSTe's Trusted Download Program signifying that the Wajam software has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Wajam software, please contact us at: Wajam 4115 St-Laurent Suite 300, Montreal, Quebec, H2W 1Y7, Canada or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=213&sealid=112). The TRUSTe Trusted Download program does not cover other applications such as the Twitter application. 
 
@@ -33,7 +33,7 @@ We collect two types of data and information from our users.
 
 The first type of information is un-identified and non-identifiable information pertaining to a user(s), which may be made available or gathered via the user's use of the Service ("Non-Personal Information"). We are not aware of the identity of the User from which the Non-personal Information was collected.
 
-Non-Personal Information which is being collected includes the user's aggregated usage information and technical information transmitted by the user's device, including certain software and hardware information about the user's device (e.g. the type of browser and operating system) all in order to provide our Service as defined and detailed in the [End User License Agreement](http://www.technologiebeaumont.com/terms-of-service).
+Non-Personal Information which is being collected includes the user's aggregated usage information and technical information transmitted by the user's device, including certain software and hardware information about the user's device (e.g. the type of browser and operating system) all in order to provide our Service as defined and detailed in the [End User License Agreement](http://technologiebeaumont.com/terms-of-service).
 
 We collect the following Non-Personal Information from you when you install or use the Wajam Products and Service:
 
@@ -141,4 +141,4 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 
 ### How to contact us
 
-you may contact us at Wajam 4115 St-Laurent Suite 300, Montreal, Quebec, H2W 1Y7, Canada or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). Instructions on how to uninstall Wajam can be found at our [How to Uninstall Wajam](http://www.technologiebeaumont.com/howto/uninstall) page. If you need any additional information, you may contact us at [support@wajam.com](mailto:support@wajam.com).
+you may contact us at Wajam 4115 St-Laurent Suite 300, Montreal, Quebec, H2W 1Y7, Canada or by email at: [feedback@wajam.com](mailto:feedback@wajam.com). Instructions on how to uninstall Wajam can be found at our [How to Uninstall Wajam](http://technologiebeaumont.com/howto/uninstall) page. If you need any additional information, you may contact us at [support@wajam.com](mailto:support@wajam.com).
