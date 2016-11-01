@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wixmp.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531195947id_/https%3A//www.wixmp.com/docs/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wixmp.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101234023id_/https%3A//www.wixmp.com/docs/policy.html) for the most accurate reproduction.*
 
 # Policy - Wix Media Platform
 
