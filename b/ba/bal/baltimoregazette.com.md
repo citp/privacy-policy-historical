@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the baltimoregazette.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101030409id_/http%3A//baltimoregazette.com/privacy) for the most accurate reproduction.*
+
+# Privacy - Baltimore Gazette
+
+Welcome to the Baltimore Gazette.  We believe that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you’re concerned about protecting your privacy online. This Privacy Policy explains what information we collect about you and how we use that information. In this Privacy Policy, “Baltimore Gazette” refers to the website associated with the domain names baltimoregazette.com. “The Services” means all the services offered in conjunction with the Website. The term “Personal Data” refers to personally identifiable information about you, such as your full name, birth date, e-mail address or mailing address, phone number and any other information that can be used to identify or contact you. By using Baltimore Gazette, you consent to the practices outlined in this Privacy Policy. Baltimore Gazette reserves the right to change this Privacy Policy, and if we do, any such changes will be included on this page so current privacy information will always be available to you. We encourage you check this page periodically.
+
+**No Collection of Personal Data from Children under 13.**
+
+We recognize the need to provide additional privacy protections for the Personal Data of children under 13. The Children’s Online Privacy and Protection Act (“COPPA”) requires general audience website operators to obtain a parent’s prior consent if they are knowingly collecting, using or disclosing any Personal Data from a child under 13. Baltimore Gazette is not directed to or intended to be used by children under 13 (or under 18 for that matter), and Baltimore Gazette does not knowingly collect, use or disclose any Personal Data from children under 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+
+**Personal Data Collected.**
+
+The only Personal Data Baltimore Gazette currently collects is the Personal Data that you voluntarily provide to Baltimore Gazette. For example, all users must enter first name, last name and email address prior to submitting comments to the site.  Users of the social networking features on Baltimore Gazette may also enter Personal Data to create a social networking page and user profile. The information on the social networking page and the user profile, including any Personal Data, will also be available to other users of Baltimore Gazette.
+
+Other data that does not qualify as Personal Data because it cannot be used to contact or identify you (“Non-Personal Data”) may also be collected when a user participates in certain features of the Baltimore Gazette, or may be automatically collected about you.
+
+For example, Baltimore Gazette uses technology to automatically collect Non-Personal Data about the use of the Baltimore Gazette website. This technology is used to track things like how many users access the Baltimore Gazette, the date and time of their visits, the length of their stays, and which pages they view. Baltimore Gazette may also use technology to determine which web browsers users use and the address from which they accessed the Websites. The information collected using this technology does not identify any user personally and is thus all Non-Personal Data that simply enables Baltimore Gazette to compile statistics about users and their use of the Websites.
+
+Baltimore Gazette uses this Non-Personal Data and may share it with third parties to improve the content and functionality of the Baltimore Gazette websites, to better understand our customers and markets, and to improve our products and services. We may also use this information to provide you with targeted advertising, so that the advertisements you may see on Baltimore Gazette are of more interest to you.
+
+**Cookies.**
+
+We may store certain information from your web browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use session-ID cookies to confirm that users are logged in. These cookies would terminate once the user closes the web browser. We may also use persistent cookies that store certain Personal Data you already provided to us to make it easier for you to create comments at Baltimore Gazette. Cookies are used as a convenience feature for the user. You can remove or block cookies using the settings in your browser if you want to disable them.
+
+**Use of Personal Data Collected.**
+
+Baltimore Gazette uses the Personal Data collected on the Websites to provide you with the requested Services. If you enter Personal Data to create a member account, for example, that Personal Data will be used to create your account and allow that user to access certain features of Baltimore Gazette. If you enter Personal Data to create a social networking page and user profile, that Personal Data will be available to other users of Baltimore Gazette on your social networking page.
+
+Baltimore Gazette may also use the Personal Data to contact you for a variety of reasons, such as but not limited to notifying you about upcoming events, offering you additional products or services, or requesting your feedback on Baltimore Gazette website. If you wish to opt-out of these contacts, you can let us know by following the “unsubscribe” instructions that accompanied the contact email. Even if you opt-out of certain contacts, Baltimore Gazette may still contact you about any problems or issues with your personal account, social networking page or user profile.
+
+**Disclosure of Personal Data Collected.**
+
+Baltimore Gazette may disclose Personal Data to third parties when (a) it is reasonably necessary to provide you with the Services, (b) you have authorized the disclosure, or (c) if required or authorized to do so by law.
+
+For example, when you choose to use the social networking features of Baltimore Gazette, it is necessary for Baltimore Gazette to disclose the information on your social networking page and your user profile information, including Personal Data, to other users of the website. Without disclosure of this information, no one could contact you and there would be no social networking feature. Any User Content (as defined in the Terms of Service) you post to Baltimore Gazette website will also be available to other users. By participating in the social networking features, you are also giving Baltimore Gazette permission to include you in its RSS feed features, which allow other users to get updates on your social networking page and user profile. For example, if you add your favorite movie or restaurant to your user profile, users who are subscribed to your RSS feed will be notified of this change in your user profile. This feature will also allow other users to see how you are using the Websites. You use the social networking features and post User Content at your own risk. Baltimore Gazette is not responsible for security or privacy breaches that may result from your use of the social networking features or posting User Content to the website.
+
+Baltimore Gazette may also disclose Personal Data to third parties if a user has requested that Baltimore Gazette do so. The Baltimore Gazette website may offer users opportunities to request disclosure of Personal Data to third parties. For example, users may have the ability to request through the Baltimore Gazette that certain third parties send them information. In that case, Baltimore Gazette would disclose the user’s full name and email address or mailing address so that the third party can send the user the requested information.
+
+Baltimore Gazette may also disclose Personal Data to its affiliates, contractors and partners, who will use the Personal Data in compliance with this Privacy Policy. We may sell, rent, give or otherwise share your personal information with Baltimore Gazette successors, assigns, affiliates and other related third parties.  Baltimore Gazette may also disclose Personal Data if required or authorized to do so by law.
+
+**Security Measures.**
+
+Baltimore Gazette uses industry standard security measures to protect your Personal Data. While such security measures provide reasonable protections against unauthorized access, they provide no guarantee that your Personal Data will not be compromised.
+
+**Links to Other Websites.**
+
+This Privacy Policy applies only to Personal Data collected on the Baltimore Gazette website. The Baltimore Gazette may contain hyperlinks to websites that are not operated by Baltimore Gazette. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. Baltimore Gazette does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any website you visit before using the website or providing any Personal Data about yourself.
+
+**Questions About Our Privacy Policy.**
+
+If you have any questions about this Privacy Policy or concerns about the way Baltimore Gazette processes your Personal Data, please contact us.
