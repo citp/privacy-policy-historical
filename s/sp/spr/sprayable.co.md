@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprayable.co privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513230316id_/http%3A//sprayable.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprayable.co privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101090707id_/http%3A//sprayable.co/pages/privacy-policy) for the most accurate reproduction.*
 
 # Sprayable Energy | Sprayable Sleep | Melatonin Sleep Spray
 
@@ -26,6 +26,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: contact@sprayable.co  
+By e-mail: support@sprayable.co  
   
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
