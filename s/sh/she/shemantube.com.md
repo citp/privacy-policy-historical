@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemantube.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502104851id_/http%3A//www.shemantube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemantube.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101163518id_/http%3A//www.shemantube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
