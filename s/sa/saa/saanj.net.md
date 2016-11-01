@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saanj.net privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619105930id_/https%3A//saanj.net/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saanj.net privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101194110id_/https%3A//saanj.net/help/privacy) for the most accurate reproduction.*
 
 # SAANJ.NET - Privacy Policy
 
