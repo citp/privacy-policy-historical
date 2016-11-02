@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326001955id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetradar.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102194105id_/http%3A//www.jetradar.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -97,4 +97,37 @@ Most browsers allow you to reject all cookies. For example, in Google Chrome you
 
 ## Closing Comments
 
-This document is constantly evolving to reflect our latest developments. We reserve the right to change it at any time.
+This document is constantly evolving to reflect our latest developments. We reserve the right to change it at any time. 
+
+## 1\. General information
+
+  * The present Confidentiality policy (hereinafter referred to as Policy) regulates the procedure of access to the information which the mobile application’s developer "Jetradar — Cheap Flights" (hereinafter referred to as Program) - Go Travel Un Limited, being a legal person under the legislation of Hong Kong special administrative region, registered by the Registrar of companies of Hong Kong special administrative region in August 18, 2011, Articles of Incorporation No.1658681, having its registered address at Suite 1504, 15/F, 34-37 Connaught Rd Central Hong Kong and its affiliated companies (hereinafter referred to as Rightholder) may receive in the process of functioning / use of the Program. 
+  * The fact of use of the Program by any means is considered as complete and unconditional User’s consent to the present Policy. Installing the Program you express your consent to the Policy and confirm your permission to use the information specified in the Policy in compliance with the given document. If you do not agree to the content of the Policy, please do not install the Program. 
+  * The present Policy is applicable only to the Program. The Rightholder does not control and is not liable for the services of third persons to which the user of the Program may go to via hyperlinks available in the Program including services of persons selling air tickets and websites of advertisers. 
+
+
+
+## 2\. Data acquisition and application 
+
+  * The Rightholder does not acquire, store, transmit or process user’s personal data. User’s personal data entered in the program are stored locally on the user’s device. Whereas a user makes a payment on the website of a travel agency, an air company or any other person carrying out air ticket sales, the Rightholder does not receive any information as for an air ticket bought, a route, a buyer, data of his/her documents, a number of a credit card etc., excluding depersonalized information as for a cost and a transaction’s identifier.
+  * Transmission of the above mentioned user’s personal data by means of the functional of the Program to third persons is authorized and carried out by the User directly. The User undertakes to take due measures to ensure safety of his/her own personal data. 
+  * In the case if use of separate functions of the Program or the Program in general is considered by User’s national legislation as prohibited activities or activities to carry out of which (by the Rightholder including) it is required to receive special permissions, to submit notifications etc., the User undertakes to refuse to use relevant functions of the Program and incurs complete liability for noncompliance with this condition. 
+  * The Program can transmit the following technical data to the Rightholder: 
+    * • IP-addresses, 
+    * • date and time of use, 
+    * • type and version of the operational system, 
+    * • producer and model of the User’s mobile device, 
+    * • data of the locale of the device,
+    * • version and identifier of the Program, 
+    * • statistics of use of different functions of the Program. 
+  * The User agrees that the Rightholder has a right to use the above mentioned data to reveal and correct errors in the Program, to form and use statistical reports, to carry out marketing research, to draw up analytical reports, for market targeting of advertisements. The User agrees that the Rightholder uses, acquires, stores, systematizes, deletes the above mentioned data and transmits the data to its affiliated persons and partners with the above mentioned purposes. 
+  * The User agrees that the Rightholder is entitled to apply different analytic systems for depersonalized data acquisition with the purpose of their further analysis, processing and providing to such third persons as advertisers and partners of the Rightholder in the form of statistical reports and analytic documents. 
+  * The User has been informed and expresses his consent that there is an advertising module in the composition of the program, by means of this module advertising information may be brought to the User’s notice. The User agrees to receive advertisements by the specified way. 
+
+
+
+## 3\. Other provisions 
+
+  * The Rightholder reserves to itself the exclusive right to introduce unilaterally amendments and additions into the text of the present Policy. New version of the Policy comes into force since the moment it is placed at the address <http://www.jetradar.com/privacy/> unless otherwise is stipulated by the new version of the Policy. 
+
+
