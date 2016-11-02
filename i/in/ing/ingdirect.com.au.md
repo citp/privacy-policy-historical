@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624014720id_/http%3A//www.ingdirect.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.com.au privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102053432id_/https%3A//www.ingdirect.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ING DIRECT
 
@@ -39,6 +39,18 @@ We, or other ING Group entities, may provide you with further information about 
 If you have provided an email address to us, we may contact you using that email address, including to provide you with information about ING DIRECT and the products and services that we and the ING Group offer. You may elect not to receive further information about us or our products and services by contacting us online, calling or writing to us.
 
 Our [Social Media User Terms](https://web.archive.org/pdf/Social_Media_User_Terms.pdf) apply to your use of ING DIRECT's social media sites or facilities. If you engage with us on any of our social media channels, you agree to be bound by these terms.
+
+### Home and contents insurance
+
+We may disclose certain personal information relevant to the provision of home and contents insurance products, including information that is disclosed on your loan application form, to Auto & General Services Pty Ltd (AGS), which issues and underwrites the general insurance products.
+
+AGS may use personal information collected from us, initially for the purposes of providing you with a premium estimate for that insurance product. If you decide to proceed with an application for the product, AGS may use, hold and disclose to third parties any personal information it collects about you, including from us, for the purposes of considering any application you make for an insurance product, providing those products and services to you, internal management and risk functions, enhancing AGS products and services and otherwise administering the relationship AGS has with you.
+
+If you don't provide personal information to us (or to AGS) it will not be possible for AGS to estimate your home and contents insurance premium.
+
+AGS's privacy policy contains information about how you may access the personal information AGS holds about you, seek correction of that information and how you may complain about a breach of your privacy by AGS. AGS’s privacy policy is available [here](https://ingdirect.disconline.com.au/branding/app/home/EXIG/legal/privacy.pdf) or you can email the AGS Privacy Office at [privacyquery@autogeneral.com.au](mailto:privacyquery@autogeneral.com.au) to obtain a copy.
+
+Some of the parties with which AGS exchanges personal information, may be located outside Australia in countries including Philippines, Singapore, Spain, Japan, United Kingdom, South Africa and the United States of America.
 
 ### Lender's Mortgage Insurance
 
