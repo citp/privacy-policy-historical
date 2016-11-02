@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sticksup.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630125047id_/http%3A//sticksup.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sticksup.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103001259id_/http%3A//sticksup.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sticks up
 
