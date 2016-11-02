@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417040751id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102222706id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -89,5 +89,3 @@ United States
 angela@untrainedhousewife.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
-
-[](http://www.grabgreenhome.com/kitchen-cleaning-solutions?acc=127&bannerid=17)
