@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225952id_/http%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102134731id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Nuffield Health
 
 This policy (and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our practices regarding your personal data and how we will treat it.
 
