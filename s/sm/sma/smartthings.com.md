@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324115703id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartthings.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102133323id_/https%3A//www.smartthings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartThings
 
