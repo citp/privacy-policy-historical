@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatisyourgame.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408140505id_/http%3A//whatisyourgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatisyourgame.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102041726id_/http%3A//whatisyourgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Chiropractor Center
 
