@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digufun.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323090646id_/http%3A//digufun.com/privacy.php%3FosCsid%3D0rt8mvl5fsh2mcrktatbu9sj70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digufun.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102072108id_/http%3A//digufun.com/privacy.php%3FosCsid%3D1554929tlkpus5rndp2amep1a7) for the most accurate reproduction.*
 
 # Toys Store
 
