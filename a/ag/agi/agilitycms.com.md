@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520091301id_/http%3A//agilitycms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102023531id_/http%3A//agilitycms.com/privacy-policy) for the most accurate reproduction.*
 
 # Agility CMS | Privacy Policy
 
-Your privacy is critically important to us.  At Agility Inc. (“ **Agility** ”) we have a few fundamental principles:
+Your privacy is critically important to us.  At Agility Inc (“ **Agility** ”) we have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
   * We don’t share your personal information with anyone except to comply with the law, provide you with our products and services, or protect our rights or the rights of other people.
