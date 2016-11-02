@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnelementsnow.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425090620id_/http%3A//www.learnelementsnow.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnelementsnow.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102181019id_/http%3A//www.learnelementsnow.com/blog/privacy) for the most accurate reproduction.*
 
 # Learn Adobe Elements | Privacy
 
