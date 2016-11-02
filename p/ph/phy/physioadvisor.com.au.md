@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the physioadvisor.com.au privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315153512id_/http%3A//www.physioadvisor.com.au/7651050/physioadvisor-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioadvisor.com.au privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102090533id_/http%3A//www.physioadvisor.com.au/privacy-policy-2) for the most accurate reproduction.*
 
-# PhysioAdvisor - Privacy Policy
-
-|  | 
+# Privacy Policy - PhysioAdivosr
 
 We at PhysioAdvisor.com, take the privacy of our visitors very seriously. Any personal information supplied to us will not be sold, passed on or disclosed to any third parties apart from our product suppliers (this is necessary for fulfillment of orders and will only occur when a product is purchased).
 
@@ -12,7 +10,7 @@ Information that is supplied to us voluntarily may be used to provide personalis
 
 Email addresses obtained voluntarily through the use of PhysioAdvisor will be used to send email updates periodically about any changes or updates to the site. We may also send email messages to you containing advertisements or promotions from time to time. We will NOT sell, rent, pass on or disclose these lists to any third party. You can unsubscribe from this list at any time.
 
-Cookies may be used by us to enhance user experience and provide easy access through the site. If you wish to turn off cookies, this can be done within your browser by going to 'Tools / Internet Options / Privacy' and selecting to block cookies. Or alternatively, refer to your browser instructions for further information about these functions. By choosing to turn off cookies, you may be unable to use certain features of PhysioAdvisor.com. The use of cookies does not involve the collection of any personal data.
+Cookies may be used by us to enhance user experience and provide easy access through the site. If you wish to turn off cookies, this can be done within your browser by going to ‘Tools / Internet Options / Privacy’ and selecting to block cookies. Or alternatively, refer to your browser instructions for further information about these functions. By choosing to turn off cookies, you may be unable to use certain features of PhysioAdvisor.com. The use of cookies does not involve the collection of any personal data.
 
 We may use general traffic, site usage and length-of-stay information in reports to advertisers and firms with which we have a business relationship. This information does not personally identify you.
 
@@ -22,7 +20,4 @@ Our website may contain links to other internet websites. Please be aware that w
 
 We use third-party advertising companies (including Google) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-We may occasionally update this Privacy Policy. This may occur at any time, without notice. 
-
-|   
----|---|---
+We may occasionally update this Privacy Policy. This may occur at any time, without notice.
