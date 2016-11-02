@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpolicerecords.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329133012id_/http%3A//localpolicerecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpolicerecords.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102102353id_/http%3A//localpolicerecords.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
