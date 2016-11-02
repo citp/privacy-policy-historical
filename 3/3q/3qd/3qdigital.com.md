@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3qdigital.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610100305id_/http%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3qdigital.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102022533id_/https%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
 
 # 3Q Digital | Privacy Policy
 
