@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niyd.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322004905id_/http%3A//niyd.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niyd.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102031854id_/http%3A//niyd.com/page/2.html) for the most accurate reproduction.*
 
 # Free Games - Addicting Games - Play Free Online Flash Games - Privacy Policy
 
