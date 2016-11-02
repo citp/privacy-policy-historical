@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewikiwizard.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415115045id_/http%3A//thewikiwizard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewikiwizard.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102011149id_/http%3A//thewikiwizard.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
