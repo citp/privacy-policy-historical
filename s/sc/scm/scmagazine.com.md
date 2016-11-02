@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152442id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102160920id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,7 +81,7 @@ Our Digital Offerings contain external links to other Digital Offerings includin
 
 **Google:**
 
-Haymarket uses all features of Google Analytics for Display Advertisers. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing. Haymarket uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. Haymarket and other third-party vendors, including Google, use cookies together to inform, optimize, and serve ads based on visitors past visits to our website. Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager at [www.google.com/ads/preferences/](https://web.archive.org/web/20160608152442id_/http://www.scmagazine.com/privacypolicy/www.google.com/ads/preferences/). 
+Haymarket uses all features of Google Analytics for Display Advertisers. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing. Haymarket uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. Haymarket and other third-party vendors, including Google, use cookies together to inform, optimize, and serve ads based on visitors past visits to our website. Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager at [www.google.com/ads/preferences/](http://cms.haymarketmedia.com/pages/www.google.com/ads/preferences/). 
 
 **Haymarket Magazines, Seminars, Events, Sites and Other Publications and Services**
 
@@ -119,7 +119,7 @@ We may buy or sell assets. If we are selling an asset or assets, including websi
 
 **Opt-out Option**
 
-Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](https://web.archive.org/web/20160608152442id_/http://www.scmagazine.com/privacypolicy/custserv@haymarketmedia.com)
+Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at [custserv@haymarketmedia.com](http://cms.haymarketmedia.com/pages/custserv@haymarketmedia.com)
 
 **Security and Encryption**
 
@@ -137,9 +137,9 @@ By using our Digital Offering, products or services, you signify your acceptance
 
 **Questions?**
 
-If you have any questions on our Privacy Policy, or questions about our handling of your Personal and/or Financial Information, you can contact us at [web@haymarketmedia.com](https://web.archive.org/web/20160608152442id_/http://www.scmagazine.com/privacypolicy/web@haymarketmedia.com) or write to us:
+If you have any questions on our Privacy Policy, or questions about our handling of your Personal and/or Financial Information, you can contact us at [web@haymarketmedia.com](http://cms.haymarketmedia.com/pages/web@haymarketmedia.com) or write to us:
 
 **Haymarket Media, Inc  
-114 W 26th Street  
-4th Floor  
+275 7th Avenue  
+10th Floor  
 New York, NY 10001.**
