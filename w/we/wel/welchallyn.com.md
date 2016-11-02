@@ -1,71 +1,57 @@
-> *The following text is extracted and transformed from the welchallyn.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325154256id_/https%3A//www.welchallyn.com/en/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchallyn.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102094631id_/https%3A//www.welchallyn.com/en/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_October 6, 2015_
+* #### Things You Do and Information You Provide to Us
 
-Welch Allyn is committed to protecting the security and privacy of your personal information. Therefore, we conduct our business in compliance with all applicable laws concerning data security and privacy. The policy outlined below was created to inform you as to how we will handle any information submitted on our site, and to detail the security of our site. Please read it carefully.
+We may collect and store User Information that is voluntarily provided to Us when You interact with the Services, including, without limitation, when You visit the Website or the Welch Allyn Home Website; set up or update a consumer account on the Welch Allyn Home App or set up or update a clinician account on the Welch Allyn Home Portal; set up an account on either RetinaVue Portal; activate or use Your Welch Allyn Home Device or sync it with the Welch Allyn Home App; transmit PHI through the Welch Allyn Home App or either RetinaVue Portal; complete surveys or upload pictures and/or messages in connection with Your interaction with the Services; and complete purchases and other commercial transactions (e.g., register warranties, request repairs or check repair status) via the Services. Specifically, for Users of the Welch Allyn Home App, the information You provide Us may include, without limitation, Your first name, last name, e-mail address, physical address, telephone number, gender, date of birth, certain health information, social media information, location (GPS) information, transmission data related to syncing a Welch Allyn Home Device to Your account (e.g., mobile device manufacturer, operating system, Welch Allyn Home App version) and information regarding how You use and interact with the Welch Allyn Home App). Specifically, for Users of the Welch Allyn Home Portal or either RetinaVue Portal, the information You provide Us may include, without limitation, Your facility or practice name, primary contact information, national provider identifier, and Your patients' or clients' first name, last name, gender, date of birth, and certain health information.
 
-Welch Allyn complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Welch Allyn has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Welch Allyn’s certification, please visit <http://www.export.gov/safeharbor/>.
+We use User Information for a variety of business purposes, including, without limitation, administering Your account; providing customer support; improving the quality and security of the Services; enhancing or creating products and services; verifying Your compliance with the Terms of Use and other obligations; and providing updates regarding Our products, the Services, the Privacy Policy, and other terms and conditions.
 
-  
-The privacy policy outlined below is applicable to all sites on the World Wide Web owned and operated by Welch Allyn.
+We also may send You information We think may be of interest to You, such as notices of conferences or trade shows, sweepstakes, incentive programs, and other promotions. Additionally, We may display relevant advertisements or send marketing communications We think may be relevant to You. You may opt out at any time by clicking on the unsubscribe link within any advertisement or marketing material You receive, sending Us an e-mail, or writing to Us at the address listed below, or as We may otherwise advise.
 
-### Topics Covered in this Privacy Policy
+* #### Information About Payments
 
-  * Information Collected
-  * Use of Collected Information
-  * Non-Personal Information Collected Automatically
-  * Security of Collected Information
-  * Use of Cookies
-  * Links to Other Sites
-  * Contacting Us
-  * Changes to This Policy
+  1. ##### Purchases Made on the Website
+
+If You transact business with Us by purchasing products on the Website, We collect information about the transactions. This includes Your payment information, such as Your name, telephone number, e-mail address, credit or debit card number, card type, expiration date, discount code, billing information, shipping information, and other related information. We use a third-party payment processor to facilitate any purchase made on the Website and Our vendor may retain limited information in order to respond to fulfillment questions or inquiries, communicate with You about Your account, and for other business purposes.
+
+  2. ##### Purchases Made on the Welch Allyn Home Website
+
+If You transact business with Us by purchasing Welch Allyn Home Devices on the Welch Allyn Home Website, We collect information about the transactions. This includes Your payment information, such as Your name, telephone number, e-mail address, credit or debit card number, card type, expiration date, discount code, billing information, shipping information, and other related information. For purposes of order fulfillment, We share some of that information with our distributors and they may retain limited information in order to track shipments, process returns, and for other business purposes. We use a third-party payment processor to facilitate any purchases made on the Welch Allyn Home Website and Our vendor may retain limited information in order to respond to fulfillment questions or inquiries, communicate with You about Your account, and for other business purposes.
 
 
 
-  
-Welch Allyn will not collect any personal information about you (i.e. your name, address, telephone number, or email address) unless you provide it to us voluntarily or unless otherwise permitted by applicable laws and regulations for the protection of your personal information.
+* #### Correspondence
 
-If you do not want your personal information collected, please do not submit it to us. If you have previously submitted this information and would like for us to remove it, please click on “Contact Us” located on the Welch Allyn homepage. We will make all reasonable attempts to delete your information from our files.
+If You contact Us via telephone, e-mail, fax, postal or courier service, any of the Services, social media, or in any other way, We may retain the correspondence and the information it contains. This information may be used to respond to Your inquiry, notify You of Our offerings, for marketing purposes, or for other business purposes. If You do not wish to receive notifications about Our offerings, or otherwise want to restrict the use of information You provide to Us, You may opt out at any time by clicking on the unsubscribe link within any advertisement or marketing material You receive, sending Us an e-mail, or writing to Us at the address listed below, or as We may otherwise advise.
 
-This website is not intended for persons under 13 years of age, and we do not knowingly solicit or collect personal information from or about children. Our products are intended for use by providers of healthcare, and we do not knowingly market our products or services to children.
+* #### Information From Other Sources
 
-###   
-Use of Collected Information
+We may combine information that You give Us with other information about You from other sources, such as vendors, service providers, business partners, affiliates, health care professionals, other third parties, and prior transactions and communications. This may include, but is not limited to, information from co-marketing partners, product referrals, and or other interactions. We also may combine that information with data that is publicly available and data from third parties. This information may be used to provide You with information that may be of interest to You. If You do not wish to receive these notifications, You may opt out at any time by clicking on the unsubscribe link within any advertisement or marketing material You receive, sending Us an e-mail, or writing to Us at the address listed below, or as We may otherwise advise.
 
-The information you supply will be used to respond to inquiries, notify you of promotions and announcements if you have previously provided your permission, or to supply you with requested information on products and services.
+We also may receive information about You from third-party social platforms such as Facebook, Twitter, LinkedIn, YouTube, or other platforms. When You interact with the Services through a third party social platform, You allow the platform to collect information about Your interaction with the Services and You allow us to access or collect information made available by the platform in accordance with its privacy policy. This information may be available from Your third-party social platform profile or account, or from cookies placed on Your browser by the third-party platform.
 
-Welch Allyn will not sell your personal information to third parties, unless stated at the time of collection. We may share information with our business partners.  
- 
+* #### Information You Provide About Others
 
-### Non-Personal Information Collected Automatically
+We may collect Personal Information about other individuals that You provide to Us, including on social media.
 
-There are some instances in which we may collect information about you that is not personally identifiable. For example, we may document the type of computer operating system you are using or the type of Internet browser you are operating.
+* #### Location-Based Services
 
-We will not sell your non-personal information to third parties, unless stated at the time of collection. We may share this non-personal information with our business partners.
+We may collect information related to the physical location of Your Welch Allyn Home Device and/or the mobile device on which the Welch Allyn Home App is installed, including, without limitation, GPS signals, device sensors, Wi-Fi access points, satellite, and cell tower IDs. We may collect this type of data to provide personalized location-based services, such as identifying a doctor with an office in Your Welch Allyn Home Device's location when the Welch Allyn Home App is accessed. We may aggregate this information to display usage trends. For example, We may aggregate search results and trends in a particular geographic area and display those aggregate results.
 
-###   
-Security of Collected Information
+We also may share the physical location of Your Welch Allyn Home Device and/or mobile device on which the Welch Allyn Home App is installed, combined with information about what advertisements You viewed and other information We collect, with Our marketing partners to enable them to provide You with more personalized content and to evaluate the effectiveness of advertising campaigns. Additionally, We may share de-identified location-based information for any purpose not prohibited by applicable law. In some instances, You may be permitted to allow or deny such uses and/or sharing of such information, but if You choose to deny permission for such uses and/or sharing, We and/or Our marketing partners may not be able to provide You with the applicable personalized services and content.
 
-Welch Allyn utilizes current technical security measures to safeguard your personal information from unauthorized access or disclosure with respect to business transactions being conducted through Welch Allyn websites.
+* #### Information Collected by Automated Means
 
-###   
-Use of Cookies
+We and Our third-party service providers may use a variety of technologies, such as cookies, web beacons, and other tracking technologies that automatically collect and store certain information whenever You interact with the Website or the Welch Allyn Home Website, view or click on advertisements, or visit Our social media pages. This includes log data that automatically records information about Your visit, such as Your browser type, operating system, the URL of the page that referred You, the different actions You performed, and the IP address You used to access pages on the Website or the Welch Allyn Home Website. We use this information to administer the Website and the Welch Allyn Home Website, analyze trends, provide You with an experience that is relevant to Your location based on the IP address, gather information about visitor movements, help diagnose potential problems with Our server, investigate actual or potential security incidents, and ensure the Website and the Welch Allyn Home Website are working properly. If You use the Welch Allyn Home App, We also automatically collect information related to Your mobile device operating system name and version, device manufacturer and model, mobile device identifier, browser language, and the version of the Welch Allyn Home App You are using. We use this information for purposes such as ensuring that the Welch Allyn Home App functions properly and to understand usage of the Welch Allyn Home App.
 
-When you view the Welch Allyn website we may store some data on your computer in the form of a “cookie” which may be used to create an improved website. If you do not want to receive cookies, please refer to your browser instructions and configure your Internet browser to erase all cookies from your hard drive, block all cookies, or receive a warning before a cookie is stored.
+We may assign Your computer or mobile device one or more cookies to facilitate access to the Services, and to personalize Your online experience. A cookie is a small text file that is stored on a user's computer or mobile device for record keeping purposes. Cookies can be either session cookies or persistent cookies. A flash cookie is similar to a cookie, but it can store more complex data in order to remember settings, preferences, and usage. Cookies can be either session cookies or persistent cookies. We may use both session cookies (which expire once You close Your browser) and persistent cookies (which stay on Your devices until You delete them) to: (1) allow You to use the Services without having to re-enter Your user name and password; (2) provide You with a more personal and interactive experience; (3) monitor usage of the Services; (4) manage the Services; and (5) improve the Services. These cookies may be delivered by Us or by third parties.
 
-###   
-Links to Other Sites
+We also work with other companies who use tracking technologies to serve ads on Our behalf across the Internet. These companies may collect information about Your interaction with Us to present You with opportunities to purchase Our products and services. Retargeting cookies also are used to present You with Welch Allyn advertising on other websites based on Your interaction with the Services.
 
-The Welch Allyn website may contain links to other websites. Although we try to link to other sites that embrace our high level of respect for your privacy, we cannot be certain of the content, security, or privacy practices used by these sites.
+The Website and the Welch Allyn Home Website use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google uses cookies to help Us analyze how visitors use the Website and the Welch Allyn Home Website. The information generated by the cookie about Your use of the Website and the Welch Allyn Home Website is generally transmitted to and stored on a Google server in the United States. In case of activation of IP anonymization, Google will, however, truncate/anonymize the last eight-bit segment of Your IP address beforehand within Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be transmitted to a Google server in the United States and truncated there. On behalf of the operator of the Website and the Welch Allyn Home Website, Google will use this information for the purpose of evaluating Your use of the Website and the Welch Allyn Home Website, compiling reports on Website and Welch Allyn Home Website activity, and providing the operator with other services relating to the Website, the Welch Allyn Home Website, and Users' Internet use. Google will not associate Your IP address with any other data held by Google.
 
-###   
-Contacting Us
+You may manage and opt out of Google's use of cookies by visiting Google's Ads settings. Alternatively, You may opt out by visiting the Network Advertising Initiative opt-out page: <http://www.networkadvertising.org/choices>. However, please note that if You do so, You may not be able to use the full functionality of the Website or the Welch Allyn Home Website.
 
-If you have any questions or comments about this privacy policy, please refer to the “Contact Us” page. We welcome any suggestions you may have.
-
-###   
-Changes to this Policy
-
-Please refer to this privacy policy periodically for any variations. Although we reserve the right to modify this policy at any time, we will post any major changes on this website.
+For further information on terms of use and data protection/privacy, please see <http://www.google.com/analytics/terms/us.html> or <http://www.google.com/analytics/learn/index.html>.
