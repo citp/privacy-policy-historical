@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workplace.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612151113id_/http%3A//www.workplace.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workplace.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102202717id_/http%3A//workplace.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
