@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051919id_/https%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102221338id_/https%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
 # Policies and Practices of the Comodo Companies - Privacy Statement
 
-This privacy statement describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., DNS.COM LLC and eVouch LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
+This privacy policy describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., and DNS.COM, LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
 
 **Information Collection**
 
 Personal information is collected from customers only after obtaining consent, which is obtained when customers are prompted for information when subscribing to the services, by using a Comodo website, downloading a product, or requesting further information. Personally-identifiable information is not collected when a user simply browses the website. Comodo may contact customers about offers and opportunities from Comodo or its business partners, to conduct surveys, and gather feedback. This privacy statement does not extend to any information that is beyond the control of Comodo.
 
-In California, IP addresses are considered personally identifiable information.
+If you are located in California, IP addresses are considered personally identifiable information
 
-In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply. Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
+In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply.  Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
+
+For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20161102221338id_/https%3A//www.comodo.com/repository/css-information-collection.php)
+
+**Children’s Online Privacy Protection Act Statement**
+
+Comodo sites, products and services are not directed to children under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that a child under the age of 13 has provided us with personally identifying information, we will take steps to delete such information from our files as soon as possible.
 
 **Services**
 
@@ -28,7 +34,7 @@ Comodo's websites use Google Analytics, a web analytics service provided by Goog
 
 **Re-Targeting**
 
-Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and allows the consumer to opt-out of such retargeting programs.
+Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising](http://www.networkadvertising.com/) .org/managing/opt_out.asp and allows the consumer to opt-out of such retargeting programs.
 
 **Log Files**
 
@@ -58,14 +64,14 @@ Comodo protects information both online and off-line. The transmission of inform
 
 **Permissions**
 
-With your express permission, certain Comodo applications, such as Comodo Mobile Security and Comodo Anti-Theft, allow the applications access to Global Positioning Data (GPS), cellular network, or other similar data. When requested by you, these applications also specifically access, modify and delete personal data and may send emails or messages from your device. Please review the EULA for each application and the associated Permissions to obtain further details for a particular application.
+With your express permission, certain Comodo applications, such as Comodo Mobile Security and Comodo Anti-Theft, allow the applications access to Global Positioning Data (GPS), cellular network, Google analytics or other similar data. When requested by you, these applications also specifically access, modify and delete personal data and may send emails or messages from your device. Please review the EULA for each application or product and the associated Permissions to obtain further details for a particular application.
 
 **Choice / Opt out**
 
-Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodo.com](mailto:optout@comodo.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services. 
+Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodo.com](mailto:optout@comodo.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services.
 
-**Amendments**
+**Amendments to this Privacy Policy**
 
-Comodo reserves the right to amend this privacy statement at any time. Any amendment will be made by posting the changes to the website. Customers must check the website periodically to be aware of any changes to the privacy statement. Your continued use of the website or Comodo product or service constitutes your acceptance of those changes.
+Comodo reserves the right to amend this privacy policy at any time. Any amendment will be made by posting the changes to the website. Customers must check the website periodically to be aware of any changes to the privacy statement. Your continued use of the website or Comodo product or service constitutes your acceptance of those changes.
 
-**Last Updated: January 14, 2013**
+**Last Updated: July 1, 2016**
