@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603023152id_/http%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102204330id_/https%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 uSwitch Limited (We or us) are committed to protecting and respecting your privacy
 
-This policy (together with our [terms and conditions](https://web.archive.org/about-us/terms-and-conditions) and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us through our website or via one of our call-centres, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting this website or providing your personal information to one of our call-centre operators, you are accepting and consenting to the practices described in this policy. Please note that this includes consenting to the processing of any sensitive personal information you provide, as described below.
+This policy (together with our [terms of use](https://web.archive.org/about-us/terms-of-use/) and any other documents referred to in it) sets out the basis on which any personal information we collect from you, or that you provide to us through our website or via one of our call-centres, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting this website or providing your personal information to one of our call-centre operators, you are accepting and consenting to the practices described in this policy. Please note that this includes consenting to the processing of any sensitive personal information you provide, as described below.
 
 We may amend this privacy policy at any time. Any changes we may make will be posted on this page, so please check back frequently. Your continued use of our website(s) after posting will constitute your acceptance of, and agreement to, any changes.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is uSwitch Limited of Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU. uSwitch Limited is part of the Zoopla Property Group Plc group of companies, comprising Zoopla Property Group Plc and its subsidiaries (collectively "Zoopla" and, individually, a "Zoopla Group Company").
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is uSwitch Limited of The Cooperage, 5 Copper Row, London, SE1 2LH. uSwitch Limited is part of the Zoopla Property Group Plc group of companies, comprising Zoopla Property Group Plc and its subsidiaries (collectively "Zoopla" and, individually, a "Zoopla Group Company").
 
 ## Information we may collect from you
 
@@ -42,7 +42,7 @@ We use personal information about you in connection with the following purposes:
   * Marketing:
 
     * to provide you with information about other goods and services we or other Zoopla Group Companies offer that are similar to those that you have already purchased or enquired about;
-    * to provide you, or permit other Zoopla Group Companies, or selected third parties to provide you, with information about goods or services that may interest you, provided that you have opted-in to receive those communications; 
+    * to provide you, or permit other Zoopla Group Companies, or selected third parties to provide you, with information about goods or services that may interest you; 
     * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and 
     * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them, which may be based on your activity on our website(s) or the website of another Zoopla Group Company.
   * Service Improvements and account management:
@@ -88,19 +88,17 @@ Our website uses cookies to distinguish you from other users of our website. Thi
 
 ## Opting Out of Collection of Information by Third Parties
 
-uSwitch group's third-party ad servers, ad network providers, and third-party advertisers (the Ad Providers) may provide you with advertisements that you may see on our website(s) or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Ad Providers may use cookies, web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. Use of these technologies by Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click here. 
+uSwitch group's third-party ad servers, ad network providers, and third-party advertisers (the Ad Providers) may provide you with advertisements that you may see on our website(s) or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Ad Providers may use cookies, web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. Use of these technologies by Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), click [here](http://www.youronlinechoices.eu/). 
 
 ## Your rights
 
-You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing by checking or unchecking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customer-services@uswitch.com](mailto:%20customer-services@uswitch.com)
+You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing by checking or unchecking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customer-services@uswitch.com](mailto:customer-services@uswitch.com)
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
 
 ## Access to information
 
 The Act gives you the right to access personal information held about you by uSwitch Ltd. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-Updated: 13 May 2016
 
 ## uSwitch Insurance Comparison Service Providers
 
@@ -109,3 +107,5 @@ uSwitch's home insurance comparison service is provided by Autonet Insurance Ser
 uSwitch's life insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the life insurance system you are also agreeing to ActiveQuote [Terms and Conditions](https://web.archive.org/life-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://web.archive.org/life-insurance/quote/privacy-no-header.aspx).
 
 uSwitch's health insurance comparisons service is provided by ActiveQuote Ltd who are authorised and regulated by the Financial Conduct Authority (501109). Registered Office; Cambrian Buildings, Mount Stuart Square, Cardiff CF10 5FL. By using the health insurance system you are also agreeing to ActiveQuote [Terms and Conditions](https://web.archive.org/health-insurance/quote/terms-no-header.aspx) and [Privacy Policy](https://web.archive.org/health-insurance/quote/privacy-no-header.aspx).
+
+Updated: 22 September 2016
