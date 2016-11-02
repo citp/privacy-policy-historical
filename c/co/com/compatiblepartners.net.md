@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510111657id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102092003id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
 
 # Compatible Partners - Privacy Policy
 
@@ -22,15 +22,15 @@ By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
 7\. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., P.O. Box 3640, Santa Monica, CA 90408 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., P.O. Box 241810, Los Angeles, CA 90024 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
-**What Information We Collect**
+## **What Information We Collect**
 
 The types of information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII).  PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any information that does not reveal your identity.  The following sections describe how your PII and non-PII are collected by us, and how we use such information.
 
-**How We Collect and Use Information**
+## **How We Collect and Use Information**
 
   * _Log Files._ Any time you visit any of our websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information.  For example, we may log your IP address for system administration purposes.  IP addresses are logged to track a user’s session.  This gives us an idea of which parts of our site users are visiting.  We do not share the log files externally.
   * _Cookies._ We use “cookies” to keep track of some types of information while you are visiting our website or using our services.  Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors.  They also allow us to save user preferences and track user trends.  We rely on cookies for the proper operation of our website; therefore if your browser is set to reject all cookies, the website will not function properly.  Users who refuse cookies assume all responsibility for any resulting loss of functionality.  We do not link the cookies to any PII.
@@ -46,7 +46,7 @@ The types of information that we collect fall under two general categories: pers
 
 
 
-**Disclosure of Your Information to Third Parties**
+## **Disclosure of Your Information to Third Parties**
 
   * _Disclosure to Your Matches._ As an integral part of providing the eHarmony service, we will disclose your profile information to your matches. Photos and other profile information posted by you will be available to subscribers that are matched with you. We may also make features available enabling your matches to share your profile information, including photos, with members of their social network(s). We never share your contact information with your matches.
   * _Disclosure By Law._ You acknowledge and agree that we may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend eHarmony's, or a third party’s, rights or property; or (3) protect someone’s health or safety, such as when harm or violence against any person (including you) is threatened.
@@ -57,7 +57,7 @@ The types of information that we collect fall under two general categories: pers
 
 
 
-**Third-Party Advertising**
+## **Third-Party Advertising**
 
 We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of Compatible Partners or third-party advertisers (e.g., retailers of goods or services).  These companies may employ cookies and web beacons to measure advertising effectiveness.  Any information that these third parties collect via cookies and web beacons is completely anonymous.  Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed [here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
@@ -65,23 +65,23 @@ Third Parties, with whom we partner to provide certain features on our site or t
 
 We will only share your information with third parties in the ways defined in this privacy statement.
 
-**Age Restrictions**
+## **Age Restrictions**
 
 Our age restrictions for different services are set forth in each applicable Terms and Conditions of Service.  We do not target our sites or services to children under the age of 13, and in compliance with the Children’s Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 13 will be purged from our database.
 
-**Security**
+## **Security**
 
 We have extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database.  These measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information.  We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and hence accept no liability for any unintentional disclosure.
 
-**Links to and Access from Other Sites**
+## **Links to and Access from Other Sites**
 
 You may be able to access your account or content of your account from third party sites, such as social networking sites, by way of various applications. These applications will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. The privacy policies and practices of such sites in connection with information you disclose on such sites may differ from the practices of eHarmony as set forth in this privacy statement, and you should review their policies and practices to ensure that the privacy of the information you submit on their site does not conflict with and is consistent with how you wish your information to be treated. Such sites may also place their own cookies or other files on your computer, collect data or solicit personal information from you. We are not responsible for the privacy policies or practices or the content of any other websites that may provide access to, or be linked to or from, this site, including that of any social networking sites and third party advertisers whose offerings require you to navigate away from our site
 
-**Social Media Features**
+## **Social Media Features**
 
 Our Web site includes Social Media Features, such as the Facebook Connect button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
-**Choice/Opt-Out**
+## **Choice/Opt-Out**
 
 You may use the following options for removing your information, including an unauthorized profile, from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.
 
@@ -89,14 +89,14 @@ You may use the following options for removing your information, including an un
   2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
 
 Compatible Partners   
-P.O. Box 3640, Santa Monica, CA 90408 USA
+P.O. Box 241810, Los Angeles, CA 90024 USA
 
   3. Select our Help link from your account home page and search our FAQ’s to find the answer you are looking for, or send us an e-mail and our Customer Care agents will be happy to assist you; or
   4. 2.4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
 
 
 
-**Updating Your Information**
+## **Updating Your Information**
 
 Compatible Partners provides users the following options for changing and modifying information previously submitted, including deletion of your personal information (but we may keep certain information for recordkeeping integrity, fraud prevention, enforcement of our terms, or to the extent it relates to a pending dispute).
 
@@ -106,16 +106,16 @@ Compatible Partners provides users the following options for changing and modify
 
 
 
-**Contacting the Website**
+## **Contacting the Website**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with any eHarmony websites, you can contact:
 
 Site Administrator  
 Compatible Partners  
-P.O. Box 3640, Santa Monica, CA 90408 USA  
+P.O. Box 241810, Los Angeles, CA 90024 USA  
 Tel: [(800) 673-3548](tel:1-800-673-3548)
 
-**Acceptance of Privacy Statement**
+## **Acceptance of Privacy Statement**
 
 Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service. **BY USING OUR WEBSITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY STATEMENT AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.**
 
@@ -125,4 +125,4 @@ Your continued use of any portion of our website following posting of the update
 
 **Effective Date**
 
-This privacy statement was last revised on May 2, 2013.
+This privacy statement was last revised on May 12, 2016.
