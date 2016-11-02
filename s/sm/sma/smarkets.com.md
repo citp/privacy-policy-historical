@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarkets.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424124203id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarkets.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102182846id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarkets
 
@@ -26,7 +26,7 @@ We encourage you to contact us at any time and we remind you of your right to op
 
 As a policy the Company will not disclose any personal information to anyone other than those employees or third parties that need access to your data to provide you with a service. 
 
-We may, however, be required by law or legal process to disclose your personal information to authorities such as the local Lotteries and Gaming Authority. 
+We may, however, be required by law or legal process to disclose your personal information to authorities such as the Malta Gaming Authority. 
 
 As part of the registration process, supplying your information details to authorised credit reference agencies for a soft search to confirm your identity and payment card details. 
 
