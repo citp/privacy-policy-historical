@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322082014id_/https%3A//www.principal.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102164553id_/https%3A//www.principal.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | The Principal Financial Group
 
@@ -117,10 +117,6 @@ We comply with all Federal regulations related to Do Not Call or Do Not Email re
 ### Links to other sites
 
 The privacy policy of the Principal Financial Group applies to this website, application, or online forms, and our producer websites that link to this privacy policy. Websites operated by non-Principal Financial Group related entities may link to and from our website, but they may have different privacy policies from the one described here. Visitors should read the privacy statements of other websites they visit for information regarding their specific privacy practices.
-
-### Certified secure site
-
-This website is tested and certified daily by McAfee, a dedicated technology security company. [More about our online security policies](https://www.principal.com/security-policies).
 
 ### Effective date
 
