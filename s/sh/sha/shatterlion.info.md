@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shatterlion.info privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322184024id_/http%3A//shatterlion.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shatterlion.info privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102085234id_/http%3A//shatterlion.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
