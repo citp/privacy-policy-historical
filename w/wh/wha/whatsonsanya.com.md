@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsonsanya.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501164446id_/http%3A//www.whatsonsanya.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonsanya.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102143447id_/http%3A//www.whatsonsanya.com/policy.php) for the most accurate reproduction.*
 
 # Policy - What's On Sanya
 
