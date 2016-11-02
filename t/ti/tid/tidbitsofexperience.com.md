@@ -1,102 +1,61 @@
-> *The following text is extracted and transformed from the tidbitsofexperience.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222120200id_/http%3A//www.tidbitsofexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbitsofexperience.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102135906id_/http%3A//www.tidbitsofexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tidbits of Experience
 
-Please click to share this. THANK YOU!
+### 1\. INTRODUCTION
 
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
+**1.1. PURPOSE OF POLICY.** Tidbits of Experience (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of Tidbits of Experience (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
+**1.2. NOTICE CONCERNING CHILDREN**
 
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
 
-This Privacy Policy governs the manner in which Tidbits of Experience collects, uses, maintains and discloses information collected from users (each, a “User”) of the  [http://www.tidbitsofexperience.com](http://www.tidbitsofexperience.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tidbits of Experience.
+### 2\. INFORMATION COLLECTION PRACTICES
 
-**Personal identification information**
+**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site. 
 
-**Non-personal identification information**
+**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-**Web browser cookies**
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us. 
 
-**How we use collected information**
+### 3\. USE AND SHARING OF INFORMATION
 
-Tidbits of Experience may collect and use Users personal information for the following purposes:
+**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To share your information with third parties_  
-We may share or sell information with third parties for marketing or other purposes.
+(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings. 
 
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
+(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
-**How we protect your information**
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+### 4\. SECURITY
 
-**Third party websites**
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
 
-**Advertising**
+**5.1. THIRD PARTY WEBSITES**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
 
-**Google Adsense**
+### 6\. CONTACT INFORMATION AND POLICY UPDATES
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+**6.1. CONTACTING US**
 
-**Changes to this privacy policy**
+If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site. 
 
-Tidbits of Experience has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**6.2. UPDATES AND CHANGES**
 
-**Your acceptance of these terms**
+We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Tidbits of Experience](http://www.tidbitsofexperience.com/)  
-[http://www.tidbitsofexperience.com](http://www.tidbitsofexperience.com/)  
-1969 Till Road, Orangeburg, SC 29115  
-8039970307  
-tidbitsofexperience@gmail.com
-
-This document was last updated on November 23, 2013
-
-  
-
-
-Please click to share this. THANK YOU!
-
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-  *  __
-
-
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well. 
