@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtoolbar.org privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506090016id_/http%3A//www.tvtoolbar.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtoolbar.org privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102110015id_/http%3A//www.tvtoolbar.org/privacy.html) for the most accurate reproduction.*
 
 # Free online TV around the world - Free TV.
 
