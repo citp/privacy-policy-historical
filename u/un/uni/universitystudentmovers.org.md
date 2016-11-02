@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitystudentmovers.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622043507id_/http%3A//universitystudentmovers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitystudentmovers.org privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102141932id_/http%3A//universitystudentmovers.org/privacy) for the most accurate reproduction.*
 
 # Privacy | University Student Movers
 
