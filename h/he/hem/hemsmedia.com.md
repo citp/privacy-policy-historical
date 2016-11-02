@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hemsmedia.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621025019id_/http%3A//hemsmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemsmedia.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102134828id_/http%3A//hemsmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Bulk Sms india ,Promotional Sms ,Enterprises Bulk Sms Hemsmedia
 
