@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906073402id_/http%3A//www.tower.com/help/help_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102024651id_/http%3A//tower.com/help/help_security.cfm) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Tower.com
 
@@ -242,6 +242,6 @@ Tower, Tower Records, TowerRecords.com, Tower.com, Tower CD Listening Station, T
 Copyright 2012. For personal noncommercial use only.   
 Tower.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.  
   
-To link directly to this page: http://www.tower.com/help/help_security.cfm  
+To link directly to this page: http://tower.com/help/help_security.cfm  
   
 Tower 2.0 Version 6.0.0
