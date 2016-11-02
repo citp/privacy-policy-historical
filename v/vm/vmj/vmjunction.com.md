@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmjunction.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620122754id_/http%3A//www.vmjunction.com/policies/vmjunction-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmjunction.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102022730id_/http%3A//www.vmjunction.com/policies/vmjunction-privacy-policy.html) for the most accurate reproduction.*
 
 # VMJunction Privacy Policy | Policies
 
