@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duramerica.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425080609id_/http%3A//www.duramerica.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duramerica.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102115538id_/http%3A//www.duramerica.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | DurAmerica Brokerage Inc | New York Insurance
 
