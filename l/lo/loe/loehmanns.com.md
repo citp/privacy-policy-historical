@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loehmanns.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loehmanns.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/privacy-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -9,13 +9,13 @@ Here are a few general principles to keep in mind as you read through this Polic
   * As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated.
   * This Policy is incorporated into, and part of, our Terms of Use , which govern your use of the Site as a whole.
   * Our Site is intended for users who are located in the United States, and this Policy will be interpreted according to U.S. law.
-  * Advertisements displayed to you on this Site and elsewhere may be customized to your interests and preferences based on your Personal Information and Site Usage Information collected through our Site unless you opt out by [clicking here](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/contact-us.php).
+  * Advertisements displayed to you on this Site and elsewhere may be customized to your interests and preferences based on your Personal Information and Site Usage Information collected through our Site unless you opt out by [clicking here](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/contact-us.php).
 
 
 
 #### Opt In and Opt Out
 
-You may have the right to opt in to or opt out of certain of our uses of your Personal Information. For example, when you are asked to provide Personal Information to us, you may have the opportunity to elect to, or not to, receive messages from us by e-mail or text message. You may tell us that you do not want to receive our promotional e-mails by clicking on an opt-out link within the e-mail you receive or please send us an [email here](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/contact-us.php). Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
+You may have the right to opt in to or opt out of certain of our uses of your Personal Information. For example, when you are asked to provide Personal Information to us, you may have the opportunity to elect to, or not to, receive messages from us by e-mail or text message. You may tell us that you do not want to receive our promotional e-mails by clicking on an opt-out link within the e-mail you receive or please send us an [email here](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/contact-us.php). Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.
 
 #### What information do we collect?
 
@@ -95,7 +95,7 @@ We may seek to send messages to you on your wireless device via short message se
 
 #### Your Access Rights
 
-You may review, update or modify certain of the Personal Information that is stored in your user account on the Site by [e-mailing us here](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/contact-us.php). If you send us requests via e-mail, we may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies.
+You may review, update or modify certain of the Personal Information that is stored in your user account on the Site by [e-mailing us here](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/contact-us.php). If you send us requests via e-mail, we may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies.
 
 #### Children and Privacy
 
@@ -111,7 +111,7 @@ If you correspond with us by using the "contact us" feature on our Site, you sho
 
 If you create an account on our Site, you will be asked to set up an account and provide an email address and password. You are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity. Please notify us of any unauthorized use of your password or account or any other breach of security.
 
-If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances. If we have your e-mail address, we may notify you by e-mail. **You consent to our use of e-mail as a means of such notification. If you prefer for us to use the U.S. Postal Service to notify you in this situation, please send us an email[here](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/contact-us.php)**
+If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances. If we have your e-mail address, we may notify you by e-mail. **You consent to our use of e-mail as a means of such notification. If you prefer for us to use the U.S. Postal Service to notify you in this situation, please send us an email[here](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/contact-us.php)**
 
 #### Consent to Processing
 
@@ -123,7 +123,7 @@ The Site may contain links, banners, widgets or advertisements that lead to othe
 
 #### Your California Privacy Rights
 
-If you are a California resident, you may make a request for information about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. Please send us an email [here](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/contact-us.php)
+If you are a California resident, you may make a request for information about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. Please send us an email [here](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/contact-us.php)
 
 #### Changes to this Privacy Policy
 
@@ -131,6 +131,6 @@ We may change this Policy from time to time. When we do, we will let you know by
 
 ### Contact Us
 
-If you have any questions or comments regarding our privacy practices, please send us an email [here](https://web.archive.org/web/20160323103640id_/http%3A//www.loehmanns.com/content/4/contact-us.php)
+If you have any questions or comments regarding our privacy practices, please send us an email [here](https://web.archive.org/web/20161102061040id_/https%3A//www.loehmanns.com/content/4/contact-us.php)
 
 _**Effective Date: February 28, 2014**_
