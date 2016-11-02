@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xclusivejams.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405032111id_/http%3A//www.xclusivejams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xclusivejams.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102162757id_/http%3A//www.xclusivejams.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xclusive Jams
 
