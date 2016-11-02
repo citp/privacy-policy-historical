@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblogalot.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629072056id_/http%3A//www.weblogalot.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogalot.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102235004id_/http%3A//www.weblogalot.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -390,4 +390,4 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 |  | 
 
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 3, 1 Buckingham St, Surry Hills, NSW 2010. 
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 2, 63 Miller Street, Pyrmont, NSW 2009. 
