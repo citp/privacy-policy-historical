@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftlist.org privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409174902id_/https%3A//minecraftlist.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftlist.org privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102185241id_/https%3A//minecraftlist.org/privacy-policy) for the most accurate reproduction.*
 
 # Minecraft server list - Minecraft List
 
@@ -10,7 +10,7 @@ We will take reasonable steps to protect the personal data under our control fro
 
 **Log Files**
 
-Like many other Web sites, MinecraftServers.org makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, MinecraftList.org makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**
 
