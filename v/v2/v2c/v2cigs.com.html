@@ -1,18 +1,36 @@
-<!--The following is the downloaded HTML source of the v2cigs.com privacy policy that was archived on 2016-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402080619id_/https%3A//www.v2.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the v2cigs.com privacy policy that was archived on 2016-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103165800id_/https%3A//www.v2.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en" class="no-js" dir="ltr"><!--<![endif]--><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta http-equiv="X-Frame-Options" content="sameorigin">
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9DMWG"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYDWVZbGwIIUlBbBwEC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K9DMWG"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYDWVZbGwIIUlBbBwEC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function l(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:l,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a};return g}function i(){return new r}function a(){p=!0,u=l.backlog={}}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o(),p=!1;l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Buy electronic cigarette kits from V2 today and receive our commitment to your privacy. ">
 <meta name="keywords" content="Privacy Policy">
 <meta name="author" content="">
+<meta name="fragment" content="!">
 
 
 
 <title>Privacy Policy | V2.com</title>
+
+<link rel="dns-prefetch" href="https://www.google.com">
+<link rel="dns-prefetch" href="https://v2cigs.whoson.com">
+<link rel="dns-prefetch" href="https://s.btstatic.com">
+<link rel="dns-prefetch" href="https://app.yieldify.com">
+<link rel="dns-prefetch" href="https://images.scanalert.com">
+<link rel="dns-prefetch" href="https://money.v2profit.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://seal.verisign.com">
+<link rel="dns-prefetch" href="https://www.gstatic.com">
+<link rel="dns-prefetch" href="https://js-agent.newrelic.com">
+<link rel="dns-prefetch" href="https://c.zmags.com">
+<link rel="dns-prefetch" href="https://bam.nr-data.net">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://creator.zmags.com">
+<link rel="dns-prefetch" href="https://geo.yieldify.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 <link rel="apple-touch-icon" sizes="76x76" href="https://www.v2.com/apple-favicon-76x76.png">
@@ -24,15 +42,14 @@
 
 <!-- Edit Add Canonical Tag --><!-- End Edit Add Canonical Tag -->
 <!-- Remove Block -->
-<script src="//cdn.optimizely.com/js/2371173421.js"></script>
+<!-- <script src="//cdn.optimizely.com/js/2371173421.js"></script> -->
 <base href="https://www.v2.com/help/privacy-policy">
-<link rel="alternate" href="https://www.v2.com/help/privacy-policy" hreflang="en-US">
 
 <!-- End Remove Block -->
 
 
 
-<link rel="stylesheet" href="/dist/assets/css/main.292b9521.css">
+<link rel="stylesheet" href="/dist/assets/css/main.019f53a5.css">
 <!-- HTML5 Shiv must execute before the <body> -->
 <script src="/dist/assets/js/modernizr.339920c3.js"></script>
 
@@ -43,7 +60,7 @@
 <!-- Respond.js for IE8 support of HTML5 elements and media queries Note: Need to add proxy if loading css from cdn or external domain -->
 
   <!--[if lt IE 9]>
-  <script src="/dist/assets/js/respond.ccdc1269.js"></script>
+  <script src="/dist/assets/js/respond.f8248301.js"></script>
   <![endif]-->
 
 
@@ -62,7 +79,7 @@
 	</div>
 </div> -->
 <nav class="navbar navbar-fixed-top navbar-default v2-navbar" ng-controller="V2StickyHeaderCtrl">
-  <div class="container">
+  <div class="container header-container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed pull-left menu-btn" aria-expanded="false" aria-controls="navbar" snap-toggle="left">
         <span class="sr-only">Toggle navigation</span>
@@ -74,16 +91,20 @@
       <a class="navbar-brand " href="https://www.v2.com/pro" data-img="https://www.v2.com/images/V2pro-300.png" data-title="V2 PRO IS THE GOLD STANDARD" data-description="V2 PRO is the world’s most advanced line of vaporizers, representing the ultimate in form and function.">
         <span class="icon icon-v2pro"></span>
       </a>
+      <a class="navbar-brand " href="https://www.v2.com/eliquids" target="_self" data-img="https://www.v2.com/images/v2red-25ml-bottle-eliquid-tab.png" data-title="V2 E-LIQUID MARKETPLACE" data-description="The world’s best e-liquids. Explore by brand, flavor or rating.">
+          <span class="icon icon-e-liquids-droplet force-fsize40"></span>
+        </a>
       <a class="navbar-brand hidden-xs" href="http://vaporpedia.v2.com" rel="nofollow" data-img="https://www.v2.com/images/vaporpedia-300.png" data-title="BECOME A VAPE EXPERT!" data-description="Read in-depth articles on vaporizer usage, electronic cigarette history and more on VaporPedia.">
         <span class="icon icon-vaporpedia"></span>
       </a>
-      <a class="navbar-secondary-link hidden-xs hidden-sm text-center" href="https://www.v2.com/help/shipping-options">
-        Free domestic shipping<br>on orders over $50
+      <a class="navbar-secondary-link hidden-xs hidden-sm text-center display-block" href="https://www.v2.com/help/shipping-options">
+        <!--<strong>FREE Shipping</strong><br>on all domestic orders-->
+		<strong class="new-free-shipping"><sup><em>New!</em></sup> FREE SHIPPING</strong><br>on all domestic orders
       </a>
       <div class="navbar-secondary-text hidden-xs hidden-sm text-center">
         18+ to purchase
       </div>
-      <div class="pull-right navbar-right">
+      <div class="pull-right navbar-right ng-scope" ng-controller="IdleController">
         <div class="cs-icon pull-left visible-xs hidden-sm hidden-md hidden-lg" ng-click="toggleCsIcons()">
           <div class="icon-chat"></div>
         </div>
@@ -159,7 +180,6 @@
             <div class="list-group-title">OUR BRANDS</div>
             <ul class="list-group">
               <li class="list-group-item"><a href="https://www.v2.com/pro">V2 Pro</a></li>
-              <li class="list-group-item"><a href="http://www.vaporcouture.com" rel="nofollow">Vapour Couture</a></li>
             </ul>
         </div>
         <div class="side-nav-section">
@@ -168,6 +188,7 @@
               <li class="list-group-item"><a href="https://www.v2.com/help/order-status">Order Status</a></li>
               <li class="list-group-item"><a href="https://www.v2.com/help/shipping-options">Shipping Options</a></li>
               <li class="list-group-item"><a href="https://www.v2.com/help/return-policy">Return Policy</a></li>
+			  <li class="list-group-item"><a href="https://www.v2.com/help/warranty">Warranty</a></li>
               <li class="list-group-item"><a href="https://www.v2.com/help/faq">FAQ</a></li>
             </ul>
         </div>
@@ -202,19 +223,21 @@
     </div>
     <div class="row text-center navbar-footer visible-xs visible-sm">
         <div class="col-xs-6 col-sm-6 minors">18+ to purchase</div>
-        <div class="col-xs-6 col-sm-6 free-shipping">Free domestic shipping<br>on orders over $50</div>
+        <div class="col-xs-6 col-sm-6 free-shipping"><strong class="new-free-shipping"><sup><em>New!</em></sup> FREE Shipping</strong><br>on all domestic orders</div>
     </div>
-    <div class="row">
+    <div class="row ">
         
 <div class="holiday-messaging span-24 last paper-effect hide">
     <div class="msg" style="background-color:;padding:7px 15px"><p style="color:"></p></div>
 </div>
-  </div>
+    </div>
 </div>
 <div class="container">
     <div class="row hidden-xs hidden-sm desktop-branding header-bottom-border no-margin no-gutter">
         <div class="col-md-2 col-lg-2">
-            <a href="https://www.v2.com" class="logo-link"><span class="icon icon-v2"></span></a>
+            <a href="https://www.v2.com" class="logo-link">
+                <span class="icon icon-v2"></span>
+            </a>
         </div>
         <div class="col-md-10 col-lg-10">
             <div class="row vertical-align-center">
@@ -301,7 +324,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="/learn/critic-reviews">Industry Reviews</a>
+                                    <a href="/learn/industry-reviews">Industry Reviews</a>
                                 </li>
                                 <li>
                                     <a href="/learn/v2-eliquid-flavors">Flavors</a>
@@ -316,7 +339,7 @@
                                     <a href="http://forum.v2.com/" rel="nofollow">Forum</a>
                                 </li>
                                 <li>
-                                    <a href="/learn/news">V2 News</a>
+                                    <a href="/blog/category/e-cig-news-politics/">V2 News</a>
                                 </li>
                                 <li>
                                     <a href="http://money.v2profit.com/" rel="nofollow">Affiliate Program</a>
@@ -335,35 +358,35 @@
                         <li>
                             <div class="dropdown" dropdown="">
                               <button class="btn btn-default dropdown-toggle" type="button" aria-expanded="true" dropdown-toggle="">
-                                <img src="https://www.v2.com/images/flags/us.gif" class="flag"> 
+                                <span class="flag-icon flag-icon-us flag"></span>
                                 <span class="caret"></span>
                               </button>
-                              <ul class="dropdown-menu" role="menu">
+                              <ul class="dropdown-menu pull-right" role="menu">
                                 <li>
-                                    <a href="https://www.v2.com"><img src="https://www.v2.com/images/flags/us.gif" class="flag">US: $</a>
+                                    <a href="https://www.v2.com"><span class="flag-icon flag-icon-us flag"></span><span>US: $</span></a>
                                     <ul>
                                         <li><a href="https://www.v2.com">English</a></li>
                                     </ul>
                                 </li>
 
                                 <li>
-                                    <a href="http://www.vapour2.eu" rel="nofollow" target="_blank"><img src="https://www.v2.com/images/flags/europeanunion.gif" class="flag">EU: €</a>
+                                    <a href="https://www.vapour2.eu" rel="nofollow" target="_blank"><span class="flag-icon flag-icon-eu flag"></span><span>EU: €</span></a>
                                     <ul>
                                         <li><a href="http://fr.vapour2.eu" rel="nofollow" target="_blank">Français</a></li>
                                         <li><a href="http://de.vapour2.eu" rel="nofollow" target="_blank">Deutsch</a></li>
-                                        <li><a href="http://www.vapour2.eu" rel="nofollow" target="_blank">English</a></li>
+                                        <li><a href="https://www.vapour2.eu" rel="nofollow" target="_blank">English</a></li>
                                     </ul>
                                 </li>
 
                                 <li>
-                                    <a href="http://www.buyv2cigs.co.uk" rel="nofollow"><img src="https://www.v2.com/images/flags/gb.gif" class="flag">UK: £</a>
+                                    <a href="http://www.buyv2cigs.co.uk" rel="nofollow"><span class="flag-icon flag-icon-gb flag"></span><span>UK: £</span></a>
                                     <ul>
                                         <li><a href="http://www.buyv2cigs.co.uk" target="_blank" rel="nofollow">English</a></li>
                                     </ul>
                                 </li>
 
                                 <li>
-                                    <a href="http://www.vapour2.cz" target="_blank" rel="nofollow"><img src="https://www.v2.com/images/flags/cz.gif" class="flag">CZ: Kč</a>
+                                    <a href="http://www.vapour2.cz" target="_blank" rel="nofollow"><span class="flag-icon flag-icon-cz flag"></span><span>CZ: Kč</span></a>
                                     <ul>
                                         <li><a href="http://www.vapour2.cz" target="_blank" rel="nofollow">Czech</a></li>
                                         <li><a href="http://en.vapour2.cz" target="_blank" rel="nofollow">English</a></li>
@@ -523,7 +546,7 @@
                                 <a href="https://www.facebook.com/V2Cigs" alt="V2 Faceboook Page" rel="nofollow"><span class="icon icon-facebook"></span></a>
                                 <a href="http://www.twitter.com/v2cigs" alt="V2 Twitter Feed" rel="nofollow"><span class="icon icon-twitter"></span></a>
                                 <a href="https://www.pinterest.com/v2cigs/" alt="V2 Pinterest Page" rel="nofollow"><span class="icon icon-pinterest"></span></a>
-                                <a href="http://www.youtube.com/user/V2cigsvideos" alt="V2 Youtube Page" rel="nofollow"><span class="icon icon-youtube-btn"></span></a>
+                                <a href="https://vimeo.com/v2cigs" alt="V2 Vimeo Page" rel="nofollow"><span class="icon icon-youtube-btn"></span></a>
                             </div>
                         </div>
                     </div>
@@ -534,7 +557,12 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <p>YOU MUST BE OF LEGAL SMOKING AGE TO BUY AND/OR USE ANY V2 PRODUCT.</p>
                     <p class="hidden-xs">V2 products are not for use by persons under legal smoking age. Keep out of reach of children and pets. If swallowed, this product can present a choking hazard. Nicotine is addictive and can be toxic if inhaled or ingested and may cause irritation if it comes into contact with your eyes or skin. Wash immediately with soap and water upon contact. Like other products with nicotine, you should not use this product if you are pregnant or breastfeeding, have or are at risk of heart disease, high blood pressure, diabetes, if you are taking medicines for depression or asthma or if you are allergic to nicotine, propylene glycol, or any combination of inhalants. Discontinue use and consult a physician if you experience symptoms of nicotine misuse such as nausea, vomiting, dizziness, diarrhea, weakness or rapid heartbeat. This product does not treat, diagnose or cure any disease, physical ailment or condition. This product is not marketed for use as a smoking cessation product and is not intended for use by non-smokers. This product and the statements made herein have not been evaluated by the FDA, or any other health or regulatory authority.</p>
-                    <p class="text-center" style="font-size: 14px;">WARNING: Using this product will expose the user to chemicals, including nicotine, known to the State of California to cause cancer and birth defects or other reproductive harm.</p>
+                    <div ng-controller="Prop65Ctrl">
+                         <p ng-show="prop65()" style="font-size: 14px;">WARNING: Use of this product will expose you to nicotine, a chemical known to the State of California to cause birth defects or other reproductive harm and to formaldehyde and acetaldehyde, chemicals known to the State of California to cause cancer.</p>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <p>VMR Products LLC is the registered owner or licensee of the following patents: <a href="https://www.v2.com/learn/patents">U.S. Patents &amp; Pending Patent Applications</a></p>
                 </div>
             </div>
             <div class="row hidden-xs desktop-footer">
@@ -572,7 +600,7 @@
                                             <a href="https://www.v2.com/help/warranty">Lifetime Warranty</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="https://www.v2.com/help/b2b-sales">Retail &amp; Wholesale</a>
+                                            <a href="https://www.v2.com/learn/b2b-sales">Retail &amp; Wholesale</a>
                                         </li>
                                         <li class="childLinks">
                                             <a href="http://money.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
@@ -582,9 +610,6 @@
                                         </li>
                                         <li class="childLinks">
                                             <a href="https://www.v2.com/help/terms-of-use">Terms of Use</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/sitemap">Sitemap</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -670,7 +695,7 @@
                                             <a href="https://www.v2.com/help/warranty">Lifetime Warranty</a>
                                         </li>
                                         <li class="childLinks">
-                                            <a href="https://www.v2.com/help/b2b-sales">Retail &amp; Wholesale</a>
+                                            <a href="https://www.v2.com/learn/b2b-sales">Retail &amp; Wholesale</a>
                                         </li>
                                         <li class="childLinks">
                                             <a href="http://money.v2profit.com/" target="_blank" rel="nofollow">Affiliate Program</a>
@@ -680,9 +705,6 @@
                                         </li>
                                         <li class="childLinks">
                                             <a href="https://www.v2.com/help/terms-of-use">Terms of Use</a>
-                                        </li>
-                                        <li class="childLinks">
-                                            <a href="https://www.v2.com/sitemap">Sitemap</a>
                                         </li>
                                     </ul>
                             </nav>
@@ -740,7 +762,7 @@
                                     <p>
                                     You must be 18 years or older to enter our site. By entering the site, you certify that you are over the age of 18, and you acknowledge you have read and understand the following California Proposition 65
                                     </p>
-                                    <p><strong>Warning:</strong> This product contains nicotine, a chemical known to the state of California to cause birth defects or other reproductive harm.
+									<p><strong>WARNING:</strong> Use of this product will expose you to nicotine, a chemical known to the State of California to cause birth defects or other reproductive harm and to formaldehyde and acetaldehyde, chemicals known to the State of California to cause cancer.
                                     </p>
                                 </div>
                                 <div ng-show="{{user.state === 'other'}}" class="modal-body-content">
@@ -800,7 +822,7 @@
     <div class="breakpoint device-lg visible-lg"></div>
 </div>
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/dist/assets/js/main.ad24b3a4.js"></script>
+<script src="/dist/assets/js/main.5cbdf50a.js"></script>
 <!-- Remove Block -->
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K9DMWG"
@@ -814,13 +836,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <!-- End Remove Block -->
 <script src="https://www.google.com/recaptcha/api.js?onload=vcRecaptchaApiLoaded&amp;render=explicit" async="" defer=""></script>
+
+
+
 <!-- Remove Block -->
 <iframe style="width:1px;" height="1px" src="https://money.v2profit.com/track.php"></iframe>
 <!-- End Remove Block -->
 <!--  -->
 <br class="Clear">
-<!-- REMOTE_ADDR............69.22.154.234
-HTTP_TRUE_CLIENT_IP....207.241.229.223  -->
+<!-- REMOTE_ADDR............24.143.193.223
+HTTP_TRUE_CLIENT_IP....207.241.229.212  -->
 <!-- Include visitor tracking code (if any) -->
 <!-- Remove Block --><script async="true" type="text/javascript" src="https://www.v2.com/index.php?action=tracking_script"></script><!-- End Remove Block --><!-- Start Tracking Code for analytics_googleanalytics -->
 
@@ -829,6 +854,7 @@ HTTP_TRUE_CLIENT_IP....207.241.229.223  -->
 <!-- End Tracking Code for analytics_googleanalytics -->
 
 
+<!-- Remove Block --><!-- End Remove Block -->
 
 
 
@@ -842,5 +868,5 @@ HTTP_TRUE_CLIENT_IP....207.241.229.223  -->
 <!-- Remove Block -->
 <script>$( document ).ready(function() {var whosOnLoad = function() {customWhoson();if(typeof sWOTrackPage=='function'){sWOTrackPage();}};$.cachedScript('//v2cigs.whoson.com/include.js?domain=www.v2.com').done(whosOnLoad);});</script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e8d3a289f4","applicationID":"18619005","transactionName":"blEDYRQCDxIEUEcNClcbIkAVFw4MSkNSAwBKGw==","queueTime":0,"applicationTime":227,"atts":"QhYAF1wYHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e8d3a289f4","applicationID":"18619005","transactionName":"blEDYRQCDxIEUEcNClcbIkAVFw4MSkNSAwBKGw==","queueTime":0,"applicationTime":228,"atts":"QhYAF1wYHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
