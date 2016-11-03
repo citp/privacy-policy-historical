@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402082318id_/http%3A//platinumlive.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumlive.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104001557id_/http%3A//platinumlive.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
 
 # PlatinumLive - Live Sex Web Cam Video Chat - Free Memberships, XXX Live Sex Girls
 
@@ -9,7 +9,7 @@
   
 
 
-## for Platinum Live Network of Websites
+## for platinumlive.com Network of Websites
 
   
 
@@ -19,9 +19,9 @@
 ## Last Updated: January 14th 2013
 
   1. General
-    1. The operative parties referred to in this policy are Platinum Live (hereinafter referred to as "COMPANY"), and you, the user of this site.
+    1. The operative parties referred to in this policy are platinumlive.com (hereinafter referred to as "COMPANY"), and you, the user of this site.
 
-      1. COMPANY, is the publisher and operator of the web sites [www.platinumlive.com](http://www.platinumlive.com/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Platinum Live d/b/a [www.platinumlive.com](http://www.platinumlive.com/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [www.platinumlive.com](http://www.platinumlive.com/).
+      1. COMPANY, is the publisher and operator of the web sites [WWW.PLATINUMLIVE.COM](http://www.platinumlive.com/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to platinumlive.com d/b/a [WWW.PLATINUMLIVE.COM](http://www.platinumlive.com/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [WWW.PLATINUMLIVE.COM](http://www.platinumlive.com/).
 
       2. You, the User - As the user of these Websites, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Websites shall be referred to in applicable second-person pronouns.
 
@@ -44,7 +44,7 @@ Visitors to our site and services will have multiple manners of interactivity wi
   4. How we collect information from you
     1. Passive Collection - We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, in order to determine the User’s geographic location as a means of fraud prevention.
 
-    2. Active Collection - we collect information from you when you complete registration forms to sign up for your membership on our Website. Locations for such collection are registration pages, such as <http://www.platinumlive.com/register.php> but we reserve the right to add additional information collection portals.
+    2. Active Collection - we collect information from you when you complete registration forms to sign up for your membership on our Website. Locations for such collection are registration pages, such as <http://www.platinumlive.com/members/?c2hvdz1tYW5hZ2VjcmVkaXQ=> but we reserve the right to add additional information collection portals.
 
   5. How we use your information
 
@@ -68,7 +68,7 @@ It is our policy not to use or share the personal information about Visitors or 
 
   7. Transmittals from Us
 
-We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [support@platinumlive.com](mailto:support@platinumlive.com), or by clicking the opt-out link at the bottom of these communications. If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [support@platinumlive.com](mailto:support@platinumlive.com). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
+We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [](mailto:), or by clicking the opt-out link at the bottom of these communications. If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [](mailto:). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
 
   8. Public Forums, Member Directories, and Internal Messaging:
     1. Public Forums - at the time of the instatement of this Policy, we offer public forums, which provide services that allow members to post messages to the public and the membership at large. In order to participate in a public forum, we may require information from our users such as a user name and password. Any information posted to a Forum should immediately be considered to be public information.
@@ -83,11 +83,11 @@ We take measures, including data encryption, firewall, and the use of other in-h
 
   10. How to Access or Modify Your Information.
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [support@platinumlive.com](mailto:support@platinumlive.com).
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [](mailto:).
 
   11. Where to Direct Questions About Our Privacy Policy.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [support@platinumlive.com](mailto:support@platinumlive.com).
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [](mailto:).
 
   12. E-Mail Removal
 
