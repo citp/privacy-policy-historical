@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supernimbus.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231336id_/http%3A//supernimbus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supernimbus.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104002101id_/http%3A//supernimbus.com/privacy) for the most accurate reproduction.*
 
 # Supernimbus
 
