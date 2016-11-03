@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dplsf.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331005952id_/http%3A//allsportsz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dplsf.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103130902id_/http%3A//allsportsz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sporting Goods Online | Shop Outdoor Gear Onlime | Team Apparel NFL MLB NBA NCAA
 
