@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627103826id_/http%3A//www.openlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103215451id_/http%3A//www.openlogic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OpenLogic
+# Privacy Policy | Rogue Wave
 
-Rogue Wave's Privacy Policy covers the collection, use and disclosure of information that may be collected by Rogue Wave whenever you interact with Rogue Wave, e.g., when you visit our websites, when you purchase Rogue Wave products or services, or when you call our sales or support associates (collectively, the "Service"). Please regularly review our Privacy Policy.
+Rogue Wave Privacy Policy covers the collection, use and disclosure of information that may be collected by Rogue Wave whenever you interact with Rogue Wave, e.g., when you visit our websites, when you purchase Rogue Wave products or services, or when you call our sales or support associates (collectively, the "Service"). Please regularly review our Privacy Policy.
 
 ### Notice and Disclosure
 
@@ -12,7 +12,7 @@ We will not sell, share, or rent personal information to others. We may periodic
 
 To help us provide superior service, your personal information may be shared with legal entities within the Rogue Wave group globally who will take steps to safeguard it in accordance with this privacy policy.
 
-There may also be times when it may be advantageous for Rogue Wave to make certain personal information about you available to companies that Rogue Wave has a strategic relationship with or that perform work for Rogue Wave to provide products and services to you on our behalf. These companies are also obligated to protect your personal information in accordance with Rogue Wave's policies.
+There may also be times when it may be advantageous for Rogue Wave to make certain personal information about you available to companies that Rogue Wave has a strategic relationship with or that perform work for Rogue Wave to provide products and services to you on our behalf. These companies are also obligated to protect your personal information in accordance with Rogue Wave policies.
 
 We will, at our discretion, disclose information if we believe that we are required to do so by law, that such disclosure is necessary to protect us from legal liability or that we should do so to protect the integrity of the Service.
 
