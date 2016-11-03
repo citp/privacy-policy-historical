@@ -1,101 +1,92 @@
-<!--The following is the downloaded HTML source of the rollbar.com privacy policy that was archived on 2016-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328003343id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rollbar.com privacy policy that was archived on 2016-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103144041id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><head>
-    
-  
-  <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/EjPSytCQjKkLitMZZFeOZftGIi8OVAAi/analytics.min.js"></script><script crossorigin="" src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.nojson.min.js"></script><script type="text/javascript">
-  var _rollbarConfig = {
-    globalAlias: "_rollbar",
-    rollbarJsUrl: "//d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.nojson.min.js",
-    accessToken: "326ccb82067342a69d9ed1c69b0c47c2",
-    captureUncaught: true,
-    uncaughtErrorLevel: "error",
-    endpoint: "https://api.rollbar.com/api/1/",
-    payload: {
-      environment: "production",
-      context: "about/privacy",
-      server: {
-        host: "dal05web2"
-      },
-      client: {
-        javascript: {
-          source_map_enabled: true,
-          code_version: "fee7d96ce431c462a73aa2de58f2f5469596844a",
-          guess_uncaught_frames: true
+<!DOCTYPE html><html><head>
+    <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/EjPSytCQjKkLitMZZFeOZftGIi8OVAAi/analytics.min.js"></script><script crossorigin="" src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.nojson.min.js"></script><script type="text/javascript">
+    var _rollbarConfig = {
+        globalAlias: "_rollbar",
+        rollbarJsUrl: "//d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.nojson.min.js",
+        accessToken: "d7448abbab144c0fa89730a4db5a256d",
+        captureUncaught: true,
+        captureUnhandledRejections: true,
+        uncaughtErrorLevel: "error",
+        endpoint: "https://api.rollbar.com/api/1/",
+        payload: {
+            environment: "production",
+            context: "/privacy/"
+            // client: {
+            //     javascript: {
+            //         source_map_enabled: true,
+            //         code_version: "a5828f5686d9238a4e6a9b089a877df2f0c30a75",
+            //         guess_uncaught_frames: true
+            //     }
+            // }
         }
-      }
-    }
-  };
-  !function(r){function o(e){if(t[e])return t[e].exports;var n=t[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,o),n.loaded=!0,n.exports}var t={};return o.m=r,o.c=t,o.p="",o(0)}([function(r,o,t){"use strict";var e=t(1).Rollbar,n=t(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.min.js";var a=e.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,o){"use strict";function t(r){return function(){try{return r.apply(this,arguments)}catch(o){try{console.error("[Rollbar]: Internal error",o)}catch(t){}}}}function e(r,o,t){window._rollbarWrappedError&&(t[4]||(t[4]=window._rollbarWrappedError),t[5]||(t[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,t),o&&o.apply(window,t)}function n(r){var o=function(){var o=Array.prototype.slice.call(arguments,0);e(r,r._rollbarOldOnError,o)};return o.belongsToShim=!0,o}function a(r){this.shimId=++s,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var o=a;return t(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var t=this,e="scope"===r;e&&(t=new o(this));var n=Array.prototype.slice.call(arguments,0),a={shim:t,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),e?t:void 0})}function l(r,o){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){var t=o.addEventListener;o.addEventListener=function(o,e,n){t.call(this,o,r.wrap(e),n)};var e=o.removeEventListener;o.removeEventListener=function(r,o,t){e.call(this,r,o&&o._wrapped?o._wrapped:o,t)}}}var s=0;a.init=function(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShimQueue=[],r._rollbarWrappedError=null,o=o||{};var i=new a;return t(function(){if(i.configure(o),o.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var t,a,s="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<s.length;++t)a=s[t],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return r[e]=i,i})()},a.prototype.loadFull=function(r,o,e,n,a){var i=function(){var o;if(void 0===r._rollbarPayloadQueue){var t,e,n,i;for(o=new Error("rollbar.js did not load");t=r._rollbarShimQueue.shift();)for(n=t.args,i=0;i<n.length;++i)if(e=n[i],"function"==typeof e){e(o);break}}"function"==typeof a&&a(o)},l=!1,s=o.createElement("script"),u=o.getElementsByTagName("script")[0],p=u.parentNode;s.crossOrigin="",s.src=n.rollbarJsUrl,s.async=!e,s.onload=s.onreadystatechange=t(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{p.removeChild(s)}catch(r){}l=!0,i()}}),p.insertBefore(s,u)},a.prototype.wrap=function(r,o){try{var t;if(t="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(o){throw o._rollbarContext=t()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<u.length;++p)a.prototype[u[p]]=i(u[p]);r.exports={Rollbar:a,_rollbarWindowOnError:e}},function(r,o){"use strict";r.exports=function(r,o){return function(t){if(!t&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=o||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
-  </script>
+    };
+    !function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);
+    </script>
 
-  
     <meta name="google-site-verification" content="nPf9fY-s7QK8Xvf_yEQn7EKKkp7lYEDuVwRie_9dGTg">
     <meta name="msvalidate.01" content="044B6E018C2D806C378C09993CDEF8D5">
 
-  
     <script src="//cdn.optimizely.com/js/2190651848.js"></script>
 
-  
-
-
-
     <title>Privacy Policy - Rollbar</title>
-    
-  <meta name="description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, Android, and iOS libraries available.">
-  <meta name="keywords" content="error tracking, error reporting, exception tracking, log analysis, log monitoring, log aggregation, crash reporting, splunk alternative, airbrake alternative">
 
-  <meta property="og:title" content="Rollbar">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://rollbar.com">
-  <meta property="og:site_name" content="Rollbar">
-  <meta property="og:description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, Android, iOS libraries available.">
+    <meta name="description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, Android, iOS libraries available.
+">
+    <meta name="keywords" content="error tracking, error reporting, exception tracking, log analysis, log monitoring, log aggregation, crash reporting, splunk alternative, airbrake alternative">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta property="og:title" content="Rollbar">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://rollbar.com">
+    <meta property="og:site_name" content="Rollbar">
+    <meta property="og:description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, Android, iOS libraries available.
+">
+
+
     <meta charset="utf-8">
-    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
     
-  
-    
     <noscript>
-      <style>body{display:inherit !important;}</style>
+        <style>body{display:inherit !important;}</style>
     </noscript>
     <script type="text/javascript">
-      if (self === top) {
-        var antiClickjack = document.getElementById("antiClickjack");
-        antiClickjack.parentNode.removeChild(antiClickjack);
-       } else {
-        top.location = self.location;
-       }
+        if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
     </script>
 
-
-    <link rel="stylesheet" href="//d37gvrvc0wt4s1.cloudfront.net/static/homepage/css/styles.min.css?ts=1458943383v8">
-
     
-  </head>
-<!--[if IE 9]>
-  <body class="ie9">
-<![endif]-->
-<!--[if gt IE 9]><!-->
+
+    <link rel="stylesheet" href="/assets/homepage/css/main.css">
+    
+
+    <link rel="canonical" href="https://rollbar.com/privacy/">
+    <link rel="alternate" type="application/rss+xml" title="Rollbar - Error Tracking Software for Ruby, Python, JavaScript, more" href="https://rollbar.com/blog/feed.xml">
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
+</head>
+
   <body>
-<!--<![endif]-->
-    <!--[if lt IE 9]>
-      <div class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-    <![endif]-->
-    
+    <script>
+try {
+    !function(){function e(e){var t="; "+document.cookie,n=t.split("; "+e+"=");if(2==n.length)return n.pop().split(";").shift()}var t=e("rollbar_promo"),n=e("rollbar_promo_banner");if(t&&n){n=n.replace(/^"?([^"]+)"?$/,"$1"),n=n.replace(/[\\](\d{3})/g,function(e,t){return String.fromCharCode(parseInt(t,8))});var a=document.createElement("div");a.className="alert dt-alert";var o=document.createElement("div");o.className="dt-alert-message-success",o.textContent=decodeURIComponent(n);var r=document.createElement("a");r.href="/signup/",r.textContent="Sign up now",o.appendChild(r);var l=document.createElement("button");l.className="close dt-alert-close",l.textContent="×",a.appendChild(o),a.appendChild(l),document.body.appendChild(a),document.cookie="rollbar_promo_banner=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT"}}();
+} catch(e) {
+    Rollbar.error(e);
+}
+</script>
 
 
-<div class="pricing-top-marquee">
-  
-
-
-<nav class="navbar top-header" role="navigation">
+<nav class="navbar top-header" role="navigation" style="position: static; top: 0px;">
   <div class="container">
-    <a href="/?dr" style="text-decoration:none;">
+    <a href="/" style="text-decoration:none;">
       <div class="logo"></div>
     </a>
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -111,339 +102,357 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav top-nav">
-        
-  <li><a href="/demo/" target="_blank">Live Demo</a></li>
-  <li><a href="/features/">Features</a></li>
+
+  <li><a href="/why-rollbar/">Why Rollbar?</a></li>
+  <li><a href="/features/">Product</a></li>
   <li><a href="/pricing/">Pricing</a></li>
-  <li><a href="/enterprise/">Enterprise</a></li>
+  <li><a href="/customers/">Customers</a></li>
   <li><a href="/docs/">Docs</a></li>
   <li class="divider"></li>
     <li><a href="/login/">Log In</a></li>
     <span class="or">or</span>
-    <li class="cta"><a href="/signup/">Free Trial</a></li>
+    <li class="cta"><a href="/signup/">Sign Up</a></li>
 
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>
 
-  <div class="pricing-hero-section about-hero-section">
-    <div class="container">
-      
-  <h1>Rollbar Privacy Policy</h1>
 
-    </div>
-  </div><!-- end .pricing-hero-section -->
+    <div class="hero-container">
+    <h1>Rollbar Privacy Policy</h1>
 </div>
 
 
-
-<link rel="stylesheet" href="//d37gvrvc0wt4s1.cloudfront.net/static/homepage/css/policy.min.css?ts=1458943383v8">
-
 <div class="container policy-contents">
-  
+    <section>
+        <p>
+            This Privacy Policy describes how and when Rollbar collects, uses and shares your
+            information when you use our Services. Rollbar receives your information through our
+            various websites, APIs, email notifications, integrations, and applications (the
+            "<strong>Services</strong>" or "<strong>Rollbar</strong>") and from our partners and
+            other third parties. When using any of our Services you consent to the collection,
+            transfer, manipulation, storage, disclosure and other uses of your information as
+            described in this Privacy Policy. Irrespective of which country you reside in or supply
+            information from, you authorize Rollbar to use your information in the United States and
+            any other country where Rollbar operates.
+        </p>
+        <p>
+            If you have any questions or comments about this Privacy Policy, please contact us at
+            <a href="mailto:privacy@rollbar.com">privacy@rollbar.com</a>.
+        </p>
+    </section>
+
+    <section>
+        <h4>Information Collection and Use</h4>
+        <p>
+            The information we receive may be used to provide and improve the Services, respond to your
+            inquiries, fulfill your requests, and to offer you compatible products and services. If, at any
+            time, the purpose for our collection of information changes or if we disclose the information we
+            collect to a type of third party not previously identified, we will notify you and offer you the
+            opportunity to opt out of such uses or disclosures where it involves non-sensitive information or
+            opt-in where sensitive information is involved.
+        </p>
+        <p>
+            <strong>Basic Account Information:</strong> We ask you to log in and provide certain
+            personal information (such as your email address, username, password, or GitHub login
+            credentials) in order to be able to save your profile and the accounts, projects, and
+            other data associated with it.
+        </p>
+        <p>
+            <strong>Additional Information:</strong> In order to take advantage of certain features of the
+            Services, you may also choose to provide us with other personal information, such as your picture or
+            personal website. If you authenticate on the Services using an identity provider such as Github, Google,
+             Okta or Bitium (the “Identity Provider”), the Identity Provider may send us your registration or profile
+              information on that service and other information that you authorize.
+              This information enables us to authenticate you and improve the Services, and is deleted from Rollbar
+              within 30 days of your disconnecting your Identity Provider account from the Services.  Rollbar may
+            contact you, by email or other means. For example, Rollbar may send you promotional emails relating
+            to Rollbar or other third parties Rollbar feels you would be interested in, or communicate with you
+            about your use of the Rollbar website. Rollbar may also use technology to alert us via a
+            confirmation email when you open an email from us. If you do not want to receive email from Rollbar,
+            please opt out of receiving emails at the bottom of any Rollbar emails or by editing your profile
+            preferences. If you email us, we may keep your message, email address and contact information to
+            respond to your request. Providing the additional information described in this section is entirely
+            optional.
+        </p>
+
+        <p>
+            <strong>Links:</strong> Rollbar may keep track of how you interact with links across our Services,
+            including our email notifications, third-party services, and client applications, by redirecting
+            clicks or through other means. We do this to help improve our Services and to be able to share
+            aggregate click statistics such as how many times a particular link was clicked on.
+        </p>
+
+        <p>
+            <strong>Cookies:</strong> We use cookies and similar technologies to collect additional
+            website usage data and to improve our Services. Rollbar may use both session cookies and
+            persistent cookies either set by us or a third party, such as Google Analytics, to
+            better understand how you interact with our Services, to monitor aggregate usage by our
+            users and web traffic routing on our Services, and to customize and improve our
+            Services. Most Internet browsers automatically accept cookies. You can instruct your
+            browser, by changing its settings, to stop accepting cookies or to prompt you before
+            accepting a cookie from the websites you visit. However, some Services may not function
+            properly if you disable cookies.
+        </p>
+
+        <p>
+            <strong>Log Data:</strong> When you use our Services, we may receive information ("Log Data") such
+            as your IP address, browser type, operating system, the referring web page, pages visited, location,
+            your mobile carrier, device information (including device and application IDs), search terms, and
+            cookie information. We receive Log Data when you interact with our Services, for example, when you
+            visit our websites, sign into our Services or interact with our email notifications. We may also
+            receive Log Data when you click on, view or interact with a link on our Services to a third-party
+            application. Rollbar uses Log Data to provide, understand, and improve our Services.
+        </p>
+
+        <p>
+            <strong>Third-Parties and Affiliates:</strong> Rollbar uses a variety of third-party services to
+            help provide our Services, such as hosting services, and to help us understand and improve the use
+            of our Services, such as analytics services. These third-party service providers may collect
+            information sent by your browser as part of a web page request, such as cookies or your IP address.
+            We may need to share personal information with our third-party service providers in order to provide
+            products or services to you. Unless we tell you differently, our third-party service providers do
+            not have any right to use the information we share with them beyond what is necessary to assist us.
+            You hereby consent to our sharing of your personal information with our third-party service
+            providers.
+        </p>
+    </section>
+
+    <section>
+        <h4>Information Sharing and Disclosure</h4>
+        <p>
+            <strong>Your Consent:</strong> We may share or disclose your information at your direction, such as
+            when you authorize a third-party web client or application to access your Rollbar account.
+        </p>
+
+        <p>
+            <strong>Service Providers:</strong> We engage service providers to perform functions and provide
+            services to us in the United States and abroad. We may share your private personal information with
+            such service providers subject to confidentiality obligations consistent with this Privacy Policy,
+            and on the condition that the third parties use your private personal data only on our behalf and
+            pursuant to our instructions. Rollbar requires that its service providers either subscribe to the
+            Privacy Shield Principles, are subject to the EU Privacy Directive and the Swiss Federal Act on Data
+            Protection or another adequacy finding, or enter into a written agreement with us that requires them
+            to provide at least the same level of privacy protection as is required by the relevant Privacy Shield
+            Principles.
+        </p>
+
+        <p>
+            <strong>Law and Harm:</strong> Notwithstanding anything to the contrary in this Policy, we may
+            preserve or disclose your information if we believe that it is reasonably necessary to comply with a
+            law, regulation or legal request; to protect the safety of any person; to address fraud, security or
+            technical issues; or to protect Rollbar's rights or property. However, nothing in this Privacy
+            Policy is intended to limit any legal defenses or objections that you may have to a third party’s,
+            including a government’s, request to disclose your information.
+        </p>
+
+        <p>
+            <strong>Business Transfers and Affiliates:</strong> In the event that Rollbar is involved in a
+            bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or
+            transferred as part of that transaction. This Privacy Policy will apply to your information as
+            transferred to the new entity. We may also disclose information about you to our corporate
+            affiliates in order to help provide, understand, and improve our Services and our affiliates’
+            services, including the delivery of ads.
+        </p>
+
+        <p>
+            <strong>Non-Private or Non-Personal Information:</strong> We may share or disclose your non-private,
+            aggregated or otherwise non-personal information, such as your public user profile information,
+            public Tweets, the people you follow or that follow you, or the number of users who clicked on a
+            particular link (even if only one did), or reports to advertisers about unique users who saw or
+            clicked on their ads after we have removed any private personal information (such as your name or
+            contact information).
+        </p>
+    </section>
+
+    <section>
+        <h4>Accessing and Modifying Your Personal Information</h4>
+        <p>
+            If you are a registered user of our Services, we provide you with tools and account settings to
+            access or modify the personal information you provided to us and associated with your account. You
+            can ask to review and correct the information that we maintain about you by sending a written
+            request to <a href="mailto:privacy@rollbar.com">privacy@rollbar.com</a>.
+        </p>
+
+        <p>
+            You can also permanently delete your Rollbar account. To do so, please use the delete functionality
+            within the Services. When you request to have your account deleted, we immediately begin the process
+            of deleting your account from our systems, which can take up to 10 days.
+        </p>
+    </section>
+
+    <section>
+        <h4>Data Security and Integrity</h4>
+        <p>
+            We use reasonable physical, electronic, and administrative safeguards to protect the information we
+            collect from loss, misuse and unauthorized access, disclosure, alteration, destruction, and to
+            ensure that the information we process is reliable for its intended use, accurate, complete, and
+            current to the extent necessary for the purposes for which we use the information. Unfortunately, no
+            data transmission or storage system can be guaranteed to be 100% secure. Please contact us
+            immediately  if you have reason to believe that your interaction with us is no longer secure.
+        </p>
+    </section>
+
+    <section>
+        <h4>Our Policy Towards Children</h4>
+        <p>
+            Our Services are not directed to persons under age 13. If you become aware that your child has
+            provided us with personal information without your consent, please contact us at
+            <a href="mailto:privacy@rollbar.com">privacy@rollbar.com</a>. We do not knowingly collect personal
+            information from children under the age of 13. If we become aware that a child under age 13 has
+            provided us with personal information, we take steps to remove such information and terminate the
+            child's account.
+        </p>
+    </section>
+
+    <section>
+        <h4>Our Response to Do-Not-Track Signals</h4>
+        <p>
+            Because we want to improve our Services by better understanding your experience, we do not change
+            our behavior based on a web browser's Do Not Track signal.
+        </p>
+    </section>
+
+    <section>
+      <h4>Self-Regulatory Frameworks</h4>
+      <p>
+        Rollbar complies with the U.S.-E.U.Privacy Shield Principles and U.S.-Swiss Safe Harbor Privacy Principles
+        of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+        To learn more about our how we collection, use, and retain of personal information when you use our Services
+         in the European Union or member countries, please read our <a href="/privacy/privacy-shield-statement/">Privacy Shield Statement</a>.
+    </p></section>
+
+    <section>
+        <h4>Changes to this Policy</h4>
+        <p>
+            We may revise this Privacy Policy from time to time. The most current version of the policy will
+            govern our use of your information and will always be at https://rollbar.com/privacy. If we make a
+            change to this policy that, in our sole discretion, is material, we will notify you via email to the
+            email address associated with your account and by placing a prominent notice on the Services portal.
+            Changes will not apply retroactively and will become effective no sooner than 14 days after they are
+            posted. However, changes made for legal reasons will be effective immediately. By continuing to
+            access or use the Services after those changes become effective, you agree to be bound by the
+            revised Privacy Policy.
+        </p>
+    </section>
 
 
+    <section>
+        <p><i>Effective: October 17, 2016</i></p>
+        <p><i><a href="/privacy/archive/">Archive of Previous Privacy Policies</a></i></p>
 
-
-
-
-
-<section>
-<p>
-  This Privacy Policy describes how and when Rollbar collects, uses and shares your information when you use our Services. Rollbar receives your information through our various websites, APIs, email notifications, integrations, and applications (the "<strong>Services</strong>" or "<strong>Rollbar</strong>") and from our partners and other third parties. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Rollbar to use your information in the United States and any other country where Rollbar operates.
-</p>
-<p>
-  If you have any questions or comments about this Privacy Policy, please contact us at <a href="mailto:privacy@rollbar.com">privacy@rollbar.com</a>.
-</p>
-</section>
-
-<section>
-  <h4>Information Collection and Use</h4>
-  <p>
-    The information we receive may be used to provide and improve the Services, respond to your inquiries, fulfill your requests, and to offer you compatible products and services. If, at any time, the purpose for our collection of information changes or if we disclose the information we collect to a type of third party not previously identified, we will notify you and offer you the opportunity to opt out of such uses or disclosures where it involves non-sensitive information or opt-in where sensitive information is involved.  
-  </p>
-  <p>
-    <strong>Basic Account Information:</strong> We ask you to log in and provide certain personal information (such as your email address, username, password, or GitHub login credentials) in order to be able to save your profile and the accounts, projects, and other data associated with it. 
-  </p>
-  <p>
-    <strong>Additional Information:</strong> In order to take advantage of certain features of the Services, you may also choose to provide us with other personal information, such as your picture or personal website. If you authenticate on the Services using your GitHub account, GitHub may send us your registration or profile information on that service and other information that you authorize. This information enables us to authenticate you and improve the Services, and is deleted from Rollbar within 30 days of your disconnecting your GitHub account  from the Services.  Rollbar may contact you, by email or other means. For example, Rollbar may send you promotional emails relating to Rollbar or other third parties Rollbar feels you would be interested in, or communicate with you about your use of the Rollbar website. Rollbar may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Rollbar, please opt out of receiving emails at the bottom of any Rollbar emails or by editing your profile preferences. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional.
-  </p>
-
-  <p>
-    <strong>Links:</strong> Rollbar may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
-  </p>
-
-  <p>
-    <strong>Cookies:</strong> We use cookies and similar technologies to collect additional website usage data and to improve our Services. Rollbar may use both session cookies and persistent cookies either set by us or a third party, such as Google Analytics, to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. 
-  </p>
-
-  <p>
-    <strong>Log Data:</strong> When you use our Services, we may receive information ("Log Data") such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services or interact with our email notifications. We may also receive Log Data when you click on, view or interact with a link on our Services to a third-party application. Rollbar uses Log Data to provide, understand, and improve our Services. 
-  </p>
-
-  <p>
-    <strong>Third-Parties and Affiliates:</strong> Rollbar uses a variety of third-party services to help provide our Services, such as hosting services, and to help us understand and improve the use of our Services, such as analytics services. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. We may need to share personal information with our third-party service providers in order to provide products or services to you. Unless we tell you differently, our third-party service providers do not have any right to use the information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of your personal information with our third-party service providers.
-  </p>
-</section>
-
-<section>
-  <h4>Information Sharing and Disclosure</h4>
-  <p>
-    <strong>Your Consent:</strong> We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your Rollbar account.
-  </p>
-
-  <p>
-    <strong>Service Providers:</strong> We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. Rollbar requires that its service providers either subscribe to the Safe Harbor Principles, are subject to the EU Privacy Directive and the Swiss Federal Act on Data Protection or another adequacy finding, or enter into a written agreement with us that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.
-  </p>
-
-  <p>
-    <strong>Law and Harm:</strong> Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Rollbar's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
-  </p>
-
-  <p>
-    <strong>Business Transfers and Affiliates:</strong> In the event that Rollbar is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity. We may also disclose information about you to our corporate affiliates in order to help provide, understand, and improve our Services and our affiliates’ services, including the delivery of ads.
-  </p>
-
-  <p>
-    <strong>Non-Private or Non-Personal Information:</strong> We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public Tweets, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did), or reports to advertisers about unique users who saw or clicked on their ads after we have removed any private personal information (such as your name or contact information).
-  </p>
-</section>
-
-<section>
-  <h4>Accessing and Modifying Your Personal Information</h4>
-  <p>
-    If you are a registered user of our Services, we provide you with tools and account settings to access or modify the personal information you provided to us and associated with your account. You can ask to review and correct the information that we maintain about you by sending a written request to <a href="mailto:privacy@rollbar.com">privacy@rollbar.com</a>.
-  </p>
-
-  <p>
-    You can also permanently delete your Rollbar account. To do so, please use the delete functionality within the Services. When you request to have your account deleted, we immediately begin the process of deleting your account from our systems, which can take up to 10 days.
-  </p>
-</section>
-
-<section>
-  <h4>Data Security and Integrity</h4>
-  <p>
-    We use reasonable physical, electronic, and administrative safeguards to protect the information we collect from loss, misuse and unauthorized access, disclosure, alteration, destruction, and to ensure that the information we process is reliable for its intended use, accurate, complete, and current to the extent necessary for the purposes for which we use the information. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. Please contact us immediately  if you have reason to believe that your interaction with us is no longer secure. 
-  </p>
-</section>
-
-<section>
-  <h4>Our Policy Towards Children</h4>
-  <p>
-    Our Services are not directed to persons under age 13. If you become aware that your child has provided us with personal information without your consent, please contact us at <a href="mailto:privacy@rollbar.com">privacy@rollbar.com</a>. We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under age 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. 
-  </p>
-</section>
-
-<section>
-  <h4>Our Response to Do-Not-Track Signals</h4>
-  <p>
-    Because we want to improve our Services by better understanding your experience, we do not change our behavior based on a web browser's Do Not Track signal.
-  </p>
-</section>
-
-<section>
-  <h4>EU Safe Harbor Framework</h4>
-  <p>
-    Rollbar complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the <a href="http://export.gov/safeharbor/">Safe Harbor</a> program, and to view <a href="https://safeharbor.export.gov/companyinfo.aspx?id=25383">our certification</a>, please visit the U.S. Department of Commerce website.
-  </p>
-  <p>
-    <a href="https://safeharbor.export.gov/list.aspx">We self-certify compliance with</a><br>
-    <a href="http://www.export.gov/safeharbor"><img src="//d37gvrvc0wt4s1.cloudfront.net/static/img2/safeharbor.png?ts=1422486005v8"></a>
-  </p>
-</section>
-
-<section>
-  <h4>Changes to this Policy</h4>
-  <p>
-    We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://rollbar.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via email to the email address associated with your account and by placing a prominent notice on the Services portal. Changes will not apply retroactively and will become effective no sooner than 14 days after they are posted. However, changes made for legal reasons will be effective immediately. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
-  </p>
-</section>
-
-
-<section>
-<p><i>Effective: December 14, 2014</i></p>
-<p><i><a href="/privacy/archive/">Archive of Previous Privacy Policies</a></i></p>
-
-<p>
-  If you have any questions or concerns, please <a href="/contact/">contact us</a>.  We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the Safe Harbor Principles.
-</p>
-</section>
-            
-
-
+        <p>
+            If you have any questions or concerns, please <a href="/contact/">contact us</a>.
+            We will investigate and attempt to resolve complaints and disputes regarding use and
+            disclosure of Personal Information in accordance with the Safe Harbor Principles.
+        </p>
+    </section>
 </div>
 
 
     <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-2 col-sm-offset-1 footer-column">
-            <h5>Rollbar</h5>
-            <ul>
-              <li><a href="/pricing/">Pricing Plans</a></li>
-              <li><a href="/about/">About</a></li>
-              <li><a href="https://rollbar.com/outbound_redirect?url=https%3A%2F%2Frollbar.recruiterbox.com%2F&amp;h=98303ce">Jobs</a></li>
-              <li><a href="/contact/">Contact Us</a></li>
-              <li><a href="/tos/">Terms of Service</a></li>
-              <li><a href="/privacy/">Privacy Policy</a></li>
-              <li><a href="/about/responsible-disclosure-policy/">Responsible Disclosure Policy</a></li>
-            </ul>
-          </div>
-          <div class="col-sm-2 footer-column">
-            <h5>Features</h5>
-            <ul>
-              <li><a href="/features/">Error Tracking</a></li>
-              <li><a href="/features/dashboard/">Dashboard</a></li>
-              <li><a href="/features/deploys/">Track Deploys</a></li>
-              <li><a href="/features/people/">Person Tracking</a></li>
-              <li><a href="/features/hosts/">Host Tracking</a></li>
-              <li><a href="/features/bugtrackers/">Bug Tracker Integration</a></li>
-              <li><a href="/features/github/">GitHub Integration</a></li>
-            </ul>
-          </div>
-          <div class="col-sm-2 footer-column">
-            <h5>Resources</h5>
-            <ul>
-              <li><a href="/blog/">Blog</a></li>
-              <li><a href="/docs/">Docs</a></li>
-              <li><a href="https://twitter.com/search?f=realtime&amp;q=%23changelog%20from%3Arollbar&amp;src=typd">Change Log</a></li>
-              <li><a href="http://status.rollbar.com/">Service Status</a></li>
-            </ul>
-          </div>
-          <div class="col-sm-3 footer-column">
-            <h5>Languages</h5>
-            <div class="col-sm-6" style="padding-left: 0;">
-              <ul>
-                <li><a href="/error-tracking/javascript/">Javascript</a></li>
-                <li><a href="/error-tracking/ruby/">Ruby</a></li>
-                <li><a href="/error-tracking/python/">Python</a></li>
-                <li><a href="/error-tracking/.net/">.NET</a></li>
-                <li><a href="/error-tracking/php/">PHP</a></li>
-                <li><a href="/error-tracking/java/">Java</a></li>
-                <li><a href="/error-tracking/ios/">iOS</a></li>
-              </ul>
-            </div>
-            <div class="col-sm-6" style="padding-left: 0;">
-              <ul>
-                <li><a href="/error-tracking/node.js/">Node.js</a></li>
-                <li><a href="/error-tracking/android/">Android</a></li>
-                <li><a href="/error-tracking/clojure/">Clojure</a></li>
-                <li><a href="/error-tracking/golang/">Golang</a></li>
-                <li><a href="/error-tracking/erlang/">Erlang</a></li>
-                <li><a href="/error-tracking/haskell/">Haskell</a></li>
-                <li><a href="/error-tracking/coldfusion/">ColdFusion</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-1 footer-column">
-            <h5>Connect</h5>
-            <ul>
-              <li><a href="https://github.com/rollbar">GitHub</a></li>
-              <li><a href="http://twitter.com/rollbar">Twitter</a></li>
-              <li><a href="https://plus.google.com/+Rollbar">Google+</a></li>
-            </ul>
-          </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2 col-xs-4 col-sm-offset-1 footer-column">
+        <h5>Rollbar</h5>
+        <ul>
+          <li><a href="/">Rollbar.com</a></li>
+          <li><a href="/features/">Features</a></li>
+          <li><a href="/why-rollbar/">Why Rollbar?</a></li>
+          <li><a href="/pricing/">Pricing</a></li>
+          <li><a href="/customers/">Customers</a></li>
+          <li><a href="/enterprise/">Enterprise</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-2 col-xs-4 footer-column">
+        <h5>Company</h5>
+        <ul>
+          <li><a href="/jobs/">Jobs</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="https://twitter.com/rollbar">Twitter</a></li>
+          <li><a href="https://github.com/rollbar">GitHub</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-2 col-xs-4 footer-column">
+        <h5>Resources</h5>
+        <ul>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/docs/">Docs</a></li>
+          <li><a href="http://status.rollbar.com/">Status</a></li>
+          <li><a href="/tos/">Terms</a></li>
+          <li><a href="/privacy/">Privacy</a></li>
+          <li><a href="/about/responsible-disclosure-policy/">Security</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3 col-xs-4 footer-column">
+        <h5>Solutions</h5>
+        <div class="col-sm-6" style="padding-left: 0;">
+          <ul>
+            <li><a href="/error-tracking/javascript/">JavaScript</a></li>
+            <li><a href="/error-tracking/python/">Python</a></li>
+            <li><a href="/error-tracking/ruby/">Ruby</a></li>
+            <li><a href="/error-tracking/php/">PHP</a></li>
+            <li><a href="/error-tracking/.net/">.NET</a></li>
+            <li><a href="/error-tracking/ios/">iOS</a></li>
+          </ul>
         </div>
-        <hr>
-      </div><!-- end .container -->
-      <div class="copyright-info">© 2012-15 Rollbar, Inc.</div>
-    </footer>
-    
-    <script src="//d37gvrvc0wt4s1.cloudfront.net/static/homepage/js/all.min.js?ts=1458943387v8"></script>
-    
-    
-    
-  <script type="text/javascript">
-    function setCSRFToken(csrfToken) {
-      $(document).on('submit', 'form', function() {
-        var formMethod = $(this).attr('method');
+        <div class="col-sm-6" style="padding-left: 0;">
+          <ul>
+            <li><a href="/error-tracking/java/">Java</a></li>
+            <li><a href="/error-tracking/node.js/">Node.js</a></li>
+            <li><a href="/error-tracking/android/">Android</a></li>
+            <li><a href="/integrations/atlassian/">Atlassian</a></li>
+            <li><a href="/docs/items_other/">View More</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-2 col-xs-8 footer-column">
+        <h5>Try Rollbar</h5>
+        <ul>
+          <li>
+              Rollbar helps engineering teams stay
+              focused, be more productive and deliver
+              exceptional error-free experiences.
+              <a href="/signup/">Sign up now!</a>
+          </li>
+        </ul>
+      </div>
+      </div>
+      <hr>
+      <div class="copyright-info">© 2012-16 Rollbar, Inc.</div>
+  </div>
+</footer>
 
-        if (!csrfSafeMethod(formMethod)) {
-          $(this).append('<input name="csrf_token" type="hidden" value="' + csrfToken + '" />');
-        }
-      });
-      // from https://docs.djangoproject.com/en/1.6/ref/contrib/csrf/
-      csrfSafeMethod = function(method) {
-        // these HTTP methods do not require CSRF protection
-        return (/^(GET|HEAD|OPTIONS|TRACE)$/i.test(method));
-      };
-      sameOrigin = function(url) {
-        // test that a given url is a same-origin URL
-        // url could be relative or scheme relative or absolute
-        var host = document.location.host; // host + port
-        var protocol = document.location.protocol;
-        var sr_origin = '//' + host;
-        var origin = protocol + sr_origin;
-        // Allow absolute or scheme relative URLs to same origin
-        return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
-          (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
-          // or any other URL that isn't scheme relative or absolute i.e relative.
-          !(/^(\/\/|http:|https:).*/.test(url));
-      };
-      $.ajaxSetup({
-        beforeSend: function(xhr, settings) {
-          if (csrfToken && !csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
-            xhr.setRequestHeader("X-CSRFToken", csrfToken);
-          }
-        }
-      });
-    }
-
-    setCSRFToken("a9e6ec0f2e5f3d1867718216d795c34ad5d2b2dd|cf3c3ee4124da0d1a3dd11168d93870337176da9");
-  </script>
+<script type="text/javascript">
+  window._pa = window._pa || {};
+</script>
 
 
-    
-  
-    <script type="text/javascript">
-      window._pa = window._pa || {};
-      
-    </script>
+<script type="text/javascript">
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
 
-  
-
-  
-    <script type="text/javascript">
-      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
-      
-      var traits = {
-        marketing_segment: "website",
-        logged_in: false,
-        public_page: true
-      };
-        analytics.identify(traits);
-      analytics.load("EjPSytCQjKkLitMZZFeOZftGIi8OVAAi");
-      analytics.page();
-      }}();
-    </script>
-
-
-      <style type="text/css">
-          #habla_beta_container_do_not_rely_on_div_classes_or_names{display:none;}
-
-        #habla_topbar_div{-webkit-animation-name: disabled_animation !important;}
-
-        textarea#habla_wcsend_input:focus {
-          -webkit-box-shadow: none !important;
-          box-shadow: none !important;
-        }
-      </style>
+  var traits = {
+    marketing_segment: "website",
+    logged_in: false,
+    public_page: true
+  };
+  analytics.identify(traits);
+  analytics.load("EjPSytCQjKkLitMZZFeOZftGIi8OVAAi");
+  analytics.page();
+  }}();
+</script>
 
 
 
-
-    
-  
-  
-<!-- BREACH attack prevention
-uu74Z/tibHMAj1euewNv93nahz9i/8D46s/y/1JPH0I/3m62WXbi8bZZh6Q+Rwe+6Efs5WtFkOHrCr1k
-c9cTcsHW0NaTxBbL1OJuy+9M4LqYVOu5SvzFazTW+OxRJkpEfqppAoTtea8pPfWSNoGk+SdEDI6IzEfz
-5L6nhzk6Z4aYdlsCK62aMsKTSSinXK9CDKqU0UuhuQzxtapafRoNYw55kgcX3XnrXHE2jlWFcPYuxdQl
-O9Z6JAJW0Pv7D+FGJrPefYRivS5zh6frrLDBLbP4XCOgSMBtZWlB7V71IWG70NxnHVrXuG+SX/xh9rxI
-o4KDg66kb4Z+8lMvGw==
--->
-
+<script src="/assets/combined/homepage.js"></script>
+<script>
+    $(document).ready(function() {
+        window.homepage.init();
+        
+    });
+</script>
 
   
 
