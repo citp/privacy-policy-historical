@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the undercovercondoms.com privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624062713id_/http%3A//www.undercovercondoms.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the undercovercondoms.com privacy policy that was archived on 2016-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103122323id_/http%3A//www.undercovercondoms.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Undercover Condoms - Privacy Policy</title>
@@ -778,6 +778,11 @@ Add $29.00 to receieve FREE Standard Shipping.
                             <input type="text" id="EmailSignupEmailAddress" onkeypress="RemoveElementErrorStyling(this.id);" maxlength="100">
                             <span id="EmailSignupEmailAddress-error" class="error_message">Email Address is Required</span>
                             <span id="EmailSignupEmailAddress-error-2" class="error_message">Please Enter A Valid Email Address</span>
+                            <span id="EmailSignupEmailAddress-error-3" class="error_message">Did You Mean 
+                                <a style="color:#639bd6;" href="javascript:void(0);" onclick="UseSuggestionEmail();">
+                                    <span class="email-signup-suggesstion"></span>
+                                </a>?
+                            </span>
                         </div>
                         <div class="form-element">
                             <label>Verify Email Address</label>
@@ -810,7 +815,7 @@ Add $29.00 to receieve FREE Standard Shipping.
         <div class="email-signup-complete-wrapper">
             <span class="header1">Thank You For Registering</span>
             <p>You can be sure we'll never share your email address with anyone outside Undercover Condoms.</p>
-            <p>Should you ever want to leave our exclusive offers list, you can easily unsubscribe from any email your recieve or by logging into your account and change your preferences.</p>
+            <p>Should you ever want to leave our exclusive offers list, you can easily unsubscribe from any email your recieve or by logging into your account and changing your preferences.</p>
             <button class="action-button" id="email-signup-complete-close">Close</button>
         </div>
     </div>
@@ -1160,7 +1165,7 @@ Add $29.00 to receieve FREE Standard Shipping.
 <script src="http://wac.AEE8.edgecastcdn.net/80AEE8/p/p/global/ecommerce/js/modernizr.custom.90257.js" defer=""></script>
 <script src="http://wac.AEE8.edgecastcdn.net/80AEE8/p/p/global/ecommerce/js/slick/slick.min.js" defer=""></script>
 <script src="http://wac.AEE8.edgecastcdn.net/80AEE8/p/p/global/ecommerce/js/enquire.min.js" defer=""></script>
-<script src="/include/sitejavascripts04292016.js" defer=""></script>
+<script src="/include/sitejavascripts101220162.js" defer=""></script>
 
 
 <noscript>
@@ -1174,9 +1179,10 @@ Add $29.00 to receieve FREE Standard Shipping.
     var CurrencyID = 1;
     var FreeShippingDollarMinimum = 29;
     var OhioSalesTaxRate = 0.075;
+    var VerifyEmailAddresses = true;
 
     //Google Tag Manager
-    dataLayer = [{'ABGroup': 'A','CustomerLoggedIn': 'False'}];
+    dataLayer = [{'ABGroup': 'B','CustomerLoggedIn': 'False'}];
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
     (window,document,'script','dataLayer','GTM-5TP9ST');
     
@@ -1184,6 +1190,45 @@ Add $29.00 to receieve FREE Standard Shipping.
         //Test For polyfil
         Modernizr.load([{test: window.matchMedia,nope: "http://wac.AEE8.edgecastcdn.net/80AEE8/p/p/global/ecommerce/js/media.match.min.js"},{test: window.addEventListener,nope: "http://wac.AEE8.edgecastcdn.net/80AEE8/p/p/global/ecommerce/js/addEventListener-polyfill.js"}]);
     });
+
+    var sameDayShippingCutOff = Date.now();
+
+    
+        sameDayShippingCutOff = new Date('11/3/2016 3:00:00 PM');
+        initializeCountDownTimer('clockdiv', sameDayShippingCutOff);
+        
+        function getTimeRemaining(endtime) {
+            var t = Date.parse(endtime) - Date.parse(new Date());
+            var seconds = Math.floor((t / 1000) % 60);
+            var minutes = Math.floor((t / 1000 / 60) % 60);
+            var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+            return {
+                'total': t,
+                'hours': hours,
+                'minutes': minutes,
+                'seconds': seconds
+            };
+        }
+        function initializeCountDownTimer(id, endtime) {
+        var clock = document.getElementById(id);
+        var hoursSpan = clock.querySelector('.hours');
+        var minutesSpan = clock.querySelector('.minutes');
+        var secondsSpan = clock.querySelector('.seconds');
+
+        function updateClock() {
+            var t = getTimeRemaining(endtime);
+            hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+            minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+            secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+            if (t.total <= 0) {
+                clearInterval(timeinterval);
+            }
+        }
+
+        updateClock();
+        var timeinterval = setInterval(updateClock, 1000);
+    }
 
     
     
