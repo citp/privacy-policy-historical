@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scenestealer.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603142146id_/http%3A//scenestealer.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenestealer.co.uk privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103182253id_/http%3A//scenestealer.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scenestealer
 
