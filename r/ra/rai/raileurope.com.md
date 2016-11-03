@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322093503id_/https%3A//www.raileurope.com/about-us/rail-europe-policies/raileurope-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103013126id_/https%3A//www.raileurope.com/about-us/rail-europe-policies/raileurope-privacy-policy.html) for the most accurate reproduction.*
 
 # Rail Europe Policies, Terms & Conditions
 
@@ -67,6 +67,7 @@ We may use or disclose your personally identifiable information as is permitted 
   * investigating or helping to prevent unlawful activity or activity that may threaten our visitors, users, employees, or property; and
   * in cooperating with law-enforcement investigations, or as required by law or by, subpoena, warrant, or other order of the court or governmental agency;
   * to prevent harm to person or property;
+  * from time to time we may transfer information to our Affiliates in France in order to provide the services; 
 
 
 
