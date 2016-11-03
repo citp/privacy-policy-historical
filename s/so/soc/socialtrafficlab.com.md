@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialtrafficlab.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409040020id_/http%3A//socialtrafficlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtrafficlab.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103163457id_/http%3A//socialtrafficlab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Social Traffic Lab
+# Privacy Policy - Social Traffic Lab
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
