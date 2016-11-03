@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the timberland.com privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603054514id_/https%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timberland.com privacy policy that was archived on 2016-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103110832id_/https%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js vfrs cms" lang="en"><!--<![endif]--><head>
-<!-- Application Version: 3-10-7486-0f8d6c8e37fd -->
-<!-- Page Generation Time: 2016/06/02 10:14:50 -->
+<!-- Application Version: 3-21-12155-71802c5b67ac -->
+<!-- Page Generation Time: 2016/11/03 01:26:05 -->
 <title>Customer Service | Privacy Policy | Timberland.com</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-407c3023/p/timberland.com/439600/g"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5CSQBL"></script><script>
+<script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-407c3023/p/timberland.com/439601/g"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5CSQBL"></script><script>
 		if (top.location != self.location) {
 		    top.location = self.location.href;
 		}
@@ -22,6 +22,7 @@
 <script type="text/javascript">
 	window.isEditMode = false;
 </script>
+<link href="/etc/designs/vfcorp/timberland/clientlibs/global/css/global-cms.css?3-21-12155-71802c5b67ac" rel="stylesheet" type="text/css">
 <!-- Google Tag Manager -->
 <script type="text/javascript">
 	dataLayer = [ {
@@ -32,7 +33,7 @@
 <!-- ESI/SSI Start Head Remote -->
 <!-- IncludeURL: https://www.timberland.com/webapp/wcs/stores/servlet/VFPageHeaderSnippetView?storeId=7101&langId=-1&aem=true -->
 <!-- ESI include -->
-<!-- generated: Thu Jun 02 09:47:28 EDT 2016 -->
+<!-- generated: Thu Nov 03 04:24:00 EDT 2016 -->
 
 
 <link rel="vf-store-messages" data-href="VFAjaxStoreMessagesView?storeId=7101&amp;langId=-1&amp;requestype=ajax&amp;isJSONPEnabled=true">
@@ -46,17 +47,17 @@
 
 <script>
 		var WCS_CONFIG = WCS_CONFIG || {};
-		
+
 		WCS_CONFIG.get = function (key, obj){
 			var _obj = obj || this,
 				_keyChain = key,
 				_value = null,
 				_valueLowerCase = null;
-				
+
 			if (_keyChain.split){
 				_keyChain = _keyChain.split("::");
 			}
-				
+
 			if (_keyChain.length > 1){
 				_parentKey = _keyChain.shift();
 				_parentObj = _obj[_parentKey];
@@ -64,10 +65,10 @@
 			}
 			else {
 				_value = _obj[_keyChain[0]];
-	
+
 				if (typeof _value === "string") {
 					_valueLowerCase = _value.toLowerCase();
-	
+
 					if (_value === "true") {
 						_valueLowerCase = true;
 						_value = _valueLowerCase;
@@ -78,22 +79,35 @@
 					}
 				}
 			}
-			
+
 			return _value;
 		};
 
-	
+
 		WCS_CONFIG.global = {
-			"triggerEventsByGTM": false, 
+			"triggerEventsByGTM": false,
 			"miniCartLocation": 'right',
 			"miniCartAutoHideTime": '6000',
 			"miniCartMinHeight": '400',
 			"miniCartMobileGenericMessage": 'true',
 			"miniCartMobileShowAsModal": 'true',
 			"navHeaderExcludeSearchSuggestion" : true,
-			"bloomReachEnabled" : false
+			"bloomReachEnabled" : false,
+			"trackOrdersMadeInStoreEnable" : false,
+			"enableKioskSessionButtons": false,
+            "limitAutoSuggestTextLinkResults": 0,
+            "limitAutoSuggestProductLinkResults" : 0,
+            "autoSuggestUseCommaSeparatedTextLinks" : true,
+            "autoSuggestEncloseTextResultsInQuotes" : true,
+            "autoSuggestDisplayKeywordsTextHeader" : true,
+            "autoSuggestDisplayFeaturedResultsTextHeader" : false,
+            "autoSuggestFeaturedResultsText" : 'Featured Results',
+            "favoritesEnabled": false,
+            "kioskClearSessionReturnURL" : 'https://www.timberland.com/shop/LogonForm?langId=-1&storeId=7101',
+            "attraqtEnabled" : false,
+            "attraqtSearchEnabled" : false
 		};
-		
+
 	    WCS_CONFIG.cart = {
 	        "showCartOnlyWhenActive": true,
 	        "showCartFirstLoad": true,
@@ -102,7 +116,7 @@
 	        "orderItemPriceDisplayAdjustmentEnabled": true,
 	        "shopcartPromoSectionCollapsed" : false
 	    };
-	
+
 		WCS_CONFIG.PDP = {
 			"notifyMeEnabled": true,
 			"authOnlineDealerEnabled": false,
@@ -117,38 +131,47 @@
 	 	 	"pdpHideOutOfStockSizesWhenNotifyMeNotPresent": true,
 	 	 	"pdpHideButtonsBasedOnAttribute": true,
 			"ignoreSelectionOnFirstLoad": false,
-	 	 	"pdpMobileRepositionNamePriceRating": true,
-	 	 	"setPriceContainerHeightEnabled": false,
 	 	 	"isUpCloadEnabled": false,
 	 	 	"pdpInstoreAltColorEnabled": false,
 	 	 	"pdpInstoreAltColorSwatchImageEnabled": false,
-	 	 	"pdpInstoreAvailabilityMode": 'inline',
+	 	 	"pdpInstoreAvailabilityMode": 'modal',
 	 	 	"pdpInstoreAutoCompleteEnabled": false,
+            "pdpInstoreMobileResultsCollapsed" : false,
 			"isBloomReachPdpEnabled": false,
 			"pdpVideoMobileCarouselOrButton": 'button',
 	 	 	"showTitleFirstInHopupEnabled": false,
-	 	 	"showPriceAboveAddToCart" : false
+	 	 	"showPriceAboveAddToCart" : false,
+	 	 	"pdpShowOOSInSizeDropDown" : false,
+	 	 	"pdpMobileCTACheckoutEnabled" : true,
+	 	 	"pdpMobileCTAButtonText" : 'Checkout',
+            "pdpTemplateType" : 'drawer',
+            "pdpDisplayBracketInDiscountPercent":true,
+            "pdpInstoreOMSInventoryCheckEnabled":false
 		};
-	
+
 		WCS_CONFIG.grid = {
 			"showLoadingNotification": true,
 			"productGridColorClickThroughEnabled": false,
+			"isProductGridSwatchesExpansionEnabled": false,
 			"isProductImageOfColorOnHoverEnabled": false,
 			"isAlternateViewEnabled": false,
 			"gridAltViewHoverDelay": 500,
 			"gridAltViewFadeSpeed": 'slow',
 			"gridTopBarEnabled": false,
 			"isBloomReachCatEnabled": false,
-			"productListLoadMoreBehavior": 'button'
+			"productShowDiscountPercentage": false,
+			"productListLoadMoreBehavior": 'button',
+			"redirectToPDPOnSwatchClickEnabled": false,
+			"productListFloatingFiltersEnabled": false
 		};
-		
-		
+
+
 		WCS_CONFIG.owlCarousel = {
 	 	 	"autoPlay": '5000',
 	 	 	"altPdpZoomViewerPlusEnabled": 'false'
 	 	};
- 	
-		
+
+
 		WCS_CONFIG.checkout = {
 	 		"giftCardAndPromotionCollapsedByDefault" : true,
 	 		"promoSectionCollapsed" : false,
@@ -156,45 +179,67 @@
 	 		"paymentSectionCollapsed" : false,
 	 		"giftCardSectionCollapsed" : true,
 	 		"checkoutBillingPaymentInfoDisplayMode" : 'RADIO_DISPLAY',
-	 		"checkoutLeaveforPaypalPopupEnabled" : false,
+	 		"checkoutShopCartLeaveforPaypalPopupEnabled" : false,
+	 		"checkoutBillingLeaveforPaypalPopupEnabled" : false,
 	 		"checkoutBillingEditPaypalEmailEnabled" : false,
 	 		"giftCardPinNeeded": true,
 	 		"checkoutPromoCodePosition": 'side',
 	 		"checkoutGiftOptionEnabled": false,
 	 		"addressAutoCompleteEnabled" : false,
-	 		"checkoutSingleFieldCCEntryEnabled": false
+	 		"checkoutAddressAutoCompleteGeoLocationEnabled" : true,
+	 		"checkoutSingleFieldCCEntryEnabled": false,
+	 		"worldPayConnectionErrorText": '???WORLDPAY_CONNECTION_ERROR_INFO_TEXT???',
+	 		"worldPayBillingEnabled": 'false',
+	 		"paymentSectionSideBySideLayoutEnabled": true,
+	 		"autocompleteJS": 'https://maps.googleapis.com/maps/api/js?signed_in=true&libraries=places',
+            "checkoutShopcartSaveForLaterEnabled" : false,
+            "saveForLaterTemplateLocation" : 'text!wcs/view/save-for-later/templates/shared-saveForLaterTemplate.html',
+            "dropdownMaxItemQuantity" : 10,
+            "shopcartQuantityType" : 'select',
+            "quantityDropdownUseStyledSelect" : false,
+            "visaCheckoutEnabled" : 'false',
+		    "narvarDeliveryEstimateEnabled" : false,
+		    "narvarDeliveryRetailerName" : '',
+		    "narvarDeliveryOAuthToken" : '',
+		    "narvarDeliverySource" : '',
+		    "narvarDeliverTextTemplate" : '',
+		    "narvarDeliveryOZipcode" : '',
+		    "narvarDeliveryUseMinOrMaxDate" : 'MAX',
+		    "narvarDeliveryFulfillmentDays" : '1',
+          	"cybersourceSOPEnabled":true
 	 	};
-	 	
+
 	 	WCS_CONFIG.address = {
-	 		"isRelaxedValidationRuleForCountryEnabled": true
+	 		"isRelaxedValidationRuleForCountryEnabled": true,
+	 		"qasAddressListDropdownDefault": 'Please select an address from the list'
 	 	};
-	
+
 		WCS_CONFIG.topnav = {
-	 	 	 "upperNavUnderDropdown": true,
 	 	 	 "dropdownBackButtonNoArrow": true,
 	 	 	 "dropdownStackedList":  false,
 	 	 	 "dropdownStackedListConfigEnabled": false,
-	 	 	 "navHeaderExcludeMore": false,
 	 	 	 "navHeaderExcludeSearch": false,
 	 	 	 "dropdownAuxLinksEnabled": false,
-	 	 	 "navHeaderLogoSeparateLineTabletEnabled": false ,
+	 	 	 "navHeaderLogoSeparateLineTabletEnabled": true,
+             "navHeaderLogoSeparateLineDesktopEnabled": true,
 	 	 	 "navHeaderIncludeDropdownsInMore" : false,
 	 	 	 "dropdownSignoutMobileEnabled": false,
 	 	 	 "navHeaderSignInLabelEnabled": false,
 	 	 	 "mobileScrollToTop": true,
 	 	 	 "headerNavGreeting": 'Hi,',
-	 	 	 "navHoverDelay": 500
+	 	 	 "navHoverDelay": 500,
+	 	 	 "accordionMenuEnabled": true
 	 	};
-	 	
+
 	 	WCS_CONFIG.quickView = {
 			"quickViewAlternateViewsEnabled": true
 		};
-	
+
 	 	WCS_CONFIG.BackToTop = {
 			 "text": "Back To Top",
 			 "isMyAccountBackToTopEnabled": false
 		};
-		
+
 		WCS_CONFIG.MY_ACCOUNT = {
 			 "addressAutoCompleteEnabled": "false",
 			 "posLogonUtmCampaign": "store-"
@@ -214,10 +259,10 @@
 	    var ZCG_CONFIG = {
 			"WISHLIST": {
 				"DEFAULT_VIEW": 'grid',
-				"TITLE_BEFORE_PRICE": 'false'											  									
+				"TITLE_BEFORE_PRICE": 'false'
 			}
 		};
-		
+
 		var VIEWPORTS = {
 			"S7_PRESETS": {
 				"THUMBNAIL" : '$ALT-IMAGE$',
@@ -233,10 +278,10 @@
 				"DESKTOP" : {"MIN": 1024, "MAX" : 1128}
 			}
 		};
-		
-		
+
+
 	WCS_CONFIG.zclookup = {
-		"isZConfigured": 'true', 
+		"isZConfigured": 'true',
 		"zcLength": '5',
 		"formDefaultZipCodeInputMaxlength": '10',
 		"formDefaultZipCodeInputPattern": '^\d{5}(-\d{4})?$',
@@ -246,7 +291,7 @@
 		"formCAZipCodeInputPattern": '[a-zA-Z0-9,#\'\s\./-]+',
 		"formUndefinedZipCodeInputMaxlength": '11',
 		"formUndefinedZipCodeInputPattern": ''
-		
+
 	};
 		
 		    WCS_CONFIG.scene7 = {
@@ -256,14 +301,14 @@
 				scene7ImageSetPattern: 'PARTNUMBER',
 				scene7ViewerUrl: '//images.timberland.com/s7viewers/html5/js/FlyoutViewer.js'
 	       	};
-	
+
 			var SCENE7 = {
 				BRAND			   : 'timberland',
 				SERVER_URL		   : '//images.timberland.com/is/image/',
 				LOCALE			   : 'en',
 				TIP_BUBBLE_OVER	   : "Mouse over image for a closer look.",
 				IMAGE_PATTERN      : '{prefix}/{pattern}{view}?${profile}${postfix}',
-				URL_PREFIX         : '//images.timberland.com/is/image/timberland', 
+				URL_PREFIX         : '//images.timberland.com/is/image/timberland',
 				IMAGE_NAME_PATTERN : 'PARTNUMBER',
 				HERO_VIEW_NAME     : '-HERO',
 				URL_POSTFIX        : ''
@@ -276,7 +321,7 @@
 				"UPLOAD_WIDGET_ID"        : '1258240538',
 				"CAROUSEL_WIDGET_ID"      : '1548216596',
 				"ENDPOINT"                : '/customers/',
-				"URL"                     : 'https://photorankapi-a.akamaihd.net',
+				"URL"                     : '//photorankapi-a.akamaihd.net',
 				"KEY"                     : '6edb43db3455ab068c4c9736cf18a09312cf761c343b8bd2bbdb559fcee59b94',
 				"LIMIT"                   : '5',
 				"VERSION"                 : 'v2.2',
@@ -284,20 +329,25 @@
 				"ASSET_DATA_ASSIGNMENT_BY": 'style',
 				"QUICKVIEW_ENABLED"       : true,
 				"QUICKVIEW_VIDEO_ENABLED" : false,
-				"VIDEO_ENABLED"			  : false	
+				"VIDEO_ENABLED"			  : false
 		    };
 	    
 	</script>
 
 	
-
 	<script>
 		var ACTION_URLS = {
 			"MINI_SHOPPING_URL" : '//www.timberland.com/webapp/wcs/stores/servlet/VFAjaxGetMiniCartOrderView',
 			"MINI_WISHLIST_URL" : '//www.timberland.com/webapp/wcs/stores/servlet/VFAjaxGetMiniWishListView',
 			"AUTOCOMPLETE_URL" 	: '//www.timberland.com/webapp/wcs/stores/servlet/VFAutoSuggestView',
 			"ARTICLESEARCH_URL"	: '//www.timberland.com/bin/aem/search/articlesearch',
-			"FREE_GIFT_URL"	: '//www.timberland.com/webapp/wcs/stores/servlet/VFPromotionFreeGiftChoicesView'
+			"FREE_GIFT_URL"	: '//www.timberland.com/webapp/wcs/stores/servlet/VFPromotionFreeGiftChoicesView',
+			"SFL_INSTOCK_EDIT_URL"	: '//www.timberland.com/webapp/wcs/stores/servlet/VFEditShopCartDisplay?storeId=7101',
+			"SFL_CUSTOM_EDIT_URL"	: 'https://www.timberland.com/shop/CategoryDisplay?catalogId=10101&linkRef=editCart&langId=-1&identifier=SALESCAT_DYO&storeId=7101&page=configure',
+            "SFL_MTC_WISHLIST_URL"  : 'VFAjaxInterestItemAdd?storeId=7101&listId=.',
+            "SFL_MTC_WISHLIST_LAST_REMOVE" : 'http://www.timberland.com/shop/VFOrderItemDelete?langId=-1&storeId=7101&URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7101%26orderId%3D.%26removeToWL%3Dtrue',
+            "ADD_TO_FAVORITELIST_URL"  : 'VFAjaxInterestItemAdd?storeId=7101&listId=.',
+            "REMOVE_FROM_FAVORITELIST_URL"  : 'VFAjaxInterestItemDelete?storeId=7101&listId=.'
 		};
 		var espotHeaderNavCloneEnabled = true;
 		var hideSearchResultsOnMobile  = 'false';
@@ -321,7 +371,7 @@
 			"UPDATE" : 'Updating'
 		};
 	</script>
-	
+
 	<script>
 		var STORE_MESSAGES = {
 			"nsc" : 'Please remove the following invalid character{title}.',
@@ -338,24 +388,23 @@
 
 
 		<!-- -->
-		<script type="text/javascript" src="//www.timberland.com/wcsstore/vf-storefront/js/metrics/zmetrics.js?v=59"></script>
+		<script type="text/javascript" src="//www.timberland.com/wcsstore/vf-storefront/js/metrics/zmetrics.js?v=80"></script>
 	<!-- Google Tag Manager GTM-5CSQBL --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5CSQBL');</script><!-- End Google Tag Manager -->
-		<script type="text/javascript" src="//www.timberland.com/wcsstore/vf-storefront/js/metrics/gtm-listener.js?v=59"></script> 
+		<script type="text/javascript" src="//www.timberland.com/wcsstore/vf-storefront/js/metrics/gtm-listener.js?v=80"></script>
 	
 
 	<script type="text/javascript">
 		
-	
+
 		//initialize google tag manager listener
 		
 			gtm.initMetrics();
 		
 
 	</script>
-	
+
 
 <!-- ESI/SSI End Head Remote-->
-<link href="/etc/designs/vfcorp/timberland/clientlibs/global/css/global-cms.css?3-10-7486-0f8d6c8e37fd" rel="stylesheet" type="text/css">
 <!-- Begin Monetate Custom Tag -->
 <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
 <script type="text/javascript">
@@ -373,8 +422,8 @@
 			})();
 		</script>
 <!-- End Monetate tag. --><!-- END Monetate tag. -->
-<script src="/etc/designs/vfcorp/timberland/clientlibs/global/js/manifest.js?3-10-7486-0f8d6c8e37fd"></script>
-<script data-main="/etc/designs/vfcorp/timberland/clientlibs/global/js/main-cms.js?3-10-7486-0f8d6c8e37fd" src="/etc/designs/vfcorp/timberland/clientlibs/global/js/lib/require.js?3-10-7486-0f8d6c8e37fd"></script>
+<script src="/etc/designs/vfcorp/timberland/clientlibs/global/js/manifest.js?3-21-12155-71802c5b67ac"></script>
+<script data-main="/etc/designs/vfcorp/timberland/clientlibs/global/js/main-cms.js?3-21-12155-71802c5b67ac" src="/etc/designs/vfcorp/timberland/clientlibs/global/js/lib/require.js?3-21-12155-71802c5b67ac"></script>
 <meta property="og:title" content="Customer Service | Privacy Policy | Timberland.com">
 <meta property="og:site_name" content="Timberland USA - English">
 <meta property="og:url" content="https://www.timberland.com/customer-service/privacy-security/privacy.html">
@@ -386,10 +435,11 @@
 	    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 <div id="master-container" class="wroot">
-<div class="masthead header"><!-- ESI/SSI Start MastHead-->
+<div class="masthead header">
+<!-- ESI/SSI Start MastHead-->
 <!-- IncludeURL: https://www.timberland.com/webapp/wcs/stores/servlet/VFHeaderDisplayView?storeId=7101&langId=-1&aem=true -->
 <!-- ESI include -->
-<!-- generated: Thu Jun 02 09:47:28 EDT 2016 -->
+<!-- generated: Thu Nov 03 04:24:00 EDT 2016 -->
 
 <!-- -->			
 
@@ -413,21 +463,25 @@
 	
 	<div class="mini-cart-content content">
 		<article class="mini-cart-content-container mini-cart-shopcart-content-container shopcart cart-list" data-tabcontent="shopcart"></article>
-		<article class="mini-cart-content-container mini-cart-wishlist-content-container wishlist cart-list" data-tabcontent="wishlist"></article>
-	</div>
+					<article class="mini-cart-content-container mini-cart-wishlist-content-container wishlist cart-list" data-tabcontent="wishlist"></article>
+			</div>
 	<div class="mini-cart-notification notification hide"></div>
 </section>
 
 <div id="global-body-overlay" title="Click to close"></div>
 
-<div class="contain-to-grid contain-to-grid-js">
+
+
+<div class="header-container">
+	<div class="contain-to-grid contain-to-grid-js fixed-small ">
+				
 		<div id="master-header" class="master-header">
-        <nav class="top-bar top-bar-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
-    		<ul class="title-area">
-    			<li class="name">
-    				<nav class="store-logo">
-                					
-							<!-- generated: Thu Jun 02 09:47:07 EDT 2016 -->
+							        <nav class="top-bar-acord top-bar-acord-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
+	    		<ul class="title-area">
+	    			<li class="name">
+	    				<nav class="store-logo">
+	                					
+							<!-- generated: Thu Nov 03 03:45:33 EDT 2016 -->
 
 
 
@@ -457,88 +511,54 @@
 	</div>
 </div>
 
-					                		                    </nav>
-                </li>
-				
-				    					
-							<!-- generated: Thu Jun 02 09:47:07 EDT 2016 -->
+						                			                    </nav>
+	                </li>
+					
+						    					
+							<!-- generated: Thu Nov 03 03:45:33 EDT 2016 -->
 
 
 	<li class="menu-topbar cart-topbar cart-topbar-js">
-    	<a href="https://www.timberland.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=7101&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7101%26deleteOutOfStockOrderItem%3DY%26orderId%3D."><i class="cart-icon icon-shopcart"><span class="cart-items-count nav-shoppingbag-qty-js"></span></i></a>
+    	<a href="https://www.timberland.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=7101&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7101%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
+    		
+	    			<span class="topbar-icon cart-icon icon-shopcart"><span class="cart-items-count nav-shoppingbag-qty-js"></span></span>
+	    		
+    	</a>
 	</li>
 
-	<li class="menu-topbar search-topbar search-topbar-js"><i class="search-icon icon-search"></i></li>
+	<li class="menu-topbar search-topbar search-topbar-js">
+		
+	    		<span class="topbar-icon search-icon icon-search">
+	    	
+	</span></li>
 	
 		<li class="menu-topbar locator-topbar locator-topbar-js">
-			<a href="/utility/store-locator.html"><i class="locator-icon icon-location"></i></a>
+			<a href="/utility/store-locator.html">
+				
+			    		<span class="topbar-icon locator-icon icon-location">
+			    	
+			</span></a>
 		</li>
 	
-<li class="menu-topbar toggle-topbar toggle-topbar-js"><a href="#"><i class="menu-icon icon-menu"></i></a></li> 
-
-
-					    			            </ul>	
-    			
-        	<section class="topnav top-bar-section">
-    			    					
-							<!-- generated: Thu Jun 02 09:47:07 EDT 2016 -->
-
-
-
-<ul class="topnav-util right upper">
-	<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
-				<li class="topnav-util-item unav-1  ">
-					
-							<a href="http://timberland.cashstar.com/"><span class="icon icon-gift-card"></span><span>Gift Cards</span></a>
-						
-				</li>
-			<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
-				<li class="topnav-util-item unav-2  ">
-					
-							<a href="/utility/store-locator.html"><span class="icon icon-location"></span><span>Find a Store</span></a>
-						
-				</li>
-			
-			<li class="topnav-util-item unav-wishlist">
-				<a id="btn_wishlist" href="https://www.timberland.com/shop/LogonForm?listId=.&amp;langId=-1&amp;pageName=wishlist&amp;storeId=7101">
-					<span class="icon icon-wishlist"></span>
-					<span>Wish List (<span id="nav-wishlist-qty" class="nav-wishlist-qty-js"></span>)</span>
-				</a>
-			</li>
+<li class="menu-topbar toggle-topbar toggle-topbar-js">
+	<a href="#">
 		
-		<li class="topnav-util-item unav-myaccount">
-			<a id="btn-myaccount" href="https://www.timberland.com/shop/LogonForm?langId=-1&amp;storeId=7101" class=" ">
-				<span class="icon icon-account"></span>
-				<span>My Account</span>
-			</a>
-		</li>
-
-		
-		
-		<li class="topnav-util-item unav-signing">
-			<a href="http://www.timberland.com/shop/VFLogoff?catalogId=10101&amp;langId=-1&amp;storeId=7101&amp;URL=LogonForm">
-				<span class="icon icon-sign-out"></span>
-				<span>Sign Out</span>
-			</a>
-		</li>
-		
-		
-		<li class="topnav-util-item unav-shoppingbag unav-shoppingbag-js">
-			<a id="btn-shoppingbag" class="btn-shoppingbag-js" href="https://www.timberland.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=7101&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7101%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
-				<span>Cart (<span id="nav-shoppingbag-qty" class="nav-shoppingbag-qty-js"></span>)</span>
-			</a>					
-		</li>
-	
-</ul>
-
-					    			    			
-				<div class="lower-container lower-container-js">
-        			<ul class="topnav-main right lower cat-menu-js">
-        						
-							<!-- generated: Thu Jun 02 09:47:07 EDT 2016 -->
+	    		<span class="topbar-icon menu-icon icon-menu">
+	    	
+	</span></a>
+</li> 
 
 
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
+						    				            </ul>	
+	    			
+	        	<section class="topnav top-bar-section">
+					<div class="lower-container lower-container-js">
+	        			<ul class="topnav-main right lower cat-menu-js">
+	        						
+							<!-- generated: Thu Nov 03 03:45:33 EDT 2016 -->
+
+
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
 						
 								<a href="/mens.html">Men</a>
 								<span class="dropdown-arrow"></span>
@@ -570,82 +590,89 @@
 				<a class="topnav-main-item-featured-item-header sub-category-header">Featured</a>
 				<ul class="topnav-main-item-featured-items-list dropdown">
 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/saltwater-tides-collection"><span class="catLabel">Saltwater Tides Collection</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/mens-new-arrivals"><span class="catLabel">New Arrivals</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/mens-best-sellers"><span class="catLabel">Best Sellers</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/mens-best-sellers"><span class="catLabel">Best Sellers</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/mens-new-arrivals"><span class="catLabel">New Arrivals</span></a></li>
+							                                <li class=""><a class="button-link" href="/mens-designer-fashion.html"><span class="catLabel">Designer Picks</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/classic-footwear-mens-collection"><span class="catLabel">Classic Footwear Collection</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/limited-releases"><span class="catLabel">Limited Releases</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/mens-shop-the-look"><span class="catLabel">Shop The Look</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/field-boots"><span class="catLabel">Field Boots</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="/pant-fit-guide.html"><span class="catLabel">Pant Fit Guide</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/classic-footwear-mens-collection"><span class="catLabel">Classic Footwear Collection</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/gifts-for-him"><span class="catLabel">Gifts for Him</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/for-the-winter-mens-collection"><span class="catLabel">Winter Essentials</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="/sensorflex.html"><span class="catLabel">SensorFlex™ Collection</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/gifts-for-him"><span class="catLabel">Gifts for Him</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/sensorflex.html"><span class="catLabel">SensorFlex™ Collection</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/pant-fit-guide.html"><span class="catLabel">Pant Fit Guide</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/mens-compatible-layering-system.html"><span class="catLabel">Compatible Layering System</span></a></li>
 													 									</ul>
 
     			    				</li>
     			    				    				    				    				        
-												        										<li class="has-dropdown has-dropdown-js sub-category">
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/mens-footwear" class="sub-category-header">Footwear</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/mens-footwear" class="all">Shop All Footwear</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/mens-boots">Boots</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-hiking-boots-shoes">Hiking Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-shoes">Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-boat-shoes">Boat Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-sandals">Sandals</a></li>
-																																													<li><a href="/timberland-boot-company.html">Timberland Boot Company®</a></li>
-																																													<li><a href="/custom.html">Custom Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-timberland-pro-boots">Timberland PRO® Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-sale-footwear">Sale Footwear</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/mens-boots">Boots</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-winter-boots">Winter Boots</a></li>
+																																													<li class=""><a href="/custom.html">Custom Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-shoes">Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-hiking-boots-shoes">Hiking Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-boat-shoes">Boat Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-sandals">Sandals</a></li>
+																																													<li class=""><a href="/timberland-boot-company.html">Timberland Boot Company®</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-timberland-pro-boots">Timberland PRO® Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-sale-footwear">Sale Footwear</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/mens-clothing" class="sub-category-header">Clothing</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/mens-clothing" class="all">Shop All Clothing</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/mens-jackets-outerwear">Jackets &amp; Outerwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-shirts">Shirts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-polos">Polos</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-tshirts">T-Shirts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-shorts">Shorts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-pants-shorts">Pants</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-sweaters">Sweaters</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-sweatshirts">Sweatshirts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-timberland-pro-workwear">Timberland PRO® Workwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-clothing-sale">Sale Clothing</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/mens-jackets-outerwear">Jackets, Coats &amp; Vests</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-shirts">Shirts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-pants-shorts">Pants</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-sweaters">Sweaters</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-sweatshirts">Sweatshirts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-tshirts">T-Shirts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-polos">Polos</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-shorts">Shorts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-timberland-pro-workwear">Timberland PRO® Workwear</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-clothing-sale">Sale Clothing</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/mens-accessories" class="sub-category-header">Accessories</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/mens-accessories" class="all">Shop All Accessories</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/mens-hats-scarves-gloves">Hats</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-socks">Socks</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-product-care">Product Care &amp; Laces</a></li>
-																																													<li><a href="https://www.timberland.com/shop/watches-mens">Watches</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-wallets">Wallets</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-backpacks-luggage">Backpacks &amp; Luggage</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-belts">Belts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-sunglasses">Sunglasses</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-other-gear">Other Gear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-accessories-sale">Sale Accessories</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/mens-backpacks-luggage">Backpacks &amp; Luggage</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-hats-scarves-gloves">Hats, Scarves, &amp; Gloves</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-socks">Socks</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-product-care">Product Care &amp; Laces</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/watches-mens">Watches</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-wallets">Wallets</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-belts">Belts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-sunglasses">Sunglasses</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-other-gear">Other Gear</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-accessories-sale">Sale Accessories</a></li>
 																																</ul>
 				</li>
 			        		
 					<li class="has-dropdown has-dropdown-js scaling-promo">
 							
-							<!-- generated: Thu Jun 02 09:47:14 EDT 2016 -->
+							<!-- generated: Thu Nov 03 03:45:41 EDT 2016 -->
 
 
 
@@ -666,17 +693,16 @@
 	
 					
 						
-			<a href="/shop/classic-footwear-mens-collection">
-<span data-picture="" data-alt="hero header">
-<img src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-m-classics?$TOP-NAV-ESPOT-1COL$"></span>
-<span data-src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-m-classics?$TOP-NAV-ESPOT-1COL$" data-media="(min-width: 780px)"></span>
+			<span data-picture="" data-alt="hero header">
+<img src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$"></span>
+<span data-src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$" data-media="(min-width: 780px)"></span>
 <!--[if (lt IE 9) & (!IEMobile)]>
-<span data-src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-m-classics?$TOP-NAV-ESPOT-1COL$"></span>
+<span data-src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$"></span>
 <![endif]-->
 <noscript>
-<img src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-m-classics?$TOP-NAV-ESPOT-1COL$" alt="hero header">
+<img src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$" alt="hero header">
 </noscript>
-</a>
+
 
 
 						
@@ -688,11 +714,11 @@
 </div>
 
 					            </li>
-		    </ul>
+				    </ul>
 <!-- -->
 					</li>
 				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
 						
 								<a href="/womens.html">Women</a>
 								<span class="dropdown-arrow"></span>
@@ -724,65 +750,68 @@
 				<a class="topnav-main-item-featured-item-header sub-category-header">Featured</a>
 				<ul class="topnav-main-item-featured-items-list dropdown">
 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/womens-saltwater-tides-collection"><span class="catLabel">Saltwater Tides Collection</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/womens-new-arrivals"><span class="catLabel">New Arrivals</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/womens-best-sellers"><span class="catLabel">Best Sellers</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/womens-best-sellers"><span class="catLabel">Best Sellers</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/womens-new-arrivals"><span class="catLabel">New Arrivals</span></a></li>
+							                                <li class=""><a class="button-link" href="/womens-designer-fashion.html"><span class="catLabel">Designer Picks</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/classic-footwear-womens-collection"><span class="catLabel">Classic Footwear Collection</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/classic-footwear-womens-collection"><span class="catLabel">Classic Footwear Collection</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="/sensorflex.html"><span class="catLabel">Sensorflex™ Collection</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/for-the-winter-womens-collection"><span class="catLabel">Winter Essentials</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/gifts-for-her"><span class="catLabel">Gifts for Her</span></a></li>
 													 									</ul>
 
     			    				</li>
     			    				    				    				    				        
-												        										<li class="has-dropdown has-dropdown-js sub-category">
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/womens-footwear" class="sub-category-header">Footwear</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/womens-footwear" class="all">Shop All Footwear</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/womens-boots">Boots</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-hiking">Hiking Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-shoes">Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-boat-shoes">Boat Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-sandals">Sandals</a></li>
-																																													<li><a href="/custom.html">Custom Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-pro-boots">Timberland PRO® Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-sale-footwear">Sale Footwear</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/womens-boots">Boots</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-winter-boots">Winter Boots</a></li>
+																																													<li class=""><a href="/custom.html">Custom Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-shoes">Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/timberland-boot-company-womens-collection">Timberland Boot Company®</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-hiking">Hiking Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-boat-shoes">Boat Shoes</a></li>
+																																																										<li class=""><a href="https://www.timberland.com/shop/womens-pro-boots">Timberland PRO® Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-sale-footwear">Sale Footwear</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/womens-clothing" class="sub-category-header">Clothing</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/womens-clothing" class="all">Shop All Clothing</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/womens-jackets-outerwear">Jackets &amp; Outerwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-clothing-sale">Sale Clothing</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/womens-jackets-outerwear">Jackets &amp; Coats</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-clothing-sale">Sale Clothing</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/womens-accessories" class="sub-category-header">Accessories</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/womens-accessories" class="all">Shop All Accessories</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/womens-socks">Socks</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-product-care">Product Care &amp; Laces</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-handbags-wallets">Handbags &amp; Wallets</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-backpacks-luggage">Backpacks &amp; Luggage</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-hats-scarves-gloves">Hats &amp; Scarves</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-watches">Watches</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-sunglasses">Sunglasses</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-accessories-sale">Sale Accessories</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/womens-hats-scarves-gloves">Hats, Scarves, &amp; Gloves</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-handbags-wallets">Handbags &amp; Wallets</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-socks">Socks</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-product-care">Product Care &amp; Laces</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-backpacks-luggage">Backpacks &amp; Luggage</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-watches">Watches</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-sunglasses">Sunglasses</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-accessories-sale">Sale Accessories</a></li>
 																																</ul>
 				</li>
 			        		
 					<li class="has-dropdown has-dropdown-js scaling-promo">
 							
-							<!-- generated: Thu Jun 02 09:47:19 EDT 2016 -->
+							<!-- generated: Thu Nov 03 03:45:46 EDT 2016 -->
 
 
 
@@ -803,17 +832,15 @@
 	
 					
 						
-			<a href="/shop/classic-footwear-womens-collection">
-<span data-picture="" data-alt="hero header">
-<img src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-w-classics?$TOP-NAV-ESPOT-1COL$"></span>
-<span data-src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-w-classics?$TOP-NAV-ESPOT-1COL$" data-media="(min-width: 780px)"></span>
+			<span data-picture="" data-alt="hero header">
+<img src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$"></span>
+<span data-src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$" data-media="(min-width: 780px)"></span>
 <!--[if (lt IE 9) & (!IEMobile)]>
-<span data-src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-w-classics?$TOP-NAV-ESPOT-1COL$"></span>
+<span data-src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$"></span>
 <![endif]-->
 <noscript>
-<img src="//images.timberland.com/is/image/TimberlandBrand/espot-nav-w-classics?$TOP-NAV-ESPOT-1COL$" alt="hero header">
+<img src="//images.timberland.com/is/image/TimberlandBrand/49096-dropdown-espot-free-shipping-1?$TOP-NAV-ESPOT$" alt="hero header">
 </noscript>
-</a>
 
 
 						
@@ -825,11 +852,11 @@
 </div>
 
 					            </li>
-		    </ul>
+				    </ul>
 <!-- -->
 					</li>
 				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
 						
 								<a href="/kids.html">Kids</a>
 								<span class="dropdown-arrow"></span>
@@ -856,42 +883,43 @@
         		
         
     	    	    	    				    				    				        
-																<li class="has-dropdown has-dropdown-js sub-category">
+																<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/footwear-kids" class="sub-category-header">Footwear</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/footwear-kids" class="all">Shop All Footwear</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/kids-boots-shoes">Boots &amp; Shoes</a></li>
-																																													<li><a href="/custom.html">Custom Boots</a></li>
+    																																										<li class=""><a href="/custom.html">Custom Boots</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/kids-boots-shoes">Boots &amp; Shoes</a></li>
 																																													</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/kids-accessories" class="sub-category-header">Accessories</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/kids-accessories" class="all">Shop All Accessories</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/kids-socks">Socks</a></li>
-																																																										<li><a href="https://www.timberland.com/shop/kids-backpacks-techcases">Backpacks</a></li>
-																																													</ul>
+    																																										<li class=""><a href="https://www.timberland.com/shop/kids-socks">Socks</a></li>
+																																																										<li class=""><a href="https://www.timberland.com/shop/kids-backpacks-techcases">Backpacks</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/accessories-sale-kids">Sale Accessories</a></li>
+																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/kids-shop-by-size" class="sub-category-header">Shop by Size</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/kids-shop-by-size" class="all">Shop All Shop by Size</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/kids-infant">Infant (0-1 yrs)</a></li>
-																																													<li><a href="https://www.timberland.com/shop/kids-toddler">Toddler (1-5 yrs)</a></li>
-																																													<li><a href="https://www.timberland.com/shop/kids-youth">Youth (5-9 yrs)</a></li>
-																																													<li><a href="https://www.timberland.com/shop/kids-junior">Junior (9-13 yrs)</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/kids-infant">Infant (0-1 yrs)</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/kids-toddler">Toddler (1-5 yrs)</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/kids-youth">Youth (5-9 yrs)</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/kids-junior">Junior (9-13 yrs)</a></li>
 																																</ul>
 				</li>
 			        		
 					<li class="has-dropdown has-dropdown-js scaling-promo">
 							
-							<!-- generated: Thu Jun 02 09:47:21 EDT 2016 -->
+							<!-- generated: Thu Nov 03 03:45:48 EDT 2016 -->
 
 
 
@@ -932,7 +960,7 @@
 </div>
 
 					            </li>
-		    </ul>
+				    </ul>
 <!-- -->
 					</li>
 				
@@ -942,7 +970,7 @@
 							
 					</li>
 				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
 						
 								<a href="/timberlandpro.html">Timberland PRO®</a>
 								<span class="dropdown-arrow"></span>
@@ -974,83 +1002,87 @@
 				<a class="topnav-main-item-featured-item-header sub-category-header">By Feature</a>
 				<ul class="topnav-main-item-featured-items-list dropdown">
 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-steel-toe"><span class="catLabel">Steel Toe</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-anti-fatigue"><span class="catLabel">Anti-Fatigue</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-anti-fatigue"><span class="catLabel">Anti-Fatigue</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-steel-toe"><span class="catLabel">Steel Toe</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-waterproof"><span class="catLabel">Waterproof</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-waterproof"><span class="catLabel">Waterproof</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-safety-toe"><span class="catLabel">Safety Toe</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-insulated"><span class="catLabel">Insulated</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-alloy-toe"><span class="catLabel">Alloy Toe</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-safety-toe"><span class="catLabel">Safety Toe</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-composite-toe"><span class="catLabel">Composite Toe</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-composite-toe"><span class="catLabel">Composite Toe</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-xl-safety-toe"><span class="catLabel">XL Safety Toe</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-alloy-toe"><span class="catLabel">Alloy Toe</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-soft-toe"><span class="catLabel">Soft Toe</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-soft-toe"><span class="catLabel">Soft Toe</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-insulated"><span class="catLabel">Insulated</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-xl-safety-toe"><span class="catLabel">XL Safety Toe</span></a></li>
 													 																						
-							                                <li><a class="button-link" href="https://www.timberland.com/shop/pro-30-day-comfort-guarantee"><span class="catLabel">30-Day Comfort Guarantee</span></a></li>
+							                                <li class=""><a class="button-link" href="https://www.timberland.com/shop/pro-30-day-comfort-guarantee"><span class="catLabel">30-Day Comfort Guarantee</span></a></li>
 													 									</ul>
 
     			    				</li>
     			    				    				    				    				    				        
-												        										<li class="has-dropdown has-dropdown-js sub-category">
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/mens-timberland-pro" class="sub-category-header">Men's Timberland PRO®</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/mens-timberland-pro" class="all">Shop All Men's Timberland PRO®</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/mens-pro-work-boots">Work Boots</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-pro-work-shoes">Work Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-pro-duty-boots">Duty Boots</a></li>
-																																													<li><a href="https://www.timberland.com/shop/timberland-pro-mens-workwear">Workwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/timberland-pro-accessories">Accessories</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-pro-best-sellers">Best Sellers</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/mens-pro-work-boots">Work Boots</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-pro-work-shoes">Work Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-pro-duty-boots">Tactical Boots</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-pro-best-sellers">Best Sellers</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-pro-new-arrivals">New Arrivals</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-pro-top-rated">Top Rated</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/timberland-pro-mens-workwear">Workwear</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/timberland-pro-accessories">Accessories</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/timberland-pro-workwear" class="sub-category-header">Timberland PRO® Workwear</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/timberland-pro-workwear" class="all">Shop All Timberland PRO® Workwear</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/timberland-pro-workwear-tops">Work Shirts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/timberland-pro-workwear-pants">Work Pants &amp; Shorts</a></li>
-																																													<li><a href="https://www.timberland.com/shop/timberland-pro-workwear-outerwear">Outerwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/timberland-pro-accessories">Accessories</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/timberland-pro-workwear-outerwear">Outerwear</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/timberland-pro-workwear-tops">Work Shirts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/timberland-pro-workwear-pants">Work Pants &amp; Shorts</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/timberland-pro-accessories">Accessories</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/womens-timberland-pro" class="sub-category-header">Women's Timberland PRO®</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/womens-timberland-pro" class="all">Shop All Women's Timberland PRO®</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/womens-pro-work-boots-shoes">Work Boots &amp; Shoes</a></li>
-																																													<li><a href="https://www.timberland.com/shop/pro-women-accessories">Accessories</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/womens-pro-work-boots-shoes">Work Boots &amp; Shoes</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/pro-women-accessories">Insoles &amp; Hats</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="/timberlandpro/stay-on-your-feet.html" class="sub-category-header">More</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="/timberlandpro/stay-on-your-feet.html" class="all">Shop All More</a></li>
-    																																										<li><a href="/timberlandpro/stay-on-your-feet.html">Stay On Your Feet</a></li>
-																																													<li><a href="/timberlandpro/about-us.html">About PRO</a></li>
-																																													<li><a href="/timberlandpro/contact-us.html">Contact PRO</a></li>
+    																																										<li class=""><a href="/utility/pro-store-locator.html">Find A Store</a></li>
+																																													<li class=""><a href="/timberlandpro/gridworks-work-boots.html">Gridworks</a></li>
+																																													<li class=""><a href="/timberlandpro/powertrain.html">Powertrain Sport</a></li>
+																																													<li class=""><a href="/timberlandpro/about-us.html">About PRO</a></li>
+																																													<li class=""><a href="/timberlandpro/contact-us.html">Contact PRO</a></li>
 																																</ul>
 				</li>
 			        		
 				
-        	    		        	        					        					        					        					        							    </ul>
+        	    		        	        					        					        					        					        									    </ul>
 <!-- -->
 					</li>
 				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
 						
 								<a href="/sale.html">Sale</a>
 								<span class="dropdown-arrow"></span>
@@ -1077,29 +1109,29 @@
         		
         
     	    	    	    				    				    				        
-																<li class="has-dropdown has-dropdown-js sub-category">
+																<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/mens-sale" class="sub-category-header">Men</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/mens-sale" class="all">Shop All Men</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/mens-sale-footwear">Sale Footwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-clothing-sale">Sale Clothing</a></li>
-																																													<li><a href="https://www.timberland.com/shop/mens-accessories-sale">Sale Accessories</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/mens-sale-footwear">Sale Footwear</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-clothing-sale">Sale Clothing</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/mens-accessories-sale">Sale Accessories</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="https://www.timberland.com/shop/womens-sale" class="sub-category-header">Women</a>
 						
 					<ul class="content dropdown">
 						    						    							<li><a href="https://www.timberland.com/shop/womens-sale" class="all">Shop All Women</a></li>
-    																																										<li><a href="https://www.timberland.com/shop/womens-sale-footwear">Sale Footwear</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-clothing-sale">Sale Clothing</a></li>
-																																													<li><a href="https://www.timberland.com/shop/womens-accessories-sale">Sale Accessories</a></li>
+    																																										<li class=""><a href="https://www.timberland.com/shop/womens-sale-footwear">Sale Footwear</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-clothing-sale">Sale Clothing</a></li>
+																																													<li class=""><a href="https://www.timberland.com/shop/womens-accessories-sale">Sale Accessories</a></li>
 																																</ul>
 				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
                     
 											<a href="/sale.html" class="sub-category-header">SALE</a>
 						
@@ -1109,11 +1141,11 @@
 				</li>
 			        		
 				
-        	    		        	        					        					        							    </ul>
+        	    		        	        					        					        									    </ul>
 <!-- -->
 					</li>
 				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
 						
 								<a href="/moderntrail.html">MORE</a>
 								<span class="dropdown-arrow"></span>
@@ -1126,7 +1158,7 @@
 	<li>
 		<div class="sub-categories">
 			<ul class="content">
-									<li class="topnav-main-item-thumbnails-item item">
+									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="/article-archive.html" class="img">
 						
 													<img data-original="//images.timberland.com/is/image/TimberlandBrand/49380-more-nav-blog?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
@@ -1134,39 +1166,7 @@
 		            	</a>
 
 											</li>
-									<li class="topnav-main-item-thumbnails-item item">
-													<a href="/markmakers.html" class="img">
-						
-													<img data-original="//images.timberland.com/is/image/TimberlandBrand/49380-more-nav-markmakers?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
-							<span>MarkMakers</span>
-		            	</a>
-
-											</li>
-									<li class="topnav-main-item-thumbnails-item item">
-													<a href="/yourmoderntrail.html" class="img">
-						
-													<img data-original="//images.timberland.com/is/image/TimberlandBrand/48891-nav-your-moderntrail?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
-							<span>Your #ModernTrail</span>
-		            	</a>
-
-											</li>
-									<li class="topnav-main-item-thumbnails-item item">
-													<a href="/limited-release.html" class="img">
-						
-													<img data-original="//images.timberland.com/is/image/TimberlandBrand/49380-more-nav-limited-release?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
-							<span>Limited Release</span>
-		            	</a>
-
-											</li>
-									<li class="topnav-main-item-thumbnails-item item">
-													<a href="/lookbook.html" class="img">
-						
-													<img data-original="//images.timberland.com/is/image/TimberlandBrand/49380-more-nav-lookbook?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
-							<span>Lookbook</span>
-		            	</a>
-
-											</li>
-									<li class="topnav-main-item-thumbnails-item item">
+									<li class="topnav-main-item-thumbnails-item item ">
 													<a href="/yellow-boot.html" class="img">
 						
 													<img data-original="//images.timberland.com/is/image/TimberlandBrand/48891-nav-the-original-yellow-boot?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
@@ -1174,66 +1174,143 @@
 		            	</a>
 
 											</li>
+									<li class="topnav-main-item-thumbnails-item item ">
+													<a href="/yourmoderntrail.html" class="img">
+						
+													<img data-original="//images.timberland.com/is/image/TimberlandBrand/48891-nav-your-moderntrail?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
+							<span>Your #ModernTrail</span>
+		            	</a>
+
+											</li>
+									<li class="topnav-main-item-thumbnails-item item ">
+													<a href="/limited-release.html" class="img">
+						
+													<img data-original="//images.timberland.com/is/image/TimberlandBrand/49846-more-nav-LTD-new?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
+							<span>Limited Release</span>
+		            	</a>
+
+											</li>
+									<li class="topnav-main-item-thumbnails-item item ">
+													<a href="/events.html" class="img">
+						
+													<img data-original="//images.timberland.com/is/image/TimberlandBrand/49846-more-nav-events?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
+							<span>Events</span>
+		            	</a>
+
+											</li>
+									<li class="topnav-main-item-thumbnails-item item ">
+													<a href="/lookbook.html" class="img">
+						
+													<img data-original="//images.timberland.com/is/image/TimberlandBrand/f16-lookbook-more2?$CATEGORY-THUMBNAIL$" class="show-for-medium-up lazy">
+							<span>Lookbook</span>
+		            	</a>
+
+											</li>
 				
-													<li class="topnav-main-item-thumbnails-item item">
-						<a href="/moderntrail.html" class="img">
-														<img data-original="//images.timberland.com/is/image/timberland/48891%2Dnav%2Dsee%2Dthe%2Dlatest?$CATEGORY%2DTHUMBNAIL$" alt="MORE" class="show-for-medium-up lazy">
-							<span>MORE</span>
-						</a>
-					</li>
-							</ul>
+											</ul>
 		</div>
 	</li>
 </ul><!-- -->
 					</li>
 				
-					                    </ul>
+						                    </ul>
+					</div>
+	    				    					
+							<!-- generated: Thu Nov 03 03:45:54 EDT 2016 -->
+
+
+
+<ul class="topnav-util right upper">
+	<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
+				<li class="topnav-util-item unav-1  ">
+					
+							<a title="Gift Cards" class="" href="http://timberland.cashstar.com/"><span class="icon icon-gift-card"></span><span class="hide-for-medium">Gift Cards</span></a>
+						
+				</li>
+			<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
+				<li class="topnav-util-item unav-2  ">
+					
+							<a title="Find a Store" class="" href="/utility/store-locator.html"><span class="icon icon-location"></span><span class="hide-for-medium">Find a Store</span></a>
+						
+				</li>
+			<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
+				<li class="topnav-util-item unav-3  ">
+					
+							<a title="Get Help" class="" href="https://www.timberland.com/customer-service/frequently-asked-questions.html"><span class="icon icon-help"></span><span class="hide-for-medium">Get Help</span></a>
+						
+				</li>
+			
+		<li class="topnav-util-item unav-myaccount">
+			<a title="My Account" id="btn-myaccount" href="https://www.timberland.com/shop/LogonForm?langId=-1&amp;storeId=7101" class=" ">
+				<span class="icon icon-account"></span>
+				<span class="hide-for-medium">My Account</span>
+			</a>
+		</li>
+
+		
+		
+		<li class="topnav-util-item unav-signing">
+			<a title="Sign Out" href="http://www.timberland.com/shop/VFLogoff?catalogId=10101&amp;langId=-1&amp;storeId=7101&amp;URL=LogonForm">
+				<span class="icon icon-sign-out"></span>
+				<span class="hide-for-medium">Sign Out</span>
+			</a>
+		</li>
+		
+		
+		<li class="topnav-util-item unav-shoppingbag unav-shoppingbag-js">
+			<a title="Shopping Cart" id="btn-shoppingbag" class="btn-shoppingbag-js" href="https://www.timberland.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=7101&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D7101%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
+				<span>Cart (<span id="nav-shoppingbag-qty" class="nav-shoppingbag-qty-js"></span>)</span>
+			</a>					
+		</li>
+	
+</ul>
+
+						    				        	</section>
+	         </nav>
+	
+	        									        	    	 
+	    	 <!-- START: SEARCH -->
+	    	<div class="search-form-container">
+	    				
+							<!-- generated: Thu Nov 03 03:45:54 EDT 2016 -->
+
+
+
+		<form class="menu-content search-form-js wcs-form" action="/webapp/wcs/stores/servlet/VFSearchDisplay" method="get">
+			<input type="hidden" name="storeId" value="7101">
+			<input type="hidden" name="catalogId" value="10101">
+			<input type="hidden" name="langId" id="siteLangId" value="-1">
+			<input type="hidden" name="beginIndex" value="0">
+			<input type="hidden" name="searchSource" value="Q">
+			<input type="hidden" name="sType" value="SimpleSearch">
+
+			
+
+			<div class="search-container">
+				<div class="topbar-search-form topbar-search-form-js hide">
+					<span class="dropdown-arrow"></span>
+					<div class="search-input-container">
+						<input class="formPlaceHolder header-search-term-input-js search-input-js" required="" data-filter-chars="" type="text" id="search" name="searchTerm" placeholder="Search Timberland" autocomplete="off">
+					</div>
+					<div class="search-button-container">
+						<input class="search-button search-button-mobile-js" type="submit" value="Search">
+					</div>
 				</div>
-				
-        	</section>
-         </nav>
-    	 
-    	 <!-- START: SEARCH -->
-    	<div class="search-form-container">
-    				
-							<!-- generated: Thu Jun 02 09:47:26 EDT 2016 -->
-
-
-
-<form class="menu-content search-form-js wcs-form" action="/webapp/wcs/stores/servlet/VFSearchDisplay" method="get" novalidate="novalidate">
-	<input type="hidden" name="storeId" value="7101">
-	<input type="hidden" name="catalogId" value="10101">
-	<input type="hidden" name="langId" id="siteLangId" value="-1">
-	<input type="hidden" name="beginIndex" value="0">
-	<input type="hidden" name="searchSource" value="Q">
-	<input type="hidden" name="sType" value="SimpleSearch">
-	
-	
-	
-	<div class="search-container">
-		<div class="topbar-search-form topbar-search-form-js">
-			<span class="dropdown-arrow"></span>
-			<div class="search-input-container">
-				<input class="formPlaceHolder header-search-term-input-js search-input-js" data-filter-chars="" type="text" id="search" name="searchTerm" placeholder="Search Timberland" autocomplete="off">
+				<a href="#" class="postfix search-button" title="Search"><span class="icon-search"></span><span class="hide">Search</span></a>
 			</div>
-			<div class="search-button-container">
-				<input class="search-button search-button-mobile-js" type="submit" value="Search">
-			</div>
-		</div>
-		<a href="#" class="icon-search postfix search-button"></a>
+			<div class="ui-autocomplete-container ui-suggestion-list"></div>
+		</form>
+						    	</div>
+	    	<!-- END: SEARCH -->
+	    </div>
 	</div>
-	<div class="ui-autocomplete-container ui-suggestion-list"></div>
-</form>
-					    	</div>
-    	<!-- END: SEARCH -->
-    </div>
 </div>
 
 <article class="page-util">
 	<div class="page-util-container">
-				<div id="espot-header" class="espot-header-js">
+						<div id="espot-header" class="espot-header-js">
 					
-							<!-- generated: Thu Jun 02 09:47:27 EDT 2016 -->
+							<!-- generated: Thu Nov 03 03:45:54 EDT 2016 -->
 
 
 
@@ -1246,7 +1323,7 @@
 </div>
 
 							</div>
-		
+				
 			</div>
 </article>
 		<!-- -->
@@ -1256,7 +1333,8 @@
 <div class="row layout-col-2-left">
 <main class="medium-8 large-9 medium-push-4 large-push-3 columns">
 <article>
-<div class="parsys content"><div class="basecomponent section title"><section class="title">
+<div class="parsys content"><div class="basecomponent section title">
+<section class="title">
 <!-- START garnish wrap open -->
 <div class="garnish-wrapper">
 <div class="garnish-full-width top-pad-default bottom-pad-default top-margin-default bottom-margin-default" style="">
@@ -1577,7 +1655,8 @@ information in accordance with this Privacy Policy.</p>
 </article>
 </main>
 <aside class="medium-4 large-3 medium-pull-8 large-pull-9 columns">
-<div class="sidebar parsys"><div class="basecomponent section secondarynav"><nav class="secondarynavigation layout-vertical">
+<div class="sidebar parsys"><div class="basecomponent section secondarynav">
+<nav class="secondarynavigation layout-vertical">
 <h3>Customer Service</h3>
 <ul>
 <li class="">
@@ -1779,7 +1858,12 @@ information in accordance with this Privacy Policy.</p>
 </div>
 </div>
 </section></section>
-<div class="footer"><!--START: VF FOOTER-->
+<!-- ESI/SSI Start Footer-->
+<!-- IncludeURL: /utility/footer.footer.html -->
+<!-- ESI include -->
+
+<div class="footer splitcolumnfooter">
+<!--START: VF FOOTER-->
 <footer class="extended">
 <div class="footer-content-wrap">
 <div class="footer-branding row">
@@ -1789,17 +1873,27 @@ information in accordance with this Privacy Policy.</p>
 </div>
 </div>
 <div class="footer-content row">
-<div class="small-12 medium-2 large-2 medium-offset-1 large-offset-1 columns ">
+<div class="small-12 medium-2 large-2 medium-offset-1 large-offset-1 columns">
+<div class="footer_col1 footer_col">
+<div class="">
 <div class="heading">SHOP</div>
+<div class="column-content">
 <ul>
 <li><a href="/mens.html">Men</a></li>
 <li><a href="/womens.html">Women</a></li>
 <li><a href="/kids.html">Kids</a></li>
+<li><a href="/custom.html">Custom</a></li>
 <li><a href="/timberlandpro.html">Timberland PRO®</a></li>
 </ul>
+​</div>
 </div>
-<div class="small-12 medium-2 large-2 columns ">
+</div>
+</div>
+<div class="small-12 medium-2 large-2 columns">
+<div class="footer_col2 footer_col">
+<div class="">
 <div class="heading">Modern Trail</div>
+<div class="column-content">
 <ul>
 <li><a href="/article-archive.html">Blog</a></li>
 <li><a href="/markmakers.html">MarkMakers</a></li>
@@ -1807,35 +1901,58 @@ information in accordance with this Privacy Policy.</p>
 <li><a href="/lookbook.html">Lookbook</a></li>
 <li><a href="/yellow-boot.html">The Original Yellow Boot™</a></li>
 </ul>
+​</div>
 </div>
-<div class="small-12 medium-2 large-2 columns ">
+</div>
+</div>
+<div class="small-12 medium-2 large-2 columns">
+<div class="footer_col3 footer_col">
+<div class="">
 <div class="heading">About</div>
+<div class="column-content">
 <ul>
 <li><a href="/about-us.html">About Us</a></li>
 <li><a href="/newsroom.html" target="_blank">Newsroom</a></li>
 <li><a href="/responsibility.html" target="_blank">Responsibility</a></li>
 <li><a href="http://ir.vfc.com/" target="_blank">Investor Relations</a></li>
 <li><a href="/about-us/careers.html">Careers</a></li>
+<li><a href="http://www.vfc.com/california-transparency-in-supply-chains-act" target="_blank">CA Supply Chains Act</a></li>
 </ul>
+​</div>
 </div>
-<div class="small-12 medium-2 large-2 columns ">
-<div class="heading">Customer Service</div>
+</div>
+</div>
+<div class="small-12 medium-2 large-2 columns">
+<div class="footer_col4 footer_col">
+<div class="">
+<div class="heading">Assistance</div>
+<div class="column-content">
 <ul>
-<li><a href="/customer-service/contact-us.html">Contact Us</a></li>
-<li><a href="/customer-service/shipping/shipping-policy.html">Shipping</a></li>
-<li><a href="/customer-service/returns/return-policy.html">Returns</a></li>
-<li><a href="https://timberland.cashstar.com/" target="_blank">Gift Cards</a></li>
-<li><a href="tel://1-888-802-9947">1-888-802-9947</a></li>
+<li><a href="/customer-service/frequently-asked-questions.html" target="_blank">FAQ</a></li>
+<li><a href="/customer-service/warranties/warranty.html" target="_blank">Warranty</a></li>
+<li><a href="/customer-service/shipping/shipping-policy.html" target="_blank">Shipping</a></li>
+<li><a href="/customer-service/returns/return-policy.html" target="_blank">Returns</a></li>
+<li><a href="/webapp/wcs/stores/servlet/LogonForm?pageName=orderlookup&amp;langId=-1&amp;storeId=7101">Track My Order</a></li>
+<li><a href="/contact-us.html" target="_blank">Contact Us</a></li>
 </ul>
+​</div>
 </div>
-<div class="small-12 medium-2 large-2 columns end ">
+</div>
+</div>
+<div class="small-12 medium-2 large-2 columns end">
+<div class="footer_col5 footer_col">
+<div class="">
 <div class="heading">My Account</div>
+<div class="column-content">
 <ul>
+<li><a href="/webapp/wcs/stores/servlet/LogonForm?pageName=orderlookup&amp;langId=-1&amp;storeId=7101">Order Status</a></li>
 <li><a href="/shop/LogonForm?langId=-1&amp;storeId=7101">Login</a></li>
-<li><a href="/shop/LogonForm?langId=-1&amp;storeId=7101">Create</a></li>
-<li><a href="/webapp/wcs/stores/servlet/LogonForm?pageName=orderlookup&amp;langId=-1&amp;storeId=7101">Track Your Order</a></li>
 <li><a href="/shop/LogonForm?listId=.&amp;langId=-1&amp;pageName=wishlist&amp;storeId=7101">Wish List</a></li>
+<li><a href="https://timberland.cashstar.com/" target="_blank">Gift Cards</a></li>
 </ul>
+​</div>
+</div>
+</div>
 </div>
 </div>
 <!-- /footer-content -->
@@ -1853,24 +1970,23 @@ var md5 = md5 || function(){for(var m=[],l=0;64>l;)m[l]=0|4294967296*Math.abs(Ma
 <div class="large-4 medium-4 columns text-left footer-social">
 <div class="heading">Follow Timberland</div>
 <div itemscope="" itemtype="http://schema.org/Organization">
-<meta itemprop="name" value="timberland">
-<meta itemprop="url" value="https://www.timberland.com">
+<meta itemprop="name" content="timberland">
+<meta itemprop="url" content="https://www.timberland.com">
 <a href="https://twitter.com/Timberland" class="social-icon icon-twitter" target="_blank" itemprop="sameAs" title="twitter"></a>
 <a href="https://www.facebook.com/timberland" class="social-icon icon-facebook" target="_blank" itemprop="sameAs" title="facebook"></a>
-<a href="http://instagram.com/timberland" class="social-icon icon-instagram" target="_blank" itemprop="sameAs" title="instagram"></a>
+<a href="https://www.instagram.com/timberland/" class="social-icon icon-instagram" target="_blank" itemprop="sameAs" title="instagram"></a>
 <a href="http://timberland.tumblr.com/" class="social-icon icon-tumblr" target="_blank" itemprop="sameAs" title="tumblr"></a>
 <a href="https://www.youtube.com/timberland" class="social-icon icon-youtube" target="_blank" itemprop="sameAs" title="youtube"></a>
 <a href="http://www.pinterest.com/timberland/" class="social-icon icon-pinterest" target="_blank" itemprop="sameAs" title="pinterest"></a>
 </div>
 </div>
 <div class="large-3 medium-4 columns text-left footer-signup end">
-<form class="signup" type="GET" action="//www.timberland.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up.&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}" data-abide="true">
+<form class="signup custom" method="GET" action="//www.timberland.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up!&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}" data-abide="true">
 <div class="heading">Join Our Email List</div>
 <p class="show-for-large-up">Special Offers, New Arrivals &amp; News</p>
 <div class="row collapse">
 <div class="small-10 columns input-wrapper">
-<input class="email" type="email" name="email" required="" placeholder="Email Address"> <small class="error">A
-valid email address is required.</small>
+<input class="email" type="email" name="email" required="" placeholder="Email Address"> <small class="error">A valid email address is required</small>
 </div>
 <div class="small-2 columns email-wrapper">
 <button class="icon-arrow-right-indicator-open postfix" type="submit"></button>
@@ -1882,7 +1998,7 @@ valid email address is required.</small>
 <input type="hidden" name="field1Name" value="email">
 <input type="hidden" name="field2Name" value="location">
 <input type="hidden" name="location" value="Footer">
-<div class="row signup-message hide"></div>
+<div class="row collapse signup-message hide"></div>
 </form>
 </div>
 </div>
@@ -1914,7 +2030,7 @@ valid email address is required.</small>
 </a>
 <ul id="dropLocalize" class="f-dropdown" data-dropdown-content="">
 <li>
-<a href="http://www.timberlandonline.co.uk/">
+<a href="https://www.timberland.co.uk">
 GBR<img data-src="/etc/designs/vfcorp/timberland/clientlibs/global/images/flags/United-Kingdom.png" alt="GBR">
 </a>
 </li>
@@ -2006,7 +2122,6 @@ ARG<img data-src="/etc/designs/vfcorp/timberland/clientlibs/global/images/flags/
 <li><a href="/customer-service/privacy-security/privacy.html">Privacy</a></li>
 <li><a href="/customer-service/privacy-security/security.html">Security</a></li>
 <li><a href="/customer-service/privacy-security/counterfeit.html">Counterfeit Reporting</a></li>
-<li><a href="http://vfc.com/corporate-responsibility/social/global-compliance">Supply Chain Act of 2010</a></li>
 <li><a href="/sitemap.html">Site Map</a></li>
 </ul></div>
 </div>
@@ -2017,6 +2132,8 @@ ARG<img data-src="/etc/designs/vfcorp/timberland/clientlibs/global/images/flags/
 </footer>
 <!-- END VF FOOTER -->
 </div>
+
+<!-- ESI/SSI End Footer-->
 </div>
 
 
