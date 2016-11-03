@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026054551id_/http%3A//www.wowza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103030112id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policies
+
+Wowza® Media Systems, LLC (address: 523 Park Point Drive, Suite 100, Golden, Colorado 80401 USA, “Wowza”) values your privacy and takes the protection of your privacy seriously. This Privacy Policy (this “Policy”) describes how we collect, use, and disclose information that we obtain about visitors to our website www.wowza.com (including all related webpages and sites, the “Site”), users of Wowza software and mobile device applications (collectively, the “Software”) and services provided or resold by Wowza (each, a “Service”).  
+
+By visiting the Site or using Software or a Service, you agree that your personal information will be handled as described in this Policy, and consent to the same. Your use of the Site, Software, or a Service, and any controversy or dispute related to the privacy or use of your personal information, is subject to this Policy, along with other applicable terms and conditions, including limitations on damages and resolution of disputes (the applicable End User License Agreement for Software, for example), which are incorporated by reference into this Policy. 
 
 **What Information Does Wowza Collect About You?**
 
@@ -71,7 +75,7 @@ Wowza is a global organization and your information may be transferred, stored, 
 
 **Updates to this Policy**
 
-Wowza may update this Policy occasionally to ensure that you are informed of our practices with regard to personal information. When we update this policy, we will update [www.wowza.com/privacy](http://www.wowza.com/privacy) and, depending on our view of the significance of the update, send an email to all Site, Software, and Services users notifying them of the update. Your continued use of the Site, Software, or Services following such an update to this Policy on the Site indicates your acceptance of the updated Policy.
+Wowza may update this Policy occasionally to ensure that you are informed of our practices with regard to personal information. When we update this policy, we will update [www.wowza.com/privacy](https://www.wowza.com/legal/privacy) and, depending on our view of the significance of the update, send an email to all Site, Software, and Services users notifying them of the update. Your continued use of the Site, Software, or Services following such an update to this Policy on the Site indicates your acceptance of the updated Policy.
 
 \----
 
