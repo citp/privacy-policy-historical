@@ -1,37 +1,21 @@
-> *The following text is extracted and transformed from the onlinecashgenerator.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206232835id_/http%3A//www.onlinecashgenerator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecashgenerator.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103155103id_/http%3A//onlinecashgenerator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Online Cash Generator
 
-**
+Your privacy is important to us, and it is Onlinecashgenerator.com’s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-OUR PRIVACY POLICY
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
 
-**
+We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
 
-We are committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time. 
+We will only retain personal information as long as necessary for the fulfillment of those purposes.
 
-In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date. All credit card transactions occur over a secure connection. 
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
 
-All online visitor data collected by 4-GuaranteedSuccess.com is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations.
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
- **
+We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-Children’s Privacy
+We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-**
-
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 4-GuaranteedSuccess.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
-
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
-
-Know the sites your kids are visiting and which sites are appropriate. 
-
-Look for Web site privacy policies. Know how your child's information is treated. 
-
-Check out the _FTC's site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/default.cfml>_ for more tips on protecting children's privacy online. 
-
-Contacting Us.
-
-We can be reached by contacting:
-
-[marketing@onlinecashgenerator.com](mailto:marketing@onlinecashgenerator.com)
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Onlinecashgenerator.com may change its Privacy Policy from time to time, and at Onlinecashgenerator.com’s sole discretion.
