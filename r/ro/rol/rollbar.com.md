@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollbar.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328003343id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollbar.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103144041id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rollbar
 
@@ -12,7 +12,7 @@ The information we receive may be used to provide and improve the Services, resp
 
 **Basic Account Information:** We ask you to log in and provide certain personal information (such as your email address, username, password, or GitHub login credentials) in order to be able to save your profile and the accounts, projects, and other data associated with it. 
 
-**Additional Information:** In order to take advantage of certain features of the Services, you may also choose to provide us with other personal information, such as your picture or personal website. If you authenticate on the Services using your GitHub account, GitHub may send us your registration or profile information on that service and other information that you authorize. This information enables us to authenticate you and improve the Services, and is deleted from Rollbar within 30 days of your disconnecting your GitHub account from the Services. Rollbar may contact you, by email or other means. For example, Rollbar may send you promotional emails relating to Rollbar or other third parties Rollbar feels you would be interested in, or communicate with you about your use of the Rollbar website. Rollbar may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Rollbar, please opt out of receiving emails at the bottom of any Rollbar emails or by editing your profile preferences. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional. 
+**Additional Information:** In order to take advantage of certain features of the Services, you may also choose to provide us with other personal information, such as your picture or personal website. If you authenticate on the Services using an identity provider such as Github, Google, Okta or Bitium (the “Identity Provider”), the Identity Provider may send us your registration or profile information on that service and other information that you authorize. This information enables us to authenticate you and improve the Services, and is deleted from Rollbar within 30 days of your disconnecting your Identity Provider account from the Services. Rollbar may contact you, by email or other means. For example, Rollbar may send you promotional emails relating to Rollbar or other third parties Rollbar feels you would be interested in, or communicate with you about your use of the Rollbar website. Rollbar may also use technology to alert us via a confirmation email when you open an email from us. If you do not want to receive email from Rollbar, please opt out of receiving emails at the bottom of any Rollbar emails or by editing your profile preferences. If you email us, we may keep your message, email address and contact information to respond to your request. Providing the additional information described in this section is entirely optional. 
 
 **Links:** Rollbar may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services and to be able to share aggregate click statistics such as how many times a particular link was clicked on. 
 
@@ -26,7 +26,7 @@ The information we receive may be used to provide and improve the Services, resp
 
 **Your Consent:** We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your Rollbar account. 
 
-**Service Providers:** We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. Rollbar requires that its service providers either subscribe to the Safe Harbor Principles, are subject to the EU Privacy Directive and the Swiss Federal Act on Data Protection or another adequacy finding, or enter into a written agreement with us that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles. 
+**Service Providers:** We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. Rollbar requires that its service providers either subscribe to the Privacy Shield Principles, are subject to the EU Privacy Directive and the Swiss Federal Act on Data Protection or another adequacy finding, or enter into a written agreement with us that requires them to provide at least the same level of privacy protection as is required by the relevant Privacy Shield Principles. 
 
 **Law and Harm:** Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Rollbar's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information. 
 
@@ -52,18 +52,15 @@ Our Services are not directed to persons under age 13. If you become aware that 
 
 Because we want to improve our Services by better understanding your experience, we do not change our behavior based on a web browser's Do Not Track signal. 
 
-#### EU Safe Harbor Framework
+#### Self-Regulatory Frameworks
 
-Rollbar complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the [Safe Harbor](http://export.gov/safeharbor/) program, and to view [our certification](https://safeharbor.export.gov/companyinfo.aspx?id=25383), please visit the U.S. Department of Commerce website. 
-
-[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)
+Rollbar complies with the U.S.-E.U.Privacy Shield Principles and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about our how we collection, use, and retain of personal information when you use our Services in the European Union or member countries, please read our [Privacy Shield Statement](https://web.archive.org/privacy/privacy-shield-statement/). 
 
 #### Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://rollbar.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you via email to the email address associated with your account and by placing a prominent notice on the Services portal. Changes will not apply retroactively and will become effective no sooner than 14 days after they are posted. However, changes made for legal reasons will be effective immediately. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
 
-_Effective: December 14, 2014_
+_Effective: October 17, 2016_
 
 _[Archive of Previous Privacy Policies](https://web.archive.org/privacy/archive/)_
 
