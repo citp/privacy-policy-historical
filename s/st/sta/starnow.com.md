@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321194103id_/http%3A//www.starnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103220647id_/http%3A//www.starnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StarNow
 
@@ -20,7 +20,7 @@ A cookie is a piece of information that is stored on your computer’s hard driv
 
 If you visit StarNow with your browser settings adjusted to accept cookies, we understand that you want to use our products and services. However, you can disable cookies at any time.
 
-Find out more about our [cookie policy](https://web.archive.org/help/CookiePolicy) and learn how to [adjust your cookie settings](http://www.aboutcookies.org/default.aspx?page=1).
+Find out more about our [cookie policy](https://web.archive.org/help/cookies/) and learn how to [adjust your cookie settings](http://www.aboutcookies.org/default.aspx?page=1).
 
 ### Third Party Services
 
