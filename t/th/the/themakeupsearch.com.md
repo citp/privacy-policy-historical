@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themakeupsearch.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204055417id_/http%3A//themakeupsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themakeupsearch.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103103830id_/http%3A//themakeupsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Makeup & Cosmetics - TheMakeUpSearch.Com
 
