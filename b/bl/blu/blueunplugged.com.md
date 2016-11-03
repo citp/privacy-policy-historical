@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueunplugged.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325065219id_/http%3A//www.blueunplugged.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueunplugged.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103203927id_/http%3A//www.blueunplugged.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
