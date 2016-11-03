@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604122742id_/http%3A//www.payzone.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103200058id_/http%3A//www.payzone.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Payzone
 
-Payzone Group (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit www.payzone.ie ("Site") without disclosing any personally identifiable information about yourself. We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.
+Payzone Ireland (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit www.payzone.ie ("Site") without disclosing any personally identifiable information about yourself. We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.
 
-For the purposes of this Privacy Policy Statement "Payzone" means Payzone Group and any company or other entity within the group
+For the purposes of this Privacy Policy Statement "Payzone" means Payzone Ireland and any company or other entity within the group
 
 You should read this notice in conjunction with the Terms and Conditions of use for the Site.
 
@@ -21,7 +21,7 @@ You acknowledge that by providing data to us, you consent to the processing of y
 You can write to us at any time to obtain details of the personal information we may hold about you.*
 
 The Data Protection Manager  
-Payzone Group  
+Payzone Ireland  
 Payzone House  
 4 Fern Road (off Heather Road)  
 Sandyford Ind Est  
