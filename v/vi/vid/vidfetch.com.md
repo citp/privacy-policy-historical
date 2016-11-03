@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidfetch.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328033450id_/http%3A//vidfetch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidfetch.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103224757id_/http%3A//vidfetch.com/privacy.html) for the most accurate reproduction.*
 
 # VidFetch : Download Videos and Convert Mp3 from Popular Video Site ...
 
