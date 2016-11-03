@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503051708id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbackgroundchecks.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103081252id_/http%3A//www.publicbackgroundchecks.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Public Background Checks
 
@@ -9,7 +9,7 @@ At PublicBackgroundChecks.com we respect and protect user privacy. Our Privacy P
 
 Please read the Policy in its entirety. If you use PublicBackgroundChecks.com services or subscribe to offers or emails, you thereby accept the contents of and agree to comply with the Policy. PublicBackgroundChecks.com's reports are not consumer reports, and acceptance of the Policy means you will not use said reports for any purpose protected by the Fair Credit Reporting Act (15 U.S.C. ¤1681, et seq.). 
 
-Please [contact us](https://web.archive.org/web/20160503051708id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com's privacy practices. 
+Please [contact us](https://web.archive.org/web/20161103081252id_/http%3A//www.publicbackgroundchecks.com/contact.aspx) with any questions about PublicBackgroundChecks.com's privacy practices. 
 
 1\. Information we collect: Users We may collect personal information, including name and e-mail address, as well as other information not personally identifiable. 
 
