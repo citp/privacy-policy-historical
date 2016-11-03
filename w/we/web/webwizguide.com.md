@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwizguide.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321080401id_/https%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwizguide.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103191048id_/https%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
@@ -10,7 +10,7 @@
 'Web Wiz' is committed to respecting the privacy of individuals who use the 'Web Wiz' websites and operate and are registered under the The UK Data Protection Act, registration number Z2859497, you can view the full Privacy Statement below. 
 
   1. **Please find below our privacy policy for 'Web Wiz'**  
-We are 'Web Wiz Ltd' a company registered in England & Wales (Company Reg. 5977755) and our registered address is Unit B10, 9 Nimrod Way, East Dorset Trade Park, Wimborne, Dorset, England. Web Wiz takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of this website.
+We are 'Web Wiz Ltd' a company registered in England & Wales (Company Reg. 05977755) and our registered address is Unit B10, 9 Nimrod Way, East Dorset Trade Park, Wimborne, Dorset, England. Web Wiz takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of this website.
   2. **When do we collect data?**  
 We can collect data on you from a variety of different sources these include. 
     1. When you purchase products or services from the site or via any of our other distribution channels. 
@@ -38,12 +38,12 @@ By their very nature the Forum, Guestbook, Listing Directories, etc. are open to
   5. **Children’s Privacy**  
 'Web Wiz' is committed to keeping the details of children private by following the guidelines setout in the US, C.O.P.P.A Children's Online Privacy Protection Act. 
 
-'Web Wiz' does not collect private information from children under the age of 13 without written permission from the child’s parents of guardians. If you are under the age of 13 or you have a child under this age who wishes to use areas of the site that require some level or personal information be given then please send written permission first to, Web Wiz, Unit 10E Dawkins Road Industrial Estate, Poole, Dorset, England.
+'Web Wiz' does not collect private information from children under the age of 13 without written permission from the child’s parents of guardians. If you are under the age of 13 or you have a child under this age who wishes to use areas of the site that require some level or personal information be given then please send written permission first to, Web Wiz, Unit B10, 9 Nimrod Way, East Dorset Trade Park, Wimborne, Dorset, England.
 
 Parents or guardians that find that their children have given private information in accessing any parts of 'Web Wiz' can request that this information be destroyed by emailing using the [contact us form](https://web.archive.org/contact/). 
 
   6. **Cookies**  
-Web Wiz uses small bits of data stored on your computer called 'cookies'. Find out what Web Wiz uses them for, and how to control their use at our '[How cookies are used by Web Wiz](https://web.archive.org/web/20160321080401id_/https%3A//www.webwiz.co.uk/legal/cookies.htm)' Page.
+Web Wiz uses small bits of data stored on your computer called 'cookies'. Find out what Web Wiz uses them for, and how to control their use at our '[How cookies are used by Web Wiz](https://web.archive.org/web/20161103191048id_/https%3A//www.webwiz.co.uk/legal/cookies.htm)' Page.
   7. **Data**  
 In the UK we operate and are registered in accordance with applicable data protection legislation.
   8. **Consent**  
