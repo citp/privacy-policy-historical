@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terasgames.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323070603id_/http%3A//terasgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terasgames.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103232459id_/http%3A//terasgames.com/privacy.html) for the most accurate reproduction.*
 
 # Teras Games - All the Best Games, Always Free
 
@@ -84,7 +84,7 @@ To change your Internet Explorer home page, please follow these instructions:
 
 
 
-For more detailed uninstall instructions, please visit our [uninstall page](https://web.archive.org/web/20160323070603id_/http%3A//terasgames.com/uninstall.html). 
+For more detailed uninstall instructions, please visit our [uninstall page](https://web.archive.org/web/20161103232459id_/http%3A//terasgames.com/uninstall.html). 
 
 ### Questions and Concerns
 
