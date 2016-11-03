@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work4labs.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615130038id_/https%3A//www.work4labs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work4labs.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103094722id_/https%3A//www.work4labs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Work4
 
