@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eshorthairstyles.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503085701id_/http%3A//www.eshorthairstyles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshorthairstyles.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103104826id_/http%3A//www.eshorthairstyles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Short Hairstyles & Haircuts 2015
 
