@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603054514id_/https%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberland.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103110832id_/https%3A//www.timberland.com/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy | Timberland.com
 
