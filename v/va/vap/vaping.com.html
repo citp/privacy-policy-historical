@@ -1,0 +1,521 @@
+<!--The following is the downloaded HTML source of the vaping.com privacy policy that was archived on 2016-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161103025242id_/https%3A//vaping.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy - vaping.com</title>
+<meta name="description" content="Trust vaping.com, the No.1 online vapor destination. Free shipping over $25. Shop vape devices &amp; eliquid from 150 leading brands. Daily expert content.
+">
+<meta name="keywords" content="vaping, vapor, vape, eliquid, e-cigarettes, ecigs, ejuice">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta property="og:title" content="Privacy Policy - vaping.com">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://vaping.com/privacy-policy/">
+<meta property="og:description" content="Trust vaping.com, the No.1 online vapor destination. Free shipping over $25. Shop vape devices &amp; eliquid from 150 leading brands. Daily expert content.
+">
+<meta property="og:updated_time" content="2016-08-01T10:26:59">
+<meta property="og:site_name" content="vaping.com">
+
+<link rel="icon" href="https://assets.vaping.com/skin/frontend/vaping/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://assets.vaping.com/skin/frontend/vaping/default/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://assets.vaping.com/js/blank.html';
+    var BLANK_IMG = 'https://assets.vaping.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/jgypBsI2C5G9vwp1y1NJPjGuRwBBQRk1/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script>jQuery.noConflict();</script>
+<link rel="stylesheet" type="text/css" href="https://assets.vaping.com/media/css/72c9b79902c267e655823650705ea6bb-1-SSL-1477317183.css" media="all">
+<script type="text/javascript" src="https://assets.vaping.com/media/js/868a6315323ff1c4d35b2dc5c6adb99b-1477486887.js"></script>
+<script type="text/javascript" src="https://assets.vaping.com/media/js/b05fbcef9284d4d89e38e02850fddfec-1475834735.js"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://assets.vaping.com/media/js/a3bf905f2b258fbcf741ee1e9cbaf0f7-1471428001.js"></script>
+<script type="text/javascript" src="https://assets.vaping.com/media/js/8f1ea38e2d0629d55ba7c817bc1a10da-1477486872.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.vaping.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-77240947-1', 'auto');
+ga('require', 'ec');
+//console.log('ec enabled');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+//]]>
+</script>
+<script>
+//<![CDATA[
+function manipulationOfCart(product, type, list) {
+	if (list == undefined){
+		list='Category - '+ product.category
+	}
+	console.log(list);
+	ga('ec:addProduct', {
+        'id': product.id,
+        'name': product.name,
+        'category': product.category,
+        'brand': product.brand,
+        'variant': product.variant,
+        'price': product.price,
+		'list': list,
+        'quantity': product.qty
+    });
+	
+    ga('ec:setAction', type, {list: list});
+	
+	
+    if (type == 'add'){
+		        ga('send', 'event', 'UX', 'click', 'Add To Cart - ' + product.name, {'nonInteraction': 1});
+    }
+    else if (type == 'remove'){
+		        ga('send', 'event', 'UX', 'click', 'Remove From Cart - ' + product.name, {'nonInteraction': 1});
+    }
+}
+
+jQuery(document).ready(function($){
+    $.cookie.json = true;
+	    var productToBasket = $.cookie("productToBasket");
+	var productlist = $.cookie("productlist");
+
+    if (productToBasket != undefined){
+        //console.log(productToBasket);
+        manipulationOfCart(productToBasket, 'add', productlist);
+        $.removeCookie("productToBasket", { path: '/', domain: '.vaping.com'});
+		$.removeCookie("productlist", { path: '/', domain: '.vaping.com'});
+    }
+
+    var productOutBasket = $.cookie("productOutBasket");
+
+    if (productOutBasket != undefined){
+        manipulationOfCart(productOutBasket, 'remove', '');
+        $.removeCookie("productOutBasket", { path: '/', domain: '.vaping.com' });
+    }
+});
+//]]>
+</script>
+<script>window.jQuery||document.write('<script src="/js/scommerce/jquery.1.7.1.min.js"><\/script><script src="/js/scommerce/jquery.noconflict.js"><\/script>');</script><script src="/js/scommerce/jquery.1.7.1.min.js"></script><script src="/js/scommerce/jquery.noconflict.js"></script><script src="/js/scommerce/jquery.cookie.js"></script><!-- Start Visual Website Optimizer Asynchronous Code -->
+
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=256643,
+_vis_opt_url = window._vis_opt_url || document.URL,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+code_source='magento',
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(_vis_opt_url)+'&s='+code_source+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=256643&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161103025242id_%2Fhttps%3A%2F%2Fvaping.com%2Fprivacy-policy%2F&amp;s=magento&amp;r=0.03772359864723951" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"This is a required field.":"Missing Field Required"});
+        //]]></script><!-- Hotjar Tracking Code for https://vaping.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:287173,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-287173.js?sv=5"></script>
+
+<!-- END Hotjar Tracking Code for https://vaping.com -->    </head>
+    <body class=" cms-page-view cms-privacy-policy" itemscope="" itemtype="http://schema.org/WebPage">
+                <div class="wrapper">
+                <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+            <div class="page">
+                <header class="header">
+    <div>
+        <div class="mobile-menu-icon">
+            <span></span>
+        </div>
+        <div class="logo">
+            <a href="https://vaping.com/" title="Vaping.com">
+                <!--?xml version="1.0" standalone="no"?-->
+
+<svg id="Untitled-Page%201" viewBox="0 0 49 41" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="49px" height="41px">
+	<g id="Layer%201">
+		<path id="Shape%201" d="M 48.3752 13.4886 L 48.4186 13.4886 L 45.7558 8.9259 L 12.8489 8.9259 L 10.2026 4.3536 L 43.0327 4.3536 L 40.3622 -0.2097 L 40.5868 -0.2169 L 12.374 -0.2169 L 7.6783 -0.2103 L 4.9897 4.3548 L 21.3464 32.7344 L 18.7001 37.3067 L 2.2874 8.9259 L -0.4061 13.4964 L 15.5032 40.9092 L 21.9421 40.9092 L 37.7678 13.4886 L 43.0609 13.4886 L 27.19 40.9092 L 32.5176 40.9092 L 48.3773 13.5065 L 48.3752 13.4886 ZM 23.9878 28.1699 L 15.4902 13.4886 L 32.4854 13.4886 L 23.9878 28.1699 Z" fill="#ffffff"></path>
+	</g>
+</svg>                <!--?xml version="1.0" standalone="no"?-->
+
+<svg id="Untitled-Page%201" viewBox="0 0 141 27" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="141px" height="27px">
+	<g id="Layer%201">
+		<path id="Shape%201" d="M 138.1708 20.9347 L 138.1708 12.3343 C 138.1708 10.5552 137.8631 8.9091 135.6312 8.9091 C 133.5155 8.9091 132.5683 10.6728 132.5683 12.4206 L 132.5683 20.8957 L 129.7388 20.8957 L 129.7388 12.3343 C 129.7388 10.6016 129.5428 8.9091 127.1993 8.9091 C 124.3573 8.9091 124.1363 11.8601 124.1363 12.7643 L 124.1363 20.8957 L 121.2777 20.8957 L 121.2777 6.6905 L 124.1072 6.6905 L 124.1072 8.1672 C 125.3235 6.5359 126.9774 6.2882 127.8679 6.2882 C 129.5267 6.2882 130.7216 6.869 131.6289 8.1163 C 131.7837 8.2943 131.8935 8.4725 132.0015 8.6794 C 133.1567 6.9178 134.9584 6.2882 136.2711 6.2882 C 139.4535 6.2882 141.0005 8.2287 141.0005 12.2193 L 141.0005 20.9347 L 138.1708 20.9347 ZM 111.9931 21.2285 C 109.905 21.2285 108.2301 20.6058 107.0155 19.3773 C 105.6566 18.0369 104.9083 16.0166 104.9083 13.6901 C 104.9083 11.3834 105.6566 9.3734 107.0161 8.0312 C 108.278 6.7856 109.906 6.1806 111.9931 6.1806 C 114.0618 6.1806 115.7268 6.8034 116.942 8.0321 C 118.3202 9.3929 119.049 11.35 119.049 13.6901 C 119.049 16.0166 118.3005 18.0369 116.9415 19.3782 C 115.7271 20.6058 114.062 21.2285 111.9931 21.2285 ZM 111.9931 8.8018 C 109.5498 8.8018 107.971 10.7201 107.971 13.6901 C 107.971 16.6943 109.5498 18.6366 111.9931 18.6366 C 114.4189 18.6366 115.9865 16.6943 115.9865 13.6901 C 115.9865 10.0867 113.9238 8.8018 111.9931 8.8018 ZM 96.7876 18.6366 C 98.3739 18.6366 99.6535 17.785 100.298 16.3009 L 103.4981 16.272 L 103.4808 16.3331 C 103.1272 17.5592 102.5402 18.584 101.7357 19.3782 C 100.5216 20.6058 98.8568 21.2285 96.7876 21.2285 C 94.6994 21.2285 93.0246 20.6058 91.81 19.3773 C 90.4512 18.0369 89.7028 16.0166 89.7028 13.6901 C 89.7028 11.3834 90.4512 9.3734 91.8105 8.0312 C 93.0723 6.7856 94.7005 6.1806 96.7876 6.1806 C 98.8562 6.1806 100.5213 6.8034 101.7362 8.0321 C 102.5019 8.7882 103.0714 9.7465 103.4279 10.88 L 103.4474 10.9421 L 100.2544 10.9421 C 99.5403 9.5523 98.3244 8.8018 96.7876 8.8018 C 94.3442 8.8018 92.7653 10.7201 92.7653 13.6901 C 92.7653 16.6943 94.3442 18.6366 96.7876 18.6366 ZM 86.0544 20.8242 C 85.4885 20.8242 85.0033 20.6288 84.6129 20.2431 C 84.2219 19.8573 84.0239 19.3782 84.0239 18.8196 C 84.0239 18.2609 84.2219 17.7782 84.6124 17.383 C 85.0028 16.9873 85.488 16.7866 86.0544 16.7866 C 86.621 16.7866 87.1111 16.987 87.5113 17.3825 C 87.9113 17.7774 88.1141 18.2609 88.1141 18.8196 C 88.1141 19.3785 87.9111 19.8573 87.511 20.2431 C 87.1105 20.6294 86.6204 20.8242 86.0544 20.8242 ZM 74.2843 27.0006 C 72.5476 27.0006 70.937 26.5581 69.8653 25.7861 C 68.3618 24.7329 67.879 23.1791 67.7288 22.1383 L 70.8575 22.1383 C 70.9562 22.7369 71.2116 23.307 71.5562 23.647 C 72.1935 24.2768 73.1871 24.6091 74.4298 24.6091 C 76.0613 24.6091 76.8566 24.025 77.1857 23.6774 C 77.979 22.8938 78.016 21.7913 78.016 19.7489 L 78.016 19.3903 C 76.8943 20.6702 75.3959 21.3453 73.6739 21.3453 C 70.4576 21.3453 66.9959 18.9869 66.9959 13.8074 C 66.9959 8.2706 70.4754 6.2976 73.732 6.2976 C 75.5114 6.2976 76.838 6.8675 78.016 8.1435 L 78.016 6.699 L 80.9621 6.699 L 80.9621 19.4627 C 80.9621 20.9034 80.9621 22.6961 80.0834 24.2213 C 79.0101 25.9874 76.8966 27.0006 74.2843 27.0006 ZM 77.2673 10.504 C 76.5211 9.3986 75.4787 8.8609 74.0807 8.8609 C 73.1463 8.8609 71.8244 9.1269 70.8333 10.392 C 69.9131 11.613 69.9131 13.2644 69.9131 13.8074 L 69.9131 13.8648 C 69.9131 14.408 69.9131 16.0586 70.8337 17.2515 C 71.8022 18.5166 73.134 18.782 74.0807 18.782 C 75.4686 18.782 76.4818 18.26 77.2684 17.1371 C 77.8577 16.2947 78.1323 15.2454 78.1323 13.8364 C 78.1323 12.4643 77.8654 11.4363 77.2673 10.504 ZM 62.0834 12.3668 C 62.0834 10.2939 61.5922 8.9135 59.1948 8.9135 C 57.0405 8.9135 55.7541 10.3651 55.7541 12.7974 L 55.7541 20.9046 L 52.895 20.9046 L 52.895 6.7227 L 55.725 6.7227 L 55.725 8.2083 C 56.6817 7.0067 58.1813 6.3216 59.8635 6.3216 C 63.2614 6.3216 64.9131 8.2612 64.9131 12.2518 L 64.9131 20.9046 L 62.0834 20.9046 L 62.0834 12.3668 ZM 48.6416 3.9212 C 48.0942 3.9212 47.6238 3.7305 47.2428 3.3546 C 46.8615 2.978 46.6682 2.5133 46.6682 1.9742 C 46.6682 1.4345 46.8612 0.9651 47.2422 0.5791 C 47.6233 0.1939 48.0939 -0.0023 48.6416 -0.0023 C 49.1881 -0.0023 49.6635 0.1886 50.0542 0.5637 C 50.4452 0.9397 50.6432 1.4144 50.6432 1.9742 C 50.6432 2.5136 50.4452 2.9789 50.0545 3.3546 C 49.6637 3.7305 49.1883 3.9212 48.6416 3.9212 ZM 38.4951 21.3686 C 36.3688 21.3686 34.8232 20.8124 33.7748 19.6691 L 33.7748 26.5773 L 30.9448 26.5773 L 30.9448 6.7227 L 33.7748 6.7227 L 33.7748 8.2972 C 34.8598 6.9677 36.4057 6.3216 38.4951 6.3216 C 41.7266 6.3216 44.9981 8.9106 44.9981 13.8594 C 44.9981 18.7897 41.7266 21.3686 38.4951 21.3686 ZM 38.0297 8.9995 C 35.4449 8.9995 33.7748 10.9075 33.7748 13.8594 C 33.7748 16.7943 35.4449 18.691 38.0297 18.691 C 40.4908 18.691 42.0813 16.7943 42.0813 13.8594 C 42.0813 10.9075 40.4908 8.9995 38.0297 8.9995 ZM 25.3057 19.4137 C 24.108 20.7828 22.6878 21.3686 20.5853 21.3686 C 16.3157 21.3686 14.082 17.5622 14.082 13.8021 C 14.082 10.0843 16.3157 6.3216 20.5853 6.3216 C 22.6648 6.3216 24.2104 6.9683 25.3057 8.2984 L 25.3057 6.7227 L 28.1353 6.7227 L 28.1353 20.896 L 25.3057 20.896 L 25.3057 19.4137 ZM 21.0507 8.9995 C 18.0603 8.9995 16.9992 11.6178 16.9992 13.8594 C 16.9992 16.0878 18.0603 18.691 21.0507 18.691 C 24.1912 18.691 25.3057 16.0878 25.3057 13.8594 C 25.3057 10.9075 23.6356 8.9995 21.0507 8.9995 ZM 5.9838 20.9031 L 0.7076 6.7301 L 3.7126 6.7301 L 7.2404 16.71 L 10.6487 6.7301 L 13.6006 6.7301 L 8.4456 20.9031 L 5.9838 20.9031 ZM -13.4234 9.575 L -23.3642 26.5705 L -26.7034 26.5705 L -16.7556 9.5638 L -20.0734 9.5638 L -29.9927 26.5705 L -34.0286 26.5705 L -44.0005 9.5685 L -42.3123 6.7336 L -32.0248 24.3357 L -30.3662 21.4999 L -40.6185 3.8987 L -38.9333 1.0674 L -35.99 1.0638 L -18.3065 1.0638 L -18.4472 1.0679 L -16.7733 3.8975 L -37.3511 3.8975 L -35.6923 6.7333 L -15.0665 6.7336 L -13.3975 9.5638 L -13.4247 9.5638 L -13.4234 9.575 ZM -34.0368 9.5638 L -28.7105 18.6697 L -23.3843 9.5638 L -34.0368 9.5638 ZM 50.0853 20.9238 L 47.2264 20.9238 L 47.2264 6.7227 L 50.0853 6.7227 L 50.0853 20.9238 Z" fill="#ffffff"></path>
+	</g>
+</svg>            </a>
+        </div>
+        <div class="main-menu">
+                <ul id="nav" role="navigation" itemscope="" itemtype="http://schema.org/WebPageElement/SiteNavigationElement">
+        <li class="level0 parent" data-title="Complete Kits"><a href="https://vaping.com/complete-kits" itemprop="url"><span itemprop="name">Complete Kits</span></a><ul class="level0"><li class="level1 parent" data-title="Categories"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Categories</span></a><ul class="level1"><li class="level2" data-title="Simple"><a href="https://vaping.com/complete-kits/simple" itemprop="url"><span itemprop="name">Simple</span></a></li><li class="level2" data-title="Versatile"><a href="https://vaping.com/complete-kits/versatile" itemprop="url"><span itemprop="name">Versatile</span></a></li><li class="level2" data-title="Performance"><a href="https://vaping.com/complete-kits/performance" itemprop="url"><span itemprop="name">Performance</span></a></li></ul></li><li class="level1 parent" data-title="Top Brands"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Brands</span></a><ul class="level1"><li class="level2" data-title="Eleaf"><a href="/complete-kits?manufacturer=1262" itemprop="url"><span itemprop="name">Eleaf</span></a></li><li class="level2" data-title="Joyetech"><a href="/complete-kits?manufacturer=1263" itemprop="url"><span itemprop="name">Joyetech</span></a></li><li class="level2" data-title="Juul"><a href="/complete-kits?manufacturer=1270" itemprop="url"><span itemprop="name">Juul</span></a></li><li class="level2" data-title="Kanger"><a href="/complete-kits?manufacturer=1265" itemprop="url"><span itemprop="name">Kanger</span></a></li><li class="level2" data-title="Vapor Shark"><a href="/complete-kits?manufacturer=1268" itemprop="url"><span itemprop="name">Vapor Shark</span></a></li></ul></li><li class="level1 parent" data-title="Top Selling"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Selling</span></a><ul class="level1"><li class="level2" data-title="Kangertech Nebox"><a href="https://vaping.com/nebox" itemprop="url"><span itemprop="name">Kangertech Nebox</span></a></li><li class="level2" data-title="Vaporesso Target Mini"><a href="https://vaping.com/target-mini" itemprop="url"><span itemprop="name">Vaporesso Target Mini</span></a></li><li class="level2" data-title="Kangertech SUBOX Mini"><a href="https://vaping.com/subox-mini-starter-kit" itemprop="url"><span itemprop="name">Kangertech SUBOX Mini</span></a></li><li class="level2" data-title="Kangertech Subvod"><a href="https://vaping.com/subvod" itemprop="url"><span itemprop="name">Kangertech Subvod</span></a></li><li class="level2" data-title="Kangertech Subox Nano"><a href="https://vaping.com/subox-nano" itemprop="url"><span itemprop="name">Kangertech Subox Nano</span></a></li></ul></li><li class="see-all"><a href="https://vaping.com/complete-kits">See All</a></li><li class="back"><span>Back</span></li></ul></li><li class="level0 parent" data-title="Eliquid"><a href="https://vaping.com/eliquid" itemprop="url"><span itemprop="name">Eliquid</span></a><ul class="level0"><li class="level1 parent" data-title="Categories"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Categories</span></a><ul class="level1"><li class="level2" data-title="Fruit"><a href="https://vaping.com/eliquid/fruit" itemprop="url"><span itemprop="name">Fruit</span></a></li><li class="level2" data-title="Dessert"><a href="https://vaping.com/eliquid/dessert" itemprop="url"><span itemprop="name">Dessert</span></a></li><li class="level2" data-title="Candy"><a href="https://vaping.com/eliquid/candy" itemprop="url"><span itemprop="name">Candy</span></a></li><li class="level2" data-title="Cereal"><a href="https://vaping.com/eliquid/cereal" itemprop="url"><span itemprop="name">Cereal</span></a></li><li class="level2" data-title="Beverage"><a href="https://vaping.com/eliquid/beverage" itemprop="url"><span itemprop="name">Beverage</span></a></li><li class="level2" data-title="Tobacco"><a href="https://vaping.com/eliquid/tobacco" itemprop="url"><span itemprop="name">Tobacco</span></a></li></ul></li><li class="level1 parent" data-title="Top Brands"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Brands</span></a><ul class="level1"><li class="level2" data-title="vaping.com"><a href="/eliquid?manufacturer=1512" itemprop="url"><span itemprop="name">vaping.com</span></a></li><li class="level2" data-title="Cuttwood"><a href="/eliquid?manufacturer=1275" itemprop="url"><span itemprop="name">Cuttwood</span></a></li><li class="level2" data-title="King's Crest"><a href="/eliquid?manufacturer=1276" itemprop="url"><span itemprop="name">King's Crest</span></a></li><li class="level2" data-title="7 Daze"><a href="/eliquid?manufacturer=1286" itemprop="url"><span itemprop="name">7 Daze</span></a></li><li class="level2" data-title="Space Jam"><a href="/eliquid?manufacturer=1266" itemprop="url"><span itemprop="name">Space Jam</span></a></li><li class="level2" data-title="Juul"><a href="/eliquid?manufacturer=1270" itemprop="url"><span itemprop="name">Juul</span></a></li></ul></li><li class="level1 parent" data-title="Top Selling"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Selling</span></a><ul class="level1"><li class="level2" data-title="vaping.com Coconut, Peach &amp; Strawberry"><a href="https://vaping.com/coconut-peach-strawberry" itemprop="url"><span itemprop="name">vaping.com Coconut, Peach &amp; Strawberry</span></a></li><li class="level2" data-title="vaping.com Sweet Peppermint"><a href="https://vaping.com/sweet-peppermint" itemprop="url"><span itemprop="name">vaping.com Sweet Peppermint</span></a></li><li class="level2" data-title="Cuttwood Unicorn Milk "><a href="https://vaping.com/unicorn-milk-3596" itemprop="url"><span itemprop="name">Cuttwood Unicorn Milk </span></a></li><li class="level2" data-title="vaping.com Tobacco"><a href="https://vaping.com/tobacco-3787" itemprop="url"><span itemprop="name">vaping.com Tobacco</span></a></li><li class="level2" data-title="King's Crest Monarch "><a href="https://vaping.com/monarch" itemprop="url"><span itemprop="name">King's Crest Monarch </span></a></li></ul></li><li class="see-all"><a href="https://vaping.com/eliquid">See All</a></li><li class="back"><span>Back</span></li></ul></li><li class="level0 parent" data-title="Devices"><a href="https://vaping.com/devices" itemprop="url"><span itemprop="name">Devices</span></a><ul class="level0"><li class="level1 parent" data-title="Categories"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Categories</span></a><ul class="level1"><li class="level2" data-title="Temperature control"><a href="https://vaping.com/devices/temperature-control" itemprop="url"><span itemprop="name">Temperature control</span></a></li><li class="level2" data-title="Variable output"><a href="https://vaping.com/devices/variable-output" itemprop="url"><span itemprop="name">Variable output</span></a></li><li class="level2" data-title="Boxes"><a href="https://vaping.com/devices/boxes" itemprop="url"><span itemprop="name">Boxes</span></a></li><li class="level2" data-title="Flasks"><a href="https://vaping.com/devices/flasks" itemprop="url"><span itemprop="name">Flasks</span></a></li></ul></li><li class="level1 parent" data-title="Top Brands"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Brands</span></a><ul class="level1"><li class="level2" data-title="Wismec"><a href="/devices?manufacturer=1261" itemprop="url"><span itemprop="name">Wismec</span></a></li><li class="level2" data-title="HCigar"><a href="/devices?manufacturer=1271" itemprop="url"><span itemprop="name">HCigar</span></a></li><li class="level2" data-title="Vapor Shark"><a href="/devices?manufacturer=1268" itemprop="url"><span itemprop="name">Vapor Shark</span></a></li><li class="level2" data-title="Flawless"><a href="/devices?manufacturer=1306" itemprop="url"><span itemprop="name">Flawless</span></a></li><li class="level2" data-title="Eleaf"><a href="/devices?manufacturer=1262" itemprop="url"><span itemprop="name">Eleaf</span></a></li></ul></li><li class="level1 parent" data-title="Top Selling"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Selling</span></a><ul class="level1"><li class="level2" data-title="Vaporesso Tarot Pro"><a href="https://vaping.com/vaporesso-tarot-pro" itemprop="url"><span itemprop="name">Vaporesso Tarot Pro</span></a></li><li class="level2" data-title="Wismec Reuleaux RX200"><a href="https://vaping.com/rx200" itemprop="url"><span itemprop="name">Wismec Reuleaux RX200</span></a></li><li class="level2" data-title="Wismec RX 2/3"><a href="https://vaping.com/wismec-rx-2-3" itemprop="url"><span itemprop="name">Wismec RX 2/3</span></a></li><li class="level2" data-title="Pioneer4You iPV4 S"><a href="https://vaping.com/ipv4-s" itemprop="url"><span itemprop="name">Pioneer4You iPV4 S</span></a></li><li class="level2" data-title="SmokTech H-Priv"><a href="https://vaping.com/h-priv" itemprop="url"><span itemprop="name">SmokTech H-Priv</span></a></li></ul></li><li class="see-all"><a href="https://vaping.com/devices">See All</a></li><li class="back"><span>Back</span></li></ul></li><li class="level0 parent" data-title="Tanks"><a href="https://vaping.com/tanks" itemprop="url"><span itemprop="name">Tanks</span></a><ul class="level0"><li class="level1 parent" data-title="Categories"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Categories</span></a><ul class="level1"><li class="level2" data-title="Simple Tanks"><a href="https://vaping.com/tanks/tanks" itemprop="url"><span itemprop="name">Simple Tanks</span></a></li><li class="level2" data-title="SubOhm Tanks"><a href="https://vaping.com/tanks/subohm-tanks" itemprop="url"><span itemprop="name">SubOhm Tanks</span></a></li><li class="level2" data-title="RDA"><a href="https://vaping.com/tanks/rda-18" itemprop="url"><span itemprop="name">RDA</span></a></li><li class="level2" data-title="RTA"><a href="https://vaping.com/tanks/rta" itemprop="url"><span itemprop="name">RTA</span></a></li></ul></li><li class="level1 parent" data-title="Top Brands"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Brands</span></a><ul class="level1"><li class="level2" data-title="Kanger"><a href="/tanks?manufacturer=1265" itemprop="url"><span itemprop="name">Kanger</span></a></li><li class="level2" data-title="UWell"><a href="/tanks?manufacturer=1272" itemprop="url"><span itemprop="name">UWell</span></a></li><li class="level2" data-title="Aspire"><a href="/tanks?manufacturer=1264" itemprop="url"><span itemprop="name">Aspire</span></a></li><li class="level2" data-title="Cloud Chasers inc"><a href="/tanks?manufacturer=1277" itemprop="url"><span itemprop="name">Cloud Chasers inc</span></a></li><li class="level2" data-title="SvoëMesto"><a href="/tanks?manufacturer=1285" itemprop="url"><span itemprop="name">SvoëMesto</span></a></li><li class="level2" data-title="Vaporesso"><a href="/tanks?manufacturer=1269" itemprop="url"><span itemprop="name">Vaporesso</span></a></li></ul></li><li class="level1 parent" data-title="Top Selling"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Selling</span></a><ul class="level1"><li class="level2" data-title="Aspire Triton"><a href="https://vaping.com/triton" itemprop="url"><span itemprop="name">Aspire Triton</span></a></li><li class="level2" data-title="Wotofo Freakshow RDA"><a href="https://vaping.com/freakshow-rda" itemprop="url"><span itemprop="name">Wotofo Freakshow RDA</span></a></li><li class="level2" data-title="Council of Vapor Defiant Tank"><a href="https://vaping.com/defiant-tank-by-council-of-vapor" itemprop="url"><span itemprop="name">Council of Vapor Defiant Tank</span></a></li><li class="level2" data-title="SmokTech TFV8"><a href="https://vaping.com/tfv8" itemprop="url"><span itemprop="name">SmokTech TFV8</span></a></li><li class="level2" data-title="UWell Crown II"><a href="https://vaping.com/crown-2" itemprop="url"><span itemprop="name">UWell Crown II</span></a></li></ul></li><li class="see-all"><a href="https://vaping.com/tanks">See All</a></li><li class="back"><span>Back</span></li></ul></li><li class="level0 parent" data-title="Parts"><a href="https://vaping.com/parts" itemprop="url"><span itemprop="name">Parts</span></a><ul class="level0"><li class="level1 parent" data-title="Categories"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Categories</span></a><ul class="level1"><li class="level2" data-title="Coils"><a href="https://vaping.com/parts/coils" itemprop="url"><span itemprop="name">Coils</span></a></li><li class="level2" data-title="Chargers"><a href="https://vaping.com/parts/chargers" itemprop="url"><span itemprop="name">Chargers</span></a></li><li class="level2" data-title="Batteries"><a href="https://vaping.com/parts/batteries" itemprop="url"><span itemprop="name">Batteries</span></a></li><li class="level2" data-title="Wire &amp; Wick"><a href="https://vaping.com/parts/wire-wick" itemprop="url"><span itemprop="name">Wire &amp; Wick</span></a></li><li class="level2" data-title="Cases"><a href="https://vaping.com/parts/cases" itemprop="url"><span itemprop="name">Cases</span></a></li><li class="level2" data-title="Drip Tips"><a href="https://vaping.com/parts/drip-tips" itemprop="url"><span itemprop="name">Drip Tips</span></a></li></ul></li><li class="level1 parent" data-title="Top Brands"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Brands</span></a><ul class="level1"><li class="level2" data-title="Kanger"><a href="/parts?manufacturer=1265" itemprop="url"><span itemprop="name">Kanger</span></a></li><li class="level2" data-title="Aspire"><a href="/parts?manufacturer=1264" itemprop="url"><span itemprop="name">Aspire</span></a></li><li class="level2" data-title="UWell"><a href="/parts?manufacturer=1272" itemprop="url"><span itemprop="name">UWell</span></a></li><li class="level2" data-title="LG"><a href="/parts?manufacturer=1284" itemprop="url"><span itemprop="name">LG</span></a></li><li class="level2" data-title="Vaporesso"><a href="/parts?manufacturer=1269" itemprop="url"><span itemprop="name">Vaporesso</span></a></li></ul></li><li class="level1 parent" data-title="Top Selling"><a href="javascript:void(0);" itemprop="url"><span itemprop="name">Top Selling</span></a><ul class="level1"><li class="level2" data-title="LG LG 18650 Battery"><a href="https://vaping.com/lg-18650-battery" itemprop="url"><span itemprop="name">LG LG 18650 Battery</span></a></li><li class="level2" data-title="Diamond Vapes Just Wires"><a href="https://vaping.com/just-wires" itemprop="url"><span itemprop="name">Diamond Vapes Just Wires</span></a></li><li class="level2" data-title="Vapor Shark Minnow Battery"><a href="https://vaping.com/minnow-battery" itemprop="url"><span itemprop="name">Vapor Shark Minnow Battery</span></a></li><li class="level2" data-title="Vaporesso Ceramic cCell Coils (5)"><a href="https://vaping.com/ceramic-ccell-replacement" itemprop="url"><span itemprop="name">Vaporesso Ceramic cCell Coils (5)</span></a></li><li class="level2" data-title="LG HE4 Battery"><a href="https://vaping.com/he4-battery" itemprop="url"><span itemprop="name">LG HE4 Battery</span></a></li></ul></li><li class="see-all"><a href="https://vaping.com/parts">See All</a></li><li class="back"><span>Back</span></li></ul></li>    </ul>
+        </div>
+        <div class="actions">
+            <span class="search">
+                <!--?xml version="1.0" standalone="no"?-->
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+
+<svg id="Untitled-Page%201" viewBox="0 0 18 18" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="18px" height="18px">
+	<g id="Layer%201">
+		<path id="Shape%2029%20copy" d="M 18.3564 16.5813 L 16.9744 17.9977 L 12.3354 13.2425 C 11.0608 14.3415 9.4374 15.0295 7.6415 15.0295 C 3.593 15.0295 0.3112 11.6649 0.3112 7.5156 C 0.3112 3.3656 3.593 0.0019 7.6415 0.0019 C 11.6899 0.0019 14.9718 3.3656 14.9718 7.5156 C 14.9718 9.1001 14.4878 10.5656 13.6708 11.7776 L 18.3564 16.5813 ZM 7.6415 3.0074 C 5.2163 3.0074 3.2433 5.0294 3.2433 7.5156 C 3.2433 10.0014 5.2163 12.0243 7.6415 12.0243 C 10.0668 12.0243 12.0397 10.0014 12.0397 7.5156 C 12.0397 5.0294 10.0668 3.0074 7.6415 3.0074 Z" fill="#ffffff"></path>
+	</g>
+</svg>            </span>
+            <a class="phone mobile-phone" href="tel:855-729-3840">
+                <!--?xml version="1.0" standalone="no"?-->
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+
+<svg id="Untitled-Page%201" viewBox="0 0 37 38" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="37px" height="38px">
+	<g id="Layer%201">
+		<path id="Shape%2028" d="M 2.4388 1.4198 C 3.9211 -0.1013 8.3918 -0.3546 8.4266 0.4501 C 8.4598 1.2544 12.4547 10.1757 12.4901 10.9797 C 12.5241 11.7845 9.8553 14.526 9.0747 15.3295 C 8.3018 16.125 14.2946 23.0863 14.4079 23.2174 C 14.5369 23.3347 21.3101 29.4952 22.0835 28.7012 C 22.8637 27.8971 25.5322 25.1552 26.3147 25.1908 C 27.097 25.2264 35.7771 29.3319 36.5598 29.3668 C 37.342 29.4037 37.096 33.9979 35.6145 35.521 C 34.3502 36.8204 27.798 41.542 16.4039 33.1112 C 15.1541 32.3722 13.1747 30.677 10.1743 27.5952 C 10.1717 27.593 10.1704 27.592 10.1698 27.5905 C 10.1657 27.5883 10.1652 27.5859 10.1623 27.5831 C 10.1604 27.5809 10.1578 27.5791 10.1556 27.5758 C 10.1533 27.574 10.1506 27.5718 10.1485 27.5695 C 7.1496 24.4858 5.5017 22.451 4.7836 21.1681 C -3.4178 9.4561 1.1753 2.7203 2.4388 1.4198 Z" fill="#1d1d1d"></path>
+	</g>
+</svg>            </a>
+            <a class="phone desktop-phone" href="https://vaping.com/contacts/">
+                <!--?xml version="1.0" standalone="no"?-->
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+
+<svg id="Untitled-Page%201" viewBox="0 0 37 38" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="37px" height="38px">
+	<g id="Layer%201">
+		<path id="Shape%2028" d="M 2.4388 1.4198 C 3.9211 -0.1013 8.3918 -0.3546 8.4266 0.4501 C 8.4598 1.2544 12.4547 10.1757 12.4901 10.9797 C 12.5241 11.7845 9.8553 14.526 9.0747 15.3295 C 8.3018 16.125 14.2946 23.0863 14.4079 23.2174 C 14.5369 23.3347 21.3101 29.4952 22.0835 28.7012 C 22.8637 27.8971 25.5322 25.1552 26.3147 25.1908 C 27.097 25.2264 35.7771 29.3319 36.5598 29.3668 C 37.342 29.4037 37.096 33.9979 35.6145 35.521 C 34.3502 36.8204 27.798 41.542 16.4039 33.1112 C 15.1541 32.3722 13.1747 30.677 10.1743 27.5952 C 10.1717 27.593 10.1704 27.592 10.1698 27.5905 C 10.1657 27.5883 10.1652 27.5859 10.1623 27.5831 C 10.1604 27.5809 10.1578 27.5791 10.1556 27.5758 C 10.1533 27.574 10.1506 27.5718 10.1485 27.5695 C 7.1496 24.4858 5.5017 22.451 4.7836 21.1681 C -3.4178 9.4561 1.1753 2.7203 2.4388 1.4198 Z" fill="#1d1d1d"></path>
+	</g>
+</svg>            </a>
+            <a class="account" href="https://vaping.com/customer/account/">
+                <!--?xml version="1.0" standalone="no"?-->
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+
+<svg id="Untitled-Page%201" viewBox="0 0 14 17" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="14px" height="17px">
+	<g id="Layer%201">
+		<path id="Shape%2027%20copy" d="M 13.6005 17.0045 L 7.5476 17.0045 L 6.4525 17.0045 L 0.3998 17.0045 L 0 17.0045 L 0 14.3532 C 0 12.4701 1.5339 10.9434 3.4261 10.9434 L 10.574 10.9434 C 12.4662 10.9434 14 12.4701 14 14.3532 L 14 17.0045 L 13.6005 17.0045 ZM 7 8.953 C 4.5146 8.953 2.5 6.9475 2.5 4.4743 C 2.5 2.0006 4.5146 -0.0046 7 -0.0046 C 9.4852 -0.0046 11.5 2.0006 11.5 4.4743 C 11.5 6.9475 9.4852 8.953 7 8.953 Z" fill="#ffffff"></path>
+	</g>
+</svg>            </a>
+            <a class="basket" href="https://vaping.com/checkout/cart/" data-count="0">
+                <!--?xml version="1.0" standalone="no"?-->
+<!-- Generator: Adobe Fireworks 10, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  -->
+
+<svg id="Untitled-Page%201" viewBox="0 0 16 18" style="background-color:#ffffff00" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px" y="0px" width="16px" height="18px">
+	<g id="Layer%201">
+		<path id="Shape%2024" d="M 16 17.9998 L 0 17.9998 L 0 5.3197 L 3.3337 5.3197 C 3.3287 4.9562 3.3204 4.6055 3.3204 4.2208 C 3.3204 1.8895 5.3352 -0.0001 7.8204 -0.0001 C 10.3058 -0.0001 12.3206 1.8895 12.3206 4.2208 C 12.3206 4.6055 12.3123 4.9562 12.3071 5.3197 L 16 5.3197 L 16 17.9998 ZM 10.3204 4.2208 C 10.3204 2.9962 9.199 2.0001 7.8204 2.0001 C 6.442 2.0001 5.3206 2.9962 5.3206 4.2208 C 5.3206 4.5967 5.3245 4.9604 5.3298 5.3197 L 10.311 5.3197 C 10.3164 4.9604 10.3204 4.5967 10.3204 4.2208 Z" fill="#ffffff"></path>
+	</g>
+</svg>            </a>
+            <div class="block block-cart">
+        <div class="block-content">
+                            <p class="empty">Your shopping cart is empty.</p>
+        
+    
+    
+    </div>
+</div>
+        </div>
+    </div>
+    <form id="search_mini_form" action="https://vaping.com/catalogsearch/result/" method="get">
+    <span class="form-search-close"></span>
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" autocomplete="off">
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Type your search here');
+        //]]>
+        </script>
+    </div>
+</form>
+</header>
+<span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="vaping.com">
+    <meta itemprop="url" content="https://vaping.com/">
+    <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://assets.vaping.com/skin/frontend/vaping/default/images/logo_email.gif">
+    </span>
+</span>                <div class="main-container col1-layout">
+                    <div class="main">
+                                                <div class="col-main">
+                                                        <div class="std"><p class="HeadingTitle" style="text-align: center;">VAPING DOTCOM, LTD.</p>
+<p class="HeadingTitle" style="text-align: center;">Privacy Policy</p>
+<p>Last modified: June 22, 2016</p>
+<h2>1. &nbsp; &nbsp;Introduction</h2>
+<p class="Bodyclause">Vaping Dotcom Ltd. &nbsp;(<b>"Company"</b> or<b>&nbsp;"we"</b>) respects your privacy and is committed to protecting it through its compliance with this policy.</p>
+<p class="Bodyclause">This policy describes the types of information we may collect from you or that you may provide when you visit the website ‘vaping.com’ (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
+<p class="Bodyclause">This policy applies to information we collect:</p>
+<ul>
+<li>On this Website.</li>
+<li>In e-mail, text and other electronic messages between you and this Website.</li>
+<li>Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.</li>
+<li>When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
+</ul>
+<p class="Bodyclause">It does not apply to information collected by:</p>
+<ul>
+<li>us offline or through any other means, including on any other website operated by Company or any third party (including our distributors, affiliates and subsidiaries); or</li>
+<li>any third party (including our distributors, affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from the Website.</li>
+</ul>
+<p class="Bodyclause">Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes.</p>
+<h2 class="Bodyclause">2. &nbsp; &nbsp;Users Under the Age of 18</h2>
+<p class="Bodyclause">Our Website is not intended for users under 18 years of age or legal smoking age. No one under age 18 may provide any information to or on the Website. We do not knowingly collect personal information from users under 18. If you are under 18, do not use or provide any information on this Website or on or through any of its features, do not register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number or e-mail address. If we learn we have collected or received personal information from a user under 18, we will delete that information. If you believe we might have any information from or about a user under 18, please contact us at support@vaping.com.</p>
+<h2 class="Bodyclause">3. &nbsp; &nbsp;Information We Collect About You and How We Collect It</h2>
+<p class="Bodyclause">We collect several types of information from and about users of our Website, including information:</p>
+<ul>
+<li>by which you may be personally identified, such as name, postal address, e-mail address, telephone number, social security number or any other identifier by which you may be contacted online or offline ("personal information");</li>
+<li>that is about you but individually does not identify you; and/or</li>
+<li>about your internet connection, the equipment you use to access our Website and usage details.</li>
+</ul>
+<p class="Bodyclause">We collect this information:</p>
+<ul>
+<li>Directly from you when you provide it to us.</li>
+<li>Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.</li>
+</ul>
+<h2>4. &nbsp; &nbsp;Information You Provide to Us.</h2>
+<p class="Bodyclause">The information we collect on or through our Website may include:</p>
+<ul>
+<li>Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our newsletter, or requesting further online services. We may also ask you for information when you report a problem with our Website.</li>
+<li>Records and copies of your correspondence (including e-mail addresses), if you contact us.</li>
+<li>Your responses to surveys that we might ask you to complete for research purposes.</li>
+<li>Details of transactions you carry out through our Website and of the fulfillment of your orders. You will be required to provide financial information before placing an order through our Website.</li>
+<li>Your search queries on the Website.</li>
+</ul>
+<p class="Bodysubclause">You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
+<h2 class="Bodysubclause">5. &nbsp; &nbsp;Information We Collect Through Automatic Data Collection Technologies.</h2>
+<p class="Bodyclause">As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:</p>
+<ul>
+<li>&nbsp;Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.</li>
+<li>Information about your computer and internet connection, including your IP address, operating system and browser type.</li>
+</ul>
+<p class="Bodysubclause">We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking).</p>
+<p class="Bodysubclause">The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:</p>
+<ul>
+<li>Estimate our audience size and usage patterns.</li>
+<li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
+<li>Speed up your searches.</li>
+<li>Recognize you when you return to our Website.</li>
+</ul>
+<p class="Bodysubclause">The technologies we use for this automatic data collection may include:</p>
+<ul>
+<li><b>Cookies (or browser cookies).</b> A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.</li>
+<li><b>Flash Cookies.</b> Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.</li>
+<li><b>Web Beacons.</b> Pages of our Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
+</ul>
+<p class="Bodyclause">We may collect personal Information automatically, and we may tie this information to personal information about you that we collect from other sources or you provide to us.</p>
+<h2 class="Bodyclause">6. &nbsp; &nbsp;Third-party Use of Cookies and Other Tracking Technologies.</h2>
+<p class="Bodyclause">Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services . They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.</p>
+<p class="Bodyclause">We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content or about how you can opt out of receiving targeted advertising, you should contact the responsible provider directly.&nbsp;</p>
+<h2 class="Bodyclause">7. &nbsp; &nbsp;How We Use Your Information</h2>
+<p class="Bodyclause">We use information that we collect about you or that you provide to us, including any personal information:</p>
+<ul>
+<li>To present our Website and its contents to you.</li>
+<li>To provide you with information or products that you request from us.</li>
+<li>To fulfill any other purpose for which you provide it.</li>
+<li>To provide you with notices about your account.</li>
+<li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
+<li>To notify you about changes to our Website or any products we offer or provide through it.</li>
+<li>To allow you to participate in interactive features on our Website.</li>
+<li>In any other way we may describe when you provide the information.</li>
+<li>We will ask for your consent before using information for a purpose other than those that are set out in this privacy policy.</li>
+</ul>
+<p class="Bodyclause">We may also use your information to contact you about goods that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile or by sending us an e-mail stating your request to support@vaping.com.</p>
+<h2 class="Bodyclause">8. &nbsp; &nbsp;Disclosure of Your Information</h2>
+<p class="Bodyclause">We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
+<p class="Bodyclause">We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
+<ul>
+<li>To our distributors, subsidiaries and affiliates.</li>
+<li>To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.</li>
+<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the assets of Vaping Dotcom Ltd., whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Vaping Dotcom Ltd. about our Website users is among the assets transferred.</li>
+<li>To trusted third parties to market their products or services to you if you have not opted out of these disclosures.</li>
+<li>To fulfill the purpose for which you provide it.</li>
+<li>For any other purpose disclosed by us when you provide the information.</li>
+<li>For any other purpose with your consent.</li>
+</ul>
+<p class="Bodyclause">We may also disclose your personal information:</p>
+<ul>
+<li>To comply with any court order, law or legal process, including to respond to any government or regulatory request.</li>
+<li>To enforce or apply our <a href="https://vaping.com/terms/">terms of use</a> or <a href="https://vaping.com/terms-of-sale/">terms of sale</a>&nbsp;and other agreements, including for billing and collection purposes.</li>
+<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Vaping Dotcom Ltd., our customers or others (including without limitation distributors, affiliates and subsidiaries of the Company).</li>
+</ul>
+<h2>9. &nbsp; &nbsp;Choices About How We Use and Disclose Your Information</h2>
+<p class="Bodyclause">We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:</p>
+<ul>
+<li><b>Tracking Technologies and Advertising.</b> You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly.</li>
+<li><b>Promotional Offers from the Company.</b> If you do not wish to have your contact information used by the Company to promote products, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile or by sending us an e-mail stating your request to support@vaping.com</li>
+</ul>
+<h2 class="MemoTitle">10. &nbsp; &nbsp;Accessing and Correcting Your Information</h2>
+<p class="Bodyclause">You can review and change your personal information by logging into your account profile on the Website.</p>
+<p class="Bodyclause">You may also send us an e-mail to support@vaping.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+<p class="Bodyclause">If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our <a href="https://vaping.com/terms/">terms of use</a>.</p>
+<h2 class="MemoTitle">11. &nbsp; &nbsp;Your California Privacy Rights</h2>
+<p class="Bodyclause">California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@vaping.com.</p>
+<h2 class="MemoTitle">12. &nbsp; &nbsp;Data Security</h2>
+<p class="Bodyclause">We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.</p>
+<p class="Bodyclause">The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. &nbsp;We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please be aware though that the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.</p>
+<p class="Bodyclause">Please be aware that we are not responsible for the privacy practices or the content of other websites which our Website contains links to or with respect to any third party websites from whom you are directed to our Website.</p>
+<h2 class="MemoTitle">13. &nbsp; &nbsp;Changes to Our Privacy Policy</h2>
+<p class="Bodyclause">We reserve the right to modify this privacy policy at any time. It is our policy to post any changes on this page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the e-mail address specified in your account. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting this privacy policy to check for any changes.</p>
+<h2 class="MemoTitle">14. &nbsp; &nbsp;Contact Information</h2>
+<p class="Bodyclause">To ask questions or comment about this privacy policy and our privacy practices, contact us at: support@vaping.com</p></div><script type="text/javascript">
+    document.observe("dom:loaded", function() {
+        $$('.more-views img, .product-image-thumbs img').each(function(node){
+            node.observe('click',function(event){
+                var target = event.target ? event.target : event.srcElement;
+                if(!window.analytics)
+                {
+                    return;
+                }
+                if(!segment_analytics_viewedproduct || !segment_analytics_viewedproduct.params)
+                {
+                    return;
+                }
+                
+                window.analytics.track('Viewed Product Image',
+                    {'src':     target.src,
+                     'product': segment_analytics_viewedproduct.params},
+                     {"library":{"name":"analytics-magento","version":"2.0.1"}}                );
+            });
+        });    
+    });    
+</script>                        </div>
+                    </div>
+                </div>
+                <footer class="footer">
+    <div>
+        <div class="block block-subscribe">
+    <form action="https://vaping.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="input-box">
+               <input type="text" name="email" id="newsletter" title="Email Address" class="input-text required-entry validate-email" placeholder="Email Address">
+            </div>
+            <button type="submit" title="Go">Go</button>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+        <div class="social">
+            <a href="https://www.instagram.com/vapingdotcom/">
+            <img src="https://assets.vaping.com/media/layout//instagram_2.png" alt="Instagram">
+        </a>
+            <a href="https://www.facebook.com/vapingdotcom/">
+            <img src="https://assets.vaping.com/media/layout//facebook_2.png" alt="Facebook">
+        </a>
+            <a href="https://twitter.com/vapingdotcom">
+            <img src="https://assets.vaping.com/media/layout//twitter_2.png" alt="Twitter">
+        </a>
+    </div>        <div class="links">
+    <div data-section="vaping">
+        <span class="title">vaping.com</span>
+        <ul>
+            <li><a href="https://vaping.com/about/">About Us</a></li>
+            <li><a href="https://vaping.com/contacts/">Contact Us</a></li>
+            <li><a href="https://vaping.com/customer/account/">My Account</a></li>
+            <li><a href="https://vaping.com/sales/order/history/">Orders</a></li>
+            <li><a href="https://vaping.com/returns/">Returns</a></li>
+        </ul>
+    </div>
+    <div data-section="products">
+        <span class="title">Products</span>
+        <ul>
+                                    <li><a href="https://vaping.com/complete-kits">Complete Kits</a></li>
+                                                <li><a href="https://vaping.com/eliquid">Eliquid</a></li>
+                                                <li><a href="https://vaping.com/devices">Devices</a></li>
+                                                <li><a href="https://vaping.com/tanks">Tanks</a></li>
+                                                <li><a href="https://vaping.com/parts">Parts</a></li>
+                                                                    </ul>
+    </div>
+    <div data-section="links">
+        <span class="title">Links</span>
+        <ul>
+            <li><a href="https://www.e-cigarette-forum.com/forum/forums/vaping-com.967/">Forum</a></li>
+            <li><a href="http://sfata.org/">SFATA</a></li>
+            <li><a href="http://vaportechnology.org/">VTA</a></li>
+        </ul>
+    </div>
+</div>    </div>
+</footer>
+<footer class="absolute-footer">
+    <div>
+        <div class="payment-methods">
+            <img src="https://assets.vaping.com/skin/frontend/vaping/default/images/checkout/payment-methods_264.png" alt="Visa, Mastercard, American Express, Discover">
+            <div class="secure-logos">
+    <span class="comodo">
+        <a href="https://ssl.comodo.com">
+            <img src="https://ssl.comodo.com/images/comodo_secure_seal_113x59_transp.png" alt="SSL Certificate">
+        </a>
+    </span>
+    <span class="veratad">
+        <img src="https://assets.vaping.com/skin/frontend/vaping/default/images/checkout/secure/veratadlogo_147-min.png" alt="Veratad">
+    </span>
+    <!--<span class="paypal">
+        <img src="https://assets.vaping.com/skin/frontend/vaping/default/images/checkout/cards/paypal.png" alt="PayPal">
+    </span>-->
+    <!-- (c) 2005, 2016. Authorize.Net is a registered trademark of CyberSource Corporation -->
+    <div class="AuthorizeNetSeal">
+        <script type="text/javascript" language="javascript">var ANS_customer_id="671a5988-3cfc-403a-a32e-65160e8fae49";</script>
+        <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
+    </div>
+</div>        </div>
+        <div class="menu">
+            <span>
+                <a href="https://vaping.com/privacy-policy/">Privacy Policy</a>
+            </span>
+            <span>
+                <a href="https://vaping.com/terms/">Terms &amp; Conditions</a>
+            </span>
+            <span>© 2016 vaping.com</span>
+        </div>
+    </div>
+    <div class="legal-text">
+        CALIFORNIA PROPOSITION 65<span>Warning: Inhalation of nicotine-containing eliquid will expose you to nicotine, a chemical know to the State of California to cause birth defects or other reproductive harm.</span>    </div>
+    <div class="credit">
+        <a href="https://outeredgeuk.com" title="Magento web design" rel="nofollow">Built by outer/edge</a>
+    </div>
+</footer>
+    <script src="https://assets.vaping.com/skin/frontend/vaping/default/js/vaping.built.ad5c48e320c8dede8e8dbebe59ac1280.js"></script>
+                                
+
+
+<script type="text/javascript">
+    window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9",
+    window.analytics.load("jgypBsI2C5G9vwp1y1NJPjGuRwBBQRk1");    
+</script><script type="text/javascript">    var segment_analytics_page = {"key":"jgypBsI2C5G9vwp1y1NJPjGuRwBBQRk1","page_name":"Privacy Policy - vaping.com"};
+</script><script type="text/javascript">
+    if(segment_analytics_page.category_names)
+    {
+        window.analytics.page("", "Privacy Policy - vapingcom",{},{"library":{"name":"analytics-magento","version":"2.0.1"}});
+    }
+    else
+    {
+        window.analytics.page("Privacy Policy - vapingcom",{},{"library":{"name":"analytics-magento","version":"2.0.1"}});
+    }
+</script>            </div>
+        </div>
+            
+
+</body></html>
