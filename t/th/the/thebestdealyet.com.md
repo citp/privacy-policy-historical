@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestdealyet.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421152943id_/http%3A//www.thebestdealyet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdealyet.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103102747id_/http%3A//www.thebestdealyet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
