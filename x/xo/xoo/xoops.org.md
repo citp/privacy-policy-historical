@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613014157id_/http%3A//xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103160656id_/http%3A//xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
 
 # Privacy Statement :: XOOPS Web Application System
 
