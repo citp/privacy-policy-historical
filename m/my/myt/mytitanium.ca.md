@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the mytitanium.ca privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322144029id_/http%3A//www.mytitanium.ca/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytitanium.ca privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103204047id_/http%3A//www.mytitanium.ca/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Titanium+ Visa Prepaid
+# Privacy Policy | Titanium+® Prepaid Card
 
 ### [Log In](https://www.mytitanium.ca/account/login)
 
 ## INTRODUCTION
 
-Money Mart understands that privacy is a critical issue for all customers and is committed to protecting customer personal information. We want to earn our customers’ trust by providing safeguards to protect personal information as we continue to provide valuable products and services. 
+Money Mart® understands that privacy is a critical issue for all customers and is committed to protecting customer personal information. We want to earn our customers’ trust by providing safeguards to protect personal information as we continue to provide valuable products and services.
 
-Money Mart’s Privacy Policy is designed to comply with Canada’s Federal Personal Information Protection and Electronic Documents Act including the ten principles set out in the National Canadian Standards Association: Model Code for the Protection of Personal Information. These guidelines have been customized to meet the specific needs and expectations of Money Mart customers. 
+Money Mart’s Privacy Policy is designed to comply with Canada’s Federal Personal Information Protection and Electronic Documents Act including the ten principles set out in the National Canadian Standards Association: Model Code for the Protection of Personal Information. These guidelines have been customized to meet the specific needs and expectations of Money Mart customers.
 
 Money Mart will continue to review this Privacy Policy to ensure it remains current with changing laws and regulations while meeting the evolving needs of its customers. In the event of any amendment to the Privacy Policy, a notice will be posted on [www.moneymart.ca](http://www.moneymart.ca/) or at each Money Mart branch. 
+
+You may view the Peoples Trust Privacy Policy by clicking on the following links: 
+
+  * English: [Peoples Trust Privacy Policy](http://www.peoplestrust.com/legal/privacy-security/privacy/)
+  * French: [La Compagnie de Fiducie Peoples - protection des renseignements](http://www.peoplestrust.com/legale/protection-des-renseignements-personnels-et-securite/politique-en-matiere-de-protection-des-renseignements-personnels/)
+
+
 
 ## DEFINITIONS
 
@@ -20,7 +27,7 @@ The act of gathering, acquiring, recording, or obtaining personal information fr
 
 **Consent**
 
-Voluntary agreement with the collection, use anddisclosure of personal information for defined purposes. 
+Voluntary agreement with the collection, use and disclosure of personal information for defined purposes. 
 
 **Customer**
 
@@ -91,7 +98,7 @@ Money Mart will make a reasonable effort to ensure that all customers have an un
 
 Money Mart will obtain consent to use and disclose personal information at the time the personal information is collected. Money Mart may also obtain consent to use and disclose personal information after it has been collected, but prior to the personal information being used or disclosed for a new purpose. 
 
-Consent shall not be obtained through deception. An individual’s consent may be explicit or implied. Consent can be given either orally, electronically or in writing. Use of products and services offered by Money Mart consititutes implied consent for the collection, use and disclosure of personal information for all identified purposes. 
+Consent shall not be obtained through deception. An individual’s consent may be explicit or implied. Consent can be given either orally, electronically or in writing. Use of products and services offered by Money Mart constitutes implied consent for the collection, use and disclosure of personal information for all identified purposes. 
 
 Money Mart may collect, use or disclose personal information without the individual’s knowledge and consent in certain circumstances. For example:
 
@@ -103,7 +110,7 @@ Money Mart may collect, use or disclose personal information without the individ
   * When the information is solely for Journalistic, Artistic, or Literary Intent; or
   * When the information is publicly available.
 
-An individual may withdraw consent at any time subject to legal or contractual restrictions and reasonable notice. Refusal or withdrawal of consent by a customer may prevent Money Mart from providing a product or service to that customer. Money Mart will not unreasonably withhold products or services from a customer who refuses or withdraws consent, but if the personal information is required to offer the product or service, Money Mart may decline to deal with the customer who will not consent to the use of such personal information. Money Mart maybe contacted for more information regarding the method by which consent can be withdrawn. 
+An individual may withdraw consent at any time subject to legal or contractual restrictions and reasonable notice. Refusal or withdrawal of consent by a customer may prevent Money Mart from providing a product or service to that customer. Money Mart will not unreasonably withhold products or services from a customer who refuses or withdraws consent, but if the personal information is required to offer the product or service, Money Mart may decline to deal with the customer who will not consent to the use of such personal information. Money Mart may be contacted for more information regarding the method by which consent can be withdrawn. 
 
 ## LIMITING COLLECTION
 
@@ -130,7 +137,7 @@ Money Mart shares and stores customer personal and transaction information with 
 
 Where personal information is disclosed to a third party, Money Mart will ensure that appropriate security measures are utilized to protect the use and disclosure of personal information. 
 
-Only Money Mart employees are authorized or granted access to personal information about customers when responsibilities reasonably require. 
+Only Money Mart employees are authorized or granted access to personal information about customers when responsibilities reasonably require access. 
 
 Money Mart will retain personal information only as long as necessary for the fulfillment of identified purpose, or as required by law. 
 
@@ -161,7 +168,7 @@ Money Mart will make the following information available:
   * Name, title and address of the Privacy Officer;
   * Means of gaining access to personal information held by Money Mart;
   * A brief description of the type of personal information retained by Money Mart and a general account of its use; and
-  * A copy of any brochure or other information that explains Money Mart’s privacy policies and procedure
+  * A copy of any brochure or other information that explains Money Mart’s privacy policies and procedures.
 
 
 
@@ -183,7 +190,7 @@ Canada
   
 An individual will be required to provide sufficient personal information to confirm their identity with Money Mart. 
 
-An individual shall be able to challenge the accuracy and completeness of their personal information and have it amended as appropriate. Money Mart will amend personal information when a customer successfully demonstrates the inaccuracy or incompleteness of their personal information. Any unresolved disagreements relating to the accuracy and completeness of a individual’s personal information will be noted for so long as such information remains relevant. 
+An individual shall be able to challenge the accuracy and completeness of their personal information and have it amended as appropriate. Money Mart will amend personal information when a customer successfully demonstrates the inaccuracy or incompleteness of their personal information. Any unresolved disagreements relating to the accuracy and completeness of an individual’s personal information will be noted for so long as such information remains relevant. 
 
 Money Mart may not be able to provide access to any or all of an individual’s personal information. If a request for personal information is denied, Money Mart will notify the individual in writing, documenting reasons for refusal and resources available for redress. 
 
@@ -199,20 +206,21 @@ Reasons for refusing access may include:
 
 ## COOKIES AND PIXEL TAGS (WWW.MONEYMART.CA)
 
-Cookies are small data files placed on a user’s computer by a website. They may store and transmit information to websites that users visit. [www.moneymart.ca](http://www.www.moneymart.ca/) uses cookies on our website to: 
+Cookies are small data files placed on a user’s computer by a website. They may store and transmit information to websites that users visit. [www.moneymart.ca](http://www.moneymart.ca/) uses cookies on our website to: 
 
   * Help provide our on-line products and services to users
   * Market those products and services
   * Analyze the flow of traffic to our website
   * Analyze and track the traffic of website users from page to page within our website
 
-Third party vendors, including Google, may: 
+Third party vendors, including Google®, may: 
+
   * Show our ads on websites on the internet
   * Use cookies to serve ads based on a user’s prior visits to our website
 
 Users may accept or decline cookies through the configuration settings of their web-browser. Users may also opt out of Google’s use of cookies by visiting the Google advertising opt-out page. 
 
-Pixel tags (or clear gifs) are small, transparent graphic images placed on a website or in an email that are not normally visible to the user. They provide non-identifiable information about your usage of the website. [www.moneymart.ca](http://www.www.moneymart.ca/) uses pixel tags to: 
+Pixel tags (or clear gifs) are small, transparent graphic images placed on a website or in an email that are not normally visible to the user. They provide non-identifiable information about your usage of the website. [www.moneymart.ca](http://www.moneymart.ca/) uses pixel tags to: 
 
   * Note pages visited on our website
   * Assist in the administration of affiliate accounts
@@ -243,8 +251,4 @@ If the Privacy Officer is unable to satisfy the customer’s concerns, the custo
 
 ### Buy! Register! Load! Use!
 
-Order your Titanium+ Visa Prepaid Card here online or pick up a card at any Money Mart store. [Learn More](https://web.archive.org/how-it-works.aspx) [](https://itunes.apple.com/ca/app/titanium+-mobile-wallet/id859216168?mt=8 "Get It Now!")
-
-Our Titanium+ Visa Prepaid Card App is also available online at the Apple Store for your iPhone and iPad. 
-
-[Get It Now!](https://itunes.apple.com/ca/app/titanium+-mobile-wallet/id859216168?mt=8) [](https://itunes.apple.com/ca/app/titanium+-mobile-wallet/id859216168?mt=8 "Get It Now!")
+Order your Titanium+ Prepaid MasterCard here online or pick up a card at any Money Mart store. [Learn More](https://web.archive.org/how-it-works.aspx)
