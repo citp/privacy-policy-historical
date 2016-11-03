@@ -1,54 +1,65 @@
-> *The following text is extracted and transformed from the listbuildingschool.com privacy policy that was archived on 2012-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120708080821id_/http%3A//www.listbuildingschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listbuildingschool.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103023952id_/http%3A//listbuildingschool.com/privacy-policy) for the most accurate reproduction.*
 
-# List Building Academy
+# Privacy Policy - List Building School
 
-**Privacy Policy**
+Disclosure Regarding Collection and Use of Personal Information
 
-This privacy policy sets out how (hereafter “COMPANY”) uses and protects any information that you give COMPANY when you use this website. COMPANY is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Last Updated August 26, 2016
 
-COMPANY may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1st, 2010.
+Thank you for visiting listbuildingschool.com. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. 
 
-**What we collect**
+**The Information We Collect.**
 
-We may collect the following information:
+listbuildingschool.com collects the following information:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+First Name, and E-mail
 
+We also may collect certain non-personally identifiable information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Internet Explorer, Safari, Firefox), the type of operating system you are using, (e.g., Windows or Mac) and the domain name of your Internet service provider.
 
+**How We Use and Disclose the Information.**
 
-**What we do with the information we gather**
+We will use the personal information you provide online for the purpose(s) you have submitted. Your First Name, Email Address, will be used to send you the summit related content that you request. In addition, we may send to you e-mails offering products or services which we think you may be interested in. If you want us to stop using the personal information you provided in these ways, please click the unsubscribe link on the bottom of any communication from listbuildingschool.com.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We may disclose your personally identifiable information in response to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or to defend against legal claims. We may also disclose your personally identifiable information when we believe it is necessary or desirable in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, and/or to protect our rights and property.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+**How We Share Your Personal Information.**
 
+We will not share the personal information you provide except with your explicit permission.
 
+Our business needs may change from time to time and we reserve the right to make changes to our Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We will not materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Security**
+Our operations and maintenance contractors sometimes have limited access to your personally identifiable information in the course of providing products or services to listbuildingschool.com. These contractors include vendors and suppliers that provide us with credit card processing, e-mail distribution technology, services, and/or content for the operation and maintenance of our Web site. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and 2) use or disclose your personally identifiable information for any purpose other than providing us with products and services as required by law.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+listbuildingschool.com is committed to handling your customer information with high standards of information security. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-**How we use cookies**
+**Use and Disclosure of Anonymous Information.**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our site is used, as well as to offer you products, programs or services. We may also share aggregate information with others, including affiliated companies and non-affiliated companies.
 
-**Links to other websites**
+**Collection of Information by Others.**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our site may contain links to other sites whose information practices may be different than ours. You should check the other sites’ privacy notices since we have no control over information that is submitted to or collected by them.
 
-**Controlling your personal information**
+**Cookies.**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+To enhance your online experience with us, many of our web pages use “cookies.” Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us. However, once you choose to provide the personally identifiable information, this information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. if no such box exists, your sole remedy is not to provide the information.
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+We use cookies as a convenience feature to save you time, to understand how our site is used, and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). You can opt to have your browser reject cookies without any effect on your use of our site. If you do that, you may need to re-register with us every time you visit our site in order to participate in certain promotions. You should also know that companies that advertise on our web site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies.
 
+**Web Beacons.**
 
+Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there to help us determine the effectiveness of our advertising campaigns.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please **** contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+**Discussions and Community Tools; Testimonials.**
+
+You agree that any information you submit to us through listbuildingschool.com may be used for promotional purposes. Because of the public nature of some of our services, you should exercise caution when deciding to disclose any personal information. We may also use a limited amount of information, such as first name, last initial and your town and state in marketing materials on the website. Your registration constitutes consent to this use.
+
+**International Users.**
+
+If you are visiting listbuildingschool.com from a location outside of the United States, your connection will be through and to servers located in the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using How 2 Publishing you authorize and specifically consent to the transfer of your personal information to the USA and its storage and use as specified above when you provide such information to us.
+
+**How You Can Access or Correct Your Personal Information.**
+
+For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please contact us at lbs@navidmoazzez.com.com
+
+To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.
