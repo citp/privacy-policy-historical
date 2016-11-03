@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507020038id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103050645id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
