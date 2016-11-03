@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503035712id_/http%3A//www.pakpassion.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4638) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpassion.net privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103213823id_/http%3A//www.pakpassion.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4638) for the most accurate reproduction.*
 
 # PakPassion.net
 
