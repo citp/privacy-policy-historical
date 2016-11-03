@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiboomu.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402121444id_/http%3A//thekiboomers.com/home-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiboomu.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103121326id_/http%3A//thekiboomers.com/preschool-songs-toddler-songs-preschool-videos-preschool-themes/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
