@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmwhk.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327073155id_/http%3A//www.bmwhk.com/en/footer/metanavigation/legal-disclaimer-pool/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwhk.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103063539id_/http%3A//www.bmwhk.com/en/footer/metanavigation/legal-disclaimer-pool/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
