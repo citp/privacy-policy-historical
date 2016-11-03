@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickspot.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313235557id_/https%3A//www.tickspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickspot.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103222950id_/https%3A//www.tickspot.com/privacy) for the most accurate reproduction.*
 
 # Tick - Privacy Policy
 
