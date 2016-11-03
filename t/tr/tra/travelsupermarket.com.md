@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624184524id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp%3FSource%3DMSSEGOO) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103175407id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp%3FSource%3DMSSEGOO) for the most accurate reproduction.*
 
 # moneysupermarket.com - Legal Services
 
@@ -184,4 +184,4 @@ We reserve the right to amend or modify this Privacy Policy at any time and any 
 **Last updated  June 2016  
 **
 
-[](https://web.archive.org/web/20160624184524id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20161103175407id_/http%3A//www.moneysupermarket.com/)
