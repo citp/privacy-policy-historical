@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624055432id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103153045id_/http%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Hal Leonard Online - Privacy Policy
 
 ## HAL LEONARD ONLINE PRIVACY POLICY
 
-This privacy policy relates to the website of Hal Leonard Corporation at [www.halleonard.com](http://www.halleonard.com/).
+This privacy policy relates to the website of Hal Leonard at [www.halleonard.com](http://www.halleonard.com/).
 
 Hal Leonard respects your right to privacy and is committed to respecting your wishes. On our site, you'll have opportunities to provide your name, address, e-mail and other relevant information to receive a more personalized visit to our site, and to share special promotions. We update this policy from time to time, so please check back.
 
@@ -18,7 +18,7 @@ We collect aggregate information on visits made to our pages. When you visit our
 
 Cookies are pieces of data your web browser stores on your hard drive. We use cookies to create your shopping list. Cookies allow you to make a list of products that interest you, and retrieve it again on subsequent visits to the site.
 
-Most browsers accept cookies. However, if you wish, you can usually set them to refuse cookies. Hal Leonard Corporation does not use cookies to gather any personal information.
+Most browsers accept cookies. However, if you wish, you can usually set them to refuse cookies. Hal Leonard does not use cookies to gather any personal information.
 
 ### Information We Collect on Shopping Pages
 
@@ -32,7 +32,7 @@ From time to time we may share our mailing lists with reputable third parties wh
 
 We use the Secure Sockets Layer (SSL) on areas of the site where you are entering personal or payment information. This means that this information is encrypted between your computer and ours, and no one else can normally decipher it. Our encryption is the strongest commercially available - 128K - and is approved by the authorities and financial institutions.
 
-Additionally, an independent, trusted third party - in this case GeoTrust - has issued us with a certificate which proves our right to use the domain name [halleonard.com](http://www.halleonard.com/) in a secure environment, and who can clarify that we are who we say we are.
+Additionally, an independent, trusted third party - in this case GeoTrust - has issued us with a certificate which proves our right to use the domain name [halleonard.com](http://www.halleonard.com/) in a secure environment, and who can clarify that we are who we say we are
 
 ### Need to make a change?
 
