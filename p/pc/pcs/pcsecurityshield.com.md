@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131175030id_/https%3A//pcsecurityshield.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103030843id_/https%3A//pcsecurityshield.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PCSecurityShield
 
