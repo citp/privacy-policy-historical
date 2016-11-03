@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerncalifornian.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617124222id_/http%3A//northerncalifornian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerncalifornian.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104005713id_/http%3A//northerncalifornian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Northern Californian
 
