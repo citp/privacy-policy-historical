@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godigit.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112120140id_/http%3A//godigit.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godigit.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103101300id_/http%3A//godigit.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Godigit.com - Privacy Policy
 
