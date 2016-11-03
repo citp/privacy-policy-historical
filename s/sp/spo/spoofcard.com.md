@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spoofcard.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427024106id_/https%3A//spoofcard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoofcard.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104001723id_/https%3A//www.spoofcard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SpoofCard
+# Our Privacy Policy | SpoofCard
 
 ### Privacy Policy
 
