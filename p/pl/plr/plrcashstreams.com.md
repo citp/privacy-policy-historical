@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrcashstreams.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125419id_/http%3A//www.plrcashstreams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrcashstreams.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103155223id_/http%3A//www.plrcashstreams.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Traffic Stampede
 
