@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 33andretired.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619090258id_/http%3A//www.33andretired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33andretired.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103231858id_/http%3A//www.33andretired.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
