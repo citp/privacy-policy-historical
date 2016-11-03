@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the systemtrust.org privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516181614id_/http%3A//systemtrust.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systemtrust.org privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103225530id_/http%3A//systemtrust.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | systemtrust
+# Privacy Policy - systemtrust.org
 
 Privacy Policy for **http://systemtrust.org**
 
