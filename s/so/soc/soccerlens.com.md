@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccerlens.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727212410id_/http%3A//soccerlens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerlens.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103194558id_/http%3A//soccerlens.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Soccerlens
 
 Soccerlens knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -10,7 +10,7 @@ This Privacy Policy covers Soccerlens’s treatment of personal information that
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Soccerlens users:
 
-  1. _Information You Provide to Us:_ We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special [features](http://soccerlens.com/tags/columns/feature/ "features").
+  1. _Information You Provide to Us:_ We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
   2. _Automatic Information:_
     * We receive and store certain types of information whenever you interact with us. Soccerlens and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Soccerlens cookie information, and the page you requested. Soccerlens uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
     * Soccerlens may collect and, on any page, display the total counts that page has been viewed.
@@ -24,7 +24,7 @@ Soccerlens is very concerned about your privacy and we will never provide your e
 
 **Cookies**
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many [people](http://soccerlens.com/tags/people/ "people"). Soccerlens cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Soccerlens cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
 The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Soccerlens’s coolest features.
 
