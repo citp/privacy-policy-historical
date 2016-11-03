@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdxnxx.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502121754id_/http%3A//www.hdxnxx.net/page/hdxnxx_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdxnxx.net privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103083920id_/http%3A//www.hdxnxx.net/page/hdxnxx_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HD XNXX Videos
 
