@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesign14.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603182031id_/http%3A//webdesign14.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesign14.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103231624id_/http%3A//webdesign14.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | http://webdesign14.com/
 
