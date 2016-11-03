@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partiallyclips.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623111520id_/http%3A//partiallyclips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partiallyclips.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103055035id_/http%3A//partiallyclips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PartiallyClips
 
