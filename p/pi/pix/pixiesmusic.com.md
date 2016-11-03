@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixiesmusic.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224172052id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiesmusic.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103121345id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
 
 # Topspin Media | Privacy Policy
 
@@ -248,6 +248,8 @@ For more information on advertising and opt-out cookies, visit [http://www.netwo
 
 Topspin may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on the homepage of our Website or sending you an email. Users are bound by any changes to the Privacy Policy when they use the Website after such changes have been first posted.
 
-If you need to contact Topspin for any reason or you have further questions about our policy, you can do so at the following address and phone number:
+If you need to contact Topspin for any reason or you have further questions about our policy, you can do so at the following address and email address:
 
-Topspin Media, Inc. 1538 20th St. First Floor Santa Monica, CA 90404 +1 310-421-2422
+Topspin Media, Inc. 3120 West Empire Avenue Burbank, CA 91504 
+
+customersupport@topspinmedia.com
