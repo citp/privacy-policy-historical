@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bored-night.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430191502id_/http%3A//www.bored-night.com/Pages/153/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored-night.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104055858id_/http%3A//www.bored-night.com/Pages/153/privacy_policy.html) for the most accurate reproduction.*
 
 # Bored at Night? | Bored People | Bored 2 Fun
 
@@ -17,7 +17,7 @@ and other sites about goods and services that may be of interest to you.
   
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may  
-place or recognize a unique “cookie” on your browser.
+place or recognize a unique �cookie� on your browser.
 
   
 **Personal Information**  
@@ -35,4 +35,4 @@ the privacy practices or the content of such Web sites.
   
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site,  
-or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20160430191502id_/http%3A//www.bored-night.com/Pages/153/index.php/Contact-Us.html) .
+or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20161104055858id_/http%3A//www.bored-night.com/Pages/153/index.php/Contact-Us.html) .
