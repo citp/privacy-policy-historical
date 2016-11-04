@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413233555id_/http%3A//macrovision.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105005108id_/http%3A//macrovision.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,10 +25,10 @@ Your rights
 
 ### ABOUT US AND THIS POLICY
 
-All references to "we", "us" or "our" refer to (1) Rovi Corporation and/or one or more of its corporate affiliates.  
+All references to "we", "us" or "our" refer to Rovi Corporation and/or one or more of its corporate affiliates.  
 
 
-Rovi Corporation is incorporated in the State of Delaware and its principal office is 2830 De La Cruz Boulevard, Santa Clara, California 95050. 
+Rovi Corporation is incorporated in the State of Delaware and its principal office is Two Circle Star Way, San Carlos, California 94070. 
 
 This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use a Rovi Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information. Information collected or provided by or to us may be shared with and used by any of our affiliates in accordance with this Privacy Policy as if the relevant affiliate was ‘we’ ‘us’ or ‘our’ in this Policy.  
 
@@ -36,7 +36,7 @@ This policy gives you the details of who we are and the details of our privacy p
 This policy may be amended from time to time without notice and it is your responsibility to read it carefully and review any changes that may have been made. Since changes will be posted on this page, we encourage you to check this page regularly.  
 
 
-This policy, the processing of your online account data and any other data we collect shall be governed by the laws of the State of California and shall be subject to the exclusive jurisdiction of the courts in Santa Clara, California.
+This policy, the processing of your online account data and any other data we collect shall be governed by the laws of the State of California and shall be subject to the exclusive jurisdiction of the courts in San Mateo County, California.
 
 Back to top
 
@@ -65,7 +65,9 @@ Personal information is also used to provide personalised services to you, such 
 
 We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business associates) ('Third Parties”), but, except as otherwise described in this policy, we will use reasonable efforts to provide it in a form that does not directly identify you.
 
-Creation of Anonymous Data. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. Once we create Anonymous Data this Anonymous Data is our property. We use this Anonymous Data in many ways including analyzing request and usage patterns, creating reports and performing analytics so that we may enhance the content of our Services, improve Site navigation and provide meaningful analysis of habits, usage, trends, and effectiveness of marketing campaigns etc. as part of our analytics and other services. Company reserves the right to use and disclose Anonymous Data to Third Party Companies in its absolute discretion.
+**Creation of Anonymous Data.                                                             **
+
+We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. Once we create Anonymous Data this Anonymous Data is our property. We use this Anonymous Data in many ways including analyzing request and usage patterns, creating reports and performing analytics so that we may enhance the content of our Services, improve Site navigation and provide meaningful analysis of habits, usage, trends, and effectiveness of marketing campaigns etc. as part of our analytics and other services. Company reserves the right to use and disclose Anonymous Data to Third Party Companies in its absolute discretion.
 
 **Social Media and Profiles.**  
 For certain Rovi Properties the information that we may ask you to provide could include name, gender, location, email address, biographical information and the movies and television shows that you like to watch. When you create your profile, you may be asked if you want your profile to be public or private. Unless you state that you want your profile to be private your profile will be available for public viewing.
@@ -176,7 +178,7 @@ Back to top
 
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Information for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@rovicorp.com](mailto:privacy@rovicorp.com) or by postal mail to Rovi Corporation 2830 De La Cruz Boulevard, Santa Clara, California 95050, Attn: Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@rovicorp.com](mailto:privacy@rovicorp.com) or by postal mail to Rovi Corporation Two Circle Star Way, San Carlos, California 94070, Attn: Your California Privacy Rights, c/o Privacy Administrator, Legal Department. All requests must be labelled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We are unable to accept requests via the telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
 
 Back to top
 
@@ -184,4 +186,4 @@ Back to top
 
 If you have any concern about privacy at Rovi, please send us a thorough description of your concern to [privacy@rovicorp.com](mailto:privacy@rovicorp.com) or the address above, and we will try to resolve it.
 
-This privacy policy was last updated on: 4th March 2015.
+This privacy policy was last updated on: 14th June 2016.
