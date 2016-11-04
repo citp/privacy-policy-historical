@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-apps.net privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303223426id_/http%3A//www.top-apps.net/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-apps.net privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104040047id_/http%3A//top-apps.net/en/privacypolicy) for the most accurate reproduction.*
 
 # top-apps.net - The latest software for free
 
