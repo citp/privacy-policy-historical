@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmen.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322070459id_/http%3A//www.richmen.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Drichmen%26prg%3D1%26tour%3D1%26g%3D1%26pg%3D1%26niche%3Dm-g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmen.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104233518id_/http%3A//richmen.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Drichmen%26prg%3D1%26tour%3D1%26g%3D1%26pg%3D1%26niche%3Dm-g) for the most accurate reproduction.*
 
 # 
 
