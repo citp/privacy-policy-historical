@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learntobeabookkeeper.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617145056id_/http%3A//www.learntobeabookkeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntobeabookkeeper.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104171342id_/http%3A//www.learntobeabookkeeper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Learn to be a Bookkeeper
+# Privacy Policy | Start a Bookkeeping Business
 
 **Privacy Policy**
 
