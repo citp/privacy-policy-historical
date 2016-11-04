@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefederalistpapers.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407175155id_/http%3A//www.thefederalistpapers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefederalistpapers.org privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104235439id_/http%3A//thefederalistpapers.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Federalist Papers
 
@@ -13,9 +13,9 @@ Your privacy is critically important to us. The Federalist Papers Project adhere
 
 
 
-Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team.](http://www.thefederalistpapers.org/contact)
+Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team.](http://thefederalistpapers.org/contact)
 
-The Federalist Papers Project  (“ **The Federalist Papers Project** ”) operates **[www.thefederalistpapers.org](http://www.thefederalistpapers.org/)**. It is The Federalist Papers Project’s policy to respect your privacy regarding any information we may collect while operating our websites.
+The Federalist Papers Project  (“ **The Federalist Papers Project** ”) operates **[thefederalistpapers.org](http://thefederalistpapers.org/)**. It is The Federalist Papers Project’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
