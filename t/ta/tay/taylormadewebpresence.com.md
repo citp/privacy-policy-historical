@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602111217id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadewebpresence.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104201840id_/http%3A//taylormadewebpresence.com/privacy) for the most accurate reproduction.*
 
 # TaylorMade Web Presence Privacy Policy | TaylorMade Web Presence
 
