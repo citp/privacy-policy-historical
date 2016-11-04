@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330061324id_/http%3A//www.hostpapa.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.ca privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104053221id_/https%3A//www.hostpapa.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HostPapa Web Hosting
 
@@ -29,27 +29,27 @@ Note: HostPapa does not read any of your private online communications.
 
 ### How HostPapa Uses & Discloses Your Personal Information
 
-**(i) Provision of Services**
+ **(i) Provision of Services**
 
 HostPapa collects and uses your personal information to operate the HostPapa website and to deliver the services you have requested. HostPapa also uses your personally identifiable information to inform you of other products or services available from HostPapa and its affiliates.
 
-**(ii) Surveys**
+ **(ii) Surveys**
 
 HostPapa may also contact you via surveys to conduct market research and collect opinions about current services or new services that may be offered.
 
-**(iii) Analysis**
+ **(iii) Analysis**
 
 HostPapa keeps track of the websites and pages our customers visit within HostPapa in order to determine which HostPapa services are the most popular. This data is used to deliver customized content and advertising within HostPapa to customers whose behaviour indicates they are interested in a particular subject area.
 
-**(iv) Third-Party Services**
+ **(iv) Third-Party Services**
 
 HostPapa offers some products and services in conjunction with or through trusted partners, sponsors, and affiliates (“Third-Party Services”). If you provide your personal information in conjunction with any Third-Party Services, you will be advised at the point of collection who is collecting the information and whose privacy policy applies. If there is any doubt, please contact HostPapa to clarify (see contact information below). If this Privacy Policy applies to such personal information, then HostPapa may be required to disclose your information to our trusted partner, sponsor, or affiliate in order to provide the Third-Party Services. If the privacy policy of our trusted partner, sponsor, or affiliate applies, HostPapa will make all reasonable efforts to ensure the third-party privacy policy is properly in place and complied with. However, it is your responsibility to satisfy yourself with such privacy policies, as Third-Party Services have separate and independent privacy policies. HostPapa accepts no responsibility or liability for the content and activities of Third-Party Services. Nonetheless, HostPapa welcomes comments and feedback relating to Third-Party Services.
 
-**(v) Links**
+ **(v) Links**
 
 You may be able to access other websites that have links on HostPapa websites, where you can purchase products and services or register to receive materials or new product updates. In many of these cases, you will be asked to provide personal information such as your name, email address, or other contact information, or credit/billing information. If you complete an order or provide personal information to a website or service that is not provided by HostPapa, HostPapa has no control over the third party’s use of any personal information. HostPapa therefore has no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use, disclose, secure, or otherwise deal with your personal information. HostPapa provides these links to other websites as a convenience to you. Please exercise care when visiting linked websites, which will have separate and independent privacy policies.
 
-**(vi) Legal Disclosure**
+ **(vi) Legal Disclosure**
 
 HostPapa collects, uses, and discloses your personal information as described above. However, HostPapa, its affiliates, trusted partners, and sponsors, may disclose your personal information, including your use of the services or websites accessible through the services, for any reason, in its sole discretion to comply with Canadian, U.S., or other laws, regulations, or governmental or legal requests or demands for such information, and act under exigent circumstances to protect the personal safety of users of HostPapa or the public.
 
