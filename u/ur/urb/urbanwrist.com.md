@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanwrist.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516203605id_/http%3A//urbanwrist.com/shop/%3Fpage_id%3D1105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanwrist.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104222447id_/http%3A//www.urbanwrist.com/uw/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Urban Wrist
+# Privacy Policy – Urban Wrist
 
 **Our Commitment To Privacy:**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
