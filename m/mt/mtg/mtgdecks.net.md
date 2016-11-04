@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtgdecks.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150717id_/http%3A//www.mtgdecks.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgdecks.net privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104033234id_/http%3A//mtgdecks.net/pages/privacy) for the most accurate reproduction.*
 
-# Privacy - MTGdecks.net, need netdecks? Check our MTG Decks now! We have tons of them!
+# Privacy | MTGDECKS.NET, to be the best deck builder and beat the metagame!
 
 The privacy of our visitors to mtgdecks.net is important to us.
 
