@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmanage.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624142404id_/http%3A//www.bestmanage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmanage.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104070445id_/http%3A//bestmanage.com/privacy.html) for the most accurate reproduction.*
 
 # Best Manage
 
