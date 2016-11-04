@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shippingeasy.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407081803id_/https%3A//support.shippingeasy.com/hc/en-us/articles/203084479-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shippingeasy.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104010027id_/https%3A//support.shippingeasy.com/hc/en-us/articles/203084479-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – ShippingEasy Knowledge Base
 
