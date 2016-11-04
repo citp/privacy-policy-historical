@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luxo.estate privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206180228id_/http%3A//luxo.estate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxo.estate privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104133203id_/http%3A//luxo.estate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Luxury Real Estate Worldwide
+# Privacy PolicyLUXO
 
-Luxo.estate (the Site) is owned and operated by Luxo LLc  (“Site”). We respect the privacy of each user of the Site (referred to as “you” or “a user”), by registering for or using this Site you accept this privacy statement. You cannot use this Site if you do not agree to this privacy statement.  We reserve the right to modify this statement at any time.
+Luxo.estate (the Site) is owned and operated by LUXO  (“Site”). We respect the privacy of each user of the Site (referred to as “you” or “a user”), by registering for or using this Site you accept this privacy statement. You cannot use this Site if you do not agree to this privacy statement.  We reserve the right to modify this statement at any time.
 
 The Site may contain links to third party websites, you will go to a third-party site if you clicked on those links where you will be subject to that site’s Privacy Statement. Please be aware that we are not responsible for the privacy practices of those other websites and we expressly disclaim liability for their actions.
 
