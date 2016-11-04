@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewirecutter.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324015414id_/http%3A//thewirecutter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewirecutter.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104214317id_/http%3A//thewirecutter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Wirecutter
 
