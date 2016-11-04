@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taslyus.com privacy policy that was archived on 2016-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160128074039id_/http%3A//www.taslyus.com/index.php%3Fmod%3Dabout%26op%3Ddetail%26id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taslyus.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104072100id_/http%3A//taslyus.com/index.php%3Fmod%3Dabout%26op%3Ddetail%26id%3D4) for the most accurate reproduction.*
 
 # Privacy taslyus
 
@@ -42,7 +42,7 @@ When you complete registration of an offer from us, you may be given the option 
 
 **Email**
 
-We appreciate your questions and comments about our Website and services and welcome your e-mails and questions. We will share your messages with those within our organization that are most capable of addressing the issues contained in your message. We may archive your message for a certain period of time or discard it, but your e-mail address and message will only be used in accordance with this Privacy Policy. Submitting your address anywhere on the Website may result in your e-mail address being added to our e-mail list. You may unsubscribe at any time by opting out of e-mail subscriptions with the “unsubscribe” link included in each e-mail. 
+We appreciate your questions and comments about our [Rolex Submariner Replica Watches](http://www.watchnreplica.com/category/fake-rolex-submariner/) and services and welcome your e-mails and questions. We will share your messages with those within our organization that are most capable of addressing the issues contained in your message. We may archive your message for a certain period of time or discard it, but your e-mail address and message will only be used in accordance with this Privacy Policy. Submitting your address anywhere on the Website may result in your e-mail address being added to our e-mail list. You may unsubscribe at any time by opting out of e-mail subscriptions with the “unsubscribe” link included in each e-mail. 
 
 **Updating Your Personal Information**
 
