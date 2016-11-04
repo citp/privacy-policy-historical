@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223730id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104182356id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosure Info | The Cornerstone
 
