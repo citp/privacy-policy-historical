@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093814id_/https%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assessmentday.co.uk privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104043627id_/https%3A//www.assessmentday.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AssessmentDay.co.uk
 
@@ -66,4 +66,4 @@ This privacy policy only covers this website. Any other websites which may be li
 
 **Changes to our Privacy Policy**
 
-We sometimes update our privacy policy and we will place any updates on this webpage. We respect your privacy and so collect only the data necessary for product delivery and analysing website usage data. Occasionally we may pass your details to relevant third parties for direct marketing purposes. If you do not wish to received direct marketing please contact us to request an opt-out.
+We sometimes update our privacy policy and we will place any updates on this webpage. We respect your privacy and so collect only the data necessary for product delivery and analysing website usage data.
