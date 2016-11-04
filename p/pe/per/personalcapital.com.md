@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024095549id_/https%3A//www.personalcapital.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104083234id_/https%3A//www.personalcapital.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Capital Corporation
 
-##### Last updated on September 15, 2015
+##### Last updated on April 25, 2016
 
 Personal Capital is committed to the protection of your privacy. We understand keeping your information secure and confidential is critical to earning and keeping your trust.
 
@@ -63,7 +63,7 @@ To allow you to register with Personal Capital Technology Corporation, including
 
 To allow you to Add Accounts (aggregate 3rd party data), including:
 
-  * Securely gathering account balances, transactions and holdings from your financial institutions;
+  * Securely gathering account balances, statements, transactions and holdings from your financial institutions;
   * Displaying personalized dashboards and financial visualizations for you;
   * Providing you with contextual and relevant observations and insights;
 
@@ -155,7 +155,7 @@ Except as set forth in this Privacy & Security Statement, we don’t share your 
 
 To conduct everyday business
 
-  * If you have registered to use our dashboard to aggregate your banking and other financial accounts, we will transmit your account credentials to those 3rd party institutions where you hold accounts to gather and maintain your account balances, transactions and holdings used to provide our services. (Read more about our [secure handling of your credentials](https://support.personalcapital.com/forums/20752336-top-customer-security-questions)); 
+  * If you have registered to use our dashboard to aggregate your banking and other financial accounts, we will transmit your account credentials to those 3rd party institutions where you hold accounts to gather and maintain your account balances, transactions and holdings used to provide our services. (Read more about our [secure handling of your credentials](https://support.personalcapital.com/hc/en-us/sections/200230560-Security)); 
   * We will share your Personal Information with our wholly-owned subsidiaries (i.e., Personal Capital Technology Corporation and Personal Capital Advisors Corporation) for everyday business purposes, such as sharing information about your experiences or transactions, to provide financial insights and advice and improving your user experience...
 
 
@@ -228,7 +228,7 @@ Personal Capital, as a registered investment advisor, must comply with certain l
 
 #### How to Request Deletion of the Personal Information We Collect.
 
-You may visit the troubleshooting section of our support web site for instructions on <a href="https://support.personalcapital.com/entries/21051288-how-do-i-cancel-my-personal-capital-account" ,="" target="_blank">how to delete your Personal Capital account.
+You may visit the troubleshooting section of our support web site for instructions on [how to delete your Personal Capital account](https://support.personalcapital.com/entries/21051288-how-do-i-cancel-my-personal-capital-account).
 
 Alternatively, you may request your Personal Capital account be deleted by our support department by emailing [support@personalcapital.com](mailto:support@personalcapital.com) from the email address associated with your Personal Capital account, indicating “CANCEL” in the subject line of the message. After confirming you are the account owner we will remove Personal Information from our records and will only continue to retain such information as required by law.
 
@@ -258,8 +258,9 @@ Please contact us.
 
 Attention: Privacy & Security  
 Personal Capital Corporation and its wholly owned subsidiaries  
-726 Main Street  
-Redwood City, CA 94063 
+1 Circle Star Way  
+Suite 189  
+San Carlos, CA 94070 
 
 Call toll-free 855-855-8005
 
