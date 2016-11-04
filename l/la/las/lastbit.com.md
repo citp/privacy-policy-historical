@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastbit.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421125228id_/http%3A//lastbit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastbit.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105000913id_/http%3A//lastbit.com/privacy.asp) for the most accurate reproduction.*
 
 # LastBit Software - Privacy Policy
 
@@ -33,4 +33,4 @@ Personal information that you provide in connection with ordering Last Bit Corp.
 Our Site uses cookies to track information about our visitors. A cookie is a small amount of data that is transferred to your browser by a WEB server and can only be read by the server that gives it to you. It cannot be executed as code or deliver viruses. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.
 
 **Privacy-related feedback**  
-You opinion on our privacy policy is important to us. If you have any questions or concerns about this privacy policy or the practices [contact us](https://web.archive.org/web/20160421125228id_/http%3A//lastbit.com/mp/support.asp). 
+You opinion on our privacy policy is important to us. If you have any questions or concerns about this privacy policy or the practices [contact us](https://web.archive.org/web/20161105000913id_/http%3A//lastbit.com/mp/support.asp). 
