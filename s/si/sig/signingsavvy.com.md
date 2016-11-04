@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603135246id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingsavvy.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104210632id_/https%3A//www.signingsavvy.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ASL Sign Language Video Dictionary
 
