@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campdoc.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001830id_/http%3A//www.campdoc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campdoc.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104182402id_/http%3A//www.campdoc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CampDoc.com
 
