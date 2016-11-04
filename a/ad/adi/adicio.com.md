@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507043034id_/http%3A//www.adicio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104155224id_/http%3A//www.adicio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Adicio - Privacy Policy
 
 [](http://privacy.truste.com/privacy-seal/validation?rid=ffcdf014-3ec0-418d-bb1e-e23865f9a310 "TRUSTe Privacy Certification")
 
