@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinygamewiki.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229185115id_/http%3A//www.destinygamewiki.com/wiki/Destiny_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinygamewiki.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104041655id_/http%3A//www.destinygamewiki.com/wiki/Destiny_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Destiny Wiki:Privacy policy - Destiny Wiki - Destiny Community Wiki and Guide
 
