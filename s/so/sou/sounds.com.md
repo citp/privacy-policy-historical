@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sounds.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205104010id_/http%3A//www.sounds.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sounds.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104200236id_/http%3A//sounds.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Sounds Virtual Privacy Policy.
 
@@ -42,6 +42,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 Online privacy policy only:   
 This online privacy policy applies only to information collected through our website and not to information collected offline.   
 Terms and conditions:   
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160205104010id_/http%3A//www.sounds.com/policies/terms.html) section establishing the use, disclaimer, and limitation of liability governing the use of our website.   
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20161104200236id_/http%3A//sounds.com/policies/terms.html) section establishing the use, disclaimer, and limitation of liability governing the use of our website.   
 Your Consent:   
 By using our website you consent to our privacy policy. 
