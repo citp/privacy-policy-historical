@@ -1,27 +1,93 @@
-<!--The following is the downloaded HTML source of the rumorhasitlegends.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627074058id_/http%3A//rumorhasitlegends.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rumorhasitlegends.com privacy policy that was archived on 2016-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161104130306id_/http%3A//rumorhasitlegends.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-  <title>RUMORHASITLEGENDS.COM</title>
+  <title>Rumor Has It</title>
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta http-equiv="Content-type" content="text/html" charset="UTF-8">
-
-	<link href="/css/common.css" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Arimo|Slabo+27px" rel="stylesheet" type="text/css"><link href="/css/rumorhasitlegends.com.css" rel="stylesheet" type="text/css"></head>
-<body lang="EN-US" link="blue" vlink="purple"><center>
-<div style="width:1038px;text-align:left;">	<div class="domain_top_navigation_header" style="padding-bottom:10px">
-		<table border="0" cellpadding="0" cellspacing="0" style="width:100%">
-				<tbody><tr>
-					<td>
-						<a href="http://rumorhasitlegends.com"><img src="http://rumorhasitlegends.com/img/logo_rumorhasitlegends.com.png" height="60" border="0" alt=""></a>
-					</td>
-					<td style="text-align:right">
-						
-					</td>
-				</tr>
-		</tbody></table>
+  <script src="/js/utils.js"></script>
+  <script src="/js/json.js"></script>
+  <script src="/js/ajax_wrapper.js"></script>
+  <script src="/js/sticky_dom_element.js"></script>
+  
+	<link href="/css/common.css" rel="stylesheet" type="text/css">
+	<link href="/css/style_contemporary.css" rel="stylesheet" type="text/css">
+</head>
+<body lang="EN-US" link="blue" vlink="purple"><link href="//fonts.googleapis.com/css?family=Roboto:500|Oswald" rel="stylesheet" type="text/css"><style type="text/css">
+	
+	.header {
+		background-color:#3da6e2;
+	}
+	.header .logo {
+		font-family:Oswald;
+		color:#3da6e2;
+	}
+	
+	.welcome {
+		background-image:url("/img/banner_rumorhasitlegends.com.jpg");
+		font-family:Oswald;
+	}
+	
+	.inner .label {
+		color:#3da6e2;
+	}
+</style>		<style type="text/css">
+			
+			.header {
+				background-color:#3da6e2;
+				margin-bottom:15px;
+			}
+			
+		</style><div id="header" class="header">
+	<div class="inner">
+		<table style="width:100%;"><tbody><tr><td style="width:1%;">
+			<div class="logo">
+				<a href="http://rumorhasitlegends.com">Rumor Has It</a>
+			</div>
+		</td><td>
+			<div class="subtopics">
+				<span class="topic"><a href="/topic.php?id=150">Rumor Has It - Jimmy &amp; Friends</a></span><span class="topic"><a href="/topic.php?id=154">Maxine &amp; Friends</a></span>
+			</div>
+		</td><td style="text-align:right;">
+			<div class="buttons">
+				
+			</div>
+		</td></tr></tbody></table>
 	</div>
+	
+	
+</div>
+
+
+<script type="text/javascript">
+window.lastTop = 0;
+window.headerTop = Math.min(Utils.getCoordinates(document.getElementById('header')).top,320);
+Utils.addEventListener(window,'scroll',function(e){
+		var buffer = 5;
+		var view = Utils.getViewRect();
+		if (view.top > (window.headerTop + 30) && view.top > window.lastTop + buffer) {
+			// scrolled down
+			Utils.addClass(document.getElementById('header'),'mini');
+			if (view.top > window.headerTop + 500) {
+				Utils.addClass(document.getElementById('header'),'hidden');
+			}
+		}
+		else if (view.top < window.lastTop - buffer) {
+			// scrolled up
+			Utils.removeClass(document.getElementById('header'),'hidden');
+			if (view.top < window.headerTop + 30) {
+				Utils.removeClass(document.getElementById('header'),'mini');
+			}
+		}
+		if (Math.abs(view.top-window.lastTop) > buffer || view.top == 0) {
+			window.lastTop = view.top;
+		}
+		// add "sticky" js for chrome
+		// if distance from top of header is different from scrolltop, set them to be equal, would need to alter hidden class
+	});
+</script><div class="main"><div class="block" style="font-family:verdana;font-size:12px;text-align:left;">
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -308,7 +374,7 @@ information to us or anyone else over the Internet.</p>
 
 
 
-<div class="footer article-side-sticky">
+</div><div style="clear:both">&nbsp;</div><div style="margin-top:30px;"><div class="footer inner article-side-sticky">
 	<table border="0" style="width:100%" class="article-side-sticky">
 		<tbody><tr>
 			<td>
@@ -317,11 +383,13 @@ information to us or anyone else over the Internet.</p>
 			<td style="text-align:right">
 				<a href="http://rumorhasitlegends.com/terms.php">Terms</a> <span class="dot-separator">·</span> 
 				<a href="http://rumorhasitlegends.com/privacy.php">Privacy</a> <span class="dot-separator">·</span>
+					<a href="http://rumorhasitlegends.com/partnerships.php">Partnerships</a> <span class="dot-separator">·</span> 
+				
 				<a href="http://rumorhasitlegends.com/dmca.php">DMCA Removal</a> <span class="dot-separator">·</span> 
 				<a href="http://rumorhasitlegends.com/contact.php">Contact Us</a> 
 			</td>
 		</tr>
 	</tbody></table>
 </div></div>
-</center>
+</div>
 </body></html>
