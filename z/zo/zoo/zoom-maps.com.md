@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoom-maps.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505144106id_/http%3A//zoom-maps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom-maps.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104224549id_/http%3A//zoom-maps.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Zoom Maps
 
