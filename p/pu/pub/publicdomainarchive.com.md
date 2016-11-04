@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the publicdomainarchive.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415171022id_/http%3A//publicdomainarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomainarchive.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105000433id_/http%3A//publicdomainarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Public Domain Images | Free Stock Photos
 
-This Privacy Policy governs the manner in which PublicDomainArchive.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.PublicDomainArchive.com](http://www.generateprivacypolicy.com/account/policies/edit/www.viintage.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by PublicDomainArchive.com.
+This Privacy Policy governs the manner in which PublicDomainArchive.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.PublicDomainArchive.com website (“Site”). This privacy policy applies to the Site and all products and services offered by PublicDomainArchive.com.
 
 **Personal identification information**
 
@@ -45,13 +45,13 @@ PublicDomainArchive.com has the discretion to update this privacy policy at any 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://viintage.com/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://publicdomainarchive.com/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[PublicDomainArchive.com](http://www.generateprivacypolicy.com/account/policies/edit/www.viintage.com)  
-[www.PublicDomainArchive.com](http://www.generateprivacypolicy.com/account/policies/edit/www.viintage.com)  
+PublicDomainArchive.com  
+www.PublicDomainArchive.com  
 525 S. Milledge Ave Athens, GA 30607  
 support@PublicDomainArchive.com
 
