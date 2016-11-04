@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneblockdown.it privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318132434id_/http%3A//www.oneblockdown.it/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneblockdown.it privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104211641id_/http%3A//www.oneblockdown.it/it/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | One Block Down Online Store
 
