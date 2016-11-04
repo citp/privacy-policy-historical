@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatcatrewards.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529102333id_/http%3A//www.fatcatrewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatcatrewards.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104020221id_/http%3A//www.fatcatrewards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FatCatRewards.com
 
