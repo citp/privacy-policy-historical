@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627231507id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104152751id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SHOEme.ca
 
@@ -60,6 +60,7 @@ Except as described in this Privacy Policy, your personal information will not b
   5. Partner Programs. From time to time, we may partner with companies that, in conjunction with trusted store or similar programs, subscription services, rewards programs or other membership programs, require that we disclose purchasing or other personal information about their members who visit our Site (for example, to obtain purchase protection or to earn points or discounts for purchases made on our Site through links from the partner site). We will disclose your personal information to the partner companies when you consent to that disclosure, including consent implied by your agreement to the applicable membership or participation rules, as necessary to support your membership in these programs.
   6. Contest/Sweepstakes Winners. We may publicly disclose the name, city and state of winners.
   7. Acquisitions or Divestitures. We may decide to sell, buy or merge our own or other businesses. Such a transaction may involve disclosing personal and other information to prospective or actual purchasers, or receiving it from sellers. It is our practice to seek appropriate protection for information in these types of transactions. In the event that we or all of our assets are acquired in such a transaction, customer information would be one of the transferred assets.
+  8. Marketplace Vendors. We may share shipping information collected on the Site with our Marketplace Vendors for the purpose of delivering a product purchased from the Vendor. When your shipping information is shared with a Marketplace Vendor, it will still be used and protected according to this Privacy Policy.
 
 
 
