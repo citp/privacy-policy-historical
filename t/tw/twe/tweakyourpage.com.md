@@ -1,90 +1,164 @@
-> *The following text is extracted and transformed from the tweakyourpage.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808012303id_/http%3A//www.tweakyourpage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakyourpage.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104055949id_/http%3A//tweakyourpage.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**We recognizes the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**What Information Do We Collect?**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+**When do we collect information?**
 
-**1\. Personal Information You Choose to Provide**
+We collect information from you when you fill out a form or enter information on our site.
 
-Registration Information ~ When you register for any of our products, services or newsletters you will provide us information about yourself. 
+**How do we use your information?**
 
-Email Information ~ If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**2\. Web Site Use Information**
+**•** To send periodic emails regarding your order or other products and services.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+**•** To follow up with them after correspondence (live chat, email or phone inquiries)
 
-**How Do We Use the Information That You Provide to Us?**
+**How do we protect your information?**
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. 
+We only provide articles and information. We never ask for credit card numbers.
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter. 
+We use regular Malware Scanning.
 
-**What Are Cookies?**
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.**
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-**How Do We Use Information We Collect from Cookies?**
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+**Do we use 'cookies'?**
 
-**IP Addresses**
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you. 
+**We use cookies to:**
 
-**Sharing and Selling Information**
+**•** Understand and save user's preferences for future visits.
 
-We **do not** share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
-**What About Legally Compelled Disclosure of Information?**
+If you turn cookies off, some features will be disabled. It won't affect the user's experience that make your site experience more efficient and may not function properly.
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+However, you will still be able to place orders .
 
-**What About Other Web Sites Linked to Our Web Site?**
+**Third-party disclosure**
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+**Third-party links**
 
-**Your Consent**
+We do not include or offer third-party products or services on our website.
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. 
+**Google**
 
-_**Our Commitment To Data Security:**_
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+We have not enabled Google AdSense on our site but we may do so in the future.
 
-**Choice/Opt-In/Opt-Out**
+**California Online Privacy Protection Act**
 
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-**A Special Note About Children**
+**According to CalOPPA, we agree to the following:**
 
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
+Users can visit our site anonymously.
 
-**Ads Displayed On This Web Site**
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-[ValueClick Media](https://www.valueclickmedia.com/privacy.shtml)  
-[Right Media](http://www.rightmedia.com/content/company/privacy-policy/6,604)  
-[Google AdWords / AdSense](http://www.google.com/privacy.html)  
-[AuctionAds](http://www.auctionads.com/privacy)  
+Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
 
+You will be notified of any Privacy Policy changes:
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**•** On our Privacy Policy Page
 
-**Acquisition or Changes in Ownership**
+Can change your personal information:
 
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
+**•** By emailing us
 
-**Policy Modifications**
+**•** By logging in to your account
 
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
+**How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we do not allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+**•** Within 7 business days
+
+We will notify you via letter
+
+**•** Within 7 business days
+
+We will notify the users via in-site notification
+
+**•** Within 1 business day
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•** Send information, respond to inquiries, and/or other requests or questions
+
+**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+**•** Not use false or misleading subjects or email addresses.
+
+**•** Identify the message as an advertisement in some reasonable way.
+
+**•** Include the physical address of our business or site headquarters.
+
+**•** Monitor third-party email marketing services for compliance, if one is used.
+
+**•** Honor opt-out/unsubscribe requests quickly.
+
+**•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+office@tweakyourpage.com and we will promptly remove you from **ALL** correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+http://tweakyourpage.com
+
+712 Bancroft Road
+
+Walnut Creek, California 94598
+
+USA
+
+office@tweakyourpage.com
+
+Last Edited on 2016-08-14
