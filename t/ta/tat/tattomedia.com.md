@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tattomedia.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919062216id_/http%3A//www.tattomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattomedia.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104135549id_/http%3A//tattomedia.com/about_us/privacy.php) for the most accurate reproduction.*
 
-# Tatto Media - Privacy Policy
+# Privacy Policy - About - Tatto Media
 
-Effice Date: 4/19/2009
+## Privacy Policy
+
+Effective April 2009
 
 Thank you for visiting the Tatto Media website located at www.tattomedia.com (the "Site"). The Site is an Internet property of Tatto, Inc., a Delaware State corporation ("Tatto Media," "we" or "us"). Tatto Media is committed to protecting the privacy of our visitors' personally identifiable information. We provide this privacy policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way your information is used by us. You agree to this Privacy Policy, in its entirety, when you: (a) access or use our Site; and/or (b) register on the Site to participate as a Publisher, Affiliate and/or Advertiser on the Tatto Media Network (as those terms are defined in the Tatto Media Terms and Conditions ("Terms and Conditions")). If you do not agree to this Privacy Policy in its entirety, you are not authorized to become a Publisher, Affiliate and/or Advertiser (collectively, "Tatto Media Member") and/or use the Site in any manner or form whatsoever. 
 
@@ -28,4 +30,4 @@ We will process your request, where possible and subject to the terms and condit
 
 **Notification of Changes.** Tatto Media reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Site explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
-**Contact Us.** If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: info@tattomedia.com. 
+**Contact Us.** If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at [legal@tattomedia.com](mailto:legal@tattomedia.com). 
