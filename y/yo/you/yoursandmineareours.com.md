@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursandmineareours.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526050808id_/http%3A//yoursandmineareours.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursandmineareours.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104023355id_/http%3A//yoursandmineareours.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yours and Mine ARE Ours
 
