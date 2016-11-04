@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efappy.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529164241id_/http%3A//efappy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efappy.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104151320id_/http%3A//efappy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eFappy
 
