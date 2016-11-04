@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vansd.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605074027id_/http%3A//vansd.org/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vansd.org privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104133807id_/http%3A//vansd.org/web-privacy-statement) for the most accurate reproduction.*
 
-# Web privacy statement - Vancouver Public Schools
+# Web privacy statement – Vancouver Public Schools
 
 ## Vancouver Public Schools web privacy statement
 
