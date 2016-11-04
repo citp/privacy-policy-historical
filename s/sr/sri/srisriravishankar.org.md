@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the srisriravishankar.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406200304id_/http%3A//srisriravishankar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srisriravishankar.org privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104125856id_/http%3A//srisriravishankar.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Official Website Of Sri Sri Ravi Shankar
+# Privacy Policy - Official Website of Sri Sri Ravi Shankar
 
 This agreement is entered into by the Office of His Holiness Sri Sri Ravi Shankar on behalf of itself and its affiliates and licensors (“Organization”).
 
