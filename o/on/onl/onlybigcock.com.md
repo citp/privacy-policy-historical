@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlybigcock.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505144134id_/http%3A//www.onlybigcock.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlybigcock.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104025858id_/http%3A//www.onlybigcock.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
