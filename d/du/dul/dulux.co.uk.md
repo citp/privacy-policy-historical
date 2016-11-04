@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316012918id_/https%3A//www.dulux.co.uk/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dulux.co.uk privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104180402id_/https%3A//www.dulux.co.uk/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Dulux
 
-**Information regarding cookies** This website uses cookies to store information on your computer. Some of these cookies enable the functionality of the website and some help us to improve the website by giving us some insight into how the website is being used. By continuing to use the website we will assume you accept the use of cookies. [Read more about cookies](https://www.dulux.co.uk/en/cookies "Read more about cookies")
+**Information regarding cookies** This website uses cookies to store information on your computer. Some of these cookies enable the functionality of the website and some help us to improve the website by giving us some insight into how the website is being used. By continuing to use the website we will assume you accept the use of cookies. [Read more about cookies](https://web.archive.org/en/cookies "Read more about cookies")
 
 __ Dismiss
 
