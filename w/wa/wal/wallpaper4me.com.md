@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpaper4me.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915010047id_/http%3A//www.wallpaper4me.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper4me.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104152647id_/http%3A//wallpapercraze.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Wallpaper4Me.com | HD Wallpapers, High Definition Wallpapers, Twitter Backgrounds, Free Wallpapers, Myspace Backgrounds, Desktop Wallpapers, Desktop Backgrounds, Backgrounds For Myspace & More!
+# WallpaperCraze.com |
 
 ## Privacy Policy
 
