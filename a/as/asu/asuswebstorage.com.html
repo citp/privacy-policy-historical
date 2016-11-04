@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asuswebstorage.com privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401182159id_/https%3A//service.asuswebstorage.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asuswebstorage.com privacy policy that was archived on 2016-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161104193918id_/https%3A//service.asuswebstorage.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,17 +23,17 @@ Online backup, file sync, for pad, PC, Android and iPhone - ASUS WebStorage
 
 
 
-<link href="/css/global.css;jsessionid=EC1588E92A81A34C11D3EA54E9F70D26" rel="stylesheet" type="text/css">
-<link href="/css/reset.css;jsessionid=EC1588E92A81A34C11D3EA54E9F70D26" rel="stylesheet" type="text/css">
+<link href="/css/global.css;jsessionid=8DF024ED2E993AC4070E5861225D4B46" rel="stylesheet" type="text/css">
+<link href="/css/reset.css;jsessionid=8DF024ED2E993AC4070E5861225D4B46" rel="stylesheet" type="text/css">
 
 
-<link rel="shortcut icon" href="/favicon.ico;jsessionid=EC1588E92A81A34C11D3EA54E9F70D26">
+<link rel="shortcut icon" href="/favicon.ico;jsessionid=8DF024ED2E993AC4070E5861225D4B46">
 
 <!--[if lt IE 7]>
 <script src="/js/IE7.js" type="text/javascript"></script>
 <![endif]--> 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.js;jsessionid=EC1588E92A81A34C11D3EA54E9F70D26" type="text/javascript"></script>
-<script type="text/javascript" src="/js/jquery.pngFix.pack.js;jsessionid=EC1588E92A81A34C11D3EA54E9F70D26"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.js;jsessionid=8DF024ED2E993AC4070E5861225D4B46" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery.pngFix.pack.js;jsessionid=8DF024ED2E993AC4070E5861225D4B46"></script>
 </head>
 <body>
 <div id="wrapper">
@@ -109,22 +109,24 @@ ga('send', 'pageview');
 
 
 
+
 <header class="page-header" role="banner">
   <div class="inner">
     <div class="site-logo" onclick="javascript:location.href='https://www.asuswebstorage.com';" style="cursor: pointer;"><a href="https://www.asuswebstorage.com">WebStorage</a></div>
     <nav class="primary-nav" role="navigation">
       <ul>
-        <li><a class="hvr-shutter-out-horizontal" href="https://www.asuswebstorage.com/navigate/features/">Features</a></li>
-        <li><a class="hvr-shutter-out-horizontal" href="https://www.asuswebstorage.com/navigate/downloads/">Downloads</a></li>
-        <li><a class="hvr-shutter-out-horizontal" href="/store/">Pricing</a></li>
+        <li><a class="hvr-shutter-out-horizontal" href="https://www.asuswebstorage.com/navigate/features/" onclick="handleOutboundLinkClicks(event, '[功能]按鈕')">Features</a></li>
+        <li><a class="hvr-shutter-out-horizontal" href="https://www.asuswebstorage.com/navigate/downloads/" onclick="handleOutboundLinkClicks(event, '[下載]按鈕')">Downloads</a></li>
+        <li><a class="hvr-shutter-out-horizontal" href="/store/" onclick="handleOutboundLinkClicks(event, '[方案]按鈕')">Plans</a></li>
+        <li><a class="hvr-shutter-out-horizontal" href="https://biz.asuswebstorage.com/" onclick="handleOutboundLinkClicks(event, '[商務版]按鈕')">Business</a></li>
       </ul>
     </nav>
     <nav class="primary-nav flr" role="navigation">
       
         
           <ul>
-            <li><a href="https://www.asuswebstorage.com/navigate/reg">Sign up</a></li>
-            <li><a class="btn" href="https://www.asuswebstorage.com/navigate/login.jsp?u=https%3A%2F%2Fservice.asuswebstorage.com">Sign in</a></li>
+            <li><a href="https://www.asuswebstorage.com/navigate/reg" onclick="handleOutboundLinkClicks(event, '[註冊]按鈕')">Sign up</a></li>
+            <li><a class="btn" href="https://www.asuswebstorage.com/navigate/login.jsp?u=https%3A%2F%2Fservice.asuswebstorage.com" onclick="handleOutboundLinkClicks(event, '[登入]按鈕')">Sign in</a></li>
           </ul>
         
         
@@ -132,6 +134,24 @@ ga('send', 'pageview');
     </nav>
   </div>
 </header>
+<script>
+function handleOutboundLinkClicks(event, eventCategory) {
+	ga('send', 'event', {
+		eventCategory: eventCategory,
+		eventAction: 'click',
+		eventLabel: event.target.href,
+		transport: 'beacon'
+	});
+}
+function handleOutboundLinkClicksLabel(event, eventCategory, eventLabel) {
+	ga('send', 'event', {
+		eventCategory: eventCategory,
+		eventAction: 'click',
+		eventLabel: eventLabel,
+		transport: 'beacon'
+	});
+}
+</script>
 <div id="main">
 
 
@@ -144,7 +164,7 @@ ga('send', 'pageview');
       <h4>Information That ASUS Cloud Collect and How ASUS Cloud Use It</h4>
       <p>You understand and agree that ASUS Cloud may collect your personal information in order to provide this service (hereinafter referred to as “SERVICE”) if you elect to engage in SERVICE. Information that ASUS Cloud collect and how ASUS Cloud use it are identified as below:</p>
       <p>ASUS Cloud will collect your E-mail address and country location in order to send you the free commercial marketing and promotional information that you subscribed to when you registered to become an ASUS Cloud member.</p>
-      <p>SUS Cloud will also collect information on your name, mailing address (including zip code) and contact number in order to mail you the invoices  when you purchase our upgrade plans.</p>
+      <p>ASUS Cloud will also collect information on your name, mailing address (including zip code) and contact number in order to mail you the invoices  when you purchase our upgrade plans.</p>
       <p>ASUS Cloud may also collect related data generated by the server you used to operate our SERVICE on any devices, including but not limited to the IP address of your connecting device, usage time, browser used and type of device, records on browsed and clicked information, operating system, error log, and other information related to the device you used in order to enhance the user experience and improve the stability of our SERVICE. We will also tag the browser you used to enjoy our SERVICE and generalize the ASUS Cloud-related web pages you have browsed on your browser to perform overall user behavior analysis in order to develop new functions for SERVICE.</p>
       <p>We may share the information described above to our contractors and/or agents acting on our behalf and within the scope of our SERVICE, we will not sell or market it to  other third parties.</p>
       <p>ASUS Cloud may use services provided by trustworthy third parties on our SERVICE. Please be notified that ASUS Cloud has no responsibility on the third parties’ services, this Privacy Protection Policy applies on the SERVICE only, please read the privacy statement of third parties if you would like to have any further information.</p>
@@ -204,8 +224,8 @@ ga('send', 'pageview');
         <ul>
           <li><a href="https://www.asuswebstorage.com/navigate/downloads/">Downloads</a></li>
           <li><a href="https://www.asuswebstorage.com/navigate/features/">Features</a></li>
-          <li><a href="/store/">Pricing</a></li>
-          <li><a href="https://biz.asuswebstorage.com/">Business</a></li>
+          <li><a href="/store/">Plans</a></li>
+          <li><a href="https://biz.asuswebstorage.com/">WebStorage for Business</a></li>
           <li><a href="https://home.asuscloud.com/navigate/">HomeCloud</a></li>
           <li><a href="/referral/">Get FREE space</a></li>
         </ul>
@@ -283,7 +303,7 @@ ga('send', 'pageview');
       <option value="ko_KR">한국의</option>
       <option value="pt_PT">Português</option>
     </select>
-    <div style="float: right; margin-right: 30px; color: #B0BBBB; clear: both;" title="v3.0.88">v3.0.88</div>
+    <div style="float: right; margin-right: 30px; color: #B0BBBB; clear: both; cursor:pointer;" title="v3.0.106">v3.0.106</div>
   </footer>
 </div>
 <script>
