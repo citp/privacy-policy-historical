@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vstplanet.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407115347id_/http%3A//www.vstplanet.com/Privacy%2520Police%2520for%2520vstplanet.com.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vstplanet.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104204339id_/http%3A//www.vstplanet.com/Privacy%2520Police%2520for%2520vstplanet.com.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.vstplanet.com best free VST plug-ins
 
