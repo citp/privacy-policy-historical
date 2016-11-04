@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lottolyzer.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322040024id_/http%3A//en.lottolyzer.com/privacy-policy/united-states/powerball-usa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottolyzer.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104165354id_/http%3A//en.lottolyzer.com/privacy-policy/united-states/mega-millions) for the most accurate reproduction.*
 
-# Powerball USA United States - Privacy Policy
+# Mega Millions United States - Privacy Policy
 
 ####  Privacy Policy 
 
