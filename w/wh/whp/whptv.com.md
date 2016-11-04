@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whptv.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422060229id_/http%3A//whp580.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whptv.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104020128id_/http%3A//whp580.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | WHP 580
 
-[Versión en Español](https://web.archive.org/web/20160422060229id_/http://whp580.iheart.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](http://www.iheart.com/news/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
