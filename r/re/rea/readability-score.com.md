@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readability-score.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405144026id_/https%3A//readability-score.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readability-score.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104165704id_/https%3A//readability-score.com/privacy) for the most accurate reproduction.*
 
-# Readability-Score.com - Free Online Readability Calculator - Flesch Kincaid, Gunning Fog and more ...
+# Privacy Policy - Improve your writing and your website marketing with Readability-Score.com
 
 This privacy policy discloses the privacy practices for readability-score.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
@@ -34,8 +34,6 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Sensitive information (such as credit card data), is encrypted and transmitted directly to our credit card processor, Gumroad.com, and never stored on, or sent to, our servers.
-
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 ## Updates
@@ -43,9 +41,3 @@ While we use encryption to protect sensitive information transmitted online, we 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately.
-
-### Supported Languages
-
-Several readability algorithms use syllable counting to determine their scores. The current syllable counter used here will only work with English text, so scores for other languages may be inaccurate.
-
-The Coleman-Liau and Automated Readability Indexes do not use syllable counting, so should produce a reasonably accurate score in most European languages.
