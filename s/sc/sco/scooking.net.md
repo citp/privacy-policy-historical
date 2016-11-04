@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scooking.net privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326024533id_/http%3A//www.scooking.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scooking.net privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104145442id_/http%3A//scooking.net/privacy-policy) for the most accurate reproduction.*
 
 # SCooking.net - cooking recipes and cocktail recipes for every taste.
 
