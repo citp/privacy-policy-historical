@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ratedview.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530153206id_/http%3A//us.ratedview.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedview.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104130238id_/http%3A//us.ratedview.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy :: Ratedview.com :: The Social Search Engine.
 
 ### Registration
 
 You can use Ratedview without registering. If you want Ratedview to remember your settings permanently or if you want to access your personal page from more than one PC you need to register with your email address and a password. In addition this will also protect your account from unauthorized access. When you register we'll send you a welcome email.  
-We may send you service announcements and advertising messages from YOUniversal Media or third parties.  
+We may send you service announcements and advertising messages from YOUniversal Next Limited or third parties.  
 You can unsubscribe from these announcements and advertising messages at any time by sending an email to [unsubscribe@ratedview.com](mailto:unsubscribe@ratedview.com)
 
 ### Policy Privacy
@@ -61,7 +61,7 @@ We may need to disclose your data to appropriate persons where required or permi
 
 You can update or amend your contact details at any time from within the Ratedview Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at:
 
-YOUniversal Media srl  
+YOUniversal Next Limited  
 Via Palestro 28/A  
 00185 Roma  
 Italy  
