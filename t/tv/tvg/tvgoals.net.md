@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvgoals.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623062916id_/http%3A//www.tvgoals.net/view.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvgoals.net privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105002230id_/http%3A//www.tvgoals.net/view.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Earn Doing | Helping You Earn The Most
 
