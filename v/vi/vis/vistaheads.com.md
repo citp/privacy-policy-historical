@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaheads.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612023341id_/http%3A//www.vistaheads.com/forums/announcements/216089-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaheads.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104131257id_/http%3A//www.vistaheads.com/forums/announcements/216089-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Microsoft Windows Vista Community Forums - Vistaheads
 
