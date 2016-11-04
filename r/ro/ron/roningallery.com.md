@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roningallery.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506073050id_/http%3A//www.roningallery.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roningallery.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104151035id_/http%3A//www.roningallery.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ronin Gallery
 
