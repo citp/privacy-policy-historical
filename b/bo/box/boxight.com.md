@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxight.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404194626id_/http%3A//boxight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxight.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104134105id_/http%3A//boxight.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Boxight
+# Privacy – Boxight
 
 We highly value our customers and their privacy. Our privacy policy is to respect and protect the privacy of our customers. Your personal information is safe with us. All personal information collected on this site is kept strictly confidential and not sold, reused, rented, disclosed, or loaned. Your personal information is used exclusively for the purpose of fulfilling your order and making your buying experience a success.
 
