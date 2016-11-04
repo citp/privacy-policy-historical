@@ -1,108 +1,181 @@
-> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228165030id_/http%3A//sportswhereiam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportswhereiam.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104083135id_/http%3A//sportswhereiam.com/privacy-policy) for the most accurate reproduction.*
 
-# Sports Where I Am - the info you need for sports events at your travel destination.
+# Privacy Policy - Sports Where I Am
 
-SportsWhereIAm Privacy Policy 
+**SPORTS WHERE I AM**
 
-This Privacy Policy covers your use of this website and any SportsWhereIAm application used by you on a mobile phone or other electronic device ("our website") operated by SportsWhereIAm Pty. Ltd. ("us"/"we"). We have provided this Privacy Policy to make sure you know that we respect your privacy and are committed to protecting it. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing SportsWhereIAm Pty. Ltd. with any of your personal details. This page explains our Privacy Policy. This policy (together with our ‘Terms & Conditions’) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+**PRIVACY POLICY**
 
-Consent: 
+1          PURPOSE OF OUR POLICY
 
-By using our website, you agree to the collection and use of your IP Details, Personal Information and Location Data in accordance with this policy. Any changes made will be reflected in this Privacy Policy. We encourage you to check this page on a regular basis. If you have any concerns about any of the information contained in this policy please contact us to discuss further via email; [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com) or mail our Privacy Officer to the address stated below in ‘Contact Details’. 
+1.1       WhereIAm Group Pty Ltd 157 847 928 ‘Sports Where I Am’ (we, us or our) has adopted this Privacy Policy to ensure that we have standards in place to protect the Personal Information that we collect about individuals that is necessary and incidental to:
 
-Information Collection and Use: 
+(a)       Providing the system and services that we offer; and
 
-We may collect information about your computer, including where available your IP address, operating system, browser type, referring URLs, page views and access times ("IP Details"). We only collect this information to the extent that it is necessary to our business practices. SportsWhereIAm will collect information only by lawful and fair means. The reason we gather information is for server administration to track user's movements, analyse trends and to report aggregate information to our current advertisers and partners and potential future partners and advertisers. This is statistical data only about our users' browsing actions and patterns, and does not identify any individual. SportWhereIAm also collects personal information from our customers for the purpose of providing services to those customers. We may also use contact details for the purpose of sending information about products and services to our customers. Unless you consent, use of your personal information will be related to the primary reason for collection and, only if you would reasonably expect it to occur would your personal information be used for a secondary purpose, or if it is required or authorised by law or otherwise permitted under the Privacy Act. A ‘User Profile’ is stored information that we keep on individual users that detail their viewing preferences. This profile is used to tailor your visit to the SportsWhereIam site, to enhance your experience and to direct only pertinent marketing promotions to you. 
+(b)      The normal day-to-day operations of our business.
 
-Registered Users: 
+1.2       This Privacy Policy follows the standards of the Australian Privacy Principles set by the Australian Government for the handling of Personal Information under the Privacy Act 1988 (Cth) (Privacy Act).
 
-Our website can be used either as a Registered or Non-Registered User. The Registered user experience is an enhanced one allowing customisation of events and personalised preferences relating to sports events. As a Registered User you are required to disclose first and last name, email address, a default-viewing city, which may or may not be your place of residence and some optional information regarding your favourite teams and sports. At any time you as a user may opt to remove your name and personal details from our secure systems by contacting [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com)
+1.3       By publishing this Privacy Policy we aim to make it easy for our customers and the public to understand what Personal Information we collect and store, why we do so, how we receive and/or obtain that information, and the rights an individual has with respect to their Personal Information in our possession.
 
-Non-Registered Users or Visitors: 
+2          WHO AND WHAT THIS POLICY APPLIES TO
 
-Our website is also available for use by Non-Registered user or Visitors. As a visitor your experience on our website may be less specific in terms of user preferences, interests and relevant sporting events compared to that of a Registered User. As a visitor you are not required to enter any personal information however other non-personal information as stated in ‘Information Collection and Use’ above may be sought to best enhance your experience on our website. 
+2.1       Our Privacy Policy deals with how we handle “personal information” as it is defined in the Privacy Act (Personal Information).
 
-How we Use Information Collected: 
+2.2       We handle Personal Information in our own right and also for and on behalf of our customers and users.
 
-We will use your IP Details, Cookies and Personal Information held about you in the following ways; 
+2.3       Our Privacy Policy does not apply to information we collect about businesses or companies, however it does apply to information about the people in those businesses or companies which we store.
 
-· To ensure that content from our website is presented in the most effective manner for you and for your computer. 
+2.4       The Privacy Policy applies to all forms of information, physical and digital, whether collected or stored electronically or in hardcopy.
 
-· To provide you with information, products or services that you request from which we feel may interest you. 
+2.5       If, at any time, an individual provides Personal Information or other information about someone other than himself or herself, the individual warrants that they have that person’s consent to provide such information for the purpose specified.
 
-· To carry out our obligations arising from any contracts entered into between you and us. 
+3          THE INFORMATION WE COLLECT
 
-· To allow you to participate in interactive features of our service, when you choose to do so. 
+3.1       In the course of business it is necessary for us to collect Personal Information. This information allows us to identify who an individual is for the purposes of our business, share Personal Information when asked of us, contact the individual in the ordinary course of business and transact with the individual. Without limitation, the type of information we may collect is:
 
-· To notify you about changes to our service. 
+(a)       Personal Information. We may collect personal details such as an individual’s name, location, date of birth, nationality, family details and other information defined as “Personal Information” in the Privacy Act that allows us to identify who the individual is;
 
-· To respond to customer support queries where you have supplied personal information. 
+(b)      Contact Information. We may collect information such as an individual’s email address, telephone & fax number, third-party usernames, residential, business and postal address and other information that allows us to contact the individual;
 
-Personal Information collected by SportsWhereIAm may be disclosed to a third party in the following circumstances; 
+(c)       Financial Information. We may collect financial information related to an individual such as any bank or credit card details used to transact with us and other information that allows us to transact with the individual and/or provide them with our services;
 
-· Where, at the time of collection, SportsWhereIAm has informed you of the third parties or classes of third parties to whom your Personal Information will be disclosed. 
+(d)      Statistical Information. We may collect information about an individual’s online and offline preferences, habits, movements, trends, decisions, associations, memberships, finances, purchases and other information for statistical purposes; and
 
-· In order to enable SportsWhereIAm to participate in activities with business partners and sponsors, who will be notified to you at the time your Personal Information is collected. 
+(e)       Information an individual sends us. We may collect any personal correspondence that an individual sends us, or that is sent to us by others about the individual’s activities.
 
-· Where the disclosure is required or authorised by law or otherwise permitted under the Privacy Act including where SportsWhereIAm has reason to suspect that unlawful activity has been, is being or may be engaged in. 
+3.2       We may collect other Personal Information about an individual, which we will maintain in accordance with this Privacy Policy.
 
-· To protect and maintain the integrity of particular sports upon the request of governing sporting bodies to assist in legitimate inquiries; or 
+3.3       We may also collect non-Personal Information about an individual such as information regarding their computer, network and browser. This may include their IP address. Where non-Personal Information is collected the Australian Privacy Principles do not apply.
 
-· Where you have consented to its disclosure. 
+4          HOW INFORMATION IS COLLECTED
 
-We will not sell, share, or provide your IP Details, Cookies, Personal Information and Location Data (together, your "Information") to others other than in accordance with this Privacy Policy or where we are required to do so by law. 
+4.1       Most information will be collected in association with an individual’s use of Sports Where I Am, an enquiry about Sports Where I Am or generally dealing with us. However we may also receive Personal Information from sources such as advertising, an individual’s own promotions, public records, mailing lists, contractors, staff, recruitment agencies and our business partners. In particular, information is likely to be collected as follows:
 
-Data Storage and Security of Personal Information: 
+(a)       Registrations/Subscriptions. When an individual registers or subscribes for a service, list, account, connection or other process whereby they enter Personal Information details in order to receive or access something, including a transaction;
 
-We store any information that you provide to us on secure servers. Where you have chosen a password, which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share this password with anyone. Although we will do our best to protect your Information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your Information, we will use strict procedures and security features to try to prevent unauthorised access. We have partnership agreements with a number of organisations. Therefore, to process your requests, we may transfer your Information to our partners based in other countries. By using our website you give your consent to this transfer of your Information. Our employees, agents, contractors are required to maintain the confidentiality of all personal information. 
+(b)      Accounts/User Details. When an individual submits their details to open an account and/or become a user with us;
 
-Access to and Correcting Personal Information:
+(c)       Supply. When an individual supplies us with goods or services;
 
-If you think that any personal information we hold about you is inaccurate, incomplete or out-of-date, please contact our Privacy Officer via the ‘Contact Details’ set out below and we will take reasonable steps to ensure that it is corrected. We may require personal identification in order to complete such a request. 
+(d)      Contact. When an individual contacts us in any way;
 
-Cookies: 
+(e)       Access. When an individual accesses us physically we may require them to provide us with details for us to permit them such access. When an individual accesses us through the internet we may collect information using cookies (if relevant – an individual can adjust their browser’s setting to accept or reject cookies) or analytical services; and/or
 
-Cookies are small text files that are placed on your device by websites that you visit. When you visit the website again, the cookie allows that site to recognise your user preferences and other information. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use persistent cookies that can improve the location service we offer and to improve the overall ease and relevance of the site to the individual. Persistent cookies are cookies that can remain on a user's device for a period of time that may cover multiple sessions. They are activated each time that the user visits the website that created that particular cookie. 
+(f)       Pixel Tags. Pixel tags enable us to send email messages in a format customers can read and they tell us whether mail has been opened.
 
-How to Block Cookies:
+4.2       As there are many circumstances in which we may collect information both electronically and physically, we will endeavour to ensure that an individual is always aware of when their Personal Information is being collected.
 
-Most web browsers allow some control of most cookies through the browser settings. It is important to note however that if you block or delete cookies from SportsWhereIAm that there are a number of functions that may not work and you will need to reset your preferences each time you log in. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org./) If you have any questions regarding the use of cookies on our site, please contact us at; [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com). 
+4.3       Where we obtain Personal Information without an individual’s knowledge (such as by accidental acquisition from a client) we will either delete/destroy the information, or inform the individual that we hold such information, in accordance with the Australian Privacy Principles.
 
-Location Data: 
+5          WHEN PERSONAL INFORMATION IS USED & DISCLOSED
 
-We may obtain Information relating to your geographical location ("Location Data") where you use any SportsWhereIAm application, including a mobile phone or other electronic device. We will use such Location Data to identify the closest sports events to where you are currently accessing our website from. 
+5.1       In general, the primary principle is that we will not use any Personal Information other than for the purpose for which it was collected other than with the individual’s permission. The purpose of collection is determined by the circumstances in which the information was collected and/or submitted.
 
-Linked Sites:
+5.2       We will retain Personal Information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-This website contains links to both affiliated 3rd party websites and unaffiliated 3rd party websites. This includes links to ticket agencies, merchandise outlets, betting agencies, local and non local websites offering restaurant or sports bar advice, memorabilia outlets and sports information websites. Some of these websites will require you to provide personal information to complete transactions. Please be aware that we are not responsible for the privacy practices of such other websites. When you leave our website, we encourage you to read the privacy statements/policies of each and every website that collects personal data from you. This Privacy Policy applies solely to information collected by us via this website. 
+5.3       If it is necessary for us to disclose an individual’s Personal Information to third parties in a manner compliant with the Australian Privacy Principles in the course of our business, we will inform you that we intend to do so, or have done so, as soon as practical.
 
-User Forums/Posts: 
+5.4       We will not disclose or sell an individual’s Personal Information to unrelated third parties under any circumstances.
 
-Any information you choose to post on our website will include your first name attached to any post. You may choose to post comments, images and videos relevant to the City Pride section of our website. SportsWhereIAm requires that all posts are identified and attached to a User ID in order to track any unlawful practice or posts. We do this by requiring you to Register before posting any content on our website. If you wish to de-identify a post you may do so by contacting [privacy@sportswhereiam.com](mailto:privacy@sportswhereiam.com). When clicking ‘Submit’ in any form you are automatically agreeing to SportsWhereIAm’s Privacy Policy. 
+5.5       Information is used to enable us to operate our business, especially as it relates to an individual. This may include:
 
-Sharing Information: 
+(a)       The provision of goods and services between an individual and us;
 
-In order to maximise your social experience when using SportsWhereIAm, we may give you the option to export information from SportsWhereIAm to third party applications and websites, including social networking websites such as Facebook, Instagram or Twitter. Please be aware when doing so that you may disclose your information to individuals or organisations responsible for operating and maintaining such third party applications and websites and your information may be accessible by others visiting or using those applications or websites. We do not own or operate the applications or websites that you connect with and you should review the privacy policies of such websites to make sure you are comfortable with the ways in which they use the information you share with them. When you connect to our website from a third party application, social networking or other website then you consent to the collection by us of your information as stored with that other third party. This information may be used by us to enhance your use of our website. When we do obtain information about you from these third parties, we will process the information in accordance with our own privacy policy. 
+(b)      Verifying an individual’s identity;
 
-Children's Privacy: 
+(c)       Communicating with an individual about:
 
-Our website is a general audience website and we do not knowingly collect information about children under the age of 13. We do not target our website to children under 13. We encourage parents and guardians to take an active role in their children's online activities and interests. 
+(d)      Their relationship with us;
 
-Contact details: 
+(e)       Our goods and services;
 
-If you have any queries or complaints relating to the handling of your personal information, please contact the Privacy Officer, whose contact details are as follows: 
+(f)       Our own marketing and promotions to customers and prospects;
 
-Privacy Officer 
+(g)       Competitions, surveys and questionnaires;
 
-SportsWhereIAm Pty. Ltd. 
+(h)      Investigating any complaints about or made by an individual, or if we have reason to suspect that an individual is in breach of any of our terms and conditions or that an individual is or has been otherwise engaged in any unlawful activity; and/or
 
-PO Box 1200 
+(i)        As required or permitted by any law (including the Privacy Act).
 
-Windsor VIC 3141 
+5.6       There are some circumstances in which we must disclose an individual’s information:
 
-Email: privacy@sportswhereiam.com 
+(a)       Where we reasonably believe that an individual may be engaged in fraudulent, deceptive or unlawful activity that a governmental authority should be made aware of;
 
-Further Information about privacy issues in Australia, you can visit the website located at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+(b)      As required by any law (including the Privacy Act); and/or
 
-This is the privacy policy (“Privacy Policy”) of SportsWhereIAm Pty. Ltd.  
-(ACN 157 847 928) (“SportsWhereIAm”). 
+(c)       In order to sell our business (in that we may need to transfer Personal Information to a new owner).
+
+5.7       We will not disclose an individual’s Personal Information to any entity outside of Australia that is in a jurisdiction that does not have a similar regime to the Australian Privacy Principles or an implemented and enforceable privacy policy similar to this Privacy Policy. We will take reasonable steps to ensure that any disclosure to an entity outside of Australia will not be made until that entity has agreed in writing with us to safeguard Personal Information as we do.
+
+5.8       We may utilise third-party service providers (such as Gmail from Google, Inc., and Campaign Monitor from Campaign Monitor Pty Ltd) to communicate with an individual and to store contact details about an individual.
+
+6          OPTING “IN” OR “OUT”
+
+6.1       An individual may opt to not have us collect their Personal Information. This may prevent us from offering them some or all of our services and may terminate their access to some or all of the services they access with or through us. They will be aware of this when:
+
+(a)       Opt In. Where relevant, the individual will have the right to choose to have information collected and/or receive information from us; or
+
+(b)      Opt Out. Where relevant, the individual will have the right to choose to exclude himself or herself from some or all collection of information and/or receiving information from us.
+
+6.2       If an individual believes that they have received information from us that they did not opt in or out to receive, they should contact us on the details below.
+
+7          THE SAFETY & SECURITY OF PERSONAL INFORMATION
+
+7.1       We may appoint a Privacy Officer to oversee the management of this Privacy Policy and compliance with the Australian Privacy Principles and the Privacy Act. This officer may have other duties within our business and also be assisted by internal and external professionals and advisors.
+
+7.2       We will take all reasonable precautions to protect an individual’s Personal Information from unauthorised access. This includes appropriately securing our physical facilities and electronic networks.
+
+7.3       Sports Where I Am uses SSL encryption to store and transfer Personal Information. Despite this, the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. Each individual that provides information to us via the internet or by post does so at their own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, Personal Information where the security of information is not within our control.
+
+7.4       We are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose an individual’s Personal Information to in accordance with this policy or any applicable laws). The collection and use of an individual’s information by such third parties may be subject to separate privacy and security policies.
+
+7.5       If an individual suspects any misuse or loss of, or unauthorised access to, their Personal Information, they should let us know immediately.
+
+7.6       We are not liable for any loss, damage or claim arising out of another person’s use of the Personal Information where we were authorised to provide that person with the Personal Information.
+
+8          HOW TO ACCESS AND/OR UPDATE INFORMATION
+
+8.1       Users of Sports Where I Am can update their Personal Information from within Sports Where I Am.
+
+8.2       Subject to the Australian Privacy Principles, an individual has the right to request from us the Personal Information that we have about them, and we have an obligation to provide them with such information within 28 days of receiving their written request.
+
+8.3       If an individual cannot update its own information, we will correct any errors in the Personal Information we hold about an individual within 7 days of receiving written notice from them about those errors.
+
+8.4       It is an individual’s responsibility to provide us with accurate and truthful Personal Information. We cannot be liable for any information that is provided to us that is incorrect.
+
+8.5       We may charge an individual a reasonable fee for our costs incurred in meeting any of their requests to disclose the Personal Information we hold about them.
+
+9          COMPLAINTS AND DISPUTES
+
+9.1       If an individual has a complaint about our handling of their Personal Information, they should address their complaint in writing to the details below.
+
+9.2       If we have a dispute regarding an individual’s Personal Information, we both must first attempt to resolve the issue directly between us.
+
+9.3       If we become aware of any unauthorised access to an individual’s Personal Information we will inform them at the earliest practical opportunity once we have established what was accessed and how it was accessed.
+
+10       CONTACTING INDIVIDUALS
+
+10.1    From time to time, we may send an individual important notices, such as changes to our terms, conditions and policies. Because this information is important to the individual’s interaction with us, they may not opt out of receiving these communications.
+
+11       CONTACTING US
+
+11.1    All correspondence with regards to privacy should be addressed to:
+
+The Privacy Officer
+
+WhereIAm Group Pty Ltd
+
+PO Box 1200
+
+Windsor VIC 3141
+
+privacy@sportswhereiam.com
+
+You may contact the Privacy Officer by email in the first instance.
+
+12       ADDITIONS TO THIS POLICY
+
+12.1    If we decide to change this Privacy Policy, we will post the changes on our webpage at http://sportswhereiam.com/privacypolicy. Please refer back to this Privacy Policy to review any amendments.
+
+12.2    We may do things in addition to what is stated in this Privacy Policy to comply with the Australian Privacy Principles, and nothing in this Privacy Policy shall deem us to have not complied with the Australian Privacy Principles.
