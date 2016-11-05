@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the likealaugh.org privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031144355id_/http%3A//likealaugh.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likealaugh.org privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105010325id_/http%3A//thejumblr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Likealaugh
+# Privacy Policy
 
-Last Modified: 8 March 2014
+Privacy Policy
+
+Last Modified: 28 November 2014
 
 **Introduction**
 
@@ -14,11 +16,11 @@ Like most website operators, likealaugh. collects non-personally-identifying inf
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to likealaugh.’s websites choose to interact with likealaugh. in ways that require likealaugh. to gather personally-identifying information. The amount and type of information that likealaugh. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for likealaugh.org to provide a username and email address. In each case, likealaugh. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with likealaugh.. likealaugh. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to likealaugh.’s websites choose to interact with likealaugh. in ways that require likealaugh. to gather personally-identifying information. The amount and type of information that likealaugh. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for thejumblr.com to provide a username and email address. In each case, likealaugh. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with likealaugh.. likealaugh. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 **Aggregated Statistics**
 
-likealaugh. may collect statistics about the behavior of visitors to its websites. For instance, likealaugh. may monitor the most popular collections on likealaugh.org. likealaugh. may display this information publicly or provide it to others. However, likealaugh. does not disclose personally-identifying information other than as described below.
+likealaugh. may collect statistics about the behavior of visitors to its websites. For instance, likealaugh. may monitor the most popular collections on thejumblr.com likealaugh. may display this information publicly or provide it to others. However, likealaugh. does not disclose personally-identifying information other than as described below.
 
 **Protection of Certain Personally-Identifying Information**
 
@@ -26,7 +28,7 @@ likealaugh. discloses potentially personally-identifying and personally-identify
 
 Other than to its employees, contractors and affiliated organizations, as described above, likealaugh. discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when likealaugh. believes in good faith that disclosure is reasonably necessary to protect the property or rights of likealaugh., third parties or the public at large. If you are a registered user of a likealaugh. website and have supplied your email address, likealaugh. may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with likealaugh. and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. likealaugh. takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-likealaugh. may collect statistics about the behavior of visitors to its websites. For instance, likealaugh. may monitor the most popular collections on likealaugh.org. likealaugh. may display this information publicly or provide it to others. However, likealaugh. does not disclose personally-identifying information other than as described below.
+likealaugh. may collect statistics about the behavior of visitors to its websites. For instance, likealaugh. may monitor the most popular collections on thejumblr.com likealaugh. may display this information publicly or provide it to others. However, likealaugh. does not disclose personally-identifying information other than as described below.
 
 You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.
 
@@ -60,10 +62,10 @@ Although most changes are likely to be minor, likealaugh. may change its privacy
 
 **Third Party Vendors**
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
-  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the advertising opt-out page. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.)
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
 
+Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
+Users may opt out of the use of the DART cookie by visiting the advertising opt-out page. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.)
 
 **If you have any questions about this privacy policy or our sites in general, please contact us.**
