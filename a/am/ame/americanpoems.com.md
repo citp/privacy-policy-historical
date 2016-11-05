@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanpoems.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101911id_/http%3A//www.americanpoems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanpoems.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105173444id_/http%3A//www.americanpoems.com/privacy.php) for the most accurate reproduction.*
 
 # American Poems privacy policy
 
