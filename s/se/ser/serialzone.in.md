@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialzone.in privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413220724id_/http%3A//serialzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialzone.in privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105224927id_/http%3A//serialzone.in/privacy-policy.php) for the most accurate reproduction.*
 
 # SerialZone: Hindi, Tamil, Kannada, Telugu, Malayalam, Bengali and Marathi Serial
 
