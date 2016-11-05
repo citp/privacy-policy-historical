@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606084821id_/http%3A//www.gatestoneinstitute.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105030414id_/https%3A//www.gatestoneinstitute.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Gatestone Institute
 
@@ -33,5 +33,12 @@ info@gatestoneinstitute.org
 | 
 
 Get Free Exclusive Gatestone Content: 
+
+**TRAILER: BDS -- Beyond Deception Strategy  
+A Pierre Rehov Film**
+
+**FREE BAHAREH HEDAYAT!**
+
+Bahareh Hedayat is a human rights activist who has spent over six years in an Iranian prison for "insulting" Supreme Leader Ali Khamenei and then-President Mahmoud Ahmadinejad, and for "actions against national security, propagation of falsehoods, mutiny and illegal congregation." Hedayat is the longest serving female prisoner of conscience in Iran.
 
 [Tweets by @GatestoneInst](https://twitter.com/GatestoneInst)
