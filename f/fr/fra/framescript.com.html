@@ -1,0 +1,382 @@
+<!--The following is the downloaded HTML source of the framescript.com privacy policy that was archived on 2016-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161105112905id_/http%3A//framescr.com/zc/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en" class="no-fouc"><head>
+  <meta charset="utf-8">
+  <title>Privacy Notice : FrameScript, FrameMaker customization and automation</title>
+  <meta name="keywords" content="FrameScript ElmScript(Germany) Evaluation version ecommerce, open source, shop, online shopping, store Privacy Notice">
+  <meta name="description" content="FrameScript : Privacy Notice - FrameScript ElmScript(Germany) Evaluation version ecommerce, open source, shop, online shopping, store">
+  <meta name="author" content="FrameScript Store">
+  <meta name="generator" content="shopping cart program by Zen Cart®, http://www.zen-cart.com eCommerce">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+
+  <base href="http://framescr.com/zc/">
+  <link rel="canonical" href="http://framescr.com/zc/index.php?main_page=privacy">
+
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet_colors.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet_css_buttons.css">
+<link rel="stylesheet" type="text/css" media="print" href="includes/templates/responsive_classic/css/print_stylesheet.css">
+
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="//code.jquery.com/jquery-1.12.0.min.js"%3E%3C/script%3E'));</script><script type="text/javascript" src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="includes/templates/responsive_classic/jscript/jquery.min.js"%3E%3C/script%3E'));</script><script type="text/javascript" src="includes/templates/responsive_classic/jscript/jquery.min.js"></script>
+
+<script type="text/javascript" src="includes/templates/responsive_classic/jscript/jscript_matchHeight-min.js"></script>
+<script type="text/javascript"><!--//<![CDATA[
+if (typeof zcJS == "undefined" || !zcJS) {
+  window.zcJS = { name: 'zcJS', version: '0.1.0.0' };
+};
+
+zcJS.ajax = function (options) {
+  options.url = options.url.replace("&amp;", "&");
+  var deferred = $.Deferred(function (d) {
+      var securityToken = '2c4524dec8609e472a8ab182b953611c';
+      var defaults = {
+          cache: false,
+          type: 'POST',
+          traditional: true,
+          dataType: 'json',
+          timeout: 5000,
+          data: $.extend(true,{
+            securityToken: securityToken
+        }, options.data)
+      },
+      settings = $.extend(true, {}, defaults, options);
+
+      d.done(settings.success);
+      d.fail(settings.error);
+      d.done(settings.complete);
+      var jqXHRSettings = $.extend(true, {}, settings, {
+          success: function (response, textStatus, jqXHR) {
+            d.resolve(response, textStatus, jqXHR);
+          },
+          error: function (jqXHR, textStatus, errorThrown) {
+              console.log(jqXHR);
+              d.reject(jqXHR, textStatus, errorThrown);
+          },
+          complete: d.resolve
+      });
+      $.ajax(jqXHRSettings);
+   }).fail(function(jqXHR, textStatus, errorThrown) {
+   var response = jqXHR.getResponseHeader('status');
+   var responseHtml = jqXHR.responseText;
+   var contentType = jqXHR.getResponseHeader("content-type");
+   switch (response)
+     {
+       case '403 Forbidden':
+         var jsonResponse = JSON.parse(jqXHR.responseText);
+         var errorType = jsonResponse.errorType;
+         switch (errorType)
+         {
+           case 'ADMIN_BLOCK_WARNING':
+           break;
+           case 'AUTH_ERROR':
+           break;
+           case 'SECURITY_TOKEN':
+           break;
+
+           default:
+             alert('An Internal Error of type '+errorType+' was received while processing an ajax call. The action you requested could not be completed.');
+         }
+       break;
+       default:
+        if (jqXHR.status === 200 && contentType.toLowerCase().indexOf("text/html") >= 0) {
+         document.open();
+         document.write(responseHtml);
+         document.close();
+         }
+     }
+   });
+
+  var promise = deferred.promise();
+  return promise;
+};
+zcJS.timer = function (options) {
+  var defaults = {
+    interval: 10000,
+    startEvent: null,
+    intervalEvent: null,
+    stopEvent: null
+
+},
+  settings = $.extend(true, {}, defaults, options);
+
+  var enabled = new Boolean(false);
+  var timerId = 0;
+  var mySelf;
+  this.Start = function()
+  {
+      this.enabled = new Boolean(true);
+
+      mySelf = this;
+      mySelf.settings = settings;
+      if (mySelf.enabled)
+      {
+          mySelf.timerId = setInterval(
+          function()
+          {
+              if (mySelf.settings.intervalEvent)
+              {
+                mySelf.settings.intervalEvent(mySelf);
+              }
+          }, mySelf.settings.interval);
+          if (mySelf.settings.startEvent)
+          {
+            mySelf.settings.startEvent(mySelf);
+          }
+      }
+  };
+  this.Stop = function()
+  {
+    mySelf.enabled = new Boolean(false);
+    clearInterval(mySelf.timerId);
+    if (mySelf.settings.stopEvent)
+    {
+      mySelf.settings.stopEvent(mySelf);
+    }
+  };
+};
+//]] --></script>
+
+
+<script type="text/javascript"><!--//
+
+(function($) {
+$(document).ready(function() {
+
+$('#contentMainWrapper').addClass('onerow-fluid');
+ $('#mainWrapper').css({
+     'max-width': '100%',
+     'margin': 'auto'
+ });
+ $('#headerWrapper').css({
+     'max-width': '100%',
+     'margin': 'auto'
+ });
+ $('#navSuppWrapper').css({
+     'max-width': '100%',
+     'margin': 'auto'
+ });
+
+
+$('.leftBoxContainer').css('width', '');
+$('.rightBoxContainer').css('width', '');
+$('#mainWrapper').css('margin', 'auto');
+
+$('a[href="#top"]').click(function(){
+$('html, body').animate({scrollTop:0}, 'slow');
+return false;
+});
+
+$(".categoryListBoxContents").click(function() {
+window.location = $(this).find("a").attr("href"); 
+return false;
+});
+
+$('.centeredContent').matchHeight();
+$('.specialsListBoxContents').matchHeight();
+$('.centerBoxContentsAlsoPurch').matchHeight();
+$('.categoryListBoxContents').matchHeight();
+
+$('.no-fouc').removeClass('no-fouc');
+});
+
+}) (jQuery);
+
+//--></script>
+
+
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/responsive.css"><link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/responsive_default.css">  <script type="text/javascript">document.documentElement.className = 'no-fouc';</script>
+  <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+
+
+<body id="privacyBody">
+
+
+
+<div id="mainWrapper">
+
+
+
+<!--bof-header logo and navigation display-->
+
+<div id="headerWrapper">
+
+<!--bof navigation display-->
+<div id="navMainWrapper" class="group onerow-fluid">
+
+<div id="navMain">
+  <ul class="back">
+    <li><a href="http://framescr.com/zc/">Home</a></li>
+    <li class="last"><a href="https://framescr.com/zc/index.php?main_page=login">Log In</a></li>
+
+  </ul>
+<div id="navMainSearch" class="forward"><form name="quick_find_header" action="http://framescr.com/zc/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="1"><input type="text" name="keyword" size="6" maxlength="30" style="width: 100px" placeholder="Enter search keywords here" onfocus="if (this.value == 'Enter search keywords here') this.value = '';" onblur="if (this.value == '') this.value = 'Enter search keywords here';">&nbsp;<input class="cssButton submit_button button  button_search" onmouseover="this.className='cssButtonHover  button_search button_searchHover'" onmouseout="this.className='cssButton submit_button button  button_search'" type="submit" value="Search"></form></div>
+</div>
+</div>
+<!--eof navigation display-->
+
+
+<!--bof branding display-->
+<div id="logoWrapper" class="group onerow-fluid">
+    <div id="logo"><a href="http://framescr.com/zc/"><img src="includes/templates/responsive_classic/images/FrameScriptLogo.jpg" alt="FrameScript" title=" FrameScript " width="267" height="114"></a>    <div id="taglineWrapper">
+      <div id="tagline">FrameMaker Scripting Automation and Customization</div>
+  </div>
+  </div>
+</div>
+
+<!--eof branding display-->
+<!--eof header logo and navigation display-->
+
+
+<!--bof optional categories tabs navigation display-->
+<div id="navCatTabsWrapper">
+<div id="navCatTabs">
+<ul>
+  <li><a class="category-top" href="http://framescr.com/zc/index.php?main_page=index&amp;cPath=2">FrameScript</a> </li>
+  <li><a class="category-top" href="http://framescr.com/zc/index.php?main_page=index&amp;cPath=4">Evaluation version</a> </li>
+  <li><a class="category-top" href="http://framescr.com/zc/index.php?main_page=index&amp;cPath=3">ElmScript(Germany)</a> </li>
+</ul>
+</div>
+</div>
+<!--eof optional categories tabs navigation display-->
+
+<!--bof header ezpage links-->
+<!--eof header ezpage links-->
+</div>
+
+
+<div id="contentMainWrapper">
+
+  <div class="col150">
+<!--// bof: categories //-->
+<div class="leftBoxContainer" id="categories" style="width: 150px">
+<h3 class="leftBoxHeading" id="categoriesHeading">Categories</h3>
+<div id="categoriesContent" class="sideBoxContent"><ul class="list-links">
+<li><a class="category-top" href="http://framescr.com/zc/index.php?main_page=index&amp;cPath=2">FrameScript<span class="forward cat-count">&nbsp;(2)</span></a></li>
+<li><a class="category-top" href="http://framescr.com/zc/index.php?main_page=index&amp;cPath=4">Evaluation version</a></li>
+<li><a class="category-top" href="http://framescr.com/zc/index.php?main_page=index&amp;cPath=3">ElmScript(Germany)<span class="forward cat-count">&nbsp;(2)</span></a></li>
+
+<li><a class="category-links" href="http://framescr.com/zc/index.php?main_page=products_new">New Products ...</a></li>
+<li><a class="category-links" href="http://framescr.com/zc/index.php?main_page=products_all">All Products ...</a></li>
+</ul></div></div>
+<!--// eof: categories //-->
+
+<!--// bof: reviews //-->
+<div class="leftBoxContainer" id="reviews" style="width: 150px">
+<h3 class="leftBoxHeading" id="reviewsHeading"><a href="http://framescr.com/zc/index.php?main_page=reviews">Reviews&nbsp;&nbsp;[more]</a></h3>
+<div id="reviewsContent" class="sideBoxContent centeredContent">There are currently no product reviews.</div></div>
+<!--// eof: reviews //-->
+
+<!--// bof: whosonline //-->
+<div class="leftBoxContainer" id="whosonline" style="width: 150px">
+<h3 class="leftBoxHeading" id="whosonlineHeading">Who's Online</h3>
+<div id="whosonlineContent" class="sideBoxContent centeredContent">There currently are&nbsp;3&nbsp;guests&nbsp;online.</div></div>
+<!--// eof: whosonline //-->
+
+  </div>
+
+
+  <div class="col670">
+
+<!-- bof  breadcrumb -->
+    <div id="navBreadCrumb">  <a href="http://framescr.com/zc/">Home</a>&nbsp;::&nbsp;
+Privacy Notice
+</div>
+<!-- eof breadcrumb -->
+
+
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+
+<div class="centerColumn" id="privacy">
+<h1 id="privacyDefaultHeading">Privacy Notice</h1>
+
+<div id="privacyDefaultMainContent" class="content">
+
+<p>Customer information is collected for the purpose of processing your order. This information is kept confidential and is not shared.</p></div>
+
+<div class="buttonRow back"><a href="http://framescr.com/zc/index.php?main_page=index"><span class="cssButton normal_button button  button_back" onmouseover="this.className='cssButtonHover normal_button button  button_back button_backHover'" onmouseout="this.className='cssButton normal_button button  button_back'">&nbsp;Back&nbsp;</span></a></div>
+</div>
+  </div>
+
+
+  <div class="col150">
+<!--// bof: information //-->
+<div class="rightBoxContainer" id="information" style="width: 150px">
+<h3 class="rightBoxHeading" id="informationHeading">Information</h3>
+<div id="informationContent" class="sideBoxContent">
+<ul class="list-links">
+<li><a href="http://framescr.com/zc/index.php?main_page=shippinginfo">Shipping &amp; Returns</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=privacy">Privacy Notice</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=conditions">Conditions of Use</a></li>
+<li><a href="https://framescr.com/zc/index.php?main_page=contact_us">Contact Us</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=site_map">Site Map</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=gv_faq">Gift Certificate FAQ</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=discount_coupon">Discount Coupons</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=unsubscribe">Newsletter Unsubscribe</a></li>
+</ul>
+</div></div>
+<!--// eof: information //-->
+
+<!--// bof: moreinformation //-->
+<div class="rightBoxContainer" id="moreinformation" style="width: 150px">
+<h3 class="rightBoxHeading" id="moreinformationHeading">More Information</h3>
+<div id="moreinformationContent" class="sideBoxContent">
+
+<ul class="list-links">
+<li><a href="http://framescr.com/zc/index.php?main_page=page_2">Page 2</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=page_3">Page 3</a></li>
+<li><a href="http://framescr.com/zc/index.php?main_page=page_4">Page 4</a></li>
+</ul>
+</div></div>
+<!--// eof: moreinformation //-->
+
+  </div>
+
+
+</div>
+
+
+
+<!--bof-navigation display -->
+<div id="navSuppWrapper">
+<div id="navSupp">
+<ul>
+<li><a href="http://framescr.com/zc/">Home</a></li>
+</ul>
+</div>
+</div>
+<!--eof-navigation display -->
+
+<!--bof-ip address display -->
+<div id="siteinfoIP">Your IP Address is:   204.236.226.210</div>
+<!--eof-ip address display -->
+
+<!--bof-banner #5 display -->
+<!--eof-banner #5 display -->
+
+<!--bof- site copyright display -->
+<div id="siteinfoLegal" class="legalCopyright">Copyright © 2016 <a href="http://framescr.com/zc/index.php?main_page=index" target="_blank">FrameScript Store</a>. </div>
+<!--eof- site copyright display -->
+
+
+
+</div>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+<!--eof- banner #6 display -->
+
+
+
+
+ 
+
+
+
+
+</body></html>
