@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611180820id_/http%3A//www.kgoradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgoam810.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105182814id_/http%3A//www.kgoradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KGO-AM
-
-Posted on November 11, 1111
 
 ## CUMULUS MEDIA, INC  
 INTERNET PRIVACY POLICY
@@ -95,5 +93,3 @@ Atlanta, GA 30305
 Attn: Customer Service
 
 E‐Mail: [privacy@cumulus.com](mailto:privacy@cumulus.com)
-
-[](http://www.knbr.com/golden-state-warriors-news/)
