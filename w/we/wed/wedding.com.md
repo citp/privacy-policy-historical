@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401092443id_/https%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105010748id_/https%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Wedding.com
 
-Privacy Policy
-
-  * [About Us](https://www.wedding.com/aboutus)
-  * [Terms & Conditions](https://www.wedding.com/termsconditions)
-  * [Privacy Policy](https://www.wedding.com/privacypolicy)
-  * [FAQs](https://www.wedding.com/faqs)
-
-
-
 At Wedding.com, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to write to our Webmaster at [support@wedding.com](mailto:support@wedding.com). This privacy policy applies to information collected through this website for both couples and wedding vendors. Wedding.com may update this policy from time to time. Please check our policy periodically for changes. Your use of this website, and any disputes arising from it, is subject to this privacy policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. 
-
-#### 1\. Type of Information Collected
 
 We may collect personally identifiable information("PII" - for example, your full name, email address, mailing address, and telephone number) from you when you voluntarily submitting the information while purchasing the items from us. We need this information in order to process and fulfill your order and to notify you of your order status, in order to register you as a user of this site or to provide you with services. We may also collect PII from you if you choose to subscribe to our email program, or participate in sweepstakes, contests, and surveys, or in connection with content or suggestions you post on this site. 
 
@@ -26,8 +15,6 @@ Information Collected Upon Visiting. When you visit the Website, our servers aut
 Information Collected Upon Registration. If you desire to have access to certain restricted sections of the Website, you will be required to become a registered user, and to submit certain personally identifiable information to Wedding.com. This happens in a number of instances, such as when you sign up for the Wedding.com service, if you desire to receive marketing materials and information, if you submit a Service Request, and/or if you create a Vendor Profile to offer services through Wedding.com. Personally identifiable information that we may collect in such instances may include your full name, password, email address, street address, telephone number, photographs you upload, and other information that you decide to provide us with, or that you decide to include in your public profile. 
 
 Company Information. If you create a Vendor Profile, you have the opportunity to provide additional information ("Company Information") such as your company name, address, phone number, website and a description of your company and the services you provide. You may also upload a profile picture and photo gallery of your previous work. We may supplement or modify the Company Information to conform to our editorial policies or to add information from your website, materials that you supply to us, or publicly available sources. When you respond to a Consumer's Service Request, your Company Information and Profile is displayed to the Consumer making such a Service Request. Providing additional information beyond what is required at registration is entirely optional, but may enable you market your services more effectively and potentially win more jobs at Wedding.com. If you contact us by email through Wedding.com, we may keep a record of your contact information and correspondence, and use such information to respond to your inquiry. 
-
-#### 2\. Use of Information Collected
 
 In general, we may use information that we collect about you to:
 
@@ -49,8 +36,6 @@ In addition, we may use your contact information to market to you, and provide y
 
 Regarding Phone Numbers Collected. Wedding.com collects users' phone numbers during registration with the sole purpose to connect them with the vendors they are in need of and have requested to be connected with. The user's phone number will be provided only to local vendors when the user specifically selects "I'm Interested" or "Request Quotes" for a Service Provider. This phone number will not be given or sold to any third-parties who are not registered Vendors. 
 
-#### 3\. Information Sharing and Disclosure
-
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. Under no circumstances, other than in the event of a Business Transfer (as discussed below) will Wedding.com sell, rent or lease its Consumer lists (or the Consumer list of any individual Service Provider) to a third party. Circumstance under which we may share your personal information: 
 
 To Provide Information to Service Providers. We may share your personal information with Service Providers registered with Wedding.com that perform certain services on behalf of Consumers. Sharing this information with Service Providers allows you to be accurately matched with Service Providers that are available and able to fulfill your needs. The information we share is generally the information requested during registration, including the Bride's and Groom's first names, phone number, the type of services needed, when and where the service should be performed, a description of the service needed, and the couple's profile picture 
@@ -67,18 +52,10 @@ In Connection with Business Transfers. Wedding.com may sell, transfer or otherwi
 
 To Solicit or Provide Advice on Service Provider Selection. Wedding.com, with your explicit opt-in, may publish a message to your Facebook Wall notifying your friends of your use of the Website and soliciting their advice on which service provider to select for your job. In addition, with your explicit opt-in, Wedding.com may publish a message to your Facebook Wall if you provide input, recommendations, or advice on another s service provider selection. 
 
-#### 4\. Security
-
 Wedding.com is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your personal information despite our efforts. You should note that in using Wedding.com, your information would travel through third party infrastructures, which are not under our control. 
-
-#### 5\. Links to Other Websites
 
 Wedding.com may contain links to other websites. Wedding.com is not responsible for the privacy practices of other websites. Wedding.com users should read the privacy statements of each and every website that collects personally identifiable information. 
 
-#### 6\. Regarding Children
-
 This website is a general audience site and does not knowingly collect personally identifiable information from children under 13 years of age. If Wedding.com becomes aware that a child under 13 has submitted personally identifiable information, Wedding.com will delete that information. Parents who become aware that a child under the age of 13 has submitted personal information to Wedding.com may contact us at [support@wedding.com](mailto:support@wedding.com). 
-
-#### 7\. Changing or Deleting Information
 
 If you are a registered user of Wedding.com, you may access and update or correct the information you provided to us by updating your settings in Account Information. If you wish to delete your account, you must email us at [support@wedding.com](mailto:support@wedding.com) or call us at (800) 609-2135. 
