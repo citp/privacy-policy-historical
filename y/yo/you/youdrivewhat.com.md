@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517083145id_/http%3A//youdrivewhat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youdrivewhat.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105120549id_/http%3A//youdrivewhat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : You Drive What
+
+## Privacy Policy
 
 PRIVACY NOTICE  
 This privacy notice discloses the privacy practices for YouDriveWhat.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
