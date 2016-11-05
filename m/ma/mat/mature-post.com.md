@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mature-post.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502180243id_/http%3A//www.mature-post.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature-post.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105111756id_/http%3A//www.mature-post.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
