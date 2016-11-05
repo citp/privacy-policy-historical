@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324144422id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitstopmedia.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105031727id_/http%3A//www.pitstopmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Pitstop Media Inc - Privacy Policy
 
 |  |  |   | 
 
-33% Increase in Organic Traffic, 50% More Requests for Proposal
+195% Increase in AdWords CTR, Campaign Cost Decrease by 40%
 
-Sirco Samplers have seen a significant improvement in where their website is ranked, for the most important keywords in their industry, with help from Pitstop Media ...
+Food Connect hired us to optimize an AdWords account with poor Quality Scores, high CPC and lack of any form of conversion tracking. Even then, we delivered ...
 
-[](http://www.pitstopmedia.com/case-studies/cs-detail-sirco.php)
+[](http://www.pitstopmedia.com/case-studies/cs-detail-food-connect.php)
 
 | 
 
