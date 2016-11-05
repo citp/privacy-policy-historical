@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505183144id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithfulprovisions.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105103839id_/http%3A//www.faithfulprovisions.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Faithful Provisions
 
@@ -28,6 +28,3 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
 Please contact me by email if you have any questions about these policies.
-
-  
-
