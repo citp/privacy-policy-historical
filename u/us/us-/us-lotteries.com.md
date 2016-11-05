@@ -1,38 +1,40 @@
-> *The following text is extracted and transformed from the us-lotteries.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413105442id_/http%3A//www.us-lotteries.com/SiteUtilities/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-lotteries.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105161016id_/http%3A//us-lotteries.com/privacy-policy) for the most accurate reproduction.*
 
-# US Lotteries - Privacy Statement
+# Privacy Policy - US Lotteries
 
-Privacy Statement
+**Privacy Policy for us-lotteries.com**
 
-##### General
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@us-lotteries.com.
 
-This privacy Statement details our commitment to safeguard your information, and the limited manner in which we will use and disclose the information you provide to us. By using our web site, you consent to the collection, use and disclosure of your information by us as set forth in this policy. We may from time to time change this privacy policy so please check this privacy policy regularly for any changes or updates. If you have any questions regarding this privacy policy, then you may contact us. For additional information about the use of our web site, please review our [Terms and Conditions of Use](https://web.archive.org/web/20140413105442id_/http%3A//www.us-lotteries.com/SiteUtilities/terms.asp). 
+At us-lotteries.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us-lotteries.com and how it is used.
 
-##### Personal Information
+**Log Files**  
+Like many other Web sites, us-lotteries.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We do not collect “Personally Identifiable Information”. By this we mean information that is specific to you as an individual, like your name, age, email address, telephone number and facsimile number. The only time we ask for your name and email address is when you contact us. And we keep that information only for our records. 
+**Cookies and Web Beacons**  
+us-lotteries.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-We may display or link to forms that collect personal information for companies that we are affiliates for, but the information you supply in those forms are sent directly to the merchant's web sites. We do not have control over, nor do we have access to these information. 
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on us-lotteries.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to us-lotteries.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-##### Cookies
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Commission Junction  
+Widget Bucks  
+Adbrite  
+Clickbank  
+Azoogle  
+Chitika  
+Linkshare  
+Amazon  
+Kontera
 
-When you visit our web site to browse, we may use cookies to collect, use and store information such as the type of computer modem and Internet browser you are using, the number of times you visit our web site and the particular pages you view, the date and time you access our site, linking to and from our site, and the length of your visits to our site. We may share this information with third parties if we choose to aggregate and disclose site traffic information to improve the use of our site for our visitors. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on us-lotteries.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Note that most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to alert you when cookies are being sent. If you choose to modify your settings to reject cookies, it may affect your use of our web site. 
+us-lotteries.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Also, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. us-lotteries.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-© 2009 US-LOTTERIES.COM. All Rights Reserved.  
-
-
-* * *
-
-**• WE DO NOT SELL ANY LOTTERY, WE DO NOT BUY LOTTERY NUMBERS ON BEHALF OF ANYONE; this is only an information and guide web site.**  
-• Winning numbers are obtained from official state websites and media announcements. • We are dedicated to present accurate data and calculated results, however, errors are frequently inevitable. We therefore kindly request our esteemed visitors to notify us any errors that they may come accross. • This web site makes an extensive use of JavaScript; if you have set up your computer not to run scripts, or if you are using a browser that cannot run scripts, then you will miss a large part of the fun unless you make the necessary adjustments. Our scripts do nothing else but crunch lottery numbers and deliver a well-formatted data presentation.  
-• For more information read our Terms Of Use and Privacy Statements by clicking on the links below. 
-
-* * *
-
-* * *
-
-Copyright © 2006-2014 US-LOTTERIES.COM
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
