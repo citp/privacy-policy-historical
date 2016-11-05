@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themindcircle.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322100352id_/http%3A//themindcircle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themindcircle.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105214923id_/http%3A//themindcircle.com/privacy-policy) for the most accurate reproduction.*
 
 # TheMindCircle
 
@@ -33,4 +33,4 @@ While we don’t intent to make some changes to our privacy statement often, we 
 
 If you need more information regarding the information we collect from our users and how we protect them, please don’t hesitate to send us an email and we will give you the answers you need for your questions.
 
-support@onemrepost.com
+support@themindcircle.com
