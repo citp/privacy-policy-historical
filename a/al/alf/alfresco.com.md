@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315155706id_/https%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105042213id_/https%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
@@ -62,7 +62,7 @@ Although we will do our best to protect your personal data, we cannot guarantee 
 
 ## Cookies
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookoie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookoie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit <https://www.youtube.com/watch?v=TBR-xtJVq7E> .
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
@@ -84,9 +84,9 @@ _utmb
 _utmc  
 _utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited. | Click here for an overview of privacy at Google: <http://www.google.co.uk/intl/en/analytics> | All Alfresco websites | Category 2: Performance  
 Marketing Automation From Marketo‎ | _mkto_trk | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Marketo privacy policy can be viewed at: <http://www.marketo.com/trust/legal/privacy/> | alfresco.com, blogs.alfresco.com, docs.alfresco.com, forums.alfresco.com, summit.alfresco.com, wiki.alfresco.com | Category 2: Performance  
-Prospect management and lead management, by Pardot | Pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal.html> | alfresco.com, blogs.alfresco.com, wiki.alfresco.com, forums.alfresco.com | Category 2: Performance  
-Alfresco Cloud | __site | This cookie is used to store information for users signing up for Alfresco's Cloud service to help us better understand where users who sign up for the Cloud service come from. |  | cloud.alfresco.com | Category 2: Performance  
-MediaWiki | Visitor_id1234 | This cookie remembers your MediaWiki username. |  | wiki.alfresco.com | Category 3: Functionality  
+Prospect management and lead management, by Pardot | Pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal/privacy-policy/> | alfresco.com, blogs.alfresco.com, wiki.alfresco.com, forums.alfresco.com | Category 2: Performance  
+Alfresco Cloud | __site | This cookie is used to store information for users signing up for Alfresco's Cloud service to help us better understand where users who sign up for the Cloud service come from. |   | cloud.alfresco.com | Category 2: Performance  
+MediaWiki | Visitor_id1234 | This cookie remembers your MediaWiki username. |   | wiki.alfresco.com | Category 3: Functionality  
 TrainingRocket | 
 
 JSESSIONID
