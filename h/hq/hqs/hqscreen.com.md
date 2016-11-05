@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hqscreen.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504034550id_/http%3A//hqscreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqscreen.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105023455id_/https%3A//hdwallsbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 **Cookies**
 
-Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.
+Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. For more information about cookies, visit www.aboutcookies.org.
 
 **Third-Party Advertisers**
 
@@ -17,4 +17,4 @@ During your visit, we do not collect any personally identifiable information abo
 **Image copyright**
 
 All the images are copyrighted by their respective owners. Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them.  
-If you are a copyright holder of a specific image and wish your image to be removed, please [contact us](http://hqscreen.com/contact/).
+If you are a copyright holder of a specific image and wish your image to be removed, please [contact us](https://web.archive.org/contact/).
