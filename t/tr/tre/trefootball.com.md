@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trefootball.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627170659id_/http%3A//trefootball.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trefootball.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105195907id_/http%3A//www.trefootball.com/privacy.html) for the most accurate reproduction.*
 
 # Tre Football
 
-""  **Information that we collect**
+**Information that we collect**
 
 For each visitor to trefootball.com, our web server collects the following type of information for statistical purposes:
 
@@ -79,6 +79,14 @@ By visiting or posting to trefootball.com, you are agreeing to these rules.
 
 ### Must Read
 
+[ ](https://web.archive.org/college-sports/what-are-the-herbie-awards-and-3-recipients-named.html)
+
+[ ](https://web.archive.org/college-sports/abuse-allegations-against-bri-onte-dunn.html)
+
+#### [Abuse allegations against...](https://web.archive.org/college-sports/abuse-allegations-against-bri-onte-dunn.html)
+
+Ohio State’s Running back, Bri’onte Dunn was dismissed from the team “for a violation of team rules”, said team coach...
+
 [ ](https://web.archive.org/college-sports/ncaa-lacrosse-four-final-teams.html)
 
 #### [NCAA Lacrosse - Four Final...](https://web.archive.org/college-sports/ncaa-lacrosse-four-final-teams.html)
@@ -99,25 +107,29 @@ Utah Utes: SIAOSI AIONO was born in May, 1993 in Salt Lake City, Utah, U.S.A. He
 
 North Dakota is an amazing football team, and they have proved this over the past few years. The new additions to the...
 
-[ ](https://web.archive.org/college-sports/college-sports-recruitment-services-how-to-hire.html)
-
-#### [College Sports Recruitment...](https://web.archive.org/college-sports/college-sports-recruitment-services-how-to-hire.html)
-
-You are a secondary school competitor and you are on the varsity squad. It has been your objective for some time to...
-
-[ ](https://web.archive.org/college-sports/2-time-cancer-survivor-becomes-college-sports-vp.html)
-
-#### [2 Time Cancer Survivor...](https://web.archive.org/college-sports/2-time-cancer-survivor-becomes-college-sports-vp.html)
-
-The journey for Ilan Ben-Hanan has been a surviving chronicle. Two times cancer survivor Ilan has been upgraded with...
-
 ### Recently Published
+
+[ ](https://web.archive.org/fitness/why-should-you-warm-up-before-training.html)
 
 [ ](https://web.archive.org/fitness/what-is-high-intensity-interval-training.html)
 
-[ ](https://web.archive.org/fitness/why-are-more-women-running-half-marathons.html)
-
 ### Post of the week
+
+  * [](https://web.archive.org/exercise/what-can-you-learn-at-www-buzzle-com.html)
+
+## ViewMore
+
+In this day and age when everybody seems to rely...
+
+[View more](https://web.archive.org/exercise/what-can-you-learn-at-www-buzzle-com.html)
+
+  * [](https://web.archive.org/exercise/why-swimming-is-a-great-workout.html)
+
+## ViewMore
+
+When many think of swimming, they aren’t...
+
+[View more](https://web.archive.org/exercise/why-swimming-is-a-great-workout.html)
 
   * [](https://web.archive.org/exercise/how-can-rhythmic-breathing-help-you-perform-exercises.html)
 
@@ -166,22 +178,6 @@ Everyone tends to gain fat on the upper arms, but...
 Exercise can seem like a very hectic task for...
 
 [View more](https://web.archive.org/exercise/how-should-beginners-exercise.html)
-
-  * [](https://web.archive.org/exercise/celebrity-workouts.html)
-
-## ViewMore
-
-Today when we have social networks at every turn...
-
-[View more](https://web.archive.org/exercise/celebrity-workouts.html)
-
-  * [](https://web.archive.org/exercise/top-5-reasons-to-exercise-daily.html)
-
-## ViewMore
-
-Working out daily is not just for losing weight...
-
-[View more](https://web.archive.org/exercise/top-5-reasons-to-exercise-daily.html)
 
 
 
