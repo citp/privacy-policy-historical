@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esellerpro.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505094846id_/https%3A//www.volocommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerpro.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105061220id_/https%3A//www.volocommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Volo
 
