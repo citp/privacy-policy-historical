@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmw.ca privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517084145id_/http%3A//www.bmw.ca/en/footer/metanavigation/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmw.ca privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105145917id_/http%3A//www.bmw.ca/en/footer/metanavigation/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
