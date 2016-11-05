@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424052610id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeesecure.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105053559id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 2016-03-29
+Last Updated: 2016-06-01
 
 This privacy policy (this "Policy") describes the collection of personal information by TrustedSite, LLC, a Delaware limited liability corporation ("TrustedSite," "we," or "us") from users of our Web site at www.TrustedSite.com (the "Website"), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our "Services"). This Policy also describes our use and disclosure of such information. By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the TrustedSite [Terms of Use](https://web.archive.org/terms) and subject to the provisions of the Terms of Use.
 
@@ -20,8 +20,9 @@ We collect Personal Information that our users provide to us in a variety of way
 
   * E-mail Newsletters. We may offer e-mail newsletters from time to time on our Services. If you sign up to receive a newsletter from us, we collect your e-mail address. 
   * User Accounts and Profiles. Our Services may give you the ability to register for a TrustedSite account or to create and update a user profile on the applicable Service. If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user profile. This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you. We may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional. 
+  * Integrated Services. You may be given the option to access or register for the Services through the use of your user name and passwords for certain services provided by third parties (each an "Integrated Service"), such as through the use of your Facebook credentials through Facebook Connect. By doing this, you authorize us to access and store the credentials you provide, your name, email address(es), date of birth, gender, current city, profile picture URL, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your Facebook or other Integrated Service privacy settings to understand and change the information sent to us through Facebook Connect or other Integrated Services. Please review each Integrated Service's terms of use and privacy policies carefully before using their services and connecting to our Services. 
   * Interactive Features. Our Services may contain interactive functionality that allows you to engage with other users on the Services, post comments to forums, to upload photographs and other content (the "User Materials"), participate in surveys, and otherwise to interact with the Services and with other users. If you use any interactive functionality on our Services that request or permit you to provide us with personal information (including, for example, any services that allow you to post User Materials on any of our Services), we collect the Personal Information that you provide to us in the course of using these interactive features. 
-  * Public Content. The information that you contribute through our Services is intended for public consumption, including your reviews, tips, photos, videos, check-ins, comments, likes, posts, events, bookmarks, friends, lists, compliments, and account profile. We may display this information through our Services, share it with businesses, and further distribute it to a wider audience through third party sites and services.
+  * Public Content. The information that you contribute through our Services is intended for public consumption, including your reviews, tips, photos, videos, check-ins, comments, likes, posts, events, bookmarks, friends, lists, compliments, and account profile. We may display this information through our Services, share it with businesses, and further distribute it to a wider audience through third party sites and services. 
   * Correspondence. If you contact us by e-mail, using a contact form on the Services, or by mail, fax, or other means, we collect the Personal Information contained within, and associated with, your correspondence. 
   * Contests and Sweepstakes. We or our advertisers and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on our Services. Certain of these promotions may be co-branded with one of our advertisers or other business partners. In these instances, the collection of your Personal Information may occur directly by the third-party partner on its website or other online service and may be shared with us. The promotion will state the privacy policy or policies governing the collection of such personal information. 
 
@@ -53,13 +54,25 @@ Except as described in this Policy, we will not disclose your Personal Informati
 
 We may disclose Personal Information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work. We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information. 
 
-#### Business Transfers 
+#### Public Areas and Syndicated Services
+
+Some features on our Services may allow you to upload, post, or otherwise transmit User Materials to public areas of the Services, such as content that you post in a public profile on the Services. We may make these User Materials available for display upon Company properties that are not governed by this Policy, as well as to services operated by third parties that display content from the Website (collectively, "Syndicated Services"). Please be aware that any Personal Information that you include within any User Materials will be made available to other users of the Services, and to users of Syndicated Services, who view it. You include Personal Information in User Materials at your sole risk. We may allow you to select privacy options that limit access to some types of Personal Information in User Materials, but no security measures are impenetrable or perfect. Additionally, even after information posted on the Website is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Services. We cannot warrant or guarantee that any Personal Information that you provide on and in connection with the Services will not be accessed, viewed, or used by unauthorized persons.
+
+#### Business Transfers
 
 Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of TrustedSite assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
 
 #### To Protect our Interests
 
 We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our Services and other users of the Services.
+
+### California Privacy Rights
+
+Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information shared, the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year, and descriptions of the likely types of marketing the third parties would send.
+
+To obtain this information from us, please send an email message to [privacy@trustedsite.com] or mail us at the address below with "Request for California Privacy Information" on the subject line and in the body of your message. If you are a California resident, we will provide the requested information to you at your e-mail address in response.
+
+Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
 ### Choice
 
