@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627141052id_/http%3A//www.independent.ie/service/privacy-and-cookie-policy-26859902.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105193324id_/http%3A//www.independent.ie/service/privacy-and-cookie-policy-26859902.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Independent.ie
 
