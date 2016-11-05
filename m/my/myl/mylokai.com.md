@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylokai.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315120128id_/http%3A//mylokai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylokai.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105113638id_/http%3A//mylokai.com/privacy-policy) for the most accurate reproduction.*
 
 # Lokai Cares About Your Privacy
 
