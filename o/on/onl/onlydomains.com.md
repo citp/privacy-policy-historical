@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlydomains.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906011915id_/https%3A//www.onlydomains.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlydomains.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105135745id_/https%3A//www.onlydomains.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
