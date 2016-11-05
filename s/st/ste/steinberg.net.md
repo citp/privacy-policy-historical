@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the steinberg.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625054446id_/http%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinberg.net privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105041559id_/http%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : | http://www.steinberg.net/
 
 ## Personal information
 
-Personal information encompasses individual details about personal or business relations of a specific or specifiable natural person (affected party), e.g. your own personal information such as name, address, telephone number, and date of birth.
+Personal information encompasses individual details about personal or business relations of a specific or specifiable natural person (data subject), e.g. your own personal information such as name, address, telephone number and date of birth.
 
 ## Anonymous data collection
 
@@ -14,11 +14,13 @@ In principle, you can visit our web pages without informing us who you are. When
 
 This website uses etracker technology ([www.etracker.com](http://www.etracker.com/)) to collect visitor behavior data. This data is collected anonymously to be used for marketing and optimization purposes. All visitor data is saved using an anonymous user ID and can be aggregated to a usage profile. Cookies may be used to collect and save this data, but the data remains strictly anonymous. The data will not be used to identify a visitor personally and are not aggregated with any personal data. The collection and storage of data may be [refused](https://www.etracker.de/privacy?et=bssZBV) at any time with respect to subsequent services. [](https://www.etracker.de/privacy?et=bssZBV)
 
-## Collection, processing, and disclosure of personal data
+## Collection, processing and disclosure of personal data
 
-In some areas of our web site we request personal data from you to help us identify you as a person. Normally this will involve so-called inventory data, i.e. such personal information of a user required for the justification, design of content, or change of a contractual relationship in regards to our Tele/Media service. Such inventory data are collected for example when you create a user account and/or register Steinberg products, but also if you wish to participate in our chat room or our forums. 
+In some areas of our website we request personal data from you to help us identify you as a person. Normally this will involve so-called inventory data, i.e. such personal information of a user required for the justification, design of content, or change of a contractual relationship in regards to our Tele/Media service. Such inventory data are collected for example when you create a user account and/or register Steinberg products, but also if you wish to participate in our chat room or our forums. 
 
 We process these inventory data in such a fashion that the highest possible privacy of your personal data is safeguarded. Using authentication and authorization procedures, we ensure as much as possible that unauthorized individuals have no access to your personal data or use services that are exclusive to you. In addition, we collect your personal information always then and to the extent required for the contractual purpose e.g. when you participate in our competitions and we need your address data for a possible notification of winning. 
+
+Your personal data will be transferred to our associated companies and service providers, e.g. IT providers and others who are subject to our instructions and who help us provide the services to you. Through appropriate legal, technical and organizational measures as well as through a regular monitoring thereof we ensure compliance with the applicable data protection laws and an adequate level of data protection where personal data is transferred to service providers located outside the European Union and the European Economic Area. Involved service providers will only get access to those specific personal data that is required to fulfill their services. They do not have the right to use your information for their own purposes, especially promotional activities. 
 
 Only with your explicit consent do we pass on personal information to third parties (e.g. our distributors) especially when these third parties have their domicile outside of the states covered by European Union law. Also we will only contact you in an unsolicited way by means of the personal information stored on our servers if you have given your explicit consent to do so. 
 
