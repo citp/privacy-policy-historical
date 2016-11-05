@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005142id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105092211id_/https%3A//www.expedia.com.au/privacy) for the most accurate reproduction.*
 
-# Expedia Privacy Pledge
+# Expedia Privacy Pledge| Expedia.com.au
 
   
 Below you will find the Privacy Policy for www.expedia.com.au, a website operated by Expedia, Inc.   
