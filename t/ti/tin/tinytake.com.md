@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinytake.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602093437id_/http%3A//tinytake.com/tinytake-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinytake.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105063330id_/http%3A//tinytake.com/tinytake-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TinyTake
 
