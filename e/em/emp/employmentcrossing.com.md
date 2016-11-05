@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610182758id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentcrossing.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105131811id_/http%3A//www.employmentcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # EmploymentCrossing.com - Privacy Policy, Your Privacy is So Important To Us | EmploymentCrossing.com
 
@@ -45,7 +45,7 @@ If you have registered to receive our newsletter, job updates and/or any other a
 
 Consumer Privacy Department  
 EmploymentCrossing  
-20 S Altadena Dr, Ste 102, Pasadena, CA 91107 
+286 West 100 North, Ephraim, UT, 84627 USA 
 
 
 
