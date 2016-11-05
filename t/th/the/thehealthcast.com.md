@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511125642id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105021327id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Health Cast
 
@@ -8,7 +8,7 @@ _Effective Date: May 10, 2012_
 
 **What information does Trupath® collect and how does Trupath® use it?**
 
-This Privacy Policy describes the information practices of the Trupath® website, operated by TruPath LLC. You may visit and use certain features of our website without any registration, in which case none of your personal information will be collected or retained. However, if you to register through our website or request coupons, we will ask you to provide personal information such as your contact information and your date of birth.
+This Privacy Policy describes the information practices of the Trupath® website, Thehealthcast.com, operated by TruPath LLC. You may visit and use certain features of our website without any registration, in which case none of your personal information will be collected or retained. However, if you to register through our website or request coupons, we will ask you to provide personal information such as your contact information and your date of birth.
 
 In addition, some sections of our website allow you to provide information directly to third parties whose websites are framed within our website, as described below in the section on “Third party links and co-brand relationships.”
 
@@ -38,7 +38,7 @@ Although it is our hope that you find the display of advertising to you based on
 
 **What are my choices?**
 
-If you would like Trupath® to stop providing your information to these third parties, please send a “do not share” request to Trupath® by emailing us at [privacy@trupath.com](mailto:privacy@trupath.com?subject=Trupath), or by contacting us as directed below under “Additional Information.”
+If you would like Trupath® to stop providing your information to these third parties, please send a “do not share” request to Trupath® by emailing us at [privacy@trupath.biz](mailto:privacy@trupath.biz?subject=Trupath), or by contacting us as directed below under “Additional Information.”
 
 **Trupath®’s special note to parents**
 
@@ -58,4 +58,4 @@ By using our website, you consent to the collection and use of information by Tr
 
 This notice details the privacy policies of Trupath® for all of its users of its website with regard to information collected through this website. If you have questions regarding this policy or the practices of Trupath®, contact us at TruPath LLC®, Privacy Division, located at PO Box 4120 #91433 Portland, OR 97208-4120.
 
-Powered by [Trupath](http://www.trupath.com/). This site offers consumers access to free promotional offers. By registering the consumer agrees to receive email annoucements from such advertisers listed in this site. By continuing, you certify that you are a US resident over the age of 18 and that you agree to the privacy policy, participation requirements and End User License Agreement.
+Powered by [Trupath](http://www.trupath.biz/). This site offers consumers access to free promotional offers. By registering the consumer agrees to receive email announcements from such advertisers listed in this site. By continuing, you certify that you are a US resident over the age of 18 and that you agree to the privacy policy, participation requirements and End User License Agreement.
