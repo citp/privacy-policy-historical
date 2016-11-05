@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.info privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401181955id_/http%3A//www.magix.info/us/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.info privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105051707id_/http%3A//www.magix.info/us/pages/privacy) for the most accurate reproduction.*
 
 # magix.info - Multimedia Knowledge Community
 
