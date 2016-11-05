@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sign-in.at privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320170258id_/http%3A//loginfaq.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-in.at privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105195703id_/http%3A//sign-in.at/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learn how to get started!
+# Privacy Policy | Learn How To Get Started
 
 ## Privacy Policy
 
