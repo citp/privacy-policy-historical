@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courthousenews.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309200958id_/http%3A//www.courthousenews.com/CNS%2520privacy%2520policy%2520december%252017%25202009.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courthousenews.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105080203id_/http%3A//www.courthousenews.com/CNS%2520privacy%2520policy%2520december%252017%25202009.htm) for the most accurate reproduction.*
 
 # Courthouse News Service Privacy Policy
 
