@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomecpr.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603153322id_/http%3A//marketerscoach.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomecpr.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105164100id_/http%3A//marketerscoach.com/privacy.php) for the most accurate reproduction.*
 
 # Nicole Dean: Blog World Tour Guide
 
