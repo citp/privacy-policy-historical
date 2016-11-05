@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051517id_/http%3A//www.zedge.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105161937id_/http%3A//www.zedge.net/privacy) for the most accurate reproduction.*
 
 # Zedge | Privacy policy
 
 ### Privacy Policy
 
-_Date of Last Revision: April 15th, 2016_
+_Date of Last Revision: October 7th, 2016_
 
 This privacy policy (the "Privacy Policy") describes how Zedge, Inc. ("Zedge" or "we" or "us") uses personal information in running our business. Zedge is available from our websites, including but not limited to, www.zedge.net, m.zedge.net and t.zedge.net ("Websites") and mobile applications ("Mobile Apps"). We refer to our Website visitors and Mobile App users as users ("Users") of Zedge's Services ("Services"). Please read our [Terms of Service](https://web.archive.org/terms/) and our [online safety and best practices guidelines](https://web.archive.org/online-safety/). By visiting any of the Websites or using any of the Mobile Apps, you are accepting and consenting to the practices described in the Privacy Policy.
 
@@ -48,7 +48,18 @@ We use third-party advertising companies to serve ads when you visit the Website
 
 Some of our advertisers enable you to purchase content such as ringtones. In order to facilitate the purchase of such content, our advertisers and their partners may collect additional information. Please note that this information may be used in accordance with the advertiser's privacy policy, which may be different from Zedge's Privacy Policy.
 
-##### 4\. DISCLOSURES OF INFORMATION
+##### 4\. THIRD PARTY ADVERTISERS - Ogury
+
+One of our third party partners who collects and uses your information to serve you ads is Ogury Ltd ("Ogury"). For a full description of who Ogury is and how it uses, transfers and protects information it collects, you can take a look at its Data Usage Principles: <http://www.ogury.co/privacy.html>
+
+By clicking "CONTINUE" on Zedge's signup page and accepting this Privacy Policy, you consent to Ogury collecting information from your device to allow it to dynamically serve more relevant promoted content and product support and improve its products and services. This consent applies to all applications you have installed or may install that contain Ogury's technology.  
+By clicking "CONTINUE" on Zedge's signup page and accepting this Privacy Policy, you affirm that you are over 13 years of age.
+
+The data that Ogury collects may include information about your device, location, email, application, and browsing usage. The data Ogury collects may be shared within its group and with select business partners, including those based outside the European Economic Area ("EEA"). If you are based in the EEA, please note that the data privacy regulations that apply in countries outside the EEA may not offer the same level of protection as provided for inside the EEA.
+
+All data that Ogury collects is tied to your Android Advertising ID which can be reset under following path : "Google Settings->Ads->Optout of interest based ads".ant
+
+##### 5\. DISCLOSURES OF INFORMATION
 
 As reasonably necessary to provide services to you, Zedge may share non-personally identifying information or personally identifying information with its partners or affiliates, and also with third party vendors. For example, for certain Services, Zedge may require you to verify your phone number and consent to a one-time SMS message sent through a third-party service provider, Digits by Twitter. By providing your phone number, you consent to receive a SMS message from Digits by Twitter and consent to the collection and use of your phone number by Digits by Twitter in accordance with its Privacy Policy.
 
@@ -56,27 +67,27 @@ Zedge may disclose your information to third parties when obligated or permitted
 
 Finally, Zedge may transfer information, including any personally identifiable information, to a successor entity (or potential buyer) in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
-##### 5\. ACCESS AND CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION; ACCOUNT TERMINATION
+##### 6\. ACCESS AND CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION; ACCOUNT TERMINATION
 
 You may be entitled to access personally identifiable information held about you, subject to certain exemptions in accordance with the applicable data protection law. You may exercise the right at any time by contacting us at the address below and including "personal information request" in the subject line.
 
 In addition, you may at any time review or change your personally identifiable information by going to your account settings. Upon your request via your account settings, we will deactivate or delete your account and contact information from our active databases in accordance with our deactivation policy and applicable law. Please note that we may be obligated to keep some of all of your information on our servers even after you've deleted your account.
 
-##### 6\. SECURITY
+##### 7\. SECURITY
 
 We use reasonable electronic, personnel, and physical measures to protect information from loss, theft, alteration, or misuse. However, please be advised that even the best security measures cannot fully eliminate all risks. We cannot guarantee that only authorized persons will view your information. We are not responsible for third party circumvention of any privacy settings or security measures.
 
-##### 7\. CHILDREN
+##### 8\. CHILDREN
 
 We do not knowingly collect or store personally identifiable information from anyone under the age of 13 unless or except as permitted by law. **ANY PERSON WHO VISITS ANY OF THE WEBSITES OR USES ANY OF THE MOBILE APPS REPRESENTS TO US THAT HE OR SHE IS 13 YEARS OF AGE OR OLDER AND HAS READ AND WILL ADHERE TO OUR[ONLINE SAFETY AND BEST PRACTICES GUIDELINES](https://web.archive.org/online-safety/)**. If we are made aware that we have received personally identifiable information from someone under 13, Zedge will use reasonable efforts to remove that information from our records.
 
-##### 8\. PRIVACY POLICY CHANGES
+##### 9\. PRIVACY POLICY CHANGES
 
 Zedge may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to Zedge's Privacy Policy will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the relevant Website or Mobile App. Where the changes are material, we may also choose to email all our registered users with the new details and it is within our sole discretion whether or not we choose to do so. The date of the most recent revisions will also appear on this page. If you do not agree with this Privacy Policy, please do not use or access Zedge, and if you do not agree to any changes we make in the future, you must terminate your registration with Zedge.
 
 Where language on the Websites or Mobile Apps contradicts that found in this Privacy Policy, this Privacy Policy shall prevail.
 
-##### 9\. UNITED STATES OF AMERICA
+##### 10\. UNITED STATES OF AMERICA
 
 The information collected by Zedge is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Services from other jurisdictions, please be advised that you are transferring your personal information to us in the United States where data protection and privacy laws may be less stringent than the laws of your country. **BY USING OUR WEBSITES AND/OR MOBILE APPS, YOU CONSENT TO THE TRANSFER AND USE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY**.
 
