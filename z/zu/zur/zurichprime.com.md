@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the zurichprime.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627070449id_/http%3A//zurichprime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurichprime.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105140100id_/http%3A//zurichprime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zurich Prime™ | Leader In Online Trading : Zurich Prime
 
 [](http://zurichprime.com/)
 
 ### Privacy Policy
+
+U-NEX GLOBAL LTD IS REGISTERED IN AJELTAKE ROAD, MAJURO, MARSHALL ISLANDS. PAYMENT AND CLEARING SERVICES ARE PROVIDED BY U-NEX SOLUTIONS SRL (BUCHAREST, 17 BABA NOVAC STREET, ROMANIA).  
+ZURICHPRIME.COM CUSTOMER SUPPORT NUMBER: +403 122 946 97
 
 Before you begin setting up your account with U-NEX Global ltd (herein referred to as “we,” “us,” or “Company”), and obtaining services from the Company, please read the following Privacy Policy.
 
@@ -43,6 +46,8 @@ By using any information or services from the Company through this website, you 
   6. Any amendments to our privacy policy that affect the personal information of customers collected on our website will be posted on our website.
 
   7. By using this website, you consent to the terms of this privacy policy and our processing of personal information for the purposes given above.
+
+U-nex global ltd is registered in ajeltake road, majuro, marshall islands. Payment and clearing services are provided by u-nex solutions srl (bucharest, 17 baba novac street, romania). Zurichprime.com customer support number: +403 122 946 97
 
 
 
