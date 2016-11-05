@@ -1,72 +1,33 @@
-> *The following text is extracted and transformed from the technogiants.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622164146id_/http%3A//technogiants.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technogiants.net privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105011840id_/http%3A//technogiants.net/privacy-policy) for the most accurate reproduction.*
 
 # TechnoGiants: Privacy Policy of Weblog
 
-**What information do we collect?**
+[](http://technogiants.net/wp-content/uploads/2013/06/Privacy-Policy.jpg)
 
-We collect information from you when you subscribe to our newsletter, fill out a contact form or comment on the site. When subscribing on our site, as appropriate, you may be asked to enter your name, e-mail address or website URL. You may, however, visit our site anonymously.
+Supposing you require any additional information or will have any queries about our privacy policy, you are welcome to get in touch with us by sending an email at vaibhav [@] technogiants.net
 
-**How do we use your information?**
+At TechnoGiants, the privacy of our respective visitors is utmost importance to us. This privacy policy document outlines the types of personal information is received and picked up by TechnoGiants and in what way it can be used.
 
-We may use the information which we collect from you subscribe to our newsletter, fill out a contact form, comment on the site, surf the website, or use certain other site features in the following ways:
+**Log Files**
 
-  * To personalize user’s experience and to allow us to deliver the type of content in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To administer a giveaway, promotion, and contest or other site feature.
-  * To send periodic emails regarding new articles or information, respond to your inquiries, other requests or questions.
+Like all other Internet sites, TechnoGiants requires log files. The data contained in the log files includes internet protocol (IP) addresses, kinds of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and wide range of clicks to evaluate trends, administer the blog, track user’s movement throughout the site, and gather demographic information. IP addresses, along with other such information won’t be linked with any information that is actually personally identifiable.
 
+**External Links**
 
+TechnoGiants would likely have used external links specifically for your further references. However when you will have used these links to leave our blog, you need to understand that TechnoGiants do not possess any control over that site and never responsible for protection and privacy of those sites. Those sites are not governed by this privacy policy. If you locate any inaccurate or broken links, you can most welcome to contact me.
 
-**How do we protect your information?**
+**Cookies and Web Beacons**
 
-We already implemented variety of security measures just to maintain safety of your personal information whenever you enter, submit, or access your personal information in the following ways:
+TechnoGiants does use cookies to store information regarding visitor’s preferences, record user-specific details on which pages the reader access or visit, customize Web-page content based on visitor’s browser type or any additional information that the visitor sends via their browser.
 
-  * We do not use vulnerability scanning and/or scanning to PCI standards.
-  * We only provide articles and information. We never ask for credit card numbers.
-  * We do not use Malware Scanning.
+We allow third-party companies to serve ads and/or collect certain anonymous information whenever you visit our web site. These companies possibly use non-personally identifiable information (e.g., click stream information, browser type, both time and date, subject of advertisements clicked or scrolled over) throughout your visits to this as well as other Web sites in order to provide advertisements about goods and services very likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit this [PAGE](http://www.networkadvertising.org/managing/opt_out.asp).
 
+**DoubleClick DART Cookie**
 
+Google, as a 3rd party vendor, uses cookies to serve ads on TechnoGiants. Google’s utilizing the DART cookie enables it to serve ads to your current users dependent on their visit to the pages of our web-site as well as other sites on the Internet. Users may opt out of the utilization of the DART cookie by checking the Google ad and content network privacy policy at the following [URL](http://www.google.com/privacy_ads.html).
 
-**Do we use ‘cookies’?**
+It is more advisable you consult the respective privacy policies of such third-party ad servers for more detailed information on their practices and also for instructions about how exactly to opt-out of certain practices. TechnoGiants privacy policy doesn’t relate to, therefore we cannot control the activities of, such other advertisers or internet sites.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
+If you would like to disable cookies, you may do so at your individual browser options. More detailed information regarding cookie management with specific web browsers can be located at the browsers’ respective websites.
 
-We use cookies to:
-
-  * Understand and save user’s preferences for future visits.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
-
-
-
-**Third-party disclosure**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may release your information to those parties or companies which offer giveaway, promotion, and contest on our site **ONLY** if those parties agree to keep this information confidential, appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
-
-**Third-party links**
-
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://technogiants.net](http://technogiants.net/)
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-This policy was last modified on: Wednesday, June 15th, 2016.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://technogiants.net  
-vaibhav@technogiants.net
+TechnoGiants has no access to or control over these cookies that are used by third-party advertisers.
