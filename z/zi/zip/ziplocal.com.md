@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526120739id_/http%3A//ziplocal.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziplocal.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105052716id_/http%3A//ziplocal.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Ziplocal
 
@@ -14,11 +14,11 @@ How does Ziplocal use the information collected?
 When you provide personal information for a specific purpose (for example, registering to use a feature on the Website), we generally use it for that purpose. We will generally collect and use personal information to administer our contests, promotions, surveys, reward programs and other services, to understand our customers’ responses, needs and preferences, and to generally manage our business.
 
 We may also use the information you provide:  
-\- To provide you with personalized content  
-\- To process and respond to inquiries  
-\- To improve the content and navigability of the Website  
-\- To otherwise communicate with you  
-\- To enforce the Terms of Use (corporate.ziplocal.com/online-terms-of-use/)
+– To provide you with personalized content  
+– To process and respond to inquiries  
+– To improve the content and navigability of the Website  
+– To otherwise communicate with you  
+– To enforce the Terms of Use (corporate.ziplocal.com/online-terms-of-use/)
 
 In addition, Ziplocal may use personal information you provide in combination with the information Ziplocal automatically collects through the Website to protect our property or other rights (for example, to enforce any policies or contractual provisions regarding copyright, or other features of the Website).
 
