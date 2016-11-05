@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbianize.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405012756id_/http%3A//www.symbianize.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbianize.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105163331id_/http%3A//www.symbianize.com/privacy.php) for the most accurate reproduction.*
 
 # Symbianize Forum - Privacy Policy
 
