@@ -1,65 +1,122 @@
-> *The following text is extracted and transformed from the remodelinstantly.com privacy policy that was archived on 2014-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140206165406id_/http%3A//www.remodelinstantly.com/windows/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelinstantly.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105223449id_/http%3A//remodelinstantly.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Improvement Experts
 
-**RemodelInstantly Privacy Policy**
+Improvement Experts, LLC ("Improvement Experts", "we", or "our") respects the privacy of all our users. This Privacy Policy is intended to describe for you the information we collect, how we may use that information, with whom we may share that information with, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy when using our website, services, or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please contact us.
 
-Thank you for visiting the RemodelInstantly website located at www.remodelinstantly.com (the "Site"). The Site is an Internet property of RemodelInstantly. and its affiliated companies ("RemodelInstantly," "we" or "us"). This privacy policy ("Privacy Policy") outlines the privacy practices associated with the Site. You agree to this Privacy Policy, in its entirety, when you: (a) access or use the Site; (b) register on the Site to receive information, products and/or services from third party service providers ("Third Party Providers"); and/or (c) obtain, or attempt to obtain, any RemodelInstantly products and/or services.
+**Information Collected About You**
 
-**For purposes of compliance with the California Financial Privacy Act and the Vermont Consumer Protection Act, 8 V.S.A. 10202, if you are a resident of the State of California or Vermont and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please[Click Here](http://www.optout-cggd.net/o-cggd-x68-b2078d3042753dc661873b022c1d5528). Please be advised that where California or Vermont residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law.**
+We may collect personal information that can identify you such as your name, phone number,  and email address. The information you provide through our website may be sent to servers located in the United States and other countries.
 
-**Personally Identifiable Information We Collect**
+**Use of Cookies and Other Technologies to Collect Information**
 
-We collect your personally identifiable information when you register on the Site to receive information, products and/or services from Third Party Providers and/or obtain, or attempt to obtain, any RemodelInstantly products and/or services. **We may also collect your personally identifiable information when you otherwise agree to the terms of this Privacy Policy, but do not complete the applicable registration process in full.** The types of personally identifiable information that we collect at the Site include, without limitation: (a) your full name; (b) mailing address; (c) e-mail address; (d) home, work and mobile telephone numbers; (e) who you intend the policy to cover; (f) for what dollar amount do you want the policy; (g) for how long would like the term of the policy; (h) have you used tobacco in the last twelve (12) months; (i) date of birth; (j) height and weight; (k) certain questions regarding your medical history; and (l) any and all other information requested on the applicable registration form. For purposes of this Agreement, item (k) in the preceding sentence shall be considered "Sensitive Information." 
+  * Information you provide: We may collect and store any personal information you enter on our website, such as your name, address, e-mail address, telephone number, credit card information, and other personally identifiable information.
+  * Information from other sources: We may also obtain both personal and non-personal information about you from business partners, contractors and other third parties, such as updated delivery and address information, purchase history, and demographic information.
 
-**Use of Personally Identifiable Information**
 
-By submitting your personal information on the Site, you agree that we may share such personal information (including your Sensitive Information) with Third Party Providers in order to complete your request for specific products and/or services that you applied for at the Site ("Featured Products") from such Third Party Providers, and that they may use such personal information for any lawful purposes, subject to any restrictions contained herein. Any information that you supply to any Third Party Providers shall be governed by the applicable Third Party Providers' privacy policy. **Please be advised that RemodelInstantly does not itself provide Featured Products, or any other related products and services. The ultimate terms and conditions of any Featured Products provided by any Third Party Providers will be determined by those Third Party Providers.**
 
-We may sell, rent, lease or otherwise provide the personal information that you supply to us (other than the Sensitive Information) to any third party and we may work with other businesses to bring selected retail opportunities to our users. These businesses and third parties may include, but are not limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); (d) SMS text-based marketers (where permitted by applicable law); and (e) direct marketers. 
+The information we collect from your computer through cookies and web beacons may include your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address. We may allow third-parties, including our authorized service providers, advertising companies, and ad networks to display advertisements on our site. These companies may also  use cookies to collect information about users who view or interact with their advertisements. However, the Improvement Experts website does not provide any personal information to these third parties.
 
-We may also employ other companies and individuals to perform certain functions on our behalf. Examples include sending direct and electronic mail, removing duplicate information from user lists, analyzing data and providing marketing analysis. The agents performing these limited functions on our behalf shall have access to our users' personal information as needed to perform their functions for us but we do not permit them to use your personal information for other purposes. 
+**How We Use the Information We Collect**
 
-We will also use your personal information for customer service, to provide you with information that you may request, to customize your experience on the Site and/or to contact you when necessary in connection with transactions entered into by you on the Site. We may also use your personal information for internal business purposes, such as analyzing and managing our business. We may also combine the information we have gathered about you with information from other sources. We may use third parties to help us operate our business and the Site or to administer activities on our behalf.
+We may use information that we collect about you to:
 
-We also reserve the right to release current or past user information in the event that we believe that the user is using, or has used, our products, services and/or Site: (i) in violation of the Site's Terms and Conditions, this Privacy Policy or any other of our operating rules, policies, price schedules and other supplemental terms and conditions or documents that may be published by us from time to time; (ii) to commit unlawful acts; (iii) if such information is subpoenaed or requested pursuant to a judicial or regulatory proceeding or inquiry; (iv) if we are sold or acquired; and/or (v) when we deem it necessary or appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission implementing regulations. Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information with/to any third party for any and all uses permitted by this Privacy Policy and applicable law. 
+  * Deliver the products and services that you have requested
+  * Manage your account and provide you with customer support
+  * Perform research and analysis about your use of our products, services, and content 
+  * Communicate with you by e-mail, postal mail, telephone and/or mobile devices or send newsletters about products or services that may be of interest to you either from us or third parties
+  * Communicate with you with regarding any service requests
+  * Enforce our terms and conditions
+  * Manage our business
+  * Perform functions as otherwise described to you at the time of collection
 
-By registering at the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time (the "Rule") and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations. 
 
-In addition, by submitting your personal information at the Site, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law. 
 
-**Non-Personally Identifiable Information**
+For service professionals, we may use financial or payment method information to process payment for any purchases made on our website.
 
-We may collect certain non-personally identifiable information about you when you visit many of the pages of the Site. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Netscape, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). We use the non-personally identifiable information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage, as well as to offer you products and services. We also reserve the right to use aggregate or group data about our visitors for any and all lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at the Site, you agree to allow us to provide such aggregate data to third parties.
+**With Whom We Share Your information**
 
-**Cookies**
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-When an end-user visits the Site, we send a cookie and/or gif file ("Cookie") to assign an anonymous, unique identifier to the applicable end-user's Internet browser. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/). To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the Promotion Website. RemodelInstantly reserves the right to retain Cookie data indefinitely.
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy.
 
-**Third Party Links**
+  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, surveys and other features offered through Improvement Experts. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * Marketing affiliates: When you are referred to us by a third party marketing affiliate, we may share your email address, and any other information that you provide to them.
+  * Service professionals: We match your information and service request against our list of service professionals. When you submit a service request through our website, you consent to our providing your personal information and request to the service professionals we match with your request. Sharing this information with service professionals allows them to contact you using the email address or other contact information you provided. In addition, we have other approved contractual partners that fulfill service requests, or that utilize their own service professionals to supplement our network, and we share your information with them, subject to contractual confidentiality restrictions, in order to attempt to provide the services requested. If you use our services pursuant to a membership with one of our partners, we may share your service request activity information with that partner. We may also release information to collection and/or credit agencies for past due service professional accounts.
+  * Business partners: When you make purchases, or participate in promotions offered through Improvement Experts or our services, we may share personal information with the businesses with which we partner to offer you those products, services, or promotions. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other contact information to that merchant.
+  * Other Situations: We also may disclose your information:
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce Improvement Experts, LLC  terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-The Website may contain links to other third-party owned and/or operated websites and, where you request information from Third Party Providers, RemodelInstantly may transfer you directly to the websites of such Third Party Providers. RemodelInstantly is not responsible for the privacy practices or the content of such websites. In some cases, you may be required to provide certain information to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and RemodelInstantly has no responsibility or liability relating to them. We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of such website. These third party entities are independent third parties and are not affiliated with us.
 
-**Third-Party Offers**
 
-RemodelInstantly provides its users with the opportunity to receive special offers, products and/or services from third parties. Where you indicate the desire to receive certain offers, products or services from a third party during the applicable information collection process, your personally identifiable information that was provided during that RemodelInstantly information collection process will be shared with the applicable third party so that such third party may provide their product or service to you and so that you do not have to complete another information collection form to purchase or receive that product or service.
+**Aggregated and Non-Personal Information**
 
-**Opt-Out/Unsubscribe**
+We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and affiliated companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors.
 
-When you submit personally identifiable information to us at the Site, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out of having your information shared with third parties, please [Click Here](http://www.optout-cggd.net/o-cggd-x68-b2078d3042753dc661873b022c1d5528). To stop receiving future e-mail communications from RemodelInstantly, please Click Here. RemodelInstantly may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all RemodelInstantly e-mail lists, please [Click Here](http://www.optout-cggd.net/o-cggd-x68-b2078d3042753dc661873b022c1d5528).
+**How You can Access Your Information**
 
-**Minors**
+If you have an online consumer account with us, you can access and review your personal information by logging into [your account](https://www.improvementexperts.com/login) or by contacting us. You can also choose to have your account disabled by contacting support@improvementexperts.com. After you deactivate your account, you will not be able to sign in to our website or access any of your personal information. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law.
 
-We do not knowingly collect information from minors under eighteen (18) years of age. No information should be submitted to, or posted at, the Site by individuals under eighteen (18) years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+**Your Choices About Collection and Use of Your Information**
 
-**Security**
+We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys. If you prefer not to have us share your postal mailing information with selected providers of goods and services that may be of interest to you, you can notify us at any time by emailing us.
 
-All collected information is stored in a technically and physically secure environment. When our registration/application process asks users to enter Sensitive Information, and when we store and transmit such Sensitive Information, it is encrypted and protected with SSL encryption software. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect user information off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All of our users' information, not just Sensitive Information, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personal information. Our employees are dedicated to ensuring the security and privacy of all RemodelInstantly user information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your personal information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
+**How We Protect Your Personal Information**
 
-**Changes to Privacy Policy**
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Please refer to the Federal Trade Commission's website at [http://www.ftc.gov/bcp/menus/consumer/data.shtm](http://www.ftc.gov/bcp/menus/consumer/data.shtm) for information about how to protect yourself against identity theft.
 
-We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+**Blogs, Bulletin Boards, Social Media Accounts and Chat Rooms**
 
-**Contact Us**
+We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as post comments (e.g. pictures, videos, audio files, etc.). Such postings are governed by our [Terms of Use.](http://www.improvementexperts.com/termsofuse) In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Please note that whenever you voluntarily disclose personal information on public web pages, that information will be available to the public.
 
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at info@RemodelInstantly.com.
+**Children's Privacy**
+
+Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at support@improvementexperts.com, and we will take steps to remove such information and terminate the child's account.
+
+**Visiting Our Websites from Outside the United States**
+
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated.
+
+**No Rights of Third Parties**
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy may be updated at any time to reflect changes in our practices and services. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+**How to Contact Us**
+
+If you have any questions about this Privacy Policy please contact us by e-mail at support@improvementexperts.com.
+
+**Your California Privacy Rights**
+
+If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties. California law gives you the right to send us a request at a designated address to receive the following information:
+
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is support@improvementexperts.com.
+
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  2. the names and addresses of the third parties that received that information
+  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+
+
+
+**Do Not Call Policy**
+
+Improvement Experts takes its responsibilities about customer information and customer service very seriously. Improvement Experts has adopted the following Do Not Call Policy.
+
+No employee or agent of Improvement Experts shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulation.
+
+IE maintains a record of the name and telephone number for consumers who do not wish to be called. If you don't want to receive sales calls from IE, just ask us to place your name on our Do Not Call List. We will note your request immediately, and will remove your information from active lists within 30 days.
+
+You can make your request by phone by calling 1-877-754-1290. When you make a request you must include your name, address and telephone number(s) you want to be included on our list. If your information changes, please notify us of the new name, address, and telephone number(s) in order to remain on our Do Not Call List. If you would like us to remove you from our Do Not Call List in order to receive our telephone solicitations, notify us by contacting us at the telephone number.
+
+Please note that Improvement Experts' Do Not Call Policy does not include independent third parties, so you may continue to receive calls from other companies. If you would like to add your number to the National Do Not Call List, you may call 1-888-382-1222, or visit www.donotcall.gov.
+
+Also note that being on the Improvement Experts' Do Not Call List restricts telephone solicitations only. We may still contact you about other topics.
+
+All Improvement Experts personnel involved with telemarketing and/or telephone solicitation for Improvement Experts are trained, informed, and directed to comply with Improvement Experts' Do Not Call Policy.
+
+**Thank you for your interest in our Privacy and Do Not Call Policies.**
