@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the skytap.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910005008id_/http%3A//www.skytap.com/%3Fp%3D10146) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skytap.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105041604id_/https%3A//www.skytap.com%3Fp%3D10146) for the most accurate reproduction.*
 
-# Privacy Policy - Skytap
+# Privacy Policy | Skytap
 
 **Skytap, Inc. Privacy Policy**
 
-_May 6, 2015_
+_March 7, 2016_
 
 Skytap considers your privacy paramount, and we take great care in keeping the information of our users private and secure. This Privacy Policy describes our policies and procedures regarding the information that we collect when you use our services and website (the “Services”), as well as how we use, disclose, protect and share your information. This Privacy Policy does not apply to third party services that are not under Skytap’s control; those parties’ services are governed by their own privacy policies. By using the Services, you acknowledge and consent to the collection, processing and disclosure of information as described in this Privacy Policy.
-
-Skytap complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Skytap has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Skytap’s certification, please visit http://www.export.gov/safeharbor/.
 
 **Personal Information**
 
@@ -67,9 +65,9 @@ In the event that Personal Information is acquired by an unauthorized person and
 
 Skytap provides you with choices about the use and disclosure of the Personal Information for marketing purposes. You may opt out of the following:
 
-  * **Receiving electronic communications from us:** If you do not wish to receive promotional emails from us, you may use the unsubscribe option contained in our emails.
-  * **Our sharing of your Personal Information with our affiliates:** If you do not wish that we share your Personal Information with our affiliates for their direct marketing purposes, you may opt out by contacting us at [unsubscribe@skytap.com](mailto:unsubscribe@skytap.com).
-  * **Access to Personal Information:** You may update your Personal Information by editing your user information in the Services. If your personal information changes, or if you no longer desire information about our Service, you may have your Personal Information updated or removed from our records by emailing [unsubscribe@skytap.com](mailto:unsubscribe@skytap.com)or by contacting us by telephone or postal mail at the contact information listed below.
+  * **Receiving electronic communications from us:  **If you do not wish to receive promotional emails from us, you may use the unsubscribe option contained in our emails.
+  * **Our sharing of your Personal Information with our affiliates:  **If you do not wish that we share your Personal Information with our affiliates for their direct marketing purposes, you may opt out by contacting us at [unsubscribe@skytap.com](mailto:unsubscribe@skytap.com).
+  * **Access to Personal Information:  **You may update your Personal Information by editing your user information in the Services. If your personal information changes, or if you no longer desire information about our Service, you may have your Personal Information updated or removed from our records by emailing [unsubscribe@skytap.com](mailto:unsubscribe@skytap.com)or by contacting us by telephone or postal mail at the contact information listed below.
 
 
 
@@ -77,11 +75,11 @@ Skytap will attempt to comply with your request(s) as soon as reasonably practic
 
 Collection and processing of Personal Information is based on your consent given by accessing and using the Services. However, you may at any time exercise your right to have incomplete, incorrect, unnecessary or outdated Personal Information deleted or updated by contacting Skytap. Please note that by requesting Skytap to delete your Personal Information, we may not be able to provide you the Services you have inquired about or ordered.
 
-**Safe Harbor Enforcement and Dispute Resolution**
+**EU Privacy Directive and Dispute Resolution**
 
-If you have any questions or concerns regarding this Privacy Policy or compliance with the Safe Harbor Principles, please contact us by email at [privacy@skytap.com](mailto:privacy@skytap.com?subject=Safe%20Harbor%20Dispute%20Resolution), or please write to the address listed below in the Contacting Skytap section, and we will investigate and attempt to resolve those questions or concerns in accordance with the Safe Harbor Principles.
+If you have any questions or concerns regarding this Privacy Policy or compliance with the EU Privacy Directive, please contact us by email at [privacy@skytap.com](mailto:privacy@skytap.com?subject=Safe%20Harbor%20Dispute%20Resolution), or please write to the address listed below in the Contacting Skytap section, and we will investigate and attempt to resolve those questions or concerns in accordance with the EU Privacy Directive.
 
-In the event that you have a complaint about our processing of your Personal Information under this Safe Harbor Privacy Policy that we are unable to resolve, you may contact:
+In the event that you have a complaint about our processing of your Personal Information under this Privacy Policy that we are unable to resolve, you may contact:
 
 JAMS Seattle Resolution Center  
 600 University Street  
@@ -108,7 +106,7 @@ Skytap may change, modify or update this Privacy Policy at any time. When we do,
 
 **Contacting Skytap**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [privacy@skytap.com](mailto:privacy@skytap.com).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [privacy@skytap.com](mailto:privacy@skytap.com).
 
 Written inquiries may be addressed to:
 
