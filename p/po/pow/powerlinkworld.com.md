@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlinkworld.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319073536id_/http%3A//www.powerlinkworld.com/Prvacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinkworld.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105020519id_/http%3A//www.powerlinkworld.com/Prvacy.aspx) for the most accurate reproduction.*
 
 # PowerLink - To provide global users with efficient and clean energy!
 
