@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422050137id_/http%3A//connecteddigitalworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105235158id_/http%3A//moviesgamesandtech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • Movies Games and Tech
 
 **Privacy Policy for connecteddigitalworld.com**
 
@@ -8,7 +8,7 @@ If you require any more information or have any questions about our privacy poli
 
 At connecteddigitalworld.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by connecteddigitalworld.com and how it is used.
 
- **What information do we collect?**
+**What information do we collect?**
 
 We may collect, store and use the following kinds of personal data:
 
@@ -20,15 +20,15 @@ We may collect, store and use the following kinds of personal data:
 
 (d) any other information that you choose to send to us;
 
- **Log Files**
+**Log Files**
 
 Like many other Web sites, connecteddigitalworld.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**
+**Cookies and Web Beacons**
 
 connecteddigitalworld.com may use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 Google, as a third party vendor, uses cookies to serve ads on connecteddigitalworld.com.  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to connecteddigitalworld.com and other sites on the Internet.  
@@ -47,7 +47,7 @@ If you would like more information about this practice and would like to know yo
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
- **Disclosures**
+**Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -63,7 +63,7 @@ In addition, we may disclose information about you:
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
- **International data transfers**
+**International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
@@ -73,7 +73,7 @@ In addition, personal information that you submit for publication on the website
 
 You expressly agree to such transfers of personal information.
 
- **Security of your personal data**
+**Security of your personal data**
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -83,23 +83,23 @@ Of course, data transmission over the internet is inherently insecure, and we ca
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
- **Policy amendments**
+**Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
- **Your rights**
+**Your rights**
 
 You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee.
 
 You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
- **Third party websites**
+**Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
- **Updating information**
+**Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
