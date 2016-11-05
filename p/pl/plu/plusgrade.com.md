@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the plusgrade.com privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103141158id_/http%3A//www.plusgrade.com/docs/pgpp-eusafeharbor.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusgrade.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105224033id_/http%3A//www.plusgrade.com/docs/pgpp-eusafeharbor.html) for the most accurate reproduction.*
 
 # Plusgrade | Privacy Policy
 
 **Plusgrade Privacy Policy**   
-Effective Date: February 15, 2012 
+Effective Date: August 1, 2015 
 
 **Introduction**
 
@@ -61,8 +61,8 @@ This Privacy Policy may be amended from time to time consistent with the require
 
 Questions, comments or complaints regarding our Privacy Policy or data collection and processing practices can be mailed or emailed to: 
 
-Plusgrade US LLC  
-39 West 38th Street, 3rd Floor - West  
+Plusgrade LP  
+16 West 36th Street, 4th Floor  
 New York, NY 10018  
 Attn: Privacy Policy  
 info@plusgrade.com
