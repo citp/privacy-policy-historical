@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cargames9.co.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531105633id_/http%3A//www.cargames9.co.uk/pages/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargames9.co.uk privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105195024id_/http%3A//www.cargames9.co.uk/pages/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Car Games
 
