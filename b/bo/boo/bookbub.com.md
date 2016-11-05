@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314161447id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105212155id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BookBub
 
