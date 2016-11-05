@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327123329id_/https%3A//www.cedarpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106002529id_/https%3A//www.cedarpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Cedar Point | Cedar Point
 
