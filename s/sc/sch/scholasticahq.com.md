@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scholasticahq.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611133630id_/http%3A//scholasticahq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholasticahq.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106064401id_/http%3A//scholasticahq.com/privacy-policy) for the most accurate reproduction.*
 
 # Scholastica: Privacy Policy
 
 ## Overview
 
-We respect the privacy of our Account holders and the privacy of their client data. All user information contained within the forms you may use or build on the Scholasticahq.com Site are governed by our [Terms of Service](https://web.archive.org/web/20160611133630id_/http%3A//scholasticahq.com/terms-of-service). Although Scholastica, LLC owns the data storage, databases and the Scholasticahq.com Site, you retain all rights to your data. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit.
+We respect the privacy of our Account holders and the privacy of their client data. All user information contained within the forms you may use or build on the Scholasticahq.com Site are governed by our [Terms of Service](https://web.archive.org/web/20161106064401id_/http%3A//scholasticahq.com/terms-of-service). Although Scholastica, LLC owns the data storage, databases and the Scholasticahq.com Site, you retain all rights to your data. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit.
 
 ## What We Collect
 
@@ -35,7 +35,7 @@ If a user accepts a reviewer invitation or editor invitation, that user's email 
 
 The information we collect is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
-  * if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/web/20160611133630id_/http%3A//scholasticahq.com/terms-of-service), or as otherwise required by law; or
+  * if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/web/20161106064401id_/http%3A//scholasticahq.com/terms-of-service), or as otherwise required by law; or
   * if Scholastica or Scholasticahq.com is acquired by or merged with another company. In this event, Scholastica will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
