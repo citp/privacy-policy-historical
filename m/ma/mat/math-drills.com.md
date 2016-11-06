@@ -1,52 +1,37 @@
-> *The following text is extracted and transformed from the math-drills.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608011902id_/http%3A//www.math-drills.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-drills.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106110228id_/http%3A//www.math-drills.com/privacy.php) for the most accurate reproduction.*
 
 # Math-Drills.Com Privacy and Cookies Policy
 
-## Privacy and Cookies Policy for Math-Drills.com
+This privacy policy document outlines the types of personal information received and collected by Math-Drills.com and how it is used.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@Math-Drills.com](mailto:admin@Math-Drills.com)
+What? Math Drills.com and its partners set cookies on your computer or device as you access the website. This is done by almost all websites and should not be a surprise nor should it cause you too much concern. Math-Drills.com has far fewer privacy implications than most websites. We don't think it is appropriate for everyone and their dog to know about your browsing habits, so we have taken steps to minimize the ability of third parties to track you, and there are steps you can take to further minimize how you are tracked.
 
-At Math-Drills.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by Math-Drills.com and how it is used.
+Why do we need to track our visitors at all? Math-Drills.com tracks our visitors for two specific purposes: 1. to gain insight into how the website is used and 2. to comply with requirements of our advertising partners. Our third party partners track our visitors for their own purposes which you can read about further down this page.
 
-### Log Files
+Math-Drills.com keeps track of its visitors using server access logs. The information inside the server access logs includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks. We use this information to analyze trends, administer the site, track user's movement around the site, and gather demographic information. We do not share this information with any third parties other than in the most general sense. For example, we might tell someone how many visitors we had on a certain day.
 
-Like many other Web sites, Math-Drills.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Math-Drills.com may set cookies on your computer for various reasons, none of which are nefarious. To find any cookies set by Math-Drills.com, you should look for cookies from "math-drills.com" using the view cookies functionality in your browser.
 
-### Collection of Email Addresses
+Math-Drills.com collects email addresses and names through a double-opt-in process. You do not need to supply your email address to access our website, only if you wish to receive email news and updates from us. An unsubscribe link is available in every email that we send.
 
-Math-Drills collects email addresses through a double-opt-in process using the MailChimp service. You do not need to supply your email address to access our website, only if you wish to receive email news and updates from us. Math-Drills and MailChimp take your privacy seriously and keep your email private and secure. You can read more about the [MailChimp privacy policy](http://mailchimp.com/legal/privacy/) by visiting their website.
+Math-Drills.com provides links to external websites. There are links to various external websites from Math-Drills.com pages including social media websites, Amazon websites, advertising partner websites, advertisers, and websites provided to users for more information. These external websites have their own privacy and cookie policies. We recognize that there are serious privacy concerns with certain websites, such as Facebook, but we provide links to them anyway as large numbers of visitors already use such sites and have agreed to their terms.
 
-### Cookies and Web Beacons
+No Social Media. Although you will see social media buttons on the website, these are simple links and have no third party involvement unless you click/tap on one of those links.
 
-Math-Drills.com uses first party cookies in the Sudoku game located at [www.math-drills.com/sudoku.shtml](http://www.math-drills.com/sudoku.shtml). The cookies for the Sudoku game are necessary for the game play to function correctly and are named sodudifficulty, sudocode0, sudomax, and sudogame. No other first party cookies are used.
+No Third Party Analytics Code. Most websites include third party code, such as Google Analytics, to track your use of a website. We have decided not to use such tracking code since it serves very little purpose to us, slows down your navigation of the website, and has privacy implications.
 
-Third party cookies may be placed on your computer by third party websites that we have integrated into Math-Drills.com such as (but not limited to) Google Analytics, Doubleclick, Media.net, Facebook, Google+ and Google Adsense. In addition, we have links to third party websites that may place cookies on your computer and have separate privacy policies. These include, but are not limited to, Lockerz Share, Pinterest, Facebook, Twitter, Blogger and Google Plus. [Google Analytics Cookies](http://helpful.knobs-dials.com/index.php/Utma,_utmb,_utmz_cookies) include _utma, _utmb, and _utmz cookies (and may include other cookies with the pattern _utm*). Google Adsense/Doubleclick may place _gads and __ar_v4 cookies on your computer.
+No Bloat. We try very hard to have an extremely fast loading website without the bloat of many other websites. This means we don't force you to load any unnecessary scripts such as jquery. This also means that we have fewer privacy impacts since we rely on our own website code.
 
-"When a user clicks a Follow button, Google receives information including the URL of the page/profile/community followed, information about the user's Google profile, the user's IP address, and other browser-related information." (from Google)
+Math-Drills uses Google Adsense and Media.net to serve ads to visitors. These services may set a wide variety of cookies on your computer. If you are not interested in having those cookies set on your computer, you can disable third party cookies in your browser. You will most likely still see advertisements on the website, but tracking cookies from those advertisements will not be set. Adsense and Media.net may set a math-drills.com cookie even if you have third party cookies disabled in your browser. This cookie may look like it came from math-drills.com, but it was set by a third party.
 
-You can read more about Media.net's ad preferences [here](http://www.media.net/adchoices).
+Third party vendors, including Google and Media.net, use cookies to serve ads based on your prior visits to Math-Drills.com. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to Math-Drills.com and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ads Settings](http://www.google.com/ads/preferences/)
 
-Your continued use of the Math-Drills.com website implies that you consent to first and third party cookies being placed on your computer; or you have taken measures to disallow cookies from being placed on your computer through your browser settings or by other means.
+Consult the respective privacy policies of our third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Math-Drills.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Some of our advertising partners may use cookies and web beacons on our website. Our advertising partners include:
+Read more about [Google's Privacy Policy](http://www.google.com/policies/privacy/) and [Google's Advertising Privacy](http://www.google.com/privacy/ads/)
 
-  * Google Adsense and Doubleclick: [Privacy Policy](http://www.google.com/policies/privacy/) and [Google Advertising Privacy FAQ](http://www.google.com/privacy/ads/)
-  * Media.net (Yahoo! Bing Network): [Ad Preferences](http://www.media.net/adchoices) and [Privacy Policy](http://www.media.net/privacy-policy)
+Read more about [Media.net's Ad Preferences](http://www.media.net/adchoices) and [Media.net's Privacy Policy](http://www.media.net/privacy-policy)
 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us using our [Feedback Page](https://web.archive.org/feedback.php)
 
-
-These third-party ad servers or ad networks use technology for the advertisements and links that appear on Math-Drills.com and send them directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
-
-Math-Drills.com has no access to nor control over the cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Math-Drills.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-### DoubleClick DART Cookie
-
-  * Google, as a third party vendor, uses cookies to serve ads on www.Math-Drills.com.
-  * Google's use of the DART cookie enables it to serve ads to our users based on their visit(s) to Math-Drills.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie. You can find out more by visiting the [Google Advertising Privacy FAQ](http://www.google.com/privacy/ads/).
-
-
+The best way to protect your privacy on the internet is not to use the internet!
