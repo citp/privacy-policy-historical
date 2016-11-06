@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaretrainingtutorials.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313213940id_/http%3A//www.softwaretrainingtutorials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaretrainingtutorials.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106152054id_/http%3A//softwaretrainingtutorials.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Marrutt Software Training
 
@@ -17,4 +17,4 @@ We use cookies to record session information, such as items that consumers add t
 
 We do not partner with or have special relationships with any ad server companies.
 
-If you have any additional questions about our dedication to consumer privacy, please [contact us](https://web.archive.org/web/20160313213940id_/http%3A//www.softwaretrainingtutorials.com/contact-us.php). 
+If you have any additional questions about our dedication to consumer privacy, please [contact us](https://web.archive.org/web/20161106152054id_/http%3A//softwaretrainingtutorials.com/contact-us.php). 
