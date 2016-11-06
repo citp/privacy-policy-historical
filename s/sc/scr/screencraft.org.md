@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508064728id_/https%3A//screencraft.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106213314id_/https%3A//screencraft.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScreenCraft
 
 #### Security
 
-We at ScreenCraft respect your privacy and we will not sell or share your contact information with any third party without your consent. We collect information from you when you register and use our site, when you submit a screenplay for a contest, and when you purchase something.
+We at ScreenCraft respect your privacy. We collect information from you when you register and use our site, when you submit a screenplay for a contest, and when you purchase something.
 
 Information that we collect may be used to make our website better. We continually endeavor to improve our sit based on the user data that we receive from you.
 
@@ -12,7 +12,7 @@ Information that we collect may be used to personalize your experience.
 
 Information that we collect may be used to improve your customer service.
 
-The email address you provide may be used to send you occasional inspiring quotes or stories, company updates, related products or services, etc. You may unsubscribe at any time.
+The email address you provide may be used to send you occasional screenwriting articles, inspiring quotes or stories, company updates, related products or services, etc. You may unsubscribe at any time.
 
 We reserve the right to use cookies. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We may use cookies to help us understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
