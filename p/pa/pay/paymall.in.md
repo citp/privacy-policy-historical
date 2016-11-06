@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymall.in privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528033035id_/http%3A//paymall.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymall.in privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106052152id_/http%3A//paymall.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile recharge | All Bill Payments In One Place
 
