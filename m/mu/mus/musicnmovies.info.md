@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnmovies.info privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731105337id_/http%3A//www.bollytalkies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnmovies.info privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106191858id_/http%3A//www.bollytalkies.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy Bollywood Movies Anytime, Anywhere on Any Device
 
