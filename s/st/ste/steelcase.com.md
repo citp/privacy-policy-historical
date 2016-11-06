@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607022310id_/http%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106123339id_/https%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Steelcase
+# Privacy Policy - Steelcase
 
 _Last revised and updated:  March 4, 2015_
 
