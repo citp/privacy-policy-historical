@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mishtalk.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408055550id_/http%3A//mishtalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mishtalk.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106211233id_/https%3A//mishtalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Mish’s Privacy Policy | MishTalk
 
-Mish’s privacy policy pertains to all websites created or run by Mike “Mish” Shedlock” including but not limited to <http://mishtalk.com/> and its predecessor <http://globaleconomicanalysis.blogspot.com/>.
+Mish’s privacy policy pertains to all websites created or run by Mike “Mish” Shedlock” including but not limited to <https://mishtalk.com/> and its predecessor <http://globaleconomicanalysis.blogspot.com/>.
 
 The word “Mish” in any of the following paragraphs means Mike “Mish” Shedlock” or any site run by Mike “Mish” Shedlock”.  
 The words “we” or “our” in any of the following paragraphs, means Mish or anyone designated by Mish to act on behalf of Mish.
