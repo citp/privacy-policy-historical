@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412120149id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106175410id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birchbox
 
@@ -99,7 +99,7 @@ Birchbox Inc
 11th Floor  
 New York, NY 10016  
 (877) 487-7272  
-[info@birchbox.com](https://web.archive.org/web/20160412120149id_/https%3A//www.birchbox.com/about/info@birchbox.com)
+[info@birchbox.com](https://web.archive.org/web/20161106175410id_/https%3A//www.birchbox.com/about/info@birchbox.com)
 
 #### United States of America
 
