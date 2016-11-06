@@ -1,0 +1,140 @@
+<!--The following is the downloaded HTML source of the 96degree.com privacy policy that was archived on 2016-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161106072036id_/https%3A//www.96degree.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="https://embed.tawk.to/57877f9951020a1a24891fd2/default" charset="UTF-8" crossorigin="*"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta name="description" content="WWW.96DEGREE.COM is an open social trading network connecting Forex traders and brokers worldwide.">
+<meta name="keywords" content="forex, trading, social, network, currency, meta trader, mt4">
+<link rel="shortcut icon" href="/favicon_bg.ico" type="image/x-icon">
+<link rel="icon" href="/favicon_bg.ico" type="image/x-icon">
+<title>Privacy Policy</title>
+<link href="https://www.96degree.com/css/mini-common.php" rel="stylesheet" type="text/css">
+<link href="https://www.96degree.com/css/mini.php?f=,login" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<script type="text/javascript"> var base_url = "https://www.96degree.com/"; </script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.96degree.com/js/jquery-ui-1.9.2.custom.min.js"></script>
+<script type="text/javascript" src="https://www.96degree.com/js/mini-common.php"></script>
+<!--[if lte IE 8]><script type="text/javascript" src="https://www.96degree.com/js/standard.ie.js"></script><![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-81636150-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class="">
+<input type="hidden" name="lastTime" id="lastTime" value="1478416839" autocomplete="off">
+<div class="navbar">
+    <div class="container_30 clearfix">
+        <div class="grid_30">
+            <a class="logo" href="https://www.96degree.com/" style="margin-top: 5px"><img src="https://www.96degree.com/images/logo.png"></a>
+            <ul class="nav-btns">
+				                <li><a class="" href="https://www.96degree.com/" title="What is WWW.96DEGREE.COM">About</a></li>
+                <li><a class="" href="https://www.96degree.com/traders" title="Traders">Traders</a></li>
+                <li><a class="" href="https://www.96degree.com/help" title="Help and FAQs">Help</a></li>
+                <li><a class="" href="https://www.96degree.com/contact" title="Contact">Contact</a></li>
+                            </ul>
+           
+            <ul id="nav-items">    
+                                    <li class="form" style="margin-top:-2px">
+	                    <input id="login_username" name="login_username" class="bold" type="text" placeholder="Email or Username">
+                    </li>
+                    <li class="form spaced" style="margin-top:-2px">
+	                    <input id="login_password" name="login_password" class="bold" type="password" placeholder="Password">
+                    </li>                    
+                    <li style="margin-top:-3px">
+	                    <button id="login_button" class="btn">Log In</button>
+                    </li>
+                    <li>
+                        <span style="color: #EEE; font-size: 13px; padding: 8px 5px; top: 4px; position: relative;">or</span>
+                    </li>
+                    <li style="margin-top:-3px">
+                        <button id="nav-register" class="btn">Register</button>
+                    </li>
+                            </ul>
+        
+        </div>
+    </div>
+</div>
+
+<div id="loader" class="align-center" style="display:none; height:10px; width:100%; padding:10px; position:fixed; top:50px;"><img src="https://www.96degree.com/images/loaders/30.gif" width="82" height="10"></div><div id="content" class="container_24 clearfix">
+    <div class="grid_16 prefix_4 suffix_4">
+      <h1>Privacy Policy</h1>
+<br>
+<h2>Introduction</h2>
+<p>WWW.96DEGREE.COM provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.fxjunction.com ("Site"). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.</p>
+<p>By providing us with such information, you are giving us your consent to collect, use and store the information in the manner explained hereto.</p>
+<h2>What Information We Collect</h2>
+<p>Personally Identifiable Information - When you browse the non-password protected portions of our Site, you do so anonymously; no personally identifiable information is collected. When you sign up to become a registered user of WWW.96DEGREE.COM, we request that you provide to us your email address, a username and a password to access our Site. You may also choose to supply trading information (e.g., how long you have been trading, your preferred trading style, etc.) and a profile description. Once you register with WWW.96DEGREE.COM and sign in to our Site, you are not anonymous to us. </p>
+<p>As a registered user, you may provide WWW.96DEGREE.COM with the credentials to access your brokerage account (i.e. user ID, password, information necessary to access your account). We will never access your accounts for any other purpose than to retrieve your trading data and provide the services as you have requested. You can de-activate your account for any reason at any time and we will delete all of your personally identifiable information from our servers. We will not keep a copy of your personally identifiable information for any purposes upon account deactivation except as may be required by law or to otherwise protect legal rights.</p>
+<h2>Technical Information &amp; Data Security</h2>
+<p>When you visit our Site, we may collect information through cookies or other similar Web tools to enhance the user experience. Cookies are small strings of text that are sent by our Site to your browser on your computer hard drive. Cookies enable us to recognize you when you return to our Site, to maintain your Web session while you browse throughout the Site, as well as help us provide you with a better, more personalized experience. Our cookies are not tied to personally identifiable information. Most web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies. However, rejecting cookies may prevent you from taking advantage of certain portions of our Site.</p>
+<p>In addition, when you are browsing our Site, WWW.96DEGREE.COM automatically receives and records information on our server logs from your browser including your IP address, WWW.96DEGREE.COM cookie information and the pages you request. We use this information to improve the functionality and usability of our services. Our log files are not tied to personally identifiable information.</p>
+<p>We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction.</p>
+<h2>How We Use The Information We Collect</h2>
+<p>Customer Service - Based upon the personally identifiable information you provide us during the registration process, we will send you a welcoming email to verify your account. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. </p>
+<p>Brokerage Information - As a registered user of our Site, you may provide to us the credentials to access your brokerage account to retrieve your trading data. This information is only used to obtain trading history for your account and this information and is not accessible anywhere on our Site.</p>
+<p>We will not publish any personally identifiable information (e.g. name, email address or contact information) on our Site for others to view, without your permission, unless you choose to post it yourself on the Site.</p>
+<p>We May Provide Your Information If Legally Required</p>
+<p>WWW.96DEGREE.COM may be required to provide your information under the following circumstances: in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against actual or threatened legal claims. In addition when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities or activities which we believe give rise to legal liability to us, our members or third parties, suspected fraud, situations involving potential threats to the physical safety of any person, violations of WWW.96DEGREE.COM terms of use, or as otherwise required by law.</p>
+<h2>Children</h2>
+<p>In compliance with the Children Online Privacy Protection Act, 15 U.S.C. § 6501-06 and 16 C.F.R. § 1.1-1.1, our Site does not permit children under 18 years of age to become users, and we do not collect information from children. By using our Site, you represent that you are not under 18 years of age.</p>
+<h2>Social Networks</h2>
+<p>Social networks are on-line groups, networks or communities of people who share some common element(s) such as a particular interest, and are interested in exploring and discussing such interests with others on the Internet. Social networking involves the on-line interaction of its members via multiple and various electronic formats, such as chat, messaging, email, video, voice chat, file sharing, blogging, discussion groups and so on.</p>
+<p>A social network provides its members with many features, such as the ability to create and view profiles of other members who share commonalities. A social network also allows members to create personal profiles, potentially with fairly detailed information, as well as allow its members to engage in activities such as create personal blogs, share personal information and other applications that allow its members to help them to connect with other network members.</p>
+<h2>Risks</h2>
+<p>Social networks are not without their risks, which are no different than any other on-line activity. With public spaces, or even within a closed social network community, the services can be used by anyone. There are risks as one does not truly know who the other members of the social network are. WWW.96DEGREE.COM has no control over what third parties with access to your information may do with it. For example, you may post certain personal information, but another member copies and publishes it.</p>
+<p>When using social networks, you should take caution when posting your personal information as well as carefully consider the information you get from the social network. You should take care in trusting the information posted in a social network as it may be difficult to prevent members or the public at large from posting false or misleading information, including information in their personal profiles. Although WWW.96DEGREE.COM takes reasonable steps to regularly monitor the content of its site to identify and remove any misleading or otherwise fraudulent posts, and may ban a member for egregious or repeat violations, there is no assurance that we will detect all misleading or fraudulent posts, and members should not rely upon or assume the accuracy of information posted by other members and should make their own independent trading decisions.</p>
+<p>In addition, be careful with personal information. Once you have posted your personal information to the Internet, you have lost control over who will see it and how it will be used. Information you post or as contained in your profile can easily be copied and shared with thousands of others at the press of a button. In addition, when posting other materials, such as photos, you should take precaution as such information or pictures can be altered or distorted.</p>
+<p>There is the potential for risk in using the WWW.96DEGREE.COM services stemming from the illegal or improper use of the social network by third parties who might, for example, post misleading information in an attempt to improperly influence trading decisions or find ways to copy and aggregate member profiles, collect personal financial information or copy personal content and use it for their own purposes.</p>
+<h2>Conclusion</h2>
+<p>If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please <a href="/contact">contact us here</a></p>	</div>
+</div>	<div class="mt25 align-center"></div>
+<div id="footer">
+    <div class="container_30 clearfix">
+        <div class="grid_15"> 
+        	<p class="small">Copyright © WWW.96DEGREE.COM · All Rights Reserved</p>
+        </div>    
+        <div class="grid_15 links">
+               <a href="https://www.96degree.com/contact">Contact</a>
+               <a href="https://www.96degree.com/about">About</a>
+			   <a href="https://www.96degree.com/contact?subject=advertise">Advertise</a>
+			  <!-- <a href="https://www.96degree.com/whitelabel">Whitelabel</a> -->
+               <a href="https://www.96degree.com/help">Help</a>
+               <a href="https://www.96degree.com/legal/privacy">Privacy</a>
+               <a href="https://www.96degree.com/legal/terms_of_use">Terms</a>
+               <a href="https://www.96degree.com/legal/risk_warning">Risk Warning</a>
+        </div>
+        <div class="grid_30 mt25">
+        	<p></p><p>Disclaimer : Trading foreign exchange on margin carries high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange you should carefully consider your monetary objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your deposited funds and therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent adviser if you have any doubts. Past returns are not indicative of future results. </p><p></p>
+        </div>
+    </div>
+</div><!-- End Footer Div -->
+
+<!-- Sitewide Stuff -->
+
+<div id="acOrderForm"></div>
+<div id="order_dialog" title="Send Order Request"></div>
+<div id="message_dialog" title="Compose Message"></div>  <script type="text/javascript" src="https://www.96degree.com/js/mini.php?f=,login"></script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/57877f9951020a1a24891fd2/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9e885f89ee","applicationID":"17507729","transactionName":"bl0ENksFDUcEVERRDFcXJwFNDQxaSntVXwJVFxYQUBICVxw=","queueTime":0,"applicationTime":10,"atts":"QhoHQAMfHkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
