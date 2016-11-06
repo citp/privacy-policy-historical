@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothing-dropship.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315020909id_/http%3A//www.clothing-dropship.com/privacy-policy-a614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothing-dropship.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106122358id_/http%3A//www.clothing-dropship.com/privacy-policy-a614.html) for the most accurate reproduction.*
 
 # Wholesale article
 
