@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getintravel.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506063403id_/http%3A//www.getintravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getintravel.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106160020id_/http%3A//www.getintravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Getintravel.com
 
