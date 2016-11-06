@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the memeo.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103041id_/http%3A//memeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memeo.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106093654id_/http%3A//memeo.com/memeo-root/privacy) for the most accurate reproduction.*
 
-# Memeo - A Division of UNICOM Global :: Privacy
-
-## Privacy Policy
+# Memeo :: Privacy
 
 This privacy statement describes how Memeo Inc. collects and uses the personal information you provide on our Web sites: www.memeo.com, me.memeo.com, share.memeo.com, memeosend.com, memeoconnect.com or c1.memeo.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -11,13 +9,11 @@ If you have questions or concerns regarding this statement, you should first con
 Email: [privacy@memeo-inc.com](mailto:privacy@memeo-inc.com)
 
 Postal: Memeo Inc. Attn: Privacy  
-469 El Camino Real, Suite 201   
-Santa Clara, CA 95050  
+2105 S. Bascom Ave, Suite 220  
+Campbell, CA 95008  
 USA
 
-Telephone: +1.408.834.7168
-
-## Collection and Use of Personal Information
+## COLLECTION AND USE OF PERSONAL INFORMATION
 
 We collect the following personal information from you:
 
@@ -54,7 +50,7 @@ We enable you to create a profile, and share information such as messages, photo
 
 If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-## Information Sharing
+## INFORMATION SHARING
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
@@ -69,7 +65,7 @@ We may also disclose your personal information:
 
 
 
-## Cookies and Other Tracking Technologies
+## COOKIES AND OTHER TRACKING TECHNOLOGIES
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
@@ -89,13 +85,13 @@ Some pages may have the look and feel of being on [www.memeo.com](http://www.me
 
 Our privacy statement does not apply to the information collected on these co-branded sites. For further detail, you should read the privacy statement of our co-branded partner.
 
-## Security
+## SECURITY
 
 When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [security@memeo-inc.com.](mailto:security@memeo-inc.com)
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
-## Additional Policy Information
+## ADDITIONAL POLICY INFORMATION
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
@@ -113,13 +109,13 @@ If your personally identifiable information changes, or if you no longer desire 
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## Contact Information
+## CONTACT INFORMATION
 
 You can contact us by writing or email us at the address below:
 
-Memeo Inc. Attn: Privacy  
-469 El Camino Real, Suite 201   
-Santa Clara, CA 95050  
+Postal: Memeo Inc. Attn: Privacy  
+2105 S. Bascom Ave, Suite 220  
+Campbell, CA 95008  
 USA
 
 Email: [privacy@memeo-inc.com](mailto:privacy@memeo-inc.com)
