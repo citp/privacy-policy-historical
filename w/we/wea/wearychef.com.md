@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wearychef.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508095915id_/http%3A//wearychef.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearychef.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106151520id_/http%3A//wearychef.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
 
-# Disclosures and Privacy Policy
+# Disclosures and Privacy Policy - The Weary Chef
 
-The Weary Chef is a labor of love, but it takes a tremendous amount of time and effort. I spend MANY hours each week researching and developing recipes, cooking, taking and editing photos, writing, marketing, and maintaining my site. In order to earn (a little) income for all that hard work, I sometimes accept compensation for sponsored posts, links, and advertisements to share here. I am quite choosy about what I will promote and only recommend products or brands that I would feel proud to recommend to friends. (We’re all friends here, right?) I try hard to make any sponsored posts just as genuine and valuable to my readers as any other content I write, and I hope you agree.
+The Weary Chef is a labor of love, but it takes a tremendous amount of time and effort. I spend MANY hours each week researching and developing recipes, cooking, taking and editing photos, writing, marketing, and maintaining my site. In order to earn income for all that work, I sometimes accept compensation for sponsored posts, links, and advertisements to share here. I am quite choosy about what I will promote and only recommend products or brands that I would feel proud to recommend to friends. (We’re all friends here, right?) I try hard to make any sponsored posts just as genuine and valuable to my readers as any other content I write, and I hope you agree.
 
 ### Privacy Policy
 
