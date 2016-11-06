@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submityoursite.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607005302id_/http%3A//www.submityoursite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submityoursite.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106022359id_/http%3A//www.submityoursite.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Submit Your Site : Privacy Policy
 
