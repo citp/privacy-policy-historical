@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechanswer.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404053232id_/http%3A//thetechanswer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechanswer.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106134345id_/http%3A//thetechanswer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tech Answer
 
