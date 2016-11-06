@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehypefactor.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331051415id_/http%3A//thehypefactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehypefactor.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106125527id_/http%3A//thehypefactor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Hype Factor //
+# Privacy Policy - The Hype Factor
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at thehypefactor@gmail.com.
 
