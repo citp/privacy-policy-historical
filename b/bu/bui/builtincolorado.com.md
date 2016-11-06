@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtincolorado.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324225842id_/http%3A//www.builtincolorado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtincolorado.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106142227id_/http%3A//www.builtincolorado.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In Colorado
 
