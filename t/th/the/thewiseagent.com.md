@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528072414id_/https%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106073514id_/http%3A//thewiseagent.com/privacy.asp) for the most accurate reproduction.*
 
 # Wise Agent -Terms Of Servic
 
