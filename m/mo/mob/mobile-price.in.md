@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mobile-price.in privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526001557id_/http%3A//www.mobile-price.in/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-price.in privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106215625id_/http%3A//www.mobile-price.in/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
 **Disclaimer:**
 
-****The contents of this Website are based on information generally available to the public from sources believed to be reliable. No representation is made that it is timely, accurate or complete. We have taken due care and caution in compilation of data as this has been obtained from various sources including which it considers reliable and first hand. However, we do not guarantee the accuracy, adequacy or completeness of any information and it is not responsible for any errors or omissions or for the results obtained from the use of such information and especially states that it has no financial liability whatsoever to the subscribers / users of this report. The information herein, together with all estimates and forecasts, can change without notice.
+ ****The contents of this Website are based on information generally available to the public from sources believed to be reliable. No representation is made that it is timely, accurate or complete. We have taken due care and caution in compilation of data as this has been obtained from various sources including which it considers reliable and first hand. However, we do not guarantee the accuracy, adequacy or completeness of any information and it is not responsible for any errors or omissions or for the results obtained from the use of such information and especially states that it has no financial liability whatsoever to the subscribers / users of this report. The information herein, together with all estimates and forecasts, can change without notice.
 
 This report does not purport to be a solicitation of any advice pertaining to trade and business and readers are advised to consult experts or study / evaluate individual business prospectus and other relevant legal documents before taking any decisions based on information provided in the site. We do not accept responsibility for any financial consequences arising from the use of the research or information provided herein.
 
-**Privacy Policy:**
+ **Privacy Policy:**
 
 we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit mobile-price.in, and how we safeguard your information.  
 We never sell your personal information to third parties.  
