@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshwallpapers.in privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523025806id_/http%3A//freshwallpapers.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwallpapers.in privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107001859id_/http%3A//freshwallpapers.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
