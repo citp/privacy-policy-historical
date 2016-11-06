@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424160624id_/https%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106040036id_/https%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.*
 
 # CatchOfTheDay.com.au | Privacy Policy
 
@@ -88,7 +88,7 @@ We take steps to protect the personal information we hold against loss, unauthor
 
 **5.2** Information we hold about you can be accessed by logging into your account on the website and checking the information in the My Account page. You should ensure the information, such as delivery address and email, is up to date and accurate. You can find more information about the information held in your account here. 
 
-**5.3** Subject to the exceptions of APP 12.3, you may make a request to receive any additional information we may hold about you, and we will provide this information to you within a reasonable time. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our [Help Centre](https://www.catchoftheday.com.au/helpcentre) or by writing to us at: Privacy Inquiries c/o Legal Department, Catch Group, 767 Springvale Road, Mulgrave, Victoria 3170. 
+**5.3** Subject to the exceptions of APP 12.3, you may make a request to receive any additional information we may hold about you, and we will provide this information to you within a reasonable time. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our [Help Centre](https://www.catchoftheday.com.au/helpcentre). 
 
 **5.4** We take steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.3 above. 
 
