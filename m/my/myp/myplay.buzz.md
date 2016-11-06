@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplay.buzz privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601055115id_/http%3A//www.myplay.buzz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplay.buzz privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106110610id_/http%3A//myplay.buzz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyPlay.Buzz
 
