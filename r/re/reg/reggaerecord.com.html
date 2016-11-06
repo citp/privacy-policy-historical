@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reggaerecord.com privacy policy that was archived on 2016-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160420132936id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reggaerecord.com privacy policy that was archived on 2016-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161106191636id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,15 +9,12 @@
 <link rel="stylesheet" href="/en/css/dubst.css" type="text/css">
 <title>Help - ReggaeRecord.com</title>
 <script language="javascript" type="text/javascript">
-<!--
 depth_fix = "../";
--->
 </script>
 <script language="javascript" src="/js/jsCart.js" type="text/javascript">
 </script>
 <script language="javascript" type="text/javascript">
-<!--
-var myCart = new jsCart(99, 'US$', 109.0833);
+var myCart = new jsCart(99, 'US$', 103.106999);
 var last_selected_nd = "";
 var last_nd_backup = "";
 
@@ -43,7 +40,7 @@ function showSearchForm() {
 	$('multi_search').style.display = "block";
 	$('simple_search').style.display = "none";
 	//$('multi_search_form').artist.focus();
-	document.cookie = "multi_search_form=open; path=/; expires=Tue, 1-Jan-2030 00:00:00 GMT;";
+	document.cookie = "multi_search_form=open; path=/;";
 	/*if (!search_form_loaded) {
 		new Ajax.Updater
 		(
@@ -63,7 +60,7 @@ function hideSearchForm() {
 	$('multi_search').style.display = "none";
 	$('simple_search').style.display = "block";
 	//$('simple_search_form').keyword.focus();
-	document.cookie = "multi_search_form=closed; path=/; expires=Tue, 1-Jan-2030 00:00:00 GMT;";
+	document.cookie = "multi_search_form=closed; path=/;";
 	//if ($("requery_button") != null) $("requery_button").style.display = "none";
 }
 
@@ -99,7 +96,7 @@ function addToWishList(code) {
 	}
 	if (confirmed) {
 		myCart.setAmount(code, 0);
-		location.href='/en/help/privacy.php?code=' + code + '&command=addToWishList&cart_key=35228240';
+		location.href='/en/help/privacy.php?code=' + code + '&command=addToWishList&cart_key=97415639';
 	}
 }
 
@@ -116,7 +113,7 @@ function addToWantList(code) {
 	}
 	if (confirmed) {
 		myCart.setAmount(code, 2);
-		location.href='/en/help/privacy.php?code=' + code + '&command=addToWantList&cart_key=35228240';
+		location.href='/en/help/privacy.php?code=' + code + '&command=addToWantList&cart_key=97415639';
 	}
 }
 
@@ -126,15 +123,15 @@ function numberFormat(val, digits_sub_one) {
 	value = String(val);
 	if (Math.floor(value) != value) {
 		sub_one_part = value - Math.floor(value);
-		sub_one_part = 
+		sub_one_part =
 		(
 			String
 			(
 				Math.floor
 				(
-					sub_one_part * 
+					sub_one_part *
 					Math.pow(10, digits_sub_one) + .5
-				) / 
+				) /
 				Math.pow
 				(
 					10,
@@ -149,22 +146,16 @@ function numberFormat(val, digits_sub_one) {
 	}
 	return value + sub_one_part;
 }
-
--->
 </script>
 <script src="/js/player.js?20151208-1826" type="text/javascript">
 </script>
 <script src="/js/prototype.js" type="text/javascript">
 </script>
-<script src="/js/library.js?20151208-1826" type="text/javascript">
-</script>
-<script src="/js/jquery.bxSlider.min.js" type="text/javascript">
-	
+<script src="/js/library.js?20161003-1544" type="text/javascript">
 </script>
 <script src="/js/require.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-<!--
 require.config({
 	urlArgs: "bust=" + (new Date()).getTime(),
     baseUrl: '/',
@@ -193,14 +184,14 @@ if (Prototype.BrowserFeatures.ElementExtensions) {
     require(['jquery', 'bootstrap'], function ($) {
         // Fix incompatibilities between BootStrap and Prototype
         var disablePrototypeJS = function (method, pluginsToDisable) {
-                var handler = function (event) {  
+                var handler = function (event) {
                     event.target[method] = undefined;
                     setTimeout(function () {
                         delete event.target[method];
                     }, 0);
                 };
-                pluginsToDisable.each(function (plugin) { 
-                    $(window).on(method + '.bs.' + plugin, handler); 
+                pluginsToDisable.each(function (plugin) {
+                    $(window).on(method + '.bs.' + plugin, handler);
                 });
             },
             pluginsToDisable = ['collapse', 'dropdown', 'modal', 'tooltip', 'popover', 'tab'];
@@ -208,7 +199,14 @@ if (Prototype.BrowserFeatures.ElementExtensions) {
         disablePrototypeJS('hide', pluginsToDisable);
     });
 }
-
+/*
+require(['jquery', 'clamp'], function($) {
+	//https://github.com/ichi5/clamp/
+	$(document).ready(function() {
+		$('.clamp').clamp({ clamp : 2 });
+	});
+});
+*/
 require(['jquery', 'bootstrap'], function($) {
     $(document).ready(function () {
 		$(document).on('click', '.top_selector li a', function(e) {
@@ -264,6 +262,19 @@ require(['jquery', 'bootstrap'], function($) {
 		$(document).on('click', '#image_overlay', function(e) {
 			$('#image_overlay').css('visibility', 'hidden');
 		});
+
+		$('#form_payment_method input[name=payment_method]').on('click', function(e) {
+			var payment_method = $(e.target.form).find('[name=payment_method]:checked').val();
+			if (payment_method == '6') {
+				//$(e.target.form).find('[name=batch_shipping]').val([ 'reserve' ]);
+				$('.shipping_options').css('display', 'none');
+			} else {
+				//if ($('.shipping_options').css('display')== 'none') {
+				//	$(e.target.form).find('[name=batch_shipping]').attr('checked', false);
+				//}
+				$('.shipping_options').css('display', 'block');
+			}
+		})
 	});
 });
 
@@ -281,9 +292,7 @@ require(['jquery', 'bxslider'], function($) {
 		});
 		$('.thumbs a:first').addClass('pager-active');
 	})
-})
-
--->
+});
 </script>
 <noscript>
 <div style="width: 100%; margin-top: 20px; position:fixed !important; z-index: 9999">
@@ -315,9 +324,7 @@ This site requires JavaScript but your browser does not support JavaScript. Plea
 </td>
 <td rowspan="2">
 
-<a href="http://www.dubstore.co.jp/en/dsr.php" target="_blank">
 <img src="/common_img/dub_logo.gif" width="57" height="43" style="margin-top: 5px; margin-left: 10px" alt="Dub Store Sound Inc.">
-</a>
 
 </td>
 <td valign="top">
@@ -349,7 +356,7 @@ This site requires JavaScript but your browser does not support JavaScript. Plea
 <tbody><tr>
 <td class="txt10_bwhite" style="padding-left:4px">
 
-<form action="/en/help/privacy.php" method="post" style="margin:0px">Currency: 
+<form action="/en/help/privacy.php" method="post" style="margin:0px">Currency:
 <select name="my_currency" onchange="this.form.submit()" class="txt10">
 <option value="us_dollar" selected="selected">USD</option>
 <option value="gbp">GBP</option>
@@ -409,9 +416,6 @@ This site requires JavaScript but your browser does not support JavaScript. Plea
 <ul id="header_tabs" class="clearfix">
 
 <li role="presentation">
-<a class="cat-top" href="http://www.reggaerecord.com/en/">
-HOME</a>
-</li><li role="presentation">
 <a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/index.php">
 CATALOG</a>
 </li><li role="presentation">
@@ -427,25 +431,23 @@ New All Genre</a>
 <a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/othersnew.php">
 Others New</a>
 </li><li role="presentation">
-<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/sale.php">
-DISCOUNT</a>
-</li><li role="presentation">
 <a class="cat-content" href="http://www.reggaerecord.com/en/content/index.php">
-FEATURE</a>
+Dub Store Records</a>
 </li><li role="presentation">
 <a class="cat-rc" href="http://www.reggaecollector.com" target="_blank">
 Used/Vintage</a>
 </li><li role="presentation">
 <a class="cat-dl" href="http://www.reggaerecord.com/download/en" target="_blank">
 Downloads</a>
+</li><li role="presentation" class="active">
+<a class="cat-help" href="http://www.reggaerecord.com/en/help/btob.php">
+Wholesale</a>
 </li>
 </ul>
 
 </div>
 </div>
 
-<div id="header_stripe" style="background-color:#669900">
-</div>
 
 
 <div id="multi_search" class="search_form min_width" style="display:none;">
@@ -456,7 +458,7 @@ search_form_loaded = true;
 <div class="container" id="multi_search_inputs">
 <form name="multi_search_form" id="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
 <input type="hidden" name="search_type" value="multi">
-<input type="hidden" name="search_key" value="92515633">
+<input type="hidden" name="search_key" value="35027570">
 
 <div class="row" style="margin-bottom: 1px;">
 
@@ -498,9 +500,6 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Burro Banton</a>
-				</li>
-								<li>
-					<a href="#">Byron Lee, Dragonaires</a>
 				</li>
 								<li>
 					<a href="#">Capleton</a>
@@ -587,6 +586,9 @@ search_form_loaded = true;
 					<a href="#">Morgan Heritage</a>
 				</li>
 								<li>
+					<a href="#">Prince Alla</a>
+				</li>
+								<li>
 					<a href="#">Revolutionaries</a>
 				</li>
 								<li>
@@ -641,10 +643,10 @@ search_form_loaded = true;
 					<a href="#">ACE</a>
 				</li>
 								<li>
-					<a href="#">Ariwa</a>
+					<a href="#">All Tone</a>
 				</li>
 								<li>
-					<a href="#">Atlantic</a>
+					<a href="#">Ariwa</a>
 				</li>
 								<li>
 					<a href="#">Beverleys</a>
@@ -654,6 +656,12 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Black Art</a>
+				</li>
+								<li>
+					<a href="#">Blue Note</a>
+				</li>
+								<li>
+					<a href="#">Brazil 45s/Mr Bongo</a>
 				</li>
 								<li>
 					<a href="#">Bristol Archive</a>
@@ -668,7 +676,7 @@ search_form_loaded = true;
 					<a href="#">Collectables</a>
 				</li>
 								<li>
-					<a href="#">Cook Records/Folkways Records</a>
+					<a href="#">Daptone Records</a>
 				</li>
 								<li>
 					<a href="#">Digital B</a>
@@ -677,7 +685,7 @@ search_form_loaded = true;
 					<a href="#">Dub Store Records</a>
 				</li>
 								<li>
-					<a href="#">Dynamic</a>
+					<a href="#">Funky Delicacies</a>
 				</li>
 								<li>
 					<a href="#">Greensleeves</a>
@@ -701,19 +709,10 @@ search_form_loaded = true;
 					<a href="#">Jammys/Dub Store Records</a>
 				</li>
 								<li>
-					<a href="#">Jet Star</a>
-				</li>
-								<li>
 					<a href="#">Joe Frasier</a>
 				</li>
 								<li>
 					<a href="#">Kent</a>
-				</li>
-								<li>
-					<a href="#">Kingston Sounds/Jamaican Recordings</a>
-				</li>
-								<li>
-					<a href="#">Koyashi Haikyu</a>
 				</li>
 								<li>
 					<a href="#">Massive B</a>
@@ -731,22 +730,16 @@ search_form_loaded = true;
 					<a href="#">Mr Bongo</a>
 				</li>
 								<li>
-					<a href="#">Penthouse</a>
+					<a href="#">Norton Records</a>
 				</li>
 								<li>
 					<a href="#">Pressure Sounds</a>
-				</li>
-								<li>
-					<a href="#">Prince Jammys Dub/Dub Store Records</a>
 				</li>
 								<li>
 					<a href="#">Reggae On Top</a>
 				</li>
 								<li>
 					<a href="#">Scotch Bonnet</a>
-				</li>
-								<li>
-					<a href="#">Shocking Vibes</a>
 				</li>
 								<li>
 					<a href="#">Soul Beat</a>
@@ -761,13 +754,19 @@ search_form_loaded = true;
 					<a href="#">Studio One</a>
 				</li>
 								<li>
+					<a href="#">Studio One/Dub Store Records</a>
+				</li>
+								<li>
 					<a href="#">Tamoki Wambesi</a>
 				</li>
 								<li>
-					<a href="#">Taxi</a>
+					<a href="#">Techniques</a>
 				</li>
 								<li>
-					<a href="#">Techniques</a>
+					<a href="#">Tramp</a>
+				</li>
+								<li>
+					<a href="#">Trojan</a>
 				</li>
 								<li>
 					<a href="#">Tuff Scout</a>
@@ -783,6 +782,9 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Wackies</a>
+				</li>
+								<li>
+					<a href="#">Wax Time</a>
 				</li>
 							</ul>
 		</div>
@@ -895,10 +897,10 @@ search_form_loaded = true;
 					<a href="#">Hypocrite</a>
 				</li>
 								<li>
-					<a href="#">Joy Ride</a>
+					<a href="#">Jump Up/Kuff</a>
 				</li>
 								<li>
-					<a href="#">Jump Up/Kuff</a>
+					<a href="#">Love I Can Feel</a>
 				</li>
 								<li>
 					<a href="#">Love Is Not A Gamble</a>
@@ -1082,7 +1084,7 @@ search_form_loaded = true;
 <div class="fixed_width clearfix">
 <form name="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
 <input type="hidden" name="search_type" value="multi">
-<input type="hidden" name="search_key" value="92515633">
+<input type="hidden" name="search_key" value="35027570">
 <input type="hidden" name="artist" value="">
 <input type="hidden" name="title" value="">
 <input type="hidden" name="label" value="">
@@ -1115,7 +1117,7 @@ function hideShim() {
 <div class="col-xs-12">
 <form class="form-horizontal" role="search" name="simple_search_form" id="simple_search_form" action="/en/catalog/search.php" method="get">
 	<input type="hidden" name="search_type" value="fuzzy">
-	<input type="hidden" name="search_key" value="92515633">
+	<input type="hidden" name="search_key" value="35027570">
 
 	<div class="form-group">
 
@@ -1227,7 +1229,7 @@ Multiple words, separated by spaces, can be specified. Hit enter key to start se
 </div>
 
 
-<div id="search_bar" class="min_width">
+<div id="search_bar" class="min_width" style="display: none;">
 <div class="fixed_width">
 
 <select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=32';">
@@ -1297,12 +1299,12 @@ Multiple words, separated by spaces, can be specified. Hit enter key to start se
 <div class="fixed_width">
 <ol class="breadcrumb">
 	<li>
-		<a href="../">
-		Top		</a>
+		<a href="/en/index.php">
+			Top		</a>
 	</li>
 		<li>
-	Help	</li>
-	</ol>
+		Help		</li>
+		</ol>
 </div>
 	<div class="fixed_width legacy">
 	<table width="800px" align="center" border="0" cellspacing="0" cellpadding="0" height="100%">
@@ -1572,7 +1574,7 @@ are accepted</b></div></td>
 	<p class="footer_section_title">Vinyls &amp; CDs</p>
 	<ul class="footer_section_links">
     	<li>
-    	<a href="http://www.reggaerecord.com/en/">ReggaeRecord.com Top</a>
+    	<a href="http://www.reggaerecord.com/en/">Top</a>
     	</li>
     	<li>
     	<a href="http://www.reggaerecord.com/en/catalog/index.php">Catalog</a>
@@ -1617,7 +1619,7 @@ are accepted</b></div></td>
 		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=best_seller" target="download">Best Sellers</a>
 		</li>
 		<li>
-		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=new" target="download">Newest Releases</a>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=new" target="download">New Releases</a>
 		</li>
 		<li>
 		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=exclusive" target="download">Exclusives</a>
@@ -1626,7 +1628,7 @@ are accepted</b></div></td>
 		<a href="http://www.reggaerecord.com/download/en/item_list.php?genre_category=Others" target="download">All Genres</a>
 		</li>
 		<li>
-		<a href="http://www.reggaerecord.com/download/en/help.php#I am an artist" target="download_help">Sell Your Downloads In Our Store</a>
+		<a href="http://www.reggaerecord.com/download/en/help.php#I am an artist" target="download_help">Sell Your Music In Our Store</a>
 		</li>
 		<!-- <li><a href="/jp/ranking/index.php">DJ Charts   (later)</a></li> -->
 	<!--<li><a href="/jp/content/index.php">Special Compilations  (later)</a></li> -->
@@ -1659,7 +1661,7 @@ are accepted</b></div></td>
 		<a href="https://www.reggaerecord.com/rc/want/index.php?" target="_blank">Want List Form</a>
 		</li>
 		<li>
-		<a href="http://www.reggaecollector.com/en/info/want.php" target="_blank">Buying Your Collection</a>
+		<a href="http://www.reggaecollector.com/en/info/want.php" target="_blank">Sell Your Collection</a>
 		</li>
 		</ul>
 	</td>
@@ -1701,11 +1703,11 @@ are accepted</b></div></td>
 		<li>
 		<a href="http://www.dubstore.co.jp/en/index.php" target="_blank">Home</a>
 		</li>
+        <li>
+        <a href="http://www.dubstore.co.jp/en/dsr.php" target="_blank">Dub Store Records</a>
+        </li>
 		<li>
 		<a href="http://www.dubstore.co.jp/en/studio1.php" target="_blank">Studio One Japanese Official Agency</a>
-		</li>
-		<li>
-		<a href="http://www.dubstore.co.jp/en/dsr.php" target="_blank">Dub Store Records</a>
 		</li>
 		<li>
 		<a href="http://www.dubstore.co.jp/en/dist_sale.php" target="_blank">Wholesale</a>
@@ -1733,24 +1735,19 @@ are accepted</b></div></td>
 </tbody></table>
 
 <table class="rr-tbl-sns" style="margin-left: -4px">
-
 <tbody><tr>
-<td><g:plusone size="small" count="false"></g:plusone></td>
-<td><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=166528043423669&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/DubStoreRecords" send="false" layout="button_count" show_faces="false" action="like" font=""></fb:like></td>
+<td>
+<div class="addthis_inline_share_toolbox"></div>
+</td>
 </tr>
-
 </tbody></table>
 
-<div id="footer_bottom">
+<div id="footer_bottom" class="container_fluid">
 
-<div class="clearfix">
+<div class="row">
 
-<div style="float: right; width: 40%; text-align: right; white-space: nowrap">
-Copyright (C) DUB STORE SOUND INC.　ALL RIGHTS RESERVED.<br>
-</div>
 
-<div>
-
+<div class="col-lg-4">
 
 <a class="link" style="padding-left: 0" href="http://www.reggaerecord.com/en/help/privacy.php">
 Privacy Policy</a>
@@ -1760,10 +1757,17 @@ Notation based on the Specified Commercial Transaction Act</a>
 
 </div>
 
+<div class="col-lg-8 text-right">
+Copyright (C) DUB STORE SOUND INC.　ALL RIGHTS RESERVED.<br>
 </div>
 
-<div class="text-right">
+</div>
+
+<div class="row">
+<div class="col-lg-12 text-right">
 &nbsp;</div>
+
+</div>
 
 </div>
 </div>
@@ -1779,7 +1783,7 @@ var google_conversion_label = "FyN8CI-cywIQp6vz_gM";
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
