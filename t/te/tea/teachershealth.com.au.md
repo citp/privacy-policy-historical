@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327004009id_/https%3A//www.teachershealth.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106134745id_/https%3A//www.teachershealth.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Teachers Health Fund
+# Privacy Policy | Teachers Health Fund
 
-## **1\. Policy Statement**
+## 1\. Policy Statement
 
 At Teachers Federation Health Ltd ABN 86 097 030 414 trading as Teachers Health Fund (THF), we recognise the importance of privacy. We observe the privacy obligations under the Privacy Act 1988 (Cth) and other relevant state legislations dealing with privacy and health records, as amended from time to time. The Privacy Act provides for the protection of an individual’s personal and sensitive information.
 
@@ -10,7 +10,7 @@ THF has a policy for the management of personal information as set out in this d
 
 In 2012, the Privacy Act was amended to introduce new Australian Privacy Principles (APPs). APP 1 requires organisations to have a clearly expressed and up to date privacy policy, containing certain requirements, which are addressed in this policy.
 
-## **2\. What kinds of personal information does THF collect?**
+## 2\. What kinds of personal information does THF collect?
 
 From time to time, THF may collect personal information about a member such as name, date of birth, family members, contact details, claims history, income tier and information regarding products and services members inquire about or obtain through THF so that it can provide insurance cover or other services such as eye care or dental care. THF may also collect personal information about a prospective member such as name and contact details so that it can discuss providing health insurance cover to that prospective member.
 
@@ -22,7 +22,7 @@ THF may collect details of a member’s union membership including a union membe
 
 THF may also collect government-issued identifiers such as a member’s Medicare number which is required for reporting purposes.
 
-## **3\. How THF collects personal information**
+## 3\. How THF collects personal information
 
 (a) Directly
 
@@ -47,7 +47,7 @@ THF may collect personal information from third parties in some situations:
 
 
 
-## **4\. Cookies & other technologies**
+## 4\. Cookies & other technologies
 
 THF’s website, online services, interactive applications, email messages and advertisements may use “cookies” and other technologies such as pixel tags and web beacons. THF may use these technologies:
 
@@ -66,7 +66,7 @@ THF uses this information to understand and analyse trends, to administer its we
 
 THF may also use information collected by cookies to display personalised content and advertising (targeted advertising and online behavioural advertising), based on an individual’s internet usage, and to send marketing materials that THF thinks will be of interest to the individual.
 
-## **5\. How does THF hold personal information?**
+## 5\. How does THF hold personal information?
 
 Personal information collected by THF is generally entered into and held in a centralised digital secure repository.
 
@@ -76,7 +76,7 @@ THF will ensure that appropriate technical and organisational security measures,
 
 THF will take reasonable steps to destroy or permanently de-identify personal information, including any unsolicited personal information, if it is no longer needed for any purpose for which the personal information may be used or disclosed under this Privacy Policy.
 
-## **6\. What happens if a member does not provide THF with their personal information?**
+## 6\. What happens if a member does not provide THF with their personal information?
 
 A member does not have to provide their personal information to THF. However, if they do not provide personal information which THF requests from them, THF will make them aware that it may affects THF’s service to them, including:
 
@@ -89,7 +89,7 @@ A member does not have to provide their personal information to THF. However, if
 
 
 
-## **7\. Purposes for which THF collects, holds, uses and discloses personal information**
+## 7\. Purposes for which THF collects, holds, uses and discloses personal information
 
 THF may collect, hold, use and disclose personal information for a number of purposes such as:
 
@@ -112,7 +112,7 @@ THF develops programs and initiatives from time to time to assist members with d
 
 THF may also use a member’s contact details to send information about THF or its products, services or programs. If a member does not wish THF to send this information, then THF should allow the member the opportunity to tell THF when it collects the personal information. Refer to paragraph 13 of this policy for further details in relation to opting out of THF direct marketing.
 
-## **8\. Disclosure of personal information**
+## 8\. Disclosure of personal information
 
 THF will not sell a member’s personal information to any third party. THF will not disclose any personal information about a member, except:
 
@@ -137,7 +137,7 @@ Specifically, THF’s service providers may disclose personal (including sensiti
 
 Where personal information has been disclosed to an overseas recipient, there is a possibility that in certain cases that recipient may be required to disclose it under a foreign law.
 
-## **9\. How is personal information managed when a member receives services from Teachers Health Care Services?**
+## 9\. How is personal information managed when a member receives services from Teachers Health Care Services?
 
 This section applies only to health-related services provided to THF members by Teachers Healthcare Services (THCS), a subsidiary of THF. THCS may provide such services to THF’s private health insurance members including telephonic services, care co-ordination services, chronic disease and health management programs and online health-related services.
 
@@ -170,13 +170,13 @@ Participation or non-participation in the program will not affect a member’s c
 
 If a member requires access to their health-related service records, they may do so by contacting the Clinical Operations Manager directly on (02) 8346 2227 or by email on [info@teachershealthcare.com.au](mailto:info@teachershealthcare.com.au).
 
-## **10\. Dealing with THF anonymously or using a pseudonym**
+## 10\. Dealing with THF anonymously or using a pseudonym
 
 THF permits a member to deal with THF anonymously or by using a pseudonym. If the member chooses to do so, however, THF will be limited in the products or services it is able to assist the member with.
 
 As a general rule, THF may allow an individual to contact THF anonymously in some limited circumstances – for example to enquire generally about its goods and services, or to complete a retail transaction at a health centre by paying for goods in cash.
 
-## **11\. Direct marketing**
+## 11\. Direct marketing
 
 THF uses personal information that it holds about a member to identify services and products that may be of interest to them.
 
@@ -186,7 +186,7 @@ THF may disclose personal information to other related companies such as THCS t
 
 A member may request not to receive direct marketing communications from THF by contacting it at [unsubscribe@teachershealth.com.au](mailto:unsubscribe@teachershealth.com.au) or calling 1300 727 538. THF will give effect to the request as soon as reasonably practicable and, in any case, within 30 days of the request being made to THF.
 
-## **12\. Access to and correction of personal information**
+## 12\. Access to and correction of personal information
 
 THF will take reasonable steps to ensure that all personal information it collects or uses is accurate, complete, up to date and stored in a secure environment and is accessed only by authorised personnel for permitted purposes.
 
@@ -194,7 +194,7 @@ If a member wishes to access or correct any personal information which THF holds
 
 If a member requires access to their eye care records, eye test results or dental records, they may do so by contacting the eye care or dental care provider directly.
 
-If a member requires access to their health-related service records managed by THCS, they may do so by contacting the Clinical Operations Manager directly on (02) 8346 2227 or by email on [info@teachershealthcare.com.au](mailto:info@teachershealthcare.com.au) (refer to section 11).
+If a member requires access to their health-related service records managed by THCS, they may do so by contacting the Clinical Operations Manager directly on (02) 8346 2227 or by email on[info@teachershealthcare.com.au](mailto:info@teachershealthcare.com.au) (refer to section 11).
 
 THF will respond to a member’s access request as soon as practicable and, in any case, within 30 days of the request being made to THF. THF will either respond by providing the member with the access or amendments they have requested, or by providing them with the reasons for refusing to do so.
 
@@ -217,7 +217,7 @@ There are some available exceptions to accessing personal information, which are
 
 In some circumstances, THF may charge a fee to cover administrative costs in respect of retrieving a member’s personal information and providing it to them. THF will inform the member if there are going to be any such costs involved in retrieving their personal information.
 
-## **13\. Making a complaint**
+## 13\. Making a complaint
 
 THF views complaints as an opportunity to maintain and enhance customer loyalty and approval and enhance its competitiveness by continuous review and improvement. THF has a Customer Complaint Handling and Dispute Resolution Policy in place for handling the complaints it receives. A copy of this policy is available to members at [teachershealth.com.au](https://www.teachershealth.com.au/).
 
@@ -225,7 +225,7 @@ If a member would like to make a complaint about a breach of privacy, THF will m
 
 (a) Complaints can be made by contacting the THF Privacy Officer at:
 
-**Email:  [privacyofficer@teachershealth.com.au](mailto:privacyofficer@teachershealth.com.au)**
+Email: [privacyofficer@teachershealth.com.au](mailto:privacyofficer@teachershealth.com.au)
 
 Address: THF Privacy Officer  
 Teachers Health Fund  
@@ -260,7 +260,7 @@ Sydney, NSW 2001
 See also OAIC privacy complaint brochure for further details:  
 <http://www.oaic.gov.au/privacy/making-a-privacy-complaint>
 
-## **14\. Who this Privacy Policy does not apply to**
+## 14\. Who this Privacy Policy does not apply to
 
 THF will make members aware that this Privacy Policy does not apply:
 
@@ -269,7 +269,7 @@ THF will make members aware that this Privacy Policy does not apply:
 
 
 
-## **15\. Changes to this Privacy Policy**
+## 15\. Changes to this Privacy Policy
 
 THF may make changes to this Privacy Policy from time to time for any reason. THF will notify members of such changes by posting an updated version of this Privacy Policy on its website at [teachershealth.com.au](https://www.teachershealth.com.au/). If members use this website, they should regularly review this Privacy Policy. A members continued use of this website constitutes their agreement to any changes to this Privacy Policy.
 
