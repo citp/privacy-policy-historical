@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mcclatchy.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527062635id_/http%3A//www.mcclatchy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchy.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106231454id_/http%3A//www.mcclatchy.com/privacy_policy) for the most accurate reproduction.*
 
-# The McClatchy Company - Privacy Policy
+# McClatchy | Privacy Policy
+
+### Privacy Policy
 
 **Effective Date: December 2015**
 
-McClatchy.com ("McClatchy.com", "we", "our") is firmly committed to respecting your privacy in the course of offering you a high quality, interactive, and personalized experience. We take your privacy concerns seriously. Our Privacy Policy is designed to inform you about how we may collect, use, share, and store information about you and the choices available to you. 
+McClatchy.com ("McClatchy.com", "we", "our") is firmly committed to respecting your privacy in the course of offering you a high quality, interactive, and personalized experience. We take your privacy concerns seriously. Our Privacy Policy is designed to inform you about how we may collect, use, share, and store information about you and the choices available to you.
 
 ### PRIVACY POLICY HIGHLIGHTS
 
@@ -50,19 +52,19 @@ You can learn about your ability to register your "do not track" preferences in 
 
 **Other Information**
 
-We use reasonable security measures to protect your information..
+We use reasonable security measures to protect your information.
 
-Our services are not intended for children under 13..
+Our services are not intended for children under 13.
 
 We are not responsible for any third-party products or services you access via our services.
 
-We may notify you of material updates to our Privacy Policy via email and will post a notice at [McClatchy.com](https://web.archive.org/). Your continued use of our services after notice constitutes your acceptance of the Privacy Policy. 
+We may notify you of material updates to our Privacy Policy via email and will post a notice at [McClatchy.com](http://www.mcclatchy.com/). Your continued use of our services after notice constitutes your acceptance of the Privacy Policy.
 
 ### McClatchy.com Privacy Policy
 
 Please read this Privacy Policy carefully. You understand and agree that, by visiting or using any website, mobile application, or online service governed by this Privacy Policy, you consent to the processing of information as set forth in this Privacy Policy. Please note that this Privacy Policy is subject to change. We recommend that you review the Privacy Policy from time to time. If we make changes to this Privacy Policy, we will update the Effective Date at the top of this page. If you disagree with any portion of this Privacy Policy, now or as amended by us, your only option is to not use the websites, mobile applications, or online services governed by it. This Privacy Policy includes references to The McClatchy Company, which directly or indirectly owns and operates the newspapers, websites and apps referenced in this Privacy Policy.
 
-### What Is in This Privacy Policy? 
+### What Is in This Privacy Policy?
 
   * What Information Does This Privacy Policy Cover?
   * What Information Do We Collect?
@@ -79,13 +81,13 @@ Please read this Privacy Policy carefully. You understand and agree that, by vis
 
 
 
-### What Information Does This Privacy Policy Cover? 
+### What Information Does This Privacy Policy Cover?
 
-This Privacy Policy applies to information collected through our websites, mobile applications, and online services ("our services") that link or otherwise refer to this Privacy Policy. If we combine this information with information from other sources, we will treat the combined information as being governed by this Privacy Policy. This Privacy Policy does not otherwise apply to information that we or our affiliates collect through other means (for example, at a live event, via telephone, or through the mail). 
+This Privacy Policy applies to information collected through our websites, mobile applications, and online services ("our services") that link or otherwise refer to this Privacy Policy. If we combine this information with information from other sources, we will treat the combined information as being governed by this Privacy Policy. This Privacy Policy does not otherwise apply to information that we or our affiliates collect through other means (for example, at a live event, via telephone, or through the mail).
 
-### What Information Do We Collect? 
+### What Information Do We Collect?
 
-_Information that you provide to us:_ We and our service providers collect information that you provide when you use our services. For example, to access certain parts of our services, you may have to register for an account. During registration we may collect your name, address, username, password, and email address. You may also provide us with information when you post a message on our services; sign up to receive communications from us; register for contests; participate in surveys; purchase a print subscription or classified ad; or contact us with a question, comment, or request. The information that you may provide us includes but is not limited to:
+Information that you provide to us: We and our service providers collect information that you provide when you use our services. For example, to access certain parts of our services, you may have to register for an account. During registration we may collect your name, address, username, password, and email address. You may also provide us with information when you post a message on our services; sign up to receive communications from us; register for contests; participate in surveys; purchase a print subscription or classified ad; or contact us with a question, comment, or request. The information that you may provide us includes but is not limited to:
 
   * Name
   * Mailing address
@@ -103,7 +105,7 @@ When you use social media platforms, applications or tools that enable features 
 
 If you wish to forward an article or other information to a friend using our services, we will ask you to provide your friend's name and email address. We may collect statistics on which articles are forwarded. We do not sell, rent, or market information about the friends to whom you forward articles or information, and we use your friends' names and email addresses only for purposes of forwarding articles or other information subject to your request.
 
-_Passive data collection:_ Like most companies that offer online services, we and our service providers may automatically collect certain technical information from your computer or mobile device when you use our services or interact with us. The information we may collect includes:
+Passive data collection: Like most companies that offer online services, we and our service providers may automatically collect certain technical information from your computer or mobile device when you use our services or interact with us. The information we may collect includes:
 
   * IP address
   * Operating system
@@ -126,9 +128,9 @@ For more information about how we collect this information, see Use of Web Beaco
 
 We, our service providers, and other third parties with which we do business may collect information about you from publicly available sources (e.g., social media platforms) and commercially available resources. We may combine that information with the information described above and will handle the combined information as described in this Privacy Policy.
 
-_Location Information_ \- Our mobile applications may collect precise information about the location of your mobile device via your device's GPS or cellular connectivity, but only with your express consent. Once you have consented to the collection of such precise location information via your mobile device, you may adjust this consent by managing your Location Services preferences through the settings of your mobile device. We may also be able to infer your location from other information that you provide or information that we collect passively, such as the known locations of nearby WiFi networks.
+Location Information \- Our mobile applications may collect precise information about the location of your mobile device via your device's GPS or cellular connectivity, but only with your express consent. Once you have consented to the collection of such precise location information via your mobile device, you may adjust this consent by managing your Location Services preferences through the settings of your mobile device. We may also be able to infer your location from other information that you provide or information that we collect passively, such as the known locations of nearby WiFi networks.
 
-### How We Use the Information We Collect 
+### How We Use the Information We Collect
 
 We may use the information we collect for a number of purposes, including, but not limited to:
 
@@ -149,7 +151,7 @@ We may use the information we collect for a number of purposes, including, but n
 
 We may combine or aggregate any of the information we collect from our services and elsewhere for any of these purposes.
 
-### How We Share the Information We Collect 
+### How We Share the Information We Collect
 
 We may disclose information about you:
 
@@ -173,11 +175,11 @@ Unless you have consented otherwise, we do not sell, rent, barter, or otherwise 
 
 You should know that when you voluntarily disclose personal information publicly on our services (for example, when commenting on articles), that information may be collected and used by others and you may receive unsolicited communications from other people. When you share information via features offered on our services by other companies (sometimes known as "third-party plugins"), the privacy settings of the for those features govern how the information will be shared. When you are logged into our services, depending on the service you are logged into, your name may be displayed, and your email address and contact information may be viewed. Be sure to logout of your account and take other steps to ensure that others cannot view that information without your knowledge.
 
-### Third-Party Links and Content 
+### Third-Party Links and Content
 
 Our services and communications may contain links to or content from websites or other online services provided by third parties. We expect our partners and third-party providers to respect your privacy, but you acknowledge and agree that we are not responsible for the collection and use of your information by websites and other services that are not under our control. The privacy practices of third parties are governed by their privacy policies, and we encourage you to review the privacy policies of all websites and online services that you use, view, or visit.
 
-### Use of Cookies, Web Beacons and Other Technologies 
+### Use of Cookies, Web Beacons and Other Technologies
 
 We may use cookies, web beacons (also known as pixels), and other technologies to collect information when you use our services.
 
@@ -191,7 +193,7 @@ We and some of our advertisers work with ad networks and ad delivery platforms t
 
 Some of our services and communications may contain tiny electronic images known as web beacons. We use web beacons to assist us in delivering cookies on our services and to allow us to count users who have visited those pages. We may include web beacons in promotional email messages in order to determine whether messages have been opened and acted upon.
 
-### Interest-Based Advertising 
+### Interest-Based Advertising
 
 To help ensure that you receive ads that are relevant to your interests on our services, our advertisers' services, and elsewhere on the Internet, we and third-parties (including service providers, advertisers, and advertising companies) may collect information about your online activities over time and across different websites and apps. We and third parties may use that information to help understand audience segments. Advertisers may use the segments to determine the audience groups to which they wish to deliver particular ads. Through this process, we do not use information that directly identifies you.
 
@@ -225,7 +227,7 @@ We endeavor to protect the security of your payment information during transmiss
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies' direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [online@mcclatchy.com](mailto:online@mcclatchy.com). 
+If you are a California resident, you have the right to receive: a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies' direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [online@mcclatchy.com](mailto:online@mcclatchy.com).
 
 ### International Transfers of Information
 
@@ -233,15 +235,15 @@ By using any of our services, you agree that we may collect, use and transfer yo
 
 ### Changes to This Privacy Policy
 
-We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If you are a registered user of our services and we make any revisions that materially change the ways in which we use or share the information previously collected from you through our services, we will notify you of those revisions by sending an email to the email address listed in your registration. We will also post a notice of any material change to this policy by posting a notice on [McClatchy.com](https://web.archive.org/). 
+We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If you are a registered user of our services and we make any revisions that materially change the ways in which we use or share the information previously collected from you through our services, we will notify you of those revisions by sending an email to the email address listed in your registration. We will also post a notice of any material change to this policy by posting a notice on [McClatchy.com](http://www.mcclatchy.com/).
 
 ### Contact Information
 
 If you have any questions or comments about our privacy practices, we may be reached at   
-McClatchy.com,   
-1401 Shop Road, Columbia, SC, 29201-4843,   
+McClatchy.com  
+1401 Shop Road, Columbia, SC, 29201-4843  
 (803) 771-6161   
-or at [online@mcclatchy.com](mailto:online@mcclatchy.com). 
+or at [online@mcclatchy.com](mailto:online@mcclatchy.com).
 
 ### Definition of Certain Terms
 
