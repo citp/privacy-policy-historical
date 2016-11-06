@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409183441id_/https%3A//www.sfmta.com/terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106031222id_/https%3A//www.sfmta.com/terms-use) for the most accurate reproduction.*
 
 # Terms of Use | SFMTA
 
@@ -72,7 +72,7 @@ This Privacy Policy outlines the types of information the SFMTA and its vendors 
 #### **Cookies**
 
   * The SFMTA and its vendors, including vendors that provide customer payment services, use "cookies" when providing online services, such as online payments. We use cookies to improve the quality of our service, to measure server and network performance, analyze user traffic patterns, and improve the content of our websites. 
-  * The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features of SFMTA and SFMTA vendor websites may not function or may be impaired properly if the user rejects cookies.
+  * The use of cookies is a standard practice among internet websites and most internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features of SFMTA and SFMTA vendor websites may not function or may be impaired properly if the user rejects cookies.
 
 
 
