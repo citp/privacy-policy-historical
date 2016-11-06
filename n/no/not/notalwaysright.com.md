@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the notalwaysright.com privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110133236id_/https%3A//notalwaysright.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysright.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106105326id_/https%3A//notalwaysright.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Funny & Stupid Customer Stories – Not Always Right
+# Privacy Policy Funny & Stupid Customer Stories – Not Always Right
 
-### [Privacy Policy](http://notalwaysright.com/privacy-policy)
+### [Privacy Policy](https://notalwaysright.com/privacy-policy)
 
 Not Always Right is dedicated to maintaining visitor privacy, and therefore we generally do not collect email addresses or names in our submissions, except in the case of special giveaways and contests. In such cases, email addresses are collected only to contact winners. Under no circumstances will we reveal or sell individual visitor information unless required to do so by law.
 
