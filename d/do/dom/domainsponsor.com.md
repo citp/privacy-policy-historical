@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the domainsponsor.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610211742id_/https%3A//domainsponsor.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsponsor.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106163130id_/https%3A//domainsponsor.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # DomainSponsor.com | Privacy Policy
 
-  * [Home](https://web.archive.org/web/20160610211742id_/https://www.domainsponsor.com/index.php)
-  * [Optimized Parking Technology](https://web.archive.org/web/20160610211742id_/https://www.domainsponsor.com/OptimizedParkingTechnology/)
-  * [What is Domain Parking?](https://web.archive.org/web/20160610211742id_/https://www.domainsponsor.com/WhatIsDomainParking/)
-  * [Sign Up](https://web.archive.org/web/20160610211742id_/https://www.domainsponsor.com/SignUp/)
+  * [Home](https://web.archive.org/web/20161106163130id_/https://www.domainsponsor.com/index.php)
+  * [Optimized Parking Technology](https://web.archive.org/web/20161106163130id_/https://www.domainsponsor.com/OptimizedParkingTechnology/)
+  * [What is Domain Parking?](https://web.archive.org/web/20161106163130id_/https://www.domainsponsor.com/WhatIsDomainParking/)
+  * [Sign Up](https://web.archive.org/web/20161106163130id_/https://www.domainsponsor.com/SignUp/)
   * [Sign In](https://pubman.domainsponsor.com/login)
 
 
 
 Your browser is out-of-date. Please download one of these up-to-date, free and excellent browsers:
 
-**[](https://web.archive.org/web/20160610211742id_/https://www.domainsponsor.com/index.php)**
+**[](https://web.archive.org/web/20161106163130id_/https://www.domainsponsor.com/index.php)**
 
-You are here: [Home](https://web.archive.org/web/20160610211742id_/https://www.domainsponsor.com/index.php "DomainSponsor.com") / Privacy Policy
+You are here: [Home](https://web.archive.org/web/20161106163130id_/https://www.domainsponsor.com/index.php "DomainSponsor.com") / Privacy Policy
 
 **PRIVACY POLICY**
 
