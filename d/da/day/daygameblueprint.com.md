@@ -1,121 +1,87 @@
-> *The following text is extracted and transformed from the daygameblueprint.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620061733id_/http%3A//daygameblueprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daygameblueprint.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106085612id_/http%3A//daygameblueprint.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Daygame Blueprint
+# Privacy Policy - Daygame Blueprint
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+[DayGameBlueprint.com](http://daygameblueprint.com/) is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-#### (1) WHAT INFORMATION DO WE COLLECT?
+You or Your means you as a participant in or as a user of the [DayGameBlueprint.com](http://daygameblueprint.com/) website. We or Our or Us means DayGameBlueprint.com. Our site means [DayGameBlueprint.com](http://daygameblueprint.com/)
 
-We may collect, store and use the following kinds of personal data:
+**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
-(a) information about your computer and about your visits to and use of this website.
+When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
 
-(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services.
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
 
-(c) information that you provide to us for the purpose of registering with us.
+Email marketing: With your permission, we may send you emails about new products, free and premium content (i.e. blog posts, YouTube videos, reports/whitepapers, etc.), and special events.
 
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.
+**SECTION 2 – CONSENT**
 
-(e) any other information that you choose to send to us.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-#### (2) CREDIT CARD DETAILS
+If we ask for your personal information for a secondary reason (i.e. newsletter subscription and marketing messages), we will ask you directly for your expressed consent and provide you with an opportunity to withdraw your consent.
 
-During checkout you may be asked to enter your payment details on the payment page. This page is encrypted with SSL security.
+You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
 
-Credit card information processing is handled by Paypal.
+You may also withdraw your consent anytime, by contacting us at Support@DayGameBlueprint.com or mailing us at: 20 E. Thomas Road, Suite 2200 Phoenix Arizona 85012 USA
 
-#### (3) COOKIES
+**SECTION 3 – DISCLOSURE**
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+**IMPORTANT:** We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
+**SECTION 4 – DATA STORAGE**
 
-Our advertisers/payment services providers may also send you cookies.
+Our shopping cart solution is hosted and managed by LimelightCRM. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
+Your data is stored through LimelightCRM’s data storage, databases and the general LimelightCRM application. They store your data on a secure server behind a firewall.
 
-#### (4) USING YOUR PERSONAL DATA
+**Payment:**
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+When you complete your purchase, LimelightCRM handles your payments data. Your data is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-We may use your personal information to:
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-(a) administer the website;
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-(b) improve your browsing experience by personalising the website;
+**NOTE:** At no point during the transaction does DGB 8447827613 (or DayGameBlueprint.com) take custody or store your credit card information. This is process is monitored and managed by LimelightCRM, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at:
 
-(c) enable your use of the services available on the website;
+[Limelightcrm.com](http://limelightcrm.com/)
 
-(d) send to you goods purchased via the website, and supply to you services purchased via the website;
+**SECTION 5 – THIRD-PARTY SERVICES**
 
-(e) send statements and invoices to you, and collect payments from you;
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-(f) send you general (non-marketing) commercial communications;
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-(g) send you email notifications which you have specifically requested;
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-(h) send to you marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-(i) provide third parties with statistical information about our users Ð but this information will not be used to identify any individual user;
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-(j) deal with enquiries and complaints made by or about you relating to the website;
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+**Links:** When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-#### (5) DISCLOSURES
+**SECTION 6 – SECURITY**
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-In addition, we may disclose information about you:
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-(a) to the extent that we are required to do so by law;
+**SECTION 7 – COOKIES**
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+DayGameBlueprint.com, and DGB 8447827613 utilizes cookies to create a more customized experience for our users and customers. For example, we use a login cookie so members do not have to re-enter their username and password each time they return to our site We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising.
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+**SECTION 8 – AGE OF CONSENT**
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
 
-#### (6) INTERNATIONAL DATA TRANSFERS
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
+**QUESTIONS AND CONTACT INFORMATION**
 
-If you are in the European Economic Area (EEA), information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the EEA.
-
-You expressly agree to such transfers of personal information.
-
-#### (7) SECURITY OF YOUR PERSONAL DATA
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-#### (8) POLICY AMENDMENTS
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-#### (9) YOUR RIGHTS
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
-
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
-
-#### (10) THIRD PARTY WEBSITES
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-#### (11) UPDATING INFORMATION
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-#### (12) CONTACT
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info(at)daygame.com or by post to 29 York House, 12 Berners Street, London, W1T 3LG.
-
-#### (13) DATA CONTROLLER
-
-The data controller responsible for our website is Daygame Ltd.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at Support@DayGameBlueprint.com or by mail at 221 E Indianola Ave, Phoenix, AZ 85012
