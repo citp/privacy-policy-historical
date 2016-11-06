@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601115459id_/https%3A//www.healthtap.com/terms/privacy_sharing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106073512id_/https%3A//www.healthtap.com/terms/privacy_sharing) for the most accurate reproduction.*
 
 # Privacy and Sharing - HealthTap
 
@@ -70,7 +70,7 @@ We won't sell your personally identifiable information.
 
 ##### You control your privacy.
 
-You control your privacy. Our experience is designed to keep your information anonymous and secure. You can add, remove, or update the personal and health information in your Profile at any time.
+Our experience is designed to keep your information anonymous and secure. You can add, remove, update, or request a connection to the personal and health information in your Profile at any time (see [Privacy Statement](https://web.archive.org/terms/privacy_statement)).
 
 ##### You share what you want.
 
