@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eog.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506041732id_/http%3A//www.eog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eog.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106043832id_/http%3A//www.eog.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -68,4 +68,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us at support[at]eog.com
+If there are any questions regarding this privacy policy you may contact us at support[at]eog.com 
+
+(0)
