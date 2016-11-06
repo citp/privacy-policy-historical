@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.ie privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606044424id_/http%3A//www.findmypast.ie/articles/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.ie privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106085525id_/http%3A//www.findmypast.ie/articles/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.ie
 
