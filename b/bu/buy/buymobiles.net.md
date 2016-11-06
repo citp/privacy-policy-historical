@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buymobiles.net privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325142946id_/http%3A//www.buymobiles.net/help/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buymobiles.net privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106020302id_/http%3A//www.buymobiles.net/help/terms/privacy-policy) for the most accurate reproduction.*
 
 # Help and Support - Buymobiles.net
 
