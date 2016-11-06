@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greensock.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324183825id_/https%3A//greensock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensock.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106074308id_/http%3A//greensock.com/privacy) for the most accurate reproduction.*
 
 # GreenSock | Privacy Policy
 
-#### Version: 1.18.2 updated 2015-12-22
+#### Version: 1.19.0 updated 2016-07-18
 
   *   * ###  github 
 
@@ -14,7 +14,7 @@
 Copy/paste this code into your HTML:
     
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
 
   * Robust
   * Lightweight
