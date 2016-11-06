@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truelancer.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624213308id_/http%3A//www.truelancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelancer.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106200742id_/https%3A//www.truelancer.com/privacy-policy) for the most accurate reproduction.*
 
-# Truelancer | On Demand Curated Freelance Marketplace
+# Privacy Policy | Truelancer
 
 **Truelancer Internet Pvt. Limited** (“Truelancer”,“Truelancer.com”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.truelancer.com (the “Site”). This Privacy Policy applies only to information that you provide to us through the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at http://www.truelancer.com/terms-service 
 
