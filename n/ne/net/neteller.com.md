@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neteller.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223033329id_/https%3A//member.neteller.com/document/show%3FselectedDocument%3D2%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neteller.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106143238id_/https%3A//www.neteller.com/en/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NETELLER
 
@@ -72,6 +72,6 @@ You have the right to access any personal information that we hold about. Any ac
 
 If you have any questions about this privacy policy please email [dataprivacy@paysafe.com](mailto:dataprivacy@paysafe.com)
 
-Optimal is not responsible for the privacy practices or the content of third party referrals, websites or web site links.
+Paysafe is not responsible for the privacy practices or the content of third party referrals, websites or web site links.
 
 This Privacy Policy was last amended on November 9th, 2015
