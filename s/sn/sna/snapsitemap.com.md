@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325012030id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106223744id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
 
-# SnapSitemap - Free Google Sitemap
+# SnapSitemap - Free HTML/XML Sitemap
 
 **What information do we collect?**
 
@@ -63,4 +63,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.SnapSitemap.com  
-268 Bush Street #4444, San Francisco, CA 94104 privacy[at]snapsitemap[dot]com
+116 New Montgomery St., Suite 200, San Francisco, CA 94105 USA privacy[at]snapsitemap[dot]com
