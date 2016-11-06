@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacountylibrary.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324161507id_/http%3A//lacountylibrary.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacountylibrary.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106112638id_/http%3A//lacountylibrary.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | County of Los Angeles Public Library
 
@@ -28,7 +28,7 @@ A user must provide certain contact information, such as name and address, and f
 
   * We are committed to data security and the data quality of personal information that is either available from or collected by our website.  We have taken reasonable precautions to protect such information from disclosure, loss, misuse or alteration.  We require that “secure data networks” be operated, which are protected by industry standard firewalls and password protection systems.  We additionally require that only authorized individuals have access to the information provided by our users.
 
-  * We require the use of Secure Socket Layer (“SSL”) standard transmission encryption to protect transmission of users’ personal information submitted in connection with credit/debit card transactions.  SSL is a security technology designed to enable your browser to send and receive information with another server in an encrypted format.  Your browser’s security icon, usually located in the top or bottom status bar of your browser’s window, reflects the security condition of eh browser.  The lock icon indicates that your browser is communication over a secure link.
+  * We require the use of Secure Socket Layer (“SSL”) standard transmission encryption to protect transmission of users’ personal information submitted in connection with credit/debit card transactions.  SSL is a security technology designed to enable your browser to send and receive information with another server in an encrypted format.  Your browser’s security icon, usually located in the top or bottom status bar of your browser’s window, reflects the security condition of the browser.  The lock icon indicates that your browser is communication over a secure link.
 
   * We require that all the information you provide to us in this manner is stored securely.
 
@@ -56,7 +56,7 @@ In certain instances you may be assigned a personal identification number (PIN) 
 
 ## Getting Access to Information; Changing Information
 
-For information on reviewing and/or making changes to the information about you that may be in our records, please send us an [e-mail](https://web.archive.org/contactus/askalibrarian.html) by selecting this option on our [Contact Us](https://web.archive.org/web/20160324161507id_/http%3A//lacountylibrary.org/contactus/) page or call us using the information available at our [Contact Us](https://web.archive.org/web/20160324161507id_/http%3A//lacountylibrary.org/contactus/) page.  
+For information on reviewing and/or making changes to the information about you that may be in our records, please send us an [e-mail](https://web.archive.org/contactus/askalibrarian.html) by selecting this option on our [Contact Us](https://web.archive.org/web/20161106112638id_/http%3A//lacountylibrary.org/contactus/) page or call us using the information available at our [Contact Us](https://web.archive.org/web/20161106112638id_/http%3A//lacountylibrary.org/contactus/) page.  
 
 
 ## Other County Departmental or Agency Websites; Non-Los Angeles County Websites (Third Party)
