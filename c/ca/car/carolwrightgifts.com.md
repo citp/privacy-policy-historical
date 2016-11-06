@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520031322id_/http%3A//www.carolwrightgifts.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106073706id_/http%3A//www.carolwrightgifts.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # CarolWrightGifts.com | Privacy Policy
 
@@ -42,6 +42,10 @@ The Site may also contain links to third party websites. The Site may contain li
 
 We use third party service providers to serve ads on our behalf across the Internet and sometimes on this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements on our Site, other websites and other forms of media about goods and services of interest to you. This anonymous information is collected through the use of pixel tags or similar technologies which are industry standard technologies used by most major web sites. You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative's](http://www.networkadvertising.org/) website. If you would like to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
+In addition, we may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog.
+
+If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. To opt-out of receiving our catalogs, you may send us an [email](https://web.archive.org/contact-us.cfm) or call us at 1-800-267-5750.
+
 **Children's Information**
 
 We are committed to protecting the privacy of children. The Site is not designed or intended to attract children under the age of 18. We do not collect personally identifiable information from any person we actually know is under the age of 18.
@@ -64,4 +68,4 @@ Attn: Customer Services
 P.O. Box 7821  
 Edison, NJ 08818-7821
 
-Dated: January 26, 2015 
+Dated: August 22, 2016 
