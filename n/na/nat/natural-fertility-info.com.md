@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natural-fertility-info.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624105533id_/http%3A//natural-fertility-info.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-fertility-info.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106055723id_/http%3A//natural-fertility-info.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
