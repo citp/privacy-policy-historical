@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetheme.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610145453id_/http%3A//www.affiliatetheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetheme.net privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106024249id_/http%3A//www.affiliatetheme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Affiliate Theme 3.0 Affiliate Theme 3.0 - Affiliate Theme 3.0
 
