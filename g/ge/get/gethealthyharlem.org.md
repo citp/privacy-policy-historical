@@ -1,95 +1,79 @@
-> *The following text is extracted and transformed from the gethealthyharlem.org privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123231937id_/http%3A//www.gethealthyharlem.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethealthyharlem.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106105512id_/http%3A//gethealthyharlem.org/legal) for the most accurate reproduction.*
 
-# Privacy | GetHealthyHarlem.org
+# Terms and Conditions - GetHealthyHarlem.org
 
-**Privacy Policy**  
-www.GetHealthyHarlem.org
+[GetHealthyHarlem.org](http://www.gethealthyheights.org/) Privacy Policy
 
-  1. About GetHealthyHarlem.org
-  2. Information collected and used by GetHealthyHarlem.org
-  3. Invitations and other communications to non-members 
-  4. Use of cookies
-  5. Links
-  6. Blogs, forums
-  7. Correcting/updating or removing information
-  8. Email choice/opt-out
-  9. Security
-  10. Sharing and disclosure of information GetHealthyHarlem.org collects
-  11. Changes to our privacy policy
-  12. Contacting the website
+This Privacy Policy governs the way in which GetHealthyHarlem.org collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.gethealthyharlem.org](https://www.gethealthyharlem.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by GetHealthyHarlem.org.
+
+## Information We Collect
+
+We may collect personal identification information in two ways:
+
+**Information you give us:** When you register on the site we will ask you for personal information such as your email address. If you would like to create a Community page, we will ask you for your name and if applicable the organization you are representing.
+
+**Information we collect about how you use the Site:** We collect information about your use of the Site such as your user name, email address, internet domain, internet protocol address, type of browser used, operating system used, date and time the Site was accessed, mobile network information, unique device identifiers, browser language, location information, cookies and/or anonymous identifiers. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We collect this information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate for personal identification information, such as their name and email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily give such information to us. Users can always refuse to give personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+## How We Use Collected Information
+
+GetHealthyHarlem.org may collect and use Users personal information for the following purposes:
+
+  * To improve service: Information you provide helps us respond to your service requests and support needs more efficiently.
+  * To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site: We may use feedback you provide to improve our products and services.
+  * To send periodic emails: We may use the email address to send User information and updates pertaining to their usage of the Site. It may also be used to respond to their inquiries, questions, and/or other requests.
+  * To conduct research about use of the Site. Data used for such research analyses will be deidentified.
 
 
 
- **1.   About GetHealthyHarlem.org**  
-GetHealthyHarlem.org is an online service that allows our members to set up unique personal profiles and connect with other people in the Harlem community who are interested in health and wellness. GetHealthyHarlem.org members can view each others' profiles, meet and communicate with other members through blogs and forums. The site will allow members to make new friends and contacts or invite people they already know who share their health and wellness interests to join the site. They can also learn from community health experts who blog, contribute articles or are profiled on the site. GetHealthyHarlem.org members can change their profile information at any time and can control how the members and the service communicate with them.
+## Information You Share
 
-GetHealthyHarlem.org cares deeply about online privacy. If you have any questions concerning this privacy policy, please [Contact Us](https://web.archive.org/contact).
+_Personal Health Information_
 
-Top of page
+Many of the Site's features let you share information with others. You are not permitted to share any Personal Health Information (PHI) on the GetHealthyHarlem.org website publicly or privately with any users, Partner Organizations, Interest Groups or members of the management team of the GetHealthyHarlem.org website. Any Personal Health Information posted on the website will be removed and your membership may be terminated. Remember that when you share information publicly, it may be indexable by search engines. Our services provide you with different options on [sharing](http://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html).
 
-**2.   Information Collected and Used by GetHealthyHarlem.org**  
-GetHealthyHarlem.org collects user submitted information such as name and email address to authenticate users and to send notifications to those users relating to the GetHealthyHarlem.org service. GetHealthyHarlem.org also collects other profile data including but not limited to: personal interests, gender, age, in order to assist users in finding and communicating with one another. GetHealthyHarlem.org does not collect medical information or health records.
+## How We Protect Your Information
 
-GetHealthyHarlem.org also logs non-personally identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site. This data is used to manage the website, track usage and improve the website services. User IP addresses are recorded for security and monitoring purposes.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-User profile information including members' pictures and usernames are displayed to people in order to facilitate user interaction in the GetHealthyHarlem.org social networking community. Email addresses are used for the purposes of inviting new friends to join GetHealthyHarlem.org, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within the site. Users can communicate with each other through blogs and forums without disclosing their email addresses. Users' full names are never directly revealed to other members. 
+## Sharing Your Personal Information
 
-We may also use a user's email address to send updates, news regarding the service, health tips or reminders. Users may choose not to receive email of this type by changing their "notification" setting to "Do not send me notification emails" in the user "Account Settings." 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our organizational partners.
 
-From time to time, GetHealthyHarlem.org, may sponsor a special program or contest on GetHealthyHarlem.org. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+We do not share personal information with companies, organizations and individuals outside of the GetHealthyHarlem.org Management team unless one of the following circumstances applies:
 
-Top of page 
+  * **For legal reasons**
 
-**3.   Invitations and Other Communications to Non-members**  
-GetHealthyHarlem.org members can invite friends to join the service by sending invitation emails via our automated invitation system. GetHealthyHarlem.org stores the email addresses that members provide in order to be able to add the friends to members' buddylists and also to send reminders of the invitations. GetHealthyHarlem.org does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders (up to three (3) per email address). Recipients of invitations from GetHealthyHarlem.org may contact GetHealthyHarlem.org at to request the removal of their information from our database.
 
-You may prevent GetHealthyHarlem.org email invitations and other messages from being sent to any email address you control by sending a single email to with the subject "BLOCK." To do so, please [Contact Us](https://web.archive.org/contact).
 
-Top of page 
+We will share personal information with companies, organizations or individuals outside of GetHealthyHarlem.org if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
-**4.   Use of Cookies**  
-GetHealthyHarlem.org uses cookies to store visitor's preferences, to customize newsletter, advertising, and Web page session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set-each browser is different, so check the "help" menu of your browser to learn how to change your cookie preferences-however, you must enable cookies from GetHealthyHarlem.org in order to use most functions on the site. 
+  * Meet any applicable law, regulation, legal process or enforceable governmental request.
+  * Detect, prevent, or otherwise address fraud, security or technical issues.
+  * Protect against harm to the rights, property or safety of Users or the public as required or permitted by law.
 
-Top of page
 
- **5.   Links**  
-GetHealthyHarlem.org contains links to sites. GetHealthyHarlem.org is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy polity stated on that site. Our privacy policy only governs information collected on GetHealthyHarlem.org.
 
-Top of page
+**[We may share aggregated](http://www.google.com/policies/privacy/example/we-may-share-aggregated.html) [non-personally identifiable information](http://www.google.com/policies/privacy/key-terms/#toc-terms-info)** publicly with Partner Organizations and the GetHealthyHarlem.org management team may use the non-personally identifiable information for evaluation purposes and publications regarding the GetHealthyHarlem.org website. For example, we may share information publicly [to show trends](http://www.google.com/policies/privacy/example/to-show-trends.html) about the general use of our services.
 
-**6.   Blogs, Forums **  
-Please be aware that whenever you voluntarily post public information to blogs, forums, resources, calendars or any other public forum, the information posted can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+## Third Party Websites
 
-Top of page
+Users may find content on our Site that link to the sites and services of our partners. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-**7.   Correcting/Updating or Removing Information**  
-GetHealthyHarlem.org users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info.
+## Changes to this privacy policy
 
-Top of page
+GetHealthyHarlem.org has the discretion to update this privacy policy at any time. When we do, we will post a notification on the home page of our Site, email users and revise the updated date. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of changes.
 
-**8.   Email Choice/Opt-out**  
-Members who no longer wish to receive updates or notifications may choose not to by selecting "Do not send me notification of emails" in the user profile "Account Settings." Users who do not wish to receive myhelathyharlem.net health tips and reminders, newsletters, and web editor's picks may choose not to by selecting "Do not send me GetHealthyHarlem.org tips/reminders/newsletters/editor's picks" in the user profile "Account Settings." All notification emails and GetHealthyHarlem.org tips/reminders/newsletters/editor's picks also include the above instructions for opting-out of those communications in the future.
+## When this Privacy Policy applies
 
-Top of page
+Our Privacy Policy applies to all of the services and content offered on the GetHealthyHarlem.org website. Our Privacy Policy does not apply to services offered by other companies, organizations or individuals, including products or sites that may be displayed to you in search results, external sites that may include information or content from GetHealthyHarlem.org, or other sites linked to/from our website. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
-**9.   Security **  
-GetHealthyHarlem.org member accounts are secured by member-created passwords. GetHealthyHarlem.org takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on GetHealthyHarlem.org, please [Contact Us](https://web.archive.org/contact).
+## Your Acceptance of These Terms
 
-Top of page
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**10.   Sharing and Disclosure of Information GetHealthyHarlem.org collects**  
-Except as otherwise described in this privacy statement, GetHealthyHarlem.org will not disclose personal information to any third party unless we believe that disclosure is necessary: 1) to conform to legal requirements or to respond to a subpooena, search warrant, or other legal process received by GetHealthyHarlem.org, whether or not a response is required by applicable law; 2) to enforce the GetHealthyHarlem.org Terms of Use Agreement or to protect our rights; or 3) to protect the safety of members of the public and users of the service. GetHealthyHarlem.org reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of GetHealthyHarlem.org or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below.
+## Contacting Us
 
-Top of page
-
-**11.   Changes to Our Privacy Policy**  
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the policy when he or she uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days.
-
-Top of page
-
-**12.   Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact Us](https://web.archive.org/contact). 
-
-Top of page
-
-Last modified: January 7, 2009 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [gethealthyharlem@gmail.com](mailto:gethealthyharlem@gmail.com).
