@@ -1,67 +1,110 @@
-> *The following text is extracted and transformed from the robfore.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915055007id_/http%3A//robfore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robfore.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106154822id_/https%3A//robfore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Rob Fore
 
-## Privacy Policy
+Last updated: March 28, 2016
 
-Welcome to http://robfore.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Listech Inc (collectively, “Services”) (“Authorized Customers”).
+Listech Inc (“us”, “we”, or “our”) operates the https://robfore.com website (the “Service”).
 
-“Personally Identifiable Information” 
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-What Personally Identifiable Information is collected? 
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://robfore.com
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+**Information Collection And Use**
 
-What organizations are collecting the information? 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information (“Personal Information”).
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-How does the Site use Personally Identifiable Information?
+**Log Data**
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-With whom may the information may be shared?
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+**Cookies**
 
-How is Personally Identifiable Information stored?
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-Personally Identifiable Information collected by Listech Inc is securely stored and is not accessible to third parties or employees of Listech Inc except for use as indicated above.
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-What choices are available to Visitors regarding collection, use and distribution of the information?
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at Reno, NV 89511
+**Behavioral Remarketing**
 
-Are Cookies Used on the Site?
+Listech Inc uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+  * **Google** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page.Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/ "Google Privacy & Terms") web page.
+  * **AdRoll** AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false "AdRoll Advertising Preferences") web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy "AdRoll Privacy Policy") web page.
+  * **Perfect Audience** Perfect Audience remarketing service is provided by NowSpots Inc.You can opt-out of Perfect Audience remarketing by visiting these pages: [Platform Opt-out](http://pixel.prfct.co/coo "Platform Opt-out") and [Partner Opt-out](http://ib.adnxs.com/optout "Partner Opt-out").For more information on the privacy practices of Perfect Audience, please visit the [Perfect Audience Privacy Policy & Opt-out](https://www.perfectaudience.com/privacy/index.html "Perfect Audience Privacy Policy & Opt-out") web page.
 
-How does Listech Inc use login information? 
 
-Listech Inc uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+**Do Not Track Disclosure**
 
-Listech Inc has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-How does the Site keep Personally Identifiable Information secure?
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+**Service Providers**
 
-How can Visitors correct any inaccuracies in Personally Identifiable Information?
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at soc.riches[@]gmail.com
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
+**Communications**
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-What happens if the Privacy Policy Changes?
+**Compliance With Laws**
 
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-Links:
+**Business Transaction**
 
-http://robfore.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+If Listech Inc is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+
+**Security**
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+**International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of March 28, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
+
+Listech Inc  
+ATTN: RobFore.com Privacy Policy  
+18124 Wedge Parkway 2017  
+Reno, NV 89511
