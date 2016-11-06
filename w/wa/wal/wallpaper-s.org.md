@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper-s.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401041148id_/http%3A//wallpaper-s.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper-s.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106202618id_/http%3A//wallpaper-s.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for WALLPAPER.DIQ.RU
 
