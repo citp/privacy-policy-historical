@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insaf.pk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510070023id_/http%3A//www.insaf.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insaf.pk privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106045818id_/http%3A//insaf.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
