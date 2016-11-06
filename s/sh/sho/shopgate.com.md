@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shopgate.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906143819id_/https%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgate.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106160344id_/https%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shopgate
+
+The Shopgate privacy policy
 
 ### Privacy Policy
 
