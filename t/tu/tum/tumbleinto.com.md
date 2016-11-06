@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumbleinto.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113831id_/http%3A//www.tumbleinto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleinto.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106060046id_/http%3A//www.tumbleinto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tumbleinto
 
