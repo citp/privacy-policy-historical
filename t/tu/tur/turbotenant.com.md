@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbotenant.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614075905id_/http%3A//www.turbotenant.com/privacy-policy-fulton) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotenant.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106124412id_/https%3A//www.turbotenant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ Last modified: October 1, 2015
 
  **Introduction**
 
-Turbo Tenant, LLC ( **"Company"** “ **Turbo Tenant** ” “ **Our** ” or **  "We"**) respect your privacy and are committed to protecting it through our compliance with this policy.
+Turbo Tenant, LLC ( **“Company”** “ **Turbo Tenant** ” “ **Our** ” or **  “We”**) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website www.turbotenant.com (our "Website") to view the content on the website and/or utilize the interrelated “ **Interactive Services** ” on our website which provides inputs for collecting information on vacancy marketing, rental applications, and tenant screening and rent payments.  This privacy policy covers our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.turbotenant.com (our “Website”) to view the content on the website and/or utilize the interrelated “ **Interactive Services** ” on our website which provides inputs for collecting information on vacancy marketing, rental applications, and tenant screening and rent payments.  This privacy policy covers our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -37,7 +37,7 @@ Turbo Tenant, LLC  (719) 966-7368 or at [legal@turbotenant.com](mailto:%20legal
 
 If you access our website, including but not exclusively, our Interactive Services plat, we may collect several types of information from and about users of our Website, including information:
 
-  *  by which you may be personally identified, such as name, postal address, e-mail address, telephone number, social security number or any other identifier including potential information about and/or from third parties, (note: this information may be collected online or offline) ("personal information");
+  *  by which you may be personally identified, such as name, postal address, e-mail address, telephone number, social security number or any other identifier including potential information about and/or from third parties, (note: this information may be collected online or offline) (“personal information”);
   *  that is about you but individually does not identify you, such as your location or MSA; and/or
   * about your internet connection, the equipment you use to access our Website and usage details.
 
@@ -48,11 +48,11 @@ We may collect this information:
   * Directly from you when you provide it to us.
   * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
   * From third parties, for example, our business partners for audit verification purposes.
-  * You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+  * You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
 
 
-We know through our third party (either affiliated or not affiliated with Turbo Tenant) collecting data utilizing our Interactive Services for vacancy marketing, rental applications, and/or tenant screening and rent payments that you are submitting information and that they are collecting information that you are providing, which will make you personally identified.   
+We know through our third party (either affiliated or not affiliated with Turbo Tenant) collecting data utilizing our Interactive Services for vacancy marketing, rental applications, and/or tenant screening and rent payments that you are submitting information and that they are collecting information that you are providing, which will make you personally identified.
 
  **Information You Provide to Third Parties on our Platform**
 
@@ -95,7 +95,7 @@ We currently do not collect personal Information automatically, but we may tie t
 
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, service providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.  For information about how you can opt out of receiving targeted advertising from many providers, see e.g. http://www.networkadvertising.org/choices/#completed.
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.  For information about how you can opt out of receiving targeted advertising from many providers, see e.g. http://www.networkadvertising.org/choices/#completed.
 
  **How We Use Your Information**
 
@@ -113,7 +113,7 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
  **Disclosure of Your Information**
 
@@ -143,14 +143,14 @@ We may also disclose your personal information:
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  *  **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  *  **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing s. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [optout@turbotenant.com](mailto:%20optout@turbotenant.com).
-  *   **Promotional Offers from the Company.** If you do not wish to have your e-mail address and/or other contact information used by the Company to promote our own or third parties' products or services, you can opt-out by emailing optout@turbotenant.com If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company through its Interactive Services provided on its platform.
-  *   **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our actual or potential advertisers' target-audience preferences, you can opt-out by emailing [optout@turbotenant.com](mailto:optout@turbotenant.com)         
+  *  **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  *  **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing s. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to[optout@turbotenant.com](mailto:%20optout@turbotenant.com).
+  *   **Promotional Offers from the Company.** If you do not wish to have your e-mail address and/or other contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing optout@turbotenant.com If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company through its Interactive Services provided on its platform.
+  *   **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our actual or potential advertisers’ target-audience preferences, you can opt-out by emailing [optout@turbotenant.com](mailto:optout@turbotenant.com)
 
 
 
-We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's _website_. (see e.g. <http://www.networkadvertising.org/choices/#completed>.)
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s _website_. (see e.g.<http://www.networkadvertising.org/choices/#completed>.)
 
  **  Your California Privacy Rights**
 
