@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyjapan.nu privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327185058id_/http%3A//proxyjapan.nu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyjapan.nu privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106025046id_/http%3A//proxyjapan.nu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Proxy Japan - Web Proxy Server in Japan
 
