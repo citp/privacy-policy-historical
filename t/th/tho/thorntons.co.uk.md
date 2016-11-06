@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616001650id_/http%3A//www.thorntons.co.uk/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106144252id_/http%3A//www.thorntons.co.uk/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -8,7 +8,7 @@
 
 We are Thorntons Plc, and our Head Office is Thornton Park, Somercotes, Alfreton, Derbyshire, DE55 4XJ.
 
-For the purposes of the Data Protection Act 1998 we are known as a Data Controller.  We take our obligations as a Data Controller seriously and below you can find out more about how we look after your personal data. For more information on the Data Protection Act 1998 you can visit the [Information Commissioner’s website](http://www.ico.gov.uk/for_the_public.aspx)
+For the purposes of the Data Protection Act 1998 we are known as a Data Controller.  We take our obligations as a Data Controller seriously and below you can find out more about how we look after your personal data. For more information on the Data Protection Act 1998 you can visit the [Information Commissioner’s website](http://www.ico.org.uk/for_the_public.aspx)
 
 All our contact details can be found on our website. Follow this link to [our contact details](http://www.thorntons.co.uk/contact/Thorntons/)
 
@@ -74,7 +74,7 @@ When you place an order for any product you first create a new user account at T
 
 Sometimes we ask for a little more information from you to make sure we only send offers that are relevant and really interesting to you. When its personal, it can be fun; you may be a secret treacle toffee fanatic, but not really like fudge, so we’ll try to make sure you only receive our stickiest, toffeeist emails!
 
-You can always ask us what information we hold about you. Please contact us on 44 (0) 845 121 1911 if you wish to enquire about the data we hold and we’d be very happy to send this through to you. Remember there is a small fee. For more information on your rights, visit [the Information Commissioner’s website](http://www.ico.gov.uk/for_the_public/personal_information/how_manage/access_info.aspx).
+You can always ask us what information we hold about you. Please contact us on 44 (0) 845 121 1911 if you wish to enquire about the data we hold and we’d be very happy to send this through to you. Remember there is a small fee. For more information on your rights, visit [the Information Commissioner’s website](https://ico.org.uk/for-the-public/raising-concerns/).
 
 ###  **‘No thanks, I don’t want to be contacted for promotional purposes’**
 
