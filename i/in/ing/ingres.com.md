@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623132857id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106165709id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Actian – Take Action on Big Data
+# Privacy Policy - Actian – Data Management & Data Integration
 
 ******_Actian Corporation Respects Your Privacy_**
 
@@ -8,7 +8,7 @@ Actian Corporation (“Actian” “we” or “us”) and its subsidiaries resp
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=3eace8b5-0fcc-4856-85ef-48b061d61cda "TRUSTe Privacy Certification")
 
-Actian has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, including TRUSTe’s TRUSTed Cloud program, which is viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers information collected on [www.actian.com](http://www.actian.com/), [www.pervasive.com](http://www.pervasive.com/), [www.paraccel.com](http://www.paraccel.com/) and our service platform.
+Actian has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, including TRUSTe’s TRUSTed Cloud program, which is viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers information collected on [www.actian.com](https://web.archive.org/), [www.pervasive.com](http://www.pervasive.com/), [www.paraccel.com](http://www.paraccel.com/) and our service platform.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@actian.com](mailto:privacy@actian.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -41,7 +41,7 @@ We will retain personal data we process on behalf of our Clients for as long as 
 
 **1\. Sites covered by this Privacy Statement**
 
-This Privacy Statement applies to Actian-owned websites and domains, and our wholly owned subsidiaries (“Actian Corporation websites”) including [www.actian.com](http://www.actian.com/), [www.pervasive.com](http://www.pervasive.com/), and [www.paraccel.com](http://www.paraccel.com/).
+This Privacy Statement applies to Actian-owned websites and domains, and our wholly owned subsidiaries (“Actian Corporation websites”) including [www.actian.com](https://web.archive.org/), [www.pervasive.com](http://www.pervasive.com/), and [www.paraccel.com](http://www.paraccel.com/).
 
 **Links to non-Actian websites**  
 The Actian websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Actian website. Actian does not control those sites or their privacy practices, which may differ from Actian’s. We do not endorse nor make any representations about third-party websites. The personal data you choose to give to unrelated third parties is not covered by the Actian Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with Actian; that sharing is governed by that third-party company’s privacy policy.
@@ -120,7 +120,7 @@ Actian will deliver a variety of information that complements our products and s
 To opt-out of receiving communications use any of the following methods:
 
   * Select the e-mail “opt-out” or “unsubscribe” link, or follow the opt-out instructions included in each subscription communication
-  * Users who no longer wish to receive our newsletters and promotional communications may opt-out of receiving these communications by visiting our unsubscribe page at <http://www.actian.com/website/unsubscribe>.
+  * Users who no longer wish to receive our newsletters and promotional communications may opt-out of receiving these communications by visiting our unsubscribe page at [http://www.actian.com/website/unsubscribe](https://web.archive.org/website/unsubscribe).
 
 
 
@@ -128,7 +128,7 @@ To opt-out of receiving communications use any of the following methods:
 
 Actian strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change or delete inaccuracies or modify your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Actian websites may limit access to specific individuals through the use of passwords and other personal identifiers.
 
-The most effective way to view and change your personal information is to visit this page, <http://www.actian.com/website/profile-update/>.  We will respond to your access request within 30 days.
+The most effective way to view and change your personal information is to visit this page, [http://www.actian.com/website/profile-update/](https://web.archive.org/website/profile-update/).  We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -153,7 +153,7 @@ Attention: Marketing Programs
 Phone: +1.650.587.5500  
 Email: [privacy@actian.com](mailto:privacy@actian.com)  
 Postal Address: 2300 Geng Rd., Suite 150, Palo Alto, CA 94303 USA  
-Web site URL: [www.actian.com](http://www.actian.com/)
+Web site URL: [www.actian.com](https://web.archive.org/)
 
 Effective Date:
 
