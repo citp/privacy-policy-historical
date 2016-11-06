@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainhorns.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314212539id_/http%3A//trainhorns.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainhorns.net privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106041256id_/http%3A//trainhorns.net/privacy.html) for the most accurate reproduction.*
 
 # TrainHorns About
 
@@ -40,4 +40,4 @@ Individual contact, registration, order, contest, survey and other information c
 >  Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
 
 **User Agreement**  
-A customer's use of this site and/or placement of an order indicates acceptance of TrainHorns [**terms and conditions**](https://web.archive.org/web/20160314212539id_/http%3A//trainhorns.net/terms_conditions.html). TrainHorns.net reserves the right to make changes to the website and its terms and conditions at any time without notice. 
+A customer's use of this site and/or placement of an order indicates acceptance of TrainHorns [**terms and conditions**](https://web.archive.org/web/20161106041256id_/http%3A//trainhorns.net/terms_conditions.html). TrainHorns.net reserves the right to make changes to the website and its terms and conditions at any time without notice. 
