@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628152520id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106101733id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,6 @@ In certain cases, specifically with regard to particular products, You might be 
 
 Contact Information
 
-For any questions, concerns, or comments about our privacy policy, you may contact us (Mon-Sat, 10am–7pm) on +91 8725028883 or [info@ethoswatches.com](mailto:info@ethoswatches.com)
+For any questions, concerns, or comments about our privacy policy, you may contact us (Mon-Sat, 10am–7pm) on +91 8725028887 or [info@ethoswatches.com](mailto:info@ethoswatches.com)
 
 _www.ethoswatches.com reserves the right to modify and/ or change the terms of this policy without any prior notice._
