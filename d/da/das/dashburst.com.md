@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dashburst.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415072644id_/https%3A//dashburst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashburst.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106200917id_/https%3A//dashburst.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DashBurst
 
 Thanks for checking out DashBurst! While you’re here, know that protecting your privacy is important to us and we are committed to being transparent with how we use your information.
 
-Our website (dashburst.com), mobile applications and any of our services directing you to this Privacy Policy (e.g. www.dashburst.com, blog.dashburst.com, magazine.dashburst.com, developers.dashburst.com, collectively referred to as the “Site”) are controlled by DashBurst LLC (collectively “DashBurst,” "we," or "us"). This Privacy Policy also includes the text outlined in our Terms of Service[ https://dashburst.com/terms/](https://web.archive.org/web/20160415072644id_/https%3A/terms/).
+Our website (dashburst.com), mobile applications and any of our services directing you to this Privacy Policy (e.g. www.dashburst.com, blog.dashburst.com, magazine.dashburst.com, developers.dashburst.com, collectively referred to as the “Site”) are controlled by DashBurst LLC (collectively “DashBurst,” "we," or "us"). This Privacy Policy also includes the text outlined in our Terms of Service[ https://dashburst.com/terms/](https://web.archive.org/web/20161106200917id_/https%3A/terms/).
 
 By using any of our websites, mobile applications and services you consent to our collection, transfer, storage, disclosure and other use of your personal data as described in this Privacy Policy. You authorize DashBurst to use your information in the United States and any other country, regardless of which country you reside in or transmit information from. If you have any questions regarding this Privacy Policy or would like to know more about how we collect and store information, or would like to know more about your options, please continue reading or contact us at: privacy@dashburst.com.
 
@@ -42,7 +42,7 @@ Transfer of Business: DashBurst reserves the right to engage in a merger, acquis
 
 Your Information Collection and Use Options
 
-You can choose to not provide us with certain personal information. However, if you choose to not provide certain personal information, certain functions of our platform and other member features may not be available to you. You can also control which notifications you receive from DashBurst on the web and through email via your[ account notifications](https://web.archive.org/web/20160415072644id_/https%3A/settings/notifications) page and other app or device-level settings. For operational purposes, we may still send you other transactional and administrative email communications without offering you the ability to opt-out.
+You can choose to not provide us with certain personal information. However, if you choose to not provide certain personal information, certain functions of our platform and other member features may not be available to you. You can also control which notifications you receive from DashBurst on the web and through email via your[ account notifications](https://web.archive.org/web/20161106200917id_/https%3A/settings/notifications) page and other app or device-level settings. For operational purposes, we may still send you other transactional and administrative email communications without offering you the ability to opt-out.
 
 You can unlink your DashBurst account from other services and close your account at any time where we will then deactivate your account and make your profile and Bursts unavailable. We may, however, retain copies of Bursts previously shared online for legal purposes (like to help prevent fraud and other illegal activity) as well as other purposes. You can still reactivate your account at any time. Also, if information has already been shared with third-party services, the retention will be subject to those third-party policies.
 
@@ -52,7 +52,7 @@ We take protecting your information very seriously and want you to feel confiden
 
 User Submissions
 
-We provide several areas on the site for you to post information about yourself, communicate with others, and upload various types of content (e.g. text, photos, videos, audio files, documents, and infographics). Anything posted on our site is governed by our[ Terms of Service](https://web.archive.org/web/20160415072644id_/https%3A/terms) and may appear on other websites and searches. Also, anything you voluntarily post or disclose in publicly viewable areas on DashBurst is visible to the world and can be collected by others, so please use discretion.
+We provide several areas on the site for you to post information about yourself, communicate with others, and upload various types of content (e.g. text, photos, videos, audio files, documents, and infographics). Anything posted on our site is governed by our[ Terms of Service](https://web.archive.org/web/20161106200917id_/https%3A/terms) and may appear on other websites and searches. Also, anything you voluntarily post or disclose in publicly viewable areas on DashBurst is visible to the world and can be collected by others, so please use discretion.
 
 Privacy of Children
 
