@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630080856id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106090151id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/privacy) for the most accurate reproduction.*
 
 # Privacy notice
 
@@ -117,7 +117,7 @@ We have various statutory duties to publish information in connection with our F
 
 
 
-A full copy of this policy [can be found by here](https://web.archive.org/globalassets/sitedocuments/ftp_information/nmc_fitness-to-practise-disclosure-policy-updated-.pdf).
+See full copies of our [FtP Publication guidance](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp-publication-guidance.pdf) and [Information handling guidance](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp-information-handling-guidance.pdf).
 
 We retain FtP information on our website in accordance with the principles set out in this notice. If you wish to apply to have FtP information about you removed from the website because you think it is out of date, you can email [fitness.to.practise@nmc-uk.org](mailto:fitness.to.practise@nmc-uk.org). You will need to supply us with your PIN, your case reference number and a link to the information you want removed.
 
@@ -226,7 +226,7 @@ W1B 1PZ
 
 #### How to update your information
 
-In the event that any of the information we hold about you is incorrect, you can ask us to correct the mistake by contacting us as set out above. Where the information relates to an incorrect entry on the register, the incorrect and fraudulent entry process will apply. You can find information on the process that is followed in the guidance on  [fraudulent and incorrect entry](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp_committees/incorrect-and-fraudulent-entry-guidance.pdf).
+In the event that any of the information we hold about you is incorrect, you can ask us to correct the mistake by contacting us as set out above. Where the information relates to an incorrect entry on the register, the incorrect and fraudulent entry process will apply. You can find information on the process that is followed in the guidance on  [fraudulent and incorrect entry](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp_committees/fraudulent-and-incorrect-entry-guidance.pdf).
 
 Further information about our data protection responsibilities is set out in our [Data protection policy](https://web.archive.org/globalassets/sitedocuments/other-publications/nmc-data-protection-policy.pdf).
 
@@ -246,7 +246,8 @@ This privacy notice refers to a number of the NMC’s policies and documents whi
 
   * [Data protection policy](https://web.archive.org/globalassets/sitedocuments/other-publications/nmc-data-protection-policy.pdf)
   * [Information security policy](https://web.archive.org/globalassets/sitedocuments/other-publications/information-security-policy.pdf)
-  * [Fitness to Practise publication and disclosure policy](https://web.archive.org/globalassets/sitedocuments/ftp_information/nmc_fitness-to-practise-disclosure-policy-updated-.pdf)
+  * [FtP Publication guidance](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp-publication-guidance.pdf)
+  * [FtP Information handling guidance](https://web.archive.org/globalassets/sitedocuments/ftp_information/ftp-information-handling-guidance.pdf)
   * [Cookies information](https://web.archive.org/terms-and-conditions/cookies/)
   * Corporate retention schedule available on request
 
