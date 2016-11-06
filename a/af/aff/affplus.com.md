@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affplus.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161335id_/http%3A//www.affplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affplus.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106223802id_/https%3A//www.affplus.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Affplus
 
-This Privacy Policy governs the manner in which Affplus.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.affplus.com](http://www.affplus.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Affplus.com.
+This Privacy Policy governs the manner in which Affplus.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.affplus.com](https://www.affplus.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Affplus.com.
 
 ## Personal identification information
 
@@ -50,6 +50,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [click here](https://web.archive.org/contact/) to contact us.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [click here](http://www.affpaying.com/contact) to contact us.
 
 This document was last updated on November 13, 2012.
