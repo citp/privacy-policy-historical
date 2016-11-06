@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510060518id_/http%3A//www.talentedk12.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentedk12.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107005616id_/http%3A//www.talentedk12.com/privacy-policy) for the most accurate reproduction.*
 
 # TalentEd K-12 Strategic Talent Management | Privacy Policy
 
