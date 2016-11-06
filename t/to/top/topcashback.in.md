@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402212231id_/http%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106104157id_/https%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
 
 # TopCashback - Privacy
 
@@ -37,7 +37,7 @@ Cookie Policy We recommend that all users enable cookies in their browsers to ma
 
 If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases.
 
-If a user can log into our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our [tracking test](https://web.archive.org/testtracking) page.
+If a user can log into our site, then they most likely have cookies enabled. 
 
 Subscription We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. Please visit your account settings to view these preferences
 
