@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moms-make-money.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408095314id_/http%3A//moms-make-money.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moms-make-money.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106200901id_/http%3A//moms-make-money.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moms Make Money
 
