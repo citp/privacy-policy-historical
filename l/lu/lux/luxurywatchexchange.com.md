@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627104827id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107001430id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
 # Luxury Watch Exchange | Auction Sell Buy Trade
 
@@ -37,4 +37,4 @@ Data in relation to credit card payments are processed by Authorize.net and Pay
 
 **Changes to this Policy:**  Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it continues to meet with your approval. **Contacting Us: **If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [admin@uxurywatchexchange.com](mailto:admin@theluxurywatchexchange.com).  You can also correct any factual errors in that information or request us to remove your details form any list under our control.
 
-[](http://www.allwatchsites.com/)
+[](http://www.watchsites.net/) [](http://www.allwatchsites.com/)
