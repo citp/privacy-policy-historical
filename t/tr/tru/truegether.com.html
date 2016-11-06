@@ -1,0 +1,1234 @@
+<!--The following is the downloaded HTML source of the truegether.com privacy policy that was archived on 2016-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161106130614id_/http%3A//www.truegether.com/privacyPolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+	    <title>TrueGether: Privacy Policy</title>
+	    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=10">
+	    		
+		
+
+
+
+
+
+
+
+		
+		
+		
+		<link href="//code.jquery.com/ui/1.10.3/themes/ui-darkness/jquery-ui.min.css" media="screen" rel="stylesheet" type="text/css">
+		
+		
+		
+		<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+		
+		
+		
+		
+			<link media="screen" rel="stylesheet" type="text/css" href="/wro/all-1.1.2-RELEASE.css">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link media="screen" rel="stylesheet" type="text/css" href="/wro/mobile-1.1.2-RELEASE.css">
+				
+	
+
+
+
+
+
+
+
+	
+	 
+	
+	
+	<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+	
+	 
+	
+			<script type="text/javascript" src="/wro/all-1.1.2-RELEASE.js"></script>
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	<script type="text/javascript" src="//js.maxmind.com/js/geoip.js"></script>			
+
+
+		
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+	$(function(){
+		var CONTEXT_ROOT = '';
+		$.i18n.properties({
+			name:'jsmessages',
+			language:'en_US', 
+			path: CONTEXT_ROOT + '/resourcebundles/',
+			cache: true
+		});
+	});
+//]]>
+</script>
+
+			
+	
+
+
+
+
+
+
+
+	<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+	
+	<script type="text/javascript" src="/js/jquery.validate.messages.js"></script>
+	
+	 
+	
+			
+	
+	
+    
+    
+    
+
+
+
+
+
+
+
+    
+
+
+	
+	<script type="text/javascript">
+	
+		var CONTEXT_ROOT = '';
+		var IMAGE_PREFIX = '/images.html';
+		
+		var USERLATLONG = null;
+		var USERLOCATION = null;
+		var USERCITY = null;
+		var USERCOUNTRY = null;
+
+		var isGOOGLEMAPSAPILOADED = false;
+		
+		var MQ = window.matchMedia( "(max-width: 768px)" );
+		var SCREENWIDTH = getScreenWidth();
+		var SCREENHEIGHT = getScreenHeight();
+		
+		
+		if('null' == 'null'){
+
+			try{
+				
+				if( geoip_latitude() != null 
+						&&  geoip_latitude() != ""
+						&& geoip_longitude() != null
+						&& geoip_longitude() != ""
+						&& geoip_city() != null 
+						&& geoip_city() != ""
+						&& geoip_country_code() != null
+						&& geoip_country_code() != ""){
+					USERLATLONG = geoip_latitude() + "," + geoip_longitude();
+					USERCOUNTRY = geoip_country_code();
+					var region = geoip_region();
+					if(isNaN(region)){
+						USERLOCATION = geoip_city() + "," + region;
+					}
+					else{
+						USERLOCATION = geoip_city() + "," + USERCOUNTRY;
+					}
+					
+					USERCITY = encodeURIComponent(geoip_city());
+				}
+			}
+			catch(err){
+				
+			}
+		}
+		else{
+			USERLATLONG = "null";
+			USERLOCATION = "null";
+			USERCITY = encodeURIComponent("null");
+			USERCOUNTRY = "null";
+		}
+		
+		
+		if(USERCOUNTRY == null || USERCOUNTRY == "null"){
+			try{
+				USERCOUNTRY = geoip_country_code();
+			}
+			catch(err){
+				
+			}
+		}
+		
+		var USERCOUNTRYDISPLAYVALUE = "[Unknown Location]";
+		
+		
+		var LOCALECOUNTRY = "US";
+		var LOCALELANGUAGE = "en";
+		
+		var APPLICATIONBUILDNUMBER='Build-Date-2016-11-01 18:42:04-Build-SVN-Revision-3306';
+		
+		$(function(){
+			
+			
+			
+			
+			
+			
+			var usercountry = 'null';
+			var cookieAboutToExpire = isCookieAboutToExpire(getCookiesExpirationDate());
+			
+			if ( (usercountry == 'null' || cookieAboutToExpire) &&  USERLATLONG != null) {
+				if( areCookiesEnabled() ){
+					if(cookieAboutToExpire){
+						setUserCookies(true);
+					}
+					else if(usercountry == 'null'){
+						setUserCookies(false);
+					}
+				}
+			}
+			
+			
+			
+			var userMsgHTML = '<div class="bigBluTxtEndUserMessage" id="userMessage"></div>';
+			var userErrorMsgHTML = '<div class="bigRedTxtEndUserMessage" id="userErrorMessage"></div>';
+			var wrapperElem = $("#innerWrapper");
+			if($("#innerWrapperHomePage").length){
+				wrapperElem = $("#innerSearchWrapper");
+				
+				$("#userMessage").css("margin-left","0");
+				$("#userMessage").css("margin-bottom","10px");
+				$("#userErrorMessage").css("margin-left","0");
+				$("#userErrorMessage").css("margin-bottom","10px");
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+			
+	        
+			
+			
+			if(BrowserDetect.browser == "Explorer" && BrowserDetect.version < 10.0 ){
+				$(userErrorMsgHTML).prependTo($("wrapperElem"));
+				$("#userErrorMessage").text('This site is designed to worked with Internet Explorer 9.0+. It may not work optimally for your browser.');
+			}
+			
+			if(BrowserDetect.browser ==  "Safari" && BrowserDetect.version < 5.1 ){
+				$(userErrorMsgHTML).prependTo($("wrapperElem"));
+				$("#userErrorMessage").text('This site is designed to worked with Safari 5.1+. It may not work optimally for your browser.');
+			}
+
+			
+			helpAndMore();
+		});
+			
+		function getMinTotalPriceFq(){
+			
+			var region = COUNTRYTOREGION[USERCOUNTRY];
+			if(region){
+				if(region == "US"){
+					return "listing_mintotalprice_us:[* TO *]";
+				}
+				else if(region == "CA"){
+					return "listing_mintotalprice_canada:[* TO *]";
+				}
+				else if(region == "Europe"){
+					return "listing_mintotalprice_europe:[* TO *]";
+				}
+				else if(region == "Asia"){
+					return "listing_mintotalprice_asia:[* TO *]";
+				}
+				else if(region == "MX"){
+					return "listing_mintotalprice_mexico:[* TO *]";
+				}
+				else if(region == "Americas"){
+					return "listing_mintotalprice_nsamerica:[* TO *]";
+				}
+				else if(region == "AU"){
+					return "listing_mintotalprice_australia:[* TO *]";
+				}
+				else if(region == "JP"){
+					return "listing_mintotalprice_japan:[* TO *]";
+				}
+				else if(region == "GB"){
+					return "listing_mintotalprice_unitedkingdom:[* TO *]";
+				}
+				else if(region == "DE"){
+					return "listing_mintotalprice_germany:[* TO *]";
+				}
+				else if(region == "Worldwide"){
+					return "listing_mintotalprice_worldwide:[* TO *]";
+				}
+				else if(region == "IE"){
+					return "listing_mintotalprice_ireland:[* TO *]";
+				}
+				else if(region == "EUROPEANUNION"){
+					return "listing_mintotalprice_europeanunion:[* TO *]";
+				}
+				else if(region == "FR"){
+					return "listing_mintotalprice_france:[* TO *]";
+				}
+				else if(region == "TW"){
+					return "listing_mintotalprice_taiwan:[* TO *]";
+				}
+				else if(region == "HK"){
+					return "listing_mintotalprice_hongkong:[* TO *]";
+				}
+				else if(region == "NZ"){
+					return "listing_mintotalprice_newzealand:[* TO *]";
+				}
+				else if(region == "CN"){
+					return "listing_mintotalprice_china:[* TO *]";
+				}
+				else if(region == "BR"){
+					return "listing_mintotalprice_brazil:[* TO *]";
+				}
+				else if(region == "RU"){
+					return "listing_mintotalprice_russianfederation:[* TO *]";
+				}
+				else if(region == "BE"){
+					return "listing_mintotalprice_belgium:[* TO *]";
+				}
+				else if(region == "DK"){
+					return "listing_mintotalprice_denmark:[* TO *]";
+				}
+				else if(region == "GR"){
+					return "listing_mintotalprice_greece:[* TO *]";
+				}
+				else if(region == "IT"){
+					return "listing_mintotalprice_italy:[* TO *]";
+				}
+				else if(region == "ES"){
+					return "listing_mintotalprice_spain:[* TO *]";
+				}
+				else if(region == "IN"){
+					return "listing_mintotalprice_india:[* TO *]";
+				}
+				else if(region == "AT"){
+					return "listing_mintotalprice_austria:[* TO *]";
+				}
+				else if(region == "CH"){
+					return "listing_mintotalprice_switzerland:[* TO *]";
+				}
+				else if(region == "NL"){
+					return "listing_mintotalprice_netherlands:[* TO *]";
+				}
+				else if(region == "PL"){
+					return "listing_mintotalprice_poland:[* TO *]";
+				}
+			}
+			
+			
+			return "listing_mintotalprice_worldwide:[* TO *]";
+		}
+
+		
+	     
+		function getListingQueryJson(){
+			var listingQueryJSON;
+			
+				
+				
+					
+					
+				
+			
+			return listingQueryJSON;
+		}
+		
+		
+		function getScreenWidth(){
+			return (window.innerWidth > 0) ? window.innerWidth : screen.width;
+		}
+		
+		function getScreenHeight(){
+			return (window.innerHeight > 0) ? window.innerHeight : screen.height;
+		}
+		
+	</script>	
+
+	
+	
+
+		
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+var enablegoogleanalytics = true;
+
+
+if(enablegoogleanalytics){
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-37726082-1']);
+	  
+	(function() {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+	
+	if(location.href.indexOf("search.html") == -1){
+		_gaq.push(['_trackPageview']);
+	}
+	else{
+		
+		_gaq.push(['_trackPageview', '/search.html?q=']);
+	}
+	
+	
+	if('false' == 'true' || '' == 'true'){
+		_gaq.push(['_trackPageview', '/newuser.html']);
+	}
+	
+	
+	
+	
+	
+	
+
+	
+
+	if(location.href.indexOf("listing.html") != -1){
+		_gaq.push(['_trackPageview','/listing.html']);
+	}
+
+	if(location.href.indexOf("reviewPurchase.html") != -1){
+		_gaq.push(['_trackPageview','/reviewPurchase.html']);
+	}
+}
+
+</script>
+			
+			
+		
+	
+		
+	    <script type="text/javascript">
+		$(document).ready(function() {
+			$("#linkForAllPagesUrlLabels").html("<a href='/privacyPolicy.html' class='bluLnk14'>Privacy Policy</a>");
+			$("#privacypolicy").addClass("bold");
+			
+			if( USERCOUNTRY == 'IN'){
+				$("#paragraph1").text("If you create a listing on our site, you will need to provide us your paypal email address or register with Amazon.com as a seller so that we can accept payments on your behalf. Amazon.com only provides a token to us and no other personal information is transferred to us by Amazon.com or provide your bank information so we can accept payments through CCAvenue.");	
+				$("#paragraph2").text("If you sell an item Paypal, Amazon and CCAvenue will provide us with the shipping address of the buyer,  the amount of the transaction and the phone number of the buyer. We will transfer these details to you via email.");
+				$("#paragraph3").text("If you purchase a listing on our site, Paypal, Amazon and CCAvenue will provide us with your shipping address, amount of the transaction and your phone number. We will only share this information with the seller so that the item can be shipped to you. We do not have access to your payment information like credit/debit card etc.");
+			}
+		});
+		</script>
+	<script async="" type="text/javascript" src="https://app.purechat.com/VisitorWidget/WidgetScript"></script></head>
+
+	<body>
+					
+
+			
+			
+	
+			<noscript>
+			    <div>
+		   			<h1>We have determined that you have disabled javascript in your browser. This site will not function without javascript.</h1>
+		   		</div>
+			</noscript>
+		<div id="wrapper">
+			<div id="hdrWrapper">
+						
+		
+		
+
+
+
+
+
+
+
+		
+
+		
+		<script type="text/javascript">
+		$(function()
+				{
+
+			if(MQ.matches)
+			{
+				$(".headerRt").html("<img src='/images/mobile/mobile_menu_icon.png' onclick='javascript:ShowOffContent()' class='hamburgerIconImg' id='hamburgerIconImg' />");
+				} 
+			
+			 
+			 $("#SubMenuForLinks").click(function(){
+					$(".ContactUsLinksDivforMobile").slideToggle();
+				}); 
+			 
+			 $("#SubMenuForLinks").on('click', function(e) {
+					$(".mobileArrowDownSideImage").toggleClass("mobileArrowUpSideImage");
+				});
+			 
+		});
+		
+		
+		
+		
+	
+		</script>
+
+					
+					
+					<div id="topHdrWapper">
+						<div id="topHdr">
+						
+					   <!-- We have to explicitly take this Div with class to give margins for mobile version because in all above parents we can not set margin -->
+						<div class="mobileHeader">
+							<div class="headerLt">
+								<a href="/"><div class="MainlogoDiv" tabindex="2050"> </div></a>
+							</div>
+							<div class="headerRt" id="userHeaderRt">
+								<a href="/contactus.html" class="txtUnderLine mrRt20 semiBold uppercase" tabindex="2051" id="whyUs">Help &amp; Contact</a>								
+								
+									
+										
+										<a href="/secure/myprofile.html?redirecturl=" class="txtUnderLine" tabindex="2052">SIGN IN</a>
+										<a href="/secure/listingForm.html?TGLOGINMSG=You+must+be+logged+in+before+you+can+sell+or+edit+an+item." class="txtUnderLine mrLt20" tabindex="2053">SELL</a>
+									
+									
+								
+								<div id="polyglotLanguageSwitcher" style="display:none;">
+									<form action="#">
+										<select id="polyglot-language-options">
+											<option id="en" value="en">ENGLISH</option>
+											<option id="zh" value="zh">中国的</option>
+										</select>
+									</form>
+								</div>
+																
+							</div>
+							</div>
+						</div>
+					
+						
+						<div id="submitMsgDialog" style="display:none">		
+							<div class="currentListingBg">
+								<div class="darkGreyTxt14 confirmationTxt" id="submitMsgDialogMsg"></div>
+							</div>
+						</div>
+					</div>
+					
+					
+					
+					
+					
+					
+				
+					<div id="HamburgerContentDiv" class="dark_blue">
+					
+		
+		
+
+
+
+
+
+
+
+        
+
+        
+       
+        
+		
+		
+		
+		
+		
+		
+		
+	
+		
+					
+					<div class="mobileUserImgNameDiv">
+					<div class="mobileContentsMiddleContainer">
+					
+						
+						
+									
+					<a href="/secure/myprofile.html">
+					<img src="/images/mobile/mobileguestimg.png">Guest</a>
+					
+					
+					
+					</div>
+					</div>
+					
+					
+					<ul class="MobileLinkList">
+					<li id="SubMenuForLinks"><a href="#"><img class="MobileLinkIcons" src="/images/mobile/mobilehelpicon.png">Help &amp; Contact<div class="mobileArrowDownSideImage"></div></a>
+					
+						<div class="ContactUsLinksDivforMobile">
+					 	<ul id="SubMenuCss">
+					 	<li><a href="/">Home</a></li>
+					 	<li><a href="/howItWorks.html">How it works</a></li>
+					 	<li><a href="/whyTrueGether.html">Why TrueGether</a></li>
+					 	<li><a href="/aboutus.html">About Us</a></li>
+					 	<li><a href="/manageMultipleMarketPlaces.html#subscriptionPlansDiv">Pricing</a></li>
+					 	<li><a href="/manageMultipleMarketPlaces.html">Sell more across multiple eCommerce channels</a></li>
+					 	<li><a href="/copyListingsFromeBay.html">Copy Listings from eBay</a></li>
+					 	<li><a href="/copyListingsFromAmazon.html">Copy Listings from Amazon</a></li>
+					 	<li><a href="/manageMarketplacesFromeBay.html">Manage Amazon, Google Shopping, TrueGether from eBay</a></li>
+					 	<li><a href="/manageMarketplacesFromAmazon.html">Manage eBay, Google Shopping, TrueGether from Amazon</a></li>
+					 	<li><a href="/manageMarketplacesFromTruegether.html">Manage Amazon, eBay, Google Shopping from TrueGether</a></li>
+					 	<li><a href="/amazonMwsSetupInstructions.html">Amazon MWS Setup Instructions</a></li>
+					 	<li><a href="/learnMore.html">Bulk Upload using Inventory File</a></li>
+					 	<li><a href="/buyerProtection.html">Buyer Protection</a></li>
+					 	<li><a href="/videos.html">Videos</a></li>
+					 	<li><a href="/contactus.html">Contact Us</a></li>
+					 	<li><a href="/privacyPolicy.html">Privacy Policy</a></li>
+					 	<li><a href="/termsandConditions.html">Terms and Conditions</a></li>
+					 	<li><a href="/eBayAlternative.html">TrueGether- Best alternative to eBay</a></li>
+					 	<li><a href="/returnPolicyStatic.html">Return Policy</a></li>
+					 	<li><a href="/handlingTimeStatic.html">Handling Time and Shipping Policy</a></li>
+					 	<li><a href="https://groups.google.com/forum/#!forum/truegether-support" target="_blank">FAQ &amp; Help</a></li>
+					 	</ul>
+					 	</div>
+					 	
+					</li>
+					<li class="howItWorks" style="display:none;"><a href="/howItWorks.html"><img class="MobileLinkIcons" src="/images/mobile/mobile_how_it_works.png">HOW IT WORKS<img class="MobileArrowPic" src="/images/rightArrow.png"></a></li>
+					
+					
+					<li><a href="/secure/listingForm.html?TGLOGINMSG=You+must+be+logged+in+before+you+can+sell+or+edit+an+item."><img class="MobileLinkIcons" src="/images/mobile/mobile_sellblack.png">SELL<img class="MobileArrowPic" src="/images/rightArrow.png"></a></li>
+					<li><a href="/secure/myprofile.html?redirecturl="><img class="MobileLinkIcons" src="/images/mobile/mobile_signin.png">SIGN IN<img class="MobileArrowPic" src="/images/rightArrow.png"></a></li>
+					
+					
+								
+                    <li class="whyUs" style="display:none;"><a href="/whyTrueGether.html"><img class="MobileLinkIcons" src="/images/mobile/mobile_why_us.png">WHY US<img class="MobileArrowPic" src="/images/rightArrow.png"></a></li>
+					</ul>
+					
+					</div> 
+					
+					
+				    
+					<script type="text/javascript">
+					    function ShowOffContent()
+					    {	
+					    document.getElementById("HamburgerContentDiv").classList.toggle('open');
+						e.stopPropagation();				
+					};
+					   
+					</script>
+					
+			</div>
+			<div id="mainWrapper">
+				<div id="innerWrapper">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+		<script type="text/javascript">
+			//<![CDATA[
+			$(function()
+			{
+				
+				
+				if( ( USERCOUNTRY == 'US' || USERCOUNTRY == 'GB' || USERCOUNTRY == 'AU' || USERCOUNTRY == 'CA') && USERLATLONG != null && USERLATLONG != 'undefined' && USERLATLONG != "" ){
+					$( "#compareCraigslist" ).show();
+					$( "#compareCraigslistName" ).show();
+				}
+				
+				
+				if(!MQ.matches){
+					
+					$("#queryString").focus(function(){
+						if($(this).val() == ""){
+							$("#compareDiv").hide();
+						}
+						else if( window.location.href.indexOf("search.html") != -1 ){
+							$("#compareDiv").show();
+						}
+					});
+					
+					
+					$("#queryString").blur(function(){
+						if($(this).val() == ""){
+							$("#compareDiv").hide();
+						}
+						else if( window.location.href.indexOf("search.html") != -1 ){
+							$("#compareDiv").show();
+						}
+					});
+	
+					
+					$("#queryString").keyup(function(){
+						if($(this).val() == ""){
+							$("#compareDiv").hide();
+						}
+						else if( window.location.href.indexOf("search.html") != -1 ){
+							$("#compareDiv").show();
+							doComparision( $(this).val() );
+						}
+					});
+				}
+
+				
+				
+				
+				var isiPad = /ipad/i.test(navigator.userAgent.toLowerCase());
+				if(!MQ.matches && !isiPad)
+				{
+				activateTipTip();
+				}
+
+				
+				
+				var onCreate = false;
+				if( location.href.indexOf("listing.html") != -1 ){
+					onCreate = createBreadCrumb;
+				}
+				
+				
+				
+				
+				var inputCategories = [ {"id":"","name":"All Categories"},{"id":"USER.antiques","name":"Antiques"},{"id":"USER.artsandcrafts","name":"Arts & Crafts"},{"id":"USER.automobile","name":"Automobiles"},{"id":"USER.babyandkidstuff","name":"Baby & Kid stuff"},{"id":"USER.booksandmagazines","name":"Books & Magazines"},{"id":"USER.businessandcommercial","name":"Business/Commercial"},{"id":"USER.cdsdvdsandvhs","name":"Cds / Dvds / VHS"},{"id":"USER.cellphones","name":"Cell Phones"},{"id":"USER.clothingandaccessories","name":"Clothing & Accessories"},{"id":"USER.collectibles","name":"Collectibles"},{"id":"USER.computers","name":"Computers"},{"id":"USER.electronics","name":"Electronics"},{"id":"USER.giftcardsandcoupons","name":"Gift Cards & Coupons"},{"id":"USER.healthandbeauty","name":"Health and Beauty"},{"id":"USER.homeandgarden","name":"Home and Garden"},{"id":"USER.jewelry","name":"Jewelry & Watches"},{"id":"USER.musicalinstruments","name":"Musical Instruments"},{"id":"USER.petsupplies","name":"Pet Supplies"},{"id":"USER.photoandvideo","name":"Photo/Video"},{"id":"USER.realestate","name":"Real Estate"},{"id":"USER.sportinggoods","name":"Sporting Goods"},{"id":"USER.tickets","name":"Tickets"},{"id":"USER.toysandgames","name":"Toys & Games"},{"id":"USER.travelbagsandluggage","name":"Travel, Bags & Luggage"},{"id":"USER.videogaming","name":"Video Gaming"},{"id":"USER.other","name":"Other"},];
+				$("#categoriesDropDownDiv").customDropdown({
+					output: $("#category"),
+					width: 283,
+					values: inputCategories,
+					displayText : "All Categories",
+					title: "Category",
+					optional:false,
+					select: function(){
+						$("#categoryDisplayValue").val($('[id="' + $("#category").val() + '"]').html());
+						$("#categoryFacetField").val("listing_category1");
+						$("#categoryFacetFieldFq").val("listing_category");
+						$("#categoryFacetFieldValueFq").val($("#category").val());
+						$("#categoriesDropDownDiv .customDropdownTxtSpan").html($('[id="' + $("#category").val() + '"]').html());
+					},
+					tabindex: 2,
+					oncreate: onCreate
+				});
+
+				
+				var listingQueryJSON = getListingQueryJson();
+
+				if(listingQueryJSON != null){
+					
+					
+					var queryString = listingQueryJSON.queryString == null ? "Start Searching" : listingQueryJSON.queryString;
+					$("#queryString").val(queryString);
+					if(listingQueryJSON.category != null && listingQueryJSON.category != ""){
+						$("#category").val(listingQueryJSON.category);
+					}
+					
+					if(!MQ.matches){
+						
+						if( listingQueryJSON.queryString != null && listingQueryJSON.queryString != "" && window.location.href.indexOf("search.html") != -1 ){
+							$("#compareDiv").show();
+							doComparision( listingQueryJSON.queryString );
+						}
+					}
+
+					if(listingQueryJSON.categoryDisplayValue != null && listingQueryJSON.categoryDisplayValue != ""){
+						$("#categoriesDropDownDiv .customDropdownTxtSpan").html( listingQueryJSON.categoryDisplayValue );
+					}
+					
+					
+					$("#categoryFacetField").val(listingQueryJSON.categoryFacetField);
+					if(listingQueryJSON.categoryFacetFieldFq != null && listingQueryJSON.categoryFacetFieldFq != ""){
+						$("#categoryFacetFieldFq").val(listingQueryJSON.categoryFacetFieldFq);
+						$("#categoryFacetFieldValueFq").val(listingQueryJSON.categoryFacetFieldValueFq);
+					}
+				}
+				
+				$("#search_form").submit(function(){
+					
+					var currenttime = new Date();
+					var duration = 365;
+					currenttime.setDate(currenttime.getDate() - duration);
+					
+					var starttime = currenttime.toISOString();
+					
+					var timeRange = "listing_starttime:[" + starttime + " TO *]";
+					$("#timeRangeFq").val(timeRange);
+					
+					
+					var category = $("#category").val();
+					
+					
+					var categoryFacetField = $("#categoryFacetField").val();
+					if ( category != "" && categoryFacetField == "" ) {
+							$("#categoryFacetField").val("listing_category1");
+							$("#categoryFacetFieldFq").val("listing_category");
+							$("#categoryFacetFieldValueFq").val($("#category").val());
+					}
+					else if( category == "" ){
+						$("#categoryFacetField").val("listing_category");
+						
+						
+						$("#categoryFacetFieldFq").val("");
+						$("#categoryFacetFieldValueFq").val("");
+					}
+					
+					
+					$("#minTotalPriceFq").val(getMinTotalPriceFq());
+					
+					if($("#queryString").val() == "Start Searching" ){
+			    		$("#queryString").val("");
+			    	}
+
+				});
+				
+				
+				$("#search_form").validate({
+					errorPlacement: function(error, element) {
+						error.appendTo("#searchErrorDiv");
+					}
+				});
+				
+				$.validator.addMethod("maxLengthForSearch", function(value, element) {
+				    return value.length <= 100;
+				}, "You have reached the maximum number of characters allowed");
+			});
+
+			function openAmazonTab( searchedItem ){
+				if( USERCOUNTRY == 'GB' ){
+				 	window.open('http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow');
+				}
+				else if( USERCOUNTRY == 'AU' ){
+				    window.open('http://www.amazon.com.au/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow');
+				}
+				else if( USERCOUNTRY == 'CA' ){
+					window.open('http://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow');
+				}
+				else if( USERCOUNTRY == 'IN' ){
+					window.open('http://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow');
+				}
+				else{
+					window.open('http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow');
+				}
+			}
+			
+			function closeAmazonTab( searchedItem ){
+				if( USERCOUNTRY == 'GB' ){
+				 	window.open('http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow').close();
+				}
+				else if( USERCOUNTRY == 'AU' ){
+				    window.open('http://www.amazon.com.au/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow').close();
+				}
+				else if( USERCOUNTRY == 'CA' ){
+					window.open('http://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow').close();
+				}
+				else if( USERCOUNTRY == 'IN' ){
+					window.open('http://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow').close();
+				}
+				else{
+					window.open('http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords='+searchedItem,'amazonWindow').close();
+				}
+			}
+
+			function openEbayTab( searchedItem ){
+				if( USERCOUNTRY == 'GB' ){
+				 	window.open('http://www.ebay.co.uk/sch/i.html?_nkw='+searchedItem,'ebayWindow');
+				}
+				else if( USERCOUNTRY == 'AU' ){
+				    window.open('http://www.ebay.com.au/sch/i.html?_nkw='+searchedItem,'ebayWindow');
+				}
+				else if( USERCOUNTRY == 'CA' ){
+					window.open('http://www.ebay.ca/sch/i.html?_nkw='+searchedItem,'ebayWindow');
+				}
+				else if( USERCOUNTRY == 'IN' ){
+					window.open('http://www.ebay.in/sch/i.html?_nkw='+searchedItem,'ebayWindow');
+				}
+				else{
+					window.open('http://www.ebay.com/sch/i.html?_nkw='+searchedItem,'ebayWindow');
+				}
+			}
+
+			function closeEbayTab( searchedItem ){
+				if( USERCOUNTRY == 'GB' ){
+				 	window.open('http://www.ebay.co.uk/sch/i.html?_nkw='+searchedItem,'ebayWindow').close();
+				}
+				else if( USERCOUNTRY == 'AU' ){
+				    window.open('http://www.ebay.com.au/sch/i.html?_nkw='+searchedItem,'ebayWindow').close();
+				}
+				else if( USERCOUNTRY == 'CA' ){
+					window.open('http://www.ebay.ca/sch/i.html?_nkw='+searchedItem,'ebayWindow').close();
+				}
+				else if( USERCOUNTRY == 'IN' ){
+					window.open('http://www.ebay.in/sch/i.html?_nkw='+searchedItem,'ebayWindow').close();
+				}
+				else{
+					window.open('http://www.ebay.com/sch/i.html?_nkw='+searchedItem,'ebayWindow').close();
+				}
+			}
+
+			function openGSTab( searchedItem ){
+				if( USERCOUNTRY == 'GB' ){
+				 	window.open('https://www.google.co.uk/search?output=search&tbm=shop&q='+searchedItem,'gsWindow');
+				}
+				else if( USERCOUNTRY == 'AU' ){
+				    window.open('https://www.google.com.au/search?output=search&tbm=shop&q='+searchedItem,'gsWindow');
+				}
+				else{
+					window.open('https://www.google.com/search?output=search&tbm=shop&q='+searchedItem,'gsWindow');
+				}
+			}
+
+			function closeGSTab( searchedItem ){
+				if( USERCOUNTRY == 'GB' ){
+				 	window.open('https://www.google.co.uk/search?output=search&tbm=shop&q='+searchedItem,'gsWindow').close();
+				}
+				else if( USERCOUNTRY == 'AU' ){
+				    window.open('https://www.google.com.au/search?output=search&tbm=shop&q='+searchedItem,'gsWindow').close();
+				}
+				else{
+					window.open('https://www.google.com/search?output=search&tbm=shop&q='+searchedItem,'gsWindow').close();
+				}
+			}
+
+			function getCraigslistURL( searchedItem ){
+				var craigslistURL = "";
+				if( null != USERLATLONG ){
+					$.ajax({
+						  type: 'GET',
+						  url: CONTEXT_ROOT + '/getCraigslistURL.html?latlong=' + USERLATLONG,
+						  async: false,
+						  success: function(data) {
+										if( data != null ){
+											craigslistURL = data + searchedItem;
+										}
+									},
+						  dataType: 'text'
+					});
+				}
+				return craigslistURL;
+			}
+			
+			function doComparision( searchedItem ){
+				$("#compareAmazon").change(function() {
+				    if(this.checked) {
+				    	openAmazonTab( searchedItem );
+				    }
+				    else{
+				    	closeAmazonTab( searchedItem );
+					}
+				});
+				$("#compareCraigslist").change(function() {
+					var craigslistURL = getCraigslistURL(searchedItem);
+					
+					if( null != craigslistURL && craigslistURL != "" ){
+					    if(this.checked) {
+					    	window.open(craigslistURL,'craigslistWindow');
+					    }
+					    else{
+					    	window.open(craigslistURL,'craigslistWindow').close();
+						}
+					}
+				});
+				$("#compareEbay").change(function() {
+				    if(this.checked) {
+				    	openEbayTab( searchedItem );
+				    }
+				    else{
+				    	closeEbayTab( searchedItem );
+					}
+				});
+				$("#compareGS").change(function() {
+				    if(this.checked) {
+				    	openGSTab( searchedItem );
+				    }
+				    else{
+				    	closeGSTab( searchedItem );
+					}
+				});
+			}
+			
+			//]]>
+		</script>
+
+		
+						<div id="innerSearchWrapper">
+							<form method="post" action="/searchPost.html" class="ls-form" id="search_form">
+								<fieldset>
+									<input type="hidden" id="quantityFq" name="quantityFq" value="listing_quantity:[1 TO *]">
+									<input type="hidden" id="timeRangeFq" name="timeRangeFq" value="">
+									<input type="hidden" id="listing_statusFq" name="listing_statusFq" value="listing_status:true">
+									<input type="hidden" id="minTotalPriceFq" name="minTotalPriceFq">
+									<input type="hidden" id="defType" name="defType" value="edismax">
+									
+									<input type="hidden" id="qf" name="qf" value="listing_name listing_name_ngram listing_description_nohtml lily.id listing_sellername listing_mpn listing_gtin listing_asin">
+									<input type="hidden" id="category" name="category">
+									<input type="hidden" id="categoryDisplayValue" name="categoryDisplayValue">
+									
+									<input type="hidden" id="friendsonly" name="friendsonly">
+									<input type="hidden" id="categoryFacetField" name="categoryFacetField">
+									<input type="hidden" id="categoryFacetFieldFq" name="categoryFacetFieldFq">
+									<input type="hidden" id="categoryFacetFieldValueFq" name="categoryFacetFieldValueFq">
+									<input type="hidden" id="conditionFacetField" name="conditionFacetField" value="listing_condition">
+									
+									<div>
+										<div class="startSearching">
+									       <div id="searchOff">
+									       	<input type="search" class="inputSearch maxLengthForSearch customizedTitle" placeholder=" Start Searching" id="queryString" name="queryString" tabindex="1" title="Enter Keywords or Item number or Seller name" maxlength="100">
+									       </div>
+								     	 <div class="errorDiv" id="searchErrorDiv" style="margin-left:62px; overflow:visible"></div>
+								   		</div>
+										<div id="categoriesDropDownDiv" class="floatLt mrLt10"></div>							
+										<div class="advSearch">
+											<input type="image" src="/images/search.jpg" alt="" class="searchBtn customizedTitle" id="searchBtn" tabindex="3" title="Search">
+											<a href="/advancedSearch.html" class="browseByCategoryLink" tabindex="4">Advanced Search</a>
+											<a href="/categories.html" class="browseByCategoryLink" tabindex="5">Browse by Categories</a>
+										</div>
+									</div>
+									<div class="compareDiv darkGrey2 hide" id="compareDiv">
+										<span class="font14 mrRt10">Compare:</span>
+										<input type="checkbox" id="compareAmazon" name="compareAmazon" title="Amazon" class="middle mrRt3">
+										<span class="font12 mrRt10">Amazon</span>
+										<input type="checkbox" id="compareCraigslist" name="compareCraigslist" title="Craigslist" class="middle mrRt3 hide">
+										<span class="font12 mrRt10 hide" id="compareCraigslistName">Craigslist</span>
+										<input type="checkbox" id="compareEbay" name="compareEbay" title="eBay" class="middle mrRt3">
+										<span class="font12 mrRt10">eBay</span>
+										<input type="checkbox" id="compareGS" name="compareGS" title="Google Shopping" class="middle mrRt3">
+										<span class="font12 mrRt10">Google Shopping</span>
+									</div>
+								</fieldset>
+							</form>
+						</div>
+
+
+            
+
+
+<div class="blue LinkForAllPagesDiv mrBtm10">
+							<a href="/" class="bluLnk14">
+								Home</a>&gt;
+								<span class="mrLt5"><a href="/contactus.html" class="bluLnk14">Help &amp; Contact</a></span>
+								&gt;<span class="mrLt5" id="linkForAllPagesUrlLabels"></span>
+						</div>	
+					<div class="darkGreyTxt14">
+						<div class="bold darkGreyTxt24 webMobileMarginsDiv">
+							Privacy Policy
+						</div>
+						<div class="mrTp10 webMobileMarginsDiv">This privacy statement discloses the privacy practices for TrueGether.com website. You accept this policy when you visit TrueGether.com.</div>
+						<div class="bg1 mrTp15">							
+							<span class="font20">Information Collection and Use</span>
+							<br><br>
+							<p>TrueGether.com is the sole owner of the information collected on this site. We value your trust and we will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.</p>
+						</div>
+						<div class="bg1 mrTp25">					 			
+							<span class="font20">Web Site Registration</span>
+							<br><br>
+							<p>You can browse our website without registering. We will determine your nearest city based on your ip address but you will remain completely anonymous to us.</p>
+							<br>
+							<p>In order to use some features of this Web site, users need to login using an identity provider like Facebook, LinkedIn or Google. These providers give us your fullname and email address. We do not have access to your google or linkedin password. This information is used to contact users about the listings or other information on our site relevant to them. This information is also used to display relevant information ( like recently listed items in your network or in your neighbourhood )to the user. It is optional for the user to provide detailed social network information like linkedin connections and recommendations.</p>
+							<br>
+							<p id="paragraph1">If you create a listing on our site, you will need to provide us your paypal email address or register with Amazon.com as a seller so that we can accept payments on your behalf. Amazon.com only provides a token to us and no other personal information is transferred to us by Amazon.com.</p>
+							<br>
+							<p id="paragraph2">If you sell an item Paypal/Amazon will provide us with the shipping address of the buyer,  the amount of the transaction and the phone number of the buyer. We will transfer these details to you via email.</p>
+							<br>
+							<p id="paragraph3">If you purchase a listing on our site, Paypal/Amazon will provide us with your shipping address, amount of the transaction and your phone number. We will only share this information with the seller so that the item can be shipped to you. We do not have access to your payment information like credit/debit card or bank account etc.</p>
+						</div>
+						<div class="bg1 mrTp25">
+							<span class="font20">Cookies</span>
+							<br><br>
+							<p>TrueGether saves some cookies to remember your recently viewed items, your location and your search queries. You must have cookies enabled to use this site. No personally identifiable information (e-mail address, name, etc.) is collected with the cookies that we set. We do not store your login/password etc in cookies. Accepting cookies while on the TrueGether.com site will not put the user at risk for marketing to other sites.</p>
+							<p>*Different browsers have different cookie settings. With Netscape, you can ask the browser to allow, warn you, or completely disable cookies. Internet Explorer has an additional feature where you can specify different settings for different security zones. You can choose to allow Web sites to create cookies for you in your "trusted sites" (like [Organization]), to warn you before you create them in your local Intranet zone, and to give you an option to never allow them in a "restricted zone." See the "Help" section of your particular browser for more information on working with cookies.</p>
+						</div>
+						<div class="bg1 mrTp25">
+							<span class="font20">Web Statistics</span>							
+							<br><br>
+							<p>We use Google Analytics to collect aggregate information about the browsers and operating systems etc that our users use. This information is not personally identifiable in anyway.</p>
+						</div>
+						<div class="bg1 mrTp25">
+							<span class="font20">Sharing</span>
+							<br><br>
+							<p>We will not share your information in aggregate or otherwise with any individual or organization. This information will be used for the functionality of the site itself only.</p>
+						</div>
+						<div class="bg1 mrTp25">
+				 			<span class="font20">Links</span>
+							<br><br>
+							<p>This Web site contains links to other sites. Please be aware that TrueGether.com does not claim any responsibility for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.</p>
+						</div>
+						<div class="bg1 mrTp25">
+							<span class="font20">Security</span>
+							<br><br>
+							<p>This Web site takes every precaution to protect our users' information, and we have security measures in place to protect the loss, misuse, and alteration of the information under our control.</p>
+						</div>
+						<div class="bg1 mrTp25"> 		
+							<span class="font20">Share with a friend</span>
+							<br><br>
+							<p>If users elect to use our "Share with a Friend" function, we ask them for the friend's name and e-mail address. TrueGether.com may automatically send friends a one-time e-mail message inviting them to visit the site. TrueGether.com stores this information temporarily for the sole purpose of sending this one-time message.</p>
+						</div>
+						<div class="bg1 mrTp25">
+							<span class="font20">Updates</span>
+							<br><br>
+							<p>We may also send the user site and service announcement updates. Members will be able to to unsubscribe from such announcements. We communicate with users to provide requested services and to discuss issues relating to their accounts via e-mail or phone. You will be unable to opt out of an occasional administrative email as long as you have an account with us.</p>
+						</div>
+						<div class="bg1 mrTp25">
+				 			<span class="font20">Notification of Changes</span>
+							<br><br>
+							<p>If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+					
+			<div id="footerWrapper">
+									
+					
+
+					
+
+
+
+
+
+
+
+					<div id="footerInnerWrapper">
+						
+						
+						
+
+<script type="text/javascript" data-cfasync="false">(function () { var done = false;var script = document.createElement("script");script.async = true;script.type = "text/javascript";script.src = "https://app.purechat.com/VisitorWidget/WidgetScript";document.getElementsByTagName("HEAD").item(0).appendChild(script);script.onreadystatechange = script.onload = function (e) {if (!done && (!this.readyState || this.readyState == "loaded" || this.readyState == "complete")) {var w = new PCWidget({ c: "023652d6-20f9-4d4a-98c6-ead37a06c5d3", f: true });done = true;}};})();</script>
+						
+							<div class="footerBlackBg">
+							 <!-- We have to explicitly take this Div with class to give margins for mobile version because in all above parents we can not set margin -->
+									<div class="mobileFooter">
+									<div class="lt">
+										<a href="/" class="floatLt" tabindex="2057"><div class="footerLtLogoDiv"></div></a>
+										<a href="/aboutus.html" class="textDecorationNone white" tabindex="2058"><div class="footerCommonInfo mrRt15"><div class="txt">About Us</div></div></a>
+										<a href="/contactus.html" class="textDecorationNone white" tabindex="2059"><div class="footerCommonInfo1"><div class="txt">Contact Us</div></div></a>
+									</div>
+									<div class="rt mrTp8">
+											<span class="mrRt5">Find Us</span>
+											<a href="http://www.facebook.com/pages/TrueGether/438931359487195" target="_blank" tabindex="2060"><span class="FooterIconCss footerFbDiv"></span></a>
+											<a href="http://www.linkedin.com/company/pixalsoft/truegether-1073074/product" target="_blank" tabindex="2061"><span class="FooterIconCss footerLinkedinDiv"></span></a>
+											<a href="https://twitter.com/TrueGether_" target="_blank" tabindex="2062"><span class="FooterIconCss footerTwitterDiv"></span></a>
+											<a href=" https://plus.google.com/+Truegether/" target="_blank" tabindex="2063"><span class="FooterIconCss footerGooglePlusDiv"></span></a>			
+									</div>	
+			                      </div>						
+								</div>							
+						</div> 
+						<div id="footerTxt">	
+						<div class="mobileFooter">
+							<span>© 2016 PixalSoft. All Rights Reserved</span>
+							<div class="hide"><a href="/listinglinks.html?startcounter=0">Browse Items</a></div>	
+						</div>
+						</div>												
+					 	
+
+
+
+
+
+
+
+
+<!-- BEGIN: Google Trusted Stores -->
+
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "707506"]);
+  gts.push(["badge_position", "BOTTOM_RIGHT"]);
+  gts.push(["locale", "en_US"]);
+  
+  
+
+  (function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script>
+<!-- END: Google Trusted Stores -->
+			</div>
+		</div>		
+	
+
+</body></html>
