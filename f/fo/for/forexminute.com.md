@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forexminute.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529235723id_/http%3A//www.forexminute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexminute.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106120804id_/http%3A//www.forexminute.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ForexMinute
+# Privacy Policy
 
 Forexminute Limited. (Hereinafter “FOREXMINUTE” or “FOREXMINUTE.COM” or “the Company” or “Forexminute Ltd.” or “Forexminute” or “we”) is the owner of the website forexminute.com (“The website”). This “Privacy Policy” describes how we collect, store and use information on individuals that use this Web Site. Forexminute is committed to protecting your privacy.
 
