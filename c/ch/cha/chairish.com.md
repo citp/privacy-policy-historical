@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604195755id_/https%3A//www.chairish.com/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chairish.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106022237id_/https%3A//www.chairish.com/pages/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security - Vintage & Used Furniture and Decor | Chairish
 
