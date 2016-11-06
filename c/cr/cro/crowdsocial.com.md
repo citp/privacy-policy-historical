@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdsocial.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630125124id_/http%3A//www.crowdsocial.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsocial.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106171719id_/http%3A//www.crowdsocial.com/about/privacy) for the most accurate reproduction.*
 
 # Crowdsocial.com
 
