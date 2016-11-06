@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbq-book.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320060618id_/http%3A//www.bbq-book.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbq-book.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106224117id_/http%3A//www.bbq-book.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Barbecue Recipes | Barbecue Cookbook | Competition BBQ Secrets
 
