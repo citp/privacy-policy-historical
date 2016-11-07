@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvbuzer.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405080601id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbuzer.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107142601id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
 
-# Watch Series Online, TV Shows, Seasons, News, Episodes Online
+# Watch Series Online, Full episodes, TV Shows, Seasons, News
 
 At TVBuzer.com we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by TVBuzer.com or its subsidiaries or affiliated companies (collectively, TVBuzer.com's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
 
