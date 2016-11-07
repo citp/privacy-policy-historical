@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531055658id_/http%3A//www.momswhothink.com/moms-who-think/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107082133id_/http%3A//www.momswhothink.com/moms-who-think/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Moms Who Think
 
 This privacy policy sets out how MomsWhoThink.com LLC uses and protects any information that you give while using www.momswhothink.com
 
