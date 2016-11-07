@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storycrash.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605201726id_/http%3A//storycrash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storycrash.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107080753id_/http%3A//storycrash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StoryCrash
 
@@ -8,7 +8,7 @@ Storycrash takes the private nature of your personal information very seriously.
 
 This privacy policy, which we adapted from a policy originally provided by Automattic (WordPress.com), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
 
-###  **Website Visitors**
+### **Website Visitors**
 
 Like most website operators, Storycrash collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Storycrash’s purpose in collecting non-personally identifying information is to better understand how Storycrash’s visitors use its website. From time to time, Storycrash may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.
 
