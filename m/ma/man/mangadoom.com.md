@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangadoom.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326012525id_/http%3A//mangadoom.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangadoom.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107013845id_/http%3A//mangadoom.co/privacy-policy) for the most accurate reproduction.*
 
 # Read Manga Online for Free.
 
