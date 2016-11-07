@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inpwrd.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513203201id_/http%3A//www.inpwrd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inpwrd.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107083307id_/http%3A//www.inpwrd.com/privacy) for the most accurate reproduction.*
 
 # inPowered Privacy Policy | inpwrd.com
 
