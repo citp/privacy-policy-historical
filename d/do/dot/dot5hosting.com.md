@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dot5hosting.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430212630id_/http%3A//www.dot5hosting.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dot5hosting.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107032228id_/http%3A//www.dot5hosting.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Dot5Hosting's Privacy Policy
 
