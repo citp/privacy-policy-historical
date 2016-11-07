@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibfimonline.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430145340id_/http%3A//www.ibfimonline.com/pdpa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibfimonline.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107191703id_/http%3A//ibfimonline.com/pdpa) for the most accurate reproduction.*
 
 # PDPA | IBFIM Online
 
