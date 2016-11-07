@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyradar.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623203832id_/https%3A//www.propertyradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyradar.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107200644id_/http%3A//www.propertyradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PropertyRadar - previously ForeclosureRadar
+# Privacy Policy - PropertyRadar - Targeted local marketing made easy.
 
 PropertyRadar understands that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by PropertyRadar.
 
