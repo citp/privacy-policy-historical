@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mp3fiesta.com privacy policy that was archived on 2016-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160425212556id_/http%3A//www.mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mp3fiesta.com privacy policy that was archived on 2016-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107232038id_/http%3A//mp3fiesta.com/publication/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -84,6 +84,7 @@
                             }
                         });
                     }
+                    jQuery('.upcoming-albums-img').find('.discountSticker').remove();
                 },
                 dataType: 'json'
             });
@@ -376,7 +377,7 @@
 	            <div class="topbanner" style="width:1004px;height:99px;margin: -13px 0 5px;">
                 <ul class="slider" style="list-style-type:none;">
                                             <li>
-                            <a href="/chart/week-of-rock-music/"><img src="/images/banners/rotate/227_site.jpg" width="1004" height="100"></a>
+                            <a href="/chart/week-of-kids-music/"><img src="/images/banners/rotate/284_site.jpg" width="1004" height="100"></a>
                         </li>
                                     </ul>
             </div>
@@ -453,7 +454,7 @@ Paying for the Site services, the Client has to notify the Administration of pre
                 </li>
             </ul>
 
-            <form action="" method="post" onsubmit="return false;">
+            <form action="https://www.mp3fiesta.com/user/auth" method="post">
                 <div id="_auth_login">
                     <div class="error">123</div>
                     <div class="row">
@@ -480,7 +481,7 @@ Paying for the Site services, the Client has to notify the Administration of pre
                     <div class="row">
                         <p class="label tiny" name="loading">&nbsp;</p>
 
-                        <div class="cntr"><input type="submit" onclick="_authform.tryLogin();" value="Login" class="button"></div>
+                        <div class="cntr"><input type="submit" value="Login" class="button"></div>
                         <div class="pusher"></div>
                     </div>
                     <div class="row soc-login-wrap">
@@ -489,7 +490,7 @@ Paying for the Site services, the Client has to notify the Administration of pre
                         </div>
 
                         <div class="soc-login-btn">
-                            <a class="soc-btn soc-btn-fb" href="/user/oauth/?with_social=facebook" tabindex="-1"></a>
+                            <a class="soc-btn soc-btn-fb" href="https://www.mp3fiesta.com/user/fbauth" tabindex="-1"></a>
                             <a class="soc-btn soc-btn-gp" href="/user/oauth/?with_social=google" tabindex="-1"></a>
                         </div>
 
@@ -502,38 +503,49 @@ Paying for the Site services, the Client has to notify the Administration of pre
                 </div>
             </form>
 
-			<form action="" method="post" onsubmit="return false;">
+			<form action="https://www.mp3fiesta.com/user/registration" method="post">
+	            		<input type="hidden" name="type" value="registration">
 				<div id="_auth_reg" style="display: block;">
 					<div class="error"></div>
 					<div class="row">
 						<div class="help_title help_title_id"></div>
 						<p class="label">E-mail</p>
-						<div class="cntr inpt"><input type="text" name="login" value="" class="input_value" tabindex="1"></div>
+						<div class="cntr inpt">
+                            <input type="text" name="login" value="" class="input_value" tabindex="1">
+
+                            <div class="reg-bonus">
+                                Fill in your real e-mail
+                                <br>
+                                to get <b class="reg-bonus-text-yellow">BONUS</b>
+                                <br>
+                                up to <b class="reg-bonus-text-yellow">$10 FOR FREE!</b>
+                            </div>
+                        </div>
 						
 						<div class="pusher"></div>
 					</div>
 					<div class="row">
 						<p class="label">Password</p>
-						<div class="cntr inpt"><input type="password" name="pass1" value="" class="input_value" tabindex="2"></div>
+						<div class="cntr inpt"><input type="password" name="pass" value="" class="input_value" tabindex="2"></div>
 						<div class="pusher"></div>
 					</div>
 					<div class="row">
 						<p class="label">Repeat Password</p>
 						<div class="cntr inpt">
-							<input type="password" name="pass2" value="" class="input_value" tabindex="3">
+							<input type="password" name="cpass" value="" class="input_value" tabindex="3">
 						</div>
 						<div class="pusher"></div>
 					</div>
                     <div class="row">
                         <p class="label">&nbsp;</p>
                         <div class="cntr inpt">
-                            <p><input type="checkbox" id="terms" checked="checked" tabindex="4"> <label for="terms">I have read and agree to those <a href="/publication/terms.html" target="_blank" tabindex="-1">Terms of Use</a></label></p>
+                            <p><input type="checkbox" id="terms" name="terms" checked="checked" tabindex="4"> <label for="terms">I have read and agree to those <a href="/publication/terms.html" target="_blank" tabindex="-1">Terms of Use</a></label></p>
                         </div>
                         <div class="pusher"></div>
                     </div>
                     <div class="row">
 						<p class="label" name="loading">&nbsp;</p>
-						<div class="cntr"><input type="submit" value="Signup" onclick="_authform.tryReg();" class="button" tabindex="6"></div>
+						<div class="cntr"><input type="submit" value="Signup" class="button" tabindex="6"></div>
 						<div class="pusher"></div>
 					</div>
                     <div class="row soc-login-wrap">
@@ -542,7 +554,7 @@ Paying for the Site services, the Client has to notify the Administration of pre
                         </div>
 
                         <div class="soc-login-btn">
-                            <a class="soc-btn soc-btn-fb" href="/user/oauth/?with_social=facebook" tabindex="-1"></a>
+                            <a class="soc-btn soc-btn-fb" href="https://www.mp3fiesta.com/user/fbauth" tabindex="-1"></a>
                             <a class="soc-btn soc-btn-gp" href="/user/oauth/?with_social=google" tabindex="-1"></a>
                         </div>
 
@@ -693,6 +705,7 @@ Paying for the Site services, the Client has to notify the Administration of pre
                             <button class="action-modal-success">OK</button>
                         </div>
                     </div>
-                </div></div>
+                </div>
+</div>
 
 </body></html>
