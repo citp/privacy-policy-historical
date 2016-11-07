@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingsmomsays.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521220202id_/http%3A//www.thingsmomsays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingsmomsays.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107120002id_/http%3A//thingsmomsays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Things Mom Says
 
