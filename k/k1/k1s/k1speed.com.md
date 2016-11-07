@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k1speed.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621045141id_/https%3A//www.k1speed.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k1speed.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107171641id_/http%3A//k1speed.com/privacy-policy.html) for the most accurate reproduction.*
 
 # K1 Speed | Privacy Policy
 
