@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoclerks.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607045331id_/https%3A//www.seoclerks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoclerks.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108001815id_/https%3A//www.seoclerks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOClerks
 
@@ -52,10 +52,13 @@ Throughout the course of our provision of our services to you, we may delegate o
   * Clicky
   * MaxMind
   * SiftScience
-  * Bitpay
+  * Coinbase
   * GoCoin
   * Twilio
   * Lob
+  * Hyperwallet/Paylution
+  * Payoneer
+  * Google Analytics
 
 
 
