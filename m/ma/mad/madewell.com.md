@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608195808id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107083839id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Madewell Private Policy - Madewell
 
@@ -7,11 +7,12 @@
 [_PRIVACY POLICY_](https://web.archive.org/help/privacy_policy.jsp)  
 [CONTACT US](https://web.archive.org/help/contact_us.jsp)  
 [ALL ABOUT MADEWELL](https://web.archive.org/help/about_madewell.jsp)  
+[MADEWELL INSIDER](https://web.archive.org/madewellinsider)  
 [CAREERS](https://web.archive.org/help/careers.jsp)  
 [INVESTOR RELATIONS](http://investors.madewell.com/)  
 [TERMS OF USE](https://web.archive.org/help/terms_of_use.jsp)  
 [FIND A STORE NEAR YOU](https://web.archive.org/help/store_locator.jsp)  
-[CATALOG PREFERENCES](https://web.archive.org/help/request_catalog.jsp)  
+[MAIL PREFERENCES](https://web.archive.org/help/request_catalog.jsp)  
 [MADEWELL GIFT CARDS](https://web.archive.org/help/gift_card.jsp)  
 [USING A PROMOTION CODE](https://web.archive.org/help/using_promo.jsp)  
 [COLLEGE DISCOUNTS](https://web.archive.org/help/teacher_student_discount.jsp)  
