@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427072237id_/https%3A//www.churchill.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107055236id_/https%3A//www.churchill.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Churchill Insurance UK
 
@@ -37,7 +37,7 @@ In carrying out the actions above we may:
   * Use the information we hold in our system about you and that of others named on the policy, [for example named drives, joint policy holders]
   * Share the information with agencies that carry out certain activities on our behalf (for example marketing agencies or those who help us underwrite your policy)
   * Use and share your information with our approved suppliers where this is reasonably required to help deal with your claim or let you benefit from our replacement vehicle and policyholder services, including with our credit hire providers, replacement vehicle suppliers, vehicle repairers and legal advisors
-  * Disclose some of your information and that of others named on the policy to other insurers , third party underwriters, reinsurers, credit reference, fraud prevention, regulators and law enforcement agencies and other companies that provide service to us or you.
+  * Disclose some of your information and that of others named on the policy to other insurers , third party underwriters, reinsurers, credit reference, fraud prevention, regulators and law enforcement agencies and other companies that provide service to us or you.
 
 
 
@@ -109,7 +109,7 @@ You will have been asked to agree to this when you first contacted us but please
 
 ### Access to your information
 
-You have the right to see the information we hold about you. This is called Subject Access Request. If you would like a copy of your information, please write to:  **Data Access Team** at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. A fee may be payable.
+You have the right to see the information we hold about you. This is called Subject Access Request. If you would like a copy of your information, please write to: **Data Access Team** at, UKI, Churchill Court, Westmoreland Road, Bromley, BR1 1DP quoting your reference. A fee may be payable.
 
 ### Motor Insurance Database
 
@@ -148,9 +148,8 @@ We take security very seriously and we use one of the strongest available securi
 
 Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <https://support.microsoft.com/support/kb/articles/Q154/6/21.asp>.
 
-Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <https://support.microsoft.com/support/kb/articles/Q233/4/79.asp>.
+Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: “This certificate has failed to verify for all of its intended purposes”. The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <https://support.microsoft.com/support/kb/articles/Q233/4/79.asp>.
 
 ## Cookies
 
-For information on cookies please refer to our [Cookies Notice](https://web.archive.org/about-us/cookies-notice).  
-
+For information on cookies please refer to our [Cookies Notice](https://web.archive.org/about-us/cookies-notice).
