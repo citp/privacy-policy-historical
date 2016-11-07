@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isitebuild.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603163531id_/http%3A//www.isitebuild.com/videoads/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isitebuild.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107085354id_/http%3A//www.isitebuild.com/videoads/privacypolicy.html) for the most accurate reproduction.*
 
 # Youtube Boot Camp Privacy Policy
 
