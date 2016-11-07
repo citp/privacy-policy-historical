@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328012705id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107174116id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Paymentwall - Paymentwall
+# Privacy Policy - Paymentwall
 
 Welcome to Paymentwall, Inc. (www.paymentwall.com). This policy covers how Paymentwall, Inc. protects and uses the collected information about the user. Paymentwall, Inc. protects the privacy of all users who visit or use our Service (collectively or individually, "you" or "Users").
 
