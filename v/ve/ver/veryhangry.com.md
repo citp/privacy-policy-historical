@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veryhangry.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323094011id_/http%3A//veryhangry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veryhangry.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107134614id_/http%3A//veryhangry.com/privacy.php) for the most accurate reproduction.*
 
 # veryhangry.com Privacy Policy
 
