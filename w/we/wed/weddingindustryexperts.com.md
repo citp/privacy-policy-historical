@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingindustryexperts.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505081338id_/http%3A//weddingindustryexperts.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingindustryexperts.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107152035id_/http%3A//weddingindustryexperts.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement « Wedding Industry Experts
+# Privacy Statement « Wedding Industry Experts Awards
 
 We respect the privacy of everyone who visits our site. We will not sell, rent, share or disclose personal information to third parties.
 
