@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310095456id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107024037id_/http%3A//thalamus.co/privacy) for the most accurate reproduction.*
 
 # Thalamus Privacy Policy
 
-Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates  [http://www.thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
+Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates  [http://thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at  [http://www.thalamus.co/terms](https://web.archive.org/terms)
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at  [http://thalamus.co/terms](https://web.archive.org/terms)
 
 ## WHAT INFORMATION DO WE COLLECT?
 
@@ -60,6 +60,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Thalamus shares anonymous data with Google Analytics, such as browser type, demographics, language settings, page views, time/date, and personal data with Sendgrid, specifically names and email addresses. Thalamus may also share your data with sponsored advertising partner(s) and/or business partner(s) of whom we have a financial relationship with. This data may include, but is not limited to, your personally identifiable information such as full name, job role, location, phone number, email address, and also your behaviors on the Site including, but not limited to: search and filter queries performed, content viewed, and links clicked. 
 
+Thalamus has engaged Inspectlet to analyse the browser interaction behavior of its users in order to improve Thalamus' user experience and product. Doing so authorizes Inspectlet to use cookies and other tracking technologies, which may use Personal Information of Thalamus' users. Such access to and use of Personal Information by Inspectlet is governed by Inspectlet’s [Privacy Policy](https://www.inspectlet.com/legal#privacy). 
+
 We may also share some basic information with advertising vendors through our proprietary analytics tool(s), but this will only include your job role, geographic location, and email domain, and first name, and last name initial. This proprietary analytics tool(s) may come in the form of a dashboard that an advertising partner can log into, or an email notifying them that certain logged-in users have viewed their advertising partner profile, or have performed certain buyer activities, which may include, but are not limited to: search and filter queries performed, content viewed, and links clicked. 
 
 ### Third Party Sponsors
@@ -100,7 +102,7 @@ If Thalamus is involved in a merger, acquisition or asset sale, we will continue
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.thalamus.co/terms](https://web.archive.org/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://thalamus.co/terms](https://web.archive.org/terms)
 
 ### Your Consent
 
@@ -110,7 +112,7 @@ By using our site, you consent to our [websites' privacy policy](https://web.arc
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. We urge you to bookmark this Privacy Policy page and check it periodically if you are concerned about how your information is being used.
 
-This policy was last modified on Dec 15, 2015
+This policy was last modified on Jun 8, 2016
 
 ### Contacting Us
 
