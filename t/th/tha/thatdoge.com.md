@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatdoge.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104223430id_/http%3A//thatdoge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatdoge.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107074855id_/http%3A//thatdoge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | That Doge
+# Privacy Policy – That Doge
 
 #### Your Privacy
 
