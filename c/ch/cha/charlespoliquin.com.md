@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the charlespoliquin.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328103555id_/http%3A//www.poliquingroup.com/Home/tabid/745/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlespoliquin.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107051624id_/http%3A//www.poliquingroup.com/Home/tabid/745/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Poliquin Group
 
-Poliquin Group is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Poliquin Group Web site and governs data collection and usage. By using the Poliquin Group website, you consent to the data practices described in this statement.
+Poliquin Group is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Poliquin Group site and governs data collection and usage. By using the Poliquin Group site, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
-Poliquin Group collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Poliquin Group also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Poliquin Group collects personally identifiable information, such as your email address, name, home or work address or telephone number. Poliquin Group also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by Poliquin Group. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Poliquin Group for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Poliquin Group Web site.
+There is also information about your computer hardware and software that is automatically collected by Poliquin Group. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Poliquin Group for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Poliquin Group site.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Poliquin Group public message boards, this information may be collected and used by others. Note: Poliquin Group does not read any of your private online communications.
 
