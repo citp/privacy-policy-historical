@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the browneyedbaker.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416153424id_/http%3A//browneyedbaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browneyedbaker.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107150604id_/http%3A//www.browneyedbaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Brown Eyed Baker
+
+## Privacy Policy
 
 ### PRIVACY POLICY LANGUAGE
 
