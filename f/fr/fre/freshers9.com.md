@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshers9.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630095012id_/http%3A//www.freshers9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshers9.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107135656id_/http%3A//www.freshers9.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Govt Jobs or sarkari naukri Employment News Updates
+# Privacy Policy - Latest Government Jobs 2016
 
 **Privacy Policy for www.freshers9.com**
 
@@ -17,7 +17,7 @@ www.freshers9.com does use cookies to store information about visitors preferenc
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.freshers9.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.freshers9.comand other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
