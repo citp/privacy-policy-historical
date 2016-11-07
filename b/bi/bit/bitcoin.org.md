@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitcoin.org privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321003917id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoin.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107220651id_/https%3A//bitcoin.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitcoin
 
-This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (http://bitcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.
+This page informs you of our policies regarding the collection, use and disclosure of personal information we receive from users of our site (https://bitcoin.org). We use your personal information to better understand your usage of the site, and to collect traffic statistics.
 
 By using the site, you agree to the collection and use of information in accordance with this policy.
 
@@ -33,6 +33,6 @@ You can opt-out of having your information collected by Google Analytics by down
 
 We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on the Site. You are advised to review this privacy policy periodically for any changes.
 
-This Privacy Policy was last updated: 8th October, 2015.
+This Privacy Policy was last updated: 5th July, 2016.
 
 If you have any questions about our privacy policy, or how your data is being collected and processed, please e-mail [privacy@bitcoin.org](mailto:privacy@bitcoin.org?Subject=Privacy).
