@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the thalamus.co privacy policy that was archived on 2016-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310095456id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thalamus.co privacy policy that was archived on 2016-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107024037id_/http%3A//thalamus.co/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<!-- / In console, run -->
+<!-- / ActionController::Base.new.expire_fragment('constants') -->
+<!-- / to manually clear this view from the cache -->
+<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://sv.brand-display.com/js/ka.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   Contact = {};
   Contact.AD_PARTNER = 1;
-  Contact.CLIENT = 2;
   
   Upload = {};
   Upload.CREATIVE = 6;
@@ -13,15 +15,16 @@
   
   CONSTANTS = {
     AD_PARTNER_PAGE_LIMIT: 50,
-    PROFESSIONS: ["Agency Media Planner", "Online Marketing Manager", "User Acquisition Manager", "Media Seller", "Account Manager", "Business Development", "Publisher Development", "Ad Operations", "Other"]
-  };
-  
-  AdPartnerCampaign = {
-    COMPLETED: 1,
-    CANCELED: 2,
-    LIVE: 3,
-    LOST: 4,
-    RENEW: 5
+    PROFESSIONS: ["Agency Media Planner", "Online Marketing Manager", "User Acquisition Manager", "Media Seller", "Account Manager", "Business Development", "Publisher Development", "Ad Operations", "Webmaster", "Other"],
+    BLURRED_REVIEW_ASSET_PATH: "http://d3ny630x53xdwa.cloudfront.net/assets/blurry_review-2d3590c2370294267d0bec9e2ad133b56ac5c3fd78fe83901474d826dd67d3e2.jpg",
+    BLURRED_CONTACTS_ASSET_PATH: "http://d3ny630x53xdwa.cloudfront.net/assets/blurry_contacts-c84ed6908b1bb138aa1b3b5b68da1ae0b81d57e682530ad7d3c71beda865b2fa.jpg",
+    INVITE_WOOKIE_IMAGE: "http://d3ny630x53xdwa.cloudfront.net/assets/invite-wookie-6448084f5f94a8bb560ac6eb3fca6b88cdd60f8cc0b72fe027c26885c9b1c9c3.jpg",
+    INVITE_SHIRT_IMAGE: "http://d3ny630x53xdwa.cloudfront.net/assets/thalamus-shirt-b68937475c3f3df48ef9d577ed968f28a293ffcc39e9c6781253b632d82b2d44.jpg",
+    THALAMUS_LOGO: "http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_green-98f57e8241a1387db967d41a33934304f813e2afbefabfa1e3227f732ecaa674.png",
+    THALAMUS_LOGO_WHITE: "http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_white-16f3e797f1a563c1df0b21be02279e493d73a1c560722cf06859f749b39161dd.png",
+    THALAMUS_LOGO_LANDING: "http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_orange-6b1efb60a34d4727c902c32d122e5c7a19ebef9e5c606713dd4aab579a32a751.png",
+    MARKER_IMAGE: "http://d3ny630x53xdwa.cloudfront.net/assets/landing/marker-605443cca40cc631a9a98c3e1fa00351e62429d221c3c30e3fc4ba4114c1f467.svg",
+    CDN_HOST: location.protocol + "//" + ("d3ny630x53xdwa.cloudfront.net" || location.host)
   };
   
   RssEntry = {
@@ -37,14 +40,19 @@
       MOBILE_PLATFORMS: {"ANDROID":"Android","BLACKBERRY":"support_blackberry_platform","IOS":"iOS","MOBILE_WEB":"Mobile Web","WINDOWS":"support_windows_platform"},
       MOBILE_APP_BRAND: {"APP":"App","BRAND":"Brand"},
       SELF_MANAGED_SERVICE: {"SELF_SERVICE":"Self-Service","MANAGED_SERVICE":"Managed Service"},
-      INDUSTRIES: {"AUTOMOTIVE":"Automotive","CLOTHING_FASHION":"Clothing \u0026 Fashion","CONSUMER_PACKAGED_GOODS":"Consumer Packaged Goods","DATING":"Dating","ECOMMERCE":"eCommerce","EDUCATION":"Education","ENERGY_UTILITIES":"Energy and Utilities","ENTERTAINMENT":"Entertainment","FINANCIAL_SERVICES":"Financial Services","FOOD_BEVERAGE":"Food \u0026 Beverage","GAMING":"Gaming","GOVERNMENT_POLITICS":"Government \u0026 Politics","HEALTH_BEAUTY":"Health \u0026 Beauty","HEALTHCARE":"Healthcare","NON_PROFIT":"Non-Profit","RETAIL":"Retail","SPORTS":"Sports","TECHNOLOGY":"Technology","TELECOMMUNICATIONS":"Telecommunications","TRAVEL_LEISURE":"Travel \u0026 Leisure"}
+      INDUSTRIES: {"AUTOMOTIVE":"Automotive","CLOTHING_FASHION":"Clothing \u0026 Fashion","CONSUMER_PACKAGED_GOODS":"Consumer Packaged Goods","DATING":"Dating","ECOMMERCE":"eCommerce","EDUCATION":"Education","ENERGY_UTILITIES":"Energy and Utilities","ENTERTAINMENT":"Entertainment","FINANCIAL_SERVICES":"Financial Services","FOOD_BEVERAGE":"Food \u0026 Beverage","GAMING":"Gaming","GOVERNMENT_POLITICS":"Government \u0026 Politics","HEALTH_BEAUTY":"Health \u0026 Beauty","HEALTHCARE":"Healthcare","NON_PROFIT":"Non-Profit","RETAIL":"Retail","SPORTS":"Sports","TECHNOLOGY":"Technology","TELECOMMUNICATIONS":"Telecommunications","TRAVEL_LEISURE":"Travel \u0026 Leisure","MOBILE_APP_INSTALLS":"Mobile App Installs"}
     },
-    capabilitylabels: {"performance_branding":[{"value":"Performance","text":"Performance"},{"value":"Branding","text":"Branding"}],"channel":[{"value":"display","text":"Online Display"},{"value":"video","text":"Online Video"},{"value":"mobile","text":"Mobile"},{"value":"social","text":"Social"},{"value":"email","text":"Email"},{"value":"search","text":"Search"},{"value":"Linear TV","text":"Linear TV"},{"value":"Connected TV","text":"Connected TV"},{"value":"digital_audio","text":"Digital Audio"}],"pricing_models":[{"value":"CPI","text":"CPI"},{"value":"CPA","text":"CPA"},{"value":"CPM","text":"CPM"},{"value":"CPV","text":"CPV"},{"value":"CPCV","text":"CPCV"},{"value":"CPL","text":"CPL"},{"value":"CPE","text":"CPE"},{"value":"CPC","text":"CPC"},{"value":"CPS","text":"CPS"},{"value":"Pay-Per-Call","text":"Pay-Per-Call"},{"value":"Revshare/ROAS","text":"Revshare / ROAS"},{"value":"flat_rate","text":"Flat Rate"},{"value":"% of Media Spend","text":"% of Media Spend"}],"category":[{"value":"Ad Network","text":"Ad Network"},{"value":"Affiliate Network","text":"Affiliate Network"},{"value":"Demand Side Platform","text":"Demand Side Platform"},{"value":"Retargeting","text":"Retargeting"},{"value":"Web Publisher","text":"Web Publisher"},{"value":"Mobile App Publisher","text":"Mobile App Publisher"},{"value":"Ad Agency","text":"Ad Agency"},{"value":"pinterest_pmd","text":"Pinterest MDP"},{"value":"instagram_ads_partner","text":"Instagram Ads Partner"},{"value":"Facebook sPMD","text":"Facebook sPMD"},{"value":"Twitter MPP","text":"Twitter MPP"},{"value":"YouTube MCN","text":"YouTube MCN"},{"value":"Ad Technology Provider","text":"Ad Technology Provider"},{"value":"Other","text":"Other"}],"mobile_platforms":[{"value":"iOS","text":"iOS"},{"value":"Android","text":"Android"},{"value":"Mobile Web","text":"Mobile Web"},{"value":"support_blackberry_platform","text":"Blackberry"},{"value":"support_windows_platform","text":"Windows"}],"mobile_app_brand":[{"value":"App","text":"App / Game Centric"},{"value":"Brand","text":"Brand Centric"}],"self_managed_service":[{"value":"Self-Service","text":"Self-Service"},{"value":"Managed Service","text":"Managed Service"}],"about_company_size":{"1-10":"1-10","11-50":"11-50","51-200":"51-200","201-500":"201-500","501-1000":"501-1000","1001-5000":"1001-5000","5001-10000":"5001-10000","10001+":"10001+"},"industries":[{"value":"Automotive","text":"Automotive"},{"value":"Clothing \u0026 Fashion","text":"Clothing \u0026 Fashion"},{"value":"Consumer Packaged Goods","text":"Consumer Packaged Goods"},{"value":"Dating","text":"Dating"},{"value":"eCommerce","text":"eCommerce"},{"value":"Education","text":"Education"},{"value":"Energy and Utilities","text":"Energy and Utilities"},{"value":"Entertainment","text":"Entertainment"},{"value":"Financial Services","text":"Financial Services"},{"value":"Food \u0026 Beverage","text":"Food \u0026 Beverage"},{"value":"Gaming","text":"Gaming"},{"value":"Government \u0026 Politics","text":"Government \u0026 Politics"},{"value":"Health \u0026 Beauty","text":"Health \u0026 Beauty"},{"value":"Healthcare","text":"Healthcare"},{"value":"Non-Profit","text":"Non-Profit"},{"value":"Retail","text":"Retail"},{"value":"Sports","text":"Sports"},{"value":"Technology","text":"Technology"},{"value":"Telecommunications","text":"Telecommunications"},{"value":"Travel \u0026 Leisure","text":"Travel \u0026 Leisure"}]}
+    capabilitylabels: {"performance_branding":[{"value":"Performance","text":"Performance"},{"value":"Branding","text":"Branding"}],"channel":[{"value":"display","text":"Online Display"},{"value":"video","text":"Online Video"},{"value":"mobile","text":"Mobile"},{"value":"social","text":"Social"},{"value":"email","text":"Email"},{"value":"search","text":"Search"},{"value":"Linear TV","text":"Linear TV"},{"value":"Connected TV","text":"Connected TV"},{"value":"digital_audio","text":"Digital Audio"}],"pricing_models":[{"value":"CPI","text":"CPI"},{"value":"CPA","text":"CPA"},{"value":"CPM","text":"CPM"},{"value":"CPV","text":"CPV"},{"value":"CPCV","text":"CPCV"},{"value":"CPL","text":"CPL"},{"value":"CPE","text":"CPE"},{"value":"CPC","text":"CPC"},{"value":"CPS","text":"CPS"},{"value":"Pay-Per-Call","text":"Pay-Per-Call"},{"value":"Revshare/ROAS","text":"Revshare / ROAS"},{"value":"flat_rate","text":"Flat Rate"},{"value":"% of Media Spend","text":"% of Media Spend"}],"category":[{"value":"Ad Network","text":"Ad Network"},{"value":"Affiliate Network","text":"Affiliate Network"},{"value":"Demand Side Platform","text":"Demand Side Platform"},{"value":"Retargeting","text":"Retargeting"},{"value":"Web Publisher","text":"Web Publisher"},{"value":"Mobile App Publisher","text":"Mobile App Publisher"},{"value":"Ad Agency","text":"Ad Agency"},{"value":"pinterest_pmd","text":"Pinterest MDP"},{"value":"instagram_ads_partner","text":"Instagram Ads Partner"},{"value":"Facebook sPMD","text":"Facebook FMP"},{"value":"Twitter MPP","text":"Twitter MPP"},{"value":"YouTube MCN","text":"YouTube MCN"},{"value":"Ad Technology Provider","text":"Ad Technology Provider"},{"value":"Other","text":"Other"}],"mobile_platforms":[{"value":"iOS","text":"iOS"},{"value":"Android","text":"Android"},{"value":"Mobile Web","text":"Mobile Web"},{"value":"support_blackberry_platform","text":"Blackberry"},{"value":"support_windows_platform","text":"Windows"}],"mobile_app_brand":[{"value":"App","text":"App / Game Centric"},{"value":"Brand","text":"Brand Centric"}],"self_managed_service":[{"value":"Self-Service","text":"Self-Service"},{"value":"Managed Service","text":"Managed Service"}],"about_company_size":{"1-10":"1-10","11-50":"11-50","51-200":"51-200","201-500":"201-500","501-1000":"501-1000","1001-5000":"1001-5000","5001-10000":"5001-10000","10001+":"10001+"},"industries":[{"value":"Automotive","text":"Automotive"},{"value":"Clothing \u0026 Fashion","text":"Clothing \u0026 Fashion"},{"value":"Consumer Packaged Goods","text":"Consumer Packaged Goods"},{"value":"Dating","text":"Dating"},{"value":"eCommerce","text":"eCommerce"},{"value":"Education","text":"Education"},{"value":"Energy and Utilities","text":"Energy and Utilities"},{"value":"Entertainment","text":"Entertainment"},{"value":"Financial Services","text":"Financial Services"},{"value":"Food \u0026 Beverage","text":"Food \u0026 Beverage"},{"value":"Gaming","text":"Gaming"},{"value":"Government \u0026 Politics","text":"Government \u0026 Politics"},{"value":"Health \u0026 Beauty","text":"Health \u0026 Beauty"},{"value":"Healthcare","text":"Healthcare"},{"value":"Mobile App Installs","text":"Mobile App Installs"},{"value":"Non-Profit","text":"Non-Profit"},{"value":"Retail","text":"Retail"},{"value":"Sports","text":"Sports"},{"value":"Technology","text":"Technology"},{"value":"Telecommunications","text":"Telecommunications"},{"value":"Travel \u0026 Leisure","text":"Travel \u0026 Leisure"}]}
   }
   
   countryCodesThalamus = {"100":{"fullName":"Bulgaria","alpha2":"BG","ethnic_name":"Bulgarian"},"104":{"fullName":"Myanmar","alpha2":"MM","ethnic_name":"Myanmarese"},"108":{"fullName":"Burundi","alpha2":"BI","ethnic_name":"Burundaise"},"112":{"fullName":"Belarus","alpha2":"BY","ethnic_name":"Belarusian"},"116":{"fullName":"Cambodia","alpha2":"KH","ethnic_name":"Cambodian"},"120":{"fullName":"Cameroon","alpha2":"CM","ethnic_name":"Cameroonian"},"124":{"fullName":"Canada","alpha2":"CA","ethnic_name":"Canadian"},"132":{"fullName":"Cape Verde","alpha2":"CV","ethnic_name":"Cape Verdean"},"136":{"fullName":"Cayman Islands","alpha2":"KY","ethnic_name":""},"140":{"fullName":"Central African Republic","alpha2":"CF","ethnic_name":""},"144":{"fullName":"Sri Lanka","alpha2":"LK","ethnic_name":"Sri Lankan"},"148":{"fullName":"Chad","alpha2":"TD","ethnic_name":"Chadian"},"152":{"fullName":"Chile","alpha2":"CL","ethnic_name":"Chilean"},"156":{"fullName":"China","alpha2":"CN","ethnic_name":"Chinese"},"158":{"fullName":"Taiwan","alpha2":"TW","ethnic_name":"Taiwanese"},"162":{"fullName":"Christmas Island","alpha2":"CX","ethnic_name":""},"166":{"fullName":"Cocos Islands","alpha2":"CC","ethnic_name":""},"170":{"fullName":"Colombia","alpha2":"CO","ethnic_name":"Colombian"},"174":{"fullName":"Comoros","alpha2":"KM","ethnic_name":"Comorian"},"175":{"fullName":"Mayotte","alpha2":"YT","ethnic_name":""},"178":{"fullName":"Republic of the Congo","alpha2":"CG","ethnic_name":"Congolese"},"180":{"fullName":"Democratic Republic of the Congo","alpha2":"CD","ethnic_name":"Congolese"},"184":{"fullName":"Cook Islands","alpha2":"CK","ethnic_name":""},"188":{"fullName":"Costa Rica","alpha2":"CR","ethnic_name":"Costa Rican"},"191":{"fullName":"Croatia","alpha2":"HR","ethnic_name":"Croatian"},"192":{"fullName":"Cuba","alpha2":"CU","ethnic_name":"Cuban"},"196":{"fullName":"Cyprus","alpha2":"CY","ethnic_name":"Cypriot"},"203":{"fullName":"Czech Republic","alpha2":"CZ","ethnic_name":"Czech"},"204":{"fullName":"Benin","alpha2":"BJ","ethnic_name":"Beninese"},"208":{"fullName":"Denmark","alpha2":"DK","ethnic_name":"Danish"},"212":{"fullName":"Dominica","alpha2":"DM","ethnic_name":"Dominican"},"214":{"fullName":"Dominican Republic","alpha2":"DO","ethnic_name":"Dominican"},"218":{"fullName":"Ecuador","alpha2":"EC","ethnic_name":"Ecuadorian"},"222":{"fullName":"El Salvador","alpha2":"SV","ethnic_name":"El Salvadorian"},"226":{"fullName":"Equatorial Guinea","alpha2":"GQ","ethnic_name":"Guinean"},"231":{"fullName":"Ethiopia","alpha2":"ET","ethnic_name":"Ethiopian"},"232":{"fullName":"Eritrea","alpha2":"ER","ethnic_name":"Eritrean"},"233":{"fullName":"Estonia","alpha2":"EE","ethnic_name":"Estonian"},"234":{"fullName":"Faroe Islands","alpha2":"FO","ethnic_name":""},"238":{"fullName":"Falkland Islands","alpha2":"FK","ethnic_name":""},"239":{"fullName":"South Georgia and the South Sandwich Islands","alpha2":"GS","ethnic_name":""},"242":{"fullName":"Fiji","alpha2":"FJ","ethnic_name":"Fijian"},"246":{"fullName":"Finland","alpha2":"FI","ethnic_name":"Finnish"},"248":{"fullName":"Aland Islands","alpha2":"AX","ethnic_name":""},"250":{"fullName":"France","alpha2":"FR","ethnic_name":"French"},"254":{"fullName":"French Guiana","alpha2":"GF","ethnic_name":"French Guianan"},"258":{"fullName":"French Polynesia","alpha2":"PF","ethnic_name":"Polynesian"},"260":{"fullName":"French Southern Territories","alpha2":"TF","ethnic_name":""},"262":{"fullName":"Djibouti","alpha2":"DJ","ethnic_name":""},"266":{"fullName":"Gabon","alpha2":"GA","ethnic_name":"Gabonese"},"268":{"fullName":"Georgia","alpha2":"GE","ethnic_name":"Georgian"},"270":{"fullName":"Gambia","alpha2":"GM","ethnic_name":"Gambian"},"275":{"fullName":"Palestine","alpha2":"PS","ethnic_name":"Palestinian"},"276":{"fullName":"Germany","alpha2":"DE","ethnic_name":"German"},"288":{"fullName":"Ghana","alpha2":"GH","ethnic_name":"Ghanaian"},"292":{"fullName":"Gibraltar","alpha2":"GI","ethnic_name":"Gibraltarian"},"296":{"fullName":"Kiribati","alpha2":"KI","ethnic_name":"Kiribatian"},"300":{"fullName":"Greece","alpha2":"GR","ethnic_name":"Greek"},"304":{"fullName":"Greenland","alpha2":"GL","ethnic_name":"Greenlandic"},"308":{"fullName":"Grenada","alpha2":"GD","ethnic_name":"Grenadian"},"312":{"fullName":"Guadeloupe","alpha2":"GP","ethnic_name":"Guadeloupean"},"316":{"fullName":"Guam","alpha2":"GU","ethnic_name":"Guamanian"},"320":{"fullName":"Guatemala","alpha2":"GT","ethnic_name":"Guatemalan"},"324":{"fullName":"Guinea","alpha2":"GN","ethnic_name":"Guinean"},"328":{"fullName":"Guyana","alpha2":"GY","ethnic_name":"Guyanese"},"332":{"fullName":"Haiti","alpha2":"HT","ethnic_name":"Haitian"},"334":{"fullName":"Heard Island and McDonald Islands","alpha2":"HM","ethnic_name":""},"336":{"fullName":"Vatican","alpha2":"VA","ethnic_name":"Vaticanian"},"340":{"fullName":"Honduras","alpha2":"HN","ethnic_name":"Hondurans"},"344":{"fullName":"Hong Kong","alpha2":"HK","ethnic_name":"Hong Kongese"},"348":{"fullName":"Hungary","alpha2":"HU","ethnic_name":"Hungarian"},"352":{"fullName":"Iceland","alpha2":"IS","ethnic_name":"Icelandic"},"356":{"fullName":"India","alpha2":"IN","ethnic_name":"Indian"},"360":{"fullName":"Indonesia","alpha2":"ID","ethnic_name":"Indonesian"},"364":{"fullName":"Iran","alpha2":"IR","ethnic_name":"Iranian"},"368":{"fullName":"Iraq","alpha2":"IQ","ethnic_name":"Iraqi"},"372":{"fullName":"Ireland","alpha2":"IE","ethnic_name":"Irish"},"376":{"fullName":"Israel","alpha2":"IL","ethnic_name":"Israeli"},"380":{"fullName":"Italy","alpha2":"IT","ethnic_name":"Italian"},"384":{"fullName":"Cote d'Ivoire","alpha2":"CI","ethnic_name":""},"388":{"fullName":"Jamaica","alpha2":"JM","ethnic_name":"Jamaican"},"392":{"fullName":"Japan","alpha2":"JP","ethnic_name":"Japanese"},"398":{"fullName":"Kazakhstan","alpha2":"KZ","ethnic_name":"Kazakhs"},"400":{"fullName":"Jordan","alpha2":"JO","ethnic_name":"Jordanese"},"404":{"fullName":"Kenya","alpha2":"KE","ethnic_name":"Kenyan"},"408":{"fullName":"North Korea","alpha2":"KP","ethnic_name":"North Korean"},"410":{"fullName":"South Korea","alpha2":"KR","ethnic_name":"South Korean"},"414":{"fullName":"Kuwait","alpha2":"KW","ethnic_name":"Kuwaiti"},"417":{"fullName":"Kyrgyzstan","alpha2":"KG","ethnic_name":"Kyrgyz"},"418":{"fullName":"Laos","alpha2":"LA","ethnic_name":"Laotian"},"422":{"fullName":"Lebanon","alpha2":"LB","ethnic_name":"Lebanese"},"426":{"fullName":"Lesotho","alpha2":"LS","ethnic_name":""},"428":{"fullName":"Latvia","alpha2":"LV","ethnic_name":"Latvian"},"430":{"fullName":"Liberia","alpha2":"LR","ethnic_name":""},"434":{"fullName":"Libya","alpha2":"LY","ethnic_name":"Libyan"},"438":{"fullName":"Liechtenstein","alpha2":"LI","ethnic_name":"Liechtensteinian"},"440":{"fullName":"Lithuania","alpha2":"LT","ethnic_name":"Lithuanian"},"442":{"fullName":"Luxembourg","alpha2":"LU","ethnic_name":"Luxembourgers"},"446":{"fullName":"Macao","alpha2":"MO","ethnic_name":"Macanese"},"450":{"fullName":"Madagascar","alpha2":"MG","ethnic_name":"Madagascarian"},"454":{"fullName":"Malawi","alpha2":"MW","ethnic_name":"Malawian"},"458":{"fullName":"Malaysia","alpha2":"MY","ethnic_name":"Malaysian"},"462":{"fullName":"Maldives","alpha2":"MV","ethnic_name":"Maldivian"},"466":{"fullName":"Mali","alpha2":"ML","ethnic_name":"Malian"},"470":{"fullName":"Malta","alpha2":"MT","ethnic_name":"Maltese"},"474":{"fullName":"Martinique","alpha2":"MQ","ethnic_name":"Martiniquean"},"478":{"fullName":"Mauritania","alpha2":"MR","ethnic_name":"Mauritanian"},"480":{"fullName":"Mauritius","alpha2":"MU","ethnic_name":"Mauritian"},"484":{"fullName":"Mexico","alpha2":"MX","ethnic_name":"Mexican"},"492":{"fullName":"Monaco","alpha2":"MC","ethnic_name":"Monegasques"},"496":{"fullName":"Mongolia","alpha2":"MN","ethnic_name":"Mongolian"},"498":{"fullName":"Moldova","alpha2":"MD","ethnic_name":"Moldovan"},"499":{"fullName":"Montenegro","alpha2":"ME","ethnic_name":"Montenegrin"},"500":{"fullName":"Montserrat","alpha2":"MS","ethnic_name":"Montserratian"},"504":{"fullName":"Morocco","alpha2":"MA","ethnic_name":"Moroccan"},"508":{"fullName":"Mozambique","alpha2":"MZ","ethnic_name":"Mozambican"},"512":{"fullName":"Oman","alpha2":"OM","ethnic_name":"Omanese"},"516":{"fullName":"Namibia","alpha2":"NA","ethnic_name":"Namibian"},"520":{"fullName":"Nauru","alpha2":"NR","ethnic_name":"Nauruan"},"524":{"fullName":"Nepal","alpha2":"NP","ethnic_name":"Nepalese"},"528":{"fullName":"Netherlands","alpha2":"NL","ethnic_name":"Dutch"},"531":{"fullName":"Curacao","alpha2":"CW","ethnic_name":"Curacaoan"},"533":{"fullName":"Aruba","alpha2":"AW","ethnic_name":"Aruban"},"534":{"fullName":"Sint Maarten","alpha2":"SX","ethnic_name":"Saint Martinian"},"535":{"fullName":"Bonaire, Sint Eustatius and Saba","alpha2":"BQ","ethnic_name":""},"540":{"fullName":"New Caledonia","alpha2":"NC","ethnic_name":"Caledonian"},"548":{"fullName":"Vanuatu","alpha2":"VU","ethnic_name":"Vanuatuan"},"554":{"fullName":"New Zealand","alpha2":"NZ","ethnic_name":"New Zealander"},"558":{"fullName":"Nicaragua","alpha2":"NI","ethnic_name":"Nicaraguan"},"562":{"fullName":"Niger","alpha2":"NE","ethnic_name":"Nigerien"},"566":{"fullName":"Nigeria","alpha2":"NG","ethnic_name":"Nigerian"},"570":{"fullName":"Niue","alpha2":"NU","ethnic_name":"Niuean"},"574":{"fullName":"Norfolk Island","alpha2":"NF","ethnic_name":""},"578":{"fullName":"Norway","alpha2":"NO","ethnic_name":"Norwegian"},"580":{"fullName":"Northern Mariana Islands","alpha2":"MP","ethnic_name":""},"581":{"fullName":"United States Minor Outlying Islands","alpha2":"UM","ethnic_name":""},"583":{"fullName":"Micronesia","alpha2":"FM","ethnic_name":"Micronesian"},"584":{"fullName":"Marshall Islands","alpha2":"MH","ethnic_name":""},"585":{"fullName":"Palau","alpha2":"PW","ethnic_name":"Palauan"},"586":{"fullName":"Pakistan","alpha2":"PK","ethnic_name":"Pakistanian"},"591":{"fullName":"Panama","alpha2":"PA","ethnic_name":"Panamanian"},"598":{"fullName":"Papua New Guinea","alpha2":"PG","ethnic_name":"Papua New Guinean"},"600":{"fullName":"Paraguay","alpha2":"PY","ethnic_name":"Paraguayan"},"604":{"fullName":"Peru","alpha2":"PE","ethnic_name":"Peruvian"},"608":{"fullName":"Philippines","alpha2":"PH","ethnic_name":"Filipino"},"612":{"fullName":"Pitcairn","alpha2":"PN","ethnic_name":"Pitcairnian"},"616":{"fullName":"Poland","alpha2":"PL","ethnic_name":"Polish"},"620":{"fullName":"Portugal","alpha2":"PT","ethnic_name":"Portuguese"},"624":{"fullName":"Guinea-Bissau","alpha2":"GW","ethnic_name":"Guinea-Bissauan"},"626":{"fullName":"Timor-Leste","alpha2":"TL","ethnic_name":""},"630":{"fullName":"Puerto Rico","alpha2":"PR","ethnic_name":"Puerto Rican"},"634":{"fullName":"Qatar","alpha2":"QA","ethnic_name":"Qatarian"},"638":{"fullName":"Reunion","alpha2":"RE","ethnic_name":""},"642":{"fullName":"Romania","alpha2":"RO","ethnic_name":"Romanian"},"643":{"fullName":"Russia","alpha2":"RU","ethnic_name":"Russian"},"646":{"fullName":"Rwanda","alpha2":"RW","ethnic_name":"Rwandan"},"652":{"fullName":"Saint Barthelemy","alpha2":"BL","ethnic_name":""},"654":{"fullName":"Saint Helena","alpha2":"SH","ethnic_name":""},"659":{"fullName":"Saint Kitts and Nevis","alpha2":"KN","ethnic_name":""},"660":{"fullName":"Anguilla","alpha2":"AI","ethnic_name":"Anguillan"},"662":{"fullName":"Saint Lucia","alpha2":"LC","ethnic_name":"Saint Lucian"},"663":{"fullName":"Saint Martin","alpha2":"MF","ethnic_name":""},"666":{"fullName":"Saint Pierre and Miquelon","alpha2":"PM","ethnic_name":""},"670":{"fullName":"Saint Vincent and the Grenadines","alpha2":"VC","ethnic_name":""},"674":{"fullName":"San Marino","alpha2":"SM","ethnic_name":"San Marinese"},"678":{"fullName":"Sao Tome and Principe","alpha2":"ST","ethnic_name":""},"682":{"fullName":"Saudi Arabia","alpha2":"SA","ethnic_name":"Saudi Arabian"},"686":{"fullName":"Senegal","alpha2":"SN","ethnic_name":"Senegalese"},"688":{"fullName":"Serbia","alpha2":"RS","ethnic_name":"Serbian"},"690":{"fullName":"Seychelles","alpha2":"SC","ethnic_name":"Seychellen"},"694":{"fullName":"Sierra Leone","alpha2":"SL","ethnic_name":""},"702":{"fullName":"Singapore","alpha2":"SG","ethnic_name":"Singaporean"},"703":{"fullName":"Slovakia","alpha2":"SK","ethnic_name":"Slovakian"},"704":{"fullName":"Viet Nam","alpha2":"VN","ethnic_name":"Vietnamese"},"705":{"fullName":"Slovenia","alpha2":"SI","ethnic_name":"Slovenian"},"706":{"fullName":"Somalia","alpha2":"SO","ethnic_name":"Somalian"},"710":{"fullName":"South Africa","alpha2":"ZA","ethnic_name":"South African"},"716":{"fullName":"Zimbabwe","alpha2":"ZW","ethnic_name":"Zimbabwean"},"724":{"fullName":"Spain","alpha2":"ES","ethnic_name":"Spanish"},"728":{"fullName":"South Sudan","alpha2":"SS","ethnic_name":"South Sudanese"},"729":{"fullName":"Sudan","alpha2":"SD","ethnic_name":"Sudanese"},"732":{"fullName":"Western Sahara","alpha2":"EH","ethnic_name":"Western Saharan"},"740":{"fullName":"Suriname","alpha2":"SR","ethnic_name":"Surinamese"},"744":{"fullName":"Svalbard and Jan Mayen","alpha2":"SJ","ethnic_name":""},"748":{"fullName":"Swaziland","alpha2":"SZ","ethnic_name":"Swazi"},"752":{"fullName":"Sweden","alpha2":"SE","ethnic_name":"Swedish"},"756":{"fullName":"Switzerland","alpha2":"CH","ethnic_name":"Swiss"},"760":{"fullName":"Syrian Arab Republic","alpha2":"SY","ethnic_name":""},"762":{"fullName":"Tajikistan","alpha2":"TJ","ethnic_name":"Tajikistani"},"764":{"fullName":"Thailand","alpha2":"TH","ethnic_name":"Thai"},"768":{"fullName":"Togo","alpha2":"TG","ethnic_name":"Togolese"},"772":{"fullName":"Tokelau","alpha2":"TK","ethnic_name":"Tokelauan"},"776":{"fullName":"Tonga","alpha2":"TO","ethnic_name":"Tongan"},"780":{"fullName":"Trinidad and Tobago","alpha2":"TT","ethnic_name":"Trinidadian"},"784":{"fullName":"United Arab Emirates","alpha2":"AE","ethnic_name":"Emirati"},"788":{"fullName":"Tunisia","alpha2":"TN","ethnic_name":"Tunisian"},"792":{"fullName":"Turkey","alpha2":"TR","ethnic_name":"Turkish"},"795":{"fullName":"Turkmenistan","alpha2":"TM","ethnic_name":"Turkmens"},"796":{"fullName":"Turks and Caicos Islands","alpha2":"TC","ethnic_name":""},"798":{"fullName":"Tuvalu","alpha2":"TV","ethnic_name":"Tuvaluan"},"800":{"fullName":"Uganda","alpha2":"UG","ethnic_name":"Ugandan"},"804":{"fullName":"Ukraine","alpha2":"UA","ethnic_name":"Ukrainian"},"807":{"fullName":"Macedonia","alpha2":"MK","ethnic_name":"Macedonian"},"818":{"fullName":"Egypt","alpha2":"EG","ethnic_name":"Egyptian"},"826":{"fullName":"United Kingdom","alpha2":"GB","ethnic_name":"British"},"831":{"fullName":"Guernsey","alpha2":"GG","ethnic_name":""},"832":{"fullName":"Jersey","alpha2":"JE","ethnic_name":"Jerseyan"},"833":{"fullName":"Isle of Man","alpha2":"IM","ethnic_name":""},"834":{"fullName":"Tanzania","alpha2":"TZ","ethnic_name":"Tanzanian"},"840":{"fullName":"United States","alpha2":"US","ethnic_name":"American"},"850":{"fullName":"US Virgin Islands","alpha2":"VI","ethnic_name":"American"},"854":{"fullName":"Burkina Faso","alpha2":"BF","ethnic_name":"Burkina Fasoan"},"858":{"fullName":"Uruguay","alpha2":"UY","ethnic_name":"Uruguayan"},"860":{"fullName":"Uzbekistan","alpha2":"UZ","ethnic_name":"Uzbekistani"},"862":{"fullName":"Venezuela","alpha2":"VE","ethnic_name":"Venezuelan"},"876":{"fullName":"Wallis and Futuna","alpha2":"WF","ethnic_name":""},"882":{"fullName":"Samoa","alpha2":"WS","ethnic_name":"Samoan"},"887":{"fullName":"Yemen","alpha2":"YE","ethnic_name":"Yemeni"},"894":{"fullName":"Zambia","alpha2":"ZM","ethnic_name":"Zambian"},"004":{"fullName":"Afghanistan","alpha2":"AF","ethnic_name":"Afghani"},"008":{"fullName":"Albania","alpha2":"AL","ethnic_name":"Albanian"},"012":{"fullName":"Algeria","alpha2":"DZ","ethnic_name":"Algerian"},"016":{"fullName":"American Samoa","alpha2":"AS","ethnic_name":"American"},"020":{"fullName":"Andorra","alpha2":"AD","ethnic_name":"Andorran"},"024":{"fullName":"Angola","alpha2":"AO","ethnic_name":"Angolan"},"010":{"fullName":"Antarctica","alpha2":"AQ","ethnic_name":"Antarctican"},"028":{"fullName":"Antigua and Barbuda","alpha2":"AG","ethnic_name":"Antiguan"},"032":{"fullName":"Argentina","alpha2":"AR","ethnic_name":"Argentinian"},"051":{"fullName":"Armenia","alpha2":"AM","ethnic_name":"Armenian"},"036":{"fullName":"Australia","alpha2":"AU","ethnic_name":"Australian"},"040":{"fullName":"Austria","alpha2":"AT","ethnic_name":"Austrian"},"031":{"fullName":"Azerbaijan","alpha2":"AZ","ethnic_name":"Azerbaijani"},"044":{"fullName":"Bahamas","alpha2":"BS","ethnic_name":"Bahamian"},"048":{"fullName":"Bahrain","alpha2":"BH","ethnic_name":"Bahraini"},"050":{"fullName":"Bangladesh","alpha2":"BD","ethnic_name":"Bangladeshi"},"052":{"fullName":"Barbados","alpha2":"BB","ethnic_name":"Barbadian"},"056":{"fullName":"Belgium","alpha2":"BE","ethnic_name":"Belgian"},"084":{"fullName":"Belize","alpha2":"BZ","ethnic_name":"Belizean"},"060":{"fullName":"Bermuda","alpha2":"BM","ethnic_name":"Bermudian"},"064":{"fullName":"Bhutan","alpha2":"BT","ethnic_name":"Bhutanese"},"068":{"fullName":"Bolivia","alpha2":"BO","ethnic_name":"Bolivian"},"070":{"fullName":"Bosnia and Herzegovina","alpha2":"BA","ethnic_name":"Bosnian"},"072":{"fullName":"Botswana","alpha2":"BW","ethnic_name":"Botswanan"},"074":{"fullName":"Bouvet Island","alpha2":"BV","ethnic_name":""},"076":{"fullName":"Brazil","alpha2":"BR","ethnic_name":"Brazilian"},"086":{"fullName":"British Indian Ocean Territory","alpha2":"IO","ethnic_name":""},"096":{"fullName":"Brunei Darussalam","alpha2":"BN","ethnic_name":"Bruneian"},"090":{"fullName":"Solomon Islands","alpha2":"SB","ethnic_name":""},"092":{"fullName":"British Virgin Islands","alpha2":"VG","ethnic_name":""}}
   countryCodesToNames = {"BG":"Bulgaria","MM":"Myanmar","BI":"Burundi","BY":"Belarus","KH":"Cambodia","CM":"Cameroon","CA":"Canada","CV":"Cape Verde","KY":"Cayman Islands","CF":"Central African Republic","LK":"Sri Lanka","TD":"Chad","CL":"Chile","CN":"China","TW":"Taiwan","CX":"Christmas Island","CC":"Cocos Islands","CO":"Colombia","KM":"Comoros","YT":"Mayotte","CG":"Republic of the Congo","CD":"Democratic Republic of the Congo","CK":"Cook Islands","CR":"Costa Rica","HR":"Croatia","CU":"Cuba","CY":"Cyprus","CZ":"Czech Republic","BJ":"Benin","DK":"Denmark","DM":"Dominica","DO":"Dominican Republic","EC":"Ecuador","SV":"El Salvador","GQ":"Equatorial Guinea","ET":"Ethiopia","ER":"Eritrea","EE":"Estonia","FO":"Faroe Islands","FK":"Falkland Islands","GS":"South Georgia and the South Sandwich Islands","FJ":"Fiji","FI":"Finland","AX":"Aland Islands","FR":"France","GF":"French Guiana","PF":"French Polynesia","TF":"French Southern Territories","DJ":"Djibouti","GA":"Gabon","GE":"Georgia","GM":"Gambia","PS":"Palestine","DE":"Germany","GH":"Ghana","GI":"Gibraltar","KI":"Kiribati","GR":"Greece","GL":"Greenland","GD":"Grenada","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GN":"Guinea","GY":"Guyana","HT":"Haiti","HM":"Heard Island and McDonald Islands","VA":"Vatican","HN":"Honduras","HK":"Hong Kong","HU":"Hungary","IS":"Iceland","IN":"India","ID":"Indonesia","IR":"Iran","IQ":"Iraq","IE":"Ireland","IL":"Israel","IT":"Italy","CI":"Cote d'Ivoire","JM":"Jamaica","JP":"Japan","KZ":"Kazakhstan","JO":"Jordan","KE":"Kenya","KP":"North Korea","KR":"South Korea","KW":"Kuwait","KG":"Kyrgyzstan","LA":"Laos","LB":"Lebanon","LS":"Lesotho","LV":"Latvia","LR":"Liberia","LY":"Libya","LI":"Liechtenstein","LT":"Lithuania","LU":"Luxembourg","MO":"Macao","MG":"Madagascar","MW":"Malawi","MY":"Malaysia","MV":"Maldives","ML":"Mali","MT":"Malta","MQ":"Martinique","MR":"Mauritania","MU":"Mauritius","MX":"Mexico","MC":"Monaco","MN":"Mongolia","MD":"Moldova","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","MZ":"Mozambique","OM":"Oman","NA":"Namibia","NR":"Nauru","NP":"Nepal","NL":"Netherlands","CW":"Curacao","AW":"Aruba","SX":"Sint Maarten","BQ":"Bonaire, Sint Eustatius and Saba","NC":"New Caledonia","VU":"Vanuatu","NZ":"New Zealand","NI":"Nicaragua","NE":"Niger","NG":"Nigeria","NU":"Niue","NF":"Norfolk Island","NO":"Norway","MP":"Northern Mariana Islands","UM":"United States Minor Outlying Islands","FM":"Micronesia","MH":"Marshall Islands","PW":"Palau","PK":"Pakistan","PA":"Panama","PG":"Papua New Guinea","PY":"Paraguay","PE":"Peru","PH":"Philippines","PN":"Pitcairn","PL":"Poland","PT":"Portugal","GW":"Guinea-Bissau","TL":"Timor-Leste","PR":"Puerto Rico","QA":"Qatar","RE":"Reunion","RO":"Romania","RU":"Russia","RW":"Rwanda","BL":"Saint Barthelemy","SH":"Saint Helena","KN":"Saint Kitts and Nevis","AI":"Anguilla","LC":"Saint Lucia","MF":"Saint Martin","PM":"Saint Pierre and Miquelon","VC":"Saint Vincent and the Grenadines","SM":"San Marino","ST":"Sao Tome and Principe","SA":"Saudi Arabia","SN":"Senegal","RS":"Serbia","SC":"Seychelles","SL":"Sierra Leone","SG":"Singapore","SK":"Slovakia","VN":"Viet Nam","SI":"Slovenia","SO":"Somalia","ZA":"South Africa","ZW":"Zimbabwe","ES":"Spain","SS":"South Sudan","SD":"Sudan","EH":"Western Sahara","SR":"Suriname","SJ":"Svalbard and Jan Mayen","SZ":"Swaziland","SE":"Sweden","CH":"Switzerland","SY":"Syrian Arab Republic","TJ":"Tajikistan","TH":"Thailand","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad and Tobago","AE":"United Arab Emirates","TN":"Tunisia","TR":"Turkey","TM":"Turkmenistan","TC":"Turks and Caicos Islands","TV":"Tuvalu","UG":"Uganda","UA":"Ukraine","MK":"Macedonia","EG":"Egypt","GB":"United Kingdom","GG":"Guernsey","JE":"Jersey","IM":"Isle of Man","TZ":"Tanzania","US":"United States","VI":"US Virgin Islands","BF":"Burkina Faso","UY":"Uruguay","UZ":"Uzbekistan","VE":"Venezuela","WF":"Wallis and Futuna","WS":"Samoa","YE":"Yemen","ZM":"Zambia","AF":"Afghanistan","AL":"Albania","DZ":"Algeria","AS":"American Samoa","AD":"Andorra","AO":"Angola","AQ":"Antarctica","AG":"Antigua and Barbuda","AR":"Argentina","AM":"Armenia","AU":"Australia","AT":"Austria","AZ":"Azerbaijan","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesh","BB":"Barbados","BE":"Belgium","BZ":"Belize","BM":"Bermuda","BT":"Bhutan","BO":"Bolivia","BA":"Bosnia and Herzegovina","BW":"Botswana","BV":"Bouvet Island","BR":"Brazil","IO":"British Indian Ocean Territory","BN":"Brunei Darussalam","SB":"Solomon Islands","VG":"British Virgin Islands"}
   countryGroups = {"North America":["060","124","304","666","840","581"],"Asia":[["398","417","762","795","860"],["156","344","392","408","410","446","496","158"],["643"],["096","104","116","360","418","458","608","702","764","626","704"],["004","050","064","356","462","524","586","144"],["051","031","268"]],"Western Europe":["040","056","250","276","438","442","492","528","756","336","208","246","300","352","372","380","470","578","620","674","724","752","826","248","234","239","260","292","744","831","832","833","020"],"Latin America":[["660","028","533","044","052","535","092","136","192","531","212","214","308","312","332","388","474","500","630","652","659","662","663","670","534","780","796","850"],["084","188","222","320","340","484","558","591"],["032","068","076","152","170","218","238","254","328","600","604","740","858","862"]],"Central \u0026 Eastern Europe":["112","100","203","348","616","498","642","643","703","804","705","191","070","688","499","008","807","233","428","440","804"],"Oceania":[["036","554","574","162","166","334"],["242","540","598","090","548"],["316","296","584","583","520","580","585"],["016","184","258","570","612","882","772","776","798","876"]],"Middle East":[["048","196","818","364","368","376","400","414","422","512","275","634","682","760","792","784","887"]],"Africa":[["108","174","262","232","231","404","450","454","480","175","508","638","646","690","706","728","800","834","548","887","894"],["024","120","140","148","178","180","226","266","678"],["012","818","434","504","729","788","732"],["072","426","516","710","748","716"],["204","854","132","384","270","288","324","624","430","466","478","562","566","654","686","694","768"]]}
+  
+  // Powers the select2 simple_form component
+  countrySelectData = [{"id":"","text":"North America","children":[{"id":239,"text":"Bermuda"},{"id":7,"text":"Canada"},{"id":59,"text":"Greenland"},{"id":163,"text":"Saint Pierre and Miquelon"},{"id":210,"text":"United States"},{"id":136,"text":"United States Minor Outlying Islands"}]},{"id":"","text":"Asia","children":[{"id":220,"text":"Afghanistan"},{"id":229,"text":"Armenia"},{"id":232,"text":"Azerbaijan"},{"id":235,"text":"Bangladesh"},{"id":240,"text":"Bhutan"},{"id":247,"text":"Brunei Darussalam"},{"id":5,"text":"Cambodia"},{"id":14,"text":"China"},{"id":51,"text":"Georgia"},{"id":70,"text":"Hong Kong"},{"id":73,"text":"India"},{"id":74,"text":"Indonesia"},{"id":82,"text":"Japan"},{"id":83,"text":"Kazakhstan"},{"id":89,"text":"Kyrgyzstan"},{"id":90,"text":"Laos"},{"id":99,"text":"Macao"},{"id":102,"text":"Malaysia"},{"id":103,"text":"Maldives"},{"id":111,"text":"Mongolia"},{"id":2,"text":"Myanmar"},{"id":120,"text":"Nepal"},{"id":86,"text":"North Korea"},{"id":140,"text":"Pakistan"},{"id":145,"text":"Philippines"},{"id":155,"text":"Russia"},{"id":172,"text":"Singapore"},{"id":87,"text":"South Korea"},{"id":11,"text":"Sri Lanka"},{"id":15,"text":"Taiwan"},{"id":189,"text":"Tajikistan"},{"id":190,"text":"Thailand"},{"id":150,"text":"Timor-Leste"},{"id":198,"text":"Turkmenistan"},{"id":214,"text":"Uzbekistan"},{"id":174,"text":"Viet Nam"}]},{"id":"","text":"Western Europe","children":[{"id":44,"text":"Aland Islands"},{"id":224,"text":"Andorra"},{"id":231,"text":"Austria"},{"id":237,"text":"Belgium"},{"id":30,"text":"Denmark"},{"id":39,"text":"Faroe Islands"},{"id":43,"text":"Finland"},{"id":45,"text":"France"},{"id":48,"text":"French Southern Territories"},{"id":54,"text":"Germany"},{"id":56,"text":"Gibraltar"},{"id":58,"text":"Greece"},{"id":206,"text":"Guernsey"},{"id":72,"text":"Iceland"},{"id":77,"text":"Ireland"},{"id":208,"text":"Isle of Man"},{"id":79,"text":"Italy"},{"id":207,"text":"Jersey"},{"id":96,"text":"Liechtenstein"},{"id":98,"text":"Luxembourg"},{"id":105,"text":"Malta"},{"id":110,"text":"Monaco"},{"id":121,"text":"Netherlands"},{"id":134,"text":"Norway"},{"id":148,"text":"Portugal"},{"id":165,"text":"San Marino"},{"id":41,"text":"South Georgia and the South Sandwich Islands"},{"id":179,"text":"Spain"},{"id":184,"text":"Svalbard and Jan Mayen"},{"id":186,"text":"Sweden"},{"id":187,"text":"Switzerland"},{"id":205,"text":"United Kingdom"},{"id":68,"text":"Vatican"}]},{"id":"","text":"Latin America","children":[{"id":160,"text":"Anguilla"},{"id":227,"text":"Antigua and Barbuda"},{"id":228,"text":"Argentina"},{"id":123,"text":"Aruba"},{"id":233,"text":"Bahamas"},{"id":236,"text":"Barbados"},{"id":238,"text":"Belize"},{"id":241,"text":"Bolivia"},{"id":125,"text":"Bonaire, Sint Eustatius and Saba"},{"id":245,"text":"Brazil"},{"id":249,"text":"British Virgin Islands"},{"id":9,"text":"Cayman Islands"},{"id":13,"text":"Chile"},{"id":18,"text":"Colombia"},{"id":24,"text":"Costa Rica"},{"id":26,"text":"Cuba"},{"id":122,"text":"Curacao"},{"id":31,"text":"Dominica"},{"id":32,"text":"Dominican Republic"},{"id":33,"text":"Ecuador"},{"id":34,"text":"El Salvador"},{"id":40,"text":"Falkland Islands"},{"id":46,"text":"French Guiana"},{"id":60,"text":"Grenada"},{"id":61,"text":"Guadeloupe"},{"id":63,"text":"Guatemala"},{"id":65,"text":"Guyana"},{"id":66,"text":"Haiti"},{"id":69,"text":"Honduras"},{"id":81,"text":"Jamaica"},{"id":106,"text":"Martinique"},{"id":109,"text":"Mexico"},{"id":114,"text":"Montserrat"},{"id":129,"text":"Nicaragua"},{"id":141,"text":"Panama"},{"id":143,"text":"Paraguay"},{"id":144,"text":"Peru"},{"id":151,"text":"Puerto Rico"},{"id":157,"text":"Saint Barthelemy"},{"id":159,"text":"Saint Kitts and Nevis"},{"id":161,"text":"Saint Lucia"},{"id":162,"text":"Saint Martin"},{"id":164,"text":"Saint Vincent and the Grenadines"},{"id":124,"text":"Sint Maarten"},{"id":183,"text":"Suriname"},{"id":194,"text":"Trinidad and Tobago"},{"id":199,"text":"Turks and Caicos Islands"},{"id":211,"text":"US Virgin Islands"},{"id":213,"text":"Uruguay"},{"id":215,"text":"Venezuela"}]},{"id":"","text":"Central \u0026 Eastern Europe","children":[{"id":221,"text":"Albania"},{"id":4,"text":"Belarus"},{"id":242,"text":"Bosnia and Herzegovina"},{"id":1,"text":"Bulgaria"},{"id":25,"text":"Croatia"},{"id":28,"text":"Czech Republic"},{"id":38,"text":"Estonia"},{"id":71,"text":"Hungary"},{"id":93,"text":"Latvia"},{"id":97,"text":"Lithuania"},{"id":203,"text":"Macedonia"},{"id":112,"text":"Moldova"},{"id":113,"text":"Montenegro"},{"id":147,"text":"Poland"},{"id":154,"text":"Romania"},{"id":155,"text":"Russia"},{"id":169,"text":"Serbia"},{"id":173,"text":"Slovakia"},{"id":175,"text":"Slovenia"},{"id":202,"text":"Ukraine"},{"id":202,"text":"Ukraine"}]},{"id":"","text":"Oceania","children":[{"id":223,"text":"American Samoa"},{"id":230,"text":"Australia"},{"id":16,"text":"Christmas Island"},{"id":17,"text":"Cocos Islands"},{"id":23,"text":"Cook Islands"},{"id":42,"text":"Fiji"},{"id":47,"text":"French Polynesia"},{"id":62,"text":"Guam"},{"id":67,"text":"Heard Island and McDonald Islands"},{"id":57,"text":"Kiribati"},{"id":138,"text":"Marshall Islands"},{"id":137,"text":"Micronesia"},{"id":119,"text":"Nauru"},{"id":126,"text":"New Caledonia"},{"id":128,"text":"New Zealand"},{"id":132,"text":"Niue"},{"id":133,"text":"Norfolk Island"},{"id":135,"text":"Northern Mariana Islands"},{"id":139,"text":"Palau"},{"id":142,"text":"Papua New Guinea"},{"id":146,"text":"Pitcairn"},{"id":217,"text":"Samoa"},{"id":248,"text":"Solomon Islands"},{"id":192,"text":"Tokelau"},{"id":193,"text":"Tonga"},{"id":200,"text":"Tuvalu"},{"id":127,"text":"Vanuatu"},{"id":216,"text":"Wallis and Futuna"}]},{"id":"","text":"Middle East","children":[{"id":234,"text":"Bahrain"},{"id":27,"text":"Cyprus"},{"id":204,"text":"Egypt"},{"id":75,"text":"Iran"},{"id":76,"text":"Iraq"},{"id":78,"text":"Israel"},{"id":84,"text":"Jordan"},{"id":88,"text":"Kuwait"},{"id":91,"text":"Lebanon"},{"id":117,"text":"Oman"},{"id":53,"text":"Palestine"},{"id":152,"text":"Qatar"},{"id":167,"text":"Saudi Arabia"},{"id":188,"text":"Syrian Arab Republic"},{"id":197,"text":"Turkey"},{"id":195,"text":"United Arab Emirates"},{"id":218,"text":"Yemen"}]},{"id":"","text":"Africa","children":[{"id":222,"text":"Algeria"},{"id":225,"text":"Angola"},{"id":29,"text":"Benin"},{"id":243,"text":"Botswana"},{"id":212,"text":"Burkina Faso"},{"id":3,"text":"Burundi"},{"id":6,"text":"Cameroon"},{"id":8,"text":"Cape Verde"},{"id":10,"text":"Central African Republic"},{"id":12,"text":"Chad"},{"id":19,"text":"Comoros"},{"id":80,"text":"Cote d'Ivoire"},{"id":22,"text":"Democratic Republic of the Congo"},{"id":49,"text":"Djibouti"},{"id":204,"text":"Egypt"},{"id":35,"text":"Equatorial Guinea"},{"id":37,"text":"Eritrea"},{"id":36,"text":"Ethiopia"},{"id":50,"text":"Gabon"},{"id":52,"text":"Gambia"},{"id":55,"text":"Ghana"},{"id":64,"text":"Guinea"},{"id":149,"text":"Guinea-Bissau"},{"id":85,"text":"Kenya"},{"id":92,"text":"Lesotho"},{"id":94,"text":"Liberia"},{"id":95,"text":"Libya"},{"id":100,"text":"Madagascar"},{"id":101,"text":"Malawi"},{"id":104,"text":"Mali"},{"id":107,"text":"Mauritania"},{"id":108,"text":"Mauritius"},{"id":20,"text":"Mayotte"},{"id":115,"text":"Morocco"},{"id":116,"text":"Mozambique"},{"id":118,"text":"Namibia"},{"id":130,"text":"Niger"},{"id":131,"text":"Nigeria"},{"id":21,"text":"Republic of the Congo"},{"id":153,"text":"Reunion"},{"id":156,"text":"Rwanda"},{"id":158,"text":"Saint Helena"},{"id":166,"text":"Sao Tome and Principe"},{"id":168,"text":"Senegal"},{"id":170,"text":"Seychelles"},{"id":171,"text":"Sierra Leone"},{"id":176,"text":"Somalia"},{"id":177,"text":"South Africa"},{"id":180,"text":"South Sudan"},{"id":181,"text":"Sudan"},{"id":185,"text":"Swaziland"},{"id":209,"text":"Tanzania"},{"id":191,"text":"Togo"},{"id":196,"text":"Tunisia"},{"id":201,"text":"Uganda"},{"id":127,"text":"Vanuatu"},{"id":182,"text":"Western Sahara"},{"id":218,"text":"Yemen"},{"id":219,"text":"Zambia"},{"id":178,"text":"Zimbabwe"}]}]
+  countryNamesById = {"1":"Bulgaria","2":"Myanmar","3":"Burundi","4":"Belarus","5":"Cambodia","6":"Cameroon","7":"Canada","8":"Cape Verde","9":"Cayman Islands","10":"Central African Republic","11":"Sri Lanka","12":"Chad","13":"Chile","14":"China","15":"Taiwan","16":"Christmas Island","17":"Cocos Islands","18":"Colombia","19":"Comoros","20":"Mayotte","21":"Republic of the Congo","22":"Democratic Republic of the Congo","23":"Cook Islands","24":"Costa Rica","25":"Croatia","26":"Cuba","27":"Cyprus","28":"Czech Republic","29":"Benin","30":"Denmark","31":"Dominica","32":"Dominican Republic","33":"Ecuador","34":"El Salvador","35":"Equatorial Guinea","36":"Ethiopia","37":"Eritrea","38":"Estonia","39":"Faroe Islands","40":"Falkland Islands","41":"South Georgia and the South Sandwich Islands","42":"Fiji","43":"Finland","44":"Aland Islands","45":"France","46":"French Guiana","47":"French Polynesia","48":"French Southern Territories","49":"Djibouti","50":"Gabon","51":"Georgia","52":"Gambia","53":"Palestine","54":"Germany","55":"Ghana","56":"Gibraltar","57":"Kiribati","58":"Greece","59":"Greenland","60":"Grenada","61":"Guadeloupe","62":"Guam","63":"Guatemala","64":"Guinea","65":"Guyana","66":"Haiti","67":"Heard Island and McDonald Islands","68":"Vatican","69":"Honduras","70":"Hong Kong","71":"Hungary","72":"Iceland","73":"India","74":"Indonesia","75":"Iran","76":"Iraq","77":"Ireland","78":"Israel","79":"Italy","80":"Cote d'Ivoire","81":"Jamaica","82":"Japan","83":"Kazakhstan","84":"Jordan","85":"Kenya","86":"North Korea","87":"South Korea","88":"Kuwait","89":"Kyrgyzstan","90":"Laos","91":"Lebanon","92":"Lesotho","93":"Latvia","94":"Liberia","95":"Libya","96":"Liechtenstein","97":"Lithuania","98":"Luxembourg","99":"Macao","100":"Madagascar","101":"Malawi","102":"Malaysia","103":"Maldives","104":"Mali","105":"Malta","106":"Martinique","107":"Mauritania","108":"Mauritius","109":"Mexico","110":"Monaco","111":"Mongolia","112":"Moldova","113":"Montenegro","114":"Montserrat","115":"Morocco","116":"Mozambique","117":"Oman","118":"Namibia","119":"Nauru","120":"Nepal","121":"Netherlands","122":"Curacao","123":"Aruba","124":"Sint Maarten","125":"Bonaire, Sint Eustatius and Saba","126":"New Caledonia","127":"Vanuatu","128":"New Zealand","129":"Nicaragua","130":"Niger","131":"Nigeria","132":"Niue","133":"Norfolk Island","134":"Norway","135":"Northern Mariana Islands","136":"United States Minor Outlying Islands","137":"Micronesia","138":"Marshall Islands","139":"Palau","140":"Pakistan","141":"Panama","142":"Papua New Guinea","143":"Paraguay","144":"Peru","145":"Philippines","146":"Pitcairn","147":"Poland","148":"Portugal","149":"Guinea-Bissau","150":"Timor-Leste","151":"Puerto Rico","152":"Qatar","153":"Reunion","154":"Romania","155":"Russia","156":"Rwanda","157":"Saint Barthelemy","158":"Saint Helena","159":"Saint Kitts and Nevis","160":"Anguilla","161":"Saint Lucia","162":"Saint Martin","163":"Saint Pierre and Miquelon","164":"Saint Vincent and the Grenadines","165":"San Marino","166":"Sao Tome and Principe","167":"Saudi Arabia","168":"Senegal","169":"Serbia","170":"Seychelles","171":"Sierra Leone","172":"Singapore","173":"Slovakia","174":"Viet Nam","175":"Slovenia","176":"Somalia","177":"South Africa","178":"Zimbabwe","179":"Spain","180":"South Sudan","181":"Sudan","182":"Western Sahara","183":"Suriname","184":"Svalbard and Jan Mayen","185":"Swaziland","186":"Sweden","187":"Switzerland","188":"Syrian Arab Republic","189":"Tajikistan","190":"Thailand","191":"Togo","192":"Tokelau","193":"Tonga","194":"Trinidad and Tobago","195":"United Arab Emirates","196":"Tunisia","197":"Turkey","198":"Turkmenistan","199":"Turks and Caicos Islands","200":"Tuvalu","201":"Uganda","202":"Ukraine","203":"Macedonia","204":"Egypt","205":"United Kingdom","206":"Guernsey","207":"Jersey","208":"Isle of Man","209":"Tanzania","210":"United States","211":"US Virgin Islands","212":"Burkina Faso","213":"Uruguay","214":"Uzbekistan","215":"Venezuela","216":"Wallis and Futuna","217":"Samoa","218":"Yemen","219":"Zambia","220":"Afghanistan","221":"Albania","222":"Algeria","223":"American Samoa","224":"Andorra","225":"Angola","226":"Antarctica","227":"Antigua and Barbuda","228":"Argentina","229":"Armenia","230":"Australia","231":"Austria","232":"Azerbaijan","233":"Bahamas","234":"Bahrain","235":"Bangladesh","236":"Barbados","237":"Belgium","238":"Belize","239":"Bermuda","240":"Bhutan","241":"Bolivia","242":"Bosnia and Herzegovina","243":"Botswana","244":"Bouvet Island","245":"Brazil","246":"British Indian Ocean Territory","247":"Brunei Darussalam","248":"Solomon Islands","249":"British Virgin Islands"}
+  countryIdsByAlpha2 = {"BG":1,"MM":2,"BI":3,"BY":4,"KH":5,"CM":6,"CA":7,"CV":8,"KY":9,"CF":10,"LK":11,"TD":12,"CL":13,"CN":14,"TW":15,"CX":16,"CC":17,"CO":18,"KM":19,"YT":20,"CG":21,"CD":22,"CK":23,"CR":24,"HR":25,"CU":26,"CY":27,"CZ":28,"BJ":29,"DK":30,"DM":31,"DO":32,"EC":33,"SV":34,"GQ":35,"ET":36,"ER":37,"EE":38,"FO":39,"FK":40,"GS":41,"FJ":42,"FI":43,"AX":44,"FR":45,"GF":46,"PF":47,"TF":48,"DJ":49,"GA":50,"GE":51,"GM":52,"PS":53,"DE":54,"GH":55,"GI":56,"KI":57,"GR":58,"GL":59,"GD":60,"GP":61,"GU":62,"GT":63,"GN":64,"GY":65,"HT":66,"HM":67,"VA":68,"HN":69,"HK":70,"HU":71,"IS":72,"IN":73,"ID":74,"IR":75,"IQ":76,"IE":77,"IL":78,"IT":79,"CI":80,"JM":81,"JP":82,"KZ":83,"JO":84,"KE":85,"KP":86,"KR":87,"KW":88,"KG":89,"LA":90,"LB":91,"LS":92,"LV":93,"LR":94,"LY":95,"LI":96,"LT":97,"LU":98,"MO":99,"MG":100,"MW":101,"MY":102,"MV":103,"ML":104,"MT":105,"MQ":106,"MR":107,"MU":108,"MX":109,"MC":110,"MN":111,"MD":112,"ME":113,"MS":114,"MA":115,"MZ":116,"OM":117,"NA":118,"NR":119,"NP":120,"NL":121,"CW":122,"AW":123,"SX":124,"BQ":125,"NC":126,"VU":127,"NZ":128,"NI":129,"NE":130,"NG":131,"NU":132,"NF":133,"NO":134,"MP":135,"UM":136,"FM":137,"MH":138,"PW":139,"PK":140,"PA":141,"PG":142,"PY":143,"PE":144,"PH":145,"PN":146,"PL":147,"PT":148,"GW":149,"TL":150,"PR":151,"QA":152,"RE":153,"RO":154,"RU":155,"RW":156,"BL":157,"SH":158,"KN":159,"AI":160,"LC":161,"MF":162,"PM":163,"VC":164,"SM":165,"ST":166,"SA":167,"SN":168,"RS":169,"SC":170,"SL":171,"SG":172,"SK":173,"VN":174,"SI":175,"SO":176,"ZA":177,"ZW":178,"ES":179,"SS":180,"SD":181,"EH":182,"SR":183,"SJ":184,"SZ":185,"SE":186,"CH":187,"SY":188,"TJ":189,"TH":190,"TG":191,"TK":192,"TO":193,"TT":194,"AE":195,"TN":196,"TR":197,"TM":198,"TC":199,"TV":200,"UG":201,"UA":202,"MK":203,"EG":204,"GB":205,"GG":206,"JE":207,"IM":208,"TZ":209,"US":210,"VI":211,"BF":212,"UY":213,"UZ":214,"VE":215,"WF":216,"WS":217,"YE":218,"ZM":219,"AF":220,"AL":221,"DZ":222,"AS":223,"AD":224,"AO":225,"AQ":226,"AG":227,"AR":228,"AM":229,"AU":230,"AT":231,"AZ":232,"BS":233,"BH":234,"BD":235,"BB":236,"BE":237,"BZ":238,"BM":239,"BT":240,"BO":241,"BA":242,"BW":243,"BV":244,"BR":245,"IO":246,"BN":247,"SB":248,"VG":249}
 </script>
 
 <meta charset="utf-8">
@@ -55,7 +63,7 @@
 <meta content="http://www.thalamus.co/assets/thalamus_logo_large.png" property="og:image">
 <meta content="The Largest Crowdsourced Database of Ad Vendor Data in the World" property="og:title">
 <meta content="Thalamus" property="og:site_name">
-<meta content="http://www.thalamus.co/privacy" property="og:url">
+<meta content="http://thalamus.co/privacy" property="og:url">
 <meta content="With over 50,000 ad partners and counting, Thalamus houses the most comprehensive dataset of ad partner capabilities, contacts, marketing collateral, ad specs, network data, and marketer reviews for vendors across the globe. Media buying teams representing 90% of the AdAge top digital agencies list, as well as global brands, use Thalamus to source, evaluate, and connect with participating ad partners to meet their digital advertising goals." property="og:description">
 <meta content="833904346732232" property="fb:app_id">
 <meta content="798A530313361DB95906F7473D244ECA" name="msvalidate.01">
@@ -67,7 +75,7 @@
   <form class='network-data-edit-form form-network-data-<%= model.adPartnerId %>'>
     <div class="btn-container">
       <input class="btn btn-success button-save" type="submit" value="Save" />
-      <i class="icon-spin icon-spinner"></i>
+      <i class="fa fa-spin fa-spinner"></i>
     </div>
 
     <div class="error-data" style="display: none">
@@ -76,47 +84,47 @@
      <ul class="list-forms">
       <li>
         <fieldset class="glob-custom online-display">
-          <legend><strong>Online Display</strong></legend>
+          <legend><strong data-tooltip-key="Online Display">Online Display</strong></legend>
           <ul>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" id="tot-uniques-display-<%= model.adPartnerId %>" placeholder="eg. 100,000,000" name='network_data[display_total_monthly_uniques]' value="<%= model.display_total_monthly_uniques  %>"/>
-              <label for="tot-uniques-display-<%= model.adPartnerId %>">Total monthly uniques</label>
+              <label data-tooltip-key="Total monthly impressions" for="tot-uniques-display-<%= model.adPartnerId %>">Total monthly uniques</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[display_total_high_impact_monthly_impressions]' value='<%= model.display_total_high_impact_monthly_impressions %>' id="tot-impact-display-<%= model.adPartnerId %>" placeholder="eg. 300,000,000" />
-              <label for="tot-impact-display-<%= model.adPartnerId %>">Total high-impact monthly impressions</label>
+              <label data-tooltip-key="Total high impact monthly impressions" for="tot-impact-display-<%= model.adPartnerId %>">Total high-impact monthly impressions</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[display_total_monthly_impressions]' value='<%= model.display_total_monthly_impressions %>' id="tot-mo-display-<%= model.adPartnerId %>" placeholder="eg. 1,000,000,000" />
-              <label for="tot-mo-display-<%= model.adPartnerId %>">Total monthly impressions</label>
+              <label data-tooltip-key="Total monthly uniques" for="tot-mo-display-<%= model.adPartnerId %>">Total monthly impressions</label>
             </li>
           </ul>
         </fieldset>
         <fieldset class="glob-custom online-video-form">
-          <legend><strong>Online Video</strong></legend>
+          <legend><strong data-tooltip-key="Online Video">Online Video</strong></legend>
           <ul>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_monthly_unique_viewers]' value="<%= model.video_total_monthly_unique_viewers  %>" id="tot-uniques-video-<%= model.adPartnerId %>" placeholder="eg. 40,000,000" />
-              <label for="tot-uniques-video-<%= model.adPartnerId %>">Total monthly unique viewers</label>
+              <label data-tooltip-key="Total monthly video views" for="tot-uniques-video-<%= model.adPartnerId %>">Total monthly unique viewers</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_monthly_video_views]' value='<%= model.video_total_monthly_video_views %>' id="tot-impact-video-<%= model.adPartnerId %>" placeholder="eg. 500,000,000" />
-              <label for="tot-impact-video-<%= model.adPartnerId %>">Total monthly video views</label>
+              <label data-tooltip-key="Total in banner monthly video views" for="tot-impact-video-<%= model.adPartnerId %>">Total monthly video views</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_pre_roll_monthly_video_views]' value='<%= model.video_total_pre_roll_monthly_video_views %>' id="tot-mo-video-<%= model.adPartnerId %>" placeholder="eg. 100,000,000" />
-              <label for="tot-mo-video-<%= model.adPartnerId %>">Total pre-roll monthly video views</label>
+              <label data-tooltip-key="Total pre roll monthly video views" for="tot-mo-video-<%= model.adPartnerId %>">Total pre-roll monthly video views</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_in_banner_monthly_video_views]' value='<%= model.video_total_in_banner_monthly_video_views %>' id="tot-inbanner-mo-video-<%= model.adPartnerId %>" placeholder="eg. 200,000,000" />
-              <label for="tot-inbanner-mo-video-<%= model.adPartnerId %>">Total in-banner monthly video views</label>
+              <label data-tooltip-key="Total monthly unique viewers" for="tot-inbanner-mo-video-<%= model.adPartnerId %>">Total in-banner monthly video views</label>
             </li>
             <li class="slide-input in-stream-in-banner-slide-input">
-            <span class="first-item">
+            <span class="first-item" data-tooltip-key="In-Stream / In-Banner">
               In-Stream<br/>
               <span class="value in_stream" id="in_stream-<%= model.adPartnerId %>-value"><%= (model.video_in_stream_in_banner_relation.in_stream || '50') %>%</span>
             </span>
-            <span class="second-item">
+            <span class="second-item" data-tooltip-key="In-Stream / In-Banner">
               In-Banner<br/>
               <span class="value in_banner" id="in_banner-<%= model.adPartnerId %>-value"><%= (model.video_in_stream_in_banner_relation.in_banner || '50') %>%</span>
             </span>
@@ -125,29 +133,29 @@
               <input type="hidden" id="in_banner-<%= model.adPartnerId %>" name="network_data[video_in_stream_in_banner_relation][in_banner]" value="<%= model.video_in_stream_in_banner_relation.in_banner %>">
 
             <li class="glob-custom">
-              <h3>YouTube Data</h3>
+              <h3 data-tooltip-key="YouTube Data">YouTube Data</h3>
               <ul>
                 <li class="text-input">
                   <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_subscribers]' value='<%= model.video_total_subscribers %>' id="tot-subscribers-video-<%= model.adPartnerId %>" placeholder="eg. 20,000,000" />
-                  <label for="tot-subscribers-video-<%= model.adPartnerId %>">Total subscribers</label>
+                  <label data-tooltip-key="Total Subscribers" for="tot-subscribers-video-<%= model.adPartnerId %>">Total subscribers</label>
                 </li>
                 <li class="text-input">
                   <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_video_views]' value='<%= model.video_total_video_views %>' id="tot-views-video-<%= model.adPartnerId %>" placeholder="eg. 200,000,000" />
-                  <label for="tot-views-video-<%= model.adPartnerId %>">Total video views</label>
+                  <label data-tooltip-key="Total video views" for="tot-views-video-<%= model.adPartnerId %>">Total video views</label>
                 </li>
                 <li class="text-input">
                   <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_monthly_video_views]' value='<%= model.video_monthly_video_views %>' id="mo-views-video-<%= model.adPartnerId %>" placeholder="eg. 10,000,000" />
-                  <label for="mo-views-video-<%= model.adPartnerId %>">Monthly video views</label>
+                  <label data-tooltip-key="Monthly video views" for="mo-views-video-<%= model.adPartnerId %>">Monthly video views</label>
                 </li>
                 <li class="text-input">
                   <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_number_of_channels]' value='<%= model.video_number_of_channels %>' id="chan-net-partners-video-<%= model.adPartnerId %>" placeholder="eg. 1,000" />
-                  <label for="chan-net-partners-video-<%= model.adPartnerId %>"># of  channels /network partners</label>
+                  <label data-tooltip-key="Channels / Network Partners" for="chan-net-partners-video-<%= model.adPartnerId %>"># of  channels /network partners</label>
                 </li>
               </ul>
             </li>
             <li class="text-input top-stars">
               <h3>
-                <label for="top-stars-talent-video-<%= model.adPartnerId %>">Top Stars / Talent <span>(Multi-Channel Networks)</span></label>
+                <label data-tooltip-key="Top Stars / Talent" for="top-stars-talent-video-<%= model.adPartnerId %>">Top Stars / Talent <span>(Multi-Channel Networks)</span></label>
               </h3>
               <input type="text" name='network_data[video_top_stars_talent]' value='<%- model.video_top_stars_talent %>' id="top-stars-talent-video-<%= model.adPartnerId %>" placeholder="eg. PewPewDie, JennaMarbles, Smosh" />
             </li>
@@ -157,27 +165,27 @@
 
       <li>
         <fieldset class="glob-custom mobile-form">
-          <legend><strong>Mobile</strong></legend>
+          <legend><strong data-tooltip-key="Mobile" >Mobile</strong></legend>
           <ul>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[mobile_total_monthly_uniques]' value='<%= model.mobile_total_monthly_uniques %>' id="tot-uniques-mobile-<%= model.adPartnerId %>" placeholder="eg. 50,000,000" />
-              <label for="tot-uniques-mobile-<%= model.adPartnerId %>">Total monthly uniques</label>
+              <label data-tooltip-key="Mobile monthly overall impressions" for="tot-uniques-mobile-<%= model.adPartnerId %>">Total monthly uniques</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[mobile_monthly_interstitial_impressions]' value='<%= model.mobile_monthly_interstitial_impressions %>' id="tot-impact-mobile-<%= model.adPartnerId %>" placeholder="eg. 100,000,000" />
-              <label for="tot-impact-mobile-<%= model.adPartnerId %>">Total monthly interstitial or high-impact impressions</label>
+              <label data-tooltip-key="Mobile monthly interstitial impressions" for="tot-impact-mobile-<%= model.adPartnerId %>">Total monthly interstitial or high-impact impressions</label>
             </li>
             <li class="text-input">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[mobile_monthly_overall_impressions]' value='<%= model.mobile_monthly_overall_impressions %>' id="tot-mo-mobile-<%= model.adPartnerId %>" placeholder="eg. 300,000,000" />
-              <label for="tot-mo-mobile-<%= model.adPartnerId %>">Total monthly overall impressions</label>
+              <label data-tooltip-key="Mobile total monthly uniques" for="tot-mo-mobile-<%= model.adPartnerId %>">Total monthly overall impressions</label>
             </li>
 
             <li class="slide-input ios-android-slide-input">
-              <span class="first-item">
+              <span class="first-item" data-tooltip-key="iOS / Android">
                 iOS<br/>
                 <span class="value ios" id="ios-<%= model.adPartnerId %>-value"><%= (model.mobile_ios_android_relation.ios || '50') %>%</span>
               </span>
-              <span class="second-item">
+              <span class="second-item" data-tooltip-key="iOS / Android">
                 Android<br/>
                 <span class="value android" id="android-<%= model.adPartnerId %>-value"><%= (model.mobile_ios_android_relation.android || '50') %>%</span>
               </span>
@@ -188,13 +196,13 @@
             </li>
 
             <li class="slide-input in-app-mobile-web-slide-input">
-              <span class="first-item">
+              <span class="first-item" data-tooltip-key="In-App / Mobile Web">
                 In-App<br/>
                 <span class="value in_app" id="in_app-<%= model.adPartnerId %>-value" ><%= (model.mobile_in_app_mobile_web_relation.in_app || '50') %>%</span>
               </span>
 
-              <span class="second-item">
-                MobileWeb<br/>
+              <span class="second-item" data-tooltip-key="In-App / Mobile Web">
+                Mobile Web<br/>
                 <span class="value mobile_web" id="mobile_web-<%= model.adPartnerId %>-value"><%= (model.mobile_in_app_mobile_web_relation.mobile_web || '50') %>%</span>
               </span>
 
@@ -205,12 +213,12 @@
 
 
             <li class="slide-input phone-tablet-slide-input">
-              <span class="first-item">
+              <span class="first-item" data-tooltip-key="Phone / Tablet">
                 Phone<br/>
                 <span class="value phone" id="phone-<%= model.adPartnerId %>-value" ><%= ((model.mobile_phone_tablet_relation && model.mobile_phone_tablet_relation.phone) || '50') %>%</span>
               </span>
 
-              <span class="second-item">
+              <span class="second-item" data-tooltip-key="Phone / Tablet">
                 Tablet<br/>
                 <span class="value tablet" id="tablet-<%= model.adPartnerId %>-value"><%= ((model.mobile_phone_tablet_relation && model.mobile_phone_tablet_relation.tablet) || '50') %>%</span>
               </span>
@@ -222,21 +230,21 @@
 
             <li class="text-input margin-set">
               <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[total_monthly_mobile_video_views]" value="<%= model.total_monthly_mobile_video_views%>" id="mo-video-views-mobile-<%= model.adPartnerId %>" placeholder="eg. 30,000,000" />
-              <label for="mo-video-views-mobile-<%= model.adPartnerId %>">Total monthly mobile video views</label>
+              <label data-tooltip-key="Total monthly mobile video views" for="mo-video-views-mobile-<%= model.adPartnerId %>">Total monthly mobile video views</label>
             </li>
             <li class="mobile-apps-list">
-              <h3>Owned Mobile Apps</h3>
+              <h3 data-tooltip-key="Owned Mobile Apps" >Owned Mobile Apps</h3>
               <ul>
                 <li>
                   <h4>iPhone</h4>
                   <ul class="mobile-apps">
                     <li class="text-input mobile-apps-downloads">
-                      <label for="app-iphone">Total App Downloads</label>
+                      <label data-tooltip-key="App Downloads" for="app-iphone">Total App Downloads</label>
                       <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_iphone][downloads_count]" value="<%= model.mobile_apps_iphone.downloads_count%>" id="app-iphone-<%= model.adPartnerId %>" />
                     </li>
 
                     <li class="mau-dau">
-                      <label>Usage</label>
+                      <label data-tooltip-key="Usage">Usage</label>
                       <div class="mau-dau-inputs-container">
                         <div class="text-input value-au">
                           <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_iphone][active_users_count]" value="<%= model.mobile_apps_iphone.active_users_count%>" />
@@ -259,7 +267,7 @@
                     </li>
 
                     <li class="text-input mo-pv">
-                      <label for="mo-pv-iphone-<%= model.adPartnerId %>">Monthly Impressions</label>
+                      <label data-tooltip-key="Monthly Impressions" for="mo-pv-iphone-<%= model.adPartnerId %>">Monthly Impressions</label>
                       <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_iphone][monthly_pv]" value="<%= model.mobile_apps_iphone.monthly_pv%>" id="mo-pv-iphone-<%= model.adPartnerId %>" />
                     </li>
                   </ul>
@@ -268,11 +276,11 @@
                   <h4>iPad</h4>
                   <ul class="mobile-apps">
                     <li class="text-input mobile-apps-downloads">
-                      <label  for="app-ipod-<%= model.adPartnerId %>">Total App Downloads</label>
+                      <label data-tooltip-key="App Downloads" for="app-ipod-<%= model.adPartnerId %>">Total App Downloads</label>
                       <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_ipad][downloads_count]" value="<%= model.mobile_apps_ipad.downloads_count%>" id="app-ipod-<%= model.adPartnerId %>" />
                     </li>
                     <li class="mau-dau">
-                      <label>Usage</label>
+                      <label data-tooltip-key="Usage">Usage</label>
                       <div class="mau-dau-inputs-container">
                         <div class="text-input value-au">
                           <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_ipad][active_users_count]" value="<%= model.mobile_apps_ipad.active_users_count%>" />
@@ -294,20 +302,20 @@
                       </div>
                     </li>
                     <li class="text-input mo-pv">
-                      <label for="mo-pv-ipad-<%= model.adPartnerId %>">Monthly Impressions</label>
+                      <label data-tooltip-key="Monthly Impressions" for="mo-pv-ipad-<%= model.adPartnerId %>">Monthly Impressions</label>
                       <input type="number" min="1" max="10000000000000" name='network_data[mobile_apps_ipad][monthly_pv]' value="<%= model.mobile_apps_ipad.monthly_pv %>" id="mo-pv-ipad-<%= model.adPartnerId %>" />
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <h4>Android</h4>
+                  <h4 data-tooltip-key="Android App Downloads" >Android</h4>
                   <ul class="mobile-apps">
                     <li class="text-input mobile-apps-downloads">
-                      <label for="app-android-<%= model.adPartnerId %>">Total App Downloads</label>
+                      <label data-tooltip-key="App Downloads" for="app-android-<%= model.adPartnerId %>">Total App Downloads</label>
                       <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_android][downloads_count]" value="<%= model.mobile_apps_android.downloads_count%>" id="app-android-<%= model.adPartnerId %>" />
                     </li>
                     <li class="mau-dau">
-                      <label>Usage</label>
+                      <label data-tooltip-key="Usage">Usage</label>
                       <div class="mau-dau-inputs-container">
                         <div class="text-input value-au">
                           <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_android][active_users_count]" value="<%= model.mobile_apps_android.active_users_count%>" />
@@ -329,7 +337,7 @@
                       </div>
                     </li>
                     <li class="text-input mo-pv">
-                      <label for="mo-pv-android-<%= model.adPartnerId %>">Monthly Impressions</label>
+                      <label data-tooltip-key="Monthly Impressions" for="mo-pv-android-<%= model.adPartnerId %>">Monthly Impressions</label>
                       <input type="number" min="1" max="10000000000000" name='network_data[mobile_apps_android][monthly_pv]' value="<%= model.mobile_apps_android.monthly_pv %>" id="mo-pv-android-<%= model.adPartnerId %>">
                     </li>
                   </ul>
@@ -338,49 +346,14 @@
             </li>
           </ul>
         </fieldset>
-        <fieldset class="glob-custom email-soc-form">
-          <legend><strong>E-mail / Social</strong></legend>
-          <ul>
-            <li class="text-input">
-              <i class="pull-left icon-envelope"></i>
-              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[email_subscribers]" value="<%= model.email_subscribers %>" id="email-subsc-<%= model.adPartnerId %>" placeholder="eg. 100,000" />
-              <label for="email-subsc-<%= model.adPartnerId %>">Email Subscribers</label>
-            </li>
-            <li class="text-input">
-              <i class="pull-left icon-facebook-sign"></i>
-              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_facebook_fans]" value="<%= model.social_facebook_fans %>" id="facebook-soc-<%= model.adPartnerId %>" placeholder="eg. 50,000" />
-              <label for="facebook-soc-<%= model.adPartnerId %>">Facebook Fans</label>
-            </li>
-            <li class="text-input">
-              <i class="pull-left icon-twitter-sign"></i>
-              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_twitter_followers]" value="<%= model.social_twitter_followers %>" id="twitter-soc-<%= model.adPartnerId %>" placeholder="eg. 20,000" />
-              <label for="twitter-soc-<%= model.adPartnerId %>">Twitter Followers</label>
-            </li>
-            <li class="text-input">
-              <i class="pull-left icon-instagram"></i>
-              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_instagram_followers]" value="<%= model.social_instagram_followers %>" id="instagram-soc-<%= model.adPartnerId %>" placeholder="eg. 10,000" />
-              <label for="instagram-soc-<%= model.adPartnerId %>">Instagram Followers</label>
-            </li>
-            <li class="text-input">
-              <i class="pull-left icon-pinterest-sign"></i>
-              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_pinterest_followers]" value="<%= model.social_pinterest_followers %>" id="pinterest-soc-<%= model.adPartnerId %>" placeholder="eg. 15,000" />
-              <label for="pinterest-soc-<%= model.adPartnerId %>">Pinterest Followers</label>
-            </li>
-            <li class="text-input">
-              <i class="pull-left icon-tumblr-sign"></i>
-              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_tumblr_followers]" value="<%= model.social_tumblr_followers %>" id="pinterest-soc-<%= model.adPartnerId %>" placeholder="eg. 5,000" />
-              <label for="tumblr-soc-<%= model.adPartnerId %>">Tumblr Followers</label>
-            </li>
-          </ul>
-        </fieldset>
       </li>
 
       <li>
         <fieldset class="glob-custom demos-form">
-          <legend><strong>Demos</strong></legend>
+          <legend><strong data-tooltip-key="Demos">Demos</strong></legend>
           <ul>
             <li class="slide-input male-female-slide-input">
-              <h3>Gender</h3>
+              <h3 data-tooltip-key="Gender">Gender</h3>
 
                 <span class="first-item">
                   Male<br/>
@@ -395,7 +368,7 @@
               <input type="hidden" id="female-<%= model.adPartnerId %>" name="network_data[demos_gender][female]" value="<%= model.demos_gender.female %>">
             </li>
             <li>
-              <h3>Age</h3>
+              <h3 data-tooltip-key="Age">Age</h3>
               <ul class="demos-form-list demos-age">
                 <% _.each(formElements.ageSelects, function(formData) { %>
                 <li>
@@ -418,7 +391,7 @@
               </ul>
             </li>
             <li>
-              <h3>Income</h3>
+              <h3 data-tooltip-key="Income">Income</h3>
               <ul class="demos-form-list demos-income">
                 <% _.each(formElements.incomeSelects, function(formData) { %>
                 <li>
@@ -441,7 +414,7 @@
               </ul>
             </li>
             <li>
-              <h3>Education</h3>
+              <h3 data-tooltip-key="Education">Education</h3>
               <ul class="demos-form-list demos-education">
                 <% _.each(formElements.educationSelects, function(formData) { %>
                 <li>
@@ -469,14 +442,14 @@
 
       <li>
         <fieldset class="glob-custom geo-breakdown">
-          <legend><strong>Geography Breakdown</strong></legend>
+          <legend><strong data-tooltip-key="Geography Breakdown">Geography Breakdown</strong></legend>
 
           <h3 class="country-title">Country</h3>
           <h3 class="breakdown-title">% Breakdown</h3>
           <ul class="country-list breakdowns-list">
             <% _.each(model.geography, function(geography, index) { %>
             <% countryData = {data: geography.country, value: formElements.countryByCode[geography.country.toUpperCase()]} %>
-            <%= _.template(newBreakdownTpl, {newIndex: index, countryData: countryData}) %>
+            <%= _.template(newBreakdownTpl)({newIndex: index, countryData: countryData}) %>
             <% }) %>
           </ul>
           <div class="add-country">
@@ -535,7 +508,7 @@
                 <option value="KM">Comoros</option>
                 <option value="CK">Cook Islands</option>
                 <option value="CR">Costa Rica</option>
-                <option value="CI">Cote d&#x27;Ivoire</option>
+                <option value="CI">Cote d&#39;Ivoire</option>
                 <option value="HR">Croatia</option>
                 <option value="CU">Cuba</option>
                 <option value="CW">Curacao</option>
@@ -734,6 +707,42 @@
             </select>
           </div>
         </fieldset>
+
+        <fieldset class="glob-custom email-soc-form">
+          <legend><strong data-tooltip-key="Email / Social" >E-mail / Social</strong></legend>
+          <ul>
+            <li class="text-input">
+              <i class="pull-left fa fa-envelope"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[email_subscribers]" value="<%= model.email_subscribers %>" id="email-subsc-<%= model.adPartnerId %>" placeholder="eg. 100,000" />
+              <label data-tooltip-key="Email Subscribers" for="email-subsc-<%= model.adPartnerId %>">Email Subscribers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left fa fa-facebook-square"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_facebook_fans]" value="<%= model.social_facebook_fans %>" id="facebook-soc-<%= model.adPartnerId %>" placeholder="eg. 50,000" />
+              <label data-tooltip-key="Facebook Fans" for="facebook-soc-<%= model.adPartnerId %>">Facebook Fans</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left fa fa-twitter-square"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_twitter_followers]" value="<%= model.social_twitter_followers %>" id="twitter-soc-<%= model.adPartnerId %>" placeholder="eg. 20,000" />
+              <label data-tooltip-key="Twitter Followers" for="twitter-soc-<%= model.adPartnerId %>">Twitter Followers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left fa fa-instagram"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_instagram_followers]" value="<%= model.social_instagram_followers %>" id="instagram-soc-<%= model.adPartnerId %>" placeholder="eg. 10,000" />
+              <label data-tooltip-key="Instagram Followers" for="instagram-soc-<%= model.adPartnerId %>">Instagram Followers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left fa fa-pinterest-square"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_pinterest_followers]" value="<%= model.social_pinterest_followers %>" id="pinterest-soc-<%= model.adPartnerId %>" placeholder="eg. 15,000" />
+              <label data-tooltip-key="Pinterest Followers" for="pinterest-soc-<%= model.adPartnerId %>">Pinterest Followers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left fa fa-tumblr-square"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_tumblr_followers]" value="<%= model.social_tumblr_followers %>" id="pinterest-soc-<%= model.adPartnerId %>" placeholder="eg. 5,000" />
+              <label data-tooltip-key="Tumblr Followers" for="tumblr-soc-<%= model.adPartnerId %>">Tumblr Followers</label>
+            </li>
+          </ul>
+        </fieldset>
       </li>
     </ul>
   </form>
@@ -858,10 +867,10 @@
     <section class="no-information">
   <div class="btn-container">
     <input class="btn btn-default button-edit" type="button" value="Edit Data" />
-    <i class="icon-spin icon-spinner"></i>
+    <i class="fa fa-spin fa-spinner"></i>
   </div>
 
-  <img src="/assets/advertising-reach-traffic-demographics-countries.jpg" alt="<%= adPartnerName %> Advertising Reviews, Contacts, Pricing, Mediakits, Ratings, Traffic, Demographics, Reach, Creatives" title="<%= adPartnerName %> Advertising Reviews, Contacts, Pricing, Mediakits, Ratings, Traffic, Demographics, Reach, Creatives" />
+  <img src="http://d3ny630x53xdwa.cloudfront.net/assets/advertising-reach-traffic-demographics-countries-a6db84056eb7124de7b070ccbd5a2cc5c3d085393c7aa39d2ee1aeabadd6f80d.jpg" alt="<%- adPartnerName %> Advertising Reviews, Contacts, Pricing, Mediakits, Ratings, Traffic, Demographics, Reach, Creatives" title="<%- adPartnerName %> Advertising Reviews, Contacts, Pricing, Mediakits, Ratings, Traffic, Demographics, Reach, Creatives" />
 </section>
 
   </script>
@@ -870,147 +879,146 @@
     <section class="network-data-info">
   <div class="btn-container">
     <input class="btn btn-default button-edit" type="button" value="Edit Data" />
-    <i class="icon-spin icon-spinner"></i>
+    <i class="fa fa-spin fa-spinner"></i>
   </div>
 
   <ul>
     <li>
-      <% if(!jQuery.isEmptyObject(displayData)) { %>
+      <% if (!_.isEmpty(displayData)) { %>
         <article class="glob-custom online-display-info">
-          <h2>Online Display</h2>
-          <canvas class="display-canvas" width="130px" height="122px"></canvas>
-          <ul>
-            <% _.each(sortObjectByVals(displayData), function(val, key) { %>
-              <% if(parseInt(val) !== 0 && !isNaN(parseInt(val))) { %>
-                <li>
-                  <span><%= numberAbbreviate(val.toString(), 2) %></span>
-                  <p><%= key.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
-                </li>
-              <% } %>
-            <% }) %>
-          </ul>
-          <div class="clear"></div>
+          <h2 data-tooltip-key="Online Display">Online Display</h2>
+
+          <div class="network-chart-container">
+            <canvas class="display-canvas" width="122px" height="122px"></canvas>
+            <ul class="network-circles-label">
+              <% _.each(displayData, function(datum) { %>
+                <% var val = datum.value %>
+                <% if (val !== 0) { %>
+                  <li>
+                    <span class="num-val"><%= numberAbbreviate(val.toString(), 2) %></span>
+                    <p data-tooltip-key="<%= datum.tooltipKey %>"><%= datum.label.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
+                  </li>
+                <% } %>
+              <% }) %>
+            </ul>
+            <div class="clear"></div>
+          </div>
         </article>
       <% } %>
 
-      <% if(!jQuery.isEmptyObject(videoData)) { %>
+      <% if (!_.isEmpty(videoData)) { %>
         <article class="glob-custom online-video-info">
-          <h2>Online Video</h2>
-          <% if(dataSetPresent(videoData, [ 'total_monthly_unique_viewers',
-                                                'total_monthly_video_views',
-                                                'total_pre_roll_monthly_video_views',
-                                                'total_in_banner_monthly_video_views' ])) { %>
+          <h2 data-tooltip-key="Online Video">Online Video</h2>
 
-            <canvas class="video-canvas" width="130px" height="122px"></canvas>
-          <% } %>
-          <ul>
-            <% _.each(sortObjectByVals(videoData, ['total_monthly_unique_viewers',
-                                                      'total_monthly_video_views',
-                                                      'total_pre_roll_monthly_video_views',
-                                                      'total_in_banner_monthly_video_views']), function(val, key) { %>
-              <% if(parseInt(val) !== 0 && !isNaN(parseInt(val))) { %>
-                <li>
-                  <span><%= numberAbbreviate(val.toString(), 2) %></span>
-                  <p><%= key.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
-                </li>
-              <% } %>
-            <% }) %>
-          </ul>
-          <div style="clear: both;"></div>
-          <% if(model.video_in_stream_in_banner_relation && !isNaN(parseInt(model.video_in_stream_in_banner_relation.in_stream))) { %>
+          <div class="network-chart-container">
+            <canvas class="video-canvas" width="122px" height="136px"></canvas>
+            <ul class="network-circles-label">
+              <% _.each(videoData, function(datum) { %>
+                <% val = datum.value %>
+                <% if (val !== 0) { %>
+                  <li>
+                    <span class="num-val"><%= numberAbbreviate(val.toString(), 2) %></span>
+                    <p data-tooltip-key="<%= datum.tooltipKey %>"><%= datum.label.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
+                  </li>
+                <% } %>
+              <% }) %>
+            </ul>
+            <div class="clear"></div>
+          </div>
+
+          <% if (model.video_in_stream_in_banner_relation && !isNaN(parseInt(model.video_in_stream_in_banner_relation.in_stream))) { %>
             <div class="progress-panel">
-                <p class="first-item">
+                <p class="first-item" data-tooltip-key="In-Stream / In-Banner">
                   In-Stream
-                  <span><%= model.video_in_stream_in_banner_relation.in_stream %>%</span>
+                  <span class="num-val"><%= model.video_in_stream_in_banner_relation.in_stream %>%</span>
                 </p>
-                <p class="second-item">
+                <p class="second-item" data-tooltip-key="In-Stream / In-Banner">
                   In-Banner
-                  <span><%= model.video_in_stream_in_banner_relation.in_banner %>%</span>
+                  <span class="num-val"><%= model.video_in_stream_in_banner_relation.in_banner %>%</span>
                 </p>
             </div>
             <div class="progress">
               <div class="bar" style="width: <%=model.video_in_stream_in_banner_relation.in_stream%>%;"></div>
             </div>
           <% } %>
-          <% if(dataSetPresent(videoData, ['total_subscribers',
-                                              'total_video_views',
-                                              'monthly_video_views',
-                                              'number_of_channels',
-                                              'top_stars_talent'])) { %>
-
-            <h3>
-              <i class="pull-left icon-youtube-sign"></i>YouTube Data
+          <% if (dataSetPresent(model, ['video_total_subscribers',
+                                         'video_total_video_views',
+                                         'video_monthly_video_views',
+                                         'video_number_of_channels',
+                                         'video_top_stars_talent'])) { %>
+            <h3 data-tooltip-key="YouTube Data">
+              <i class="pull-left icon-youtube-square"></i>YouTube Data
             </h3>
           <% } %>
           <ul class="youtube-data">
             <% if(parseInt(model.video_total_subscribers) !== 0 && !isNaN(parseInt(model.video_total_subscribers))) { %>
               <li>
-                <span><%= numberAbbreviate(model.video_total_subscribers.toString(), 2) %></span>
-                <p>Total subscribers</p>
+                <span class="num-val"><%= numberAbbreviate(model.video_total_subscribers.toString(), 2) %></span>
+                <p data-tooltip-key="Total Subscribers">Total subscribers</p>
               </li>
             <% } %>
             <% if(parseInt(model.video_total_video_views) !== 0 && !isNaN(parseInt(model.video_total_video_views))) { %>
               <li>
-                <span><%= numberAbbreviate(model.video_total_video_views.toString(), 2) %></span>
-                <p>Total video views</p>
+                <span class="num-val"><%= numberAbbreviate(model.video_total_video_views.toString(), 2) %></span>
+                <p data-tooltip-key="Total video views">Total video views</p>
               </li>
             <% } %>
             <% if(parseInt(model.video_monthly_video_views) !== 0 && !isNaN(parseInt(model.video_monthly_video_views))) { %>
               <li>
-                <span><%= numberAbbreviate(model.video_monthly_video_views.toString(), 2) %></span>
-                <p>Monthly video views</p>
+                <span class="num-val"><%= numberAbbreviate(model.video_monthly_video_views.toString(), 2) %></span>
+                <p data-tooltip-key="Monthly video views">Monthly video views</p>
               </li>
             <% } %>
             <% if(parseInt(model.video_number_of_channels) !== 0 && !isNaN(parseInt(model.video_number_of_channels))) { %>
               <li>
-                <span><%= numberAbbreviate(model.video_number_of_channels.toString(), 2) %></span>
-                <p>Channels / Network partners</p>
+                <span class="num-val"><%= numberAbbreviate(model.video_number_of_channels.toString(), 2) %></span>
+                <p data-tooltip-key="Channels / Network Partners">Channels / Network partners</p>
               </li>
             <% } %>
           </ul>
           <% if( !(_.isEmpty(model.video_top_stars_talent)) ) { %>
-            <dl class="top-stars">
-              <dt>Top Stars / Talent:</dt>
-              <dd><%= model.video_top_stars_talent %></dd>
-            </dl>
+            <div class="article-section-subheader" data-tooltip-key="Top Stars / Talent">Top Stars / Talent</div>
+            <div class="article-section-text-value"><%= model.video_top_stars_talent %></div>
           <% } %>
+
           <div class="clear"></div>
+
         </article>
       <% } %>
     </li>
 
     <li>
-      <% if(!jQuery.isEmptyObject(mobileData)) { %>
+      <% if(!_.isEmpty(mobileData)) { %>
         <article class="glob-custom mobile-info">
-          <h2>Mobile</h2>
-          <% if(dataSetPresent(mobileData, [ 'mobile_total_monthly_uniques',
-                                                'mobile_monthly_interstitial_impressions',
-                                                'mobile_monthly_overall_impressions' ])) { %>
+          <h2 data-tooltip-key="Mobile">Mobile</h2>
 
-            <canvas class="mobile-canvas" id="mobile-canvas" width="130px" height="122px"></canvas>
-          <% } %>
+          <div class="network-chart-container">
+            <canvas class="mobile-canvas" id="mobile-canvas" width="122px" height="122px"></canvas>
 
-          <ul class="value-list">
-            <% _.each(sortObjectByVals(mobileData,['mobile_total_monthly_uniques',
-                                                      'mobile_monthly_interstitial_impressions',
-                                                     'mobile_monthly_overall_impressions']), function(val, key) { %>
-              <% if(parseInt(val) > 0) { %>
-                <li>
-                  <span><%= numberAbbreviate(val.toString(), 2) %></span>
-                  <p><%= key.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
-                </li>
-              <% } %>
-            <% }) %>
-          </ul>
+            <ul class="network-circles-label value-list">
+              <% _.each(mobileData, function(datum) { %>
+                <% var val = datum.value %>
+                <% if (val !== 0) { %>
+                  <li>
+                    <span class="num-val"><%= numberAbbreviate(val.toString(), 2) %></span>
+                    <p data-tooltip-key="<%= datum.tooltipKey %>"><%= datum.label.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
+                  </li>
+                <% } %>
+              <% }); %>
+            </ul>
+
+            <div class="clear"></div>
+          </div>
+
           <% if(model.mobile_ios_android_relation && !isNaN(parseInt(model.mobile_ios_android_relation.ios))) { %>
             <div class="progress-panel">
-                <p class="first-item">
+                <p class="first-item" data-tooltip-key="iOS / Android">
                   iOS
-                  <span><%= model.mobile_ios_android_relation.ios %>%</span>
+                  <span class="num-val"><%= model.mobile_ios_android_relation.ios %>%</span>
                 </p>
-                <p class="second-item">
+                <p class="second-item" data-tooltip-key="iOS / Android">
                   Android
-                  <span><%= model.mobile_ios_android_relation.android %>%</span>
+                  <span class="num-val"><%= model.mobile_ios_android_relation.android %>%</span>
                 </p>
                 <div class="progress mobile-os">
                   <div class="bar" style="width: <%=model.mobile_ios_android_relation.ios%>%;"></div>
@@ -1019,13 +1027,13 @@
           <% } %>
           <% if(model.mobile_in_app_mobile_web_relation && !isNaN(parseInt(model.mobile_in_app_mobile_web_relation.in_app))) { %>
             <div class="progress-panel">
-              <p class="first-item">
+              <p class="first-item" data-tooltip-key="In-App / Mobile Web">
                 In-App
-                <span><%= model.mobile_in_app_mobile_web_relation.in_app %>%</span>
+                <span class="num-val"><%= model.mobile_in_app_mobile_web_relation.in_app %>%</span>
               </p>
-              <p class="second-item">
-                MobileWeb
-                <span><%= model.mobile_in_app_mobile_web_relation.mobile_web %>%</span>
+              <p class="second-item" data-tooltip-key="In-App / Mobile Web">
+                Mobile Web
+                <span class="num-val"><%= model.mobile_in_app_mobile_web_relation.mobile_web %>%</span>
               </p>
               <div class="progress app-mweb">
                 <div class="bar" style="width: <%=model.mobile_in_app_mobile_web_relation.in_app%>%;"></div>
@@ -1036,13 +1044,13 @@
 
           <% if(model.mobile_phone_tablet_relation && !isNaN(parseInt(model.mobile_phone_tablet_relation.phone))) { %>
             <div class="progress-panel">
-              <p class="first-item">
+              <p class="first-item" data-tooltip-key="Phone / Tablet">
                 Phone
-                <span><%= model.mobile_phone_tablet_relation.phone %>%</span>
+                <span class="num-val"><%= model.mobile_phone_tablet_relation.phone %>%</span>
               </p>
-              <p class="second-item">
+              <p class="second-item" data-tooltip-key="Phone / Tablet">
                 Tablet
-                <span><%= model.mobile_phone_tablet_relation.tablet %>%</span>
+                <span class="num-val"><%= model.mobile_phone_tablet_relation.tablet %>%</span>
               </p>
               <div class="progress phone-tablet">
                 <div class="bar" style="width: <%=model.mobile_phone_tablet_relation.phone%>%;"></div>
@@ -1052,33 +1060,33 @@
 
           <% if(parseInt(model.total_monthly_mobile_video_views) > 0) { %>
             <p class="mob-vid-views">
-              <span><%= numberAbbreviate(model.total_monthly_mobile_video_views.toString(), 2) %></span>
-              Total monthly mobile video views
+              <span class="num-val total-monthly-mobile-video-views"><%= numberAbbreviate(model.total_monthly_mobile_video_views.toString(), 2) %></span>
+              <span data-tooltip-key="Total monthly mobile video views">Total monthly mobile video views</span>
             </p>
           <% } %>
 
           <% if(mobileBlockPresent(model.mobile_apps_iphone) || mobileBlockPresent(model.mobile_apps_ipad) || mobileBlockPresent(model.mobile_apps_android)) { %>
-            <h3>Owned Mobile Apps</h3>
+            <h3 data-tooltip-key="Owned Mobile Apps">Owned Mobile Apps</h3>
           <% } %>
           <% if(mobileBlockPresent(model.mobile_apps_iphone)) { %>
             <h4>iPhone</h4>
             <ul class="mobile-apps-info">
               <% if(parseInt(model.mobile_apps_iphone.downloads_count) > 0) { %>
                 <li class="mo-apps">
-                  <p>App</p>
-                  <span><%= numberAbbreviate(model.mobile_apps_iphone.downloads_count.toString(), 2) %></span>
+                  <p data-tooltip-key="App Downloads">App</p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_iphone.downloads_count.toString(), 2) %></span>
                 </li>
               <% } %>
               <% if(parseInt(model.mobile_apps_iphone.active_users_count) > 0) { %>
                 <li class="value-au">
-                  <p><%= model.mobile_apps_iphone.active_users_select.toUpperCase() %></p>
-                  <span><%= numberAbbreviate(model.mobile_apps_iphone.active_users_count.toString(), 2) %></span>
+                  <p data-tooltip-key="Usage"><%= model.mobile_apps_iphone.active_users_select.toUpperCase() %></p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_iphone.active_users_count.toString(), 2) %></span>
                 </li>
               <% } %>
               <% if(parseInt(model.mobile_apps_iphone.monthly_pv) > 0) { %>
                 <li class="mo-pv">
-                  <p>Monthly PV</p>
-                  <span><%= numberAbbreviate(model.mobile_apps_iphone.monthly_pv.toString(), 2) %></span>
+                  <p data-tooltip-key="Monthly Impressions">Monthly PV</p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_iphone.monthly_pv.toString(), 2) %></span>
                 </li>
               <% } %>
             </ul>
@@ -1088,20 +1096,20 @@
             <ul class="mobile-apps-info">
               <% if(parseInt(model.mobile_apps_ipad.downloads_count) > 0) { %>
                 <li class="mo-apps">
-                  <p>App</p>
-                  <span><%= numberAbbreviate(model.mobile_apps_ipad.downloads_count.toString(), 2) %></span>
+                  <p data-tooltip-key="App Downloads">App</p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_ipad.downloads_count.toString(), 2) %></span>
                 </li>
               <% } %>
               <% if(parseInt(model.mobile_apps_ipad.active_users_count) > 0) { %>
                 <li class="value-au">
-                  <p><%= model.mobile_apps_ipad.active_users_select.toUpperCase() %></p>
-                  <span><%= numberAbbreviate(model.mobile_apps_ipad.active_users_count.toString(), 2) %></span>
+                  <p data-tooltip-key="Usage"><%= model.mobile_apps_ipad.active_users_select.toUpperCase() %></p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_ipad.active_users_count.toString(), 2) %></span>
                 </li>
               <% } %>
               <% if(parseInt(model.mobile_apps_ipad.monthly_pv) > 0) { %>
                 <li class="mo-pv">
-                  <p>Monthly PV</p>
-                  <span><%= numberAbbreviate(model.mobile_apps_ipad.monthly_pv.toString(), 2) %></span>
+                  <p data-tooltip-key="Monthly Impressions">Monthly PV</p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_ipad.monthly_pv.toString(), 2) %></span>
                 </li>
               <% } %>
             </ul>
@@ -1111,75 +1119,24 @@
             <ul class="mobile-apps-info">
               <% if(parseInt(model.mobile_apps_android.downloads_count) > 0) { %>
                 <li class="mo-apps">
-                  <p>App</p>
-                  <span><%= numberAbbreviate(model.mobile_apps_android.downloads_count.toString(), 2) %></span>
+                  <p data-tooltip-key="App Downloads">App</p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_android.downloads_count.toString(), 2) %></span>
                 </li>
               <% } %>
               <% if(parseInt(model.mobile_apps_android.active_users_count) > 0) { %>
                 <li class="value-au">
-                  <p><%= model.mobile_apps_android.active_users_select.toUpperCase() %></p>
-                  <span><%= numberAbbreviate(model.mobile_apps_android.active_users_count.toString(), 2) %></span>
+                  <p data-tooltip-key="Usage"><%= model.mobile_apps_android.active_users_select.toUpperCase() %></p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_android.active_users_count.toString(), 2) %></span>
                 </li>
               <% } %>
               <% if(parseInt(model.mobile_apps_android.monthly_pv) > 0) { %>
                 <li class="mo-pv">
-                  <p>Monthly PV</p>
-                  <span><%= numberAbbreviate(model.mobile_apps_android.monthly_pv.toString(), 2) %></span>
+                  <p data-tooltip-key="Monthly Impressions">Monthly PV</p>
+                  <span class="num-val"><%= numberAbbreviate(model.mobile_apps_android.monthly_pv.toString(), 2) %></span>
                 </li>
               <% } %>
             </ul>
           <% } %>
-          <div class="clear"></div>
-        </article>
-      <% } %>
-      <% if(!jQuery.isEmptyObject(socialData) || !jQuery.isEmptyObject(emailData)) { %>
-        <article class="glob-custom email-soc-info">
-          <h2>E-mail / Social</h2>
-          <ul>
-            <% if(!jQuery.isEmptyObject(emailData)) { %>
-              <li>
-                <i class="pull-left icon-envelope"></i>
-                <span class="data-info"><%= numberAbbreviate(model.email_subscribers.toString(), 2) %></span>
-                <p>Email Subscribers</p>
-              </li>
-            <% } %>
-            <% if(parseInt(model.social_facebook_fans) > 0) { %>
-              <li>
-                <i class="pull-left icon-facebook-sign"></i>
-                <span class="data-info"><%= numberAbbreviate(model.social_facebook_fans.toString(), 2) %></span>
-                <p>Facebook Fans</p>
-              </li>
-            <% } %>
-            <% if(parseInt(model.social_twitter_followers) > 0) { %>
-              <li>
-                <i class="pull-left icon-twitter-sign"></i>
-                <span class="data-info"><%= numberAbbreviate(model.social_twitter_followers.toString(), 2) %></span>
-                <p>Twitter Followers</p>
-              </li>
-            <% } %>
-            <% if(parseInt(model.social_instagram_followers) > 0) { %>
-              <li>
-                <i class="pull-left icon-instagram"></i>
-                <span class="data-info"><%= numberAbbreviate(model.social_instagram_followers.toString(), 2) %></span>
-                <p>Instagram Followers</p>
-              </li>
-            <% } %>
-            <% if(parseInt(model.social_pinterest_followers) > 0) { %>
-              <li>
-                <i class="pull-left icon-pinterest-sign"></i>
-                <span class="data-info"><%= numberAbbreviate(model.social_pinterest_followers.toString(), 2) %></span>
-                <p>Pinterest Followers</p>
-              </li>
-            <% } %>
-
-            <% if(parseInt(model.social_tumblr_followers) > 0) { %>
-              <li>
-                <i class="pull-left icon-tumblr-sign"></i>
-                <span class="data-info"><%= numberAbbreviate(model.social_tumblr_followers.toString(), 2) %></span>
-                <p>Tumblr Followers</p>
-              </li>
-            <% } %>
-          </ul>
           <div class="clear"></div>
         </article>
       <% } %>
@@ -1188,9 +1145,9 @@
     <li>
       <% if(!jQuery.isEmptyObject(demosData)) { %>
         <article class="glob-custom demos-form-info">
-          <h2>Demos</h2>
+          <h2 data-tooltip-key="Demos">Demos</h2>
           <% if(model.demos_gender && !isNaN(parseInt(model.demos_gender.male))) { %>
-            <h3><span class="icon-title icon-sex"></span>Gender</h3>
+            <h3 data-tooltip-key="Gender"><span class="icon-title icon-sex"></span>Gender</h3>
             <p class="first-item">
               Male
               <span><%= model.demos_gender.male %>%</span>
@@ -1204,7 +1161,7 @@
             </div>
           <% } %>
           <% if(percentageFilled(model.demos_age_bracket)) { %>
-            <h3><span class="icon-title icon-age"></span>Age</h3>
+            <h3 data-tooltip-key="Age"><span class="icon-title icon-age"></span>Age</h3>
             <div id="canvas-holder" class="age-graphic">
             <canvas class="chart-area" width="120" height="120"/>
           <% } %>
@@ -1258,7 +1215,7 @@
           </ul>
           <% } %>
           <% if(percentageFilled(model.demos_income)) { %>
-            <h3><span class="icon-title icon-income"></span>Income</h3>
+            <h3 data-tooltip-key="Income"><span class="icon-title icon-income"></span>Income</h3>
             <dl class="demos-info">
               <% if(parseInt(model.demos_income.between_0_50) > 0) { %>
                 <dt>$0 - 50k</dt>
@@ -1303,7 +1260,7 @@
             </dl>
           <% } %>
           <% if(percentageFilled(model.demos_education)) { %>
-            <h3><span class="icon-title icon-education"></span>Education</h3>
+            <h3 data-tooltip-key="Education"><span class="icon-title icon-education"></span>Education</h3>
             <dl class="demos-info">
               <% if(parseInt(model.demos_education.no_college) > 0) { %>
                 <dt>No College</dt>
@@ -1345,12 +1302,12 @@
     <li>
       <% if(!jQuery.isEmptyObject(geographyData)) { %>
         <article class="glob-custom geo-breakdown">
-          <h2>Geography Breakdown</h2>
+          <h2 data-tooltip-key="Geography Breakdown">Geography Breakdown</h2>
           <ul>
             <% var maxVisibleCountries = window.isPrerender ? 500 : 12; %>
             <% _.each(geographyData, function(data, i) { %>
               <li class="<%= i >= maxVisibleCountries ? 'hidden' : '' %>" >
-                <img src="/assets/flags/<%= data.country.toLowerCase() %>.png" onError="this.onerror=null;this.src='/assets/flags/flag_error.png';" alt="<%= data.country %>" />
+                <img src="<%= CONSTANTS.CDN_HOST %>/assets/flags/<%= data.country.toLowerCase() %>.png" onError="this.onerror=null;this.src='/assets/flags/flag_error.png';" alt="<%= data.country %>" />
                 <p><%= countryByCode[data.country.toUpperCase()] %></p>
                 <span><%= data.breakdown == 0 ? '' : data.breakdown + '%' %></span>
               </li>
@@ -1359,6 +1316,58 @@
           <% if (geographyData.length > maxVisibleCountries) { %>
             <a class="show-more">more...</a>
           <% } %>
+          <div class="clear"></div>
+        </article>
+      <% } %>
+
+      <% if(!jQuery.isEmptyObject(socialData) || !jQuery.isEmptyObject(emailData)) { %>
+        <article class="glob-custom email-soc-info">
+          <h2 data-tooltip-key="Email / Social">E-mail / Social</h2>
+          <ul>
+            <% if(!jQuery.isEmptyObject(emailData)) { %>
+              <li>
+                <i class="pull-left fa fa-envelope"></i>
+                <span class="num-val data-info"><%= numberAbbreviate(model.email_subscribers.toString(), 2) %></span>
+                <p data-tooltip-key="Email Subscribers">Email Subscribers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_facebook_fans) > 0) { %>
+              <li>
+                <i class="pull-left fa fa-facebook-square"></i>
+                <span class="num-val data-info"><%= numberAbbreviate(model.social_facebook_fans.toString(), 2) %></span>
+                <p data-tooltip-key="Facebook Fans">Facebook Fans</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_twitter_followers) > 0) { %>
+              <li>
+                <i class="pull-left fa fa-twitter-square"></i>
+                <span class="num-val data-info"><%= numberAbbreviate(model.social_twitter_followers.toString(), 2) %></span>
+                <p data-tooltip-key="Twitter Followers">Twitter Followers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_instagram_followers) > 0) { %>
+              <li>
+                <i class="pull-left fa fa-instagram"></i>
+                <span class="num-val data-info"><%= numberAbbreviate(model.social_instagram_followers.toString(), 2) %></span>
+                <p data-tooltip-key="Instagram Followers">Instagram Followers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_pinterest_followers) > 0) { %>
+              <li>
+                <i class="pull-left fa fa-pinterest-square"></i>
+                <span class="num-val data-info"><%= numberAbbreviate(model.social_pinterest_followers.toString(), 2) %></span>
+                <p data-tooltip-key="Pinterest Followers">Pinterest Followers</p>
+              </li>
+            <% } %>
+
+            <% if(parseInt(model.social_tumblr_followers) > 0) { %>
+              <li>
+                <i class="pull-left fa fa-tumblr-square"></i>
+                <span class="num-val data-info"><%= numberAbbreviate(model.social_tumblr_followers.toString(), 2) %></span>
+                <p data-tooltip-key="Tumblr Followers">Tumblr Followers</p>
+              </li>
+            <% } %>
+          </ul>
           <div class="clear"></div>
         </article>
       <% } %>
@@ -1373,7 +1382,7 @@
     <section class="ua-data-info <%= uaData.publishers_breakdown ? '' : 'without-mobile' %>">
   <div class="edit-container">
     <input class="btn btn-default button-edit" type="button" value="Edit Data" />
-    <i class="icon-spin icon-spinner"></i>
+    <i class="fa fa-spin fa-spinner"></i>
   </div>
 
 <% if (uaData.publishers_breakdown) { %>
@@ -1557,7 +1566,7 @@
     <section class="ua-data-form">
   <div class="edit-container">
     <input class="btn btn-success view-data" type="button" value="View Live Data" />
-    <i class="icon-spin icon-spinner"></i>
+    <i class="fa fa-spin fa-spinner"></i>
     <div class="error-data" style="display: none">
       <p>Values should be less than or equal to 100%</p>
       <span></span>
@@ -1578,7 +1587,7 @@
           <li>
             <ul class="pub-breakout-list">
               <% _.each(uaData.publishers_breakdown, function(publisher, index) { %>
-                <%= _.template($("#ua-data-publisher-category").html(), {publisher: publisher, index: index}) %>
+                <%= _.template($("#ua-data-publisher-category").html())({publisher: publisher, index: index}) %>
               <% }) %>
             </ul>
             <ul class="select-list">
@@ -1729,13 +1738,13 @@
                   </tr>
                 </thead>
                 <tbody data-table-info>
-                  <%= _.template($('#country-data-table-form').html(), {
+                  <%= _.template($('#country-data-table-form').html())({
                     countryData: [], os_type: 'ios', device: 'iPhone', helpers: helpers
                   }) %>
                 </tbody>
                 <tfoot class="hidden" data-table-load>
                     <tr>
-                      <td colspan="12"><div class="review-loader-container"><i class="icon-spinner icon-spin infinite-scroll-loader"></i></div></td>
+                      <td colspan="12"><div class="review-loader-container"><i class="fa fa-spinner fa-spin infinite-scroll-loader"></i></div></td>
                     </tr>
                 </tfoot>
               </table>
@@ -1794,7 +1803,7 @@
                   </tr>
                 </thead>
                 <tbody data-table-info>
-                  <%= _.template($('#country-data-table-form').html(), {
+                  <%= _.template($('#country-data-table-form').html())({
                     countryData: [],
                     os_type: 'android',
                     device: 'Phone',
@@ -1803,7 +1812,7 @@
                 </tbody>
                 <tfoot class="hidden" data-table-load>
                     <tr>
-                      <td colspan="12"><div class="review-loader-container"><i class="icon-spinner icon-spin infinite-scroll-loader"></i></div></td>
+                      <td colspan="12"><div class="review-loader-container"><i class="fa fa-spinner fa-spin infinite-scroll-loader"></i></div></td>
                     </tr>
                 </tfoot>
 
@@ -1974,7 +1983,7 @@
     <section class="no-information">
   <div class="edit-container">
     <input class="btn btn-default button-edit" type="button" value="Edit Data" />
-    <i class="icon-spin icon-spinner"></i>
+    <i class="fa fa-spin fa-spinner"></i>
   </div>
 
 <img src="/assets/ua_data/advertising-mobile-user-acquisition-cost-per-install-cpi.jpg" alt="<%= adPartnerName %> Advertising Mobile User Acquisition Cost Per Install CPI Pricing and Volume" title="<%= adPartnerName %> Advertising Mobile User Acquisition Cost Per Install CPI Pricing and Volume" />
@@ -1992,12 +2001,12 @@
 
   <% if(countryChanged && currentCountry !== '') { %>
 
-    <%= _.template($('#country-data-new-row').html(), {
+    <%= _.template($('#country-data-new-row').html())({
       os_type: os_type,
       device: device,
       currentCountry: currentCountry,
       rowClass: rowClass,
-      showCountry: false} ) %>
+      showCountry: false}) %>
   <% } %>
 
   <% if(countryChanged) { %>
@@ -2029,12 +2038,12 @@
 <% }) %>
 
 <% if(countryData.length > 0) { %>
-      <%= _.template($('#country-data-new-row').html(), {
+      <%= _.template($('#country-data-new-row').html())({
       os_type: os_type,
       device: device,
       currentCountry: currentCountry,
       rowClass: rowClass,
-      showCountry: false} ) %>
+      showCountry: false}) %>
 <% } %>
 
 <% rowClass = helpers.resetRowClass(rowClass) %>
@@ -2096,7 +2105,7 @@
         <option value="KM">Comoros</option>
         <option value="CK">Cook Islands</option>
         <option value="CR">Costa Rica</option>
-        <option value="CI">Cote d&#x27;Ivoire</option>
+        <option value="CI">Cote d&#39;Ivoire</option>
         <option value="HR">Croatia</option>
         <option value="CU">Cuba</option>
         <option value="CW">Curacao</option>
@@ -2412,7 +2421,7 @@
   <tr class="<%= rowClass %>">
     <td class="right-border country-name">
       <% if(countryChanged) { %>
-        <img src="/assets/flags/<%= currentCountry.toLowerCase() %>.png" onError="this.onerror=null;this.src='/assets/flags/flag_error.png';" alt="<%= helpers.countryByCode[currentCountry] %>" />
+        <img src="<%= CONSTANTS.CDN_HOST %>/assets/flags/<%= currentCountry.toLowerCase() %>.png" onError="this.onerror=null;this.src='/assets/flags/flag_error.png';" alt="<%= helpers.countryByCode[currentCountry] %>" />
         <%= helpers.countryByCode[currentCountry] %>
       <% } %>
     </td>
@@ -2432,31 +2441,49 @@
 <% }) %>
 
 <tr class="empty-row"><td colspan="11"></td></tr>
+
   </script>
 
   <script id="user-menu-tpl" type="text/template">
-    <li>
-  <a href="/categories">All Categories</a>
+    <li class="nav-categories">
+  <a href="/categories">Categories</a>
 </li>
 
-<li class="kudos-navbar">
+<li class="nav-categories">
+</li>
+
+<li class="hidden kudos-navbar">
   <span class="lighting"></span>
   <span class="kudos-text"><%= user.garrett_kudos_received %> Kudos!</span>
 </li>
 
-<li>
-  <a href="http://www.thalamus.co/news" class="news-link" target="_blank">News Feed</a>
+<li class="nav-global-data">
+  <a href="/global-data" target="_blank">
+    <i class="fa fa-globe" style="font-size: 16px; color: rgb(48,77,157);"></i>
+    Global Data
+  </a>
+</li>
+
+<li class="nav-access-analytics">
+  <a href="/analytics" class="analytics-navbar-link" target="_blank">
+    <i class="fa fa-align-right" style="color: #ec971F;"></i>
+    Claim Page
+  </a>
+</li>
+
+<li class="nav-news-feed">
+  <a target="_blank" class="news-link" href="http://thalamus.co/news">News Feed</a>
   <span class="badge news-count hidden"></span>
 </li>
 
-<li>
-  <a href="http://www.thalamus.co/blog/" class="blog-link" target="_blank">Blog</a>
+<li class="nav-blog">
+  <a target="_blank" class="blog-link" href="http://thalamus.co/blog/">Blog</a>
   <span class="badge blog-count hidden"></span>
 </li>
 
-<li>
+<li class="nav-username">
   <a href="#" onclick="return false;">
-    <span class="arrow-down"></span>
+    <i class="fa fa-caret-down"></i>
     <%= user.username %>
   </a>
   <ul class="dropdown">
@@ -2474,35 +2501,49 @@
 
 
 
-<link href="http://d3ny630x53xdwa.cloudfront.net/assets/favicon_transparent.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+<link rel="shortcut icon" type="image/x-icon" href="http://d3ny630x53xdwa.cloudfront.net/assets/favicon_transparent.ico">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+</head><body class="classy"><div data-current_account="{}" data-current_user="null" data-ip_address="207.241.231.143" data-is_mobile_device="false" data-location="{&quot;country_name&quot;:&quot;US&quot;,&quot;region_name&quot;:&quot;CA&quot;,&quot;city_name&quot;:&quot;San Francisco&quot;,&quot;latitude&quot;:37.7811,&quot;longitude&quot;:-122.4625}" data-pretty_names="{&quot;about_description&quot;:&quot;Description&quot;,&quot;about_headquarters&quot;:&quot;Headquarters&quot;,&quot;about_company_size&quot;:&quot;Company Size&quot;,&quot;about_founded&quot;:&quot;Year Founded&quot;,&quot;about_ceo_name&quot;:&quot;CEO Name&quot;,&quot;facebook_url&quot;:&quot;Facebook URL&quot;,&quot;blog_url&quot;:&quot;Blog URL&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;channel&quot;:&quot;Channel(s)&quot;,&quot;parent_company_name&quot;:&quot;Parent Company Name&quot;,&quot;logo_url&quot;:&quot;Logo&quot;,&quot;website&quot;:&quot;Website&quot;,&quot;link_to_media_kit&quot;:&quot;Link to Media Kit / Ratecard / Ad Specs&quot;,&quot;link_to_ad_gallery&quot;:&quot;Link to Ad Gallery / Creative Showcase&quot;,&quot;minimum_spend&quot;:&quot;Minimum Spend&quot;,&quot;self_managed_service&quot;:&quot;Self-Service / Managed Service&quot;,&quot;locations&quot;:&quot;Location(s)&quot;,&quot;ad_categories&quot;:&quot;Categories&quot;,&quot;category&quot;:&quot;Type&quot;,&quot;specific_category&quot;:&quot;Headline&quot;,&quot;performance_branding&quot;:&quot;Performance / Branding&quot;,&quot;owned_and_operated_properties&quot;:&quot;Owned / Operated Properties&quot;,&quot;tags&quot;:&quot;Tags&quot;,&quot;publishers&quot;:&quot;Publisher List / Inventory Partners&quot;,&quot;targeting&quot;:&quot;Targeting&quot;,&quot;key_differentiator&quot;:&quot;Key Differentiator&quot;,&quot;pricing_models&quot;:&quot;Pricing Model(s)&quot;,&quot;linkedin_id&quot;:&quot;Linkedin URL&quot;,&quot;twitter_url&quot;:&quot;Twitter URL&quot;,&quot;industries&quot;:&quot;Industries&quot;,&quot;programmatic_integrations&quot;:&quot;Private Marketplace / Programmatic Integrations&quot;,&quot;mobile_platforms&quot;:&quot;Platforms Supported&quot;,&quot;mobile_app_brand&quot;:&quot;App / Game or Brand Centric&quot;,&quot;mobile_support_video&quot;:&quot;Support Mobile Video&quot;,&quot;mobile_support_rich_media&quot;:&quot;Support Mobile Rich Media (Including Interstitials \u0026 Expandables)&quot;,&quot;mobile_support_incentivized_traffic&quot;:&quot;Support Incentivized Traffic &quot;,&quot;mobile_support_tablet&quot;:&quot;Has Tablet Offering&quot;,&quot;mobile_support_high_impact&quot;:&quot;Support Mobile Native Executions&quot;,&quot;mobile_ad_features&quot;:&quot;Ad Features / Call-to-Actions&quot;,&quot;mobile_install_tracking&quot;:&quot;Mobile Install Tracking Partners&quot;,&quot;requires_sdk_integration&quot;:&quot;Requires SDK Integration&quot;,&quot;dis_vid_data_partners&quot;:&quot;Data Partners&quot;,&quot;dis_vid_ad_verification_partners&quot;:&quot;Ad Verification / Brand Safety Partners&quot;,&quot;dis_vid_measurement_partners&quot;:&quot;Brand / Campaign Measurement Partners&quot;,&quot;approved_third_party_ad_serving&quot;:&quot;Approved 3rd Party Ad Serving / Rich Media Vendors&quot;,&quot;dis_vid_proprietary_inventory&quot;:&quot;Access to Non-RTB / Proprietary Inventory&quot;,&quot;dis_vid_support_brand_integration&quot;:&quot;Support Brand Integrations, Sponsorships, Native Executions&quot;,&quot;dis_vid_support_high_impact_executions&quot;:&quot;Support High-Impact Executions (Takeovers, Billboards, Overlays, Sliders, Skins)&quot;,&quot;dis_support_creative_optimization&quot;:&quot;Support Creative Optimization&quot;,&quot;dis_support_rich_media&quot;:&quot;Support Rich Media (Expandable \u0026 Non-Expandable)&quot;,&quot;vid_support_pre_roll&quot;:&quot;Support Pre-Roll&quot;,&quot;vid_support_mid_roll&quot;:&quot;Support Mid-Roll&quot;,&quot;vid_support_post_roll&quot;:&quot;Support Post-Roll&quot;,&quot;vid_support_in_banner_video&quot;:&quot;Support In-Banner Video&quot;,&quot;vid_support_companion_ad&quot;:&quot;Support Video Companion Ad&quot;,&quot;vid_support_custom_video_executions&quot;:&quot;Support Custom Video Executions / Video Overlays&quot;,&quot;audio_support_pre_roll&quot;:&quot;Support Pre-Roll&quot;,&quot;audio_support_mid_roll&quot;:&quot;Support Mid-Roll&quot;,&quot;audio_support_post_roll&quot;:&quot;Support Post-Roll&quot;,&quot;audio_support_companion_banner_ad&quot;:&quot;Support Companion Banner Ad&quot;,&quot;audio_support_native_audio&quot;:&quot;Support Native Audio&quot;}" data-root_url="http://thalamus.co/" id="head-data"></div>
 <script>
-  window.isMobileDevice = false
-  window.currentAccount = null || {};
-  window.currentUser = null;
-  window.loggedIn = window.currentUser && window.currentUser.account_id;
-  window.partiallyLoggedIn = window.currentUser && !window.loggedIn;
-  window.loggedOut = !(window.loggedIn || window.partiallyLoggedIn);
-  window.reviewNeedUpdate = new Event('update');
-  window.rootUrl = "http://www.thalamus.co/";
+  var startLoad = new Date();
+  document.addEventListener("DOMContentLoaded", function() {
+    var endLoad = new Date();
+    window.dispatcher.trigger('domLoaded', endLoad - startLoad);
+  });
   
-  if (window.currentUser) {
-    window.last_new_post_count_query_date = window.currentUser.forem_next_new_posts_count_query_date;
-  }
+  WebFont.load({
+    google: {
+      families: [ 'Lato:400,300,700:latin' ]
+    },
+    custom: {
+      families: ['GothamRound', 'Lato']
+    }
+  });
 </script>
-<link href="http://d3ny630x53xdwa.cloudfront.net/assets/application-151fdaf75a60498562b56e1360048f96.css" media="all" rel="stylesheet" type="text/css">
-<script src="http://d3ny630x53xdwa.cloudfront.net/assets/application-53c20b0102ed477b1bcd1755cedc7759.js" type="text/javascript"></script>
-<meta content="authenticity_token" name="csrf-param">
-<meta content="O1ca64KwU4YAAjEP4fyEzxJfNl9v9W+/cYEJ+OZ8yF4=" name="csrf-token">
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount','UA-40786645-2']);
-_gaq.push(['_setDomainName','auto']);
-_gaq.push(['_trackPageview']);
+<link rel="stylesheet" media="all" href="http://d3ny630x53xdwa.cloudfront.net/assets/application-f8307ea15f28ece4be007dceac50e26c14d09c4ee63099674862562f1407038e.css">
+<script src="http://d3ny630x53xdwa.cloudfront.net/assets/application-99dedc4daa97d52ced18b27df0a16de8c79435b049ddc71e4fdb032736368cf0.js"></script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="HE4Xn6/upOtq83fXcg3O4MgsxrpmGvfxbmD8IRBrD1ZMeylCTw4MMWFuQveCcc26VidqsaMTnAEkV+pukQBVgw==">
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 2127062914]);
 (function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
 })();
+</script>
+<!-- End Inspectlet Embed Code -->
+
+<script src="http://d3ny630x53xdwa.cloudfront.net/assets/head-d49e3dc81e3f86aa99ff20fc9fecc6ca1ed4cbe1d37e7587b658081dee2ff7e6.js"></script>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-40786645-2','auto');
+ga('send','pageview');
 </script>
 
 <!-- The template to display files available for upload -->
@@ -2530,7 +2571,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
       {% if (!o.options.autoUpload) { %}
         <td class="start">
           <button class="btn btn-primary">
-            <i class="icon-upload icon-white"></i>
+            <i class="fa fa-upload icon-white"></i>
             <span>{%=locale.fileupload.start%}</span>
           </button>
         </td>
@@ -2538,7 +2579,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     {% } %}
       <td class="cancel">{% if (!i) { %}
         <button class="btn btn-xs btn-warning">
-          <i class="icon-ban-circle icon-white"></i>
+          <i class="fa fa-ban icon-white"></i>
           <span>{%=locale.fileupload.cancel%}</span>
         </button>
         {% } %}
@@ -2568,9 +2609,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
           <td class="created"><span>{%=file.created_by%}</span></td>
         {% }%}
 
-        <td class="updated"><span>{%=moment(file.updated_at + "+00:00").format("MMM DD YYYY hh:mm a")%}</span></td>
+        <td class="updated"></td>
 
         <td class="error"><span class="label label-important">{%=locale.fileupload.error%}</span> {%=locale.fileupload.errors[file.error] || file.error%}</td>
+
+        <td></td>
       {% } else { %}
 
         {% if (o.options.showPreview) { %}
@@ -2581,11 +2624,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         {% } %}
 
         <td class="name">
-          {% if (o.options.campaignStageKey == "rfp_sent" || o.options.campaignStageKey == "io_sent_to_ad_partner") { %}
-            <a href="{%=file.url + "&triggerDownload=true&cs=" + o.options.campaignStageKey + "&" + o.options.relationClass + "=" + o.options.relationId %}" title="{%=file.name%}" rel="{%=file.thumbnail_url&&'gallery'%}" download="{%=file.name%}">{%=file.name%}</a>
-          {% } else { %}
-            <a class="action-btn" href="{%=file.url%}" title="{%=file.name%}" rel="{%=file.thumbnail_url&&'gallery'%}" download="{%=file.name%}">{%=file.name%}</a>
-          {% } %}
+          <a class="show-on-mobile action-btn" href="{%=file.url%}" title="{%=file.name%}" rel="{%=file.thumbnail_url&&'gallery'%}" download="{%=file.name%}">{%=file.name%}</a>
         </td>
 
         {% if (o.options.showCreatedBy) { %}
@@ -2602,285 +2641,27 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
         <td class="size"><span>{%=o.formatFileSize(file.size)%}</span></td>
 
-        <td>
+        <td class="delete">
           <button class="btn btn-xs btn-default action-btn delete-file" data-id="{%= file.id %}">
-            <i class="icon-trash icon-white"></i>
+            <i class="fa fa-trash-o icon-white"></i>
             <span>Delete</span>
           </button>
         </td>
-
-        {% if (o.options.showCopyUrl) { %}
-          <td>
-            <button class="btn btn-xs btn-default copy-url" data-url="{%= file.url %}?{%= file.name %}">
-              Copy Url
-            </button>
-          </td>
-        {% } %}
       {% } %}
     </tr>
     {% } %}
 </script>
 
-<script>
-  window.isPrerender = window.navigator.userAgent.match(/prerender/i);
-  
-  window.ipAddress = "207.241.229.227"
-  
-  // Goal is to have every component fire events via a global dispatcher
-  window.dispatcher = _.clone(Backbone.Events);
-  
-  $(document).ready(function(e) {
-    // Asynchronously load some CSS
-    loadCSS('//vjs.zencdn.net/4.12/video-js.css');
-  
-    window.alertComponent = new Thalamus.Views.AlertsComponent({
-      el: '.default-alert-container'
-    }).render();
-  
-    // Detecting when the Thalamus Browser tab is active/inactive
-    document.addEventListener('visibilitychange', function(e) {
-      if (document.hidden) {
-        dispatcher.trigger('tab-hidden');
-      } else {
-        dispatcher.trigger('tab-visible');
-      }
-    });
-  
-    // TODO: Consolidate all path related logic... where should it belong?
-    var path = document.location.pathname;
-  
-    if (path.match(/\/ad_partners\//) || window.hideLanding || window.isMobileDevice) {
-      hideMarketingPage();
-    }
-  
-    if (path.match(/\/users/) || path.match(/\/ad_partners/)) {
-      $('.footer').hide();
-      $('.main-wrapper').addClass('footer-hidden');
-    }
-  
-    // TODO What does this shit do?
-    if (!$('.footer').length) {
-      $('.main-wrapper').addClass('footer-hidden');
-    }
-  
-    // TODO: This logic probably goes into the user_panel
-    if (window.currentUser) {
-      getNewPostsSinceLastQuery();
-      dispatcher.on('tab-visible', getNewPostsSinceLastQuery);
-      dispatcher.on('tab-hidden', function() {
-        if (window.newPostsSinceLastQueryTimeout) {
-          clearTimeout(window.newPostsSinceLastQueryTimeout);
-        }
-      });
-    } else {
-      var $badge = $('#discussion_dropdown .discussion-forum-activity-count');
-      $badge.html('New!');
-      $badge.removeClass('numbers');
-      $badge.addClass('text');
-      $badge.show();
-    }
-  
-    // Initialize "Share Vendor Info"
-    ZeroClipboard.setDefaults( { moviePath: '/assets/zeroclipboard/ZeroClipboard.swf' } );
-  
-    // TODO: Remove the listeners on every individual component.
-    $(document).on('click', function(e) {
-      var $target = $(e.target);
-  
-      if ($target.hasClass('signup-trigger-modal-link')) {
-        var didShowModal = showSignupLoginModal('signup');
-        if (didShowModal) {
-          e.preventDefault();
-          return false;
-        } else {
-          return true;
-        }
-      } else if ($target.hasClass('login-trigger-modal-link')) {
-        e.preventDefault();
-        showSignupLoginModal('login');
-      }
-    });
-  
-    dispatcher.on('keyUpInSearch', function(e) {
-      if (window.firstTimeKeyUpInSearch === undefined) {
-        window.firstTimeKeyUpInSearch = false;
-  
-        var marketingPageVisible = $('.headline-wrapper').length > 0;
-  
-        if (marketingPageVisible) {
-          hideMarketingPage();
-  
-          if (!window.loggedIn && !window.partiallyLoggedIn && !window.isMobileDevice) {
-            window.alertComponent.displayAlert('signup', false);
-          }
-        }
-  
-        return;
-      }
-    });
-  
-    dispatcher.on('informDispatcherOfSuccessfulSignup', hideMarketingPage);
-  
-    dispatcher.on('informDispatcherOfLogin', function(user) {
-      window.currentUser = user;
-      window.partiallyLoggedIn = true;
-      window.loggedIn = user.id && user.account_id;
-      window.loggedOut = false;
-  
-      var path = document.location.pathname;
-  
-      hideMarketingPage();
-      window.alertComponent.hideAlert();
-  
-      if (user.account_sd) {
-        // Route media planners / registered ad partners to their appropriate subdomain
-        var domain = window.location.host.replace(/^www\./, '');
-        return window.location = window.location.protocol + "//" + user.account_sd + "." + domain;
-      }
-  
-      $('.nav-custom').html(_.template($('#user-menu-tpl').html(), {user: user}));
-      checkBlogPosts();
-  
-      $('#discussion_dropdown').bind({
-        mouseenter: function(e) {
-         // Hover event handler
-         $('#discussion_dropdown .discussion-forum-activity-count').hide();
-  
-         if (window.currentUser) {
-           $.ajax({
-              url: "/new_posts_counter",
-              type: 'POST',
-              data: {date: window.last_new_post_count_query_date }
-           });
-          }
-        }
-      });
-  
-      window.last_new_post_count_query_date = user.forem_next_new_posts_count_query_date;
-      getNewPostsSinceLastQuery();
-      dispatcher.on('tab-visible', getNewPostsSinceLastQuery);
-      dispatcher.on('tab-hidden', function() {
-        if (window.newPostsSinceLastQueryTimeout) {
-          clearTimeout(window.newPostsSinceLastQueryTimeout);
-        }
-      });
-  
-      // This little shit of an event will hide the "Sign Up" mask on the reviews page
-      window.dispatchEvent(window.reviewNeedUpdate);
-  
-      this.trigger('loggedIn', user);
-    });
-  });
-  
-  Thalamus.Models.AdPartner = Thalamus.Models.AdPartner.extend({prettyNames: {"about_description":"Description","about_headquarters":"Headquarters","about_company_size":"Company Size","about_founded":"Year Founded","about_ceo_name":"CEO Name","facebook_url":"Facebook URL","blog_url":"Blog URL","company_name":"Company Name","channel":"Channel(s)","parent_company_name":"Parent Company Name","logo":"Logo","website":"Website","link_to_media_kit":"Link to Media Kit / Ratecard / Ad Specs","link_to_ad_gallery":"Link to Ad Gallery / Creative Showcase","minimum_spend":"Minimum Spend","self_managed_service":"Self-Service / Managed Service","locations":"Location(s)","ad_categories":"Categories","category":"Type","specific_category":"Headline","performance_branding":"Performance / Branding","owned_and_operated_properties":"Owned / Operated Properties","publishers":"Publisher List / Inventory Partners","targeting":"Targeting","key_differentiator":"Key Differentiator","pricing_models":"Pricing Model(s)","linkedin_id":"Linkedin URL","twitter_url":"Twitter URL","industries":"Industries","programmatic_integrations":"Private Marketplace / Programmatic Integrations","mobile_platforms":"Platforms Supported","mobile_app_brand":"App / Game or Brand Centric","mobile_support_video":"Support Mobile Video","mobile_support_rich_media":"Support Mobile Rich Media (Including Interstitials \u0026 Expandables)","mobile_support_incentivized_traffic":"Support Incentivized Traffic ","mobile_support_tablet":"Has Tablet Offering","mobile_support_high_impact":"Support Mobile Native Executions","mobile_ad_features":"Ad Features / Call-to-Actions","mobile_install_tracking":"Mobile Install Tracking Partners","requires_sdk_integration":"Requires SDK Integration","dis_vid_data_partners":"Data Partners","dis_vid_ad_verification_partners":"Ad Verification / Brand Safety Partners","dis_vid_measurement_partners":"Brand / Campaign Measurement Partners","approved_third_party_ad_serving":"Approved 3rd Party Ad Serving / Rich Media Vendors","dis_vid_proprietary_inventory":"Access to Non-RTB / Proprietary Inventory","dis_vid_support_brand_integration":"Support Brand Integrations, Sponsorships, Native Executions","dis_vid_support_high_impact_executions":"Support High-Impact Executions (Takeovers, Billboards, Overlays, Sliders, Skins)","dis_support_creative_optimization":"Support Creative Optimization","dis_support_rich_media":"Support Rich Media (Expandable \u0026 Non-Expandable)","vid_support_pre_roll":"Support Pre-Roll","vid_support_mid_roll":"Support Mid-Roll","vid_support_post_roll":"Support Post-Roll","vid_support_in_banner_video":"Support In-Banner Video","vid_support_companion_ad":"Support Video Companion Ad","vid_support_custom_video_executions":"Support Custom Video Executions / Video Overlays","audio_support_pre_roll":"Support Pre-Roll","audio_support_mid_roll":"Support Mid-Roll","audio_support_post_roll":"Support Post-Roll","audio_support_companion_banner_ad":"Support Companion Banner Ad","audio_support_native_audio":"Support Native Audio"} });
-  
-  function hideMarketingPage() {
-    // There are a bunch of styles scoped to the section-welcome-hidden class
-    // Not my fault...
-    $('.section-welcome').addClass('section-welcome-hidden');
-    $('.section-welcome').removeClass('use-theme-font');
-  
-    $('.headline-wrapper').remove();
-    $('.js-navbar').remove();
-    $('.js-wrapper').remove();
-    $('.show-hide').removeClass('hidden-view').show();
-    $('.main-wrapper').addClass('footer-hidden');
-    $('.js-show-hide').removeClass('hidden-view');
-  
-    $('.discover-component-container').
-        removeClass('hidden-view').
-        removeClass('hidden');
-  }
-  
-  function getNewPostsSinceLastQuery() {
-    if ((window.loggedIn || window.partiallyLoggedIn) && $('#discussion_dropdown .discussion-forum-activity-count').length) {
-      $.ajax({
-        url: "/new_posts_counter",
-        type: 'GET',
-        data: {date: window.last_new_post_count_query_date },
-        success: function(res) {
-  
-          window.last_new_post_count_query_date = res['this_visit'];
-  
-          var count = res['new_posts_count'];
-          var total = res['total_new_posts'];
-  
-          if (window.new_posts_since_last_visit == null) {
-             window.new_posts_since_last_visit = count;
-          } else {
-            window.new_posts_since_last_visit += count;
-          }
-  
-          var $badge = $('#discussion_dropdown .discussion-forum-activity-count');
-          $badge.removeClass('text');
-          $badge.addClass('numbers');
-  
-          var $forumBadge = $('#discussion_dropdown_forum .forum-post');
-  
-          if (total > 0) {
-            $forumBadge.html(total <= 999 ? total : '999+');
-            $forumBadge.show();
-          } else {
-            $forumBadge.hide();
-          }
-  
-          if (count > 0) {
-            $badge.html(window.new_posts_since_last_visit <= 999 ? window.new_posts_since_last_visit : '999+');
-            $badge.show();
-          } else {
-            if ($badge.html() == 'New!') {
-              $badge.html('');
-            }
-          }
-        }
-      });
-  
-      window.newPostsSinceLastQueryTimeout = setTimeout(getNewPostsSinceLastQuery, 60000);
-    }
-  }
-  
-  function showSignupLoginModal(mode) {
-    return window.showSignupTakeover({
-        signupOrLogin: mode,
-        headerText: "Sign up to edit data, view contacts, and write reviews.</br></br>It's 100% free!",
-        canClose: true
-    });
-  }
-  
-  function showSignupTakeover(options) {
-    if (window.isMobileDevice) {
-      return false;
-    }
-  
-    if (window.isPrerender) {
-      return false;
-    }
-  
-    if (!window.loggedIn && !window.partiallyLoggedIn) {
-  
-      if (!window.signupTakeover) {
-        window.signupTakeover = new Thalamus.Views.SignupTakeover({
-          el: $('#fullscreen-takeover')
-        });
-      }
-  
-      window.signupTakeover.show(options);
-  
-      return true;
-    } else {
-      return false;
-    }
-  }
-</script>
 
-</head>
-<body class="classy">
+
+
+
 
 <div class="main-wrapper">
 
 <div id="mask">
 <div class="loader">
-<i class="icon icon-spin icon-spinner"></i>
+<i class="fa fa-spin fa-spinner"></i>
 </div>
 </div>
 <section class="text-center page-aqua use-theme-font">
@@ -2889,7 +2670,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <!-- /.container -->
 <div class="nav-collapse collapse user-settings">
 <a class="brand" href="/">
-<img alt="Thalamus" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_green-e038cf8ec3cecb9781cd94a007262fd9.png">
+<img alt="Thalamus" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_green-98f57e8241a1387db967d41a33934304f813e2afbefabfa1e3227f732ecaa674.png">
 </a>
 <ul class="nav nav-custom">
 <li class="welcome-navbar-logout pull-right">
@@ -2910,12 +2691,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <h1>Thalamus Privacy Policy</h1>
 <p>
 Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates&nbsp;
-<a href="/">http://www.thalamus.co/</a>
+<a href="/">http://thalamus.co/</a>
 (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site.
 </p>
 <p>
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible at&nbsp;
-<a href="/terms">http://www.thalamus.co/terms</a>
+<a href="/terms">http://thalamus.co/terms</a>
 </p>
 <h2>WHAT INFORMATION DO WE COLLECT?</h2>
 <h3>Information Collection and Use</h3>
@@ -2969,6 +2750,11 @@ Thalamus may also share your data with sponsored advertising partner(s) and/or b
 This data may include, but is not limited to, your personally identifiable information such as full name, job role, location, phone number, email address, and also your behaviors on the Site including, but not limited to: search and filter queries performed, content viewed, and links clicked.
 </p>
 <p>
+Thalamus has engaged Inspectlet to analyse the browser interaction behavior of its users in order to improve Thalamus' user experience and product.
+Doing so authorizes Inspectlet to use cookies and other tracking technologies, which may use Personal Information of Thalamus' users.
+Such access to and use of Personal Information by Inspectlet is governed by Inspectlet’s <a target="_blank" rel="nofollow" href="https://www.inspectlet.com/legal#privacy">Privacy Policy</a>.
+</p>
+<p>
 We may also share some basic information with advertising vendors through our proprietary analytics tool(s), but this will only include your job role, geographic location, and email domain, and first name, and last name initial.
 This proprietary analytics tool(s) may come in the form of a dashboard that an advertising partner can log into, or an email notifying them that certain logged-in users have viewed their advertising partner profile, or have performed certain buyer activities, which may include, but are not
 limited to: search and filter queries performed, content viewed, and links clicked.
@@ -2997,7 +2783,7 @@ You agree that these business partner(s) and/or sponsored advertising partner(s)
 <h3>Terms and Conditions</h3>
 <p>
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at
-<a href="/terms">http://www.thalamus.co/terms</a>
+<a href="/terms">http://thalamus.co/terms</a>
 </p>
 <h3>Your Consent</h3>
 <p>
@@ -3006,7 +2792,7 @@ By using our site, you consent to our
 </p>
 <h3>Changes to our Privacy Policy</h3>
 <p>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. We urge you to bookmark this Privacy Policy page and check it periodically if you are concerned about how your information is being used.</p>
-<p>This policy was last modified on Dec 15, 2015</p>
+<p>This policy was last modified on Jun 8, 2016</p>
 <h3>Contacting Us</h3>
 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
 <p class="address">
@@ -3025,9 +2811,11 @@ info [at]
 <div class="main">
 </div>
 </div>
+<div id="tooltip-container"></div>
 <div id="modal-container"></div>
 <div class="signup-login-modal-container" id="signup-login-modal-container"></div>
-<div class="hidden" id="fullscreen-takeover">
+<div id="invite-takeover-container"></div>
+<div class="fullscreen-takeover hidden" id="fullscreen-takeover">
 <div class="background"></div>
 <div class="vertical-alignment-wrapper">
 <div class="close">
@@ -3036,7 +2824,7 @@ info [at]
 <div class="dialog-panel">
 <div class="inner-panel">
 <div class="logo">
-<img alt="Thalamus" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_green-e038cf8ec3cecb9781cd94a007262fd9.png">
+<img alt="Thalamus" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_green-98f57e8241a1387db967d41a33934304f813e2afbefabfa1e3227f732ecaa674.png">
 </div>
 <div class="form-container signup-container">
 <div class="prompt"></div>
@@ -3059,6 +2847,7 @@ info [at]
 <option value="Business Development">Business Development</option>
 <option value="Publisher Development">Publisher Development</option>
 <option value="Ad Operations">Ad Operations</option>
+<option value="Webmaster">Webmaster</option>
 <option value="Other">Other</option>
 </select>
 </div>
@@ -3121,25 +2910,19 @@ Forgot Password
 <div class="prompt">
 We sent you a link to create an account.
 <br>
-Please check your inbox (may be in Spam folder).
+Please check your Email Inbox (may be in Spam folder).
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<footer class="footer page-aqua js-wrapper">
-<div class="wrapper bg-colored">
-<div class="container text-center">
-<div class="row">
-<div class="span12">
+<footer class="footer js-wrapper">
+<div>
 <a class="logo-footer" href="/">
-<img alt="Thalamus_logo_white" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_white-49395a6e18b26ffa6e724f65662ea248.png">
+<img src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_white-16f3e797f1a563c1df0b21be02279e493d73a1c560722cf06859f749b39161dd.png" alt="Thalamus logo white">
 </a>
 <ul class="unstyled inline mar-t10">
-<li>
-<a href="//www.thalamus.co/blog/">Blog</a>
-</li>
 <li>
 <a href="/sitemap_listings">Lists</a>
 </li>
@@ -3152,20 +2935,11 @@ Please check your inbox (may be in Spam folder).
 <li>
 <a href="/terms">Terms of Service</a>
 </li>
-<li class="user-name-bottom">
-<a href="" class="signup-trigger-modal-link">Sign Up</a>
-</li>
-<li>
-<a href="" class="login-trigger-modal-link">Login</a>
-</li>
 </ul>
 <p class="mar-t20">
 ©
 2016 - Thalamus
 </p>
-</div>
-</div>
-</div>
 </div>
 </footer>
 
@@ -3174,19 +2948,58 @@ Please check your inbox (may be in Spam folder).
 <!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
 --------------------------------------------------->
+
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
 <script type="text/javascript">
-	/* <![CDATA[ */
-	var google_conversion_id = 964523981;
-	var google_custom_params = window.google_tag_params;
-	var google_remarketing_only = true;
-	/* ]]> */
+  /* <![CDATA[ */
+
+  //////// Pocketmath retargeting pixel //////
+  // window.google_trackConversion({
+  //   google_conversion_id: 964523981,
+  //   google_custom_params: {},
+  //   google_remarketing_only: true
+  // });
+
+  window.google_trackConversion({
+    google_conversion_id: 969618087,
+    google_custom_params: {
+      knx_convid: 'bc188d28d120cc3075da06f2d19f40c5df869232',
+      knx_pagetype: 'Knorex_Thalamus_(Home)'
+    },
+    google_remarketing_only: true
+  });
+
+  //]]>
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-	<div style="display:inline;">
-		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964523981/?value=0&amp;guid=ON&amp;script=0"/>
-	</div>
-</noscript>
+
+
+
+<script type="text/javascript">
+  var knxtq = knxtq || [ ];
+  knxtq.push(['init', 'bc188d28d120cc3075da06f2d19f40c5df869232', 'Knorex_Thalamus_(Home)', 'knx9041']);
+  knxtq.push(['trackRemarketing']);/* Replace ${CURRENT_URL} with actual URL. */
+
+  (function() {
+    var ka = document.createElement('script');
+    ka.type = 'text/javascript';
+    ka.async = true;
+    ka.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'sv.brand-display.com/js/ka.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ka, s);
+  })();
+</script>
+
+<div id="ttdUniversalPixelTagf376ec6702384e7dbf3dcb26b3b98d21" style="display:none">
+  <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    (function(global) {
+      if (typeof TTDUniversalPixelApi === 'function') {
+        var universalPixelApi = new TTDUniversalPixelApi();
+        universalPixelApi.init("3mtegwp", ["7wqsy47"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTagf376ec6702384e7dbf3dcb26b3b98d21");
+      }
+    })(this);
+  </script>
+</div>
+
 
 
 
