@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420162840id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107074743id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | ICO
 
@@ -57,7 +57,7 @@ The ICO is part of the GSI network. Any email sent to us, including any attachme
 
 We use a third party provider, Goss Interactive, to supply and support our LiveChat service, which we use to handle customer enquiries in real time.
 
-If you use the LiveChat service we will collect your name, email address (optional) and the contents of your LiveChat session. This information will be retained for six months and will not be shared with any other organisations.
+If you use the LiveChat service we will collect your name, email address (optional) and the contents of your LiveChat session. This information will be retained for two years and will not be shared with any other organisations.
 
 You can request a transcript of your LiveChat session if you provide your email address at the start of your session or when prompted at the end.
 
@@ -158,7 +158,7 @@ We keep our privacy notice under regular review. This privacy notice was last up
 
 ## How to contact us
 
-If you want to request information about our privacy policy you can [email us](mailto:informationgovernance@ico.org.uk) or write to:
+If you want to request information about our privacy policy you can [email us](mailto:accessicoinformation@ico.org.uk) or write to:
 
 Information Governance department  
 Information Commissioner's Office  
