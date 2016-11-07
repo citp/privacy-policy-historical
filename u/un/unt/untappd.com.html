@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the untappd.com privacy policy that was archived on 2016-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417084700id_/https%3A//untappd.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the untappd.com privacy policy that was archived on 2016-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107232749id_/https%3A//untappd.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -13,6 +13,20 @@
 			<meta name="description" content="Untappd is a new mobile web app that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!">
 		
 	
+	<!-- Branch -->
+				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script type="text/javascript">
+			(function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setIdentity track validateCode".split(" "), 0);
+			branch.init('key_live_dkd8Nr651lqTGtpGipS2Bijfxrc1L2Mk');
+
+			branch.banner({
+			    icon: 'https://untappd.akamaized.net/logos/ut_icon_144.png',
+			    title: 'Untappd - Discover Beer',
+			    description: 'Download the Untappd app today!',
+			    position: 'bottom'
+			}, {});
+			</script>
+			
+
 	<meta name="author" content="The Untappd Team">
 	<meta name="Copyright" content="Copyright Untappd 2016. All Rights Reserved.">
 	<meta name="DC.title" content="Untappd">
@@ -32,19 +46,19 @@
 	
 	<link href="https://untappd.akamaized.net/assets/v2/css/fonts.css" rel="stylesheet" type="text/css">
 
-			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/master.css?v=2.5.7">
-		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/v3/css/style.css?v=2.5.7">
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://untappd.akamaized.net/assets/v3/js/common/min/site_common_min.js?v=1.6.0"></script>
+			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/master.css?v=2.6.8">
+		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/v3/css/style.css?v=2.6.8">
+			<script src="https://untappd.akamaized.net/assets/v3/js/common/min/site_common_min.js?v=1.7.3"></script>
 	
 
 
-	<!--[if lte IE 7]><script src="https://untappd.akamaized.net/assets/js/ie6.js?v=1.6.0"></script><![endif]-->
+	<!--[if lte IE 7]><script src="https://untappd.akamaized.net/assets/js/ie6.js?v=1.7.3"></script><![endif]-->
 
-			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/facybox.css?v=2.5.7">
+			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/facybox.css?v=2.6.8">
 
 		
-		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/jquery.notifyBar.css?v=2.5.7">
-		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/tipsy.css?v=2.5.7" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/jquery.notifyBar.css?v=2.6.8">
+		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/tipsy.css?v=2.6.8" type="text/css" media="screen" title="no title" charset="utf-8">
 		
 		<script type="text/javascript" language="Javascript">
 			$(document).ready(function(){
@@ -131,315 +145,21 @@
         </div>
       </form>
     </div>
-
-  </div>    
+    </div>    
 </header>
-<script id="auto-complete-template" type="text/x-handlebars-template">
-  {{#if beers.items}}
-      <div class="ac_section">
-          <p class="ac_header">Beers ({{beers.found}})</p>
-          {{#each beers.items}}
-              <a href="/beer/{{this.beer.bid}}" class="ac_item track-click" data-track="search_autocomplete" data-href=":beerlink">
-                  <p class="label">
-                      <img src="{{this.beer.beer_label}}">
-                  </p>
-                  <p class="info">
-                      <span class="title">{{this.beer.beer_name}}</span>
-                      <span class="sub_title">{{this.beer.brewery_name}}</span>
-                  </p>
-              </a>
-          {{/each}}
-      </div>
-  {{/if}}
 
-  {{#if breweries.items}}
-      <div class="ac_section">
-          <p class="ac_header">Breweries ({{breweries.found}})</p>
-          {{#each breweries.items}}
-              <a href="/brewery/{{this.brewery.brewery_id}}" class="ac_item track-click" data-track="search_autocomplete" data-href=":brewerylink">
-                  <p class="label">
-                      <img src="{{this.brewery.brewery_label}}">
-                  </p>
-                  <p class="info">
-                      <span class="title">{{this.brewery.brewery_name}}</span>
-                      <span class="sub_title">{{this.brewery.country_name}}</span>
-                  </p>
-              </a>
-          {{/each}}
-      </div>
-  {{/if}}
-
-  {{#if venues.items}}
-      <div class="ac_section">
-          <p class="ac_header">Venues ({{venues.found}})</p>
-          {{#each venues.items}}
-              <a href="/venue/{{this.venue.venue_id}}" class="ac_item track-click" data-track="search_autocomplete" data-href=":venuelink">
-                  <p class="label">
-                      <img src="{{this.venue.venue_icon.md}}">
-                  </p>
-                  <p class="info">
-                      {{#if this.venue.is_verified}}<span class="verified">Verified</span>{{/if}}
-                      <span class="title">{{this.venue.venue_name}}</span>
-                      <span class="sub_title">{{this.venue.location}}</span>
-                  </p>
-              </a>
-          {{/each}}
-      </div>
-  {{/if}}
-
-  {{#if is_result}}
-  <div class="see-more-results">
-      <a href="/search?q={{search}}" class="track-click" data-track="search_autocomplete" data-href=":seemore">See More</a>
-  </div> 
-  {{/if}}
+<!-- Autosearch Template -->
+<script id="autosearch-template" type="text/x-handlebars-template">
+{{#if beers.items}} <div class="ac_section"> <p class="ac_header">Beers ({{beers.found}})</p> {{#each beers.items}} <a href="/b/{{this.beer.beer_slug}}/{{this.beer.bid}}" class="ac_item track-click" data-track="search_autocomplete" data-href=":beerlink"> <p class="label"> <img src="{{this.beer.beer_label}}"> </p> <p class="info"> <span class="title">{{this.beer.beer_name}}</span> <span class="sub_title">{{this.beer.brewery_name}}</span> </p> </a> {{/each}} </div> {{/if}} {{#if breweries.items}} <div class="ac_section"> <p class="ac_header">Breweries ({{breweries.found}})</p> {{#each breweries.items}} <a href="/w/{{this.brewery.brewery_slug}}/{{this.brewery.brewery_id}}" class="ac_item track-click" data-track="search_autocomplete" data-href=":brewerylink"> <p class="label"> <img src="{{this.brewery.brewery_label}}"> </p> <p class="info"> <span class="title">{{this.brewery.brewery_name}}</span> <span class="sub_title">{{this.brewery.country_name}}</span> </p> </a> {{/each}} </div> {{/if}} {{#if venues.items}} <div class="ac_section"> <p class="ac_header">Venues ({{venues.found}})</p> {{#each venues.items}} <a href="/v/{{this.venue.venue_slug}}/{{this.venue.venue_id}}" class="ac_item track-click" data-track="search_autocomplete" data-href=":venuelink"> <p class="label"> <img src="{{this.venue.venue_icon.md}}"> </p> <p class="info"> {{#if this.venue.is_verified}}<span class="verified">Verified</span>{{/if}} <span class="title">{{this.venue.venue_name}}</span> <span class="sub_title">{{this.venue.location}}</span> </p> </a> {{/each}} </div> {{/if}} {{#if is_result}} <div class="see-more-results"> <a href="/search?q={{search}}" class="track-click" data-track="search_autocomplete" data-href=":seemore">See More</a> </div> {{/if}}
 </script>
 <style type="text/css">
     .ac-selected {
         background-color: #f8f8f8;
     }
 </style>
-<script type="text/javascript">
-  var onChangeInterval;
-  var currentValue;
-  var ajaxStatment;
-
-  var autoComplete = {
-      hightLight: function(direction) {
-
-        //console.log("highlight called");
-
-        var sel = $('a.ac-selected');
-
-        //console.log(sel.length);
-
-        if (sel.length == 0) {
-            $('#nav_site .search_box .autocomplete .ac_section a:first').addClass("ac-selected");
-        }
-        else {
-
-            var elementArray = new Array();
-
-            $('#nav_site .search_box .autocomplete .ac_section a').each(function() {
-                elementArray.push($(this));
-            });
-
-            var currentIndex = -1;
-
-            for (i = 0; i < elementArray.length; i++) {
-                var _this = elementArray[i];
-
-                if ($(_this).hasClass("ac-selected")) {
-                    //console.log("has class");
-                    $(_this).removeClass("ac-selected");
-                    //console.log("removing class")
-
-                    if (direction == "up") {
-                        //console.log("direction up is " + i);
-                        currentIndex = i - 1;
-                        //console.log("next index is " +currentIndex);
-                    }
-                    else {
-                        //console.log("direction down");
-                        currentIndex = i + 1;
-                        //console.log("next index is " +currentIndex);
-                    }
-
-                    break;
-                }
-                
-            }
-
-            //console.log("current Index is => " + i);
-
-            if (currentIndex != -1) {
-                if (elementArray[currentIndex]) {
-                    var selectedIndex = elementArray[currentIndex];
-                    $(selectedIndex).addClass("ac-selected");
-                }
-            }
-        }
-      },
-      checkKey: function(keynum) {
-        var UP = 38;
-        var DOWN = 40;
-        var ENTER = 13;
-
-        if (keynum === UP || keynum === DOWN) {
-            return false;
-        }
-        else {
-            return true;
-        }
-      },
-      moveSelection: function(keynum, event) {
-        var UP = 38;
-        var DOWN = 40;
-        var ENTER = 13;
-
-        if(keynum === UP) {
-           event.preventDefault();
-           autoComplete.hightLight("up");
-           _gaq.push(['_trackEvent', 'AutcompleteArrow', 'Click', "arrow-up"]);
-        }
-
-        if(keynum === DOWN) {
-          event.preventDefault();  
-          autoComplete.hightLight("down");
-          _gaq.push(['_trackEvent', 'AutcompleteArrow', 'Click', "arrow-down"]);
-        }
-
-        if(keynum === ENTER) {
-          if ($(".ac-selected").length != 0) {
-            event.preventDefault();
-            event.stopPropagation();
-            _gaq.push(['_trackEvent', 'AutcompleteArrow', 'Click', "arrow-select"]);
-            window.location.href = $(".ac-selected").attr('href');
-          }
-        }
-      },
-      checkValue: function(searchVal) {
-          currentValue = searchVal;
-      
-          clearInterval(onChangeInterval);
-
-          if (currentValue === '' || currentValue.length < 3) {
-              //$(".brewery-complete").hide();
-          } else {
-              autoComplete.search(currentValue);
-          }
-      },
-      validate: function(str) {
-          return /^[a-z\d\-_\s]+$/i.test(str);
-      },
-      search: function(currentValue) {
-          var d ="q="+currentValue;
-
-          $(".autocomplete").attr('data-text', currentValue);
-
-          /*if (ajaxStatment) {
-              ajaxStatment.abort();
-          }*/
-
-          ajaxStatment = $.ajax({
-              url: "/apireqs/autosearch",
-              type: "GET",
-              data: d,
-              dataType: "json",
-              error: function(xhr,ajaxOptions, thrownError)
-              {
-                  $(".autocomplete").removeClass("active");
-              },
-              success: function(data)
-              {
-                  if (data.error) {
-                      $(".autocomplete").removeClass("active");
-                  }
-                  else {
-                      if ($(".autocomplete").attr('data-text').length <= currentValue.length) {
-                        var source   = $("#auto-complete-template").html();
-                        var template = Handlebars.compile(source);
-                        var searchResults = template(data.response);
-
-                        $(".autocomplete").html(searchResults);
-                        $(".autocomplete").addClass("active");
-                      }
-                  }
-                  
-              }
-          });
-      }
-  }
-
-
- $(document).ready(function() {
-
-    $("body").on("click", function(event) {
-        if ($(".autocomplete").hasClass('active')) {
-            if (event.currentTarget.className != "autocomplete") {
-                $(".autocomplete").html('');
-                $(".autocomplete").removeClass("active");
-                $('.autocomplete .ac_section').removeClass(".ac-selected");
-            }
-        }
-
-    });
-
-    $(".search-input-desktop").on("keyup paste", function(event) {
-
-        var searchVal = $(this).val();
-
-        var keyCode = "";
-
-        if (event.keyCode) { 
-            keyCode = event.keyCode;
-            autoComplete.moveSelection(event.keyCode, event);
-        }  // IE
-        else if(event.which) { 
-            keyCode = event.which;
-            autoComplete.moveSelection(event.which, event);
-        }
-
-        if (searchVal.length >= 2) {
-            if (autoComplete.validate(searchVal)) {
-              
-              if (autoComplete.checkKey(keyCode)) {
-                  if (searchVal == "") {
-                      $(".autocomplete").html('');
-                      $(".autocomplete").removeClass("active");
-                  }
-
-                  clearInterval(onChangeInterval);
-
-                  if (currentValue !== searchVal);
-                  {
-                      onChangeInterval = setInterval(function() { autoComplete.checkValue(searchVal); }, 25);
-                  }
-
-                  //autoComplete.checkValue(searchVal);     
-              }
-          } 
-        }
-
-        
-    });
-
-    $(".track-focus").click(function() {
-      var d = $(this).attr("data-track") + ":" + $(this).attr("placeholder");
-      _gaq.push(['_trackEvent', 'Search Focus', 'Click', d]);
-    });
-
-    $(document).on("click", ".track-click", function() {
-      var d = $(this).attr("data-track");
-      if ($(this).attr("data-href")) {
-        d = d + $(this).attr("data-href");
-      }
-      _gaq.push(['_trackEvent', 'Click', 'Click', d]);
-    });
-   });
-
-  $(document).on("change", ".track-change", function() {
-      var d = $(this).attr("data-track");
-      if ($(this).attr("data-href")) {
-        if ($(this).attr("data-href") == ":sort") {
-          d = d + $(this).attr("data-href")+"/"+$(this).val();
-        }
-        else {
-          d = d + $(this).attr("data-href");
-        }
-        
-      }
-
-      _gaq.push(['_trackEvent', 'Click', 'Click', d]);
-  })
-
-  function trackMobileEvent(label) {
-    _gaq.push(['_trackEvent', 'Mobile Menu', 'Click', label]);
-  }
-</script>
-
+<script type="text/javascript" src="https://untappd.akamaized.net/assets/global/js/autosearch_tracking.min.js?v1.7.3"></script>
 <div class="nav_open_overlay"></div>
 <div id="slide">
-
 
 
 
