@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubnt.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315075818id_/https%3A//www.ubnt.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubnt.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107163209id_/https%3A//www.ubnt.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Ubiquiti Networks - Privacy Policy
 
@@ -116,8 +116,8 @@ If you wish to access, modify or have any dispute regarding your User Informatio
 
 Ubiquiti Networks, Inc.  
 ATTN: Privacy Manager  
-2580 Orchard Parkway  
-San Jose, CA 95131  
+2880 Stevens Creek Blvd.  
+San Jose, CA 95128 USA  
 email: [support@ubnt.com](mailto:support@ubnt.com)
 
 ### 14\. Date Last Modified
