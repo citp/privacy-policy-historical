@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindsharedesign.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522211334id_/http%3A//savicom.com/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindsharedesign.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107042258id_/http%3A//savicom.com/policies.aspx) for the most accurate reproduction.*
 
 # Policies | Savicom Email Marketing Solutions
 
@@ -73,4 +73,4 @@ Savicom Pro customers are prohibited from using multiple uploads and removals to
 
 #### See Also:
 
-[Global Unsubscribe](https://web.archive.org/web/20160522211334id_/http%3A//savicom.com/Unsub.aspx) | [License Agreement](https://web.archive.org/web/20160522211334id_/http%3A//savicom.com/license.aspx)
+[Global Unsubscribe](https://web.archive.org/web/20161107042258id_/http%3A//savicom.com/Unsub.aspx) | [License Agreement](https://web.archive.org/web/20161107042258id_/http%3A//savicom.com/license.aspx)
