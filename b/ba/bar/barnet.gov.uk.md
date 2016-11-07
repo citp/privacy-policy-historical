@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319081903id_/https%3A//www.barnet.gov.uk/citizen-home/council-and-democracy/policy-and-performance/website-policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107232629id_/https%3A//www.barnet.gov.uk/citizen-home/council-and-democracy/policy-and-performance/website-policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy - barnet.gov.uk
 
@@ -6,7 +6,7 @@ The London Borough of Barnet has developed a commissioning model which places gr
 
 This privacy notice explains how the council uses the information you give us and how it ensures that it is appropriately protected.  As a ‘commissioning council’ we work with a number of partner organisations to deliver services, further details on this are in the “Who do we share information with?” section below.
 
-[An explanation of how we use cookies on this website can be found further down this page](https://web.archive.org/citizen-home/council-and-democracy/policy-and-performance/website-policies/privacy.html).
+An explanation of how we use cookies on this website can be found further down this page.
 
 We endeavour to safeguard the privacy of our residents, service users and website visitors. This statement explains what you can expect in regards to how we collect and use your information.
 
@@ -18,7 +18,7 @@ The council’s privacy statement applies to all personal data collected for or 
 
 Call recording - Not all council services record or monitor telephone calls. Where we do, this will be made clear to you via an automated message at the start of your call. 
 
-### What do we use personal information for?
+### What we use personal information for
 
 We use information in a number of different ways:
 
@@ -38,7 +38,7 @@ We are keen to ensure that we are providing our citizens with services that they
 
 From time to time we may also seek your feedback on how we are performing or seek your views on services which you have been using.
 
-### Who do we share information with?
+### Who do we share information with
 
 Information the council collects is routinely shared between council services as well as with other third parties such as government bodies, the police, health and social care organisations and educational establishments.
 
@@ -48,15 +48,15 @@ Additionally we have a number of partnering arrangements for services such as pu
 
 View the council's [Information Charter](https://web.archive.org/citizen-home/council-and-democracy/data-protection-and-freedom-of-information/information-sharing-charter.html). 
 
-### **Insight**
+### Insight
 
 As a local authority we are constantly looking at ways of improving how we provide services to our residents and service users, as we are required to do by law. The information you provide us with in your day-to-day dealings helps us to create an understanding about who our customers are and how they use our services. By bringing together and analysing customer information that the council holds (creating insight) it will allow us to deliver high quality services where they are most needed.
 
-### **My Account - Single Customer View**
+### My Account - Single Customer View
 
 Customers will be able to follow a registration process to create a ‘My Account’ on the council’s website. It is envisaged that My Account will hold a brief summary of contact you have had with the council’s Customer Services, as well as general information such as your address, date of birth and gender. It will also be used by officers delivering customer services to enable them to respond to any queries you may have more quickly and efficiently.
 
-### **Data Matching**
+### Data Matching
 
 We routinely check information provided by you or information supplied by an external organisation about you against other information held by the council. The council may also obtain information from certain external organisations or provide information to them in order to:
 
@@ -70,17 +70,15 @@ We routinely check information provided by you or information supplied by an ext
 
 The Audit Commission also requires local authorities to participate in data matching exercises which assist in the prevention and/or detection of fraud. Data matching by the Audit Commission is subject to a Code of Practice and further information can be located on the [Audit Commission](http://www.audit-commission.gov.uk/national-fraud-initiative/) website. ****
 
-### **Access to Information**
+### Access to Information
 
 Under the Data Protection Act 1998, you can have the right to make a formal request for personal information the council hold about you.  This is known as a **Subject Access Request**. For more information visit our [data protection page](https://web.archive.org/citizen-home/council-and-democracy/data-protection-and-freedom-of-information/data-protection-act.html). 
 
-### **Visitors to our websites**
+### Visitors to our websites
 
 When someone visits our website we collect routine internet log information, which allows us to see visitor behaviour patterns.  We do this to determine which pages are being viewed as this assists us in improving our website.  
 
 Internet log information is collected in a way which doesn’t allow us to identify you and we do not make any attempts to find out the identities of individuals visiting our site.
-
-## Cookies
 
 ### Cookies
 
@@ -96,7 +94,7 @@ We uses cookies to control our websites’ functions, to keep statistics and for
 
 If you do not want to accept cookies, your browser can be set to automatically reject them or to inform you every time a website asks to store a cookie. You can also delete previously stored cookies. 
 
-You can find out more about cookies and how to manage them on the [Gov.uk website](https://www.gov.uk/help/cookies "How government websites use cookies"). 
+You can find out more about cookies and how to manage them on the [GOV.UK](https://www.gov.uk/help/cookies "How government websites use cookies"). 
 
 Our cookie policy is set to be compliant with the EU Privacy and Electronic Communications Directive.
 
@@ -124,10 +122,10 @@ _utmc 
 
 We make every effort to ensure all information is virus checked before it is uploaded and made available on our website. The council cannot accept responsibility for any loss or damage which may occur from use of downloaded documents, it is the responsibility of users to re-check all downloaded documents with their own virus check software.
 
-### **External links**
+### External links
 
 This website contains external links to third party sites. Our privacy policy applies only to information collected by or on behalf of the London Borough of Barnet. When you are transferring to another site you should read their privacy statement on the use of your information before submitting any personal details.
 
-### **Updating this privacy notice**
+### Updating this privacy notice
 
 Our privacy notice may be reviewed from time to time so please check back here each time you submit personal data to us.
