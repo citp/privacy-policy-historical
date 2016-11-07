@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320114936id_/https%3A//www.thereformation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107131148id_/https%3A//www.thereformation.com/privacy) for the most accurate reproduction.*
 
 # Reformation
 
