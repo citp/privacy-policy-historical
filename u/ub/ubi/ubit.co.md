@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubit.co privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323131033id_/http%3A//www.ubit.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubit.co privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107101414id_/http%3A//www.ubit.co/privacy) for the most accurate reproduction.*
 
 # privacy - uBit.co
 
