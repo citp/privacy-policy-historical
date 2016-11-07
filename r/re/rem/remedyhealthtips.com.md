@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remedyhealthtips.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401224359id_/http%3A//remedyhealthtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remedyhealthtips.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107234211id_/http%3A//remedyhealthtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Remedy Health Tips
 
