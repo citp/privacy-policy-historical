@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the awardwallet.com privacy policy that was archived on 2016-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514191301id_/https%3A//awardwallet.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awardwallet.com privacy policy that was archived on 2016-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107201831id_/https%3A//awardwallet.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
             <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/lppkddfmnlpjbojooindbmcokchjgbib">
-        <!-- <link rel="shortcut icon" href="/favicon.ico"/> -->
+        <!-- <link rel="shortcut icon" href="//static.awardwallet.com/favicon.ico"/> -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -18,24 +18,24 @@
     <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
     <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="/webPush/chrome/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <title>Privacy Notice</title>
-                <link rel="stylesheet" href="/css/4d80c15-281d6ac.css">
+                <link rel="stylesheet" href="//static.awardwallet.com/css/4d80c15-57a0bda.css">
         <!--[if lt IE 9]>
     <script src="/bundles/common/vendors/html5shiv/dist/html5shiv.min.js"></script>
     <script src="/bundles/awardwalletnewdesign/js/lib/selectivizr-min.js"></script>
-    <script src="https://awardwallet.com/bundles/common/vendors/css3-mediaqueries-js/css3-mediaqueries.js"></script>
+    <script src="//static.awardwallet.com/bundles/common/vendors/css3-mediaqueries-js/css3-mediaqueries.js"></script>
     <script src="/bundles/common/vendors/es5-shim/es5-shim.min.js"></script>
     <![endif]-->
-            <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/b/boot.js?v=bc5df764720bbe461fb747b39bc08e68"></script>
+            <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//static.awardwallet.com/b/boot.js?v=76e39bdcfc532f71cbb7d6fef6155066"></script>
         <script type="text/javascript">var debugMode = false;</script>
         <script type="text/javascript">
         define('translator-boot', ['translations/en']);
     </script>
-</head>
+    </head>
     <body>
     <div class="main-body  not-logged" id="main-body">
 
@@ -96,11 +96,12 @@
                                                         	        <li class="header-menu-0"><a href="/supported-programs" class="btn-light-silver">Supported Programs</a></li>
                                                                     	        <li class="header-menu-1"><a href="/page/about" class="btn-light-silver">About Us</a></li>
                                                                     	        <li class="header-menu-2"><a href="https://awardwallet.com/blog/" class="btn-light-silver">Blog</a></li>
+                                                                    	        <li class="header-menu-3"><a href="/api/" class="btn-light-silver">APIs</a></li>
                                                                     	        <li class="language">
-    <a class="rel-this" data-target="select-language" href=""><i class="icon-language-en"></i><span>English<i class="icon-silver-arrow-down"></i></span></a>
+    <a class="rel-this" data-target="select-language" href=""><span>English<i class="icon-silver-arrow-down"></i></span></a>
     <ul class="dropdown-submenu" data-role="dropdown" data-id="select-language">
-                                    <li><a href="/en/page/privacy"><i class="icon-language-en"></i><span>English</span></a></li>
-                            <li><a href="/ru/page/privacy"><i class="icon-language-ru"></i><span>Русский</span></a></li>
+                                    <li><a href="/en/page/privacy"><span>English</span></a></li>
+                            <li><a href="/ru/page/privacy"><span>Русский</span></a></li>
                         </ul>
 </li>
 
@@ -150,12 +151,13 @@
 	                                                                			<li><a href="https://awardwallet.com/blog/credit-cards/" class="">Credit Card Offers</a></li>
 	                                                                			<li><a href="/supported-programs" class="">Supported Programs</a></li>
 	                                                                			<li><a href="/faqs" class="">FAQs</a></li>
+	                                                                			<li><a href="/api/" class="">APIs</a></li>
 	                                                                			<li><a href="/contact" class="">Contact Us</a></li>
 	                                                                			<li class="language">
-    <a class="rel-this" data-target="select-language-footer" href=""><span>English<i class="icon-language-en"></i></span></a>
+    <a class="rel-this" data-target="select-language-footer" href=""><span>English</span></a>
     <ul class="dropdown-submenu" data-role="dropdown" data-id="select-language-footer">
-                                    <li><a href="/en/page/privacy"><i class="icon-language-en"></i><span>English</span></a></li>
-                            <li><a href="/ru/page/privacy"><i class="icon-language-ru"></i><span>Русский</span></a></li>
+                                    <li><a href="/en/page/privacy"><span>English</span></a></li>
+                            <li><a href="/ru/page/privacy"><span>Русский</span></a></li>
                         </ul>
 </li>
 
@@ -183,7 +185,7 @@
 
     </script>
     <script>
-        require(['jquery-boot'], function () {
+        require(['jquery-boot', 'common/web-push'], function ($, webPush) {
             $(document).ready(function () {
                 $.ajaxSetup({cache: true});
                 window.fbAsyncInit = function() {
