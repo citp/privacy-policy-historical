@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fairmark.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160509id_/http%3A//fairmark.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmark.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107021405id_/http%3A//fairmark.com/fairmark/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fairmark.com Fairmark.com
-
-As of May 31, 2012
 
 Fairmark.com is a free consumer portal for information about taxes and investing. This Privacy Policy applies exclusively to information practices related to this website. Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those or any other sites. If you follow a link to another website you should read their privacy policy.
 
