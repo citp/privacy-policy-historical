@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323015012id_/http%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107201743id_/http%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NicheHacks
 
@@ -83,6 +83,10 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 **Jurisdiction**
 
 This Policy shall be governed and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions.
+
+**Retargeting / Remarketing / Use of Pixels**
+
+This site uses retargeting / remarketing pixels to track visitors and then show relevant ads to them on platforms such as, but not limited to, Facebook.
 
 **Contact Us**
 
