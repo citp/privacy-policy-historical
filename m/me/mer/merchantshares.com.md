@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantshares.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163325id_/https%3A//www.merchantshares.com/privacy-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantshares.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107185958id_/https%3A//www.merchantshares.com/privacy-spam-policy) for the most accurate reproduction.*
 
 # Privacy & Spam Policy - Merchant Shares — A Service Merchants Corp. company
 
