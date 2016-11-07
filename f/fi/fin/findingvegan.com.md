@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findingvegan.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045647id_/http%3A//www.findingvegan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findingvegan.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108002436id_/http%3A//www.findingvegan.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Finding Vegan
 
