@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bets2sport.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211012713id_/http%3A//www.bets2sport.com/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bets2sport.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107071543id_/http%3A//www.bets2sport.com/help/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy & Policy
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting Bets2Sport.com, a site designed to inform, educate and entertain users regarding betting, all around the globe. This Privacy Policy focuses on to explain our visitors and users that how we use their information.
 
-BY ACCESSING, USING AND/OR DOWNLOADING THE SITE, YOU SIGNIFY YOUR CONSENT TO THIS PRIVACY POLICY AND SIGNIFY YOUR ACCEPTANCE OF OUR TERMS AND CONDITIONS OF SERVICES. IF YOU DO NOT AGREE TO THE ENTIRE TERMS OF THIS POLICY, YOU SHOULD NOT ACCESS, DOWNLOAD AND/OR USE THIS SITE.
+By accessing, using and/or downloading the site, you signify your consent to this privacy policy and signify your acceptance of our terms and conditions of services. If you do not agree to the entire terms of this policy, you should not access, download and/or use this site.
 
 This site is primarily operated for providing fair and relevant information regarding betting and we serve as intermediary source and provide a mode to the user to connect with the various bookmakers but we do not claim to perform any betting activity or being involved in any of the gambling bustles.
 
