@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogdev.info privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512101243id_/http%3A//www.blogdev.info/category/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdev.info privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107021324id_/http%3A//www.blogdev.info/category/security-privacy) for the most accurate reproduction.*
 
-# security-privacy | Development Blog
+# Security-Privacy | Development Blog
 
 Whenever you surf online it is possible to learn information about you even when you don’t want to show who you are. This is true even if your computer contains no virus or malware software. Specifically information that is easily available online includes your IP address, your country (and often more place information based on IP address), what environment you are on, what web browser you use, your browser history, and other information. It gets bad. People can get your system’s name and even find out your name if your machine supports fingering programs. Cookies can track your browsing habits as you move from machine to machine.
 
