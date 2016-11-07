@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the listen360.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619042233id_/http%3A//www.listen360.com/%23privacy-modal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listen360.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107090414id_/http%3A//www.listen360.com/privacy-policy) for the most accurate reproduction.*
 
-# Customer Engagement Software - Listen360
-
-#### Privacy Policy
+# Privacy Policy - Listen360
 
 **Last revised: May 13, 2013**
 
