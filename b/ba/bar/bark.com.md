@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bark.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429051337id_/https%3A//www.bark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bark.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108003406id_/https%3A//www.bark.com/privacy) for the most accurate reproduction.*
 
 # Bark Privacy Policy
 
