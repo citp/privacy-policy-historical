@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brightermonday.co.ug privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619180117id_/https%3A//www.brightermonday.co.ug/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightermonday.co.ug privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107072801id_/https%3A//www.brightermonday.co.ug/privacy-policy) for the most accurate reproduction.*
 
-# | BrighterMonday
-
-## Privacy Policy | Uganda
+# Privacy Policy | Uganda | BrighterMonday
 
 BrighterMonday is committed to a high standard of privacy for our users. We understand that job seeking is a confidential and private activity and we take great care to ensure the services we provide meet our users expectations. 
 
