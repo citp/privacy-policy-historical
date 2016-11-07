@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helidirect.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615031129id_/http%3A//www.helidirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helidirect.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107151651id_/http%3A//www.helidirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
