@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asexyservice.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610153900id_/http%3A//www.asexyservice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexyservice.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107092552id_/http%3A//www.asexyservice.com/privacy) for the most accurate reproduction.*
 
 # Browse the webs hottest classifieds - A Sexy Service.com
 
@@ -9,8 +9,6 @@ Acceptance of Our Privacy Policy
 Upon every interaction with ASexyService.com and services (together, the “Website”), you signify you accept this Privacy Policy. If for any reason you do not accept the Websites Privacy Policy, you must discontinue use immediately as you are not authorized to use the Website without said acceptance.
 
 Collection of Personal Information
-
-[istanbul escort](http://www.escortistanbul.asia/ "istanbul escort")
 
 The website collects personal information whenever you use paid or “premium” features, create or update an account, request information or communicate with us, and otherwise visiting or using this Website’s products and services. The collected information may include without limitation users first name, last name, email address, phone number, order history, and other non-public information. We allow you to use your credit card numbers in order to use premium features but we do not store credit card numbers on file for your protection.
 
@@ -57,6 +55,8 @@ Data & Security
 This Website makes large efforts to store data in a secure way by following industry standard procedures against abusive and unauthorized access. Please be aware that any site on the World Wide Web is susceptible to online threats. In result, for the few select categories that require payment, this Website does not store any banking credentials such as credit card numbers. It may be a small inconvenience to manually input payment information every time, however this is in efforts to protect your information. If you follow a link to an external site (referenced in “External Links” Section), you release this website from any liability resulting from transactions on said external sites.
 
 Updates
+
+[istanbul escort](http://avrupayakasiescort1.xyz/ "istanbul escort")
 
 This Privacy Policy will be updated. You can see the effective date of last revision at the top of this Privacy Policy. You should check for updates frequently to stay up to date because every time you access, post, browse, or effectively “use” the site, you are accepting the most revised version described by the revision date above.
 
