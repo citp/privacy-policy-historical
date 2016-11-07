@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptdeco.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505235622id_/https%3A//www.aptdeco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptdeco.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107034030id_/https%3A//www.aptdeco.com/privacy) for the most accurate reproduction.*
 
 # AptDeco - Privacy policy
 
