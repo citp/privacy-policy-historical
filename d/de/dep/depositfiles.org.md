@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the depositfiles.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052802id_/http%3A//depositfiles.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositfiles.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107223142id_/http%3A//depositfiles.com/privacy_policy.html) for the most accurate reproduction.*
 
-# DepositFiles
+# Mobile DepositFiles
 
-Privacy policy
+Privacy policy:
 
 **A substantial amount information is collected during rendering services DepositFiles in ordinary course of business. DepositFiles shall do its best to safeguard your privacy within the legal boundaries.**
 
