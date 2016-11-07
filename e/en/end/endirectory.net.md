@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endirectory.net privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703002358id_/http%3A//www.endirectory.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endirectory.net privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107211152id_/http%3A//www.endirectory.net/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to endirectory.net - Privacy Policy
 
