@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashpageflip.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629152251id_/http%3A//www.flashpageflip.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashpageflip.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107191452id_/https%3A//flashpageflip.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # FlashPageFlip | Create Digital Publications (HTML5 and FLASH)
 
