@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allwellteam.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521211150id_/http%3A//www.allwellteam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwellteam.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107204635id_/http%3A//www.allwellteam.com/privacy) for the most accurate reproduction.*
 
-# Privacy | All Well Team
+# Privacy – All Well Team
 
 ### Privacy
 
