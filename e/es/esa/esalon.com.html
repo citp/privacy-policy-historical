@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the esalon.com privacy policy that was archived on 2016-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316021223id_/https%3A//www.esalon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esalon.com privacy policy that was archived on 2016-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107062715id_/https%3A//www.esalon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-852.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6JQL"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAYEVFRADQAHVlBX"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function s(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);return i}function c(t,e){d[t]=f(t).concat(e)}function f(t){return d[t]||[]}function u(){return r(s)}var d={};return{on:c,emit:s,create:u,listeners:f,context:e,_events:d}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:25,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:26,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").create(),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:27,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:27,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:27,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:27,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,l,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-",o)}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:27,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=this.lastSize||n(t);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t){var e=t.responseType,n="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return r(n)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=0,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:16,4:12,5:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:25,2:26,handle:"D5DuLP"}],16:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var h=0},{1:25,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],25:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],26:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],27:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:26,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-6JQL"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!d){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[y[n]];return f&&f.push([b,n,r,i]),i}}function p(e,t){w[e]=v(e).concat(t)}function v(e){return w[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var w={},y={},b={on:p,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a};return b}function i(){return new r}function a(){d=!0,s=p.backlog={}}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o(),d=!1;p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=b.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(w,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},y=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a(),origin:m,features:{},xhrWrappable:y};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 <meta property="fb:app_id" content="148940558480674">
 <meta property="fb:page_id" content="119115358133249">
 <meta property="og:admins" content="682451712">   
@@ -14,7 +14,8 @@
 <meta property="og:description" content="eSalon provides salon quality, at-home hair color at a price you can afford. Get colorist formulated hair color designed specifically for your hair, have it bottled at our Los Angeles color lab and shipped to you. It's easy and convenient with results that speak for themselves.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>eSalon - Privacy Policy</title>
-<meta name="description" content="eSalon Privacy Policy"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><!--[if lte IE 8]>
+<meta name="description" content="eSalon Privacy Policy"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script src="//cdn.optimizely.com/js/87580399.js"></script>
+<script type="text/javascript" src="https://esalon.exceda.com/js/jquery.touchSwipe.min._ts1476220411.js"></script><!--[if lte IE 8]>
 <script type="text/javascript"> 
 var $buoop = {vs:{i:8,f:25,o:12.1,s:5.1}, reminder: 0}; 
 $buoop.ol = window.onload; 
@@ -28,7 +29,6 @@ window.onload=function(){
 </script> 
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/635520/689306/css/fonts.css">
-<script src="//cdn.optimizely.com/js/87580399.js"></script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -40,15 +40,7 @@ ga('require', 'displayfeatures');
  ga('set', 'dimension1', 'No');
 ga('send', 'pageview');
 </script>
-<!-- End Google Analytics --><script type="text/javascript">
-(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-  mixpanel.init("70bc8fde765d819233162a4655c62c1e", {debug:false});
-  mixpanel.set_config({cross_subdomain_cookie: false});
-   mixpanel.identify("207.241.237.222");
-    mixpanel.register_once({"initial visit date":"2016-03-15","initial visit hour":"19"});
-  </script>
-<!-- RetentionScience start -->
+<!-- End Google Analytics --><!-- RetentionScience start -->
 <script type="text/javascript">
    var _rsq = _rsq || [];
 _rsq.push(['_setSiteId', '166']);
@@ -56,20 +48,28 @@ _rsq.push(['_track']);
 
 (function() { var rScix = document.createElement('script'); rScix.type = 'text/javascript'; rScix.async = true; rScix.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'd1stxfv94hrhia.cloudfront.net/waves/v2/w.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(rScix); })();
 </script><script type="text/javascript" async="" src="https://d1stxfv94hrhia.cloudfront.net/waves/v2/w.js"></script>
-<!-- RetentionScience end --><!--[if IE 7]>
+<!-- RetentionScience end --><script type="text/javascript">
+(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+  mixpanel.init("70bc8fde765d819233162a4655c62c1e", {debug:false});
+  mixpanel.set_config({cross_subdomain_cookie: false});
+   mixpanel.identify("207.241.229.150");
+    mixpanel.register_once({"initial visit date":"2016-11-06","initial visit hour":"22"});
+  </script>
+<!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="/css/ie7.css?1438190604" /><![endif]-->
 <!--[if lte IE 8]>
 
 	<link rel="stylesheet" type="text/css" href="/css/bootstrap/bootstrap.min.css?1438190604" />
-	<link rel="stylesheet" type="text/css" href="/css/esalon-custom.css?1457646479" />
-	<link rel="stylesheet" type="text/css" href="/css/esalon-new.css?1458086954" />
+	<link rel="stylesheet" type="text/css" href="/css/esalon-custom.css?1472752270" />
+	<link rel="stylesheet" type="text/css" href="/css/esalon-new.css?1476342187" />
 	<link rel="stylesheet" type="text/css" href="/js/fancybox-v2/jquery.fancybox.css?1438190605" />
 <![endif]-->
 <!--[if gte IE 9]><!-->
 
 	<link rel="stylesheet" type="text/css" href="https://esalon.exceda.com/css/bootstrap/bootstrap.min._ts1438190604.css">
-	<link rel="stylesheet" type="text/css" href="https://esalon.exceda.com/css/esalon-custom._ts1457646479.css">
-	<link rel="stylesheet" type="text/css" href="https://esalon.exceda.com/css/esalon-new._ts1458086954.css">
+	<link rel="stylesheet" type="text/css" href="https://esalon.exceda.com/css/esalon-custom._ts1472752270.css">
+	<link rel="stylesheet" type="text/css" href="https://esalon.exceda.com/css/esalon-new._ts1476342187.css">
 	<link rel="stylesheet" type="text/css" href="https://esalon.exceda.com/js/fancybox-v2/jquery.fancybox._ts1438190605.css">
 <!--<![endif]-->
 
@@ -82,7 +82,7 @@ _rsq.push(['_track']);
 	<script type="text/javascript" src="https://esalon.exceda.com/js/v2/jquery.placeholder.min._ts1438190605.js"></script>
 	<script type="text/javascript" src="https://esalon.exceda.com/js/fancybox-v2/jquery.fancybox.pack._ts1438190605.js"></script>
 	<script type="text/javascript" src="https://esalon.exceda.com/css/bootstrap/bootstrap.min._ts1438190604.js"></script>
-	<script type="text/javascript" src="https://esalon.exceda.com/js/minicart._ts1454958237.js"></script>
+	<script type="text/javascript" src="https://esalon.exceda.com/js/minicart2._ts1477680897.js"></script>
 <!--[if lte IE 8]>
 
 	<script type="text/javascript" src="https://esalon.exceda.com/js/v2/modernizr.custom.04000._ts1438190605.js"></script>
@@ -121,170 +121,351 @@ window.fbAsyncInit = function() {
 <script>
 var _udn=".esalon.com";
 </script>
-<style>
-.dropdown:hover .dropdown-menu {
-    display: block;
- }
-</style>
-
-<!-- BEGIN HEADER -->
-<header class="minicart-header headerCtrl" id="headerCtrl" ng-controller="headerCtrl">
-    <div class="navbar navbar-inverse navbar-fixed-top " role="navigation">
-        <p class="success-alert"></p>
-            
-        <div class="container header-esalon">
-            <span ng-cloak="" ng-show="showArrow('now')" class="todays-order-arrow"></span>
-
-            <table class="header-nav">
-                <tbody><tr>
-                    <td>
-                        <div class="navbar-header">
-                            <ul class="navbar-list">
-                                <li>
-                                    <a class="logo" href="/"><img src="https://esalon.exceda.com/images/logo-esalonx2._ts1441915524.png" alt="eSalon Logo"></a> 
-                                </li>
-                                <li>
-                                    <ul class="mobile-nav">
-                                        <li>
-                                            <div class="bag-icon">
-                                                <a href="" ng-cloak="" ng-bind="cartCount(false, 0)" ng-click="showCart('now')" class="cart-icon cart-ship-now-mobile"></a>
-                                            </div>
-                                        </li>
-                                        
-                                        <li>
-                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> 
-                                                <span class="sr-only">Toggle navigation</span> 
-                                                <span class="icon-bar"></span> 
-                                                <span class="icon-bar"></span> 
-                                                <span class="icon-bar"></span> 
-                                            </button>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </td>
-                    <td>
-                        <nav id="main-navigation" class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav-esalon nav-pills">
-                                <li>
-                                    <a href="/hair-color">Custom Color<span class="nav-line"></span></a>
-                                </li>
-                                                                    <li>
-                                        <a href="/users/matchuplanding">The Match-Up<span class="nav-line"></span></a>
-                                    </li>
-                                                                <li class="new-feature ">
-                                    <a href="/products">Shop<span class="nav-line"></span></a>
-                                </li>
-                                <!-- <li >
-                                    <a href="/about">About<span class="nav-line"></span></a>
-                                </li> -->
-                                <li>
-                                    <a href="/support">Support<span class="nav-line"></span></a>
-                                </li>
-                                                                        <li class="mobile-account">
-                                            <a href="/users/login">My Account</a>
-                                        </li>
-                                                   
-                                <li class="dropdown global-header-nav-esalon">
-                                                                        <a href="/users" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My Account<span class="nav-line"></span></a>
-                 
-                                    <ul class="dropdown-menu dropdown-login" role="menu" aria-labelledby="dLabel">
-                                        <li>
-                                            <h3 class="heading-3-esalon title-login-dropdown" style="margin:0 0 7px 0;">Login</h3>
-                                              <form action="/users/login" id="UserLoginForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="7c0d364f5c8fe9354e1f5a768edf14be51c181d9" id="Token1291148195"></div><input name="data[User][username]" type="email" label="" class="form-field-primary1-esalon" autocomplete="off" id="UserUsername"><div class="input password required"><label for="UserPassword" class="form-label-text-esalon" value="">Password:</label><input type="password" name="data[User][password]" class="form-field-primary1-esalon" id="UserPassword"></div><button type="submit" class="btn-primary1-esalon" style="margin-bottom:4px;">Login</button><div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="dde93bf815c0a731320440f4f5b01bf190cd2772%3A" id="TokenFields57802231"></div></form>                                            <div><a href="/reset_password" style="color:#030303;font-size:12px;">Forgot Password?</a></div>
-                                        </li>
-                                    </ul>
-                                                                    </li> 
-
-                                <li><a ng-cloak="" href="" ng-click="showCart('now')" ng-bind="cartCount(false, 0)" class="cart-icon cart-ship-now"></a></li>
-                            </ul>
-                        </nav> 
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-    </div>
-
-    <div class="container mini-cart-container" id="cartCtrl" ng-controller="cartCtrl">
-  <div id="effect" class="mini-cart" style="display:none;">
-    <div class="minicart-title-bar"> <span ng-show="displayedCart('now')"></span>
-      <div class="mini-cart-close">X</div>
-    </div>
-    <div ng-show="displayedCart('now')" id="toRight" class="col-md-12 ship-now-mini-cart">
-      <div class="empty-cart-message" ng-hide="countFormItems(false)">You have no items in your shopping cart. <span class="mini-cart-close">Continue Shopping.</span></div>
-      <div class="row" ng-show="countFormItems(false)">
-        <div class="col-md-9">
-          <div class="product-queue">
-            <ul>
-              <li ng-repeat="item in form_items | filter:{future: false}" class="mini-cart-item">
-                <div class="row">
-                  <div class="mini-cart-product col-xs-6"><div class="mcp-title" ng-bind="displayTitle(item)"></div>
-                    {{displayName(item)}}
-                    <div ng-show="item.removeable" class="mini-cart-edit"><span><a ng-click="removeItem(item)">Remove </a></span> {{frequencyText(item)}}</div>
-                  </div>
-                  <div class="mini-cart-price col-xs-6">
-                    <input ng-show="item.editable" type="text" class="item-count" ng-model="item.qty">
-                    <span ng-show="item.editable" class="item-count-update"><a ng-click="updateCart(item)">update</a></span>{{showPrice(item)}} </div>
-                    <div style="clear:both;"></div>
+<div id="cartCtrl" ng-cloak="" ng-controller="cartCtrl">
+    <div class="minicart2" ng-show="isCartShowing()">
+        <div class="minicart2-container">
+            <div class="minicart2-header" ng-click="toggleCart()">
+                <div class="close-icon">
+                    <img src="https://esalon.exceda.com/images/slide-arrow@2x._ts1475627051.png" class="img-responsive" alt="">                </div>
+                <div class="minicart-heading">
+                    SHOPPING BAG
                 </div>
-              </li>
-            </ul>
-          </div>
-          <!-- END row --> 
-        </div>
-        <!-- END col-md-9 -->
-        <div class="col-md-3" style="border-left: 1px solid #f4f4f4">
-          <div class="mini-cart-total">
-            <table class="m-c-t-table">
-              <tbody><tr>
-                <td class="mini-cart-total-text">Subtotal:</td>
-                <td class="mini-cart-totals"><div ng-bind="subtotal(false) | currency:'$'"></div></td>
-              </tr>
-              <tr>
-                <td class="mini-cart-total-text"><div ng-show="discount_description" ng-bind="discount_description"></div></td>
-                <td class="mini-cart-totals"><div ng-show="discount_description" ng-bind="showDiscountAmount() | currency:'$'"></div></td>
-              </tr>
-              <tr>
-                <td class="mini-cart-total-text">Tax:</td>
-                <td class="mini-cart-totals"><div ng-bind="tax(false) | currency:'$'"></div></td>
-              </tr>
-              <tr>
-                <td class="mini-cart-total-text">Shipping:</td>
-                <td class="mini-cart-totals"><div ng-bind="shipping_amount | currency:'$'"></div></td>
-              </tr>
-              <tr>
-                <td class="mini-cart-total-text"><div class="grand-total">Today's Total:</div></td>
-                <td class="mini-cart-totals"><div class="grand-total" ng-bind="total(false) | currency:'$'"></div></td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <button onclick="location=&quot;/checkout&quot;; return false;" type="button" style="max-width:200px;" class="btn-primary1-esalon mini-cart-button">Checkout Now</button>
-                </td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <a href="/products" class="shop-link">CONTINUE SHOPPING »</a>
-                </td>
-              </tr>
-          </tbody></table>
+            </div>
+            <div class="minicart2-footer mobile" ng-show="getCartItems().length">
+                <div class="mc-footer-sub visible-xs">
+                    <div class="subtotal">
+                        Subtotal:
+                        <span class="subtotal" ng-bind="form_subtotal(false) | currency:'$'"></span>
+                    </div>
 
-          <div class="clear"></div>
+                    <div class="discount-description" ng-show="discount_description">
+                        {{discount_description}} will be applied at checkout
+                    </div>
 
-          </div>
-          <!-- END col-md-4" --> 
+                    <div class="mc-ctas">
+                        <button class="btn-primary4-esalon side-cart keep-shopping" ng-click="toggleCart()">Keep Shopping</button>
+                        <button class="btn-primary2-esalon" onclick="location=&quot;/checkout&quot;; return false;">Checkout</button>
+                    </div>
+                </div>
+            </div>
+            <div ng-cloak="" class="product-queue" ng-show="getCartItems().length">
+                <table class="ps-child">
+                    <tbody>
+                    <tr ng-repeat="item in getCartItems(false) track by $index" ng-class="{'item-removed': !showItem(item), 'row-hidden': !showItem(item) &amp;&amp; !showUndo(item)}" data-product_id="{{item.product_id}}">
+                            <td class="col-img" ng-show="showItem(item)">
+                                <a ng-href="{{item.product_url}}">
+                                    <img ng-src="{{item.v3_image_thumb_cdn}}">
+                                </a>
+                            </td>
+                            <td class="col-desc" ng-show="showItem(item)">
+                                <a ng-href="{{item.product_url}}">
+                                    <div class="pd-title" ng-bind="displayTitle(item)"></div>
+                                    <div class="pd-subtitle">{{item.name}}</div>
+                                    <div ng-show="item.variation_type" class="variation">
+                                        {{item.variation_type}}: {{item.variation_name}}
+                                    </div>
+                                    <div ng-show="item.dye_type" class="variation">
+                                        {{(item.dye_type == 'demi') ? 'Demi-Permanent' : 'Permanent'}}
+                                    </div>
+                                </a>
+                                <div class="item-quantity" ng-class="{'non-increment': !item.editable}">
+                                    <span ng-show="item.editable">
+                                        <span class="increment" ng-class="{'disabled': item.qty == 1}" ng-click="incrementQty(item, -1)">-</span>
+                                        <span class="item-qty">{{item.qty}}</span>
+                                        <span class="increment" ng-class="{'disabled': item.qty == maxOrderSize()}" ng-click="incrementQty(item, 1)">+</span>
+                                    </span>
+                                    <span class="item-remove" ng-class="{'non-increment': !item.editable}" ng-click="removeItem(item)">remove</span>
+                                </div>
+                            </td>
+                            <td class="col-price" ng-show="showItem(item)">
+                                <div class="item_price">
+                                    {{showPrice(item)}}
+                                </div>
+                            </td>
+                            <td colspan="3" ng-show="!showItem(item) &amp;&amp; showUndo(item)" class="removed-item-undo" add-remove-class="">
+                                <div class="remove-marked-item" ng-click="removeMarked(item, $event)">
+                                    <img src="https://esalon.exceda.com/images/icon-x-cart._ts1474668217.png" class="img-responsive" alt="">                                </div>
+                                <div class="removed-item-msg">
+                                    {{displayTitle(item)}} has been removed - 
+                                </div>
+                                <span class="undo-remove-link" ng-show="!item.is_matchup_product" onclick="esUndoRemoveItem(this)" data-product-id="{{item.product_id}}" data-is-haircolor="{{item.is_haircolor}}" data-unit-price="{{item.unit_price}}">undo</span>
+                                <span class="undo-remove-link" ng-show="item.is_matchup_product">
+                                    <a href="/my_matchup/my_bundle">undo</a>
+                                </span>
+                                <form action="/checkout/summary" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="f578c670550a0c0c33892ed067d97ee3a7dc5d7e" id="Token293094499"></div><input type="hidden" name="data[Product][product_id]" id="UndoId" value="0"><input type="hidden" name="data[Product][auto_delivery]" value="now" id="ProductAutoDelivery"><input type="hidden" name="data[Product][qty]" id="UndoQty" value="1"><input type="hidden" name="data[Product][undo_price]" id="UndoPrice" value="0"><div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="64fb40b6d5399d33e937bcc304d5afc4b19e3681%3AProduct.auto_delivery%7CProduct.product_id%7CProduct.qty%7CProduct.undo_price" id="TokenFields146485902"></div></form>                            </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div ng-cloak="" class="no-items" ng_show="!getCartItems().length">
+                <div class="no-items-msg">
+                    Your shopping cart is empty.<br>
+                    Let's fix that!
+                </div>
+                <button class="btn-primary4-esalon side-cart keep-shopping" onclick="location='/products'">START SHOPPING</button>
+            </div>
+            <div class="minicart2-footer hidden-xs" ng-show="getCartItems().length">
+                <div class="mc-footer-guarantee promo-tooltip">
+                    100% SATISFACTION GUARANTEED
+                    <span>
+                        <img src="https://esalon.exceda.com/images/icon-info-peach@2x._ts1475627051.png" alt="What is the 100% Satisfaction Guarantee?" class="icon-info-tool-tip">                </span></div>
+                <div class="mc-footer-sub">
+                    <div class="subtotal">
+                        Subtotal:
+                        <span class="subtotal" ng-bind="form_subtotal(false) | currency:'$'"></span>
+                    </div>
+                    <div class="discount-description" ng-show="discount_description">
+                        {{discount_description}} will be applied at checkout
+                    </div>
+                    <div class="mc-ctas">
+                        <button class="btn-primary4-esalon side-cart keep-shopping" ng-click="toggleCart()">Keep Shopping</button>
+                        <button class="btn-primary2-esalon" onclick="location=&quot;/checkout&quot;; return false;">Checkout</button>
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- END mini-cart-total --> 
-      </div>
-      <!-- END row --> 
+        <div class="minicart2-mask" ng-click="toggleCart()"></div>
     </div>
-    <!-- END col-md-6 ship-now-mini-cart --> 
-  </div>
-  <!-- END row mini-cart --> 
 </div>
-<!-- END container -->
+<script type="text/javascript">
+    var previous_scroll_height = 0,
+        mc_container = $('.minicart2-container'),
+        mc_products = $('.product-queue');
+        mc_header = $('.minicart2-header'),
+        mc_footer = $('.minicart2-footer').not('.mobile'),
+        mc_table = mc_products.find('table'),
+        mc_scroll_rail = $('.mc-scroll-rail'),
+        mc_scroll_thumb = $('.mc-scroll-thumb'),
+        mc_footer_guarantee = $('.mc-footer-guarantee');
+        keep_shopping_url = '/products',
+        browser = {"is_mobile":false,"is_tablet":false,"browser_type":"desktop:other","checked":true} || {};
+    var $cartScope;
 
-</header><div class="container default-page">
+    $(document).ready(function(){
+        mc_footer_guarantee.popover({
+            content:'<img src="https://esalon.exceda.com/images/seal-esalon-100-guarantee-cart._ts1474484521.png" alt="" /><img src="https://esalon.exceda.com/images/icon-close-x-small._ts1444234653.png" class="popover-close" alt="" /> If for any reason you’re not 100% satisfied with your experience, we’ll resend or refund your purchase (less shipping)&mdash;anytime!',
+            trigger: (browser.is_mobile || browser.is_tablet) ? 'click' : 'hover',
+            html:"true",
+            placement:"top",
+            animation: true
+        });
+
+        $('.minicart2').swipe({
+            swipeRight:function(event, direction, distance, duration, fingerCount) {
+                if (duration < 1000) {
+                    $cartScope.toggleCart();
+                }
+            },
+            threshold: 75
+        });
+
+        mc_container.on('click', function(e) {
+            if (browser.is_tablet && typeof $(e.target).data('original-title') == 'undefined') {
+                $('[data-original-title]').popover('hide');
+            }
+        });
+
+        $('.minicart2').addClass(browser.is_mobile || browser.is_tablet ? 'touch' : 'non-touch');
+    });
+
+    $(window).load(function(){
+        var cartElement = $('#cartCtrl');
+        $cartScope = angular.element(cartElement).scope();
+    });
+
+    $(window).resize(function(){
+        esSetMenuScroll();
+    });
+
+    function esSetMenu (is_displayed) {
+        var scroll_width = window.innerWidth - $(document).width();
+        var is_touch = (browser.is_mobile || browser.is_tablet);
+        var add_class = 'minicart-open' + ((is_touch) ? ' mc-open-mobile' : '');
+        if (is_displayed) {
+            mc_table.find('tr').show();
+            $('body').css({
+                'marginRight': scroll_width,
+                'position': (is_touch) ? 'fixed' : 'initial',
+                'width': (is_touch) ? '100%' : 'initial'
+            }).addClass(add_class);
+            $('header > div').css({
+                'right': scroll_width
+            });
+            if (is_touch) {
+                $('.popover-close').show();
+            }
+        } else {
+            mc_table.find('tr').css('height', '').find('td').show();
+            $('body').css({
+                'marginRight': 0,
+                'position': 'initial'
+            }).removeClass(add_class);
+            $('header > div').css({
+                'right': ''
+            });
+        }
+    }
+
+    function esSetMenuScroll() {
+        var scroll_height = mc_table.height() + mc_footer.height();
+        if (mc_header.width()) {
+            mc_footer.width(mc_header.width());
+        }
+        if (scroll_height != previous_scroll_height) {
+            mc_products.height('');
+            mc_products.height(scroll_height);
+        }
+    }
+
+    function esUndoRemoveItem(element) {
+        var product_id = $(element).data('product-id');
+        var product_qty = $(element).closest('tr').find('.item-qty').text();
+        var unit_price = $(element).data('unit-price');
+        var form = $(element).siblings('form');
+        var id_input = $(form).find('#UndoId');
+        var qty_input = $(form).find('#UndoQty');
+        var price_input = $(form).find('#UndoPrice');
+
+        if ($(element).data('is-haircolor')) {
+            form.submit();
+            return;
+        }
+
+        $(id_input).val(product_id);
+        $(qty_input).val(product_qty);
+        $(price_input).val(unit_price);
+        $.post('/carts/add',
+            $(form).serialize(),
+            function(data) {
+                if (data.success) {
+                    $cartScope.$apply(function() {
+                        $cartScope.addCart(data.cart_item);
+                    });
+                }
+            },
+            'json'
+        );
+    }
+
+    function esToogleMenuFooter(is_open) {
+        if (is_open) {
+            mc_footer.css({
+                position: 'fixed',
+                bottom: 0
+            })
+        } else {
+            mc_footer.css({
+                position: 'absolute',
+                bottom: mc_container.scrollTop() * -1
+            })
+        }
+    }
+
+</script><header class="global-header" id="headerCtrl" ng-controller="headerCtrl">
+  <div class="navbar-fixed-top" role="navigation">
+    <div class="container">
+      <table>
+        <tbody><tr>
+          <td class="mobile-menu hidden-sm hidden-md hidden-lg">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mobile-dropdown">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </td>
+          <td class="logo">
+            <a class="main-logo" href="/"></a>
+          </td>
+          <td class="shop-links hidden-xs">
+            <ul>
+              <li>
+                <a href="/hair-color">Custom Color</a>
+              </li>
+                              <li>
+                  <a href="/my_matchup/home">Match-Up</a>
+                </li>
+                                <li class="new-feature ">
+                  <a href="/products">Shop</a>
+                </li>
+                <li>
+                  <a href="/support">Support</a>
+                </li>
+            </ul>
+          </td>
+          <td class="account hidden-xs">
+            <ul class="right">
+              <!-- LOGGED IN -->
+                                  <!-- LOGIN -->
+                  <li class="login">
+                    <div class="dropdown">
+                      <a href="javascript:void(0)" data-toggle="dropdown">My Account</a>
+                      <ul class="dropdown-menu-right dropdown-menu arrow_box dropdown-login" role="menu" aria-labelledby="dropdownMenu1">
+                        <li>
+                          <button id="fblogin" class="fb-login-btn hidden">
+                            <img src="https://esalon.exceda.com/images/fb-icon._ts1463505579.png" alt="Facebook">                            <p>LOG IN WITH FACEBOOK</p>
+                          </button>
+                          <p class="hidden">LOG IN WITH EMAIL</p>
+                          <form action="/users/login" id="UserLoginForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="f578c670550a0c0c33892ed067d97ee3a7dc5d7e" id="Token56638861"></div>                          <div class="form-group floating-label-form-group">
+                            <input name="data[User][username]" type="email" autocomplete="off" class="form-control f-c-e-input" placeholder="Email Address" id="UserUsername">                          </div>
+                          <div class="form-group floating-label-form-group">
+                            <input type="password" name="data[User][password]" class="form-control f-c-e-input" placeholder="Password" id="UserPassword">                          </div>
+                          <button type="submit" class="btn-primary1-esalon btn-disabled1-esalon" disabled="disabled" id="submit_button">LOG IN</button><div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="dde93bf815c0a731320440f4f5b01bf190cd2772%3A" id="TokenFields1155665608"></div></form>                          <a href="/reset_password">FORGOT PASSWORD?</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                            </ul>
+          </td>
+          <td class="cart">
+            <a href="" ng-click="showCart('now')" ng-bind="cartCount(false, 0)" class="bag-icon">0</a>
+          </td>
+        </tr>
+      </tbody></table>
+      <!-- MOBILE NAV - START-->
+      <div class="hidden-sm hidden-md hidden-lg">
+        <div id="mobile-dropdown" class="navbar-collapse collapse">
+          <ul>
+            <li><a href="/hair-color">Custom Color</a></li>
+            <li><a href="/my_matchup/home">Match-Up</a></li>
+            <li><a href="/products">Shop</a></li>
+            <li><a href="/support">Support</a></li>
+          </ul>
+          <ul class="mobile-account">
+            <!--- LOGGED IN -->
+                          <!-- LOGIN -->
+              <li class="subtitle">My Account</li>
+              <li class="login"><a href="/users/login">Log in</a></li>
+                        </ul>
+        </div>
+      </div>
+      <!-- MOBILE NAV - END-->
+    </div>
+  </div>
+</header>
+
+	<script type="text/javascript" src="https://esalon.exceda.com/js/login._ts1476296979.js"></script>
+<script>
+$(document).ready(function() {
+  var isTouch = false;
+  $('body').on('touchstart', function () {
+    isTouch = true;
+  });
+  $('.color-services').click(function() {
+    $('.color-services-dropdown').toggleClass('hidden');
+    $(this).toggleClass('active active-arrow');
+  });
+  $('.dropdown').hover(function() {
+    $(this).addClass('active-arrow');
+  }, function() {
+    $(this).removeClass('active-arrow');
+  });
+  $(".panel-heading").click(function() {
+     $('#mobile-dropdown').animate({ scrollTop: "200px" });
+  });
+});
+</script>
+<div class="container default-page">
 <section>
  
     <div id="container" class="noBottomBorder">
@@ -349,7 +530,7 @@ privacy@esalon.com<br>
 <div class="container footer-container footer-pages">
     <footer class="footer-super">
     
-        <section class="row footer-pre guarantee-banner">
+        <section class="footer-pre guarantee-banner">
             <table>
                 <tbody><tr>
                     <td class="col-1">
@@ -364,7 +545,7 @@ privacy@esalon.com<br>
             </tbody></table>
         </section>
 
-        <section class="row footer-links">
+        <section class="footer-links">
             <table>
                 <tbody><tr>
                     <td class="col-1">
@@ -378,11 +559,11 @@ privacy@esalon.com<br>
                     <td class="col-2">
                         <h4>Get Inspired</h4>
                         <ul class="list-social">
-                            <li><a href="https://www.facebook.com/eSalon.com"><img src="https://esalon.exceda.com/images/v2/icon-facebook-black._ts1443485704.png" alt="Facebook Icon"></a></li>
-                            <li><a href="http://www.instagram.com/eSalon"><img src="https://esalon.exceda.com/images/v2/icon-instagram-black._ts1443485704.png" alt="Instagram Icon"></a></li>
-                            <li><a href="http://www.pinterest.com/esalon/"><img src="https://esalon.exceda.com/images/v2/icon-pinterest-black._ts1443485704.png" alt="Pinterest Icon"></a></li>
-                            <li><a href="https://www.twitter.com/eSalon"><img src="https://esalon.exceda.com/images/v2/icon-twitter-black._ts1443485704.png" alt="Twitter Icon"></a></li>
-                            <li><a href="https://plus.google.com/+eSalon/posts"><img src="https://esalon.exceda.com/images/v2/icon-googleplus-black._ts1443485704.png" alt="Google Plus Icon"></a></li>
+                            <li><a href="https://www.facebook.com/eSalon.com" target="_blank"><img src="https://esalon.exceda.com/images/v2/icon-facebook-black._ts1443485704.png" alt="Facebook Icon"></a></li>
+                            <li><a href="http://www.instagram.com/eSalon" target="_blank"><img src="https://esalon.exceda.com/images/v2/icon-instagram-black._ts1443485704.png" alt="Instagram Icon"></a></li>
+                            <li><a href="http://www.pinterest.com/esalon/" target="_blank"><img src="https://esalon.exceda.com/images/v2/icon-pinterest-black._ts1443485704.png" alt="Pinterest Icon"></a></li>
+                            <li><a href="https://www.twitter.com/eSalon" target="_blank"><img src="https://esalon.exceda.com/images/v2/icon-twitter-black._ts1443485704.png" alt="Twitter Icon"></a></li>
+                            <li><a href="https://plus.google.com/+eSalon/posts" target="_blank"><img src="https://esalon.exceda.com/images/v2/icon-googleplus-black._ts1443485704.png" alt="Google Plus Icon"></a></li>
                         </ul>
                     </td>
                     <td class="col-3">
@@ -393,7 +574,7 @@ privacy@esalon.com<br>
             </tbody></table>
         </section>
 
-        <section class="row footer-copyright">
+        <section class="footer-copyright">
             <p>Copyright © eSalon 2016 All Rights Reserved.</p>
             <ul>
                 <li>
@@ -444,13 +625,13 @@ privacy@esalon.com<br>
                                 <img src="https://esalon.exceda.com/images/v2/flag-us._ts1450117719.gif" class="img-responsive" alt="">                            </div>
                          </a>
                         <div class="footer-flag-arrow">
-                            <img src="https://esalon.exceda.com/images/v2/arrow-dropdown-small._ts1444234653.png" alt="">                        </div>
+                            <img src="https://esalon.exceda.com/images/v2/arrow-dropdown-small._ts1459303475.png" alt="">                        </div>
                     </div>
                 </li>
             </ul>
         </section>
 
-  </footer>
+    </footer>
 </div>
 
 <script type="text/javascript">
@@ -478,7 +659,11 @@ privacy@esalon.com<br>
         });
 
     });
-</script><!-- Google Tag Manager -->
+</script>
+<script>
+  dataLayer = [{"device_type":"desktop"}];
+</script>
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-6JQL"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -487,7 +672,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-6JQL');</script>
 <!-- End Google Tag Manager -->
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b1e8da1e19","applicationID":"537215","transactionName":"M10BNUZVVxAABkQNWgoXIBRHQFYOThVCDUMFWxo=","queueTime":0,"applicationTime":40,"atts":"HxoCQw5PRB4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b1e8da1e19","applicationID":"537215","transactionName":"M10BNUZVVxAABkQNWgoXIBRHQFYOThVCDUMFWxo=","queueTime":0,"applicationTime":41,"atts":"HxoCQw5PRB4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <script type="text/javascript">
 $(document).ready(function() {
