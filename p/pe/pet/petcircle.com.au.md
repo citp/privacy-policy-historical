@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petcircle.com.au privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603162632id_/https%3A//www.petcircle.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petcircle.com.au privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107204739id_/https%3A//www.petcircle.com.au/privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Pet Circle
 
