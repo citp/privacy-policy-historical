@@ -1,80 +1,45 @@
-> *The following text is extracted and transformed from the lrmonline.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrmonline.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107151740id_/http%3A//lrmonline.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy + Terms — LRM Online
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+## Privacy Policy 
 
-**What information do we collect?**
+### Effective: April 14, 2016
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+Latino Review LLC is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us online. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+### Cookies
 
-**What do we use your information for?**
+We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to http://www.net- workadvertising.org/optout_nonppii.asp ([http://www.networkadvertising.org/optout_nonppii.asp).](http://www.networkadvertising.org/optout_nonppii.asp\))
 
-Any of the information we collect from you may be used in one of the following ways: 
+ **Links** : Be aware that when you click on ad banners, you may be redirected to other sites not operated by Latino Review LLC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+ **General Information Collected** : When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., AT&T, Verizon).
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+### Third Party Service Providers
 
-• To process transactions
+Latino Review LLC does not collect any personal information other than your email address should you desire to receive our Daily Newsletter.  Agents and Partners of Latino Review, LLC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by Latino Review, LLC.  From time to time we may partner with third party service providers to offer additional products and services within the Web Site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+### Personal Information
 
-• To send periodic emails
+It is the responsibility of each user to provide Latino Review LLC with accurate information at all times. Latino Review LLC currently does not collect any personal information such as name, street address, city, state, zip code, country, age, or gender.  The only information that you are asked to provide should you desire to receive our newsletter is your email address.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+### Changes to our Privacy Policy
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. We recommend that you check the Privacy Policy when you visit our Web Site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web Site visitors information on material changes to this Privacy Policy.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+### Questions?
 
-**How do we protect your information?**
+For any questions or comments concerning Latino Review LLC’s privacy policy, please write to: 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+ **Latino Review LLC**
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+3060 Peachtree Road
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+Suite 380
 
-**Do we use cookies?**
+Atlanta, GA 30305
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
-
-**Do we disclose any information to outside parties?**
-
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+© Copyright 2016 Latino Review LLC, Latino-Review and the LRM logos are trademarks of Latino Review LLC.
