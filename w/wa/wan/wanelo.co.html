@@ -1,0 +1,316 @@
+<!--The following is the downloaded HTML source of the wanelo.co privacy policy that was archived on 2016-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107220433id_/https%3A//wanelo.co/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"112388c6d2","applicationID":"876120","transactionName":"IQ1XRkBaW1RXRExRUQ0XTR1CR15OU1Ua","queueTime":1,"applicationTime":71,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIFUF9AAAQGVVNS"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<title>Wanelo - Privacy Policy</title>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="SbpCop82yp92ZvExlffCEctfd2DrTTdbio5WKHyH0Ow=" name="csrf-token">
+<meta content="Wanelo" property="application-name">
+<meta content="17794769" name="twitter:account_id">
+<meta content="17cf2d4dd6f3f8c9de9b050a9d3a3a65" name="verification">
+<meta content="always" name="referrer">
+
+
+
+<link href="https://wanelo.co/about/privacy" rel="canonical">
+
+<meta content="Wanelo ('wah-nee-loh', from Want, Need, Love) is an online community for all of the world's shopping." name="description">
+
+<link href="https://assets-fs.wnlimg.com/assets/wnl_base-c57882fd3889e68c0a09667f2e18fcd4.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://assets-fs.wnlimg.com/assets/wnl_web-02e1589213174920a56787dff49b0888.css" media="all" rel="stylesheet" type="text/css">
+<script src="https://assets-fs.wnlimg.com/assets/jquery-3e1b5d31da877e0aed5c14719007eb6e.js" type="text/javascript"></script>
+<script src="https://cdn.optimizely.com/js/5188023.js" type="text/javascript"></script>
+
+<script src="https://assets-fs.wnlimg.com/assets/first-132f88262a95ef65ff05562be5f32d33.js" type="text/javascript"></script>
+<!-- verification-key: ed3254ea-2fef-400d-ae9b-28fe12a7a187 -->
+<link href="http://wanelo.co/oexchange.xrd" rel="http://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml">
+<link href="https://plus.google.com/+wanelo" rel="publisher">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-57x57-2c29c9535fde35c67cd1976b4c05b38e.png" rel="apple-touch-icon-precomposed" sizes="57x57">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-60x60-b4707885b4ddc57681b1142489f057af.png" rel="apple-touch-icon-precomposed" sizes="60x60">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-72x72-17bcfd4fe50a115f6697bc2c11d8ff7e.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-76x76-d72f80335308a72be0ca57a6e0986a82.png" rel="apple-touch-icon-precomposed" sizes="76x76">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-114x114-129e6858828dec367ea0843dfc52111a.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-120x120-2a056813476a59483cdb18f8c0551f38.png" rel="apple-touch-icon-precomposed" sizes="120x120">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-144x144-c5b0ea40d941b3e6434957ff9c55c5b2.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-152x152-80022fbea4eb138dff6a546cfa0374d3.png" rel="apple-touch-icon-precomposed" sizes="152x152">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/apple-icon-180x180-b3eaa9d685680234f4e1a33bc9d568b7.png" rel="apple-touch-icon-precomposed" sizes="180x180">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/favicon-16x16-69d000d31186a4e17ea34d7c86bef3d3.png" rel="icon" sizes="16x16" type="image/png">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/favicon-32x32-07a0832655104807c80141e71245e5a4.png" rel="icon" sizes="32x32" type="image/png">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/favicon-96x96-e0c828bcae4e89d7a5fdddbc0c14207f.png" rel="icon" sizes="96x96" type="image/png">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/favicon-128x128-42b2c73b86ee2083a393849fb4847b72.png" rel="icon" sizes="128x128" type="image/png">
+<link href="https://assets-fs.wnlimg.com/assets/favicon/favicon-192x192-fcd94a5b5e369fa097f81db654086863.png" rel="icon" sizes="192x192" type="image/png">
+<meta content="#ffffff" name="msapplication-TileColor">
+<meta content="https://assets-fs.wnlimg.com/assets/favicon/ms-icon-144x144-c5b0ea40d941b3e6434957ff9c55c5b2.png" name="msapplication-TileImage">
+<meta content="#ffffff" name="theme-color">
+
+
+
+</head>
+<body class="about about-privacy about privacy " data-action="privacy" data-controller="about" data-events="about_nav" data-params="null">
+<div id="fb-root"></div>
+
+<div id="everything-except-footer">
+<div class="in-progress">
+<div class="mobile-nav-container closed">
+<div class="mobile-nav">
+<a class="menu-toggle" href="#">
+<img alt="close" src="https://assets-fs.wnlimg.com/assets/about-images/close@2-10abdfa0fbd6cab0f0eb020b765cccb8.svg">
+</a>
+<ul>
+<li>
+<a href="/about">About</a>
+</li>
+<li>
+<a href="/about/sellonwanelo">Sell On Wanelo</a>
+</li>
+<li>
+<a href="/about/press">Press</a>
+</li>
+<li>
+<a href="/about/faq">FAQ</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="nav-container">
+<div class="wa-row nav-content">
+<div class="wa-col wa-col-1">
+<div class="logo">
+<a href="https://wanelo.co">
+<h1>Wanelo</h1>
+</a>
+</div>
+</div>
+<div class="about-mobile-toggle">
+<a class="menu-toggle" href="#">
+<div class="menu-icon">
+<div class="menu-top"></div>
+<div class="menu-mid"></div>
+<div class="menu-bot"></div>
+</div>
+<p>Menu</p>
+</a>
+</div>
+<div class="about-nav-social">
+<ul>
+<li class="about-nav-facebook">
+<a href="http://facebook.com/wanelo">
+<img alt="Wanelo On facebook" id="abt-fb" src="https://assets-fs.wnlimg.com/assets/about-images/facebook-e18f1ec6ecb2331cf3f631ab3e7a1f00.svg">
+</a>
+</li>
+<li class="about-nav-instagram">
+<a href="http://instagram.com/wanelo">
+<img alt="Wanelo On Instagram" id="abt-insta" src="https://assets-fs.wnlimg.com/assets/about-images/instagram-27a962d398cf3cb2d35b92f0adfcd213.svg">
+</a>
+</li>
+<li class="about-nav-twitter">
+<a href="https://twitter.com/wanelo">
+<img alt="Wanelo On Twitter" id="abt-twit" src="https://assets-fs.wnlimg.com/assets/about-images/twitter-a3b1de733ef56b303958e2e054328439.svg">
+</a>
+</li>
+</ul>
+</div>
+<div class="about-nav">
+<ul>
+<li>
+<a href="/about">About</a>
+</li>
+<li>
+<a href="/about/sellonwanelo">Sell On Wanelo</a>
+</li>
+<li>
+<a href="/about/press">Press</a>
+</li>
+<li>
+<a href="/about/play">Jobs</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<div class="container push-body" id="outer">
+<div id="inner">
+<div class="flash-messages">
+<div class="flash-notice alert alert-block alert-success">
+<a class="close" data-dismiss="alert" href="#">×</a>
+<div class="flash-content"></div>
+</div>
+<div class="flash-alert alert alert-block alert-error">
+<a class="close" data-dismiss="alert" href="#">×</a>
+<div class="title-4"></div>
+<div class="flash-content"></div>
+</div>
+</div>
+<div class="about-container">
+<div class="about-content-container">
+<div class="about-content-section">
+<h1>Privacy Policy</h1>
+<p>Last modified on October 13, 2014.</p>
+<p>We at Wanelo, Inc. ("Wanelo," "Company," "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the wanelo.com website and domain name, and any other linked pages, features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Company <a href="/about/terms">Terms of Use</a>.</p>
+<h3>What does this Privacy Policy cover?</h3>
+<p>This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website. For all orders and purchases made through Wanelo, please see our <a href="/about/terms">Terms of Service</a>, and in particular, the section "Purchases on Wanelo," for information about the data we collect and share when you make a purchase through Wanelo. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. This policy also does not apply to information you choose to disclose publicly on the Website (i.e., information which is viewable to other Website users), which will not be considered Personal Information. We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our <a href="/about/terms">Terms of Use</a>). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at hello@wanelo.com.</p>
+<h3>What personal information does Wanelo collect?</h3>
+<p>The information we gather from customers enables us to personalize and improve our services and to allow our users to set up a user account and profile that can be used to interact with other users through the Website. We collect the following types of information from our customers:</p>
+<h4>Personal information you provide to us</h4>
+<p>We receive and store any information you provide to us. The types of Personal Information collected may include your real name, username, email address, IP address, location, browser information, browsing history, transactions, listings created, comments and reviews posted, and any other information necessary for us to provide our services as well as credentials you provide us to link your Wanelo account with third-party services such as Facebook and Twitter. If you provide your third-party account credentials to us, you understand some content and/or information in those accounts ("Third Party Account Information") may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Website is covered by this Privacy Policy. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners.</p>
+<h4>Personal information collected automatically</h4>
+<ul>
+<li>Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, "cookie" information, and the page you requested.</li>
+<li>"Cookies" are identifiers we transfer to your computer through your browser that allow us to recognize your browser or mobile device and tell us how and when pages in our site are visited and by how many people. We may also record the referring page that linked you to us; the page you visit after our site; the ads you see; the ads you click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site; and other usage activity and data logged by our servers. You may be able to change the preferences on your browser to prevent or limit your computer's acceptance of cookies, but this may prevent you from taking advantage of Wanelo's best features. Our advertising partners may also transmit cookies to your computer, when you click on ads that appear on our site. This Privacy Policy does not cover the use of cookies by any advertisers.</li>
+<li>When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Website, so that we can make the Website appealing to as many users as possible. We may also provide this aggregate information to our partners, so that they can understand how often people use their services and our Website, so that they, too, can provide you with an optimal online experience. We never disclose aggregate information to a partner in a manner that would identify you personally.</li>
+</ul>
+<h4>Email and other communications</h4>
+<p>When you register for the first time on Wanelo, you will be automatically opted in to receive email notices, which may include notification if someone sends you a message or invites you to join a Wanelo list or group, new friend or follower requests, Wanelo newsletters and announcements, notification of new activity on your lists, and notices about public Wanelo activity by your friends or followers. We may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference on your <a href="/settings">Settings</a> page, and by emailing us at "hello@wanelo.com". If you elect to become a friend or follower of a Brand Profile Page (a page in the Wanelo community that displays brands, products or goods of a merchant), the administrator of the page (a "Brand Admin") may send you messages containing commercial and promotional messages. You may opt out of receiving those messages by following instructions that will appear on the in-system message. If you send an email using the service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses, nor do we send them marketing messages. Other users may send emails and messages to you via the Wanelo service. Wanelo does not review these messages before they are sent to you.</p>
+<h3>Will Wanelo share any of the personal information it receives?</h3>
+<p>We neither rent nor sell your Personal Information to anyone. We share your Personal Information in personally identifiable form only as described below.</p>
+<h4>Advertisers</h4>
+<p>We may allow advertisers and/or merchant partners ("Advertisers") to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are. We may deliver a file to you through the Website (known as a "web beacon") from an ad network. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.</p>
+<h4>Affiliated businesses and third-party websites we do not control</h4>
+<p>In certain situations, businesses or third-party websites we're affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. One such service may include the ability for you to choose to automatically transmit Third Party Account Information to your Website profile or to automatically transmit information in your Website profile to your third-party account. We have no control over the policies and practices of third-party websites as to privacy or anything else, so if you choose to allow these automatic transmissions, please review all third-party websites' policies.</p>
+<h4>Agents</h4>
+<p>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.</p>
+<h4>User profiles</h4>
+<p>User profile information, including without limitation your name, email address, and other information ("User Submissions") may be displayed to other users if you chosen to enter such information on your user profile. Again, any content (including without limitation images, captions, and comments) you voluntarily disclose for other users to view on the Website is not Personal Information; it becomes publicly available and can be collected and used by others, and may be redistributed through the internet and other media channels. Additionally, if you sign into the Website through a third party social networking site or service, your list of "friends" from that site or service may be automatically imported to the Website, and such "friends," if they are also registered users of the Website, may be able to access certain non-public information you have entered in your Website user profile. Again, we do not control the policies and practices of any other third party site or service.</p>
+<h4>Communication about the website</h4>
+<p>As part of the Website and Services, you may receive communications from us, whether by email or other means. We and our agents may send you email, contact you, or engage you in other communication that we or they determine relate to your use of the Website.</p>
+<h4>Promotional offers</h4>
+<p>We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send us an email at hello@wanelo.com.</p>
+<h4>Business transfers</h4>
+<p>We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business or enter bankruptcy, Personal Information would be one of the assets transferred to or acquired by a third party.</p>
+<h4>Protection of Wanelo and others</h4>
+<p>We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Wanelo, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<h4>With your consent</h4>
+<p>Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+<h3>Is personal information about me secure?</h3>
+<p>Your account is protected by a password for your privacy and security. If you access your account via a third-party site or service, you may have additional or different sign-in protections via that third-party site or service. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-in mechanism appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. In the event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, we may do so by email. The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read that site's privacy policy.</p>
+<h3>What personal information can I access?</h3>
+<p>Through your user profile, you may access and, in some cases, edit or delete the following information you've provided to us. This list may change as the Website changes:</p>
+<ul>
+<li>Real name;</li>
+<li>Location;</li>
+<li>Interests and other shopping-related preferences;</li>
+<li>Username, password and email address;</li>
+<li>User social network credentials (e.g., Facebook, Twitter); and</li>
+<li>Other account and user profile information.</li>
+</ul>
+<p>The information you can view, update, and delete through your user profile may change as the Website changes. If you have any questions about viewing or updating information we have on file about you, please contact us at hello@wanelo.com.</p>
+<h3>What choices do I have?</h3>
+<ul>
+<li>You can always opt not to disclose information, but keep in mind that some information may be needed to register with us or to take advantage of some of our special features.</li>
+<li>You may be able to add, update, or delete certain information as explained in Section V above. When you do so, however, we may maintain a copy of the unrevised information in our records. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.</li>
+<li>You may close your account via the 'Close Account' link on <a href="/settings">Settings</a>. Please note that some information may remain in our private records after the closing of your account.</li>
+<li>If you do not wish to receive email or other mail from us, please email us at hello@wanelo.com. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.</li>
+</ul>
+<h3>Changes to this Privacy Policy</h3>
+<p>We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted.</p>
+<h3>Questions or concerns</h3>
+<p>If you have any questions or concerns regarding our privacy policies, please feel free to contact us anytime at hello@wanelo.com. We will make every effort to resolve your concerns.</p>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+<div id="footer-spacer"></div>
+</div>
+<div class="footer-container">
+<div class="container">
+<div class="footer-facebook-like">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/facepile.php?app_id=121082817904614" style="border:none; overflow:hidden; width:400px; height:60px;"></iframe>
+</div>
+<div class="footer-wanelo-icon pull-left">
+<a href="/about" title="About Wanelo"><img alt="About Wanelo" src="https://assets-fs.wnlimg.com/assets/wanelo-icon-de1f244d7ffe11dd540df92079d95be3.jpeg"></a>
+</div>
+<div class="footer-about pull-left">
+<div class="footer-title">ABOUT WANELO</div>
+<ul class="left">
+<li><a href="/about">About</a></li>
+<li><a href="/about/press">Press</a></li>
+<li><a href="https://wanelo.app.link?current_url=https%3A%2F%2Fwanelo.co%2Fabout%2Fprivacy&amp;initial_referrer=https%3A%2F%2Fwanelo.com%2Fabout%2Fsellonwanelo&amp;landing_page=https%3A%2F%2Fwanelo.co%2Fabout%2Fsellonwanelo&amp;initial_referrering_domain=wanelo.com&amp;referrer=https%3A%2F%2Fwanelo.com%2Fabout%2Fprivacy&amp;signed_in=false&amp;%24desktop_url=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fwanelo-shopping%2Fid550842012&amp;%24deeplink_path=%2F&amp;page_type_end_point=about%23privacy&amp;channel=desktop_web&amp;feature=footer&amp;campaign=web-to-app&amp;element=apple_app_store_link&amp;element_version=1.1&amp;feature_version=1.1" rel="nofollow">iOS</a></li>
+</ul>
+<ul class="right">
+<li><a href="http://help.wanelo.com">Help</a></li>
+<li><a href="/about/privacy">Privacy</a></li>
+<li><a href="https://wanelo.app.link?current_url=https%3A%2F%2Fwanelo.co%2Fabout%2Fprivacy&amp;initial_referrer=https%3A%2F%2Fwanelo.com%2Fabout%2Fsellonwanelo&amp;landing_page=https%3A%2F%2Fwanelo.co%2Fabout%2Fsellonwanelo&amp;initial_referrering_domain=wanelo.com&amp;referrer=https%3A%2F%2Fwanelo.com%2Fabout%2Fprivacy&amp;signed_in=false&amp;%24desktop_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.wanelo.android&amp;%24deeplink_path=%2F&amp;page_type_end_point=about%23privacy&amp;channel=desktop_web&amp;feature=footer&amp;campaign=web-to-app&amp;element=google_play_store_link&amp;element_version=1.1&amp;feature_version=1.1" rel="nofollow">Android</a></li>
+</ul>
+</div>
+<div class="footer-browse pull-left">
+<div class="footer-title">BROWSE</div>
+<ul>
+<li><a href="/stores">Top Stores</a></li>
+<li><a href="/top/people">Top People</a></li>
+<li><a href="/about/featured">Wanelo IRL</a></li>
+<li><a href="/stores/popular">Store Directory</a></li>
+<li><a href="/sitemaps">Sitemap</a></li>
+</ul>
+</div>
+<div class="footer-sell pull-left">
+<div class="footer-title">SELL</div>
+<ul>
+<li><a href="/about/sellonwanelo">Sell Now</a></li>
+<li><a href="/about/shopify">Shopify App</a></li>
+<li><a href="/about/buttons">Save Button</a></li>
+<li><a href="/about/downloads">Downloads</a></li>
+</ul>
+</div>
+</div>
+<div id="yozio"></div>
+</div>
+<div class="sticky-sign-up-container wnl-hidden">
+<div class="logo-container">
+<a href="/"><img alt="Wanelo" src="https://assets-fs.wnlimg.com/assets/wanelo-mobile-logo-33eb6dd014b342afc47dcba7c3207a56.png" title="Wanelo">
+</a></div>
+<div class="cta-container">
+<div class="message">
+Find amazing products.
+</div>
+<div class="action">
+<span class="button wb-primary aggro large js-join">
+Join Now
+</span>
+</div>
+</div>
+</div>
+
+<div class="sticky-sign-up-container-see-more wnl-hidden">
+<div class="cta-container">
+<div class="message">
+There's more to see...
+</div>
+<div class="submessage">
+Sign up to see more juicy products
+</div>
+<div class="action">
+<span class="button wb-primary aggro large" data-toggle="modal" href="#signup-modal">
+Continue
+</span>
+</div>
+</div>
+</div>
+
+
+<script src="https://assets-fs.wnlimg.com/assets/application-acf6330f94bde5272add64451ac2afff.js" type="text/javascript"></script>
+
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+INIT.on('initializeBackboneViews', function(){  });
+//]]>
+</script>
+
+
+</body></html>
