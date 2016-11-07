@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418220954id_/https%3A//www.poets.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107041922id_/https%3A//www.poets.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Academy of American Poets
 
