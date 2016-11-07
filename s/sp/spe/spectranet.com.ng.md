@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spectranet.com.ng privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711153054id_/http%3A//www.spectranet.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectranet.com.ng privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107062441id_/https%3A//spectranet.com.ng/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy policy | Spectranet Limited
-
-##  Privacy policy 
+# Spectranet
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, Spectranet limited (SPECTRANET) may become privy to the personal information of its customers, including information that is of a confidential nature. We at SPECTRANET respect and give high priority to the privacy of all customers and are committed to maintaining the privacy and security of the personal information which is provided by its customers. SPECTRANET has taken all necessary and reasonable measures to protect the confidentiality of the customer information and its transmission through the web. While no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your information.
 
@@ -30,11 +28,17 @@ Please read the following to learn more about our privacy policy.
       SPECTRANET may disclose personally identifiable information about you to third parties when
 
   * it has your consent to share the information.
+
   * it needs to share your information to provide the product or service you have requested and given your consent.
+
   * It has to cooperate with the investigations of purported unlawful activities or in connection with security related or law enforcement investigations or in the course of cooperating with authorities or complying with legal requirements.
+
   * it believes in good faith that such action is necessary to protect and defend the rights and related property of SPECTRANET and that of its customers.
+
   * it uses reasonable precautions to keep the information disclosed to it secure.
+
   * it finds necessary to act to protect the interests of SPECTRANET, its affiliates, or its members, constituents or of other persons.
+
 
 
 
@@ -43,7 +47,9 @@ Please read the following to learn more about our privacy policy.
 **Non personal information**
 
   1. At this website, information sent by your web browser, may be automatically collected. This information typically includes your domain name (the site after the @ in your e-mail address). It may also contain your user name (the name before the @ in your e-mail address). Other examples of information collected by our server include the Internet protocol (IP) address used to connect the visitor’s computer to the Internet, operating system and platform, the average time spent on our website, pages viewed, information searched for, access times, websites visited before and a visitor visits our website, and other relevant statistics. The amount of information sent depends on the settings you have on your web browser; please refer to your browser if you want to learn what information it sends.  **Some of this information is also required in terms of the statutory obligations of the Company.**
+
   2. All such information will be used only to assist us in providing an effective service on this website. We may from time to time supply the owners or operators of third party websites from which it is possible to link to our website with information relating to the number of users linking to our website from such third party website. You cannot be identified from this information.
+
 
 
 
