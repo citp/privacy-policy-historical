@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audiusa.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512031602id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiusa.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107071327id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Audi USA
+# Privacy Policy | Audi USA
 
 It is our sincere hope at Audi of America ("Audi") that what is now a purely digital relationship will evolve into a more personal one. Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our information practices across all of Audi's websites and digital properties, including mobile versions of our site and mobile applications (each an "Audi Property" and collectively, the "Audi Properties"). Your use of any Audi Property constitutes your agreement to the terms of this Privacy Policy.
 
