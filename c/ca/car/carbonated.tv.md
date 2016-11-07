@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629145730id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107215440id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
 
 # Carbonated TVs Privacy Policy
 
@@ -14,11 +14,11 @@ Personal information is information that identifies users and that may be used t
 
   * Registration for websites, jobs, online services, contests and special events;
   * Subscribing to newsletters or alerts;
-  * Posting in or commenting on our message boards, forums, news blogs, chat rooms or other online services;
+  * Posting in or commenting on our message boards, forums, news blogs, chat rooms or other online services; 
   * Requesting technical support;
   * Downloading demos, programs, or other software;
   * Participating in polls, surveys, and questionnaires; or
-  * Otherwise through use of our software, mobile products, online products or online services where personal information is required for use and/or participation
+  * Otherwise through use of our software, mobile products, online products or online services where personal information is required for use and/or participation 
 
 
 
@@ -54,7 +54,7 @@ Carbonated.TV may use cookies or similar technologies to improve and personalize
 
 #### Age Restriction
 
-Carbonated.TV does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. We prohibit the use of our Site to users under the age of 13. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Carbonated.TV will take the appropriate steps to delete this information. We encourage parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet.
+Carbonated.TV does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13\. We prohibit the use of our Site to users under the age of 13. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Carbonated.TV will take the appropriate steps to delete this information. We encourage parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet.
 
 **Contact Information:** In addition to using your contact information to create your account, we may use this information to send you information about our Services, respond to your requests and facilitate your use of the Services. We may use the contact information (such as your phone number or email address) to help connect you with other Carbonated.TV users, even if that information is not publicly displayed. Some contact information may be required in order to use certain Services. For example, you must have a verified phone number attached to your account in order to send a Carbonated.TV Message to someone who does not follow you.
 
@@ -84,7 +84,7 @@ Third Parties' Practices. It should be noted that this aforementioned Privacy Po
 
 **Non-Private or Non-Personal Information:** We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public posts, the people you follow or that follow you, or the number of users who clicked on a particular link (even if only one did).
 
-#### Modifying Your Personal Information
+**Modifying Your Personal Information**
 
 If you are a registered user of our Services, we provide you with tools and account settings to access or modify the profile information you provided to us and associated with your account.
 
@@ -92,7 +92,7 @@ You can also permanently delete your Carbonated.TV account by contacting us.
 
 #### Foreign Users
 
-Carbonated.TV does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. We prohibit the use of our Site to users under the age of 13. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Carbonated.TV will take the appropriate steps to delete this information. We encourage parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet.
+Carbonated.TV does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13\. We prohibit the use of our Site to users under the age of 13. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Carbonated.TV will take the appropriate steps to delete this information. We encourage parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet.
 
 #### Other Terms
 
@@ -105,5 +105,3 @@ Carbonated.TV's Privacy Policy is to share personal information only with the ow
 #### Changes to this Policy
 
 We may revise this Privacy Policy from time to time. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
-
-#### Last updated: January 12, 2015
