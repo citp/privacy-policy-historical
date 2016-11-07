@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thedma.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529133925id_/http%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedma.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107123322id_/https%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thedma.org
+
+[Home](https://thedma.org/) » Privacy Policy
 
 **DMA’s Online Privacy Policy for Members and Business Visitors**  
 Effective May 9, 2012
