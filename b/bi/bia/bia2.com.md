@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404201024id_/https%3A//www.bia2.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bia2.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107065303id_/https%3A//www.bia2.com/about/privacy.php) for the most accurate reproduction.*
 
 # Bia2.com
 
