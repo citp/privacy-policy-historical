@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainwipe.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508210526id_/http%3A//brainwipe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainwipe.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108170735id_/http%3A//brainwipe.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Brain Wipe
 
@@ -55,7 +55,3 @@ Please remember that Brain Wipe does not have access to, or control over, the in
 These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
 
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
-
-## Recent Posts
-
-[ ](http://brainwipe.com/how-to-make-an-amazing-salad-2/ "How To Make An Amazing Salad")
