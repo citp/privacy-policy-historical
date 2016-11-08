@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the sciencenewsarticles.org privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924041820id_/http%3A//sciencenewsarticles.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenewsarticles.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108021613id_/http%3A//sciencenewsarticles.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science News Articles
 
-**Your Privacy**
+### Your Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Google Adsense and the DoubleClick DART Cookie**
+### Google Adsense and the DoubleClick DART Cookie
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. 
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies. 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, **Science News Articles** has no access or control over these cookies that may be used by third party advertisers. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, **Science News Articles** has no access or control over these cookies that may be used by third party advertisers.
 
-**Collection of Personal Information**
+### Amazon and Other Merchants
 
-When visiting **Science News Articles** , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
+ **Science News Articles** is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com.
 
-**Links to third party Websites**
+ **Science News Articles** is also a partner in the Avantlink, Commission Junction, and Pepperjam affiliate networks.
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+### Collection of Personal Information
 
-**Changes to this Privacy Statement**
+When visiting **Science News Articles** the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-The contents of this statement may be altered at any time, at our discretion. 
+### Links to Third Party Websites
 
-**Contact Information**
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-If you have any questions regarding the privacy policy of **Science News Articles** then you may contact us at wwday3[at]gmail.com 
+### Changes to this Privacy Statement
+
+The contents of this statement may be altered at any time, at our discretion.
+
+### Contact Information
+
+If you have any questions regarding the privacy policy of **Science News Articles** then you can email us at wwday3[at]gmail.com. You can also use the Contact link at the top of the website.
