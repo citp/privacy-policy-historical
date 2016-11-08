@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytul.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518042738id_/http%3A//www.ytul.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytul.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108181906id_/http%3A//ytul.com/page/2.html) for the most accurate reproduction.*
 
 # Free Games - Addicting Games - Play Free Online Flash Games - Privacy Policy
 
