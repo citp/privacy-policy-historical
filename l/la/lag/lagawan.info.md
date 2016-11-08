@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lagawan.info privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502125609id_/http%3A//www.lagawan.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagawan.info privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108135429id_/http%3A//www.lagawan.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lagawan
 
