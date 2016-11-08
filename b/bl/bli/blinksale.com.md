@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408042254id_/https%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinksale.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108185203id_/https%3A//www.blinksale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blinksale | Online Invoicing Software & Application
 
