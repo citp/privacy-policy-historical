@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the applicantpro.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605000742id_/https%3A//www.applicantpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicantpro.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108183238id_/https%3A//www.applicantpro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ApplicantPro
 
 #### Privacy & Security Standards
 
-ApplicantPro is committed to privacy of personal information gathered during the application Process and stored by the ApplicantPro Applicant Tracking System. It is our policy to respect applicants’ privacy and the privacy of corporate records concerning personal information. If you have any questions regarding our privacy or security standards, please direct your questions to [privacy@applicantpro.com](mailto:privacy@applicantpro.com).  
+ApplicantPro is committed to privacy of personal information gathered during the application process and stored by the ApplicantPro Applicant Tracking System. It is our policy to respect applicants’ privacy and the privacy of corporate records concerning personal information. If you have any questions regarding our privacy or security standards, please direct your questions to [privacy@applicantpro.com](mailto:privacy@applicantpro.com).  
  
 
 #### Collecting Information
 
-Personally identifiable information is collected in a number of sections throughout the ApplicantPro application Process. Applicants have the choice to enter information by completing an online application via our Applicant Tracking System used by our clients. Applicants are not required to give any personal information during the job searching stage of the application process. All information requested, directly relates to the job application process. Applicant data is then stored to allow company managers to use during their hiring process and to allow for future position consideration and placement.  
+Personally identifiable information is collected in a number of sections throughout the ApplicantPro application process. Applicants have the choice to enter information by completing an online application via our Applicant Tracking System used by our clients. Applicants are not required to give any personal information during the job searching stage of the application process. All information requested, directly relates to the job application process. Applicant data is then stored to allow company managers to use during their hiring process and to allow for future position consideration and placement.  
  
 
 #### Protecting Personal Information
@@ -23,9 +23,9 @@ All applicant information is restricted by administrative login to the Applicant
 
 ApplicantPro partners with C7 to store our data. Here are some of the features that are most important to keeping your data safe and secure: 
 
-Your company and your applicants’ information entered into ApplicantPro is maintained and monitored 24 hours a day. Onsite staff provides additional protection against unauthorized entry as well as security camera monitoring at all data center locations with video surveillance. Data center access is limited to only authorized personnel using card readers and biometric scanning for controlled data center access.
+Your company and your applicants’ information entered into ApplicantPro is maintained and monitored 24 hours a day. Onsite staff provide additional protection against unauthorized entry as well as security camera monitoring at all data center locations with video surveillance. Data center access is limited to only authorized personnel using card readers and biometric scanning for controlled data center access.
 
-Environmental Controls are in place to help mitigate the risk of service interruption caused by fires, floods, and other forms of natural disasters such as: N+1 redundant data center colocation in disaster safe, low power cost geography. C7 undergoes rigorous audits and control procedures to ensure reliability and security of service delivery. Take comfort in that C7 has strict security policies and technology to ensure your data infrastructure is safe and secure. Some of the industry audits, controls and security measures are listed below:
+Environmental controls are in place to help mitigate the risk of service interruption caused by fires, floods, and other forms of natural disasters such as: N+1 redundant data center colocation in disaster safe, low power cost geography. C7 undergoes rigorous audits and control procedures to ensure reliability and security of service delivery. Take comfort in that C7 has strict security policies and technology to ensure your data infrastructure is safe and secure. Some of the industry audits, controls and security measures are listed below:
 
   * SSAE16
   * PCI
