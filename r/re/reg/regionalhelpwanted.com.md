@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507083952id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109004322id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | RegionalHelpWanted.com
 
@@ -18,15 +18,14 @@ You can use our Sites without revealing any information about yourself. In this 
 
 This information is used to evaluate different aspects of the RHW Websites, including monitoring Site performance for systems administration purposes, improving the functionality of the Sites, and reporting aggregate information to our clients and prospective customers (e.g. how much traffic we get to the Site). Statistics about traffic patterns and Site usage are reported on an aggregate basis only and do not include any personal information that identifies individuals.
 
-When you register on RHW, we require the following information from you: name, contact information, email address, and other career related data which varies by site. You may also be asked to provide a copy of your resume for our database.
+When you create a Job Seeker account on RHW, we may collect information from you including your name and email address. Career related data may also be collected. You may be encouraged to upload a resume.
 
-We use this information to:
+If collected, we use this information to:
 
-  1. provide job seeker data to employers when the job seeker applies to one of their job postings
-  2. provide resumes database access to searchable resumes for employers/customers with database access; job seekers have the ability to control the confidentiality of their resume within the searchable database
-  3. provide advertisers with aggregate information about our job seeker database
-  4. provide services to job seekers based on their demographics and preference (job alerts, newsletters, etc.)
-  5. provide Website developers with information that will enable them to develop appropriate content, features and services
+  1. provide job seeker data to employers when the job seeker applies to one of their job postings.
+  2. provide employers access to resumes. Job Seekers can choose to keep their resume(s) confidential.
+  3. provide advertisers with aggregate information about our job seeker database.
+  4. provide Job Seekers messages containing relevant Job Postings.
 
 
 
@@ -38,7 +37,7 @@ Your job application history may be retained on some sites. You are able to see 
 
 Some job postings on the RHW Websites link directly to the employer's Website and require you to enter your information into their system in order to apply. In such cases, you will be providing your resume directly to the employer and your resume will be subject to their privacy policy. RHW is not responsible for the privacy practices of such employer.
 
-We may also use your contact information to send you emails about updates to the RHW Website or new features or services offered by RHW or our business partners or to contact you about your opinion of current products and services or potential future products and services. You have the option to decline to receive such information from RHW online.
+We may use email addresses to send Employers messages about updates to the Website, new features or services and current offers. We may use email addresses to send job postings or links to job postings that are relevant to a Job Seeker. Users may decline receiving such messages from RHW online.
 
 We reserve the right to send you certain communications relating to RHW, such as service announcements, administrative messages, information about specific job opportunities and your interests (such as relevant job alerts, services, educational or career development opportunities), and the RHW newsletters that are considered part of your RHW account. Should you choose to submit feedback to RHW, such feedback becomes our property and we can use such feedback (such as job seeker testimonials) for marketing purposes or to contact you for further information.
 
