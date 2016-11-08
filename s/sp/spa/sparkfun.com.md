@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425062359id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108060053id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkFun Electronics
 
@@ -13,15 +13,15 @@ SparkFun assumes the following responsibilities:
 
 ## What We Know About You
 
-If you register an account with SparkFun, we’ll have access to your e-mail address and any additional contact information you choose to provide us. If you place an order, we retain a record of the contents of the order, delivery and billing address information, and any communication you might have with our Customer Service or Tech Support teams about the order. If you use features such as commenting, in-stock notifications, and comment reply notifications, we retain record of this fact.
+If you register an account with SparkFun, we’ll have access to your e-mail address and any additional contact information you choose to provide us. If you place an order, we retain a record of the contents of the order, delivery and billing address information, and any communication you might have with our customer support team about the order. If you use features such as commenting, in-stock notifications, and comment reply notifications, we retain record of this fact.
 
-If you browse sparkfun.com, with or without a login, we know for a limited time that a user at your IP address has visited pages on the site. (See the “Logging and Log Retention” section below.)
+If you browse sparkfun.com, with or without a login, we know for a limited time that a user at your IP address has visited pages on the site.
 
 We collect data on what products and content you browse in order to offer better value to you through personalized email, and to see which products/content are the most useful to you.
 
 ## When and How We Send Email
 
-We send mail to users when orders are placed, shipped, or ready for local pickup. We may also be in contact when an order requires payment before shipping, or if other issues prevent us from fulfilling an order.
+We send email to users when orders are placed, paused, shipped, or ready for local pickup. We may be in contact when an order requires payment before shipping or if other issues prevent us from fulfilling an order. We will send you email to verify your email address or if you request a password reset. We may send you email to request reviews of our products or feedback on your experience with our website, products, or customer support.
 
 We will notify users if we believe their privacy has been compromised, if it is within our power to do so. For example, if we discover a customer’s account user login information has been exposed elsewhere on the web, or if we are compelled to disclose information to law enforcement.
 
@@ -41,11 +41,11 @@ In order to prevent fraud and detect malicious behavior, we log IP addresses for
 
 Except in the case of malicious traffic, we will not share log data with any third party, unless compelled by legal process to do so.
 
-## Cookies and HTTPS
+## Cookies, Tags, Tracking Pixels, and HTTPS
 
-We use [cookies](https://en.wikipedia.org/wiki/HTTP_cookie) to know when users are logged in to SparkFun services, and to track preferences such as display currencies and the rendering of product menus.
+We use [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), tags, and tracking pixels to know when users are logged in to SparkFun services and to track preferences such as display currencies and the rendering of product menus.
 
-Our analytics software, [Piwik](http://piwik.org/), also sets a cookie that helps keep track of how many unique visitors we’re getting and where they come from, unless you’re browsing with Do Not Track enabled.
+Our analytics software, [DoubleClick](https://www.doubleclickbygoogle.com/solutions/digital-marketing/) and [CrazyEgg](https://www.crazyegg.com/), use tags/tracking pixels to help keep track of how many unique visitors we’re getting, where they come from, and how they navigate our site, unless you’re browsing with Do Not Track enabled. We use this information to inform site improvements.
 
 We do our best to serve all content securely over HTTPS.
 
@@ -55,15 +55,15 @@ We do our best to serve all content securely over HTTPS.
 
 [Do Not Track](http://donottrack.us/) is a standard for telling sites that you don’t want to be tracked. It’s aimed at sites you don’t visit directly, like advertisers and social media platforms.
 
-SparkFun supports the Do Not Track standard. While third party plugins with access to visitor browsing data are extremely limited on sparkfun.com all are disabled for visitors passing a Do Not Track HTTP header. This includes third party tools for analytics, live chat, and web optimization (described below).
+SparkFun supports the Do Not Track standard. While third party plugins with access to visitor browsing data are limited on sparkfun.com, all are disabled for visitors passing a Do Not Track HTTP header. This includes third party tools for analytics, live chat, and web optimization (described below).
 
 ### Email
 
 We use GMail, and mail sent to or from sparkfun.com addresses generally passes through Google’s servers.
 
-Promotional and informative mail sent to mailing lists, such as the newsletter, is sent using [MailChimp](http://mailchimp.com/) (see “Third Party Services” below). Users can opt into and out of these lists using tools on sparkfun.com or MailChimp. Automated mail sent from a triggering event, like a back-in-stock notification, is sent from sparkfun.com directly. All users with accounts can manage all subscriptions via the [Email tab in Account Settings](https://www.sparkfun.com/emails).
+Promotional and informative mail sent to mailing lists, such as the newsletter, is sent using [HubSpot](http://www.hubspot.com/). Automated mail sent from a triggering event, like a back-in-stock notification, is sent from sparkfun.com directly. All users with accounts can manage all subscriptions via the [Email tab in Account Settings](https://www.sparkfun.com/emails). All users can opt out of these lists by clicking Unsubcribe in the emails.
 
-[See MailChimp’s privacy policy here.](http://mailchimp.com/legal/privacy/)
+[See HubSpot’s privacy policy here.](http://legal.hubspot.com/privacy-policy)
 
 ### Shipping Providers and Export Control
 
@@ -75,21 +75,17 @@ We comply with United States export regulations and authorities. We use [Visual 
 
 Credit Card payments are processed through FirstData. All credit card data including the cardholder name, credit card number, expiration date, CVV, and full billing address are sent to FirstData via an API for processing. Details regarding what products a customer is purchasing and other demographic information are not sent to FirstData.
 
-Each transaction is logged by retaining the transaction amount, the cardholder name, the last four digits of the credit card, and the card expiration date. No other credit card data is stored at any point on SparkFun servers. This is in full compliance with the PCI-DSS, which you can read more about in our [Compliance Policy](https://web.archive.org/web/20160425062359id_/https%3A//www.sparkfun.com/compliance).
+Each transaction is logged by retaining the transaction amount, the cardholder name, the last four digits of the credit card, and the card expiration date. No other credit card data is stored at any point on SparkFun servers. This is in full compliance with the PCI-DSS, which you can read more about in our [Compliance Policy](https://www.sparkfun.com/compliance).
 
 PayPal is offered as a payment method. When using PayPal on sparkfun.com a user must provide their PayPal email address. The user will then be directed to paypal.com to complete their payment, after which they will be redirected to sparkfun.com to complete the order.
 
 ### Analytics
 
-SparkFun uses Google Universal Analytics and Piwik to track aggregate behavior of visitors on sparkfun.com.
+SparkFun uses [Google Analytics](http://analytics.google.com/), [HubSpot](http://www.hubspot.com/), [DoubleClick](https://www.doubleclickbygoogle.com/solutions/digital-marketing/), and [CrazyEgg](https://www.crazyegg.com/) to track aggregate behavior of visitors on sparkfun.com.
 
-Google Universal Analytics is a service hosted on Google’s servers. It is activated by a JavaScript snippet that loads on every page to send visitor behavioral information to Google. SparkFun uses this information to understand how visitors use our site. Sometimes SparkFun will run A/B tests, where Google Analytics will track cookies set on users to divide them into groups that get slightly different pages to see which perform better. Visitors who have Do Not Track enabled will not have any information sent to Google’s servers for use in analytics.
+Google Universal Analytics is a service hosted on Google’s servers, and is our primary analytics tool. It is activated by a JavaScript snippet that loads on every page to send visitor behavioral information to Google. SparkFun uses this information to understand how visitors use our site. Sometimes SparkFun will run A/B tests, where Google Analytics will track cookies set on users to divide them into groups that get slightly different pages to see which perform better. Visitors who have Do Not Track enabled will not have any information sent to Google’s servers for use in analytics.
 
 SparkFun also utilizes Google Analytics Demographics and Interest Reporting. This means we combine personally identifiable information about your SparkFun account, browsing, and shopping habits and merge it with Google’s tracking cookies, all of which goes to Google. This is enabled by default for all visitors to SparkFun.com. You can opt out of this by enabling Do Not Track headers in your browser or installing and enabling the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
-
-### Web Optimization
-
-SparkFun uses [Optimizely](https://www.optimizely.com/) for website optimization with A/B testing. A JavaScript snippet is loaded for visitors (without Do Not Track enabled) that will set a cookie placing each visitor in groups depending on where we have split test experiments set up around the site. Visitors will then see slightly different versions of pages based on how the experiments are designed. Optimizely tracks visitor behavior on those pages to report metrics for different groups, such as time spent on pages, bounce rate, and conversions.
 
 ### Content Hosting
 
@@ -109,14 +105,12 @@ We maintain accounts on various social media platforms, including [Facebook](htt
 
 We do not make use of third-party social media badges or widgets which function as trackers.
 
-We use [ViralHeat](https://www.viralheat.com/) to manage and try to make some sense of the whole social media universe.
-
 ### Ticketing/CRM
 
-We use [Desk.com](http://www.desk.com/) and [Salesforce](http://www.salesforce.com/) to manage and prioritize customer contacts, including those by email, phone, chat, and social media.
+We use [Desk.com](http://www.desk.com/), [Salesforce](http://www.salesforce.com/), and [HubSpot](http://www.hubspot.com/) to manage and prioritize customer contacts, including those by email, phone, chat, and social media.
 
 ## Questions?
 
-If you have any questions or feedback regarding this privacy policy, including if you feel SparkFun or someone within the SparkFun community has violated it, or if you are concerned about SparkFun’s general philosophy toward user privacy, please contact our IT department at [it@sparkfun.com](mailto:it@sparkfun.com) or post a public comment below.
+If you have any questions or feedback regarding this privacy policy, including if you feel SparkFun or someone within the SparkFun community has violated it, or if you are concerned about SparkFun’s general philosophy toward user privacy, please contact us at [privacy@sparkfun.com](mailto:privacy@sparkfun.com) or post a public comment below.
 
 * * *
