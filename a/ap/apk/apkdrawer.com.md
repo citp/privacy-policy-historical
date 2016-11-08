@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkdrawer.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514081631id_/http%3A//www.apkdrawer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkdrawer.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108123827id_/http%3A//www.apkdrawer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ApkDrawer
 
