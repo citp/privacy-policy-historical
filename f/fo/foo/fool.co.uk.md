@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401153952id_/http%3A//www.fool.co.uk/help/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108192533id_/http%3A//www.fool.co.uk/help/privacy-and-cookie-statement) for the most accurate reproduction.*
 
-# Privacy And Cookie Statement | The Motley Fool UK
+# Privacy & Cookie Statement | The Motley Fool UK
 
 The Motley Fool Limited is committed to protecting and respecting your privacy. This Privacy and Cookie Statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us at [UKPrivacy@fool.co.uk](mailto:UKPrivacy@fool.co.uk).
 
@@ -80,24 +80,28 @@ Cookie Name | Purpose | Category
 ---|---|---  
 Sookie | This cookie lets us remember certain settings in between page loads, and is removed when you close your browser. | Performance  
 Tookie | This cookie is used to test different portions of our website, so we can make your experience better. | Performance  
-WookieUK | This cookie is used to record where you came to a specific page from, so we figure out what transitions should be easier. | Performance  
-v1st | Used to identify how you interact with different portions of our site. | Performance  
 Flookie | This cookie remembers what level of access you have to our Foolish Wiki. | Performance  
-FoolUK | This cookie remembers your username and account, so we can log you in and allow you to access the services you have signed up for. | Strictly Necessary  
-Lookie | With the FoolUK cookie, the Lookie makes sure that premium products are available only to paying members. | Strictly Necessary  
+Lookie | The Lookie makes sure that premium products are available only to paying members. | Strictly Necessary  
 Oookie | If you run into problems with Registration, the Oookie makes sure all of your data isn’t lost. | Functionality  
 PlookieUkmf | This cookie makes sure that the easy-access product dropdown shows relevant data. | Functionality  
-WonkaUK | The Wonka is an older version of the Lookie that performs a similar authentication function. It is being gradually retired. | Strictly Necessary  
 My | The My cookie remembers your My.Fool.com settings. | Functionality  
 NewsletterWelcome | When you first purchase a share tipping service, we show you a welcome message to help you get started with the new service. This cookie allows you to hide the welcome message so you don’t see have to see it every time you visit. | Functionality  
-RiskWarning | Similar to the NewsletterWelcome, this cookie lets you turn the Risk Warning at the top of the page off. |    
-expandAlerts | This cookie that remembers if you want us to show or hide a premium alert. | Functionality  
-EditorialCoachlet | Each service can choose to show additional updates or information above My Scorecard. This cookie determines whether that is hidden or shown. | Functionality  
 nlsc | This cookie remembers certain settings between pageviews, and is also removed when you close your browser. | Performance  
-CookieAccept | Once you’ve seen our cookie information, this makes sure we don’t keep showing you the alert. | Functionality  
-ASPSESSION | This cookie lets us remember certain settings between page loads, and is removed when you close your browser. | Functionality  
+AcceptCookiesCookie | Once you’ve seen our cookie information, this makes sure we don’t keep showing you the alert. | Functionality  
 Visitor | This cookie allows us to recognize you as a returning visitor on repeat visits to our site. Used to measure site traffic and usage patterns. | Performance  
 Visit | This cookie allows us to track activity that occurs during a visit to our site and expires after 30 minutes of inactivity. Used to measure site traffic and usage patterns. | Performance  
+_ga |  This cookie is  used to distinguish users on our site. |  Functionality  
+_gat |  This cookie is used to throttle request rate. |  Functionality  
+__gads |  Similar to _ga, this cookie is used to distinguish users. |  Functionality  
+ wordpress_logged_in_[hash] |  We set this cookie to remember if you are logged in or not. |  Strictly Necessary  
+ wordpress_sec_[hash] |  Similar to the logged_in cookie, we use this cookie to store secure authentication details. |  Strictly Necessary  
+ wordpress_test_cookie |  This is a test cookie, to test whether or not the browser has cookies enabled. |  Strictly Necessary  
+ wp-settings-{time}-[UID] |  This cookie allows us to customize the view interface for our users. |  Functionality  
+ utm_values |  This cookie allows us to track activity that occurs during a visit to our site. | Performance  
+ fivs |  This cookie is used to track activity that occurs during a session of visits, and measure site traffic and usage patterns. |  Performance  
+ fivp |  Similar to the Visitor cookie, this cookie is used to recognize repeat visits, and measure site traffic and usage patterns. |  Performance  
+ EditorialCoachletShown1503 |  Each service can choose to show additional updates or information above My Scorecard. This cookie determines whether that is hidden or shown. |  Functionality  
+_vwo_uuid_v2 |  This cookie is used to measure site traffic and usage patterns. |  Performance  
   
 ### The Cookies Set by our Partners and Other Data Processors
 
@@ -105,10 +109,11 @@ We have several partners who also set cookies on our pages. These partners inclu
 
 Partner | Purpose | Category  
 ---|---|---  
-Lovemoney.com | Lovemoney.com powers the recommendation and comparison pages on our site and these cookies are used to deliver a more personalised service. | Functionality  
 Google | We use Google reporting tools and these cookies are used to measure site traffic and usage patterns. | Performance  
 DoubleClick | DoubleClick serves the Fool “house” ads (adverts promoting our products and services). These cookies help provide more relevant advertising. | Advertising  
 Twitter | Twitter uses cookies to remember who you are, so Tweet buttons on articles work correctly. | Functionality  
+VWO | Similar to Google, we use VWO for reporting tools, so these cookies are used to measure site traffic and usage patterns. | Performance  
+Segment.io | Segment.io allows us to use many testing platforms at the same time. Segment will place its cookies, and cookies needed by various other services that we are using, at the same time. Examples of these cookies include Moustats_vi (set by Moustats) and ubvy (set by UnBounce). | Performance  
   
 In addition to the cookies set directly by our partners, there are also cookies set by third parties to help deliver and monitor their ads. Please note we neither control nor have access to those cookies, and these advertisers’ uses of cookies are subject to their own privacy policies and not that of The Motley Fool.
 
