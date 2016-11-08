@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323140037id_/https%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108142931id_/https%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
-# SurfStitch - Clothing | Footwear | Surf | Street - Shop Online!
+# SurfStitch | Online Shopping - Womens & Mens Surf Clothing & Fashion
 
 [](https://web.archive.org/)
 
