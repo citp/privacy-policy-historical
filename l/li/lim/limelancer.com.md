@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limelancer.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523141417id_/http%3A//limelancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelancer.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108161827id_/http%3A//limelancer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | limelancer
 
