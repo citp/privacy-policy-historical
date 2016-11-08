@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distinctivethemes.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314224315id_/https%3A//www.distinctivethemes.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distinctivethemes.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108124332id_/https%3A//www.distinctivethemes.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Distinctive Themes
 
