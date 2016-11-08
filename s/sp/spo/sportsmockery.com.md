@@ -1,67 +1,123 @@
-> *The following text is extracted and transformed from the sportsmockery.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913024809id_/http%3A//sportsmockery.com/privacy-policy-terms-of-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmockery.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108050030id_/http%3A//sportsmockery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Service
+# Privacy Policy
 
-Privacy Policy
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-Sports Mockery knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-This Privacy Policy covers Sports Mockery’s treatment of personal information that Sports Mockery gathers when you are on the Sports Mockery website and when you use Sports Mockery services. This policy does not apply to the practices of third parties that Sports Mockery does not own or control, or to individuals that Sports Mockery does not employ or manage.
+**When do we collect information?**
 
-Term of Service
+We collect information from you when you subscribe to a newsletter or enter information on our site.
 
-Sports Mockery is a publicly accessible web portal for users to post pictures, links and videos. Sports Mockery operates under the assumption that the content posted is the user’s own, not someone else’s. Source fields have been provided for all user’s to properly credit their sources if referencing a portion of someone else’s work. For any further questions or concerns please consult the Digital Millennium Copyright Act.
+**How do we use your information?**
 
-Information Collected by Sports Mockery
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Sports Mockery users:
+**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+**How do we protect visitor information?**
 
-2\. Automatic Information:
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-We receive and store certain types of information whenever you interact with us. Sports Mockery and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Sports Mockery cookie information, and the page you requested. Sports Mockery uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
-o Sports Mockery may collect and, on any page, display the total counts that page has been viewed.
+We use regular Malware Scanning.
 
-Many companies offer programs that help you to visit websites anonymously. While Sports Mockery will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-E-mail Communications  
-Sports Mockery is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Sports Mockery may send out e-mails with Sports Mockery-related news, products, offers, surveys or promotions.
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-Cookies
+For your convenience we may store your credit card information longer than 30 days in order to expedite future orders, and to automate the billing process.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Sports Mockery cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+**Do we use ‘cookies’?**
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Sports Mockery’s coolest features.
+We do use cookies for tracking purposes
 
-Sports Mockery’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-Sharing Your Information
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
 
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+However, you can still place orders .
 
-Sports Mockery Personnel: Sports Mockery personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Sports Mockery business.
+**Third-party disclosure**
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Sports Mockery, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-Protection of Sports Mockery and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Sports Mockery, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**Third-party links**
 
-Syndication: Sports Mockery allows for the RSS syndication of all of its public content within the Sports Mockery website.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+**Google**
 
-Children Under 18 Years of Age
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-You must be 13 years and older to register to use the Sports Mockery website. As a result, Sports Mockery does not specifically collect information about children. If we learn that Sports Mockery has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Sports Mockery or sending information about themselves or anyone else over the Internet.
+We use Google AdSense Advertising on our website.
 
-Changes to this Privacy Policy
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-Sports Mockery may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to thePrivacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Sports Mockery website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+**We have implemented the following:**
 
-Conditions of Use
+**•** Remarketing with Google AdSense
 
-If you decide to visit Sports Mockery website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-Effective Date of this Privacy Policy
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-This Privacy Policy is effective as of 12-3-13 and last updated 12-3-13.
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+**•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+**•** By logging in to their account
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we do not allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via in-site notification
+
+**•** Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  **and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
