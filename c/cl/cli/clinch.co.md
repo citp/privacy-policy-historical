@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinch.co privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215190618id_/http%3A//www.clinch.co/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinch.co privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108062624id_/http%3A//clinch.co/privacy.html) for the most accurate reproduction.*
 
 # Clinch - Privacy policy
 
