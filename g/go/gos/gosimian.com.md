@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401021442id_/http%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108033751id_/https%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
 
 # Simian - Privacy Policy
 
@@ -19,3 +19,5 @@ Simian does not knowingly collect information from children under the age of 13 
 Simian gives you the choice of receiving information that complements our products and services. You can subscribe to receive information and also choose to receive Simian general communications. 
 
 You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature. Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by selecting the email "opt out" or "unsubscribe" link. Or you may opt out by writing to Simian Be sure to provide your name, email and postal address.
+
+The Simian website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
