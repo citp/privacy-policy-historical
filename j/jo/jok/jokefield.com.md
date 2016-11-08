@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokefield.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502103758id_/http%3A//jokefield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokefield.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108070305id_/http%3A//jokefield.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JokeField
 
