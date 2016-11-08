@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwhm.org privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512025036id_/http%3A//nwhm.org/html/about/faq/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwhm.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108013806id_/http%3A//nwhm.org/html/about/faq/privacypolicy.html) for the most accurate reproduction.*
 
 # None
 
