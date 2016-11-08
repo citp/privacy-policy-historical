@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanilla-air.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321163836id_/http%3A//www.vanilla-air.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanilla-air.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108214041id_/https%3A//www.vanilla-air.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vanilla Air: Airline Tickets, Flights and Airfare
 
