@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328001001id_/https%3A//www.silkn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkn.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108012702id_/https%3A//www.silkn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Silkn.com
+
+Take $20 off any purchase of $99 or more. Use code **GIMME20** at checkout. Offer ends 11/13. 
 
 Silkn.com respects your privacy and works hard to safeguard the privacy of your personal and business data. We realize that today’s Internet visitor has questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we give our commitment to safeguarding privacy to your online and Internet activities with us.
 
