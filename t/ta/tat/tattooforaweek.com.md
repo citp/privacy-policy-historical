@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tattooforaweek.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323160710id_/http%3A//www.tattooforaweek.com/en/info/Privacy%2B%25252526%2BCookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattooforaweek.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109000011id_/https%3A//www.tattooforaweek.com/en/info/Privacy%2B%25252526%2BCookies.html) for the most accurate reproduction.*
 
 # Privacy & Cookies Fake Tattoos and Temporary Tattoos (Temporary tattoo) - TattooForAWeek, The Largest Online Temporary Tattoo Shop
 
 **Privacy Policy**
 
-WebManiac is committed to your privacy. Although most information on this site is available without personal data being transmitted, it is possible that the user's personal information is requested. This information will only be used within custom management and to keep you informed of our activities. The user can, free of charge and on request, always oppose the use of personal information for direct marketing. To this end he will turn to WebManiac, Pontstraat 9, 9031 Drongen, Belgium, [info@TattooForAWeek.com](mailto:info@TattooForAWeek.com).
+WebManiac is committed to your privacy. Although most information on this site is available without personal data being transmitted, it is possible that the user's personal information is requested. This information will only be used within custom management and to keep you informed of our activities. The user can, free of charge and on request, always oppose the use of personal information for direct marketing. To this end he will turn to WebManiac BVBA, Pontstraat 9, 9031 Drongen, Belgium, [info@TattooForAWeek.com](mailto:info@TattooForAWeek.com).
 
 Your personal details _ **are never passed or sold**_ to third parties.
 
@@ -16,4 +16,4 @@ WebManiac can collect anonymous or aggregated data of non-personal nature, such 
 
 During a visit to the site, cookies may be added on the hard drive of your computer and this only to make the site more responsive to the needs of returning visitors. These small files or cookies are not used to monitor surfing habits to other Web sites. Your Internet browser allows you to prevent the use of cookies, to receive a warning when a cookie is installed or to remove the cookies from your hard disk. Please consult the help function of your browser
 
-Click [here](http://www.tattooforaweek.com/en/info/Cookies.html) for more information on cookies at TattooForAWeek.com.
+Click [here](https://www.tattooforaweek.com/en/info/Cookies.html) for more information on cookies at TattooForAWeek.com.
