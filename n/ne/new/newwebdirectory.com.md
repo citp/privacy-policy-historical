@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newwebdirectory.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519172023id_/http%3A//www.newwebdirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwebdirectory.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108015323id_/http%3A//www.newwebdirectory.com/privacy.html) for the most accurate reproduction.*
 
 # New Web Directory: The New Web Site Directory
 
