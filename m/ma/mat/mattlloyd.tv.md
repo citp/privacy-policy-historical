@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattlloyd.tv privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616215705id_/http%3A//mattlloyd.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattlloyd.tv privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108094620id_/http%3A//mattlloyd.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
