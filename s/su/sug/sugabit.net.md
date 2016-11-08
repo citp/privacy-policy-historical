@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugabit.net privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202164954id_/http%3A//sugabit.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugabit.net privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108165542id_/http%3A//sugabit.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
