@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408163826id_/https%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108211915id_/https%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Hosting Web | Web Hosting Sites
+# Privacy Policy | Vodien Web Hosting Services - Vodien
 
 [Acceptable Use Policy - Terms of Service](https://web.archive.org/terms-of-use.php) | [Security Policy](https://web.archive.org/security-policies-web-hosting.php) | Privacy Policy | [Affiliate Programme - Terms of Serivice](https://web.archive.org/affiliate-terms.php)
 
-Vodien Internet Solutions respects the privacy of each individual that visits our website. Vodien Internet Solutions promises not to disclose personal or business information to third parties without the express permission of You and Your company. We will not sell Your name, e-mail address, phone number, or any other personal information to anyone else. We consider this information to be private, and it will remain as such. This privacy statement provides our visitors and customers with information on how Vodien Internet Solutions protects the information supplied by each.
+Vodien Internet Solutions respects the privacy of each individual that visits our website. Vodien Internet Solutions promises not to disclose personal or business information to third parties without the express permission of You and Your company. We will not sell Your name, e-mail address, phone number, or any other personal information to anyone else. We consider this information to be private, and it will remain as such.
+
+In alignment with the Personal Data Protection Act (PDPA) 2012 of Singapore, this privacy statement provides our visitors and customers with information on how Vodien Internet Solutions protects the information supplied.
 
 #### Information Collection
 
@@ -62,7 +64,7 @@ In the event Vodien Internet Solutions goes through a business transition, such 
 
 **Choice/Opt-out**
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [contact@vodien.com](mailto:contact@vodien.com). We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at (+65)6288-6264 or fax us at (+65)2885052 to opt-out.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [marketing@vodien.com](mailto:marketing@vodien.com) . We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at (+65)6288-6264 or fax us at (+65)2885052 to opt-out.
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
@@ -88,7 +90,7 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 **Updating/Deleting/Deactivating Personal Information**
 
-If a user's personally identifiable information changes (such as postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [contact@vodien.com](mailto:co%6Eta%63t@vodie%6E.com).
+If a user's personally identifiable information changes (such as postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [support@vodien.com](mailto:support@vodien.com).
 
 **Notification of Changes**
 
@@ -96,8 +98,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **Contact Information**
 
-Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:co%6Eta%63t@vodie%6E.com).
+Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com) .
 
-_The above stated Privacy Policy is correct as of **9th of April 2016**._
+_The above stated Privacy Policy is correct as of **9th of November 2016**._
 
 * * *
