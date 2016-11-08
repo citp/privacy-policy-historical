@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royallittlelambs.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503035539id_/http%3A//royallittlelambs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallittlelambs.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108083051id_/http%3A//royallittlelambs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,22 +6,48 @@ I use third-party advertising companies to serve advertisements when you visit t
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [Consumer Opt Out](http://www.networkadvertising.org/choices/#completed).
 
-The only bits of information stored about your visit to my blog are –
-
-  * In the case of your leaving a comment on a post or using your social media “call signs” in a Rafflecopter sweepstakes
-  * If you subscribe to blog posts via email or to my occasional newsletter, I do request your email address and name to administer a sweepstakes, contest, promotion, survey, or other site feature.
-
-
-
 I am not responsible for the republishing of the content found on this blog on other Web sites or media without my permission.
 
 This privacy policy will be updated as necessary.
 
-If there are any questions regarding this privacy policy, you may contact me at jenalambert@royallittlelambs.com
+If there are any questions regarding this privacy policy, you may contact me at _jenalambert@royallittlelambs.com_
 
-Don't forget to use eBates to earn cash back for all your holiday shopping!   
-[](http://www.ebates.com/rf.do?referrerid=jMKOvKjB8DqksuqcGuvmKg%3D%3D&eeid=28585)
+At www.royallittlelambs.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.royallittlelambs.com and how it is used.
 
-[](http://www.christianbook.com/page/homeschool/alpha-omega?event=AFF&p=1162639)
+### **LOG FILES**
 
-[Yum](https://yummly.com/)
+Like many other Web sites, www.royallittlelambs.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+### **COOKIES AND WEB BEACONS**
+
+www.royallittlelambs.com uses cookies these
+
+  * Are part of our commenting system so that you don’t have to always enter you details
+  * Collect data as part of Google Analytics so that we can see who has visited our website
+
+
+
+### **DOUBLECLICK DART COOKIE**
+
+.:: Google, as a third party vendor, uses cookies to serve ads on  www.royallittlelambs.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.royallittlelambs.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+
+Google Adsense  
+Amazon
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.royallittlelambs.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.royallittlelambs.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.royallittlelambs.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+Review of Anonymous Data from Google Analytics
+
+We are committed to ensuring that our website contains content that is valuable and useful to our readers. To help us with this we have implemented the Google analytics demographics and interest reporting features on our website. These tools allow us to review anonymous data regarding the gender, age and interests of website visitors and adapt our website content to better reflect their needs. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format. This means we cannot identify what information is about you, and we will not try to figure it out.
+
+You can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Google Ad settings](https://www.google.ca/settings/ads) or through the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
