@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joefresh.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408231255id_/https%3A//www.joefresh.com/us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joefresh.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108232649id_/https%3A//www.joefresh.com/us/privacypolicy) for the most accurate reproduction.*
 
 # JOEFRESH.US
 
