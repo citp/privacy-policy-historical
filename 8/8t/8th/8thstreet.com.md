@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905120404id_/https%3A//8thstreet.com/Policy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108180401id_/https%3A//8thstreet.com/Policy/Privacy) for the most accurate reproduction.*
 
 # 8th Street Music - Privacy Policies
 
