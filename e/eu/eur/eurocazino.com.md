@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620160119id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108153331id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
 
 # Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**Bonus Reels Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=bonusreels)  
+**[**Double Drive Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=doubledrive)  
 ** **    |   
 ---|---  
    |   
@@ -32,10 +32,10 @@ This site has security measures to protect against the loss, misuse and alterati
 
 |  |  |    |   
 ---|---  
-**[Shaolin Path Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=shaolin)**  
+**[Random Twinner Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=randomtwinner)**  
 
 
-[](http://games.eurocazino.com/games/play.php?id=0&game=shaolin)
+[](http://games.eurocazino.com/games/play.php?id=0&game=randomtwinner)
 
    |   
 ---|---  
