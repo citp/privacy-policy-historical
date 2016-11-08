@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610172053id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108191202id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Experience Life
 
-Welcome to Experience Life. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and Terms of Service. Our Organization and Web Site Experience Life Magazine is published monthly except for January/February and July/August by Life Time Fitness, a healthy lifestyle brand consisting of health and fitness centers, healthy… [Read more »](https://experiencelife.com/privacy-policy/ "ReadPrivacy Policy")
-
-Welcome to _Experience Life_. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and [Terms of Service](http://experiencelife.com/terms-of-service).
+Welcome to Experience Life. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and Terms of Service.
 
 ## Our Organization and Web Site
 
@@ -20,7 +18,7 @@ _Experience Life_ Magazine
 2145 Ford Parkway, Suite 302  
 St. Paul, MN 55116
 
-This privacy policy covers [www.experiencelife.com](http://www.experiencelife.com/), [www.experiencelifemag.com](http://www.experiencelife.com/), [elmag.com](http://elmag.com/), [revolutionaryact.com](http://www.revolutionaryact.com/ "Revolutionary Act") and the “[101 Revolutionary Ways to Be Healthy](http://experiencelife.com/app/ "“101 Revolutionary Ways to Be Healthy” App")” mobile application (for iPhone, iPad, Kindle Fire and Android devices). By visiting our site, you agree that your visit and any dispute over privacy are governed by this Privacy Policy, as well as our [Terms of Service](http://experiencelife.com/terms-of-service).
+This privacy policy covers [www.experiencelife.com](https://www.experiencelife.com/), [www.experiencelifemag.com](https://www.experiencelife.com/), [elmag.com](http://elmag.com/), [revolutionaryact.com](http://www.revolutionaryact.com/ "Revolutionary Act") and the “[101 Revolutionary Ways to Be Healthy](https://experiencelife.com/app/ "“101 Revolutionary Ways to Be Healthy” App")” mobile application (for iPhone, iPad, Kindle Fire and Android devices). By visiting our site, you agree that your visit and any dispute over privacy are governed by this Privacy Policy, as well as our [Terms of Service](https://experiencelife.com/terms-of-service).
 
 ## Anonymous Access
 
@@ -28,9 +26,9 @@ You can access our Web site homepage and browse our site without disclosing your
 
 ## Services and Links
 
-[ExperienceLife.com](http://www.experiencelife.com/) allows users to communicate with other visitors or to post information to be accessed by others in our blogs, forums and comment sections.
+[ExperienceLife.com](https://www.experiencelife.com/) allows users to communicate with other visitors or to post information to be accessed by others in our blogs, forums and comment sections.
 
-Our Web site does include links to third party Web service providers, as well as other sites. [ExperienceLife.com](http://www.experiencelife.com/) is not responsible for the privacy practices or content of other Web sites.
+Our Web site does include links to third party Web service providers, as well as other sites. [ExperienceLife.com](https://www.experiencelife.com/) is not responsible for the privacy practices or content of other Web sites.
 
 We may contract with other companies to perform services on our behalf. We may need to provide only such personally identifiable information about you as necessary for such purposes.
 
@@ -40,7 +38,7 @@ We do not automatically log personal data nor do we link information automatical
 
 ## Data Collection and Purpose Specification
 
-We collect personal data that is expressly volunteered by the visitor while using our services. This information is used to notify users of updates and opportunities (special offers and giveaways, for instance) at our site, and to improve the content selection of [ExperienceLife.com](http://www.experiencelife.com/).
+We collect personal data that is expressly volunteered by the visitor while using our services. This information is used to notify users of updates and opportunities (special offers and giveaways, for instance) at our site, and to improve the content selection of [ExperienceLife.com](https://www.experiencelife.com/).
 
 We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
 
@@ -48,13 +46,13 @@ Information collected may be shared in the aggregate with others and may be used
 
 ## Children’s Policy
 
-[ExperienceLife.com](http://www.experiencelife.com/) is not intended for use by minors, especially children under the age of 13. We do not knowingly collect personal data nor solicit in any manners to persons under 13 years of age.
+[ExperienceLife.com](https://www.experiencelife.com/) is not intended for use by minors, especially children under the age of 13. We do not knowingly collect personal data nor solicit in any manners to persons under 13 years of age.
 
 Children are not permitted to provide personal information, buy subscriptions, or use our public areas (blogs, forums, article comment boards) without parental permission.
 
 ## Confidentiality/Security
 
-[ExperienceLife.com](http://www.experiencelife.com/) maintains a secure order form for subscribing to _Experience Life_ Magazine, which requires personal and financial information from you should you choose to subscribe online (name, billing information, shipping address, e-mail, credit card information, expiration date).
+[ExperienceLife.com](https://www.experiencelife.com/) maintains a secure order form for subscribing to _Experience Life_ Magazine, which requires personal and financial information from you should you choose to subscribe online (name, billing information, shipping address, e-mail, credit card information, expiration date).
 
 Upon submitting your subscription order, we will disclose your name, address and transaction information to our subscription fulfillment center in order to process your purchase. To complete the transaction, we will disclose your credit card information to the appropriate bank or credit card company.
 
@@ -77,13 +75,13 @@ Registration is not required for using this site. Should you choose to register 
 
 ## E-newsletters
 
-[ExperienceLife.com](http://www.experiencelife.com/) publishes 12 monthly newsletters and 52 weekly newsletters annually, along with occasional special promotion emails (no more than one per month). In order to subscribe, you must provide your email address; we will not share this with other organizations.
+[ExperienceLife.com](https://www.experiencelife.com/) publishes 12 monthly newsletters and 52 weekly newsletters annually, along with occasional special promotion emails (no more than one per month). In order to subscribe, you must provide your email address; we will not share this with other organizations.
 
 All e-newsletters sent by _Experience Life_ are in compliance with the CAN-SPAM Act of 2003, and contain an opt-out option, the postal address for Life Time Fitness, and accurate and explanative subject lines and headers. Users may cancel their subscription to our e-newsletter at any time by sending us as email or by using the opt-out option.
 
 ## Security
 
-[ExperienceLife.com](http://www.experiencelife.com/) has taken security measures to protect users against loss, misuse and modification of personal information that is maintained within our site. No data communication over the Internet is completely secure, however. When sharing personal information, you do so at your own risk; we cannot guarantee the security of the information provided, but we will do our very best to protect your information.
+[ExperienceLife.com](https://www.experiencelife.com/) has taken security measures to protect users against loss, misuse and modification of personal information that is maintained within our site. No data communication over the Internet is completely secure, however. When sharing personal information, you do so at your own risk; we cannot guarantee the security of the information provided, but we will do our very best to protect your information.
 
 ## Postings and Privacy
 
@@ -101,7 +99,7 @@ We do not reserve the right to refuse to provide you with a copy of your persona
 
 ## Policy Changes
 
-[ExperienceLife.com](http://www.experiencelife.com/) reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. Additions or changes to this policy will be posted here, and the most recent version will always be available at [www.experiencelife.com](http://www.experiencelife.com/). Changes to this policy will be considered accepted by you upon continued use of the site.
+[ExperienceLife.com](https://www.experiencelife.com/) reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. Additions or changes to this policy will be posted here, and the most recent version will always be available at [www.experiencelife.com](http://www.experiencelife.com/). Changes to this policy will be considered accepted by you upon continued use of the site.
 
 This policy was last updated on November 12, 2012.
 
