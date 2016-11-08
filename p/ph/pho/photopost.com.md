@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photopost.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121090553id_/http%3A//www.photopost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photopost.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108065955id_/http%3A//www.photopost.com/privacy.html) for the most accurate reproduction.*
 
 # PhotoPost.com Privacy Policy
 
