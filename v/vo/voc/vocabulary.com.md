@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409042323id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108192803id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Vocabulary.com
-
-  * [Terms of Use](https://web.archive.org/terms/)
-  * [Privacy Policy](https://web.archive.org/privacy/)
-
-
 
 This privacy policy explains how Thinkmap, Inc. ("Thinkmap", "We", or "Us") collects and uses personal information that you ("you" or "your") provide on Vocabulary.com and on the Vocabulary.com App (collectively "Vocabulary.com"). This privacy policy was last updated on 2/6/2014.
 
