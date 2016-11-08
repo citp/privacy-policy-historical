@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upclick.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417190557id_/http%3A//upclick.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upclick.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108040443id_/https%3A//upclick.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Upclick
 
