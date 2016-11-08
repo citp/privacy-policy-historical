@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616185442id_/http%3A//www.sears.ca/content/about-sears%23Customer_Service_Security_Sears) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108060312id_/http%3A//www.sears.ca/content/about-sears%23Customer_Service_Security_Sears) for the most accurate reproduction.*
 
 # Sears Customer Support & Customer Care | Sears Canada
 
@@ -213,10 +213,8 @@ At sears.ca, if you make a purchase using a credit card, your card issuer will t
 **Links to Other Websites:**  
 sears.ca may contain links to other websites. Sears is not responsible for the practices or the content of such websites, and recommends that you check the security and privacy policy of any website before providing your personal information.
 
-### Sears Customers: We Want To Hear From YOU!
+### Remarketing
 
-Sears is currently recruiting an exclusive online community called Sears Shop Talk and wants to hear what you have to say. Your feedback will help us make improvements across the organization. Once you are a member you will be contacted once or twice a month to complete surveys on a variety of topics that will help us improve our products and services. Your feedback will influence the decision makers of one of Canada's top retailers and each survey you complete gives you a chance to win cash and prizes.
+Sears.ca uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
 
-Sears is making changes for you - and we want you to guide the changes we make.
-
-Don't delay; click [here](https://www.searsshoptalk.ca/R.aspx?a=50) to join Sears Shop Talk today!
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
