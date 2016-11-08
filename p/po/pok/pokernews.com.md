@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pokernews.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419214940id_/http%3A//www.pokernews.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokernews.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108020911id_/https%3A//www.pokernews.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | PokerNews
 
 [Home](https://web.archive.org/)[Privacy Policy](https://web.archive.org/privacy-policy.htm)
 
-Your privacy is very important to iBus Media Ltd. (referred to herein as **“PokerNews”** , “ **we** ” or “ **us** ”), the owner and operator of the website located at www.pokernews.com as well as the local sites there under, listed here <http://www.pokernews.com/international/> (collectively, the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry.
+Your privacy is very important to iBus Media Ltd. (referred to herein as **“PokerNews”** , “ **we** ” or “ **us** ”), the owner and operator of the website located at www.pokernews.com as well as the local sites there under, listed here <https://www.pokernews.com/international/> (collectively, the “ **Site** ”). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry.
 
   1. **Consent to Privacy Policy**
 
