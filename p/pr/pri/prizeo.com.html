@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prizeo.com privacy policy that was archived on 2016-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310063550id_/https%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prizeo.com privacy policy that was archived on 2016-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108022908id_/https%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><!--<![endif]--><head>
     
@@ -49,7 +49,9 @@
 <meta name="keywords" content="raffle, charity, celebrity, donation, prize, winner, once-in-a-lifetime experience, prizeo">
 
 
-    <meta name="description" content="Prizeo is a platform for influencers to raise money and awareness for their chosen causes with prize-based fan campaigns.">
+    
+        <meta name="description" content="Prizeo is a platform for influencers to raise money and awareness for their chosen causes with prize-based fan campaigns.">
+    
 
 
 
@@ -60,8 +62,8 @@
 
 
 
-<link rel="shortcut icon" type="image/png" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/favicon.png?v=447228">
-<link rel="apple-touch-icon" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/apple-touch-icon.png?v=447228">
+<link rel="shortcut icon" type="image/png" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/favicon.png?v=273306">
+<link rel="apple-touch-icon" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/apple-touch-icon.png?v=273306">
 
 
 <link href="//fonts.googleapis.com/css?family=Oswald:700,400,300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
@@ -69,15 +71,16 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/ladda.css?v=447228">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/normalize.css?v=447228">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/bootstrap/bootstrap.css?v=447228">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/main.min.css?v=447228">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/ladda.css?v=273306">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/normalize.css?v=273306">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/bootstrap/bootstrap.css?v=273306">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/main.min.css?v=273306">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/font-awesome.min.css?v=273306" "="">
 
 
 
 
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDT9TB"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" src="//use.typekit.net/ofc6scc.js"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDT9TB"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" src="//use.typekit.net/ofc6scc.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
@@ -98,20 +101,23 @@
     };
 
     var cfg = {
-            page : "",
+            origin : "www.prizeo.com/privacy-policy",
+            page : "privacy-policy",
             url : {
                 assets : "//d1oc2d5bw2auvq.cloudfront.net/assets/",
-                assetsVersion : "?v=447228",
-                subscribe : "/subscribe",
-                signIn : "https://www.prizeo.com/sign-in?originUrl=%2Fprivacy-policy",
+                assetsVersion : "?v=273306",
+                signIn : "https://www.prizeo.com/sign-in/email?originUrl=%2Fprivacy-policy",
                 signOut : "/sign-out?originUrl=%2Fprivacy-policy",
-                timelineTail: "/prizes/tail"
+                timelineTail: "/prizes/tail",
+                failedPaymentAttempt: "/api/v1/logFailedPaymentAttempt"
             },
             app : {
                 analytics : {
                     loadTimeOut : 500
                 },
-                isUserSignedIn: false,
+                
+                    isUserSignedIn: false,
+                
             },
             facebook : {
                 channel : "Result(200, Map(Content-Type -&gt; text/html; charset=utf-8))",
@@ -119,12 +125,16 @@
                 perm_basic : "email",
                 perm_paf : "user_friends,publish_actions",
 
-                authenticateUrl : "https://www.prizeo.com/facebook/auth?originUrl=%2Fprivacy-policy",
-                callbackAuthenticateUrl : "https://www.prizeo.com/facebook/callback-auth?originUrl=%2Fprivacy-policy",
+                authenticateUrl : "https://www.prizeo.com/facebook/auth",
+                callbackAuthenticateUrl : "https://www.prizeo.com/facebook/callback-auth",
 
                 linkUrl : "https://www.prizeo.com/facebook/connect?originUrl=%2Fprivacy-policy",
                 callbackLinkUrl : "https://www.prizeo.com/facebook/callback-connect?originUrl=%2Fprivacy-policy",
-                facebookTokenInBackend:  null 
+                facebookTokenInBackend:  null ,
+                facebookGraph: 'https://graph.facebook.com/v2.2'
+            },
+            whitelabel : {
+                companyName: 'Prizeo'
             },
             flash: {},
             mobile: false,
@@ -137,6 +147,13 @@
             authentication: {
                 signUpSubmit: "https://www.prizeo.com/sign-up/email",
                 signInSubmit: "https://www.prizeo.com/sign-in/email"
+            },
+            images: {
+                paypal: "//d1oc2d5bw2auvq.cloudfront.net/assets/images/ico/icon-paypal.png?v=273306",
+                cards: "//d1oc2d5bw2auvq.cloudfront.net/assets/images/ico/icon-cards.svg?v=273306"
+            },
+            api: {
+                v1_users_me: 'https://www.prizeo.com/api/v1/users/me'
             }
 
     };
@@ -154,7 +171,7 @@
     var isOperaMini = (navigator.userAgent.indexOf('Opera Mini') > -1);
 
     if(!isOperaMini) {
-        var mobileMql = window.matchMedia('all and (max-width: 640px)');
+        window.mobileMql = window.matchMedia('all and (max-width: 640px)');
 
         function updateCfgMoblie(mql) {
             cfg.mobile = mql.matches;
@@ -163,6 +180,8 @@
         updateCfgMoblie(mobileMql);
         mobileMql.addListener(updateCfgMoblie);
     }
+
+    
 </script>
 
 
@@ -177,9 +196,18 @@
 
 
 
+<script src="//cdn.optimizely.com/js/6414440560.js"></script>
+
+
+
+
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
     for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-mixpanel.init("7bc518a635d1b1d1b5bcca288f995962");</script>
+mixpanel.init("7bc518a635d1b1d1b5bcca288f995962", {'loaded': function(){
+		document.cookie = "mixpanel_distinct_id=" + mixpanel.get_distinct_id() + "; path=/";
+	}
+});
+</script>
 
 
 
@@ -191,37 +219,47 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 </script>
 
 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDT9TB"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TDT9TB');</script>
+<script>
+    dataLayer = [{
+        page: cfg.page,
+        signedIn: cfg.app.isUserSignedIn
+    }];
 
-
-<script type="text/javascript">
-(function() {
-var _fbq = window._fbq || (window._fbq = []);
-if (!_fbq.loaded) {
-var fbds = document.createElement('script');
-fbds.async = true;
-fbds.src = '//connect.facebook.net/en_US/fbds.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(fbds, s);
-_fbq.loaded = true;
-}
-})();
-window._fbq = window._fbq || [];
 </script>
+
+
+    
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDT9TB"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TDT9TB');</script>
+
+
+
+
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '412494925583107');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=412494925583107&ev=PageView&noscript=1"/></noscript>
 
 
 
 
 
     <meta name="google-site-verification" content="55UKE4IqcSp2OjLFTUF69pAzE6ok6ckMSO4FeerIPX0">
+    <meta name="google-site-verification" content="7JNKjLO9LGB437bK7XC3AUTEMeWk95VLso4VtghC1GM">
 
     
+
 
 <style>
 
@@ -237,7 +275,11 @@ window._fbq = window._fbq || [];
             background: linear-gradient(top, #313030, #222121);
         }
 
-        .wl-header-color li a {
+        .wl-header-color a {
+            color: #fff;
+        }
+
+        .wl-header-color .infos {
             color: #fff;
         }
 
@@ -265,48 +307,192 @@ window._fbq = window._fbq || [];
             color: #999;
         }
 
-        .wl-btn-primary > span {
-            background: #ff9c00;
-            background: -webkit-gradient(linear, left top, left bottom, from(#ff9c00), to(#ff5a00));
-            background: -webkit-linear-gradient(top, #ff9c00, #ff5a00);
-            background: -moz-linear-gradient(top, #ff9c00, #ff5a00);
-            background: -ms-linear-gradient(top, #ff9c00, #ff5a00);
-            background: -o-linear-gradient(top, #ff9c00, #ff5a00);
-            background: linear-gradient(top, #ff9c00, #ff5a00);
+        
 
-            -webkit-box-shadow: 0 4px 0 #f13c00;
-            -moz-box-shadow: 0 4px 0 #f13c00;
-            box-shadow: 0 4px 0 #f13c00;
-        }
 
-        .wl-btn-primary .ico-right-arrow div {
-            background: #fff;
-        }
+.btn-primary {
+    color: #fff;
+    background: #ff7e00;
 
-        .wl-btn-primary:hover > span {
-            background: #fcb521;
-            background: -webkit-gradient(linear,left top,left bottom,from(#fcb521),to(#ff7f00));
-            background: -webkit-linear-gradient(top,#fcb521,#ff7f00);
-            background: -moz-linear-gradient(top,#fcb521,#ff7f00);
-            background: -ms-linear-gradient(top,#fcb521,#ff7f00);
-            background: -o-linear-gradient(top,#fcb521,#ff7f00);
-            background: linear-gradient(top,#fcb521,#ff7f00);
-        }
+    position: relative;
 
-        .wl-btn-primary:active > span {
-            background: #ff6200;
-            background: -webkit-gradient(linear,left top,left bottom,from(#ff6200),to(#ff9300));
-            background: -webkit-linear-gradient(top,#ff6200,#ff9300);
-            background: -moz-linear-gradient(top,#ff6200,#ff9300);
-            background: -ms-linear-gradient(top,#ff6200,#ff9300);
-            background: -o-linear-gradient(top,#ff6200,#ff9300);
-            background: linear-gradient(top,#ff6200,#ff9300);
-            -webkit-box-shadow: 0 4px 0 #f13c00;
-            -moz-box-shadow: 0 4px 0 #f13c00;
-            box-shadow: 0 4px 0 #f13c00;
-        }
+    -webkit-box-shadow: 0 3px 0 0 #ED5B00;
+    -moz-box-shadow: 0 3px 0 0 #ED5B00;
+    box-shadow: 0 3px 0 0 #ED5B00;
 
-        body {
+}
+
+.btn-primary > span {
+    color: #fff;
+    background: #ff7e00;
+}
+
+
+    .btn-primary:hover {
+        background: #ff8c00;
+        color: #fff;
+
+        -webkit-box-shadow: 0 3px 0 0 #ff7100;
+        -moz-box-shadow: 0 3px 0 0 #ff7100;
+        box-shadow: 0 3px 0 0 #ff7100;
+    }
+    .btn-primary:hover > span {
+        background: #ff8c00;
+        color: #fff;
+    }
+
+    .btn-primary:focus {
+        background: #ff8c00;
+        color: #fff;
+
+        -webkit-box-shadow: 0 3px 0 0 #ff7100;
+        -moz-box-shadow: 0 3px 0 0 #ff7100;
+        box-shadow: 0 3px 0 0 #ff7100;
+    }
+    .btn-primary:focus > span {
+        background: #ff8c00;
+        color: #fff;
+    }
+
+
+
+.btn-primary:active {
+    background: #ff7400;
+    color: #ffdcbd;
+
+    top: 3px;
+
+    -webkit-box-shadow: 0 -3px 0 0 #EE4F00;
+    -moz-box-shadow: 0 -3px 0 0 #EE4F00;
+    box-shadow: 0 -3px 0 0 #EE4F00;
+
+}
+.btn-primary:active > span {
+    background: #ff7400;
+    color: #ffdcbd;
+}
+
+
+
+        
+
+
+.btn-secondary {
+    color: #fff;
+    background: #00AAEE;
+
+    position: relative;
+
+    -webkit-box-shadow: 0 3px 0 0 #008DC5;
+    -moz-box-shadow: 0 3px 0 0 #008DC5;
+    box-shadow: 0 3px 0 0 #008DC5;
+
+}
+
+.btn-secondary > span {
+    color: #fff;
+    background: #00AAEE;
+}
+
+
+    .btn-secondary:hover {
+        background: #00B5F6;
+        color: #fff;
+
+        -webkit-box-shadow: 0 3px 0 0 #00A0E1;
+        -moz-box-shadow: 0 3px 0 0 #00A0E1;
+        box-shadow: 0 3px 0 0 #00A0E1;
+    }
+    .btn-secondary:hover > span {
+        background: #00B5F6;
+        color: #fff;
+    }
+
+    .btn-secondary:focus {
+        background: #00B5F6;
+        color: #fff;
+
+        -webkit-box-shadow: 0 3px 0 0 #00A0E1;
+        -moz-box-shadow: 0 3px 0 0 #00A0E1;
+        box-shadow: 0 3px 0 0 #00A0E1;
+    }
+    .btn-secondary:focus > span {
+        background: #00B5F6;
+        color: #fff;
+    }
+
+
+
+.btn-secondary:active {
+    background: #009AD8;
+    color: #BAE1F0;
+
+    top: 3px;
+
+    -webkit-box-shadow: 0 -3px 0 0 #0085BA;
+    -moz-box-shadow: 0 -3px 0 0 #0085BA;
+    box-shadow: 0 -3px 0 0 #0085BA;
+
+}
+.btn-secondary:active > span {
+    background: #009AD8;
+    color: #BAE1F0;
+}
+
+
+
+        
+
+
+.btn-terciary {
+    color: #fff;
+    background: #6FD203;
+
+    position: relative;
+
+    -webkit-box-shadow: 0 3px 0 0 #58A500;
+    -moz-box-shadow: 0 3px 0 0 #58A500;
+    box-shadow: 0 3px 0 0 #58A500;
+
+}
+
+.btn-terciary > span {
+    color: #fff;
+    background: #6FD203;
+}
+
+
+    .btn-terciary:hover {
+        background: #7FD313;
+        color: #fff;
+
+        -webkit-box-shadow: 0 3px 0 0 #68B510;
+        -moz-box-shadow: 0 3px 0 0 #68B510;
+        box-shadow: 0 3px 0 0 #68B510;
+    }
+    .btn-terciary:hover > span {
+        background: #7FD313;
+        color: #fff;
+    }
+
+    .btn-terciary:focus {
+        background: #7FD313;
+        color: #fff;
+
+        -webkit-box-shadow: 0 3px 0 0 #68B510;
+        -moz-box-shadow: 0 3px 0 0 #68B510;
+        box-shadow: 0 3px 0 0 #68B510;
+    }
+    .btn-terciary:focus > span {
+        background: #7FD313;
+        color: #fff;
+    }
+
+
+
+
+
+        body, .wl-sitebackground {
             background: #f6f6f6;
             color: #454545;
         }
@@ -366,10 +552,6 @@ window._fbq = window._fbq || [];
             background: linear-gradient(top,#494747,#1f1f1f);
         }
 
-        h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
-            color: #454545;
-        }
-
         .wl-payment-breadcrumbs a {
             background: #444;
             color: #999;
@@ -424,6 +606,43 @@ window._fbq = window._fbq || [];
             box-shadow: 0 2px 0 #d96600;
         }
 
+        div.wl-footer-arrow div {
+            background-color: white;
+        }
+
+        .prize-detail .prize-media .promoted-tweet:before {
+            border-color: #fff;
+        }
+
+        ul.prize-breakdown li:before {
+            background: #454545;
+        }
+
+        div.legal-footer {
+            background-color: #f6f6f6;
+        }
+
+        div.time-left-indicator {
+            background-color: #ffffff;
+        }
+
+        .checkout .prefilled-address, .checkout .credit-redeem , .checkout .stored-card {
+            background-color: #f6f6f6;
+        }
+
+        .checkout .tshirt-sizes span {
+            background-color: #f6f6f6;
+        }
+
+        .checkout .tshirt-sizes span.active {
+            background-color: #00abeb;
+            color: #fff;
+        }
+
+        .checkout .payment-terms,  .checkout .page-bottom-filler {
+            background-color: #fff;
+        }
+
     
 
 </style>
@@ -432,8 +651,16 @@ window._fbq = window._fbq || [];
 
 
 
-        <body class="page-">
+        <body class="page-privacy-policy">
     
+
+    <div class="checkout-overlay js-checkout hidden wl-sitebackground">
+        <div class="row snabbdom-renderCheckout">
+
+        </div>
+    </div>
+
+
 
 
     <div id="sign-in-form" class="modal fade js-sign-in-form" aria-hidden="true" role="dialog">
@@ -450,8 +677,10 @@ window._fbq = window._fbq || [];
 <script>
     cfg.origin = "/privacy-policy";
 
-    var twitterConnectUrl = "https://www.prizeo.com/twitter/connect?originUrl=%2Fprivacy-policy"
-    cfg.twitter ? cfg.twitter.connect = twitterConnectUrl : cfg.twitter = {connect: twitterConnectUrl}
+    cfg.signUp = false;
+
+    var twitterConnectUrl = "https://www.prizeo.com/twitter/connect?originUrl=%2Fprivacy-policy";
+    cfg.twitter ? cfg.twitter.connect = twitterConnectUrl : cfg.twitter = {connect: twitterConnectUrl};
 </script>
 
 <div class="row-old row-main auth-forms">
@@ -460,19 +689,29 @@ window._fbq = window._fbq || [];
 
         <section id="connect" class="grid-5 to-center collapsible active" style="display: none;">
 
-            <h1 id="form-login-heading" class="title-with-lines">
+            <h2 id="form-login-heading" class="title-with-lines">
                 <span class="js-signup-only hidden">Sign up to Prizeo</span>
                 <span class="js-signin-only ">Sign in to Prizeo</span>
-            </h1>
+            </h2>
 
-            <p class="connect-with center">
-                <a href="javascript:void(0)" class="btn btn-m btn-facebook js-btn-facebook" id="btn-facebook"><span class="ico-before ico-fb">Facebook</span></a>
-                <a href="javascript:void(0)" class="btn btn-m btn-twitter js-btn-twitter" id="btn-twitter"><span class="ico-before ico-tw">Twitter</span></a>
-                <span class="or mobile-hide">or</span>
-            </p>
+            
 
-            <p class="center js-signup-only hidden">or <a class="pointer" data-toggle="collapsible" data-target="#emailSignUp">with your email address.</a></p>
-            <p class="center js-signin-only ">or use <a data-toggle="collapsible" data-target="#email-section" id="email-sign-in">your email address</a></p>
+<div class="connect-with">
+    <div class="btn-wrapper-l">
+        <a href="javascript:void(0)" class="btn btn-facebook js-btn-facebook" id="btn-facebook"><span>Facebook</span></a>
+    </div>
+    <div class="btn-wrapper-r">
+        <a href="javascript:void(0)" class="btn btn-twitter js-btn-twitter" onclick="return false;"><span>Twitter</span></a>
+    </div>
+    <div class="cb"></div>
+
+    
+
+                <p class="center js-signup-only hidden">or <a class="pointer" data-toggle="collapsible" data-target="#emailSignUp">with your email address.</a></p>
+                <p class="center js-signin-only ">or use <a data-toggle="collapsible" data-target="#email-section" id="email-sign-in">your email address</a></p>
+            
+</div>
+
 
             <p class="center">
                 <input type="checkbox" checked="" name="receiveNewsletter" id="js-receive-newsletter-login"><label for="receiveNewsletter" class="smaller">Receive the Prizeo Newsletter</label>
@@ -482,16 +721,16 @@ window._fbq = window._fbq || [];
             <p class="terms">
                 
                 
-                    By creating a Prizeo account, I accept Prizeo's <a href="/terms-and-conditions">Terms of Service</a> and <a href="/privacy-policy">Privacy Policy</a>.
+                    By creating a Prizeo account, I agree to the <a href="/terms-of-service" target="_blank">Terms of Service</a>, <a href="/sweepstakes-official-rules" target="_blank">Sweepstakes Official Rules</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a>.
                 
                 
             </p>
         </section>
         <section id="email-section" class="collapsible" style="display: none;">
 
-            <h1 id="form-login-heading" class="title-with-lines">
+            <h2 id="form-login-heading" class="title-with-lines">
 				Sign in using email
-            </h1>
+            </h2>
 
             <form action="https://www.prizeo.com/sign-in/email" method="post" class="grid-5" id="email-form-signin">
                 
@@ -517,7 +756,7 @@ window._fbq = window._fbq || [];
                 </div>
 
                 <p>
-                    <button id="email-signin-submit" disabled="" class="btn btn-auth js-email-signin-button ladda-button js-enable-onload" data-style="slide-down" data-color="blue"><span class="ladda-label">Sign in</span></button>
+                    <button id="email-signin-submit" disabled="" class="btn btn-secondary btn-auth js-email-signin-button ladda-button js-enable-onload" data-style="slide-down"><span class="ladda-label">Sign in</span></button>
                 </p>
                 <p class="center mt20">
                     <a class="pointer" data-toggle="collapsible" data-target="#connect">Go back</a>
@@ -533,9 +772,9 @@ window._fbq = window._fbq || [];
             </form>
         </section>
         <section id="emailSignUp" class="collapsible" style="display: none;">
-            <h1 class="title-with-lines">
+            <h2 class="title-with-lines">
             Create your account
-            </h1>
+            </h2>
 
             <form class="form-signup form-login grid-5" method="post" action="https://www.prizeo.com/sign-up/email" id="email-form-signup">
                 
@@ -596,7 +835,7 @@ window._fbq = window._fbq || [];
                     </p>
                 </div>
                 <p>
-                    <button type="submit" id="email-signup-submit" class="btn btn-auth js-email-signup-button ladda-button js-enable-onload" disabled="" data-style="slide-down" data-color="blue"><span class="ladda-label">Create account</span></button>
+                    <button type="submit" id="email-signup-submit" class="btn btn-secondary btn-auth js-email-signup-button ladda-button js-enable-onload" disabled="" data-style="slide-down"><span class="ladda-label">Create account</span></button>
                 </p>
                 <hr>
                 <p class="center mt20 js-signup-only hidden"><a class="pointer" data-toggle="collapsible" data-target="#connect">Go back</a></p>
@@ -605,7 +844,7 @@ window._fbq = window._fbq || [];
                 <p class="terms">
                 
                 
-                    By creating a Prizeo account, I accept Prizeo's <a href="/terms-and-conditions">Terms of Service</a> and <a href="/privacy-policy">Privacy Policy</a>.
+                    By creating a Prizeo account, I agree to the <a href="/terms-of-service" target="_blank">Terms of Service</a>, <a href="/sweepstakes-official-rules" target="_blank">Sweepstakes Official Rules</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a>.
                 
                 
                 </p>
@@ -633,8 +872,8 @@ window._fbq = window._fbq || [];
             <p id="logo">
                 <a href="/">
                     
-                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-symbol.png?v=447228" alt="" width="71" height="79" class="logo">
-                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-prizeo.png?v=447228" alt="Prizeo.com" width="105" height="50" class="text">
+                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-symbol.png?v=273306" alt="prizeo logo" width="71" height="79" class="logo">
+                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-prizeo.png?v=273306" alt="Win lifetime experiences with prizeo" width="105" height="50" class="text">
                     
                 </a>
             </p>
@@ -679,7 +918,7 @@ window._fbq = window._fbq || [];
 
             
                 <li><a href="/about" ""="">How it works</a></li>
-                <li><a href="https://www.prizeo.com/sign-in">Sign in</a></li>
+                <li><a href="https://www.prizeo.com/sign-in/email?originUrl=%2F">Sign in</a></li>
                 <li><a href="https://www.prizeo.com/sign-up">Sign up</a></li>
             
         </ul>
@@ -691,13 +930,14 @@ window._fbq = window._fbq || [];
 
 <div id="message" class="mb0 message-top" style="display: none;"></div>
 
-<div class="row-main row-old margin-auto mb35">
+<div class="row-main row-old margin-auto mb35" style="text-align: justify;">
 
     
         <h1>Privacy Policy</h1>
+        <h3>Last Updated: March 28, 2016</h3>
         <hr>
         <ol>
-            <li> This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at <a href="http://www.prizeo.com">www.prizeo.com</a> (“<strong>Site</strong>”) and/or the services provided from it (“<strong>Services</strong>”). You are deemed to accept the terms of this Privacy Policy on your first use of the Site. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site. The Site, together with all its content is owned or controlled by Prizeo US, Inc, with its registered office at 11601 Wilshire Blvd, Suite 210, Los Angeles, CA 90025 </li> <li> To provide the Site and the Services, it is necessary for us to hold and process certain personal information.  We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK. </li> <li> From time to time, we may collect or ask you to provide some or all of the following: name, address, date of birth, gender, email addresses and/or mobile phone numbers, financial information such as credit/debit card numbers, IP addresses, web-browser details, operating system details, and/or your activities on the Site.  This information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Services and any other services associated with them. We may also use your personal information to analyse use of the Site and/or to keep you up-to-date with other products and services, which we think may be of interest to you. All Competition entrants are automatically entered onto our database for the purpose of conveying information as to status within or for Competitions, as well as for any future promotions or Competitions we offer. </li> <li> We will only keep your personal information for as long as is necessary. We may, from time to time, expand or reduce our business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use such data for the purposes for which it was supplied by you. </li> <li> We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive 'cookies', you may change the settings on your computer or browser accordingly. </li> <li> If you do not want us to retain or use your personal information in any way, please withdraw your consent (i.e. “opt out”), by contacting us at <a href="mailto:info@prizeo.com">info@prizeo.com</a>. </li> <li> If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at <a href="mailto:info@prizeo.com">info@prizeo.com</a>. </li>
+            <p>Prizeo US, LLC ("Prizeo") is committed to protecting the privacy of your personal information. It's yours, it matters to you and we get that. We are providing this Privacy Policy to let you know what information we use and collect from users of the Prizeo website located at www.prizeo.com (the "Site") and any of our related services, content or applications (the Site and these services, content and applications together will be described as the "Services"). This Privacy Policy applies when you access, visit or use the Services. By accessing, visiting or using the Services, you expressly consent to Prizeo's collection, storage, use and disclosure of your information as described in this Privacy Policy. Please note that if you disagree with anything in this Privacy Policy, you should not use any of the Services. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the Prizeo Terms of Service.</p><p>We will notify you of changes to this Privacy Policy that would affect your rights by posting the amended terms on the Site at least thirty (30) days before the effective date of the changes. If you have provided us with your email address we will also notify you of material changes to this Privacy Policy by sending an email at least thirty (30) days before the effective date of the changes to the email address you most recently provided to us. We encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding material changes to this Privacy Policy. If you do not agree to the new terms, you should stop using the Services, and if you are a registered user, you may cancel your account with us within the thirty (30) day period by contacting us at&nbsp;<a href="mailto:support@prizeo.com">support@prizeo.com</a>&nbsp;and you will not be bound by the new terms. Otherwise, the new terms will take effect after thirty (30) days. Continued use after the effective date constitutes acceptance of the new terms.</p><p>LIST OF TOPICS WITH LINKS</p><ol><li><a href="#1">INFORMATION COLLECTED THROUGH THE SERVICES</a></li><li><a href="#2">HOW WE USE THE INFORMATION WE COLLECT FROM YOU</a></li><li><a href="#3">HOW WE SHARE YOUR INFORMATION WITH THIRD PARTIES</a></li><li><a href="#4">CHILDREN UNDER AGE 13</a></li><li><a href="#5">SECURITY</a></li><li><a href="#6">NON-U.S.USERS</a></li><li><a href="#7">RETENTION OF INFORMATION</a></li><li><a href="#8">CONTACT US</a></li><li><a href="#9">CHANGING YOUR PREFERENCES</a></li><li><a href="#10">GLOSSARY</a></li></ol><p></p><ol class="hierarchy"><li id="1">INFORMATION COLLECTED THROUGH THE SERVICES<ol><li><u>Information that We Automatically Collect:</u> Like many web businesses, we use automated mechanisms such as cookies, web beacons and pixels to keep track of users' interactions with the Services. Information we collect using&nbsp;cookies, web beacons and pixels&nbsp;may include your&nbsp;Internet protocol address,&nbsp;referring website address,&nbsp;browser type and the times that your computer accessed the Services. We recognize that you may not be familiar with the italicized terms used in the foregoing sentence, so an explanation of each of these italicized terms is included in a <b>glossary</b> section below in this Privacy Policy. We may use data we gather automatically to help us recognize you as a previous visitor to the Site, to serve relevant online advertising to you or to analyze trends and statistics to improve your experience of the Services. You can set your browser to reject cookies or to notify you when you are sent a cookie. You may also obtain third party software that will allow you to visit the Site without providing the information gathered by cookies. However, if you set your browser to limit or remove cookies or otherwise block our use of cookies, some features of the Services may be unavailable or unable to function properly. In addition, if you access the Services through a mobile device, we may also be able to identify the location of your mobile device. You may choose not to share your location details with us by adjusting your mobile device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.</li><li><u>Information that third Parties Automatically Collect:</u> We also use third party analytics such as Google Analytics to gather and analyze anonymous user information. Google Analytics is a web analytics service provided by Google, Inc. ("Google"), to collect information about your use of the Services. Google may use cookies to collect information about your purchase history, the content you view, what websites you visit immediately prior to and after visiting the Site, and your system information and geographic information. The information generated by the Google cookies about your use of the Services will be transmitted to and stored by Google. The information collected by Google allows us to analyze your use of the Services.</li><li><u>Interest-Based Advertising.</u> The Services may also include third-party advertising, links to other websites, and other content from third-party businesses. These third-party sites, businesses, and advertisers, or advertising companies working on their behalf, may use web beacons, pixels and/or cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who click on the links made available through the Services.&nbsp;These third parties may collect information about you and/or your computer network over time and across different websites to provide targeted or personalized advertising (also referred to sometimes as online behavioral advertising or interest-based advertising).&nbsp;We do not have access to or control over web beacons, pixels or cookies that these third parties may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites you visit.<br><br>Some third-party advertising companies may provide a mechanism to opt-out of their information gathering technologies.&nbsp;We only engage third-party advertising companies that have represented to us that they comply with the protocols of the Networking Advertising Initiative (NAI) or Digital Advertising Alliance (DAA), which give consumers choices about how their personal information is tracked and used. For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at www.networkadvertising.org/managing/opt_out.asp, and the DAA by visiting www.aboutads.info (DAA homepage). Our site does not currently respond to web browser "do not track" signals.</li><li><u>Information You Voluntarily Provide to Prizeo:</u> If you open an account, purchase products or services from us or from the Charities who offer access to their Celebrity Videos via our Site or Service (all as defined in our Terms of Service), send us an email, or share personal information with us in any other way, we collect the information you share. To register to use the Services, you must provide your name and email address. You do not have to share this information with us, but without it you may not be able to access certain content or features or use certain Services.</li><li><u>Information You Post through the Services:</u> If you post information on public areas of the Services that information may be collected and used by Prizeo, other users of the Services, and the public generally. We strongly recommend that you do not post any information though the Services that allow strangers to identify or locate you.</li><li><u>Information Provided to Us by Social Media Services:</u> By logging in to the Services through a third party social media service, such as Facebook or Twitter, you give us permission to access, store and use any information that you permit the applicable third party social media service to share with us in accordance with the privacy policy of that service and the privacy settings that are applicable to your account. We encourage you to review, and if necessary, adjust, your privacy settings on the applicable social media service before logging in to the Services through a social media service. Information that we receive from third party social media service is stored and used by Prizeo in accordance with this Privacy Policy.</li></ol></li><li id="2"><u>HOW WE USE THE INFORMATION WE COLLECT FROM YOU</u><p>We use the information we collect about you in connection with the Services to provide you with access to the Services and to help Prizeo provide you with better service and to help our advertisers provide you with more relevant offers. Without limiting the foregoing, we may use the information we collect about you through the Services to:</p><ol><li>customize the content and advertising you see when using the Services;</li><li>fulfill your requests for Services and validate your user rights;</li><li>contact and communicate with you;</li><li>conduct research and analysis on behalf of Prizeo and/or Prizeo's clients and affiliates;</li><li>provide anonymous reporting for internal and external clients; and</li><li>provide you with additional information we think is of interest to you.</li></ol></li><li id="3"><u>HOW WE SHARE YOUR INFORMATION WITH THIRD PARTIES</u><ol><li><u>Service Providers.</u> We may employ other companies or individuals ("Service Providers") to provide certain services to us or on our behalf, such as operating and supporting the Services, analyzing data, or performing marketing or consulting services. These Service Providers will only have access to the information needed to perform these limited functions on our behalf. These Service Providers are prohibited from using your information for any purpose other than the purpose for which the applicable Service Provider was engaged by us and/or as stated in this Privacy Policy.</li><li><u>Third Party Marketing Partners.</u> We may, from time to time, share the information you provide to us with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing your information to our third party marketing partners, you may opt-out by emailing us at&nbsp;<a href="mailto:support@prizeo.com">support@prizeo.com</a>&nbsp;or sending a letter to Prizeo US, LLC, 11601 Wilshire Blvd, Suite 210, Los Angeles, CA 90025.</li><li><u>Law Enforcement and Protection of Users.</u> To the extent permitted bylaw, we will disclose your information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to combat fraud or protect our rights or property as well as those of our affiliates or customers. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.</li><li><u>Business Transfer.</u> In the event that Prizeo is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any user information owned or under the control of Prizeo may be one of the transferred assets. We reserve the right, as part of this type of transaction, to transfer or assign your information and other information we have collected from users of the Services.</li><li><u>Aggregate Information.</u> We may share information relating to visitors and users of the Services with affiliated or unaffiliated third parties on an anonymous, aggregate basis. We note that, while this information will not identify you personally, in some instances these third parties may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.</li><li><u>Charities You Choose to Support via Prizeo.</u> We may share your information with a Charity to whom you have made a voluntary donation via the Site or Services.</li></ol></li><li id="4"><u>CHILDREN UNDER AGE 13</u><br>The Services are not intended for children under age 13, or for anyone under age 18 or the applicable age of majority in his/her place of residence, without involvement of a parent or guardian. The Services may include unmonitored content posted by users or sourced from other third parties and such content may be unsuitable for children. We do not knowingly collect or distribute information from or about children under age 13. If we learn we have received personally identifiable information from a child under age 13, we will delete that information.</li><li id="5"><u>SECURITY</u><br>Any information collected by Prizeo is stored on servers that Prizeo manages, using security procedures and practices appropriate to the nature of the information. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, Prizeo cannot guarantee or warrant the security of any information you transmit on or through the Site or Services and you do so at your own risk.</li><li id="6"><u>NON-U.S. USERS</u><br>If you are located outside of the United States and you choose to use the Site or Services, or provide your information to us, your information may be transferred to, processed and maintained on servers or databases located in the United States. Your agreement to this Privacy Policy followed by your submission of information through the Services represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained in the United States, you should not use the Site or Services.</li><li id="7"><u>RETENTION OF INFORMATION</u><br>Following termination or deactivation of your user account, unless you request that your information be deleted by contacting us in accordance with process below, we may retain your information for back-up, archival, legal and audit purposes, and to reactivate your account upon your request. Even then, information will be retained as necessary for archival purposes.   In addition, we may retain and continue to use indefinitely all information contained in your communications to other users of the Services posted to public or semi-public areas of the Services after termination or deactivation of your user account.</li><li id="8"><u>CONTACT US</u><br>If you have any questions about this Privacy Policy or Prizeo's privacy practices, please email us at&nbsp;<a href="mailto:support@prizeo.com">support@prizeo.com</a>, or you can contact us by mail at Prizeo US, LLC, 11601 Wilshire Blvd, Suite 210, Los Angeles, CA 90025.</li><li id="9"><u>CHANGING YOUR PREFERENCES</u><br>If you wish to <exclude your="" personal="" information="" from="" our="" direct="" marketing="" activities,="" or="" if="" you="" would="" like="" to="" update="" delete="" email="" address,="" mailing="" address="" other="" information,="" otherwise="" manage="" communications="" receive="" prizeo,="" please="" contact="" us="" at="" <a="" href="mailto:support@prizeo.com">support@prizeo.com</exclude></li><li id="10"><u>GLOSSARY OF TERMS USED IN THIS PRIVACY POLICY</u><br><ol><li><u>Cookie:</u> A small bit of code place on your computer by a website or advertiser as a reminder to tell the site a website or advertiser when a viewer is someone who has visited/viewed before. In technical terms, a cookie is a small electronic file containing a string of characters that a server places on your computer when you visit a site or view an ad.</li><li><u>Internet protocol address:</u> An individual "name" that is assigned to each computer on the Internet, so that each computer can be uniquely identified.</li><li><u>Referring website address:</u> The domain name or URL of the webpage you were visiting immediately prior to when you accessed, visited or used the Site.</li><li><u>Browser:</u> The software application on your computer that lets you "see" websites. Common browsers are Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Opera and Apple Safari.</li><li><u>Web Beacon or Pixel:</u> A small, transparent image that is embedded in a web page or e-mail and is usually invisible to the user but tells the web beacon owner that a user has viewed the web page or e-mail.</li></ol></li></ol><p>Definitions of other terms relating to your use of the Services and websites generally may be found online at www.allaboutcookies.org, www.webopedia.com, and www.techterms.com, as well as through other online resources.</p>
         </ol>
     
 </div>
@@ -714,7 +954,6 @@ window._fbq = window._fbq || [];
             <p class="share">
                 <a href="#" id="fb-share" title="Share on Facebook"><span class="ico-fb"></span></a>
                 <a href="https://twitter.com/intent/tweet?text=Check%20out%20prizeo.com,%20you%20can%20win%20awesome%20experiences%20with%20celebrities%20and%20support%20some%20great%20causes!%20@Prizeo" title="Share on Twitter"><span class="ico-tw"></span></a>
-                <a href="mailto:?subject=Awesome%20Fundraising%20Site!&amp;body=I%20found%20a%20really%20cool%20website%20called%20Prizeo%20that%20I%20thought%20you'd%20like.%20You%20can%20enter%20to%20win%20once%20in%20a%20lifetime%20experiences%20by%20donating%20to%20your%20favorite%20charities!%20Check%20it%20out%20at%20prizeo.com%20!" target="_blank" title="Send by E-mail"><span class="ico-msg"></span></a>
                 <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.prizeo.com&amp;media=http%3A%2F%2Fcdn.prizeo.com%2Fpinterest%2Fpint.png&amp;description=Prizeo%20is%20a%20really%20cool%20way%20to%20win%20amazing%20money-can't-buy%20experiences%20with%20your%20favorite%20celebrities,%20and%20support%20incredible%20causes%20at%20the%20same%20time!%20Check%20it%20out%20at%20prizeo.com%20!" target="_blank" title="Pin on Pinterest"><span class="ico-pint"></span></a>
             </p>
         </div>
@@ -738,18 +977,35 @@ window._fbq = window._fbq || [];
             </h5>
             <ul class="reset">
                 
-                <li><a title="How it works" href="/about">How it works</a></li>
+                <li>
+                    <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
+                    <a title="How it works" href="/about">How it works</a>
+                </li>
                 
-                <li><a title="FAQ" href="/faq">FAQ</a></li>
-                <li><a title="Blog" href="http://blog.prizeo.com" target="_blank">Blog</a></li>
-                <li><a title="Contact us" href="/contact-us">Contact us</a></li>
+                <li>
+                    <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
+                    <a title="FAQ" href="/faq">FAQ</a>
+                </li>
+                <li>
+                    <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
+                    <a title="Blog" href="http://blog.prizeo.com" target="_blank">Blog</a>
+                </li>
+                <li>
+                    <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
+                    <a title="Contact us" href="/contact-us">Contact us</a>
+                </li>
             </ul>
         </div>
     </div>
     <div class="legal wl-footer-legal-color">
-        <a title="Terms and conditions" href="/terms-and-conditions">Terms &amp; Conditions</a> |
-        <a title="Privacy policy" href="/privacy-policy">Privacy Policy</a> |
-        <a title="Visitor agreement" href="/visitor-agreement">Visitor Agreement</a>
+        <a title="Terms of Service" class="test-tos" href="/terms-of-service">Terms of Service</a> |
+        <a title="Sweepstakes official rules" href="/sweepstakes-official-rules">Sweepstakes Official Rules</a> |
+        <a title="Privacy policy" href="/privacy-policy">Privacy Policy</a>
+
+        
+
+            <p>Copyright © 2016 Prizeo | Once-in-a-lifetime experiences and sweepstakes for cause</p>
+        
     </div>
 
     
@@ -762,11 +1018,19 @@ window._fbq = window._fbq || [];
 
     
 
-<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="7dcf2ac1413e2d3925d50ee1b3d61328" data-appversion="2.0-67a77b2ae460c15d502ce00ac8911670d1a14dd8-1457447228"></script>
+<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="7dcf2ac1413e2d3925d50ee1b3d61328" data-appversion="2.0-c97abed8b1aacafcfff75ae145fa4c6c651cca2c-1478273306"></script>
 
-<script>Bugsnag.releaseStage = "production";</script>
+<script>
+	Bugsnag.releaseStage = "production";
+	Bugsnag.metaData = {request: {sessionId: "7e14adee-326b-4db3-be34-66d9dfdaa3e5"}};
+</script>
 
 
+
+<script>
+    window['optimizely'] = window['optimizely'] || [];
+    window['optimizely'].push(['setDimensionValue', 'User logged in status', 'Logged out']);
+</script>
 
 
 
@@ -775,35 +1039,41 @@ window._fbq = window._fbq || [];
 
 <script type="text/javascript">
 
+    // ensures the optimizely object is defined globally using
+    window['optimizely'] = window['optimizely'] || [];
+
     ga('create', 'UA-33270838-1', {
         'cookieDomain': 'prizeo.com'
 	});
 
-    
-    
-
-    
-    
-
-    ga('send', 'pageview'); 
+    function dupProtect(cookieKey, fnc) {
+        if(document.cookie.indexOf(cookieKey) == -1) {
+            fnc();
+            document.cookie = cookieKey + "=done";
+        } else {
+            console.log("Dup check fired: " + cookieKey);
+        }
+    }
 
     cfg.mixpanel_options = {
+        "Campaign Name": cfg.raffle ? cfg.raffle.name : '',
         campaign: '',
         url: window.location.pathname,
-        mobile: cfg.mobile
+        mobile: cfg.mobile,
+        'Page Title': document.title
     };
 
     cfg.mixpanelTrackWithOptions = function (event, extra_options, callback) {
         var options = {};
 
-        for(var key in cfg.mixpanel_options) {
-            if(cfg.mixpanel_options.hasOwnProperty(key)) {
+        for (var key in cfg.mixpanel_options) {
+            if (cfg.mixpanel_options.hasOwnProperty(key)) {
                 options[key] = cfg.mixpanel_options[key];
             }
         }
 
-        for(var key in extra_options) {
-            if(extra_options.hasOwnProperty(key)) {
+        for (var key in extra_options) {
+            if (extra_options.hasOwnProperty(key)) {
                 options[key] = extra_options[key];
             }
         }
@@ -812,27 +1082,34 @@ window._fbq = window._fbq || [];
 
         if (pageReferral != -1) {
             var end = document.URL.indexOf("&", pageReferral + 13);
-            if(end == -1) end = document.URL.length;
+            if (end == -1) end = document.URL.length;
 
             var value = decodeURIComponent(document.URL.substr(pageReferral + 13, end));
 
             options["pageReferral"] = value;
         }
 
-        //do not track some of the mixpanel events
-        if(typeof options.depthLevel != 'undefined' && options.depthLevel > 0) {
-            if (typeof callback != 'undefined') callback();
-            return;
-        }
+        
 
         
-            mixpanel.track(event, options, callback);
+        mixpanel.track(event, options, callback);
         
     };
 
     
+
     
-        cfg.mixpanelTrackWithOptions("Page view", { 'page': document.title});
+
+
+    
+    
+
+    ga('send', 'pageview'); 
+
+    
+    
+
+    
     
 
 
@@ -854,23 +1131,10 @@ window._fbq = window._fbq || [];
     
 
     
-    
 
-
-
-</script>
-
-<script type="text/javascript">
-    window._fbq.push(['addPixelId', '412494925583107']);
-    window._fbq.push(['track', 'PixelInitialized', {}]);
-
-    
     
 
 </script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=412494925583107&amp;ev=PixelInitialized" /></noscript>
-
-
 
 
 
@@ -893,8 +1157,8 @@ window._fbq = window._fbq || [];
 
 
 
-<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/polyglot.js?v=447228"></script>
-<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/messages.en.js?v=447228" type="text/javascript"></script>
+<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/polyglot.js?v=273306"></script>
+<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/messages.en.js?v=273306" type="text/javascript"></script>
 
 
 
@@ -903,7 +1167,7 @@ window._fbq = window._fbq || [];
 
 <script>
     require = {
-        urlArgs: 'v=447228',
+        urlArgs: 'v=273306',
         waitSeconds: 180
     };
 </script>
@@ -942,8 +1206,9 @@ window._fbq = window._fbq || [];
 
 
 
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/jquery.fancybox.css?v=273306">
 
-	
+
 
 
 </body></html>
