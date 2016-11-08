@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outdooractive.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508054845id_/http%3A//www.outdooractive.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdooractive.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108103653id_/http%3A//www.outdooractive.com/en/privacy.html) for the most accurate reproduction.*
 
-# Data protection at outdooractive.com » Outdooractive.com
+# Data protection at outdooractive.com » outdooractive.com
 
 This Data Protection Statement applies from 6 April 2009. 
 
