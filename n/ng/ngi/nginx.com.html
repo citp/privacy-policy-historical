@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the nginx.com privacy policy that was archived on 2016-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526201211id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nginx.com privacy policy that was archived on 2016-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108051603id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBXGM3"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIHUV5SCRACVlFaAAcHVw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="https://www.nginx.com/wordpress/xmlrpc.php">
-<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+
 <link rel="dns-prefetch" href="//munchkin.marketo.net">
 <link rel="dns-prefetch" href="//990-fxf-735.mktoresp.com">
 <link rel="dns-prefetch" href="//fast.fonts.net">
@@ -14,7 +13,7 @@
 <link rel="dns-prefetch" href="//distillery.wistia.com">
 <link rel="dns-prefetch" href="//embed-0.wistia.com">
 <link rel="dns-prefetch" href="//pipedream.wistia.com">
-<link rel="icon" type="image/png" href="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx-favicon.png">
+<link rel="icon" type="image/png" href="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx-favicon.png">
 
 
 
@@ -27,7 +26,7 @@
 
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WBXGM3"></script><script type="text/javascript">	var NginxGlobalVars = {"ajax_url":"https:\/\/www.nginx.com\/wordpress\/wp-admin\/admin-ajax.php","home_url":"https:\/\/www.nginx.com","wp_json_url":"https:\/\/www.nginx.com\/wp-json"}; </script>
+<script type="text/javascript">	var NginxGlobalVars = {"ajax_url":"https:\/\/www.nginx.com\/wordpress\/wp-admin\/admin-ajax.php","home_url":"https:\/\/www.nginx.com","wp_json_url":"https:\/\/www.nginx.com\/wp-json"}; </script>
  
 
 <!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
@@ -58,12 +57,12 @@
 <link rel="alternate" type="application/rss+xml" title="NGINX » Comments Feed" href="https://www.nginx.com/comments/feed/">
 <link rel="stylesheet" id="columns-css" href="https://www.nginx.com/wp-content/plugins/columns/columns.css?ver=4.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="jq-scroll-style-css" href="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.min.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="nginx-theme-style-css" href="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/style.compiled/nginx-theme.css?ver=1463486502" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css-css" href="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/magnific-popup.css?ver=1442393497" type="text/css" media="all">
-<link rel="stylesheet" id="owl-carousel-css-css" href="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/assets/owl.carousel.css?ver=1462484961" type="text/css" media="all">
-<link rel="stylesheet" id="rrssb-css-css" href="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/css/rrssb.css?ver=1455152711" type="text/css" media="all">
+<link rel="stylesheet" id="nginx-theme-style-css" href="https://www.nginx.com/wp-content/themes/nginx-theme/assets/style.compiled/nginx-theme.css?ver=1478555221" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css-css" href="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/magnific-popup.css?ver=1472105531" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel-css-css" href="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/assets/owl.carousel.css?ver=1472105556" type="text/css" media="all">
+<link rel="stylesheet" id="rrssb-css-css" href="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/css/rrssb.css?ver=1472105774" type="text/css" media="all">
 <link rel="stylesheet" id="select2-css-css" href="//cdn.jsdelivr.net/select2/4.0.0/css/select2.min.css?ver=201506070" type="text/css" media="all">
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.mcustomscrollbar/3.0.6/jquery.mCustomScrollbar.concat.min.js?ver=4.4.2"></script>
 <link rel="https://api.w.org/" href="https://www.nginx.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nginx.com/wordpress/xmlrpc.php?rsd">
@@ -72,6 +71,636 @@
 <link rel="alternate" type="application/json+oembed" href="https://www.nginx.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nginx.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.nginx.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nginx.com%2Fprivacy-policy%2F&amp;format=xml">
 <link rel="https://github.com/WP-API/WP-API" href="https://www.nginx.com/wp-json">
+            <style>
+                
+            </style>
+            <script type="text/javascript">
+            jQuery( function($) {
+                
+                function setCookie( cname, cvalue, exdays )
+                {
+                    var d = new Date();
+                    d.setTime( d.getTime() + ( exdays * 24 * 60 * 60 * 1000 ) );
+                    var expires = "expires="+ d.toUTCString();
+                    document.cookie = cname + "=" + cvalue + ";expires=" + expires + ';domain=nginx.com;path=/';
+                }
+                
+                function getCookie( cname )
+                {
+                    var name = cname + "=";
+                    var ca = document.cookie.split( ';' );
+                    for( var i = 0; i < ca.length; i++ )
+                    {
+                        var c = ca[i];
+                        while ( c.charAt( 0 ) == ' ' )
+                        {
+                            c = c.substring( 1 );
+                        }
+                        if ( c.indexOf( name ) == 0 )
+                        {
+                            return c.substring( name.length,c.length );
+                        }
+                    }
+                    return "";
+                }
+                
+                function checkCookie( cname )
+                {
+                    var c = getCookie( cname );
+                    if ( c != "" )
+                    {
+                        return true;
+                    }
+                    
+                    return false;
+                }
+                
+                function heroBannerRedirect( e )
+                {
+                    e.preventDefault();
+                    //alert(123);
+                }
+                
+                function footerBannerRedirect()
+                {
+                    
+                }
+                
+                var Banners = {
+                    
+                    heroBanners : [
+                                                {
+                            title: "",
+                            subtitle: "",
+                            button_url: "",
+                            button_text: "Download now",
+                            bg_image_url: "",
+                            bg_ipad_url: "",
+                            special_case: "1",
+                            special_html: "<div id=\"nativeapp-banner\" class=\"custom-banner gt-nativeapp-banner\">\r\n    <div class=\"nativeapp-banner-wrapper\">\r\n        <div class=\"nativeapp-banner-wrapper-inner\">\r\n            <div class=\"r8-wrapper\">\r\n                <div class=\"r8-content\">       \r\n                    <div class=\"content-left\">\r\n                         <img class=\"r8-img r9_logo\" src=\"https:\/\/assets.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/Gartner2016_Homepage_hero5_660x437@2x.png\" alt=\"\">\r\n                    <\/div>\r\n                    <div class=\"content-right\">\r\n                         <h1 id=\"r10_hero_heading\">What's the best software tool for scaling your application?<\/h1>\r\n                         <h2 id=\"r10_hero_sub_heading\">Get the answer in the 2016 Gartner Magic Quadrant for ADCs and Critical Capabilities<\/h2>\r\n                         <a class=\"r8-btn-explore new-r9-btn-explode\" id=\"hero_banner_cta_btn\" href=\"#\" data-href=\"https:\/\/www.nginx.com\/resources\/library\/gartner-magic-quadrant-2016-for-adc\/\">Download Now<\/a>\r\n                         <img style=\"position: relative; top: 25px; margin-bottom: 20px;\" src=\"https:\/\/assets.wp.nginx.com\/wp-content\/themes\/nginx-theme\/assets\/img\/landing-page\/Gartner_logo_reg_decisionA_99x23.png\" alt=\"\">\r\n                    <\/div>\r\n                <\/div>\r\n            <\/div>\r\n            <div class=\"disclaimer\">GARTNER is a registered trademark and service mark of Gartner, Inc. and\/or its affiliates in the U.S. and internationally, and is used herein with permission. All rights reserved.<\/div>\r\n        <\/div>\r\n    <\/div>\r\n<\/div>",
+                        },
+                                                {
+                            title: "Move Java Apps to Docker with Ease",
+                            subtitle: "All you need to know to containerize your apps",
+                            button_url: "https://www.nginx.com/resources/library/docker-for-java-developers/",
+                            button_text: "Download now",
+                            bg_image_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_DockerForJavaDevelopers_1392x650_bkgd1.png",
+                            bg_ipad_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_DockerForJavaDevelopers_557x793_hero1.png",
+                            special_case: "0",
+                            special_html: "",
+                        },
+                                                {
+                            title: "Get the most out of NGINX",
+                            subtitle: "The free NGINX Cookbook has recipes <br>to help you get up and running quickly",
+                            button_url: "https://www.nginx.com/resources/library/nginx-cookbook-part-1-high-performance-load-balancing/",
+                            button_text: "Download now",
+                            bg_image_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_NGINXCookbook_bkgd2_1392x650.png",
+                            bg_ipad_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_NGINXCookbook_hero1_557x793-1.png",
+                            special_case: "0",
+                            special_html: "",
+                        },
+                                                {
+                            title: "Succeed in the Cloud",
+                            subtitle: "Learn best practices for moving apps to the cloud",
+                            button_url: "https://www.nginx.com/resources/library/enterprise-cloud/",
+                            button_text: "Download now",
+                            bg_image_url: "",
+                            bg_ipad_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/a1.png",
+                            special_case: "0",
+                            special_html: "",
+                        },
+                                            ],
+                    
+                    footerBanners : [
+                                                {
+                            title: "",
+                            subtitle: "",
+                            button_url: "",
+                            button_text: "Download now",
+                            bg_image_url: "",
+                            bg_ipad_url: "",
+                        },
+                                                {
+                            title: "Move Java Apps to Docker with Ease",
+                            subtitle: "All you need to know to containerize your apps",
+                            button_url: "https://www.nginx.com/resources/library/docker-for-java-developers/",
+                            button_text: "Download now",
+                            bg_image_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_DockerForJavaDevelopers_1392x650_bkgd1.png",
+                            bg_ipad_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_DockerForJavaDevelopers_557x793_hero1.png",
+                        },
+                                                {
+                            title: "Looking to get up and running quickly with NGINX?",
+                            subtitle: "Use the easy-to-follow recipes in the free NGINX Cookbook",
+                            button_url: "https://www.nginx.com/resources/library/nginx-cookbook-part-1-high-performance-load-balancing/",
+                            button_text: "Download now",
+                            bg_image_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_NGINXCookbook_bkgd2_1392x650.png",
+                            bg_ipad_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/Ebook_NGINXCookbook_hero1_557x793-1.png",
+                        },
+                                                {
+                            title: "Succeed in the Cloud",
+                            subtitle: "Learn best practices for moving apps to the cloud",
+                            button_url: "https://www.nginx.com/resources/library/enterprise-cloud/",
+                            button_text: "Download now",
+                            bg_image_url: "",
+                            bg_ipad_url: "https://assets.wp.nginx.com/wp-content/uploads/2016/09/a1.png",
+                        },
+                                            ]
+                    
+                };
+                
+                //console.log( Banners );
+                
+                var heroCookieState = 0,
+                    footerCookieState = 0,
+                    heroCookie = 'NGXHeroBannerCookie',
+                    footerCookie = 'NGXFooterCookie';
+                    
+                if( checkCookie( heroCookie ) )
+                {
+                    heroCookieState = getCookie( heroCookie );
+                    if( heroCookieState >= 3 ) heroCookieState = 3;
+                }
+                /*var visits = getCookie( '_nx_visits' );
+                if( visits < 3 )
+                {
+                    heroCookieState = 0;
+                }*/
+                
+                                
+                if( checkCookie( footerCookie ) )
+                {
+                    footerCookieState = getCookie( footerCookie );
+                    if( footerCookieState >= 3 ) footerCookieState = 3;
+                }
+                //footerCookieState = 0;
+                
+                // Setting hero banner
+                
+                                if( Banners.heroBanners[heroCookieState].special_case == 1 )
+                {
+                    $( '.hero-banner-item' ).html( Banners.heroBanners[heroCookieState].special_html );
+                }
+                else
+                {
+                    $( '.hero-banner-item .dockernet-title' ).html( Banners.heroBanners[heroCookieState].title );
+                    $( '.hero-banner-item .dockernet-description' ).html( Banners.heroBanners[heroCookieState].subtitle );
+                    
+                    var preHeroLink = Banners.heroBanners[heroCookieState].button_url;
+                    var path = preHeroLink.split( '/' );
+                    var count = path.length;
+                    var heroLink = preHeroLink + '?utm_source=' + path[count-2] + '&utm_medium=hero';
+                    
+                    $( '.hero-banner-item #hero_banner_cta_btn' ).html( Banners.heroBanners[heroCookieState].button_text )
+                                                                    .attr( 'href', heroLink );
+                    $( '.hero-banner-item .dockernet-banner-wrapper' ).css( {
+                        backgroundImage: 'url(' + Banners.heroBanners[heroCookieState].bg_image_url + ')'
+                    } );
+                    $( '.hero-banner-item .dockernet-ipad' ).css( {
+                        backgroundImage: 'url(' + Banners.heroBanners[heroCookieState].bg_ipad_url + ')'
+                    } );
+                }
+                
+                $( '.hero-banner-item' ).css({
+                    visibility: 'visible',
+                    opacity: 0
+                });
+                
+                setTimeout( function() {
+                    $( '.hero-banner-item' ).animate({
+                        opacity: 1
+                    }, 500);
+                }, 1000 );
+                
+                $( '.hero-banner-item #hero_banner_cta_btn, .hero-banner-item .dockernet-ipad' ).click( function( e ) {
+                    e.preventDefault();
+                    
+                    var href = $( this ).attr( 'href' );
+                    if( href == '#' )
+                    {
+                        href = $( this ).data( 'href' );
+                    }
+					var btnLink =  href ;
+					var bannerName = $("#hero_banner_title").text();
+                    $( document ).trigger( 'hero-banner-cta-btn-click', [ btnLink, bannerName ] );
+                    $.post(
+                        'https://www.nginx.com/wordpress/wp-admin/admin-ajax.php',
+                        {
+                            action: 'update_ngx_banner_settings_reset'
+                        },
+                        function( response )
+                        {
+                            if( checkCookie( heroCookie ) )
+                            {
+                                var cvalue = getCookie( heroCookie );
+                            }
+                            else
+                            {
+                                var cvalue = 0;
+                            }
+                            cvalue++;
+                            
+                            setCookie( heroCookie, cvalue, 30 );
+                            window.location.href = href;
+                        }
+                    );
+                    
+                    return false;
+                } );
+                
+                                
+                                /**
+                 *
+                 *
+                // Setting for footer banner
+                $( '.blog_footer_cta .dockernet-cta-text-title' ).html( Banners.footerBanners[footerCookieState].title );
+                $( '.blog_footer_cta .dockernet-cta-text-title-inner' ).html( Banners.footerBanners[footerCookieState].subtitle );
+                $( '.blog_footer_cta #hero_banner_cta_btn' ).html( Banners.footerBanners[footerCookieState].button_text )
+                                                                .attr( 'href', Banners.footerBanners[footerCookieState].button_url );
+                $( '.blog_footer_cta .dockernet-blog-cta' ).css( {
+                    backgroundImage: 'url(' + Banners.footerBanners[footerCookieState].bg_image_url + ')'
+                } );
+                $( '.blog_footer_cta .dockernet-cta-cover img' ).attr( 'src', Banners.footerBanners[footerCookieState].bg_ipad_url );
+                
+                $( '.blog_footer_cta' ).css({
+                    visibility: 'visible',
+                    opacity: 0
+                });
+                
+                setTimeout( function() {
+                    $( '.blog_footer_cta' ).animate({
+                        opacity: 1
+                    }, 500);
+                }, 2000 );
+                
+                $( '.blog_footer_cta .dockernet-cta-cover img, .blog_footer_cta #blog_footer_cta, .blog_footer_cta #hero_banner_cta_btn' ).click( function( e ) {
+                    e.preventDefault();
+                    
+                    if( checkCookie( footerCookie ) )
+                    {
+                        var cvalue = getCookie( footerCookie );
+                    }
+                    else
+                    {
+                        var cvalue = 0;
+                    }
+                    cvalue++;
+                    
+                    setCookie( footerCookie, cvalue, 30 );
+                    window.location.href = $( '.blog_footer_cta #hero_banner_cta_btn' ).attr( 'href' );
+                    
+                    return false;
+                } );
+                */
+                                
+            } );
+            </script>
+                        <style>
+            .r8-btn-explore {
+    display: inline-block;
+    font-weight: 400;
+    text-align: left;
+    color: #000 !important;
+    text-decoration: none;
+    padding: 17px 35px;
+    background-color: #F0A828;
+    border-radius: 3px;
+    color: #000;
+    font-size: 16px;
+    line-height: 1.2;
+    position: relative;
+    text-transform: uppercase;
+    transition: background-color 0.35s ease;
+    margin-top: 50px;
+}
+
+
+/* GARTNER */
+.custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper-inner {
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 650px;
+}
+.custom-banner.gt-nativeapp-banner .r8-wrapper {
+    color: #fff;
+    text-align: center;
+    padding: 70px 0 90px 0;
+    width: 100%;
+}
+@media screen and (min-width: 800px) {
+.custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper-inner{
+    display: block;
+}
+}
+
+.disclaimer{
+    font-size: 11px;
+    text-align: center;
+    color: #999;
+    font-style: italic;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-wrapper{
+    overflow: hidden;
+}
+
+.content-left{
+    width: 50%;
+    float: left;
+}
+
+.content-right {
+  float: left;
+  padding-left: 40px;
+  padding-top: 10px;
+  width: 50%;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-content h1 {
+  font-size: 44px;
+  font-weight: lighter;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  margin-top: 0;
+  text-align: left;
+}
+
+.r8-content h2 {
+  color: #009639;
+  font-size: 22px;
+  margin: 20px 0;
+  max-width: 450px;
+  text-align: left;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-img {
+  border-right: 2px solid #fff;
+  padding-right: 80px;
+  width: 90%;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-btn-explore {
+  float: left;
+  margin-top: 15px;
+}
+
+
+@media only screen and (max-width: 979px) {
+.content-left, .content-right {
+  float: none;
+  padding: 0 50px;
+  width: 100%;
+}
+
+.custom-banner.gt-nativeapp-banner {
+  min-height: 870px;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-img {
+  border-bottom: 2px solid #fff;
+  border-right: medium none;
+  margin-bottom: 0;
+  padding-bottom: 40px;
+  padding-right: 0;
+  width: 100%;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-wrapper .r8-content h1 {
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.r8-content h2 {
+  font-size: 22px;
+  text-align: center;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-btn-explore {
+  float: none;
+}
+
+.athp-section .custom-banner.gt-nativeapp-banner,
+.athp-section .custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper,
+.athp-section .custom-banner.gt-nativeapp-banner .nativeapp-banner-wrapper-inner{
+    min-height: auto !important;
+    height: auto !important;
+}
+
+.custom-banner.gt-nativeapp-banner .r8-wrapper {
+  padding: 50px 0 20px !important;
+}
+
+.disclaimer{
+    margin-top: 20px;
+}
+}
+/* END OF GARTNER */
+
+
+
+
+
+
+/* R10 */
+.content-left{
+    width: 50%;
+    float: left;
+}
+
+.content-right {
+  float: left;
+  padding-left: 40px;
+  padding-top: 10px;
+  width: 50%;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-content h1 {
+  font-size: 44px;
+  font-weight: lighter;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  margin-top: 0;
+  text-align: left;
+}
+
+.r8-content h2 {
+  color: #009639;
+  font-size: 22px;
+  margin: 20px 0;
+  max-width: 450px;
+  text-align: left;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-img {
+  border-right: 2px solid #fff;
+  padding-right: 80px;
+  width: 90%;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-btn-explore {
+  float: left;
+  margin-top: 15px;
+}
+
+
+@media only screen and (max-width: 979px) {
+.content-left, .content-right {
+  float: none;
+  padding: 0 50px;
+  width: 100%;
+}
+
+.custom-banner.r8-nativeapp-banner {
+  min-height: 870px;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-img {
+  border-bottom: 2px solid #fff;
+  border-right: medium none;
+  margin-bottom: 0;
+  padding-bottom: 40px;
+  padding-right: 0;
+  width: 140px;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-wrapper .r8-content h1 {
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.r8-content h2 {
+  font-size: 22px;
+  text-align: center;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-btn-explore {
+  float: none;
+}
+
+.athp-section .custom-banner.r8-nativeapp-banner,
+.athp-section .custom-banner.r8-nativeapp-banner .nativeapp-banner-wrapper,
+.athp-section .custom-banner.r8-nativeapp-banner .nativeapp-banner-wrapper-inner{
+    min-height: auto !important;
+    height: auto !important;
+}
+
+.custom-banner.r8-nativeapp-banner .r8-wrapper {
+  padding: 50px 0 20px !important;
+}
+}
+/* END OF R10 */
+
+/* AMPLIFY BANNER */
+
+.amplify_beta_heading, .amplify_beta_cta{ display:none; }
+
+.custom-banner.microservices-ebook-banner .microservices-text-inner .microservices-title{ line-height:50px; padding-bottom:15px; }
+
+ @media screen and (min-width: 800px) {
+	.custom-banner.microservices-ebook-banner .microservices-text-inner .microservices-title{ line-height:75px; padding-bottom:30px; }
+
+ }
+
+@media screen and (max-width: 800px) {
+	.custom-banner.microservices-ebook-banner .microservices-text-inner .microservices-title{ 
+		line-height:40px; padding-bottom:10px; 
+		font-size: 35px;
+		text-align:center;
+	}
+
+.amplify-beta {
+  display: block;
+  float: none !important;
+  width: 100% !important;
+}
+
+.amplify-beta > img {
+  display: block !important;
+  margin: 0 auto !important;
+  max-width: 150px !important;
+  padding-top: 50px !important;
+  width: 80% !important;
+}
+
+.custom-banner.microservices-ebook-banner .microservices-text-wrapper .microservices-title {
+  font-size: 20px !important;
+}
+
+.nginx-theme-action-link-wrapper {
+  font-size: 14px!important;
+}
+
+.nginx-amplify-logo > img {
+  margin: 40px 0 20px !important;
+  max-width: 300px !important;
+  width: 100% !important;
+}
+
+
+}
+
+@media screen and (max-width: 400px) {
+    .custom-banner.microservices-ebook-banner, .custom-banner.microservices-ebook-banner .microservices-banner-wrapper, .hero-banner-item{
+            height: 550px !important;
+            min-height: auto !important;
+            overflow: hidden !important;
+        }
+        
+        .hero-banner-item{
+            margin-bottom: 30px;
+        }
+}
+
+@media only screen and (max-width: 979px) {
+	/*This codes is to hide nginxconf geo based banner from frist screen of mobile view.*/
+	.geo-header-banner.hide_from_first_screen{
+		z-index:-1000;
+	}	
+
+}
+
+.amplify-beta {
+  float: left;
+  width: 48.7106%;
+}
+
+.amplify-beta > img {
+  display: block;
+  margin: 0 100px 0 auto;
+  max-width: 300px;
+  width: 80%;
+}
+
+.custom-banner.microservices-ebook-banner .microservices-text-wrapper .microservices-title {
+  font-size: 36px;
+  line-height: 1.4 !important;
+}
+
+.nginx-amplify-logo > img {
+  margin: 60px 0 30px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.custom-banner.microservices-ebook-banner .microservices-text-wrapper {
+  display: block !important;
+  padding-top: 20px;
+}            
+            @media screen and (max-width: 400px) {
+                .custom-banner.microservices-ebook-banner, .custom-banner.microservices-ebook-banner .microservices-banner-wrapper, .hero-banner-item {
+                    height: auto !important;
+                    min-height: auto !important;
+                    overflow: hidden !important;
+                }
+            }
+            </style>
+            
 
 
 
@@ -81,535 +710,208 @@
 
 
 
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('a[href="https://www.nginx.com/free-trial-request"]').attr("href", "#free-trial");
+		jQuery('a[href="https://www.nginx.com/contact-sales"]').attr("href", "#contact-us");
+	});
+</script>
+<style>
+	#menu-header-actions li.contact-sales-menu-btn{ display:none; } /*Hide contact sales button by default to do AB testing with conductrics*/
+</style>
+
+<style>
+
+/*Universal Marketo Form CSS*/	
+
+.nx_universal_marketo_form .label {
+  margin-top: 5px;
+  text-align: left;
+}
+
+.nx_universal_marketo_form select {
+  border: 1px solid #989898;
+  height: 36px;
+  margin: 5px auto 10px;
+  width: 100%;
+}
+
+.nx_universal_marketo_form .group-label {
+  margin-top: 5px;
+  text-align: left;
+}
+
+.nx_universal_marketo_form input[type="checkbox"] {
+  display: inline-block;
+  height: 20px !important;
+  margin: 5px 0 !important;
+  width: 20px !important;
+}
+
+.nx_universal_marketo_form label {
+  display: inline-block;
+  margin: 5px 0 7px;
+  padding-left: 10px;
+  text-align: left;
+  vertical-align: top;
+  width: calc(100% - 20px);
+}
+
+.contact-us-inner {
+  height: 95vh !important;
+  overflow-y: scroll;
+}
+
+.nx_universal_marketo_form select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+
+label, .label, .group-label, input, textarea, select {
+  color: #989898;
+}
+
+.label, .group-label{
+  font-weight: normal;
+}
+
+.label span, .group-label span{
+  font-weight: lighter;
+}
+
+.label {
+  clear: both;
+  padding-top: 5px;
+}
+
+.input-wrapper .label {
+  padding-top: 5px;
+}
+
+div.label {
+  padding-top: 10px;
+}
+
+.input-wrapper select.pull-right {
+  margin-top: 15px;
+}
+
+.input-wrapper .select-wrapper::after {
+  top: 17px;
+}
+
+.pull-left{
+	float: left;
+}
+
+.pull-right{
+	float: right;
+}
+
+.label.pull-left {
+  width: 70%;
+}
+
+select.pull-right {
+  margin-top: 15px;
+  max-width: 65px;
+  width: 28%;
+}
+
+input.pull-left {
+  margin: 0 !important;
+  width: 20px !important;
+}
+
+.regpg-main-section-inner .regpg-main-description {
+  margin-right: 4%;
+  width: 56%;
+}
+
+.regpg-main-section-inner .regpg-main-form {
+  width: 40%;
+}
+
+.column.pull-left {
+  margin-right: 1%;
+  margin-left: 0;
+  width: 49%;
+}
+
+.column.pull-right {
+  margin-left: 1%;
+  margin-right: 0;
+  width: 49%;
+}
+
+.nx_universal_marketo_form .group-label {
+  clear: both;
+  margin: 10px 0;
+  padding-top: 20px;
+}
+
+.select-wrapper{
+	position: relative;
+}
+
+.select-wrapper::after {
+  color: #989898;
+  content: "3";
+  font-family: "nginx-font" !important;
+  font-size: 22px;
+  position: absolute;
+  right: 10px;
+  top: 9px;
+  pointer-events:none; /*To make this arrow clickable, othewise this <selec> is not expanded when click on this arrow*/
+}
+.input-wrapper {
+  clear: both;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+.regpg-main-section-inner .regpg-main-description {
+  display: block;
+  float: none;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.regpg-main-section-inner .regpg-main-form {
+  display: block;
+  float: none;
+  margin: 0 auto;
+  width: 100%;
+}	
+
+.pull-left, .pull-right, .column.pull-left, .column.pull-right {
+  float: none;
+  margin: 5px 0 !important;
+  width: 100% !important;
+}
+
+.input-wrapper .select-wrapper {
+  max-width: 70px;
+}
+
+
+.select-wrapper::after, .input-wrapper .select-wrapper::after {
+  top: 8px;
+}
+
+.nx_universal_marketo_form label {
+  margin: 4px 0;
+}
+
+}
+</style>
 
 
 <script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>
 <body class="page page-id-919 page-template-default group-blog audience-group-none">
-
-<!-- banner 1-->
-<!-- Show if visitor from US and [not list with NYC] -->
-<div class="geo-header-banner" id="geo-header-nginx-conf">
-	<div class="site-header-inner">
-		<div class="banner-content-desktop" style="background-image: url('https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/ConfPromo_logo@2x.png');">
-			<div class="banner-content-left">
-				<h3>Register for nginx.conf 2016, Sept. 7-9 in Austin, TX and save $400</h3>
-				<p>Join us and industry leaders to learn how to build &amp; deliver applications, flawlessly.</p>	
-			</div>
-			<div class="banner-content-right">
-				<a target="_blank" href="https://www.nginx.com/nginxconf/?utm_source=nginxcom&amp;utm_medium=banner&amp;utm_content=mainpage&amp;utm_campaign=nginxconf16-banner-mainpage" class="btn-conf-reg conf_ab_link" id="btn-reg-nyc">Register Now</a>
-			</div>
-		</div>
-	</div>
-	<a href="#" class="btn-close-reg"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/reg-close-btn.png"></a>
-	
-	<div class="banner-content-mobile" style="background-image: url('https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/ConfPromo_bnr_mobile_640x300.png');">
-	<a class="conf_ab_link" target="_blank" href="https://www.nginx.com/nginxconf/?utm_source=nginxcom&amp;utm_medium=banner&amp;utm_content=mainpage&amp;utm_campaign=nginxconf16-banner-mainpage">
-		<p>Register now for nginx.conf 2016, Sept. 7-9 in Austin, TX and save $400!</p>
-		<p class="btn-close-reg"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/reg-close-btn.png"></p>
-	</a>
-	</div>
-</div>
-
-
-<!-- banner 3-->
-<!--Show if visitor from GB ( Ingland )-->
-<div class="geo-header-banner" id="geo-header-london-summit">
-	<div class="site-header-inner">
-		<div class="banner-content-desktop" style="background-image: url('https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/SummitPromo_LON@2x.png');">
-			<div class="banner-content-left">
-				<h3>Register for the NGINX Summit + Training June 8 in London and save $50!</h3>
-				<p>Learn how NGINX can improve app performance and hear from NGINX experts</p>	
-			</div>
-			<div class="banner-content-right">
-				<a target="_blank" href="http://www.eventbrite.com/e/nginx-summit-training-london-tickets-24503977055?aff=nginxcomlondon" class="btn-conf-reg" id="btn-reg-nyc">Register Now</a>
-			</div>
-		</div>
-	</div>
-	<a href="#" class="btn-close-reg"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/reg-close-btn.png"></a>
-	
-	<div class="banner-content-mobile" style="background-image: url('https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/SummitPromo_bnr_mobile_LON_640x300.png');">
-	<a target="_blank" href="http://www.eventbrite.com/e/nginx-summit-training-london-tickets-24503977055?aff=nginxcomlondon">
-		<p>Register now for the NGINX Summit + Training June 8 in London and save $50!</p>
-		<p class="btn-close-reg"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/reg-close-btn.png"></p>
-	</a>
-	</div>
-</div>
-
-<!-- banner 4-->
-<!--show for visitor from US and city list with NYC-->
-<div class="geo-header-banner" id="geo-header-nyc-summit">
-	<div class="site-header-inner">
-		<div class="banner-content-desktop" style="background-image: url('https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/SummitPromo_NYC_@2x.png');">
-		
-			<div class="banner-content-left">
-				<h3>Register for the NGINX Summit + Training June 16 in NYC and save $50!</h3>
-				<p>Learn how NGINX can improve app performance and hear from NGINX experts</p>	
-			</div>
-			<div class="banner-content-right">
-				<a target="_blank" href="http://www.eventbrite.com/e/nginx-summit-training-nyc-tickets-24432335774?aff=nginxcomnyc" class="btn-conf-reg" id="btn-reg-nyc">Register Now</a>
-			</div>
-		</div>
-	</div>
-	<a href="#" class="btn-close-reg"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/reg-close-btn.png"></a>
-	
-	<div class="banner-content-mobile" style="background-image: url('https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/SummitPromo_bnr_mobile_NYC_640x300.png');">
-	<a target="_blank" href="http://www.eventbrite.com/e/nginx-summit-training-nyc-tickets-24432335774?aff=nginxcomnyc">
-		<p>Register now for the NGINX Summit + Training June 16 in NYC and save $50!</p>
-		<p class="btn-close-reg"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/header-banner/reg-close-btn.png"></p>
-	</a>
-	</div>
-</div>
-
-<style type="text/css">
-	.geo-header-banner{ 
-		background: #fff;
-		width:100%;
-		height:75px;
-		z-index:9999999999;
-		position:fixed;
-		display: none;
-		bottom:0;
-	}
-
-	.hide-banner{
-		display: none!important;
-	}
-
-	.geo-header-banner .site-header-inner {
-	  max-width: 1250px;
-	  padding: 0;
-	}
-
-	.geo-header-banner .banner-content-desktop{ 
-		width:100%;
-		height:75px;
-		background-size: auto 100%;
-		background-position: top left;
-		background-repeat: no-repeat;
-	}
-
-	#geo-header-nyc-summit{
-		
-		background: #fff; 
-	}
-
-	#geo-header-london-summit{
-		background: #fff; /*display: block;*/
-		}
-
-	#geo-header-nginx-conf{ 
-		background: #f1f1f1;
-
-	}
-
-
-	.banner-content-left {
-	  float: left;
-	  margin-left: 250px;
-	  padding-top: 16px;
-	}
-
-	#geo-header-london-summit .banner-content-left, #geo-header-nyc-summit .banner-content-left {
-	  margin-left: 280px;
-	}
-
-	.banner-content-right {
-	  float: right;
-	  margin-right: 70px;
-	  padding-top: 18px;
-	}
-
-	.banner-content-left > h3 {
-	  color: #3b3c3c;
-	  font-size: 16px;
-	  font-weight: 400;
-	  margin-bottom: 0;
-	  margin-top: 0;
-	}
-
-	.banner-content-left > p {
-	  color: #3b3c3c;
-	  font-size: 15px;
-	  font-weight: 200;
-	  margin-top: 3px;
-	}
-
-
-	.btn-conf-reg {
-	  background-color: #f0a828;
-	  border-radius: 3px;
-	  color: #000 !important;
-	  display: inline-block;
-	  font-size: 16px;
-	  font-weight: 400;
-	  line-height: 1.2;
-	  margin-top: -5px;
-	  padding: 15px 30px;
-	  position: relative;
-	  text-align: left;
-	  text-decoration: none;
-	  text-transform: uppercase;
-	  transition: background-color 0.35s ease 0s;
-	}
-
-	.btn-close-reg > img {
-	  position: absolute;
-	  right: 10px;
-	  top: 5px;
-	  width: 25px;
-	}
-
-/* Banner style for mobile */
-
-.banner-content-mobile{
-	display: none;
-	height: 70px;
-	width: 100%;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center center;
-	/* To keep the banner sticky on footer */
-	position:fixed;
-	bottom:0;
-}
-
-
-.banner-content-mobile > a {
-  display: block;
-  height: 70px;
-}
-
-.banner-content-mobile > a > p:first-child {
-  color: #3b3c3c;
-  font-size: 14px;
-  font-weight: 400;
-  margin-bottom: 3px;
-  padding: 15px 50px 0px 50px;
-  text-align: center;
-}
-
-.banner-content-mobile .btn-close-reg {
-  cursor: pointer;
-  float: right;
-  height: 35px;
-  position: absolute;
-  right: 0;
-  top: 0px;
-  width: 35px;
-}
-
-.banner-content-mobile .btn-close-reg img {
-  margin: 0;
-  padding: 0;
-  right: 2px;
-  top: 2px;
-  width: 20px; 
-}
-
-
-
-@media only screen and (min-width: 1170px) and (max-width: 1332px) {
-
-
-.banner-content-right {
-  margin-right: 50px;
-}
-
-
-}
-
-
-@media only screen and (min-width: 980px) and (max-width: 1169px) {
-
-.geo-header-banner .banner-content-desktop {
-  background-position: -35px top;
-}
-
-
-.banner-content-right {
-  margin-right: 50px;
-}
-
-#geo-header-london-summit.geo-header-banner .banner-content-desktop {
-  background-position: -30px top;
-}
-
-
-#geo-header-london-summit .banner-content-right {
-  margin-right: 55px;
-}
-
-#geo-header-london-summit .btn-conf-reg {
-  font-size: 14px;
-  margin-top: 2px;
-  padding: 10px;
-}
-
-#geo-header-nyc-summit .banner-content-left {
-  margin-left: 235px;
-}
-.btn-conf-reg {
-  font-size: 14px;
-  margin-top: 0;
-  padding: 12px 20px;
-}
-
-
-}
-
-
-
-@media only screen and (max-width: 979px) {
-	.banner-content-desktop {
-		display: none;
-	}
-	.banner-content-mobile{
-		display: block;
-	}
-
-	.geo-header-banner {
-	  height: 70px;
-	}
-	.geo-header-banner > .btn-close-reg {
-	  display: none;
-	}
-	body.banner-active{ padding-bottom:70px; }
-}
-
-@media only screen and (min-width: 980px) and (max-width: 1023px) {
-#geo-header-nyc-summit .btn-conf-reg {
-  font-size: 14px;
-  margin-top: 2px;
-  padding: 10px;
-}
-
-#geo-header-london-summit .banner-content-left > p {
-  font-size: 13px;
-}
-
-#geo-header-london-summit .banner-content-right {
-  margin-right: 45px;
-}
-
-}
-
-
-</style>
-
-<script type="text/javascript">
-
-(function($){
-
-	$(document).ready(function(){
-
-
-		var banner_shown_by_hash = false;
-		var show_hide_decision = "show";
-		var geoLocation = "";
-		var geoCountryCode = "";
-		var geoCityCode = "";		
-
-	
-		//Bring menu down while banner is active
-
-		$(".btn-close-reg").click(function(e){
-		
-			e.preventDefault();
-		   $("body").removeClass("banner-active");// Comment out To keep the banner sticky on footer
-		    $(".geo-header-banner").addClass("hide-banner");
-			if( banner_shown_by_hash == false )
-			{
-			var closed = parseInt( readCookie("_nx_ban_closed") ) || 0;
-			writeCookie("_nx_ban_closed", ++closed , 8760 ) //one year
-			}
-	
-		}); 
-		
-		function show_this_banner( id ){
-			$("body").addClass("banner-active");// Comment out To keep the banner sticky on footer
-			jQuery( id ).show();
-		}
-
-		function show_conf_banner(){
-			//updating link for a/b testing
-			var conf_link_A = "https://www.nginx.com/nginxconf?utm_source=nginxcom&utm_medium=banner&utm_content=mainpage&utm_campaign=nginxconf16-banner-mainpage";
-			var conf_link_B = "https://nginxconf16.busyconf.com/bookings/new?utm_source=nginxcom&utm_medium=banner&utm_content=registration&utm_campaign=nginxconf16-banner-registration";
-			var ab_link = conf_link_A;
-		
-		 jQuery.ajax({
-		   url: NginxGlobalVars.ajax_url,
-		   type: "POST",
-		   global: false,
-		   cache: false,
-		   async: true,
-		   data:{"action":"nginx_conf_link_ab_test_case"},
-			success: function(json_result){				
-				
-				var response=jQuery.parseJSON( json_result )
-					if(response.status=='success')
-					{
-					var ab_case = response.ab_case;				
-					}
-					if( ab_case == "B" ){ ab_link = conf_link_B; }
-		
-					
-					//UPDATE CONF BANNER WITH ab_link
-					
-					jQuery(".conf_ab_link").attr("href", ab_link );
-					show_this_banner("#geo-header-nginx-conf");
-										
-					
-				},
-					   
-			});//end jQuery.ajax	
-					
-		}//end function 
-		
-		function show_banner_when_hash_exists(){ // This function is for test purpose
-			var hash = window.location.hash;
-			if( hash != "" )
-			{
-				if( hash == "#banner-london-summit")
-				{
-					show_this_banner("#geo-header-london-summit");
-					return true;
-				}
-				else if( hash == "#banner-nyc-summit" )
-				{
-					show_this_banner("#geo-header-nyc-summit");
-					return true;
-				}
-				else if( hash == "#banner-nginx-conf" )
-				{
-					show_conf_banner();
-					return true;
-				}
-				else
-				{
-					return false;
-				}								
-				
-			}
-		
-		return false;
-		}
-		
-
-
-
-		function geo_banner_do_the_rest(){
-			
-		
-			if( show_hide_decision != "show" )
-			{
-			return;
-			}
-						
-			var banner_closed = parseInt( readCookie("_nx_ban_closed") )|| 0;
-			var _nx_visits = parseInt( readCookie("_nx_visits") )|| 0;
-			var show_banner = true;
-	
-			if( banner_closed > 0 ){
-				if( ( _nx_visits % 5 ) == 0 ) 
-					{
-					show_banner =  true;
-					writeCookie("_nx_ban_closed", 0 , 8760 ) //one year
-					}
-					else
-					{
-					show_banner =  false;
-					}
-			}
-	
-							
-			
-			if( show_banner )
-			{
-					
-	
-			
-				if( geoCountryCode !="" && geoCityCode !="" )
-				{
-					if( geoCountryCode == "US" )
-					{
-						if( geoCityCode == "NY" || 
-							geoCityCode == "PA" || 
-							geoCityCode == "MA" || 
-							geoCityCode == "CT" || 
-							geoCityCode == "NJ" || 
-							geoCityCode == "DE" || 
-							geoCityCode == "MD" || 
-							geoCityCode == "RI" || 
-							geoCityCode == "VA"
-						)
-						{
-							//show NYC summit header
-							show_this_banner("#geo-header-nyc-summit");
-						}
-						else
-						{
-							
-							show_conf_banner();	
-							
-						}
-					
-					}
-					else if( geoCountryCode =="GB" )
-					{
-						//show London summit header
-						show_this_banner("#geo-header-london-summit");
-					}
-				
-				}//end if geoCountryCode
-			
-			}//if show_banner		
-		
-		
-		}//end function	geo_banner_do_the_rest	
-		
-		
-		
-		function goe_banner_main(){	
-		
-			
-			banner_shown_by_hash = show_banner_when_hash_exists();	
-			if( banner_shown_by_hash == true ) 
-			return;
-			//---------------------
-			
-			
-			//Some vars
-			//Read cookie and set vars
-			geoLocation = readCookie('geoip'); //readCookie function defined in nginx-theme.js
-			if( geoLocation !="" )
-			{
-				var geoCodes = geoLocation.split(',');
-				geoCountryCode = geoCodes[0];
-				geoCityCode = geoCodes[1];
-			}
-			
-			if( geoCountryCode == "" || ( geoCountryCode != "US" && geoCountryCode != "GB" ) )
-			{ 
-			return; 
-			}
-			
-			geo_banner_do_the_rest();
-			
-		}// end function goe_banner_main
-		
-		
-		
-		
-		goe_banner_main();
-		
-	
-	
-	
-	});//end document ready
-
-
-})( jQuery );
-</script>
 <div id="page" class="hfeed site">
 
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -620,7 +922,7 @@
 
 			<div class="site-branding-wrapper">
 				<div class="site-branding">
-					<div class="site-title" itemprop="name"><a href="https://www.nginx.com/" rel="home"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img//logo.png" alt="Web Server Load Balancing with NGINX Plus"></a></div>
+					<div class="site-title" itemprop="name"><a href="https://www.nginx.com/" rel="home"><img src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img//logo.png" alt="Web Server Load Balancing with NGINX Plus"></a></div>
 				</div><!-- /.site-branding -->
 			</div><!-- /.site-branding-wrapper -->
 
@@ -628,22 +930,18 @@
 
 				<div class="header-actions-menu-location-wrapper">
 					<nav class="header-actions-menu-location" role="navigation">
-						<div class="menu-header-actions-container"><ul id="menu-header-actions" class="menu"><li id="menu-item-5252" class="free-trial-menu-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-5252"><a href="#free-trial">Free Trial</a></li>
+						<div class="menu-header-actions-container"><ul id="menu-header-actions" class="menu"><li id="menu-item-5252" class="free-trial-menu-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-5252"><a href="https://www.nginx.com/free-trial-request">Free Trial</a></li>
 <li id="menu-item-4811" class="contact-sales-menu-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-4811"><a href="#contact-us">Contact Sales</a></li>
 </ul></div>					</nav><!-- /.header-actions-menu-location -->
 				</div><!-- /.header-actions-menu-location -->
-				<script type="text/javascript">
-					var elements = document.getElementsByClassName('free-trial-menu-btn');
-					elements[0].firstChild.setAttribute("href" , "#free-trial");
-				</script>
-
 				<div class="primary-menu-location-wrapper">
-                    <a class="sticky-menu-logo" href="https://www.nginx.com/" rel="home"><img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img//nginx_n_icon.png" alt="Web Server Load Balancing with NGINX Plus"></a>
+                    <a class="sticky-menu-logo" href="https://www.nginx.com/" rel="home"><img src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img//nginx_n_icon.png" alt="Web Server Load Balancing with NGINX Plus"></a>
 					<nav id="site-navigation" class="primary-menu-location" role="navigation">
 						<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-3570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3570"><a href="https://www.nginx.com/products/"><span class="inner">Products</span><span class="icon icon-arrow-down"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-4296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4296"><a href="https://www.nginx.com/products/"><span class="inner">NGINX Plus</span></a></li>
 	<li id="menu-item-4441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4441"><a href="https://www.nginx.com/products/technical-specs/"><span class="inner">Technical Specifications</span></a></li>
+	<li id="menu-item-43772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43772"><a href="https://www.nginx.com/resources/admin-guide/nginx-plus-releases/"><span class="inner">NGINX Plus Releases</span></a></li>
 	<li id="menu-item-3680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3680"><a href="https://www.nginx.com/products/feature-matrix/"><span class="inner">Compare Versions</span></a></li>
 	<li id="menu-item-3917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3917"><a href="https://www.nginx.com/products/pricing/"><span class="inner">Price &amp; Buy</span></a></li>
 	<li id="menu-item-19951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19951"><a href="https://www.nginx.com/products/nginx-plus-aws/"><span class="inner">NGINX Plus for AWS</span></a></li>
@@ -654,14 +952,13 @@
 <li id="menu-item-3572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3572"><a href="https://www.nginx.com/solutions/"><span class="inner">Solutions</span><span class="icon icon-arrow-down"></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-3577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3577"><a href="https://www.nginx.com/solutions/load-balancing/"><span class="inner">Load Balancing</span></a></li>
-	<li id="menu-item-3574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3574"><a href="https://www.nginx.com/solutions/web-server/"><span class="inner">Web Server</span></a></li>
-	<li id="menu-item-3576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3576"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/"><span class="inner">Web &amp; Mobile Acceleration</span></a></li>
-	<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"><a title="test" href="https://www.nginx.com/solutions/application-security/"><span class="inner">Application Security</span></a></li>
+	<li id="menu-item-11336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11336"><a href="https://www.nginx.com/solutions/adc/"><span class="inner">Application Delivery Controller</span></a></li>
 	<li id="menu-item-19042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19042"><a href="https://www.nginx.com/solutions/microservices/"><span class="inner">Microservices</span></a></li>
 	<li id="menu-item-21517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21517"><a href="https://www.nginx.com/solutions/cloud/"><span class="inner">Move to the Cloud</span></a></li>
 	<li id="menu-item-3573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3573"><a href="https://www.nginx.com/solutions/api-gateway/"><span class="inner">API Gateway</span></a></li>
-	<li id="menu-item-3575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3575"><a href="https://www.nginx.com/solutions/streaming-media/"><span class="inner">Streaming Media</span></a></li>
-	<li id="menu-item-11336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11336"><a href="https://www.nginx.com/solutions/adc/"><span class="inner">Application Delivery Controller</span></a></li>
+	<li id="menu-item-3576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3576"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/"><span class="inner">Web &amp; Mobile Acceleration</span></a></li>
+	<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"><a title="test" href="https://www.nginx.com/solutions/application-security/"><span class="inner">Application Security</span></a></li>
+	<li id="menu-item-3574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3574"><a href="https://www.nginx.com/solutions/web-server/"><span class="inner">Web Server</span></a></li>
 </ul>
 </li>
 <li id="menu-item-3622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3622"><a href="https://www.nginx.com/resources/"><span class="inner">Resources</span><span class="icon icon-arrow-down"></span></a>
@@ -796,12 +1093,12 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		</div><!-- /.nginx-theme-server-reinvented-widget-content -->
 		</aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">About NGINX</h3>			<div class="textwidget"><p>NGINX is the heart of the modern web, powering half of the world’s busiest sites and applications. The company's comprehensive <a href="https://www.nginx.com/products/">application delivery platform</a> combines load balancing, content caching, web serving, security controls, and monitoring in one easy-to-use software package.</p>
 </div>
-		</aside><aside id="nginx_theme_blog_ad_widget-2" class="widget widget_nginx_theme_blog_ad_widget">		<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1439565675"></script>
-		<div class="adminguide-ad" id="howto-ebook" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-howto.jpg"></div>
-		<div class="adminguide-ad" id="http2-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http21.png"></div>
-		<div class="adminguide-ad" id="http2-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http22.png"></div>
-		<div class="adminguide-ad" id="microservices-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices1.jpg"></div>
-		<div class="adminguide-ad" id="microservices-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices2.jpg"></div>
+		</aside><aside id="nginx_theme_blog_ad_widget-2" class="widget widget_nginx_theme_blog_ad_widget">		<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1439565675"></script>
+		<div class="adminguide-ad" id="howto-ebook" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-howto.jpg"></div>
+		<div class="adminguide-ad" id="http2-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http21.png"></div>
+		<div class="adminguide-ad" id="http2-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-http22.png"></div>
+		<div class="adminguide-ad" id="microservices-ebook-1" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices1.jpg"></div>
+		<div class="adminguide-ad" id="microservices-ebook-2" style="text-align: center; cursor: pointer; display: none;"><img width="300" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/admin-guide-ad/nginxad-microservices2.jpg"></div>
 		<script type="text/javascript">
 			$(document).ready(function(){
 			    $.conductrics({
@@ -852,21 +1149,21 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 				});
 			});
 		</script>
-		</aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+		</aside>		<aside id="recent-posts-5" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
 					<li>
-				<a href="https://www.nginx.com/blog/2016-nginx-user-survey-help-us-shape-the-future/">2016 NGINX User Survey: Help Us Shape the Future</a>
+				<a href="https://www.nginx.com/blog/alkami-technology-achieves-a-plus-security-and-scalability-with-nginx-plus/">Alkami Technology Achieves “A+” Security and Scalability with NGINX Plus</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/deploying-nginx-plus-kubernetes-google-cloud-platform/">Deploying NGINX Plus &amp; Kubernetes on Google Cloud Platform</a>
+				<a href="https://www.nginx.com/blog/expedia-uses-nginx-for-cloud-migration-at-scale/">How Expedia Uses NGINX Plus for Cloud Migration at Scale</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/custom-dashboards-nginx-amplify/">Introducing Custom Dashboards in NGINX&nbsp;Amplify</a>
+				<a href="https://www.nginx.com/blog/building-secure-fast-network-fabric-microservices-applications/">Building a Secure, Fast Network Fabric for Microservices Applications</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/microservices-reference-architecture-nginx-proxy-model/">Microservices Reference Architecture, Part&nbsp;2&nbsp;– The Proxy Model</a>
+				<a href="https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/">Compiling Dynamic Modules for NGINX Plus</a>
 						</li>
 					<li>
-				<a href="https://www.nginx.com/blog/microservices-from-design-to-deployment-ebook-nginx/">Microservices: From Design to Deployment, a Free Ebook from NGINX</a>
+				<a href="https://www.nginx.com/blog/nginx-plus-r11-released/">Announcing NGINX Plus R11</a>
 						</li>
 				</ul>
 		</aside>		</div><!-- #secondary -->
@@ -881,24 +1178,37 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		<!-- button -->
 		<div class="pre-footer-cta-button">
 				<div class="nginx-theme-action-link-wrapper for-default-try has-icon">
-		<a class="nginx-theme-action-link for-default-try" href="#free-trial"> Try NGINX Plus for free</a>			<div class="icon icon-arrow-disc"></div>
+		<a class="nginx-theme-action-link for-default-try" href="https://www.nginx.com/free-trial-request"> Try NGINX Plus for free</a>			<div class="icon icon-arrow-disc"></div>
 			</div>
 			</div>
 
 		<!-- button -->
 		<div class="pre-footer-cta-button">
 				<div class="nginx-theme-action-link-wrapper for-default-ask has-icon">
-		<a class="nginx-theme-action-link for-default-ask" href="#contact-us"> Ask us a question</a>			<div class="icon icon-arrow-disc"></div>
+		<a class="nginx-theme-action-link for-default-ask" href="https://www.nginx.com/contact-sales"> Ask us a question</a>			<div class="icon icon-arrow-disc"></div>
 			</div>
 			</div>
 
 		<!-- email signup field -->
 		<div class="default-pre-footer-cta-signup-wrapper">
-			<form action="https://app-ab05.marketo.com/index.php/leadCapture/save" class="default-pre-footer-cta-signup" enctype="application/x-www-form-urlencoded" id="mf1" method="post">
-			<input class="default-pre-footer-cta-signup-input" id="Email Address" name="Email" placeholder="Sign up for newsletter" required="" type="email"><button id="prefooterdefbutton" style="display: none;"></button>
+			
+			<form id="mf1" action="https://app-ab05.marketo.com/index.php/leadCapture/save" method="post" enctype="application/x-www-form-urlencoded" class="default-pre-footer-cta-signup">
+			<input type="email" name="Email" id="Email Address" placeholder="Sign up for newsletter" class="default-pre-footer-cta-signup-input" required="">
+			<button style="display: none;" id="prefooterdefbutton"></button>
 			<span class="home_cta_signup_btn" type="submit"><div class="icon icon-arrow-submit"></div></span>
-			<input name="formid" type="hidden" value="1544"><input name="munchkinId" type="hidden" value="990-FXF-735"><input name="_mkt_trk" type="hidden" value=""><input name="returnURL" type="hidden" value="https://www.nginx.com/newsletter-signup/confirmation/"><span style="display:none;"><input name="_marketo_comments" type="text" value=""></span></form>		</div>
-
+			<input name="_mkt_trk" type="hidden" value="id:990-FXF-735&amp;token:_mch-nginx.com-1431296138434-48679">
+<input name="munchkinId" type="hidden" value="990-FXF-735">
+<input name="formid" type="hidden" value="1544">
+<input name="returnURL" type="hidden" value="https://www.nginx.com/newsletter-signup/confirmation/">
+</form>		</div>
+		<script type="text/javascript">
+            //autofill off for email
+            jQuery(document).ready(function(e) {
+                setTimeout( function(){
+                 jQuery(".default-pre-footer-cta-signup-input").val(""); 
+                },1000 );
+            });
+        </script>
 	</div><!-- /.pre-footer-cta-inner -->
 </section><!-- /.pre-footer-cta-wrapper -->
 	<footer id="colophon" class="site-footer" role="contentinfo">
@@ -921,14 +1231,13 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 					<ul id="menu-footer-solutions" class="footer-menu"><li id="menu-item-4128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4128"><a href="https://www.nginx.com/solutions/">Solutions</a>
 <ul class="sub-menu">
 	<li id="menu-item-4130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4130"><a href="https://www.nginx.com/solutions/load-balancing/">Load Balancing</a></li>
-	<li id="menu-item-4134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4134"><a href="https://www.nginx.com/solutions/web-server/">Web Server</a></li>
-	<li id="menu-item-4129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4129"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/">Web &amp; Mobile Acceleration</a></li>
-	<li id="menu-item-4131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4131"><a href="https://www.nginx.com/solutions/application-security/">Application Security</a></li>
+	<li id="menu-item-24967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24967"><a href="https://www.nginx.com/solutions/adc/">Application Delivery Controller</a></li>
 	<li id="menu-item-24957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24957"><a href="https://www.nginx.com/solutions/microservices/">Microservices</a></li>
 	<li id="menu-item-24962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24962"><a href="https://www.nginx.com/solutions/cloud/">Move to the Cloud</a></li>
 	<li id="menu-item-4132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4132"><a href="https://www.nginx.com/solutions/api-gateway/">API Gateway</a></li>
-	<li id="menu-item-4133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4133"><a href="https://www.nginx.com/solutions/streaming-media/">Streaming Media</a></li>
-	<li id="menu-item-24967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24967"><a href="https://www.nginx.com/solutions/adc/">Application Delivery Controller</a></li>
+	<li id="menu-item-4129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4129"><a href="https://www.nginx.com/solutions/web-mobile-acceleration/">Web &amp; Mobile Acceleration</a></li>
+	<li id="menu-item-4131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4131"><a href="https://www.nginx.com/solutions/application-security/">Application Security</a></li>
+	<li id="menu-item-4134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4134"><a href="https://www.nginx.com/solutions/web-server/">Web Server</a></li>
 </ul>
 </li>
 </ul>				</nav><!-- /.footer-menu-location -->
@@ -975,16 +1284,30 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 						<li><a href="https://www.facebook.com/nginxinc" class="icon-facebook">facebook</a></li>
 						<li><a href="https://twitter.com/nginx" class="icon-twitter">twitter</a></li>
 						<li><a href="http://www.linkedin.com/company/nginx" class="icon-linkedin">linkedin</a></li>
-						<li style="margin-right:-3px;margin-left:2px;"><a href="https://www.youtube.com/user/NginxInc"><img style="width:26px;height:auto;" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/yt-nginx@2x.png"></a></li>
+						<li style="margin-right:-3px;margin-left:2px;"><a href="https://www.youtube.com/user/NginxInc"><img style="width:26px;height:auto;" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/img/yt-nginx@2x.png"></a></li>
 						<li><a href="https://www.nginx.com/feed/" class="icon-rss">rss</a></li>
 					</ul>
 				</div>
 				<div class="footer-email-signup">
 					<span class="footer-head">Stay in the Loop</span>
-					<form action="https://app-ab05.marketo.com/index.php/leadCapture/save" class="regpg-main-form-element" enctype="application/x-www-form-urlencoded" id="mf1" method="post">
-					<input id="Email Address" name="Email" placeholder="enter your email" required="" type="email"><button id="footernewsletter" style="display: none;"></button>
-					<div class="footer_newsletter_arrow" type="submit"><div class="icon icon-arrow-submit"></div></div>
-					<input name="formid" type="hidden" value="1544"><input name="munchkinId" type="hidden" value="990-FXF-735"><input name="_mkt_trk" type="hidden" value=""><input name="returnURL" type="hidden" value="https://www.nginx.com/newsletter-signup/confirmation/"><span style="display:none;"><input name="_marketo_comments" type="text" value=""></span></form>				</div>
+					
+					<form id="mf1" action="https://app-ab05.marketo.com/index.php/leadCapture/save" method="post" enctype="application/x-www-form-urlencoded" class="regpg-main-form-element">
+					<input type="email" name="Email" id="Email Address" placeholder="enter your email" class="footer-email-signup-input" required="">
+					<button style="display: none;" id="footernewsletter"></button>
+					<div type="submit" class="footer_newsletter_arrow"><div class="icon icon-arrow-submit"></div></div>
+					<input name="_mkt_trk" type="hidden" value="id:990-FXF-735&amp;token:_mch-nginx.com-1431296138434-48679">
+<input name="munchkinId" type="hidden" value="990-FXF-735">
+<input name="formid" type="hidden" value="1544">
+<input name="returnURL" type="hidden" value="https://www.nginx.com/newsletter-signup/confirmation/">
+</form>				</div>
+				<script type="text/javascript">
+                    //autofill off for email
+                    jQuery(document).ready(function(e) {
+                        setTimeout( function(){
+                         jQuery(".footer-email-signup-input").val(""); 
+                        },1000 );
+                    });
+                </script>
 			</div>
 
 			<div class="site-info">
@@ -999,9 +1322,261 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		<div class="free-trial-inner">
 			<h2 class="free-trial-title">TRY NGINX PLUS!</h2>
 			<h4>Download a 30 day free trial and see what you've been missing.</h4>
-			<form action="https://app-ab05.marketo.com/index.php/leadCapture/save" class="regpg-main-form-element nginx_free_trial_form" enctype="application/x-www-form-urlencoded" id="mf1" method="post">
-			<input class="mf3_form_fname" id="First Name" name="FirstName" placeholder="First Name" required="" type="text" value=""><input class="mf3_form_lname" id="Last Name" name="LastName" placeholder="Last Name" required="" type="text" value=""><input class="mf3_form_email" id="Email Address" name="Email" placeholder="Email" required="" type="email" value=""><input class="mf3_form_company" id="Company" name="Company" placeholder="Company" required="" type="text" value=""><input class="mf3_form_job_title" id="Title" name="Title" placeholder="Job Title" required="" type="text" value=""><input class="mf3_form_phone" id="Phone Number" name="Phone" placeholder="Phone Number" required="" type="tel" value=""><select id="Country" name="Country"><option value="US">United States</option><option value="CA">Canada</option><option value="AF">Afghanistan</option><option value="AX">Ãland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="BN">Brunei Darussalam</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CD">Congo, The Democratic Republic of The</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="CI">Cote D'ivoire</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands (Malvinas)</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and McDonald Islands</option><option value="VA">Holy See (Vatican City State)</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran, Islamic Republic of</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KP">Korea, Democratic People's Republic of</option><option value="KR">Korea, Republic of</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Lao People's Democratic Republic</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia, The Former Yugoslav Republic of</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="MD">Moldova, Republic of</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestine</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russian Federation</option><option value="RW">Rwanda</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and The Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and The South Sandwich Islands</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syrian Arab Republic</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania, United Republic of</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="VG">Virgin Islands, British</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select><!--<input id="name-tp" name="NameTp" type="text" value=""></input>--><button id="submit_free_trial" type="submit">START MY FREE TRIAL <span class="icon icon-arrow-disc"></span></button>
-			<input name="formid" type="hidden" value="1543"><input name="munchkinId" type="hidden" value="990-FXF-735"><input name="_mkt_trk" type="hidden" value=""><input name="returnURL" type="hidden" value="https://www.nginx.com/thank-you-free-trial/"><span style="display:none;"><input name="_marketo_comments" type="text" value=""></span></form>			<div class="terms-of-use">We'll <a href="/privacy-policy/">take care of your data.</a> </div>
+			
+			<form id="mf1" action="https://app-ab05.marketo.com/index.php/leadCapture/save" method="post" enctype="application/x-www-form-urlencoded" class="regpg-main-form-element nginx_free_trial_form">
+			<input class="mf3_form_fname" type="text" name="FirstName" id="First Name" placeholder="First Name" required="">
+			<input class="mf3_form_lname" type="text" name="LastName" id="Last Name" placeholder="Last Name" required="">
+			<input class="mf3_form_email" type="email" name="Email" id="Email Address" placeholder="Email" required="">
+			<input class="mf3_form_company" type="text" name="Company" id="Company" placeholder="Company" required="">
+			<input class="mf3_form_job_title" type="text" name="Title" id="Title" placeholder="Job Title" required="">
+			<input class="mf3_form_phone" type="tel" name="Phone" id="Phone Number" placeholder="Phone Number" required="">
+			    <select id="Country" name="Country">
+        <option value="US">United States</option>
+        <option value="CA">Canada</option>
+        <option value="AF">Afghanistan</option>
+        <option value="AX">Åland Islands</option>
+        <option value="AL">Albania</option>
+        <option value="DZ">Algeria</option>
+        <option value="AD">Andorra</option>
+        <option value="AO">Angola</option>
+        <option value="AI">Anguilla</option>
+        <option value="AQ">Antarctica</option>
+        <option value="AG">Antigua and Barbuda</option>
+        <option value="AR">Argentina</option>
+        <option value="AM">Armenia</option>
+        <option value="AW">Aruba</option>
+        <option value="AU">Australia</option>
+        <option value="AT">Austria</option>
+        <option value="AZ">Azerbaijan</option>
+        <option value="BS">Bahamas</option>
+        <option value="BH">Bahrain</option>
+        <option value="BD">Bangladesh</option>
+        <option value="BB">Barbados</option>
+        <option value="BY">Belarus</option>
+        <option value="BE">Belgium</option>
+        <option value="BZ">Belize</option>
+        <option value="BJ">Benin</option>
+        <option value="BM">Bermuda</option>
+        <option value="BT">Bhutan</option>
+        <option value="BO">Bolivia</option>
+        <option value="BA">Bosnia and Herzegovina</option>
+        <option value="BW">Botswana</option>
+        <option value="BV">Bouvet Island</option>
+        <option value="BR">Brazil</option>
+        <option value="IO">British Indian Ocean Territory</option>
+        <option value="BN">Brunei Darussalam</option>
+        <option value="BG">Bulgaria</option>
+        <option value="BF">Burkina Faso</option>
+        <option value="BI">Burundi</option>
+        <option value="KH">Cambodia</option>
+        <option value="CM">Cameroon</option>
+        <option value="CV">Cape Verde</option>
+        <option value="KY">Cayman Islands</option>
+        <option value="CF">Central African Republic</option>
+        <option value="TD">Chad</option>
+        <option value="CL">Chile</option>
+        <option value="CN">China</option>
+        <option value="CX">Christmas Island</option>
+        <option value="CC">Cocos (Keeling) Islands</option>
+        <option value="CO">Colombia</option>
+        <option value="KM">Comoros</option>
+        <option value="CG">Congo</option>
+        <option value="CD">Congo, The Democratic Republic of The</option>
+        <option value="CK">Cook Islands</option>
+        <option value="CR">Costa Rica</option>
+        <option value="CI">Cote D\'ivoire</option>
+        <option value="HR">Croatia</option>
+        <option value="CU">Cuba</option>
+        <option value="CY">Cyprus</option>
+        <option value="CZ">Czech Republic</option>
+        <option value="DK">Denmark</option>
+        <option value="DJ">Djibouti</option>
+        <option value="DM">Dominica</option>
+        <option value="DO">Dominican Republic</option>
+        <option value="EC">Ecuador</option>
+        <option value="EG">Egypt</option>
+        <option value="SV">El Salvador</option>
+        <option value="GQ">Equatorial Guinea</option>
+        <option value="ER">Eritrea</option>
+        <option value="EE">Estonia</option>
+        <option value="ET">Ethiopia</option>
+        <option value="FK">Falkland Islands (Malvinas)</option>
+        <option value="FO">Faroe Islands</option>
+        <option value="FJ">Fiji</option>
+        <option value="FI">Finland</option>
+        <option value="FR">France</option>
+        <option value="GF">French Guiana</option>
+        <option value="PF">French Polynesia</option>
+        <option value="TF">French Southern Territories</option>
+        <option value="GA">Gabon</option>
+        <option value="GM">Gambia</option>
+        <option value="GE">Georgia</option>
+        <option value="DE">Germany</option>
+        <option value="GH">Ghana</option>
+        <option value="GI">Gibraltar</option>
+        <option value="GR">Greece</option>
+        <option value="GL">Greenland</option>
+        <option value="GD">Grenada</option>
+        <option value="GP">Guadeloupe</option>
+        <option value="GU">Guam</option>
+        <option value="GT">Guatemala</option>
+        <option value="GG">Guernsey</option>
+        <option value="GN">Guinea</option>
+        <option value="GW">Guinea-Bissau</option>
+        <option value="GY">Guyana</option>
+        <option value="HT">Haiti</option>
+        <option value="HM">Heard Island and McDonald Islands</option>
+        <option value="VA">Holy See (Vatican City State)</option>
+        <option value="HN">Honduras</option>
+        <option value="HK">Hong Kong</option>
+        <option value="HU">Hungary</option>
+        <option value="IS">Iceland</option>
+        <option value="IN">India</option>
+        <option value="ID">Indonesia</option>
+        <option value="IR">Iran, Islamic Republic of</option>
+        <option value="IQ">Iraq</option>
+        <option value="IE">Ireland</option>
+        <option value="IM">Isle of Man</option>
+        <option value="IL">Israel</option>
+        <option value="IT">Italy</option>
+        <option value="JM">Jamaica</option>
+        <option value="JP">Japan</option>
+        <option value="JE">Jersey</option>
+        <option value="JO">Jordan</option>
+        <option value="KZ">Kazakhstan</option>
+        <option value="KE">Kenya</option>
+        <option value="KI">Kiribati</option>
+        <option value="KP">Korea, Democratic People\'s Republic of</option>
+        <option value="KR">Korea, Republic of</option>
+        <option value="KW">Kuwait</option>
+        <option value="KG">Kyrgyzstan</option>
+        <option value="LA">Lao People\'s Democratic Republic</option>
+        <option value="LV">Latvia</option>
+        <option value="LB">Lebanon</option>
+        <option value="LS">Lesotho</option>
+        <option value="LR">Liberia</option>
+        <option value="LY">Libya</option>
+        <option value="LI">Liechtenstein</option>
+        <option value="LT">Lithuania</option>
+        <option value="LU">Luxembourg</option>
+        <option value="MO">Macao</option>
+        <option value="MK">Macedonia, The Former Yugoslav Republic of</option>
+        <option value="MG">Madagascar</option>
+        <option value="MW">Malawi</option>
+        <option value="MY">Malaysia</option>
+        <option value="MV">Maldives</option>
+        <option value="ML">Mali</option>
+        <option value="MT">Malta</option>
+        <option value="MQ">Martinique</option>
+        <option value="MR">Mauritania</option>
+        <option value="MU">Mauritius</option>
+        <option value="YT">Mayotte</option>
+        <option value="MX">Mexico</option>
+        <option value="MD">Moldova, Republic of</option>
+        <option value="MC">Monaco</option>
+        <option value="MN">Mongolia</option>
+        <option value="ME">Montenegro</option>
+        <option value="MS">Montserrat</option>
+        <option value="MA">Morocco</option>
+        <option value="MZ">Mozambique</option>
+        <option value="MM">Myanmar</option>
+        <option value="NA">Namibia</option>
+        <option value="NR">Nauru</option>
+        <option value="NP">Nepal</option>
+        <option value="NL">Netherlands</option>
+        <option value="NC">New Caledonia</option>
+        <option value="NZ">New Zealand</option>
+        <option value="NI">Nicaragua</option>
+        <option value="NE">Niger</option>
+        <option value="NG">Nigeria</option>
+        <option value="NU">Niue</option>
+        <option value="NF">Norfolk Island</option>
+        <option value="NO">Norway</option>
+        <option value="OM">Oman</option>
+        <option value="PK">Pakistan</option>
+        <option value="PW">Palau</option>
+        <option value="PS">Palestine</option>
+        <option value="PA">Panama</option>
+        <option value="PG">Papua New Guinea</option>
+        <option value="PY">Paraguay</option>
+        <option value="PE">Peru</option>
+        <option value="PH">Philippines</option>
+        <option value="PN">Pitcairn</option>
+        <option value="PL">Poland</option>
+        <option value="PT">Portugal</option>
+        <option value="PR">Puerto Rico</option>
+        <option value="QA">Qatar</option>
+        <option value="RE">Reunion</option>
+        <option value="RO">Romania</option>
+        <option value="RU">Russian Federation</option>
+        <option value="RW">Rwanda</option>
+        <option value="SH">Saint Helena</option>
+        <option value="KN">Saint Kitts and Nevis</option>
+        <option value="LC">Saint Lucia</option>
+        <option value="PM">Saint Pierre and Miquelon</option>
+        <option value="VC">Saint Vincent and The Grenadines</option>
+        <option value="WS">Samoa</option>
+        <option value="SM">San Marino</option>
+        <option value="ST">Sao Tome and Principe</option>
+        <option value="SA">Saudi Arabia</option>
+        <option value="SN">Senegal</option>
+        <option value="RS">Serbia</option>
+        <option value="SC">Seychelles</option>
+        <option value="SL">Sierra Leone</option>
+        <option value="SG">Singapore</option>
+        <option value="SK">Slovakia</option>
+        <option value="SI">Slovenia</option>
+        <option value="SB">Solomon Islands</option>
+        <option value="SO">Somalia</option>
+        <option value="ZA">South Africa</option>
+        <option value="GS">South Georgia and The South Sandwich Islands</option>
+        <option value="ES">Spain</option>
+        <option value="LK">Sri Lanka</option>
+        <option value="SD">Sudan</option>
+        <option value="SR">Suriname</option>
+        <option value="SJ">Svalbard and Jan Mayen</option>
+        <option value="SZ">Swaziland</option>
+        <option value="SE">Sweden</option>
+        <option value="CH">Switzerland</option>
+        <option value="SY">Syrian Arab Republic</option>
+        <option value="TW">Taiwan</option>
+        <option value="TJ">Tajikistan</option>
+        <option value="TZ">Tanzania, United Republic of</option>
+        <option value="TH">Thailand</option>
+        <option value="TL">Timor-Leste</option>
+        <option value="TG">Togo</option>
+        <option value="TK">Tokelau</option>
+        <option value="TO">Tonga</option>
+        <option value="TT">Trinidad and Tobago</option>
+        <option value="TN">Tunisia</option>
+        <option value="TR">Turkey</option>
+        <option value="TM">Turkmenistan</option>
+        <option value="TC">Turks and Caicos Islands</option>
+        <option value="TV">Tuvalu</option>
+        <option value="UG">Uganda</option>
+        <option value="UA">Ukraine</option>
+        <option value="AE">United Arab Emirates</option>
+        <option value="GB">United Kingdom</option>
+        <option value="UY">Uruguay</option>
+        <option value="UZ">Uzbekistan</option>
+        <option value="VU">Vanuatu</option>
+        <option value="VE">Venezuela</option>
+        <option value="VN">Vietnam</option>
+        <option value="VG">Virgin Islands, British</option>
+        <option value="WF">Wallis and Futuna</option>
+        <option value="EH">Western Sahara</option>
+        <option value="YE">Yemen</option>
+        <option value="ZM">Zambia</option>
+        <option value="ZW">Zimbabwe</option>
+    </select>
+    
+			<input type="text" id="name-tp" name="NameTp">
+			<button id="submit_free_trial" type="submit">START MY FREE TRIAL <span class="icon icon-arrow-disc"></span></button>
+			<input name="_mkt_trk" type="hidden" value="id:990-FXF-735&amp;token:_mch-nginx.com-1431296138434-48679">
+<input name="munchkinId" type="hidden" value="990-FXF-735">
+<input name="formid" type="hidden" value="1543">
+<input name="returnURL" type="hidden" value="https://www.nginx.com/thank-you-free-trial/">
+</form>			<div class="terms-of-use">We'll <a href="/privacy-policy/">take care of your data.</a> </div>
 			<div class="close-button">X</div>
 		</div>
 	</div>
@@ -1014,9 +1589,20 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 				<!--<h2 class="contact-us-title">Contact Sales</h2>-->
 				<h2 class="contact-us-title">Got a question for the NGINX team?</h2>
 				<div style="text-align:center;margin-bottom: 0.5em;"><span class="contact-us-back-btn">&lt; back</span></div>
-				<form action="https://app-ab05.marketo.com/index.php/leadCapture/save" class="regpg-main-form-element nginx_contact_sales_pop" enctype="application/x-www-form-urlencoded" id="mf2" method="post">
-				<input class="nginx_contact_fname" id="First Name" name="FirstName" placeholder="First Name" required="" type="text" value=""><input class="nginx_contact_lname" id="Last Name" name="LastName" placeholder="Last Name" required="" type="text" value=""><input class="nginx_contact_email" id="Email Address" name="Email" placeholder="Email" required="" type="email" value=""><input class="nginx_contact_company" id="Company" name="Company" placeholder="Company" required="" type="text" value=""><input class="nginx_contact_phone" id="Phone Number" name="Phone" placeholder="Phone Number" required="" type="tel" value=""><textarea class="nginx_contact_inq" id="Inquiry_Details__c" name="Inquiry_Details__c" placeholder="Inquiry details"></textarea><input id="name-tp" name="NameTp" type="text" value=""><button id="nginx_contact_sales_pop_submit" type="submit">SUBMIT <span class="icon icon-arrow-disc"></span></button>
-				<input name="formid" type="hidden" value="1542"><input name="munchkinId" type="hidden" value="990-FXF-735"><input name="_mkt_trk" type="hidden" value=""><input name="returnURL" type="hidden" value="https://www.nginx.com/thank-you-contact-sales/"><span style="display:none;"><input name="_marketo_comments" type="text" value=""></span></form>			</div>
+				
+				<form id="mf2" action="https://app-ab05.marketo.com/index.php/leadCapture/save" method="post" enctype="application/x-www-form-urlencoded" class="regpg-main-form-element nginx_contact_sales_pop">
+				<input class="nginx_contact_fname" type="text" name="FirstName" id="First Name" placeholder="First Name" required="">
+				<input class="nginx_contact_lname" type="text" name="LastName" id="Last Name" placeholder="Last Name" required="">
+				<input class="nginx_contact_email" type="email" name="Email" id="Email Address" placeholder="Email" required="">
+				<input class="nginx_contact_company" type="text" name="Company" id="Company" placeholder="Company" required="">
+				<input class="nginx_contact_phone" type="tel" name="Phone" id="Phone Number" placeholder="Phone Number" required=""><textarea class="nginx_contact_inq" name="Inquiry_Details__c" id="Inquiry_Details__c" placeholder="Inquiry details"></textarea>
+				<input type="text" id="name-tp" name="NameTp">
+				<button type="submit" id="nginx_contact_sales_pop_submit">SUBMIT <span class="icon icon-arrow-disc"></span></button>
+				<input name="_mkt_trk" type="hidden" value="id:990-FXF-735&amp;token:_mch-nginx.com-1431296138434-48679">
+<input name="munchkinId" type="hidden" value="990-FXF-735">
+<input name="formid" type="hidden" value="1542">
+<input name="returnURL" type="hidden" value="https://www.nginx.com/thank-you-contact-sales/">
+</form>			</div>
 			<div id="contact-options-wrapper">
 				<h2 class="contact-us-title">Got a question for the NGINX team?</h2>
 				<div class="contact-opt-item"><a id="ngx_contact_sales_call_us" href="tel:+18009159122"><strong>CALL US</strong> AT 1-800-915-9122</a></div>
@@ -1031,11 +1617,14 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 
 <style type="text/css">
 	.contact-us-inner{ height:auto!important; }
-	.contact-us-back-btn{
-	 color:#B9B9BA;
-	 font-weight:bold;
-	 cursor:pointer;
-	 }
+	.contact-us-back-btn {
+	  color: #b9b9ba;
+	  cursor: pointer;
+	  font-weight: bold;
+	  left: 5px;
+	  position: absolute;
+	  top: 5px;
+	}
 	#contact-submit-form-wrapper{
 		display:none;
 	}
@@ -1077,57 +1666,7 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 		box-sizing: inherit;
 	}
 	#contact_opt_item_live_chat{ display:none;}
-</style><div class="freeshirt-modal-wrap">
-	<div class="freeshirt-modal-inner-wrap">
-		<div class="freeshirt-modal-inner">
-			<div class="close-button">X</div>
-			<div class="freeshirt-title">TRY NGINX PLUS!</div>
-			<div class="freeshirt-container">
-				<div class="freeshirt-form-wrap">
-					<div class="freeshirt-form-title">
-						Download and activate a 30-day free trial<br> to get better application performance. <br>
-						And a free NGINX shirt.<br><br>
-						<span style="color: black; font-weight: normal;">These fields are also used for shipping.<br> Currently we are shipping to US only.</span>
-					</div>
-					<div class="freeshirt-form">
-						<form action="https://app-ab05.marketo.com/index.php/leadCapture/save" class="regpg-main-form-element ngx_free_tshirt" enctype="application/x-www-form-urlencoded" id="mf1" method="post">
-						<input class="ngx_tshirt_fname" id="First Name" name="FirstName" placeholder="First Name" required="" type="text" value=""><input class="ngx_tshirt_lname" id="Last Name" name="LastName" placeholder="Last Name" required="" type="text" value=""><input class="ngx_tshirt_email" id="Email Address" name="Email" placeholder="Email" required="" type="email" value=""><input class="ngx_tshirt_company" id="Company" name="Company" placeholder="Company" required="" type="text" value=""><input class="ngx_tshirt_job" id="Title" name="Title" placeholder="Job Title" required="" type="text" value=""><input class="ngx_tshirt_phone" id="Phone Number" name="Phone" placeholder="Phone Number" required="" type="tel" value=""><input id="name-tp" name="NameTp" type="text" value=""><button id="ngx_tshirt_btn" type="submit">START MY FREE TRIAL <span class="icon icon-arrow-disc"></span></button>
-						<input name="formid" type="hidden" value="1571"><input name="munchkinId" type="hidden" value="990-FXF-735"><input name="_mkt_trk" type="hidden" value=""><input name="returnURL" type="hidden" value="https://www.nginx.com/free-shirt-shipping/"><span style="display:none;"><input name="_marketo_comments" type="text" value=""></span></form>						<div class="privacypolicy">We'll <a href="https://www.nginx.com/privacy-policy/">take care of your data</a></div>
-					</div>
-				</div>
-				<div class="freeshirt-shirt">
-					<img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx_freetrial_mockup_front.png">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<div class="freeshirt-v2-modal-wrap">
-	<div class="freeshirt-v2-modal-inner-wrap">
-		<div class="freeshirt-modal-inner">
-			<div class="close-button">X</div>
-			<div class="freeshirt-title">TRY NGINX PLUS!</div>
-			<div class="freeshirt-container">
-				<div class="freeshirt-form-wrap">
-					<div class="freeshirt-form-title">
-						Download and activate a 30-day free trial<br> to get better application performance. <br>
-						And a free NGINX shirt.<br><br>
-						<span style="color: black; font-weight: normal;">These fields are also used for shipping.<br> Currently we are shipping to US only.</span>
-					</div>
-					<div class="freeshirt-form">
-						<form action="https://app-ab05.marketo.com/index.php/leadCapture/save" class="regpg-main-form-element ngx_free_tshirt_v2" enctype="application/x-www-form-urlencoded" id="mf1" method="post">
-						<input class="ngx_tshirt_v2_fname" id="First Name" name="FirstName" placeholder="First Name" required="" type="text" value=""><input class="ngx_tshirt_v2_lname" id="Last Name" name="LastName" placeholder="Last Name" required="" type="text" value=""><input class="ngx_tshirt_v2_email" id="Email Address" name="Email" placeholder="Email" required="" type="email" value=""><input class="ngx_tshirt_v2_company" id="Company" name="Company" placeholder="Company" required="" type="text" value=""><input class="ngx_tshirt_v2_job" id="Title" name="Title" placeholder="Job Title" required="" type="text" value=""><input class="ngx_tshirt_v2_phone" id="Phone Number" name="Phone" placeholder="Phone Number" required="" type="tel" value=""><input id="name-tp" name="NameTp" type="text" value=""><button id="ngx_tshirt_v2_btn" type="submit">START MY FREE TRIAL <span class="icon icon-arrow-disc"></span></button>
-						<input name="formid" type="hidden" value="1571"><input name="munchkinId" type="hidden" value="990-FXF-735"><input name="_mkt_trk" type="hidden" value=""><input name="returnURL" type="hidden" value="https://www.nginx.com/free-shirt-shipping/"><span style="display:none;"><input name="_marketo_comments" type="text" value=""></span></form>						<div class="privacypolicy">We'll <a href="https://www.nginx.com/privacy-policy/">take care of your data</a></div>
-					</div>
-				</div>
-				<div class="freeshirt-shirt">
-					<img src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/nginx_freetrial_mockup_front_bw.png">
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<script type="text/javascript">
+</style><script type="text/javascript">
 (function() {
 	var didInit = false;
 	function initMunchkin() {
@@ -1149,58 +1688,126 @@ If you have any questions about this Privacy Policy, please email <a href="mailt
 	document.getElementsByTagName('head')[0].appendChild(s);
 })();
 </script>
-<script></script>
     <style>
         .mCSB_inside>.mCSB_container{margin-right: 0 !important;}
     </style>
-    <script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/FitVids.js/jquery.fitvids.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/skip-link-focus-fix.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/jquery-cookie/src/jquery.cookie.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/jquery-visible/jquery.visible.min.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/jquery.magnific-popup.min.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/owl.carousel.min.js?ver=1462484961"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/clamp/clamp.min.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/moment/min/moment.min.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/js/rrssb.min.js?ver=1455152711"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/stickyjs/jquery.sticky.js?ver=1.0.3"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/smooth-scroll/jquery.smooth-scroll.js?ver=1442393497"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/viewport-units-buggyfill/viewport-units-buggyfill.js?ver=1442393497"></script>
+                <script type="text/javascript">
+            (function($){
+        $(document).ready(function(){
+                
+                var R10WafHeroBannerCTA = 0;
+                $( document ).on( 'hero_cta_conductrics_init', function() {
+                        if( R10WafHeroBannerCTA == 0 )
+                        {
+                                //conductrics 
+                                $.conductrics({
+                                        owner: 'owner_ZGRnZVkXv',
+                                        apiKey: 'api-tfNXgjsgBfTGvJJawzTsClFw',
+                                        agent: 'r10-waf-hero',
+                                        baseUrl: '//api.conductrics.com',
+                                                
+                                });				
+                                $.conductrics('get-decision', {choices:['secure-scale-ease','secure-reliable-delivery']}, function(selection) {
+                                        //alert( "Conductrics Decision: " + selection.code );
+                                        //console.log(selection.code);
+                                        switch (selection.code) {
+                                                case 'secure-scale-ease':
+                                                        {
+                                                                $(".r10-banner #r10_hero_heading").html('Secure and Scale Your Applications with Ease');
+                                                                $(".r10-banner #r10_hero_sub_heading").html('Now with a powerful web application firewall, custom modules, and more');
+                                                                $(".r10-banner #r10_hero_button").html('Learn More');
+                                                                break;
+                                                        }
+                                                case 'secure-reliable-delivery':
+                                                        {
+                                                                $(".r10-banner #r10_hero_heading").html('Secure and Reliable Delivery for your Applications');
+                                                                $(".r10-banner #r10_hero_sub_heading").html('Now with a powerful web application firewall, better network integration, and more');
+                                                                $(".r10-banner #r10_hero_button").html('Explore R10');
+                                                                break;
+                                                        }								
+                                                                        
+                                        }
+                                });	
+                                //end conductrics					
+                                
+                                $(".r10-banner #hero_banner_cta_btn").click(function(e){	
+                                        
+                                        e.preventDefault();														
+                                        //conductrics 
+                                        $.conductrics({
+                                                owner: 'owner_ZGRnZVkXv',
+                                                apiKey: 'api-tfNXgjsgBfTGvJJawzTsClFw',
+                                                agent: 'r10-waf-hero',
+                                                baseUrl: '//api.conductrics.com',
+                                                        
+                                        });					
+                                        var HREF = $(this).data('href');
+                                        $.conductrics('send-goal', {goal:"cta-click"} );
+                                        setTimeout( function() { window.location.href = HREF;}, 2000 );
+                                        
+                                        
+                                });
+                        }
+                        R10WafHeroBannerCTA++;
+                } );
+        
+        });//end document ready
+})( jQuery );            </script>
+            <script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-universal-marketo-form.js?ver=1476722644"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nginxudVars = {"ajaxUrl":"https:\/\/www.nginx.com\/wordpress\/wp-admin\/admin-ajax.php","assetsUrl":"https:\/\/www.nginx.com\/wp-content\/plugins\/wordpress-nginx-user-database\/assets"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/plugins/wordpress-nginx-user-database/assets/nginxud-script.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/FitVids.js/jquery.fitvids.js?ver=1472105775"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/skip-link-focus-fix.js?ver=1472105776"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/jquery-cookie/src/jquery.cookie.js?ver=1472105687"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/jquery-visible/jquery.visible.min.js?ver=1472105559"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/magnific-popup/dist/jquery.magnific-popup.min.js?ver=1472105531"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/owl-carousel/owl.carousel.min.js?ver=1472105556"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/clamp/clamp.min.js?ver=1472105774"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/moment/min/moment.min.js?ver=1472105682"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/rrssb/js/rrssb.min.js?ver=1472105774"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/stickyjs/jquery.sticky.js?ver=1.0.3"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/smooth-scroll/jquery.smooth-scroll.js?ver=1472105775"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/viewport-units-buggyfill/viewport-units-buggyfill.js?ver=1472105769"></script>
 <script type="text/javascript" src="https://www.nginx.com/wordpress/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var nginxAudienceTargetingVars = [];
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-audience-targeting.js?ver=1463189614"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-audience-targeting.js?ver=1472105525"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var jsmform = {"ajaxurl":"https:\/\/www.nginx.com\/wordpress\/wp-admin\/admin-ajax.php","tempdir":"https:\/\/assets.wp.nginx.com\/wp-content\/themes\/nginx-theme"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/jsmform.js?ver=1460785949"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/jsmform.js?ver=1472105525"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/sidebar.js?ver=1472105530"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1472105768"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/conductrics-js-wrapper-min.js?ver=1474995693"></script>
 <script type="text/javascript" src="https://www.nginx.com/wordpress/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var nginxThemeVars = {"ajaxurl":"https:\/\/www.nginx.com\/wordpress\/wp-admin\/admin-ajax.php","nonce":"b264c6a5b4"};
+var nginxThemeVars = {"ajaxurl":"https:\/\/www.nginx.com\/wordpress\/wp-admin\/admin-ajax.php","nonce":"23f46bc197","free_trial_request_summary":"https:\/\/www.nginx.com\/free-trial-request-summary\/","free_trial_request_detail":"https:\/\/www.nginx.com\/free-trial-request-detail\/","free_trial_request":"https:\/\/www.nginx.com\/free-trial-request\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-theme.js?ver=1463189614"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/sidebar.js?ver=1458003898"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/vendor/conductrics/conductrics.jquery.min.js?ver=1442393497"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-theme.js?ver=1477416808"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var NginxMixPanel = {"home_url":"https:\/\/www.nginx.com\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-mixpanel-tracker.js?ver=1456948524"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/select2.full.min.js"></script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/retina.min.js"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/nginx-mixpanel-tracker.js?ver=1472105522"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/select2.full.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ampObj = {"api_key":"3bb9b223df92ec97b63aab6382b938cb","data":{"post_id":919,"url":"https:\/\/www.nginx.com\/privacy-policy\/","title":"NGINX, Inc. Privacy Policy","eventName":"Pageview"}};
+var ampObj = {"api_key":"3bb9b223df92ec97b63aab6382b938cb","data":{"post_id":919,"url":"https:\/\/www.nginx.com\/privacy-policy\/","title":"NGINX, Inc. Privacy Policy","eventName":"pageview"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://assets.wp.nginx.com/wp-content/themes/nginx-theme/assets/js/amplitude.js?ver=1463446249"></script>
+<script type="text/javascript" src="https://www.nginx.com/wp-content/themes/nginx-theme/assets/js/amplitude.js?ver=1477433489"></script>
 <script type="text/javascript" src="https://www.nginx.com/wordpress/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
 <script>window.viewportUnitsBuggyfill.init();</script>
 <!-- Google Tag Manager -->
@@ -1214,6 +1821,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WBXGM3');
 </script>
 <!-- End Google Tag Manager -->
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"10ef09bd3b","applicationID":"22087601","transactionName":"NQYEYkRZW0tQAhBfWgxMJ1VCUVpWHhEFUVA=","queueTime":0,"applicationTime":578,"atts":"GUEHFAxDSEU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
