@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongmenstayyoung.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319173543id_/http%3A//strongmenstayyoung.com/strongmen/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmenstayyoung.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108035043id_/http%3A//strongmenstayyoung.com/strongmen/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy at Strong Men Stay Young
 
