@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617231428id_/https%3A//www.vetassess.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108090241id_/https%3A//www.vetassess.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - VETASSESS
 
