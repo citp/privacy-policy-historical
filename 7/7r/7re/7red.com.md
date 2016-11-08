@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7red.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313151639id_/https%3A//www.7red.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7red.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108174911id_/https%3A//www.7red.com/privacy) for the most accurate reproduction.*
 
 # 7Red.com Casino - Privacy Statement
 
@@ -33,3 +33,7 @@ We advise you to take every precaution to protect the security of your personal 
 ## 6\. Control of Personal Information
 
 If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user decides no longer to use our services, we provide a way to correct, update or deactivate that user's personally identifiable information provided to us. This can usually be done by emailing our Customer Support at support@7red.com. However, please understand that some information may not be deleted if we are required to store it for technical and/or legal reasons.
+
+## 7\. Netent Privacy Policy
+
+When playing casino slots developed by NetEnt, NetEnt’s privacy policy also applies. Click [here](https://www.netent.com/en/netent-privacy-policy-eu/) to read more.
