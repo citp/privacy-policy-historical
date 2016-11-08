@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611202245id_/http%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109002609id_/http%3A//oilprice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
