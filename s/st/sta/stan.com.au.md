@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322112029id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108082206id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Stan
 
 In this policy, "us", "we" or "our" means Stan Entertainment Pty Ltd (ABN 94 168 856 924) and its related bodies corporate ( **Stan Group** ). Your privacy matters to us whether you are new to our service or are a long time user. Please read this policy carefully as its set out the way we handle your "personal information".
 
@@ -156,8 +156,8 @@ Please contact our Privacy Officer at:
 
 Privacy Officer  
 Stan Entertainment Pty Ltd  
-Post: 24 Artarmon Road Willoughby NSW 2068  
-Email: [privacy@streamco.com.au](mailto:privacy@streamco.com.au)
+Post: Suite 1, Level 20, 321 Kent Street, Sydney NSW 2000  
+Email: [privacy@stan.com.au](mailto:privacy@stan.com.au)
 
 ## Disclosure of personal information outside Australia
 
