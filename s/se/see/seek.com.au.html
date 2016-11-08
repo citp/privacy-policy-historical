@@ -1,66 +1,48 @@
-<!--The following is the downloaded HTML source of the seek.com.au privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624130257id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seek.com.au privacy policy that was archived on 2016-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108103059id_/https%3A//www.seek.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head> 
     <title>SEEK - Privacy Statement</title>
     
 <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N4HHG8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    (function() {
-        var lsValue = 'houston-reload';
-        var houstonCookieName = 'responsive-trial';
-        var houstonTrafficSize = 21;
+  (function() {
+    var lsValue = 'houston-reload';
+    var houstonTrafficSize = 0;
+    var isNZ = /\.seek\.co\.nz/g.test(window.location.hostname);
+    var isHoustonPath = /(\/|\/jobs.+)$/i.test(window.location.pathname);
 
+    function reloadHouston(inTrial) {
+      if (localStorage.getItem(lsValue) || !inTrial) {
+        return;
+      }
 
-        function reloadHouston() {
-            if (localStorage.getItem(lsValue)) {
-                return;
-            }
+      function getCookieValue(name) {
+        var match = document.cookie.match('(^|;)\\s*' + name + '\\s*=\\s*([^;]+)');
+        return match ? match.pop() : '';
+      }
 
-            if (window.location.hostname !== 'www.seek.com.au') {
-                return;
-            }
+      function getSegmentFrom(value) {
+        return parseInt(value.match(/[^:]+$/)[0], 10);
+      }
 
-            function getCookie(cname) {
-                var name = cname + "=";
-                var ca = document.cookie.split(';');
-                for (var i = 0; i < ca.length; i++) {
-                    var c = ca[i];
-                    while (c.charAt(0) == ' ') {
-                        c = c.substring(1);
-                    }
-                    if (c.indexOf(name) == 0) {
-                        return c.substring(name.length, c.length);
-                    }
-                }
-                return "";
-            }
+      function redirect() {
+        var prefix = window.location.search ? '&' : '?';
+        window.location.search = window.location.search + prefix + 'classicfirstvisit=true';
+      }
 
-            function redirect() {
-                var redirectParamPrefix = window.location.search ? '&' : '?';
-                window.location.search = window.location.search + redirectParamPrefix + 'classicfirstvisit=true';
-            }
+      var segment = getSegmentFrom(getCookieValue('responsive-trial'));
+      if (segment <= houstonTrafficSize) {
+        localStorage.setItem(lsValue, true);
+        redirect();
+      }
+    }
 
-            var path = window.location.pathname.toLowerCase();
-
-            if (path === '/' || path.indexOf('/jobs') === 0) {
-                var houstonCookie = getCookie(houstonCookieName);
-
-                if (houstonCookie.indexOf('chrome:') === 0) {
-                    var houstonValue = parseInt(houstonCookie.split(':')[1], 10);
-
-                    if (houstonValue <= houstonTrafficSize) {
-                        localStorage.setItem(lsValue, true);
-                        redirect();
-                    }
-                }
-            }
-        }
-
-        try {
-            reloadHouston();
-        } catch(err) {}
-    })();
+    try {
+      reloadHouston(isNZ && isHoustonPath);
+    } catch(err) {}
+  })();
 </script>
+
         <meta name="viewport" content="width=1024, user-scalable=1">
     
 
@@ -70,21 +52,21 @@
     <meta name="keywords" content="">
     <meta name="robots" content="">
 
-    <link rel="image_src" type="image/png" href="http://www.seek.com.au/content/images/logos/logo-seek-share2.png">
+    <link rel="image_src" type="image/png" href="https://www.seek.com.au/content/images/logos/logo-seek-share2.png">
 
     <meta property="og:title" content="SEEK - Privacy Statement">
     <meta property="og:description" content="The SEEK Privacy Statement outlines SEEK's commitment to protecting the privacy of SEEK jobseekers and advertisers.">
-    <meta property="og:image" content="http://www.seek.com.au/content/images/logos/logo-seek-share2.png">
+    <meta property="og:image" content="https://www.seek.com.au/content/images/logos/logo-seek-share2.png">
   
-    <link rel="shortcut icon" href="http://www.seek.com.au/favicon6.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://www.seek.com.au/favicon6.ico" type="image/x-icon">
 
     
     
-            <link rel="canonical" href="http://www.seek.com.au/privacy">
-            <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.seek.com.au/privacy">
-        
+      <link rel="canonical" href="https://www.seek.com.au/privacy">
+      <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.seek.com.au/privacy">        
+    
 
-    <link href="/Content/css/common.css?v=H1CymSbJgfJbKtJiSiUZPOYrIInBpfMstt6HVBn72981" rel="stylesheet">
+    <link href="/Content/css/common.css?v=dTuLdyh_U3jIPwnIGWMGuyY_haaf9Y7fhyJ3ZhO0z0c1" rel="stylesheet">
 
     <link href="/Content/css/candy.lightbox.css?v=VEFH9qJQPdWWu0BbpIW-NhUFEHS9oAzTEW_rmjOESSw1" rel="stylesheet">
 
@@ -96,7 +78,7 @@
     
     
     
-    <link rel="stylesheet" type="text/css" href="/Resource/MainContentOnlyCSS.20160530090713.css">
+    <link rel="stylesheet" type="text/css" href="/Resource/MainContentOnlyCSS.20161010103253.css">
 
 
     
@@ -150,7 +132,7 @@ More info available at http://www.omniture.com -->
 
 <script type="text/javascript">var s_account = 'seekglobalprod,seekemployment';</script>
 
-<script src="https://www.seek.com.au/Scripts/omniture.js?v=VBgCbPoZ9aozfZi-hVg4Go2zRVmTlRr6G8uxLWlzKa81"></script>                
+<script src="https://www.seek.com.au/Scripts/omniture.js?v=tcU_iEQW7ctFBbSCl3zMZC7QcKskZWTQsbkrMQ8PgRM1"></script>                
 
 <div id="newLightbox" class="modal hide" data-backdrop="static">
     <div class="outer-modal-body">
@@ -198,7 +180,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 <li class="mod-nav-site--active state-floatleft">Jobs
                 </li>
                 <li class="state-skl state-floatleft">
-                    <a href="http://www.seeklearning.com.au/?CampaignCode=SEEK_BANNER_29&amp;sc_trk=skj-courses-link" title="SEEK Learning" data-omniture="header:courses">Courses</a>
+                    <a href="https://www.seeklearning.com.au/?campaigncode=seek_banner_29&amp;sc_trk=skj-courses-link" title="SEEK Learning" data-omniture="header:courses">Courses</a>
                 </li>
                 <li class="state-scomm state-floatleft">
                     
@@ -210,13 +192,12 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
             </ul>
             <div class="mod-nav-country state-floatright">
                 
-                <span class="is-selected">AU</span><a title="SEEK NZ" href="http://www.seek.co.nz" data-omniture="header:nz+homepage">NZ</a>
+                <span class="is-selected">AU</span><a title="SEEK NZ" href="https://www.seek.co.nz" data-omniture="header:nz+homepage">NZ</a>
                 
             </div>
         </div>
     </div>
 </div>
-
 
     <div class="mod-banner">
         <div class="l-row">
@@ -224,7 +205,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 
 <div class="grid_3 state-floatleft">
     
-    <a href="//www.seek.com.au" class="AU-Main mod-logo state-hide-text" title="Homepage">SEEK homepage</a>
+    <a href="https://www.seek.com.au" class="AU-Main mod-logo state-hide-text" title="Homepage">SEEK homepage</a>
     
 </div>
 
@@ -255,16 +236,16 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <div class="l-row">
     <div class="l-column grid_12">
         <ul>
-            <li class="nav-search "><a data-automation="banner-lnk-jobsearch" href="//www.seek.com.au/" data-omniture="header:jobs">Job Search</a></li>
+            <li class="nav-search "><a data-automation="banner-lnk-jobsearch" href="https://www.seek.com.au/" data-omniture="header:jobs">Job Search</a></li>
 
             
-                <li class="nav-exec "><a data-automation="banner-lnk-150kjobs" href="//www.seek.com.au/150kjobs" data-omniture="header:high+salary">$150k+ Jobs</a></li>
+                <li class="nav-exec "><a data-automation="banner-lnk-150kjobs" href="https://www.seek.com.au/150kjobs" data-omniture="header:high+salary">$150k+ Jobs</a></li>
             
             <li class="nav-profile gtm-tracking-profile "><a data-automation="banner-lnk-profile" href="https://www.seek.com.au/profile/" data-omniture="header:profile">Profile</a></li>
             
-                <li class="state-new"><a data-automation="banner-lnk-companies" href="https://www.seek.com.au/companies/" data-omniture="header:company+review">Company Reviews</a></li>
+                <li><a data-automation="banner-lnk-companies" href="https://www.seek.com.au/companies/" data-omniture="header:company+review">Company Reviews</a></li>
             
-            <li class="nav-tips active"><a data-automation="banner-lnk-advice" href="//www.seek.com.au/career-advice/" data-omniture="header:advice">Advice &amp; Tips</a></li>
+            <li class="nav-tips active"><a data-automation="banner-lnk-advice" href="https://www.seek.com.au/career-advice/" data-omniture="header:advice">Advice &amp; Tips</a></li>
         </ul>
     </div>
     </div>
@@ -303,7 +284,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     </p>
     <p>SEEK owns and operates the website located at www.seek.com.au (across desktop, mobile, tablet and apps and including any subdomains) (<strong>“the Site”</strong>). This Statement discloses our information gathering and dissemination practices for the Site.</p>
     <p>SEEK’s wholly owned subsidiaries, SEEK Learning Pty Ltd (ACN 084 202 719) (<strong>“SEEK Learning”</strong>) and SEEK Business Pty Ltd (ACN 122 162 029) (<strong>“SEEK Business”</strong>) own and operate the websites located at www.seeklearning.com.au and www.seekbusiness.com.au respectively across desktop, mobile, tablet and apps (including any subdomains).</p>
-    <p>In this Statement, any reference to <strong>“SEEK”</strong>, <strong>“we”</strong>, <strong>“us”</strong> and <strong>“our”</strong> includes a reference to SEEK Limited, SEEK Learning and SEEK Business.</p>
+    <p>In this Statement, any reference to <strong>“SEEK”</strong>, <strong>“we”</strong>, <strong>“us”</strong> and <strong>“our”</strong> includes a reference to SEEK Limited, SEEK Learning and SEEK Business, and all other SEEK Limited subsidiaries.</p>
     <p>
         Visitors of the Site who do not create an account are referred to generically in this Statement as <strong>“users”</strong> or <strong>“you”</strong>.
     </p>
@@ -478,6 +459,12 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     </p>
 </div>
 <div class="grid_12 mod-section grid_pad_32">
+    <h2>Subsidiairies</h2>
+    <p>
+        SEEK may also disclose your personal information to SEEK's subsidiaries from time to time but only for the purpose of assisting us to deliver the products and services we offer to you.
+    </p>
+</div>
+<div class="grid_12 mod-section grid_pad_32">
     <h2>Storage &amp; Security of Personal Information</h2>
     <p>
         SEEK takes all reasonable steps to ensure the security of our system and to protect your information from misuse, interference and loss as well as unauthorised access, modification or disclosure.  SEEK allows you to access your information at any time to keep it accurate and up to
@@ -557,84 +544,107 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
   
         
 
-<div class="state-footer-nav">
+<footer class="state-footer-nav">
     <div class="l-row">
-        <dl class="l-column grid_3">
-            <dt>Tools</dt>
-            <dd><a href="https://www.seek.com.au/profile/" data-automation="footer-lnk-editprofile" data-omniture="toolbar:profile">Profile</a></dd>
-            <dd><a href="https://www.seek.com.au/myactivity#favourite" data-automation="footer-lnk-favoritesearches" data-omniture="toolbar:favourite">Saved searches</a></dd>
-            <dd><a href="https://www.seek.com.au/myactivity" data-automation="footer-lnk-shortlistedjobs" data-omniture="toolbar:shortlist">Saved jobs</a></dd>
-            <dd><a href="https://www.seek.com.au/myactivity" data-automation="footer-lnk-appliedjobs" data-omniture="toolbar:applied">Applied jobs</a></dd>
-            <dd><a href="//www.seek.com.au/career-advice/" data-automation="footer-lnk-advicentips" data-omniture="toolbar:advice+tips">Advice &amp; tips</a></dd>
+        <nav class="l-column grid_3">
+            <h3>Tools</h3>
+            <ul>
+            <li><a href="https://www.seek.com.au/profile/" data-automation="footer-lnk-editprofile" data-omniture="toolbar:profile">Profile</a></li>
+            <li><a href="https://www.seek.com.au/myactivity#favourite" data-automation="footer-lnk-favoritesearches" data-omniture="toolbar:favourite">Saved searches</a></li>
+            <li><a href="https://www.seek.com.au/my-activity/saved-jobs" data-automation="footer-lnk-shortlistedjobs" data-omniture="toolbar:shortlist">Saved jobs</a></li>
+            <li><a href="https://www.seek.com.au/my-activity/applied-jobs" data-automation="footer-lnk-appliedjobs" data-omniture="toolbar:applied">Applied jobs</a></li>
+            <li><a href="https://www.seek.com.au/career-advice/" data-automation="footer-lnk-advicentips" data-omniture="toolbar:advice+tips">Advice &amp; tips</a></li>
             
-                        <dd><a href="https://www.seek.com.au/companies/" data-automation="footer-lnk-companyreviews" data-omniture="toolbar:company+reviews">Company reviews</a></dd>
+                        <li><a href="https://www.seek.com.au/companies/" data-automation="footer-lnk-companyreviews" data-omniture="toolbar:company+reviews">Company reviews</a></li>
             
-        </dl>
-        <dl class="l-column grid_3">
-            <dt>Company</dt>
-            <dd><a href="//www.seek.com.au/investor/about-us" data-automation="footer-lnk-aboutus" data-omniture="toolbar:about+seek">About SEEK</a></dd>
-            <dd><a href="//www.seek.com.au/investor/news-media" data-automation="footer-lnk-news-media" data-omniture="toolbar:media">Media</a></dd>
-            <dd><a data-automation="footer-lnk-workfor" href="//www.seek.com.au/work-for-seek" id="workForSeek" data-omniture="toolbar:work+for+seek">Work for SEEK</a></dd>
-            <dd><a href="http://ir.seek.com.au" data-omniture="toolbar:investor+centre">Investor centre</a></dd>
-            <dd class="mod-parent-menu" data-automation="footer-lnk-international"><a href="#_" data-omniture="toolbar:international+partners">International partners
-                      <i aria-hidden="true" data-icon="" data-icon-active=""></i>
-            </a></dd>
-            <dd class="mod-sub-menu">
-                <dl>
-                    <dd><a href="http://www.babajob.com" target="_blank">BabaJob</a> – India</dd>
-                    <dd><a href="http://www.bdjobs.com" target="_blank">Bdjobs</a> – Bangladesh</dd>
-                    <dd><a href="https://www.brightermonday.com" target="_blank">Brighter Monday</a> – E&nbsp;Africa</dd>
-                    <dd><a href="http://www.catho.com.br" target="_blank">Catho</a> – Brazil</dd>
-                    <dd><a href="http://www.jobberman.com" target="_blank">Jobberman</a> – W&nbsp;Africa</dd>
-                    <dd><a href="http://www.jobsdb.com" target="_blank">jobsDB</a> – SE&nbsp;Asia</dd>
-                    <dd><a href="http://www.jobstreet.com" target="_blank">JobStreet</a> – SE&nbsp;Asia</dd>
-                    <dd><a href="https://www.jora.com" target="_blank">Jora</a> – Worldwide</dd>
-                    <dd><a href="http://www.manager.com.br" target="_blank">Manager</a> – Brazil</dd>
-                    <dd><a href="https://www.occ.com.mx" target="_blank">OCC Mundial</a> – Mexico</dd>
-                    <dd><a href="https://www.workana.com" target="_blank">Workana</a> – Latin America</dd>
-                    <dd><a href="http://www.zhaopin.com" target="_blank">Zhaopin</a> – China</dd>
-                    <dd><a href="https://au.jora.com" target="_blank">Jora</a> –
+          </ul>
+        </nav>
+        <nav class="l-column grid_3">
+            <h3>Company</h3>
+            <ul>
+            <li><a href="https://www.seek.com.au/investor/about-us" data-automation="footer-lnk-aboutus" data-omniture="toolbar:about+seek">About SEEK</a></li>
+            <li><a href="https://www.seek.com.au/investor/news-media" data-automation="footer-lnk-news-media" data-omniture="toolbar:media">Media</a></li>
+            <li><a data-automation="footer-lnk-workfor" href="https://www.seek.com.au/work-for-seek" id="workForSeek" data-omniture="toolbar:work+for+seek">Work for SEEK</a></li>
+            <li><a href="https://ir.seek.com.au" data-omniture="toolbar:investor+centre">Investor centre</a></li>
+            <li class="mod-parent-menu" data-automation="footer-lnk-international"><a href="#_" data-omniture="toolbar:international+partners">International partners
+                      <i aria-hilien="true" data-icon="" data-icon-active=""></i>
+            </a></li>
+            <li class="mod-sub-menu">
+                <ul>
+                    <li><a href="http://www.babajob.com" target="_blank">BabaJob</a> – India</li>
+                    <li><a href="http://www.bdjobs.com" target="_blank">Bdjobs</a> – Bangladesh</li>
+                    <li><a href="https://www.brightermonday.com" target="_blank">Brighter Monday</a> – E&nbsp;Africa</li>
+                    <li><a href="http://www.catho.com.br" target="_blank">Catho</a> – Brazil</li>
+                    <li><a href="https://www.jobberman.com" target="_blank">Jobberman</a> – W&nbsp;Africa</li>
+                    <li><a href="http://www.jobsdb.com" target="_blank">jobsDB</a> – SE&nbsp;Asia</li>
+                    <li><a href="http://www.jobstreet.com" target="_blank">JobStreet</a> – SE&nbsp;Asia</li>
+                    <li><a href="https://www.jora.com" target="_blank">Jora</a> – Worldwide</li>
+                    <li><a href="http://www.manager.com.br" target="_blank">Manager</a> – Brazil</li>
+                    <li><a href="https://www.occ.com.mx" target="_blank">OCC Mundial</a> – Mexico</li>
+                    <li><a href="https://www.workana.com" target="_blank">Workana</a> – Latin America</li>
+                    <li><a href="http://www.zhaopin.com" target="_blank">Zhaopin</a> – China</li>
+                    <li><a href="https://au.jora.com" target="_blank">Jora</a> –
                          
                                 Australia
                             
-                    </dd>
-                </dl>
-            </dd>
-        </dl>
-        <dl class="l-column grid_3">
-            <dt>Connect</dt>
-            <dd><a href="//www.seek.com.au/contact-us" data-omniture="toolbar:contact+us">Contact us / FAQs</a></dd>
-            <dd><a href="http://productblog.seek.com.au" data-omniture="toolbar:product+blog" target="_blank">Product &amp; Tech Blog</a></dd>
-            <dd class="mod-parent-menu" data-automation="footer-lnk-social"><a href="#_" data-omniture="toolbar:social">Social
-                      <i aria-hidden="true" data-icon="" data-icon-active=""></i>
-            </a></dd>
-            <dd class="mod-sub-menu">
-                <dl>
+                    </li>
+                </ul>
+            </li>
+            
+                 <li class="mod-parent-menu" data-automation="footer-lnk-partner-services"><a href="#_" data-omniture="toolbar:partner-services">Partner services
+                           <i aria-hilien="true" data-icon="" data-icon-active=""></i>
+                 </a></li>
+                 <li class="mod-sub-menu">
+                     <ul>
+                         <li><a href="https://jobadder.com/au" target="_blank">JobAdder</a></li>
+                         <li><a href="http://www.joralocal.com.au/" target="_blank">Jora Local</a></li>
+                         <li><a href="https://www.realestate.com.au/buy" target="_blank">realestate.com.au</a></li>
+                         <li><a href="https://www.sidekicker.com.au/" target="_blank">Sidekicker</a></li>
+                         <li><a href="https://www.ximble.com/" target="_blank">Ximble</a></li>
+                     </ul>
+                 </li>
+               
+             </ul>
+        </nav>
+        <nav class="l-column grid_3">
+            <h3>Connect</h3>
+            <ul>
+              <li><a href="https://www.seek.com.au/contact-us" data-omniture="toolbar:contact+us">Contact us / FAQs</a></li>
+              <li><a href="http://productblog.seek.com.au" data-omniture="toolbar:product+blog" target="_blank">Product &amp; Tech Blog</a></li>
+              <li class="mod-parent-menu" data-automation="footer-lnk-social"><a href="#_" data-omniture="toolbar:social">Social
+                        <i aria-hilien="true" data-icon="" data-icon-active=""></i>
+              </a></li>
+            <li class="mod-sub-menu">
+                <ul>
                     
-                    <dd><a href="https://facebook.com/seek" data-omniture="toolbar:facebook" target="_blank">Facebook</a></dd>
-                    <dd><a href="https://twitter.com/seekjobs" data-omniture="toolbar:twitter" target="_blank">Twitter</a></dd>
-                    <dd><a href="https://plus.google.com/+seekau" data-omniture="toolbar:google+" target="_blank">Google+</a></dd>
-                    <dd><a href="https://youtube.com/seekjobs" data-omniture="toolbar:youtube" target="_blank">YouTube</a></dd>
+                    <li><a href="https://facebook.com/seek" data-omniture="toolbar:facebook" target="_blank">Facebook</a></li>
+                    <li><a href="https://twitter.com/seekjobs" data-omniture="toolbar:twitter" target="_blank">Twitter</a></li>
+                    <li><a href="https://plus.google.com/+seekau" data-omniture="toolbar:google+" target="_blank">Google+</a></li>
+                    <li><a href="https://youtube.com/seekjobs" data-omniture="toolbar:youtube" target="_blank">YouTube</a></li>
                     
-                </dl>
-        </dd></dl>
-        <dl class="l-column grid_3">
-            <dt>Employers</dt>
-            <dd><a href="https://talent.seek.com.au" data-omniture="toolbar:register+for+free">Register for free</a> </dd>
-            <dd><a href="https://talent.seek.com.au" data-omniture="toolbar:post+a+job+ad">Post a job ad</a></dd>
-            <dd><a href="https://talent.seek.com.au/products" data-omniture="toolbar:products+prices">Products &amp; prices</a></dd>
-            <dd><a href="https://talent.seek.com.au/ContactUs" data-omniture="toolbar:customer+service">Customer service</a></dd>
-            <dd><a href="http://insightsresources.seek.com.au" data-omniture="toolbar:insight+blog" target="_blank">Insights &amp; Resources</a></dd>
-        </dl>
+                </ul>
+            </li>
+            </ul>
+        </nav>
+        <nav class="l-column grid_3">
+            <h3>Employers</h3>
+            <ul>
+              <li><a href="https://talent.seek.com.au" data-omniture="toolbar:register+for+free">Register for free</a> </li>
+              <li><a href="https://talent.seek.com.au" data-omniture="toolbar:post+a+job+ad">Post a job ad</a></li>
+              <li><a href="https://talent.seek.com.au/products" data-omniture="toolbar:products+prices">Products &amp; prices</a></li>
+              <li><a href="https://talent.seek.com.au/ContactUs" data-omniture="toolbar:customer+service">Customer service</a></li>
+              <li><a href="http://insightsresources.seek.com.au" data-omniture="toolbar:insight+blog" target="_blank">Insights &amp; Resources</a></li>
+            </ul>
+        </nav>
         <p class="l-row">
-            <a href="//www.seek.com.au/privacy" data-omniture="toolbar:privacy" data-automation="footer-lnk-privacy">Privacy</a>
-            <a href="//www.seek.com.au/terms" data-omniture="toolbar:terms+conditions" data-automation="footer-lnk-terms">Terms &amp; Conditions</a>
-            <a href="//www.seek.com.au/safe-job-searching" data-omniture="toolbar:seek+safely" data-automation="footer-lnk-safety">SEEK safely</a>
-            <a href="//www.seek.com.au/sitemap" data-omniture="toolbar:site+map">Site Map</a>
+            <a href="https://www.seek.com.au/privacy" data-omniture="toolbar:privacy" data-automation="footer-lnk-privacy">Privacy</a>
+            <a href="https://www.seek.com.au/terms" data-omniture="toolbar:terms+conditions" data-automation="footer-lnk-terms">Terms &amp; Conditions</a>
+            <a href="https://www.seek.com.au/safe-job-searching" data-omniture="toolbar:seek+safely" data-automation="footer-lnk-safety">SEEK safely</a>
+            <a href="https://www.seek.com.au/sitemap" data-omniture="toolbar:site+map">Site Map</a>
             <span>© SEEK.  All rights reserved.</span>
         </p>
     </div>
-</div>
+</footer>
 
 <script type="text/javascript">
     $('.mod-parent-menu').click(function (e) {
@@ -663,7 +673,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 
     <script src="https://www.seek.com.au/Scripts/candy.vendor.js?v=PYmD2Vfo6T9Xvnkv_lQ3Vlw_U55M9wADcrAauLm4SLQ1"></script>
                 <script src="https://www.seek.com.au/Scripts/require.min.js?v=aAN7R3687mtYrVsRzT72e2IB9LIyjYu4l6BcKAgM0ps1"></script>
-                <script src="https://www.seek.com.au/Scripts/candy.modules.js?v=hcyz4EZDD_HB-9_roC67jfWr2r3HLdK4ENDQZMaCsGY1"></script>
+                <script src="https://www.seek.com.au/Scripts/candy.modules.js?v=1qO__JZvoiT3cwFZHeMg89pVrOBMAiVm-1dTaQUSgbw1"></script>
     
     
 
@@ -674,24 +684,24 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 s.country = 'au';
 s.platform = 'd';
 s.section = 'sat';
-s.trackingServer = 'info.seek.com';
-s.trackingServerSecure = 'info.seek.com';
+s.trackingServer = 'secure.info.seek.com';
+s.trackingServerSecure = 'secure.info.seek.com';
 
     require(['omniture'], function (omniture) {
 
         
         var queueTrackingOnly = 'false';
         if (queueTrackingOnly == 'true' && omniture.store) {
-            omniture.store({"prop4":"untaggedpage","prop12":"loggedout","prop54":"f50c3afa-372e-448e-ac2a-fa1fa8897abd","eVar54":"f50c3afa-372e-448e-ac2a-fa1fa8897abd"});
+            omniture.store({"prop4":"untaggedpage","prop12":"loggedout","prop54":"2951eb63-4d96-477a-8665-20f7bceb97fc","eVar54":"2951eb63-4d96-477a-8665-20f7bceb97fc"});
         }
         else if (omniture.post) {
-            omniture.post({"prop4":"untaggedpage","prop12":"loggedout","prop54":"f50c3afa-372e-448e-ac2a-fa1fa8897abd","eVar54":"f50c3afa-372e-448e-ac2a-fa1fa8897abd"});
+            omniture.post({"prop4":"untaggedpage","prop12":"loggedout","prop54":"2951eb63-4d96-477a-8665-20f7bceb97fc","eVar54":"2951eb63-4d96-477a-8665-20f7bceb97fc"});
         }
         else {
             s.prop4 = 'untaggedpage';
 s.prop12 = 'loggedout';
-s.prop54 = 'f50c3afa-372e-448e-ac2a-fa1fa8897abd';
-s.eVar54 = 'f50c3afa-372e-448e-ac2a-fa1fa8897abd';
+s.prop54 = '2951eb63-4d96-477a-8665-20f7bceb97fc';
+s.eVar54 = '2951eb63-4d96-477a-8665-20f7bceb97fc';
 
             var s_code = s.t(); if (s_code) document.write(s_code);
         }
