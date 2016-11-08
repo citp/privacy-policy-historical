@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401154922id_/http%3A//nairapark.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108084918id_/http%3A//www.nairapark.com/privacy.htm) for the most accurate reproduction.*
 
 # NairaPark :: Maintenance in Progress
 
@@ -14,7 +14,7 @@ Occasionally, we may wish to provide you with information about special features
 
 We collect visitors' contact information. This information is used to send orders and information about our company to our visitors. We also use this information to get in touch with their experience on our site and show them contents according to their preference. 
 
-This site contains links to other sites. We are not responsible for the privacy practices or the content of such websites. 
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such websites. nairapark.com respect Google Adsense Privacy Policy as contained in https://www.google.com/adsense/localized-terms. Please note that Google, as a third party vendor, uses cookies to serve ads on nairapark.com. Google's use of cookies enable it to serve ads to users based on their visit to nairapark.com and other sites on the Internet. Users may opt out of the use of the cookie by visiting the Google ad and content network privacy policy at http://www.google.com/intl/en/contact/. You can learn more about how google handle privacy issues at http://www.google.com/intl/en/policies/privacy/You can learn more about how google handle privacy issues at http://www.google.com/intl/en/policies/privacy/ 
 
 We may use an outside ad company to display ads on our site and these ads may contain cookies. Third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. In order to have full access to Nairapark.com, you are required to enable JavaScript and cookies in your browser. 
 
