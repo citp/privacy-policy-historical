@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simsvip.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402202126id_/http%3A//simsvip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simsvip.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108152823id_/http%3A//simsvip.com/privacy-policy) for the most accurate reproduction.*
 
-# - SimsVIP
+# | SimsVIP
 
 This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by SimsVIP and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
