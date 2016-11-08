@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtogetaskinnybody.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624120849id_/http%3A//howtogetaskinnybody.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogetaskinnybody.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108122440id_/http%3A//www.howtogetaskinnybody.com/privacy.html) for the most accurate reproduction.*
 
 # How To Get A Skinny Body
 
