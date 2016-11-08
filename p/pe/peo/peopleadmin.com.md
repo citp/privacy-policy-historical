@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleadmin.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621201233id_/https%3A//www.peopleadmin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleadmin.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108120610id_/https%3A//www.peopleadmin.com/privacy-policy) for the most accurate reproduction.*
 
 # PeopleAdmin Privacy Policy - PeopleAdmin
 
