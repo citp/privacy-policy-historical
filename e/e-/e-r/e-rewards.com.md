@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the e-rewards.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602094549id_/http%3A//www.e-rewards.com/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-rewards.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108115522id_/http%3A//www.e-rewards.com/privacypolicy.do) for the most accurate reproduction.*
 
 # e-Rewards Opinion Panel | Privacy Policy
 
-**Effective Date: October 29, 2015**
+**Effective Date: September 30, 2016**
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=98d7d3ce-e81d-48ed-a077-3e151b4123ee "TRUSTe Privacy Certification")
 
@@ -61,9 +61,8 @@ Additional details: [Opting Choices](https://web.archive.org/privacypolicy_full.
 Information Protection**  
 
 
-  * Our privacy policy undergoes an independent review by TRUSTe. 
+  * Our Privacy Policy undergoes a yearly review by an independent 3rd party. 
   * We comply with market research industry standards according to CASRO and ESOMAR. 
-  * You can choose to unsubscribe from our advanced cookie program. 
 
 
 
@@ -80,4 +79,4 @@ Plano, TX
 75024, USA;   
 Attn: Legal Department
 
-or the following email address: [Privacy@Researchnow.com](mailto:Privacy@Researchnow.com?subject=Attn:%20Privacy%20Department)
+or the following email address: [Privacy@Researchnow.com](mailto:Privacy@Researchnow.com?subject=\[e-rewards.com\]%20Privacy%20Query)
