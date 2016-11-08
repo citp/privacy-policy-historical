@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514160953id_/http%3A//www.appcues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109002829id_/http%3A//www.appcues.com/privacy) for the most accurate reproduction.*
 
 # Appcues Privacy Policy
 
