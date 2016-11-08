@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the transperfect.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531054745id_/http%3A//www.transperfect.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transperfect.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108071254id_/http%3A//www.transperfect.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TransPerfect
 
-**EU Standard Contractual Clauses (Processors)** – As part of its overall global privacy compliance efforts, TransPerfect has elected to adhere to enforcing the EU Standard Contractual Clauses (Processors) concerning the transfer of personal identifiable data from the European Union to the United States of America. TransPerfect also applies the same principles to data received from Switzerland. 
+**EU Standard Contractual Clauses (Processors) and the Privacy Shield** – As part of its overall global privacy compliance efforts, TransPerfect has elected to adhere to enforcing the EU Standard Contractual Clauses (Processors) and the Privacy Shield concerning the transfer of personal identifiable data from the European Union to the United States of America. TransPerfect also applies the same principles to data received from Switzerland.
 
 The term “processing” of personal data includes any operation or set of operations performed upon personal data such as collecting, storing, retrieving, consulting, using, disclosing, disseminating, and otherwise making available the personal data.
 
-This Privacy Policy may change from time to time based on changes made to the EU Standard Contractual Clauses. Any changes made necessary will be reflected in an update to this policy.
+This Privacy Policy may change from time to time based on changes made to the EU Standard Contractual Clauses and/or the Privacy Shield. Any changes made necessary will be reflected in an update to this policy.
 
 TransPerfect’s privacy practices are self-certified and reflect current guidance concerning the optimal manner of reaching data privacy compliance in accordance with current legal and regulatory guidance.
 
-Any questions about TransPerfect’s Privacy Policy or for a more detailed description of TransPerfect’s privacy compliance efforts (as outlined in our Privacy Manual) please contact our Privacy Officer, Rebecca Burns, Esq. at [rburns@transperfect.com](mailto:rburns@transperfect.com) or by telephone at 212-689-5555 x1494.
+Any questions about TransPerfect’s Privacy Policy or for a more detailed description of TransPerfect’s privacy compliance efforts (as outlined in our Privacy Manual) please contact our Privacy Officers, Roy Trujillo and/or Shigeru Watanabe ([privacy@transperfect.com](mailto:privacy@transperfect.com)) or by telephone at 212-689-5555 x 1494.
 
 **Scope** – This Privacy Policy applies to all personal information received by TransPerfect in any format. TransPerfect will ensure all global data handled by our offices conforms to this Privacy Policy.
 
@@ -46,7 +46,7 @@ Employees can do so by contacting the TransPerfect Human Resources department.
 
 Except as may be required by law or during a registrar or regulatory audit, TransPerfect will not provide any CVEs’ personal data to a third party without the consent of the data subject.
 
-**Data Integrity** – TransPerfect is dedicated to ensuring that all data maintained is accurate, updated, and relevant for the use contemplated by the CVE and will take all required steps to ensure the data is accurate, complete and current. This process is accomplished by regular email and written correspondence with CVEs; however, it is highly recommended that CVEs continue to monitor the information provided to TransPerfect and remain proactive with requesting access to any personal data and advising TransPerfect of the need for corrections as needed. 
+**Data Integrity** – TransPerfect is dedicated to ensuring that all data maintained is accurate, updated, and relevant for the use contemplated by the CVE and will take all required steps to ensure the data is accurate, complete and current. This process is accomplished by regular email and written correspondence with CVEs; however, it is highly recommended that CVEs continue to monitor the information provided to TransPerfect and remain proactive with requesting access to any personal data and advising TransPerfect of the need for corrections as needed.
 
 **Data Security** – TransPerfect has strict physical and logical security procedures to ensure that all digital and paper records are secured (such policy is available for dissemination to clients upon written request to the TransPerfect Privacy Officer). These records are accessible only by approved staff. All critical systems (such as servers, etc.) are accessible only by a small number of authorized staff. TransPerfect’s information security is managed internally and is routinely audited to ensure conformity with TransPerfect procedures and recommended industry standards.
 
@@ -54,4 +54,4 @@ Except as may be required by law or during a registrar or regulatory audit, Tran
 
 With respect to complaints related to our Privacy Policy that cannot be resolved through our internal Corrective/Preventive Action Process, we agree to abide by the dispute resolution procedures established by the EU Data Protection Authorities.
 
-_Effective: 26-October-2015_
+_Effective: 26-October-2016_
