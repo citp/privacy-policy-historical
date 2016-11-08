@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addonsolutions.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213021id_/https%3A//www.addonsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addonsolutions.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108174032id_/https%3A//www.addonsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Addon Privacy Policy
+# Privacy Policy - Addon Solutions
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience. 
 
@@ -80,7 +80,7 @@ The SPAM Act is a law that sets the rules for commercial email, establishes requ
 
 
 
-**To be in accordance with CANSPAM we agree to the following:**
+**To be in accordance with CAN-SPAM we agree to the following:**
 
   * __NOT use false, or misleading subjects or email addresses
   * __Identify the message as an advertisement in some reasonable way
