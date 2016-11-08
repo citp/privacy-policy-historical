@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405064202id_/https%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108041308id_/https%3A//techdirt.com/privacy.php) for the most accurate reproduction.*
 
 # Techdirt Privacy Policy.
 
@@ -16,7 +16,7 @@ By using Techdirt, you expressly consent to the information handling practices d
 
 * ### The Way Floor64 Uses Information:
 
-Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20160405064202id_/https%3A//www.techdirt.com/dmca.php).
+Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20161108041308id_/https%3A//techdirt.com/dmca.php).
 
   * We will use your email address, without further consent, for administrative communications such as notifying you of major Techdirt updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from Techdirt.
   * Floor64 uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way Techdirt works and looks, and to create new features and functionality.
@@ -35,7 +35,7 @@ Floor64 uses the information that you provide or that we collect to operate, mai
 
 * ### Your Choices:
 
-You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20160405064202id_/https%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20161108041308id_/https%3A//techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
   
 
@@ -63,7 +63,7 @@ For Users visiting Techdirt from the European Economic Area or other non-U.S. te
 
 * ### Safe Harbor Privacy Statement
 
-Floor64, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Floor64, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Floor64â€™s certification, please visit <http://www.export.gov/safeharbor/>. These are our promises to you:   
+Floor64, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Floor64, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Floor64’s certification, please visit <http://www.export.gov/safeharbor/>. These are our promises to you:   
 
 
   1. Notice. When we collect your personal information, we'll give you timely and appropriate notice describing what personal information we're collecting, how we'll use it, and the types of third parties with whom we may share it. 
