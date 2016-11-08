@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015224id_/http%3A//fee.org/about/view_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108073930id_/https%3A//fee.org/about/privacy-policy) for the most accurate reproduction.*
 
-# View Privacy Policy : About : Foundation for Economic Education
+# Privacy Policy | Foundation for Economic Education
 
 This privacy policy sets out how the Foundation for Economic Education (FEE) uses and protects any information that you give FEE when you use this website.
 
 FEE is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-FEE may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14 January 2014.
+FEE may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from March 30, 2016.
 
 **What we collect**
 
@@ -39,7 +39,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs.
 
 Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -51,15 +51,14 @@ Our website may contain links to other websites of interest. However, once you h
 
 **Controlling your personal information**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [webmaster@FEE.org](mailto:webmaster@FEE.org).
-
-
+If you have previously agreed to allow your personal information to be used for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [webmaster@FEE.org](mailto:webmaster@FEE.org).
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [info@FEE.org](mailto:info@FEE.org).
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at [webmaster@FEE.org](mailto:webmaster@FEE.org). We will promptly correct any information found to be incorrect.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+**Donor Privacy Policy**
+
+The Foundation for Economic Education respects the privacy of its donors and their choice not to have personal information shared. FEE does not sell, rent, or trade donor information (collected online or offline) to organizations that use such information for commercial purposes. Occasionally, FEE makes donor lists available for limited use by selected nonprofits in return for donor lists from those organizations. This helps FEE continue to grow its global base of support.
+
+FEE donors may request that their contact information be excluded from any list exchanges. Please direct all such requests to Elise Thompson by emailing Support@FEE.org, calling (404) 554-9980, or writing to FEE, 1819 Peachtree Road NE, Suite 300, Atlanta, GA 30309. We will honor such requests immediately.
