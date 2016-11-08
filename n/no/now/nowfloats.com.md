@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nowfloats.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509193010id_/http%3A//nowfloats.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowfloats.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108080253id_/https%3A//nowfloats.com/Privacy) for the most accurate reproduction.*
 
 # NowFloats | Making small business, bigger. | Get online instantly, get your business discovered. Get more customers.
 
-Before we start speaking legalese below, let's talk to you one on one. Our privacy policy basically states that we do not share your information, be it your business information or your updates with any 3rd party, unless it is to better the service we can provide back to you. 
+Before we start speaking legalese below, let's talk to you one on one. Our privacy policy basically states that we do not share your information, be it your business information or your updates with any third party, unless it is to better the service we can provide back to you. 
 
 NowFloats takes your privacy very seriously, however, we also wish to explain that creating a website to be found, means you want to expose data to the world. Whereas this may include your customers, it also includes many other publics - who might not be excluded from viewing what you are talking about, just because you wish it so. 
 
@@ -25,11 +25,11 @@ When we use the phrase "public information", we mean the information you choose 
 
   1. Choosing to make your information public is exactly what it sounds like: anyone landing on your website by NowFloats, either by typing the URL or coming through a search engine result click, will be able to see it. 
   2. Choosing to make your information public also means that this information: 
-    1. Can be associated with you (i.e., your displayed business name, business address, logo image, feature image, image gallery, message board, URL, page statistics, social sharing links, etc.) 
+    1. Can be associated with you (i.e., your displayed business name, business address, logo image, featured image, image gallery, message board, URL, page statistics, social sharing links, etc.) 
     2. Can show up when someone does a search on NowFloats or on a public search engine; 
     3. Will be accessible to the NowFloats-linked business directory, applications, and websites; and 
     4. Will be accessible to anyone who uses our APIs and internal search. 
-    5. When others share information about you, for instance sharing your website, or sharing a message you're your website, using your social media options, they can also choose to make it public. 
+    5. When others share information about you, for instance sharing your website, or sharing a message you have posted on your website, using your social media options, they can also choose to make it public. 
 
 
 
@@ -42,23 +42,23 @@ This helps people search for your business.
   
 
   * **Business Descriptor:**   
-Unless you specifically delete the business description, this will be publically displayed. 
+Unless you specifically delete the business description, this will be publicly displayed. 
   
 
   * **Business Contact Details:**   
-Your business contacts, which may includes accurate business address, email address, mobile or telephone numbers and/or other website addresses. 
+Your business contacts, which may include accurate business address, email address, mobile or telephone numbers and/or other website addresses. 
   
 
   * **All Business updates:**   
-Any business updates (text, image or video) that you make and that appear under the 'Message Board' on the right side, are all in the public domain and searchable. 
+Any business updates (text, image or video) that you make and that appear on your website, are all in the public domain and searchable. 
   
 
   * **Business Logo & Hyperlink:**   
-The logo file uploaded is always displayed for people to easily recognize your brand. The hyperlink to any other website you might own will always be displayed upon hover-on the logo display picture. 
+The logo file uploaded is always displayed for people to easily recognize your brand. The hyperlink to any other website you might own will always be displayed. 
   
 
-  * **Latest Tags:**   
-Latest Tags® will always be visible on the left of the 'Message Board'. 
+  * **'Site Sense' Keywords:**   
+Auto generated 'Site Sense' Keywords will always be visible on your website. 
 
 
 
