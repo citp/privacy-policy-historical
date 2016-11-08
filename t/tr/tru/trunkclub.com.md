@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424092529id_/https%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108061441id_/https%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights - Trunk Club
 
