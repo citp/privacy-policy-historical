@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsimilate.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501155423id_/http%3A//www.adsimilate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsimilate.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108113332id_/http%3A//www.adsimilate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : PPC : Online Ads : Pay Per Click Advertising : Adsimilate.com
 
