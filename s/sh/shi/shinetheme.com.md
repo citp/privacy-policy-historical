@@ -1,64 +1,15 @@
-> *The following text is extracted and transformed from the shinetheme.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004070839id_/http%3A//www.shinetheme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinetheme.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108022624id_/http%3A//shinetheme.com/mainsite/premium-priority-support) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Premium WordPress Themes | ShineTheme
 
-This privacy policy sets out how ShineTheme Private Limited uses and protects any information that you have given to us when you use this website.
+#### Information Collected From You
 
-ShineTheme Private Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We collect the email addresses of those who communicate with us via email, information about the pages users access on the Website, and information voluntarily submitted by the user (for example, ftp and admin credentials). The types of information that may be requested include your name, company name, email address, telephone number and billing information. The information we collect is used to provide the Service to you, to improve the quality of the Website and Service, to communicate information about the Service, to provide you with support when you are using our Website, to bill your account for the Service provided and to contact you about your account when necessary. Your information will never be sold to or shared with other companies or organizations for commercial purposes or otherwise, except as outlined in this Policy.
 
-ShineTheme Private Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+We host and process data, including personal information, in the United States and the European Economic Area and possibly in other countries through third parties that we use to operate and manage the Service. When you access or use our Website or the Service, or otherwise provide information to us, you are consenting, on behalf of you and your authorized agents or end-users, (and representing that you have the authority to provide such consent) to the processing and transfer of information in and to the United States and other countries which may have different privacy laws from your or their country of residence. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
 
-**What we collect**
+#### Use of Cookies
 
-We may collect the following information:
+When you use the Help Desk or our website or Service we may store some information on your computer. This information will be in the form of a “cookie” or similar file. Cookies are small pieces of information stored on your hard drive, not on the Shinetheme website. We do not use cookies to spy on you or otherwise invade your privacy. They cannot invade your hard drive and steal information. We use cookies to help you navigate the Shinetheme website and Service as easily as possible, and to remember information about your current session. These are the Session Cookies and they are removed from your system when you close the web browser or turn off the computer. You must enable cookies on your web browser to use the VamTam Service.
 
-  * Name and contact information including email address.
-  * Demographic information such as postcode, preferences and interests.
-  * Other information relevant to customer surveys and/or offers.
-  * Website URL where our component installed.
-
-
-
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [contact@shinetheme.com](mailto:contact@shinetheme.com)
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [contact@shinetheme.com](mailto:contact@shinetheme.com)
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+We also use persistent cookies to analyse information about visitors to the Shinetheme website. No personal information is collected during this process. A persistent cookie remains on your hard drive after closing the web browser or turning off the computer. Various categories of cookies (including third party cookies) are used in the VamTam website and Service. These are listed below along with the options to manage them.
