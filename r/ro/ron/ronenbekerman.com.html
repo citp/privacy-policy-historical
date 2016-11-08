@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ronenbekerman.com privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324185224id_/http%3A//www.ronenbekerman.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ronenbekerman.com privacy policy that was archived on 2016-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108073636id_/http%3A//www.ronenbekerman.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class=" html_stretched responsive av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky_disabled html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_phone html_disabled html_header_searchicon_disabled html_content_align_center html_header_stretch_disabled html_entry_id_19409 "><head>
 <meta charset="UTF-8">
@@ -9,6 +9,7 @@
  
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
  
+<title>Privacy Policy - 3D Architectural Visualization &amp; Rendering Blog</title>
 <style type="text/css">.thrive-adminbar-icon{background:url('http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/tcb/editor/css/images/tcb-close-icon.png') no-repeat 0px 0px;padding-left:25px!important;width:20px!important;height:20px!important;}</style>
  
 <link rel="canonical" href="http://www.ronenbekerman.com/privacy-policy/">
@@ -24,14 +25,18 @@
 <meta name="twitter:site" content="@ronenbekerman">
 <meta name="twitter:creator" content="@ronenbekerman">
  
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//zor.livefyre.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Ronen Bekerman - 3D Architectural Visualization &amp; Rendering Blog » Feed" href="http://www.ronenbekerman.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Ronen Bekerman - 3D Architectural Visualization &amp; Rendering Blog » Comments Feed" href="http://www.ronenbekerman.com/comments/feed/">
  
 <link rel="stylesheet" id="avia-google-webfont" href="//fonts.googleapis.com/css?family=Open+Sans:400,600" type="text/css" media="all">
-<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://djtflbt20bdde.cloudfront.net/ "></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.ronenbekerman.com\/wp-includes\/js\/wp-emoji.js?ver=4.4.2","twemoji":"http:\/\/www.ronenbekerman.com\/wp-includes\/js\/twemoji.js?ver=4.4.2"}};
+<script type="text/javascript" async="" src="https://djtflbt20bdde.cloudfront.net/ "></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.ronenbekerman.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.ronenbekerman.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -39,14 +44,14 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
 			context = canvas.getContext && canvas.getContext( '2d' ),
 			stringFromCharCode = String.fromCharCode,
-			tone;
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -60,46 +65,83 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( 'flag' === type ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-			 * - The Australian flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else if ( 'diversity' === type ) {
-			/*
-			 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-			 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-			 * compares if the emoji rendering has changed.
-			 */
-			context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-			tone = context.getImageData( 16, 16, 1, 1 ).data.toString();
-			context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-			// Chrome has issues comparing arrays, so we compare it as a  string, instead.
-			return tone !== context.getImageData( 16, 16, 1, 1 ).data.toString();
-		} else {
-			if ( 'simple' === type ) {
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
 				/*
 				 * This creates a smiling emoji, and checks to see if there is any image data in the
 				 * center pixel. In browsers that don't support emoji, the character will be rendered
 				 * as an empty square, so the center pixel will be blank.
 				 */
 				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-			} else {
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
 				/*
 				 * To check for Unicode 8 support, let's try rendering the most important advancement
 				 * that the Unicode Consortium have made in years: the burrito.
 				 */
 				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-			}
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
@@ -110,19 +152,31 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+
 	settings.supports = {
-		simple:    browserSupportsEmoji( 'simple' ),
-		flag:      browserSupportsEmoji( 'flag' ),
-		unicode8:  browserSupportsEmoji( 'unicode8' ),
-		diversity: browserSupportsEmoji( 'diversity' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag || ! settings.supports.unicode8 || ! settings.supports.diversity ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -150,13 +204,11 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.ronenbekerman.com/wp-includes/js/twemoji.js?ver=4.4.2" type="text/javascript"></script><script src="http://www.ronenbekerman.com/wp-includes/js/wp-emoji.js?ver=4.4.2" type="text/javascript"></script>
+		</script><script src="http://www.ronenbekerman.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.ronenbekerman.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="tve_style_family_tve_flt-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/tcb/editor/css/thrive_flat.css?ver=1.200.4" type="text/css" media="all">
-<link rel="stylesheet" id="tve_leads_forms-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/editor-layouts/css/frontend.css?ver=1.74" type="text/css" media="all">
 <link rel="stylesheet" id="nouislider-css-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/wordpress-before-after-images-slider/jquery.nouislider.css?ver=7.0.10" type="text/css" media="all">
 <link rel="stylesheet" id="wpbaimages-css-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/wordpress-before-after-images-slider/ImageComparisonSlider.css?ver=2.2" type="text/css" media="all">
-<link rel="stylesheet" id="quotescollection-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/quotes-collection/css/quotes-collection.css?ver=2.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="quotescollection-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/quotes-collection/css/quotes-collection.css?ver=2.0.5" type="text/css" media="all">
 <link rel="stylesheet" id="avia-grid-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/css/grid.css?ver=2" type="text/css" media="all">
 <link rel="stylesheet" id="avia-base-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/css/base.css?ver=2" type="text/css" media="all">
 <link rel="stylesheet" id="avia-layout-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/css/layout.css?ver=2" type="text/css" media="all">
@@ -164,10 +216,10 @@
 <link rel="stylesheet" id="avia-popup-css-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1" type="text/css" media="screen">
 <link rel="stylesheet" id="avia-media-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1" type="text/css" media="screen">
 <link rel="stylesheet" id="avia-print-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/css/print.css?ver=1" type="text/css" media="print">
-<link rel="stylesheet" id="avia-dynamic-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/dynamic_avia/ronenbekerman.css?ver=56af1e9554772" type="text/css" media="all">
+<link rel="stylesheet" id="avia-dynamic-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/dynamic_avia/ronenbekerman.css?ver=5819df4dc0b0a" type="text/css" media="all">
 <link rel="stylesheet" id="avia-custom-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/css/custom.css?ver=2" type="text/css" media="all">
 <link rel="stylesheet" id="avia-style-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/ronenbekermanv3/style.css?ver=2" type="text/css" media="all">
-<link rel="stylesheet" id="avia-gravity-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/config-gravityforms/gravity-mod.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="wpgform-css-css" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/wpgform/css/wpgform.css?ver=4.6.1" type="text/css" media="all">
  
 <script type="text/javascript">
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -182,33 +234,57 @@
 
 </script>
  
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/tcb/editor/js/compat.min.js?ver=1.200.4"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/tcb/editor/js/compat.min.js?ver=1.200.14"></script>
 <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/wordpress-before-after-images-slider/jquery.nouislider.js?ver=7.0.10"></script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/wordpress-before-after-images-slider/ImageComparisonSlider.js?ver=2.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php","nonce":"15029e53d6","nextQuote":"Next quote \u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
+var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php","nonce":"26aa8c1f2e","nextQuote":"Next quote \u00bb","loading":"Loading...","error":"Error getting quote","autoRefreshMax":"20","autoRefreshCount":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/quotes-collection/js/quotes-collection.js?ver=2.0.4"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/quotes-collection/js/quotes-collection.js?ver=2.0.5"></script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/avia-compat.js?ver=2"></script>
 <link rel="https://api.w.org/" href="http://www.ronenbekerman.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ronenbekerman.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ronenbekerman.com/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="http://www.ronenbekerman.com/?p=19409">
 <link rel="alternate" type="application/json+oembed" href="http://www.ronenbekerman.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ronenbekerman.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.ronenbekerman.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ronenbekerman.com%2Fprivacy-policy%2F&amp;format=xml">
+ 
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1682478592011298');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1682478592011298&ev=PageView&noscript=1"/></noscript>
+ 
+ 
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:325167,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-325167.js?sv=5"></script>
+<script type="text/javascript" src="https://gumroad.com/js/gumroad.js"></script>
  
 <link rel="stylesheet" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/paginator/skin/paginator3000.css" type="text/css" media="screen">
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/paginator/js/paginator3000.js"></script>
  
-<script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="22ec4a9eea0fa9f7e26bd066b8cd39b61fce81356295ef4bb6539ea535ef68a9" async=""></script>
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="22ec4a9eea0fa9f7e26bd066b8cd39b61fce81356295ef4bb6539ea535ef68a9" async=""></script>
 <meta property="al:android:package" content="com.quoord.tapatalkpro.activity">
-<meta property="al:android:url" content="tapatalk://www.ronenbekerman.com?location=blog&amp;blog_id=19409&amp;channel=facebook-indexing">
+<meta property="al:android:url" content="tapatalk://www.ronenbekerman.com?location=blog&amp;pid=19409&amp;blog_id=19409&amp;channel=facebook-indexing">
 <meta property="al:android:app_name" content="Tapatalk">
-<meta property="al:ios:url" content="tapatalk://www.ronenbekerman.com?location=blog&amp;blog_id=19409&amp;channel=facebook-indexing">
+<meta property="al:ios:url" content="tapatalk://www.ronenbekerman.com?location=blog&amp;pid=19409&amp;blog_id=19409&amp;channel=facebook-indexing">
 <meta property="al:ios:app_store_id" content="307880732">
 <meta property="al:ios:app_name" content="Tapatalk">
  
@@ -218,17 +294,18 @@ var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.ronenbekerman.com\/wp-admin\
 <meta name="twitter:title" content="">
 <meta name="twitter:description" content="Ronen Bekerman - 3D Architectural Visualization &amp; Rendering Blog">
 <meta name="twitter:app:id:iphone" content="307880732">
-<meta name="twitter:app:url:iphone" content="tapatalk://www.ronenbekerman.com?location=blog&amp;blog_id=19409&amp;channel=twitter-indexing">
+<meta name="twitter:app:url:iphone" content="tapatalk://www.ronenbekerman.com?location=blog&amp;pid=19409&amp;blog_id=19409&amp;channel=twitter-indexing">
 <meta name="twitter:app:id:ipad" content="307880732">
-<meta name="twitter:app:url:ipad" content="tapatalk://www.ronenbekerman.com?location=blog&amp;blog_id=19409&amp;channel=twitter-indexing">
+<meta name="twitter:app:url:ipad" content="tapatalk://www.ronenbekerman.com?location=blog&amp;pid=19409&amp;blog_id=19409&amp;channel=twitter-indexing">
 <meta name="twitter:app:id:googleplay" content="com.quoord.tapatalkpro.activity">
-<meta name="twitter:app:url:googleplay" content="tapatalk://www.ronenbekerman.com?location=blog&amp;blog_id=19409&amp;channel=twitter-indexing">
+<meta name="twitter:app:url:googleplay" content="tapatalk://www.ronenbekerman.com?location=blog&amp;pid=19409&amp;blog_id=19409&amp;channel=twitter-indexing">
  
 <style>@media only screen and (max-width: 860px) {.logo a img{max-height:95px}}</style>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="alternate" type="application/rss+xml" title="Ronen Bekerman - 3D Architectural Visualization &amp; Rendering Blog RSS2 Feed" href="http://www.ronenbekerman.com/feed/">
 <link rel="pingback" href="http://www.ronenbekerman.com/xmlrpc.php">
-<link rel="author" href="http://plus.google.com/117553815288815289271"><!--[if lt IE 9]><script src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/rb-head-1-80x80.png" type="image/png">
  
 <style type="text/css">@font-face{font-family:'entypo-fontello';font-weight:normal;font-style:normal;src:url('http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');src:url('http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'),url('http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'),url('http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'),url('http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');}#top .avia-font-entypo-fontello,body .avia-font-entypo-fontello,html body [data-av_iconfont='entypo-fontello']:before{font-family:'entypo-fontello';}</style>
 </head>
@@ -239,6 +316,7 @@ var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.ronenbekerman.com\/wp-admin\
 <div class="container">
 <ul class="noLightbox social_bookmarks icon_count_5"><li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" href="http://www.facebook.com/ronenbekerman" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook"><span class="avia_hidden_link_text">Facebook</span></a></li><li class="social_bookmarks_twitter av-social-link-twitter social_icon_2"><a target="_blank" href="http://www.twitter.com/ronenbekerman" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" title="Twitter"><span class="avia_hidden_link_text">Twitter</span></a></li><li class="social_bookmarks_pinterest av-social-link-pinterest social_icon_3"><a target="_blank" href="http://www.pinterest.com/ronenbekerman" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" title="Pinterest"><span class="avia_hidden_link_text">Pinterest</span></a></li><li class="social_bookmarks_gplus av-social-link-gplus social_icon_4"><a target="_blank" href="http://plus.google.com/117553815288815289271" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" title="Gplus"><span class="avia_hidden_link_text">Gplus</span></a></li><li class="social_bookmarks_youtube av-social-link-youtube social_icon_5"><a target="_blank" href="https://www.youtube.com/user/bakbek/" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" title="Youtube"><span class="avia_hidden_link_text">Youtube</span></a></li></ul><nav class="sub_menu" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="avia2-menu" class="menu"><li id="menu-item-26929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26929"><a href="http://www.ronenbekerman.com/menu/home">Home</a></li>
 <li id="menu-item-26928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26928"><a href="http://www.ronenbekerman.com/menu/about">About</a></li>
+<li id="menu-item-32594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32594"><a href="http://www.ronenbekerman.com/menu/challenges">Challenges</a></li>
 <li id="menu-item-26927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26927"><a href="http://www.ronenbekerman.com/menu/advertise">Advertise</a></li>
 <li id="menu-item-26926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26926"><a href="http://www.ronenbekerman.com/menu/contact">Contact</a></li>
 <li id="menu-item-26925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26925"><a href="http://www.ronenbekerman.com/menu/write-for-us">Write For Us</a></li>
@@ -258,7 +336,7 @@ var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.ronenbekerman.com\/wp-admin\
 <li id="menu-item-26914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-2"><a href="http://www.ronenbekerman.com/menu/workflows" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Workflows</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
 <li id="menu-item-26909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-3"><a href="http://www.ronenbekerman.com/menu/tools-of-the-trade" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Tools of the Trade</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
 <li id="menu-item-26913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4"><a href="http://www.ronenbekerman.com/menu/freebies" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Freebies</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-28110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-5"><a href="http://www.ronenbekerman.com/best-of-week/best-of-week-2016/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Best of</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<li id="menu-item-28110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-5"><a href="http://www.ronenbekerman.com/best-of-week/best-of-week-2016/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Best of Week</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
 <ul class="sub-menu">
 <li id="menu-item-31005" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ronenbekerman.com/best-of-week/best-of-week-2016/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Best of Week 2016</span></a></li>
 <li id="menu-item-28405" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.ronenbekerman.com/best-of-week/best-of-week-2015/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Best of Week 2015</span></a></li>
@@ -266,18 +344,7 @@ var quotescollectionAjax = {"ajaxUrl":"http:\/\/www.ronenbekerman.com\/wp-admin\
 </ul>
 </li>
 <li id="menu-item-26912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-6"><a href="http://www.ronenbekerman.com/menu/inspiration" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Inspiration</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
-<li id="menu-item-26915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-7"><a href="http://www.ronenbekerman.com/menu/challenges" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Challenges</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-<div class="avia_mega_div avia_mega6 twelve units">
-<ul class="sub-menu">
-<li id="menu-item-26923" class="menu-item menu-item-type-custom menu-item-object-custom avia_mega_menu_columns_6 three units  avia_mega_menu_columns_first"><span class="mega_menu_title heading-color av-special-font"><a href="http://www.ronenbekerman.com/menu/gh-house-winners">Challenge I / GH House Winners</a></span></li>
-<li id="menu-item-26922" class="menu-item menu-item-type-custom menu-item-object-custom avia_mega_menu_columns_6 three units "><span class="mega_menu_title heading-color av-special-font"><a href="http://www.ronenbekerman.com/menu/hover-winners">Challenge II / Hover Winners</a></span></li>
-<li id="menu-item-26921" class="menu-item menu-item-type-custom menu-item-object-custom avia_mega_menu_columns_6 three units "><span class="mega_menu_title heading-color av-special-font"><a href="http://www.ronenbekerman.com/menu/citylife-winners">Challenge III / CityLIFE Winners</a></span></li>
-<li id="menu-item-26920" class="menu-item menu-item-type-custom menu-item-object-custom avia_mega_menu_columns_6 three units "><span class="mega_menu_title heading-color av-special-font"><a href="http://www.ronenbekerman.com/menu/museum-maxwell-render-winners">‘The Museum’ / Maxwell Render Challenge Winners</a></span></li>
-<li id="menu-item-26919" class="menu-item menu-item-type-custom menu-item-object-custom avia_mega_menu_columns_6 three units "><span class="mega_menu_title heading-color av-special-font"><a href="http://www.ronenbekerman.com/menu/museum-lumion-winners">‘The Museum’ / Lumion Challenge Winners</a></span></li>
-<li id="menu-item-28866" class="menu-item menu-item-type-custom menu-item-object-custom avia_mega_menu_columns_6 three units avia_mega_menu_columns_last"><span class="mega_menu_title heading-color av-special-font"><a href="http://www.ronenbekerman.com/challenges/the-vineyard-challenge/">“The Vineyard” / Unreal Engine Challenge VI</a></span></li>
-</ul>
-</div>
-</li>
+<li id="menu-item-32593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-7"><a href="http://www.ronenbekerman.com/menu/shop" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Shop</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
 <li id="menu-item-26910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-8"><a href="http://www.ronenbekerman.com/menu/forums" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Forums</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
 </ul></div></nav>
  
@@ -346,8 +413,8 @@ Israel<br>
 </div></section>
 </div></div></div>    </div> </div>  <div class="container_wrap footer_color" id="footer">
 <div class="container">
-<div class="flex_column av_one_half  first el_before_av_one_half"><section id="portfoliobox-2" class="widget clearfix newsbox"><ul class="news-wrap image_size_widget"><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 11/2016 – Blue House by Julio Guillermo Gorischnik" href="http://www.ronenbekerman.com/portfolio/best-of-week-112016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="Julio Guillermo Gorischnik - Blue House 01" srcset="http://www.ronenbekerman.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-80x80.jpg 80w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-200x200.jpg 200w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-36x36.jpg 36w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-180x180.jpg 180w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-120x120.jpg 120w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/Julio-Guillermo-Gorischnik-Blue-House-01-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 11/2016 – Blue House by Julio Guillermo Gorischnik<span class="news-time">March 21, 2016 - 09:48</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 10/2016 – IMAGINE by Buzludzha Monument" href="http://www.ronenbekerman.com/portfolio/best-of-week-102016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="IMAGINE - Buzludzha Monument 05" srcset="http://www.ronenbekerman.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-80x80.jpg 80w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-200x200.jpg 200w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-36x36.jpg 36w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-180x180.jpg 180w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-120x120.jpg 120w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/IMAGINE-Buzludzha-Monument-05-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 10/2016 – IMAGINE by Buzludzha Monument<span class="news-time">March 13, 2016 - 15:39</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 09/2016 – Black Timber House by SOA" href="http://www.ronenbekerman.com/portfolio/best-of-week-092016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="SOA - Black Timber House 01" srcset="http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-80x80.jpg 80w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-300x300.jpg 300w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-768x768.jpg 768w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-1030x1030.jpg 1030w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-250x250.jpg 250w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-200x200.jpg 200w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-36x36.jpg 36w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-180x180.jpg 180w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-705x705.jpg 705w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-120x120.jpg 120w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01-450x450.jpg 450w, http://www.ronenbekerman.com/wp-content/uploads/2016/03/SOA-Black-Timber-House-01.jpg 1200w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 09/2016 – Black Timber House by SOA<span class="news-time">March 6, 2016 - 15:25</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 08/2016 – The Garden Untamed by bdomiczek" href="http://www.ronenbekerman.com/portfolio/best-of-week-082016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="bdomiczek - The Garden Untamed 01" srcset="http://www.ronenbekerman.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-80x80.jpg 80w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-200x200.jpg 200w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-36x36.jpg 36w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-180x180.jpg 180w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-120x120.jpg 120w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/bdomiczek-The-Garden-Untamed-01-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 08/2016 – The Garden Untamed by bdomiczek<span class="news-time">February 28, 2016 - 15:24</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 07/2016 – The Building on the Water by Marcin “Neb” Jastrzebski" href="http://www.ronenbekerman.com/portfolio/best-of-week-072016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="Marcin %22Neb%22 Jastrzebski - The Building on the Water : Alvaro Siza + Carlos C 01" srcset="http://www.ronenbekerman.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-80x80.jpg 80w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-200x200.jpg 200w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-36x36.jpg 36w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-180x180.jpg 180w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-120x120.jpg 120w, http://www.ronenbekerman.com/wp-content/uploads/2016/02/Marcin-22Neb22-Jastrzebski-The-Building-on-the-Water-Alvaro-Siza-Carlos-C-01-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 07/2016 – The Building on the Water by Marcin “Neb” Jastrzebski<span class="news-time">February 21, 2016 - 15:15</span></strong></a></li></ul><span class="seperator extralight-border"></span></section></div><div class="flex_column av_one_half  el_after_av_one_half  el_before_av_one_half "><section id="quotescollection-3" class="widget clearfix widget_quotescollection"><div class="quotescollection-quote" id="w_quotescollection_3"><p>Have no fear of perfection – you’ll never reach it.</p>
-<footer class="attribution">—&nbsp;<cite class="author">Salvador Dali</cite></footer></div><span class="seperator extralight-border"></span></section></div>
+<div class="flex_column av_one_half  first el_before_av_one_half"><section id="portfoliobox-2" class="widget clearfix newsbox"><ul class="news-wrap image_size_widget"><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 44/2016 – Jupiter Hotel, Portland, Oregon by Brick Visual" href="http://www.ronenbekerman.com/portfolio/best-of-week-442016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="brick-visual-jupiter-hotel-portland-oregon-01" srcset="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-36x36.jpg 36w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-80x80.jpg 80w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-200x200.jpg 200w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-180x180.jpg 180w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-120x120.jpg 120w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Brick-Visual-Jupiter-Hotel-Portland-Oregon-01-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 44/2016 – Jupiter Hotel, Portland, Oregon by Brick Visual<span class="news-time">November 7, 2016 - 15:04</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 43/2016 – Island Rings by Thomas Dubois" href="http://www.ronenbekerman.com/portfolio/best-of-week-432016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="thomas-dubois-island-rings-01" srcset="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-36x36.jpg 36w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-80x80.jpg 80w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-200x200.jpg 200w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-180x180.jpg 180w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-120x120.jpg 120w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Thomas-Dubois-Island-Rings-01-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 43/2016 – Island Rings by Thomas Dubois<span class="news-time">November 3, 2016 - 14:58</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 42/2016 – Gala Event in Belgrade by Arqui9" href="http://www.ronenbekerman.com/portfolio/best-of-week-422016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="arqui9-gala-event-in-belgrade-som-belgrade-01" srcset="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-36x36.jpg 36w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-80x80.jpg 80w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-200x200.jpg 200w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-180x180.jpg 180w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-120x120.jpg 120w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Arqui9-Gala-event-in-Belgrade-SOM-Belgrade-01.-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 42/2016 – Gala Event in Belgrade by Arqui9<span class="news-time">October 26, 2016 - 14:56</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 41/2016 – Adaptive reuse of the Soviet epoch building in Lviv, UA by Submarine" href="http://www.ronenbekerman.com/portfolio/best-of-week-412016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="submarine-adaptive-reuse-of-the-soviet-epoch-building-in-lviv-ua-02" srcset="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-36x36.jpg 36w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-80x80.jpg 80w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-300x300.jpg 300w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-768x768.jpg 768w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-250x250.jpg 250w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-200x200.jpg 200w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-180x180.jpg 180w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-705x705.jpg 705w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-120x120.jpg 120w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02-450x450.jpg 450w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Submarine-Adaptive-reuse-of-the-Soviet-epoch-building-in-Lviv-UA-02.jpg 960w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 41/2016 – Adaptive reuse of the Soviet epoch building in Lviv, UA by Submarine<span class="news-time">October 19, 2016 - 14:53</span></strong></a></li><li class="news-content post-format-standard"><a class="news-link" title="Best of Week 40/2016 – Varenna Poliform by Bertrand Benoit" href="http://www.ronenbekerman.com/portfolio/best-of-week-402016/"><span class="news-thumb "><img width="36" height="36" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="bertrand-benoit-varenna-poliform-04" srcset="http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-36x36.jpg 36w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-80x80.jpg 80w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-200x200.jpg 200w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-180x180.jpg 180w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-120x120.jpg 120w, http://rbblog.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/Bertrand-Benoit-Varenna-Poliform-04-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px"></span><strong class="news-headline">Best of Week 40/2016 – Varenna Poliform by Bertrand Benoit<span class="news-time">October 12, 2016 - 14:48</span></strong></a></li></ul><span class="seperator extralight-border"></span></section></div><div class="flex_column av_one_half  el_after_av_one_half  el_before_av_one_half "><section id="quotescollection-3" class="widget clearfix widget_quotescollection"><div class="quotescollection-quote" id="w_quotescollection_3"><p>Have no fear of perfection – you’ll never reach it.</p>
+<div class="attribution">—&nbsp;<cite class="author">Salvador Dali</cite></div></div><span class="seperator extralight-border"></span></section></div>
 </div>
  
 </div>
@@ -378,20 +445,13 @@ var avia_framework_globals = avia_framework_globals || {};
     avia_framework_globals.ajaxurl = 'http://www.ronenbekerman.com/wp-admin/admin-ajax.php';
 /* ]]> */ 
 </script>
-<span style="display:none" class="tl-placeholder-f-type-lightbox"></span><script type="text/javascript">
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201645"></script>
+<script type="text/javascript">
 /* <![CDATA[ */
 var thirsty_gct_global_vars = {"home_url":"http:\/\/www.ronenbekerman.com\/","link_prefix":"goto","custom_action_name":"Affiliate Link","use_post_url":"on","use_legacy_analytics":"","filter_legacy_analytics_code":"","is_yoast":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thirstyaffiliates-google-click-tracking/js/thirstyGCTClickTracker.js?ver=1.3.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"1","ajaxurl":"http:\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php","social_fb_app_id":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/tcb/editor/js/thrive_content_builder_frontend.min.js?ver=1.200.4"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/js/frontend.min.js?ver=1.74"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201612"></script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/ronenbekermanv3/js/jquery.sticky.js?ver=1.0"></script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/ronenbekermanv3/js/child_js.js?ver=1.0"></script>
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/avia.js?ver=3"></script>
@@ -399,24 +459,25 @@ var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"1"
 <script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.2"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var tve_dash_front = {"ajaxurl":"http:\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php"};
+var tve_dash_front = {"ajaxurl":"http:\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php","is_crawler":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=1.0.8"></script>
-<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.js?ver=4.4.2"></script>
-<script type="text/javascript">/*<![CDATA[*/var TL_Const={"security":"6d0e60d67a","ajax_url":"\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":30341,"display_options":{"allowed_post_types":[]},"custom_post_data":{"http_referrer":"http:\/\/www.ronenbekerman.com\/3d-snow-creation-tips-by-bertrand-benoit\/"},"current_screen":{"screen_type":3,"screen_id":19409},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]}/*]]> */</script><script type="text/javascript" src="http://stats.wp.com/e-201612.js" async="" defer=""></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=1.0.18"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4"></script>
+<script type="text/javascript" src="http://rbblog.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+<script type="text/javascript">/*<![CDATA[*/var TL_Const={"security":"0a28d076f8","ajax_url":"\/\/www.ronenbekerman.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":30341,"display_options":{"allowed_post_types":[]},"custom_post_data":{"http_referrer":"http:\/\/www.ronenbekerman.com\/making-kitchen-corona-renderer\/"},"current_screen":{"screen_type":3,"screen_id":19409},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]}/*]]> */</script><script type="text/javascript" src="http://stats.wp.com/e-201645.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.9.4',blog:'99807411',post:'19409',tz:'2',srv:'www.ronenbekerman.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'99807411',post:'19409',tz:'2',srv:'www.ronenbekerman.com'} ]);
 	_stq.push([ 'clickTrackerInit', '99807411', '19409' ]);
 </script>
 <script>!function(e,o,n){window.HSCW=o,window.HS=n,n.beacon=n.beacon||{};var t=n.beacon;t.userConfig={},t.readyQueue=[],t.config=function(e){this.userConfig=e},t.ready=function(e){this.readyQueue.push(e)},o.config={docs:{enabled:!1,baseUrl:""},contact:{enabled:!0,formId:"a5a72dd2-80a2-11e5-8846-0e599dc12a51"}};var r=e.getElementsByTagName("script")[0],c=e.createElement("script");c.type="text/javascript",c.async=!0,c.src="https://djtflbt20bdde.cloudfront.net/ ",r.parentNode.insertBefore(c,r)}(document,window.HSCW||{},window.HS||{});</script>
@@ -436,19 +497,7 @@ translation: { contactSuccessDescription:'Thanks for reaching out! I will get ba
 instructions:'How can I help you?'
 }
     );
-</script>
- 
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '771207466256785');
-fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=771207466256785&ev=PageView&noscript=1"/></noscript>
- <a href="#top" title="Scroll to top" id="scroll-top-link" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"><span class="avia_hidden_link_text">Scroll to top</span></a>
+</script><a href="#top" title="Scroll to top" id="scroll-top-link" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"><span class="avia_hidden_link_text">Scroll to top</span></a>
 <div id="fb-root"></div>
 
 
