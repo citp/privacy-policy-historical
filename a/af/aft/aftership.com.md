@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aftership.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526192723id_/https%3A//www.aftership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftership.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108230630id_/https%3A//www.aftership.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AfterShip
 
@@ -82,13 +82,13 @@ We may transfer any information we have about you in connection with a merger or
 
 ### 6\. Your Choices
 
-We want to communicate with you in the ways that you want to hear from us. If you no longer want to receive marketing messages from us, you can either change your marketing preferences by changing [Your Account Marketing Preferences](https://www.aftership.com/users/profile) or, by clicking on the appropriate link at the bottom of our marketing emails. Please allow sufficient time for your preferences to be processed.
+We want to communicate with you in the ways that you want to hear from us. If you no longer want to receive marketing messages from us, you can either change your marketing preferences by changing [Your Account Marketing Preferences](https://secure.aftership.com/profile/settings) or, by clicking on the appropriate link at the bottom of our marketing emails. Please allow sufficient time for your preferences to be processed.
 
 If you no longer want to receive delivery notifications from us, you can either change your delivery notification triggers by changing [Your Account Delivery Notifications](https://secure.aftership.com/settings/trigger) or by clicking on the appropriate link at the bottom of our delivery notification emails. Please allow sufficient time for your preferences to be processed.
 
 ### 7\. How to Access, Update and Remove Your Information
 
-AfterShip takes reasonable steps to keep your personal information accurate and complete. You can access, update and/or remove your personal information, including contact or account information, by accessing [Your Account](https://www.aftership.com/users/profile) or by [sending us an email](mailto:support@aftership.com) . If your Information has been communicated to AfterShip by a third party, you can either contact said third party directly or click on the appropriate link at the bottom of the notifications in order to unsubscribe to the service. If your Information has been communicated to AfterShip by a third party, and you wish to remove said information, you may [send us an email](mailto:support@aftership.com).
+AfterShip takes reasonable steps to keep your personal information accurate and complete. You can access, update and/or remove your personal information, including contact or account information, by accessing [Your Account](https://secure.aftership.com/profile/settings) or by [sending us an email](mailto:support@aftership.com) . If your Information has been communicated to AfterShip by a third party, you can either contact said third party directly or click on the appropriate link at the bottom of the notifications in order to unsubscribe to the service. If your Information has been communicated to AfterShip by a third party, and you wish to remove said information, you may [send us an email](mailto:support@aftership.com).
 
 ### 8\. How We Secure Your Information
 
