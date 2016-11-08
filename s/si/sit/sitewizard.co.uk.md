@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitewizard.co.uk privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520053657id_/http%3A//www.sitewizard.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitewizard.co.uk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108182730id_/http%3A//www.sitewizard.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # affordable website design, ecommerce solutions
 
@@ -10,7 +10,7 @@ Our incredible Search Engine optimisation can get your website to the top of Goo
 
 From £149.99 /month
 
-[Learn More](http://www.sitewizard.co.uk/seo-packages/)
+[Learn More](http://www.sitewizard.co.uk/page-seo)
 
 Professional, high quality
 
