@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624130257id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108103059id_/https%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -18,7 +18,7 @@ SEEK owns and operates the website located at www.seek.com.au (across desktop, m
 
 SEEK’s wholly owned subsidiaries, SEEK Learning Pty Ltd (ACN 084 202 719) ( **“SEEK Learning”** ) and SEEK Business Pty Ltd (ACN 122 162 029) ( **“SEEK Business”** ) own and operate the websites located at www.seeklearning.com.au and www.seekbusiness.com.au respectively across desktop, mobile, tablet and apps (including any subdomains).
 
-In this Statement, any reference to **“SEEK”** , **“we”** , **“us”** and **“our”** includes a reference to SEEK Limited, SEEK Learning and SEEK Business.
+In this Statement, any reference to **“SEEK”** , **“we”** , **“us”** and **“our”** includes a reference to SEEK Limited, SEEK Learning and SEEK Business, and all other SEEK Limited subsidiaries.
 
 Visitors of the Site who do not create an account are referred to generically in this Statement as **“users”** or **“you”**. 
 
@@ -130,6 +130,10 @@ SEEK also provides you with selected information about job seeking, job placemen
 ## Contractors
 
 SEEK may also disclose your personal information to SEEK's service providers and contractors from time to time but only for the purpose of assisting us to deliver the products and services we offer to you. 
+
+## Subsidiairies
+
+SEEK may also disclose your personal information to SEEK's subsidiaries from time to time but only for the purpose of assisting us to deliver the products and services we offer to you. 
 
 ## Storage & Security of Personal Information
 
