@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405190646id_/https%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108064931id_/https%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | B-Stock Supply Auctions
 
@@ -76,7 +76,7 @@ We use commercially reasonable administrative, technical, personnel and physical
 
 ### TRANSFER TO US OR OTHER COUNTRIES
 
-Your information may be stored and processed in the United States or any other country where XXXX or B-Stock has facilities, and by using our Site, you consent to the transfer of information outside of your country.
+Your information may be stored and processed in the United States or any other country where our Vendors or B-Stock have facilities, and by using our Site, you consent to the transfer of information outside of your country.
 
 ### CHANGES TO PRIVACY POLICY
 
