@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeclassifiedsworld.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614174634id_/http%3A//www.freeclassifiedsworld.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifiedsworld.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108044503id_/http%3A//www.freeclassifiedsworld.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Post Free Ads Without Registration - Free Classifieds World
+# Andhra Pradesh, India - Post Free Ads Without Registration - Free Classifieds World
 
 ## Privacy Policy
 
