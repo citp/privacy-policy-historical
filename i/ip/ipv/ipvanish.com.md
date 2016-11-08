@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410011811id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108095725id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
@@ -6,7 +6,7 @@ Effective Date: April 15, 2014
 
 Your privacy is important to us, and we want you to understand what we collect, what we don't collect, and what we do with the information that we do collect. This Privacy Policy (the "Policy") applies to the information we collect about visitors to www.ipvanish.com (the "Site") and subscribers to the IPVanish VPN and related service (the "Services"), which are owned and operated by IPVanish (contact information below). 
 
-Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php). 
+Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php).
 
   * Information We Collect
   * How We Use Your Information
@@ -26,7 +26,7 @@ Our Terms of Use, including their limitation on liability, apply to the Privacy 
 
 **IPVanish does not collect or log any traffic or use of its Virtual Private Network service.**
 
-You do not have to give us any personally identifiable ("personal") information to browse our Site, but to subscribe to our Services you must create an account and register with us. In general, we collect the following limited information from users and only use it in order to process payments: 
+You do not have to give us any personally identifiable ("personal") information to browse our Site, but to subscribe to our Services you must create an account and register with us. In general, we collect the following limited information from users and only use it in order to process payments:
 
 _Account Information_. To create an account, you may need to provide certain personal information, such as your name, billing address and e-mail. You will also need to select a username and password and provide us with payment information. The type of information collected may vary depending on payment method chosen. **We will only use this information to collect and process payments for you.** Once you have created an account, billing and subscription information can be accessed and modified by you at any time via your control panel. 
 
@@ -34,7 +34,7 @@ _Site Visitors_. We collect certain information automatically from visitors to o
 
 ### How We Use Your Information
 
-We do not sell or rent personal information to others. 
+We do not sell or rent personal information to others.
 
 The information we collect through our Site and Services is primarily used to create new accounts, collect payment for our Services, identify and communicate with current subscribers, or offer troubleshooting or customer support. We may also use personal information for the following reasons: 
 
@@ -64,7 +64,9 @@ _Disabling Cookies._ Most web browsers automatically accept cookies, but if you 
 
 _Clear GIFs (Web Beacons/Web Bugs)._ We or the third parties we engage may employ clear GIFs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on the Site by among other things, tracking the activities of our Site visitors and compiling statistics about Site usage. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer's hard drive, clear gifs are embedded invisibly on Web pages or within emails. 
 
-_Third Parties._ We may engage third parties, such as Google Analytics, to track and analyze non-personally identifiable Site data. These third parties may use cookies and clear GIFs on our Site to collect, analyze, and generate reports on Site usage for us. We do not provide these third parties with any personal information that we have collected about you. Use the following link to opt out of Google's Analytic tracking: https://tools.google.com/dlpage/gaoptout 
+_Third Parties._ We may engage third parties, such as Google Analytics, to track and analyze non-personally identifiable Site data. These third parties may use cookies and clear GIFs on our Site to collect, analyze, and generate reports on Site usage for us. We do not provide these third parties with any personal information that we have collected about you. 
+
+Use the following link to opt out of Google's Analytic tracking: https://tools.google.com/dlpage/gaoptout
 
 ### Security Measures We Have In Place
 
@@ -96,4 +98,4 @@ For questions about this Site or IPVanish, or for more information about how we 
 
 ### Changes to this Policy
 
-We may change this Policy from time to time, without prior notice to you, consistent with applicable privacy laws and principles. If we do so, we will post a new effective date for that Policy. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy. >
+We may change this Policy from time to time, without prior notice to you, consistent with applicable privacy laws and principles. If we do so, we will post a new effective date for that Policy. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy. 
