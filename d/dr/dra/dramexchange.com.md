@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramexchange.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424035051id_/http%3A//www.dramexchange.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramexchange.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108060908id_/http%3A//dramexchange.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # DRAMeXchange - Privacypolicy
 
