@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moxtra.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615023804id_/http%3A//moxtra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxtra.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108120944id_/http%3A//moxtra.com/privacy) for the most accurate reproduction.*
 
 # privacy policy: enterprise grade security | moxtra
 
@@ -35,12 +35,12 @@ Uses of your Personal Information: We will use your Personal Information only in
 
 Accessing and updating your Personal Information: Moxtra may obtain some Personal Information regarding you from Facebook. In order to keep your Personal Information accurate and up to date or to delete any Personal Information, you will need to manage that through your Facebook account. We do not have the ability to modify or delete your Facebook Personal Information. If you believe Moxtra is in possession of your Personal Information that you want modified or deleted, you may send an email request to privacy@moxtra.com. We may need to retain some Personal Information for the period of time necessary for legal proceedings, legal requirements or for settling your account.
 
-Unsubscribing and Opting Out: Each promotional email from Moxtra or from third parties to whom Moxtra has given your email address with your consent includes instructions on how you can unsubscribe from that category of mailing or from receiving email from that third party. You may also unsubscribe from Moxtra’s promotional emails by sending an email, including your name and email address to unsubscribe@Moxtra.com, or a letter to:  
+Unsubscribing and Opting Out: Each promotional email from Moxtra or from third parties to whom Moxtra has given your email address with your consent includes instructions on how you can unsubscribe from that category of mailing or from receiving email from that third party. You may also unsubscribe from Moxtra’s promotional emails by sending an email, including your name and email address to unsubscribe@moxtra.com, or a letter to:  
 Moxtra, Inc.  
 Attn: Privacy Officer  
-1601 S. De Anza Blvd, Suite 200  
+1601 S. De Anza Blvd, Suite 217  
 Cupertino CA 95014  
-If you have additional questions regarding your disclosure choices and Moxtra’s policies regarding receipt of promotional email, you may contact Moxtra by sending an email with your name and email address to privacy@Moxtra.com.
+If you have additional questions regarding your disclosure choices and Moxtra’s policies regarding receipt of promotional email, you may contact Moxtra by sending an email with your name and email address to privacy@moxtra.com.
 
 Non-personal/anonymous information collection: In some instances, Moxtra may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the website. Please read the “Cookies” section below for more information. In addition, by using some of our Products, anonymous network information may be transmitted back to us such as Product usage information. This information is transmitted back to us so we can determine how users are interacting with our Products, to assist us with improving our Products, and to correct any problems that may occur.
 
@@ -79,6 +79,6 @@ Look for website privacy policies. Know how your child’s information is treate
 
 Consent to Transfer, Processing and Storage of Personal Information: We may transfer your Personal Information to the United States, to any Moxtra affiliate worldwide, or to third parties acting on our behalf for the purposes of processing or storage, and by providing any Personal Information you fully understand and unambiguously consent to such transfer, processing and storage of such information.
 
-Questions or comments? Should you have any privacy-related questions or comments related to this privacy policy, please send an email to privacy@Moxtra.com.
+Questions or comments? Should you have any privacy-related questions or comments related to this privacy policy, please send an email to privacy@moxtra.com.
 
 Policy updates: Moxtra may amend this privacy statement from time to time, and at any time. We will post a notice whenever this privacy statement is materially changed. Your continued use of the Moxtra website or Products after any change will signify and confirm your assent to those changes.
