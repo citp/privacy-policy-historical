@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the basicslife.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315170004id_/http%3A//www.basicslife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicslife.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109165956id_/https%3A//shop.basicslife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Online Shopping For Men | Mens Wear | Mens Shirt
+# Basics Privacy Policy.
 
 **When and what information does BasicsLife collect?**  
 BasicsLife collects basic information required to service your requests, including your name, mailing address, email and phone number. This information is gathered when you purchase ecommerce/products/gift certificates, or sign up for email notifications. Your card information is requested only when you place an order and is submitted via the highest level of encryption to ensure the greatest amount of safety and security.
