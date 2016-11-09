@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627213815id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109161742id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Money Expert
 
@@ -145,4 +145,5 @@ Until the new policy takes effect, you can choose not to accept it and terminate
 
 This policy is an integral part of the Service [Terms of Use](http://themoney.expert/terms-of-use/ "Terms").
 
-**Last updated: 15th of February 2015**
+**Last updated: 15th of February 2015**  
+
