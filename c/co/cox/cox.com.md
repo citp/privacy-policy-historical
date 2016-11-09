@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cox.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606215215id_/https%3A//www.cox.com/aboutus/policies/online-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cox.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109073804id_/https%3A//www.cox.com/aboutus/policies/online-privacy-policy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy | Cox Communications
 
