@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momsacheater.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613215214id_/http%3A//momsacheater.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsacheater.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109053300id_/http%3A//momsacheater.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement Moms a Cheater
 
