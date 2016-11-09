@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestufffinder.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414091147id_/http%3A//freestufffinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufffinder.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109015759id_/http%3A//freestufffinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Stuff Finder
 
