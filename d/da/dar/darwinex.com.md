@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darwinex.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401201514id_/https%3A//www.darwinex.com/en/privacyandpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darwinex.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109210239id_/https%3A//www.darwinex.com/en/privacyandpolicy) for the most accurate reproduction.*
 
-# Darwinex > Legal Documents - The forex broker that pairs skilled traders with investors' capital
+# Darwinex > Legal Documents - Darwinex is an online platform that allows traders to trade the market and investors to back them
 
 ### PRIVACY POLICY
 
