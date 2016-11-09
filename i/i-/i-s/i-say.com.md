@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601230122id_/http%3A//www.i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109090323id_/http%3A//i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -211,7 +211,7 @@ With the exception of checking for key words included in any comment or other on
 
 However, in the event that any such private data is displayed in a URL, it is possible that such data will be collected. In addition, on certain "social networking" sites, posts, updates and pictures are unsecured and typically included as part of the page's source code. As a result, it is possible that we may gain access to your Personal Information, including sensitive health or financial information based on the way that certain websites display information. Please be assured that collecting such Personal Information is not the purpose of Panel+, and any such data will be securely deleted from our systems if found to have been collected.
 
-For further details about how Panel+ works, please see the Application Information Sheet that can be [found here](http://www.i-say.com/PanelApplicationInformationsheet/tabid/292/language/en-US/Default.aspx).
+For further details about how Panel+ works, please see the Application Information Sheet that can be [found here](https://www.i-say.com/PanelApplicationInformationsheet/tabid/292/language/en-US/Default.aspx).
 
 #### 18\. How do you contact us regarding access to your Personal Information or our Privacy Policy and practices?
 
