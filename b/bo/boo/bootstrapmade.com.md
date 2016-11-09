@@ -1,50 +1,30 @@
-> *The following text is extracted and transformed from the bootstrapmade.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424070227id_/https%3A//bootstrapmade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrapmade.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109162650id_/https%3A//bootstrapmade.com/privacy) for the most accurate reproduction.*
 
-# Privacy | BootstrapMade
+# Privacy & Cookie Policy | BootstrapMade
 
-**At Bootstrapmade, we collect and manage user data according to the following Privacy Policy, with the goal of incorporating our company values: transparency, accessibility, sanity, usability. By using or accessing **Bootstrapmade** (the “Website”), you agree to the terms of this Privacy Policy and the Terms and Conditions. Please read the Terms of Conditions in their entirety, and refer to those for definitions and contacts.**
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-### Data Collected
-
-We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a time-stamp for the request.
-
-We ask you to log in and provide certain personal information (such as your name and email address) in order to be able to save your profile and the downloads and comments associated with it. In order to enable these or any other login based features, we use cookies to store session information for your convenience. You can block or delete cookies and still be able to use Bootstrapmade, although if you do you will then be asked for your username and password every time you log in to the Website. In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, such as your picture or personal website, but your decision to utilize these features and provide such data will always be voluntary.
-
-In order to pay sellers on Bootstrapmade, we are required to collect certain information (such as your address and tax identification number) in order to provide tax information at the end of the year. We store your tax identification number encrypted with 256-bit AES encryption. We will not collect the information until it is required (once you’ve received $600 or more in commission).
-
-You are able to view, change and remove your data associated with your profile. Should you choose to delete your account, please contact us at support@bootstrapmade.com and we will follow up with such request as soon as possible.
-
-Minors and children should not use Bootstrapmade. By using the Website, you represent that you have the legal capacity to enter into a binding agreement.
-
-### Use of the Data
-
-We only use your personal information to provide you the Bootstrapmade services or to communicate with you about the services or the Website.
-
-With respect to any documents you may choose to upload to Bootstrapmade, we take the privacy and confidentiality of such documents seriously.
-
-We employ industry standard techniques to protect against unauthorized access of data about you that we store, including personal information.
-
-We do not share personal information you have provided to us without your consent, unless:
-
-  * doing so is appropriate to carry out your own request;
-  * we believe it’s needed to enforce our Terms of Service, or that is legally required;
-  * we believe it’s needed to detect, prevent or address fraud, security or technical issues;
-  * otherwise protect our property, legal rights, or that of others.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 
 
-Bootstrapmade is operated from Indonesia, South East Asia. If you are visiting the Website from another countries, you agree to any processing of any personal information you provide us according to this policy.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-Bootstrapmade may contact you, by email or other means.
+ **COOKIE POLICY**  
+To enhance your experience on our sites, many of our web pages use “cookies”. Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering at one of our sites. Once you choose to provide a web page with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
 
-### Sharing of Data
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience on our web pages (e.g. to recognise you by name when you return to our site). We also may use cookies to offer you products and services.
 
-We **DO NOT** share your personal information with third parties. We currently use Google Analytics (traffic analysis, SEO optimization) and Mailchimp (mailing list management). Feel free to check out their own Privacy Policies to find out more.
+Cookies save you time as they help us to remember who you are. Cookies help us to be more efficient. We can learn about what content is important to you and what is not. We can revise or remove web pages that are not of interest and focus our energies on content you want.
 
-We also use social buttons provided by services like Twitter, Google+, LinkedIn and Facebook. Your use of these third party services is entirely optional. We are not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services’ privacy policies.
+If you want to control which cookies you accept. You can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server. Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. You may find that some parts of the site will not function properly if you have refused cookies.
 
-### Changes to the Privacy Policy
+Please be aware that if you do not configure your browser you will accept cookies provided by this website.
 
-We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
-
-Should you have any question or concern, please write to support@bootstrapmade.com.
+How to see cookies that you have accepted. You can configure your browser to accept all cookies or to alert you every time a cookie is offered by a website’s server.
