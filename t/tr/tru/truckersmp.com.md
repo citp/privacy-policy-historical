@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truckersmp.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627022550id_/http%3A//truckersmp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckersmp.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109210843id_/https%3A//truckersmp.com/policy) for the most accurate reproduction.*
 
 # Truckers MP
 
