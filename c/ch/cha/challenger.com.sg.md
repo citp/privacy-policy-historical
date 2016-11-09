@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the challenger.com.sg privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310072218id_/http%3A//www.challenger.com.sg/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challenger.com.sg privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109174142id_/https%3A//www.challenger.com.sg/products/privacy) for the most accurate reproduction.*
 
-# Challenger Singapore
+# Challenger Technologies Limited
+
+## Help us create a better Challenger shopping environment.
 
  
 
 In order to create a better Challenger, we need your help. You can help by providing us with various kinds of information to help us serve you better, and ultimately improve Challenger for everyone. Below you'll find an explanation of some of the reasons we request information from you, as well as some details about how we obtain and use that information. Throughout this Privacy Policy, where we refer to your "personal information" means any information you provide to us about you. This includes your national registration identity card (NRIC) number, foreign identification number (FIN), passport number, name, postal address, email address and telephone number.
 
  
+
+## Where we collect your personal information:
 
   
 _Customer relations_
@@ -20,6 +24,8 @@ When you participate in a contest, we may ask for personal information in order 
  _Information that we collect automatically:_
 
 Many web surfers are concerned about their privacy and the use of "cookies" on the Internet. Cookies are small files that can be used to store information you have already provided. Cookies cannot be used to "steal" information about you or your computer system. The Challenger web site uses cookies to remember your preferences. For example, the web site may remember which page you viewed, in order to make your next visit more convenient. Nevertheless, if you don't like having any cookies at all they can be disabled in your web browser's Internet Options.
+
+## What we will do with your information:
 
   
 _What you share with Challenger stays with Challenger._
@@ -36,6 +42,8 @@ The information you provide will enable us to: (a) keep track of your purchase r
 
 We'll make sure that we only send you messages that we think will be of interest to you - for instance, the dates of our in-store sales, details of special offers or information about new products and services. If you do not want us to use your personal information to market to you, you can decide to opt-out of these types of marketing messages at any time by changing the settings in your Profile or by following the unsubscribe link at the bottom of any email we send to you.
 
+## Storing your information and keeping it up to date:
+
   
 _Out of sight, but never out of reach_
 
@@ -45,13 +53,9 @@ When you share your personal information with Challenger, you will always have a
 
 We are committed to providing appropriate security controls to protect your personal information against foreseeable hazards. Making sure that your personal information is secure is very important to Challenger.
 
-If you would like us to update your personal information, remove your name from our mailing list, or if you have any questions about challenger's privacy policies or your personal information, please don't hesitate to contact us.
+## Change of address? Change of personal information? Let us know
 
-You can contact us through our online contact form or email us at 
-
-[_voice@challenger.sg_](mailto:voice@challenger.sg)
-
-.
+If you would like us to update your personal information, remove your name from our mailing list, or if you have any questions about challenger's privacy policies or your personal information, please don't hesitate to contact us. You can contact us through our online request form [here](https://challenger.zendesk.com/hc/en-us).
 
 Alternatively, you can also call Challenger Customer Service hotline at 6339 9008 or leave a voice message.
 
