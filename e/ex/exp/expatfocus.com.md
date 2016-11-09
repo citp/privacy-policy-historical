@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatfocus.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320054422id_/http%3A//www.expatfocus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfocus.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109020811id_/http%3A//www.expatfocus.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExpatFocus.com
 
@@ -7,6 +7,10 @@
 The privacy of our visitors is important to us. 
 
 At Expat Focus, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Expat Focus, and how we safeguard your information. We never sell your personal information to third parties. 
+
+Requests For Quotes Or Advice From Our Partners 
+
+We partner with specially selected companies to provide specific services (e.g. health insurance/currency exchange quotes, taxation advice etc.) When a visitor requests these services, we will share the information submitted by the visitor that is necessary for the company to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
 Log Files 
 
@@ -46,17 +50,17 @@ In addition, please note:
 
 \- Users wishing to advertise property may do so only through our dedicated property sub-forums (each main country forum has one). 
 
-\- Users wishing to advertise job vacancies must use our dedicated job vacancies forum. 
-
-\- Users wishing to advertise a survey must use our "Can You Help?" forum. 
-
 \- Please be courteous at all times, even if you disagree with another member's point of view! Opposing viewpoints are very welcome but personal, derogatory attacks on other members or moderators are not acceptable. 
 
 \- Posting of inflammatory, extraneous, or off-topic messages (especially those likely to provoke an emotional response) or otherwise disrupting normal on-topic discussion, i.e. "trolling", is strictly forbidden. 
 
 \- Promotion of political groups or ideologies, political rants, inflammatory religious content, any form of spam, flooding, advertisements, chain letters, pyramid schemes or solicitations of any kind are strictly prohibited, as is cross-posting the same message across multiple forums. 
 
-It is impossible for us to confirm the validity of posts on this forum. Please remember that we do not actively monitor the posted messages and are not responsible for their content. We do not warrant the accuracy, completeness or usefulness of any information presented. The messages express the views of the author, not necessarily the views of this forum. Anyone who feels that a posted message is objectionable is encouraged to notify an administrator of this forum immediately. We have the right to remove objectionable content, within a reasonable time frame, if we determine that removal is necessary. Any removal will be completed as soon as possible. We also retain the right to edit, move or delete any posted message and suspend, delete or deny any account or account registration request without giving any reason. Individuals, companies or their representatives are expressly prohibited from opening a new account if an earlier account has been closed or suspended or earlier registration request denied. You acknowledge that all posts made to this website express the views and opinions of the author and not the site owner, administrators or moderators (except for messages by these people) who cannot be held liable for the contents of such posts. 
+It is impossible for us to confirm the validity of posts on this forum. Please remember that we do not actively monitor the posted messages and are not responsible for their content. We do not warrant the accuracy, completeness or usefulness of any information presented. The messages express the views of the author, not necessarily the views of this forum. Anyone who feels that a posted message is objectionable is encouraged to notify an administrator of this forum immediately. We have the right to remove objectionable content, within a reasonable time frame, if we determine that removal is necessary. Any removal will be completed as soon as possible. 
+
+We also retain the right to edit, move or delete any posted message and suspend, delete or deny any account or account registration request without giving any reason. Individuals, companies or their representatives are expressly prohibited from opening a new account if an earlier account has been closed or suspended or registration request denied - any attempts to circumvent this policy will result in a permanent ban with no further correspondence being entered into. 
+
+You acknowledge that all posts made to this website express the views and opinions of the author and not the site owner, administrators or moderators (except for messages by these people) who cannot be held liable for the contents of such posts. 
 
 Reminders about the site, major updates to the site or surveys may be announced to the membership via email (no more than 2 emails per year). You may unsubscribe from these announcements at any time. 
 
