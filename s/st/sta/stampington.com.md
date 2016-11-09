@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stampington.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314082534id_/https%3A//stampington.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stampington.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109102224id_/https%3A//stampington.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stampington
+# Privacy Policy - Stampington & Company
 
 ##  **Stampington & Company and Stampington.com Privacy Policy**
 
-This is the privacy policy ("Privacy Policy") of Stampington & Company LLC and the website located at [stampington.com](http://stampington.com/) (sometimes referred to as the "Site"). We want you to understand the types of information we gather about you, how we use it, and the steps we take to safeguard it. Throughout this policy, "Stampington & Company," "We," "Our," and "Us" means Stampington & Company LLC.
+This is the privacy policy ("Privacy Policy") of Stampington & Company LLC and the website located at [stampington.com](https://stampington.com/) (sometimes referred to as the "Site"). We want you to understand the types of information we gather about you, how we use it, and the steps we take to safeguard it. Throughout this policy, "Stampington & Company," "We," "Our," and "Us" means Stampington & Company LLC.
 
 This policy applies to information collected from you at the Site. It also applies to information that We may collect from you elsewhere or by other means (for example, if you contact our customer service and/or ordering departments by mail or telephone), unless We inform you otherwise. When you provide Personal Information at the Site or by other means, you are consenting to the manner in which We will collect, store, use, and disclose that information as set forth below.
 
