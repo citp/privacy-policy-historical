@@ -1,55 +1,68 @@
-> *The following text is extracted and transformed from the savvy-chick.net privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205054042id_/http%3A//www.savvy-chick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvy-chick.net privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109115006id_/http%3A//www.savvy-chick.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.savvy-chick.net](http://www.savvy-chick.net/). The following discloses the information gathering and dissemination practices for this Web site.
+We have created this privacy statement for Savvy-chick.net in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with Savvy Chick. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
-**Log Files:**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+**We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers needs.
 
-**Newsletter:**  
-If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
+**What Information Do We Collect?** When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-**Cookies and Web Beacons** :  
-Where necessary, this site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+  1. **Personal Information You Choose to Provide Email Information** If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+  2. **Web Site Use Information** Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-**Web Analytics tools Cookies:**
 
-****Savvy Chick uses third-party analytics services such as Google Analytics, SiteMeter, and StatCounter to monitor the activity of our visitors and how they interact with the website.   Under no circumstances we use those tools to track or collect any personally identifiable information of visitors to the site.
+**How Do We Use the Information That You Provide to Us?** Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-You can read the Privacy Policy statements of each analytics tools by visiting the respective provided links.
+**Google Adsense and the DoubleClick DART Cookie** Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Savvy-chick.net has no access or control over these cookies that may be used by third party advertisers.
 
-**_Google Analytics:_**   This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in theUnited States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
+**What Are Cookies?** A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. **A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. How Do We Use Information We Collect from Cookies?** As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.  You can read Google’s Privacy Policy [here](http://www.google.com/intl/en/privacy/privacy-policy.html).
+**IP Addresses**
 
-**_SiteMeter:_**   To allow our customers the convenience of not having to remember their login information when accessing our website, SiteMeter may place a temporary or persistent “cookie” on your computer’s hard drive. These cookies are simple, harmless text files that remember the internet browser you use to access the internet. However, if you do no want to receive cookies, you may adjust the settings in your internet browser to reject cookies or to alert you when a cookie is placed on your computer. We do not collect or store any Personally Identifiable Information via cookies.  You can read SiteMeter’s Privacy Policy [here](http://www.sitemeter.com/?a=privacy).
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
 
-**_Statcounter:_**  StatCounter.com respects the privacy and rights of its visitors. No effort is made to identify individuals without their knowledge.
+**Sharing and Selling Information**
 
-When a visitor requests pages from the StatCounter.com site, our Web servers automatically log the browser’s domain name, and IP address. This information is collected solely for statistical purposes and is not used to identify individuals.
+We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
 
-To enable StatCounter.com to track your unique visitors we send a cookie to your visitors’ computer. This information is collected solely to improve the service we offer to you and statistical purposes and is not used to identify individuals.
+**How Can You Access and Correct Your Information?**
 
-StatCounter.com maintains a strict “no-spam” policy. Your e-mail address will not be sold to a third party.  You can read Statcounter’s Privacy Policy [here](http://statcounter.com/about/legal/).
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
 
-**Controlling Your Privacy** :
+**What About Legally Compelled Disclosure of Information?**
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
-**Special Note About Google Advertising:**
+**What About Other Web Sites Linked to Our Web Site?**
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. [Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+**Your Consent**
 
-**Links:**  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
 
-**Advertisers:**  
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
+**Our Commitment To Data Security:**
 
-**Contact Information:**  
-If users have any questions or suggestions regarding our privacy policy, please use our [contact us](http://www.savvy-chick.net/contact-me/) page.
+Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Choice/OptIn/ OptOut**
+
+This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+
+**Surveys & Contests**
+
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+**A Special Note About Children**
+
+Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+
+**Acquisition or Changes in Ownership**
+
+In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+
+**Policy Modifications**
+
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
