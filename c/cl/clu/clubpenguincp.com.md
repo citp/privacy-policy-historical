@@ -1,31 +1,41 @@
-> *The following text is extracted and transformed from the clubpenguincp.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170614id_/http%3A//clubpenguincp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguincp.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109093009id_/http%3A//clubpenguincp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ClubPenguinCP
+# Privacy Policy - Club Penguin
 
-Club Penguin CP operates  [http://clubpenguincp.com](http://clubpenguincp.com/). It is my policy to respect your privacy regarding any information I may collect while operating my websites.
+## Privacy Policy:
+
+Club Penguin (" **Club Penguin** ") operates clubpenguincp.com and may operate other websites. It is Club Penguin's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
-Like most website operators, Chrisdog93 collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Chrisdog93’s purpose in collecting non-personally identifying information is to better understand how visitors use our website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, Club Penguin collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Club Penguin's purpose in collecting non-personally identifying information is to better understand how Club Penguin's visitors use its website. From time to time, Club Penguin may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Chrisdog93 does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+Club Penguin also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on clubpenguincp.com blogs/sites. Club Penguin only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to my websites choose to interact with us in ways that require us to gather personally-identifying information. The amount and type of information that Automattic gathers depends on the nature of the interaction. Chrisdog93 does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Club Penguin's websites choose to interact with Club Penguin in ways that require Club Penguin to gather personally-identifying information. The amount and type of information that Club Penguin gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [clubpenguincp.com](http://clubpenguincp.com/) to provide a username and email address. Those who engage in transactions with Club Penguin are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Club Penguin collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Club Penguin. Club Penguin does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+### Aggregated Statistics
+
+Club Penguin may collect statistics about the behavior of visitors to its websites. Club Penguin may display this information publicly or provide it to others. However, Club Penguin does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+Club Penguin discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Club Penguin's behalf or to provide services available at Club Penguin's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Club Penguin's websites, you consent to the transfer of such information to them. Club Penguin will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Club Penguin discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Club Penguin believes in good faith that disclosure is reasonably necessary to protect the property or rights of Club Penguin, third parties or the public at large. If you are a registered user of an Club Penguin website and have supplied your email address, Club Penguin may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Club Penguin and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Club Penguin takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Chrisdog93 uses cookies to help identify and track visitors, their usage of my website, and their website access preferences. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our websites, with the drawback that certain features may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Club Penguin uses cookies to help Club Penguin identify and track visitors, their usage of Club Penguin website, and their website access preferences. Club Penguin visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Club Penguin's websites, with the drawback that certain features of Club Penguin's websites may not function properly without the aid of cookies.
 
-### Advertising
+### Business Transfers
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+If Club Penguin, or substantially all of its assets, were acquired, or in the unlikely event that Club Penguin goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Club Penguin may continue to use your personal information as set forth in this policy.
 
-### Google Advertisements
+### Ads
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  Google’s use of the DART cookie enables it to serve ads to you based on your visit to my sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Club Penguin and does not cover the use of cookies by any advertisers.
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in Chrisdog93’s sole discretion. Chrisdog93 encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Club Penguin may change its Privacy Policy from time to time, and in Club Penguin's sole discretion. Club Penguin encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a clubpenguincp.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
