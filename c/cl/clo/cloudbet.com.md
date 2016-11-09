@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudbet.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420111912id_/https%3A//www.cloudbet.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudbet.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109225342id_/https%3A//www.cloudbet.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
