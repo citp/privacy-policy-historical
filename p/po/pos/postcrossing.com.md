@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411011414id_/https%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109102451id_/https%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Postcrossing uses cookies to help deliver its services.  
-By using this website, you agree to its use of cookies. [Learn more](https://web.archive.org/cookies).
+Postcrossing uses cookies to help deliver its services. By using this website, you agree to its use of cookies. [Learn more](https://web.archive.org/cookies).
 
   
 
@@ -218,4 +217,4 @@ Effective from: January 1, 2016
 
 If you feel that this website is not following its Privacy Policy, please [contact us](https://web.archive.org/contact?category=legal). 
 
-© 2004-2016 Postcrossing Lda 
+© 2004-2016 Postcrossing Lda. 
