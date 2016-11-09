@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325065224id_/http%3A//www.stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpwebhosting.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109091441id_/http%3A//stpwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # STPWebhosting.com :: VPS Hosting
 
