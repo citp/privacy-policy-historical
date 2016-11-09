@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wsc.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034320id_/http%3A//www.wsc.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsc.co.uk privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109053744id_/http%3A//www.wsc.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # When Saturday Comes - Privacy & cookies
-
-##  Privacy & cookies 
 
 Your privacy and peace of mind are important to us. You can read the articles on the site without registration; however to safeguard the integrity of the site we ask you to register if you want to comment on articles or post on the message board.
 
@@ -23,3 +21,5 @@ By using the site you are agreeing to the use of cookies as described.
 
 Legal information under the Data Protection Act  
 For the purposes of the Data Protection Act of 1998, the Data Controller for wsc.co.uk is When Saturday Comes Ltd, The Old Fire Station, 140 Tabernacle Street, London EC2A 4SD, UK.
+
+© 2016 When Saturday Comes Limited 
