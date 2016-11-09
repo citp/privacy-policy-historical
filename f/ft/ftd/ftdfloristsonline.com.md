@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232905id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109084627id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
 
 # #FLORISTCITY# FTD florist |
 
