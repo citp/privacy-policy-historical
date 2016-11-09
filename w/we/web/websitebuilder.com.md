@@ -1,70 +1,150 @@
-> *The following text is extracted and transformed from the websitebuilder.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324021145id_/https%3A//www.websitebuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebuilder.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109130319id_/https%3A//www.websitebuilder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for WebsiteBuilder.com - Privacy - WebsiteBuilder
 
-**Updated and Effective as of August 1, 2014**
+#### Quick Links
 
-This Privacy Policy applies to WZ (UK) Ltd operating as Website Builder and use of personally identifying information ("Personal Information") that we may gather when you visit our Website, purchase, license, or Use Website Builder Products or Services, or contact us. By Using Website Builder Products or Services, you expressly consent to the collection, processing, and use of your Personal Information according to this Privacy Policy. 
+  
+General
 
-Our Terms and Conditions of Use discuss how we handle, encrypt, and protect the data you choose to store on our servers (and any related data) ("Website Data"), as well as other matters. All provisions of the Terms and Conditions of Use are incorporated into this document by reference. 
+This section explains the purpose of this Privacy Policy and why we need it. It also explains how changes will be made to this Privacy Policy, if required.
 
-####  **Definitions**
+What Data Do We Collect
 
-All of the terms used in this Privacy Policy have the same meanings as are defined in our Terms and Conditions of Use. 
+We collect a range of information so that we can provide the best services to our users. This includes basic information we need to register your account, such as your name, email address and payment data, and also other information which helps us tailor the services to meet your needs. This section describes the different types of data we collect and how we collect it. 
 
-####  **Why Website Builder Collects Personal Information**
+How We Use Your Data
 
-Website Builder collects your Personal Information at a variety of points, including when you place an order, add a new product or update, register a website, request services, upload Website Data, confer with one of our customer support technicians, or take part in other activities on our Website. During these interactions we will collect Personal Information relevant to your transaction with Website Builder, such as your name, mailing address, phone number, e-mail address, employment information, and credit card, banking or billing information, along with information about the Website Builder Products or Services you license, such as the activation code, date of purchase, and information relating to a support issue. Website Builder will use your Personal Information to send you messages through desktop alerts, SMS/Text messaging, email, etc. concerning updates to Website Builder Products or Services. Please be aware that if you choose not to provide us with your Personal Information, we may not be able to, or may choose not to, make Website Builder Products or Services available to you. 
+Whether it be maintaining your account or improving your user experience, we only use your data for the purpose of providing the Services. The ways in which we use your data is listed here.
 
-####  **Regarding Children**
+How We Disclose Your Information
 
-Website Builder Products or Services are not marketed to or intended for use by individuals who cannot legally bind a contract. Accordingly, Website Builder does not intentionally gather any Personal Information about visitors or customers who are under the age of 18. If you are under the age of 18 or otherwise lack the capacity to enter into a binding contract, do not use our Website or services yourself. If Website Builder becomes aware that we have collected information from someone under the age of 18, such information will be deleted immediately. 
+From time to time, we might share your information with our affiliates and third party service providers. This section describes the circumstances where this might be necessary.
 
-####  **Cookies and Other Technologies**
+How We Communicate with You
 
-(a) Website Builder uses "cookies" and other technologies to collect data that enable us to better understand and improve the usability, performance and effectiveness of our Website. Cookies are files sent to your browser and stored on your computer, the type of cookies that Website Builder uses are login, authentication and tracking. If you do not want Website Builder to send cookies to your browser, you can set your browser options to reject cookies or to notify you when a Website tries to put a cookie into your browser software. Rejecting cookies may affect your ability to use some features of Website Builder Products or Services. 
+We want to stay in touch with our users to keep them up to date on all of the latest news at WebsiteBuilder, including new Services and changes to our terms or pricing. The various methods by which we can keep in touch are explored here.
 
-(b) Website Builder gathers general information about visits to our Website, the files you upload to your website, the configuration of your website and your computer’s interaction with Website Builder, and stores this information in log files. Website Builder uses this information to understand traffic and downloads on our Website, enabling us to improve the site, provide the best online experience possible, and improve our ability to serve our customers. 
+How We Protect Your Data
 
-(c) Use of Remarketing with Google Analytics and Google Adwords 
+We explain the measures we implement to keep your data secure here. 
 
-Website Builder stores cookies on our website which captures information about page visits. This information is anonymous and Website Builder uses this information internally to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyse traffic patterns on our site and guide development of other improvements to our site. Website Builder does not require that you accept cookies, however, some functionality of our website or service may be disabled and not work correctly if you decline to accept cookies. Website Builder never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, Website Builder will use this information only to respond to your inquiry. Website Builder will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific Website Builder product or service. Website Builder uses analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website. Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363). 
+Your Options
 
-####  **Sharing Your Personal Information**
+We want to make sure you are happy with the way your data is being used. We aim to provide you with access to your information upon request and, unless we are not allowed to for legal reasons, we will make changes to data if you tell us it is wrong. Your options for controlling your data, and the way we communicate with you, is described here.
 
-Website Builder will not provide unaffiliated third parties with access to your email address or other contact information. Website Builder or the Website Builder Affiliates may, from time to time, share with you information about other products and services that we think you may find to be of interest. If you wish to change the types of communications you receive from us, you may do so by modifying your profile at www.Website Builder.com, by emailing your request to us at [support@websitebuilder.com](mailto:support@websitebuilder.com), or by clicking on an appropriate link in any Website Builder email communication to you. 
+Your EU Data Protection Rights
 
-Website Builder may disclose your Personal Information to third parties if we believe that such action is necessary to (1) comply with a law, regulation, or governmental or judicial warrant, rule, or order; (2) protect and defend the rights or property of Website Builder; (3) enforce the Website Builder Terms and Conditions of Use and/or this Privacy Policy. Website Builder may also provide access to your Website Data to government authorities if Website Builder suspects or believes that the data contains child pornography or other prohibited data, or that the data or the Website Builder Products or Services are being used for illegal purposes. Website Builder will provide access to your Website Data to your surviving spouse and/or your executor upon presentation of a death certificate and identification which Website Builder reasonably believes to be valid and sufficient, or in response to a court order, warrant, subpoena or other judicial or administrative legal process. 
+If you are a user in the EU, please see this section for additional information about where your data is stored and transferred and how you can access your data.
 
-####  **How We Communicate with You**
+Third Party Links and Services
 
-Website Builder may, from time to time, send you emails, or desktop alerts or other communications containing the following types of information: notifications of detected problems with your service; notifications concerning the expiration of your account; activity status reports; service and software upgrade notices; notices concerning new or related products or services from Website Builder or other providers, enhancements, and price changes, notifications regarding suspected unlawful or inappropriate use, and requests for feedback on your Website Builder Products or Services. 
+The Services may contain links to third party websites and your use of these links may result in the collection, processing or sharing of information about you. We describe this in more detail here.
 
-####  **Security for Your Personal Information**
+Dispute Resolution
 
-Website Builder has security measures in place to protect against the loss, misuse, and alteration of your Personal Information in our customer database. Personal Information provided to Website Builder is stored in secure facilities with access restricted to authorized personnel only. Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security. 
+We do our best to keep our customers satisfied and, if you have a complaint or concern about the Services you are receiving, we would like you to [contact us](mailto:support@WebsiteBuilder.com). If WebsiteBuilder cannot adequately deal with your dispute, the other options available to you are explained here.
 
-To provide secure credit card processing when ordering from us, orders placed on our Website are processed through a payment gateway which operates under its own privacy policy. If you choose to purchase or license Website Builder Products or Services online using a credit card, the credit card information is sent to Website Builder using SSL (Secure Socket Layer) encryption, an industry-standard method for protecting data as it travels over the Internet, or a similar encryption technology that may become accepted as an industry standard or better encryption method, in the future ("Transmission Encryption"). To learn more about our credit card processing vendors and their respective privacy and other policies (which are incorporated by reference into the Website Builder Privacy Policy and Terms or Use by reference) email us at [support@websitebuilder.com](mailto:support@websitebuilder.com). 
+WebsiteBuilder’s Contact Information
 
-####  **How You Can Access or Correct Your Personal Information**
+Our contact information is set out here. We always love to hear from you!
 
-You can access selected Personal Information that we collect online by logging into your account via our home page. We use this procedure to better safeguard your information. You can correct factual errors in your Personal Information on our Website or by sending a request, to [support@websitebuilder.com](mailto:support@websitebuilder.com), that credibly shows error. To protect your privacy and security, we take commercially reasonable steps to verify your identity before granting access or making corrections. 
+  1. #### General
 
-####  **Severability**
+    1. _Personal Information_. This Privacy Policy applies to the personal data of users that is collected or used by WZ (UK) Limited, doing business as WebsiteBuilder (“WebsiteBuilder”) as set forth more fully below (the “Personal Information”). You should also read our [Terms and Conditions](https://web.archive.org/terms), [Billing Terms](), [Acceptable Use Policy](https://web.archive.org/acceptable-use) and [DMCA Policy]() which are incorporated herein by reference. When you use our Services, you are agreeing to our rules and policies regarding your data and you expressly consent to us collecting, processing and using and storing your Personal Information, as described below. 
 
-This Privacy Policy shall apply to the fullest extent permitted by applicable law. If for any reason any provision of this Privacy Policy is held to be invalid or unenforceable to any extent under applicable law, then (i) such provision will be interpreted, construed, or reformed to the extent reasonably required to render it valid, enforceable, and consistent with the original intent underlying such provision and (ii) such invalidity or unenforceability will not affect the validity or enforceability of any other provision of this Privacy Policy and all such provisions shall remain in full force and effect. 
+    2. _Changes to this Privacy Policy_. WebsiteBuilder may modify this Privacy Policy, from time to time to reflect changes in or requirements of the law or modifications or updates to the Services made in accordance with our [Terms and Conditions](https://web.archive.org/terms). WebsiteBuilder will notify you if such change materially affects your rights under this Privacy Policy. Changes will not apply retrospectively and, unless the change is required immediately for legal reasons, notice of the modified terms will be provided a reasonable period prior to the changes taking effect. **If you do not accept and agree to this Privacy Policy, then you must not access or use the Services** (see [Cancellation and Termination](https://web.archive.org/terms#cancellation)).
 
-####  **Changes to Privacy Policy**
+  2. #### What Personal Information Do We Collect 
 
-Any changes we make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. 
+    1. _Information you give us_. When you sign up for a WebsiteBuilder account, we keep the basic account information you give us, like your name, email address, telephone number, password and payment information. We also collect and store your Personal Information as you use the Services and each time you interact with WebsiteBuilder, for example, when you update information in your control panel, communicate with us by telephone or email, order or download new Services, and complete forms on our website. We also store information about the Services you purchase, such as the activation code, date of purchase, and information relating to any support issue. 
 
-####  **Website Builder Contact information**
+    2. _Automatic Information_. We may collect information about the device you access the Services from, such as the IP address or other unique device identifiers. If you access your WebsiteBuilder account from a mobile device, that mobile device may also provide us with details of your location. Most mobile devices allow you to disable this functionality. WebsiteBuilder uses "cookies" and other technologies to collect data that enable us to better understand and improve the usability, performance and effectiveness of our website. Cookies are files sent to your browser and stored on your computer. WebsiteBuilder uses cookies to gather general information about your visits to our website, the configuration of your computer and your computer’s interaction with the Services, and stores this information in log files. WebsiteBuilder uses this information to understand traffic and downloads on our website, enabling us to improve the website, provide the best online experience possible, and improve our customer service. 
 
-If you have any questions or comments, please contact us at [support@websitebuilder.com](mailto:support@websitebuilder.com). Although we strongly prefer email communication, you may also send regular postal mail to: 
+We use the following types of cookies on our site: 
 
-Website Builder   
-Unit 6, Fulcrum 2   
-Solent Way, Whiteley   
-Hampshire   
-PO15 7FN   
-United Kingdom 
+      * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features such as accessing secure areas of the website. Without these cookies, services you have asked for, like security or e-billing, cannot be provided.
+
+      * Performance cookies - These cookies collect information about how you use the website. These cookies don’t collect information that identifies you and are only used to improve how the website works.
+
+      * Functionality cookies - These cookies allow the website to remember choices you make, such as the configuration of your computer, to provide enhanced, more personal features. 
+
+      * Advertising cookies - These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are placed on the website by advertisers and advertising networks, with our permission. They remember that you have visited the site and this information is shared with other organizations such as advertisers. WebsiteBuilder uses analytics data and the DoubleClick cookies for advertising purposes. You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](https://support.google.com/ads/answer/2662922?hl=en-GB) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). Google has additional information available about their [Policy for Advertising based on Interests and Location](https://support.google.com/adwordspolicy/answer/143465?hl=en-GB).
+
+      * Other Technologies - We may also use other Internet technologies, such as web beacons or pixel tags and other similar technologies, to deliver or communicate with cookies and analyze your use of the Services. We also may include web beacons in e-mail messages so that we know when you have opened an email message received from WebsiteBuilder. 
+
+You may disable cookies by changing the settings on your browser. Check the help menu in your browser for further information. Remember that if you disable cookies it is likely to affect how our website works and you may not be able to access or use certain areas of our website or functionality. Unless you have adjusted your browser setting so that it will refuse cookies, our system will place cookies when you log on to our website.
+
+    3. _Personal Information regarding children_. The Services are not intended for use by individuals who cannot enter a legally binding contract. Accordingly, WebsiteBuilder does not intentionally gather any Personal Information about individuals who are under the age of eighteen (18). **If you are under eighteen (18) years of age or otherwise lack the capacity to enter into a binding contract do not use our Services**. If WebsiteBuilder becomes aware that it has collected Personal Information from someone under the age of majority, such information will be deleted immediately.
+
+The Personal Information we collect as described in this, What Personal Information Do We Collect section, is controlled by WZ (UK) Limited [5A Little Park Farm Road, Fareham, Hampshire PO15 5SJ, United Kingdom]. 
+
+  3. #### How We Use Your Personal Information
+
+We use your Personal Information to provide you with the Services, administer your WebsiteBuilder account, send you information about the Services (including updates and modifications), process payments, generate and review reports and data about our user base and Service usage patterns, analyze the accuracy, effectiveness, usability, or popularity of the Services, improve the content and features of the Services and allow us to personalize the content and advertising that you see on the Services. In order to do so, we may use your Personal Information to contact you through desktop alerts, SMS/Text messaging, email and live chat.
+
+If you wish to change the way we use your data, see Your Options below. Please be aware that if you choose not to provide us with certain Personal Information, we may not be able to make Services available to you.
+
+  4. #### How We Disclose Your Personal Information
+
+We don’t sell or share any Personal Information with unaffiliated third parties, except as provided in this Privacy Policy. We may share your information in the following circumstances:
+
+    1. _Third Party Service Providers_. We engage third parties to perform certain functions on our behalf. They will have access to your data to the extent needed to perform their functions, but may not use it for other purposes. We require all third parties to process your data in accordance with this Privacy Policy and as permitted by applicable data protection laws.
+
+    2. _Partners and Sponsors_. Some of the Services are offered or promoted to our customers in conjunction with a partner or sponsor, or another brand or company within [The Endurance International Group, Inc. corporate family](http://www.endurance.com/our-company/our-brands). To the extent permitted by applicable law, sometimes we might share your information with other third parties to offer you other products and services that we think you may find to be of interest. If you do not wish to receive such offers, please use the unsubscribe link on the email communication you receive or contact us at [support@WebsiteBuilder.com](mailto:support@WebsiteBuilder.com).
+
+    3. _Sale of Business_. If WebsiteBuilder is involved in a merger, acquisition, or sale of all or a material portion of its assets, change in corporate control, or insolvency or bankruptcy proceedings, you will be notified via email or a prominent notice will be placed on the website of any such change in ownership or use of your Personal Information as well as any choices you may have regarding your Personal Information. 
+
+    4. _Compliance with Laws and Policies_. WebsiteBuilder reserves the right to disclose your Personal Information to third parties if we believe that such action is necessary to (1) comply with a law, regulation, or governmental or judicial warrant, rule, order or subpoena; (2) protect and defend the rights or property of WebsiteBuilder; or (3) enforce the WebsiteBuilder Terms and Conditions, including this Privacy Policy. 
+
+  5. #### How We Communicate with You
+
+WebsiteBuilder may, from time to time, send you emails, desktop alerts or other communications, including: (1) notifications of detected problems with your Service; (2) notifications concerning the expiration of your account; (3) activity status reports; (4) service upgrade notices; (5) notices concerning new or related Services from WebsiteBuilder (or other service providers as discussed in this Privacy Policy); (6) notices concerning enhancements to the Services; (7) price change notices for the Services; (8) notifications regarding suspected unlawful or inappropriate use; and (9) requests for feedback on the Services.
+
+If you wish to change the types of communications you receive from us or opt out of receiving any future communications, you can do so. See Your Options below.
+
+  6. #### How We Protect Your Data
+
+    1. _General_. WebsiteBuilder has security measures in place to protect against the loss, misuse, and alteration of your data. Personal Information provided to WebsiteBuilder is stored in secure facilities with access restricted to authorized personnel only. Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security. 
+
+    2. _Secure Payments_. To provide secure credit card processing when ordering from us, orders placed on our website are processed through a payment gateway which operates under its own privacy policy. If you choose to purchase or license the Services online using a credit card, the credit card information is sent to WebsiteBuilder using SSL (Secure Socket Layer) encryption, an industry-standard method for protecting data as it travels over the Internet, or a similar encryption technology that may become accepted as an industry standard, or better encryption method, in the future. To learn more about our credit card processing vendors and their respective privacy and other policies which apply when you make a payment through their services, please review the terms of their own privacy policies.
+
+  7. #### Your Options
+
+    1. _Email Communications_. If you wish to change the types of communications you receive from us or opt out of receiving any future communications, you may do so by modifying your profile on your control panel, by emailing your request to us at [support@WebsiteBuilder.com](mailto:support@WebsiteBuilder.com), or by clicking on the appropriate link in any WebsiteBuilder email communication that you receive. 
+
+    2. _Correcting Your Personal Information_. You can access the Personal Information that we collect via your control panel. You can correct factual errors in your Personal Information on your control panel or by sending a request to [support@WebsiteBuilder.com](mailto:support@WebsiteBuilder.com). Please provide sufficient details regarding the error. To protect your privacy and security, we take commercially reasonable steps to verify your identity before granting access or making any corrections to your Personal Information.
+
+  8. #### Your EU Data Protection Rights
+
+    1. _Location of Personal Information and Transfers_. WebsiteBuilder processes Personal Information on our servers in many countries around the world. We may process your Personal Information on a server located outside the country where you live. By using the Services, you freely and specifically give WebsiteBuilder your consent to export your Personal Information outside of the EEA, including to the US and understand that data stored outside of the EEA may be subject to lawful requests by the courts or law enforcement authorities in the countries in which it is stored. 
+
+    2. _Access Requests_. You have the right to request a copy of the Personal Information we hold about you. WebsiteBuilder will take commercially reasonable steps to provide you with such access and to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
+
+  9. #### Third Party Links and Services
+
+WebsiteBuilder may provide links to other third party websites as a convenience to you (collectively, the “Third Party Websites”). Please exercise care when visiting any Third Party Websites. The Third Party Websites have separate and independent privacy policies, notices and terms of use which govern your use of such websites and their use of any information they collect, we recommend you read these policies carefully. WebsiteBuilder disclaims all liability for Personal Information you provide to any Third Party Websites.  
+
+
+  10. #### Dispute Resolution
+
+Any questions or concerns regarding the use or disclosure of Personal Information should be directed to WebsiteBuilder at the address given below. WebsiteBuilder will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Privacy Policy. 
+
+If WebsiteBuilder is unable to resolve your complaint, you can escalate the issue in accordance with the dispute resolution procedure set out in the [Terms and Conditions](https://web.archive.org/terms).  
+
+
+  11. #### WebsiteBuilder Contact Information
+
+If you have any questions or comments, please contact us at [support@WebsiteBuilder.com](mailto:support@WebsiteBuilder.com) or at the address listed below: 
+
+WZ (UK) Limited  
+5A Little Park Farm Road  
+Fareham  
+Hampshire  
+PO15 5SJ  
+United Kingdom
+
+
+
+
+Updated and Effective as of September 28th, 2016
