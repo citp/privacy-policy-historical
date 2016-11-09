@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420225842id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devex.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109113223id_/https%3A//www.devex.com/en/privacy-statement) for the most accurate reproduction.*
 
 # 
 
