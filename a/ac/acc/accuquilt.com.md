@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225534id_/http%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuquilt.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109041312id_/http%3A//www.accuquilt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Statement discloses the privacy practices for the entire Web Site. If you have questions regarding this statement, [Contact Customer Service by email](https://web.archive.org/contact-us) or by mail at 8843 South 137th Circle, Omaha, NE 68138.
+This Privacy Statement discloses the privacy practices for the entire Web Site. If you have questions regarding this statement, contact AccuQuilt Customer Service at +1(402) 934-1110.
 
 **AccuQuilt's Privacy Policy**  
 Your privacy on the Internet is important to us. Because we gather certain types of information about AccuQuilt users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
@@ -12,10 +12,8 @@ Your privacy on the Internet is important to us. Because we gather certain types
 **Information that AccuQuilt Gathers**  
 AccuQuilt gathers two types of information about users:
 
-  1. **Personal data** , provided through voluntary registration
-  2. **Aggregated data** , which tracks users as a whole
-
-
+**Personal data** , provided through voluntary registration  
+ **Aggregated data** , which tracks users as a whole
 
 **Personal data** may be requested when you sign up for AccuQuilt's personalized services or register for contests, sweepstakes or other promotional programs offered on our service. We ask for this in order to provide you with the best Web experience possible. This information might include member name, password, age, gender, ZIP code and/or country information. Except as described below, it is not disclosed to parties other than AccuQuilt and its parent companies in any way that personally identifies you without your prior permission.
 
@@ -53,4 +51,4 @@ AccuQuilt reserves the right to change this policy at any time by notifying gues
 **Opt-Out Policy  
 ** You may terminate your subscription to our electronic newsletter at any time via e-mail by following the instructions contained at the end of every newsletter.
 
-Currently, AccuQuilt does not offer a means by which to completely delete personal information established at the time of registration for any site. If you have questions about your information, please [contact us via email](https://web.archive.org/contact-us).
+Currently, AccuQuilt does not offer a means by which to completely delete personal information established at the time of registration for any site. If you have questions about your information, please contact AccuQuilt Customer Service at +1(402) 934-1110.
