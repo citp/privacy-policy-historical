@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keybol.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323125203id_/http%3A//www.keybol.org/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keybol.org privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109071601id_/http%3A//www.keybol.org/2009/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
