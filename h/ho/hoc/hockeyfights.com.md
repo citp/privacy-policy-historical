@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeyfights.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521221059id_/http%3A//www.hockeyfights.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeyfights.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109045352id_/http%3A//www.hockeyfights.com/privacy_policy) for the most accurate reproduction.*
 
 # hockeyfights.com - privacy policy
 
