@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the audiense.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528212000id_/https%3A//www.audiense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiense.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109013445id_/https%3A//audiense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audiense
 
-Audiesne Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our[ terms of use](https://audiense.com/tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Audiense Limited of Floor 4th, 22 Upper Ground, London, SE1 9PD.
+Audiense Limited (“We”) are committed to protecting and respecting your privacy. This policy (together with our[ terms of use](https://audiense.com/tos) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is Audiense Limited of Floor 4th, 22 Upper Ground, London, SE1 9PD.
 
 ### Information we may collect from you
 
@@ -46,4 +46,4 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 #### optimize your marketing with social data:
 
-[ see it in action ](https://buy.audiense.com/trial/new)
+[ see it in action ](https://www.audiense.com/products/)
