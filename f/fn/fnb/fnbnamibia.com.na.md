@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnbnamibia.com.na privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315013047id_/https%3A//www.fnbnamibia.com.na/legal-matters/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnbnamibia.com.na privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109173402id_/https%3A//www.fnbnamibia.com.na/legal-matters/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Matters - FNB
 
@@ -51,6 +51,24 @@ Because we are not responsible for any representations or information or warrant
 ### Cookies
 
 We use cookies. In case you were wondering, we use the word "cookie" to refer to information that is sent from this website to your hard drive, where it is saved. In this way, the next time you use this website we will know who you are and that you have visited this website before. 
+
+#### What happens if you disable your cookie functionality?
+
+Clearing or disabling cookies may limit your banking functionality. You can limit the collection of your information by disabling cookies on your browser. You may also be able to modify your browser settings to require your permission each time a site attempts to set a cookie. However, our website(s) (and many other websites) rely on cookies to enable certain functionality. If you choose to disable cookies, some of the services available on our website may not work properly. 
+
+#### What are cookies
+
+A cookie is a small text file stored on your device by the website you are visiting. It helps the website to remember information about your device and how you use the website. We use this information to make your visit to our site as easy and useful as possible. 
+
+#### There are two main types of cookies:
+
+Session cookies: When you close your browser, some cookies are deleted. These are called session cookies.
+
+Persistent cookies: Other cookies are stored on your device until they expire or you choose to delete them. They are called persistent cookies. These cookies are sent back to us each time you visit our site.
+
+#### What we use cookies for
+
+We use cookies for session management, user device identification and classification, traffic routing, and analytics.
 
 ### Changes to this Privacy Policy
 
