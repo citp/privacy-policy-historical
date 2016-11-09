@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feastdesignco.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520201054id_/http%3A//shaybocks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feastdesignco.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109043305id_/http%3A//feastdesignco.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Feast
 
@@ -6,7 +6,7 @@ BY VISITING FEASTDESIGNCO.COM, YOU ARE CONSENTING TO OUR PRIVACY POLICY.
 
 **OVERVIEW**
 
-Feast Design Co. is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at http://shaybocks.com/ (the “site”), and how we collect and use that information.
+Feast Design Co. is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at http://feastdesignco.com/ (the “site”), and how we collect and use that information.
 
 The terms “we,” “us,” and “our” refers to Feast Design Co.. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
 
