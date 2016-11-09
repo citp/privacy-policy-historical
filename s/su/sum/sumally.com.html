@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sumally.com privacy policy that was archived on 2016-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509110721id_/https%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumally.com privacy policy that was archived on 2016-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161109095704id_/https%3A//sumally.com/about/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="ja"><head>
     <meta charset="utf-8">
@@ -15,74 +15,90 @@
 <meta name="twitter:card" value="summary">
 <meta name="twitter:site" value="@Sumally">
 
-    <link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/bundle_start.css">
-<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/bundle.css">
-<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/newgnav.css">
-<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/c2c.css">
-<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/wanthavecomment.css">
-<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20160420b/css/introrecodialog.css">
+    <link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/bundle_start.css">
+
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/bundle.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/newgnav.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/loginbanner.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/c2c.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/wanthavecomment.css">
+<link rel="stylesheet" href="https://smlycdn.akamaized.net/a/20161101a/css/introrecodialog.css">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="https://smlycdn.akamaized.net/a/20160420b/images/template/touchicon.png">
+<link rel="apple-touch-icon" href="https://smlycdn.akamaized.net/a/20161101a/images/template/touchicon.png">
 
     
 <script src="https://stats.g.doubleclick.net/dc.js" id="ga" async=""></script><script src="//connect.facebook.net/en_US/sdk.js" id="facebook-jssdk" async=""></script><script src="https://apis.google.com/js/plusone.js" id="gplus1js" async=""></script><script>
 
-var sumally = sumally || {};
-sumally.SM_IS_DEV = false;
-sumally.SM_SITE_DOMAIN = 'sumally.com';
-sumally.SM_SITE_URL = 'https://sumally.com';
-sumally.SM_SITE_URL_HTTPS = 'https://sumally.com';
-sumally.SM_API_URL = 'https://sumally.com/api/';
-sumally.SM_MOBILE_URL = 'https://m.sumally.com';
-sumally.SM_ASSET_URL = 'https://smlycdn.akamaized.net/a/20150427a/';
+    var sumally = sumally || {};
 
-sumally.is_smartphone = false;
-sumally.is_in_app_browser = false;
-sumally.is_logged_in = 'false';
-sumally.is_brand_user = 'false';
-sumally.locale = "en_US";
-sumally.facebook_app_id = '123731454387368';
-sumally.onUserProfileImageLoadError = function(el){
-    var src = 'https://smlycdn.akamaized.net/a/0/images/template/icon_default.gif';
-    if (el.src !== src) el.src = src;
-};
-sumally.getFromNow = function (date) {
-    var _date = date / 1000;
-    var currentTime = new Date().getTime() / 1000;
-    if (_date > currentTime) {
-        _date = currentTime;
-    }
-    if (moment) {
-        return moment(_date * 1000).fromNow();
-    } else {
-        // 最悪の場合は日時を返す
-        var d = new Date(_date * 1000);
-        var year = d.getFullYear();
-        var month = (('0' + (d.getMonth() + 1))).slice(-2);
-        var day = (('0' + (d.getDay() + 1))).slice(-2);
-        var hour = ('0' + d.getHours()).slice(-2);
-        var minute = ('0' + d.getMinutes()).slice(-2);
-        return year + '/' + month + '/' + day + ' ' + hour + ':' + minute;
-    }
-};
+            sumally.SM_IS_DEV = false;
+    
+    sumally.SM_SITE_DOMAIN = 'sumally.com';
+    sumally.SM_SITE_URL = 'https://sumally.com';
+    sumally.SM_SITE_URL_HTTPS = 'https://sumally.com';
+    sumally.SM_API_URL = 'https://sumally.com/api/';
+    sumally.SM_MOBILE_URL = 'https://m.sumally.com';
+    sumally.SM_ASSET_URL = 'https://smlycdn.akamaized.net/a/20150427a/';
 
-sumally.is_ec_enabled = true;
-sumally.is_sell_item_enabled_v2 = true;
-sumally.is_pc_pjax = true;
-sumally.is_web_notification_enabled = true;
+    sumally.is_smartphone = false;
+    sumally.is_in_app_browser = false;
+    sumally.is_logged_in = 'false';
+    sumally.is_brand_user = 'false';
+    sumally.locale = "en_US";
+    sumally.facebook_app_id = '123731454387368';
+    sumally.is_merchant_preview = null;
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-25427311-1']);
-_gaq.push(['_setDomainName', 'sumally.com']);
-_gaq.push(['_setCustomVar', 1, 'User Type', "Guest", 2]);
-_gaq.push(['_setCustomVar', 3, 'Display Locale', sumally.locale, 2]);
-_gaq.push(['_trackPageview']);
+    sumally.onUserProfileImageLoadError = function (el) {
+        var src = 'https://smlycdn.akamaized.net/a/0/images/template/icon_default.gif';
+        if (el.src !== src) el.src = src;
+    };
 
-// pjax遷移のpopstate時に、初回訪問ページの初期値として使用
-var _gaqPjax = {
-    user_type: "Guest",
-    days_since_signup: "",
-    pageview: ""};
+    sumally.getFromNow = function (date) {
+        var _date = date / 1000;
+        var currentTime = new Date().getTime() / 1000;
+        if (_date > currentTime) {
+            _date = currentTime;
+        }
+        if (moment) {
+            return moment(_date * 1000).fromNow();
+        } else {
+            // 最悪の場合は日時を返す
+            var d = new Date(_date * 1000);
+            var year = d.getFullYear();
+            var month = (('0' + (d.getMonth() + 1))).slice(-2);
+            var day = (('0' + (d.getDay() + 1))).slice(-2);
+            var hour = ('0' + d.getHours()).slice(-2);
+            var minute = ('0' + d.getMinutes()).slice(-2);
+            return year + '/' + month + '/' + day + ' ' + hour + ':' + minute;
+        }
+    };
+
+        
+    
+            sumally.is_ec_enabled = true;
+    
+    
+            sumally.is_sell_item_enabled_v2 = true;
+    
+            sumally.is_pc_pjax = true;
+    
+            sumally.is_web_notification_enabled = true;
+        
+    var _gaq = _gaq || [];
+
+    _gaq.push(['_setAccount', 'UA-25427311-1']);
+    _gaq.push(['_setDomainName', 'sumally.com']);
+    _gaq.push(['_setCustomVar', 1, 'User Type', "Guest", 2]);
+    _gaq.push(['_setCustomVar', 3, 'Display Locale', sumally.locale, 2]);
+
+    
+            _gaq.push(['_trackPageview']);
+    
+    // pjax遷移のpopstate時に、初回訪問ページの初期値として使用
+    var _gaqPjax = {
+        user_type: "Guest",
+        days_since_signup: "",
+        pageview: ""    };
 
 </script>
 
@@ -97,6 +113,7 @@ var _gaqPjax = {
      "query-input": "required name=search_term"
    }
 }
+
 </script>
 
 
@@ -105,131 +122,126 @@ var _gaqPjax = {
 
     <link rel="alternate" href="android-app://com.sumally.android.launcher/sumally/android.sumally.com/about/privacypolicy">
 
-        <script src="https://smlycdn.akamaized.net/a/20150807a/js/bundle_general_lib.min.js"></script>
-    <script src="https://smlycdn.akamaized.net/a/20160304a/js/i18n/lc_messages_en.js"></script>
+        <script src="https://smlycdn.akamaized.net/a/20161003a/js/bundle_general_lib.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20161101a/js/i18n/lc_messages_en.js"></script>
     <script src="https://smlycdn.akamaized.net/a/201305091/js/lib/Gettext.min.js"></script>
-    <script src="https://smlycdn.akamaized.net/a/20150715a/js/bundle_backbone.min.js"></script>
-    <script src="https://smlycdn.akamaized.net/a/201309202/js/general/header_button/bundle_bg_anim.min.js"></script>
-    <script src="https://smlycdn.akamaized.net/a/20160330b/js/bundle_general.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160513a/js/bundle_backbone.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20161007a/js/general/header_button/bundle_bg_anim.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20161101a/js/bundle_general.min.js"></script>
 <!--[if lt IE 9]>
 <script src="https://smlycdn.akamaized.net/a/201307221/js/lib/html5.js"></script>
 <![endif]-->
 
 
-    <script src="https://smlycdn.akamaized.net/a/20160223a/js/index_rcolumn.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160713a/js/index_rcolumn.min.js"></script>
 <script>
     // pjax化に伴ってinit処理はindex_rcolumn.js内から移動させた
     $(document).ready(function() {
         window.sumally.SumallyRightHeightFix = new SumallyRightHeightFix();
         window.sumally.Index_rcolum = new Index_rcolum();
         window.sumally.Index_rcolum.init();
-        window.sumally.sellerAnnotate = new SellerAnnotate();
-        window.sumally.sellerAnnotate.init();
     });
 </script>
 
-    <script src="https://smlycdn.akamaized.net/a/20160224a/js/c2c_direct.min.js"></script>
+    <script src="https://smlycdn.akamaized.net/a/20160629a/js/c2c_direct.min.js"></script>
 
 </head>
 
-<body id="about" class="fixedLayout">
+<body id="about" class="fixedLayout not_logged_in">
 
 
 <!----------------------------------------------------------------------->
 <!-- usernavi Area -->
 <!----------------------------------------------------------------------->
 
-<div id="login-menu" class="has-login-block">
-    <div id="login-menu-bar-wrapper">
-        <div id="login-menu-bar" class="">
-            <div id="login-menu-footer">
-                                <a id="login-menu-login-btn" class="sas-tracking" href="#" data-sas-pos="login-memu-login" data-has-login-block="true">
-                    <div class="btn-icon"></div>
-                    <div class="btn-text">Login</div>
-                </a>
-                <a id="login-menu-about-service-btn" class="sas-tracking" data-sas-pos="login-menu-about-service" href="/about">
-                    <div class="btn-border-left"></div>
-                    <div class="btn-text">About Sumally</div>
-                </a>
-                <div class="search-area menu_searcharea">
-        <form id="searchQform" name="search-box" class="search-box" method="get">
-        <a href="#" class="search-button" type="image" alt="Search" name="search-button"></a>
-        <input id="searchQ" class="search-key sas-tracking-input" data-sas-pos="search-area" data-mode="item" placeholder="Item search" value="" type="search">
-    </form>
-</div>
-                            </div>
+
+<div class="mod-loginbanner js-loginbanner">
+    <div class="mod-loginbanner-inner">
+        <div class="mod-loginbanner-col">
+            <a href="https://sumally.com" target="_blank" class="mod-loginbanner-logo"></a>
+            <div class="mod-loginbanner-tagline">
+                Find great things that<br>you've been looking for.            </div>
+        </div>
+        <div class="mod-loginbanner-col type-right">
+            <div class="mod-loginbanner-items js-loginbanner-slidetarget">
+                <div class="mod-loginbanner-item">
+                    <div class="mod-loginbanner-buttons">
+                        <a href="#" class="mod-loginbanner-button type-facebook auth-button js-pjax-link-disable" data-auth-service="facebook">
+                            <i></i>
+                            <span>Sign up with Facebook</span>
+                        </a>
+                        <a href="#" class="mod-loginbanner-button type-twitter auth-button js-pjax-link-disable" data-auth-service="twitter">
+                            <i></i>
+                            <span>Sign up with Twitter</span>
+                        </a>
+                    </div>
+                    <div class="mod-loginbanner-login">
+                        <a href="#" class="mod-loginbanner-login-inner js-loginbanner-slidetrigger js-pjax-link-disable">
+                            <i></i>
+                            <span>Already have an account?</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="mod-loginbanner-item">
+                    <iframe src="https://sumally.com/login?mode=banner" width="100%" height="96" frameborder="0"></iframe>
+                </div>
+            </div>
         </div>
     </div>
-    <div name="login" class="login_css_set loginblock hidden">
-    <div class="inner clearfix">
-
-
-        <div class="loginform clearfix">
-
-            <div class="lftitle">
-                <div class="header3">Login to Sumally using one of the two login options below.</div>
-            </div>
-
-            <div class="social clearfix">
-
-                <div class="title">
-                    <div class="header4">1. Login through Facebook or Twitter: </div>
-                </div>
-
-                <div class="btArea  clearfix">
-                    <ul>
-                        <li class="bt_fb"><a href="/auth?service=facebook&amp;mode=login" class="auth-button" data-auth-service="facebook" data-smt="login-menu-fb">Facebook</a></li>
-                        <li class="bt_tw"><a href="/auth?service=twitter&amp;mode=login" class="auth-button" data-auth-service="twitter" data-smt="login-menu-tw">Twitter</a></li>
-                                            </ul>
-                </div>
-
-            </div><!-- / .social -->
-
-
-            <div class="naps clearfix">
-                <iframe id="login-frame" src="https://sumally.com/login?https=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:520px; height:160px;"></iframe>
-            </div><!-- / .naps -->
-
-        </div><!-- / .loginform -->
-
-    </div><!-- / .inner clearfix -->
-</div><!-- / #login_css_set -->
-    <div id="login-menu-footer-bar" class="clearfix clear"></div>
 </div>
-
-<!----------------------------------------------------------------------->
-<!-- footer -->
-<!----------------------------------------------------------------------->
-
-<footer id="splash-start-footer" class="clearfix">
-    <div id="splash-start-footer-wrap" class="clearfix">
-        <div class="inner clearfix">
-
-            <div id="splash-start-footer-navi-left" class="clearfix">
-                <ul class="clearfix">
-                    <li><a href="/about">About Sumally</a></li>
-                    <li><a href="/about/termsofuse">Terms of Use</a></li>
-                    <li><a href="/about/privacypolicy">Privacy Policy</a></li>
-                                        <li><a href="/about/faq">FAQ</a></li>
-                                        <li><a href="/about/contact">Contact Us</a></li>
-                    <li><a href="/about/jobs">Jobs</a></li>
-                    <li><a href="http://itunes.apple.com/app/sumally/id481540526" target="_blank">iPhone App</a></li>
-                                        <li><a href="https://play.google.com/store/apps/details?id=com.sumally.android.launcher" target="_blank">Android App</a></li>
-                    <li class="last"><a href="/business">About Business Account</a></li>
-                                    </ul>
-            </div>
-
-            <div id="splash-start-footer-navi-right">
-                <span class="copyright-sumally">© 2016 Sumally</span><span class="made-in-tokyo">Made in Tokyo</span>
-            </div>
-
-        </div>
-    </div>
-</footer>
 
 
 <div id="wrapper">
 
+
+<div data-state="false" class="mod-gheader js-gheader logfalse " data-userid="" data-is_brand_user="false">
+    <div class="mod-gheader-inner">
+        <a href="/" class="mod-smlogo"><i></i></a>
+        <nav class="mod-gnav">
+            <ul>
+                <li><a href="/" class="type-browse">Home</a></li>
+                <li><a href="/browse/recommended" class="type-recommended">Recommended</a></li>
+                            </ul>
+        </nav>
+        <form id="searchQform" method="get" class="mod-searchfield">
+                        <input id="searchQ" class="sas-tracking-input" type="search" autocomplete="off" data-sas-pos="search-area" data-mode="item" placeholder="Item search" value="">
+            <div class="mod-searchfield-icon"></div>
+        </form>
+            </div>
+</div>
+<div class="mod-sheader js-sheader">
+    <div class="mod-sheader-inner">
+
+        
+        
+        
+        
+        
+        
+        <div class="mod-itemnav">
+            <div class="mod-categoryfilter js-categoryfilter ">
+    <a href="#" class="mod-categoryfilter-trigger js-categoryfilter-trigger js-pjax-link-disable"></a>
+    <div class="mod-categoryfilter-panel js-categoryfilter-panel">
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="" data-num=""><i></i><div>All</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="800" data-num=""><i></i><div>Electronics</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="100" data-num=""><i></i><div>Men’s Fashion</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="900" data-num=""><i></i><div>Music &amp; Movie</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="200" data-num=""><i></i><div>Women’s Fashion</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="1000" data-num=""><i></i><div>Automotive</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="300" data-num=""><i></i><div>Babies’ &amp; Kids’ Fashion</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="1100" data-num=""><i></i><div>Books &amp; Magazines</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="400" data-num=""><i></i><div>Watches</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="1200" data-num=""><i></i><div>Sports &amp; Outdoors</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="500" data-num=""><i></i><div>Beauty</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="1300" data-num=""><i></i><div>Food &amp; Beverage</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="600" data-num=""><i></i><div>Home &amp; interiors</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="1400" data-num=""><i></i><div>Others</div></div>
+                    <div class="mod-categoryfilter-item js-categoryfilter-item" data-category="700" data-num=""><i></i><div>Art &amp; Hobby</div></div>
+            </div>
+</div>                    </div>
+
+    </div>
+</div>
 
 <!----------------------------------------------------------------------->
 <!-- contents Area -->
@@ -582,8 +594,8 @@ var _gaqPjax = {
 
 
         <div class="button">
-            <a href="#" target="_blank" class="bt_fb">Facebook</a>
-            <a href="#" target="_blank" class="bt_tw">Twitter</a>
+            <a href="#" target="_blank" class="bt_fb js-signup-dialog-disable">Facebook</a>
+            <a href="#" target="_blank" class="bt_tw js-signup-dialog-disable">Twitter</a>
         </div>
 
 
@@ -667,8 +679,8 @@ var _gaqPjax = {
 
 </div><!-- / #wrapper -->
 
-<div class="dialog-signup">
-    <div class="dialog-signup-bg start-form-bg"></div>
+    <div class="dialog-signup">
+        <div class="dialog-signup-bg start-form-bg"></div>
 
 <div class="dialog-start-form-area start-form clearfix">
     <div class="start-form-wrap">
@@ -725,7 +737,7 @@ var _gaqPjax = {
                 <a href="#" class="dialog-signup-close-btn"></a>
             </div>
 </div>
-</div>
+    </div>
 
 
 <div id="fb-root"></div><!-- fb needs this -->
@@ -771,7 +783,7 @@ if (!($.browser.msie && $.browser.version <= 8)) {
 
 
 
-<!-- 0.002 sec on web1000 -->
+<!-- 0.002 sec on web05 -->
 
 
 </body></html>
