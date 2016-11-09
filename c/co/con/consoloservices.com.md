@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consoloservices.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318235223id_/http%3A//www.consoloservices.com/www.consoloservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consoloservices.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109133658id_/http%3A//www.consoloservices.com/www.consoloservices.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Consolo Services Group
 
 Consolo’s Services mission is, and always will be, “Patients First”. We understand, acknowledge and respect any individual’s right to privacy and the concerns one may have in regard to privacy and security.   We recognize the importance of protecting the privacy of information provided by our agencies and their patients, as well as, general users of our website.
 
@@ -83,7 +83,7 @@ Other services provided by Consolo Services on this Website may require you to a
 
 **BY USING THIS WEBSITE, YOU ACCEPT THESE TERMS.**
 
-If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [compliance@consoloservices.com](mailto:webmail@ccf.org).
+If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [c…@consoloservices.com](http://www.google.com/recaptcha/mailhide/d?k=01Tzhrnt-HX8V5Y09CFDHyEw==&c=O-JCWRH6GuN36qwlJiAduJeM6TClvuT_yXjv0BuQirk= "Reveal this e-mail address").
 
 Last updated: 10/1/2014
 
