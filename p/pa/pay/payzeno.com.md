@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payzeno.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616150358id_/http%3A//www.payzeno.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzeno.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109143157id_/https%3A//www.payzeno.com/pages/privacy) for the most accurate reproduction.*
 
-# Free Affiliate Marketplace, Sell Products Online, Merchant Account, Affiliates Make Money
+# (N) Free Affiliate Marketplace, Sell Products Online, Merchant Account, Affiliates Make Money
 
 The privacy and confidentiality of our members and users is upheld with the highest consideration. We will never disclose of any personal or identifying information to any third party in any form. A member's financial information is kept fully secured as to prevent any possibility of identity theft and the contact information is protected from any third parties seeking marketing information.
 
