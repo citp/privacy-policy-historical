@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthadvisorgroup.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509172252id_/http%3A//healthadvisorgroup.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthadvisorgroup.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109232150id_/http%3A//healthadvisorgroup.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Policy - Health Advisor Group
 
