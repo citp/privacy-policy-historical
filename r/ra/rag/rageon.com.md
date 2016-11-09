@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rageon.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622075515id_/http%3A//www.rageon.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rageon.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109073511id_/http%3A//www.rageon.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – RageOn! - Dream it. Share it. Wear it. - The World's Largest All-Over-Print Online Store!
+# Privacy Policy
 
 PRIVACY STATEMENT  
 \----  
