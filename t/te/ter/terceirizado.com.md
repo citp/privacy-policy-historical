@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terceirizado.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406160602id_/http%3A//www.terceirizado.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terceirizado.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109065741id_/http%3A//www.terceirizado.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Auto insurance and Life insurance quotes
+# Privacy Policy | Terceirizado Autoblog
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
