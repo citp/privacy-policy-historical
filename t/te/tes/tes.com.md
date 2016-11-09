@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629231542id_/https%3A//www.tes.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109042238id_/https%3A//www.tes.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies Policy | TES
 
@@ -406,6 +406,48 @@ Tracks the page activity of a user and indirectly may be considered to be potent
 | 
 
 Session cookie  
+  
+**Name**
+
+| 
+
+**Domain(s)**  
+  
+---|---  
+master | 
+
+wikispaces.com  
+wikispaces.net  
+  
+slave | 
+
+wikispaces.com  
+wikispaces.net  
+  
+test | 
+
+wikispaces.com  
+wikispaces.net  
+  
+searcht | 
+
+wikispaces.com  
+wikispaces.net  
+  
+tour | 
+
+wikispaces.com  
+wikispaces.net  
+  
+changes | 
+
+wikispaces.com  
+wikispaces.net  
+  
+WikispacesLogoutCookie | 
+
+wikispaces.com  
+wikispaces.net  
   
 Table of 3rd (third) party cookies
 
