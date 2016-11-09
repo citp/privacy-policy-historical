@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617204627id_/http%3A//www.tomtop.com/base/cms/detail/59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109133351id_/http%3A//www.tomtop.com/base/cms/detail/59) for the most accurate reproduction.*
 
 # 
 
@@ -56,5 +56,7 @@ Email: [support@tomtop.com](mailto:support@tomtop.com)
 Phone Call  
 English Language Support: (+86)1376-0398-562  
 Russian Language Support: (+86)1350-9624-896  
-Spanish Language Support: (+86)1511-2351-356  
- 
+Spanish Language Support: (+86)1511-2351-356
+
+__PractiveOne  Limited  
+Third Floor 207 Regent Street London W1B 3HH UK
