@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandsintown.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603134322id_/http%3A//corp.bandsintown.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandsintown.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109185146id_/http%3A//corp.bandsintown.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bandsintown, LLC.
 
