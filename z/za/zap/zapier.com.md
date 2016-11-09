@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526211839id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109093602id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapier
 
@@ -6,15 +6,17 @@
 
 Welcome to Zapier! Here on the left you'll find our plain-english privacy policy and the corresponding legal policy on the right.
 
-We last updated this policy March 26, 2015.
+We last updated this policy on September 28, 2016.
 
 Onward!
 
 ## Legal Privacy Policy
 
-Date of Last Revision: March 26, 2015
+Date of Last Revision: September 28, 2016
 
 Welcome to the web site (the "Site") of Zapier, Inc. ( "Zapier", "we", "us" and/or "our"). This Site is operated by Zapier and has been created to provide information about our company and its content and data linking platform and related services (together with the Site, the "Service(s)") to our Service visitors ("you", "your"). This Privacy Policy sets forth Zapier's policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from visitors to the Site and Services.
+
+[](https://www.privacytrust.com/cert/987876.html)
 
 ## Third-Party Service Integration
 
@@ -68,15 +70,23 @@ You can visit the Services without providing any Personal Data. If you choose no
 
 Zapier is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-**Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. **Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. **Agents, Consultants and Related Third Parties** : Zapier, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. **Legal Requirements** : Zapier may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Zapier, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
+**Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. In cases of onward transfer of personal information to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Zapier remains liable. **Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. **Agents, Consultants and Related Third Parties** : Zapier, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. **Legal Requirements** : Zapier may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Zapier, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
-## Safe Harbor Framework Adherence
+## EU-U.S. Privacy Shield
 
-Zapier is Safe Harbor compliant.
+Zapier is EU-U.S. Privacy Shield compliant.
 
-In accordance with our commitment to protect personal privacy, Zapier adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: http://www.export.gov/safeharbor.
+Zapier is a participant in the U.S. Department of Commerce's EU-U.S. Privacy Shield and has certified that we adhere to the EU-U.S. Privacy Shield Principles. Zapier is subject to the investigatory and enforcement powers of the Federal Trade Commission. 
 
-[](https://secure.etrust.org/cert/987876.html)
+For more information about the EU-U.S. Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield website at https://www.commerce.gov/privacyshield 
+
+You may contact us regarding the EU-U.S. Privacy Shield as follows: [contact@zapier.com](mailto:contact@zapier.com).
+
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, you can also submit your complaint to Privacy Trust, an independent third party. Visit https://www.privacytrust.com/drs/zapier to file a complaint. 
+
+Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
+
+In cases of onward transfer of personal information to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Zapier remains liable.
 
 ## Exclusions
 
@@ -108,9 +118,9 @@ If anything changes, we will let you know at least 14 days ahead of time via thi
 
 The Services and our business may change from time to time. As a result, at times it may be necessary for Zapier to make changes to this Privacy Policy. Zapier reserves the right to update or modify this Privacy Policy at any time and from time to time. If we do this, we will post the changes to this Privacy Policy on this page and will indicate at the top of this page the date these terms were last revised. We will also notify you, either through the Service user interface, in an email notification or through other reasonable means. Please review this policy periodically, and especially before you provide any Personal Data. Any such changes will become effective no earlier than fourteen (14) days after they are posted, except that changes addressing new functions of the Service or changes made for legal reasons will be effective immediately. This Privacy Policy was last updated on the date indicated above. Your continued use of the Service after the date any such changes become effective constitutes your acceptance of the new Privacy Policy.
 
-## Other Terms; Contacting Zapier
+## Contacting Zapier
 
-Your access to and use of the Services is subject to the Terms of Service at <https://zapier.com/terms/>
+Got questions? We want to hear from you! Contact us at [contact@zapier.com](mailto:contact@zapier.com).
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about Zapier's Privacy Policy or the information practices of the Services.
 
