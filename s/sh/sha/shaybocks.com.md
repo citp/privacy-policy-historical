@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the shaybocks.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505164818id_/http%3A//shaybocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaybocks.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109043305id_/http%3A//feastdesignco.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - shaybocks.com
+# Privacy Policy - Feast
 
-BY VISITING SHAYBOCKS.COM, YOU ARE CONSENTING TO OUR PRIVACY POLICY.
+BY VISITING FEASTDESIGNCO.COM, YOU ARE CONSENTING TO OUR PRIVACY POLICY.
 
 **OVERVIEW**
 
-Shay Bocks Creative is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at http://shaybocks.com/ (the “site”), and how we collect and use that information.
+Feast Design Co. is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at http://feastdesignco.com/ (the “site”), and how we collect and use that information.
 
-The terms “we,” “us,” and “our” refers to Shay Bocks Creative. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
+The terms “we,” “us,” and “our” refers to Feast Design Co.. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
 
 The term “personal information” is defined as information that you voluntarily provide to us that personally identifies you and/or your contact information, such as your name, phone number, and email address.
 
 We provide custom website solutions, customizations, themes and theme support, and courses (the “service”).
 
-Use of Shay Bocks Creative **,** including all materials presented herein and all online services provided by Shay Bocks Creative, is subject to the following Privacy Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the site. By using the site or service you agree to this Privacy Policy, without modification, and acknowledge reading it.
+Use of Feast Design Co. **,** including all materials presented herein and all online services provided by Feast Design Co., is subject to the following Privacy Policy. This Privacy Policy applies to all site visitors, customers, and all other users of the site. By using the site or service you agree to this Privacy Policy, without modification, and acknowledge reading it.
 
 **INFORMATION WE COLLECT**
 
@@ -29,7 +29,7 @@ This site only collects the personal information you voluntarily  provide to us
 
 The information you provide is used to process transactions, send periodic emails, and improve the service we provide. We do share your information with trusted third parties who assist us in operating our website, conducting our business, and servicing clients and visitors. These trusted third parties agree to keep this information confidential. Your personal information will never be shared with unrelated third parties.
 
-** ** **ACTIVITY**
+**ACTIVITY**
 
 We may record information relating to your use of the site, such as the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the site and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site.
 
@@ -51,7 +51,7 @@ To access or use the site, you must be 18 years old or older and have the requis
 
 **UPDATING YOUR INFORMATION**
 
-You may access and correct your personal information and privacy preferences by contacting us via email at support@shaybocks.com.
+You may access and correct your personal information and privacy preferences by contacting us via email at hello@feastdesignco.com.
 
 **CHANGES TO THIS POLICY**
 
@@ -59,6 +59,6 @@ You acknowledge and agree that it is your responsibility to review this site and
 
 **CONTACT**
 
-If you have questions about our privacy policy, please email us at support@shaybocks.com
+If you have questions about our privacy policy, please email us at hello@feastdesignco.com.
 
-Updated: June 2015
+Updated: April 2016
