@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the i9sports.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406205210id_/https%3A//www.i9sports.com/FooterLinks/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i9sports.com privacy policy that was archived on 2016-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161109150640id_/https%3A//www.i9sports.com/FooterLinks/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -14,11 +14,10 @@
 
     <title>i9 Sports Privacy Policy</title>
 
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1830972680461611&amp;version=v2.0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N5CH9H"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/CustomerSiteJavascript.min.js?ver=2"></script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1830972680461611&amp;version=v2.0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NK5V3D"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/CustomerSiteJavascript.min.js?ver=2"></script>
 
-
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBd7XESce5kCnhkxuoROFqLzx8gCovwOiU"></script>
+    
     <!--[if lt IE 8]>
     <script src="/Scripts/common.ie7.js" type="text/javascript"></script>
     <![endif]-->
@@ -32,13 +31,9 @@
 
     
     
-    <link rel="stylesheet" type="text/css" href="/Styles/CustomerSiteCSS.min.css?ver=1">
+    <link rel="stylesheet" type="text/css" href="/Styles/CustomerSiteCSS.min.css?ver=3">
     
     
-
-
-
-
 
 
 
@@ -47,6 +42,11 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-home-screen-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/apple-home-screen-icon-114x114.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-home-screen-icon-144x144.png">
+
+
+
+
+
 
     
 
@@ -65,7 +65,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="i9 Sports">
     <meta property="og:url" content="https://www.i9sports.com">
-    <meta property="og:description" content="i9 Sports is great fun for kids!">
+    <meta property="og:description" content="i9 Sports offers youth sports leagues, camps and clinics for kids ages 3-17 in communities across the country. Find a program near you!">
     <meta property="og:image" content="https://www.i9sports.com/images/fullsite/FacebookSharePhoto.jpg">
 
 
@@ -224,12 +224,16 @@
         $(document).ready(function () {
             setCookie("ClientSideScreenWidth", window.innerWidth);
 
-            if (document.cookie.indexOf("visited") < 0 && document.cookie.indexOf("GlobalMemberID") < 0) {
+            
+            if (document.cookie.indexOf("visited") < 0 && document.cookie.indexOf("GlobalMemberID") < 0 && document.cookie.indexOf("ppc") < 0) {
 
                 // This section refers to things that are in the partial view named "_FirstVisitPopup" like: function SubmitFirstVisitPopup()
                 // It, in turn, refers to things in this section - like: first-visit-popup-container and firstVisitPopupMethod
                 // It's a partial so it can be called on the fly using ajax post
                 firstVisitPopupMethod = Math.floor(Math.random() * 2) + 1;
+
+                // We are now only using Method 2 - the one that asks for how did you hear about us
+                firstVisitPopupMethod = 2
 
                 $.post("/Member/GetFirstVisitPopupPartial",
                     { Method: firstVisitPopupMethod },
@@ -256,6 +260,7 @@
                         }
                     });
             }
+            
 
             setCookie("visited", "visited", 1000);
 
@@ -270,41 +275,28 @@
 
     </script>
 
-    <script type="text/javascript">
-
-        FB.ui(
-        {
-            method: 'feed',
-            href: 'https://www.i9sports.com/',
-            link: 'https://www.google.com',
-        },
-        function (response) {
-            if (response && !response.error_code) {
-                alert('Posting completed.');
-            } else {
-                alert('Error while posting.');
-            }
-        }
-        );
-
-    </script>
+    
 
 <script type="text/javascript" src="//d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js"></script></head>
 
 
 <body style="">
 
+
 <!-- Google Tag Manager -->
 <noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5CH9H"
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-NK5V3D"
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 <script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-N5CH9H');</script>
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-NK5V3D');</script>
 <!-- End Google Tag Manager -->
 
 
@@ -329,7 +321,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-    <div id="hamburger-header">
+
+    <div id="hamburger-header" style="">
         <div class="divider one">
             <a id="hamburger-a" class="hamburger-a" href="javascript: ToggleHamburgerDropDown();"><img id="hamburger-image" alt="" class="hamburger" src="/images/fullsite/HamburgerWhite20.png"></a>
         </div>
@@ -350,6 +343,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="main-header">
 
         <div id="site-layout-top-nav-container">
+
 
 
 
@@ -390,7 +384,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         </div>
 
-        <div class="bottom-nav">
+        <nav style="">
             <div class="centered">
                 <div class="logo-div">
                         <a href="/"><img alt="" class="logo" src="/images/fullsite/i9SportsLogo.png"></a>
@@ -398,31 +392,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <ul>
                         <li>
+                            <a href="/Programs">PROGRAMS</a>
+                        </li>
+                        <li>
                             MY ACCOUNT
                             <div>
                                 <ul>
-                                    <li class="first-in-column"><a href="/FindAProgram">Register For A Program</a></li>
+                                    <li class="first-in-column"><a href="/FindAProgram/Index">Register For A Program</a></li>
                                         <li><a href="/Member/NewMember">Create An Account</a></li>
 
                                     <li><a href="/Member/MySchedule">My Schedule</a></li>
-                                    <li><a href="/MyMessages">My Messages</a></li>
-                                    <li><a href="/MyCoach">My Coach</a></li>
+                                    <li><a href="/MyMessages/Index">My Messages</a></li>
+                                    <li><a href="/MyCoach/Index">My Coach</a></li>
                                     <li><a href="/Member/TrophyCase">My Trophy Case</a></li>
                                     <li><a href="/Member/LeagueStandings">Standings &amp; Stats</a></li>
-                                    <li class="last-in-column"><a href="/FindAProgram">Maps &amp; Directions</a></li>
+                                    <li class="last-in-column"><a href="/FindAProgram/Index">Maps &amp; Directions</a></li>
 
                                     <li class="level2 first-in-column"><span class="small-label">Account Settings</span></li>
 
 
-                                    <li class="level2"><a href="/PayExistingBalances">Pay Balance Online</a></li>
-                                    <li class="level2"><a href="/CompleteWaivers">Complete Waivers</a></li>
+                                    <li class="level2"><a href="/PayExistingBalances/Index">Pay Balance Online</a></li>
+                                    <li class="level2"><a href="/CompleteWaivers/Index">Complete Waivers</a></li>
                                     <li class="level2"><a href="/Member/UpdateMember">Edit Contact Info</a></li>
                                     <li class="level2"><a href="/PayExistingBalances/UpdateBillingInfo">Edit Credit Card Info</a></li>
                                     <li class="level2"><a href="/Member/ChangePassword">Change Password</a></li>
-                                    <li class="level2"><a href="/EmailPreferences">Subscribe/Unsubscribe</a></li>
-                                    <li class="level2"><a href="/RegistrationHistory">Registration History</a></li>
-                                    <li class="level2"><a href="/MyFamily">My Family</a></li>
-                                    <li class="level2 last-in-column"><a href="/MerchandiseHistory">Merchandise Orders</a></li>
+                                    <li class="level2"><a href="/EmailPreferences/Index">Subscribe/Unsubscribe</a></li>
+                                    <li class="level2"><a href="/RegistrationHistory/Index">Registration History</a></li>
+                                    <li class="level2"><a href="/MyFamily/Index">My Family</a></li>
+                                    <li class="level2 last-in-column"><a href="/MerchandiseHistory/Index">Merchandise Orders</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -430,7 +427,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             COACHES
                             <div>
                                 <ul>
-                                    <li class="first-in-column"><a href="/BecomeACoach">Become A Coach</a></li>
+                                    <li class="first-in-column"><a href="/BecomeACoach/Index">Become A Coach</a></li>
                                     <li><a href="/VolunteerSteps/VolunteerApplication">Volunteer Application</a></li>
                                     <li><a href="/VolunteerSteps/CoachesVideo">Coaches Exam</a></li>
                                     <li><a href="/Member/CoachProfile">Team Schedule</a></li>
@@ -439,12 +436,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <li><a href="/Member/PlayerStats">Submit Player Stats</a></li>
                                     <li class="last-in-column"><a href="/Member/Roster">Submit Sportsmanship Winners</a></li>
 
-                                    <li class="level2 first-in-column"><span class="small-label"><a href="/CoachingResources" style="font-weight: bold;">Coaching Resources</a></span></li>
-                                    <li class="level2"><a href="/CoachingResources">Coaching Guide</a></li>
-                                    <li class="level2"><a href="/CoachingResources">Practice Plans</a></li>
-                                    <li class="level2"><a href="/CoachingResources">Playcards &amp; Practice Drills</a></li>
-                                    <li class="level2"><a href="/CoachingResources">Stat Sheets</a></li>
-                                    <li class="level2 last-in-column"><a href="/CoachingResources">Rule Books</a></li>
+                                    <li class="level2 first-in-column"><span class="small-label"><a href="/CoachingResources/Index" style="font-weight: bold;">Coaching Resources</a></span></li>
+                                    <li class="level2"><a href="/CoachingResources/Index">Coaching Guide</a></li>
+                                    <li class="level2"><a href="/CoachingResources/Index">Practice Plans</a></li>
+                                    <li class="level2"><a href="/CoachingResources/Index">Playcards &amp; Practice Drills</a></li>
+                                    <li class="level2"><a href="/CoachingResources/Index">Stat Sheets</a></li>
+                                    <li class="level2 last-in-column"><a href="/CoachingResources/Index">Rule Books</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -455,45 +452,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <a href="/Blog">BLOG</a>
                         </li>
                         <li>
-                            ABOUT US
+                            <a href="/AboutUs/Index">ABOUT</a>
+                            
                             <div>
                                 <ul>
-                                    <li class="first-in-column"><a href="/AboutUs">Who We Are</a></li>
+                                    <li class="first-in-column"><a href="/AboutUs/Index">Who We Are</a></li>
                                     <li><a href="/AboutUs/Experience">The i9 Sports Experience</a></li>
-                                    <li><a href="/AboutUs/Different">Why We're Different</a></li>
                                     <li><a href="/AboutUs/ParentalPledge">Parental Pledge</a></li>
                                     <li><a href="/AboutUs/SportsWePlay">Sports We Play</a></li>
-                                    <li><a href="/FAQs">Frequently Asked Questions</a></li>
-                                    <li class="last-in-column"><a href="/FindAProgram">Find A Program / Register</a></li>
+                                    <li><a href="/FAQs/Index">Frequently Asked Questions</a></li>
+                                    <li class="last-in-column"><a href="/FindAProgram/Index">Find A Program / Register</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            CONTACT
+                            <div>
+                                <ul>
+                                    <li class="first-in-column"><a href="/FAQs/Index">Frequently Asked Questions</a></li>
+
+                                        <li><a href="/LocalOffice" style="">Local i9 Sports Office</a></li>
+
+                                    <li><a href="/MyCoach/Index">My Coach</a></li>
+                                    <li><a href="/ContactUs/WeatherHotline">Weather Hotline</a></li>
+
+                                    <li><a href="/Employment/Index">Employment Opportunities</a></li>
+
+                                    <li><a target="_blank" href="http://www.i9sportsfranchise.com?utm_source=consumer%20site&amp;utm_medium=banner-link&amp;utm_campaign=consumer-site-referral">Franchise Opportunities</a></li>
+
+                                    <li><a href="/NationalOffice/Index">Media Inquiries</a></li>
+
+                                    <li class="last-in-column"><a href="/Partners/Index">Partners / Sponsors</a></li>
+
                                 </ul>
                             </div>
                         </li>
                         <li class="last-child">
-                            CONTACT US
-                            <div class="last-child">
-                                <ul>
-                                    <li class="first-in-column"><a href="/FAQs">Frequently Asked Questions</a></li>
-                                    <li><a href="/ContactUs/ProgramDirector">Local i9 Sports Office</a></li>
-                                    <li><a href="/MyCoach">My Coach</a></li>
-                                    <li><a href="/ContactUs/WeatherHotline">Weather Hotline</a></li>
-
-                                    <li><a href="/Employment">Employment Opportunities</a></li>
-
-                                    <li><a target="_blank" href="http://www.i9sportsfranchise.com?utm_source=consumer%20site&amp;utm_medium=banner-link&amp;utm_campaign=consumer-site-referral">Franchise Opportunities</a></li>
-
-                                    <li><a href="/NationalOffice">Media Inquiries</a></li>
-
-                                    <li class="last-in-column"><a href="/Partners">Partners / Sponsors</a></li>
-
-                                </ul>
-                            </div>
+                            <a href="http://www.i9sportsfranchise.com" target="_blank">FRANCHISE INFO</a>
                         </li>
 
                 </ul>
+
                 <div style="clear: both;"></div>
             </div>
 
-        </div>
+        </nav>
 
     </div>
 
@@ -509,60 +512,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div id="hamburger-dropdown">
             <ul>
-                        <li><a href="/Login">Log In / Create Account</a></li>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/FindAProgram">Find A Program / Register</a></li>
-                    <li><a href="/MySchedule">My Schedule</a></li>
-                    <li><a href="/MyMessages">My Messages</a></li>
-                    <li><a href="/MyCoach">My Coach</a></li>
-                    <li><a href="/TrophyCase">My Trophies &amp; Medals</a></li>
-                    <li><a href="/Maps">Maps &amp; Directions</a></li>
-                    <li><a href="/LeagueStandings">Standing &amp; Stats</a></li>
-                    <li><a href="/Store">Store</a></li>
+                        <li><a href="/Login/Index">Log In / Create Account</a></li>
+                    <li><a href="/HomePage/Index">Home</a></li>
+                        <li><a href="/Programs/Index">Find A Program</a></li>
+                    <li><a href="/MySchedule/Index">My Schedule</a></li>
+                    <li><a href="/MyMessages/Index">My Messages</a></li>
+                    <li><a href="/MyCoach/Index">My Coach</a></li>
+                    <li><a href="/TrophyCase/Index">My Trophies &amp; Medals</a></li>
+                    <li><a href="/Maps/Index">Maps &amp; Directions</a></li>
+                    <li><a href="/LeagueStandings/Index">Standing &amp; Stats</a></li>
+                    <li><a href="/Store/Index">Store</a></li>
                     <li><a href="/Blog">Blog</a></li>
                     <li onclick="ToggleHamburgerSubMenu(this);">
                         Coaches Corner
                         <img alt="" src="/images/fullsite/buttons/DownButtonSmall.png">
                         <ul>
-                            <li><a href="/BecomeACoach">Become A Coach</a></li>
+                            <li><a href="/BecomeACoach/Index">Become A Coach</a></li>
                             <li><a href="/VolunteerSteps/VolunteerApplication">Volunteer Application</a></li>
                             <li><a href="/VolunteerSteps/CoachesVideo">Coaches Exam</a></li>
-                            <li><a href="/TeamSchedule">Team Schedule</a></li>
-                            <li><a href="/TeamRoster">Team Roster</a></li>
+                            <li><a href="/TeamSchedule/Index">Team Schedule</a></li>
+                            <li><a href="/TeamRoster/Index">Team Roster</a></li>
                             <li><a href="/TeamRoster/CoachMessages">Messages To My Team</a></li>
-                            <li><a href="/PostScore">Submit Scores</a></li>
-                            <li><a href="/PlayerStats">Submit Player Stats</a></li>
+                            <li><a href="/PostScore/Index">Submit Scores</a></li>
+                            <li><a href="/PlayerStats/Index">Submit Player Stats</a></li>
                             <li><a href="/PostScore/SportsmanshipMedals">Submit Sportsmanship Medals</a></li>
-                            <li><a href="/CoachingResources">Coaching Resources</a></li>
+                            <li><a href="/CoachingResources/Index">Coaching Resources</a></li>
                         </ul>
                     </li>
                     <li onclick="ToggleHamburgerSubMenu(this);">
                         Account Settings
                         <img alt="" src="/images/fullsite/buttons/DownButtonSmall.png">
                         <ul>
-                            <li><a href="/PayExistingBalances">Pay Balance Online</a></li>
-                            <li><a href="/CompleteWaivers">Complete Waivers</a></li>
+                            <li><a href="/PayExistingBalances/Index">Pay Balance Online</a></li>
+                            <li><a href="/CompleteWaivers/Index">Complete Waivers</a></li>
                             <li><a href="/Member/UpdateMember">Edit Contact Info</a></li>
                             <li><a href="/PayExistingBalances/UpdateBillingInfo">Edit Credit Card Info</a></li>
                             <li><a href="/Member/ChangePassword">Change Password</a></li>
-                            <li><a href="/EmailPreferences">Subscribe/Unsubscribe</a></li>
-                            <li><a href="/RegistrationHistory">Registration History</a></li>
-                            <li><a href="/MerchandiseHistory">Merchandise Orders</a></li>
-                            <li><a href="/MyFamily">My Family</a></li>
+                            <li><a href="/EmailPreferences/Index">Subscribe/Unsubscribe</a></li>
+                            <li><a href="/RegistrationHistory/Index">Registration History</a></li>
+                            <li><a href="/MerchandiseHistory/Index">Merchandise Orders</a></li>
+                            <li><a href="/MyFamily/Index">My Family</a></li>
                         </ul>
                     </li>
                     <li onclick="ToggleHamburgerSubMenu(this);">
                         About Us
                         <img alt="" src="/images/fullsite/buttons/DownButtonSmall.png">
                         <ul>
-                            <li><a href="/AboutUs">Who We Are</a></li>
+                            <li><a href="/AboutUs/Index">Who We Are</a></li>
                             <li><a href="/AboutUs/Experience">i9 Sports Experience</a></li>
-                            <li><a href="/AboutUs/Different">Why We're Different</a></li>
                             <li><a href="/AboutUs/ParentalPledge">Parental Pledge</a></li>
                             <li><a href="/AboutUs/SportsWePlay">Sports We Play</a></li>
-                            <li><a href="/FindAProgram">Where We Play</a></li>
+                            <li><a href="/FindAProgram/Index">Where We Play</a></li>
 
-                            <li><a href="/FAQs">Frequently Asked Questions</a></li>
+                            <li><a href="/FAQs/Index">Frequently Asked Questions</a></li>
 
                         </ul>
                     </li>
@@ -570,15 +572,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         Contact Us
                         <img alt="" src="/images/fullsite/buttons/DownButtonSmall.png">
                         <ul>
-                            <li><a href="/MyCoach">My Coach</a></li>
-                            <li><a href="/ContactUs/ProgramDirector">Local i9 Sports Office</a></li>
-                            <li><a href="/FAQs">Frequently Asked Questions</a></li>
+                            <li><a href="/MyCoach/Index">My Coach</a></li>
+                                <li><a href="/LocalOffice" style="">Local i9 Sports Office</a></li>
+                            <li><a href="/FAQs/Index">Frequently Asked Questions</a></li>
                             <li><a href="/ContactUs/WeatherHotline">Weather Hotline</a></li>
-                            <li><a href="/NationalOffice">Media Inquiries</a></li>
-                            <li><a href="/Partners">Partners / Sponsors</a></li>
+                            <li><a href="/NationalOffice/Index">Media Inquiries</a></li>
+                            <li><a href="/Partners/Index">Partners / Sponsors</a></li>
                         </ul>
                     </li>
-                    <li><a href="/Employment">Employment Opportunities</a></li>
+                    <li><a href="/Employment/Index">Employment Opportunities</a></li>
                     <li><a target="_blank" href="http://www.i9sportsfranchise.com?utm_source=consumer%20site&amp;utm_medium=banner-link&amp;utm_campaign=consumer-site-referral">Franchise Opportunities</a></li>
 
 
@@ -684,31 +686,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td>
                                     <ul>
                                         <li class="middle-links-header">About i9 Sports</li>
-                                        <li><a href="/AboutUs">Who We Are</a></li>
+                                        <li><a href="/AboutUs/Index">Who We Are</a></li>
                                         <li><a href="/AboutUs/Experience">The i9 Sports Experience</a></li>
-                                        <li><a href="/AboutUs/Different">Why We're Different</a></li>
                                         <li><a href="/AboutUs/ParentalPledge">Parental Pledge</a></li>
                                         <li><a href="/AboutUs/SportsWePlay">Sports We Play</a></li>
                                         <li><a href="/Sport/Baseball">Baseball</a></li>
                                         <li><a href="/Sport/Basketball">Basketball</a></li>
                                         <li><a href="/Sport/FlagFootball">Flag Football</a></li>
                                         <li><a href="/Sport/Soccer">Soccer</a></li>
-                                        <li><a href="/FAQs">Frequently Asked Questions</a></li>
-                                        <li><a href="/FindAProgram">Find A Program / Register</a></li>
+                                        <li><a href="/FAQs/Index">Frequently Asked Questions</a></li>
+                                        <li><a href="/FindAProgram/Index">Find A Program / Register</a></li>
                                     </ul>
                                 </td>
                                 <td>
                                     <ul>
                                         <li class="middle-links-header">Parents</li>
-                                        <li><a href="/FindAProgram">Register For A Program</a></li>
+                                        <li><a href="/FindAProgram/Index">Register For A Program</a></li>
                                         <li><a href="/Member/MySchedule">My Schedule</a></li>
-                                        <li><a href="/MyMessages">My Messages</a></li>
-                                        <li><a href="/MyCoach">My Coach</a></li>
+                                        <li><a href="/MyMessages/Index">My Messages</a></li>
+                                        <li><a href="/MyCoach/Index">My Coach</a></li>
                                         <li><a href="/Member/TrophyCase">My Trophy Case</a></li>
                                         <li><a href="/Member/LeagueStandings">Standings &amp; Stats</a></li>
-                                        <li><a href="/FindAProgram">Maps &amp; Directions</a></li>
+                                        <li><a href="/FindAProgram/Index">Maps &amp; Directions</a></li>
                                         <li><a href="/Member/NewMember">Become A Member</a></li>
-                                        <li><a href="/Login">Sign In / Forgot My Password</a></li>
+                                        <li><a href="/Login/Index">Sign In / Forgot My Password</a></li>
                                         <li><a href="/Blog">Blog</a></li>
                                     </ul>
                                 </td>
@@ -716,21 +717,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td>
                                     <ul>
                                         <li class="middle-links-header">Account Settings</li>
-                                        <li><a href="/PayExistingBalances">Pay Balance Online</a></li>
-                                        <li><a href="/CompleteWaivers">Complete Waivers</a></li>
+                                        <li><a href="/PayExistingBalances/Index">Pay Balance Online</a></li>
+                                        <li><a href="/CompleteWaivers/Index">Complete Waivers</a></li>
                                         <li><a href="/Member/UpdateMember">Edit Contact Info</a></li>
                                         <li><a href="/PayExistingBalances/UpdateBillingInfo">Edit Credit Card Info</a></li>
                                         <li><a href="/Member/ChangePassword">Change Password</a></li>
-                                        <li><a href="/EmailPreferences">Subscribe/Unsubscribe</a></li>
-                                        <li><a href="/RegistrationHistory">Registration History</a></li>
-                                        <li><a href="/MerchandiseHistory">Merchandise Orders</a></li>
+                                        <li><a href="/EmailPreferences/Index">Subscribe/Unsubscribe</a></li>
+                                        <li><a href="/RegistrationHistory/Index">Registration History</a></li>
+                                        <li><a href="/MerchandiseHistory/Index">Merchandise Orders</a></li>
                                     </ul>
                                 </td>
 
                                 <td>
                                     <ul>
                                         <li class="middle-links-header">Coaches</li>
-                                        <li><a href="/BecomeACoach">Become A Coach</a></li>
+                                        <li><a href="/BecomeACoach/Index">Become A Coach</a></li>
                                         <li><a href="/VolunteerSteps/VolunteerApplication">Volunteer Application</a></li>
                                         <li><a href="/VolunteerSteps/CoachesVideo">Coaches Exam</a></li>
                                         <li><a href="/Member/CoachProfile">Team Schedule</a></li>
@@ -738,28 +739,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <li><a href="/Member/SubmitScores">Submit Scores</a></li>
                                         <li><a href="/Member/PlayerStats">Submit Player Stats</a></li>
                                         <li><a href="/Member/Roster">Submit Sportsmanship Winners</a></li>
-                                        <li><a href="/CoachingResources">Coaching Guides</a></li>
-                                        <li><a href="/CoachingResources">Practice Plans</a></li>
-                                        <li><a href="/CoachingResources">Playcards &amp; Practice Drills</a></li>
-                                        <li><a href="/CoachingResources">Stat Sheets</a></li>
-                                        <li><a href="/CoachingResources">Rule Books</a></li>
+                                        <li><a href="/CoachingResources/Index">Coaching Guides</a></li>
+                                        <li><a href="/CoachingResources/Index">Practice Plans</a></li>
+                                        <li><a href="/CoachingResources/Index">Playcards &amp; Practice Drills</a></li>
+                                        <li><a href="/CoachingResources/Index">Stat Sheets</a></li>
+                                        <li><a href="/CoachingResources/Index">Rule Books</a></li>
                                     </ul>
                                 </td>
                                 <td>
                                     <ul>
                                         <li class="middle-links-header">Contact Us</li>
-                                        <li><a href="/FAQs">Frequently Asked Questions</a></li>
+                                        <li><a href="/FAQs/Index">Frequently Asked Questions</a></li>
 
                                         <li><a href="/ContactUs/ProgramDirector">Local i9 Sports Office</a></li>
                                         <li><a href="/ContactUs/ProgramDirector">Contact Program Director</a></li>
-                                        <li><a href="/MyCoach">Contact My Coach</a></li>
+                                        <li><a href="/MyCoach/Index">Contact My Coach</a></li>
                                         <li><a href="/ContactUs/WeatherHotline">Weather Hotline</a></li>
                                         <li><a href="/Blog">Blog</a></li>
-                                        <li><a href="/Employment">Employment Opportunities</a></li>
+                                        <li><a href="/Employment/Index">Employment Opportunities</a></li>
                                         <li><a target="_blank" href="http://www.i9sportsfranchise.com?utm_source=consumer%20site&amp;utm_medium=banner-link&amp;utm_campaign=consumer-site-referral">Franchise Opportunities</a></li>
-                                        <li><a href="/NationalOffice">Media Inquiries</a></li>
-                                        <li><a href="/Partners">Partners / Sponsors</a></li>
-                                        <li><a href="/NationalOffice">National Office</a></li>
+                                        <li><a href="/NationalOffice/Index">Media Inquiries</a></li>
+                                        <li><a href="/Partners/Index">Partners / Sponsors</a></li>
+                                        <li><a href="/NationalOffice/Index">National Office</a></li>
                                         <li><a target="_blank" href="http://www.i9sa.org">Non-Profit 501(c)3</a></li>
                                     </ul>
                                 </td>
@@ -773,7 +774,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <td>
                                         <ul>
 
-                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/HomePage/Index">Home</a></li>
                                             <li class="basic-text-white padding-right"> | </li>
 
                                             
@@ -784,10 +785,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             <li class="basic-text-white padding-right"> | </li>
                                             <li><a href="/FooterLinks/ECommerceTermsAndConditions">E-Commerce Terms and Conditions</a></li>
                                             <li class="basic-text-white padding-right"> | </li>
-                                            <li><a href="/SiteMap">Site Map</a></li>
+                                            <li><a href="/SiteMap/Index">Site Map</a></li>
                                             <li class="basic-text-white padding-right"> | </li>
 
-                                            <li><a href="/LeagueScores">Staff Score Entry</a></li>
+                                            <li><a href="/LeagueScores/Index">Staff Score Entry</a></li>
 
                                             <li></li>
                                         </ul>
@@ -823,13 +824,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                             
 
-                            <a href="/SiteMap">Site Map</a><br>
+                            <a href="/SiteMap/Index">Site Map</a><br>
 
                             <a href="http://www.i9sa.org">Non-Profit 501(c)3</a><br>
                             <a href="/FooterLinks/PrivacyPolicy">Privacy Policy</a> | <a href="/FooterLinks/TermsOfUse">Terms of Use</a> <br>
                             <a href="/FooterLinks/ECommerceTermsAndConditions">E-Commerce Terms and Conditions</a> <br>
 
-                            <br><a href="/LeagueScores">Staff Score Entry</a> <br>
+                            <br><a href="/LeagueScores/Index">Staff Score Entry</a> <br>
 
                         </div>
                         <br>
@@ -863,6 +864,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         //]]>
     </script>
     <!-- End SessionCam -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
