@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolgames.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529213033id_/http%3A//www.carolgames.com/article/get_content/915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolgames.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109025453id_/http%3A//www.carolgames.com/article/get_content/915) for the most accurate reproduction.*
 
 # Sexy Three Kingdoms Official Website - 2016 most popular browser game | Free Online Games
 
