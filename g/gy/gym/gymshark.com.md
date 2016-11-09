@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127200601id_/http%3A//www.gymshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gymshark.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109180458id_/https%3A//www.gymshark.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Gymshark
 
-## What Information We Collect
+## WHAT INFORMATION WE COLLECT
 
-### **We do not store credit card**   **details nor do we share customer details with any 3rd parties**
+### WE DO NOT STORE CREDIT CARD DETAILS NOR DO WE SHARE CUSTOMER DETAILS WITH ANY 3RD PARTIES
 
  The information we collect via this website may include:
 
@@ -16,7 +16,7 @@
 
 4\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers). 
 
-## What We Do With Your Information
+## WHAT WE DO WITH YOUR INFORMATION
 
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:-
 
@@ -29,7 +29,7 @@ We may use third parties to carry out certain activities, such as processing and
 
 We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below. 
 
-## Your Rights
+## YOUR RIGHTS
 
 1\. You can ask us to update your personal information by emailing precise details of your request to us [here](http://support.gymshark.com/). Please ensure you type "update" in the subject line of your email.
 
@@ -42,14 +42,9 @@ Alternatively, you can post your request to the address in (3) below.
 
 3\. You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address:
 
-Gymshark
-
-Unit F2-4 Sapphire Court,
-
-George Road,
-
-Bromsgrove,
-
-Worcestershire,
-
+Gymshark  
+Unit F2-4 Sapphire Court,   
+George Road,   
+Bromsgrove,   
+Worcestershire,   
 B60 3ET
