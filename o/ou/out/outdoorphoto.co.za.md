@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphoto.co.za privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519102604id_/https%3A//www.outdoorphoto.co.za/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphoto.co.za privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109195959id_/https%3A//www.outdoorphoto.co.za/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoorphoto
 
@@ -25,3 +25,39 @@ By E-Mail: info@outdoorphoto.co.za
 By Phone: +27(0)12 348 3693
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+We are currently awaiting stock of this item and it may be back in stock soon. Send us your contact details and we'll contact you right away with an update on availability.
+
+**Please Note:** Due to the item being out of stock, we cannot guarantee availability or price. All prices are subject to change without notice.
+
+Please complete all fields
+
+Name & Surname:
+
+Contact Number:
+
+Email address
+
+Quantity
+
+Thank you for showing interest in this product. One of our Sales Consultants will be assigned to your enquiry right away!
+
+To request a rental product simply fill in and submit the form below:
+
+Name & Surname:
+
+Contact Number:
+
+Email address
+
+ID Number / Passport Number
+
+Requested Collection Date
+
+Requested Return Date
+
+Additional Info
+
+Quantity
+
+Thank you for submitting a rental request. One of our Consultants will be assigned to your request in order to verify availability.
