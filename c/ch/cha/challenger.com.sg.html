@@ -1,549 +1,562 @@
-<!--The following is the downloaded HTML source of the challenger.com.sg privacy policy that was archived on 2016-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310072218id_/http%3A//www.challenger.com.sg/products/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the challenger.com.sg privacy policy that was archived on 2016-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161109174142id_/https%3A//www.challenger.com.sg/products/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:og="//ogp.me/ns#"><head>
-<meta charset="UTF-8">
-<title>Challenger Singapore</title>
-<link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
-
-<link rel="stylesheet" href="http://www.challenger.com.sg/assets/css/reveal.css"> 
-<link rel="stylesheet" href="http://www.challenger.com.sg/assets/css/styles.css">
-<link rel="stylesheet" href="http://www.challenger.com.sg/assets/css/skin.css">
-<link rel="icon" href="http://www.challenger.com.sg/assets/img/Favicon.gif" type="image/gif">
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://www.challenger.com.sg/assets/js/jquery-1.9.1.min.js"></script>
-<!-- <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script> -->
-<script src="http://www.challenger.com.sg/assets/js/jquery.slides.min.js"></script>
-<script src="http://www.challenger.com.sg/assets/js/jquery.jcarousel.min.js"></script>
-<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="http://www.challenger.com.sg/assets/js/jquery.reveal.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-    $('#mycarousel').jcarousel({
-        // Configuration goes here
-        animation:"slow"
-    });
-    $('#max-purchase-pdts').jcarousel();
-});
-
-$(function() {
-    $("#mycarousel li img").click(function() {
-    	if($(this).attr("class")=='video'){
-    		$(".modal-product-image iframe").attr("src", '//www.youtube.com/embed/MA-8tdouNJ0');
-    		$(".modal-product-image iframe").show();
-    		$(".modal-product-image img").hide();
-    	}
-    	else {
-    		$(".modal-product-image iframe").hide();
-    		$(".modal-product-image img").show();
-    		$(".modal-product-image img").attr("src", $(this).attr("src"));
-    	}
-})
-    });
-
-</script>
-<script>
-$(document).ready(function(){	
-    $('#bottom-nav').hide();
-	$('#plusminus').click(function() {
-		$(this).find('img').toggle();
-		$('#bottom-nav').slideToggle('slow');
-		return false;
-	});
-});
-</script>
-<script>
-	// $(document).ready(function(){	
-	//     $('#cart-delivery-details').hide();
-	// 	$('#plusminusdelivery').click(function() {
-	// 		$(this).find('img').toggle();
-	// 		$('#cart-delivery-details').slideToggle('slow');
-	// 		return false;
-	// 	});
-	// });
-</script>
-<script type="text/javascript">
-$(document).ready(function () {
-
-$('.targetitem').mouseover(function()
-{
-	$('#signin_wrap').show();
-	//$('#signin_wrap').css('border','1px solid red');
-});
-
-$('.targetitem').mouseout(function(){
-	$('#signin_wrap').hide();
-});
-
-$('.targetitem2').mouseover(function()
-{
-	$('#signin_wrap_cart').show();
-	//$('#signin_wrap').css('border','1px solid red');
-});
-
-$('.targetitem2').mouseout(function(){
-	$('#signin_wrap_cart').hide();
-});
-
-$('.targetitem3').mouseover(function()
-{
-	$('#signin_wrap_special').show();
-	//$('#signin_wrap').css('border','1px solid red');
-});
-
-$('.targetitem3').mouseout(function(){
-	$('#signin_wrap_special').hide();
-});
-
-
-if($('.no_item').html() == '0')
-{
-	$('.no_item').parent().hide();
-}
-if($('.no_msg').html() == '0')
-{
-	$('.no_msg').parent().hide();
-}
-
-   setInterval(function() { $.ajax({
-          url: 'http://www.challenger.com.sg/products/count_cart',
-          method: 'POST',
-          data: {
-            action: 'check'
-            //val: $(this).attr("item_id"),
-          },
-          success: function(result) 
-          {
-          	var jsonData = $.parseJSON(result);
-          	$('.no_item').html(jsonData.count);
-      	    if($('.no_item').html() == '0')
-		    {
-		    	$('.no_item').parent().hide();
-		    }
-		    else
-		    {
-		    	$('.no_item').parent().show();
-		    }
-		    if(parseInt($('.no_item').html()) > 9)
+<!DOCTYPE html><html><head>
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=7"></script><script type="text/javascript">
+			var BANNER_PATH = "https://www.challenger.com.sg/";
+			if(window.location.protocol != 'https:')
 			{
-				$('.no_item').parent().find('span').css('left','5px');
+				var httpURL = window.location.pathname + window.location.search;
+				var httpsURL = "https://www.challenger.com.sg" + httpURL;
+				window.location = httpsURL;
 			}
-			else
-			{
-				$('.no_item').parent().find('span').css('left','7px');
-			}
-          }
-        }) },300000);
 
-    setInterval(function() { $.ajax({
-          url: 'http://www.challenger.com.sg/products/count_msg',
-          method: 'POST',
-          data: {
-            action: 'check'
-            //val: $(this).attr("item_id"),
-          },
-          success: function(result) {
-          	var jsonData = $.parseJSON(result);
-          	$('.no_msg').html(jsonData.unread);
-          	if($('.no_msg').html() == '0')
-		    {
-		    	$('.no_msg').parent().hide();
+			if(window.location.origin == 'https://www.challenger.sg')
+			{
+				var httpURL = window.location.pathname + window.location.search;
+				var httpsURL = "https://www.challenger.com.sg" + httpURL;
+				window.location = httpsURL;
+			}
+
+			if(window.location.origin == 'http://www.challenger.sg')
+			{
+				var httpURL = window.location.pathname + window.location.search;
+				var httpsURL = "https://www.challenger.com.sg" + httpURL;
+				window.location = httpsURL;
+			}
+          	</script>
+
+		<style type="text/css">
+		.logo-img img{
+			margin-left: 1% !important;
+		}
+
+		.mobile-login {
+		    display: block !important;
+		}
+
+		@media only screen and (max-width: 500px) {
+		    .collapse-nav-bar {
+		        margin-top: 1% !important;
 		    }
-		    else
-		    {
-		    	$('no_msg').parent().show();
+
+		    .collapse-nav-bar-logo img{
+		        bottom: -10px !important;
 		    }
-		    if(parseInt($('.no_msg').html()) > 9)
+
+		    .mobile-login {
+		    	display: none !important;
+		    }
+
+		    .mobile-login2 {
+		    	display: block !important;
+		    }
+
+		    .extra {
+		    	display: none !important;
+		    }
+		}
+
+		/* The Modal (background) */
+		.modal {
+		    display: none; /* Hidden by default */
+		    position: fixed; /* Stay in place */
+		    z-index: 1; /* Sit on top */
+		    padding-top: 10%; /* Location of the box */
+		    left: 0;
+		    top: 0;
+		    width: 100%; /* Full width */
+		    height: 100%; /* Full height */
+		    overflow: auto; /* Enable scroll if needed */
+		    background-color: rgb(0,0,0); /* Fallback color */
+		    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+		}
+
+		/* Modal Content */
+		.modal-content {
+		    /*background-color: #fefefe;*/
+		    background-color: #F8F8F8;
+		    margin: auto;
+		    padding: 20px;
+		    border: 1px solid #888;
+		    width: 50%;
+		}
+
+		.modal-error p
+		{
+		    color: #FF0000 !important;
+		}
+
+		/* The Close Button */
+		.close {
+		    color: #aaaaaa;
+		    float: right;
+		    font-size: 28px;
+		    font-weight: bold;
+		}
+
+		.close:hover,
+		.close:focus {
+		    color: #000;
+		    text-decoration: none;
+		    cursor: pointer;
+		}
+		</style>
+
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<title>Challenger Technologies Limited</title>
+		<meta name="keywords" content="HTML5 Template">
+		<meta name="description" content="Challenger Technologies Limited">
+		<meta name="author" content="challenger.sg">
+
+		<!-- Mobile Metas -->
+		<!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+		<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+
+		<!-- Web Fonts  -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/bootstrap/bootstrap.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/bootstrap/bootstrap.min.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/fontawesome/css/font-awesome.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/owlcarousel/owl.carousel.min.css" media="screen">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/owlcarousel/owl.theme.default.min.css" media="screen">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/magnific-popup/magnific-popup.css" media="screen">
+
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/theme.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/theme-elements.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/theme-blog.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/theme-shop.css">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/theme-animate.css">
+
+		<!-- Current Page CSS -->
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/rs-plugin/css/settings.css" media="screen">
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/vendor/circle-flip-slideshow/css/component.css" media="screen">
+
+		<!-- Skin CSS -->
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/skins/default.css">
+
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="https://www.challenger.com.sg/assets/css/custom.css">
+
+		<!-- Head Libs -->
+		<script src="https://www.challenger.com.sg/assets/vendor/modernizr/modernizr.js"></script>
+
+		<script src="https://www.challenger.com.sg/assets/js/md5.min.js"></script>
+
+		<script src="https://www.challenger.com.sg/assets/js/crypt.js"></script>
+
+		<!--[if IE]>
+			<link rel="stylesheet" href="css/ie.css">
+		<![endif]-->
+
+		<!--[if lte IE 8]>
+			<script src="vendor/respond/respond.js"></script>
+			<script src="vendor/excanvas/excanvas.js"></script>
+		<![endif]-->
+
+		<script type="text/javascript">
+			function validateForm() 
 			{
-				$('.no_msg').parent().find('span').css('left','5px');
+				if(document.getElementById('agree').checked){
+					return true; 
+				}else{
+					modal2.style.display = "block";
+					//alert('Please check the agreement.');
+					return false;
+				}
 			}
-			else
+
+			function loginForm() 
 			{
-				$('.no_msg').parent().find('span').css('left','7px');
+				$('#username-group').removeClass('has-error');
+  				$('#username-group .help-block').empty();
+  				$('#password-group').removeClass('has-error');
+  				$('#password-group .help-block').empty();
+  				$('#messages').removeClass('alert alert-success').empty();
+
+  				var str = document.getElementById("username").value;
+                var encodedStr = encodeURIComponent(enc(str));
+
+  				var str2 = document.getElementById("password").value;
+                var encodedStr2 = encodeURIComponent(enc(str2));
+
+				var dataString = 'log=' + encodedStr + '||' + encodedStr2;
+
+				if(!str.trim() && !str2.trim())
+				{
+					$('#username-group').addClass('has-error');
+					$('#username-group .help-block').html('The NRIC/Passport/FIN field is required.');
+					$('#password-group').addClass('has-error');
+					$('#password-group .help-block').html('The Password field is required.');
+				}
+				else if(!str.trim())
+				{
+					$('#username-group').addClass('has-error');
+					$('#username-group .help-block').html('The NRIC/Passport/FIN field is required.');
+				}
+				else if(!str2.trim())
+				{
+					$('#password-group').addClass('has-error');
+					$('#password-group .help-block').html('The Password field is required.');
+				}
+				else
+				{
+					// AJAX code to submit form.
+					$.ajax(
+					{
+						type: "POST",
+						url: window.location.origin + "/login/login_validation",
+						//url: window.location.origin + "/ChallengerNew/" + "login/login_validation",
+						data: dataString,
+						cache: false,
+						success: function(data) 
+						{
+							if(data.trim() == "myprofile/membership")
+							{
+								window.parent.location.href= window.location.origin + "/" + data;
+								//window.parent.location.href= window.location.origin + "/ChallengerNew/" + data;
+							}
+							else if(data.trim() == "products/index1")
+							{
+								window.parent.location.href= window.location.origin;
+								//window.parent.location.href= window.location.origin + "/ChallengerNew/";
+							}
+							else if(data.indexOf("directpage_") !=-1)
+							{
+								var fullData = data;
+								var res = fullData.split("directpage_");
+								window.parent.location.href= window.location.origin + "/" + res[1];
+								//window.parent.location.href= window.location.origin + "/ChallengerNew/" + res[1];
+							}
+							else
+							{
+								$('#messages').addClass('alert alert-danger').append('<p>' + data + '</p>');
+							}
+						}
+					});
+				}
+
+				event.preventDefault();
+				return false;
 			}
-          }
-        }) },300000);
-});     
 
-// $(document).ready(function(){
-// var str=location.href.toLowerCase();
-// $("#signin-dropdown li a").each(function() {
-// if (str.indexOf(this.href.toLowerCase()) > -1) {
-//  //$("li.highlight-nav").removeClass("highlight-nav");
-// $(this).parent().addClass("highlight-nav");
-// }
-//  });
-//  })
+			function fogetPwd() 
+			{
+				//Remove error and success message
+				$('#email-group').removeClass('has-error');
+  				$('#email-group .help-block').empty();
+  				$('#messagesEmail').removeClass('alert alert-success').empty();
 
-</script>
- <script>
-$(function() {
-$( "#from" ).datepicker({
-defaultDate: "+1w",
-changeMonth: true,
-numberOfMonths: 3,
-onClose: function( selectedDate ) {
-$( "#to" ).datepicker( "option", "minDate", selectedDate );
-}
-});
-$( "#to" ).datepicker({
-defaultDate: "+1w",
-changeMonth: true,
-numberOfMonths: 3,
-onClose: function( selectedDate ) {
-$( "#from" ).datepicker( "option", "maxDate", selectedDate );
-}
-});
-});
+				var email = document.getElementById("email").value;
+				var dataString = 'email=' + email;
 
-$(function(){
-	$("#categorytelevision").on("click", function(event){
-		event.preventDefault();
-		togglemenu('#browsetelevision');
-		$(this).toggleClass("menuhead");
-	    $("#television").find('img').toggle();
-	});
-	
-	$("#categoryaudio").on("click", function(event){
-		event.preventDefault();
-		togglemenu('#browseaudio');
-		$(this).toggleClass("menuhead");
-		 $("#audio").find('img').toggle();
-	});
-	$("#categorymediaplayer").on("click", function(event){
-		event.preventDefault();
-		togglemenu('#browsemediaplayer');
-		$(this).toggleClass("menuhead");
-		 $("#mediaplayer").find('img').toggle();
-	});
-	$("#categorysurveillance").on("click", function(event){
-		event.preventDefault();
-		togglemenu('#browsesurveillance');
-		$(this).toggleClass("menuhead");
-		 $("#surveillance").find('img').toggle();
-	});
-});
-function togglemenu(elem){
-	$(elem).slideToggle();
-}
-</script>
- <script>
-$(function() {
-$( "#slider-range" ).slider({
-range: true,
-min: 0,
-max: 6000,
-values: [ 75, 300 ],
-slide: function( event, ui ) {
-$( "#amount" ).val( "$" + ui.values[ 0 ] + " - $" + ui.values[ 1 ] );
-}
-});
-$( "#amount" ).val( "$" + $( "#slider-range" ).slider( "values", 0 ) +
-" - $" + $( "#slider-range" ).slider( "values", 1 ) );
-});
-</script>
-<!--[if (gte IE 6)&(lte IE 8)]>
-  <script type="text/javascript" src="http://www.challenger.com.sg/assets/js/selectivizr-min.js"></script>
-<![endif]--> 
-	<style>
-		/*.targetitem:hover #signin_wrap {
-			display: block;
-		}*/
-	</style>
+				// AJAX code to submit form.
+				$.ajax(
+				{
+					type: "POST",
+					url: window.location.origin + "/" + "login/submit_email",
+					//url: window.location.origin + "/ChallengerNew/" + "login/submit_email",
+					data: dataString,
+					cache: false,
+					success: function(data) 
+					{
+						if(data.trim() == "empty")
+						{
+							$('#email-group').addClass('has-error');
+					     	$('#email-group .help-block').html('Please provide your e-mail address.');
+						}
+						else if(data.trim() == "Invalid email address.")
+						{
+							$('#messagesEmail').addClass('alert alert-danger').append('<p>' + data + '</p>');
+						}
+						else if(data.trim() == "Y")
+						{
+							//if validation is good add success message
+        					$('#messagesEmail').addClass('alert alert-success').append('<p>A link to reset your password has been sent to your email address, please check your inbox to reset password.</p>');
+						}
+					}
+				});
+				event.preventDefault();
+				return false;
+			}
+		</script>
+
+	</head>
+	<body>
+		<div class="body">
+			<header id="header">
+				<!--<div class="container" style="height:10%">-->
+				<div class="container">
+												<div class="logo collapse-nav-bar-logo">
+								<a href="https://www.challenger.com.sg/">
+									<img alt="logo" width="260" height="85" data-sticky-width="122" data-sticky-height="40" src="https://www.challenger.com.sg/assets/img/WEB_LOGO_TOP_260x85.png">
+								</a>
+							</div>
+										
+					<div class="search">
+						<form id="hachiForm" action="https://www.hachi.tech/" method="post">
+							<div class="input-group">
+								<button type="submit" class="btn btn-primary" value="selectColor"><i class="fa fa-shopping-cart"></i> Shop at Hachi.tech</button>
+								<!--<input type="text" class="form-control search" name="q" id="q" placeholder="Search..." required>
+								<span class="input-group-btn">
+									<button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+								</span>-->
+							</div>
+						</form>
+					</div>
+					<!--<ul class="social-icons">
+						<li class="facebook"><a href="http://www.facebook.com/ChallengerSingapore" target="_blank" title="Facebook">Facebook</a></li>
+						<li class="twitter"><a href="http://www.twitter.com/challengersg" target="_blank" title="Twitter">Twitter</a></li>
+					</ul>-->
+
+												<nav>
+								<ul class="nav nav-pills nav-top">
+									<li>
+										<a style="color: black;" href="https://www.challenger.com.sg/login/signup"><i class="fa fa-sign-in"></i>Be a ValueClub Member</a>
+									</li>
+								</ul>
+							</nav>
+										<button class="btn btn-responsive-nav btn-inverse collapse-nav-bar" data-toggle="collapse" data-target=".nav-main-collapse">
+						<i class="fa fa-bars"></i>
+					</button>
+				</div>
+				<div class="navbar-collapse nav-main-collapse collapse">
+					<div class="container">
+						<nav class="nav-main mega-menu">
+							<ul class="nav nav-pills nav-main" id="mainMenu">
+								<!-- Logged in member account section for Mobile Site -->
+								
+								<!-- Stores -->
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="#">
+										Stores
+										<i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://www.challenger.com.sg/store_locator?storeType=Challenger">Challenger</a></li>
+										<li><a href="https://www.challenger.com.sg/store_locator?storeType=Valore">Valore</a></li>
+										<li><a href="https://www.challenger.com.sg/store_locator?storeType=Musica">Musica</a></li>
+									</ul>
+								</li>
+
+								<!-- Calendar - roadshows -->
+								<li>
+									<a href="https://www.challenger.com.sg/roadshows">
+										Events
+									</a>
+								</li>
+
+								<!-- Promotions -->
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="#">
+										Promotions
+										<i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://www.challenger.com.sg/promotions/trends">Trends</a></li>
+										<li><a href="https://www.challenger.com.sg/brandcatalogue">Brand Catalogue</a></li>
+										<li><a href="https://www.challenger.com.sg/promotions/promotion/instore">In Store Specials</a></li>
+									</ul>
+								</li>
+
+								<!-- Valueclub-->
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="#">
+										ValueClub
+										<i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://www.challenger.com.sg/promotions/membership">About ValueClub</a></li>
+										<!--<li><a href="https://www.challenger.com.sg/promotions/associate">Associate</a></li>-->
+										<li><a href="https://www.challenger.com.sg/promotions/memberPromo">Sign Up Promotions</a></li>
+									</ul>
+								</li>
+
+								<!--<li>
+									<a href="">
+										Valueclub
+									</a>
+								</li>-->
+
+								<!-- Top Partners-->
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="#">
+										Retail Concepts
+										<i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://www.challenger.com.sg/partners/news/PRS">PRS</a></li><li><a href="https://www.challenger.com.sg/partners/news/Musica">Musica</a></li><li><a href="https://www.challenger.com.sg/partners/news/Valore">Valore</a></li><li><a href="https://www.challenger.com.sg/partners/news/Game On!">Game On!</a></li><li><a href="https://www.challenger.com.sg/partners/news/Android Zone">Android Zone</a></li>									</ul>
+								</li>
+
+								<!-- About Us -->
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="#">
+										About Us
+										<i class="fa fa-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://www.challenger.com.sg/products/contactus?value=21">About Us</a></li><li><a href="https://www.challenger.com.sg/products/contactus?value=22">Corporate Sales</a></li><li><a href="https://www.challenger.com.sg/products/contactus?value=23">Star Shield</a></li>										 <li><a href="https://www.challenger.com.sg/career">Career</a></li>
+										 <li><a href="https://support.challenger.sg/hc/en-us">Help Centre</a></li>
+									</ul>
+								</li>
+								
+								<!-- Login Form Section -->
+																		<li class="dropdown mega-menu-item mega-menu-signin signin mobile-login" id="headerAccount" style="display:none;">
+											<a class="dropdown-toggle">
+												<i class="fa fa-user"></i> Log In Here
+												<i class="fa fa-angle-down"></i>
+											</a>
+											<ul class="dropdown-menu">
+												<li>
+													<div class="mega-menu-content">
+														<div class="row">
+															<div class="col-md-12">
+																<div class="signin-form">
+																	<span class="mega-menu-sub-title">Log in here</span>
+																	<p>Log into your account for access to convenient features and quick checkout.</p>
+
+																	<!-- SHOW SUCCESS MESSAGES -->
+  																	<div id="messages"></div>
+
+																	<form id="loginForm" method="post">
+																		<div class="row">
+																			<div class="form-group">
+																				<div id="username-group" class="col-md-12">
+																					<label for="username">NRIC | Passport | FIN</label>
+																					<input type="text" name="username" id="username" value="" class="form-control input-lg">
+																					<span class="help-block"></span>
+																				</div>
+																			</div>
+																		</div>
+																		<div class="row">
+																			<div id="password-group" class="form-group">
+																				<div class="col-md-12">
+																					<a class="pull-right" id="headerRecover" href="#">Forgot your password?</a>
+																					<label for="usernpasswordame">Password</label>
+																					<input type="password" name="password" id="password" value="" class="form-control input-lg">
+																					<span class="help-block"></span>
+																				</div>
+																			</div>
+																		</div>
+																		<div class="row">
+																			<div class="col-md-6">
+																				<!--<span class="remember-box checkbox">
+																					<label for="rememberme">
+																						<input type="checkbox" id="rememberme" name="rememberme">Remember Me
+																					</label>
+																				</span>-->
+																			</div>
+																			<div class="col-md-6">
+																				<input onclick="loginForm()" type="submit" value="Log In" class="btn btn-primary pull-right push-bottom" data-loading-text="Loading...">
+																			</div>
+																		</div>
+																	</form>
+
+																	<p class="sign-up-info">Don't have an account yet? <a href="https://www.challenger.com.sg/login/signup">Sign Up Here</a></p>
+
+																</div>
 
 
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '307341909438775']);
+																<div class="recover-form">
+																	<span class="mega-menu-sub-title">Reset My Password</span>
+																	<p>Complete the form below to receive an email to reset your password.</p>
+
+																	<!-- SHOW SUCCESS MESSAGES -->
+  																	<div id="messagesEmail"></div>
+
+																	<form id="forgotpwdForm">
+																		<div class="row">
+																			<div id="email-group" class="form-group">
+																				<div class="col-md-12">
+																					<label>E-mail Address</label>
+																					<input type="text" name="email" id="email" value="" class="form-control input-lg">
+																					<span class="help-block"></span>
+																				</div>
+																			</div>
+																		</div>
+																		<div class="row">
+																			<div class="col-md-12">
+																				<input type="submit" onclick="fogetPwd()" value="Submit" class="btn btn-primary pull-right push-bottom" data-loading-text="Loading...">
+																			</div>
+																		</div>
+																	</form>
+
+																	<p class="log-in-info">Already have an account? <a href="">Log In</a></p>
+																</div>
+
+															</div>
+														</div>
+													</div>
+												</li>
+											</ul>
+										</li>
+
+										<!-- Mobile Login Link -->
+										<li class="dropdown mega-menu-item mega-menu-signin signin mobile-login2" id="headerAccount" style="display:none;">
+											<a class="dropdown-toggle" href="https://www.challenger.com.sg/login">
+												<i class="fa fa-user"></i> Log In Here
+											</a>
+										</li>
+															</ul>
+						</nav>
+					</div>
+				</div>
+			</header>
+
+		
+	<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=7';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
+// ]]>
 </script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=307341909438775&amp;ev=PixelInitialized" /></noscript>
-	
-</head>
-<body>
 
-	<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<br>
 
-<div id="header" class="container">
-<a href="http://www.challenger.com.sg/"><img src="http://www.challenger.com.sg/assets/img/logo.png" alt=""></a>
-<div id="control">
-	<div id="ctop">
-		<ul style="height:29px;">
-						 <li>
-		<div class="fb-like" data-href="https://www.facebook.com/ChallengerSingapore" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-	 </li>
-	 	
-	<!--<li><a href=""><img src="http://www.challenger.com.sg/assets/img/chat.png" alt="" title="Inbox"></a></li>-->
-
-	<!-- <li class="targetitem">
-		<a class="loggedin">
-			My Account |
-		</a>
-	<div id="signin_wrap">
-		<ul id="signin-dropdown">
-			<li><a href="http://www.challenger.com.sg/myprofile/profile">My Profile</a></li>
-			<li><a href="http://www.challenger.com.sg/products/compare">My Comparisons</a></li>
-			<li><a href="http://www.challenger.com.sg/mytransaction/history_owner">My Transactions</a></li>
-			<li><a href="http://www.challenger.com.sg/products/favourite">My Favourites</a></li>
-		</ul>
-	</div>
-	</li> -->
-	<li class="account_trig" onclick="return true">
-		<a>
-			My Account |
-		</a>
-		<div id="account_dp">
-			<ul style="margin-right:7px;">
-				<li><a href="http://www.challenger.com.sg/myprofile/profile">My Profile</a></li>
-				<li><a href="http://www.challenger.com.sg/products/compare">My Comparisons</a></li>
-				<li><a href="http://www.challenger.com.sg/mytransaction/history_owner">My Transactions</a></li>
-				<li><a href="http://www.challenger.com.sg/products/favourite">My Favourites</a></li>
-			</ul>
-		</div>
-	</li>
-	<li class="cart_trig" onclick="return true">
-		<a>
-			My Cart  
-		</a>
-		<div id="cart_dp">
-			<ul style="margin-right:7px;">
-				<li><a href="http://www.challenger.com.sg/products/cart">My Cart</a></li>
-			</ul>
-		</div>
-	</li>	
-<!-- 	<li class="targetitem2">
-		<a href="http://www.challenger.com.sg/products/cart">
-			My Cart
-						</a>
-		<div id="signin_wrap_cart">
-			<ul id="signin-dropdown_cart">
-				<li><a href="http://www.challenger.com.sg/products/cart">My Cart</a></li>
-			</ul>
-		</div>
-	</li> -->
-	<li>
-		<form action="http://www.challenger.com.sg/products/product_Search" method="GET">
-		<!--<input type="text" id="keyword" name="identity" placeholder="Search" >-->
-		<!-- <div class="head_search_field">
-		<input type="text" id="keyword" name="identity" placeholder="Search"><button type="submit" style="text-align:center; padding: 1px 0 0 0;"><img src="http://www.challenger.com.sg/assets/img/icon-search.png" alt="Search" /></button>
-		</div>		 -->
-		</form>
-	</li>
-	<!-- <li class="account_trig">
-		<a>
-			My Account |
-		</a>
-		<div id="account_dp">
-			<ul style="margin-right:7px;">
-				<li><a href="http://www.challenger.com.sg/myprofile/profile">My Profile</a></li>
-				<li><a href="http://www.challenger.com.sg/products/compare">My Comparisons</a></li>
-				<li><a href="http://www.challenger.com.sg/mytransaction/history_owner">My Transactions</a></li>
-				<li><a href="http://www.challenger.com.sg/products/favourite">My Favourites</a></li>
-			</ul>
-		</div>
-	</li>	 -->
-</ul>
-</div>
-	<div class="login-info">
-		<!--<p>Existing Member? <span class="login-bold"><a href="">Log in</a></span> here</p>
-		<p >Not a member? <span class="login-bold"><a href="">Sign up</a></span> here</p>-->
-		<div>
-		<ul class="top_img">
-			<li>
-				<a>
-					<img src="http://www.challenger.com.sg/assets/img/btn-signuphere2.png" alt="">
-				</a>
-				<ul class="sub_menu_1">
-					<li style="margin-bottom:10px;"><a href="https://www.challenger.com.sg/login/signup">- Member</a></li>
-					<li><a href="https://www.challenger.com.sg/guest_login/signup">- Guest</a></li>
-					<!-- <li><a href="">Item 3</a></li> -->
+<section class="page-top" style="padding:18px 0 5px;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<ul class="breadcrumb">
+					<li style="color:#0590DF;">Home</li>
 				</ul>
-			</li>
-			<li>
-				<a>
-					<img src="http://www.challenger.com.sg/assets/img/btn-memberslogin2.png" alt="">
-				</a>
-				<ul class="sub_menu_1">
-					<li style="margin-bottom:10px;"><a href="https://www.challenger.com.sg/login">- Member</a></li>
-					<li><a href="https://www.challenger.com.sg/guest_login">- Guest</a></li>
-					<!-- <li><a href="">Item 3</a></li> -->
-				</ul>
-			</li>
-		</ul>
-		</div>		
-	</div>	
-	</div>
-	<!-- Start of new navigation -->
-
-	<div id="nav">
-		<div class="top">
-			<div class="buy" style="width:172px;">
-				<img src="http://www.challenger.com.sg/assets/img/bag-icon.png" alt="">
-				<span class="text"><a href="http://www.challenger.com.sg/shop">BUY NOW</a></span>
 			</div>
-			<div class="search" style="width:224px;">
-				<form action="http://www.challenger.com.sg/products/product_Search" method="GET">
-					<input type="text" class="search_bar" name="identity" placeholder="Search for a product">
-					<input type="image" class="icon-mag" src="http://www.challenger.com.sg/assets/img/icon-mag.png">
-					<!-- <button type="submit" style="text-align:center; padding: 0px 0 0 0;">
-						<img class="icon-mag" src="http://www.challenger.com.sg/assets/img/icon-mag.png" alt="">
-					</button> -->
-				</form>
-			</div>
-			<ul class="top-items">
-				<li style="width:97px;" onclick="return true">VALUECLUB
-					<ul class="submenu">
-						<li><a href="http://www.challenger.com.sg/promotions/membership?cate=val">Overview</a></li>	
-						<!-- <li><a href="http://www.challenger.com.sg/promotions/membership?cate=par">Partnerships</a></li>	 -->
-						<!-- <li><a href="http://www.challenger.com.sg/promotions/membership?cate=asc">Associate</a></li>			 -->
-					</ul>
-				</li>
-				<li style="width:171px;" onclick="return true">EVENTS &amp; PROMOTIONS
-					<ul class="submenu">
-						<li><a href="http://www.challenger.com.sg/promotions/promotion/instore">Promotions</a></li>		
-						<li><a href="http://www.challenger.com.sg/roadshows">Events</a></li>
-						<li><a href="http://www.challenger.com.sg/brandcatalogue">Brand Catalogue</a></li>
-					</ul>
-				</li>
-				<li style="width:146px;" onclick="return true">TOP PARTNERS
-					<ul class="submenu">
-						<li><a href="http://www.challenger.com.sg/partners/news/Valore">Valore</a></li><li><a href="http://www.challenger.com.sg/partners/news/Musica">Musica</a></li><li><a href="http://www.challenger.com.sg/partners/news/PRS">PRS</a></li><li><a href="http://www.challenger.com.sg/partners/news/Acer">Acer</a></li><li><a href="http://www.challenger.com.sg/partners/news/Apple">Apple</a></li><li><a href="http://www.challenger.com.sg/partners/news/ASUS">ASUS</a></li><li><a href="http://www.challenger.com.sg/partners/news/Canon">Canon</a></li><li><a href="http://www.challenger.com.sg/partners/news/HP">HP</a></li><li><a href="http://www.challenger.com.sg/partners/news/Lenovo">Lenovo</a></li><li><a href="http://www.challenger.com.sg/partners/news/Microsoft">Microsoft</a></li><li><a href="http://www.challenger.com.sg/partners/news/Samsung">Samsung</a></li><li><a href="http://www.challenger.com.sg/partners/news/Payment Partners">Payment Partners</a></li>					</ul>
-				</li>
-				<li onclick="return true" style="width:148px;margin-right:0px;text-align:left;padding-left:14px;">CONTACT US
-					<ul class="submenu" style="">
-						<li><a href="http://www.challenger.com.sg/products/aboutus">About Us</a></li>
-						<li><a href="http://www.challenger.com.sg/corporate_sales">Corporate Sales</a></li>
-						<li><a href="http://www.challenger.com.sg/store_locator">Store Locations</a></li>
-						<li><a href="http://www.challenger.com.sg/products/category/10">PC Clinic</a></li>
-						<li><a href="http://www.challenger.com.sg/career">Career</a></li>
-						<li><a href="https://www.challenger.com.sg/feedback/feedback_new">Feedback &amp; Compliments</a></li>
-						<li><a href="http://www.challenger.com.sg/products/purchasedelivery">FAQs</a></li>
-					</ul>
-				</li>
-			</ul>
 		</div>
-		<div class="bottom">
-			<ul class="bottom-items clearfix">
-				<li><a href="http://www.challenger.com.sg/products/category/7">Audio</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/8">Accessories</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/3">Cameras</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/2">Computers</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/13">Fitness</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/9">Gaming</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/11">Home Appliances</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/15">LED</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/12">Navigation</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/6">Networking</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/1">Phones</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/5">Printing</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/4">Storage</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/0">Tablets</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/14">Toys</a></li>
-				<li><a href="http://www.challenger.com.sg/products/product_Search?identity=Valore">Valore</a></li>
-				<li><a href="http://www.challenger.com.sg/products/new_release">New Releases</a></li>
-				<li><a href="http://www.challenger.com.sg/products/promotion">Specials</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/17">Demo Sets</a></li>
-				<li><a href="http://www.challenger.com.sg/products/purchasedelivery">FAQs</a></li>
-
-				<li style="color:red;"><a href="http://www.challenger.com.sg/products/clearance">Clearance</a></li>
-				
-				
-				
-			</ul>
+		<div class="row">
+			<div class="col-md-12">
+				<h1>Privacy Policy</h1>
+			</div>
 		</div>
 	</div>
+</section>
 
-	<!-- End of new navigation -->
-
-	<!-- Start of navigation -->
-<!-- 	<ul id="nav" class="clearfix"> 
-		<li class="topmenu"><span class="divider-left" style="border: none;" onclick="return true">SHOP ONLINE</span>
-			<ul class="submenu">
-				<li><a href="http://www.challenger.com.sg/products/category/7">Audio</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/8">Accessories</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/3">Cameras</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/2">Computers</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/13">Fitness</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/9">Gaming</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/11">Home Appliances</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/12">Navigation</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/6">Networking</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/1">Phones</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/5">Printing</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/4">Storage</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/0">Tablets</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/14">Toys</a></li>
-			</ul>
-		</li>
-
-		<li class="topmenu"><span class="divider" onclick="return true">VALUECLUB</span>
-			<ul class="submenu">
-				<li><a href="http://www.challenger.com.sg/promotions/membership?cate=val">Benefits</a></li>	
-				<li><a href="http://www.challenger.com.sg/promotions/membership?cate=par">Partnerships</a></li>	
-				<li><a href="http://www.challenger.com.sg/promotions/membership?cate=asc">Associate</a></li>			
-			</ul>
-		</li>
-
-		<li class="topmenu"><span class="divider" onclick="return true">EVENTS &amp; PROMOTIONS</span>
-			<ul class="submenu">
-				<li><a href="http://www.challenger.com.sg/promotions/promotion/instore">Promotions</a></li>		
-				<li><a href="http://www.challenger.com.sg/roadshows">Roadshows</a></li>
-				<li><a href="http://www.challenger.com.sg/brandcatalogue">Brand Catalogue</a></li>
-			</ul>
-		</li>
-		<li class="topmenu"><span class="divider" onclick="return true">BRANDS WE CARRY</span>
-			<ul class="submenu">
-				<li><a href="http://www.challenger.com.sg/partners/news/Valore">Valore</a></li><li><a href="http://www.challenger.com.sg/partners/news/Musica">Musica</a></li><li><a href="http://www.challenger.com.sg/partners/news/PRS">PRS</a></li><li><a href="http://www.challenger.com.sg/partners/news/Acer">Acer</a></li><li><a href="http://www.challenger.com.sg/partners/news/Apple">Apple</a></li><li><a href="http://www.challenger.com.sg/partners/news/ASUS">ASUS</a></li><li><a href="http://www.challenger.com.sg/partners/news/Canon">Canon</a></li><li><a href="http://www.challenger.com.sg/partners/news/HP">HP</a></li><li><a href="http://www.challenger.com.sg/partners/news/Lenovo">Lenovo</a></li><li><a href="http://www.challenger.com.sg/partners/news/Microsoft">Microsoft</a></li><li><a href="http://www.challenger.com.sg/partners/news/Samsung">Samsung</a></li><li><a href="http://www.challenger.com.sg/partners/news/Payment Partners">Payment Partners</a></li>			</ul>
-		</li>
-		<li class="topmenu"><span class="divider-right" onclick="return true">CONTACT US</span>
-			<ul class="submenu submenuch">
-				<li><a href="http://www.challenger.com.sg/products/aboutus">About Us</a></li>
-				<li><a href="http://www.challenger.com.sg/corporate_sales">Corporate Sales</a></li>
-				<li><a href="http://www.challenger.com.sg/store_locator">Store Locations</a></li>
-				<li><a href="http://www.challenger.com.sg/products/category/10">PC Clinic</a></li>
-				<li><a href="http://www.challenger.com.sg/career">Career</a></li>
-				<li><a href="https://www.challenger.com.sg/feedback/feedback_new">Feedback &amp; Compliments</a></li>
-				<li><a href="http://www.challenger.com.sg/products/purchasedelivery">Frequently Asked Questions</a></li>
-			</ul>
-		</li>
-	</ul> -->
-	<!-- End of navigation --> 	
-</div>
-
-<div class="container" style="">
-<style type="text/css">#trans-content {
-	line-height: 20px;
-}
-</style>
-<div class="container" id="newlayout_wrapper">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-12 center">
+					<br>
+					<h3>
+						Privacy Policy
+					</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="container" id="newlayout_wrapper">
 <div id="newlayout">
-<div class="hmenu clearfix">
-<ul>
-	<li><span class="left-side-link-selected">PRIVACY POLICIES</span></li>
-</ul>
-</div>
-
 <div class="main_content">
 <div id="trans-content">
-<h2 class="sidebarh2">Help&nbsp;us create a better Challenger shopping environment.</h2>
+<h2>Help&nbsp;us create a better Challenger shopping environment.</h2>
 &nbsp;
 
 <p>In order to create a better Challenger, we need your help. You can help by providing us with various kinds of information to help us serve you better, and ultimately improve Challenger for everyone. Below you'll find an explanation of some of the reasons we request information from you, as well as some details about how we obtain and use that information. Throughout this Privacy Policy, where we refer to your "personal information" means any information you provide to us about you. This includes your national registration identity card (NRIC) number, foreign identification number (FIN), passport number, name, postal address, email address and telephone number.</p>
@@ -551,7 +564,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <p>&nbsp;</p>
 &nbsp;
 
-<h2 class="sidebarh2">Where we collect your personal information:</h2>
+<h2>Where we collect your personal information:</h2>
 
 <p><br>
 <u>Customer relations </u><br>
@@ -566,7 +579,7 @@ Many web surfers are concerned about their privacy and the use of "cookies" on t
 <p><br>
 &nbsp;</p>
 
-<h2 class="sidebarh2">What we will do with your information:</h2>
+<h2>What we will do with your information:</h2>
 
 <p><br>
 <u>What you share with Challenger stays with Challenger.</u><br>
@@ -584,7 +597,7 @@ We'll make sure that we only send you messages that we think will be of interest
 <p><br>
 &nbsp;</p>
 
-<h2 class="sidebarh2">Storing your information and keeping it up to date:</h2>
+<h2>Storing your information and keeping it up to date:</h2>
 <br>
 <u>Out of sight, but never out of reach </u><br>
 When you share your personal information with Challenger, you will always have access to this information. Where you store a "Profile" on the website, you can amend the selected details stored in your account yourself. Alternatively, you can update, change or remove any personal contact information &amp; residential address at any time by calling, writing or emailing us using one of the options provided below.<br>
@@ -592,14 +605,12 @@ When you share your personal information with Challenger, you will always have a
 <u>Keeping it safe</u><br>
 We are committed to providing appropriate security controls to protect your personal information against foreseeable hazards. Making sure that your personal information is secure is very important to Challenger.<br>
 &nbsp;
-<h2 class="sidebarh2">&nbsp;</h2>
+<h2>&nbsp;</h2>
 
-<h2 class="sidebarh2">Change of address? Change of personal information? Let us know</h2>
+<h2>Change of address? Change of personal information? Let us know</h2>
 
 <p><br>
-If you would like us to update your personal information, remove your name from our mailing list, or if you have any questions about challenger's privacy policies or your personal information, please don't hesitate to contact us.<br>
-<br>
-You can contact us through our online contact form or email us at <a href="mailto:voice@challenger.sg" style="color:orange;" target="_top"><u style="color:orange;">voice@challenger.sg</u></a>.<br>
+If you would like us to update your personal information, remove your name from our mailing list, or if you have any questions about challenger's privacy policies or your personal information, please don't hesitate to contact us.&nbsp;You can contact us through our online request&nbsp;form <a href="https://challenger.zendesk.com/hc/en-us"><span>here</span></a>.<br>
 <br>
 Alternatively, you can also call Challenger Customer Service hotline at 6339 9008 or leave a voice message.<br>
 <br>
@@ -614,120 +625,158 @@ Occasionally, we may decide to change this Privacy Policy so we suggest that you
 </div>
 </div>
 </div>
-</div><script>
-		var winH = $(window).height();
-		var winW = $(window).width();
-		var popupHeight = $("#mymodal").height();
-		var popupWidth = $("#mymodal").width();
-
-		$("#mymodal").css({
-		"position": "absolute",
-		"top": 100,
-		"left": winW/2-popupWidth/2,
-		"z-index": 2000 
-		});
-
-		var popupHeight1 = $("#modal-added-to-cart").height();
-		var popupWidth1 = $("#modal-added-to-cart").width();
-
-		$("#modal-added-to-cart").css({
-		"position": "absolute",
-		"top": 100,
-		"left": winW/2-popupWidth/2,
-		"z-index": 2000 
-		});
-
-		var popupHeight1 = $("#redeem-modal").height();
-		var popupWidth1 = $("#redeem-modal").width();
-		var popupHeight = $("#redeem-modal").height();
-		var popupWidth = $("#redeem-modal").width();
-
-		$("#redeem-modal").css({
-		"position": "absolute",
-		"top": 100,
-		"left": winW/2-popupWidth/2,
-		"z-index": 2000 
-		});
-		
-		var popupHeight1 = $("#member_guest_login_wrapper").height();
-		var popupWidth1 = $("#member_guest_login_wrapper").width();
-		var popupHeight = $("#member_guest_login_wrapper").height();
-		var popupWidth = $("#member_guest_login_wrapper").width();
-
-		$("#member_guest_login_wrapper").css({
-		"position": "absolute",
-		"top": 100,
-		"left": winW/2-popupWidth/2,
-		"z-index": 2000 
-		});
-
-		var popupHeight1 = $("#guest_checkout").height();
-		var popupWidth1 = $("#guest_checkout").width();
-		var popupHeight = $("#guest_checkout").height();
-		var popupWidth = $("#guest_checkout").width();
-
-		$("#guest_checkout").css({
-		"position": "absolute",
-		"top": 100,
-		"left": winW/2-popupWidth/2,
-		"z-index": 2000 
-		});
-
-		var popupHeight1 = $("#member_guest_login_wrapper").height();
-		var popupWidth1 = $("#member_guest_login_wrapper").width();
-		var popupHeight = $("#member_guest_login_wrapper").height();
-		var popupWidth = $("#member_guest_login_wrapper").width();
-
-		$("#saleslocid").css({
-		"position": "absolute",
-		"top": winH/2,
-		"left": winW/2,
-		"z-index": 2000 
-		});
-
-	    var popupHeight1 = $("#do_survey_wrapper").height();
-		var popupWidth1 = $("#do_survey_wrapper").width();
-		var popupHeight = $("#do_survey_wrapper").height();
-		var popupWidth = $("#do_survey_wrapper").width();
-
-		$("#do_survey_wrapper").css({
-		"position": "absolute",
-		"top": 100,
-		"left": winW/2-popupWidth/2,
-		"z-index": 2000 
-		});
-
-
-	</script>
-	<div id="plusminus" class="container">
-			<!-- <img src="http://www.challenger.com.sg/assets/img/icon-show.png"> -->
-			<img src="http://www.challenger.com.sg/assets/img/icon-hide.png" style="display:none;">
+				</div>
+			</div>
 		</div>
-<div id="footer">
-	<div id="footercontent" class="container clearfix">
-		<div id="leftfooter">
-		<img src="http://www.challenger.com.sg/assets/img/logo2.png" alt="">
-		<span class="copyright" style="position:relative; bottom:9px;">© 2015 Challenger Technologies Limited. All rights reserved.</span>
-		</div>
-			<ul id="footernav">
-				<li><a href="http://www.challenger.com.sg/products/privacy">Privacy</a></li>
-				<li><a href="http://www.challenger.com.sg/products/online_sale_terms">Online Sale Terms</a></li>
-				<li><a href="http://www.challenger.com.sg/products/terms_and_conditions">Membership T&amp;C</a></li>
-				<li><a href="http://www.challenger.com.sg/products/sitemap">Sitemap</a></li>
-			</ul>
 	</div>
-</div>
+</div><style type="text/css">
+ul.list.icons li i {
+    color: #FFFFFF !important;
+    font-size: medium !important;
+}
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
- 
-  ga('create', 'UA-46084381-1', 'challenger.com.sg');
-  ga('send', 'pageview');
- 
-</script>
+.footer {
+    font-size: larger !important;
+}
 
+@media only screen and (max-width: 500px) {
+	.mobile-footer {
+		margin: 0;
+	    position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    margin-right: -50%;
+	    transform: translate(-50%, -50%);
+	}
+
+	.mobile-footer-copyright {
+		margin-top: 5% !important;
+	}
+}
+</style>
+			<footer class="short" id="footer">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<!--<h4>About Challenger</h4>-->
+							<span class="phone">About Challenger</span>
+							<p class="footer" align="justify">Founded in 1982, Challenger is a dynamic IT retailer based in Singapore. Well-known for its strong brand name, attractive ValueClub member privileges and strong partnerships with major global brands, you can now shop at almost 50 stores island-wide or 24/7 online at Hachi.tech.
+								<a href="https://www.challenger.com.sg/products/contactus?value=21" class="btn-flat btn-xs">View More <i class="fa fa-arrow-right"></i></a>
+							</p>
+						</div>
+						<div class="col-md-5 col-md-offset-1">
+							<span class="phone">Need Help?</span>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="col-md-6">
+										<ul class="list icons list-unstyled">
+											<li><i class="fa fa-phone"></i> <a class="footer" href="" style="text-decoration:none; pointer-events: none; cursor: default;">&nbsp; &nbsp;(+65) 6339 9008</a></li>
+											<li><i class="fa fa-envelope-o"></i> <a class="footer" href="https://support.challenger.sg/hc/en-us/requests/new?ticket_form_id=116597">&nbsp; Contact Us</a></li>
+										</ul>
+									</div>
+									<div class="col-md-6">
+										<ul class="list icons list-unstyled">
+											<li><i class="fa fa-question"></i> <a class="footer" href="https://support.challenger.sg/hc/en-us">&nbsp; &nbsp; Help Centre</a></li>
+											<li><i class="fa fa-facebook"></i> <a class="footer" href="https://www.facebook.com/ChallengerSingapore">&nbsp; &nbsp; Follow Us</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<!--<div class="social-icons">
+								<ul class="social-icons">
+									<li class="facebook"><a href="http://www.facebook.com/ChallengerSingapore" target="_blank" data-placement="bottom" data-tooltip title="Facebook">Facebook</a></li>
+									<li class="twitter"><a href="http://www.twitter.com/challengersg" target="_blank" data-placement="bottom" data-tooltip title="Twitter">Twitter</a></li>
+								</ul>
+							</div>-->
+						</div>
+					</div>
+				</div>
+				<div class="footer-copyright">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-1" style="margin-top: -7px;">
+								<a href="https://www.challenger.com.sg/" class="logo mobile-footer">
+									<img alt="Challenger Website Template" class="img-responsive" src="https://www.challenger.com.sg/assets/img/logos/logo-footer.png">
+								</a>
+							</div>
+							<div class="col-md-6">
+								<p class="mobile-footer-copyright">© 2016 Challenger Technologies Limited. All Rights Reserved.</p>
+							</div>
+							<div class="col-md-5">
+								<div class="col-md-6">
+									<a style="margin-left: -3%;" href="https://www.challenger.com.sg/products/privacy" class="btn-flat btn-xs">Privacy Policy</a>
+								</div>
+								<div class="col-md-6">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+		<!-- Vendor -->
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery/jquery.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery.appear/jquery.appear.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery.easing/jquery.easing.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery-cookie/jquery-cookie.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/bootstrap/bootstrap.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/bootstrap/bootstrap.min.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/common/common.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery.validation/jquery.validation.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery.stellar/jquery.stellar.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jquery.gmap/jquery.gmap.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/isotope/jquery.isotope.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/owlcarousel/owl.carousel.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/jflickrfeed/jflickrfeed.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/magnific-popup/jquery.magnific-popup.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/vide/vide.js"></script>
+
+		<!-- Theme Base, Components and Settings -->
+		<script src="https://www.challenger.com.sg/assets/js/theme.js"></script>
+
+		<!-- Specific Page Vendor and Views -->
+		<script src="https://www.challenger.com.sg/assets/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		<script src="https://www.challenger.com.sg/assets/vendor/circle-flip-slideshow/js/jquery.flipshow.js"></script>
+		<script src="https://www.challenger.com.sg/assets/js/views/view.home.js"></script>
+
+		<!-- Theme Custom -->
+		<script src="https://www.challenger.com.sg/assets/js/custom.js"></script>
+
+		<!-- Theme Initialization Files -->
+		<script src="https://www.challenger.com.sg/assets/js/theme.init.js"></script>
+
+		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+		<script type="text/javascript">
+
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-12345678-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+		</script>
+		 -->
+
+
+ 		<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
+
+ 		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-46084381-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
+	
 
 </body></html>
