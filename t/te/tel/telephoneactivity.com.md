@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telephoneactivity.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320032354id_/http%3A//www.telephoneactivity.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telephoneactivity.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109042505id_/http%3A//www.telephoneactivity.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TelephoneActivity.com
 
