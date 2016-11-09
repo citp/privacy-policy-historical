@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeclothingmall.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731224327id_/http%3A//www.bikeclothingmall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeclothingmall.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109131718id_/http%3A//www.bikeclothingmall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bike Clothing Mall
 
