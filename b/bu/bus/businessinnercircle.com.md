@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinnercircle.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710065230id_/http%3A//www.businessinnercircle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinnercircle.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109154025id_/http%3A//www.businessinnercircle.com/privacy) for the most accurate reproduction.*
 
 # Business Inner Circle Privacy Policy | Business Inner Circle
 
