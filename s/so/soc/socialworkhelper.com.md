@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialworkhelper.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924062526id_/http%3A//www.socialworkhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialworkhelper.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109213229id_/https%3A//www.socialworkhelper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Work Helper
 
-Social Work Helper understands your privacy is important to you, and it’s important to us also, which is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
+Social Work Helper, PBC understands your privacy is important to you. It’s important to us also which is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
 
-When accessing our Website, Social Work Helper will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+When accessing our Website or Mobile App, Social Work Helper, PBC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 If you visit our site to read or download information on our pages, we may collect and store the following information about you, possibly via third party software services, for example, SiteMeter, StatCounter:
 
@@ -40,7 +40,7 @@ The information collected is for statistical purposes. Social Work Helper may u
 
 For site security purposes and to ensure that this service remains available to all users,Social Work Helper may use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
- _The Social Work Helper_  will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Personally-identifying information you have provided to us, such as but not limited to email addresses, may be used by us in conjunction with third-party providers to send you information.
+ _The Social Work Helper, PBC_  will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Personally-identifying information you have provided to us, such as but not limited to email addresses, may be used by us in conjunction with third-party providers to send you information.
 
  **Third party links**
 
@@ -72,17 +72,16 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 07/14/2013
+This policy was last modified on 06/15/2016
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[Socialworkhelper.com](http://www.socialworkhelper.com/ "Socialworkhelper.com")  
-Deona Hooper, MSW  
-Founder and Editor-in-Chief  
-PO Box 62652  
-Durham, NC 27715  
+Social Work Helper, PBC  
+CEO, Founder and Editor-in-Chief, Deona Hooper, MSW  
+8 The Green Suite #8043  
+Dover, DE 19901  
 United States  
-deona@socialworkhelper.com  
-(919) 960-1094
+contact@socialworkhelper.com  
+(302) 233-7422
