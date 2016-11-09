@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organicxpression.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409053054id_/http%3A//organicxpression.com/about-2/organicxpression-com-newsletter-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicxpression.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109140050id_/http%3A//organicxpression.com/about-2/organicxpression-com-newsletter-privacy-policy) for the most accurate reproduction.*
 
-# OrganicXpression.com | OrganicXpression.com Newsletter Privacy Policy
+# OrganicXpression.com Newsletter Privacy Policy | OrganicXpression.com
 
 **This Online Sign-up page is powered by OrganicXpression.com.**
 
