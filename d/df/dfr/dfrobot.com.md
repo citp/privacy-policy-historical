@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dfrobot.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619070305id_/http%3A//www.dfrobot.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfrobot.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109171408id_/https%3A//www.dfrobot.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
   
 We collect information about you from a variety of sources, including:
