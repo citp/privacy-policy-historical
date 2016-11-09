@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashcamtalk.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326101449id_/https%3A//dashcamtalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashcamtalk.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109022716id_/https%3A//dashcamtalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dash Cam Talk
 
@@ -31,4 +31,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Affiliate Links**
 
-****Currently Dashcamtalk is funded by ads and affiliate links. Some of the links on the site are “affiliate links” with our affiliate partners such as eBay, Amazon, Aliexpress or FoxOffer.   This means if you click on the link and purchase the item, I will receive a very small affiliate commission. Please note that, I only recommend products that I personally believe will add value to my readers.
+Currently Dashcamtalk is funded by ads and affiliate links. Some of the links on the site are “affiliate links” with our affiliate partners such as eBay, Amazon, Shareasale and Aliexpress.  This means if you click on the link and purchase the item, I will receive a very small affiliate commission. Please note that, I only recommend products that I personally believe will add value to my readers.
+
+If you have any questions regarding our privacy policy, please send an email to [admin@dashcamtalk.com](mailto:admin@dashcamtalk.com)
