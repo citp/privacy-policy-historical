@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuntdubl.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515201709id_/http%3A//www.stuntdubl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuntdubl.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109205435id_/http%3A//www.stuntdubl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
