@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conductor.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325001141id_/http%3A//www.conductor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conductor.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109131349id_/http%3A//www.conductor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Conductor
+# Privacy Policy – Conductor
 
 Conductor, Inc. (hereafter referred to as “Conductor”) wants you to fully understand our privacy practices. This Privacy Policy explains the collection, use, and disclosure of Personal Information through our websites located at URLs: [www.conductor.com](http://www.conductor.com/ "www.conductor.com"), console.conductor.com, or any other Conductor owned site collectively know as (the “websites”). “Personal Information” means information that would allow a party to contact you, including, for example, your full name, address, telephone number, or email address.
 
