@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627183107id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109224127id_/https%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pick the Brain | Motivation and Self Improvement
+# Privacy Policy - Pick the Brain | Motivation and Self ImprovementPick the Brain | Motivation and Self Improvement
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.pickthebrain.com and PickTheBrain and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to PickTheBrain include www.pickthebrain.com and PTB. The PTB website is a Self Improvement Blog site. By using the PTB website, you consent to the data practices described in this statement.
 
