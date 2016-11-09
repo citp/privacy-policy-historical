@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptmedia.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907083123id_/http%3A//www.raptmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptmedia.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109141655id_/http%3A//www.raptmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rapt Media
 
@@ -27,5 +27,5 @@ The Site contains links to other websites. Rapt Media does not control the priva
 California Civil Code Section 1798.83 permits customers of the Rapt Media who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@Rapt Media.com or write us:
 
 Rapt Media, Inc.  
-PO Box 4533  
+1401 Walnut St. Suite #200  
 Boulder, CO 80302
