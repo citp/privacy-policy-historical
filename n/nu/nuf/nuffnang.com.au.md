@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnang.com.au privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527173439id_/http%3A//www.nuffnang.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.au privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109131217id_/https%3A//www.nuffnang.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Nuffnang Australia | The World's Leading Blog Advertising Community » Privacy Policy
 
