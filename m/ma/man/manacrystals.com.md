@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manacrystals.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407091425id_/https%3A//manacrystals.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manacrystals.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110172721id_/https%3A//manacrystals.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mana Crystals
 
@@ -50,4 +50,4 @@ Mana Crystals may periodically update this Policy. We’ll notify you about sign
 
 ### Questions
 
-We welcome questions, concerns, and feedback about this policy at [manacyrstals@gmail.com](mailto:manacyrstals@gmail.com).
+We welcome questions, concerns, and feedback about this policy at [support@manacrystals.com](mailto:support@manacrystals.com).
