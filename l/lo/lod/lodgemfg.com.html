@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lodgemfg.com privacy policy that was archived on 2016-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160430205543id_/http%3A//lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lodgemfg.com privacy policy that was archived on 2016-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110034748id_/http%3A//www.lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js geolocation cssanimations cssgradients csstransforms csstransforms3d csstransitions generatedcontent video audio" style=""><!--<![endif]--><head>
 
@@ -11,7 +11,7 @@
 	<title>Lodge Cast Iron</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-	<link rel="canonical" href="https://www.lodgemfg.com/page.asp">
+	<link rel="canonical" href="http://www.lodgemfg.com/page.asp">
 
 	
 	<link rel="stylesheet" href="templates/css/bootstrap.css">
@@ -64,7 +64,7 @@
 		
 			<div class="template-header full clear-after">
 				<div class="fixed">
-					<a href="https://www.lodgemfg.com" class="logo pull-left"><img src="templates/gfx/logo.png"></a>
+					<a href="http://www.lodgemfg.com" class="logo pull-left"><img src="templates/gfx/logo.png"></a>
 					<div class="template-header-right pull-right">
 						<ul class="nav user-nav pull-right">
 							<li id="cart_window_dropdown" class="dropdown">
@@ -76,7 +76,8 @@
 
 				<script>
 					var cartQtyTarg = '#cart_window_qty',
-					    cartQtyTotal = 0;
+					    cartQtyTotal = 0,
+					    cartWinTarg = '#cart_window_incl';
 				</script>
 
 				<div class="well muted">Your shopping cart is empty.</div>
@@ -90,7 +91,7 @@
 				
 
 		<script type="text/javascript">
-			
+
 			jQuery(function(){
 				// Set the template cart qty on initial load
 				fncUpdateTemplateQty(cartQtyTarg, cartQtyTotal);
@@ -103,19 +104,26 @@
 
 			// Function to remove an item from the cart window
 			function fncCartWinRemove(sUnqID, sConfirmText) {
-				var okay = confirm(sConfirmText);
+				var bUseRemoveMsg = true;
+
+				if(bUseRemoveMsg){
+					var okay = confirm(sConfirmText);
+				}
+				else{
+					okay = true;
+				}
+				
 				if (okay) {
 					jQuery('#li_'+sUnqID).remove();
 					try {
 						jQuery.ajax({
-							    url: 'i_i_add_to_cart.asp',
-							   data: 'type=v200remove&ajax=returnJSON&rkey='+sUnqID,
-							   type: 'GET',
-							   dataType: "json",
-							  //async: false,
+							url: 'i_i_add_to_cart.asp',
+							data: 'type=v200remove&ajax=returnJSON&rkey='+sUnqID,
+							type: 'GET',
+							dataType: "json",
 							success: function(jsonOrder) {
-							         	fncCartRefresh(jsonOrder[1].item_count, jsonOrder[1].o_total);
-							         }
+								fncCartRefresh(jsonOrder[1].item_count, jsonOrder[1].o_total);
+							}
 						});
 					} catch (err) {
 						//alert(err.message);
@@ -129,23 +137,23 @@
 				if (typeof item_count == "undefined") {
 					try {
 						jQuery.ajax({
-								   url: 'i_i_shopping_cart_window.asp',
-								  data: 'cartwindowajax=getcart',
-								  type: 'GET',
-							  dataType: 'json',
-								 error: function (jqXHR, textStatus, errorThrown) {
-											alert('Error! ' + errorThrown + ' ' + textStatus);
-										},
-							   success: function (oData) {
-											var cart = oData || {};
-											if (typeof cart != "undefined") {
-												//console.log(cart);
-												jQuery(cartQtyTarg).html(cart.items);
-												jQuery("#cart_window_subtotal").html(cart.total);
-												//return true;
-											}
-											fncReloadCartWindow();
-										}
+							url: 'i_i_shopping_cart_window.asp',
+							data: 'cartwindowajax=getcart',
+							type: 'GET',
+							dataType: 'json',
+							error: function (jqXHR, textStatus, errorThrown) {
+								alert('Error! ' + errorThrown + ' ' + textStatus);
+								},
+							success: function (oData) {
+								var cart = oData || {};
+								if (typeof cart != "undefined") {
+									//console.log(cart);
+									jQuery(cartQtyTarg).html(cart.items);
+									jQuery("#cart_window_subtotal").html(cart.total);
+									//return true;
+								}
+								fncReloadCartWindow();
+							}
 						});
 					} catch(err) {
 						alert(err.message);
@@ -165,15 +173,14 @@
 			function fncReloadCartWindow() {
 				try {
 					jQuery.ajax({
-						       url: 'i_i_shopping_cart_window.asp',
-						      data: 'cartwindowajax=ajaxcall',
-						      type: 'get',
-						     //async: false,
-						   success: function (oData) {
-						            	jQuery("#cart_window_incl").html(oData);
-						            	fncUpdateTemplateQty(cartQtyTarg, cartQtyTotal);
-						            	return true;
-						            }
+						url: 'i_i_shopping_cart_window.asp',
+						data: 'cartwindowajax=ajaxcall',
+						type: 'get',
+						success: function (oData) {
+							jQuery(cartWinTarg).html(oData);
+							fncUpdateTemplateQty(cartQtyTarg, cartQtyTotal);
+							return true;
+						}
 					});
 				} catch(err) {
 					alert(err.message);
@@ -188,10 +195,10 @@
 
 			function fncEmptyCart() {
 				jQuery.ajax({
-					       url: 'shopping_cart_window.asp',
-					      data: 'pageaction=empty_cart',
-					      type: 'get',
-					   success: function (oData) { fncReloadCartWindow(); }
+					url: 'i_i_shopping_cart_window.asp',
+					data: 'pageaction=empty_cart',
+					type: 'get',
+					success: fncReloadCartWindow
 				});
 			}
 
@@ -211,18 +218,18 @@
 	</style>
 
 	<div id="pc-searchwindow1" class="pc-searchwindow">
-	<form id="pc-searchform" name="pc-searchform" method="POST" action="" onsubmit="SubmitSearchForm1();return false;">
+	<form id="pc-searchform" name="pc-searchform" method="POST" onsubmit="SubmitSearchForm1();return false;">
 	
 
 		<div class="pc-searchsection" id="pc-filter4">
 			<div class="pc-searchheader"></div>
 			<div class="pc-searchwin" id="filter_4_results">
-				<input type="text" name="search_keyword" id="search_keyword" class="pc-searchinput" maxlength="255" value="" onkeyup="fncGetSuggestions(this.value);">
+				<input type="search" name="search_keyword" id="search_keyword" autocapitalize="off" class="pc-searchinput" maxlength="255" value="" onkeyup="fncGetSuggestions(this.value);">
 
 				<input type="hidden" name="search_tip_url" id="search_tip_url" value="">
 					<div class="pc-searchindiv" style="display:none;">
 						<br><span class="pc-searchintext">in&nbsp;</span>
-						<select name="search_string" id="search_string" class="pc-searchindrop" onchange="SetResultsPage1();"><option value="search_prod_extended;https://www.lodgemfg.com/pc_combined_results.asp?tab=product" title="Search All (Quick)">Search All (Quick)</option><option value="search_prod_nm;https://www.lodgemfg.com/pc_combined_results.asp" title="Name">Name</option><option value="search_prod_ds;https://www.lodgemfg.com/pc_combined_results.asp" title="Description">Description</option><option value="search_prod_sku;https://www.lodgemfg.com/pc_combined_results.asp" title="Part # (Contains)">Part # (Contains)</option><option value="search_prod_sku_start;https://www.lodgemfg.com/pc_combined_results.asp" title="Part # (Starts With)">Part # (Starts With)</option>
+						<select name="search_string" id="search_string" class="pc-searchindrop" onchange="SetResultsPage1();"><option value="search_prod_extended;http://www.lodgemfg.com/pc_combined_results.asp?tab=product" title="Search All (Quick)">Search All (Quick)</option><option value="search_prod_nm;http://www.lodgemfg.com/pc_combined_results.asp" title="Name">Name</option><option value="search_prod_ds;http://www.lodgemfg.com/pc_combined_results.asp" title="Description">Description</option><option value="search_prod_sku;http://www.lodgemfg.com/pc_combined_results.asp" title="Part # (Contains)">Part # (Contains)</option><option value="search_prod_sku_start;http://www.lodgemfg.com/pc_combined_results.asp" title="Part # (Starts With)">Part # (Starts With)</option>
 						</select>
 					</div>
 			</div>
@@ -241,7 +248,7 @@
 
 	
 	<script type="text/javascript">
-		
+
 		/* Object Vars */
 			var xmlHttp;
 			var xmlDoc;
@@ -250,8 +257,8 @@
 			var sSearchVar							= 'key';
 			var sDefaultKeyword						= '';
 			var sPageName							= 'page.asp';
-			var sStoreFrontURL						= 'https://www.lodgemfg.com';
-		
+			var sStoreFrontURL						= 'http://www.lodgemfg.com';
+
 			//- these are for the search tips ajax call redirect
 			var sInitPage							= '/page.asp';
 			var sSitename							= 'lodge';
@@ -291,7 +298,7 @@
 			 */
 			var bShowReleaseDate					= false;
 			var bShowPreorderDate					= false;
-			
+
 			var bParentRollupSkuSearch 		    	= true;
 			var bParentRollupNameSearch 		    = true;
 			var bParentRollupDescriptionSearch 	    = true;
@@ -304,7 +311,7 @@
 			 * @var		bool
 			 */
 			var bUseProductAliases					= true;
-			
+
 			/*
 			 * Draw Google Analytics tags on submit
 			 * @author	vinayakj
@@ -321,7 +328,7 @@
 			 * @var 	bool
 			 */
 			window.bGetSuggestions = false;
-		
+
 		if ( '0' == '1' ) {
 			bOldCats = true;
 		}
@@ -359,26 +366,25 @@
 		function GetSubCategories1(vField){
 			var strSearchVals = '';
 			var strLoadingTxt = 'Loading&hellip;';
-			
-			if ( bOldCats == true ) {
 
-				switch ( vField ) {
-
-					case 2:strSearchVals = escape(jQuery('#searchfield1').val());
+			if (bOldCats) {
+				switch (vField) {
+					case 2:
+						strSearchVals = escape(jQuery('#searchfield1').val());
 
 						if ( jQuery('#filter_1_2').length > 0 ) {
 							jQuery('#filter_1_2').html(strLoadingTxt);
-							jQuery('#filter_1_2').show();						
+							jQuery('#filter_1_2').show();
 						}
 
 						if ( jQuery('#filter_1_3').length > 0 ) {
 							jQuery('#filter_1_3').html('');
-							jQuery('#filter_1_3').hide();						
+							jQuery('#filter_1_3').hide();
 						}
 
 						if ( jQuery('#filter_1_4').length > 0 ) {
 							jQuery('#filter_1_4').html('');
-							jQuery('#filter_1_4').hide();						
+							jQuery('#filter_1_4').hide();
 						}
 
 						break;
@@ -387,12 +393,12 @@
 
 						if ( jQuery('#filter_1_3').length > 0 ) {
 							jQuery('#filter_1_3').html(strLoadingTxt);
-							jQuery('#filter_1_3').show();						
+							jQuery('#filter_1_3').show();
 						}
 
 						if ( jQuery('#filter_1_4').length > 0 ) {
 							jQuery('#filter_1_4').html('');
-							jQuery('#filter_1_4').hide();						
+							jQuery('#filter_1_4').hide();
 						}
 
 						break;
@@ -401,7 +407,7 @@
 
 						if ( jQuery('#filter_1_4').length > 0 ) {
 							jQuery('#filter_1_4').html(strLoadingTxt);
-							jQuery('#filter_1_4').show();						
+							jQuery('#filter_1_4').show();
 						}
 
 						break;
@@ -414,49 +420,46 @@
 					MakeSearchAJAXRequest(DrawSubCategories1, '/page.asp?searchformaction=ajaxcall&searchformactiontype=getoldcats&pc_key=' + strSearchVals + '&field=' + escape(vField), true, [], [], false, "", xmlDoc, vField, true);
 
 				} else {
-					
+
 					if ( jQuery('#filter_1_2').length > 0 ) {
 						jQuery('#filter_1_2').html('');
-						jQuery('#filter_1_2').hide();						
+						jQuery('#filter_1_2').hide();
 					}
 
 					if ( jQuery('#filter_1_3').length > 0 ) {
 						jQuery('#filter_1_3').html('');
-						jQuery('#filter_1_3').hide();						
+						jQuery('#filter_1_3').hide();
 					}
 
 					if ( jQuery('#filter_1_4').length > 0 ) {
 						jQuery('#filter_1_4').html('');
-						jQuery('#filter_1_4').hide();						
+						jQuery('#filter_1_4').hide();
 					}
 
 				} //- if ( jQuery('#searchfield1').val().replace(/\s+/, '') != '' )
-
 			} else {
-
-				switch ( vField ) {
-
+				switch (vField) {
 					case 2:
 						strSearchVals = '&searchfield1=' + escape(jQuery('#searchfield1').val()) + '&searchfield2=' + escape(trim(getSearchQueryVariable('searchfield2')));
 
 						if ( jQuery('#filter_1_2').length > 0 ) {
 							jQuery('#filter_1_2').html(strLoadingTxt);
-							jQuery('#filter_1_2').show();						
+							jQuery('#filter_1_2').show();
 						}
 
 						if ( jQuery('#filter_1_3').length > 0 ) {
 							jQuery('#filter_1_3').html('');
-							jQuery('#filter_1_3').hide();						
+							jQuery('#filter_1_3').hide();
 						}
 
 						if ( jQuery('#filter_1_4').length > 0 ) {
 							jQuery('#filter_1_4').html('');
-							jQuery('#filter_1_4').hide();						
+							jQuery('#filter_1_4').hide();
 						}
 
 						if ( jQuery('#filter_2_1').length > 0 ) {
 							jQuery('#filter_2_1').html(strLoadingTxt);
-							jQuery('#filter_2_1').show();						
+							jQuery('#filter_2_1').show();
 						}
 
 						break;
@@ -466,17 +469,17 @@
 
 						if ( jQuery('#filter_1_3').length > 0 ) {
 							jQuery('#filter_1_3').html(strLoadingTxt);
-							jQuery('#filter_1_3').show();						
+							jQuery('#filter_1_3').show();
 						}
 
 						if ( jQuery('#filter_1_4').length > 0 ) {
 							jQuery('#filter_1_4').html('');
-							jQuery('#filter_1_4').hide();						
+							jQuery('#filter_1_4').hide();
 						}
 
 						if ( jQuery('#filter_2_1').length > 0 ) {
 							jQuery('#filter_2_1').html(strLoadingTxt);
-							jQuery('#filter_2_1').show();						
+							jQuery('#filter_2_1').show();
 						}
 
 						break;
@@ -491,17 +494,17 @@
 
 						if ( jQuery('#filter_2_1').length > 0 ) {
 							jQuery('#filter_2_1').html(strLoadingTxt);
-							jQuery('#filter_2_1').show();						
+							jQuery('#filter_2_1').show();
 						}
 						break;
 
 				} //- switch ( vField )
 
 				//Removed '' check to resolve bug - dand 2/1/2010
-				//if (document.getElementById('searchfield1').value.replace(/\s+/, "")!=''){ 
+				//if (document.getElementById('searchfield1').value.replace(/\s+/, "")!=''){
 					DisableSearchForm1();
 					MakeSearchAJAXRequest(DrawSubCategories1, '/page.asp?searchformaction=ajaxcall&searchformactiontype=getsubcats&usestyle=0&field=' + escape(vField) + strSearchVals, true, [], [], false, "", xmlDoc, vField, true);
-				/*} else { 
+				/*} else {
 					document.getElementById('filter_1_2').innerHTML = '';
 					document.getElementById('filter_1_2').style.display = 'none';
 					document.getElementById('filter_1_3').innerHTML = '';
@@ -513,7 +516,22 @@
 			} //- if ( bOldCats == true )
 		}
 
-		function DrawSubCategories1(xmlDoc, Step){
+		/**
+		 * This function will decode html
+		 * @author johns
+		 * @since  09/15/2014
+		 *
+		 * @param  sVal (string): html to decode
+		 *
+		 * @return string of decoded html
+		 */
+		function htmlDecode(sVal) {
+			//create a in-memory div, set it's inner text(which jQuery automatically encodes)
+			//then grab the encoded contents back out.  The div never exists on the page.
+			return $('<div/>').html(sVal).text();
+		}
+
+		function DrawSubCategories1(xmlDoc, Step) {
 			var bContinue = false;
 			var bFireNext = false;
 			var bSelectedOpt = false;
@@ -527,7 +545,7 @@
 			var sSelOne = '[Select One]';
 			var sValue = '';
 
-			if ( Step <= parseInt('4') ){
+			if (Step <= parseInt('4')) {
 				bContinue = true;
 			}
 
@@ -546,9 +564,9 @@
 					break;
 			}
 
-			if ((xmlDoc.childNodes.length > 0) && (bContinue==true)){
+			if (xmlDoc.childNodes.length > 0 && bContinue == true){
 				try{
-					if (bOldCats==true){
+					if (bOldCats == true) {
 						oSubCats = xmlDoc.getElementsByTagName('record');
 					} else {
 						oSubCats = xmlDoc.getElementsByTagName('searchfield' + Step);
@@ -556,41 +574,61 @@
 
 					var sSelectOneText = sSelOne.replace(/<count>/ig, oSubCats.length);
 
-					if (oSubCats.length > 0){
+					if (oSubCats.length > 0) {
 						document.getElementById('filter_1_' + Step).innerHTML = '<select name="searchfield' + Step + '" id="searchfield' + Step + '" class="pc-searchdrop" onchange="GetSubCategories1(' + (Step + 1) + ');"><option value="">' + sSelectOneText + '</option></select>';
 
 						for (var iResults = 0; iResults < oSubCats.length; iResults++) {
-							try{
-								if (bOldCats==true){
+							try {
+								if (bOldCats) {
 									sDisplay = oSubCats[iResults].childNodes[0].childNodes[0].nodeValue;
 									sValue = oSubCats[iResults].childNodes[2].childNodes[0].nodeValue;
 								} else {
 									sDisplay = oSubCats[iResults].childNodes[0].nodeValue;
 									sValue = oSubCats[iResults].childNodes[0].nodeValue;
 								}
-								if (sPrepop.toLowerCase()==trim(sValue).toLowerCase()){
+
+								/*
+								 * added logic to handle pre-selecting options that contain html entities
+								 * @author johns, ddara
+								 * @since  09/15/2014
+								 * @task   #51892
+								 */
+								if (decodeURIComponent($.trim(sPrepop).toLowerCase()) ===
+									$.trim(sValue).toLowerCase().replace('&amp;', '&')) {
 									bSelectedOpt = true;
 									bFireNext = true;
 								} else {
 									bSelectedOpt = false;
 								}
 
-								document.getElementById('searchfield' + Step).options[iResults + 1] = new Option(sDisplay, sValue, bSelectedOpt);
-								document.getElementById('searchfield' + Step).options[iResults + 1].title = sDisplay;
+								/*
+								 * had to decode this twice
+								 * - once b/c the DA3 BuildXML was encoding it
+								 * - once more b/c when you update html via javascript, it will not decode as if you wrote it as text to the buffer
+								 * @author johns, ddara
+								 * @since  09/15/2014
+								 * @task   #51892
+								 */
+								var sDecodedDisplay = htmlDecode(htmlDecode(sDisplay));
+								var sDecodedValue = htmlDecode(sValue);
 
-								if (bSelectedOpt==true){
-									document.getElementById('searchfield' + Step).options[iResults + 1].selected = true;
+								$('#searchfield' + Step).append(
+									$('<option/>')
+										.html(sDecodedDisplay)
+										.val(sDecodedValue)
+										.attr('selected', bSelectedOpt)
+								);
+							} catch (err) {
+								if (console && false) {
+									console.log('Error in XML Loop - ' + err.message);
 								}
 							}
-							catch (err){
-								//alert('Error in XML Loop - ' + err.message);
-							}
-						}
+						} //- for (var iResults = 0; iResults < oSubCats.length; iResults++)
 					} else {
 
 						if ( jQuery('#filter_1_' + Step).length > 0 ) {
 							jQuery('#filter_1_' + Step).html('');
-							jQuery('#filter_1_' + Step).hide();					
+							jQuery('#filter_1_' + Step).hide();
 						}
 
 					}
@@ -602,7 +640,7 @@
 
 					if ( jQuery('#filter_1_' + Step).length > 0 ) {
 						jQuery('#filter_1_' + Step).html('');
-						jQuery('#filter_1_' + Step).hide();					
+						jQuery('#filter_1_' + Step).hide();
 					}
 
 					//alert('Error in XML Load - ' + err.message);
@@ -612,7 +650,7 @@
 
 				if ( jQuery('#filter_1_' + Step).length > 0 ) {
 					jQuery('#filter_1_' + Step).html('');
-					jQuery('#filter_1_' + Step).hide();					
+					jQuery('#filter_1_' + Step).hide();
 				}
 			}
 
@@ -678,9 +716,9 @@
 							document.getElementById('searchfield5').options[iResults + 1].title = oManus[iResults].childNodes[0].nodeValue;
 
 							//- this is for IE to prepopulate searchfield5
-							if (bSelectedOpt==true){ 
-								document.getElementById('searchfield5').options[iResults + 1].selected = true; 
-							}  
+							if (bSelectedOpt==true){
+								document.getElementById('searchfield5').options[iResults + 1].selected = true;
+							}
 						}
 						catch (err){
 							//alert(err.message);
@@ -770,7 +808,7 @@
 			catch (err){
 				//alert(err.message);
 			}
-		
+
 			try{
 				document.getElementById('searchfield3').disabled = true;
 			}
@@ -841,7 +879,7 @@
 			catch (err){
 				//alert(err.message);
 			}
-		
+
 			try{
 				document.getElementById('searchfield3').disabled = false;
 			}
@@ -895,7 +933,7 @@
 		}
 
 		function SetResultsPage1(){
-			
+
 			var aSearchInfo = document.getElementById('search_string').value.split(';');
 			if (aSearchInfo.length>=2){
 				try{
@@ -905,7 +943,7 @@
 					//alert(err.message);
 				}
 			}
-		}	
+		}
 
 		/**
 		 * Launches lightbox to select a model
@@ -915,7 +953,7 @@
 		function selectModel(){
 
 			// Finish adding code to remove image, check with chris if doing this right
-							
+
 			if(! jQuery('#style_searchfield1_make').val()){
 				alert('Please select a Make first.');
 				return false;
@@ -959,7 +997,7 @@
 			oLightbox.build();
 
 		}//-function selectModel
-		
+
 		// DD - Show model, show and clear replaced toggle which was being called way too much and when not necessary
 		function showModel() {
 			jQuery('#remove_model').show();
@@ -982,9 +1020,9 @@
 			jQuery('#pick_model').val('Select A Model');
 			jQuery('#pick_model').removeClass('filter_change');
 		}//-function clearModel
-		
-		function SubmitSearchForm1 () {		
-			
+
+		function SubmitSearchForm1 () {
+
 			/* Boolean Vars */
 			var bSearchString			= true;
 			var bAddSFUrlToSearchPage	= true;
@@ -1003,12 +1041,12 @@
 			var sPCKey					= '';
 			var sTempKeyword			= '';
 			var sTempSearchPage			= '';
-			var sTemp5					= '';		
+			var sTemp5					= '';
 			var sTemp6					= '';
 			var sSearchValue6			= '';
-			var sTempBread6				= '';		
+			var sTempBread6				= '';
 			var sCombinedSearch			= '';
-			var sTempSearch				= '';	
+			var sTempSearch				= '';
 			var sCatSearch				= '';
 			var sStyleSearch			= '';
 			var sProdSearch				= '';
@@ -1016,16 +1054,13 @@
 			var sConcat					= '';
 			var sSearchType				= '';
 			var sSearchPage 			= '';
-			
+
 			/* Integer Vars */
 			var iLenCombinedSS			= 0;
 
 			/* Array Vars */
 			var aSearching;
 			var aSearchInfo;
-
-			/* Strip Single Quotes */
-			stripSingleQuotes();
 
 			if ( bAddSFUrlToSearchPage ) {
 				sSearchPage	= sStoreFrontURL + '/' + sDefaultResultsPage;
@@ -1095,22 +1130,22 @@
 					sBreadCrumbs +='&searchfield5=' + escape(document.getElementById('searchfield5').value);
 				}
 
-			} catch ( oError ) { 
+			} catch ( oError ) {
 				//alert(oError.message);
 			}
 
 			try {
-			
+
 				for ( var iCheck = 0, iGoTo = document.getElementsByName('searchfield6').length; iCheck <= iGoTo; iCheck++) {
 
 					try {
 
 						if ( jQuery.trim(sSearchField6) != '' ) {
 							sTemp6 = sSearchField6;
-							sSearchField6 = sTemp6 + '~' + escape(document.getElementsByName('searchfield6')[iCheck].value);			
+							sSearchField6 = sTemp6 + '~' + escape(document.getElementsByName('searchfield6')[iCheck].value);
 							sSearchValue6 = sTempV6 + '~' + escape(document.getElementsByName('searchfield6')[iCheck].value);
 						} else {
-							sSearchField6 = 'searchlist~' + sPrefix + 'searchfield6~' + escape(document.getElementsByName('searchfield6')[iCheck].value);			
+							sSearchField6 = 'searchlist~' + sPrefix + 'searchfield6~' + escape(document.getElementsByName('searchfield6')[iCheck].value);
 							sSearchValue6 = escape(document.getElementsByName('searchfield6')[iCheck].value);
 						} //- if ( jQuery.trim(sSearchField6) != '' )
 
@@ -1128,7 +1163,7 @@
 			}
 
 			try {
-				
+
 				// check for default text in keyword field
 				if ( jQuery('#search_keyword').val() == sDefaultKeyword ) {
 					document.getElementById('search_keyword').value = '';
@@ -1137,9 +1172,9 @@
 			} catch ( oError ){
 				//alert(oError.message);
 			}
-			
+
 			try {
-			
+
 				if ( trim(jQuery('#search_keyword').val()) != '' ) {
 
 					if ( document.getElementById('search_string') == null ) {
@@ -1154,7 +1189,7 @@
 
 						aSearchInfo = jQuery('#search_string').val().split(';');
 						sSearchType = aSearchInfo[0];
-						
+
 						fncParseUserSearchTerms ( sSearchType );
 
 						try {
@@ -1175,7 +1210,7 @@
 			} catch ( oError ) {
 				alert(oError.message);
 			}
-			
+
 			/*
 			 * make sure the value is set if default is blank
 			 * johns - 8/17/2011
@@ -1201,7 +1236,7 @@
 
 					//Model Search
 					if ( jQuery('#pcs_id').length > 0 && jQuery('#pcs_id').val() != '' ){
-						
+
 						if ( jQuery.trim(sCombinedSearch) != '' ) {
 							sCombinedSearch += '|and|(searchexact~pcs.pcs_key~' + sSelectedModel + ')';
 						}else{
@@ -1222,7 +1257,7 @@
 				} catch( oError ) {
 					//alert(oError.message);
 				}
-				
+
 			} //- if ( jQuery('#pcs_id').length > 1 )
 
 			if ( jQuery.trim(sSearchField5) != '' ) {
@@ -1246,9 +1281,9 @@
 				} //- if ( jQuery.trim(sCombinedSearch) != '' )
 
 			} //- if ( jQuery.trim(sSearchField6) != '' )
-			
+
 			/*
-			 * Draw search string for release date and pre-order date based on inputs 
+			 * Draw search string for release date and pre-order date based on inputs
 			 * @author pijushb
 			 * @since 11/4/2011
 			 **/
@@ -1265,24 +1300,24 @@
 						 releaseSearch = "searchgreaterthanequal~p.release_date~"+ dReleaseFrom
 						 sBreadCrumbs = sBreadCrumbs + "&releasedate_from="+dReleaseFrom
 					} //-if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) === '' )
-					
+
 					if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' ) {
 						 releaseSearch = "searchlessthanequal~p.release_date~"+ dReleaseTo
 						 sBreadCrumbs = sBreadCrumbs + "&releasedate_to="+dReleaseTo
 					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
-					
+
 					if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) != '' ) {
 						 releaseSearch = "searchbetween~p.release_date~"+ dReleaseFrom + "~" + dReleaseTo
 						  sBreadCrumbs = sBreadCrumbs + "&releasedate_from="+dReleaseFrom + "&releasedate_to="+dReleaseTo
 					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
 
 					if ( jQuery.trim(sCombinedSearch) != '' ) {
-						
+
 						if (releaseSearch!= '')
 						{
 							sCombinedSearch = sCombinedSearch + '|and|(' + releaseSearch + ')';
 						}
-					} 
+					}
 					else
 					{
 					  if (releaseSearch!= '')
@@ -1290,13 +1325,13 @@
 					}
 
 				} //- if (document.getElementsByName('releasedate_from'))
-			
+
 			} //- if ( bShowReleaseDate )
-			
+
 			if ( bShowPreorderDate ) {
 
 				if ( document.getElementsByName('preorderdate_from') ) {
-				
+
 					dPreorderFrom = jQuery("#preorderdate_from").val();
 					dPreorderTo = jQuery("#preorderdate_to").val();
 					preorderSearch = "";
@@ -1305,12 +1340,12 @@
 						 preorderSearch = "searchgreaterthanequal~p.preorder_date~"+ dPreorderFrom
 						 sBreadCrumbs = sBreadCrumbs + "&preorderdate_from="+dPreorderFrom
 					} //-if ( jQuery.trim(dReleaseFrom) != '' && jQuery.trim(dReleaseTo) === '' )
-					
+
 					if ( jQuery.trim(dPreorderFrom) === '' && jQuery.trim(dPreorderTo) != '' ) {
 						 preorderSearch = "searchlessthanequal~p.preorder_date~"+ dPreorderTo
 						  sBreadCrumbs = sBreadCrumbs + "&preorderdate_to="+dPreorderTo
 					} //-if ( jQuery.trim(dReleaseFrom) === '' && jQuery.trim(dReleaseTo) != '' )
-					
+
 					if ( jQuery.trim(dPreorderFrom) != '' && jQuery.trim(dPreorderTo) != '' ) {
 						 preorderSearch = "searchbetween~p.preorder_date~"+ dPreorderFrom + "~" + dPreorderTo
 						 sBreadCrumbs = sBreadCrumbs + "&preorderdate_from="+dPreorderFrom + "&preorderdate_to="+dPreorderTo
@@ -1322,7 +1357,7 @@
 						{
 							sCombinedSearch = sCombinedSearch + '|and|(' + preorderSearch + ')';
 						}
-					} 
+					}
 					else
 					{
 					  if (preorderSearch != '')
@@ -1330,9 +1365,9 @@
 					}
 
 				} //- if (document.getElementsByName('preorderdate_from'))
-			
+
 			} //- if ( bShowPreorderDate )
-			
+
 			if ( sSearchString === '' ) {
 
 				if ( bSearchString ) {
@@ -1405,7 +1440,7 @@
 
 						sTempSearch = sCombinedSearch;
 						sCombinedSearch = 'search_style=' + (sTempSearch) + '&search_prod=' + (sTempSearch);
-						
+
 
 					} //- if ( jQuery.trim(sSearchString) != '' )
 
@@ -1419,13 +1454,13 @@
 					sTempSearch		= sCombinedSearch;
 					sCombinedSearch = sTempSearch.replace( new RegExp( '<PREFIX>', 'gi' ), 'p.' );
 				} //- if ( jQuery.trim(sCombinedSearch) != '' )
-			
+
 			} //- if ( sSearchString === '' )
 
 			try {
 				if ( jQuery('#search_page').length > 0 ) {
-					
-					if ( trim(jQuery('#search_page').val()) != '' ) {					
+
+					if ( trim(jQuery('#search_page').val()) != '' ) {
 						sSearchPage = trim(jQuery('#search_page').val());
 					} else {
 						sSearchPage = sTempSearchPage;
@@ -1438,40 +1473,40 @@
 				sSearchPage = sTempSearchPage;
 	//			alert(oError.message);
 			}
-			
+
 			try {
-				
+
 				/*
 				 *	check to see if the search tip url hidden input field
 				 *	has been populated
 				 */
 				if ( bUseAutoSuggest && jQuery('#search_tip_url').val() == '' ) {
-					
+
 					/*
 					 *	if it is blank, ge the value of term being searched
 					 *	for
 					 */
 					sSearchTerm = jQuery('#search_keyword').val();
 					sSearchTerm = sSearchTerm.toLowerCase();
-					
+
 					/*
 					 *	loop through the json object build by the ajax call
 					 *	to build the search tips list
 					 */
 					for ( var i = 0, goTo = window.oSearch.terms.length; i < goTo; i++ ) {
-											
+
 						/*
 						 *	get the term value of json object
 						 */
 						sTerm			= window.oSearch.terms[i];
 						sOriginalTerm	= sTerm;
 						sTerm			= sTerm.toLowerCase();
-						
+
 						/*
 						 *	see if the term matches the word being searched for
 						 */
 						if ( sTerm == sSearchTerm ) {
-							
+
 							/*
 							 *	get the values for the term matching the word being searched for
 							 */
@@ -1487,13 +1522,13 @@
 
 								/*
 								 *	get the length of the name of the site currently on(needed
-								 *	to see if the sitename/virtualweb needs to be 
+								 *	to see if the sitename/virtualweb needs to be
 								 *	stripped off)
 								 */
 								iLenSitename = sSitename.length;
-								
+
 								/*
-								 *	if on an admin server strip off the '/sitename/virtualweb/' off the 
+								 *	if on an admin server strip off the '/sitename/virtualweb/' off the
 								 *	current page name (pulled from the Request.ServerVariables("SCRIPT_NAME")
 								 */
 								if (sInitPage.substr(0,iLenSitename + 13) == '/' + sSitename + '/virtualweb/') {
@@ -1503,7 +1538,7 @@
 								/*
 								 *	check to see if the static page is located in
 								 *	a directory (only assuming one directory deep off the root
-								 *	since static pages are only one directory deep 
+								 *	since static pages are only one directory deep
 								 *	off the root)
 								 */
 								if ( sInitPage.indexOf('/') >= 0 ) {
@@ -1533,7 +1568,7 @@
 					sConcat			= '';
 
 				} //- if ( bUseAutoSuggest && jQuery('#search_tip_url').val() == '' )
-			
+
 			} catch ( oError ) {
 				//alert(oError.message);
 			}
@@ -1557,7 +1592,7 @@
 			} //- if ( sSearchPage && sSearchPage.indexOf('?') >= 0 )
 
 			if ( sCombinedSearch.toLowerCase().indexOf('<prefix>') > 0 ) {
-				
+
 				if ( bFilterStyles ) {
 
 					if ( sCombinedSearch.indexOf('search_style') < 0 ) {
@@ -1577,7 +1612,7 @@
 				} //- if ( bFilterStyles )
 
 			} //- if ( sCombinedSearch.toLowerCase().indexOf('<prefix>') > 0 )
-			
+
 			if ( bUseAutoSuggest && jQuery('#search_tip_url').val() != '' ) {
 				sSearchPage		= jQuery('#search_tip_url').val();
 				sCombinedSearch = '';
@@ -1585,7 +1620,7 @@
 				sMakeModelQs	= '';
 				sConcat			= '';
 			} //- if ( bUseAutoSuggest && jQuery('#search_tip_url').val() != '' )
-			
+
 			// build final url that will be redirected to
 			var finalURL = sSearchPage + sConcat + sCombinedSearch.replace(/"/gi,'%22') + sBreadCrumbs + sMakeModelQs
 
@@ -1609,17 +1644,17 @@
 		 * @param	sKeyword (string): keyword(s) searching for
 		 * @param	sUrl (string): url redirected to see the results
 		 *				of the search
-		 * 
+		 *
 		 * @return	void
 		 */
 		function fncLogKeywordSearch ( sKeyword, sUrl ) {
-			
-			/* 
+
+			/*
 			 * trim off the admin folders from the script name
 			 */
 			sAdminFolder = '/' + sSitename + '/virtualweb/'
-			
-			/* 
+
+			/*
 			 * get the pagename to fire the ajax call on even if it is
 			 * on static page in a directory
 			 */
@@ -1635,35 +1670,35 @@
 				dataType: 'text',
 				beforeSend: '',
 				success: function () { return; }
-				
+
 			});
-		
+
 		} //- function fncLogKeywordSearch ( sType, sKeyword, sUrl )
 
 		/**
-		 * This function takes the search terms the user entered and 
+		 * This function takes the search terms the user entered and
 		 * builds the search string to be passed to the Search Results
-		 * page. 
+		 * page.
 		 *
-		 * If GET_MATCHES_PER_TERM is turned on, then it will split the 
+		 * If GET_MATCHES_PER_TERM is turned on, then it will split the
 		 * search terms on whitespace (i.e.: [space], [tab]) to create a
 		 * list of search terms. It also will search phrases if you have
 		 * them inside single or double quotes. Then once it creates the
 		 * list, it will build the search string to be passed to the
-		 * Search Results page. 
+		 * Search Results page.
 		 *
-		 * If GET_MATCHES_PER_TERM is turned off, it will build the 
+		 * If GET_MATCHES_PER_TERM is turned off, it will build the
 		 * search string by taking replacing the words <Keyword> and
 		 * <Length> in the searchtype variable passed into the function.
 		 *
 		 * @author		johns
 		 * @created		11/19/2010
 		 *
-		 * @param		sSearchType string 
+		 * @param		sSearchType string
 		 *					if GET_MATCHES_PER_TERM is turned on, this contains a string
 		 *						like "search_prod_nm" or "search_prod_sku"
 		 *					if GET_MATCHES_PER_TERM is turned off, this contains a string
-		 *						like "search_prod=(searchlike~p.nm~<Keyword>)" or 
+		 *						like "search_prod=(searchlike~p.nm~<Keyword>)" or
 		 *						"search_prod=(searchlike~p.sku~<Keyword>)"
 		 */
 		function fncParseUserSearchTerms ( sSearchType ) {
@@ -1672,7 +1707,7 @@
 			 */
 				var aNewSearchTerms;
 				var aFieldsToCheck;
-			
+
 			/*
 			 * string variables
 			 */
@@ -1704,7 +1739,7 @@
 				var sSearchFieldsTerm 				= '';
 				var sSearchStringFields 			= '';
 				var sSearchFields 					= '';
-			
+
 			/*
 			 * boolean variables
 			 */
@@ -1770,7 +1805,7 @@
 
 						break;
 
-					case 'search_prod_quick':					
+					case 'search_prod_quick':
 						if ( bUseChildRollupSearch ) {
 							sChildRollupSearchField = ',' + sSearchPrefix + 'child_rollup_search_terms';
 						} //- if ( bUseChildRollupSearch )
@@ -1778,7 +1813,7 @@
 						sFieldsToCheck = sSearchPrefix + 'search_terms_all' + sChildRollupSearchField;
 
 						break;
-					
+
 					case 'search_prod_nm':
 						if ( bUseProductAliases ) {
 							sFieldsToCheck = 'pa.nm_alias,' + sSearchPrefix + 'nm';
@@ -1787,7 +1822,7 @@
 						}
 
 						break;
-					
+
 					case 'search_prod_ds':
 						if ( bUseProductAliases ) {
 							sFieldsToCheck = 'pa.ds_alias,' + sSearchPrefix + 'ds';
@@ -1796,7 +1831,7 @@
 						}
 
 						break;
-					
+
 					case 'search_prod_sku':
 						if ( bUseProductAliases ) {
 							sFieldsToCheck = 'pa.sku_alias,' + sSearchPrefix + 'sku';
@@ -1805,7 +1840,7 @@
 						}
 
 						break;
-					
+
 					case 'search_prod_sku_start':
 						if ( bUseProductAliases ) {
 							sFieldsToCheck = 'pa.sku_alias,' + sSearchPrefix + 'sku';
@@ -1821,9 +1856,9 @@
 				/*
 				 * build an array from a list of fields to check in the extended search
 				 * by splitting the list on ','
-				 */			
+				 */
 				aFieldsToCheck = sFieldsToCheck.split(',');
-				
+
 				/*
 				 * decode certain chars that we are using split the search terms and
 				 * look for specific phrases: double quotes and spaces
@@ -1831,7 +1866,7 @@
 				sSearchTerms = sSearchTerms.replace(/\%22/gi,'"').replace(/\%20/gi,' ');
 
 				/*
-				 * search through the search terms for phrases marked by single or 
+				 * search through the search terms for phrases marked by single or
 				 * double quotes
 				 */
 				sResult = sSearchTerms.match(/('|")(.*?)('|")/g, "$1");
@@ -1840,9 +1875,9 @@
 				 * check to see if any phrases were found and get final list of search terms
 				 */
 				if ( sResult != null ) {
-					
+
 					/*
-					 * build an array of search term phrase smarked by single or 
+					 * build an array of search term phrase smarked by single or
 					 * double quotes; replace the quotes with commas and remove
 					 * the quotes
 					 */
@@ -1861,24 +1896,24 @@
 						sTerms += sResult[iCounter].replace(/^('|")|('|")$/g, "");
 
 					} //- for ( iCounter = 0, iGoTo = sResult.length - 1; iCounter < sResult.length; iCounter++ )
-					
+
 					/*
 					 * specific phrases to search for denoted by quote marks
 					 * (double or single)
 					 */
 					sNewSearchTerms = sTerms;
-					
+
 					/*
 					 * append any other search text that was not denoted as phrases
 					 */
 					if ( trim(sSearchTerms.replace(sTempTerms,'')).replace(/\s/gi,',') !== '' ) {
 						sNewSearchTerms+= ',' + trim(sSearchTerms.replace(sTempTerms,'')).replace(/\s/gi,',');
 					} //- if ( trim(sSearchTerms.replace(sTempTerms,'')).replace(/\s/,',') !== '' )
-					
+
 				} else {
 					sNewSearchTerms = sSearchTerms.replace(/\%20/gi,' ').replace(/\s/gi,',');
 				} //- if ( sResult != null )
-				
+
 				/*
 				 * split the array of search terms on commas
 				 */
@@ -1886,14 +1921,14 @@
 
 				/*
 				 * loop through the search terms split on whitespace
-				 */					
+				 */
 				for ( var iTermCounter = 0, iTermGoTo = aNewSearchTerms.length - 1; iTermCounter <= iTermGoTo; iTermCounter++ ) {
 
 					/*
 					 * loop through the fields to search list with the current search term
 					 */
 					for ( var iFieldCounter = 0, iFieldGoTo = aFieldsToCheck.length - 1; iFieldCounter <= iFieldGoTo; iFieldCounter++ ) {
-						
+
 						/*
 						 * check to see if we are at the first field
 						 * if so, add the opening parantheses
@@ -1909,7 +1944,7 @@
 						if ( sNewSearchString != '' && !bFirstField ) {
 							sNewSearchString = sNewSearchString + '|Or|';
 						} //- if ( sNewSearchString != '' && !bFirstField )
-						
+
 						/*
 						 * build the searchstring with the current search term and field based
 						 * on the search type
@@ -1919,39 +1954,39 @@
 						 } else {
 							sNewSearchString = sNewSearchString + 'searchlike~' + aFieldsToCheck[iFieldCounter] + '~' + aNewSearchTerms[iTermCounter];
 						 } //-  if ( sSearchType == 'search_prod_sku_start' )
-						
+
 						/*
-						 * set the var to false that signals we are on the first field the next time 
+						 * set the var to false that signals we are on the first field the next time
 						 * through the loop
 						 */
 						bFirstField = false;
 
 					} //- for ( var iFieldCounter = 0, iFieldGoTo = aFieldsToCheck.length - 1; iFieldCounter <= iFieldGoTo; iFieldCounter++ )
-					
+
 					/*
 					 * after looping through the fields to search with the current search term,
 					 * reset the var that signals we are on the first field the next time we
 					 * loop through them
-					 */						
+					 */
 					bFirstField = true;
-					
+
 					/*
 					 * after looping through the fields to search with the current search term,
 					 * check to see if we just looped through the last search term
 					 */
 					if ( iTermCounter >= iTermGoTo ) {
-						
+
 						/*
-						 * if we are at the last search term, add the closing parantheses to 
+						 * if we are at the last search term, add the closing parantheses to
 						 * the current search term
 						 */
 						sNewSearchString = sNewSearchString + ')';
 
 					} else {
-						
+
 						/*
 						 * if we are not at the last search term, add the closing parantheses
-						 * to the current search term and concatenate '|And|' to the end of 
+						 * to the current search term and concatenate '|And|' to the end of
 						 * the searchstring
 						 */
 						sNewSearchString = sNewSearchString + ')|And|';
@@ -1959,13 +1994,13 @@
 					} //- if ( iTermCounter >= iTermGoTo )
 
 				} //- for ( var iTermCounter = 0, iTermGoTo = aNewSearchTerms.length - 1; iTermCounter <= iTermGoTo; iTermCounter++ )
-				
+
 				if ( sSearchType === 'search_prod_extended' || sSearchType === 'search_prod_quick' ) {
 
 					/*
 					 * strip quotes for child product rolled up data searching from denoted phrases
 					 */
-			
+
 					sSearchTerms = sSearchTerms.replace(/\"/gi,'');
 
 					if ( bUseChildRollupSearch ) sChildRollupSearch = '|Or|searchlike~p.child_rollup_search_terms~' + sSearchTerms;
@@ -1981,13 +2016,13 @@
 					if ( bUseChildRollupSizeSearch ) sChildRollupSizeSearch = '|Or|searchlike~p.child_sizes~' + sSearchTerms;
 
 					if ( bUseChildRollupColorSearch ) sChildRollupColorSearch = '|Or|searchlike~p.child_colors~' + sSearchTerms;
-					
+
 					if ( bUseSearchTermsAll ) sSearchTermsAll = '|Or|searchlike~p.search_terms_all~' + sSearchTerms;
 
 				} //- if ( sSearchType === 'search_prod_extended' || sSearchType === 'search_prod_quick' )
 
 				window.sSearchString = 'search_prod=(' + sNewSearchString + sChildRollupSearch + sKeywordSearch + sChildRollupSkuSearch + sChildRollupNameSearch + sChildRollupDescriptionSearch + sChildRollupSizeSearch + sChildRollupColorSearch + sSearchTermsAll + ')';
-			
+
 			} else {
 
 				sSearchKeyword = jQuery('#search_keyword').val().replace('+','%2B')
@@ -1996,7 +2031,7 @@
 				switch ( sSearchType ) {
 
 					case 'search_prod_quick':
-					
+
 						if ( bFilterStyles ) {
 
 							window.sSearchString = 'search_style=(searchlike~pcs.num~' + sSearchKeyword + '|Or|searchlike~pcs.nm~' + sSearchKeyword + '|Or|searchlike~pcs.ds~' + sSearchKeyword + ')';
@@ -2009,7 +2044,7 @@
 							if ( bUseChildRollupNameSearch ) 		sChildRollupNameSearch = '|Or|searchlike~p.child_nms~' + sSearchKeyword;
 							if ( bUseChildRollupDescriptionSearch ) sChildRollupDescriptionSearch = '|Or|searchlike~p.child_ds~' + sSearchKeyword;
 							if ( bUseChildRollupSizeSearch ) 		sChildRollupSizeSearch = '|Or|searchlike~p.child_sizes~' + sSearchKeyword;
-							if ( bUseChildRollupColorSearch ) 		sChildRollupColorSearch = '|Or|searchlike~p.child_colors~' + sSearchKeyword;							
+							if ( bUseChildRollupColorSearch ) 		sChildRollupColorSearch = '|Or|searchlike~p.child_colors~' + sSearchKeyword;
 							if ( bUseSearchTermsAll ) 				sSearchTermsAll = '|Or|searchlike~p.search_terms_all~' + sSearchKeyword;
 
 							if(sSearchFields == ""){
@@ -2027,11 +2062,11 @@
 									sSearchStringFields = sSearchStringFields + '|Or|searchlike~' + sSearchFieldsTerm + '~' + sSearchKeyword;
 								}
 							}
-							
+
 							if ( bUseProductAliases ) {
 
 								if ( bParentRollupSkuSearch ) sParentRollupSkuSearch = 'searchlike~p.sku~' + sSearchKeyword + '|Or|searchlike~pa.sku_alias~' + sSearchKeyword;
-								
+
 								if ( bParentRollupNameSearch ) sParentRollupNameSearch = '|Or|searchlike~p.nm~' + sSearchKeyword + '|Or|searchlike~pa.nm_alias~' + sSearchKeyword;
 
 								if ( bParentRollupDescriptionSearch ) sParentRollupDescriptionSearch = '|Or|searchlike~p.ds~' + sSearchKeyword + '|Or|searchlike~pa.ds_alias~' + sSearchKeyword;
@@ -2043,7 +2078,7 @@
 							} else {
 
 								 if ( bParentRollupSkuSearch ) sParentRollupSkuSearch = 'searchlike~p.sku~' + sSearchKeyword;
-								
+
 								if ( bParentRollupNameSearch ) sParentRollupNameSearch = '|Or|searchlike~p.nm~' + sSearchKeyword;
 
 								if ( bParentRollupDescriptionSearch ) sParentRollupDescriptionSearch = '|Or|searchlike~p.ds~' + sSearchKeyword;
@@ -2059,7 +2094,7 @@
 						break;
 
 					case 'search_prod_nm':
-					
+
 						if ( bFilterStyles ) {
 							window.sSearchString = 'search_style=(searchlike~pcs.nm~' + sSearchKeyword + ')';
 						} else if ( bUseProductAliases ) {
@@ -2070,7 +2105,7 @@
 						break;
 
 					case 'search_prod_ds':
-					
+
 						if ( bFilterStyles ) {
 							window.sSearchString = 'search_style=(searchlike~pcs.ds~' + sSearchKeyword + ')';
 						} else if ( bUseProductAliases ) {
@@ -2082,7 +2117,7 @@
 						break;
 
 					case 'search_prod_sku':
-					
+
 						if ( bFilterStyles ) {
 							window.sSearchString = 'search_style=(searchlike~pcs.num~' + sSearchKeyword + ')';
 						} else if ( bUseProductAliases ) {
@@ -2094,7 +2129,7 @@
 						break;
 
 					case 'search_prod_sku_start':
-						
+
 						iKeywordLength = sSearchKeyword.length
 
 						if ( bFilterStyles ) {
@@ -2172,7 +2207,7 @@
 				xmlDoc.async="false";
 				xmlDoc.load(XMLFile);
 			} else {
-				alert('Your browser cannot load "' + XMLFile + '"'); 
+				alert('Your browser cannot load "' + XMLFile + '"');
 			}
 
 			return(xmlDoc);
@@ -2241,7 +2276,7 @@
 							document.getElementById(aShow[i]).style.display = 'block';
 						}
 					}
-				}		
+				}
 			}
 			catch (err){
 				//alert(err.message);
@@ -2345,7 +2380,7 @@
 			}
 			return request_o;
 		}
-		
+
 		// Decimal to Hexadecimal
 		function dec2hex(dec) {
 			var hD="0123456789ABCDEF";
@@ -2360,7 +2395,7 @@
 		// Hexadecimal to Decimal
 		function hex2ddec(hex) {
 			return parseInt(hex,16);
-		} 
+		}
 
 		function trim(stringToTrim) {
 			return stringToTrim.replace(/^\s+|\s+$/g,"");
@@ -2389,7 +2424,7 @@
 		 * function in question builder include
 		 */
 		cLightbox = function(){
-			
+
 			//Declare Properties
 			this.windowTitle = '';
 			this.windowText = '';
@@ -2422,10 +2457,10 @@
 			this.countfield = '';
 			this.bUseClassicLightbox = false;
 			this.bUseOverlayClose = true;
-			
+
 			//Declare Methods
 			this.build = function(){
-				
+
 				lightbox_OpenFind(
 					this.windowTitle
 					, this.windowText
@@ -2473,14 +2508,14 @@
 		//--------------------------------------------------------------
 		//--------------------------------------------------------------
 		// Description:	AJAX Call to get search term suggestions.
-		//				
+		//
 		// Create:		johns - 4/15/2010
 		//--------------------------------------------------------------
 		//--------------------------------------------------------------
 		function fncGetSuggestions ( text ) {
 
 			try {
-				
+
 				//- check to see if the ajax call should be fired again
 				//- run it again, if length of the search term = 0
 				if ( text.length < 1 ) {
@@ -2490,19 +2525,19 @@
 				if ( ! window.bGetSuggestions ) {
 
 					if ( text.length >= 1 ) {
-						
+
 						//- set it to true once inside the ajax call so it does not fire again
 						window.bGetSuggestions = true;
 
 						var firstchar = text.substr(0, 1);
 
-						jQuery.ajax({ 
+						jQuery.ajax({
 							url: 'i_i_pc_search_form.asp'
-							, data: ({	
+							, data: ({
 										searchformaction : 'ajaxcall'
 										, searchformactiontype : 'getsearchtips'
 										, firstchar : firstchar
-										, ajax: new Date().getTime() 
+										, ajax: new Date().getTime()
 									})
 							, cache: false
 							, dataType: 'json'
@@ -2521,12 +2556,12 @@
 			window.oSearch = oData;
 
 			jQuery('#search_keyword')
-				.autocomplete(oData.terms, 
+				.autocomplete(oData.terms,
 					{
 						selectFirst: false
 					})
 				.result(function(event, data, formatted) {
-				
+
 				/*
 				 *	get the search term selected from the auto complete list (json object)
 				 */
@@ -2539,23 +2574,23 @@
 
 					/*
 					 *	get the length of the name of the site currently on(needed
-					 *	to see if the sitename/virtualweb needs to be 
+					 *	to see if the sitename/virtualweb needs to be
 					 *	stripped off
 					 */
 					iLenSitename = sSitename.length;
-					
+
 					/*
-					 *	if on an admin server strip off the '/sitename/virtualweb/' off the 
+					 *	if on an admin server strip off the '/sitename/virtualweb/' off the
 					 *	current page name (pulled from the Request.ServerVariables("SCRIPT_NAME")
 					 */
 					if (sInitPage.substr(0,iLenSitename + 13) == '/' + sSitename + '/virtualweb/') {
 						sInitPage = sInitPage.substr(iLenSitename + 13);
 					}
-					
+
 					/*
 					 *	check to see if the static page is located in
 					 *	a directory (only assuming one directory deep off the root
-					 *	since static pages are only one directory deep 
+					 *	since static pages are only one directory deep
 					 *	off the root)
 					 */
 					if (sInitPage.indexOf('/') >= 0) {
@@ -2577,8 +2612,8 @@
 
 		//================================================================
 
-		if (bUseAutoSuggest) {		
-			jQuery(function(){			
+		if (bUseAutoSuggest) {
+			jQuery(function(){
 				jQuery('#search_keyword').autocomplete([]);
 			});
 		}
@@ -2589,7 +2624,7 @@
 			return sText.replace(new RegExp(sReplaceThis, 'g'), sWithThis);
 		}
 
-		//On page load	
+		//On page load
 		jQuery(function() {
 
 			/*
@@ -2598,7 +2633,7 @@
 				jQuery('#style_searchfield1_make').change(function(){
 					clearModel();
 				});
-				
+
 				jQuery('#remove_model').click(function(){
 					clearModel();
 				});
@@ -2618,7 +2653,7 @@
 			if ( bShowReleaseDate ) {
 
 				if ( document.getElementById('releasedate_from') ) {
-					
+
 					var releaseDate = $( "#releasedate_from, #releasedate_to" ).datepicker({
 						defaultDate: "+1w",
 						changeMonth: true,
@@ -2641,7 +2676,7 @@
 							releaseDate.not( this ).datepicker( "option", option, date );
 						}
 					});
-					
+
 				} //- if ( document.getElementById('releasedate_from') )
 
 			} //- if ( bShowReleaseDate )
@@ -2649,7 +2684,7 @@
 			if ( bShowPreorderDate ) {
 
 				if ( document.getElementById('preorderdate_from') ) {
-				
+
 					var preorderDate = $( "#preorderdate_from, #preorderdate_to" ).datepicker({
 						defaultDate: "+1w",
 						changeMonth: true,
@@ -2676,35 +2711,35 @@
 
 		function customRange( input ) {
 
-			if ( input.id == 'releasedate_to' ) { 
-				return { 
-				  minDate: jQuery('#releasedate_from').datepicker("getDate") 
-				}; 
-			} else if ( input.id == 'releasedate_from' ) { 
-				return { 
-				  maxDate: jQuery('#releasedate_to').datepicker("getDate") 
-				}; 
+			if ( input.id == 'releasedate_to' ) {
+				return {
+				  minDate: jQuery('#releasedate_from').datepicker("getDate")
+				};
+			} else if ( input.id == 'releasedate_from' ) {
+				return {
+				  maxDate: jQuery('#releasedate_to').datepicker("getDate")
+				};
 			} //- if ( input.id == 'releasedate_to' )
-			 
-			if ( input.id == 'preorderdate_to' ) { 
-				return { 
-				  minDate: jQuery('#preorderdate_from').datepicker("getDate") 
-				}; 
-			} else if ( input.id == 'preorderdate_from' ) { 
-				return { 
-				  maxDate: jQuery('#preorderdate_to').datepicker("getDate") 
-				}; 
+
+			if ( input.id == 'preorderdate_to' ) {
+				return {
+				  minDate: jQuery('#preorderdate_from').datepicker("getDate")
+				};
+			} else if ( input.id == 'preorderdate_from' ) {
+				return {
+				  maxDate: jQuery('#preorderdate_to').datepicker("getDate")
+				};
 			} //- if ( input.id == 'preorderdate_to' )
 		} //- function customRange( input )
 
 		/*
-		 * Draw Google Analytics tags on submit 
+		 * Draw Google Analytics tags on submit
 		 * @auther - vinayakj
 		 * @since - 5/15/2012
-		 */		
+		 */
 		if ( bUseGoogleAnalyticTag ) {
 			jQuery("#search_submit").click(function() {
-				
+
 				var keywords = jQuery("#search_keyword").val();
 
 				keywords = keywords.replace(/ /g,'+');
@@ -2714,24 +2749,18 @@
 			});
 		}
 
-		//Strips single quotes from search keyword
-		function stripSingleQuotes()
-		{
-			var searchString = jQuery("#search_keyword").val();
-			jQuery("#search_keyword").val(searchString.replace(/'/g, ""));
-		}
-
 	</script>
 <ul id="mainnav2" class="mainnav clear-both pull-right">
 	<li class="dropdown"><a href="pc_combined_results.asp?pc_id=0EA61A951E5843D5B2FF9EE9DFC36E30" class="dropdown-toggle">Products <b class="caret"></b></a>
 
 		<ul class="dropdown-menu">
-		<li><a href="prodcat/seasoned-cast-iron.asp">Seasoned Cast Iron</a></li>
-		<li><a href="prodcat/enameled-cast-iron.asp">Enameled Cast Iron</a></li>
-		<li><a href="prodcat/seasoned-steel.asp&#10;">Seasoned Carbon Steel</a></li>
-		<li><a href="prodcat/cooking-accessories.asp">Cooking Accessories</a></li>
+		<li><a href="prodcat/120.asp"><img src="images/120th-logo.png" alt="" width="24" height="20">  120th</a></li>
+		<li><a href="prodcat/seasoned-cast-iron.asp">Cast Iron</a></li>
+		<li><a href="prodcat/enameled-cast-iron.asp">Enamel</a></li>
+		<li><a href="prodcat/seasoned-steel.asp&#10;">Carbon Steel</a></li>
+		<li><a href="stoneware/">Stoneware</a></li>
+		<li><a href="prodcat/cooking-accessories.asp">Accessories</a></li>
 		<li><a href="prodcat/cookbooks-and-videos.asp">Cookbooks</a></li>
-		<li><a href="prodcat/grilling-guide.asp">Grilling</a></li>
 		</ul></li>
 
 	<li class="dropdown"><a href="content/about-us.asp" class="dropdown-toggle">About Us <b class="caret"></b></a>
@@ -2785,7 +2814,7 @@
 
 		<ul class="dropdown-menu">
 		<li><a href="http://lodgecastiron.tumblr.com/" target="blank">The Latest</a></li>
-		<li><a href="about-us/news.asp##MailChimpModal" data-toggle="modal" "=""><i class="icon-envelope"></i> Subscribe</a></li>
+		<li><a href="about-us/news.asp##MailChimpModal" data-toggle="modal"><i class="icon-envelope"></i> Subscribe</a></li>
 		</ul></li>
 
 	<li><a href="https://www.lodgemfg.com/security_logon.asp?autopage=%2Fpage%2Easp%3Fp%5Fkey%3D0A23CFF9980440FC8D283BC55A36328C">Log In</a></li>
@@ -2793,6 +2822,35 @@
 </ul>
 					</div>
 				</div>
+				<div class="promo-banners">
+					
+
+			<div id="slide_show_Promo-Slides" class="carousel slide">
+				<div id="carousel_slide" class="carousel-inner">
+
+							<div class="item active">
+										<img src="images/promo-background.png" alt="" class="">
+									
+									<div class="carousel-caption">
+										<h2><a href="https://www.lodgemfg.com/prodcat/seasoned-cast-iron.asp"><span style="color: #000000;"><strong>FREE SHIPPING on ORDERS $99 and UP!</strong></span></a></h2>
+									</div>
+								
+
+							</div>
+
+				</div>
+
+				
+
+			</div>
+
+			<script>
+				$(function(){
+					$('#slide_show_Promo-Slides').carousel({interval:6000});
+				});
+			</script>
+				</div>
+				
 				</div>
 				<div class="template-content full">
 					<div class="fixed clear-after"><!-- include files here -->
@@ -2806,7 +2864,7 @@
 	
 						<ul class="breadcrumb" itemprop="breadcrumb">
 							<li itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="itemscope">
-								<a href="https://www.lodgemfg.com/" itemprop="url"><span itemprop="title">Home</span></a> 
+								<a href="http://www.lodgemfg.com/" itemprop="url"><span itemprop="title">Home</span></a> 
 								<span class="divider">&gt;</span>
 							</li>
 					
@@ -2819,7 +2877,6 @@
 					</header>
 				<div class="wpc_page_content">
 				<h3>Please refer to the order terms below. If you have any further questions, please contact us.&nbsp;</h3>
-<div>
 <div><br>
 <div>• Web orders will ship 5-7 business days from the time of purchase.&nbsp;</div>
 <div>• Any defective items purchased directly from Lodge are eligible for full refund or exchange by contacting customer service.&nbsp;</div>
@@ -2827,7 +2884,8 @@
 <div>• Items bought from retailers should be returned/exchanged at the place of purchase.&nbsp;</div>
 <div>• Transactions are transmitted using 128-bit secure socket layers (SSL) for up-to-date data protection&nbsp;</div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
+<h4><strong>New Jersey Residents:</strong></h4>
+<p>THESE TERMS REQUIRE YOU TO ARBITRATE DISPUTES, WAIVE YOUR RIGHT TO A JURY TRIAL AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FOR ANY ALLEGED BREACH OF THESE TERMS TO THE FULLEST EXTENT PERMITTED BY LAW.&nbsp;Any dispute or claim relating in any way to these terms of use, this website, or any products or services sold or distributed by or through this website, will be resolved by binding arbitration, rather than in court, except that you may assert claims in small claims court if your claims so qualify. The Federal Arbitration Act and federal arbitration law will apply to any arbitration conducted in connection with these terms and conditions, and any such arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of the American Arbitration Association (“AAA”). To the fullest extent permitted by law, we each agree that any arbitration or other dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. You and Lodge Manufacturing Co. agree, to the fullest extent permitted by law, to waive any objection based on lack of personal jurisdiction, place of residence, improper venue or forum non-conveniens, and you agree to give up any right to a jury trial in any such arbitration or other dispute resolution proceeding.</p>
 <h4><strong>Privacy Policy</strong></h4>
 <div>
 <p>This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p>
@@ -2847,7 +2905,7 @@
 <p>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
 <p><br><strong>We use cookies to:&nbsp;</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Help remember and process the items in the shopping cart.&nbsp;</p>
-<p><br> You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.</p>
+<p>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.</p>
 <p><strong>If users disable cookies in their browser:</strong></p>
 <p>If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders.<br>&nbsp;</p>
 <p><strong>Third Party Disclosure</strong></p>
@@ -2891,11 +2949,10 @@
 <p>United States</p>
 <p><a href="mailto:info@lodgemfg.com">info@lodgemfg.com</a></p>
 <p>423.837.7181</p>
-<p><br> Last Edited on 10/2014</p>
+<p><br> Last Edited on 09/2016</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-</div>
 </div>
 </div>
 				</div>
@@ -2961,7 +3018,7 @@
 				<div class="template-footer1 pull-left">
 					<img src="templates/gfx/logo-footer.png">
 					<div>Copyright © 2016 Lodge Manufacturing Company,<br>South Pittsburg, Tennessee.  All Rights Reserved.</div>
-						<a href="https://www.lodgemfg.com/dealerresources/" class="footer-sales-reps pull-left">Dealer Resources &gt;</a>
+						<a href="http://www.lodgemfg.com/dealerresources/" class="footer-sales-reps pull-left">Dealer Resources &gt;</a>
 				</div>
 				<div class="template-footer2 pull-left">
 					<strong>MENU</strong>
@@ -2971,7 +3028,7 @@
 		<ul>
 		<li><a href="content/useandcare.asp">Use &amp; Care</a></li>
 		<li><a href="careers">Careers</a></li>
-		<li class="active"><a href="page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C" class="active">Privacy</a></li>
+		<li class="active"><a href="page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C" class="active">Privacy/Terms</a></li>
 		</ul></li>
 
 	<li><a href="javascript:void(0);"></a>
