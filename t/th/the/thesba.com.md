@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502152859id_/http%3A//www.thesba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110052930id_/http%3A//www.thesba.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Newtek Business Services ::..
 
@@ -10,7 +10,7 @@ We know that your privacy is important to you. At The Small Business Authority, 
 
 **The security of your information is a priority to us.** We maintain physical, electronic, and procedural safeguards that comply fully with current federal law and standards to protect customer information. In addition, in those states where applicable laws are more restrictive than our Privacy Policy, we will restrict our sharing of your information to comply with those state laws.
 
-**And, we want to make sure you know how we protect your privacy.** If you have questions about our Privacy Policy, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/).
+**And, we want to make sure you know how we protect your privacy.** If you have questions about our Privacy Policy, please [Contact Us](https://www.newtekone.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/).
 
 Thank you for doing business with The Small Business Authority.
 
@@ -94,7 +94,7 @@ We do not share with our alliance partners personal consumer credit related info
 
 **How You Can Access or Correct Your Information**
 
-If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
+If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](https://www.newtekone.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before providing such information or making requested corrections.
 
@@ -130,8 +130,8 @@ We reserve the right to change this Privacy Policy, and any of the policies desc
 
 Should you have other questions or concerns about our Privacy Policy, please contact us as follows:
 
-  * For website content properties, [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/)
-  * For Privacy and Security concerns, [Contact Us](http://www.thesba.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/)
+  * For website content properties, [Contact Us](https://www.newtekone.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/)
+  * For Privacy and Security concerns, [Contact Us](https://www.newtekone.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/)
 
 
 
