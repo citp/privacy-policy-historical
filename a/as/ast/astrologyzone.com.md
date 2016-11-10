@@ -1,20 +1,33 @@
-> *The following text is extracted and transformed from the astrologyzone.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604032939id_/http%3A//www.astrologyzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrologyzone.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110174054id_/https%3A//www.astrologyzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Astrology Zone
+# Privacy Policy - Susan Miller Astrology Zone
 
-**SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM PRIVACY POLICY**  
-You may be asked to provide personal data in certain fields on this web site. The personal data collected on this site is used for the purpose for which it is requested.
+**Astrology Zone Privacy Policy**
 
-Contact information, such as your name, address, telephone number, or email address, for users with questions, concerns, complaints, or technical support questions, is used to respond to your request for information.
+This Privacy Policy (the “Privacy Policy”) tells you Astrology Zone uses personal information collected on our web site, astrologyzone.com (the “Site”). Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, shall be considered a “User.” By using the Site, each User consents to the collection, use, and disclosure of personally identifiable User information (“Information”) pursuant to the terms set forth below.
 
-When you sign up for an email newsletter at this site, SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM will use that address to deliver the email newsletter you have requested.
+**Collection of Information**
 
-You may always unsubscribe to the email newsletter at any time. [Click here](http://www.astrologyzone.com/mailinglist/subscribe.html) to subscribe or unsubscribe to the mailing list.
+We collect Information including names, email addresses and other information required to initiate and complete correspondence and transactions using services or programs available on our Site (including providing requested information and marketing communications), and any other information voluntarily submitted by our Users. We may also collect and store anonymous information relating to Users’ browsing patterns, including for example, the User’s browser version, Site referral information, IP address, operating system and other technical Site use information. When required, we may disclose specific Information upon governmental request, in response to a court order, or when required by law to do so. We may also share Information with companies assisting in fraud protection or investigation.
 
-While your information is held by SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM, it will be afforded the same high standards of protection that SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM provides for other business-related and commercial data. SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM may provide your information to third parties if SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM has contracted with a third party to provide some part of the information or service that you have requested. IF YOU DO NOT CHOOSE FOR YOUR DATA TO BE SHARED IT WILL NOT BE SHARED. You must opt-in when registering or when editing your user profile if you wish to share your user data.
+**Cookies**
 
-The AstrologyZone.com web site may use cookies or http header to maintain your session state. Cookies are required for usage of the community features offered by AstrologyZone.com. If you choose not to accept cookies, your usage of the communite features may be impaired.
+We may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain any Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. A cookie cannot read data off your hard disk or read cookie files created by other sites. Astrology Zone Foundation may uses cookies to track user traffic patterns to the Site, and for session authentication.
 
-From time to time, AstrologyZone.com may serve ad banners, pop-up ads, pop-under ads, etc., or may enter into other advertising or partnership arrangements with other websites and businesses. Without your explicit agreement, SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM will not share any information about your user profile or other personal information with these sites. These sites may independantly collect data on you, however, and SUSAN MILLER OMNIMEDIA ASTROLOGYZONE.COM accepts absolutely no responsibility for your usage of their site or services, nor any personal information you wish to share with them.
+**Data Security**
 
-If you have any specific questions, please email [us](mailto:webmaster@astrologyzone.com)!
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of Information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online. Only authorized employees, agents and contractors (who have agreed to keep Information secure and confidential) have access to this Information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be secure. As a result, we cannot guarantee or warrant the security of any Information you transmit to or from our Site, and you do so at your own risk. We make no representations or warranties with regard to the sufficiency of our security measures. We expressly disclaim any liability for any actual or consequential damages that result from a lapse in compliance with this Privacy Policy.
+
+**Children’s Privacy**
+
+This Site is not directed toward individuals under 13 years of age and we do not knowingly collect personal Information from anyone under the age of 13. To respect the privacy of children and to comply with the Children’s Online Privacy Protection Act, children under the age of 13 should not provide any personal Information on this Site. We ask that parents supervise their children while online.
+
+**Changes to our Privacy Policy**
+
+As the Site evolves, we may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised Privacy Policy here. If we make a significant or material change in the way we use your personal information, registered users of the Site will be notified via email. Please note that our rights to use your Information will be based on the Privacy Policy in effect at the time the Information is used.
+
+**Privacy Contact Information**
+
+If you have any questions, concerns, or comments about our Privacy Policy you may contact us using the information below:
+
+By email: [support@astrologyzone.com](mailto:support@astrologyzone.com)  
