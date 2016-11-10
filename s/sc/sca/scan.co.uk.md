@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602185817id_/https%3A//www.scan.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110194557id_/https%3A//www.scan.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scan.co.uk
 
