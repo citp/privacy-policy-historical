@@ -1,0 +1,48 @@
+> *The following text is extracted and transformed from the patientconnect365.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110144507id_/https%3A//www.patientconnect365.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+| 
+
+Revenue Well Systems (“RevenueWell”, “we”) created this Privacy Policy (“Policy”) in order to ensure confidence of all three groups of users we interact with: RevenueWell subscribers (“Subscribers”), the customers of RevenueWell subscribers (“Consumers”) and visitors to our corporate website and directories. Collectively we may refer to these groups as “users”.
+
+RevenueWell asks new Subscribers to provide their name, business name, address, phone and fax numbers, e-mail address, and payment information. This information is referred to as “Subscriber Information”. As part of RevenueWell’s service deployment process, your customers’ personally identifiable information (“Consumer Information”) is uploaded into our secure servers. This process is performed so RevenueWell can provide our services to consumers on your behalf. The collection of Subscriber Information and Consumer Information is done solely to provide our services to you in accordance with the [Customer Terms and Conditions](http://www.revenuewell.com/standard-terms/) and [Terms of Use](http://www.revenuewell.com/terms-of-use/).
+
+RevenueWell will never directly market to, or otherwise communicate directly with Consumers about RevenueWell or any third party products or services.
+
+As a consumer, you receive valuable and timely communication from a company with which you have an existing business relationship. You have the right at any time to opt-out from receiving these communications. If you would like to opt-out from receiving these communications please click “Update Preferences” in our e-mails, e-mail [info@revenuewell.com](mailto:info@revenuewell.com), or send “STOP” in response to text messages. If you transmit personal health information, you acknowledge that you waive any right to the privacy of such information.
+
+RevenueWell uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one our websites or hosted services, our servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to RevenueWell, either by becoming a subscriber, or filling out a Web form, you remain anonymous to us. Cookies allow us to personalize your experience with our website and to ensure that no unauthorized users can access our subscribers’ web pages within our service.
+
+To the extent permitted by law, RevenueWell may disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. RevenueWell may also use or disclose your information as permitted by law to perform charge verifications or protect our rights, interests, or property as well as those of our affiliates, customers, or website users. Following disclosure to any third party, information may be accessible by others to the extent permitted or required by applicable law.
+
+RevenueWell may provide aggregated information collected about our users, in accordance to practice described in this Policy, to some of our business partners. This information is used in a collective manner and does not identify you individually in any way.
+
+We may store information about your use, such as your search activity, the pages you view, the date and time of your visit, Subscribers you call, and appointments you make through our hosted service. We also may store information that your computer or mobile device provides to us in connection with your use of our websites and hosted services, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, phone number, unique device identifier, advertising identifier, location (including geolocation, beacon based location, and GPS location), and requested and referring URLs. You may be able to disallow our use of certain location data through your device or browser settings.
+
+RevenueWell always provides the ability for Users to opt-out of having personally identifiable information used as part of our service offering. All e-mails and text messages RevenueWell sends out on behalf of our subscribers provide a way for consumers to opt-out. In addition, any visitor to our site, subscriber to our service or consumer may e-mail us at [info@revenuewell.com](mailto:info@revenuewell.com) to opt-out of receiving any further correspondence from us.
+
+RevenueWell will only share Information that it collects or receives regarding its Users with third parties under the following circumstances:
+
+  * Consent: If we have a User’s consent to share any Information, we may do so.
+  * Service Providers: We may share information with contracted service providers so that these service providers can provide services on our behalf. Without limiting the foregoing, we may also share information with our service providers to ensure the quality of information provided. Unless described in this Privacy Policy, we do not share, sell, rent, or trade any information with third parties for their promotional purposes.
+  * Business Partners: From time to time, we may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from RevenueWell, we may share information collected in connection with your purchase or expression of interest with our joint promotion partner(s). RevenueWell does not control our business partners’ use of information we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
+  * Aggregate Anonymous and Non-Identifying Information: We may provide the aggregate statistics about our Users’ Site activity (i) to describe the use of the Site to existing or potential business partners, investors, or other third parties, (ii) in response to a government request or (iii) for analytics or similar activities.
+  * Protection of RevenueWell or Others: We may disclose Information about our Users to others if we have a good faith belief that we are required or permitted to do so by law or legal process, to respond to claims, to protect the rights, property or safety of RevenueWell or others, or take action regarding illegal activities or suspected fraud.
+  * Business Transfers: If we sell, merge or transfer any part of our business, part of the sale may include your personal information. If so, you will be asked if you’d like to stop receiving promotional information following any change of control.
+
+
+
+This website may contain links to other Web sites. The information practices or the content of such other Web sites is governed by the privacy statements of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
+
+Subscribers to our service may update their personal information or their customers’ personal information by logging into our service. Our software is configured to synchronize Consumer Information on a regular basis with the related subscriber’s consumer database, so any updates, changes or opt-out requests communicated directly to our subscribers by their consumers will be automatically uploaded into our site, keeping our site up-to-date with current and correct Consumer Information.
+
+RevenueWell takes the highest precautions to protect our subscribers’ information. When you submit sensitive information via the corporate website or our hosted product, your information is protected both online and offline using standard security best practices such as firewalls, encryption and intrusion detection.
+
+RevenueWell will update this policy from time to time. A “last revised” date will always be included at the top of the statement. To keep up-to-date with RevenueWell’s privacy policy, please check this page periodically.
+
+If you have any questions about this privacy policy or if you feel that RevenueWell is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [info@revenuewell.com](mailto:info@revenuewell.com) or mail us at 2275 Half Day Rd, Suite 182, Bannockburn, IL 60015.
+
+© 2016 Revenue Well Systems, LLC. All rights reserved. April _  21, 2016_  
+  
+---|---
