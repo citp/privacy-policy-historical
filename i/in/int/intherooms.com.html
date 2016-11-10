@@ -1,41 +1,43 @@
-<!--The following is the downloaded HTML source of the intherooms.com privacy policy that was archived on 2016-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613045610id_/http%3A//www.intherooms.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intherooms.com privacy policy that was archived on 2016-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110170904id_/http%3A//www.intherooms.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-        
-            <link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="/arrowchat/external.php?type=css" charset="utf-8">
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/arrowchat/includes/js/jquery.js"></script>
-        <script type="text/javascript" src="/arrowchat/includes/js/jquery-ui.js"></script>
-    
-    <script src="//js.pusher.com/2.2/pusher.min.js"></script>
+    <title> In The Rooms</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, height=device-height, user-scalable=yes">
 
-    <title> In The Rooms</title>
-
+            <meta charset="utf-8">
+    
     <link rel="shortcut icon" href="https://media.intherooms.com/images/icons/favicon.ico">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="//www.intherooms.com/css_min/1468871521/sweetalert.min.css">    <link rel="stylesheet" type="text/css" href="//www.intherooms.com/css_min/1469715272/font-awesome-animation.min.css">    <link rel="stylesheet" type="text/css" href="//www.intherooms.com/css_min/1469806336/checkmark_circle.min.css">
+    <!--
+        bootstrap 3 isolated version.
+        put .bootstrap-iso class on html/body or a div to apply bootstrap
+        styles to the children of that tag
+    -->
+    <link href="/css/bootstrap-iso.css" type="text/css" rel="stylesheet">
+
+    <link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="/arrowchat/external.php?type=css" charset="utf-8">
 
     <link href="/css/beta/main.css" type="text/css" rel="stylesheet">
     <link href="/css/main.css" type="text/css" rel="stylesheet">
+    <link href="/css/colorbox.css" type="text/css" rel="stylesheet">
 
-            <meta charset="utf-8">
-    
-            <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-        <script type="text/javascript" src="/min/index.php?g=js"></script>
-        <script type="text/javascript" src="/js/swfobject.js"></script>
-    <script type="text/javascript" src="/min/index.php?f=/ce/ce.js&amp;1462715201"></script>
+    <script src="//js.pusher.com/3.2/pusher.min.js"></script>
+
+        <script type="text/javascript" src="//www.intherooms.com/js_min/1473363458/frameworks.min.js"></script>
 
     <script type="text/javascript">
-        var ec = new ce();
-        getEc();
-
         jQuery.migrateMute = true;
+
+        var _itr_google_tracking_id = '8',
+            ec = new ce();
+
+        getEc();
     </script>
-
-    <script type="text/javascript" src="/js/soundmanager2-nodebug-jsmin.js"></script>
-
 
     
         <style type="text/css">
@@ -57,11 +59,7 @@
 
     <script type="text/javascript">
         var _defaultList = 13;
-    </script>
-
-    <script type="text/javascript">
-        //var _sf_startpt=(new Date()).getTime();
-        //var _sf_async_config.title = "/help/privacy";
+        var _itr_google_tracking_id = '8';
     </script>
 
     <!--[if lte IE 9]>
@@ -73,8 +71,6 @@
         <link rel="stylesheet" href="/css/beta/ie7.css">
     <![endif]-->
 
-    <link href="/css/colorbox.css" type="text/css" rel="stylesheet">
-    
     <script type="text/javascript">
         $(function() {
             window.pusher = new Pusher('21aaa3b2c0f29023ba08');
@@ -328,7 +324,6 @@
        <div class="panel-b"><div></div></div>
     </div>
 </div>
-
         </div>
         <br class="clear-fix">
 
@@ -337,28 +332,96 @@
 </div>
     </div>
 
-    <script type="text/javascript" src="/js/itr.js"></script>
+
+    <script src="https://cdn.ravenjs.com/3.5.1/raven.min.js"></script>
+    <script type="text/javascript">
+        // var ac_re = /arrowchat/gi;
+        var itr_re = /(frameworks|application|meetings)\.min\.js/gi;
 
 
+        Raven.config('https://0e9710e8ddab43dca75afb2b62b9e4ad@app.getsentry.com/84942', {
+            release: '2016-09-14',
+            shouldSendCallback: function(data) {
+                if (data) {
+                    var culprit = (data.culprit || '');
 
-<script type="text/javascript">
+                    // _vm is the global javascript object for the video meetings
+                    // add the meeting_state to the extra data for a better idea of what
+                    // went wrong/caused the error
+                    if (typeof _vm != 'undefined' && _vm && _vm.state) {
+                        var _rvn_extra = data.extra || {};
+                        data.extra = $.extend(true, {}, _rvn_extra, {
+                            opentok_session: _vm.opentok.session,
+                            meeting_state:   _vm.state
+                        });
+                        delete data.extra.meeting_state.users;
+                    }
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4493458-8']);
-  _gaq.push(['_trackPageview']);
+                    // if the error came from our app, send the error
+                    if (itr_re.test(culprit)) {
+                        return true;
+                    }
+                }
+                return false;
+            },
+            // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
+            // See: https://github.com/getsentry/raven-js/issues/73
+            ignoreErrors: [
+                // Random plugins/extensions
+                'top.GLOBALS',
+                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+                'originalCreateNotification',
+                'canvas.contentDocument',
+                'MyApp_RemoveAllHighlights',
+                'http://tt.epicplay.com',
+                'Can\'t find variable: ZiteReader',
+                'jigsaw is not defined',
+                'ComboSearch is not defined',
+                'http://loading.retry.widdit.com/',
+                'atomicFindClose',
+                // Facebook borked
+                'fb_xd_fragment',
+                // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+                // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+                'bmi_SafeAddOnload',
+                'EBCallBackMessageReceived',
+                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+                'conduitPage',
+                'arrowchat',
+                'Function.runarrowchat',
+            ],
+            ignoreUrls: [
+                /arrowchat/ig,
+                // Facebook flakiness
+                /graph\.facebook\.com/i,
+                // Facebook blocked
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // Woopra flakiness
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // Chrome extensions
+                /extensions\//i,
+                /^chrome:\/\//i,
+                // Other plugins
+                /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i,
+                // urls discovered from error reports
+                /abf\.anyplacetrivial\.com\//i
+            ]
+        }).install();
 
-  _gaq.push(['b._setAccount', 'UA-16397668-5']);
-  _gaq.push(['b._setDomainName', 'intherooms.com']);
-  _gaq.push(['b._setAllowLinker', true]);
-  _gaq.push(['b._trackPageview']);
+        Raven.setUserContext({
+            user_id:   0,
+            username: '',
+        });
+    </script>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<script type="text/javascript" src="//www.intherooms.com/js_min/1473363458/application.min.js"></script>
 
-</script>
+
+<script type="text/javascript" src="/js/tracking/google.js"></script>
+
             <script type="text/javascript" src="/arrowchat/external.php?type=djs" charset="utf-8"></script>
         <script type="text/javascript" src="/arrowchat/external.php?type=js" charset="utf-8"></script>
     
