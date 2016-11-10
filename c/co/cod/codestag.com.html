@@ -1,21 +1,17 @@
-<!--The following is the downloaded HTML source of the codestag.com privacy policy that was archived on 2016-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160411191336id_/https%3A//codestag.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codestag.com privacy policy that was archived on 2016-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110070554id_/https%3A//codestag.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-
-<link rel="dns-prefetch" href="//use.typekit.net">
-<link rel="dns-prefetch" href="//google-analytics.com">
-
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Policy - Codestag</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="https://codestag.com/xmlrpc.php">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/maa3bwo.js"></script>
+<script type="text/javascript" src="//use.typekit.net/maa3bwo.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://codestag.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -31,10 +27,16 @@
 <meta name="twitter:creator" content="@john_pixle">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="dns-prefetch" href="//use.typekit.net">
+<link rel="dns-prefetch" href="//google-analytics.com">
+<link rel="alternate" type="application/rss+xml" title="Codestag » Feed" href="https://codestag.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Codestag » Comments Feed" href="https://codestag.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/codestag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
-			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://codestag.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/codestag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://codestag.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -50,8 +52,8 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="codestag-style-css" href="https://codestag.com/wp-content/themes/codestag/style.css?ver=1.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="https://codestag.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.6" type="text/css" media="all">
-<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<link rel="stylesheet" id="jetpack_css-css" href="https://codestag.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.1" type="text/css" media="all">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.2 - Universal enabled - https://www.monsterinsights.com/ -->
 <script type="text/javascript">
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -64,43 +66,42 @@ img.emoji {
 	__gaTracker('send','pageview');
 
 </script>
-<!-- / Google Analytics by Yoast -->
-<script type="text/javascript" src="https://codestag.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="https://codestag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript" src="https://codestag.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://codestag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var edd_scripts = {"ajaxurl":"https:\/\/codestag.com\/wp-admin\/admin-ajax.php","position_in_cart":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"1","checkout_page":"https:\/\/codestag.com\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+var edd_scripts = {"ajaxurl":"https:\/\/codestag.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"1","checkout_page":"https:\/\/codestag.com\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://codestag.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.5.10"></script>
-<script type="text/javascript" src="https://codestag.com/wp-content/plugins/simple-notices-pro/js/jquery.cookie.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://codestag.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.6.8"></script>
+<script type="text/javascript" src="https://codestag.com/wp-content/plugins/simple-notices-pro/js/jquery.cookie.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var notices_ajax_script = {"ajaxurl":"https:\/\/codestag.com\/wp-admin\/admin-ajax.php","logged_in":"no"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://codestag.com/wp-content/plugins/simple-notices-pro/js/notifications.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://codestag.com/wp-content/plugins/simple-notices-pro/js/notifications.js?ver=4.6.1"></script>
 <link rel="https://api.w.org/" href="https://codestag.com/wp-json/">
 <link rel="shortlink" href="http://codest.ag/123hp0s">
 <link rel="alternate" type="application/json+oembed" href="https://codestag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcodestag.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://codestag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcodestag.com%2Fprivacy-policy%2F&amp;format=xml">
-
+<style type="text/css">img#wpstats{display:none}</style>
 <!-- Begin Custom CSS -->
 <style type="text/css" id="cs-custom-css">
 .herospace--cover{background-image:url(https://codestag.com/wp-content/uploads/2014/09/hero_7-1.jpg);}
 </style>
 <!-- End Custom CSS -->
+<link rel="icon" href="https://codestag.com/wp-content/uploads/2016/08/cropped-codestag-mark-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://codestag.com/wp-content/uploads/2016/08/cropped-codestag-mark-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://codestag.com/wp-content/uploads/2016/08/cropped-codestag-mark-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://codestag.com/wp-content/uploads/2016/08/cropped-codestag-mark-1-270x270.png">
+
+<style id="custom-css-css">.herospace__title,.herospace__description{max-width:600px}#builder-section-1416423787587 .builder-banner-content{text-shadow:none}</style>
 </head>
 <body class="page page-id-973 page-template-default edd-failed-transaction edd-page group-blog two-column" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
-					<div id="notification-area" class="notification-area green snp-hidden" data-effect="fade">
-						<div id="notice-content">
-														<a class="remove-notice" href="#" id="remove-notice" rel="3465">×</a>
-							
-														<p>We have just released an awesome blogging theme named Carbon. <a href="http://codest.ag/CarbonTheme" target="_blank">Check it out on Themeforest →</a></p>
-						</div>
-					</div>
-				
+
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
@@ -171,29 +172,29 @@ var notices_ajax_script = {"ajaxurl":"https:\/\/codestag.com\/wp-admin\/admin-aj
 		</aside><aside id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://codestag.com/">
 				<label>
 					<span class="screen-reader-text">Search for:</span>
-					<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
 				</label>
 				<input type="submit" class="search-submit" value="Search">
 			</form></aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h4 class="widget-title">Recent Blog Posts</h4>		<ul>
 					<li>
-				<a href="https://codestag.com/carbon/">Carbon – Our latest theme</a>
-							<span class="post-date">February 12, 2016</span>
+				<a href="https://codestag.com/website-creation-launch-qa-3-customers/">From Website Creation to Launch: A Q&amp;A with 3 Customers</a>
+							<span class="post-date">September 26, 2016</span>
 						</li>
 					<li>
-				<a href="https://codestag.com/we-retire-two-old-themes/">We retire two old themes</a>
-							<span class="post-date">February 12, 2016</span>
+				<a href="https://codestag.com/wordpress-theme-customization-services/">5 WordPress theme customization service providers</a>
+							<span class="post-date">September 22, 2016</span>
 						</li>
 					<li>
-				<a href="https://codestag.com/introducing-stagtools-2-0/">Introducing StagTools 2.0</a>
-							<span class="post-date">July 16, 2015</span>
+				<a href="https://codestag.com/image-resources-and-a-good-pair-of-fonts-for-your-new-wordpress-site/">Image resources and a good pair of fonts for your new WordPress site</a>
+							<span class="post-date">July 7, 2016</span>
 						</li>
 				</ul>
 		</aside>		<aside id="categories-3" class="widget widget_categories"><h4 class="widget-title">Blog Categories</h4>		<ul>
 	<li class="cat-item cat-item-28"><a href="https://codestag.com/category/announcements/">Announcements</a> (1)
 </li>
-	<li class="cat-item cat-item-25"><a href="https://codestag.com/category/customer-stories/">Customer stories</a> (2)
+	<li class="cat-item cat-item-25"><a href="https://codestag.com/category/customer-stories/">Customer stories</a> (3)
 </li>
-	<li class="cat-item cat-item-13"><a href="https://codestag.com/category/design/">Design</a> (4)
+	<li class="cat-item cat-item-13"><a href="https://codestag.com/category/design/">Design</a> (5)
 </li>
 	<li class="cat-item cat-item-10"><a href="https://codestag.com/category/misc/">Misc</a> (8)
 </li>
@@ -203,7 +204,7 @@ var notices_ajax_script = {"ajaxurl":"https:\/\/codestag.com\/wp-admin\/admin-aj
 </li>
 	<li class="cat-item cat-item-12"><a href="https://codestag.com/category/updates/">Updates</a> (15)
 </li>
-	<li class="cat-item cat-item-3"><a href="https://codestag.com/category/wordpress/">WordPress</a> (8)
+	<li class="cat-item cat-item-3"><a href="https://codestag.com/category/wordpress/">WordPress</a> (10)
 </li>
 		</ul>
 </aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><i class="fa fa-stag"></i></div>
@@ -262,13 +263,13 @@ var notices_ajax_script = {"ajaxurl":"https:\/\/codestag.com\/wp-admin\/admin-aj
 
 </div><!-- #page -->
 
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201645"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var zerospam = {"key":"t&TaI*#BB*Q3(tRVS1gVE3^0hOFbdhaF2L6tyDTWWae@aLB0BJe@qa5DR%WjZ1Re"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://codestag.com/wp-content/plugins/zero-spam/js/zerospam.js?ver=2.0.0"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201615"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var codestagFitVids = {"selectors":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"};
@@ -276,8 +277,14 @@ var codestagFitVids = {"selectors":"iframe[src*='www.viddler.com'],iframe[src*='
 </script>
 <script type="text/javascript" src="https://codestag.com/wp-content/themes/codestag/assets/js/lib/fitvids/jquery.fitvids.min.js?ver=1.1"></script>
 <script type="text/javascript" src="https://codestag.com/wp-content/themes/codestag/assets/js/frontend.min.js?ver=1.0.3"></script>
-<script type="text/javascript" src="https://codestag.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://codestag.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201645.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.1',blog:'44668590',post:'973',tz:'0',srv:'codestag.com'} ]);
+	_stq.push([ 'clickTrackerInit', '44668590', '973' ]);
+</script>
 
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"26346a070e","applicationID":"4340277","transactionName":"NFwHYhYEXkEEB0ULXg0WJFUQDF9cShRQBVQ=","queueTime":0,"applicationTime":890,"atts":"GBsQFF4eTR5HBRNYSh5E","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
