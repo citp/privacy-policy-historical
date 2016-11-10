@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401031203id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110062957id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
 
 # Wealthfront Privacy Policy
 
@@ -12,7 +12,7 @@ We created this Privacy Policy to be as clear and direct as possible about how w
 
 ## Introduction
 
-Wealthfront Inc. (“Wealthfront”, “we”, “us” and/or “our”) operates an automated investment service (“Service”). Our Service is made available through our [website](https://web.archive.org/home) and via applications that reside on mobile devices. This Privacy Policy describes how Wealthfront treats your Personal Data when you use or evaluate our service. 
+Wealthfront Inc. (“Wealthfront”, “we”, “us” and/or “our”) operates an automated investment service (“Service”). Our Service is made available through our [website](https://web.archive.org/) and via applications that reside on mobile devices. This Privacy Policy describes how Wealthfront treats your Personal Data when you use or evaluate our service. 
 
 For the purpose of this agreement a User is an individual who uses our website or mobile application to evaluate our service, or for educational purposes and a Client is an individual who signs our [Client Agreement](https://www.wealthfront.com/static/documents/client-agreements/WEALTHFRONT-CLIENT-ACCOUNT-AGREEMENT.pdf) that entitles the Client to have her or his investment portfolio managed by Wealthfront. Our Privacy Policy, [Terms of Use](https://web.archive.org/legal/terms) and where applicable [Client Agreement](https://www.wealthfront.com/static/documents/client-agreements/WEALTHFRONT-CLIENT-ACCOUNT-AGREEMENT.pdf) collectively govern your use or evaluation of our service. 
 
