@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617134602id_/http%3A//derrenbrown.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110163325id_/http%3A//derrenbrown.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Derren Brown
 
@@ -75,7 +75,7 @@ You mind find links to third party websites on our website. These websites shoul
 
 #### **Access To Information**
 
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of Â£10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
 #### **Contacting Us**
 
