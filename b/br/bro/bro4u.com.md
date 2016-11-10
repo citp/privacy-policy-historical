@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bro4u.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801235013id_/https%3A//bro4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bro4u.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111004951id_/https%3A//bro4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bro4u.com
+# Privacy Policy
 
 Bro4u Online Services Private Limited ("Bro4u") is concerned about the privacy of its users (hereinafter referred to as "You" "Your" "Yourself") accessing its website located at www. Bro4u.com ("Website") and has provided this Privacy Policy ("Policy") to familiarize You with the manner in which Bro4u collects, uses and discloses Your information collected through the Website.
 
