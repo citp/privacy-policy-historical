@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508202003id_/http%3A//www.heywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110112544id_/http%3A//www.heywire.com/privacy-policy) for the most accurate reproduction.*
 
 # HeyWire - Privacy Policy
 
@@ -87,15 +87,11 @@ We have created mechanisms to provide you with the following control over your i
 
 The Services are hosted on servers in the United States and are subject to U.S. law.
 
-### 7\. HEYWIRE FREE TEXTING PRIVACY POLICY
-
-Use of HeyWire Free Texting services are subject to HeyWire’s Free Texting services Privacy Policy which can be found at [http://goheywire.com/Privacy_Policy.html](http://goheywire.com/Privacy_Policy.html).
-
-8\. CHANGES TO THIS PRIVACY POLICY
+### 7\. CHANGES TO THIS PRIVACY POLICY
 
 HeyWire reserves the right to change this Privacy Policy. If we make changes to the Privacy Policy, we will revise the policy’s effective date, included at the beginning of this policy. We encourage you to periodically review this policy to be informed of how HeyWire is protecting your Personal Information.
 
-9\. CONTACTING UP
+### 8\. CONTACTING UP
 
 If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
 
