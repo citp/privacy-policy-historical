@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daftpunk.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117013459id_/http%3A//www.daftpunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daftpunk.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110034545id_/https%3A//www.daftpunk.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Daft Punk US Shop
 
 **What This Privacy Policy Covers**
 
@@ -14,13 +14,13 @@ This policy does not apply to companies that Sandbag does not control, or to any
 
 Sandbag collects personal information when you register with Sandbag and when you use Sandbag's site.
 
-When you register we ask for information such as your name, email address, birth date, gender, zip code. Once you register with Sandbag **and** sign in to our services, you are not anonymous to us.
+When you register we ask for information such as your name, email address, birth date, gender, zip code. Once you register with Sandbag  **and**  sign in to our services, you are not anonymous to us.
 
 Sandbag collects information about your transactions with us.
 
 Sandbag automatically receives and records information on our server logs from your browser, including your IP address, Sandbag cookie information, and the page you request.
 
-Sandbag uses information for the following general purposes: to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide **anonymous** reporting for our Management team and or our Web team.
+Sandbag uses information for the following general purposes: to fulfill your requests for products and services, improve our services, contact you, conduct research, and provide **  anonymous** reporting for our Management team and or our Web team.
 
 **Information Sharing and Disclosure**
 
