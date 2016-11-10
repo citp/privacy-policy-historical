@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402133353id_/https%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110234409id_/https%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
 
 # Christian Courier
 
