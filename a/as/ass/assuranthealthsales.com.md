@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assuranthealthsales.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317181235id_/http%3A//www.assuranthealth.com/corp/ah/AboutAssurantHealth/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealthsales.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110084135id_/http%3A//www.assuranthealth.com/corp/ah/AboutAssurantHealth/privacypolicy.htm) for the most accurate reproduction.*
 
 # Assurant Health Privacy Policy
 
@@ -68,6 +68,6 @@ We do not knowingly collect personal information from anyone under the age of 13
 
 **XII. Privacy contact information**
 
-We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Health Privacy Office, 501 W. Michigan Avenue, Milwaukee WI 53203 or e-mail us your question at [ahprivacyoffice@assurant.com](mailto:ahprivacyoffice@assurant.com?subject=Privacy%20Policy)
+We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Health Privacy Office, 501 W. Michigan Avenue, Milwaukee WI 53203. 
 
 This icon indicates a link to a website that is not owned or affiliated with Assurant Health. This link is provided for your convenience only, and does not constitute a statement of endorsement, approval, or affiliation or favoring of the external site. Assurant Health is not responsible for the content, views, products or availability of the site, nor does it assume any liability for the accuracy or completeness of its information. Please read our [Privacy Policy](https://web.archive.org/about-assurant-health/privacy-policy) and [Legal Notice](https://web.archive.org/about-assurant-health/legal-notice) for more information.
