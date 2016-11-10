@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geopoliticalfutures.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424225354id_/https%3A//geopoliticalfutures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geopoliticalfutures.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110212044id_/https%3A//geopoliticalfutures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geopolitical Futures
 
@@ -12,13 +12,13 @@ Privacy; Confidential Information
 
 GPFs’ policy is to protect the confidentiality of the individually identifiable information that you provide. GPF collects the following information from you if you subscribe to our free weekly newsletter: name and email address; or subscribe to our paid website: name, e-mail address, street address, city, state, ZIP, country, phone number. In addition, if you choose to complete certain forms or send us requests, you will be asked to provide the following information: street address, city, state ZIP, phone number. Because payment is handled through a third-party payment processor, GPF will NOT see your credit card number or banking information.
 
-You consent to GPF sharing its mailing list with third parties, who may contact you directly.
+You consent to GPF sharing its mailing list with our marketing partner Mauldin Economics, who may contact you directly.
 
 GPF’s policy is to prohibit the unlawful disclosure of your personal information. To learn more about how GPF protects your personal information, please contact us at [support@geopoliticalfutures.com](mailto:support@geopoliticalfutures.com).
 
 Mailing List for free weekly newsletter
 
-GPF encourages all users of this Site to register for the mailing list, so that you can receive our free weekly newsletter written by George Friedman. You may unsubscribe at any time by clicking unsubscribe in the email you received when you subscribed, clicking the unsubscribe link in any content email you receive, emailing [support@geopoliticalfutures.com](mailto:support@geopoliticalfutures.com), or calling Customer Support – Toll Free: 1-855-558-7778, International Callers: 1-602-910-5252.
+GPF encourages all users of this Site to register for the mailing list, so that you can receive our free weekly newsletter written by George Friedman. You may unsubscribe at any time by clicking unsubscribe in the email you received when you subscribed, clicking the unsubscribe link in any content email you receive, emailing [support@geopoliticalfutures.com](mailto:support@geopoliticalfutures.com), or calling Customer Support – Toll Free:1-888-982-8217, International Callers:1-512-687-3444.
 
 Computer Information
 
