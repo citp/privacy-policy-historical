@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the armor-x.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110054552id_/http%3A//www.armor-x.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+**ABOUT**
+
+[About Us](http://www.armor-x.com/about-armorx-armor-x-mount "About Us")
+
+[Trade shows](http://www.armor-x.com/armor-x-mount-trade-shows "Trade shows")
+
+[Where To Buy](http://www.armor-x.com/armor-x-mount-where-to-buy "Where To Buy")
+
+[Contact](http://www.armor-x.com/armor-x-static-contact "Contact")
+
+**HELP**
+
+[Track Your Order](http://www.armor-x.com/armor-x-track-your-order "Track Your Order")
+
+[Payment](http://www.armor-x.com/payment-armorx-armor-x-mount-armorxmount "Payment")
+
+[Worldwide Delivery](http://www.armor-x.com/armor-x-worldwide-delivery "Worldwide Delivery")
+
+[Privacy Policy](http://www.armor-x.com/privacy-policy "Privacy Policy")
+
+[Return Policy](http://www.armor-x.com/armor-x-return-policy "Return Policy")
+
+[1 Year Warranty](http://www.armor-x.com/armor-x-limited-warranty "1 Year Warranty")
+
+[Limitation Of Liability](http://www.armor-x.com/limitation-of-liability "Limitation Of Liability")  
+
+|   | 
+
+**PRIVACY POLICY**
+
+The website is owned and operated by ARMOR-X. Our Privacy Policy was developed to help you understand the type of information we collect on our website and how this information is used. We update this site periodically therefore our policies may change accordingly depending on the nature of these changes.
+
+Our site is hosted on secure servers and all transactions are carried out through a secure shopping cart that is 100% PCI-DSS compliant. This ensures that no one can access your information as it gets transmitted over the Internet. Our systems ensure that your information is not misused or altered. At no time should you use email to transmit your financial information to us as email is not a secure channel.Our site uses cookies to provide you with an enhanced shopping experience while visiting our site.
+
+Your web browser allows you to prevent cookies from being accepted. However, this will compromise your experience so we recommend that the cookie feature is turned on. When ordering products from our site, we receive and store certain types of information that may include the following:
+
+  * name
+  * telephone number
+  * email addressbilling address
+  * credit card or PayPal account information
+  * IP address/domain name
+  * personal information you may have volunteered
+
+
+
+By using this site, you consent to the collection and use of this information by ARMOR-X LIMITED. We do not share or sell any of our customer’s information with anyone and all information you submit to the site will remain secure. We may collect information regarding the pages viewed by our visitors so we can optimize and improve our website experience. We do not knowingly request personally identifiable information from anyone under the age of 13. You may opt to provide your email so we may provide you with product or event information. If you would like to stop receiving these emails, please email us at info@armor-x.com requesting to be removed from the list.
+
+Our website may include links to or from other websites. Our Privacy and Security Policy does not extend to these third party sites. If you have any questions regarding this policy, please email us at info@armor-x.com  
+  
+---|---|---
