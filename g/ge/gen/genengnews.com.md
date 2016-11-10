@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612073734id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110125621id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | GEN
+
+  * [ ](https://web.archive.org/gen-articles/priming-cell-lines-for-peak-performance/5879) [Priming Cell Lines for Peak Performance](https://web.archive.org/gen-articles/priming-cell-lines-for-peak-performance/5879)
+
+As Demand for Therapeutic Proteins Rises, Bioprocessors Have a Choice: Try to Do More of The Same, Or Try to Do Better
+
+  * [ ](https://web.archive.org/gen-articles/lighting-the-way-optogenetically/5881) [Lighting the Way, Optogenetically](https://web.archive.org/gen-articles/lighting-the-way-optogenetically/5881)
+
+It’s Important, Says Optogenetics Pioneer, to Keep a Laser Focus on Neuronal Circuits
+
+  * [ ](https://web.archive.org/gen-exclusives/vaccine-interrupted/77900780) [Vaccine, Interrupted](https://web.archive.org/gen-exclusives/vaccine-interrupted/77900780)
+
+Simplifying Regulatory Complexity to Avoid Delays in Immunization
+
+  * [ ](https://web.archive.org/gen-exclusives/as-kite-taxis-for-takeoff-another-flight-plan-emerges/77900782) [As Kite Taxis for Takeoff, Another Flight Plan Emerges](https://web.archive.org/gen-exclusives/as-kite-taxis-for-takeoff-another-flight-plan-emerges/77900782)
+
+Study Cites Opdivo Risk; New Indications OK’d for Tecentriq, Keytruda
+
+
+
 
 This Privacy Statement is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website and our products and services. Genetic Engineering & Biotechnology News is committed to maintaining the privacy of clients and potential clients alike. Our relationships with our clients and potential clients are of the utmost importance; the trust we’ve developed with them is a paramount concern of ours. 
 
@@ -13,7 +32,7 @@ You may be requested to provide personal information when you register, subscrib
 ### For Canadian Residents
 
 Disclosure of Personal Information:  
-We will not disclose, rent, sell or otherwise transfer your personal information without your consent, except as otherwise set out in this Privacy Statement.
+We will not disclose, rent, sell or otherwise transfer your personal information without your consent, except as otherwise set out in this Privacy Statement. 
 
 ### Third Party Products and Services
 
