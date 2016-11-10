@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the desktopaper.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316145942id_/http%3A//www.desktopaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopaper.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110055753id_/http%3A//www.desktopaper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Desktopaper | HD Desktop Wallpapers
-
-## [Privacy Policy](http://www.desktopaper.com/privacy-policy/ "Privacy Policy")
+# Privacy Policy -
 
 It is our intention at **desktopaper.com** to manage your personal information in an open and transparent way.
 
