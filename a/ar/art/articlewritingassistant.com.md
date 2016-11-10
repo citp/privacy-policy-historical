@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlewritingassistant.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422063923id_/http%3A//articlewritingassistant.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewritingassistant.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110235957id_/http%3A//articlewritingassistant.com/privacy.php) for the most accurate reproduction.*
 
 # OUR PRIVACY POLICY
 
