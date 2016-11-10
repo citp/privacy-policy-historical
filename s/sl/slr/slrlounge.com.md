@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slrlounge.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421022408id_/https%3A//www.slrlounge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slrlounge.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110105446id_/https%3A//www.slrlounge.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | SLR Lounge
 
 SLR Lounge will only use your information to contact you on a specific order or website updates. We will not use your information with any outside parties. We will not share your information with other entities, other than your credit card company when your order is placed. Credit card numbers will not be kept on file for future use.
 
