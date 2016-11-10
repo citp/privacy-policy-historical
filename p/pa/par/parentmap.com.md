@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602135110id_/https%3A//www.parentmap.com/article/our-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110092930id_/https%3A//www.parentmap.com/article/our-online-privacy-policy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy - ParentMap
 
