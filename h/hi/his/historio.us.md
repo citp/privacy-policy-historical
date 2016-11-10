@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historio.us privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233427id_/http%3A//historio.us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historio.us privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110022743id_/http%3A//historio.us/help/privacy) for the most accurate reproduction.*
 
 # privacy policy - historious
 
