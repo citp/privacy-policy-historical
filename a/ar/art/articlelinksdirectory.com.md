@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlelinksdirectory.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315115451id_/http%3A//articlelinksdirectory.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelinksdirectory.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110010143id_/http%3A//articlelinksdirectory.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Article Links Directory | Free Article Directory | Privacy Policy
 
