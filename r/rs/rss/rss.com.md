@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624004648id_/https%3A//www.rss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110090903id_/https%3A//www.rss.com/privacy_policy) for the most accurate reproduction.*
 
 # RSS Reader
 
