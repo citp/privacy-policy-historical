@@ -1,0 +1,865 @@
+<!--The following is the downloaded HTML source of the sendinblue.com privacy policy that was archived on 2016-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110061928id_/https%3A//www.sendinblue.com/legal/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="no-js" lang="en"><head>
+
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="msapplication-config" content="none">
+	<title>Privacy Policy</title>
+	<meta name="description" content="Privacy Policy">
+        <meta name="keywords" content="">
+	<link rel="shortcut icon" href="https://static.sendinblue.com/images/favicon.ico">
+
+	<!-- ================== BEGIN BASE CSS STYLE ================== -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lora:400italic" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+	<link href="https://static.sendinblue.com/styles/font-awesome.min.css" rel="stylesheet">
+	<link href="https://www.sendinblue.com/public/css/typicons.min.css" rel="stylesheet">
+	<link href="https://www.sendinblue.com/public/css/style.css?v=1478252057" rel="stylesheet">
+	<!-- ================== END BASE CSS STYLE ================== -->
+
+	<!--[if lt IE 10]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+    <script type="text/javascript" async="" src="//static.affilae.com/ae-v3.1.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N6WQB9"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/mcflb73bcf/analytics.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	    	
+ 
+	<script type="text/javascript"> 
+	// code for segment analytics
+		!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+			analytics.load("mcflb73bcf");
+			analytics.page()
+		}}();
+    $(window).load(function() {
+        analytics.identify("", {
+            name    : "",
+            email   : "",
+            uidsib  : "",
+            fingsib : ""
+        });
+                
+    });
+	</script>
+    
+</head>
+<body>
+    <script>
+dataLayer = [{
+"application" : "www",
+"uidsib"  : ""
+}];
+</script>
+
+<script type="text/javascript">
+    var checkLoggedIn = "";
+    if(checkLoggedIn) {
+        dataLayer.push({
+            "userType" : "Customer",
+            "name" : "",
+            "email" : "",
+            "uidsib"  : "",
+            "fingsib" : ""
+        });
+    }
+    else {
+        dataLayer.push({
+            'userType' : 'Visitor'
+        });
+    }
+  
+    /* For plugin page load */
+    var controller = "legal";
+    if(controller == 'plugins'){
+        dataLayer.push({
+           "pageCategory" :  "privacypolicy"
+        });
+    }
+    
+$(function(){
+   /* For choosing plan sign up button */
+   $(".plan-picker a").click(function(){
+       var planName = $(this).parent().siblings('.plan-title').text();
+       var pData = $(this).attr('id');
+       var planId = pData.substr(7);
+       var priceText = $(this).parent().siblings('.plan-pricer').text();
+       var priceVal = priceText.replace(/[^0-9.,]/g, '');
+       var price = priceVal.replace(/.([^.]*)$/,'$1'); 
+              
+       dataLayer.push({
+            "event": "productClick",
+                "ecommerce": {
+                    "click": {
+                        "products": [{
+                            "name": planName,
+                            "id": planId, 
+                            "price": price 
+                        }]
+                    }
+                },
+                "eventCallback": function(){
+                    window.location.href = "https://www.sendinblue.com/users/signup";
+                }
+            
+        });
+    });
+    
+    /* For plugin page download button */
+    $("[id^='plugin_']").click(function(event){
+        event.preventDefault();
+        var targetUrl = $(this).attr('href');
+        var plugin_arr = $(this).attr('id').split('_');
+        var plugin_name = plugin_arr[1];
+        dataLayer.push({
+            "event": "analyticsEvent",
+            "eventCategory": "API",
+            "eventAction": "Download",
+            "eventLabel": plugin_name,
+            "eventCallback": function(){
+                window.location.href = targetUrl;
+             }
+        });
+    });
+    
+    /* For feature and pricing tab on index page and also for pricing page's tabs */
+    $(".gtm-tab").click(function(){
+        var aria_name = $(this).attr('aria-controls');
+        if($("#hdn_controller").val()=='pricing'){//for pricing page's tabs
+            var tab_title = $("#"+aria_name+" > div > div > p").text();            
+            dataLayer.push({
+                "event": "virtualPageview",
+                "virtualPageURL": "/pricing/"+aria_name,
+                "VirtualPageTitle": tab_title
+            });
+        }else{
+            dataLayer.push({
+                "event": "analyticsEvent",
+                "eventCategory": "Tab",
+                "eventAction": "View",
+                "eventLabel": aria_name
+            });
+        }
+    });
+    
+    /* Inside feature page's tabs */
+    $("[id^='featuretab_']").click(function(){
+        var aria_name = $(this).attr('aria-controls');
+        var tab_title = $("#"+aria_name+" > div > div > h2").text();
+        dataLayer.push({
+            "event": "virtualPageview",
+            "virtualPageURL": "/features/"+aria_name,
+            "VirtualPageTitle": tab_title
+        });
+    });
+    
+    /* For focus on form fields */
+    $(".form-control").focus(function(){
+        var field_name = $(this).attr('name');
+        dataLayer.push({
+            "event": "analyticsEvent",
+            "eventCategory": "Signup",
+            "eventAction": "FieldFocus",
+            "eventLabel": field_name
+        });
+    });
+    
+    /* For reporting issue on signup page */
+    $("#btn_signup").click(function(){
+        $("#signup-form").find(".form-group").each(function(){
+            $(this).find('.validation_error').each(function(){
+                var field_name = $(this).attr('name');
+                 dataLayer.push({
+                    "event": "analyticsEvent",
+                    "eventCategory": "Signup",
+                    "eventAction": "FieldError",
+                    "eventLabel": field_name
+               });
+            });
+            
+        });
+    });
+});
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N6WQB9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N6WQB9');</script>
+<!-- End Google Tag Manager -->
+	<!-- begin .mobile-nav -->
+	<nav class="mobile-nav">
+	
+		<!-- begin .main-nav -->
+		<ul class="main-nav">
+			<li><a href="https://www.sendinblue.com/features/">Features</a></li>
+			<li><a href="https://www.sendinblue.com/pricing/">Pricing</a></li>
+						<li><a href="https://www.sendinblue.com/about/">About Us</a></li>
+		</ul>
+		<!-- end .main-nav -->
+		
+		<!-- begin .login-nav -->
+		<ul class="login-nav">
+					<li><a href="https://www.sendinblue.com/users/login/">Log In</a></li>
+			<li><a href="https://www.sendinblue.com/users/signup/" class="signup">Sign Up</a></li>
+		 
+		</ul>
+		<!-- end .login-nav -->
+		
+				
+		<!-- begin .main-nav -->
+		<ul class="main-nav">
+			<li class="wrapper-submenu">
+				<a href="javascript:void(0)">English <i class="fa fa-angle-down"></i></a>
+				<div class="submenu">
+					<ul class="submenu-nav">
+						<li><a href="/language/index/lang/en/">English</a></li>
+						<li><a href="/language/index/lang/fr/">Français</a></li>
+						<li><a href="/language/index/lang/es/">Español</a></li>
+						<li><a href="/language/index/lang/pt/">Português</a></li>
+						<li><a href="/language/index/lang/it/">Italiano</a></li>
+						<li><a href="/language/index/lang/de/">Deutsch</a></li>
+					</ul>
+					<span class="arrow"></span>
+				</div>
+			</li>
+		</ul>
+		<!-- end .main-nav -->
+		
+		<!-- begin .social-list -->
+		<ul class="social-list">
+						<li><a href="https://twitter.com/SendinBlue" class="twitter-logo"><span class="sr-only">Twitter</span><span class="typcn typcn-social-twitter-circular"></span> </a></li>
+			<li><a href="https://www.facebook.com/Sendinblue" class="facebook-logo"><span class="sr-only">Facebook</span><span class="typcn typcn-social-facebook-circular"></span></a></li>
+			<li><a href="https://www.linkedin.com/company/sendinblue" class="linkedin-logo"><span class="sr-only">Linkedin</span><span class="typcn typcn-social-linkedin-circular"></span></a></li>
+					</ul>
+		<!-- end .social-list -->
+		
+	</nav>
+	<!-- end .mobile-nav -->
+	
+	<!-- begin #template -->
+    <div id="template" class="main-wrapper">
+	
+		<!-- begin .wrapper-header -->
+		<div class="wrapper-header navbar-fixed-top">
+			
+            <!-- begin cookies banner -->
+                        <div class="cookies-banner">We use cookies to personalize your experience and capture product usage metrics.&nbsp;By using this website, you agree to the use of cookies. <a href="https://www.sendinblue.com/legal/privacypolicy/#cookie">Learn more.</a><a href="javascript:void(0);" class="pull-right fa fa-times-circle close-cookies-banner"></a></div> 
+                        
+			<!-- begin #header -->
+			<div id="header" class="container main-header">
+			
+				<a href="https://www.sendinblue.com/">
+					<div class="logo">
+						<i class="sib-logo-icon"></i> <span class="t-logo-text">sendinblue</span>
+					</div>
+				</a>
+				<a href="javascript:void(0)" class="trigger-mobile-nav"><span class="typcn typcn-th-menu"></span></a>
+				
+				<!-- begin .desktop-nav -->
+				<nav class="desktop-nav">
+				
+					<!-- begin .main-nav -->
+					<ul class="main-nav">
+						<li><a href="https://www.sendinblue.com/features/">Features</a></li>
+						<li><a href="https://www.sendinblue.com/pricing/">Pricing</a></li>
+												
+						<li><a href="https://www.sendinblue.com/about/">About Us</a></li>
+						
+					</ul>
+					<!-- end .main-nav -->
+					
+					<!-- begin .login-nav -->
+					<ul class="login-nav">
+						<li class="dropdown">
+							<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe fa-lg"></i></a>
+							<ul class="dropdown-menu">
+								<li><a href="/language/index/lang/fr/">Français</a></li>
+								<li><a href="/language/index/lang/en/">English</a></li>
+								<li><a href="/language/index/lang/es/">Español</a></li>
+								<li><a href="/language/index/lang/pt/">Português</a></li>
+								<li><a href="/language/index/lang/it/">Italiano</a></li>
+								<li><a href="/language/index/lang/de/">Deutsch</a></li>
+							</ul>
+						</li>
+													<li class="margin_less_xs"><a>EN</a></li>
+																			<li><a href="https://www.sendinblue.com/users/login/" class="signin">Log In</a></li>
+						<li><a href="https://www.sendinblue.com/users/signup/" class="signup">Sign Up</a></li>
+										</ul>
+					<!-- end .login-nav -->
+					
+				</nav>
+				<!-- end .desktop-nav -->
+				
+			</div>
+			<!-- end #header -->
+		
+		</div>
+		<!-- end .wrapper-header -->
+		
+		<!-- begin inners -->
+		
+<!-- begin .bg-primary-color -->
+<div class="bg-primary-color main-block">
+	<div class="container">
+		<h1 class="text-center">Confidentiality Policy Protection of Personal Data</h1>
+	</div>
+</div>
+<!-- end .bg-primary-color -->
+
+<!-- begin .bg-main-color -->
+<div class="bg-main-color content-block">
+
+	<!-- begin .container -->
+	<div class="container">
+		<p class="spacer-top-xlg">As part of its business activities, SendinBlue is required to process personal data belonging to its customers/users/prospects and their customers/users/prospects in accordance with the French Data Protection Act no. 78-17 of 6 January 1978, as amended by the Act of 6 August 2004.</p>
+        <p>The confidentiality policy adhered to by SendinBlue is governed by the conditions shown below.</p>
+		
+	
+		<!-- begin .row -->
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-12">
+				<p class="h3 spacer-bottom-md color-primary">Definitions</p>
+				<p><strong>Personal data:</strong> personal data refers to any information relating to an identified individual or an individual that can be identified, directly or indirectly, by means of an identification number or one or more elements that are personal to him/her.</p>
+				<p><strong>Processing of personal data:</strong> the processing of personal data refers to any operation or group of operations pertaining to such data, whatever the process used, and in particular its collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission or otherwise making available, alignment or combination, blocking, erasure or destruction.</p>
+				<p><strong>Cookie:</strong> a cookie is information placed on an internet user's hard disk by the server of a website he/she has visited. It contains several pieces of data: the name of the server that placed it there, an identifier with a unique number and possibly an expiry date. This information is sometimes stored on the computer as a simple text file which a server can access to read and save information.</p>
+				
+			</div>
+			
+			<div class="col-sm-12">
+				<p class="h3 spacer-top-md spacer-bottom-md color-primary">Party responsible for data processing − Data protection officer</p>
+				<p>The party responsible for the processing of personal data referred to in this document is SendinBlue, a simplified joint stock company with a capital of 137,531 euros, registered with the Paris commercial registry under no. 498 019 298 and whose registered office is located at 47, rue de la Chaussée d'Antin, 75009 Paris, France.</p>
+				<p>SendinBlue has appointed Mr. Armand Thiberge as its data protection officer at the CNIL.</p>
+				
+			</div>
+            
+            <div class="col-sm-12">
+				<p class="h3 spacer-top-md spacer-bottom-md color-primary">Data provided by the user</p>
+                <div class="row spacer-bottom">
+                    <div class="col-sm-6">
+                    <p>The user is the holder of the file's intellectual property rights and retains full and exclusive rights over the file transmitted to SendinBlue.</p>
+                    <p>SendinBlue has access to the data provided by its users and held in their personal account, as well as to the subject line and content of emails sent to their contacts via SendinBlue services.</p>
+                    <p>This data is stored on secure servers and is subject to computer processing to provide the service subscribed to by the user and improve SendinBlue's services.</p>
+                    <p>The host servers on which SendinBlue processes and stores its databases are located exclusively within the European Union.</p>
+                    <p>The behavior of the recipients of these emails may be subject to analysis (tracking of an individual's open, click and bounce rates) to improve its email marketing campaigns.</p>
+                    <p>SendinBlue undertakes to neither transfer nor rent the data provided by its users.</p>
+                    <p>Personal data provided by the user may only be disclosed to a third party in the following instances:</p>
+                    <ul>
+                        <li>with the user's authorization and confirmation that the owner of this personal data has personally authorized its disclosure;</li>
+                        <li>at the request of legally competent authorities, upon presentation of a court order or within the context of a legal dispute.</li>                    
+                    </ul>                
+                    <p>The user is responsible for processing his/her personal data under the terms of the French Data Protection Act no. 78-17 of 6 January 1978, as amended by the Act of 6 August 2004.</p>
+                    </div>
+                    <div class="col-sm-6">
+                    <p>The user guarantees to SendinBlue that he/she will respect the provisions of the French Data Protection Act no. 78-17 of 6 January 1978, as amended by the Act of 6 August 2004, and notably:</p>
+                    <ul>
+                        <li>that the personal data contained in the transmitted file was collected and processed in accordance with the provisions of the aforementioned law;</li> 
+                        <li>if applicable, the collection and processing were authorized by the owner of the data;</li>
+                        <li>that he/she will allow the owners of the processed data to exercise their individual right to access, amend, rectify or delete any of their personal information;</li>
+                        <li>that he/she undertakes to ensure that this information is rectified, completed, clarified, updated or deleted if it is inaccurate, incomplete, ambiguous or out-of-date, or if the owners wish to prohibit its collection or use, communication or retention.</li>
+                    </ul>
+                    <p>SendinBlue will destroy any data file(s), as well as any media or copies made as part of its data processing and routing operations after a maximum period of 30 days following the termination of the contractual relationship.</p>
+                    <p>The user can retrieve his/her data at any time by clicking on the 'export button' from his/her SendinBlue personal account.</p>
+                    </div>
+                </div>
+			</div>
+			
+		</div>
+		<!-- end .row -->
+	
+		<!-- begin .row -->
+        
+        <p class="h3 spacer-top-md color-primary">Personal data collected directly by SendinBlue (data belonging to SendinBlue's customers/users/prospects)</p>
+        
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-6">
+				<p class="h4 spacer-top-md spacer-bottom-md color-primary">Collected data</p>
+				<p>SendinBlue collects and processes the following data: email, first name, surname, country, address, intra-Community VAT number, mailing address, telephone number, IP address(es) and domain name, login and navigation data when authorized by the user, bank details when authorized by the user, order history, complaints, incidents and information relating to subscriptions and communications on our website.</p>
+				<p>When this data is collected, an asterisk indicates whether its provision is mandatory or optional (to finalize the user's subscription and provide SendinBlue services).</p>
+                <p>Moreover, some data is collected automatically as the user navigates the website (see the paragraph on cookies).</p>	
+			</div>
+			
+			<div class="col-sm-6">
+				<p class="h4 spacer-top-md spacer-bottom-md color-primary">Data recipients</p>
+				<p>The personal data collected is reserved for SendinBlue's commercial and accounting departments.</p>
+				<p>It can be transmitted to sub-contracting companies whose services are required by SendinBlue as part of its operations.</p>
+				<p>SendinBlue will neither rent nor send personal data to third parties for marketing purposes without the express permission of SendinBlue users.</p>
+				<p>Apart from these scenarios, personal data may only be disclosed in the following instances:</p>
+				<ul>
+                	<li>with their authorization;</li>
+					<li>at the request of legally competent authorities, upon presentation of a court order or within the context of a legal dispute.</li>
+				</ul>
+			</div>
+            <div class="clearfix"></div>
+            <div class="col-sm-6">
+				<p class="h4 spacer-top-md spacer-bottom-md color-primary">Use</p>
+				<p>The processing of personal data is necessary for SendinBlue to carry out its business.</p>
+				<p>It will be used for the following:</p>
+                <ul>
+                	<li>commercial and accounting management under the contract;</li>
+					<li>business development management;</li>
+                    <li>the compiling of sales statistics and the monitoring of regulatory compliance relating to data protection;</li>
+                    <li>in more general terms, any use referred to in article 2 of French Resolution no. 2012-209 of 21 June 2012 establishing a simplified standard for the automatic processing of personal data relating to the management of users and prospects.</li>
+				</ul>	
+			</div>
+            
+            <div class="col-sm-6">
+				<p class="h4 spacer-top-md spacer-bottom-md color-primary">Data retention period</p>
+				<p>Personal data collected by SendinBlue relating to the identity and contact details of its users and prospects is stored for a period of five years following the termination of the contractual relationship for data relating to users, or from the time it was collected by the data controller or from the last contact made by the prospect for data relating to prospects.</p>
+				<p>The termination of the contractual relationship is understood as being the deliberate cancellation of the contract by the user or the non-use of SendinBlue's services for a period of five years.</p>
+			</div>
+            <div class="clearfix"></div>
+            <div class="col-sm-6">
+				<p class="h4 spacer-top-md spacer-bottom-md color-primary">Rights of access, amendment and objection</p>
+				<p>In accordance with the French Data Protection Act no. 78-17 of 6 January 1978, as modified by the Act of 6 August 2004, the user has the right to access and amend personal information, which can be exercised by sending an email to <a href="mailto:privacy@sendinblue.com">privacy@sendinblue.com</a> or a letter to:</p>
+                    <address class="h5">
+                       SendinBlue SAS - Confidentiality Policy<br>47, rue de la Chaussée d'Antin<br>75009 Paris<br>France                    </address>
+				<p>The user may also, for legitimate reasons, object to the processing of data concerning him/her.</p>
+                <p>These requests are dealt with within a maximum of 30 days.</p>
+                <p>The user can also amend his/her personal data at any time by logging onto <a href="http://www.sendinblue.com">http://www.sendinblue.com</a> and by clicking on 'edit my profile', or by emailing us at the following address: <a href="mailto:support@sendinblue.com">support@sendinblue.com</a></p>
+                <p>The user can unsubscribe from our newsletter and marketing emails by using the unsubscribe links contained in any of these emails.</p>
+			</div>
+			
+		</div>
+		<!-- end .row -->
+	
+		<!-- begin .row -->
+        
+        <p class="h3 spacer-top-md color-primary" id="cookie-msg">Cookies</p>
+        <p>The SendinBlue website uses cookies whose purpose is to make it easier to navigate the website, provide SendinBlue services, assess the website's audience and allow website pages to be shared.</p>
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-12">
+	
+				<p class="h4 spacer-bottom-md color-primary">Types of cookies used</p>
+                
+				<p class="h5"><strong>Cookies needed to navigate the website</strong></p>
+                <p>These cookies are needed for the <a href="https://sendinblue.com">sendinblue.com</a> website to operate properly. They allow the website's main features to be used.</p>
+                <p>Without these cookies, users would not be able to use the website normally.</p>
+                
+                <p class="h5"><strong>Functional cookies</strong></p>
+                <p>These cookies allow a customized user experience to be provided.</p>
+                
+                <p class="h5"><strong>Analytical cookies</strong></p>
+                <p>These cookies allow website use and performance to be monitored and its operation to be improved by analyzing the traffic to information pages through the tracking of an individual's open, click and bounce rates.</p>
+                
+                <p class="h5"><strong>Share button cookies</strong></p>
+                <p>Social media cookies allow users to share pages and content on third-party social networks via social media sharing buttons.</p>
+				
+				
+			</div>
+			
+			<div class="col-sm-12">
+	
+				<p class="h4 spacer-top-lg spacer-bottom-md color-primary">Cookie management</p>
+                
+                <p>Users can accept or refuse cookies on a case by case basis, or refuse all cookies by adjusting their browser settings.</p>
+				<p>If the user chooses to refuse all cookies, access to some of the website's pages will be limited.</p>
+				<p>Depending on which navigator the user has, cookies can be blocked as follows:</p> 
+
+				<p class="h5"><strong>Internet Explorer</strong></p>
+                <ul class="spacer-left">
+                	<li>Click on the Tools button, then on Internet Options.</li>
+                   	<li>On the General tab, under Navigation History, click on Settings.</li>
+                   	<li>Click on the Display Files button.</li>
+                   	<li>Select the cookies you would like to block and click on Remove.</li>
+				</ul>
+                
+                <p class="h5"><strong>Firefox</strong></p>
+                <ul class="spacer-left">
+                	<li>Click on the Navigation Tools icon and select the Options menu.</li>
+                   	<li>In the window that opens, select Private Life and click on Display Cookies.</li>
+                   	<li>Select the cookies you would like to block and click on Remove.</li>
+				</ul>
+                
+                <p class="h5"><strong>Safari</strong></p>
+                <ul class="spacer-left">
+                	<li>Click on the Edit icon and select the Preferences menu.</li>
+                   	<li>Click on Security and then Display Cookies.</li>
+                   	<li>Select the cookies you would like to block and click on Remove.</li>
+				</ul>
+                
+                <p class="h5"><strong>Google Chrome</strong></p>
+                <ul class="spacer-left">
+                	<li>Click on the Tools icon, select the Options menu and then click on the Advanced</li>
+                   	<li>Options tab to access the Privacy section.</li>
+                   	<li>Click on the Display Cookies button.</li>
+                   	<li>Select the cookies you would like to block and click on Remove.</li>
+				</ul>
+                
+                <p class="h5"><strong>Cookie retention period</strong></p>
+               	<p>Cookies will be held on the user's device for a maximum period of 13 months from the date the user gives consent.</p>
+                <p>Once this period has expired, consent will need to be given again.</p>
+
+                
+               
+				
+			</div>
+			
+		</div>
+		<!-- end .row -->
+	
+		<!-- begin .row -->
+        
+        <p class="h3 spacer-top-md spacer-bottom-md color-primary">Location of stored data</p>
+        
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-12">
+	
+				<p>The host servers on which SendinBlue processes and stores its databases are located exclusively within the European Union.</p>
+				<p>SendinBlue undertakes not to transfer data outside of the European Union.</p>
+				
+			</div>
+			
+		</div>
+		<!-- end .row -->
+        
+		<!-- begin .row -->
+        
+        <p class="h3 spacer-top-md spacer-bottom-md color-primary">Security</p>
+        
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-12">
+	
+				<p>SendinBlue has taken all necessary precautions to safeguard personal data and, in particular, to prevent it from being misrepresented, damaged or accessed by an unauthorized third party.</p>
+				<p>These measures include the following:</p>
+                <ul>
+                	<li>Multi-level firewall,</li>
+                    <li>Anti-virus with a proven reputation for detecting attempted intrusions,</li>
+                    <li>Encrypted data transmission using SSL/HTTPS/VPN technology.</li>
+                </ul>
+                
+                <p>Moreover, persons from SendinBlue’s recipient departments wishing to access the data must be authenticated using an individual access code and password that are sufficiently robust and changed regularly.</p>
+				<p>Data processed via non-secure communication channels is subject to technical measures rendering it incomprehensible to any unauthorized person.</p>
+                <p>Any questions about the security of our website can be addressed to support@Sendinblue.com.</p>
+
+
+				
+			</div>
+			
+		</div>
+		<!-- end .row -->
+		
+        <!-- begin .row -->
+        
+        <p class="h3 spacer-top-md spacer-bottom-md color-primary">Amendments to the Confidentiality Policy</p>
+        
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-12">
+	
+				<p>SendinBlue reserves the right to amend this Confidentiality Policy to comply with any changes to the laws and regulations in force.</p>
+				<p>Any amendments will be communicated via our website or by email, as far as possible, at least thirty days before they come into force.</p>
+				
+			</div>
+			
+		</div>
+		<!-- end .row -->
+        
+        <!-- begin .row -->
+        
+        <p class="h3 spacer-top-md spacer-bottom-md color-primary">Contact</p>
+        
+		<div class="row spacer-bottom">
+		
+			<div class="col-sm-12">
+	
+				<p>Any questions about SendinBlue's Confidentiality Policy can be emailed to <a href="mailto:privacy@sendinblue.com">privacy@sendinblue.com</a> or mailed to:</p>
+                <address class="h5">
+                	SendinBlue SAS - Confidentiality Policy<br>47, rue de la Chaussée d'Antin<br>75009 Paris<br>France                </address>				
+			</div>
+			
+		</div>
+		<!-- end .row -->
+		
+	</div>
+	<!-- end .container -->
+	
+</div>
+<!-- end .bg-main-color -->		<!-- end inners -->
+		
+		<!-- begin .subscribe-form-block -->
+		
+    <div class="bg-primary-color subscribe-form-block">
+            
+        <!-- begin .container -->
+        <div class="container">
+        
+            <!-- begin .subscribe-form -->
+            <div class="subscribe-form">
+            
+                <h3 class="text-center no-margin spacer-bottom-sm">Try our free plan and send up to 9,000 emails/month.</h3>
+                <p class="text-center">No credit card. No commitment.</p>
+                
+                <!-- begin .subscribeform elements -->
+                
+    <div class="hidden-xs">
+        <form action="https://account.sendinblue.com/users/make-signup/" method="post" class="line-form try-free-plan-form" role="form" name="signup_form" id="signup_form" novalidate="novalidate">
+        <div class="alert alert-danger error-signup hide"></div>
+            <input type="hidden" name="talon" value="" id="talon">
+            <div class="row">
+                <div id="js_error"></div>
+                <div class="col-md-3 col-md-offset-0 col-xs-8 col-xs-offset-2">
+                    <div class="form-group">
+                        <label class="sr-only">index_index_1_label</label>
+                        <input type="text" name="profile_company_name" placeholder="Company Name" class="form-control" autocomplete="off">
+                    </div>
+                </div>
+                <div class="col-md-3 col-md-offset-0 col-xs-8 col-xs-offset-2">
+                    <div class="form-group">
+                        <label class="sr-only">index_index_2_label</label>
+                        <input type="text" name="mail" placeholder="Email" class="form-control" autocomplete="off">
+                    </div>
+                </div>
+                <div class="col-md-3 col-md-offset-0 col-xs-8 col-xs-offset-2">
+                    <div class="form-group">
+                        <label class="sr-only">index_index_3_label</label>
+                        <input type="password" name="pass" placeholder="Password" class="form-control" autocomplete="off">
+                    </div>
+                </div>
+                <div class="col-md-3 col-md-offset-0 col-xs-8 col-xs-offset-2">
+                    <button type="submit" class="btn btn-block btn-green" onclick="submitSubscribe(this.form);">Start Free Plan</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="visible-xs text-center">
+        <div class="row">
+            <div class="col-xs-10 col-xs-offset-1">
+                <a href="https://www.sendinblue.com/users/signup/" class="btn btn-block btn-green">Start Free Plan Today <i class="fa fa-arrow-right"></i> </a>
+            </div>
+        </div>
+    </div>
+                    <!-- end .subscribeform elements -->
+                
+            </div>
+            <!-- end .subscribe-form -->
+            
+        </div>
+        <!-- end .container -->
+        
+    </div>
+		<!-- end .subscribe-form-block -->
+        
+		<!-- begin #footer -->
+        <footer id="footer" class="main-footer">
+		
+			<!-- begin .container -->
+			<div class="container">
+			
+				<!-- begin .row -->
+				<div class="row">
+				
+					<div class="col-md-3 col-sm-12">
+						<h5>SendinBlue</h5>
+						<p class="footer-nav">SendinBlue empowers businesses to build and grow relationships through marketing campaigns, transactional messaging and marketing automation. Our platform combines a robust suite of email and SMS messaging services within a single, user-friendly solution. Happy Sending!</p>
+					</div>
+					
+					<div class="col-md-offset-1 col-md-8 col-sm-12">
+					
+						<!-- begin .row -->
+						<div class="row">
+						
+							<div class="col-md-3 col-sm-6">
+								<h5>Tour</h5>
+								<ul class="footer-nav footer-links">
+									<li><a href="https://www.sendinblue.com/features/">Features</a></li>
+									<li><a href="https://www.sendinblue.com/pricing/">Pricing</a></li>
+																									<li><a href="https://www.sendinblue.com/users/signup/">Sign Up</a></li>
+									
+									<li><a href="https://www.sendinblue.com/mailchimp/">SendinBlue vs. MailChimp</a></li>
+                                    <li><a href="https://www.sendinblue.com/mailjet/">SendinBlue vs. Mailjet</a></li>
+									<li><a href="https://www.sendinblue.com/constant-contact/">SendinBlue vs. Constant Contact</a></li>
+									<li><a href="https://www.sendinblue.com/sendinblue-email-marketing-reliable-platform/">A Reliable Platform</a></li>
+								</ul>
+							</div>
+							
+							<div class="col-md-3 col-sm-6">
+								<h5>Learn</h5>
+								<ul class="footer-nav footer-links">
+																		<li><a href="https://blog.sendinblue.com/" target="_blank">Blog</a></li>
+																		<li><a href="https://resources.sendinblue.com/en/" target="_blank">Tutorials</a></li>
+                                    <li><a href="https://apidocs.sendinblue.com/" target="_blank">API</a></li>
+									                                    <li><a href="https://www.sendinblue.com/plugins/">Plugins</a></li>
+								</ul>
+							</div>
+							
+							<div class="col-md-3 col-sm-6">
+								<h5>Company</h5>
+								<ul class="footer-nav footer-links">
+									<li><a href="https://www.sendinblue.com/about/">About Us</a></li>
+									<li><a href="https://www.sendinblue.com/legal/termsofuse/">Terms &amp; Conditions</a></li>
+                                    <li><a href="https://www.sendinblue.com/legal/privacypolicy/">Privacy Policy</a></li>
+									<li><a href="https://www.sendinblue.com/legal/antispampolicy/">Anti-Spam Policy</a></li>
+                                    <li><a href="https://www.sendinblue.com/partners/">Our Partners</a></li>
+									<li><a href="https://www.sendinblue.com/contact/">Contact Us</a></li>
+																			<li><i class="fa fa-phone"></i> 844.744.2639</li>
+																		</ul>
+							</div>
+							
+							<div class="col-md-3 col-sm-6">
+								<h5>Share</h5>
+								<ul class="footer-nav footer-links">
+									<li><a href="https://www.sendinblue.com/affiliates/">Affiliate Program</a></li>
+									<li><a href="https://www.sendinblue.com/whitelabel/">White Label &amp; Reseller</a></li>
+									<li class="social-list">
+										<ul>
+																					<li><a href="https://twitter.com/SendinBlue" target="_blank" rel="nofollow" class="twitter-logo"><span class="sr-only">Twitter</span><span class="typcn typcn-social-twitter-circular"></span> </a></li>
+											<li><a href="https://www.facebook.com/Sendinblue" target="_blank" rel="nofollow" class="facebook-logo"><span class="sr-only">Facebook</span><span class="typcn typcn-social-facebook-circular"></span></a></li>
+											<li><a href="https://www.linkedin.com/company/sendinblue" target="_blank" rel="nofollow" class="linkedin-logo"><span class="sr-only">Linkedin</span><span class="typcn typcn-social-linkedin-circular"></span></a></li>
+											
+											
+										</ul>
+									</li>
+								</ul>
+							</div>
+							
+						</div>
+						<!-- end .row -->
+						
+					</div>
+					
+				</div>
+				<!-- end .row -->
+					
+				<!-- begin .row -->
+				<div class="row">
+					
+					<div class="col-md-6 spacer-top sub-footer clearfix">
+						<ul>
+							<li><a href="http://www.sncd.org/" target="_blank" class="smcd-logo" rel="nofollow"><img src="/../public/img/smcd-logo.png" alt="SNCD"></a></li>
+							<!--<li><a href="https://www.m3aawg.org/" target="_blank" class="maawg-logo" rel="nofollow"><img src="/../public/img/maawg-logo.png" alt="Maawg" /></a></li>-->
+							<li><a href="https://certified-senders.eu/" target="_blank" class="csa-logo" rel="nofollow"><img src="/../public/img/csa-logo.png" alt="CSA"></a></li>
+							<li><a href="http://www.redherring.com/" target="_blank" class="red-logo" rel="nofollow"><img src="/../public/img/red-logo.png" alt="Red Herring"></a></li>
+                            <li class="no-margin-right"><a href="https://www.signal-spam.fr/" target="_blank" class="signlespam-logo" rel="nofollow"><img src="/../public/img/single-spam-logo.png" alt="Signal Spam"></a></li>
+						</ul>
+					</div>
+					
+					<div class="col-md-6 spacer-top sub-footer clearfix">
+						<div class="right-footer">
+							<div class="dropdown pull-left spacer-right">
+								<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">English <i class="fa fa-angle-down"></i></a>
+								<ul class="dropdown-menu">
+									<li><a href="/language/index/lang/fr/">Français</a></li>
+									<li><a href="/language/index/lang/en/">English</a></li>
+									<li><a href="/language/index/lang/es/">Español</a></li>
+									<li><a href="/language/index/lang/pt/">Português</a></li>
+									<li><a href="/language/index/lang/it/">Italiano</a></li>
+									<li><a href="/language/index/lang/de/">Deutsch</a></li>
+								</ul>
+							</div>
+							<p class="pull-left">©2016  SendinBlue. All Rights Reserved.</p>
+						</div>
+					</div>
+					
+				</div>
+				<!-- end .row -->
+				
+			</div>
+			<!-- end .container -->
+				
+		</footer>
+		<!-- end #footer -->
+		
+    </div>
+	<!-- end #template -->
+    <!-- ================== BEGIN LOCAL JS ================== -->
+    <script type="text/javascript">
+        var BASE_URL = "/";
+        var IMAGES_PATH = "https://www.sendinblue.com/public/img/";
+        var LANG = "en";
+        var SET_CURRENCY = "";
+        var APP_ENV = "production";
+        var UID_SIB = "f4cc06df-60c7-44a9-a3fc-0bfe3af749af.1478758769";
+    </script>
+    <!-- ================== END LOCAL JS ================== -->
+    <!-- fingerprint value-->
+    <script type="text/javascript" src="https://www.sendinblue.com/public/js/client.min.js"></script>
+    <!-- end fingerprint -->
+
+    <!-- message variable for login -->
+        <script type="text/javascript">
+        var user_subscribe_1_message = "This field is required.";
+        var user_subscribe_2_message = "Password must be of minimum 8 characters";
+        var user_subscribe_3_message = "Incorrect email";
+        var user_subscribe_5_message = "Oops! Spaces are not allowed in the password field";
+    </script>
+        <script type="text/javascript">
+    	var user_mobile_6_message = "The email was not sent, please try again later.";
+        var user_mobile_7_message = "Oops! Something went wrong.";
+        var user_mobile_8_message = "The SMS was not sent, please try again later.";
+        var user_mobile_10_message = "The email has been sent successfully.";
+        var user_mobile_11_message = "The SMS has been sent successfully.";
+    </script>
+
+    
+            <script type="text/javascript">
+            if (document.referrer.indexOf('visualwebsiteoptimizer') == -1 && document.referrer.indexOf('vwo') == -1){
+                var alowIframe = false
+            }else{
+                var alowIframe = true;
+            }
+            var _ae = {
+                'pid': '5350ee450f4c9a954f8b4568',
+                'advertiserFirst': 21600, // 15 days in mins
+                'allowSiteUnder': false,
+                'allowIframing': alowIframe,
+                'host': 'https://lb.affilae.com'
+            };
+
+            (function() {
+                var element = document.createElement('script'); element.type = 'text/javascript'; element.async = true;
+                element.src = '//static.affilae.com/ae-v3.1.js';
+                var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(element, scr);
+            })();
+        </script>
+        <!-- Start Visual Website Optimizer Synchronous Code -->
+        <script type="text/javascript">
+            var _vis_opt_account_id = 63788;
+            var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+            document.write('<s' + 'cript src="' + _vis_opt_protocol +
+            'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
+            +encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+        </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=63788&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161110061928id_%2Fhttps%3A%2F%2Fwww.sendinblue.com%2Flegal%2Fprivacypolicy%2F&amp;random=0.2573681063009692" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol +
+            'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+            // if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+        </script>
+
+        <script type="text/javascript">
+            if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+                _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+            }
+        </script>
+        <!-- End Visual Website Optimizer Synchronous Code -->
+
+    
+	        <script src="https://cdn.ravenjs.com/3.3.0/raven.min.js"></script>
+        <script>Raven.config('https://e15f2e6411904d249c974964a96c9d10@app.getsentry.com/94043').install();</script>
+        
+        <script type="text/javascript" src="https://www.sendinblue.com/public/js/jsz.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/EHawkTalon.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/jquery.validate.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/vendor/highlight.min.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/vendor/jquery.transform2d.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/vendor/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/vendor/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/main.js?v=1478683355"></script>
+<script type="text/javascript" src="https://www.sendinblue.com/public/js/sendinblue_ma_track.js"></script>	<script>hljs.initHighlightingOnLoad();</script>		
+	
+	 
+
+</body></html>
