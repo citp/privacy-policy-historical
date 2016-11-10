@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527092747id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backblaze.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110082424id_/https%3A//www.backblaze.com/company/privacy.html) for the most accurate reproduction.*
 
 # Backblaze - Online backup privacy policy
 
@@ -78,7 +78,7 @@ We are always on the lookout for vulnerabilities in Backblaze. If you discover a
 
 To report a vulnerability, please email security@backblaze.com.
 
-#### Account Cancelation
+#### Account Cancellation
 
 You are free to stop using Backblaze at any time. If you choose to deactivate your account, we'll delete your backups and files stored in B2 Cloud Storage within a reasonable amount of time. We will continue to keep some information about your use of our service.
 
