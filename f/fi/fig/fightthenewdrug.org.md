@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fightthenewdrug.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616012143id_/http%3A//www.fightthenewdrug.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightthenewdrug.org privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110143518id_/http%3A//www.fightthenewdrug.org/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy - Fight the New Drug
 
-### **Our Commitment to Privacy**
+##### Our Commitment to Privacy
 
 Your privacy is important to us. This privacy policy outlines the treatment of information collected by Fight the New Drug on the fightthenewdrug.org website. Please understand that whenever you voluntarily disclose personal information online this information cannot be made 100% secure and, in some cases, that information may be intercepted, collected and used by others.
-
-### **Information We Collect**
 
 We collect two types of information (personal information and anonymous information) and we may use this information to create a third type of information, aggregate information.
 
@@ -16,7 +14,7 @@ We collect two types of information (personal information and anonymous informat
 
 
 
-### **We collect the following information:**
+##### We Collect The Following Information
 
   * Name
   * Company/School Name
@@ -29,11 +27,9 @@ We collect two types of information (personal information and anonymous informat
 
 
 
-### **How We Collect Information**
+##### How We Collect Information
 
 Information is gathered through forms filled out when you make a donation, purchase merchandise, sign the Fighter pledge, request to “Bring Fight to Your School”, request stickers, or complete any other form on fightthenewdrug.org.
-
-### **How We Use Information**
 
 We collect aggregate information for internal and marketing use only; we do not sell or rent your personal information to any individual, organization, company, government entity, or the public.
 
@@ -43,14 +39,12 @@ We use email addresses to: provide you with products and services you request pr
 
 We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-### **Our Commitment to Data Security**
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Fight the New Drug website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+##### Our Commitment to Data Security
 
 Securing the information that you share with us online is a top priority. In order to prevent unauthorized access to your information we have implemented electronic, administrative, and physical security measures. Please be aware that, despite our best efforts, no security measures are impenetrable.
 
-### **Changes to This Policy**
-
 Fight the New Drug reserves the right to make changes to this policy at any time. Privacy policy changes may be due to new technologies, industry practices, regulatory requirements or for other purposes. Consent will be obtained when required by applicable law.
 
-### **Comments and Questions**
-
-If you have any questions or concerns regarding this policy, please call us at 213-792-2106 or write to us via [email](mailto:info@fightthenewdrug.org).
+If you have any questions or concerns regarding this policy, please call us at 213-792-2106 or write to us at [info@fightthenewdrug.org](mailto:info@fightthenewdrug.org).
