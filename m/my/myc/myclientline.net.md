@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myclientline.net privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422014708id_/https%3A//www.myclientline.net/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myclientline.net privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110221115id_/https%3A//www.myclientline.net/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # 
 
