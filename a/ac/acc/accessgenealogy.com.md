@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessgenealogy.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424090954id_/https%3A//www.accessgenealogy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessgenealogy.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110205026id_/https%3A//www.accessgenealogy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Access Genealogy
 
