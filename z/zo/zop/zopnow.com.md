@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zopnow.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320141806id_/http%3A//www.zopnow.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopnow.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110121734id_/https%3A//www.zopnow.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## 1\. GENERAL PRINCIPLES
 
 Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We endeavor to comply with laws of other countries but cannot and do not warrant that we do. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorized or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
