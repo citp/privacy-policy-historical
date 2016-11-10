@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the website.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315131145id_/http%3A//www.website.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110204548id_/https%3A//www.website.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Website.com
 
-Last modified: November 22, 2011
+Last modified: September 28, 2016
 
 This privacy policy outlines how we make use of the information you submit to us during registration. Please note that this privacy policy does not apply to any information you provide to third parties in connection with websites hosted by Website.com. 
 
@@ -13,6 +13,8 @@ Website.com reserves the right to modify this privacy policy at any time. To pro
 Personal information is requested when you register to become a member. During registration, you are asked to provide your name, email address, postal or zip code, etc. The more information you submit and the more accurate it is, the better we are able to tailor our services to your needs. 
 
 Additional information, such as your IP address, operating system, or browser information, may be collected whenever you interact with us or our website. We collect this information in order to compile usage statistics. 
+
+Information that you provide for any third-party integration within our website builder is used to connect the integration to your account only. Depending on the integration, we may store your account ID, your access token, and certain pieces of information that are returned by the integration in order to maintain the connection between your third-party integration and your corresponding account. 
 
   * ## Cookies
 
@@ -38,6 +40,14 @@ The online transaction processing is provided by PayDollar using the highest com
   * ## Contact Us
 
 If you believe Website.com is not abiding by its posted privacy policy, or if you have any comments, please [let us know](https://web.archive.org/contact-us/). 
+
+Alternatively, you can write to us at:   
+Website.com Solutions Inc.   
+Suite 210 - 3602 Gilmore Way,   
+Burnaby, BC,   
+V5G 4W9, Canada 
+
+  
 
 
 
