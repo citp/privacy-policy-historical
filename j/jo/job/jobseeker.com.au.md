@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobseeker.com.au privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421115504id_/https%3A//au.jora.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobseeker.com.au privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110213107id_/https%3A//au.jora.com/cms/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Jora (formerly Jobseeker)
-
-## Privacy Statement
+# Privacy Statement | Jora
 
 Where used in this Statement, the term "personal information" has the meaning attributed to that term in the Privacy Act (Cth) 1988 (" **Privacy Act** ").
 
