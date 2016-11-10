@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valleyvet.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404193158id_/https%3A//www.valleyvet.com/si_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valleyvet.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110030752id_/https%3A//www.valleyvet.com/si_privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - ValleyVet.com
 
-Last Updated: February 17, 2016.
+Last Updated: October 18, 2016.
 
 ### Introduction
 
@@ -51,6 +51,7 @@ We may keep the information about you collected through our Sites indefinitely.
 
 We may use information about you collected through our Sites for a variety of commercial purposes. For example, we may use such information to: 
 
+  * process payment transactions and provide fraud detection, prevention, and scoring services;
   * administer and improve our Sites and businesses;
   * promote our products and services to you, as well as the products and services of our affiliates;
   * promote, and enable the promotion of third-party products and services to you that we think you may find of interest;
@@ -64,15 +65,15 @@ We may use information about you collected through our Sites for a variety of co
 
 ### When Information We Collect Through Our Sites May Be Disclosed to Third Parties
 
-We disclose to third parties the personal or other information collected about you through any of our Sites either (1) when we have your permission to do so or (2) in any of the following situations, without your permission: 
+We disclose to third parties the personal or other information collected about you through any of our Sites either (1) when we have otherwise secured your permission to do so, or (2) in any of the following situations, with your permission based on this disclosure:
 
-  * We may share the information collected about you within the Valley Vet family of companies-which means we may disclose the information collected about you to our affiliates, subject to the terms of this privacy policy. 
-  * We may disclose the information collected about you to our third-party contractors and partners in connection with their performing services or other activities in support of the Sites and our businesses, or their completing or confirming on our behalf a transaction or series of transactions that you conduct with us. 
-  * Information about you that is collected by third-party ads, content, or technologies integrated with any of our Sites may be disclosed to such third parties. 
-  * We may disclose the results of aggregated data about you and other users of our Sites without restriction. In these situations, we do not disclose to these entities any information that could be used to personally identify you. 
-  * We may disclose to one or more third parties the information collected about you as part of a merger, acquisition, or other sale or transfer of any of the assets or business of Valley Vet, or any of our affiliates. Please note that the entity receiving such information in connection with one of these transactions may not comply with all of the terms of this privacy policy. 
-  * We may disclose information about you to the government or to other third parties to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders, and subpoenas or other legal process, such as in connection with suspected illegal activity associated with any of the Sites or our business. We reserve the right to release information collected through any of the Sites to law enforcement or other government officials, as we determine to be necessary or appropriate. 
-  * We may also disclose information about you to third parties if needed to enforce any of the terms of use or other agreements for one of our Sites, or any investigation of potential violations of those agreements; to detect, prevent, or otherwise address fraud, security, or technical issues; to protect against harm to any of the Sites; or to protect our rights, property, or safety, or the rights, property, or safety of our users or others (for example, to a consumer reporting agency for fraud protection). 
+  * We may share the information collected about you within the Valley Vet family of companies-which means we may disclose the information collected about you to our affiliates, subject to the terms of this privacy policy.
+  * We may disclose the information collected about you to our third-party contractors and partners in connection with their performance of services or other activities in support of the Sites and our businesses, or their completing or confirming on our behalf a transaction or series of transactions that you conduct with us. For example, your credit or debit card number and expiration date, name, address, transaction amount, chargeback data, browsing and transaction history, computer location, and IP address and related data may be collected and provided to our merchant payment processor and its vendors, agents, suppliers, and contractors for the purpose of processing payment transactions and providing fraud detection, prevention, and scoring services.
+  * Information about you that is collected by third-party ads, content, or technologies integrated with any of our Sites may be disclosed to such third parties.
+  * We may disclose the results of aggregated data about you and other users of our Sites without restriction. In these situations, we do not disclose to these entities any information that could be used to personally identify you.
+  * We may disclose to one or more third parties the information collected about you as part of a merger, acquisition, or other sale or transfer of any of the assets or business of Valley Vet, or any of our affiliates. Please note that the entity receiving such information in connection with one of these transactions may not comply with all of the terms of this privacy policy.
+  * We may disclose information about you to the government or to other third parties to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders, and subpoenas or other legal process, such as in connection with suspected illegal activity associated with any of the Sites or our business. We reserve the right to release information collected through any of the Sites to law enforcement or other government officials, as we determine to be necessary or appropriate.
+  * We may also disclose information about you to third parties if needed to enforce any of the terms of use or other agreements for one of our Sites, or any investigation of potential violations of those agreements; to detect, prevent, or otherwise address fraud, security, or technical issues; to protect against harm to any of the Sites; or to protect our rights, property, or safety, or the rights, property, or safety of our users or others (for example, to a consumer reporting agency for fraud protection).
 
 
 
