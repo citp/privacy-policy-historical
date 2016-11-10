@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022025812id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110034310id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
 
 # OpenSesame Values Your Privacy | OpenSesame
 
