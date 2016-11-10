@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604234645id_/https%3A//www.kcet.org/about-kcet/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110221743id_/https%3A//www.kcet.org/about-kcet/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KCET
 
