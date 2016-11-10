@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdpac.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407091924id_/https%3A//www.crowdpac.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdpac.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110140448id_/https%3A//www.crowdpac.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdpac
 
@@ -28,12 +28,13 @@ The Site may contain links to other web sites. Crowdpac is not responsible for t
 
 We use your Personal Information to give you relevant information. For example, we use your questionnaire responses to give you ‘best matches’ to candidates. Another example is that we use your zip code or your full address to locate the correct electoral districts for you, so we can give you an accurate personalized voting guide. We also use your email address to send you a link to your voting guide and a gentle reminder to vote. We may over time use your email address to let you know about new services on our Site, or information about political issues, candidates and elections that may be of interest to you. 
 
-We do not sell, rent or otherwise share your Personal Information with any third parties except in the following limited circumstances: 
+We do not sell, rent or otherwise share your Personal Information with any third parties except in the following specific circumstances: 
 
   * Compliance with Law. We may preserve or disclose your Personal Information if we believe that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect Crowdpac’s rights or property.
-  * Compliance with your wishes. Some of the tools and capabilities you will want to use on Crowdpac are provided by third parties. In those circumstances, we may share your information with our affiliates or sub-contractors to facilitate providing you the service you have requested. In all cases, your information will be protected by this Privacy Policy or, should their policy apply to your information, we will provide you an explicit opportunity to agree to their Privacy Policy prior to using the service you have requested.
-  * Business Transfers. The promises in this Policy will apply to your Personal Information in the event that Crowdpac Inc is involved in a bankruptcy, merger, acquisition, reorganization, or a sale of assets. However, your information may be transferred to another entity as part of that transaction. 
-
+  * Compliance with your wishes. Sometimes we will provide you with the opportunity to let us know that you would like to receive more information from a candidate, organization or other partner of ours. If you affirmatively opt-in to such a request, we may share your information with them.
+  * Making our Platform Work. Some of the tools and capabilities you will want to use on Crowdpac are provided by third parties. In those circumstances, we may share your information with our affiliates or sub-contractors to facilitate providing you the service you have requested. In all cases, your information will be protected by this Privacy Policy or, should their policy apply to your information, we will provide you an explicit opportunity to agree to their Privacy Policy prior to using the service you have requested.
+  * Business Transfers. The promises in this Policy will apply to your Personal Information in the event that Crowdpac Inc is involved in a bankruptcy, merger, acquisition, reorganization, or a sale of assets. However, your information may be transferred to another entity as part of that transaction.
+  * Curated Campaigns. Some campaigns on Crowdpac are sponsored by specific partner organizations. If you contribute to such a campaign, we will note the sponsor in the terms and conditions specific to the campaign, and may share your data with them. In some cases, a sponsor might wish to remain anonymous, in which case we will only share your name, city and state. In all cases, a sponsor may not sell, rent or otherwise share your information with any third parties.
 
 
 
@@ -59,4 +60,4 @@ We reserve the right to change the provisions of this Policy at any time. We wil
 
 Questions or comments regarding your privacy or this Policy should be sent to [feedback@crowdpac.com](mailto:feedback@crowdpac.com). 
 
-Effective date of this version: August 10, 2014 
+Effective date of this version: September 8, 2016 
