@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microblogger.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922152242id_/http%3A//microblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microblogger.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110093459id_/http%3A//microblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Microblogger
 
