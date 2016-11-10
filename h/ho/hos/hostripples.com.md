@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostripples.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320070225id_/https%3A//hostripples.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostripples.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110223933id_/https%3A//hostripples.com/privacy-policy.php) for the most accurate reproduction.*
 
 # $1 Hosting,Cheap Reseller Hosting,Cheap Dedicated Server,Shared Web Hosting.
 
