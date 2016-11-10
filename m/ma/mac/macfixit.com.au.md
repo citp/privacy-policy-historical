@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macfixit.com.au privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514092955id_/https%3A//www.macfixit.com.au/faq/question/view/q/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macfixit.com.au privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110095854id_/http%3A//support.macfixit.com.au/article/37-privacy-policy-cookies) for the most accurate reproduction.*
 
-# FAQ - Question / Privacy & Cookies - Macfixit Australia
+# Privacy Policy & Cookies - Macfixit Australia Pty Ltd Knowledge Base
 
 ## Privacy Policy
 
@@ -8,31 +8,24 @@
 
 The Macfixit Australia Pty Ltd ACN 150 248 927 is committed to managing your personal information openly and transparently and to keeping your personal information safe. We will take all necessary measures to fulfil this commitment, including to:
 
-• comply with the Australian Privacy Principles ("APPs");
+* comply with the Australian Privacy Principles ("APPs");
+* ensure that we manage your personal information openly and transparently;
+* only collect personal information from you that we need in order to offer you the best possible service and customer experience;
+* tell you how we might use your personal information;
+* let you know if we need to disclose your personal information to anyone else (including anyone overseas) and if so, in what circumstances this might occur;
+* keep your personal information secure;
+* promptly respond to any request by you not to receive direct marketing material from us;
+* make sure your personal information is kept accurate and up to date and to properly dispose of any personal information which is no longer required by us; and
+* ensure that, where appropriate, you can access and correct your personal information.
 
-• ensure that we manage your personal information openly and transparently;
-
-• only collect personal information from you that we need in order to offer you the best possible service and customer experience;
-
-• tell you how we might use your personal information;
-
-• let you know if we need to disclose your personal information to anyone else (including anyone overseas) and if so, in what circumstances this might occur;
-
-• keep your personal information secure;
-
-• promptly respond to any request by you not to receive direct marketing material from us;
-
-• make sure your personal information is kept accurate and up to date and to properly dispose of any personal information which is no longer required by us; and
-
-• ensure that, where appropriate, you can access and correct your personal information.
-
-### About this Policy
+###   
+About this Policy 
 
 This policy is intended to explain clearly and in plain language some of the key processes and procedures that we have implemented to manage your personal information, to protect your privacy and to comply with the Privacy Act 1988, the Privacy Amendment  _(Enhancing Privacy Protection)_  Act 2012 ("Act") and the Australian Privacy Principles.
 
 References to "our", "us" and "we" in this policy are references to Macfixit Australia Pty Ltd ACN 150 248 927. 
 
-www.macfixit.com.au ("Website") is owned and administered by Macfixit Australia Pty Ltd ACN 150 248 927 .
+[www.macfixit.com.au](http://www.macfixit.com.au/) ("Website") is owned and administered by Macfixit Australia Pty Ltd ACN 150 248 927 .
 
 This policy gives a broad overview of our policies in relation to privacy but if you require further information, you are welcome to contact us or to read any of the privacy statements or notices that will be issued to you as and when personal information is collected.
 
@@ -44,15 +37,11 @@ We will only collect from you information that is necessary and relevant to our 
 
 Depending on the exact nature of our relationship with you, we may request that you provide some or all of the following information:
 
-• information that we may require to initially identify you, including your name, home address and your date of birth;
-
-• information that we can use to contact you, including your telephone number, mobile number, email address, work address, mailing address;
-
-• information we may require to confirm your identity, including your driver's licence number, passport details, business name, Medicare card;
-
-• information that may assist us to confirm your financial position or credit history when you are considering a finance or credit arrangement, including your credit card details, bank details, purchase history or transaction details and loan and credit information where finance arrangements apply.
-
-It would be very unusual for us to need to collect all or even most of the above information from you however the information we will require will depend on the specific service or services that we are providing to you. We will only collect personal information from you that we reasonably require in order to satisfactorily perform the services that you require from us.
+* information that we may require to initially identify you, including your name, home address and your date of birth;
+* information that we can use to contact you, including your telephone number, mobile number, email address, work address, mailing address;
+* information we may require to confirm your identity, including your driver's licence number, passport details, business name, Medicare card;
+* information that may assist us to confirm your financial position or credit history when you are considering a finance or credit arrangement, including your credit card details, bank details, purchase history or transaction details and loan and credit information where finance arrangements apply.
+It would be very unusual for us to need to collect all or even most of the above information from you however the information we will require will depend on the specific service or services that we are providing to you. We will only collect personal information from you that we reasonably require in order to satisfactorily perform the services that you require from us. 
 
 The Act places restrictions on us collecting sensitive information about you (which includes information about your religion, political views, ethnicity, criminal records and sexual preferences). Generally we will not collect this type of information , however we may need to collect some sensitive information if you are applying for a job with us, and you have provided us with your consent to do so.
 
@@ -64,15 +53,11 @@ Usually, the main reason that we will need to collect your personal information 
 
 We may also use your personal information for other reasons, including:
 
-• to contact you in relation to an event, special offer or product that you might be interested in;
-
-• preventing fraud and other criminal activities;
-
-• to assist us to run our business and to improve our services and performance, including staff training, accounting, risk management, record keeping, archiving, systems development, developing new products and services and undertaking planning, research and statistical analysis; and
-
-• to comply with our legal obligations.
-
-There is no obligation for you to provide us with any of your personal information but if you choose not to provide us with your personal information, we may not be able to provide the information, goods or services that you require.
+* to contact you in relation to an event, special offer or product that you might be interested in;
+* preventing fraud and other criminal activities;
+* to assist us to run our business and to improve our services and performance, including staff training, accounting, risk management, record keeping, archiving, systems development, developing new products and services and undertaking planning, research and statistical analysis; and
+* to comply with our legal obligations.
+There is no obligation for you to provide us with any of your personal information but if you choose not to provide us with your personal information, we may not be able to provide the information, goods or services that you require. 
 
 ### How do we collect your personal information?
 
@@ -110,6 +95,12 @@ Where we are collecting your personal information, we will remind you of the fol
 
 (viii) whether your personal information is likely to be disclosed to anyone overseas and if practicable, the countries in which those recipients are located.
 
+#### Our Policy for Protecting Your Online Privacy
+
+This website uses Google Analytics to help analyse how users use the site. The tool uses “cookies,” which are text files placed on your computer, to collect standard Internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors of the website and to compile statistical reports on website activity for MelbourneSEOServices.com. 
+
+We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website. 
+
 ### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
@@ -122,36 +113,37 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name| COOKIE Description  
+COOKIE name  |  COOKIE Description   
 ---|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in on our website.  
-POLLN | Information on what polls you have voted on our website.  
-RECENTLYCOMPARED | The items that you have recently compared on our website.  
-STF | Information on products you have emailed to friends through our website (please  
+CART  |  The association with your shopping cart.   
+CATEGORY_INFO  |  Stores the category info on the page, that allows to display pages more quickly.   
+COMPARE  |  The items that you have in the Compare Products list.   
+CURRENCY  |  Your preferred currency   
+CUSTOMER  |  An encrypted version of your customer id with the store.   
+CUSTOMER_AUTH  |  An indicator if you are currently logged into the store.   
+CUSTOMER_INFO  |  An encrypted version of the customer group you belong to.   
+CUSTOMER_SEGMENT_IDS  |  Stores the Customer Segment ID   
+EXTERNAL_NO_CACHE  |  A flag, which indicates whether caching is disabled or not.   
+FRONTEND  |  You sesssion ID on the server.   
+GUEST-VIEW  |  Allows guests to edit their orders.   
+LAST_CATEGORY  |  The last category you visited.   
+LAST_PRODUCT  |  The most recent product you have viewed.   
+NEWMESSAGE  |  Indicates whether a new message has been received.   
+NO_CACHE  |  Indicates whether it is allowed to use cache.   
+PERSISTENT_SHOPPING_CART  |  A link to information about your cart and viewing history if you have asked the site.   
+POLL  |  The ID of any polls you have recently voted in on our website.   
+POLLN  |  Information on what polls you have voted on our website.   
+RECENTLYCOMPARED  |  The items that you have recently compared on our website.   
+STF  |  Information on products you have emailed to friends through our website (please   
 note that we do not collect any email information or content of email)   
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed on our website.  
-WISHLIST | An encrypted list of products added to your Wishlist on our website.  
-WISHLIST_CNT | The number of items in your Wishlist on our website.  
+STORE  |  The store view or language you have selected.   
+USER_ALLOWED_SAVE_COOKIE  |  Indicates whether a customer allowed to use cookies.   
+VIEWED_PRODUCT_IDS  |  The products that you have recently viewed on our website.   
+WISHLIST  |  An encrypted list of products added to your Wishlist on our website.   
+WISHLIST_CNT  |  The number of items in your Wishlist on our website.   
   
-### Collecting and disclosing personal information about others
+###   
+Collecting and disclosing personal information about others 
 
 Wherever possible, we will collect personal information directly from the relevant individual to whom that information relates.
 
@@ -249,13 +241,13 @@ As part of the services that we provide to you, we may:
 
 (c)disclose your personal information to our related entities, any one or more of the Recipient Parties or to our business partners (including third party facilitators) to enable them to tell you about a product or service that you might be interested in.
 
-By providing your personal information to us or by agreeing to accept the terms of this privacy policy, or both, you consent to your personal information being included in our database to be used for direct marketing purposes, including those described above, however, you can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, PO Box 2244, Footscray, Victoria 3011, or at <https://www.macfixit.com.au/contacts> or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
+By providing your personal information to us or by agreeing to accept the terms of this privacy policy, or both, you consent to your personal information being included in our database to be used for direct marketing purposes, including those described above, however, you can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, PO Box 2244, Footscray, Victoria 3011, or at  <https://www.macfixit.com.au/contacts> or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
 
 You may make a request that we do not disclose your personal information to facilitate direct marketing by another organisation and you may request that we provide you with the source of any personal information we use for direct marketing purposes. Any such requests will be actioned within a reasonable period and there will be no charges to you for making, or to you from us actioning, such requests.
 
 ### How do I opt out of your marketing communication?
 
-You can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, PO Box 2244, Footscray 3011, or at <https://www.macfixit.com.au/contacts> or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
+You can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling us on 03 9329 4343 or by writing to us at Macfixit Australia Pty Ltd, PO Box 2244, Footscray 3011, or at  <https://www.macfixit.com.au/contacts> or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
 
 ### How do we store your personal information?
 
@@ -277,7 +269,7 @@ We take reasonable steps to ensure that:
 
 ### How can you access your personal information?
 
-Usually we will be able to provide you with access to your personal information upon receipt of your written request, either by email sent to Macfixit Australia Pty Ltd, at <https://www.macfixit.com.au/contacts> or by post sent to Macfixit Australia, 2 Lothian Street, North Melbourne 3051, and confirmation of your identity.
+Usually we will be able to provide you with access to your personal information upon receipt of your written request, either by email sent to Macfixit Australia Pty Ltd, at  <https://www.macfixit.com.au/contacts> or by post sent to Macfixit Australia, 2 Lothian Street, North Melbourne 3051, and confirmation of your identity.
 
 There are some limited circumstances in which we may not be able to provide you with access to your personal information when requested. Such circumstances might include where access would pose a serious threat to the life, health or safety of another person or where such access would unreasonably impact on the privacy of others.
 
@@ -313,9 +305,9 @@ We will not charge you for any request to correct your personal information, nor
 
 We are committed to maintaining and protecting your privacy but it is possible that in limited circumstances, mistakes might be made. If you are concerned with the way your personal information has been handled then you are entitled to make a complaint. If you would like to lodge a complaint, please contact us through our Privacy Compliance Officer, whose details are set out below.
 
-Macfixit Australia Pty Ltd  
-Postal address: PO Box 2244, Footscray, Victoria 3011  
-E-mail - please email us through our online contact form here: <https://www.macfixit.com.au/contacts>  
+Macfixit Australia Pty Ltd   
+Postal address: PO Box 2244, Footscray, Victoria 3011   
+E-mail - please email us through our online contact form here:  <https://www.macfixit.com.au/contacts>  
 Phone: 03 9329 4343
 
 If your personal information has not been handled in an appropriate way, we will do our best to remedy your concerns as quickly as possible, including by acknowledging receipt of your complaint within 48 hours and trying to resolve the complaint within 10 working days. Where this is not possible, we will contact you within this period to let you know an anticipated time frame within which your complaint will be resolved.
@@ -340,9 +332,9 @@ Please find below our contact details. Please do not hesitate to contact us in r
 
 If it is practical to do so, you can contact us without identifying yourself. However, if you choose not to identify yourself, it may be more difficult for us to assist you with your enquiry. This will depend on the nature of your enquiry.
 
-Macfixit Australia Pty Ltd  
-Postal address: PO Box 2244, Footscray, Victoria 3011  
-E-mail - please email us through our online contact form here: <https://www.macfixit.com.au/contacts>  
+Macfixit Australia Pty Ltd   
+Postal address: PO Box 2244, Footscray, Victoria 3011   
+E-mail - please email us through our online contact form here:  <https://www.macfixit.com.au/contacts>  
 Phone: 03 9329 4343
 
 ### Express consent to collection, storage, use and disclosure
