@@ -1,123 +1,75 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408200221id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110024812id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
 
 # Free Printable Coupons and Online Promo Codes - Valpak.com
 
-Effective on 7/22/2013
+Last Updated April 27th, 2016
 
-We at Valpak.com, owned by Valpak Direct Marketing Systems, Inc. (" **Valpak** "), respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its Terms and Conditions.
+Thank you for visiting Valpak.com, which is owned and operated by Valpak Direct Marketing Systems, Inc. (" **we** ", " **us** ", " **our** "). This privacy statement is provided by us to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the " **Service** "), and the ways that we may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our terms of use. If you have questions regarding privacy issues, please contact us at [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com).
 
-This Privacy Policy describes the types of personal information we collect at Valpak.com, (the " **Site** "), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Please note that this Privacy Policy governs only information provided to Valpak.com. It does not govern any other information collected or communications received by way of any other Valpak® product e.g., the Valpak® direct mail envelope. If you link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.
+California law allows California residents, once a year and free of charge, to request information about certain types of personal information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of personal information, and (2) provide you with a cost-free means to exercise that right. As noted in this privacy statement, we require California residents to opt-in to activities where we would share their personal information with third parties for those third parties' direct marketing purposes. If you are a California resident and you would like to prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to prevent our disclosure of your personal information to third parties for their direct marketing purposes, please contact us.
 
-### 1\. Information We Collect and How We Use It
+### TYPES OF INFORMATION WE COLLECT
 
-You may choose to provide us with personal information when you visit our Site. For example, if you decide to complete an online survey, complete a user registration form or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), age group and gender. If you decide to place an order, we will also need to know your billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password.
+**Overview**. The information we gather generally falls into one of two categories: (1) information (for example, your name and address) that you voluntarily supply when you register with our Service, or when you participate in the features we offer through the Service (such as comments posted on a blog, or other social networking features on the Service), and (2) information gathered on usage patterns and preferences as visitors navigate through our Service.
 
-If you would prefer that we not collect any personal information from you, please do not provide us with any such information.
+**Registration Information**. To make use of certain features available through this Service (such as to receive email newsletters, or to participate in some social networking features) you may need to register and to provide certain information as part of the registration process. The information that you supply will help us to offer you more personalized features, to tailor our Service to your interests and make them more useful to you. Supplying such information is entirely voluntary. But if you don't supply the information we request, we may be unable to provide you with services we make available to other users of our Service. For instance, we can't send you email alerting you to a new service we're offering, or breaking news that may interest you, if you don't tell us what you're interested in and give us your email address.
 
-### 2\. Use of Personal Information by Valpak.com
+**Contests and Other Promotions**. From time to time, we may offer contests, sweepstakes or other promotions via our Service. If you enter one of these contests, sweepstakes or promotions, you'll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can administer and operate the contest, sweepstakes, or promotion (including contacting you if you win, fulfilling a prize, and publishing a winners' list). If you don't want us to collect the information requested in the registration form or to provide it to our co-sponsor(s) as described below, please do not enter the contest, sweepstakes or promotion.
 
-  1. Marketing Emails
+**Email Newsletters**. We may also offer you the opportunity to subscribe to email newsletters that we make available through the Service. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting In/Opting Out" below.
 
-If you so elect, the information you provide may be used by Valpak.com to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information (" **Emails** "). If you do elect to receive them and later decide that you would no longer like to receive these Emails, see the Deactivate or Change Your Status section below.
+**Cookies**. To help make our sites more responsive to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in a text file, on your hard drive. We use cookies to help us tailor our site to your needs and to deliver a better, more personalized service. For example, we may use cookies to personalize the ads you see on our Service or to avoid showing you the same ad repeatedly during a single visit. In addition, we may use cookies to track the pages on our Service visited by our users. We may also use cookies to measure site performance and/or advertising performance. We can build a better Service if we know which pages our users are visiting and how often they visit. You can manage your browser's cookie setting through the "options" menu on most commercially available web browsers, including options to set your browser to notify you before accepting a cookie or to disable cookies entirely. Of course, if you set your browser not to accept cookies, you may not be able to take advantage of the personalized features enjoyed by other users of our Service.
 
-  2. Text Messages
+**Web Beacons**. Our Service may contain electronic images (called "single-pixel GIFs" or "web beacons") or other tools that allow us to count users who have visited particular pages of this Service, or to access certain cookies. We may use these tools and other technologies to recognize which links visitors click and to track how users respond to ads we place on our Service.
 
-If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product, event and promotions information (" **Text Messages** "). There is no fee from Valpak.com to receive Text Messages, however, your mobile service provider may charge for you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. If you do elect to receive them and later decide that you would no longer like to receive these Text Messages, see the Deactivate or Change Your Status section below.
+These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. In combination with cookies, these web beacons allow us to track the number of users who view particular pages and to fine tune the advertising messages delivered to users of this Service. We may use "clickstream" data collected using web beacons and cookies to help us tailor promotional content, including such content in email messages and on landing pages, to the perceived interests of our users.
 
-  3. Communications to Serve You
+**Browser Level Information and IP Addresses**. Our web servers automatically collect limited information about your computer configuration or your mobile device when you use our Service, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you're using, and your IP address. (Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address alone does not tell us who you are. We use this information to deliver our web pages to you upon request, to tailor our Service (including ads distributed through our Service) to the interests of our users, and to measure traffic within our Service.
 
-If you have elected to provide us with your contact information, we may provide you with service related announcements by email, or direct mail, concerning the Site or contact you regarding your customer service requests or questions or your order. For example, all registered users will receive a welcoming Email to confirm their registration. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that Valpak.com offers its customers.
+**Social Networks**. When you use one of the social network sharing tools available on our Service, the social network operating the tool may collect information about you based on such use. The social network's use of that information will be subject to its own privacy policy, which may be different from ours.
 
-  4. Special Events, Questionnaires and Surveys
+**Information You Post**. Please remember that anything you post to any message boards, discussion or comment areas, or social networking services on our Service can be seen, collected, and used by anyone who has access to that board, area, or social networking service. We cannot control how your postings may be used by third parties with such access.
 
-On occasion, Valpak.com may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy for the purposes set forth herein.
+**Statistical Information**. Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our Service, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to any third parties as we see fit.
 
-  5. Contest Co-Sponsors
+**Mobile Applications and Location-Based Information**. Our Service may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable our Service to use your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access our Service, then your device and/or your browser may automatically collect and/or transmit your device's unique identifier, IP address, location information, device make/model, wireless provider, and related information to us. We may use this information to deliver content, services, and advertising tailored to your location.
 
-If you enter any contest, sweepstakes or other promotion that we make available on the Site, we may share the information that you submit to us with the co-sponsor(s) of the contest, sweepstakes or promotion. We will identify any co-sponsor(s) in the official rules for the promotion.
+### DISCLOSURE OF INFORMATION
 
+**Why We Collect Information From You**. Like any business, it's important for us to know our customers — their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this Service available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our Service. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our Service — in other words, how effective their ad is likely to be. So it's important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Service.
 
+**Advertisers**. Without your permission, we will not share the personally-identifying information you provide when registering on our Service with advertisers. We may, however, take the information you provide and aggregate it with data from all the other people that use this Service and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally.
 
+**Service Providers**. We may retain other companies (" **Service Providers** ") and individuals to perform functions on our behalf consistent with this privacy statement. Examples include data analysis firms, customer support specialists, email vendors, and web hosting companies. Service Providers may be provided with access to personal information needed to perform their functions but may not use such information other than on our behalf and in accordance with this privacy statement.
 
-### 3\. Technologies That Allow Us to Customize Your Experience on Our Site
+In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a Service Provider such as an event or promotion co-sponsor. If you consent, we will share your information with such Service Provider and the information you provide may be used by such Service Provider for their own purposes and in accordance with their own policies. We will identify any co-sponsor(s) in the official rules for the promotion.
 
-We use various technologies to collect information about your visit to our Site and to enhance and customize your experience on our Site. For example, we may collect the numerical Internet Protocol (IP) address identifying your computer or device which may indicate your geographic location. In some instances, we may use these technologies in combination with the personal information you provide on the Site. These technologies may provide a variety of information such as whether you have visited our Site before. They also may enable you to save your preferences. Each technology is explained below.
+**Our Affiliates**. We may share your personal information with other Valpak affiliates and/or subsidiaries that distribute and market Valpak® products (the " **Valpak Companies** "). Valpak Companies will use this information in accordance with this Privacy Policy.
 
-  1. Web Beacons and Tracking Links
+**Sites to Which We Link**. Our Service includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another site or purchase products or services or conduct other transactions through their sites, use of any information you provide is governed by the privacy statement of the operator of the site you're visiting or the provider of such products or services.
 
-Web beacons (also called clear gifs and pixel tags), tracking links and/or similar technology consist of a few lines of code and are embedded on the pages of our Site. They are often used in combination with cookies and are often not visible to the user of the Site. Web beacons may relay information to third parties such as our service providers and may be used in order to track customer response to certain advertising, to better target interactive advertising and to enhance customer support and usability. If you reject our cookies (see "Cookies" section below), you will prevent Web beacons from relaying this information about you and may limit your use of some of our Site features.
+**Other Disclosures**. We reserve the right to release information about users of our Service when release is necessary or appropriate to comply with law, to enforce this privacy statement or our terms of use, or to protect the rights, property or safety of users of our Service, the public, our customers, or our company and its employees, agents, partners and Affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that we merge with another entity or otherwise transfer substantially all of our assets to another entity (including, without limitation, to one of our Affiliates as part of an internal reorganization), information collected from this Service would be among the transferred assets.
 
-  2. Cookies
+### OPTING IN/OPTING OUT
 
-The Site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+In certain places on this Service (for example, when registering as a user of this Service, managing your account, or participating in activities like promotional contests), we may ask you to consent to the sharing of your information with third parties with which we have business relationships. If you provide such consent (for example, by checking a box or by some other means), we will make your information available to such third parties as described in the consent form so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.
 
-One of the primary purposes of a cookie is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to Valpak.com, the information you previously provided can be retrieved, so you can easily use the Valpak.com features that you customized.
+If you register with this Service, you will have the opportunity to review or update the information you have provided us at any time. You also have the option of deleting all information except for your email address. If you would like to completely deactivate your account, please contact us. Please note, however, that if you deactivate your account, you will not receive any newsletters from us and you will not be able to participate in any of our sweepstakes or contests.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Valpak.com services or web sites you visit.
+You agree that, subject to applicable law, we may use your information to contact you for customer service, to inform you of important changes or additions to our Service or the services offered over our Service and to send you administrative notices or any communications relevant to your use of our Service.
 
-  3. Social Networks
+If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by modifying your account settings on our Service).
 
-When you use the social networking features on the Site, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you, (including personal information) from that social network. In addition, when you use one of the social network sharing tools on the Site, the social network operating tool may collect information about you based on such use. The social network's use of that information will be subject to its own privacy policy, which may be different from ours.
+### DATA SECURITY
 
-  4. Mobile Applications and Location-Based Information
+All information gathered through our Service is stored within database(s) operated by us or by a Service Provider on our behalf. We and/or our Service Providers secure the personally identifying information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.
 
-We may have the ability to use your geographic location to deliver content, services, and advertising tailored to you location. If you choose to enable our service to use your location information, then that information will be stored and used to deliver content, services and advertising tailored to your location. Also, when you use a mobile device or browser to access our service, then your device and/or your browser may automatically collect and/or transmit your device's unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location.
+### A NOTE ABOUT CHILDREN'S PRIVACY
 
+This Service is not directed at children under the age of 13, and we won't knowingly allow anyone under age 13 to register with our Service or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). If we become aware that we have collected any personally identifying information from a user under the age of 13, we will remove such information from our records as soon as possible.
 
+### CHANGES TO THIS PRIVACY STATEMENT
 
-
-### 4\. Information We Share and With Whom We Share It
-
-We will not provide your personal information to third parties for their use in marketing their products or services to you without your consent, except as described below. In addition, we do not sell or otherwise disclose personal information about our Site visitors except as described here.
-
-  1. Valpak Companies
-
-We may share your personal information with other Valpak affiliates and/or subsidiaries that distribute and market Valpak® products (the " **Valpak Companies** "). Valpak Companies will use this information in accordance with this Privacy Policy.
-
-  2. Third Parties
-
-We may retain other companies and individuals to perform functions on our behalf consistent with this Privacy Policy. Examples include credit card companies, data analysis firms, customer support specialists, email vendors, and web hosting companies. Such third parties may be provided with access to personal information needed to perform their functions but may not use such information other than on our behalf and in accordance with this Privacy Policy.
-
-In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a third party such as an event or promotion co-sponsor. If you consent, we will share your information with such third party and the information you provide may be used by such third party for their own purposes and in accordance with their own policies.
-
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use non-identifying information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-  3. Compliance With Law and Fraud Protection
-
-We may disclose any information we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose any information when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity.
-
-
-
-
-### 5\. Children's Privacy
-
-Valpak.com does not knowingly collect information from children under the age of 13 years. Valpak.com does not wish to collect information from children under 13 years old. By registering with Valpak.com, the new member certifies that they are not under the age of 13 years. If a user indicates their age as under 13 then their personally identifiable information will automatically be removed from the Valpak.com database and will not be retained.
-
-### 6\. How We Protect Personal Information
-
-We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com).
-
-### 7\. Updates to Our Privacy Policy
-
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. We suggest that you periodically consult this Privacy Policy. Please find the effective date of the Privacy Policy at the top of this page.
-
-### 8\. Deactivate or Change Your Status
-
-Valpak.com gives our members the option of deactivating from our service so as not to receive future communications from Valpak.com or any other part of our service, or to change their profile and preferences.
-
-To change your profile and preferences or deactivate your participation in the service, you may:
-
-  * Visit the "Your Profile" section of Valpak.com and change your current status.
-  * Send an email to [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com) and request to unsubscribe.
-  * Write to Valpak.com, 805 Executive Center Drive West, St. Petersburg, FL 33702 attn: Customer Service.
-  * Call 1-800-237-6266 and ask for Digital Support with any other questions you may have.
-
-
-
-Note: It may take up to 48 hours for us to process your request and any email communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.
-
-### 9\. Comments
-
-We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at [digitalsupport@valpak.com](mailto:digitalsupport@valpak.com)
+We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the "Last Updated" date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.
