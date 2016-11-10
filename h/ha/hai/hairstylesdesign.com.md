@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairstylesdesign.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501104615id_/http%3A//www.hairstylesdesign.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairstylesdesign.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110061618id_/http%3A//www.hairstylesdesign.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy!
 
