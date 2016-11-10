@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celticandco.co.uk privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430221728id_/https%3A//www.celticandco.com/shopping-with-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celticandco.co.uk privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110230511id_/https%3A//www.celticandco.com/shopping-with-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celtic & Co
 
