@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the blugaa.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511230300id_/http%3A//www.blugaa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blugaa.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110105821id_/https%3A//www.blugaa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blugaa.com
+# Blugaa Privacy Policy - blugaa.com
 
 This Privacy Policy explains how Blugaa collects and utilizes your personal information when you use our products and services. Details regarding specific topics may be found via the topic index below.
 
-**WHY DO WE COLLECT PERSONAL INFORMATION?**
+ **WHY DO WE COLLECT PERSONAL INFORMATION?**
 
 Bugaa collects personal information to improve the manner by which we operate and offer our products and services, communicate with you about those products and services, and provide effective, timely customer support when needed. We will never rent or sell any of the personally-identifiable information we collect from you to third parties, and will not share your personally identifiable information with third parties without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy.
 
-**WHAT PERSONAL INFORMATION DO WE COLLECT?**
+ **WHAT PERSONAL INFORMATION DO WE COLLECT?**
 
 We track IP,demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information); 
 
 We will not sell, rent or otherwise distribute your personally identifiable information to third parties without your consent, except as set forth below.Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at[www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-**HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?**
+ **HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?**
 
 Blugaa understands that it is a privilege to have you as a customer and is committed to protecting your personal information. We use the following controls to protect your personal information:
 
@@ -25,7 +25,7 @@ Blugaa understands that it is a privilege to have you as a customer and is commi
   * 
 
 
-**HOW DO WE USE YOUR PERSONAL INFORMATION?**
+ **HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
 Blugaa uses your personal information to:
 
