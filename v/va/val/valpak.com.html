@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valpak.com privacy policy that was archived on 2016-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160408200221id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valpak.com privacy policy that was archived on 2016-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110024812id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="desktop js-fouc js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" itemscope="" itemtype="http://schema.org/organization"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -28,7 +28,7 @@
 <meta property="og:description" content="Free, printable coupons for food and restaurants, grocery, and more on Valpak.com. Get your online coupon or promo code for more discounts.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.valpak.com/coupons/show/privacypolicy">
-<meta property="og:image" content="">
+<meta property="og:image" content="https://www.valpak.com/public/images/valpak-share.png">
 <meta property="og:site_name" content="Valpak">
 <meta property="fb:admins" content="1226626940">
 <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,600,300,700">
@@ -58,24 +58,26 @@ if (typeof window.innerWidth != 'undefined') {
 // Common RequireJS config
 requirejs.config({
   paths: {
-    'app'             : 'app',
+    'app'              : 'app',
     'flight-components': 'app/flight-components',
-    'lib'             : 'app/lib',
-    'flight'          : 'components/flight',
-    'jquery'          : 'components/jquery/jquery',
-    'cookies'         : 'components/jquery.cookie/jquery.cookie',
-    'jqueryui'        : 'vendor/jquery-ui-1.10.2.custom.min',
-    'hogan'           : 'components/hogan/web/builds/2.0.0/hogan-2.0.0.min.amd',
-    'async'           : 'components/requirejs-plugins/src/async',
-    'URIjs'           : 'components/uri.js/src',
-    'social-shares'   : 'components/social-likes/src/social-likes',
-    'ladda'           : 'components/Ladda/dist/ladda.min',
-    'spin'            : 'components/Ladda/dist/spin.min',
-    'tooltipster'     : 'components/tooltipster/js/jquery.tooltipster',
-    'angular'         : 'components/angular/angular.min',
-    'parsley'		  : 'vendor/parsley.min'
+    'lib'              : 'app/lib',
+    'flight'           : 'components/flight',
+    'jquery'           : 'components/jquery/jquery',
+    'cookies'          : 'components/jquery.cookie/jquery.cookie',
+    'jqueryui'         : 'vendor/jquery-ui-1.10.2.custom.min',
+    'hogan'            : 'components/hogan/web/builds/2.0.0/hogan-2.0.0.min.amd',
+    'async'            : 'components/requirejs-plugins/src/async',
+    'URIjs'            : 'components/uri.js/src',
+    'social-shares'    : 'components/social-likes/src/social-likes',
+    'ladda'            : 'components/Ladda/dist/ladda.min',
+    'spin'             : 'components/Ladda/dist/spin.min',
+    'tooltipster'      : 'components/tooltipster/js/jquery.tooltipster',
+    'angular'          : 'components/angular/angular.min',
+    'validate'         : 'vendor/jquery.validate.min',
+    'maskedinput'      : 'vendor/jquery.maskedinput.min'
   }
 });
+
 requirejs.config({ baseUrl: '/public/dist' });
 
 // Adobe/Omniture DTM 
@@ -114,10 +116,11 @@ define('App', [], function(){
     ajaxErrors        : false,
     context           : '/coupons',
     page              : 'privacypolicy',
-    expired           : '',
+    bppExpired        : 'false' == 'true',
+    bppServiceBased   : 'false' == 'true',
     server            : 'https://www.valpak.com',
     secure_server     : 'https://www.valpak.com',
-    ipAddress         : '207.241.229.227',
+    ipAddress         : '207.241.229.198',
     isSecure          : 'true' == 'true',
     cssDir            : '/public/stylesheets/css',
     imageDir          : '/public/images',
@@ -129,6 +132,7 @@ define('App', [], function(){
 
     results : {
       franchiseId     : '3255',
+      postalCode      : '94102',
       geoLocation     : 'San Francisco, CA',
       geoRadius       : '25',
       geoSort         : '1',
@@ -149,8 +153,7 @@ define('App', [], function(){
       device          : device,
       isGb            : 'true' == 'true',
       campaignCode    : 'www.valpak.com-Organic',
-      memberId        : '',
-      visitorId       : '0',
+      memberId        : '0',
       isAdmin         : false,
       isLoggedIn      : 'false' == 'true',
       loginReturnURL  : '',
@@ -169,10 +172,12 @@ define('App', [], function(){
   // ex: pagename[:categoryname] (all lowercase)
   that.dtmPage = that.page;
   that.dtmPage += that.results.categoryName != '' ? ':' + that.results.categoryName : '';
-  that.dtmPage += that.expired == true ? '-expired' : '';
+  that.dtmPage += that.bppExpired == true ? '-expired' : '';
   that.dtmPage = that.dtmPage.toLowerCase();
 
   that.dtmContestId = that.contestId;
+
+  console.log('dtmPage: ' + that.dtmPage);
 
 
 
@@ -279,7 +284,7 @@ define('App', [], function(){
             <form class="header__search-form--compact container" action="/coupons/query" method="get" data-form="keyword-search">
               <input type="hidden" name="geo" value="San Francisco, CA">
               <input type="hidden" name="f1" value="keyword">
-              <input type="search" name="keywords" class="push-quarter--bottom wide" placeholder="Pizza, Great Clips, Oil Change...">
+              <input type="search" name="keywords" class="push-quarter--bottom wide" placeholder="Pizza, Oil Change, New York, NY or 10108...">
               <button type="submit" class="btn" data-dtm="click-search">Search</button>
             </form>
             <p class="input-error-msg push--top-1">Enter a valid city and state or postal code</p>
@@ -301,7 +306,7 @@ define('App', [], function(){
 
             <div class="dropdown js-dropdown" data-dtm="account-select">
               <button class="header__nav__link js-dropdown__toggle icon-down-open r-icon btn btn--clear">
-                My Account</button>
+              My Account</button>
               <div class="js-dropdown__content">
                 <ul class="link-list--compact">
                   <li>
@@ -329,14 +334,14 @@ define('App', [], function(){
           </a>
 
           <div class="div3">
-            <div class="push-half--right">
+            <div class="push-qtr--right">
+                <a class="header__nav__link icon-star btn btn--info" href="/coupons/savings/popular" data-dtm="popular-link">Popular</a>
+                  </div>
+            <div class="push-qtr--right">
               <div class="dropdown js-dropdown" data-dtm="browse-coupons-select">
                 <button class="header__nav__link js-dropdown__toggle icon-down-open r-icon btn btn--info">Browse Coupons</button>
                 <div class="js-dropdown__content">
                   <ul class="link-list--compact">
-                    <li>
-                        <a class="header__nav__link" href="/coupons/savings/popular" data-dtm="view-popular-coupons"><span class="icon-right-open"></span> Popular Coupons</a>
-                          </li>
                     <li><a class="header__nav__link js-geo-change" href="" data-dtm="view-local-coupons"><span class="icon-right-open"></span> Local Coupons</a></li>
                       <li>
                       <a class="header__nav__link" href="https://www.valpak.com/coupons/coupon-codes/featured" data-dtm="view-coupon-codes"><span class="icon-right-open"></span> Coupon Codes</a>
@@ -354,7 +359,7 @@ define('App', [], function(){
                 <form action="/coupons/query" method="get" data-form="keyword-search">
                   <input type="hidden" name="geo" value="San Francisco, CA">
                   <input type="hidden" name="f1" value="keyword">
-                  <input type="search" name="keywords" class="keyword-typeahead" placeholder="Pizza, Great Clips, Oil Change...">
+                  <input type="search" name="keywords" class="keyword-typeahead" placeholder="Pizza, Oil Change, New York, NY or 10108...">
                   <button class="btn ladda-button sub-2" type="submit" data-style="slide-left" data-dtm="click-search"><span class="ladda-label icon-search"></span></button>
                 </form>
                 <p class="input-error-msg">Enter a valid city and state or postal code</p>
@@ -375,174 +380,128 @@ define('App', [], function(){
 
     <ul class="list push--bottom-4 cf" data-dtm="featured-merchant-tiles">
     <li>
-        <a class="js-featured-merchant-tile-link" title="Walgreens coupons" href="https://www.valpak.com/c/coupon-codes/walgreens-coupons" data-merchant-id="235538" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311940.png?width=240&amp;height=240" alt="Walgreens coupons"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="Sprint coupons" href="https://www.valpak.com/c/coupon-codes/sprint-coupons" data-merchant-id="246942" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311835.png?width=240&amp;height=240" alt="Sprint Coupon Codes"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="Kohls coupons" href="https://www.valpak.com/c/coupon-codes/kohls-coupons" data-merchant-id="5517" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4234657.png?width=240&amp;height=240" alt="Kohls coupons"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="Verizon Wireless coupons" href="https://www.valpak.com/c/coupon-codes/verizon-wireless-coupons" data-merchant-id="5475" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311937.png?width=240&amp;height=240" alt="Verizon Wireless promotion codes"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="Orbitz coupons" href="https://www.valpak.com/c/coupon-codes/orbitz-coupons" data-merchant-id="5039" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4216257.png?width=240&amp;height=240" alt="Orbitz coupons"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="Walmart coupons" href="https://www.valpak.com/c/coupon-codes/walmart-coupons" data-merchant-id="5506" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311941.png?width=240&amp;height=240" alt="Walmart Coupon Codes"></a>
-      </li>
-    <li>
-        <a class="js-featured-merchant-tile-link" title="1-800 Flowers coupons" href="https://www.valpak.com/c/coupon-codes/1800flowers-coupons" data-merchant-id="5644" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214185.png?width=240&amp;height=240" alt=" "></a>
+        <a class="js-featured-merchant-tile-link" title="Pacsun coupons" href="https://www.valpak.com/c/coupon-codes/pacsun-coupons" data-merchant-id="5584" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4216303.png?width=240&amp;height=240" alt="Pacsun coupons"></a>
       </li>
     <li>
         <a class="js-featured-merchant-tile-link" title="Home Depot coupons" href="https://www.valpak.com/c/coupon-codes/home-depot-coupons" data-merchant-id="5540" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4215388.png?width=240&amp;height=240" alt="Home Depot coupons"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="Oriental Trading coupons" href="https://www.valpak.com/c/coupon-codes/oriental-trading-coupon-codes" data-merchant-id="5243" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4320075.png?width=240&amp;height=240" alt="Oriental Trading Coupon Codes"></a>
+        <a class="js-featured-merchant-tile-link" title="BuyCostumes coupons" href="https://www.valpak.com/c/coupon-codes/buycostumes-coupons" data-merchant-id="5247" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4164870.png?width=240&amp;height=240" alt="BuyCostumes Coupon Codes"></a>
       </li>
     <li>
-        <a class="js-featured-merchant-tile-link" title="HP coupons" href="https://www.valpak.com/c/coupon-codes/hp-coupons" data-merchant-id="5547" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4215460.png?width=240&amp;height=240" alt="HP coupons"></a>
+        <a class="js-featured-merchant-tile-link" title="1-800 Flowers coupons" href="https://www.valpak.com/c/coupon-codes/1800flowers-coupons" data-merchant-id="5644" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214185.png?width=240&amp;height=240" alt=" "></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="JCPenney coupons" href="https://www.valpak.com/c/coupon-codes/jcpenney-coupons" data-merchant-id="236494" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4215555.png?width=240&amp;height=240" alt="JCPenney coupons"></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="DSW coupons" href="https://www.valpak.com/c/coupon-codes/dsw-coupons" data-merchant-id="237291" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214915.png?width=240&amp;height=240" alt="DSW coupons"></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="Verizon Wireless coupons" href="https://www.valpak.com/c/coupon-codes/verizon-wireless-coupons" data-merchant-id="5475" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311937.png?width=240&amp;height=240" alt="Verizon Wireless promotion codes"></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="Walgreens coupons" href="https://www.valpak.com/c/coupon-codes/walgreens-coupons" data-merchant-id="235538" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4311940.png?width=240&amp;height=240" alt="Walgreens coupons"></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="Dell coupons" href="https://www.valpak.com/c/coupon-codes/dell-coupons" data-merchant-id="6039" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/4214787.png?width=240&amp;height=240" alt="Dell Coupons"></a>
+      </li>
+    <li>
+        <a class="js-featured-merchant-tile-link" title="HalloweenCostumes.com coupons" href="https://www.valpak.com/c/coupon-codes/halloweencostumes-coupons" data-merchant-id="245640" data-partner-id="7"><img src="https://d7olld39l2hok.cloudfront.net/logo/2972205.png?width=240&amp;height=240" alt="HalloweenCostumes.com Coupon Codes"></a>
       </li>
     </ul>
 
     <p class="p2"><a class="semi-strong icon-right-open" href="https://www.valpak.com/coupons/coupon-codes/featured" data-dtm="merchants-sidebar-more-link">More Coupon Codes</a></p>
   </div>
 </section></div>
-  </div><div class="primary-content content">
+  </div>
+<div class="primary-content content">
 
-    <span class="small float--right">Effective on 7/22/2013</span>
+    <span class="small float--right">Last Updated April 27th, 2016</span>
 
     <h1 class="h3 soft-half--ends float--clear">Privacy Policy</h1>
 
-    <p class="p2 push-half--bottom">We at Valpak.com, owned by Valpak Direct Marketing Systems, Inc. ("<strong>Valpak</strong>"), respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its Terms and Conditions.</p>
+    <p class="p2 push-half--bottom">Thank you for visiting Valpak.com, which is owned and operated by Valpak Direct Marketing Systems, Inc. ("<strong>we</strong>", "<strong>us</strong>", "<strong>our</strong>"). This privacy statement is provided by us to explain the ways in which we collect information from you through your use of this site and any services offered through this website and any of our applications or mobile applications (collectively, the "<strong>Service</strong>"), and the ways that we may use that information. This privacy statement does not apply to any information you may provide to us through other means; for example, via mail, or via telephone. Please read this privacy statement carefully so that you understand our online privacy practices. By using our Service, you agree that your use, and any dispute over our online privacy practices, is governed by this privacy statement and our terms of use. If you have questions regarding privacy issues, please contact us at <a href="mailto:digitalsupport@valpak.com">digitalsupport@valpak.com</a>.</p>
 
-    <p class="p2 push-half--bottom">This Privacy Policy describes the types of personal information we collect at Valpak.com, (the "<strong>Site</strong>"), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.</p>
+    <h3 class="h6 strong">YOUR CALIFORNIA PRIVACY RIGHTS</h3>
 
-    <p class="p2 push-half--bottom">Please note that this Privacy Policy governs only information provided to Valpak.com. It does not govern any other information collected or communications received by way of any other Valpak® product e.g., the Valpak® direct mail envelope. If you link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.</p>
+    <p class="p2 push-half--bottom">California law allows California residents, once a year and free of charge, to request information about certain types of personal information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of personal information, and (2) provide you with a cost-free means to exercise that right. As noted in this privacy statement, we require California residents to opt-in to activities where we would share their personal information with third parties for those third parties' direct marketing purposes. If you are a California resident and you would like to prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to participate in these activities. If you are a California resident, and you have opted in to one of these activities, but you later decide that you would like to prevent our disclosure of your personal information to third parties for their direct marketing purposes, please contact us.</p>
 
-    <h3 class="h4 push-half--top">1. Information We Collect and How We Use It</h3>
+    <h3 class="h6 strong">TYPES OF INFORMATION WE COLLECT</h3>
 
-    <p class="p2 push-half--bottom">You may choose to provide us with personal information when you visit our Site. For example, if you decide to complete an online survey, complete a user registration form or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), age group and gender. If you decide to place an order, we will also need to know your billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Overview</strong>. The information we gather generally falls into one of two categories: (1) information (for example, your name and address) that you voluntarily supply when you register with our Service, or when you participate in the features we offer through the Service (such as comments posted on a blog, or other social networking features on the Service), and (2) information gathered on usage patterns and preferences as visitors navigate through our Service.</p>
 
-    <p class="p2 push-half--bottom">If you would prefer that we not collect any personal information from you, please do not provide us with any such information.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Registration Information</strong>. To make use of certain features available through this Service (such as to receive email newsletters, or to participate in some social networking features) you may need to register and to provide certain information as part of the registration process. The information that you supply will help us to offer you more personalized features, to tailor our Service to your interests and make them more useful to you. Supplying such information is entirely voluntary. But if you don't supply the information we request, we may be unable to provide you with services we make available to other users of our Service. For instance, we can't send you email alerting you to a new service we're offering, or breaking news that may interest you, if you don't tell us what you're interested in and give us your email address.</p>
 
-    <h3 class="h4 push-qtr--bottom">2. Use of Personal Information by Valpak.com</h3>
+    <p class="p2 push-half--bottom"><strong class="underline">Contests and Other Promotions</strong>. From time to time, we may offer contests, sweepstakes or other promotions via our Service. If you enter one of these contests, sweepstakes or promotions, you'll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can administer and operate the contest, sweepstakes, or promotion (including contacting you if you win, fulfilling a prize, and publishing a winners' list). If you don't want us to collect the information requested in the registration form or to provide it to our co-sponsor(s) as described below, please do not enter the contest, sweepstakes or promotion.</p>
 
-    <ol class="ordered-list-letter p2 push--left">
-      <li>
-        <p class="h5">Marketing Emails</p>
-        <p class="p2 push-half--bottom">If you so elect, the information you provide may be used by Valpak.com to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information ("<strong>Emails</strong>"). If you do elect to receive them and later decide that you would no longer like to receive these Emails, see the Deactivate or Change Your Status section below.</p>
-      </li>
-      <li>
-        <p class="h5">Text Messages</p>
-        <p class="p2 push-half--bottom">If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product, event and promotions information ("<strong>Text Messages</strong>"). There is no fee from Valpak.com to receive Text Messages, however, your mobile service provider may charge for you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. If you do elect to receive them and later decide that you would no longer like to receive these Text Messages, see the Deactivate or Change Your Status section below.</p>
-      </li>
-      <li>
-        <p class="h5">Communications to Serve You</p>
-        <p class="p2 push-half--bottom">If you have elected to provide us with your contact information, we may provide you with service related announcements by email, or direct mail, concerning the Site or contact you regarding your customer service requests or questions or your order. For example, all registered users will receive a welcoming Email to confirm their registration. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that Valpak.com offers its customers.</p>
-      </li>
-      <li>
-        <p class="h5">Special Events, Questionnaires and Surveys</p>
-        <p class="p2 push-half--bottom">On occasion, Valpak.com may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy for the purposes set forth herein.</p>
-      </li>
-      <li>
-        <p class="h5">Contest Co-Sponsors</p>
-        <p class="p2 push-half--bottom">If you enter any contest, sweepstakes or other promotion that we make available on the Site, we may share the information that you submit to us with the co-sponsor(s) of the contest, sweepstakes or promotion. We will identify any co-sponsor(s) in the official rules for the promotion.</p>
-      </li>
-    </ol>
+    <p class="p2 push-half--bottom"><strong class="underline">Email Newsletters</strong>. We may also offer you the opportunity to subscribe to email newsletters that we make available through the Service. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting In/Opting Out" below.</p>
 
-    <h3 class="h4 push-qtr--bottom">3. Technologies That Allow Us to Customize Your Experience on Our Site</h3>
+    <p class="p2 push-half--bottom"><strong class="underline">Cookies</strong>. To help make our sites more responsive to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in a text file, on your hard drive. We use cookies to help us tailor our site to your needs and to deliver a better, more personalized service. For example, we may use cookies to personalize the ads you see on our Service or to avoid showing you the same ad repeatedly during a single visit. In addition, we may use cookies to track the pages on our Service visited by our users. We may also use cookies to measure site performance and/or advertising performance. We can build a better Service if we know which pages our users are visiting and how often they visit. You can manage your browser's cookie setting through the "options" menu on most commercially available web browsers, including options to set your browser to notify you before accepting a cookie or to disable cookies entirely. Of course, if you set your browser not to accept cookies, you may not be able to take advantage of the personalized features enjoyed by other users of our Service.</p>
 
-    <p class="p2 push-half--bottom">We use various technologies to collect information about your visit to our Site and to enhance and customize your experience on our Site. For example, we may collect the numerical Internet Protocol (IP) address identifying your computer or device which may indicate your geographic location. In some instances, we may use these technologies in combination with the personal information you provide on the Site. These technologies may provide a variety of information such as whether you have visited our Site before. They also may enable you to save your preferences. Each technology is explained below.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Web Beacons</strong>. Our Service may contain electronic images (called "single-pixel GIFs" or "web beacons") or other tools that allow us to count users who have visited particular pages of this Service, or to access certain cookies. We may use these tools and other technologies to recognize which links visitors click and to track how users respond to ads we place on our Service.</p>
 
-    <ol class="ordered-list-letter p2 push--left">
-      <li>
-        <p class="h5">Web Beacons and Tracking Links</p>
-        <p class="p2 push-half--bottom">Web beacons (also called clear gifs and pixel tags), tracking links and/or similar technology consist of a few lines of code and are embedded on the pages of our Site. They are often used in combination with cookies and are often not visible to the user of the Site. Web beacons may relay information to third parties such as our service providers and may be used in order to track customer response to certain advertising, to better target interactive advertising and to enhance customer support and usability. If you reject our cookies (see "Cookies" section below), you will prevent Web beacons from relaying this information about you and may limit your use of some of our Site features.</p>
-      </li>
-      <li>
-        <p class="h5">Cookies</p>
-        <p class="p2 push-half--bottom">The Site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
-        <p class="p2 push-half--bottom">One of the primary purposes of a cookie is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to Valpak.com, the information you previously provided can be retrieved, so you can easily use the Valpak.com features that you customized.</p>
-        <p class="p2 push-half--bottom">You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Valpak.com services or web sites you visit.</p>
-      </li>
-      <li>
-        <p class="h5">Social Networks</p>
-        <p class="p2 push-half--bottom">When you use the social networking features on the Site, you may be asked to log in to a social network using your social network credentials (for example, your Facebook user ID). When you log in, we may collect information about you, (including personal information) from that social network. In addition, when you use one of the social network sharing tools on the Site, the social network operating tool may collect information about you based on such use. The social network's use of that information will be subject to its own privacy policy, which may be different from ours.</p>
-      </li>
-      <li>
-        <p class="h5">Mobile Applications and Location-Based Information</p>
-        <p class="p2 push-half--bottom">We may have the ability to use your geographic location to deliver content, services, and advertising tailored to you location. If you choose to enable our service to use your location information, then that information will be stored and used to deliver content, services and advertising tailored to your location. Also, when you use a mobile device or browser to access our service, then your device and/or your browser may automatically collect and/or transmit your device's unique identifier, IP address, location information, device make/model, wireless provider, and related information to us and our Service Providers. We and our Service Providers may use this information to deliver content, services, and advertising tailored to your location.</p>
-      </li>
-    </ol>
+    <p class="p2 push-half--bottom">These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. In combination with cookies, these web beacons allow us to track the number of users who view particular pages and to fine tune the advertising messages delivered to users of this Service. We may use "clickstream" data collected using web beacons and cookies to help us tailor promotional content, including such content in email messages and on landing pages, to the perceived interests of our users.</p>
 
-    <h3 class="h4 push-qtr--bottom">4. Information We Share and With Whom We Share It</h3>
+    <p class="p2 push-half--bottom"><strong class="underline">Browser Level Information and IP Addresses</strong>. Our web servers automatically collect limited information about your computer configuration or your mobile device when you use our Service, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you're using, and your IP address. (Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address alone does not tell us who you are. We use this information to deliver our web pages to you upon request, to tailor our Service (including ads distributed through our Service) to the interests of our users, and to measure traffic within our Service.</p>
 
-    <p class="p2 push-half--bottom">We will not provide your personal information to third parties for their use in marketing their products or services to you without your consent, except as described below. In addition, we do not sell or otherwise disclose personal information about our Site visitors except as described here.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Social Networks</strong>. When you use one of the social network sharing tools available on our Service, the social network operating the tool may collect information about you based on such use. The social network's use of that information will be subject to its own privacy policy, which may be different from ours.</p>
 
-    <ol class="ordered-list-letter p2 push--left">
-      <li>
-        <p class="h5">Valpak Companies</p>
-        <p class="p2 push-half--bottom">We may share your personal information with other Valpak affiliates and/or subsidiaries that distribute and market Valpak® products (the "<strong>Valpak Companies</strong>"). Valpak Companies will use this information in accordance with this Privacy Policy.</p>
-      </li>
-      <li>
-        <p class="h5">Third Parties</p>
-        <p class="p2 push-half--bottom">We may retain other companies and individuals to perform functions on our behalf consistent with this Privacy Policy. Examples include credit card companies, data analysis firms, customer support specialists, email vendors, and web hosting companies. Such third parties may be provided with access to personal information needed to perform their functions but may not use such information other than on our behalf and in accordance with this Privacy Policy.</p>
-        <p class="p2 push-half--bottom">In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a third party such as an event or promotion co-sponsor. If you consent, we will share your information with such third party and the information you provide may be used by such third party for their own purposes and in accordance with their own policies.</p>
-        <p class="p2 push-half--bottom">We may use third-party advertising companies to serve ads when you visit our website. These companies may use non-identifying information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
-      </li>
-      <li>
-        <p class="h5">Compliance With Law and Fraud Protection</p>
-        <p class="p2 push-half--bottom">We may disclose any information we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose any information when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity.</p>
-      </li>
-    </ol>
+    <p class="p2 push-half--bottom"><strong class="underline">Information You Post</strong>. Please remember that anything you post to any message boards, discussion or comment areas, or social networking services on our Service can be seen, collected, and used by anyone who has access to that board, area, or social networking service. We cannot control how your postings may be used by third parties with such access.</p>
 
-    <h3 class="h4 push-qtr--bottom">5. Children's Privacy</h3>
+    <p class="p2 push-half--bottom"><strong class="underline">Statistical Information</strong>. Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our Service, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to any third parties as we see fit.</p>
 
-    <p class="p2 push-half--bottom">Valpak.com does not knowingly collect information from children under the age of 13 years. Valpak.com does not wish to collect information from children under 13 years old. By registering with Valpak.com, the new member certifies that they are not under the age of 13 years. If a user indicates their age as under 13 then their personally identifiable information will automatically be removed from the Valpak.com database and will not be retained.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Mobile Applications and Location-Based Information</strong>. Our Service may have the ability to use your geographic location to deliver content, services, and advertising tailored to your location. If you choose to enable our Service to use your location information, then that information will be stored and used to deliver content, services, and advertising tailored to your location. Also, when you use a mobile device or browser to access our Service, then your device and/or your browser may automatically collect and/or transmit your device's unique identifier, IP address, location information, device make/model, wireless provider, and related information to us. We may use this information to deliver content, services, and advertising tailored to your location.</p>
 
-    <h3 class="h4 push-qtr--bottom">6. How We Protect Personal Information</h3>
+    <h3 class="h6 strong">DISCLOSURE OF INFORMATION</h3>
 
-    <p class="p2 push-half--bottom">We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to <a href="mailto:digitalsupport@valpak.com">digitalsupport@valpak.com</a>.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Why We Collect Information From You</strong>. Like any business, it's important for us to know our customers — their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make most of this Service available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our Service. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often our users are looking at their ads on our Service — in other words, how effective their ad is likely to be. So it's important that we be able to tell advertisers who our audience is. Except as expressly set forth in this privacy statement, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Service.</p>
 
-    <h3 class="h4 push-qtr--bottom">7. Updates to Our Privacy Policy</h3>
+    <p class="p2 push-half--bottom"><strong class="underline">Advertisers</strong>. Without your permission, we will not share the personally-identifying information you provide when registering on our Service with advertisers. We may, however, take the information you provide and aggregate it with data from all the other people that use this Service and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally.</p>
 
-    <p class="p2 push-half--bottom">We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. We suggest that you periodically consult this Privacy Policy. Please find the effective date of the Privacy Policy at the top of this page.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Service Providers</strong>. We may retain other companies ("<strong>Service Providers</strong>") and individuals to perform functions on our behalf consistent with this privacy statement. Examples include data analysis firms, customer support specialists, email vendors, and web hosting companies. Service Providers may be provided with access to personal information needed to perform their functions but may not use such information other than on our behalf and in accordance with this privacy statement.</p>
 
-    <h3 class="h4 push-qtr--bottom">8. Deactivate or Change Your Status</h3>
+    <p class="p2 push-half--bottom">In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a Service Provider such as an event or promotion co-sponsor. If you consent, we will share your information with such Service Provider and the information you provide may be used by such Service Provider for their own purposes and in accordance with their own policies. We will identify any co-sponsor(s) in the official rules for the promotion.</p>
 
-    <p class="p2 push-half--bottom">Valpak.com gives our members the option of deactivating from our service so as not to receive future communications from Valpak.com or any other part of our service, or to change their profile and preferences.</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Our Affiliates</strong>. We may share your personal information with other Valpak affiliates and/or subsidiaries that distribute and market Valpak® products (the "<strong>Valpak Companies</strong>"). Valpak Companies will use this information in accordance with this Privacy Policy.</p>
 
-    <p class="p2 push-half--bottom">To change your profile and preferences or deactivate your participation in the service, you may:</p>
+    <p class="p2 push-half--bottom"><strong class="underline">Sites to Which We Link</strong>. Our Service includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy policies we don't control. When you access another site or purchase products or services or conduct other transactions through their sites, use of any information you provide is governed by the privacy statement of the operator of the site you're visiting or the provider of such products or services.</p>
 
-    <ul class="unordered-list p2 push--left">
-        <li class="h5">Visit the "Your Profile" section of Valpak.com and change your current status.</li>
+    <p class="p2 push-half--bottom"><strong class="underline">Other Disclosures</strong>. We reserve the right to release information about users of our Service when release is necessary or appropriate to comply with law, to enforce this privacy statement or our terms of use, or to protect the rights, property or safety of users of our Service, the public, our customers, or our company and its employees, agents, partners and Affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that we merge with another entity or otherwise transfer substantially all of our assets to another entity (including, without limitation, to one of our Affiliates as part of an internal reorganization), information collected from this Service would be among the transferred assets.</p>
 
-        <li class="h5">Send an email to <a href="mailto:digitalsupport@valpak.com">digitalsupport@valpak.com</a> and request to unsubscribe.</li>
+    <h3 class="h6 strong">OPTING IN/OPTING OUT</h3>
 
-        <li class="h5">Write to Valpak.com, 805 Executive Center Drive West, St. Petersburg, FL 33702 attn: Customer Service.</li>
+    <p class="p2 push-half--bottom">In certain places on this Service (for example, when registering as a user of this Service, managing your account, or participating in activities like promotional contests), we may ask you to consent to the sharing of your information with third parties with which we have business relationships. If you provide such consent (for example, by checking a box or by some other means), we will make your information available to such third parties as described in the consent form so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.</p>
 
-        <li class="h5">Call 1-800-237-6266 and ask for Digital Support with any other questions you may have.</li>
-    </ul>
+    <p class="p2 push-half--bottom">If you register with this Service, you will have the opportunity to review or update the information you have provided us at any time. You also have the option of deleting all information except for your email address. If you would like to completely deactivate your account, please contact us. Please note, however, that if you deactivate your account, you will not receive any newsletters from us and you will not be able to participate in any of our sweepstakes or contests.</p>
 
-    <p class="p2 push-half--ends">Note: It may take up to 48 hours for us to process your request and any email communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.</p>
+    <p class="p2 push-half--bottom">You agree that, subject to applicable law, we may use your information to contact you for customer service, to inform you of important changes or additions to our Service or the services offered over our Service and to send you administrative notices or any communications relevant to your use of our Service.</p>
 
-    <h3 class="h4 push-qtr--bottom">9. Comments</h3>
+    <p class="p2 push-half--bottom">If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by modifying your account settings on our Service).</p>
 
-    <p class="p2 push-half--bottom">We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at <a href="mailto:digitalsupport@valpak.com">digitalsupport@valpak.com</a></p>
+    <h3 class="h6 strong">DATA SECURITY</h3>
+
+    <p class="p2 push-half--bottom">All information gathered through our Service is stored within database(s) operated by us or by a Service Provider on our behalf. We and/or our Service Providers secure the personally identifying information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.</p>
+
+    <h3 class="h6 strong">A NOTE ABOUT CHILDREN'S PRIVACY</h3>
+
+    <p class="p2 push-half--bottom">This Service is not directed at children under the age of 13, and we won't knowingly allow anyone under age 13 to register with our Service or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). If we become aware that we have collected any personally identifying information from a user under the age of 13, we will remove such information from our records as soon as possible.</p>
+
+    <h3 class="h6 strong">CHANGES TO THIS PRIVACY STATEMENT</h3>
+
+    <p class="p2 push-half--bottom">We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the "Last Updated" date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.</p>
 
   </div> </div> <div class="footer">
   <div class="footer-container container push--top">
     <ul class="footer-nav-list">
       <li>
-        <a title="Learn about Valpak" href="/coupons/show/aboutus" data-dtm="footer-about-us">About</a>
+        <a title="Learn about Valpak" href="/about-valpak" data-dtm="footer-about-us">About</a>
       </li>
       <li>
         <a title="Valpak Careers" href="http://www.valpakcareers.com" target="_blank" rel="nofollow" data-dtm="footer-careers">Careers</a>
       </li>
       <li>
-        <a title="Cox Target Media Targets Clients for Measurable Results. Learn more..." href="https://www.valpak.com/advertise/" target="_blank" data-dtm="footer-advertising-info">Advertise</a>
+        <a title="Cox Target Media Targets Clients for Measurable Results. Learn more..." href="https://www.valpak.com/advertise" target="_blank" data-dtm="footer-advertising-info">Advertise</a>
       </li>
       <li>
         <a title="About Valpak Franchise Opportunities" href="http://www.valpakfranchising.com" target="_blank" rel="nofollow" data-dtm="footer-franchise-opportunities">Franchising</a>
@@ -598,10 +557,10 @@ define('App', [], function(){
         <li>
           <a title="Valpak Site Map" href="/coupons/show/sitemap" data-dtm="footer-sitemap">Site Map </a></li>
         <li>
-          <a title="Environmental Certifications" href="/environment/" target="_blank" data-dtm="footer-enviro-certs">Sustainability</a>
+          <a title="Environmental Certifications" href="/environment/" data-dtm="footer-enviro-certs">Sustainability</a>
         </li>
         <li>
-          <a title="Join Opinion Connection" href="/connect/" target="_blank" rel="nofollow" data-dtm="footer-opinion-connection">Opinions Wanted</a>
+          <a title="Join Opinion Connection" href="/connect/" rel="nofollow" data-dtm="footer-opinion-connection">Opinions Wanted</a>
         </li>
         <li>
             <a title="Address Removal" href="/coupons/show/mailinglistsuppression" data-dtm="footer-address-removal">Address Removal</a>
@@ -609,7 +568,8 @@ define('App', [], function(){
         </ul>
     </div>
   </div>
-</div></div> <div id="printContainer"></div>
+</div>
+</div> <div id="printContainer"></div>
 
   <script>
     // Last chance to execute JS before
@@ -649,5 +609,7 @@ require(['App', 'dtm'], function(App, satellite){
 
 </script>
 
+  <script async="" src="https://i.simpli.fi/dpx.js?cid=36702&amp;action=100&amp;segment=valpaksite&amp;m=1&amp;sifi_tuid=39045"></script>
+  
 
 </body></html>
