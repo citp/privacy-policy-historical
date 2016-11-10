@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lodgemfg.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430205543id_/http%3A//lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodgemfg.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110034748id_/http%3A//www.lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.*
 
 # Lodge Cast Iron
 
@@ -11,6 +11,8 @@
 • Items bought from retailers should be returned/exchanged at the place of purchase. 
 
 • Transactions are transmitted using 128-bit secure socket layers (SSL) for up-to-date data protection 
+
+THESE TERMS REQUIRE YOU TO ARBITRATE DISPUTES, WAIVE YOUR RIGHT TO A JURY TRIAL AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FOR ANY ALLEGED BREACH OF THESE TERMS TO THE FULLEST EXTENT PERMITTED BY LAW. Any dispute or claim relating in any way to these terms of use, this website, or any products or services sold or distributed by or through this website, will be resolved by binding arbitration, rather than in court, except that you may assert claims in small claims court if your claims so qualify. The Federal Arbitration Act and federal arbitration law will apply to any arbitration conducted in connection with these terms and conditions, and any such arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of the American Arbitration Association (“AAA”). To the fullest extent permitted by law, we each agree that any arbitration or other dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action. You and Lodge Manufacturing Co. agree, to the fullest extent permitted by law, to waive any objection based on lack of personal jurisdiction, place of residence, improper venue or forum non-conveniens, and you agree to give up any right to a jury trial in any such arbitration or other dispute resolution proceeding.
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -47,7 +49,6 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
       • Help remember and process the items in the shopping cart. 
 
-  
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
 **If users disable cookies in their browser:**
@@ -143,4 +144,4 @@ United States
 423.837.7181
 
   
-Last Edited on 10/2014
+Last Edited on 09/2016
