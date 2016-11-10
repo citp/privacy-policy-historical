@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elderly.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321230607id_/http%3A//www.elderly.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elderly.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110162318id_/http%3A//www.elderly.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
 This privacy policy sets out how Elderly Instruments uses and protects any information that you give Elderly Instruments when you use this website. Elderly Instruments is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Elderly Instruments may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
