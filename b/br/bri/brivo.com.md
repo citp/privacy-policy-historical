@@ -1,101 +1,110 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324212559id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110045351id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Brivo
 
-At Brivo Inc, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of your business and personal information. When you access our website as a visitor, we want you to know that your personal information (name, address, phone number and email address) is safe. When you access our website as a Brivo access control and video system customer, your personal and business Information (product identification information, internet access information such as web browser, connection speed, domain and IP address, user access data, etc.) is safe and confidential. This Privacy and Security Statement will answer your questions about the kind of information we collect in order to properly serve you, how we use that information, and how it is protected.
+At Brivo, privacy and security are core elements of our service. Accordingly, we are always conscious and respectful of the privacy and confidentiality of individuals who visit Brivo’s websites (“Visitors”), individuals who use our services (“Subscribers”), individuals who develop applications using Brivo’s APIs (“Developers”) and individuals engaged in selling Brivo’s products (“Dealers”).
 
-If you have questions or comments about Brivo’s Privacy and Security Statement, you should first contact [privacy@brivo.com](mailto:privacy@brivo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [customercare@brivo.com](mailto:customercare@brivo.com).
+This Privacy Statement describes Brivo’s privacy practices in relation to the use of the Company’s websites and the applications and services offered by Brivo (the “Services”). By visiting our websites or providing us with your personal information, you consent to the collection, processing, and storage of your personal information as described in this Privacy Policy.
 
-Brivo complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Brivo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brivo’s certification, please visit <http://www.export.gov/safeharbor/>
+  1. **Websites Covered**
 
-Brivo has also agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities (DPAs) to resolve disputes pursuant to the Safe Harbor Privacy Principles. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Brivo, you may contact either the panel at [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) or individual EU DPAs (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>).
 
-**What Information is Collected and How will it be Used?**
 
-From visitors, Brivo collects only the personal information necessary to enable us to respond to your requests for our products and services. When you visit our website, you may be asked to identify your product needs or the business category of your company, as well as your email address, company name, business address and phone number, information that will better enable us to respond to your requests.
+This Privacy Policy covers the information practices of websites that link to this Privacy Policy including: www.brivo.com; https://acs.brivo.com; https://apidocs.brivo.com, https://developer.brivo.com and https://partner.brivo.com, collectively referred to as Brivo’s websites.
 
-From our customers, we collect only the information that is needed to properly serve you and administer our business. This includes both personal and business information. Brivo may use your personal and business information to:
+Brivo.com is our public website which also contains a login portal for our Brivo OnAir® application and our Dealer Partner Portal.
 
-  * Provide you with educational material when you request a demo, related to our services and recommendations regarding security practices.
-  * Contact you to inform you of product and service enhancements and to offer Brivo-related promotions or discounts that we think may be of interest to you.
-  * Notify you of any regulatory or compliance issues that will affect your Brivo OnAir service.
+Brivo OnAir (acs.brivo.com) is our application for delivering physical security management services using the Software as a Service (SaaS) model. Brivo OnAir uses a common interface to control and display elements related to physical access control, ID badging and video surveillance. Brivo OnAir is a web-hosted application that is allows Customers to manage physical security devices and monitor security events from their facilities.
+
+Developer.brivo.com and apidocs.brivo.com provide services and information for partners developing applications using Brivo’s APIs.
+
+Brivo’s websites may contain links to other websites. The privacy statements of such other websites govern the information practices and the content of such other websites. Brivo encourages you to review the privacy statements of other websites to understand their information practices.
+
+  2. **Roles of Participants in Information Management**
+
+
+
+Brivo provides products to Subscribers via its authorized Dealer channel. Brivo’s Dealers handle the initial set-up and configuration of the OnAir application and hardware. Subscribers can choose what data to share with the Dealer during the set-up process. After initial set-up, access to the Subscribers Brivo OnAir account is limited to authorized Administrators. Brivo employees have access to Subscriber data solely to provide our services and in response to specific customer requests for technical support.
+
+  3. **Collection and Use of Information**
+
+
+
+From Visitors to our websites, Brivo collects only the personal information necessary to enable us to respond to your requests for our products and services. When you visit our website, you may be asked to identify your product needs or the business category of your company, as well as your e-mail address, company name, business address and phone number, information that will better enable us to respond to your requests. If you wish to subscribe to news and information, we will use your address information for this purpose. We will provide you a way to modify your communication preferences and to unsubscribe.
+
+As Visitors navigate Brivo’s websites, we may also collect information through the use of commonly used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on our websites, such as the pages viewed and the links clicked. The information we collect from our websites (such as domain name, number of hits, pages visited, and length of user session) may be combined to analyze how our websites are used. This information is then used to improve the usefulness of the sites.
+
+From Subscribers, Brivo collects information (Customer Data) for the purpose of providing our services. We collect information in the following ways:
+
+  * **Information provided by Subscribers:** Brivo OnAir provides the capability for Subscribers to store basic personal information such as an individual’s name, email address and photograph. This information is used to correlate security events to the correct individual, as well as to enable notifications and Brivo Mobile Pass functionality. Though the system has the capability to store a number of personal data elements, these items are not essential for operation of the system.
+
+
+  * **Information generated from events:** Brivo OnAir collects access control and video event data. For example, Brivo OnAir records that an access card was used at a particular door at a certain time. This event may also be recorded on video, if that service is active. Through correlation with the information our Subscribers provide, we can tie that access event and video to a particular individual’s credential.
+
+
+  * **Log Information:** Brivo OnAir records the actions of system Administrators, as well as the status and the settings of various devices that have been configured to operate with Brivo OnAir. Customer Data entered in Brivo OnAir by Subscribers or collected through the operation of the system are for the exclusive use of our Subscribers. Brivo may access Customer Data only for the purpose of providing the Services or preventing or addressing service or technical problems or as may be required by law.
+
+
+
+Brivo does not sell, rent or trade personally identifiable customer information with third parties.
+
+Brivo shares data with relevant third party processors when explicitly authorized by administrators in the relevant Brivo OnAir account; for example, to enable integrations via our Application Programming Interface (API).
+
+Customer Data may also used by Brivo to:
+
+  * Enable event notifications and Brivo Mobile Pass functionality.
+  * Contact you to inform you of product and service enhancements that we think may be of interest to you.
+  * Provide important service notices regarding the Brivo OnAir application and related devices.
   * Ask you to participate in surveys that help us better understand your needs in order to improve our products.
 
 
 
-Dealers that have enrolled into the Authorized Brivo Dealer program will receive login credentials to manage customer accounts. You will be able to create a new account for each of your clients, you will be asked for an Account Name, Reference Numbers, Name, Username, and Email address. We only collect this information for the purpose of allowing you to set up your client accounts. We do not use your clients’ information for any other purpose. If your clients wish to update or correct inaccuracies within their information you may update this information for them within the platform.
+From Dealers, Brivo collects the personal information that is needed to properly manage our business relationship. Brivo Dealers will receive login credentials to manage Subscriber accounts. Dealers are able to create a new account for each subscriber by providing Account Name, Reference Numbers, Username, and Email address. We only collect this information for the purpose of allowing you to manage your subscriber accounts and for the purposes stated above.
 
-We do not have any access or control over the Customer Login section of the site. All information collected within that section of the site is not governed by our privacy policy.
-
-**Newsletters**
-
-If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
-
-**Passive Collection of Information**
-
-Our web server automatically recognizes your domain name, but not your email address. As stated above, we do not collect non-public personal information from visitors to our sites unless you expressly provide it to us. The information we do collect from our websites (such as domain name, number of hits, pages visited, and length of user session) may be combined to analyze how our websites are used. This information is then used to improve the usefulness of the sites.
-
-**Cookies                                                                      **
-
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site, to prevent duplicates in the email newsletter signup process, and to hold error messages when users fill out the request demo forms. A session ID cookie expires when you close your browser. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
-
-**Third Party Cookies**
-
-The use of cookies by third parties on our site is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site.
-
-**Clear Gifs (Web Beacons/Web Bugs)**
-
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
-**Third Party Products**
-
-Brivo does not share, sell, rent, or trade PII with third parties other than as disclosed within this privacy policy.
-
-Brivo actively may, on occasion, use your contact information to let you know about special offers that may be of interest to you. You may contact us at any time in order to change your preferences with respect to marketing contacts from Brivo by emailing us at [marketing@brivo.com](mailto:marketing@brivo.com). We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
-
-Except as stated herein, Brivo will not disclose any security information (e.g., user access data) to any third parties unless directed to do so by you, or unless we receive your explicit prior permission.
-
-**How Secure is Your Information?**
-
-Brivo uses a variety of security measures to safeguard the confidentiality of information that it collects. Every Brivo employee is trained on our privacy and security procedures. Only authorized Brivo employees or its representatives are permitted access to your business information. Moreover, Brivo uses industry-standard technical safeguards and security measures to safeguard the confidentiality of the information in its possession, such as firewalls and Secure Socket Layers (“SSL”). Information collected by Brivo is stored on secured servers, co-located at a third party’s secure facilities. Additionally, the hosting facility is guarded by 24 X 7 security guards, card access and locked cage areas, as well as security camera surveillance.
-
-Except as specifically stated herein, Brivo will not access security information entered by you in the course of using Brivo’s access control and video solutions except in the following limited circumstances:
-
-  * To provide necessary technical support, usually at your request and with your permission;
-  * To produce regular backups, restore data from backups at your request or install software updates and/or upgrades.
+  4. **Data Location & Transfer of Information**
 
 
 
-**Deleting or Updating Information**
+Brivo stores all Customer Data in the continental United States. To facilitate our Subscribers’ global operations, Brivo transfers information to the United States and provides access to that information to Subscribers around the world.
 
-Brivo encourages you to contact us if you wish to delete, correct or update your business information in our systems, or if you desire to change your preferences with respect to marketing contacts from Brivo by emailing us at [marketing@brivo.com](mailto:marketing@brivo.com). We will respond to your request to access within 30 business days.
+  5. **Data Safeguards**
 
-**Choice/Opt-out**
 
-If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or by emailing us at [marketing@brivo.com](mailto:marketing@brivo.com).
 
-**Agents/Service Providers  **
+The security of Customer Data, including personal data, is very important to Brivo. Brivo maintains a comprehensive, written information security program that contains industry standard, administrative, technical, and physical safeguards designed to prevent unauthorized access to Customer Data. Brivo OnAir is capable of safeguarding Personally Identifiable Information (PII), in accordance with NIST SP 800-122 and OMB memos M-06-16 and M-07-16 with specific provisions enabled by the Subscriber.
 
-We use other third parties such as an email service provider to provide broadcast email services for us, and a survey tool provider that enables us to solicit feedback on our products and services.
+  6. **Data Retention**
 
-When you request demonstrations or subscribe to our newsletters, we will use your name, company name, and email as necessary for the third party to provide that service.
 
-These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
-**Changes in this Privacy Statement**
+Brivo retains Customer Data according to the timeframes set forth in the relevant subscription agreement.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+  7. **E.U.-U.S. Privacy Shield Statement**
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Brivo Inc.  
-7700 Old Georgetown Road  
-Suite 300  
-Bethesda, MD  20814
 
-[privacy@brivo.com](mailto:privacy@brivo.com)  
-866.692.7485
+Brivo Systems, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.  Brivo Systems, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-_This Privacy & Security Policy is effective March 24, 2014_
+In compliance with the Privacy Shield Principles, Brivocommits to resolve complaints about our collection or use of your personal information.  Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact Brivo at: [privacy@brivo.com](mailto:privacy@brivo.com) or 301-664-5277.
+
+  8. **Deleting or Updating Information**
+
+
+
+Brivo encourages you to contact us if you wish to delete, correct or update your business information in our systems, or if you desire to change your preferences with respect to marketing contacts from Brivo by emailing us at [info@brivo.com](mailto:info@brivo.com).
+
+Brivo reserves the right to change this Privacy and Security Policy. Any changes to this policy will be posted to this page as soon as reasonably possible and will become effective immediately. For that reason, it is important that you check this page periodically. Use of the Brivo site constitutes consent to any policies then in effect.
+
+  9. **Changes to this Privacy Statement**
+
+
+
+Brivo reserves the right to change this Privacy Policy and will provide notification of the material changes to this Privacy Policy through the Company’s websites at least thirty (30) business days prior to the change taking effect.
+
+  10. **Contacting us**
+
+
+
+If you have questions or comments about Brivo’s Privacy and Security Statement, please feel free to contact us at [privacy@brivo.com](mailto:privacy@brivo.com).
+
+_This Privacy Policy is effective as of May 31, 2016._
