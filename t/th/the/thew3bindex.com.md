@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thew3bindex.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122042646id_/http%3A//www.thew3bindex.com/privacy-note) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thew3bindex.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110090036id_/http%3A//www.thew3bindex.com/privacy-note) for the most accurate reproduction.*
 
-# Privacy Note | The W3B Index |Facts About Your Favorite Internet Sites
+# Privacy Note – The W3B Index |Facts About Your Favorite Internet Sites
 
 **Privacy Policy for www.thew3bindex.com**  
 
