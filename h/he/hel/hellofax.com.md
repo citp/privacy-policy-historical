@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406171619id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110072051id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloFax
 
