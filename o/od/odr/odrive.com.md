@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odrive.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317054430id_/https%3A//www.odrive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odrive.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110053235id_/https%3A//www.odrive.com/privacy_policy) for the most accurate reproduction.*
 
 # odrive | Privacy Policy
 
