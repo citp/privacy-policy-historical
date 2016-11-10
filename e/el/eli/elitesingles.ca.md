@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.ca privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709083827id_/http%3A//www.elitesingles.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.ca privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110085650id_/https%3A//www.elitesingles.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
@@ -50,7 +50,7 @@ Kohlfurter Street 41/43
 
 10999 Berlin, Germany
 
-Fax: +49 (0)1805 - 777 449
+Fax: +49 30 991 949 5 32 
 
 email: [Security](mailto:security@elitesingles.ca)
 
@@ -88,7 +88,7 @@ If you want to use the services of ELITESINGLES described in detail in the ELITE
 
 We only use the personal information that you actively provide us (e.g. contact information for the registration, profile information or photos). In many cases, you can decide what personal information you reveal about yourself in the context of profiling and / or search. Personal information that is strictly necessary for the provision of the contract is always marked separately as required (e.g. email address) so that you know what information you need to enter for the use of the service and what you can do without.
 
-For more detailed information please see below. To learn more about the exact procedure and the method of matchmaking, please note our detailed information in the [ELITESINGLES Help](https://affinitas.zendesk.com/hc/en-ca) page.
+For more detailed information please see below. To learn more about the exact procedure and the method of matchmaking, please note our detailed information in the [ELITESINGLES Help](https://support-en.elitesingles.ca/hc/en-ca/sections/201926122-Partner-Suggestions)[ page](https://support-en.elitesingles.ca/hc/en-ca/articles/205990392).
 
 (aa) With the free registration you will be prompted to provide the following details without which a registration cannot be completed:
 
@@ -111,7 +111,7 @@ Our personality test follows after registration. First, we ask for the following
 
 
 
-During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members. 
+During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data, which is subject to increased legal protection and protected by us with increased technological care. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members. 
 
 (bb) If you purchase an ELITESINGLES Paid Membership, the following personal information is collected during the payment process:
 
@@ -143,7 +143,7 @@ The collection of personal information at ELITESINGLES is done principally with 
 
 **In the following, the use of personal information is described in more detail:**
 
-  * Other members can see your profile information and entries on the ELITESINGLES page. Premium and Premium Plus members can also see the photos you upload on ELITESINGLES.
+  * Other members can see your profile information and entries on the ELITESINGLES page. Premium members can also see the photos you upload on ELITESINGLES.
   * Your profile - and thus your profile information and uploaded photos - is suggested to other members as part of our matching method. The matching can be switched off in your account. When switched off, your profile will not be suggested to any other members and at the same time you do not get any partner suggestions. Note that if you deactivate matching, other members will not be able to see your profile.
   * Other members can see when you visit their profile page. Conversely, you can also see which members have visited your profile. This is an essential element of the contact between members. In general it is an important part of the services of social networking sites, and thus the service of ELITESINGLES. Therefore, this cannot be turned off via the user account.
   * Other members can send you messages using the ELITESINGLES platform. However, at no point does ELITESINGLES give out your e-mail address. Messages are only sent through your ELITESINGLES mailbox. You can always "block" undesirables if you want to make it so they can no longer contact you.
@@ -157,16 +157,17 @@ Email notifications: With your consent, ELITESINGLES may send various notificati
   * Information messages pertaining to the service, such as the confirmation of customer service and information on the release of images and texts, and on the conclusion of a paid membership, in the form of contract documents, payment processing information.
   * We would also like to inform you via e-mail about ELITESINGLES Partner offers and events. To protect you and ELITESINGLES from abuse, we introduce in this newsletter, the so-called "double opt-in" procedure, i.e. you only receive the newsletter, if you have ordered it by e-mail or in your user account and confirmed your email address. You can unsubscribe at any time by deactivating this either in the message options, or by following the unsubscribe process in the newsletter.
   * If you change your message options, it can take up to 48 hours before it is active. Nevertheless, depending on the message options, the cancellation is still successful, and after this period you will receive no additional messages from us.
+  * We hereby notify you that we carry out statistical analysis on opening and viewing behavior of our emails. This is done with the help of small graphics that are embedded in the messages (called pixels). If you do not wish to have your viewing behavior analyzed, you can disable graphics by default in your email client. For more information, please see instructions offered in your email client, i.e. Microsoft Outlook or Mozilla Thunderbird. Once images are deactived, the messages are not displayed in full, and message functionality may be limited.
 
 
 
 ELITESINGLES sets a filter to protect users from unsolicited mail. For example, automatic filters prevent the sending of messages with certain pay numbers or certain inappropriate keywords.
 
-Identity Verification: Premium Plus members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. ELITESINGLES does not store the ID copies and destroys them after identity verification.
+Identity Verification: Premium members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. With the exception of Name, Date of Birth, and the Picture portion of the ID all other information should be blackened-out. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. ELITESINGLES does not store the ID copies and destroys them after identity verification.
 
 "Like" feature: Under the photos and entries of other profiles there is a “Like" button that can be clicked. With the "Like" function, you can express that you like statements or pictures in the profile of another member with one click. As a consequence, the other member is notified. In your own profile you can see how many members like a particular text field or photo of you. You can also see which members have clicked "Like" on a certain profile element.
 
-“Message Read”: Premium Plus members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed.
+“Message Read”: Premium members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed.
 
 Import photos from Facebook: If you have a user profile on Facebook, you can transfer photos from this profile to your ELITESINGLES profile. To do this you must click on the appropriately labeled button to connect to Facebook and log in there with your Facebook user personal information. After successful login a window will appear where all your Facebook user account pictures are stored. You can select up to 24 photos and import them into your ELITESINGLES profile.
 
@@ -202,11 +203,11 @@ ELITESINGLES uses session cookies, partner and affiliate cookies and permanent c
 
 **(e) Use of Analysis Programs and Remarketing**
 
-ELITESINGLES analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc. ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
+ELITESINGLES analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA   ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
 
-The information generated by the cookie about your use of the website (including your IP address) will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing others with website and internet related services. Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of this website in this case. By using this site, you agree to the processing of data about you by Google in the manner described above and for the aforementioned purpose.
+The information generated by the cookie about your use of the website (including your IP address) will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing others with website and internet related services. Reports created by Google contain demographic and interests data that have been based on your interaction with advertisements, or your visits to sites of advertisements. Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of this website in this case. By using this site, you agree to the processing of data about you by Google in the manner described above and for the aforementioned purpose.
 
-You can object to the collection and analysis of your use of the Service (Google) Universal Analytics. Please use the browser add-on to disable (Google) Universal Analytics.
+You can object to the collection and analysis of your use of the Service Google Universal Analytics. Please use the browser add-on to disable Google Universal Analytics.
 
 For more information on Terms of Use and Privacy Policy can be found at:
 
@@ -272,7 +273,7 @@ Kohlfurter Street 41/43
 
 E-Mail: [Support](mailto:security@elitesingles.ca)
 
-Fax: 01805 – 777 449
+Fax: +49 30 991 949 5 32 
 
 Please note that in case of an objection against the use of certain personal information we require to provide our services, it may be impossible to provide some or all of the services we offer on the ELITESINGLES platform. We are at your disposal for any questions about this.
 
@@ -294,7 +295,7 @@ Kohlfurter Street 41/43
 
 email: [Support](mailto:security@elitesingles.ca)
 
-Fax: +49 (0)1805 - 777 449
+Fax: +49 30 991 949 5 32 
 
 Much of the information you can also see yourself directly and conveniently in your account and those that you see you can also change or delete yourself.
 
