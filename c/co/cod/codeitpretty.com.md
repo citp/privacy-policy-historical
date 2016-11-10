@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeitpretty.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401230820id_/http%3A//www.codeitpretty.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeitpretty.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110173716id_/http%3A//www.codeitpretty.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Code it Pretty: Privacy Policy
 
