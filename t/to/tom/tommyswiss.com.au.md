@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tommyswiss.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618174452id_/http%3A//www.tommyswiss.com/au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyswiss.com.au privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110230346id_/https%3A//www.tommyswiss.com/au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Tommy Swiss is committed to preserving the privacy of all our customers and users of our website at http://www.tommyswiss.com. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 ## SECURITY
 
@@ -10,10 +8,9 @@ Personal information provided on the website and online credit card transactions
 
 ## PRIVACY POLICY
 
-To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner.  
-We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used.
+To help us achieve our goal of providing the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures to ensure that your personal information is handled in a safe, secure, and responsible manner. We have posted this privacy policy in order to explain our information collection practices and the choices you have about the way information is collected and used.
 
-As we continue to develop our website and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
+As we continue to develop our website and take advantage of advances in technology to improve the services we offer, this privacy policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
 
 ## THE INFORMATION WE COLLECT
 
@@ -25,23 +22,20 @@ If you use one of our services, or participate in one of our surveys, promotions
 
 From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
 
-When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions.
+When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses, and may collect general information concerning your location. We may use the automatically collected information for a number of purposes, such as improving our site design, product assortments, customer service, and special promotions. 
 
 ## HOW WE USE THE INFORMATION WE COLLECT
 
 We use the information we collect for various purposes, including:
 
-  * To complete your purchase transactions
-  * To provide the services you request
-  * To send you our catalogs and other offerings by mail
-  * To identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you.
-  * To notify you of product recalls or provide other information concerning products you have purchased
-  * To improve our merchandise selections, customer service, and overall shopping experience
+To complete your purchase transaction  
+To provide the services you request   
+To send you our catalogs and other offerings by mail   
+To identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you.   
+To notify you of product recalls or provide other information concerning products you have purchased   
+To improve our merchandise selections, customer service, and overall shopping experience
 
-
-
-##   
-COOKIES, WEB BEACONS, AND HOW WE USE THEM
+## COOKIES, WEB BEACONS, AND HOW WE USE THEM
 
 A "cookie" is a small data file stored by your Web browser on your computer or mobile device [hard drive]. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database. A "web beacon" or "pixel tag" or "clear gif" is typically a one-pixel image, used to pass information from your computer or mobile device to a website.
 
@@ -61,9 +55,8 @@ If you do not want to receive promotional emails from Tommy Swiss you can click 
 
 ## ACCEPTANCE
 
-By using this website, you accept the policies set forth in this Privacy Policy.
+By using this website, you accept the policies set forth in this Privacy Policy
 
 ## ANY QUESTIONS?
 
-We'll be happy to provide additional information or answer any questions. Please email us at info@tommyswiss.com.au **  
-**
+We'll be happy to provide additional information or answer any questions. Please email us at info@tommyswiss.com.au
