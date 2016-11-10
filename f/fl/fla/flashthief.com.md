@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashthief.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616190101id_/http%3A//flashthief.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashthief.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110211521id_/http%3A//flashthief.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FlashThief
 
