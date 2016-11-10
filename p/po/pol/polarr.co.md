@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarr.co privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610101613id_/https%3A//www.iubenda.com/privacy-policy/958268/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarr.co privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110152829id_/https%3A//www.iubenda.com/privacy-policy/958268/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of polarr.co
 
@@ -144,9 +144,9 @@ The User declares to be aware that the Data Controller may be required to reveal
 
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
 
-### System Logs and Maintenance
+### System logs and maintenance
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System logs) or use for this purpose other Personal Data (such as IP Address). 
 
 ### Information not contained in this policy
 
@@ -161,7 +161,7 @@ To determine whether any of the third party services it uses honor the “Do Not
 
 ### Changes to this privacy policy
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
 
 ### Information about this privacy policy
 
