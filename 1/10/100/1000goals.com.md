@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626023932id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110073117id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | 1000 Goals
 
@@ -14,22 +14,22 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
-[ ](http://www.1000goals.com/news/euro-2016-goal-of-the-day-14-xherdan-shaqiri-wonder-goal-against-poland)
+[ ](http://www.1000goals.com/news/alexis-sanchez-picked-up-an-injury-during-chile-preparation)
 
-Switzerland failed to advance into the last eight of Euro 2016 after being defeated via penalty shoot out by Poland, but Vladimir Petkovic's men put on an excellent display in that game, including a wonder goal scored by Xherdan Shaqiri. Trailing by a goal since midway into the first 45 minutes, Shaqiri was one of…
+Arsenal and Chile star attacker, Alexis Sanchez found himself as an early international break victim as the former Udinese man picked up an injury during his training session with La Roja. Reports from Chile medical team confirmed that Sanchez had a torn calf muscle which will force him to miss out on his national side's…
 
-[ ](http://www.1000goals.com/news/quaresmas-extra-time-goal-broke-croatias-heart)
+[ ](http://www.1000goals.com/news/knowing-the-best-and-worse-interim-manager-with-clubline-football)
 
-Struggling to make their way into the knock out stages of Euro 2016, Portugal showed some resilience and probably a little bit of luck as they made their way into the last eight stage after defeating Croatia in extra time. Both teams started out the match in a rather slow fashion as they look to…
+Situation in a football club is not always rosy and sparkling as any pre-season planning can go all to dust when results doesn't arrive. When poor results hit a team, managers are being made as victim as they will be replaced and often an interim replacement will be appointed to see things off before the…
 
-[ ](http://www.1000goals.com/news/mcauleys-own-goal-sent-wales-into-euro-2016-quarter-finals)
+[ ](http://www.1000goals.com/news/liverpool-move-top-of-premier-league-man-united-back-on-winning-ways)
 
-Wales' memorable Euro 2016 campaign continue as they got themselves through into the last eight of that tournament following a slender 1-0 win over Northern Ireland. That victory was not an easy one as it was a very tight game for both sides with an own goal from Gareth McAuley turned out as the game's…
+Just as it was predicted by many ahead of this Sunday Premier League fixture, Liverpool eventually getting themselves up into the top of league standings following a massive 6-1 over Watford at Anfield. The home team were dominant since early minutes as they were already three goals up during the first 45 minutes with goals…
 
-[ ](http://www.1000goals.com/news/poland-advanced-into-euro-2016-last-eight-after-shoot-out-win-over-swiss)
+[ ](http://www.1000goals.com/news/arsenal-failed-to-regain-top-spot-after-being-held-by-spurs)
 
-Poland earned a historic achievement following their success in reaching Euro 2016 quarter finals after eliminating Switzerland via penalty shoot out. Both teams drew 1-1 in normal time and failed to score anymore goals during 2x15 additional time, forcing the match to be decided with shoot out. In regular time, Poland took the first initiative…
+Arsenal's ambition to get themselves back into the top of English Premier League standing got stalled as this Sunday, Arsene Wenger's men were held into a 1-1 draw by their arch rival, Tottenham Hotspur. Needing all three points to regain their table topping seat from Chelsea, Gunners put on an aggressive display since kick off,…
 
-[ ](http://www.1000goals.com/news/northern-ireland-expecting-tough-last-16-tie-against-wales)
+[ ](http://www.1000goals.com/news/chelsea-snatched-number-one-spot-as-man-city-held)
 
-Northern Ireland are gearing up for a massive Euro 2016 last 16 tie this weekend and their head coach, Michael O'Neil stated that his team won't be expecting anything else aside from tough encounter against Wales. O'Neill explained that Chris Coleman's men have been performing well in Euro 2016, especially in their last group game…
+Chelsea's mini revival continue as Antonio Conte's side temporarily moving their way up into the top of Premier League table following their big 5-0 win over Everton this past Saturday. Having an excellent run, The Blues immediately put their opponent under pressure as Eden Hazard opened the scoring for his side after 19 minutes of…
