@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the dalecarnegie.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621162700id_/http%3A//www.dalecarnegie.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dalecarnegie.com privacy policy that was archived on 2016-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161110094009id_/http%3A//www.dalecarnegie.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="head"><link rel="alternate" href="http://www.dalecarnegie.com/mobile/privacy-policy/"><meta name="description" content="Dale Carnegie Privacy and Disclosure Policy."><meta name="keywords" content="Privacy, Privacy Policy, Disclosure"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><link rel="shortcut icon" href="/favicon.ico">
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9936.js?439025" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580492400000/323533.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WP8HH6"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script src="//cdn.optimizely.com/js/2225210199.js"></script>
-<link rel="stylesheet" href="/cms/includes/style.css" type="text/css"><link rel="stylesheet" href="/cms/includes/styleCorporate.css" type="text/css">
-<script language="javascript" type="text/javascript" src="/cms/includes/jquery-core-plugins.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="head"><link rel="alternate" href="http://www.dalecarnegie.com/mobile/privacy-policy/"><meta name="description" content="Dale Carnegie Privacy and Disclosure Policy."><meta name="keywords" content="Privacy, Privacy Policy, Disclosure"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" href="/cms/includes/style.css" type="text/css"><link rel="stylesheet" href="/cms/includes/styleCorporate.css" type="text/css">
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/9936.js?439025" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580492400000/323533.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WP8HH6"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script language="javascript" type="text/javascript" src="/cms/includes/jquery-core-plugins.js"></script>
 <script language="javascript" type="text/javascript" src="/cms/includes/jquery-functions.js"></script>
 <script language="javascript" type="text/javascript" src="/cms/includes/functionsC.js"></script>
 	<script type="text/javascript">
@@ -16,8 +14,8 @@
 
 
 
-
-<!-- start Mixpanel --><script type="text/javascript">(function (e, b) {
+<!-- start Mixpanel --><script type="text/javascript">
+                           var distinctid; (function (e, b) {
 if (!b.__SV) {
 var a, f, i, g; window.mixpanel = b; b._i = []; b.init = function (a, e, d) {
 function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]); b[h] = function () { b.push([h].concat(Array.prototype.slice.call(arguments, 0))) } } var c = b; "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel"; c.people = c.people || []; c.toString = function (b) { var a = "mixpanel"; "mixpanel" !== d && (a += "." + d); b || (a += " (stub)"); return a }; c.people.toString = function () { return c.toString(1) + ".people (stub)" }; i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -29,6 +27,21 @@ function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]
                                cross_subdomain_cookie: true,
                                'loaded': function () {
                                    $(document).ready(function () {
+
+                                       if (window.location.search.indexOf('MixPanelId') > -1) {
+                                           var distinctid = unescape(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + escape("MixPanelId").replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));
+                                           if (distinctid!="")
+                                           {
+                                               mixpanel.identify(distinctid);
+                                           }
+                                       }
+
+                                       distinctid = mixpanel.get_property("distinct_id");
+
+                                       //setTimeout(AddIdToCrossDomainLinks(distinctid), 1000)
+                                       setTimeout(function () { AddIdToCrossDomainLinks(distinctid); }, 1000)
+                                       //LoadLinks(distinctid);
+
                                        first_seen = mixpanel.get_property("first seen");
                                        last_seen = mixpanel.get_property("last seen");
                                        returning_user = mixpanel.get_property("returning user");
@@ -37,9 +50,15 @@ function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]
                                        if (typeof mixpanel_search_script == 'function') mixpanel_search_script();
                                        if (typeof mixpanel_checkout_complete_script == 'function') mixpanel_checkout_complete_script();
                                        if (typeof mixpanel_ProgramFinder_script == 'function') mixpanel_ProgramFinder_script();
+                                       if (typeof mixpanel_member_register_script == 'function') mixpanel_member_register_script();
                                    });
                                }
-                           });</script><!-- end Mixpanel -->
+                           });
+
+
+
+                     
+                       </script><!-- end Mixpanel -->
 
 
 
@@ -75,6 +94,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
 
     function mixpanel_form_and_reg_scripts() {
 
+        var d = new Date();
+        var n = d.toISOString();
+        var utc = new Date().toJSON().slice(0,10);
+
         if (typeof returning_user == "undefined") returning_user = false;
         if (typeof last_seen == "undefined") last_seen = "";
         if (typeof first_seen == "undefined" || first_seen == "" || typeof last_seen == "undefined" || last_seen == "") {
@@ -83,23 +106,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
             daysdifference = Math.round(Math.abs(Date.parse(first_seen)-Date.parse(last_seen)) / (24*60*60*1000));
         }
 
-        mixpanel.track('page viewed', {
-            'page title': document.title,
-            'page referrer': document.referrer,
-            'sub domain': window.location.hostname,
-            'url': window.location.pathname,
-            'returning user': returning_user,
-            'authenticated': false,
-            'number of days active': daysdifference
-        });
+
+        url_list = mixpanel.get_property('url list');
+        var bpvNotFound = true;
+        if (typeof url_list !== 'undefined') {
+            for(var i = 0; i < url_list.url.length; i++) {
+                if (url_list.url[i] == window.location.protocol + '//' + window.location.host + window.location.pathname){
+                    bpvNotFound=false;
+                continue;
+                    }
+                }
+            }
+        if (typeof url_list == 'undefined') {
+
+            mixpanel.register({'url list':{'url':[window.location.protocol + '//' + window.location.host + window.location.pathname]}});
+             mixpanel.register_once({'Number of Pages Viewed':1});
+             mixpanel.register_once({'Date of First Page View': utc});
+             mixpanel.register_once({'Title of First Page View':  document.title });
+         } else {
+             if (bpvNotFound) {
+                 url_list.url.push(window.location.protocol + '//' + window.location.host + window.location.pathname);
+                 mixpanel.register({'url list': url_list});
+                 mixpanel.register_once({'Number of Pages Viewed':0});
+                 mixpanel.register({'Number of Pages Viewed': mixpanel.get_property('Number of Pages Viewed') + 1});
+                 }
+        }
+
+        mixpanel.register_once({ 'first seen': utc });
+        mixpanel.register({ 'last seen': utc });
+
+        
+        if (typeof mixpanel_course_view_script !== 'function' && typeof mixpanel_search_script !== 'function' && typeof mixpanel_checkout_complete_script !== 'function' && typeof mixpanel_ProgramFinder_script !== 'function' && typeof mixpanel_member_register_script !== 'function' && typeof setViewCourseIndexScript !== 'function' && window.location.pathname.indexOf("/programfinder/") == -1 && window.location.pathname.indexOf("/shopping-cart/") == -1 && window.location.pathname.indexOf("/checkout/") == -1) {
+            mixpanel.track('page viewed', {
+                'page title': document.title,
+                'page referrer': document.referrer,
+                'Sub Domain': window.location.hostname,
+                'url': window.location.protocol + '//' + window.location.hostname + window.location.pathname,
+                'returning user': returning_user,
+                'authenticated': false,
+                'number of days active': daysdifference,
+                'Franchise': 'Dale Carnegie Training Worldwide',
+                'Date of Last Page View': utc,
+                'Number of Pages Viewed':mixpanel.get_property('Number of Pages Viewed')
+            });
+        }
+        
 
         mixpanel.identify();
 
-        var d = new Date();
-        var n = d.toISOString();
-        var utc = new Date().toJSON().slice(0,10);
-        mixpanel.register_once({ 'first seen': utc });
-        mixpanel.register({ 'last seen': n });
         mixpanel.register_once({ 'returning user': true });
         mixpanel.unregister('City');
         mixpanel.unregister('Country');
@@ -107,6 +161,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
         mixpanel.unregister('FirstName');
         mixpanel.unregister('LastName');
         mixpanel.unregister('PostalCode');
+        mixpanel.unregister('Franchise');
+        mixpanel.unregister('Sub Domain');
 
         ////define the incrementing function
         //incrementer = function (property) {
@@ -182,9 +238,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
 
     function onPlayerStateChange(event) {
         if (event.target.getPlayerState() == 1) {
+            mixpanel.register({'Watched Video':true});
             mixpanel.track("watched video", {
                 "Video Title": event.target.getVideoData().title
             });
+            
         }
     }
 	
@@ -249,9 +307,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
             $.getJSON('http://www.vimeo.com/api/v2/video/' + player_id + '.json?callback=?', {
                 format: "json"
             }, function (data) {
+                mixpanel.register({'Watched Video':true});
                 mixpanel.track("watched video", {
                     "Video Title": data[0].title
                 });
+                
             });
         }
 
@@ -290,11 +350,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
 <!-- End of Async HubSpot Analytics Code -->
 <form name="main" method="post" action="/privacy_policy/" id="main">
 <div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['main'];
+if (!theForm) {
+    theForm = document.main;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=g8rfLjXTkT_GgzjB9_ZIfeB5EpnVU0DC43OQdnTtuqtllfq6effi3uTcwkr5C6wPykdGebgKPZYNVJIF20M3xa_AUsw1&amp;t=635588408026805809" type="text/javascript"></script>
+
 
 <script src="/ScriptResource.axd?d=GcjH1WkvxhPZvQ5nHlRFxeQ1ZVlqORg87B4xxruuF8mMzxqC7hRYOoATfbax7hJnjvegPZwhY-n8UQN4iZ3Nq3bE2JNfPuTYnoTs4OLk5aWQdZrdbDXScGiJuFxts00ef5aIZwfw00sF0uE8fD5uf1Gg1gJn0oqRcCbe0wIPJKAxHuby0&amp;t=2e2045e2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZQkMN8UUIO3FAwRRS3YVOxEFBXIuRheGoqNlJdrhdclRstOOki9PV5arlGtwT5THklHWQqUfziv9HDoTv2TtpJYZzccTnom9bDzQAWYDXkEhWejFX6wXZ08a2rZcvmdFxps61_DDpJXvcQ-31cminhQjw1UEOBKpaLW39-9o93BrDo020&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sm', document.getElementById('main'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
 
 
 
@@ -382,7 +470,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src =
 Sys.Application.initialize();
 //]]>
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgICAg9kFgICCg9kFgRmD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwBoZAIBD2QWAmYPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ1DVF9NYWluXzAkZmNrpMnmgX6fKkqt128gh6pmalmvkuI="></form>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzk4MzI1MzYPZBYCZg9kFgICAg9kFgICCQ9kFgRmD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwBoZAIBD2QWAmYPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ1DVF9NYWluXzAkZmNrPBPKYhq0x9q8EJTJOLOAqITX4O8="></form>
 <!-- ClickTale Bottom part -->
 <script type="text/javascript">
 document.write(unescape("%3Cscript%20src='"+
