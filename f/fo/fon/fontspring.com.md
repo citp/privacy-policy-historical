@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontspring.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604161128id_/https%3A//www.fontspring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontspring.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110084547id_/https%3A//www.fontspring.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fontspring
 
@@ -43,3 +43,9 @@ Various Web sites may be linked to from this site. If you link to another site, 
 ### Contact Us
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us at [info@fontspring.com](mailto:info@fontspring.com). You will be required to provide identifier information to assure that this information is not released to others. We reserve the right to modify this policy in the future.
+
+If you're not completely satisfied with the licensing experience or the fonts themselves, we're here to help.
+
+Please contact us within 30 days of purchase to let us know there's an issue with your purchase.
+
+We will work with you to diagnose the problems you have, and if we're unable to offer a solution, we will offer a refund on the purchase.
