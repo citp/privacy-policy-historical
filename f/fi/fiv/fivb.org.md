@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fivb.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606124923id_/http%3A//www.fivb.com/en/about/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivb.org privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110065025id_/http%3A//www.fivb.com/en/about/privacy%2520policy) for the most accurate reproduction.*
 
-# Privacy Policy - FIVB
+# Privacy Policy
 
 FIVB Fédération Internationale de Volleyball
 
