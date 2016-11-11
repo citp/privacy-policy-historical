@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeniasites.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407215750id_/https%3A//xeniasites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeniasites.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112001512id_/https%3A//xeniasites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazon Affiliate Stores
 
