@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beyondblindfold.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618103929id_/http%3A//beyondblindfold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondblindfold.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111010407id_/http%3A//beyondblindfold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[Home](http://beyondblindfold.com/)  »  Privacy Policy
+# Privacy Policy - Blindfold
 
 **Privacy**
 
