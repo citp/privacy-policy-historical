@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506194031id_/http%3A//www.sohh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sohh.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111035736id_/http%3A//www.sohh.com/privacy-policy) for the most accurate reproduction.*
 
-# SOHH.com | Privacy Policy – For The Best In Hip-Hop News - SOHH.com
+# SOHH.com | Privacy Policy – SOHH.com
 
 Safeguarding your privacy is serious business. **SOHH.com** ‘s policy is simple: Except as provided in this statement, **SOHH.com** will not disclose, sell or rent any personally identifiable information without proper consent. You, the **SOHH.com** user, always have the final word on whether **SOHH.com** knows who you are. It is your choice whether you wish to share personally identifiable information with **SOHH.com**. We encourage you to consider sharing information with **SOHH.com** only if you receive true value in exchange for that information.
 
