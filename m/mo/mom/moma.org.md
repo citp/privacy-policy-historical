@@ -1,12 +1,55 @@
-> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510012716id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111025059id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
 
 # MoMA | Privacy & Security
+
+# PRIVACY & SECURITY
+
+  * [From the Director](/about/letterfromglennlowry)
+  * [Museum History](/about/history)
+  * [Affiliation with MoMA PS1](/about/ps1)
+  * [The Future MoMA: In Progress](/about/building)
+  * [Officers and Board of Trustees](/about/trustees)
+  * [Senior Staff](/about/senior_staff)+
+    * [Glenn D. Lowry](/about/senior_staff/glenn_lowry)
+    * [Quentin Bajac](/about/senior_staff/quentin_bajac)
+    * [Ramona Bronkar Bannayan](/about/senior_staff/ramona_bannayan)
+    * [Klaus Biesenbach](/about/senior_staff/klaus_biesenbach)
+    * [Todd Bishop](/about/senior_staff/todd_bishop)
+    * [Christophe Cherix](/about/senior_staff/christophe_cherix)
+    * [James L. Coddington](/about/senior_staff/james_coddington)
+    * [Stuart Comer](/about/senior_staff/stuart_comer)
+    * [James Gara](/about/senior_staff/james_gara)
+    * [Kathy Halbreich](/about/senior_staff/kathy_halbreich)
+    * [Peter Reed](/about/senior_staff/peter_reed)
+    * [Rajendra Roy](/about/senior_staff/rajendra_roy)
+    * [Martino Stierli](/about/senior_staff/martino_stierli)
+    * [Ann Temkin](/about/senior_staff/ann_temkin)
+    * [Wendy Woon](/about/senior_staff/wendy_woon)
+  * [Press](http://press.moma.org)
+  * [Contact Us](/about/info)
+  * [Contact Information](/about/contacts)
+  * [Jobs](/about/jobs)
+  * [Internships](/about/internships)
+  * [Volunteering](/about/volunteering)
+  * [About MoMA FAQ](/about/faq)
+  * [About This Site](/about/about_site)+
+    * [Privacy & Security](/about/about_site/privacy)
+    * [Help](/about/about_site/help)
+
+
+
+### RELATED LINKS
+
+  * [Privacy & Security](/about/about_site/privacy)
+  * [Help](/about/about_site/help)
+
+
 
 ## MoMA is committed to protecting your privacy.
 
 ## Privacy
 
-MoMA is committed to protecting your privacy when you visit our websites or use a MoMA application (collectively referred to as the “MoMA website”). MoMA does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the MoMA website knowingly provides it. By using the MoMA website, you agree to be bound by the terms and conditions of MoMA's Privacy Policy and Terms of Use. The MoMA Privacy Policy is outlined below. A link to this policy is provided in the footer information on every page of the MoMA website. Click here to view the [Terms of Use](https://web.archive.org/about/about_site/index).
+MoMA is committed to protecting your privacy when you visit our websites or use a MoMA application (collectively referred to as the “MoMA website”). MoMA does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the MoMA website knowingly provides it. By using the MoMA website, you agree to be bound by the terms and conditions of MoMA's Privacy Policy and Terms of Use. The MoMA Privacy Policy is outlined below. A link to this policy is provided in the footer information on every page of the MoMA website. Click here to view the [Terms of Use](/about/about_site/index).
 
 ## MoMA's policy on collecting information on the MoMA website
 
@@ -20,7 +63,7 @@ When you purchase a MoMA membership or make a donation to MoMA online, we will a
 
 ### Registration
 
-You may use the MoMA website without registering or submitting any personally identifiable information. Registration for users and members on MoMA.org enables you to maintain your contact information and preferences, sign up for exclusive online features, purchase tickets more quickly, and receive notifications about events that interest you. With [registration](https://web.archive.org/login), members can also log in to renew their membership and gain access to the [Digital Member Lounge](https://web.archive.org/dml). You will be asked to provide personally identifiable information that may include a user name and password, your name, and an e-mail address. We store this information on a secure server so that you need not re-enter it when you return to the website. You may review or change your account information on the My Account page at any time.
+You may use the MoMA website without registering or submitting any personally identifiable information. [Registration](/login) for users and members on MoMA.org enables you to maintain your contact information and preferences, sign up for exclusive online features, purchase tickets more quickly, and receive notifications about events that interest you. You will be asked to provide personally identifiable information that may include a user name and password, your name, and an e-mail address. We store this information on a secure server so that you need not re-enter it when you return to the website. You may review or change your account information on the My Account page at any time.
 
 ### Online Surveys
 
@@ -33,6 +76,8 @@ MoMA will occasionally offer visitors the opportunity to participate in online c
 ### Blogs
 
 We welcome your participation on our blogs. An email address is required to post comments. We will not share these email addresses with any third parties for marketing purposes.
+
+[]()
 
 ### Children Twelve and Under
 
@@ -107,3 +152,8 @@ Please note that MoMA may revise its privacy policy at any time, without notice,
 Send your questions, comments, or concerns about our privacy policy or any other aspect of our website to [privacy@moma.org](mailto:privacy@moma.org).
 
 Last update: July 22, 2015
+
+[](/widgets/collection/all_collection_works)
+
+  
+
