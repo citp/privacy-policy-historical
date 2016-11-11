@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtinchicago.org privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506000043id_/http%3A//www.builtinchicago.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtinchicago.org privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111065106id_/http%3A//www.builtinchicago.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Built In Chicago
 
