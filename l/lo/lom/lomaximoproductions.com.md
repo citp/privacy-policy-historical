@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lomaximoproductions.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610203059id_/https%3A//www.iamlmp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lomaximoproductions.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111055642id_/https%3A//www.iamlmp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Latin Music, DJ Mixes, Mixtapes, on IAMLMP.COM
+# Privacy Policy – Artists, Latin Music, DJ Mixes, Mixtapes, on IAMLMP.COM
 
 The Lomaximo Productions Corp. (“IAMLMP or Lomaximo Productions”) Privacy Policy, in conjunction with the Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Lomaximo Productions Corp. website (“IAMLMP.COM”) and are referred to as the “Agreement” throughout.
 
