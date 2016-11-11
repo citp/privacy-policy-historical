@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockpair.net privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601210318id_/https%3A//www.stockpair.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpair.net privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112004531id_/https%3A//www.stockpair.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stockpair
 
