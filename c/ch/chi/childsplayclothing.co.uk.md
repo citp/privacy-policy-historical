@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509000407id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111071309id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
