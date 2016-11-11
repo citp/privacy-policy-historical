@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceentry.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803021515id_/https%3A//www.raceentry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceentry.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111124432id_/https%3A//www.raceentry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,9 +47,9 @@ Race Entry LLC reserves the right to update, modify, or expand upon this privacy
 Race Entry LLC appreciates your feedback, questions, ideas and words of appreciation.  
 Our contact information is the following:
 
-Race Entry LLC  
-2250 N. University Pkwy. #4812  
-Provo, Utah 84604-1590
+Race Registration Online DBA Race Entry  
+105 South State #617  
+Orem, Utah 84058
 
 Phone: 801.228.0886  
 [support@raceentry.com](mailto:support@raceentry.com)
