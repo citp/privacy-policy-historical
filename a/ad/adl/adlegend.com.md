@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adlegend.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401015153id_/http%3A//adlegend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlegend.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111152711id_/http%3A//adlegend.com/privacy-policy) for the most accurate reproduction.*
 
 # Trueffect | Privacy Policy
 
-This Privacy Policy covers and describes how Trueffect (“We”,“Our” and “Us”) collects, uses and disclosure of information we collect through our website www.trueffect.com and the Trueffect XLS Tool. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Trueffect. Consumer privacy is central to Trueffect. Our relationship with our customers and their audiences depends on trust in our demonstrated ability to manage information responsibly, securely and with integrity. This trust is built on three principles:
+This Privacy Policy covers and describes how Trueffect (“We”,“Our” and “Us”) collects, uses and disclosure of information we collect through our website www.trueffect.com and the Trueffect Platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Trueffect. Consumer privacy is central to Trueffect. Our relationship with our customers and their audiences depends on trust in our demonstrated ability to manage information responsibly, securely and with integrity. This trust is built on three principles:
 
   * **Disclosure** : We reveal all information we manage and the ways in which it is collected and stored
   * **Consent** : We do not engage in sensitive targeting or data practices without express permission
@@ -10,17 +10,24 @@ This Privacy Policy covers and describes how Trueffect (“We”,“Our” and �
 
 
 
-Trueffect systems and practices are built around these principles from the ground up, reflecting our commitment to practices that provide customers and consumers with the value and confidence necessary to build long-term relationships. Trueffect systems and practices are built around these principles from the ground up, reflecting our commitment to practices that provide customers and consumers with the value and confidence necessary to build long-term relationships.
+Trueffect systems and practices are built around these principles from the ground up, reflecting our commitment to practices that provide customers and consumers with the value and confidence necessary to build long-term relationships.
 
-The TRUSTe program covers only information that is collected through this website www.trueffect.com, and the Trueffect XLS Tool. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Trueffect.
+The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Trueffect.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+[](https://privacy.truste.com/privacy-seal/validation?rid=5383ea45-e184-4c85-9166-2fd68c8ed5e0)
 
-[](https://privacy.truste.com/privacy-seal/TruEffect/validation?rid=1fab06ee-0928-4fa7-96f1-1cb9163f14d5 "TRUSTe European Safe Harbor certification")
+Trueffect complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data. Trueffect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Trueffect’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Trueffect complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Trueffect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Trueffect’s certification, please visit <http://www.export.gov/safeharbor/>.
+Trueffect participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Trueffect is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List <https://www.privacyshield.gov/list>.
 
-Trueffect is a member of the Network Advertising Initiative (NAI) and adheres to [NAI Code of Conduct](http://www.networkadvertising.org/2013_Principles.pdf) as well as the [Digital Advertising Alliance’s Self-Regulatory Principles](http://www.aboutads.info/obaprinciples).
+Trueffect is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Trueffect complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Trueffect is subject to the regulatory enforcement powers of the [U.S. Federal Trade Commission AND/OR the U.S. Department of Transportation]. In certain situations, Trueffect may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.    
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Trueffect is a member of the Network Advertising Initiative (NAI) and adheres to [NAI Code of Conduct](http://www.networkadvertising.org/2013_Principles.pdf) as well as the [Digital Advertising Alliance’s Self-Regulatory Principles](http://www.aboutads.info/obaprinciples).
 
 ### Cookies and Tracking Technologies
 
@@ -52,23 +59,25 @@ This website (Trueffect.com) serves primarily as our interface with our market a
 
 Unlike our advertising platform, site visitors may voluntarily provide personal information in certain areas on this website as well as at industry events, trade shows or other forums. The personal information we collect is used only for the purpose for which it is requested:
 
-  * **Information Requests** : Potential clients or business partners provide information so that we can contact them with requested information about our products and services. This information may be stored on our servers in the United States, and can be amended or deleted upon request. Please contact [info@trueffect.com](mailto:info@trueffect.com?subject=%27Website%20Information%20Request%20-%20Privacy%27) or via postal mail at the contact information listed below to update or remove this information. We will respond to your request within a reasonable timeframe.
+  * **Information Requests** : Potential clients or business partners provide information so that we can contact them with requested information about our products and services. Upon request Trueffect will provide you with information about whether we hold any of your personal information. This information may be stored on our servers in the United States, and can be amended or deleted upon request. Please contact [info@trueffect.com](mailto:info@trueffect.com?subject=%27Website%20Information%20Request%20-%20Privacy%27) or via postal mail at the contact information listed below to update or remove this information. We will respond to your request within a reasonable timeframe.
   * **Support Requests** : Name, address, telephone number, or email address information submitted by existing customers with support questions or other feedback is used only for that purpose, and may be stored on our servers in the United States. Please contact [info@trueffect.com](mailto:clientsupport@trueffect.com?subject=%27Client%20Support%20Request%20-%20Privacy%27) to update or remove this information. We will respond to your request within a reasonable timeframe.
   * **Choice/Opt-Out** :You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@trueffect.com](mailto:info@trueffect.com).
-  * **Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@trueffect.com](mailto:info@trueffect.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * **Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@trueffect.com](mailto:info@trueffect.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 
 
 ### Data Collection
 
-**Log Information  **  
-As with most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We use this information to analyze trends, track user’s movements around websites/mobile devices to which we provide advertisements and to gather demographic information about users who interact with our services as a whole. This information does not allow us to determine specific identities.
+**Log Information**  
+As with most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We use this information to analyze trends, track user’s movements around websites/mobile devices to which we provide advertisements and to gather demographic information about users who interact with our services as a whole. This information does not allow us to determine specific identities.
 
-**Device Information  **  
-We may employ the use of Device Identifiers to better manage advertising on websites/mobile devices by informing us (without using cookies) of the content with which users interact. Statistical Identifiers collect information about user devices, such as browser type and operating system. Many devices have unique or near unique device profiles, so collecting this information enables us to determine to a reasonable level of statistical accuracy the level of user’s engagement with advertisements and to recognize the user devices that interact with content. We do not tie the information gathered through the use of Statistical Identifiers to user’s personal information.
+**Device Information**  
+We may employ the use of Device Identifiers to better manage advertising on websites/mobile devices by informing us (without using cookies) of the content with which users interact. Statistical Identifiers collect information about user devices, such as browser type and operating system. Many devices have unique or near unique device profiles, so collecting this information enables us to determine to a reasonable level of statistical accuracy the level of user’s engagement with advertisements and to recognize the user devices that interact with content. We do not tie the information gathered through the use of Statistical Identifiers to user’s personal information.
 
-**Location Data  **  
-Trueffect can recognize a consumer’s location while they are in use of the device and this location information can be utilized by Trueffect to deliver advertisements. As with all data Trueffect collects, this is non-personally identifiable information (Non PII) and is limited to non-precise as defined by the Network Advertising Initiative’s (NAI) current definition of imprecise location data.
+Sometimes we may use or make available to clients the non-PII we collect or receive (such as IP Address) to recognize users or try to resolve a commonality of users (or households) across platforms or across devices, such as smartphones, computers, tablets or related browsers. For instance, we might infer that a common IP address seen across different devices represents a common user (or a related or similar user), and use that inference in tailoring ads.
+
+**Location Data**  
+Trueffect can recognize a consumer’s location while they are in use of the device and this location information can be utilized by Trueffect to deliver advertisements. As with all data Trueffect collects, this is non-personally identifiable information (Non PII) and is limited to non-precise as defined by the Network Advertising Initiative’s (NAI) current definition of imprecise location data.
 
 ### Behavioral Advertising
 
@@ -83,7 +92,7 @@ We may also disclose your personal information as required by law such as to com
 **Blogs**  
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [press@trueffect.com](mailto:press@trueffect.com "trueffect.com"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**  Widgets **  
+**Widgets**  
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the “Share This” button that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Customer Testimonials**  
@@ -97,7 +106,7 @@ If you choose to use our referral service to email an article to a friend, we wi
 
 Some of our advertising customers choose to host advertising on ad.adlegend.com, which Trueffect owns and maintains for this purpose. They follow the same privacy rules and practices as any other TruEffect customer. Please visit <http://ad.adlegend.com/TE_optout.html> for more information or to opt out of all data collection and targeting across the entire AdLegend.com domain.
 
-**  Security**  
+**Security**  
 The security of your personal information is important to us. When you enter sensitive information (such as a login credentials), we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@trueffect.com](mailto:info@trueffect.com).
 
 **Links to Other Web Sites**  
@@ -125,7 +134,7 @@ Tel: 303.438.9597
 Toll Free: 877.878.2383  
 Fax: 303.469.9510
 
-**Information Related to Data Collected through the Trueffect XLS Tool**  
+**Information Related to Data Collected through the Trueffect Platform**  
 Trueffect collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
 **Choice**  
@@ -135,7 +144,7 @@ We collect information for our clients, if you are a customer of one of our Clie
 Trueffect may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
 **Access to Data Controlled by our Clients**  
-Trueffect has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Trueffect’s Client (the data controller). If the Client requests Trueffect to remove the data, we will respond to their request within 30 business days.
+Trueffect acknowledges that you have the right to access your personal information. If Trueffect has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Trueffect’s Client (the data controller). If the Client requests Trueffect to remove the data, we will respond to their request within 30 business days.
 
 **Data Retention**  
 Trueffect will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Trueffect will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
