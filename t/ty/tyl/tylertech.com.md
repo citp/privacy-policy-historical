@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylertech.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624075107id_/http%3A//www.tylertech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylertech.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111115221id_/http%3A//www.tylertech.com/privacy) for the most accurate reproduction.*
 
 # Public Sector Software Solutions & Services | Tyler Technologies
 
