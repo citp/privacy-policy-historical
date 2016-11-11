@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409052219id_/http%3A//strapi.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111080004id_/http%3A//strapi.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Strapi - Node.js Framework based on Koa
 
@@ -20,12 +20,12 @@ This Privacy Policy applies to [http://strapi.io](http://strapi.io/), [http://st
 
 ## Data Controller and Owner
 
-Wistity HQ  
+Strapi HQ  
 4 rue Cuvier  
 93100 Montreuil  
 FRANCE 
 
-Email address: [support@wistity.co](mailto:support@wistity.co)
+Email address: [support@strapi.io](mailto:support@strapi.io)
 
 ## Types of Data collected
 
