@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606152151id_/http%3A//www.coachhire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111112614id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Coach Hire.com
+# Privacy Policy | Coach Hire - from coachhire.com
+
+Business privacy policy
 
 This privacy policy sets out how Coachhire.com uses and protects any information that you give  **Coachhire.com**  when you use this website.
 
