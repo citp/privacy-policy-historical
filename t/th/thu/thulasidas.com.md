@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thulasidas.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512101409id_/http%3A//www.thulasidas.com/others/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thulasidas.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111090927id_/http%3A//www.thulasidas.com/others/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unreal Blog
 
@@ -57,7 +57,7 @@ Unreal Blog has the discretion to update this privacy policy at any time. When w
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.thulasidas.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.thulasidas.com/others/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
  **Contacting us**
 
