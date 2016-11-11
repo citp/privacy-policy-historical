@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406091049id_/https%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112003955id_/https%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Site Information | Privacy Policy
 
 Last Updated: February 22, 2016
 
-The Los Angeles County Metropolitan Authority (Metro) respects your privacy. The following describes our Privacy Policy in relation to the information you submit via metro.net, and how it is used.
+The Los Angeles County Metropolitan Transportation Authority (Metro) respects your privacy. The following describes our Privacy Policy in relation to the information you submit via metro.net, and how it is used.
 
 ### Personal Information
 
