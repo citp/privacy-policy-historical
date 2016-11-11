@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114122555id_/http%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111104440id_/https%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SOVEREIGN MAN
+# Privacy Policy – Sovereign Man
 
 ## What information do we collect?
 
@@ -74,4 +74,4 @@ This policy was last modified on May 28, 2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-admin@sovereignman.com
+admin(Replace this parenthesis with the @ sign)sovereignman.com
