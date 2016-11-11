@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotnetfoundation.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618171431id_/http%3A//www.dotnetfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetfoundation.org privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111183900id_/http%3A//dotnetfoundation.org/privacy-policy) for the most accurate reproduction.*
 
-# .NET Foundation - .NET Foundation-Privacy Policy
+# .NET Foundation - Privacy Policy
 
 The .NET Foundation values your privacy. Our goal is to provide you with a personalized online experience. This Privacy Policy describes the conditions under which this Web site is being made available to you. The Privacy Policy discusses, among other things, how data obtained during your visit to this Web site may be collected and used. Please read the Privacy Policy carefully. By using this Web site, you agree to be bound by the terms of this Privacy Policy. If you do not accept the terms of the Privacy Policy, please disconnect from this site and refrain from visiting the site in the future.
 
