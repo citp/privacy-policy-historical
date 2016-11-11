@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408014417id_/http%3A//www.piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piktochart.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111042913id_/http%3A//www.piktochart.com/piktocharts-privacy-policy) for the most accurate reproduction.*
 
 # Piktochart's Privacy Policy - Piktochart Infographics
 
@@ -14,7 +14,8 @@ The Personal Identifiable Information that we collect are as following:
   * Username (optional information)
   * Email address
   * Credit card number (for paid users)
-  * Company information (for paid users’ invoice generation)
+  * Company Information
+  * Role 
 
 
 
@@ -78,7 +79,7 @@ Call: 1+302-703-7458
 
 ##### Terms of Use
 
-Please read [Piktochart’s Terms of Use](https://web.archive.org/?page_id=1716) establishing the use, disclaimers, and limitations of liability governing the use of Piktochart.
+Please read [Piktochart’s Terms of Use](https://piktochart.com/piktocharts-terms-of-use/) establishing the use, disclaimers, and limitations of liability governing the use of Piktochart.
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
