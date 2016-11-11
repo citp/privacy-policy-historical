@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612095847id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111053150id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top Similar Sites
 
@@ -42,4 +42,4 @@ This policy was last modified on 20/06/2013
 
 ### Popular Tags
 
-drivers comic soul vacances foro specialty leather smith jpg dns mega toutes base business massage beautiful device experts printer fresh chain grow contacts free lakes baskets dresses salud ofertas finance grove banks albums skiing nokia charles authentic hunter wiki personal
+sports printer weather world drivers india fresh comic sharing videos translation network soul albums celebrity convert chicago vacances pictures warehouse massage advice silver skiing foro hotels educational power hill connecticut earth wall london standard dealer current hunter specialty corporation ireland
