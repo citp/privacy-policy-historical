@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414042605id_/http%3A//www.dscc.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111225047id_/http%3A//www.dscc.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DSCC: Democratic Senatorial Campaign Committee
+# Privacy Policy - DSCC: Democratic Senatorial Campaign Committee
 
 _Updated April 27, 2011_
 
-The Democratic Senatorial Campaign Committee ("DSCC") is serious about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we've created this policy to explain our privacy practices. This applies to **www.dscc.org** only.
+The Democratic Senatorial Campaign Committee (“DSCC”) is serious about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we’ve created this policy to explain our privacy practices. This applies to **www.dscc.org** only.
 
 We may revise and update this policy if our practices change, if we add new features to the site, or if we change existing ones that affect these practices. We may also modify this policy if we find better ways to inform you of products or services that we think will be of interest. You should refer back to this page often for the latest information.
 
@@ -14,9 +14,9 @@ We collect a variety of personal information about those who register on our sit
 
 We collect information you give us when you register on our site, contact us or make an online contribution. For example, when making a contribution, in addition to providing us your name, address, occupation and name of employer, you will need to provide us a billing address and credit card or bank account information, and answer a series of brief questions to make sure we may legally accept your contribution.
 
-You may make changes to the information you have provided by visiting any "Update Profile" page throughout the www.dscc.org site. You may also contact us at [info@dscc.org](mailto:info@dscc.org?subject=Privacy%20Policy%20Question) with any questions or changes to your account.
+You may make changes to the information you have provided by visiting any “Update Profile” page throughout the www.dscc.org site. You may also contact us at [info@dscc.org](mailto:info@dscc.org?subject=Privacy%20Policy%20Question) with any questions or changes to your account.
 
-_Automatically Collected Information:_ We automatically receive certain types of information whenever you interact with us online. For example, when you visit our site, our systems automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies" (more information below). We also collect "clickstream" data about your use of the site.
+_Automatically Collected Information:_ We automatically receive certain types of information whenever you interact with us online. For example, when you visit our site, our systems automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of “cookies” (more information below). We also collect “clickstream” data about your use of the site.
 
 ## Network And Information Security
 
@@ -38,7 +38,7 @@ _To Support Democratic Candidates and Organizations._ We may disclose selected p
 
 ## Cookies
 
-We may automatically collect information using "cookies" or cookie-like files called Local Shared Objects (Flash cookies).  Cookies are small data files stored on your hard drive by a Web site.  Local Shared Objects are larger data files stored on your hard drive.  Among other things, cookies and Local Shared Objects help us improve our site and your experience, count visits to our site and to tailor your experience on our site according to which areas you have visited on our site and the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our Web site.  These cookies and Local Shared Objects may be linked to your personal information.  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our site.  Browser settings will not affect Local Shared Objects.  To identify the Local Shared Objects on your computer and adjust your settings, you need to go to this website: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+We may automatically collect information using “cookies” or cookie-like files called Local Shared Objects (Flash cookies).  Cookies are small data files stored on your hard drive by a Web site.  Local Shared Objects are larger data files stored on your hard drive.  Among other things, cookies and Local Shared Objects help us improve our site and your experience, count visits to our site and to tailor your experience on our site according to which areas you have visited on our site and the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our Web site.  These cookies and Local Shared Objects may be linked to your personal information.  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our site.  Browser settings will not affect Local Shared Objects.  To identify the Local Shared Objects on your computer and adjust your settings, you need to go to this website: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 ## Web Beacons
 
@@ -46,19 +46,15 @@ We may collect information using Web beacons. Web beacons are electronic images 
 
 ## Third Party Advertisements.
 
-We may also use third parties to show you ads for other organizations on our site.  We may also use third parties to show our ads on other organizations' Web sites based on your prior visits to our site. To show these ads, these third parties may automatically collect information about your visits to our site and other Web sites, your IP address, your ISP, the browser you use to visit our site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our site and the other Web sites tracked by these third parties.  This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads or on third party Web sites, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these third parties, [click here.](http://www.networkadvertising.org/)
+We may also use third parties to show you ads for other organizations on our site.  We may also use third parties to show our ads on other organizations’ Web sites based on your prior visits to our site. To show these ads, these third parties may automatically collect information about your visits to our site and other Web sites, your IP address, your ISP, the browser you use to visit our site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our site and the other Web sites tracked by these third parties.  This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads or on third party Web sites, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these third parties, [click here.](http://www.networkadvertising.org/)
 
-## Children's Online Privacy Protection Act
+## Children’s Online Privacy Protection Act
 
-We do not knowingly, directly or passively, collect information from children under the age of 13. To respect the privacy of children and to comply with the Children's Online Privacy Protection Act, children under the age of 13 should not provide any Personal Information on this Site. We ask that parents supervise their children while online.
+We do not knowingly, directly or passively, collect information from children under the age of 13. To respect the privacy of children and to comply with the Children’s Online Privacy Protection Act, children under the age of 13 should not provide any Personal Information on this Site. We ask that parents supervise their children while online.
 
 ## Links To Other Sites
 
-Please be aware that we may provide links to third-party Web sites, including those sites maintained by Democratic candidates, other Democratic Party committees and news media outlets, as a service to our visitors. We are not responsible for the content or information collection practices of those sites. Please note that these sites' privacy policies may differ from ours. We encourage your to review and understand their privacy practices before providing them with information.
-
-## Checking DSCC Information For Accuracy
-
-You may change or review any information we have about you by visiting Subscription Management page.
+Please be aware that we may provide links to third-party Web sites, including those sites maintained by Democratic candidates, other Democratic Party committees and news media outlets, as a service to our visitors. We are not responsible for the content or information collection practices of those sites. Please note that these sites’ privacy policies may differ from ours. We encourage your to review and understand their privacy practices before providing them with information.
 
 ## Updating This Policy
 
