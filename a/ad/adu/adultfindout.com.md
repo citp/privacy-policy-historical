@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultfindout.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607112305id_/http%3A//www.adultfindout.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultfindout.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111074747id_/http%3A//www.adultfindout.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Adult Findout.com - Privacy Policy
 
