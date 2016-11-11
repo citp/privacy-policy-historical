@@ -1,35 +1,102 @@
-> *The following text is extracted and transformed from the ultratools.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317072243id_/https%3A//www.ultratools.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultratools.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111075142id_/https%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Neustar
 
-**Privacy Policy**
+**Highlights of the Neustar Privacy Policy**
 
-(Last revision: October, 2010)
+_Updated: September 26, 2016_
 
-By accessing the Neustar, Inc. ("Neustar") website(s) located at UltraTools.com ("Site") you ("You") accept, without limitation, the terms and conditions set forth below. Neustar gathers certain types of personal information about the users who visit the Site. The following describes how the personal information Neustar collects on its Site will be treated. By access and use of the Site, You expressly agree to the Terms of Use as well as terms and conditions of this Privacy Policy set forth herein.
+Neustar uses Personal Information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles)
 
-**1\. Personal Information Neustar Collects**
+### Our Commitment – Privacy by Design
 
-Depending upon how You use and interact with the Site, information collected about You may include, without limitation, registration related information such as your name, address, e-mail address, telephone number(s), information about the website pages you visit, and transaction data related to services. Your information may also include certain technical information gathered or received when You use the Site such as Your Internet protocol (IP) address, web browser reported data, and the reports or tools you use and their results.
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy-principles), including the principle of Privacy by Design, to design, build, and deliver products and services that respect your privacy.
 
-**2\. Cookies and Web Beacons**
+### Personal Information Collection, Use, and Disclosure
 
-A cookie is a text file that is placed in Your computer's browser that can be used to recognize You as a Site user. Web beacons are small pieces of code placed on web pages that can be used for such purposes as counting visitors and delivering cookies or to otherwise customize the user experience on the Site. Neustar may use cookies, web beacons or similar technologies along with the other information collected to enhance and personalize Your experience on the Site as well as to track, manage and enable preferences, transactions and related uses of Neustar services and information. If You have set your browser to warn you before accepting cookies, You should receive the warning message with each cookie. Though some of the Services require the use of cookies, visitors to the Site may disable cookies via their browser preferences. If You choose to refuse cookies by turning them off in Your browser, some of the services will not work.
+We collect [Personal Information](https://web.archive.org/privacy/privacy-policy#personal-info) from you directly and from businesses that use our products and services. We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy-policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and/or [Aggregate Knowledge Cookies](https://web.archive.org/privacy/privacy-policy#cookies), which do not contain or convey Personal Information. Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties. We do not use Sensitive Personal Information without your permission.
 
-**3\. What Neustar does with the information it collects.**
+Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the Personal Information we collect and how we use it:
 
-Information Neustar collects on this Site will enable the Site to personalize the content and services provided to You, as well as to enable Neustar to contact You regarding the products and services provided, provide customer service, provide improved Site management, conduct surveys, offers of related services, and other exchanges of information, as well as provide Neustar with data that Neustar uses to improve its services. Neustar may send You non-promotional and promotional email communications.
-
-**4\. How information is shared with others.**
-
-The information you supply to Neustar may be used by Neustar in any fashion without restriction and may be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Neustar including third party vendors, consultants and other service providers.
-
-**5\. Changes to the Privacy Policy.**
-
-Neustar reserves the right to change the terms and conditions set forth herein, effective immediately upon posting such revised terms and conditions on the Site.
-
-  
+  * [Data Collected On Our Websites](https://web.archive.org/privacy/privacy-policy#info-you-provide)
+  * [Data Collected and Used to Provide Neustar Products and Services](https://web.archive.org/privacy/privacy-policy#data_in_products_services)
+  * [Other Use and Disclosure of Personal Information](https://web.archive.org/privacy/privacy-policy#other-use)
 
 
-  
 
+### Cookies, Advertising IDs and Other Technologies
+
+Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://web.archive.org/marketing/platformone) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
+
+Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the technologies we use:
+
+  * [Website Cookies](https://web.archive.org/privacy/privacy-policy#cookies)
+  * [Analytics and Segmentation Cookies](https://web.archive.org/privacy/privacy-policy#segment-codes)
+  * [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy#mobile-advertising-id)
+
+
+
+### Transparency and Choice; Opt-Out
+
+##### Cookies
+
+  * You can opt out of the use of [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and [AK Cookies](https://web.archive.org/privacy/privacy-policy#cookies) for Neustar Marketing Services on the [Opt-Out page](https://web.archive.org/privacy/opt-out) of our website.
+  * You can also opt out of the use of AdAdvisor Cookies and AK Cookies for Neustar Marketing Services by using the Digital Advertising Alliance (DAA) tool on the <http://www.aboutads.info/choices/> page.
+  * You can opt out of interest-based advertising served by companies that participate in the Digital Advertising Alliance's Consumer Choice tool by visiting <http://aboutads.info/choices>.
+
+
+
+##### Mobile Advertising IDs
+
+  * Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: [IDFA Opt-Out](http://support.apple.com/kb/HT4228).
+  * Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/) webpage.
+
+
+
+Please note that opting out does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
+
+Your choice to opt out from the use of AK and AdAdvisor cookies will not affect ads placed by any other organization.
+
+We comply with opt-out requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, an opt-out request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.
+
+### Accountability
+
+Neustar is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (“NAI”) and the [Digital Advertising Alliance](http://www.aboutads.info/) (“DAA”) and adheres to each organization’s Codes and Principles. You can also learn more about online advertising in general on the [NAI](https://www.networkadvertising.org/) website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <http://www.aboutads.info/> and <http://youradchoices.com/>.
+
+Aggregate Knowledge adheres to the European Interactive Digital Advertising Alliance’s (“EDAA”) principles. You may learn more about our participation in the EDAA’s program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67 "TRUSTe Privacy")
+
+### EU-U.S. Privacy Shield
+
+Neustar and its subsidiaries, (i.e., .CO Internet S.A.S., NeuStar International Services, Inc., Aggregate Knowledge, Inc., and MarketShare Holdings, Inc.) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+Neustar is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [feedback-form](https://feedback-form.truste.com/watchdog/request).
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+### Swiss Safe Harbor
+
+Neustar may receive Personal Information about residents of Switzerland in the course of providing our products and services. To the extent such information is transferred to the United States, we comply with the U.S. – Swiss Safe Harbor framework as administered by the U.S. Department of Commerce, and we have certified our adherence to the Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Where we act as a processor for Swiss customer, we only use the data collected through our Service to provide the service for which our customer has engaged us. Not all of Neustar’s products and services are available in Europe at this time. Additional information about the Safe Harbor programs and our certifications are available at: http://www.export.gov/safeharbor.
+
+European residents may also opt-out of the use of AK Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+
+### TRUSTe Certification
+
+Neustar, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+The TRUSTe program covers only information that is collected through this Web site, and the, IP Intelligence, PlatformOne, and UltraDNS platforms.
+
+### The Fine Print
+
+[Click here](https://web.archive.org/privacy/privacy-policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
+
+Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+
+### Questions? Comments?
+
+Send us an email at: [privacy@neustar.biz](mailto:privacy@neustar.biz)
