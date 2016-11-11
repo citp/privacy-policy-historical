@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the statnews.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612220523id_/https%3A//www.statnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statnews.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111073305id_/https%3A//www.statnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Privacy policy
 
-This policy was last updated on **Oct. 6, 2015**.
+This policy was last updated on **Oct. 11, 2016**.
 
 This policy describes the privacy practices of STAT and its affiliates and subsidiaries (in this policy, we will generally refer to us as “STAT,” “our,” or “we”). It explains how we collect, use, and store information about our readers. This policy covers our privacy practices in connection with STAT.
 
@@ -140,3 +140,13 @@ We may make changes to this Privacy Policy. If we do so, we will post the change
 **General contact information.** If you have any questions or comments regarding our information or security practices, you may contact us at **info@statnews.com**.
 
 **Unsubscribe Requests.** If you would like to contact us about unsubscribing from our email lists, please email info@statnews.com and provide all of your email addresses that could appear on our email lists, as well as the name of the newsletter from which you would like to unsubscribe.
+
+**DMD Healthcare Communications NetworkSM Privacy Statement**
+
+This digital service participates in the DMD Healthcare Communication NetworkSM (the “Network”), and as such has implemented various technologies for universal registration/login among all Network member  
+websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to  
+understand how this digital service’s participation in the Network affects your privacy, please click here:
+
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
+
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.
