@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixbid.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322061945id_/https%3A//www.sixbid.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixbid.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111110810id_/https%3A//www.sixbid.com/policy.html) for the most accurate reproduction.*
 
 # SIXBID.COM - Experts in numismatic Auctions
 
