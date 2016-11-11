@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the coreos.com privacy policy that was archived on 2016-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407133002id_/https%3A//coreos.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coreos.com privacy policy that was archived on 2016-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161111164127id_/https%3A//coreos.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MMX2DX"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
+<!DOCTYPE html><html lang="en"><head>
  
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,6 +22,9 @@
  
 <link href="/assets/css/pygments-manni.css" rel="stylesheet">
  
+<meta name="ac-discovery" content="coreos.com/rkt/builder https://github.com/coreos/rkt-builder/releases/download/v{version}/rkt-builder-{version}-{os}-{arch}.{ext}">
+<meta name="ac-discovery-pubkeys" content="coreos.com/rkt/builder https://coreos.com/dist/pubkeys/app-signing-pubkey.gpg">
+ 
 <meta name="ac-discovery" content="coreos.com/rkt/stage1-coreos https://github.com/coreos/rkt/releases/download/v{version}/stage1-coreos-{version}-{os}-{arch}.{ext}">
 <meta name="ac-discovery-pubkeys" content="coreos.com/rkt/stage1-coreos https://coreos.com/dist/pubkeys/app-signing-pubkey.gpg">
 <meta name="ac-discovery" content="coreos.com/rkt/stage1-fly https://github.com/coreos/rkt/releases/download/v{version}/stage1-fly-{version}-{os}-{arch}.{ext}">
@@ -36,6 +39,8 @@
 <meta name="ac-discovery-pubkeys" content="coreos.com/bootcfg https://coreos.com/dist/pubkeys/app-signing-pubkey.gpg">
 <meta name="ac-discovery" content="coreos.com/dnsmasq https://github.com/coreos/coreos-baremetal/releases/download/{version}/dnsmasq-{version}-{os}-{arch}.{ext}">
 <meta name="ac-discovery-pubkeys" content="coreos.com/dnsmasq https://coreos.com/dist/pubkeys/app-signing-pubkey.gpg">
+<meta name="ac-discovery" content="coreos.com/dex https://github.com/coreos/dex/releases/download/{version}/dex-{version}-{os}-{arch}.{ext}">
+<meta name="ac-discovery-pubkeys" content="coreos.com/dex https://coreos.com/dist/pubkeys/app-signing-pubkey.gpg">
  
 <link href="/assets/css/coreos.css" rel="stylesheet">
  
@@ -56,8 +61,54 @@
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,400italic,600,700,900" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,500,600,700" rel="stylesheet" type="text/css">
  
+<link rel="search" type="application/opensearchdescription+xml" title="CoreOS" href="/opensearch.xml">
+ 
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MMX2DX"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('231-DAD-511');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin-beta.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin-beta.js"></script>
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  // Single property tracking
+  // Uses the default tracker (more below)
+  ga('create', 'UA-42684979-1', 'coreos.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+ 
 <style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
 <body class="coreos-home">
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MMX2DX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MMX2DX');</script>
  
 <div class="co-m-global-nav">
 <div class="co-m-global-nav">
@@ -246,13 +297,10 @@ Running the World's Containers
 <li class="co-m-dropdown-menu-categories-category">
 <ul class="co-m-dropdown-menu-categories-sublinks co-m-main-nav-products-sublink">
 <li>
-<a href="https://tectonic.com/starter" data-category="Product Dropdown" data-event="Tectonic: Enterprise">Tectonic Starter</a>
+<a href="https://tectonic.com/starter/" data-category="Product Dropdown" data-event="Tectonic: Enterprise">Tectonic Starter</a>
 </li>
 <li>
-<a href="https://tectonic.com/lab" data-category="Product Dropdown" data-event="Tectonic: Lab">Tectonic Lab</a>
-</li>
-<li>
-<a href="https://tectonic.com/enterprise" data-category="Product Dropdown" data-event="Tectonic: Enterprise">Tectonic Enterprise</a>
+<a href="https://tectonic.com/enterprise/" data-category="Product Dropdown" data-event="Tectonic: Enterprise">Tectonic Enterprise</a>
 </li>
 </ul>
 </li>
@@ -260,7 +308,7 @@ Running the World's Containers
 <li class="co-m-dropdown-menu-categories-category">
 <ul class="co-m-dropdown-menu-categories-sublinks co-m-main-nav-products-sublink">
 <li>
-<a href="/products/premium-managed-linux" data-category="Product Dropdown" data-event="Products: Premium Managed Linux">Premium Managed Linux</a>
+<a href="/products/premium-managed-linux/" data-category="Product Dropdown" data-event="Products: Premium Managed Linux">Premium Managed Linux</a>
 </li>
 </ul>
 </li>
@@ -268,10 +316,10 @@ Running the World's Containers
 <li class="co-m-dropdown-menu-categories-category">
 <ul class="co-m-dropdown-menu-categories-sublinks co-m-main-nav-products-sublink">
 <li>
-<a href="https://quay.io/plans" data-category="Product Dropdown" data-event="Products: Quay.io">Quay.io (hosted)</a>
+<a href="https://quay.io/plans/" data-category="Product Dropdown" data-event="Products: Quay.io">Quay.io (hosted)</a>
 </li>
 <li>
-<a href="https://tectonic.com/quay-enterprise" data-category="Product Dropdown" data-event="Products: Quay Enterprise">Quay Enterprise</a>
+<a href="https://tectonic.com/quay-enterprise/" data-category="Product Dropdown" data-event="Products: Quay Enterprise">Quay Enterprise</a>
 </li>
 </ul>
 </li>
@@ -279,40 +327,20 @@ Running the World's Containers
 <li class="co-m-dropdown-menu-categories-category">
 <ul class="co-m-dropdown-menu-categories-sublinks co-m-main-nav-products-sublink">
 <li>
-<a href="https://tectonic.com/training" data-category="Product Dropdown" data-event="Training: CoreOS">CoreOS &amp; Containers</a>
+<a href="https://tectonic.com/training/" data-category="Product Dropdown" data-event="Training: CoreOS">CoreOS &amp; Containers</a>
 </li>
 <li>
-<a href="https://tectonic.com/training" data-category="Product Dropdown" data-event="Training: Kubernetes">Kubernetes Hands-On</a>
+<a href="https://tectonic.com/training/" data-category="Product Dropdown" data-event="Training: Kubernetes">Kubernetes Hands-On</a>
 </li>
 </ul>
 </li>
 <li class="co-m-main-nav-products-overview-link">
-<a href="/products" data-category="Product Dropdown" data-event="Products: Overview">All Products</a>
+<a href="/products/" data-category="Product Dropdown" data-event="Products: Overview">All Products</a>
 </li>
 </ul>
 </li>
-<li class="dropdown co-m-dropdown co-m-main-nav-using-coreos co-p-main-nav-toplevel ">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" data-category="Main Navigation" data-event="Products: Overview">Using CoreOS <span class="caret"></span></a>
-<ul class="dropdown-menu co-m-dropdown-menu co-m-dropdown-menu-list" role="menu">
-<li class="co-m-dropdown-menu-list-link">
-<a href="/using-coreos/" data-category="Using CoreOS Dropdown" data-event="Using CoreOS: Overview">CoreOS Overview</a>
-</li>
-<li class="co-m-dropdown-menu-list-link">
-<a href="/using-coreos/clustering/" data-category="Using CoreOS Dropdown" data-event="Using CoreOS: fleet">Cluster Management</a>
-</li>
-<li class="co-m-dropdown-menu-list-link">
-<a href="/using-coreos/containers/" data-category="Using CoreOS Dropdown" data-event="Using CoreOS: containers">Running Containers</a>
-</li>
-<li class="co-m-dropdown-menu-list-link">
-<a href="/etcd/" data-category="Using CoreOS Dropdown" data-event="etcd: Overview">etcd Overview</a>
-</li>
-<li class="co-m-dropdown-menu-list-link">
-<a href="/using-coreos/systemd/" data-category="Using CoreOS Dropdown" data-event="Using CoreOS: systemd">systemd Overview</a>
-</li>
-<li class="co-m-dropdown-menu-list-link">
-<a href="/using-coreos/updates/" data-category="Using CoreOS Dropdown" data-event="Using CoreOS: Updates">Updates &amp; Patches</a>
-</li>
-</ul>
+<li class="co-p-main-nav-toplevel ">
+<a href="/why/" data-category="Main Navigation" data-event="Using CoreOS">Why CoreOS?</a>
 </li>
 <li class="co-p-main-nav-toplevel ">
 <a href="/docs/" data-category="Main Navigation" data-event="Docs: Overview">Documentation</a>
@@ -320,14 +348,17 @@ Running the World's Containers
 <li class="co-p-main-nav-toplevel ">
 <a href="/blog/" data-category="Main Navigation" data-event="Blog">Blog</a>
 </li>
+<li class="co-p-main-nav-toplevel ">
+<a href="/contact/" data-category="Main Navigation" data-event="Contact">Contact</a>
+</li>
 </ul> 
 </div> 
 </div> 
 </div> 
 </div>
 <div class="super-container">
-<div class="container">
  
+<div id="legal-content" class="container">
 <h1 id="coreos-privacy-policy">CoreOS Privacy Policy</h1>
 <p><strong>Last Revised: January 26, 2015</strong></p>
 <p>Welcome to CoreOS.com from CoreOS, Inc. (<strong>“CoreOS,” “we,” “us” or “our”</strong>).</p>
@@ -335,7 +366,7 @@ Running the World's Containers
 <p>The Services allow users to sign up for CoreOS products including CoreOS Managed Linux and CoreOS Enterprise Registry.</p>
 <p>We may change this privacy policy from time-to-time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we will provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the privacy policy periodically to stay informed about our practices and the ways you can help protect your privacy.</p>
 <h2 id="collection-of-information">Collection of Information</h2>
-<p>### Information You Provide to Us</p>
+<h3 id="information-you-provide-to-us">Information You Provide to Us</h3>
 <p>We collect information you directly give us. For example, we collect information about you when you sign up for one of our Services, participate in any interactive features of the Services, fill out a form, give feedback, ideas or submissions about any of the Services, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, credit/debit card information and any other information you choose to provide. For information as to how to restrict the collection of contact information, please see the “Your Choices” section below. If you choose not to provide certain information, we may not be able to provide certain of our Services to you or certain features of our Services may be unavailable or work differently.</p>
 <h3 id="information-we-collect-automatically-when-you-use-the-services">Information We Collect Automatically When You Use the Services</h3>
 <p>When you access or use our Services (or certain portions of the Services), we automatically collect certain information about you. This information includes:</p>
@@ -417,7 +448,7 @@ Running the World's Containers
 <div class="col-lg-6 col-md-6 col-sm-5 hidden-xs">
 <div id="wish">
 <span id="wish-text">I wish this page</span>
-<input type="text" id="wish-value" placeholder="contained example code" autocomplete="off">
+<input type="text" id="wish-value" placeholder="focused more on security" autocomplete="off">
 </div>
 </div>
 </div>
@@ -428,6 +459,7 @@ Running the World's Containers
 <ul>
 <li><a href="/about/" data-category="Footer" data-event="Footer: About">About</a></li>
 <li><a href="/blog/" data-category="Footer" data-event="Blog: Post List">Blog</a></li>
+<li><a href="/press/" data-category="Footer" data-event="Press">Press</a></li>
 <li><a href="/careers/" data-category="Footer" data-event="Careers">Careers</a></li>
 <li><a href="/security/" data-category="Footer" data-event="Footer: Security">Security</a></li>
 <li><a href="/legal/privacy/" data-category="Footer" data-event="Footer: Privacy Policy">Privacy Policy</a></li>
@@ -436,11 +468,11 @@ Running the World's Containers
 <div class="co-m-footer-group">
 <h4>Products</h4>
 <ul>
-<li><a href="https://tectonic.com/enterprise" data-category="Footer" data-event="Tectonic: Enterprise">Tectonic Enterprise</a></li>
-<li><a href="/products/premium-managed-linux" data-category="Footer" data-event="Products: Managed Linux">Premium Managed Linux</a></li>
-<li><a href="https://tectonic.com/quay-enterprise" data-category="Footer" data-event="Products: Quay Enterprise">Quay Enterprise</a></li>
-<li><a href="/training" data-category="Footer" data-event="Training: Overview">Training Classes</a></li>
-<li><a href="/products/coreupdate" data-category="Footer" data-event="Products: CoreUpdate">CoreUpdate</a></li>
+<li><a href="https://tectonic.com/enterprise/" data-category="Footer" data-event="Tectonic: Enterprise">Tectonic Enterprise</a></li>
+<li><a href="/products/premium-managed-linux/" data-category="Footer" data-event="Products: Managed Linux">Premium Managed Linux</a></li>
+<li><a href="https://tectonic.com/quay-enterprise/" data-category="Footer" data-event="Products: Quay Enterprise">Quay Enterprise</a></li>
+<li><a href="/training/" data-category="Footer" data-event="Training: Overview">Training Classes</a></li>
+<li><a href="/products/coreupdate/" data-category="Footer" data-event="Products: CoreUpdate">CoreUpdate</a></li>
 </ul>
 </div>
 <div class="co-m-footer-group">
@@ -449,24 +481,24 @@ Running the World's Containers
 <li><a href="https://groups.google.com/forum/#!forum/coreos-user" data-category="Footer" data-event="Footer: User Newsletter">General Mailing List</a></li>
 <li><a href="https://groups.google.com/forum/#!forum/coreos-dev" data-category="Footer" data-event="Footer: Dev Newsletter">Developer Mailing List</a></li>
 <li><a href="irc://irc.freenode.org:6667/#coreos" data-category="Footer" data-event="Footer: IRC">IRC #coreos</a></li>
-<li><a href="https://twitter.com/coreoslinux" data-category="Footer" data-event="Footer: Twitter">@coreoslinux</a></li>
+<li><a href="https://twitter.com/coreoslinux/" data-category="Footer" data-event="Footer: Twitter">@coreoslinux</a></li>
 </ul>
 </div>
 <div class="co-m-footer-group">
 <h4>Project Docs</h4>
 <ul>
-<li><a href="/os/docs/latest" data-category="Footer" data-event="CoreOS: Docs">CoreOS Linux</a></li>
-<li><a href="/etcd/docs/latest" data-category="Footer" data-event="etcd: Docs">etcd</a></li>
-<li><a href="/rkt/docs/latest" data-category="Footer" data-event="rkt: Docs">rkt</a></li>
-<li><a href="/flannel/docs/latest" data-category="Footer" data-event="flannel: Docs">flannel</a></li>
-<li><a href="/fleet/docs/latest" data-category="Footer" data-event="fleet: Docs">fleet</a></li>
+<li><a href="/os/docs/latest/" data-category="Footer" data-event="CoreOS: Docs">CoreOS Linux</a></li>
+<li><a href="/etcd/docs/latest/" data-category="Footer" data-event="etcd: Docs">etcd</a></li>
+<li><a href="/rkt/docs/latest/" data-category="Footer" data-event="rkt: Docs">rkt</a></li>
+<li><a href="/flannel/docs/latest/" data-category="Footer" data-event="flannel: Docs">flannel</a></li>
+<li><a href="/fleet/docs/latest/" data-category="Footer" data-event="fleet: Docs">fleet</a></li>
 </ul>
 </div>
 <div class="co-m-footer-group hidden-sm">
 <h4>Events</h4>
 <ul>
-<li><a href="/community" data-category="Footer" data-event="Footer: Community">Community &amp; Meetups</a></li>
-<li><a href="/fest" data-category="Footer" data-event="Fest: Overview">CoreOS Fest 2016</a></li>
+<li><a href="/community/" data-category="Footer" data-event="Footer: Community">Community &amp; Meetups</a></li>
+<li><a href="/fest/" data-category="Footer" data-event="Fest: Overview">CoreOS Fest 2016</a></li>
 </ul>
 </div>
 </div>
@@ -479,48 +511,15 @@ Running the World's Containers
 <script src="/dist/js/bootstrap.min.js"></script>
 <script src="/assets/js/holder.js"></script>
 <script src="/assets/js/application.js"></script>
-<script src="/assets/js/masonry.pkgd.min.js"></script>
  
 <script src="/assets/js/jquery-ui-1.11.4.custom.js"></script>
-<script src="/assets/js/jquery.tocify.js"></script>
+<script src="/assets/js/tocbot.min.js"></script>
  
 <script type="text/javascript">
   $(document).ready(function() {
     $('[data-toggle=tooltip]').tooltip();
   });
 </script>
- 
-<script type="text/javascript">
-$.ajax({
-  url: '//munchkin.marketo.net/munchkin.js',
-  dataType: 'script',
-  cache: true,
-  success: function() {
-    Munchkin.init('231-DAD-511');
-  }
-});
-</script>
- 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  // Single property tracking
-  // Uses the default tracker (more below)
-  ga('create', 'UA-42684979-1', 'coreos.com');
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
-
-</script>
- 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MMX2DX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MMX2DX');</script>
  
 <script type="text/javascript" src="/assets/js/events.js"></script>
 
