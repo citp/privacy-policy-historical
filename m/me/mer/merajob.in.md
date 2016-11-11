@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merajob.in privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329050803id_/https%3A//www.merajob.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merajob.in privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111181707id_/https%3A//www.merajob.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Merajob
+# |
 
 ## Introduction
 
@@ -32,7 +32,7 @@ We at ‘MeraJob India Private Limited’ (hereinafter referred to as “MJI”)
 
 ### Third Party Services
 
-  * Third parties provide certain services available on the Site i.e. [www.merajobindia.com](http://www.merajobindia.com/) on MJI’s behalf.
+  * Third parties provide certain services available on the Site i.e. [www.merajob.in](http://www.merajob.in/) on MJI’s behalf.
   * 'MJI' may provide information, including Personal Information, that 'MJI' collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which 'MJI' maintains its Web site and mailing lists.
   * 'MJI' will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on MJI’s behalf.
   * 'MJI' does not intend to transfer Personal Information without your consent to third parties who are not bound to act on MJI’s behalf unless such transfer is legally required. Similarly, it is against MJI’s policy to sell Personal Information collected online without consent.
