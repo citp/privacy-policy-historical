@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avinashtech.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031074015id_/http%3A//www.avinashtech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinashtech.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111030000id_/http%3A//www.avinashtech.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Avinashtech
 
@@ -33,3 +33,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 [](http://reblog.zemanta.com/zemified/7ab2a81c-0437-42b7-9514-c4a6fb9400ef/ "Reblog this post \[with Zemanta\]")
+
+Last Updated on : 8th February, 2012, 4:29 PM
