@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribecafilm.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503191252id_/https%3A//tribecafilm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribecafilm.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111165954id_/https%3A//tribecafilm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tribeca
 
