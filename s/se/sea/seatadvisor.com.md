@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401094632id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111223436id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -106,26 +106,61 @@ To verify that this page is secure and that your credit card number and personal
 
 Please feel free to contact us directly with questions regarding check-out security.
 
-**US – EU Safe Harbor Framework**
+**European Union-United States Privacy Shield Notice**
 
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
-
-[](http://export.gov/safeharbor/)
+SeatAdvisor Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SeatAdvisor Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
 If you are visiting the SeatAdvisor website from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our website, you consent to our collection and use of your data as described in this privacy policy. SeatAdvisor Inc. is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union and has self-certified compliance with the Safe Harbor Privacy Principles with respect to personal information transferred to us in the U.S. from European countries.
 
-**Privacy Complaints by European Union Citizens:**
+The Federal Trade Commission has enforcement authority with jurisdiction over SeatAdvisor Inc’s compliance with the Privacy Shield.
 
-In compliance with the Safe Harbor Principles, SeatAdvisor Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact SeatAdvisor Inc. at: 
+**Notice:**
+
+We’ll give you timely and appropriate notice describing any personal information we’re collecting, how we’ll use it, and the types of third parties with whom we may share it
+
+**The Information We Collect:**
+
+We want patrons and clients to get the most out of their visits to our website. From offering an enjoyable ticket purchase experience to patrons, to providing clients with secure online ticketing system management and sales, we strive to make the most of every unique users visit to our website. To provide our clients with the most powerful ticketing system in the world we have included patron management options for our clients to utilize in any way they see fit. Through our system, our clients will, from time to time request that patrons provide them with personal information, such as **name, address, e-mail address and telephone number.** Our clients may also receive contact information via a third-party website if patrons request information about our clients’ venue or events
+
+**Access:**
+
+SeatAdvisor Inc acknowledges the individual’s right to access their personal information. We will provide ways for you to access your personal information, as required by law, so you can correct inaccuracies. To do so please access the “My Account” section for the organization that you purchased tickets from. Alternatively, you can reach out to our dispute resolution contact below who can liaise with the organization in question:
+
+Attn: Rory O’Donnell  
+2655 Camino Del Rio N.  
+Suite 470  
+San Diego, CA 92108  
+[rory@seatavisor.com](mailto:rory@seatavisor.com)
+
+SeatAdvisor Inc. may restrict access to personal data in exceptional circumstances where the legitimate rights of other persons would be violated or where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or where access could reveal confidential commercial information.
+
+**Choice/Opt-out:**
+
+All SeatAdvisor Inc. organizations offer users the ability to opt in/out for marketing purposes prior to completing sales. Opt in/out selections can be updated either by the patron upon receipt of any marketing emails or by contacting the organization directly.
+
+Service communications (purchase confirmation, e-ticket delivery etc.) may include information about your online registration, verification that your account has been accessed online, in response to a service related inquiry or confirmation of an online transaction.
+
+**Accountability for Onward Transfer:**
+
+In order to bring you the many online products and services offered through seatadvisor.com, we work with carefully selected vendors and non-affiliated companies. If we have to share any information with these companies in order to provide a product or service to you, we first conduct a careful evaluation of their information and security systems and practices, and require administrative, technical, and physical safeguards to ensure the security and confidentiality of SeatAdvisor, Inc. client information. At any time, we may audit these companies to verify the continued security of their systems and practices. SeatAdvisor Inc. may be liable for appropriate onward transfer of personal data to third parties.
+
+Please be aware that SeatAdvisor Inc. may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+**Data Integrity and Purpose Limitation:**
+
+We will take appropriate steps to make sure the personal information in our records is accurate and relevant.
+
+**Recourse, Enforcement and Liability:**
+
+In compliance with the BBB EU Privacy Shield, SeatAdvisor Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact SeatAdvisor Inc. At:
 
 SeatAdvisor Inc.  
-Internal Dispute Resolution Dept  
+Internal Dispute Resolution Dept.  
 Attn: Rory O’Donnell  
 2655 Camino Del Rio N.  
 Suite 470  
 San Diego, CA 92108
 
-SeatAdvisor Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SeatAdvisor Inc you may contact the BBB EU SAFE HARBOR program at the address below:
+SeatAdvisor Inc. has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint.
 
-Council of Better Business Bureaus, Inc. BBB EU SAFE HARBOR  
-Web: www.bbb.org/us/safe-harbor-complaints
+Finally, it is possible under certain limited conditions, for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
