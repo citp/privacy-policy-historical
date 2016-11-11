@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113932id_/https%3A//www.myjobscotland.gov.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111020848id_/https%3A//www.myjobscotland.gov.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | myjobscotland
 
@@ -8,7 +8,7 @@
 
 This website is operated and controlled by COSLA on behalf of its member organisations. myjobscotland is the national shared recruitment portal for Scotland's 32 local authorities, the Scottish Fire and Rescue Service, and Further & Higher Education institutions. It advertises job vacancies online through a single internet portal managed by COSLA. The portal allows candidates in any location to view vacancies and submit applications online to the organisation advertising the vacancy. Applicants can register to receive job alerts via email. This policy is designed to inform you of COSLA’s commitment to upholding your right to privacy and how COSLA will handle your personal data when you using myjobscotland.gov.uk
 
-Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: COSLA, Verity House, 19 Haymarket Yards, Edinburgh EH12 5BH - Registration No: Z6216554
+Information you supply will be processed by COSLA in accordance with the requirements and principles of the Data Protection Act 1998. COSLA is registered with the Information Commissioner as a data controller under the following address and registration number: Convention Of SScottish Local Authorities, Verity House, 19 Haymarket Yards, Edinburgh EH12 5BH - Registration No: Z6216554
 
 Information entered onto the myjobscotland website is stored in a database managed by Lumesse on COSLA’s behalf. The organisation to which you are applying is given limited access to this database, in order to process your application for a vacancy.
 
