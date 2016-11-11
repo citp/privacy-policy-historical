@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609231454id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111231840id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free Website Templates Download
-
-## Privacy Policy
+# Privacy Policy | Freethemes4all
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us.At freethemes4all.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.freethemes4all.com and how it is used.  
 **Log Files**  
