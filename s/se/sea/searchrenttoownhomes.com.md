@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchrenttoownhomes.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509025103id_/http%3A//renttoownhomeslistings.com-login.org/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchrenttoownhomes.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111165326id_/http%3A//renttoownhomeslistings.com-login.org/index.php/privacy) for the most accurate reproduction.*
 
 # privacy | Rent to Own Homes
 
