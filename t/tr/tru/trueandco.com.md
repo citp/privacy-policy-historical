@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406080218id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111122806id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
 
-# True&Co: Your custom bra shop online
+# True&Co.: We Make Bras That Make You Feel Amazing
 
-True&Co operates the website located at www.true&co.com. This Privacy Policy describes the information that is collected via our website and how that information is used. If you have any questions about our Privacy Policy, please contact us at hello@true&co.com. This Privacy Policy also applies to services and products offered by True&Co, as well as any other applications, content or features that we may from time to time offer on our website.
+True&Co operates the website located at www.true&co.com. This Privacy Policy describes the information that is collected via our website and how that information is used. If you have any questions about our Privacy Policy, please contact us at support@true&co.com. This Privacy Policy also applies to services and products offered by True&Co, as well as any other applications, content or features that we may from time to time offer on our website.
 
 ##### Types of Information that True&Co collects
 
@@ -12,7 +12,7 @@ This contact information collected includes your name, email address, and shippi
 
 If you contact us via phone, email or through the feedback button on our website, we may keep a record of your contact information and correspondence. In any event, we will reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you, to make recommendations for your personal bra shop and to send you marketing materials for our own products and services. We will not, at any time, share your information with external third parties who wish to market other products and services to you.
 
-If at any time you would like to change your personally identifiable information, no longer wish to receive materials from us or would like your personal information removed from our database, please contact us at hello@true&co.com. If you would like to unsubscribe, please use the the "unsubscribe" function in all our email communications with you so that we know that you no longer wish to receive any materials from us.
+If at any time you would like to change your personally identifiable information, no longer wish to receive materials from us or would like your personal information removed from our database, please contact us at support@true&co.com. If you would like to unsubscribe, please use the the "unsubscribe" function in all our email communications with you so that we know that you no longer wish to receive any materials from us.
 
 ##### Online tracking:
 
