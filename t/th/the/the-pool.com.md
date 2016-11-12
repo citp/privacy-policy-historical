@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418170302id_/https%3A//www.the-pool.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112024831id_/https%3A//www.the-pool.com/cookie-policy) for the most accurate reproduction.*
 
 # The Pool |
 
@@ -144,7 +144,7 @@ Google Analytics Cookie. Used for user-custom variables in Analytics.
   
 ### **Opting out**
 
-You may opt out of receiving emails from The Pool at any time by clicking the unsubscribe link with the email footer or in email preferences with their profile page. You may delete your account at any point via your profile page, which is accessible via the header.
+You may opt out of receiving emails from The Pool at any time by clicking the unsubscribe link with the email footer or in email preferences with their profile page. You may delete your account at any point by emailing hello@thepoolltd.com.
 
 ### Access to information
 
