@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the askmrcreditcard.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118030124id_/http%3A//www.askmrcreditcard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmrcreditcard.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112061727id_/https%3A//www.askmrcreditcard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of AskMrCreditCard.com
 
 Effective Date: March 15 , 2012
 
 This privacy policy describes how Smart Finance LLC collects and uses the personal information you provide on our Web site: www.askmrcreditcard.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-Smart Finance LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.askmrcreditcard.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at contactus@askmrcreditcard.com if you are not satisfied with our response you can contact TRUSTe here.
 
 **Collection and Use of Personal Information**
 
@@ -31,18 +29,18 @@ You may choose to stop receiving our newsletter or marketing emails by following
 **Cookies and Other Tracking Technologies**
 
 **_Cookies_**  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
+A cookie is a small text file that is stored on a userâ��s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
 
 **_Third Party Cookies_**  
 The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
 
 **_Clear Gifs (Web Beacons/Web Bugs)_**  
-Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a userâ��s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customersâ�� personally identifiable information.
 
 **_Log Files_**  
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ�� movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
 
 **_Flash LSOs_**  
 We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.
