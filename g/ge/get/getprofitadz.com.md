@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getprofitadz.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320062723id_/https%3A//www.getprofitadz.com/getprofitadz-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprofitadz.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112151031id_/https%3A//www.getprofitadz.com/getprofitadz-privacy-policy.pdf) for the most accurate reproduction.*
 
 # getprofitadz.com Privacy Policy
 
