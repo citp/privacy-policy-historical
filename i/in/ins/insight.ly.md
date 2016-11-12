@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324025642id_/https%3A//www.insightly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112192446id_/https%3A//www.insightly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insightly
 
@@ -7,12 +7,6 @@
 This privacy policy applies to www.insightly.com and the Insightly platform on login.insight.ly, owned and operated by Insightly Inc. (Insightly). This privacy policy describes how Insightly collects and uses the personal information you provide us and it also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 When registering for Insightly you can be certain that we have implemented comprehensive security practices to ensure that only registered users and those people who are provided authorized access to, can see your Insightly site. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.insightly.com (the “Site”) and login.insight.ly through our on-demand business productivity software, our support platform, and tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Insightly.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=fea1842b-7f21-4d61-88a9-afa7cbb03954 "TRUSTe Privacy Certification")
-
-The TRUSTe program covers only information that is collected through this website, www.insightly.com and the platform on login.insight.ly and does not cover information that may be collected through software downloaded from the website and through our mobile applications. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Insightly Inc.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@insight.ly. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 Insightly complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Insightly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Insightly’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -70,6 +64,8 @@ The Service and Site are not intended for, nor does Insightly knowingly collect 
 
 The security of your personal information and our clients’ information is important to us. Insightly maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. When you enter sensitive information, such as a credit card number, on our order forms and login credentials on our platform login page, we encrypt the transmission of that information using secure socket layer technology (SSL). These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. However, no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure due to the nature of the distributed network that is the Internet. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [contact@insight.ly](mailto:contact@insight.ly).
 
+Insightly is SOC 2 compliant and maintains reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure.
+
 ## Links to 3rd Party Sites
 
 Our site includes links to other web sites whose privacy practices may differ from those of Insightly. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
@@ -111,7 +107,7 @@ When you access and use the Service, you are subject and bound to the Insightly 
 If you have questions regarding this privacy policy or about the security practices of Insightly, please contact us by email at [contact@insight.ly](mailto:contact@insight.ly). We would love to hear from you.
 
 Insightly Inc.  
-185 Berry Street  
-#1000  
+680 Folsom  
+#550  
 San Francisco, CA 94107  
 USA
