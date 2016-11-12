@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420211753id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112130844id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
 
 # RegattaCentral - Staff
 
 **RegattaCentral Privacy Policy**   
 ****   
-**Effective Date: 10 June 2015**   
+**Effective Date: 28 October 2016**   
 ****   
 **Introduction**
 
@@ -13,7 +13,7 @@ At RegattaCentral we understand that your privacy is important to you and we are
 By accessing and using this website (www.regattacentral.com) or other websites owned and operated by RegattaCentral, you accept and agree to RegattaCentral’s Privacy Policy without limitation or qualification.   
 Definitions of specific terms referred to in this Policy can be found under the heading ‘Glossary’ at the end of this document.   
 ****   
-RegattaCentral has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.regattacentral.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
 **Privacy Policy**   
 ****   
@@ -68,7 +68,7 @@ o volunteer roles.
 
 **4.** **The way in which we use and disclose Personal Information**   
 ****   
-We will use or disclose your Personal Information only for the purposes for which it was collected. If you register for a particular event or program, we will share your information with the applicable host organisation, governing body, club or event organiser for that event or program, and with any other party which furthers the purpose of your registration. These parties are authorized to use your Personal Information only as necessary to provide these services to us. We will use or disclose your information for a secondary purpose only if you have consented or if you would reasonably expect us to do so or if required by law, such as to comply with a subpoena, or similar legal process. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If RegattaCentral is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information. 
+We will use or disclose your Personal Information only for the purposes for which it was collected. If you register for a particular event or program, we will share your information with the applicable host organisation, governing body, club or event organiser for that event or program, and with any other party which furthers the purpose of your registration. These parties are authorized to use your Personal Information only as necessary to provide these services to us. We will use or disclose your information for a secondary purpose only if you have consented or if you would reasonably expect us to do so or if required by law, such as to comply with a subpoena, or similar legal process. In certain situations, RegattaCentral, LLC may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If RegattaCentral is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information. 
 
 We may use your Personal Information for the purposes of our own direct marketing, however we will ensure you have an ability to opt out of future such communications by following the unsubscribe instructions included in these emails or you can contact us at support@regattacentral.com. 
 
@@ -114,7 +114,7 @@ Valid reasons include where:
 
 · giving access would be unlawful. 
 
-If your personal details change, or you believe the information we hold about you is incorrect, incomplete or out-of-date, please contact us so that we can correct our records or you can make the change on your Account Information page. 
+Upon request, RegattaCentral, LLC will provide you with information about whether we hold any of your personal information. If your personal details change, or you believe the information we hold about you is incorrect, incomplete or out-of-date, please contact us so that we can correct our records or you can make the change on your Account Information page. 
 
 Requests for access, deletion or correction to Personal Information should be addressed to the RegattaCentral Privacy Officer. All requests for access, deletion or correction to Personal Information will be responded to in writing within a reasonable period of time. As part of this process we will verify the identity of the individual requesting the information prior to providing access or making any changes. If access, deletion or correction to your Personal Information is refused we will provide reasons for our refusal. 
 
@@ -161,7 +161,7 @@ Our website includes links to other websites whose privacy practices may differ 
 
 
 
-You may also provide Personal Information about other people, such as their name, date of birth and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. 
+You may also provide Personal Information about other people, such as their name, date of birth and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided. We do store this third party information. Individuals may request for us to delete their information by contacting us at support@regattacentral.com. 
 
   * _Social Media Widgets_
 
@@ -195,23 +195,17 @@ We do not sell, rent or trade your Personal Information to any other third parti
 
 RegattaCentral’s Privacy Policy applies solely to information collected by us and may differ from the policies of other companies’ or organisations’ websites that you link to from this website. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that we are not responsible for the content of third party websites linked to our website nor are we responsible for the privacy policy or practices of any third parties whose website is linked to our website. We recommend that you read the privacy policy of any other companies’ or organisations’ website that you link to from our website.   
 ****   
-Technologies such as: cookies, beacons, tags and scripts are used by RegattaCentral and our marketing partners, partners, affiliates, and analytics/monitoring service providers. These technologies are used in analyzing trends, administering the website, identifying the number of visitors and page views (or page impressions) that occur on our website and how visitors use the website (e.g. how long these visitors (on average) spend on our website and common entry and exit points to our website). We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
 **Cookies/Tracking Technology**
 
 Cookies are small data files that are sent from a website and stored in a user’s web browser to improve the user’s web browsing experience. We do not link the information we store in cookies to any Personal Information you submit while on our website. 
 
 If you wish to disable the cookies on this website you will need to follow the steps required for your preferred browser but your ability to use some features or areas of our website may be limited.
 
+Technologies such as: cookies, beacons, tags and scripts are used by RegattaCentral and our marketing partners, partners, affiliates, and analytics/monitoring service providers. These technologies are used in analyzing trends, administering the website, identifying the number of visitors and page views (or page impressions) that occur on our website and how visitors use the website (e.g. how long these visitors (on average) spend on our website and common entry and exit points to our website). We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.   
 · _Log Files_
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you. We do this to improve services we offer, improve marketing and assist with analytics and site monitoring functinality. 
 
-· _Web Beacons / Gifs_   
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our website by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ Personal Information. 
+· _Behavioral Targeting/Re-Targeting_
 
-  * _3 rd Party Tracking _
-
-
-
-The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our Privacy Policy. We do have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers may use session ID cookies and persistent cookies to make it easier for you to navigate our website and assist with managing our services. 
+We partner with a third party to [display advertising on our website or to manage our advertising on other sites]. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/), Please note you will continue to receive generic ads. 
