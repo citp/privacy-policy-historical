@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627162812id_/https%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112141730id_/https%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
