@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mhrdnats.gov.in privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524072806id_/http%3A//www.mhrdnats.gov.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhrdnats.gov.in privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112224536id_/http%3A//mhrdnats.gov.in/privacy) for the most accurate reproduction.*
 
 # Privacy | National Apprenticeship Training Scheme (NATS), Ministry of Human Resource Development
+
+##  Privacy Policy
 
 Board of Apprenticeship Training / Practical Training (BOAT/BOPT) does not automatically capture specific personal information from Candidates, Institutions and Industry / Establishment (like name, phone number or email address), that allows us to identify the end user individually.
 
