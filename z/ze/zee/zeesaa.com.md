@@ -1,92 +1,76 @@
-> *The following text is extracted and transformed from the zeesaa.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401213139id_/http%3A//zeesaa.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeesaa.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112063605id_/http%3A//www.zeesaa.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy | ZeeSaa Market
+# Privacy Policy - ZeeSaa Online Market
 
-This privacy policy sets out how ZeeSaa Market uses and protects any information that you give ZeeSaa Market when you use this website. ZeeSaa Market is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ZeeSaa Market may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+PRIVACY POLICY  
+(Updated as of April 2016)
 
-## What we collect
+ZeeSaa.com.com ( the "Site") is electronic commerce platforms used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. ZeeSaa.com recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Site.  
+You may use our services and products via a mobile device either through mobile applications or mobile optimized Website. This Privacy Policy also applies to such use of our services and products.
 
-We may collect the following information:
+A. COLLECTION OF INFORMATION
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+1\. Your privacy is important to us and we have taken steps to ensure that we do not collect more information from you than is necessary for us to provide you with our services and to protect your account.  
+2\. Information including, but not limited to, username, address, phone number, email address, gender, date and/or year of birth and user preferences ("Registration Information") may be collected at the time of user registration on the Site.  
+3\. In connection with any transaction and payment services or services under our buyer protection schemes we provide on the Site, information, including but not limited to, billing and delivery information, piracy dates and tracking information from cheques or money orders ("Account Information") may be collected to, among other things, facilitate the sale and purchase as well as the settlement of purchase price of the products or services transacted on or procured through the Site.  
+4\. We record and retain details of users’ activities on the Site. Information relating to such transactions including, but not limited to, the types and specifications of the goods, pricing and delivery information and any trade dispute records (“Activities Information”) may be collected when sale and purchase transactions are conducted on or facilitated through the Site.  
+5\. From time to time, we collect information about our users and prospective users during trade shows, industry events and other functions. The information we may collect at these locations may include, but is not limited to, user name, address, phone number, fax number and email address ("Event Information").  
+6\. We record and retain records of users' buying and browsing activities on our platform including but not limited to IP addresses, browsing patterns and buyer behavioural patterns. In addition, we gather statistical information about the Site and visitors to the Sites including, but not limited to, IP addresses, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors (together "Browsing Information").  
+7\. Registration Information, Account Information, Activities Information, Event Information and Browsing Information generally relate to business entities and are together referred to as business data (“Business Data”). In so far and only in so far as they constitute personally identifiable data of living individuals, such information are together referred to as personal data (“Personal Data”).  
+8\. It is mandatory for users of the Site to provide certain categories of Business Data and Personal Data (as specified at the time of collection). In the event that users do not provide any or sufficient Business Data and/or Personal Data marked as mandatory, we may not be able to complete the registration process or provide such users with our products or services.
 
+B. USE OF PERSONAL DATA
 
+If you provide any Personal Data to us, you are deemed to have authorized us to collect, retain and use that Personal Data for the following purposes:  
+1\. Verifying your identity;  
+2\. Verifying your eligibility to register as a user of the Site;  
+3\. Processing your registration as a user, providing you with a log-in ID for the Sites and maintaining and managing your registration;  
+4\. Providing you with customer service and responding to your queries, feedback, claims or disputes;  
+5\. To facilitate communication between buyers and sellers on the Sites;  
+6\. Performing research or statistical analysis in order to improve the content and layout of the Site, to improve our product offerings and services and for marketing and promotional purposes;  
+7\. Subject to obtaining your consent in such form as may be required under the applicable law, we may use your name, phone number, residential address, email address and fax number ("Marketing Data") to provide notices, surveys, product alerts, communications and other marketing materials to you relating to goods and services offered by us on the Site .  
+8\. If you voluntarily submit any information to the Site for publication on the Sites through the publishing tools, including but not limited to, Company Profile, Product Catalog, Trade Leads, Profile and any discussion forum, then you are deemed to have given consent to the publication of such information on the Site ("Voluntary Information"); and  
+9\. Making such disclosures as may be required for any of the above purposes or as required by law or in respect of any claims or potential claims brought against us.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+C. DISCLOSURE OF PERSONAL DATA
 
-## What we do with the information we gather
+1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the ZeeSaa.com entity that you are contracting with) your Personal Data to service providers engaged by us to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, and membership authentication and verification services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes (including direct marketing).  
+2\. You agree that we may disclose and transfer (whether within or outside the jurisdiction of the ZeeSaa.com entity that you are contracting with), for the purposes specified at B.1 to B.9 above, your Personal Data to other affiliated companies within the ZeeSaa.com Group, which comprises a group of companies operating leading online and mobile marketplaces in consumer and business-to-business commerce, as well as cloud computing and other services.   
+3\. When necessary we may also disclose and transfer (whether within or outside the jurisdiction of the ZeeSaa.com entity that you are contracting with) your Personal Data to our professional advisers, law enforcement agencies, insurers, government and regulatory and other organizations for the purposes specified at B.9 above.  
+4\. Any Personal Data supplied by you will be retained by us and will be accessible by our employees, any Service Providers engaged by us and third parties referred to at C.2 and C.3 above, for or in relation to any of the purposes stated in B.1 to B.9 above.  
+5\. All Voluntary Information may be made publicly available on the Sites and therefore accessible by any internet user. Any Voluntary Information that you disclose to us becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyright) in such information. You should exercise caution when deciding to include personal or proprietary information in the Voluntary Information that you submit to us.  
+6\. We may share your Account Information with banks or vendors to enable your transactions on the Sites to be completed. In addition, we may use your Account Information to determine your credit-worthiness and, in the process of such determination, we may need to make such Account Information available to banks or credit agencies. While we have in place up-to-date technology and internal procedures to keep your Account Information and other Personal Data secure from intruders, there is no guarantee that such technology or procedures can eliminate all of the risks of theft, loss or misuse.  
+7\. We may provide statistical information to third parties, but when we do so, we do not provide personally-identifying information without your permission.  
+8\. We have established relationships with other parties and Website to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their Website either through the use of hyperlinks to these sites from the Site or through offering "co-branded" sites in which both we and other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third party sites and co-branded sites before responding to any offers, products or services advertised by those parties.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+D. RIGHT TO ACCESS/CORRECT PERSONAL DATA
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Under the applicable laws, you have the right of access to personal information held by us and to request correction of the information. If you have any questions regarding this Privacy Policy or if you wish to access or correct your Personal Data, you may send your request in writing to the following address:  
+The Legal Department, ZeeSaa Partners, 3rd Floor, N0: 11, Amobi Street, Onuiyi Nsukka, Enugu State, Nigeria. In accordance with the applicable laws, we reserve the right to charge you a reasonable fee for the processing of any data access or correction request.
 
+E. COOKIES
 
+We use "cookies" to store specific information about you and track your visits to the Site. It is not uncommon for Website to use cookies to enhance identification of their users.  
+A "cookie" is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access the Site using a computer. If you do not de-activate or erase the cookie, each time you use the same computer to access the Sites, our web servers will be notified of your visit to the Site and in turn we may have knowledge of your visit and the pattern of your usage.
 
-## Security
+Generally, we use cookies to identify you and enable us to i) access your Registration Information or Account Information so you do not have to re-enter it; ii) gather statistical information about usage by users; iii) research visiting patterns and help target advertisements based on user interests; iv) assist our partners to track user visits to the Site and process orders; and v) track progress and participation in promotions.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+You can determine if and how a cookie will be accepted by configuring the browser which is installed in the computer you are using to access the Site. If you choose, you can change those configurations. By setting your preferences in the browser, you can accept all cookies or you can choose to be notified when a cookie is sent or you can choose to reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter information on the Site more often and certain features of the Site may be unavailable.
 
-## How we use cookies
+F. MINORS
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+The Site and their contents are not targeted to minors (those under the age of 18) and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact our Legal Department at the address set out in paragraph D above to remove the information.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+G. SECURITY MEASURES
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We employ commercially reasonable security methods to prevent unauthorized access to the Site, to maintain data accuracy and to ensure the correct use of the information we hold.  
+For registered users of the Site, your Registration Information and Account Information (if any) can be viewed and edited through your account, which is protected by a password. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited email. If you share a computer with others, you should not choose to save your log-in information (e.g., user ID and password) on that shared computer. Remember to sign out of your account and close your browser window when you have finished your session.  
+No data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect the information we hold for you, we cannot guarantee the security of any information you transmit to us and you do so at your own risk.
 
-## Links to other websites
+H. CHANGES TO THIS PRIVACY POLICY
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Any changes to this Privacy Policy will be communicated by us posting an amended and restated Privacy Policy on the Site. Once posted on the Site the new Privacy Policy will be effective immediately. You agree that any information we hold about you (as described in this Privacy Policy and whether or not collected prior to or after the new Privacy Policy became effective) will be governed by the latest version of the Privacy Policy.
 
-## Controlling your personal information
+I. YOUR FEEDBACK
 
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at market@zeesaa.com
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Lagos Nigeria.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+We welcome your input regarding our Privacy Policy and any comments on the services we provide to you. You may send us your comments and responses by post to: The Legal Department, ZeeSaa Partners, 3rd Floor, N0: 11, Amobi Street, Onuiyi Nsukka, Enugu State, Nigeria.
