@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkapps.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405112710id_/http%3A//thinkapps.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkapps.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112220311id_/http%3A//thinkapps.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy – ThinkApps.com
 
