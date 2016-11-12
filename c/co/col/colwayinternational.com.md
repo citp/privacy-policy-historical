@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colwayinternational.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330014747id_/https%3A//colwayinternational.com/docs/ochrona-danych-osobowych-en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colwayinternational.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112180820id_/https%3A//colwayinternational.com/docs/ochrona-danych-osobowych-en.pdf) for the most accurate reproduction.*
 
 # In the case of Registered Clients, their personal data are also available to the Company's
 
