@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608101355id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112073506id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement, Chinatravel.com User Privacy and Security Protection
 
