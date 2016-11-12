@@ -1,51 +1,118 @@
-> *The following text is extracted and transformed from the lionsroar.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618234929id_/http%3A//www.lionsroar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionsroar.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112120428id_/http%3A//www.lionsroar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lion's Roar
 
-Lion’s Roar automatically recognizes such information as a visitor’s IP address, browser type, device type, and the site the visitor passed through to reach our digital properties. Our site automatically gathers usage information, such as the number and frequency of visitors to our site. We use this information for internal purposes only, to evaluate the security and performance of our website and improve user experience.
+## **Welcome to Lion’s Roar**
 
-At certain pages on the website, you may elect to give us your name, e-mail address, postal address, phone number, organization, and other identifying information. We will use this information only to provide you with announcements and services you have requested from _Lion’s Roar_  and _Buddhadharma_.
+Our aim is to provide you with the best of Buddhist wisdom for our time. We hope you find inspiration, wisdom, and enjoyment as you browse the site. LionsRoar.com and its subdomains (store.lionsroar.com; learn.lionsroar.com; etc.) are published by the Lion’s Roar Foundation (“Lion’s Roar”), located at 1660 Hollis Street, Suite 701, Halifax, Nova Scotia B3J 1V7, Canada. The Foundation also makes the same or similar content available to mobile users through apps available to users of Apple’s iPhone and iPad, (as well as in our print publications _Lion’s Roar_ and _Buddhadharma: the Practitioner’s Quarterly_ ). This policy sets out our commitment to you regarding how we may collect and use your information. These policies apply across lionsroar.com and its subdomains. Please read our privacy policy carefully to understand how we collect, use, protect, or otherwise handle your information.
 
-Our websites may place a “cookie” in the browser files of a user’s device. The cookie itself does not contain any personally identifying information, although it will enable us to relate a user’s use of our site to information the user has specifically and knowingly provided to us. You may opt-out of the cookies delivered by this website by changing the setting on your browser. Be aware that changing the settings on your browser may affect or disable cookies delivered from websites other than the _Lion_ ‘s _Roar_ and _Buddhadharma’s_.
+## **Information that we collect**
 
-This site contains links to other sites, including sites owned and maintained by our advertisers and other organizations. These websites may collect personally identifiable information directly from you. The Lion’s Roar Foundation is not responsible for the privacy policies or contents of the websites to which we provide hyperlinks or access. If you visit these sites, please look for their privacy policy.
+When you provide us with contact or other information in connection with a particular activity, product, or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us. You also attest that you have the legal authority over any telephone number or email address you provide to us and can provide us with the authorization to contact you. 
 
-The Lion’s Roar Foundation uses industry-standard physical, electronic and administrative procedures to protect the information we collect about our subscribers and web browsers. These procedures are intended to protect against the loss, misuse or alteration of information that we collect from you.
+## **How do we use your information?**
 
-Any email address you provide to _Lion’s Roar_ magazine and/or  _Buddhadharma_ via our website will be used only in our communications with you. Your email address will not be given out to third party organizations.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, browse the website, or use certain other site features in the following ways:
 
-* * *
+  * Email newsletters
+  * Marketing emails
+  * Direct mail marketing offers
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested
+  * Improve our website in order to better serve you
+  * To allow us to better respond to your customer service requests
+  * To administer a contest, promotion, survey or other site features
+  * To quickly process your transactions
+  * To send periodic emails regarding your orders or other products and services
+  * To follow up with correspondence (email or phone inquiries)
 
-## Commenting Policy
 
-We welcome your thoughts. If you wish to comment, please respect the principle of right speech. We also ask that your comments be related to the articles under which they appear. The comments that appear on this website are solely the opinion of individual commenters and do not necessarily reflect the opinion of the Lion’s Roar or the Lion’s Roar Foundation.
 
-We may choose to publish comments in our print publications, and may edit those comments for clarity and length. We reserve the right to delete comments deemed inappropriate.
+## **How do we protect your information?**
 
-* * *
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-## Ecommerce security
+Your personal information is contained behind secured networks. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-To complete ecommerce orders we must have your name, shipping address, email address, and if ordering with credit card, your Visa or Mastercard information. Your credit card information is encrypted and sent using SSL and SET protocol to the bank for authorization and then we are given an authorization number with respect to your purchase.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your information. All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Our secure server software is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information including, name, address, and credit card number so that it cannot be read as the information travels over the Internet.
+## **Cookies**
 
-If you do not feel comfortable placing your order online, we encourage you to call our toll-free Customer Service desk at 1-877-786-1950. 
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-### Lion’s Roar and Buddhadharma magazines privacy policy
+**We may use first-party (e.g., Google Analytics) and third-party (e.g., Google DoubleClick) cookies to:**
 
-Our websites comply with the following privacy policy. By using this website, you indicate your acceptance of the Lion’s Roar Sun Foundation’s privacy policy.
+  * Understand and save user preferences for future visits
+  * Keep track of advertisements
+  * Compile aggregate data about site traffic and interactions to offer better site experiences and tools in the future
+  * Help remember and process the items in your shopping cart
 
-What Information We Collect, And How We Use It
 
-For _Lion’s Roar   _Magazine__  and _Buddhadharma_ print subscribers:
 
-We maintain a database of the name and address information you provide us at the time you subscribe, renew, or change your address. We may use this information to: contact you about your subscription and your account status, advise you of any changes or additions to our service, and inform you of special offers from _Lion’s Roar_  and _Buddhadharma_.
+We may also use trusted third-party services that track this information on our behalf.
 
-On occasion we make our subscribers’ names and mailing addresses available to select organizations whose products or services we feel will be of interest to our subscribers. If you would prefer that your name and mailing address not be used in this way, please contact us at our address shown below.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn how to modify the way it treats cookies.
 
-Email addresses are not made available to third party organizations. We will use your email address only in our communications with you.
+If you turn cookies off, some features will be disabled that make your user experience more efficient and some features may not function properly.
 
-### Disclaimer
+## **Third-party disclosure**
 
-This Privacy Policy may be changed at our discretion.
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties without your consent. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+We may disclose information in response to subpoenas, court orders, or other requests from jurisdictions inside or outside of the United States where we believe in good faith that the response is required under local laws of that jurisdiction, applies to users from that jurisdiction, and is consistent with generally accepted international practice.  We may also share information when we believe in good faith belief that it is necessary to do so in order to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service.
+
+## **Third-party links**
+
+We offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## **Opting out**
+
+Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://www.google.com/settings/u/0/ads/authenticated). Alternatively, you can opt out by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/) opt-out page or by using the [Google Analytics Opt-Out Browser add on](https://tools.google.com/dlpage/gaoptout/).
+
+## **California Online Privacy Protection Act**
+
+We Comply with the California Online Privacy Protection Act by:
+
+  *      Letting users visit our site anonymously
+  *      Providing a link on our homepage to this Privacy Policy
+  *      Including the word “Privacy” in a link to this policy which can be easily be found on our homepage
+
+
+
+**You will be notified of any Privacy Policy changes on this Privacy Policy page.**
+
+## **You can change your personal information:**
+
+  *      By emailing us us at [info@lionsroar.com](mailto:info@lionsroar.com)
+  *      By calling us toll free in the US and Canada: 877-422-8404
+
+
+
+## **Do Not Track signals**
+
+Third-party browsers may provide “do not track” signals for websites which are automatically applied by default and therefore do not necessarily reflect our visitor’s choice as to whether they wish to receive personalized ads. We do not respond to browser-based “do not track” signals. You can learn more about do not track signals at [https://allaboutdnt.com/](https://allaboutdnt.com/). 
+
+## **Children Online Privacy Protection Act**
+
+We do not knowingly collect or store any personal information about children under the age of 13.
+
+### **If at any time you would like to unsubscribe from receiving future emails, you can:**
+
+  * Email us at [info@lionsroar.com](mailto:info@lionsroar.com) and we will promptly remove you from ALL correspondence
+  * Follow the instructions found at the bottom of each email
+
+
+
+## **Contacting us**
+
+If you have questions regarding this privacy policy, you may contact us at:
+
+**LION’S ROAR FOUNDATION  
+**1660 Hollis Street, Suite 701  
+Halifax, Nova Scotia  
+Canada B3J 1V7
+
+Phone: 902-422-8404  
+Toll free in the US and Canada: 877-422-8404  
+Email: [info@lionsroar.com](mailto:info@lionsroar.com)
+
+Last modified: Sept. 22, 2016
