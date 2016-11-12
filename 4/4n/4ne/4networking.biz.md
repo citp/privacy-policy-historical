@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4networking.biz privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314062509id_/https%3A//www.4networking.biz/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4networking.biz privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112222753id_/https%3A//www.4networking.biz/Pages/Privacy) for the most accurate reproduction.*
 
 # Privacy Statment for 4Networking
 
