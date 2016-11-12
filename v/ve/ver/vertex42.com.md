@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314210311id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112195700id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
@@ -94,4 +94,4 @@ We may occasionally revise this policy by updating this page. _We encourage you 
 
 ## Contacting Us
 
-If you have any questions or comments about our privacy policy, we can be reached [via email](http://www.vertex42.com/about.html).
+If you have any questions or comments about our privacy policy, we can be reached [via email](https://web.archive.org/about.html).
