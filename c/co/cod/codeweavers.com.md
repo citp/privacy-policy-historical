@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codeweavers.com privacy policy that was archived on 2016-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160112200943id_/https%3A//www.codeweavers.com/support/wiki/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeweavers.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112194259id_/https%3A//www.codeweavers.com/support/wiki/website/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Support Library | CodeWeavers
+# Privacy Policy | CrossOver Support | CodeWeavers
 
   1. [__Home](https://web.archive.org/support/wiki/)
   2. [CodeWeavers Website Help](https://web.archive.org/support/wiki/website)
@@ -41,4 +41,4 @@ One or more of the parent pages specified in new path do not exist!
 
 __Please Wait...
 
-eyJjYXJ0IjowLCJ0enMiOi02LCJjZG4iOiJodHRwczpcL1wvbWVkaWEuY29kZXdlYXZlcnMuY29tXC9wdWJcL2Nyb3Nzb3Zlclwvd2Vic2l0ZSIsImNkbnRzIjoxNDUwMTA3MTk4fQ==
+eyJjYXJ0IjowLCJ0enMiOi02LCJjZG4iOiJodHRwczpcL1wvbWVkaWEuY29kZXdlYXZlcnMuY29tXC9wdWJcL2Nyb3Nzb3Zlclwvd2Vic2l0ZSIsImNkbnRzIjoxNDc4MjAwNzE1fQ==
