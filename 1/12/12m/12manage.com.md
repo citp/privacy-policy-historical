@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407073141id_/http%3A//www.12manage.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112102021id_/http%3A//12manage.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 12manage - Privacy and Cookie Policy
 
@@ -28,7 +28,7 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 Please read this policy and send us questions, concerns and suggestions at [info@12manage.com](mailto:info@12manage.com).
 
-### What 12manage’s Privacy Policy Covers:
+### What 12manage’s Privacy and Cookie Policy Covers:
 
   1. Information we receive.
   2. How we use your information.
@@ -202,7 +202,7 @@ We have self-certified our privacy practices as consistent with U.S. - E.U. Safe
 
 Please note that by becoming a User, you have given us your express and informed consent to transfer the data that you provide to us to the Netherlands and to process it in the Netherlands.
 
-If Users have questions or concerns regarding this Privacy Policy, you should first contact 12manage by email at [info@12manage.com](mailto:info@12manage.com). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you may raise your complaint by fax at +31-30-2254-788.
+If Users have questions or concerns regarding this Privacy Policy, you should first contact 12manage by email at [info@12manage.com](mailto:info@12manage.com).
 
     2. Changes to this Privacy Policy
 
