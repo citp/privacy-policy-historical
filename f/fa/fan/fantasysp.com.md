@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasysp.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403205206id_/https%3A//fantasysp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysp.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112163659id_/https%3A//www.fantasysp.com/privacy) for the most accurate reproduction.*
 
 # FantasySP / Privacy Policy
 
@@ -75,7 +75,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.fantasysp.com](http://www.fantasysp.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://hailmary.fantasysp.com](http://hailmary.fantasysp.com/)
 
  **Your Consent**
 
@@ -91,5 +91,5 @@ This policy was last modified on 8.3.2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.fantasysp.com   
+http://hailmary.fantasysp.com   
 info@fantasysp.com
