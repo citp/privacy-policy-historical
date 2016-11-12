@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516001559id_/http%3A//medrio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medrio.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112053216id_/http%3A//medrio.com/privacy) for the most accurate reproduction.*
 
 # Medrio Privacy Policy
 
-## Effective as of July 21st, 2011
+## Effective as of August 1st, 2016
 
-Medrio, Inc. has created this privacy policy in order to demonstrate our commitment to protecting the privacy of your information. Because we gather important information from you, we have established this policy as a means to communicate our information gathering and dissemination practices. In addition, Medrio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Medrio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Medrio's certification, please visit [ http://export.gov/safeharbor/](http://export.gov/safeharbor/). 
+Medrio, Inc. has created this privacy policy in order to demonstrate our commitment to protecting the privacy of your information. Because we gather important information from you, we have established this policy as a means to communicate our information gathering and dissemination practices. In addition, Medrio complies with the U.S.-EU Privacy Shield Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Medrio has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield Framework, and to view Medrio's certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 ### Information we collect and how we use it:
 
@@ -14,7 +14,7 @@ When you request additional information about Medrio, contact us via our website
 
 Medrio uses the information that we collect to perform the services requested. For example, if you complete a web contact form, Medrio will use the information provided to contact you about your interest in our service. 
 
-We may also use the information that we collect for marketing or other legitimate business purposes. For example we may use the collected information to contact you to further discuss your interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. 
+We may also use the information that we collect for marketing or other legitimate business purposes. For example, we may use the collected information to contact you to further discuss your interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. 
 
 All financial and billing information that we collect is used solely to check the qualifications of prospective customers and to bill for services. This billing information is not used by us for marketing or promotional purposes. 
 
@@ -46,7 +46,7 @@ Except in the cases where we explicitly state otherwise at the time we request i
 
 Medrio may also use a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
 
-Medrio will not disclose personally identifiable information to any Agent unless it first either ascertains that the Agent adheres to the Safe Harbor Principles or is subject to the EU Directive on Data Protection or another adequacy finding or enters into a written agreement with such Agent requiring that the Agent provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles. 
+Medrio will not disclose personally identifiable information to any Agent unless it first either ascertains that the Agent adheres to the Safe Harbor Principles or is subject to the EU Directive on Data Protection or another adequacy finding or enters into a written agreement with such Agent requiring that the Agent provide at least the same level of privacy protection as is required by the relevant Privacy Shield Principles. 
 
 ### Opt-Out Policy:
 
@@ -64,13 +64,21 @@ Customers of the Service will be using the Medrio software service to host data 
 
 ### Security:
 
-Medrio has placed commercially reasonable security measures in place to protect the integrity, availability, and confidentiality of customer data. These measures include policies, procedures, employee training, physical access and logical security controls. In addition when accessing the Medrio software service, data transmitted to Medrio's servers are secured using standard security protocols and mechanisms such as SSL encryption to ensure data confidentiality and integrity. 
+Medrio has placed commercially reasonable security measures in place to protect the integrity, availability, and confidentiality of customer data. These measures include policies, procedures, employee training, physical access and logical security controls. In addition, when accessing the Medrio software service, data transmitted to Medrio's servers are secured using standard security protocols and mechanisms such as SSL encryption to ensure data confidentiality and integrity. 
 
 In the event that individual personal data is acquired, or is reasonably believed to have been acquired, by an unauthorized person and applicable law requires notification, Medrio will notify the affected individual of the breach by email or fax or, if Medrio is unable to contact the individual by email or fax, then by U.S. mail. Notice will be given promptly, consistent with the legitimate needs of law enforcement and any measures necessary for Medrio or law enforcement to determine the scope of the breach and to assure or restore the integrity of the data system. Medrio may delay notification if Medrio or a law enforcement agency determines that the notification will impede a criminal investigation, unless and until Medrio or the agency determines that notification will not compromise the investigation. 
 
 ### Enforcement:
 
-Medrio has established internal mechanisms to verify its ongoing adherence to its privacy policy, including the Safe Harbor Principles. Medrio also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting Medrio at the address below. Medrio will seek to resolve any concerns. Medrio has also agreed to participate in the dispute resolution program provided by the European Data Protection Authorities 
+In compliance with the Privacy Shield Principles, Medrio commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Privacy Shield policy should first contact: 
+
+Medrio, Inc.  
+345 California St, Suite 325  
+San Francisco, CA 94104  
+Phone: 877-763-3746  
+Email: [info@medrio.com](mailto:info@medrio.com)
+
+Medrio has further committed to refer unresolved Privacy Shield complaints to EU Data Protection Authorities (DPA) an alternative dispute resolution provider located in the United States. The services of the EU DPA are provided at no cost to you. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission. The Federal Trade Commission has jurisdiction over Medrio’s compliance with this Policy, the EU-US Privacy Shield Framework. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Medrio is potentially liable. 
 
 ### Policy Updates:
 
