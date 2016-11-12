@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryengine.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512210433id_/http%3A//cryengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryengine.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112135753id_/https%3A//www.cryengine.com/privacy) for the most accurate reproduction.*
 
 # CRYENGINE | The complete solution for next generation game development by Crytek
 
