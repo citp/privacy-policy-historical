@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummly.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618003533id_/http%3A//www.yummly.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.co.uk privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112192604id_/http%3A//www.yummly.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yummly
 
