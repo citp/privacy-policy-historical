@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividvideo.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514214625id_/http%3A//www.vividvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividvideo.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112153151id_/http%3A//www.vividvideo.com/privacy) for the most accurate reproduction.*
 
 # Vivid Video
 
