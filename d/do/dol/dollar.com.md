@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906163625id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112160301id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | About Us |
+# Privacy | About Us | Car Rental Lowest Rates | Dollar
 
 **CONTACT US:**  We hope this policy answers your questions about our collection, use and disclosure of your personal data.  If it does not, or if you have any questions, please contact us by following the instructions in the Contact Us section below.
 
@@ -33,8 +33,6 @@ We operate a network of licensees in provision of our services worldwide and ar
 ** \--------------------------------------------------------
 
 We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
-
-The Hertz Corporation and those of its subsidiaries operating within the United States of America, including us, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  On behalf of itself and such subsidiaries, The Hertz Corporation has certified that it and we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  You can visit http://www.export.gov/safeharbor/ to learn more about the U.S.-E.U. and U.S.-Swiss Safe Harbor programs.
 
 **Changes  ** **  
 ** \--------------------------------------------------------
@@ -399,8 +397,6 @@ Please note the following points about the marketing choices you make:
   * Customers outside the United States: 1-405-775-3400  
 
 
-
-**_US-EU and US-Swiss Safe Harbor Enforcement:_** Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of www.dollar.com; or writing to us at any of the addresses below.   As a subsidiary of The Hertz Corporation, we have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 **_Contact addresses:_**
 
