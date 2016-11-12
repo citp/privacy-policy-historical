@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905133902id_/https%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112035733id_/http%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dating Coach - Evan Marc Katz | Understand Men. Find Love.
 
@@ -50,7 +50,7 @@ Most Internet browsers are initially set up to accept cookies. However, you can 
 Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
 _**How to Contact Us**_  
-If you have any questions or complaints about our Privacy Policy, please contact us at evan@evanmarckatz.com. When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response.
+If you have any questions or complaints about our Privacy Policy, please contact us at support@evanmarckatz.com. When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response.
 
 _**Changes in This Privacy Policy**_  
 We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time. When we make changes which we consider material in our privacy practices, we will notify you in this space. We may also attempt to notify you of any such material changes to our privacy practices via email or by placing a notice on our home page.
