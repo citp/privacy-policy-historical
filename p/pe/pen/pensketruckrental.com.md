@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pensketruckrental.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609215411id_/http%3A//www.pensketruckrental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pensketruckrental.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112152556id_/http%3A//www.pensketruckrental.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Penske Truck Rental
 
@@ -6,7 +6,7 @@
 
 It is our responsibility to treat customers, colleagues, the community, and the environment with respect. That includes your personal information. We ensure your privacy by handling your personal information in a safe and accountable manner.
 
-### **Penske Privacy Policy for Internet Web Sites**
+### **Penske Truck Rental Privacy Policy for Internet Web Sites**
 
 Penske Truck Leasing Co., L.P. and its subsidiaries ("Penske") understand our customers' concern about privacy and the use of their personal information. Use of any information gathered from or about our customers through the Sites shall be governed by the Sites' Terms of Use ([www.pensketruckrental.com/terms-and-conditions/](https://web.archive.org/terms-and-conditions/)) and this Privacy Policy. Penske encourages you to read this Privacy Policy in full to learn how Penske treats personal information obtained while visiting our Sites, and we encourage you to check back regularly for any updates. Use of the Sites indicates your acceptance of the terms of this Privacy Policy, the Sites' Terms of Use, and Penske's use of your information as described below.
 
@@ -26,7 +26,7 @@ When you enter information or otherwise navigate through the Sites, the Sites us
 
 ### Right to monitor use
 
-Penske reserves the right, without any obligation, to monitor your use of the Sites for the purpose of ensuring compliance with the Sites' Terms of Use [www.gopenske.com]. Penske further reserves the right to prohibit conduct, communications, or content that it deems in its discretion to be harmful, abusive, offensive or hateful to Penske, its affiliates, or to any of Penske's customers and/or users of the Sites, or that may otherwise violate the law.
+Penske reserves the right, without any obligation, to monitor your use of the Sites for the purpose of ensuring compliance with the Sites' Terms of Use [www.pensketruckrental.com]. Penske further reserves the right to prohibit conduct, communications, or content that it deems in its discretion to be harmful, abusive, offensive or hateful to Penske, its affiliates, or to any of Penske's customers and/or users of the Sites, or that may otherwise violate the law.
 
 ### How Penske discloses personal information
 
@@ -46,7 +46,7 @@ Penske takes appropriate physical, electronic and managerial precautions in our 
 
 ### Third Parties
 
-Our website at www.gopenske.com and the Sites maintained therein may contain links to other third-party sites, such as the sites of Penske agents, sales affiliates and other organizations, whose products or services may be of interest to you. We cannot be responsible for maintaining your privacy once you leave our Sites. When you click on any links or banners on our Site that take you to third-party web sites, you will be subject to the third parties' privacy policies. We encourage you to read the posted privacy statement of any and every site you visit, whether you are linking from one of our Sites or browsing on your own.
+Our website at www.pensketruckrental.com and the Sites maintained therein may contain links to other third-party sites, such as the sites of Penske agents, sales affiliates and other organizations, whose products or services may be of interest to you. We cannot be responsible for maintaining your privacy once you leave our Sites. When you click on any links or banners on our Site that take you to third-party web sites, you will be subject to the third parties' privacy policies. We encourage you to read the posted privacy statement of any and every site you visit, whether you are linking from one of our Sites or browsing on your own.
 
 ### Children's Privacy
 
