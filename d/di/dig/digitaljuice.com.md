@@ -1,0 +1,160 @@
+> *The following text is extracted and transformed from the digitaljuice.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112090000id_/http%3A//www.digitaljuice.com/EverythingChanges/PrivacyPolicy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+## PRIVACY POLICY
+
+Digital Juice, Inc. ("Digital Juice", "DJ", "we", "us" or "our") values your privacy and is committed to protecting your personal information. Digital Juice is an online service that delivers high quality creative content to its members ("Services"). Digital Juice - Download what you want, when you want it.
+
+This Privacy Policy describes how and when DJ collects, uses and shares your information when you use our Services. Specifically, this Privacy Policy is intended to provide you with notice of the following:
+
+  1. INFORMATION COLLECTION AND USE
+    * Information Collected Upon Registration
+    * Information We Collect Automatically
+  2. COOKIES AND OTHER TRACKING TECHNOLOGY
+    * Cookies Information
+    * Canvas and Browser Fingerprinting
+    * Log File Information or Log Data
+    * Clear Gifs Information
+    * Site Analytics
+    * Links
+    * Third Party Ad Networks
+  3. INFORMATION SHARING AND DISCLOSURE
+  4. HOW WE PROTECT YOUR INFORMATION
+  5. MODIFYING YOUR PERSONAL INFORMATION
+  6. YOUR CALIFORNIA PRIVACY RIGHTS
+  7. OUR POLICY TOWARDS CHILDREN
+  8. CHANGES TO THIS POLICY
+
+
+
+This Privacy Policy applies to our family of websites (the "Site(s)"). These include subscriptions.digitaljuice.com, gear.digitaljuice.com and any other site displaying this Policy that allows consumers to purchase memberships for the monthly delivery of products offered or made available through the Sites ("Membership(s)").
+
+By using our Sites and/or purchasing a Membership you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize DJ to use your information in the United States and any other country where DJ operates as described herein. Accordingly, please be sure to read this Privacy Policy before using the Services or submitting information to us.
+
+This Privacy Policy may change from time to time and your continued use of the Services constitutes acceptance of such changes, so please check this Privacy Policy periodically for updates. This Privacy Policy is incorporated by reference into the Digital Juice Terms of Service (and in the event of any inconsistency between the Terms of Use and this Privacy Policy, this Privacy Policy shall govern). If you have any questions or comments about this Privacy Policy, please contact us at [customerservice@digitaljuice.com](mailto:customerservice@digitaljuice.com)
+
+1\. INFORMATION COLLECTION AND USE
+
+The information we collect from you enables us to fulfill your Membership and other requests; send you information or content we believe may be of interest to you; and keep you abreast of any updates related to our Site and your Membership. We also use this information to personalize and continually improve our Site, your experience, and ultimately serve you better.
+
+Information Collected Upon Registration: You may browse our Site without registering. However, if you would like to place an order, become a member, download content, and/or request information from us, then you must complete the account registration process and become a member on our Sites. Whenever you create, register, or edit your DJ account, you provide some basic personal information, such as your name, email address, and password. In order to download content, you must provide us with your credit card, debit card, or other type of acceptable payment information along with your billing address information. While you are free to choose not to provide this information, without it, we cannot provide you with any of our products and Services, or complete your Membership. Please safeguard your password and all personal information to avoid the risk of your private information being used by others without your consent, and any potential liability for the unauthorized use of our Sites or your account.
+
+Information We Collect Automatically: When you visit the Sites and/or register for Membership, we may also collect certain additional information by automated means, such as cookies, web beacons, and other automated devices. A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon" (also known as an Internet tag, pixel tag or clear GIF) is used to transmit information back to a web server.
+
+We and/or our third party service partners may employ automated Canvas fingerprinting and other browser-fingerprinting techniques that extract and analyze information about your browser, operating system, and installed graphics hardware in conjunction with other user information (e.g. time-zone, language preference, etc.) to help verify your unique identity for fraud prevention purposes and to improve our Site and Services. By using our Site and Services, you consent to the use of these browser-fingerprinting technologies. See below for more information on Canvas fingerprinting and ways to detect or block it. We may also use third-party website analytics tools (such as Mouseflow, Google Analytics, and Facebook Insights) that collect information about visitor traffic on the Sites that help us continue to improve the Site, performance and user experiences.
+
+The information we may collect by such automated means includes:
+
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, domain name and operating system type)
+  * URLs that refer visitors to our Sites
+  * Dates and times of visits to our Sites
+  * Information on actions taken on our Sites (such as page views and site navigation patterns)
+  * A general geographic location (such as country and city) from which a visitor accesses our Sites
+  * Search terms that visitors use to reach our Sites and the webpage that led you to the Sites
+
+
+
+2\. COOKIES AND OTHER TRACKING TECHNOLOGY
+
+Cookies Information: Cookies are small pieces of information that are issued to your computer when you visit a website and which store and sometimes track information about your use of the Service. DJ uses cookies to help recognize you as a repeat visitor, to improve the quality of our Service, and to try and make your browsing experience meaningful. When you enter our Sites, our web server sends a cookie to your computer that allows us to recognize your computer, but not the identity of the particular user. By associating the identification numbers in the cookies with other customer information when, for example, you login to the Service, we know that the cookie information relates to you.
+
+Some of the cookies used by our Service are served by us, and some are served by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser settings to prevent cookies, or notify you each time a cookie is sent. You can also learn more about cookies by visiting www.allaboutcookies.org, which includes additional useful information on cookies and how to block them using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service.
+
+Canvas and Browser Fingerprinting:As noted, we and/or our third party service partners may use Canvas fingerprinting and other browser-fingerprinting techniques for fraud prevention purposes and to improve the quality of our Site and Services. Canvas Fingerprinting takes advantage of the built-in features of HTML5 Canvas to draw a picture (unseen to you) in your browser. The results of the drawing differ based on a number of factors (such as your web browser version, operating system and its specific settings, and installed graphics hardware), and the Canvas object returned by HTML5 therefore helps to distinguish you from other users on the Internet and helps us to confirm your unique identity. There are several script-blocking browser extensions available for free download that block Canvas fingerprinting techniques, including the Privacy Badger web browser extension for Google Chrome and Mozilla Firefox (available for free download via the Electronic Frontiers Foundation website). You may also choose to disable JavaScript. Choosing either of these options may impair your ability to access the full functionality of our Site, however.
+
+Log File Information or Log Data: Our servers automatically record information ("Log Data") created by your use of the Site or our Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, interact with our email notifications, or visit a third-party website that includes a DJ button or widget. DJ uses Log Data to provide our Services and to measure, customize, and improve them. We periodically delete all Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months, if not earlier.
+
+Clear Gifs Information: When you use the Service, we may employ clear gifs (a.k.a. Web Beacons), which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your DJ account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make DJ better for our users.
+
+Site Analytics: As noted, we may use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Site. We use these tools to help us improve our Site, performance and user experiences.
+
+Links: DJ may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.
+
+Third-Party Ad Networks: We may use third parties such as network advertisers to serve advertisements on our Sites. We may display advertisements on our Sites, participate in third party ad networks and make specific offers from third-party companies available to users through our Sites. Some of the advertisements you see on the Sites are delivered by third parties who also collect information about your online activities, either on our Sites or across the Internet, through the use of 
+
+_cookies, web beacons, browser fingerprinting, and other technologies_
+
+in an effort to understand your interests and deliver you advertisements that are tailored to those interests. These third parties include advertisers, advertising agencies, and ad networks that may collect information when you view or interact with one of their advertisements. Third parties that currently collect information on our Sites for the purpose of serving you with advertising tailored to your interests include, but are not limited to 
+
+_Atlas_
+
+, 
+
+_BlueKai_
+
+, 
+
+_DoubleClick_
+
+, 
+
+_EyeWonder_
+
+, 
+
+_Google_
+
+, 
+
+_Mediamind_
+
+, 
+
+_Audience Science_
+
+and 
+
+_Pointroll_
+
+. These companies may offer you a way to choose not to have your information used for advertising purposes. You can find more information by clicking on the company names above and following the links to each company's web site.
+
+In addition, some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the 
+
+_NAI consumer opt out page_
+
+. Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different websites. To learn more and make choices about interest-based ads from participating third parties, please visit the 
+
+_DAA consumer opt out page_
+
+. In the UK, the Internet Advertising Bureau ("IAB UK") has developed 
+
+_Good Practice Principles for Online Behavioural Targeting_
+
+. More information and an opt-out page to manage online behavioral advertising preferences with IAB UK member companies are available at [YourOnlineChoices.com](http://youronlinechoices.com/). Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Sites, but these advertisements may not be as relevant to you.
+
+Digital Juice does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and this Privacy Policy does not cover the information practices of such third parties. DJ does work with third parties to help us track the ads that are delivered to you, in particular to control the number of times you receive the same ad, and to analyze the effectiveness of advertising on the Sites.
+
+3\. INFORMATION SHARING AND DISCLOSURE
+
+We do not disclose your private personal information except in the limited circumstances described here.
+
+Your Consent: We may share or disclose your information at your direction, such as when you authorize a third-party web client or application as login credentials when you register for Membership.
+
+Service Providers: We engage service providers to perform functions and provide services to us in the United States and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
+
+Law and Harm: Notwithstanding anything to the contrary in this Privacy Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect DJ's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information.
+
+Business Transfers: In the event that DJ is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+
+4\. HOW WE PROTECT YOUR INFORMATION
+
+We are committed to protecting the information we receive from you. We employ reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, SSL, firewalls, and internal restrictions on who may access data to protect our Site and the information we collect from loss, misuse, unauthorized access, disclosure, alteration, and destruction. The Sites encrypt your credit card number, debit card number, or other payment and personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your personal computer to our servers. In addition, only those employees and third parties who absolutely need access to your information in order to perform their duties are allowed such access. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a password that nobody else knows or can easily guess, and keeping your password private. Also, you should never share your login information with others. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+
+5\. MODIFYING YOUR PERSONAL INFORMATION
+
+You may modify any personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time.
+
+You may also cancel your DJ account at any time. Just login to your account and go to "Membership Settings", then "Other Options", and select "I want to cancel my membership." We will try to cancel your account as soon as possible, but it may take up to fourteen (14) business days for our systems to completely implement the cancellation so that you may continue to receive some correspondence from us during that time.
+
+6\. YOUR CALIFORNIA PRIVACY RIGHTS
+
+California Civil Code Section 1798.83 permits California residents to request from companies conducting business in California a list of third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Consistent with that section, California residents may request a list of third parties to which we have disclosed personally identifiable information about you for direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: corporate@digtialjuice.com. Please allow up to thirty (30) days for a response.
+
+7\. OUR POLICY TOWARDS CHILDREN
+
+Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [corporate@digitaljuice.com](mailto:corporate@digitaljuice.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. You can find additional resources for parents and teens at [www.connectsafely.org](http://www.connectsafely.org/).
+
+8\. CHANGES TO THIS POLICY
+
+We may revise this Privacy Policy from time to time. The most current version will govern our use of your information and will always be available for your review at [www.digitaljuice.com/privacy-policy](http://www.digitaljuice.com/EverythingChanges/PrivacyPolicy). If we make any change to this Privacy Policy that we in our sole discretion deem material, we will notify you via email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
