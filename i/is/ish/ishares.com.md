@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623202904id_/https%3A//www.ishares.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112120512id_/https%3A//www.ishares.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@ BlackRock recognizes the importance of protecting your personal and financial in
 
 We are committed to:
 
-(a) protecting the personal information you provide to us;
+  * protecting the personal information you provide to us;
+  * telling you how we use the information we gather about you; and
+  * ensuring that you know why we intend to disclose your personal information.
 
-(b) telling you how we use the information we gather about you; and
 
-(c) ensuring that you know why we intend to disclose your personal information.
 
 ## Changes to this Privacy Policy
 
@@ -18,45 +18,46 @@ This Privacy Policy is dated 24 May 2012. BlackRock reserves the right to amend 
 
 ## Information Collection and Use
 
-### Personally Identifiable Information:
+**Personally Identifiable Information**
 
 The personally identifiable information you submit to our Websites is used to service your account, to improve our services to you and/or to provide you with information on BlackRock products and services. The types of personal information that may be collected at our Websites include: name, address, email address and telephone number. We will not sell, share or rent your personally identifiable information to others in contravention of this Privacy Policy.
 
 Additionally, if the Website is a password protected site, then (a) once you submit your password and enter, the Website will recognize who you are and will collect all information that you submit, including all electronic instructions (including all transaction information), and (b) any information collected about you from the Website may be associated with other identifying information that we have about you.
 
-### Aggregate Information:
+**Aggregate Information**
 
 We generally record certain usage information, such as the number and frequency of visitors to our Websites. This information may include the websites that you access immediately before and after your visit to our Websites, the Internet browser you are using and your IP address. If we use such data at all it will be on an aggregate basis, and we will not disclose to third parties any information that could be used to identify you personally.
 
-### Service Providers
+**Service Providers**
 
 We may use internal service providers to operate our Websites and employ other persons to perform work on our behalf, such as sending postal mail and e-mail. These persons may have access to the personally identifiable information you submit through the Websites, but only for the purpose of performing their duties. These personnel may not use your personally identifiable information for any other purpose.
 
-### Compliance with Laws
+**Compliance with Laws**
 
 We do not automatically collect personally identifiable information from visitors to our Websites, except to the extent we are required to do so pursuant to some statute or regulation applicable to us. We will not provide any personally identifiable information to any other persons, except if we are required to make disclosures by any law, any government or private parties in connection with a lawsuit, subpoena, investigation or similar proceeding.
 
-### E-mail and Marketing
+**E-mail and Marketing**
 
 BlackRock does not sell its customers' e-mail addresses, nor will we provide your personal information to third parties for their marketing purposes. BlackRock will not send you e-mail messages without first receiving your permission, unless it relates to servicing your account or unless you have consented to receiving electronic delivery of fund documents as part of our E-Delivery service. It is our policy to include instructions for unsubscribing from these permission-based programs. We recommend that you do not send us any individual personal information via non secure methods of correspondence, including via public electronic communication channels, such as Internet e-mail, which are generally not secure.
 
-### Business Transfers
+**Business Transfers**
 
 If the business, stock or assets of BlackRock are acquired or merged with another business entity, we will share all or some of your information with this entity to continue to provide our service to you. You will receive notice of such an event and the new entity will inform you of any changes to the practices in this Privacy Policy. If the new entity wishes to make additional use of your information, you may decline such use at such time.
 
-### Disclosure to Third Parties
+**Disclosure to Third Parties**
 
 The personal information you provide to us will only be disclosed to third parties if we have your permission, or as set out in this Privacy Policy. We may disclose details about the general use of our Websites to third parties – for example, to demonstrate patterns of use to advertisers and other business partners. Information we pass on for this purpose will not include any personal information by which you may be identified. We endeavor to prevent unauthorized disclosures of your personal information by third parties but we are not responsible for any unauthorized disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anyone other than us or our group companies.
 
 ## Cookies
 
-### What are Cookies?
+**What are Cookies?**
 
 Cookies are small text files that are stored in your computer’s memory and hard drive when you visit certain web pages. They are used to enable websites to function or to provide information to the owners of a website.
 
-### Why Do We Use Cookies?
+**Why Do We Use Cookies?**
 
-Cookies help us to provide customized services and information. We use cookies on all our Websites to tell us, in general terms, how and when pages in our Websites are visited, what our users’ technology preferences are – such as what type of video player they use – and whether our Websites are functioning properly.  
+Cookies help us to provide customized services and information. We use cookies on all our Websites to tell us, in general terms, how and when pages in our Websites are visited, what our users’ technology preferences are – such as what type of video player they use – and whether our Websites are functioning properly.
+
 If you are using one of our password-protected sites, then the website may use cookies or other technology to help us authenticate you, store and recognize your configuration and user attributes, facilitate your navigation of the website and customize its content so that the information made available is likely to be of more interest to you.
 
 In broad terms, we use cookies on our Websites for the following purposes:
@@ -69,27 +70,27 @@ In broad terms, we use cookies on our Websites for the following purposes:
 
 
 
-### Your Cookie Preferences
+**Your Cookie Preferences**
 
 To make full use of Blackrock’s Websites, your computer or mobile device will need to accept cookies, as our sites will not function properly without them. In addition, cookies are required in order to provide you with personalized features on our Websites.
 
-### Local Flash Storage
+**Local Flash Storage**
 
 On certain of our Websites, we include content designed for display using Adobe Flash Player, such as animations, videos and tools. Local flash storage (often referred to as “Flash cookies”) can be used to help improve your experience as a user. Flash storage is retained on your device in much the same way as standard cookies, but is managed directly by your Flash software.
 
 If you wish to disable or delete information stored locally in Flash, please see the documentation for your Flash software, located at www.adobe.com. Please note that, if you disable Flash cookies, some site functionality may not work.
 
-### Third Party Cookies
+**Third Party Cookies**
 
 When you visit our Websites, you may receive cookies that are set by third parties. These may include cookies set by Google, Unica, Forsee, Wall Street on Demand, Morningstar, Media Mind and/or Flurry. These cookies are used for the purposes described in the “Why Do We Use Cookies?” section of this policy. We do not control the setting of these third party cookies, so we suggest you might wish to check the third party websites for more information about their use of cookies and how to manage them.
 
-### Amending Cookie Preferences
+**Amending Cookie Preferences**
 
 If you wish to remove cookies set by our Websites from your browser in the future, you may delete them. The instructions for removing cookies from your computer or mobile device depend on the operating system and web browser you use. Please note, however, that withdrawing your agreement to the use of cookies on our sites will impair the functionality of the sites.
 
 The site www.allaboutcookies.org includes instructions for managing cookies on many commonly used browses, or you may consult the vendor documentation for your specific software.
 
-### Further Information About Cookies
+**Further Information About Cookies**
 
 If you would like to find out more about cookies in general and how to manage them, please visit www.allaboutcookies.org.
 
