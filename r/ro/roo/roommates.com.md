@@ -1,62 +1,106 @@
-> *The following text is extracted and transformed from the roommates.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616221153id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roommates.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113004712id_/http%3A//www.roommates.com/privacy.rs) for the most accurate reproduction.*
 
 # Roommates.com - Privacy Statement
 
-INFORMATION COLLECTION AND USE
+**ROOMMATES.COM PRIVACY POLICY**
 
-Roommate.com, LLC (the owner of Roommates.com) is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
+At Roommates.com, LLC (referred to as “Company,” “us” or “we”), we recognize that your privacy is important. This Policy discloses the privacy practices for the Company’s family of Websites (collectively, the “Site”), as well as related products and services we may offer to you (collectively referred to as the “Services”). This Policy also covers how personal and other information that we receive or collect about you is treated. Please read the information below to learn the following regarding your use of this Site.
 
-REGISTRATION 
+You acknowledge that this Privacy Policy is designed to be read in connection with the Site Terms of Use, which is available at <http://www.roommates.com/terms>, and that by accessing or using our Site, you agree to be bound by the Site’s Terms of Use, as well as this Policy.
 
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. 
+We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by placing a notice on our site and by updating any privacy information on this page. Your continued use of the Site and or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) your agreement to abide and be bound by that Policy.
 
-ORDER 
+This Privacy Policy was last updated on October 17, 2016.
 
-We request information from the user on our order form. Here a user must provide contact information and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+If you have any questions about this Policy, please feel free to contact us at support@roommates.com.
 
-COOKIES 
+IMPORTANT: BY USING THE SITE AND/OR OFFERINGS AVAILABLE ON THIS SITE, YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT USE THE SITE.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.
+1\. Types of Information We Collect
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+In order to better provide you with the functionality of the Roommmates.com website, we collect two types of information about our users: Personally Identifiable Information (“PII”) and Aggregate Information.
 
-LOG FILES 
+Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this Site, such as registering for an account, submitting content or posting content on the Site, or sending us feedback, we may ask you to provide certain information about yourself.
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+Examples of PII may include your first and last name, email address, mailing address (including zip code), telephone and facsimile numbers, and other identifying information. When ordering products or services on the Site, you may be asked to provide a credit card number.
 
-LINKS 
+Aggregate Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our Site and what other sites may have directed you to us. This information, which is collected in a variety of different ways, is compiled and analyzed on both a personal and an aggregated basis. This information may include the Website’s Uniform Resource Locator (“URL”) that points to the site you just came from, which URL you go to after visiting our Site, what browser you are using, and your Internet Protocol (“IP”) address.
 
-This web site contains links to other sites. Please be aware that we Roommates.com are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+2\. How We Collect and Use Information
 
-NEWSLETTER 
+We do not collect any PII about you unless you voluntarily provide it to us. However, you may be required to provide certain PII to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) sending us an email message; (c) submitting a form or transmitting other information by telephone or letter; or (d) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. When processing certain information, such as payment information with affiliated banking institutions or payment processors, we encrypt the transaction, using Secure Socket Layer (SSL) encryption technology, in order to prevent your PII from being stolen or intercepted. Additionally, your credit card information is never stored on our servers.
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+We will primarily use your PII to provide product or service offerings to you. We will also use certain forms of PII to enhance the operation of our Site, improve our marketing and promotional efforts, statistically analyze Site use, improve our product and service offerings, and customize our Site’s content, layout, and services. We pay use PII to engage in remarketing, both using our internal systems or with third-party service providers. We may use PII to deliver information to you and to contact you regarding administrative notices. Finally, we may use your PII to resolve disputes, troubleshoot problems, and enforce our agreements with you, including our Site Terms of Use, and this Privacy Policy.
 
-SECURITY 
+We may also collect, or our third party advertising partners may collect, certain Aggregate Information. For example, we may use your IP address to diagnose problems with our servers, software, to administer our Site and to gather demographic information. Our third party advertising partners may also provide us with aggregate and individual reports that will tell us how many ads were presented and clicked upon at out Site.
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+3\. Cookies
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
+Depending on how you use our Site, we will store cookies on your computer in order to collect certain aggregate data about our users and to customize certain aspects of your specific user experience. A cookie is a small data-text file which is stored on your computer that uniquely identifies your browser. Cookies may also include more personalized information, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and your first name to welcome you back to our Site. We may use cookies to perform tasks such as: monitoring aggregate site usage metrics, storing and remembering your passwords (if you allow us to do so), storing account and advertising preferences that you have set, and personalizing the Services we make available to you.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
+We may also use an outside advertising partner to display banner advertisements on our Site. As part of their service, they will place a separate cookie on your computer. We and our third party ad server will collect and use Aggregate Information about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular ad. Other advertisers may also place banner ads on our Site in the same manner as above.
 
-If you have any questions about the security at our website, you can send an email to [Customer Service](https://web.archive.org/web/20160616221153id_/http%3A//www.roommates.com/contact.rs). 
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some aspects of the Site may not function properly if you elect to disable cookies.
 
-SITE AND SERVICE UPDATES 
+Roommates.com uses the Google Analytics Advertising Features which includes AdWords remarketing services and DoubleClick Platform integrations to advertise on third party websites to visitors of the Roommates.com website. Third-party vendors, including Google, use cookies to provide advertisements based on a user's past visits to various websites, including our website. This remarketing can be seen in the form of advertisements on Google search result pages and other sites in the Google Display Network. Any data collected will be used in accordance with our privacy policy and Google's privacy policy. To opt-out of remarketing through Google's use of cookies, by changing your preferences in your Google Ad Settings, click on the following link: <http://www.google.com/settings/ads>. To opt-out of third-party vendor's use of cookies for remarketing (also known as interest-based advertising) visit the Network Advertising Initiative Opt-Out page link: <http://www.networkadvertising.org/managing/opt_out.asp>. You may also opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). To review additional Google Analytic opt-out options, click on the following link: [Google Analytics' Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout/).
 
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+4\. Release of Information
 
-CORRECTION / UPDATING PERSONAL INFORMATION
+We will not sell, trade, or rent your PII to others. We do provide some of our product and service offerings through contractual arrangements made with affiliates, service providers, partners, and other third parties (“Service Partners”). We and our Service Partners may need to use some PII in order to perform tasks between our respective sites, or to deliver products or services to you. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this Site; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service.
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing [Customer Service](https://web.archive.org/web/20160616221153id_/http%3A//www.roommates.com/contact.rs). 
+We will encourage our Service Partners to adopt and promote strong privacy policies. However, the use of your PII by our Service Partners is governed the respective privacy policies of those providers, and is not subject to our control. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other Sites accessible through this Site, including our Advertising and Service Partners, have their own privacy policies and data collection, use and disclosure practices. Please consult each Site’s privacy policy. We are not responsible for the policies or practices of third parties.
 
-NOTIFICATION OF CHANGES 
+Occasionally we may be required by law enforcement or judicial authorities to provide PII to the appropriate governmental authorities. In such cases, we will disclose PII upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+We may also provide Aggregate Information about our customers’ sales, traffic patterns, and related Site information to third party advertisers.
 
-GOOGLE ANALYTICS / ADWORDS
+5\. Updating and Correcting Information
 
-Roommates.com uses the Google Analytics Advertising Features which includes AdWords remarketing services and DoubleClick Platform integrations to advertise on third party websites to visitors of the Roommates.com website. Third-party vendors, including Google, use cookies to provide advertisements based on a user's past visits to various websites, including our website. This remarketing can be seen in the form of advertisements on Google search result pages and other sites in the Google Display Network. Any data collected will be used in accordance with our privacy policy and Google's privacy policy. To opt-out of remarketing through Google's use of cookies, by changing your preferences in your Google Ad Settings, click on the following link: [Google Ads Settings](http://www.google.com/settings/ads). To opt-out of third-party vendor's use of cookies for remarketing (also known as interest-based advertising) visit the Network Advertising Initiative Opt-Out page link: [Network Advertising Initiative Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp). You may also opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). To review additional Google Analytic opt out options, click on the following link: [Google Analytics' Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout/).
+We believe you should have the ability to access and edit the PII that you have provided to us. You may change any of your PII in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this Site. You may also access and correct your personal information and privacy preferences by emailing or writing us at:
 
-  
+Roommates.com  
+10115 E. Bell Rd  
+Ste 107 PMB 195  
+Scottsdale, AZ 85260  
+Attn: Privacy Compliance Officer  
+Email: support@roommates.com
 
+Please include your name, address, or email address when you contact us.
+
+We encourage you to promptly update your PII if it changes. You may ask to have the information on your account deleted or removed; however, some information, such as past transactions, logs of technical support calls, or other information may not be deleted. In addition, it may be impossible to completely delete your information without some residual information because of backups.
+
+6\. User Choices on Collection and Use of Information
+
+We may, from time to time, send you email regarding new products and services that we feel may interest you. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally call or send you direct mail about products and services that may be of interest to you. Only Company (or agents working on behalf of Company and under confidentiality agreements) will send you these solicitations, and only if you have previously indicated that you wish to receive them. If you do not want to receive solicitations from us, you can “opt-out” by accessing your account online editing your account information to no longer receive such offers and mailings.
+
+You also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case.
+
+7\. Security of Your PII
+
+At our Site you can be assured that your PII is secure, consistent with current industry standards. We strive to take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of your PII. For example:
+
+  * We work hard to ensure that the data we collect is reliable, accurate, complete, and current. We keep collected information indefinitely and use it pursuant to the Site’s Terms of Use and Privacy Policy or to comply with any applicable legal or ethical reporting or document retention requirements.
+  * We limit access to PII only to specific employees, contractors, and agents who have a reasonable need to come into contact with your information. For example, we may provide members of our technical support team with limited access to your account in order to allow them to troubleshoot problems you may be having with the Site.
+  * Additionally, we also employ a number of physical, electronic, and procedural safeguards to protect PII. Our secure servers and our data centers are protected by industry-standard encryption, and our servers reside behind firewalls and employ high-level password protection.
+  * Finally, access by you to your PII is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone.
+
+
+
+In order to most effectively serve you, credit card transactions and order fulfillment are handled by established third party banking institutions and processing agents (such as PayPal). They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your PII, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
+
+8\. Miscellaneous
+
+You must be at least 18 years old to have our permission to use this Site. Our policy is that we do not knowingly collect, use, or disclose PII about minor visitors.
+
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, email address, etc.) in the public areas on this Site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages (including unwanted spam messages) from third parties. Such activities are beyond our control and this Policy does not apply to such information. Please consult our Site Terms of Use Agreement for our Site Conduct policies at <http://www.roommates.com/terms>. In the event of a conflict between this Privacy Policy and the Terms of Use, the Terms of Use are controlling.
+
+If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us at support@roommates.com. You can also reach our Privacy Compliance Officer by sending written correspondence to:
+
+Roommates.com
+
+Attn: Privacy Compliance Officer  
+10115 E. Bell Rd  
+Ste 107 PMB 195  
+Scottsdale, AZ 85260
