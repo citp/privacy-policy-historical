@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the toolorbit.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623024311id_/http%3A//www.toolorbit.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolorbit.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112025915id_/http%3A//www.toolorbit.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ToolOrbit.com
 
-  
 Thank you for visiting our web site. ToolOrbit.com values the relationship we have with our customers and we are committed to responsible information handling practices. Your privacy on the Internet is important to us. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted. 
 
 **Collection of Information:**
