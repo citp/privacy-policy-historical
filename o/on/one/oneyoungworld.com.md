@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oneyoungworld.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514090043id_/http%3A//www.oneyoungworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneyoungworld.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112122159id_/https%3A//www.oneyoungworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | One Young World
 
-This policy sets out the basis on which we will process your personal data. For the purpose of the Data Protection Act 1998 ("the Act") the data controller is One Young World of 25 Nutford Place, London, W1H 5YQ. Our nominated representative for the purpose of the Act is Eamon Taylor at One Young World.
+This policy sets out the basis on which we will process your personal data. For the purpose of the Data Protection Act 1998 ("the Act") the data controller is One Young World of 25 Nutford Place, London, W1H 5YQ. Our nominated representative for the purpose of the Act is Anais Nee at One Young World.
 
 **Information held about you**
 
@@ -20,9 +20,9 @@ We use information held about you in the following ways:
 \- to assess your eligibility for and, if eligible, to provide you with information, products or services that you request from us;  
 \- to allow you to participate in current and future interactive features of our service where you choose to do so;  
 \- to notify you about changes to our service;  
-\- we may provide other companies, such as suppliers, potential suppliers, clients and potential clients of Havas Worldwide UK and associated companies details about our participants’ activities, but we will not provide them with any information which can be used to identify any individual participant;  
+\- we may provide other companies, such as suppliers, potential suppliers, clients about our participants’ activities, but we will not provide them with any information which can be used to identify any individual participant;  
 \- We may also use your data or permit selected third parties to use your data to provide you with information by post, email fax or text message about goods and services which may be of interest to you.  
-If you would like details of what information we hold in relation to your use of this website please send an email to [info@oneyoungworld.com](mailto:info@oneyoungworld.com) or write to us at the above address.  
+If you would like details of what information we hold in relation to your use of this website please send an email to [info@oneyoungworld.com](mailto:info@oneyoungworld.com) or write to us at the following address: One Young World 25 Nutford Place, Office 102, London, W1H 5YQ  
 You may also refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain current or future parts of our website.
 
   
