@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgraphicdesign.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401021617id_/http%3A//www.allgraphicdesign.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgraphicdesign.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112185235id_/http%3A//www.allgraphicdesign.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AllGraphicDesign.com's Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-**LAST UPDATED:   **March 2, 2016
+**LAST UPDATED:   **May 2, 2016
 
 This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, “QuinStreet”). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the “QuinStreet Businesses”), please see the section entitled “QuinStreet Businesses” below.
 
