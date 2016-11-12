@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dmarcian.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325192306id_/https%3A//dmarcian.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dmarcian.com privacy policy that was archived on 2016-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161112104523id_/https%3A//dmarcian.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js"><head>
+<!DOCTYPE html><html lang="en"><head>
 
 
 
@@ -23,23 +23,35 @@
  <meta name="msapplication-TileColor" content="#ffffff">
  <meta name="msapplication-TileImage" content="/static/ms-icon-144x144.png">
  <meta name="theme-color" content="#ffffff">
+
+
+<meta property="og:image" content="https://dmarcian.com/static/images/dmimages/d_transparent.png">
+<meta property="og:description" content="dmarcian provides tools, support, and advocacy to continue growing DMARC within the email ecosystem.">
+ 
+
+
+
+
+<!-- more tags for conl --> 
+ 
  <link rel="stylesheet" href="/static/css/reset.css" type="text/css">
- <link type="text/css" href="/static/css/ui-lightness/jquery-ui-1.10.4.min.css" rel="Stylesheet">	
+<link type="text/css" href="/static/css/jquery-ui.min.css" rel="Stylesheet">
+<link type="text/css" href="/static/css/jquery-ui.theme.min.css" rel="Stylesheet">
  <link rel="stylesheet" type="text/css" href="/static/css/jquery.qtip.min.css">
  <!-- local stylesheets --> 
- <link rel="stylesheet" type="text/css" href="/static/css/style.css?v=19" media="screen">
+ <link rel="stylesheet" type="text/css" href="/static/css/style.css?v=4" media="screen">
  <!-- stying color -->
  <link rel="stylesheet" href="/static/css/colors/green.css">
  <!-- google font --> 
  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,800,700italic,700,600italic,600,400italic,300italic,300|Roboto:100,300,400,500,700&amp;subset=latin,latin-ext" type="text/css">
- <link rel="stylesheet" href="/static/css/font-awesome/css/font-awesome.min.css?v=3">
+ <link rel="stylesheet" href="/static/css/font-awesome/css/font-awesome.min.css?v=4">
  <!-- responsive devices styles -->
- <link rel="stylesheet" media="screen" href="/static/css/responsive-leyouts.css" type="text/css">
+ <!-- <link rel="stylesheet" media="screen" href="/static/css/responsive-leyouts.css" type="text/css" /> -->
  <!-- sticky menu -->
- <link rel="stylesheet" href="/static/js/sticky-menu/core.css">
+ <!-- <link rel="stylesheet" href="/static/js/sticky-menu/core.css"> -->
  <!-- REVOLUTION SLIDER -->
- <link rel="stylesheet" type="text/css" href="/static/js/revolutionslider/css/fullwidth.css" media="screen">
- <link rel="stylesheet" type="text/css" href="/static/js/revolutionslider/rs-plugin/css/settings.css" media="screen">
+<!--  <link rel="stylesheet" type="text/css" href="/static/js/revolutionslider/css/fullwidth.css" media="screen" />
+ <link rel="stylesheet" type="text/css" href="/static/js/revolutionslider/rs-plugin/css/settings.css" media="screen" /> -->
  <!-- jquery jcarousel -->
 
  <link rel="stylesheet" type="text/css" href="/static/js/jcarousel/skin.css">
@@ -49,20 +61,204 @@
  <!-- tabs css -->
 <!-- <link rel="stylesheet" type="text/css" href="/static/js/tabs/tabs.css" /> -->
  <!-- testimonials -->
- <link rel="stylesheet" href="/static/css/testimonials/fadeeffect.css" type="text/css" media="all">
- <!-- <script type="text/javascript" src="js/new/testimonials/quotes.js"> </script> --> 
+ <!-- <link rel="stylesheet" href="/static/css/testimonials/fadeeffect.css" type="text/css" media="all"> -->
  <!-- lightbox stuff -->
  <link rel="stylesheet" href="/static/css/lightbox.css" media="screen">
-<!-- <link type="text/css" href="/static/css/smoothness/jquery-ui-1.9.2.custom.min.css" rel="Stylesheet" />	 -->
 
- <script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/8nxa6whgbe/analytics.min.js"></script><script type="text/javascript" src="/static/js/jquery-1.10.2.js"></script>
- <script type="text/javascript" src="/static/js/jquery-ui-1.10.4.min.js"></script>
+ <script src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/js/jquery-1.12.2.min.js"></script>
+ <script type="text/javascript" src="/static/js/jquery-ui.min.js"></script>
  <script type="text/javascript" src="/static/js/jquery.qtip.min.js"></script>
 
  <style>
-    .ui-menu { width: 100px; font-size:1em;}
+
+/*Create a horizontal list with spacing*/
+
+header li {
+  display:inline-block;
+  float: right;
+  margin-right: 1px;
+  min-width:100px;
+  width:120px;
+  font-weight:500;
+  font-size:1.1em;
+  font-weight:600;
+
+}
+.faq  { width:60px;min-width:40px;}
+
+.faq li {float:right;}
+.faq li a {text-align:right;}
+
+/*Style for menu links*/
+header li a {
+  display:block;
+  border-radius:2px;
+  position:relative;
+  text-align: center;
+  line-height: 50px;
+
+  color: #000;
+  /*background: #2f3036;*/
+  text-decoration: none;
+}
+
+/*Hover state for top level links*/
+header li:hover a {
+  background: #23B049;
+  color:#FFF;
+}
+
+/*Style for dropdown links*/
+header li:hover ul a {
+  background: #23B049;
+
+  /*color: #2f3036;*/
+  height: 40px;
+  line-height: 40px;
+}
+
+/*Hover state for dropdown links*/
+header li:hover ul a:hover {
+  background: #fff;
+  color: #23B049;
+  border-right: 1px solid;
+  border-left:1px solid;
+}
+
+/*Hide dropdown links until they are needed*/
+header li ul {
+  display: none;
+  background: #23B049;
+
+  /*width:150px;*/
+}
+
+/*Make dropdown links vertical*/
+header li ul li {
+  display: block;
+  float: none;
+  width:180px;
+  font-size:.9em;
+}
+
+
+header li ul li:first-child{ border-top:1px solid #3EB24F }
+
+header li ul li:last-child{ border-bottom:1px solid #3EB24F }
+
+/*Prevent text wrapping*/
+header li ul li a {
+  width: auto;
+  border-radius:0px;
+  text-align:left;
+
+  padding: 0 10px;
+}
+
+/*Display the dropdown on hover*/
+header ul li a:hover + .hidden, .hidden:hover {
+  display: block;
+}
+
+/*Style 'show menu' label button and hide it by default*/
+header .show-menu {
+
+  text-decoration: none;
+  color: #fff;
+  background: #19c589;
+  text-align: center;
+  padding: 10px 0;
+  display: none;
+  width:50%;
+  position:absolute;
+  top:10px;
+  right:0px;
+
+  }
+
+/*Hide checkbox*/
+header input[type=checkbox]{
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+header input[type=checkbox]:checked ~ #menu{
+    display: block;
+}
+
+
+/*Responsive Styles*/
+@media screen and (max-width : 1100px){
+  #notifications_wrapper { width:100px; }
+  #notifications_wrapper .widget_detail{ display:none; }
+header   li { font-size:.9em;width:80px; }
+  }
+
+@media screen and (max-width : 920px){
+  #notifications_wrapper { display:none; }
+
+}
+
+@media screen and (max-width : 780px){
+header li:hover ul a:hover {
+  background: #fff;
+  color: #23B049;
+
+}
+
+.faq { width: 80%; }
+  #nav_logo_container { width:48%;margin-top:5px; }
+  #notifications_wrapper { display:none; }
+header li ul li:first-child{ border-top:none; }
+
+header li ul li:last-child{ border-bottom:none; }
+
+header li:hover ul a {
+  background: #CCFFCC;
+  color:#000;
+}
+  /*Make dropdown links appear inline*/
+header ul {
+    position: static;
+    display: none;
+
+  }
+
+  /*Create vertical spacing*/
+header li {
+    background-color:black;
+    border-bottom: 1px solid;
+    width:80%;
+
+    /*width:150px;*/
+    /*width: 200px;*/
+  }
+  /*Make all menu links full width*/
+header li  ul li, li a {
+    text-align:center;
+    clear:both;
+    background-color:white;
+    width:100%;
+    /*padding-right:50px;*/
+  }
+
+
+header ul li {
+    text-align:center;
+
+    /*padding-right:10px;*/
+  }
+
+/*ul li ul li { padding-right:0px; }*/
+  /*Display 'show menu' link*/
+header  .show-menu {
+    display:block;
+  }
+}
+
+    /*.ui-menu { width: 100px; font-size:1em;}*/
     .account-box { padding: 0.5em 0.5em 0em 0.5em; }
-    #trueHeader { padding:0px; background-color: #fff; background-image:linear-gradient(to bottom, #FFFFFF, #F7F7F7);}
+    /*#trueHeader { padding:0px; background-color: #fff; background-image:linear-gradient(to bottom, #FFFFFF, #F7F7F7);}*/
   </style>
 
 <style>
@@ -73,65 +269,70 @@
 </head>
 
 
-<body style="">
+<body>
  <div class="site_wrapper">
- <header id="header">
-  <!-- Top header bar -->
-  <div id="trueHeader" style="">
-   <div class="wrapper">
-    <div class="container">
-     <div class="one_fourth"><a href="/"><img src="/static/images/dm_logo_at.png" width="95%" height="56px"></a></div>
-     <!-- Menu -->
-     <div class="three_fourth last">
-
-      <nav id="access" class="access" role="navigation">
-       <div id="menu" class="menu">
-        <ul id="tiny">
-
-         <li><a id="menu_get_started" href="/get_started/">Get Started</a></li>
-
-
-         <li><a id="menu_pricing" href="/plans/">Pricing</a></li>
-
-
-         <li class="access_subs"><a id="menu_tools" href="#">Tools<i class="fa fa-angle-down"></i></a>
-          <ul style="display: none; top: 39px; visibility: visible;">
-
-           <li><a href="/domain_lifter/">Domain Lifter</a></li>                      
-
-           <li><a href="/dmarc-inspector/">DMARC Inspector</a></li>
-           <li><a href="/spf-survey/">SPF Surveyor</a></li>
-           <li><a href="/dmarc-xml/">XML-to-Human Converter</a></li>
-           <li><a href="/phisholator/">Phisholator</a></li>
-           <li><a href="/dmarc-status/">DMARC Status</a></li>
-           <li><a href="/more-tools/">Additional Resources</a></li>
-          </ul>
-         </li>
-         <li class="access_subs"><a id="menu_services" href="">Services<i class="fa fa-angle-down"></i></a>
-          <ul style="display: none; top: 39px; visibility: visible;">
-           <li><a href="/dmarc-training/">DMARC Training</a></li>
-           <li><a href="/dmarc-support/">Deployment Support</a></li>
+ <header id="navigation_wrapper">
+    <div id="nav_logo_container">
+      <a href="/"><img src="/static/images/dm_logo_at.png" style="width:95%;max-width:250px;max-height:56px"></a>
+     </div>
+      
+    
+  
+<div style="float:right;width:auto;margin-top:5px;margin-right:10px;height:50px;min-width:475px;">
+  <label for="show-menu" class="show-menu"><i class="fa fa-bars" aria-hidden="true"></i></label>
+  <input type="checkbox" id="show-menu" role="button">
+    <ul id="menu">
+         <li class="faq"><a id="menu_news" href="https://space.dmarcian.com/"><i class="fa fa-question-circle-o" style="font-size:1.6em;" aria-hidden="true"></i></a>
+          <ul class="hidden">
+          <li><a href="https://space.dmarcian.com/">Space Library</a></li>
+          <li><a href="/about/">About</a></li>
           </ul>
          </li>
 
-         <li class="access_subs"><a id="menu_user" href="/login/">Sign In<i class="fa fa-angle-down"></i></a>
-          <ul style="display: none; top: 39px; visibility: visible;">
+
+         <li class="access_subs"><a id="menu_user" href="/login/">Sign In <i class="fa fa-angle-down"></i></a>
+          <ul class="hidden">          
            <li><a href="/login/">Sign In</a></li>
            <li><a href="/accounts/register">Register</a></li>
           </ul>
          </li>       
 
-         <li><a id="menu_news" href="https://space.dmarcian.com/">Space Library</a></li>
-        </ul><select class="selectnav" id="selectnav1"><option value="">--- Navigation --- </option><option value="https://web.archive.org/get_started/">Get Started</option><option value="https://web.archive.org/plans/">Pricing</option><option value="https://web.archive.org/web/20160325192306id_/https://dmarcian.com/privacy/#">Tools</option><option value="https://web.archive.org/domain_lifter/">- Domain Lifter</option><option value="https://web.archive.org/dmarc-inspector/">- DMARC Inspector</option><option value="https://web.archive.org/spf-survey/">- SPF Surveyor</option><option value="https://web.archive.org/dmarc-xml/">- XML-to-Human Converter</option><option value="https://web.archive.org/phisholator/">- Phisholator</option><option value="https://web.archive.org/dmarc-status/">- DMARC Status</option><option value="https://web.archive.org/more-tools/">- Additional Resources</option><option value="https://web.archive.org/web/20160325192306id_/https://dmarcian.com/privacy/" selected="">Services</option><option value="https://web.archive.org/dmarc-training/">- DMARC Training</option><option value="https://web.archive.org/dmarc-support/">- Deployment Support</option><option value="https://web.archive.org/login/">Sign In</option><option value="https://web.archive.org/login/">- Sign In</option><option value="https://web.archive.org/accounts/register">- Register</option><option value="https://space.dmarcian.com/">Space Library</option></select>
-       </div>
-      </nav>
-     </div>
-    </div>
-   </div>
- </div>
-</header>
 
-{}
+         <li class="access_subs"><a id="menu_services" href="">Services <i class="fa fa-angle-down"></i></a>
+          <ul class="hidden">
+           <li><a href="/dmarc-training/">DMARC Training</a></li>
+           <li><a href="/dmarc-support/">Deployment Support</a></li>
+           <li><a href="/asset-management/">Asset Management</a></li>
+          </ul>
+         </li>
+
+      <li><a id="menu_tools" href="#">Tools <i class="fa fa-angle-down"></i></a>
+          <ul class="hidden">
+
+           <li><a href="/domain_lifter/">Domain Lifter</a></li>                      
+
+           <li><a href="/dmarc-inspector/">DMARC Inspector</a></li>
+           <li><a href="/spf-survey/">SPF Surveyor</a></li>
+           <li><a href="/dmarc-xml/">XML Uploader</a></li>
+           <li><a href="/phisholator/">Phisholator</a></li>
+           <li><a href="/dmarc-status/">DMARC Status</a></li>
+           <li><a href="/more-tools/">Additional Resources</a></li>
+          </ul>
+         </li>
+
+         
+   
+    
+         <li><a id="menu_pricing" href="/plans/">Pricing </a></li>
+   
+
+    
+     <li><a id="menu_get_started" href="/get_started/">Get Started</a></li>
+    
+  </ul>
+</div>
+
+</header>
 
 
 <div class="page_title">
@@ -290,7 +491,7 @@ of your information as described in this Privacy Policy.</p>
 
 
 <!-- main menu -->
-<script type="text/javascript" src="/static/js/mainmenu/ddsmoothmenu.js"></script>
+<!-- <script type="text/javascript" src="/static/js/mainmenu/ddsmoothmenu.js"></script> -->
 <!-- <script type="text/javascript" src="/static/js/mainmenu/jquery-1.7.1.min.js"></script> -->
 <script type="text/javascript" src="/static/js/mainmenu/selectnav.js"></script>
 
@@ -298,9 +499,9 @@ of your information as described in this Privacy Policy.</p>
 <script type="text/javascript" src="/static/js/jcarousel/jquery.jcarousel.min.js"></script>
 
 <!-- REVOLUTION SLIDER -->
-<script type="text/javascript" src="/static/js/revolutionslider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<!-- <script type="text/javascript" src="/static/js/revolutionslider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> -->
 
-<script type="text/javascript" src="/static/js/mainmenu/scripts.js"></script>
+<!-- <script type="text/javascript" src="/static/js/mainmenu/scripts.js"></script> -->
 
 <!-- tabs script -->
 <!-- <script type="text/javascript" src="/static/js/tabs/tabs.js"></script> -->
@@ -336,11 +537,31 @@ $(window).load(function(){
 });//]]>  
 </script>
 <script type="text/javascript">
-window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
-window.analytics.load("8nxa6whgbe");
-window.analytics.page('Privacy Policy');
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-80231140-1', 'auto');
+
+
+
+  ga('send', 'pageview');
+
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+  d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+  insertBefore(d,q)}(window,document,'script','_gs');
+
+  _gs('GSN-879902-J');
+  _gs('track', window.location.href, 'Privacy Policy');
+
 
 </script>
+
+
+
 
 
 
