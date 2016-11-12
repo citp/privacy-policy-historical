@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobesurprise.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822201724id_/http%3A//www.kobesurprise.com/t1/pps%3Dkobesurprise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobesurprise.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112143932id_/http%3A//www.kobesurprise.com/t1/pps%3Dkobesurprise/privacy.htm) for the most accurate reproduction.*
 
 # 
 
