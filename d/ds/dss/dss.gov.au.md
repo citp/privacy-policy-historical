@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326042617id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112021435id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Social Services, Australian Government
 
@@ -287,7 +287,7 @@ If you wish to:
 
 please contact the DSS Compliments and Enquiries area using the following contact details:
 
-  * **email:** [DSSfeedback@dss.gov.au](mailto:DSSfeedback@dss.gov.au)
+  * **email:** [complaints@dss.gov.au](mailto:complaints@dss.gov.au)
   * **post:** DSS Feedback, GPO Box 9820, Canberra, ACT, 2600.
 
 
@@ -309,4 +309,4 @@ If you wish to access this Policy in an alternative format (e.g. hard copy) plea
 
 This Policy will be made available free of charge.
 
-Last updated: 10 December 2015 - 2:33pm
+Last updated: 21 April 2016 - 12:14pm
