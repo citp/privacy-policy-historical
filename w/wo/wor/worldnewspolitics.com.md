@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldnewspolitics.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605042854id_/http%3A//www.worldnewspolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnewspolitics.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112232345id_/http%3A//www.worldnewspolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World News Politics
 
-This Privacy Policy governs the manner in which World News Politics collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.worldnewspolitics.com/ website (“Site”).
+This Privacy Policy governs the manner in which World News Politics collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://worldnewspolitics.com/ website (“Site”).
 
 ### Personal identification information
 
@@ -82,6 +82,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](http://www.worldnewspolitics.com/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](http://worldnewspolitics.com/contact-us/).
 
 This document was last updated on April 4th, 2016
