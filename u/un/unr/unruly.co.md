@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unruly.co privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423203510id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unruly.co privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112110350id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
 
 # Unruly Privacy Policy
 
