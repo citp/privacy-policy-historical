@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zepo.in privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409205813id_/https%3A//www.zepo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zepo.in privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112183857id_/https%3A//www.zepo.in/privacy.html) for the most accurate reproduction.*
 
 # Zepo Privacy Policy
 
@@ -130,3 +130,19 @@ Please let us know if the personal information which we hold about you needs to 
 ### Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to support@zepo.in or by post to 8, AGFA Building, 3rd Floor,Near Ambaji Dham Mandir, Bhakti Marg, Off LBS Road, Mulund (west), Mumbai - 400080. 
+
+### Awareness of Grievance Redressal
+
+At Zepo, the users' experience is what we deliberate and focus on. This is why we listen and take the time to know our users and take their concerns seriously. Going skin-deep to analyze and scrutinize, how you would feel from the time you step-in to Zepo till the time you're done, helps us evolve and enhance our services. If a user has found our experience simple and incredible we know we are doing something worthy. However, when a user is concerned or has complaints we do everything we can to fix it and make it right 
+
+### How to reach out to Zepo Support for issues
+
+**Level 1:** You can go to support.zepo.in and submit your query or write to us on support@zepo.in or call us on 09223583358.  
+**Level 2:** If the resolution you received does not meet your expectations, please escalate your concern to Grievance Officer
+
+**Deepesh Kothari (Grievance Officer)**  
+Mobile - 9870339084  
+Zepo Technologies Pvt Ltd.  
+8, AGFA Building, 3rd Floor,  
+Near Ambaji Dham Mandir, Bhakti Marg,  
+Off LBS Road, Mulund (W), Mumbai - 400080
