@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iiftadmissions.net.in privacy policy that was archived on 2016-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160302203352id_/http%3A//iiftadmissions.net.in/ppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiftadmissions.net.in privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112083637id_/http%3A//iiftadmissions.net.in/ppolicy.aspx) for the most accurate reproduction.*
 
 # Indian Institute of Foreign Trade
 
-**PRIVACY POLICY**
+## **PRIVACY POLICY**
 
 **How we protect and store personal information**
 
