@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williampainter.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610200728id_/http%3A//www.williampainter.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williampainter.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112205837id_/http%3A//www.williampainter.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | William Painter Titanium Sunglasses | William Painter
 
@@ -71,9 +71,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [William Painter](http://www.williampainter.com/)  
-[http://www.williampainter.com](http://www.williampainter.com/)  
-5264 Marigot Place San Diego, CA 92124  
-707.227.2388  
+[http://www.williampainter.com](http://www.williampainter.com/)
+
+4603 Mission blvd #217 San Diego, CA 92109
+
+(877) 795-1588   
 info@williampainter.com
 
-This document was last updated on February 11, 2015
+This document was last updated on September 19, 2016
