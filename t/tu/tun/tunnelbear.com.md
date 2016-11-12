@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tunnelbear.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420051431id_/https%3A//www.tunnelbear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunnelbear.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112202355id_/https%3A//www.tunnelbear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TunnelBear
 
-##### September 30th, 2015
+##### July 5th, 2016
 
 This Privacy Policy describes how TunnelBear Inc. (“TunnelBear”) handles your personal information when you use our services (“Services”).
 
@@ -35,7 +35,7 @@ Email address | General communications, purchase receipts and occasional product
 Twitter ID (optional) | Completion of our Twitter promotion  
 Email confirmed | Confirmation that your email address is valid  
 Paid user | Provide paid users with unlimited data  
-Paid user expiry data | Provide paid service until this date  
+Paid user expiry date | Provide paid service until this date  
   
 Example Trade-off: Collecting your last name
 
