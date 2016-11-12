@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502204655id_/https%3A//www.flightglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightglobal.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112024434id_/https%3A//www.flightglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# Flightglobal Privacy Policy | flightglobal.com
+# FlightGlobal Privacy Policy | flightglobal.com
 
 * * *
 
