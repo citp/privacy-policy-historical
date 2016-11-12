@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promdressgown.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315040652id_/http%3A//ukweddingdress.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promdressgown.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112151427id_/http%3A//ukweddingdress.com/security.php) for the most accurate reproduction.*
 
 # maternityclothesdress_security
 
