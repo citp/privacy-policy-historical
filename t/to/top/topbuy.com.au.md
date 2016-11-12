@@ -1,212 +1,123 @@
-> *The following text is extracted and transformed from the topbuy.com.au privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318062512id_/http%3A//www.topbuy.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbuy.com.au privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112154930id_/https%3A//www.topbuy.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
-# Privacy Policy - Cheap Bargains & Discounts Online
+# topbuy.com.au - Privacy
 
-**Privacy Statement**
+Privacy Policy
 
-The Australian Privacy laws have changed. From March 12, 2014 all organisations that collect personal or sensitive data, must do so in accordance with the Australian Privacy Principles as prescribed by the Privacy Amendment (Enhancing Privacy Protection) Act 2012.
+TOPBUY.COM.AU, referred to below as TOPBUY, is an online retailer of consumer goods.
 
-Ozsale Pty Ltd ABN 11 118 610 987 Trading As TopBuy.com.au (hereafter referred to as TopBuy.com.au, TopBuy or TopBuy Australia) as an online retailer is committed to protecting your privacy and will comply with its obligations under the Australian Privacy Principles (APPs) by taking reasonable steps to develop and implement practices and systems that:
+TOPBUY values our relationship with you and the other users of this website. We recognize that you may be concerned about how we collect, hold, use, and disclose your personal information. We have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect and hold this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via privacy@TOPBUY.COM.AU or call 02 8081 0916.
 
-· provide the secure, compliant collection, use and storage of any personal information
+TOPBUY.COM.AU is located at Unit 5, 111 Old Pittwater Road, Brookvale NSW 2100
 
-· deal with any privacy related enquiries or complaints in a timely manner
+Personal information that we collect and how.
 
-Our Privacy and Security Policy provides more information than ever before so that you have complete visibility of the type of information we collect when you visit TopBuy.com.au, why we collect it, and how it is used. TopBuy Australia will also conduction period reviews of the adequacy and currency of our Privacy policy, processes and systems. Our Privacy Policy also addresses our data security and the options you have to access, correct and control any personally identifiable or sensitive information you provide to us.
+The personal information we collect from you and hold includes information that is necessary in order for us to offer goods or services to you and to delivery these goods and services. This includes your Name, Address, Telephone Number and E-mail address. 
 
-**  
-Collecting Personal Information about You**
+We collect personal information directly from you and very occasionally via 3rd Party Suppliers. In other instances, we may collect personal information directly from you when you contact us (for example, when you make a telephone enquiry) and when you use our Web Site or use our mobile Apps.
 
-**  
-What Information Do We Collect From You And Why?**
+Personal information is also collected directly from you via a series of forms which you complete including:
 
-  
-At TopBuy.com.au we only collect the personal information from you that is necessary to allow us to provide marketing information, goods & services to you as an online retailer. If we collect personal contact information you may access, modify it or remove it from our system upon request. You may also choose simply not to provide your personal contact information at the point of collection. TopBuy.com.au collects personal information online, including names, postal and e-mail addresses, phone numbers and billing information.
+a) Membership Registration
 
-We may also collect business information from businesses that apply for membership and for program participation, some of which could constitute personal information, as well as personal information from individuals acting solely in their business capacity.
+Our site's registration form requires you to provide us contact information (email address) and may occasionally require demographic information. At this time you may withhold certain information if you so wish such as your real name and act under a pseudonym. We do not require any other personal information at this stage.
 
-**  
-The Type of Personal Information TopBuy Collects and Holds.**
+b) Passwords
 
-TopBuy collects and stores your personal information whenever you register an account with us, subscribe to our newsletter, visit or place an order on our website, enter a competition or join our rewards program.
+You are responsible for all actions taken with your user name, email address and password. Therefore we do not recommend that you disclose your TOPBUY password to any third parties. If you choose to share your user name, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy.
 
-The type of information collected includes your name and surname, billing and delivery address, email address and telephone number. Your personal information is stored and secured using a third party data storage provider. 
+c) Address and telephone number
 
-TopBuy has systems in place for protecting your personal information from misuse, interference and loss and from unauthorised access, modification or disclosure. 
+When you place an order on our website or via our mobile Apps we will require you to insert your address and telephone number and any other information relevant to your order, including your payment information and information on your payment method. At this time we may require you to provide us with your full name and not rely on any pseudonym you may have used to access the website. We will require your full postal address and in some circumstances we are unable to rely on or delivery to a P.O. Box. We also require your telephone number in order to contact you regarding the order or service that you have purchased or for other reasons.
 
-TopBuy does not retain any credit card or bank details. These are permanently destroyed after each payment is processed.
+Personal information that we collect via a 3rd party and how.
 
-**Purpose of Collection of Personal Information**
+Personal information that we collect via a 3rd Party is information that you have opted in to share with us. For example if you choose to login to our website using a third party login service such as “login with Facebook” then you opt in to share your basic information with us. This basic information includes your name, e-mail address, gender and date of birth.
 
-  
-TopBuy collects, holds, uses and discloses your personal information for the primary purposes of:
+We may require further personal information and will prompt you to supply us with that information such as your address and contact details when you place an order as detailed above.
 
-· Processing your order for goods or services
+How we hold your personal information.
 
-· Delivery fulfilment of your goods or service
+Information that we hold about you is held in a firewall protected, restricted user access database. We carry out regular user access audits, access logging and daily PCI scanning.
 
-· Customer Service management of product returns/refunds
+How we ensure we have accurate information.
 
-· Maintenance and repair of goods
+We rely upon you to correctly insert your personal information and provide you with the ability both to view and to amend that personal information as detailed below.
 
-· Marketing Activities or research conducted by TopBuy Australia or any of their related companies
+To view and amend the information we store.
 
-· Analysis and support of your use of the TopBuy.com.au website.
+We enable you to view the personal information we store via the My Account Section of the website or App. Here you can view any of your personal details including your registered username, password, email address or date of birth. We also enable you to store and amend up to three addresses for the effective delivery of goods.
 
-**We May Collect Purchase Information**
+If you would like to access any other personal information which we hold about you or if you would like to seek the correction of that information, you can do so by contacting us via our contact us page, email us via privacy@TOPBUY.COM.AU or call 02 8081 0916
 
-We may collect information actively generated by the purchase of a product or service, such as a payment method. We use this information to process your order and analyse and support your use of the TopBuy.com.au web site. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the analysis and support of your use of the TopBuy.com.au web site.
+The purposes for which we collect, hold, use and disclose your personal information
 
-**We May Collect Navigation and Clickstream Data**
+We collect, hold, use and disclose personal information for the following purposes:
 
-  
-As you browse our web site, we may gather navigational and clickstream data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to complete, analyse and support your purchases from TopBuy.com.au and use of the TopBuy.com.au web site to comply with any requirements of law and to determine the commissions for our Affiliates. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order, and the analysis and support of your use of the TopBuy.com.au web site.
+o In order to send you offers of goods and services that you have opted in to receive from us via e-mail. You can choose to opt out of us using your personal information for future direct marketing by selecting the unsubscribe option on any of the e-mails that we send to you. You can also select unsubscribe on our website or apps, contact us via our Contact page, email us via privacy@ TOPBUY.COM.AU or call 02 8081 0916 and request to be unsubscribed.
 
-**  
-Use Of Your Personal Information**
+o In order to allow you to access our website and view the offers that we have made.
 
-  
-We respect your privacy. Unless you otherwise consent, we will use your personal information only for the purpose for which it is submitted. Please be assured we will not disclose information about you unless the disclosure is required or authorised by law, you have consented to our disclosing the information about you, or for another purpose (related to the primary purpose of collecting that information) that you would reasonably expect.
+o In order to contact you via reasonable means to verify and confirm or discuss purchases for goods or services that you have made.
 
-From time to time, we may use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive promotional or other material from us, please let us know and we will change it accordingly.
+o In order to complete or fulfil via any reasonable means an order of goods or services that you have made from us.
 
-**  
-Pseudonyms**
+o In order to respond to your enquiries and to do the things you have asked us to do.
 
-  
-A person can deal with TopBuy by not identifying themselves or using a pseudonym. The circumstances under which a customer can use only a pseudonym are:
+o We may need to disclose your personal information to third parties in order to deliver goods or services that you have purchased from our website. We disclose this personal information only to ensure that we complete the primary purpose for holding your personal information and for no other reason. The list of potential recipients of your personal information includes the following, some of which may include overseas disclosure (also detailed subsequently);
 
-(a) Placing a review or providing feedback on a review
+A supplier who requires your personal information to complete a delivery or service where that supplier is delivering the goods or providing a service to you on our behalf.
 
-(b) Submitting a support request not order or account related.
+Postal and Courier companies who are contracted to complete a delivery service on our behalf receive a manifest which includes names, addresses and where necessary telephone numbers in order to contact you to complete delivery.
 
-If you are required to complete an online form which will include your personal information, we will offer you an accessible link to an "APP 5 notice", and you will be required to confirm that you have reviewed the notice before providing us with your personal information. If we collect your personal information by telephone, we will explain the APP 5 matters to you at the commencement of the call.
+Customs documents must also contain your personal details when you are purchasing from a sale that is fulfilled from overseas.
 
-**  
-TopBuy’s Access to Your** **Information** ****
+In addition we also print your personal information on the parcels but we do not publish this information or make it available for any other purpose other than to ensure the delivery of goods.
 
-  
-TopBuy Administrative and Warehouse staff may have access to your personal information only as required to service your account or process your order. Staff who are authorised to access personal information have received training in compliance with the Act and have access only in accordance with the primary purpose.
+Overseas Use or Disclosure of information
 
-**  
-Third Party Access to Your Information**
+TOPBUY is part of The MYSALE Group and we have offices in Australia, New Zealand, Singapore, Malaysia, The Philippines, Thailand, China, USA, and the European Union.
 
-  
-The following third **** party recipients may have access to your personal information for the primary purpose.
+We are likely to disclose your personal information internally in any of the aforementioned countries or regions for internal purposes such as the following reasons:
 
-· Mail and delivery system providers
+o marketing goods or services to you that you have opted in to
 
-· Email and newsletter providers
+o to contact you regarding a specific order you have made
 
-· Independent review platform providers
+o to respond to a request you have made to be contacted by us.
 
-· Drop ship suppliers
+As an international organisation, we also may disclose your information to overseas entities or contractors who we engage in order to send you goods as detailed in the section above “How your information is disclosed and why.” These entities or contractors are likely to be located in the aforementioned countries and regions.
 
-· Marketing affiliates
+Allowed exceptions to the aforementioned disclosure limitations
 
-· Maintenance and repair service providers.
+We never sell, rent or use your personal information or disclose any personal information other than for the above reasons or other than where we are required or authorised by or under an Australian law or a court/tribunal order to do so.
 
-**  
-Overseas Disclosures**
+Invite a friend
 
-  
-We may need (or be required to) disclose personal information to an overseas recipient only to the extent that the disclosure is required to carry out the primary purpose of processing, fulfilling or the post purchase support of your order.
+TOPBUY provides facilities throughout the site for you to send invitations to friends, referring them to TOPBUY. TOPBUY does not collect personal information about your friends through these facilities but may collect personal information about them if they contact us. You may not use the "Invite a friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our Privacy Policy or Terms and Conditions. We do not permanently store, sell, or rent these email messages or the email addresses.
 
-This may occur in circumstances where:
+Security
 
-· The service provider is located overseas
+TOPBUY.COM.AU uses Braintree, a division of PayPal, to provide a secure environment for the authorisation of credit card and charge card transactions. Confidential information including card details are encrypted using industry standard SSL 128-bit encryption technology.
 
-· We are required to comply with a foreign legal or regulatory request
+Our payment page is also fully PCI DSS compliant please visit https://www.pcisecuritystandards.org/tech/ for more information.
 
-· You have ordered a product from an international supplier (Direct Import).
+Cookies
 
-This may mean that your information is stored on a server located outside of Australia. Any such disclosures will be to providers located in the USA and Asia Pacific (including but not limited to Hong Kong and China)
+Cookies are small pieces of information that are stored in a browser-related file on your computer's hard drive when you use our Web site. We use cookies to improve the member experience. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites.
 
-While all care is taken to ensure our overseas providers will handle your information securely, by consenting to this disclosure you acknowledge that:
+TOPBUY mostly uses "session" cookies, which are removed from your computer once you leave TOPBUY. These are used so our service can remember that you have logged in already and prevent you doing so more frequently. The technology we use (Microsoft .NET), requires the use of session cookies. Session cookies expire and are deleted after 30 minutes of no activity on TOPBUY.
 
-· Overseas recipients may not have the same privacy obligations provided by the APP’s and therefore your redress options may differ or not be available to you.
+TOPBUY also uses persistent cookies to personalise the user experience, to help protect our members and to provide us with research information (such as how often members visit TOPBUY each month). Persistent cookies allow us to track users on TOPBUY and help us identify users abusing the TOPBUY service.
 
-· Overseas recipients may be subject to foreign laws or regulations that require disclosure to an overseas authority.
+Membership Removal
 
-· TopBuy Australia will not be held liable or accountable for any breaches of the APPs by an overseas recipient nor will any redress options apply under the Privacy Act.
+If you wish to be removed from our database for any reason, simply send us an email requesting to be removed via our contact us page.
 
-**  
-Disclosure of Personal** **Information** **To An Overseas Recipient As Required Or Authorised By Law**
+Complaints
 
-  
-We may disclose personal information to an overseas recipient under specific circumstances without complying with the APPs where such disclosure is required or authorised under and Australian Court or legal tribunal order. Such circumstances may include orders under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth), the Australian Federal Police Act 1979 or the Mutual Assistance in Criminal Matters Act 1987 (Cth).
+If you would like to make a complaint about a breach of the Australian Privacy Principles, please contact us via our contact us page, email us via privacy@ TOPBUY.COM.AU or call 02 8081 0916. Once we receive your complaint, we will endeavour to respond to your complaint within a reasonable period of time. If you are unhappy with the outcome of your complaint, you can take your complaint to the Office of the Australian Information Commissioner (OAIC). For more information on how to contact the OAIC, please visit their website at: http://www.oaic.gov.au/about-us/contact-us-page.
 
-**  
-Use & Disclosure Of Personal Information for Direct Marketing**
+Updates to our information practices
 
-  
-TopBuy Australia may use or disclose personal information for purposes of direct marketing where we have collected the information from you and you would reasonably expect TopBuy Australia to use or disclose the information for that purpose. 
-
-TopBuy Australia provides an Unsubscribe link at the bottom of every electronic commercial message. If you choose to unsubscribe please allow up to 5 business days for the completion of the process. After that period you will no longer receive emails/newsletters from us.
-
-**  
-Consequences To You If Your Personal Information Is Not Provided To Us.**
-
-  
-If some or all of the personal information requested by us is not supplied, the main consequence is that we may not be able to fulfil your order or deliver your goods to you. It may also result in us not being able to resolve any complaint you have against TopBuy Australia.
-
-**  
-Access and Correction**
-
-  
-Once you have registered as a TopBuy.com.au customer, you may access your account details and correct your personal information, by logging into your account. You can also gain access to or seek the correction of personal information held by TopBuy Australia by sending an email addressed to the [Privacy Officer](https://www.topbuy.com.au/contact-us/) with details of your request. We have the right to ask for and obtain your name, position/title, telephone number and email address in order for you to access and correct the personal information.
-
-TopBuy Australia must be satisfied of the legitimacy of any request for personal information of an individual or by another person who is authorised to make the request on the individual’s behalf such as a legal guardian or authorised agent. Anonymous requests for personal information may make it difficult to establish the legitimacy of the request. It may be practicable to use a pseudonym in the request if you have transacted with us previously under the same pseudonym. In such cases the minimum amount of information to establish you identity will be sought.
-
-**  
-Refusal to Give Access**
-
-  
-While every effort is made to give you prompt access to your personal information there may be certain circumstances where access will be refused. Such circumstances may include:
-
-· If allowing access to the information would pose a serious risk or threat to the safety of any individual or to public health or safety
-
-· The request is frivolous or vexatious
-
-· The information relates to existing or anticipated legal procedures between yourself & TopBuy Australia.
-
-· Giving access would be unlawful
-
-· Denying access is required or authorised by an Australian Court or legal tribunal.
-
-· TopBuy has reason to believe that unlawful activity or misconduct is associated with the request.
-
-**  
-Length of Time Personal Information Is Retained and Disposal**
-
-  
-TopBuy will keep and retain your personal information for a period of ten (10) years or such other period of time as is required by law.
-
-Any personal or sensitive information will be either de-identified or permanently destroyed when no longer required for the primary purpose unless an Australian law or a court/tribunal order requires it to be retained.
-
-**  
-Computer Tracking And Cookies**
-
-  
-This website is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
-
-**  
-Changes to** **our** **Privacy Policy**
-
-  
-TopBuy Australia will periodically review and as a result update its Privacy Policy and in accordance with any changes to the Act. We will notify our customers of any such changes by asking them to agree to the new policies when they next place an order. Alternatively, we may post a link on our website or send you an email notification headed “Changes to our Privacy Policy” for you to read...
-
-**  
-Privacy Complaints**
-
-****  
-An individual can complain about an alleged breach by TopBuy Australia of the APPs by sending an email to the Privacy Officer at customer@support.topbuy.com.au setting out details of the complaint. Alternatively, the Privacy Officer can be contacted by telephoning 02 9101 9976 or by sending a letter with details of your complaint to:
-
-The Privacy Officer
-
- TopBuy Australia  
-29-33 Carter St  
-Homebush NSW 2141
-
-  
-All complaints are required by the Act to be made in writing to TopBuy and we are then allowed a reasonable time (usually 30 days) to respond. We may ask you to participate in a dispute resolution scheme (such as mediation) in order to resolve your complaint. If you refuse to participate in any form of dispute resolution, you can take your complaint to the Office of the Australian Information Commissioner (OAIC) by calling 1300 363 992 or logging on to the OAIC website at [www.oaic.gov.au](https://web.archive.org/web/20160318062512id_/http%3A//www.topbuy.com.au/www.oaic.gov.au)
+TOPBUY reserves the right to add to, delete or change these terms because of frequent changes in Internet technology and applicable law. As such, you should check this privacy policy from time to time for such changes.
