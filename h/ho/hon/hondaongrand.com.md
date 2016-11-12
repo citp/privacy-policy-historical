@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondaongrand.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617170629id_/http%3A//www.hondaongrand.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondaongrand.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112154909id_/http%3A//www.hondaongrand.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -38,7 +38,7 @@ The third-party advertising companies may also employ technology that is used to
 
 Honda on Grand partners with third-party advertising company Google to collect information about how users navigate our website and we use many or all of their products to enhance our website experience. Like Honda on Grand, Google is very much committed to consumer protection, to maintaining the privacy of your personal information and to making ads safe, unobtrusive and relevant for you.
 
-Google uses this information only to generate anonymous visitor profiles, which do not contain personally identifiable information. These anonymous profiles are used to provide you content specifically tailored to you. To learn more about how Google collects and manages information, or to opt out of Google’s collection of information about how you navigate our website, please go to <http://www.google.com/privacy_ads.html>.
+Google uses this information only to generate anonymous visitor profiles, which do not contain personally identifiable information. These anonymous profiles are used to provide you content specifically tailored to you. To learn more about how Google collects and manages information, or to opt out of Google’s collection of information about how you navigate our website, please go to <https://www.google.com/policies/privacy/>.
 
 Google’s technologies and products, including AdSense, AdWords, Google Analytics, and a range of DoubleClick-branded services, also use cookies. When you visit a page that uses one of these products, various cookies may be sent to your browser.
 
