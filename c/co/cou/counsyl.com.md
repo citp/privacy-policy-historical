@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the counsyl.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403184804id_/https%3A//www.counsyl.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counsyl.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112090307id_/https%3A//www.counsyl.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Counsyl | Privacy policy
 
 ## Privacy and Security Policy
 
-Welcome to Counsyl! We are a technology company that strives to give millions of men and women access to vital information about their bodies to help them confidently make choices about their lives. There are three policies that govern the Counsyl website and products:
+Counsyl is a DNA testing and genetic counseling service. We're committed to helping you understand your DNA and how it can inform important health decisions. Whether it’s starting a family or evaluating risk for cancer, Counsyl's DNA tests provide you with early awareness about genetic conditions, so you can live informed and prepare for the future. There are three policies that govern the Counsyl website and products:
 
   * This **Privacy and Security Policy** describes our information handling practices when you access our website located at [www.counsyl.com](https://web.archive.org/) (the "Site"), and/or when you use any Counsyl products or services, (referred to collectively hereinafter as the "Service" or "Services");
   * Our **Notice of Privacy Practices** which describes our practices specifically regarding medical and payment information; and
