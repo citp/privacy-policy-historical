@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business1.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624075310id_/http%3A//www.business1.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business1.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112032030id_/https%3A//www.business1.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Business1.com
 
