@@ -1,79 +1,113 @@
-> *The following text is extracted and transformed from the brucelee.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322111830id_/http%3A//www.brucelee.com/index.cfm/page/privacypolicy/cdid/10291) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brucelee.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113000213id_/http%3A//www.brucelee.com/privacy-policy) for the most accurate reproduction.*
 
-# The Official Bruce Lee site | Bruce Lee Clothing | Enter The Dragon Movie | Jeet Kune Do | Bruce Lee Blog | Bruce Lee News
+# Privacy Policy — Bruce Lee
 
-Brucelee.com has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for Brucelee.com.
+**Privacy Notice**
 
-## Use of your IP address
+ _Effective July 28, 2016_
 
-Brucelee.com uses your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is used to gather broad demographic information.
+Bruce Lee Enterprises, LLC (“ **Bruce Lee Enterprises** ”) is committed to protecting your privacy. This Privacy Notice describes how Bruce Lee Enterprises collects, uses, and shares your information when you use and interact with our Services and applies to persons in the United States and anywhere else in the world who use our Services (“ **Users** ”). Our Privacy Notice governs your access to and use of all Bruce Lee Enterprises operated and controlled websites including [http://www.brucelee.com/](http://www.brucelee.com/), [http://www.bruceleetea.com/](http://www.bruceleetea.com/), and [http://bruceleefoundation.org/](http://bruceleefoundation.org/), and all other online services controlled or provided by Bruce Lee Enterprises (collectively, the “ **Services** ”).
 
-## Use of cookies
+ **Agreement & Eligibility**
 
-Brucelee.com uses cookies to keep track of your shopping cart and to keep track of your membership status on the Web site. We use cookies to save your password so you do not have to re-enter it each time you visit our site. The cookies we use only track your currently logged in status or your shopping cart status.
+ **Your Agreement With Bruce Lee Enterprises**
 
-## Use of registration form information
+This Privacy Notice constitutes a binding legal agreement between you, as a User who uses and interacts with the Services, and Bruce Lee Enterprises. Before accessing, using, or interacting with the Services you should carefully review the terms and conditions of this Privacy Notice, as well as our **[Terms of Service](https://web.archive.org/terms-of-service)** , which is incorporated into your agreement with Bruce Lee Enterprises by this reference. This Privacy Notice applies only to the Services, and Bruce Lee Enterprises’ collection, use, disclosure, and protection of your information. It does not apply to third party websites, applications, or services. 
 
-Brucelee.com’s registration form requires users to give us Registration Contact Information ("Registration Contact Information" includes but is not limited to user name and e-mail address) and Demographic Information ("Demographic Information" includes but is not limited to user zip code). We use Registration Contact Information from the registration form to send the user information about Brucelee.com, Bruce Lee Enterprises and other Bruce Lee related entities. The Registration Contact Information also is used to contact the user when necessary and may be shared with other select companies. Users may opt-out of receiving mailings (see the choice/opt-out section below). User Demographic Information and user profile data also is collected at our Web site. We use this Demographic Information and user profile data to customize the user's experience at our Web site, showing the user content that Brucelee.com thinks the user might be interested in, and displaying the content according to the user’s preferences. We do not share mailing address, credit card, or any personally identifiable information (other than e-mail address and date of birth) with other companies; except where we have the customer's prior consent to share such information. Demographic Information and profile data are used only for personalized Web content and statistical information and are not shared with other companies except in ways that do not personally identify users of our Web site.
+By using or interacting with our Services you signify your consent to our Privacy Notice and Terms of Service, and the collection, transfer, storage, disclosure, and use of your information described. If you do not agree to the terms of our Privacy Notice and Terms of Service, then you may not use or interact with the Services. 
 
-## Links to other Web sites
+ If you have questions about Bruce Lee Enterprises’ Privacy Notice or practices, or if you need to contact us about the information we collect about you, our contact information is at the end of this Privacy Notice. 
 
-This Web site contains links to other Web sites. Brucelee.com is not responsible for the privacy practices or the content of such Web sites. We place advertising on our Web site that originates from third party advertisers and/or advertising agencies. Even though these advertisements are embedded in our Web site cookies may be assigned by the advertisers and not Brucelee.com. Brucelee.com does not control those cookies.
+ **Eligibility To Use The Services**
 
-## Use of order form information
+Bruce Lee Enterprises’ Services are not directed to children under the age of 13. You may not use the Services if you are under the age of 13. 
 
-Our Web site uses an order form for customers to request information, products, and services. We collect user's Order Contact Information ("Order Contact Information" includes but is not limited to user name and e-mail address) and financial information ("Financial Information" includes but is not limited to credit card numbers). Order Contact Information from the order form is used to send to the user the user’s order and information about our company and other companies. The Order Contact Information also is used to communicate with the user when necessary and may be shared with other select companies. Users may opt-out of receiving mailings (see the choice/opt-out section below). Financial Information and Order Contact Information also is used to bill the user for products and services purchased by the user and may be shared with companies that help Brucelee.com operate our Web site, such as credit card companies.
+ **Information Collection & Use**
 
-## Use of contest form information
+Bruce Lee Enterprises collects information about you through various means, including when you provide information to us and when we automatically collect information about you when you access, use, or interact with the Services. We use this information for a variety of different reasons, including to improve the Services and tailor the Services to you. The types of information Bruce Lee Enterprises may collect include:
 
-Brucelee.com executes and administers contests on our Web site in which Brucelee.com asks users for Contest Contact Information ("Contest Contact Information" includes but is not limited to user name and e-mail address) and Demographic Information. Brucelee.com uses Contest Contact Information to send users information about our company and other companies. The Contest Contact Information also is used to contact the user when necessary and may be shared with other select companies. Users may opt-out of receiving mailings (see the choice/opt-out section below). User Demographic Information and profile data also is collected at our Web site. Brucelee.com uses this Demographic Information and profile data to customize our user's experience at our Web site, showing the user content that Brucelee.com thinks the user might be interested in, and displaying the content according to the user’s preferences. Brucelee.com may share Contest Contact Information and Demographic Information with the contest prize providers.
+ **Information You Provide To Us:**
 
-## Use of aggregated information
+ **Bruce Lee Newsletter Information:** Bruce Lee Enterprises may require you to subscribe to a newsletter in order to use certain Services (a “ **Bruce Lee Newsletter** ”). We do not require you subscribe to use all of our Services. Bruce Lee Enterprises will collect certain information about you in connection with your subscription to the Bruce Lee Newsletter, which may include Personally Identifiable Information and other information such as a name and/or email address. “ **Personally Identifiable Information** ” refers to information about you that may be used to identify you, such as your: first name, last name, or email address.  Some of the information associated with your subscription to the Bruce Lee Enterprises Newsletter may be displayed publicly. 
 
-Brucelee.com collects and stores statistics and other information about the online activities of our users on an aggregated (collected) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts. 
+**Payment Transaction Information:** We may collect and store information related to your purchases or donations made through our Services. You may provide certain information to complete payments via the Services, including your name, address, credit or debit card number, card expiration date, CVV code, and billing address (collectively, “ **Payment Information** ”), along with your delivery or shipping address, to complete payment transactions through certain Services.  We consider the Payment Information collected via the Services private and Bruce Lee Enterprises will not make such information public. 
 
-Brucelee.com may assign, sell, license or otherwise transfer to a third party any information in connection with an assignment, sale, joint venture, or other transfer or disposition of all or substantially all of the assets or capital stock of Bruce Lee Enterprises, LLC, Brucelee.com or its affiliated entities. 
+Please note Bruce Lee Enterprises works with Service Providers (as defined below) to operate our online stores and handle payment transactions. Bruce Lee Enterprises does not itself collect or maintain your credit card or other financial account information; this information is handled for Bruce Lee Enterprises by our Service Providers. You are subject to the Privacy Policies and Terms of Service of our Service Providers when shopping for Bruce Lee products or making donations, the terms of which may differ from those of Bruce Lee Enterprises for the Services. Please review the Service Providers’ Privacy Policies and Terms of Service before using their services. 
 
-Brucelee.com may use third-party advertising companies to serve ads. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+**Form Information:** We may use forms to request certain information from you in order to perform certain Services, such as your location to assist you in locating our products, or your contact information to assist with contacts or service requests. This information may include Personally Identifiable Information. 
 
-## Public Forums
+**Correspondence Information:** If you sign up, email us, subscribe to our newsletters or mailing lists, or make donations or purchases through the Services, we may keep your message, email address, and contact information to respond to your requests, provide the requested products or Services, and to provide notifications or other correspondences to you. We do not share or sell any personal information to other organizations for commercial purposes. If you do not want to receive e-mail from us in the future, you may opt-out of receiving certain communications from Bruce Lee Enterprises by following the unsubscribe process described in the email communication. We may also still contact you as needed to provide important announcements or notifications regarding the Services.
 
-This Web site may from time to time or at any time make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+ **Support Information:** You may provide information to us via a support request submitted through the Services. We will use this information to assist you with your support request and may maintain this information to assist you or other Users with support requests. Please do not submit any information to us via a support submission, including confidential or sensitive information that you do not wish for Bruce Lee Enterprises or our Service Providers to have access to or use in the future.
 
-## Security
+ **Information We Collect Automatically:**
 
-This Web site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Our database servers are protected from intruders by a firewall router and credit card transactions are enacted using 128-bit SSL encryption. Brucelee.com may be required to release personal information about users as a result of a lawsuit or subpoena or as immediately necessary to protect our rights or the rights and safety of others. Additionally, "perfect security" does not exist on the internet.
+ **Cookies, Web Beacons, Links, And Other Tracking Technologies:** Bruce Lee Enterprises may keep track of how you use and interact with the Services through the use of cookies, web beacons, links, and other tracking technologies.  We do this to help analyze the use of and improve the Services. Through these technologies we may automatically collect information about your use of the Services and other online activities, including our email correspondences, third-party services, and client applications, and certain online activities after you leave the Services. Link information is generally only analyzed on an aggregate basis. Some Services may not function properly if you disable cookies. 
 
-## Children's Guidelines
+**Unique Identifiers:** When you use or access the Services, we may access, collect, monitor, store on your device, and/or remotely store one or more "Unique Identifiers," such as a universally unique identifier (“UUID”). A Unique Identifier may remain on your device persistently, to help you log in faster and enhance your navigation through the Services. Some features of the Services may not function properly if use or availability of Unique Identifiers is impaired or disabled.
 
-Brucelee.com strongly encourages parents and guardians to supervise their children's online activities and to consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personally identifiable information without parental permission. Products for sale are intended for purchase by adults. By making a purchase on the site, you agree and represent that you are at least 13 years of age. 
+ **Log File Information:** When you use our Services, we may receive log file information such as your IP address, browser type, access times, domain names operating system, the referring web page(s), pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information. We receive log file data when you interact with our Services, for example, when you visit our websites, sign into our Services, or interact with our email notifications. Bruce Lee Enterprises uses log file data to provide, understand, and improve our Services, and to customize the content we show you. Bruce Lee Enterprises may link this log file to other information Bruce Lee Enterprises collects about you via the Services. 
 
-Although the Brucelee.com site is not directed to children under the age of 13, 
+**Public Information:** Bruce Lee Enterprises may also collect information about you from publicly available sources. Information you make publicly available in any public or open forum, such as on a social network, may be considered public information for the purposes of this Privacy Notice, and may be accessed and collected by Bruce Lee Enterprises. Please be aware that any content or information you share with or provide to third parties using or related to your use of the Services is nether private, nor confidential. Bruce Lee Enterprises is not responsible for any content or information you post or share with third parties. If you do not wish for certain information to be public, please do not share it. 
 
-BRUCELEE.COM DOES NOT collect online contact information from children under the age of 13 without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. 
+**­­­­Information Sharing**
 
-BRUCELEE.COM DOES NOT collect personally identifiable offline contact information from children under the age of 13 without prior parental consent. 
+Bruce Lee Enterprises will not share, sell, rent, or otherwise disclose your private personal information to third parties without your consent, except in the limited circumstances described in this Privacy Notice, including to:
 
-BRUCELEE.COM DOES NOT distribute to third parties any personally identifiable information with respect to children under the age of 13 without prior parental consent. 
+ **Bruce Lee Enterprises Personnel:** Bruce Lee Enterprises’ personnel may have access to your information as needed to provide and operate the Services in the normal course of business. This includes information regarding your use and interaction with the Services. ** **
 
-BRUCELEE.COM DOES NOT give the ability to publicly post or otherwise distribute personally identifiable contact information with respect to children under the age of 13 without prior parental consent. 
+ **Service Providers:** Bruce Lee Enterprises works with various organizations and individuals to help provide the Services to you (" **Service Providers** "), such as hosting companies, e-commerce shopping website providers to provide the online shops available via the Services, payment processors to process payments, and companies providing analytics information, like Google Analytics. We may share your personal information with our Service Providers for the purpose of providing the Services. The information we share to our Service Providers may include both information you provide to us and information we collect about you, including Personally Identifiable Information, Payment Information (to payment processing providers only), information from data collection tools like cookies, web beacons, log files, Unique Identifiers, and location data. Bruce Lee Enterprises takes reasonable steps to ensure that our Service Providers are obligated to reasonably protect your information on Bruce Lee Enterprises’ behalf. If Bruce Lee Enterprises becomes aware that a Service Provider is using or disclosing information improperly, we will take commercially reasonable steps to end or correct such improper use or disclosure.
 
-BRUCELEE.COM DOES NOT entice children under the age of 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+ **Online Shops:**  Bruce Lee Enterprises works with third party Service Providers to operate our online stores and handle payment transactions. When you click links such as “Shop” or “Donate” within our Services, you are redirected to one of our third party Service Provider’s platforms to shop and complete purchases. Bruce Lee Enterprises does not itself collect or maintain your credit card or other financial account information; this information is handled for Bruce Lee Enterprises by our Service Providers. Bruce Lee Enterprises does not collect additional information about you when you are using our Service Providers’ services, but our Service Providers may share certain information they collect about you with Bruce Lee Enterprises as part of your use of their services, such as information about customers who have made purchases after using Bruce Lee Enterprises’ Services. Please note you are subject to the Privacy Policies and Terms of Service of our Service Providers, including when shopping for Bruce Lee products or making donations, the terms of which may differ from those of Bruce Lee Enterprises for the Services. Please review the Service Providers’ Privacy Policies and Terms of Service before using their services.
 
-## Choice/Opt-Out
+ **Business Transactions:** Bruce Lee Enterprises may purchase other businesses or their assets, sell our business assets, or be involved in a bankruptcy, merger, acquisition, reorganization or sale of assets (a “ **Business Transaction** ”). Your information, including Personally Identifiable Information, may be among assets sold or transferred as part of a Business Transaction. 
 
-Our Web site provides users the opportunity to opt-out of receiving communications from Brucelee.com and our partners at the point where we request information about the visitor. 
+  **Lawful Requests:** We may be required to disclose User information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We generally do not disclose User information unless we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. We may share your information when we believe it is necessary to comply with applicable laws, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Services or using the Bruce Lee Enterprises name, or to protect the safety of any person. This may include sharing information with other companies, lawyers, agents, or government agencies. Nothing in this Privacy Notice is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
 
-This Web site gives users the option of removing their information from our database to not receive future communications or to no longer receive our service. 
+ **Accessing & Modifying Your Information**
 
-You can send e-mail to [unsubscribe@brucelee.com](mailto:unsubscribe@brucelee.com)
+ **Access To The Information Bruce Lee Enterprises Has Collected About You**
 
-## Correct/Update
+Bruce Lee Enterprises welcomes you to contact us regarding the information we have collected about you, including regarding the nature and accuracy of the data has collected about you, or to request an update or deletion of your information. Requests to delete or remove your information do not ensure complete or comprehensive removal of the content or information posted, and removed information may persist in backup copies indefinitely. Please note that if you choose to delete your information or opt-out of the collection and use of your information, you understand that certain features, including but not limited to access to the Services, may no longer be available to you. 
 
-This site gives users the option of changing and modifying information previously provided.
+We may store the information we collect about you indefinitely, but information generally will be retained only for as long as necessary to fulfill the purposes for which the information was collected, or as otherwise required by law. 
 
-## Contacting the Web Site
+**Opting-Out Of Communications From Bruce Lee Enterprises**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+Users may opt-out of receiving certain communications from Bruce Lee Enterprises by following the unsubscribe process described in an email communication. However, please note you may not opt-out of Services-related communications, such as account verification, purchase and billing confirmations, changes or updates to features of the Services, or technical and security notices. 
 
-[privacypolicy@brucelee.com](mailto:privacypolicy@brucelee.com).
+**Do Not Track**
+
+Bruce Lee Enterprises does not currently employ a process for automatically responding to “Do Not Track” (DNT) signals sent by web browsers, mobile devices, or other mechanisms. Per industry standards, third parties may be able to collect information, including Personally Identifiable Information, about your online activities over time and across different websites or online services when you use Services. You may opt out of online behavioral ads at [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/). You also may limit certain tracking by disabling cookies in your web browser.
+
+ **Information Security**
+
+ **Security Of Your Information**
+
+Bruce Lee Enterprises takes reasonable efforts to secure and protect the privacy, accuracy, and reliability of your information and to protect it from loss, misuse, unauthorized access, disclosure, alteration and destruction. Bruce Lee Enterprises implements security measures as we deem appropriate and consistent with industry standards. When personal information (such as a credit card or bank account number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. As no data security protocol is impenetrable, Bruce Lee Enterprises cannot guarantee the security of our systems or databases, nor can we guarantee that personal information we collect about you will not be breached, intercepted, destroyed, accessed, or otherwise disclosed without authorization. Accordingly, any information you transfer to or from Services is provided at your own risk. 
+
+  **Additional Provisions Regarding The Services & Your Information **
+
+  **Transfer And Storage Of Your Information**
+
+Please note information Bruce Lee Enterprises collects about you may be transferred, processed and/or accessed by us in the United States, or another country where we, or our Service Providers operate. Please be aware Personally Identifiable Information may be transferred to, and maintained on, computers located outside of your state or country where privacy laws may differ from and may not be as protective as those where you live. If you are located outside the United States and choose to allow us to collect information about you, please be aware that Bruce Lee Enterprises may transfer your Personally Identifiable Information to the United States and process and store it there. By allowing collection of your Personally Identifiable Information, you consent to having your personal data transferred to, processed, and stored in the United States. 
+
+If you are located in the European Economic Area ("EEA") or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information to a country or jurisdiction that does not have the same data protection laws as your jurisdiction. It may also be processed by staff operating outside the EEA who work for us or for one of Service Providers. By submitting your information, registering for, or using the Services, you consent to the transfer, processing, and storage of your information in the United States, or any other country in which Bruce Lee Enterprises or our Service Providers maintain facilities, and to the use and disclosure of information about you as described in this Privacy Notice.
+
+ **Safely Using Bruce Lee Enterprises’ Services**
+
+Despite Bruce Lee Enterprises’ safety and privacy controls, we cannot guarantee the Services are entirely free of illegal, offensive, pornographic, or otherwise inappropriate material, or that you will not encounter inappropriate or illegal conduct from other Users when using the Services. You can help Bruce Lee Enterprises by notifying us of any unwelcome contact by contacting us using the information below.   
+
+ **Changes to Our Privacy Notice**
+
+Bruce Lee Enterprises may, in its sole discretion modify or revise this Privacy Notice from time to time. The most current version of this policy will govern our use of your information and will be located here. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Notice.
+
+ **Contact Bruce Lee Enterprises**
+
+Bruce Lee Enterprises, LLC
+
+9854 National Blvd. Suite 181
+
+Los Angeles, CA 90034
+
+ **[Contact Us](https://web.archive.org/licensing)**
