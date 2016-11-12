@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511103707id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsempirefiresale.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112190843id_/http%3A//graphicsempirefiresale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Graphics Empire Firesale
+# Privacy Policy
 
 GraphicsEmpireFiresale.com values and respects the privacy of its visitors and members. This policy, known as the Privacy Policy, details the type of information we collect from you, and what we do with that information.
 
