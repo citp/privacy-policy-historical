@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503153013id_/https%3A//www.ebikeinsurance.co.uk/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebikeinsurance.co.uk privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112230936id_/https%3A//www.ebikeinsurance.co.uk/privacy-and-security) for the most accurate reproduction.*
 
 # eBike - Privacy & Security
 
