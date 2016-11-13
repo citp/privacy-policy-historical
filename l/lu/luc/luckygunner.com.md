@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404184851id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckygunner.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113180518id_/http%3A//www.luckygunner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@
 
 ### Our Commitment To Your Privacy
 
-We value our customers and their privacy. For this reason, the personal information you provide is used to ensure efficient processing of your orders and to otherwise assist our staff in making sure that you have a pleasant experience with LuckyGunner.com. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so. 
+We value our customers and their privacy. For this reason, the personal information you provide is used to ensure efficient processing of your orders and to otherwise assist our staff in making sure that you have a pleasant experience with LuckyGunner.com. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we believe that we are legally required to do so or you authorize us to do so. 
 
 ### Our Commitment To Data Security
 
