@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911013715id_/https%3A//www.alpharooms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113045731id_/https%3A//www.alpharooms.com/privacy) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
@@ -94,7 +94,7 @@ We will correct any inaccuracies in any personal information we hold about you f
 
 ## 8\. Change to this Privacy Policy
 
-Alpha International Accommodation Limited reserves the right to amend this Privacy Policy from time to time by posting a new version on the Website. You should check this page occasionally for any changes. Your continued use of the Website shall constitute your agreement and acceptance of any changes to this policy. 
+Alpha Holidays Limited reserves the right to amend this Privacy Policy from time to time by posting a new version on the Website. You should check this page occasionally for any changes. Your continued use of the Website shall constitute your agreement and acceptance of any changes to this policy. 
 
 ## 9\. Links to Third Party Websites
 
@@ -104,12 +104,12 @@ The Website contains links to a number of other third party websites. We are not
 
 By Email: [datacontroller@alpharooms.com](mailto:datacontroller@alpharooms.com)
 
-By Post: Data Controller, Alpha International Accommodation Limited, 261-263 Ecclesall Road, Sheffield S11 8NX 
+By Post: Data Controller, Alpha Holidays Limited, 261-263 Ecclesall Road, Sheffield S11 8NX 
 
 Please use these contact details to let us know if the personal information we hold about you needs to be amended or updated. 
 
 ## 11\. Data Protection
 
-Our data protection registration number is Z8595359. 
+Our data protection registration number is ZA209002. 
 
-The responsible data controller in respect of the information collected on this Website is Alpha International Accommodation Limited, whose registered office is at 261-263 Ecclesall Road, Sheffield S11 8NX. 
+The responsible data controller in respect of the information collected on this Website is Alpha Holidays Limited, whose registered office is at East House 109 South Worple Way, London, England, SW14 8TN. 
