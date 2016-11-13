@@ -1,84 +1,99 @@
-> *The following text is extracted and transformed from the addictioncenter.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418190712id_/https%3A//www.addictioncenter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictioncenter.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113150214id_/https%3A//www.addictioncenter.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Addiction Center
 
-We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
+## Addiction Center will never sell or distribute your personal information to outside parties. Read our full privacy policy below.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or business name. You may, however, visit our site anonymously.
+ 
 
-### What do we use your information for?
+This Privacy Policy was last modified on 4/25/16
 
-Any of the information we collect from you may be used in one of the following ways:
+This Privacy Policy applies to your use of addictioncenter.com (the “Website”) and contains Recovery Worldwide, LLC’s (“Owner” or “we”) policies regarding the collection, use and disclosure of your data and content when you use the Website.
 
-  * To personalize your experience  _(your information helps us to better respond to your individual needs)_
-  * To improve our website  _(we continually strive to improve our website offerings based on the information and feedback we receive from you)_
-  * To improve customer service  _(your information helps us to more effectively respond to your customer service requests and support needs)_
-  * To process transactions
+By using this Website, you agree to the terms of this Privacy Policy and to the collection and use of information in accordance with this Privacy Policy.
+
+This Privacy Policy may change over time, but any future changes will not affect data that was collected under a previous version of this Privacy Policy. If any modifications substantially change your rights, we will provide notice on the Website.
+
+### Information Collection and Usage
+
+Upon registering to use the Website, we may ask you to provide us with information such as your name, e-mail address, mailing address, phone number or business name and other such credentials that are necessary to authenticate users, validate user actions, or communicate with users. We collect this information from you when you subscribe to our newsletter, respond to a survey, fill out a form or call a phone number listed on the Website. We will not use this information for any other purpose than providing you with the information requested by you through the Website. You may, however, visit the Website anonymously.
+
+We do not collect any information about you from other sources outside of your interaction with the Website or when you call a phone number listed on the Website. We will not share your data or content with anyone without your express consent and only to the extent necessary to provide you with the products and/or services requested. We will not sell or otherwise transfer your data or content to advertising platforms, data brokers, information resellers, or any other third-party organizations. Additionally, we will not use your data or content for advertising, marketing or similar services.
+
+### How We Use Your Information
+
+We do not collect any Personally Identifiable Information (“PII”) _[1] _from you unless you voluntarily choose to disclose such information while using the Website or contact us via e-mail or telephone call.
+
+  * In order to take advantage of certain services and features on the Website, you must provide certain PII and Anonymous Information[2].
+  * If you submit PII to us through the Website, then we may use your PII to improve our services to you, and to identify and authenticate your access to the Website’s services. In addition, we use Anonymous Information in aggregate form to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users to personalize your experience on the Website.
+  * We may provide PII and Anonymous Information to our subsidiaries, affiliated companies, or other unaffiliated businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our Privacy Policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+  * We may use your e-mail address to send you notifications and information that are related to your use of the Website, answer your questions about the Website, or fulfill a legal or regulatory disclosure requirement.
 
 
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-To send periodic emails
+We may share your data and/or content if we believe that disclosure is reasonably necessary to comply with a law, regulation, valid legal process (e.g., subpoenas or warrants served on us), or governmental or regulatory request, to enforce or apply the Terms of Service, to protect the security or integrity of the Website, and/or to protect the rights, property, or safety of Owner, its employees, users, or others. If we are going to release your data, we will do our best to provide you with notice in advance by e-mail, unless we are prohibited by law from doing so. We may also disclose or transfer your data or content in connection with the sale, merger, bankruptcy, sale of assets or reorganization of our company. We will notify you if a different company will receive your data or content and the covenants in this Privacy Policy will apply to your data as transferred to the new entity.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+The Owner is not attempting to provide any type of health advice or analysis to users. The Website is simply presenting users with information regarding substance abuse and treatment centers. Users should not interpret the Website’s display of this data as any type of assessment from it. Owner will not be held responsible for any assessment or decision users make based on the data presented in the Website.
 
-### How do we protect your information?
+### Data that You Direct Us to Share
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+You can direct us to share your data with other parties. Once you direct us to share your data and/or content with a third party, that data is governed by the third-party’s privacy policy. You can revoke your consent to share with the third party at any time.
 
-### Do we use cookies?
+### Owner’s Policy For Children
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Owner does not wish to interact with or collect any data from individuals under the age of 13. We do not knowingly collect any PII data from children under the age of 13. We request that minors do not engage with our Website without the consent of a parent or legal guardian, unless otherwise permitted by the law. If you are under the age of 13, please do not attempt to use the Website or send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 13 may provide any personal information to or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. We encourage parents to monitor their children’s Internet usage and/or to use web filtering technology to supervise their children’s access to the Internet.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+### Cookies and Other Tracking Technologies
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
+Some of our Website pages may utilize “cookies” and other tracking technologies like pixel tags and web beacons to improve the functionality of the Website. Cookies are text files that are sent by servers to web browsers and stored on your computer. They tell us which parts of the Website you’ve visited so we can alert you to software compatibility issues and save your preferences for future visits to the Website. Web beacons and pixel tags are images embedded in a webpage or e-mail for the purpose of measuring and analyzing usage and activity. The Website, or third party service providers acting on our behalf, may use web beacons and pixel tags to help us analyze usage and improve our functionality. Some cookies and other technologies may serve to recall PII previously provided by a user.
 
-### Do we disclose any information to outside parties?
+### Third-Party Links
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+The Website may contain links to third-party websites placed by us as a service to those interested in this information. Your use of all such links to third-party websites is at your own risk. We do not monitor or have any control over, and make no claim or representation regarding third-party websites. To the extent such links are provided by us, they are provided only as a convenience, and a link to a third-party website does not imply our endorsement, adoption or sponsorship of, or affiliation with, such third-party website. When you leave the Website, the terms of this Privacy Policy no longer govern.
 
-### Third party links
+### When You Contact Us For Help
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Whenever you contact Owner for help, we collect your name and e-mail address along with additional information you provide in your request so that we can provide you with assistance and improve the Website.
 
-### California Online Privacy Protection Act Compliance
+### Security
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+The privacy and security of user data is as important to us as it is to you. We maintain strict physical, electronic, and procedural safeguards that are designed to controls and protect your data from unauthorized access. We adhere to accepted industry privacy standards and comply with our own privacy practices.
 
-### Childrens Online Privacy Protection Act Compliance
+In addition, we use strong encryption and a protocol for transmitting private information via the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, while we follow accepted industry standards and implement reasonable security practices to protect PII, we cannot guarantee its absolute security.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+### How Does Owner Handle Data From International Visitors?
+
+The Website is hosted and operated entirely in the United States and is subject to United States law. Any personal information that you provide to Owner is being transferred to Owner for use solely in the United States and will be hosted on United States servers. You consent to the transfer of your personal information to the United States. If you are accessing the Website from outside the United States, please be advised that United States law may not offer the same privacy protections as the law of your jurisdiction.
+
+### Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. In the event of a change, we will notify you by posting the new privacy policy on the Website. We advise you to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy will become effective once it has been posted on the Website. We will never change this Privacy Policy or the Terms of Service to allow the collection of your PII, data and/or content or make any other substantial changes without first getting your consent.
 
 ### Online Privacy Policy Only
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This Privacy Policy applies only to information collected through the Website and does not apply to information collected offline through other communication mediums.
 
 ### Google Analytics
 
-We are currently using Google Analytics to understand the audience of Addiction Center and how to best serve their needs. No personal information is collected from Google Analytics. For more information on Google’s privacy policy, please [click here](https://support.google.com/analytics/answer/6004245).
+We are currently using Google Analytics to understand the Website’s audience and how we can tailor the content of the Website to best serve your needs. No PII is collected by Google Analytics. For more information on Google’s privacy policy, please click here.
 
-### Your Consent
+### NOTICE FOR CALIFORNIA RESIDENTS
 
-By using our site, you consent to our privacy policy.
+Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the Website, please send an e-mail to contact@addictioncenter.com. You may also contact us using the information below.
 
-### Changes to our Privacy Policy
+Further, because we value your privacy, we have taken the necessary precautions to ensure that the Website is compliant with the California Online Privacy Protection Act.
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+### Contact Us
 
-This policy was last modified on 08/03/2015
+If you have any questions regarding this Privacy Policy, please contact us.
 
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
+Recovery Worldwide, LLC  
 Addiction Center  
 http://www.addictioncenter.com  
-424 E Central Blvd.  
-#636  
-Orlando, FL 32801  
-United States  
-contact@addictioncenter.com  
-1-800-586-9670
+424 E. Central Blvd., # 636  
+Orlando, Florida 32801  
+contact@addictioncenter.com
 
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority. 
+[1] **“Personally Identifiable Information”** means any information that may be used to identify an individual, including, but not limited to postal address, telephone number, fax number and e-mail address.  You will be asked to provide Personally Identifiable Information under various circumstances when using the Website, including when registering for services or when submitting an inquiry form to the Website.
+
+[2] **“Anonymous Information”** means information which does not enable identification of an individual user, such as aggregated information about the use of the Website and its services.
