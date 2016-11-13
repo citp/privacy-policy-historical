@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603230352id_/https%3A//www.wiknix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113175840id_/https%3A//www.wiknix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,5 +49,3 @@ We have full rights to update or change our privacy policy as per our need and w
 ### Your acceptance to this privacy
 
 Our privacy policy will be live from the moment you visit our website. When you use our website, it means that you agree our privacy policy terms. If you do not agree with our privacy policy then please leave our website.
-
-No related posts.
