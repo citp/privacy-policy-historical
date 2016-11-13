@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322164813id_/https%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113034315id_/https%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
 
 # Lowestpricetrafficschool.com - Privacy Policy and Terms of Use
 
