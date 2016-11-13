@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607142026id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113103746id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Pharmapacks-LLC/validation?rid=a9f16de6-7085-4a5c-be14-cee570eaf370 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=a9f16de6-7085-4a5c-be14-cee570eaf370 "TRUSTe Privacy Certification")
 
-_Effective Date: 04/17/2015_
+_Effective Date: 06/09/2016_
 
-This privacy policy applies to **[http://www.pharmapacks.com](http://www.pharmapacks.com/) **owned and operated by Pharmapacks LLC. This privacy policy describes how Pharmapacks LLC collects and uses the personally identifiable information you provide on our web site: [**http://www.pharmapacks.com**](http://www.pharmapacks.com/).  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
+This privacy policy applies to owned and operated by Pharmapacks LLC. This privacy policy describes how Pharmapacks LLC collects and uses the personally identifiable information you provide on our web site: [http://www.pharmapacks.com](http://www.pharmapacks.com/). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-Pharmapacks LLC. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with **[TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) **including transparency, accountability and choice regarding the collection and use of your personally [identifiable](http://www.truste.com/privacy-program-requirements/) information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [**privacy@pharmapacks.com**](mailto:privacy@pharmapacks.com). If you are not satisfied with our response you can contact [**TRUSTe here**](https://feedback-form.truste.com/watchdog/request). The TRUSTe program and this privacy policy covers only information that is collected through [**www.pharmapacks.com**](http://www.pharmapacks.com/)and does not cover information that may be collected through downloadable software.
+Pharmapacks LLC. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-We are committed to protecting your privacy. We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy. 
+The TRUSTe program covers only information that is collected through this website: http://www.pharmapacks.com and does not cover information that may be collected through software downloaded from the website.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 **Personally Identifiable Information We Collect**
 
-We collect personally identifiable information in different ways, for different reasons. General info (e.g. name, address, e-mail, phone number) and billing info (such as credit card information) are collected for the purpose of order fulfillment and if need be, follow up to ensure a satisfactory customer experience. Information associated with a state or federally issued ID is collected and stored to monitor the sale (and amount) of Ephederine, Pseudoephederine and Phenylpropanolamine to an individual customer in a specific time frame. Personal health conditions and/or allergies of a specific customer are gathered to ensure a proper drug therapy utilization review.
+We collect personally identifiable information in different ways, for different reasons. General info (e.g. name, address, e-mail, phone number) and billing info (such as credit card information) are collected for the purpose of order fulfillment and if need be, follow up to ensure a satisfactory customer experience. Information associated with a state or federally issued ID is collected and stored to monitor the sale (and amount) of Ephederine, Pseudoephederine and Phenylpropanolamine to an individual customer in a specific time frame. Personal health conditions and/or allergies of a specific customer are gathered to ensure a proper drug therapy utilization review.
 
 **How We Use Your Personally Identifiable Information**
 
@@ -34,7 +36,7 @@ We will send you strictly service-related announcements on rare occasions when i
 
 If you choose to use our gift certificate service to purchase a gift certificate for a friend on our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email providing him or her with the gift certificate. Pharmapacks, LLC stores this information for the purpose(s) of sending this one-time email and tracking the success of our program.
 
-Your friend may contact us at [**privacy@pharmapacks.com**](mailto:privacy@pharmapacks.com) to request that we remove this information from our database.
+Your friend may contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com) to request that we remove this information from our database.
 
 **Service Providers**
 
@@ -50,7 +52,7 @@ In the event Pharmapacks, LLC goes through a business transition, such as a merg
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [**customercare@pharmapacks.com**](mailto:customercare@pharmapacks.com). We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [customercare@pharmapacks.com](mailto:customercare@pharmapacks.com). We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -68,20 +70,19 @@ We use cookies to maintain user authentication, cart and checkout _._ Users can 
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We do not link this automatically collected data to other information we collect about you.  
-
+We do not link this automatically collected data to other information we collect about you.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We use a third-party tracking service that uses cookies log files to track non-personally identifiable information about visitors to our site in the aggregate, including site usage, traffic sources, visitor segmentation by browser and geography, and volume statistics, to improve customer experience and to target outreach efforts more effectively.
 
-**Local Storage Objects (HTML5)**
+**Local Storage** **(HTML5)**
 
-We use Local Storage Objects (LSOs) used by social sharing platform AddThis to store the persistent user's configuration of the AddThis sharing widget. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 **Behavioral Targeting/ Re-Targeting**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [**Here**](http://preferences-mgr.truste.com/) .  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/) . Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Links to Other Sites**
 
@@ -93,15 +94,15 @@ This privacy policy applies only to information collected by this Web site.
 
 **Social Media Widgets**
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button (and Widgets, such as the Share this button or interactive mini-programs that run on our site). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Customer Reviews**
 
-We post customer reviews on our web site which may contain personally identifiable information. When a customer chooses to post a review of a product, we may ask for their information such as name and email address. If you would like to request to have your product review removed from our site you may do so my contacting us at [**customercare@pharmapacks.com**](mailto:customercare@pharmapacks.com).
+We post customer reviews on our web site which may contain personally identifiable information. When a customer chooses to post a review of a product, we may ask for their information such as name and email address. If you would like to request to have your product review removed from our site you may do so my contacting us at [customercare@pharmapacks.com](mailto:customercare@pharmapacks.com).
 
 **Public Forums**
 
-Our Web site offers publicly accessible forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our public forum, contact us at [**forums@pharmapacks.com**](mailto:forums@pharmapacks.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our public forum, contact us at [forums@pharmapacks.com](mailto:forums@pharmapacks.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
 **Changes in this Privacy Policy**
 
@@ -109,6 +110,6 @@ We may update this privacy policy to reflect changes to our information practice
 
 **Contact Us**
 
-If you have any questions/comments about privacy, you should contact us at [**privacy@pharmapacks.com**](mailto:privacy@pharmapacks.com) or via postal mail at:
+If you have any questions/comments about privacy, you should contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com) or via postal mail at:
 
-Pharmapacks, LLC 110-25 110th Avenue, College Point NY 11356
+Pharmapacks, LLC 1516 Motor Pkwy, Islandia NY 11749
