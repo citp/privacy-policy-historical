@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freejobalert.in privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619003820id_/http%3A//www.freejobalert.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejobalert.in privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113020135id_/http%3A//www.freejobalert.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Freejobalert.in
+# Privacy Policy | FREEJobAlert.in
 
 Freejobalert.in (India) is a job and educational website. The information produce has been collected from various sources. Users are advised to check with the respected Company / Institutions for latest updates. We have no relation with the Company / Institutions and are not responsible for the validity of information provided.
 
@@ -10,5 +10,3 @@ By using our website, you agree to consent to this Privacy Policy. This website 
 
 Disclaimer:  
 The contents of this website are for general information only. Freejobalert.in (India) makes reasonable effort to ensure that the information provided on the website is correct, but does not guarantee or warrant its accuracy, correctness, validity, completeness or suitability for any purpose. Anyone using the information / material provided on website and/or downloading the components shall be doing so at his own judgment and risk. Under no circumstances shall Freejobalert.in liable to any user for any loss, claim, liability or damages of any kind whatsoever resulting.
-
-**Disclaimer**. We can not guarantee that the information on this page is 100% correct. [Read more](http://www.freejobalert.in/privacy-policy/) FREEJobAlert.in © 2016 . [Privacy Policy](http://www.freejobalert.in/privacy-policy/)
