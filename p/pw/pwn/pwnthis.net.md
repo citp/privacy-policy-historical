@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pwnthis.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606074723id_/http%3A//www.pwnthis.net/2009/09/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwnthis.net privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113175519id_/http%3A//www.pwnthis.net/2009/09/disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer @ PWNTHIS
-
-##  [Disclaimer](http://www.pwnthis.net/2009/09/disclaimer.html)
 
 #### LIKE if you want more awesome cheats!
 
