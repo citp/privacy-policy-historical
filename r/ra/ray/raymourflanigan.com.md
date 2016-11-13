@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627012644id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113013238id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Raymour and Flanigan Furniture Customer Care | Privacy Policy
 
@@ -10,11 +10,11 @@ We believe you have a right to know what information we collect and how we use i
 
 ###  Our Privacy Policy 
 
-Raymour & Flanigan Furniture is committed to protecting your personally identifiable information. As a reminder, **Raymour & Flanigan does not request personally identifiable information via e-mail or telemarketing**. If someone contacts you in either of these manners and requests personally identifiable information on behalf of Raymour & Flanigan, do not respond. Delete, disregard or hang up. These questions are not from us. If you have questions about Raymour & Flanigan’s privacy practices, [contact us](mailto:privacy@raymourflanigan.com), or call toll free at 1.866.383.4484. 
+Raymour & Flanigan Furniture is committed to protecting your personally identifiable information. As a reminder, **Raymour & Flanigan does not request personally identifiable information via e-mail or telemarketing**. If someone contacts you in either of these manners and requests personally identifiable information on behalf of Raymour & Flanigan, do not respond. Delete, disregard or hang up. These questions are not from us. If you have questions about Raymour & Flanigan’s privacy practices, [contact us](mailto:privacy@raymourflanigan.com), or call toll free at [1.866.383.4484](tel:1.866.383.4484)1.866.383.4484. 
 
 ###  Our Privacy Pledge 
 
-If you’re not comfortable shopping online or would prefer to make your purchase via telephone, just give us a call at 1.866.383.4484 (option 3). Our home furnishing advisors are standing by and will be happy to take your RaymourFlanigan.com order right over the phone. 
+If you’re not comfortable shopping online or would prefer to make your purchase via telephone, just give us a call at [1.866.383.4484](tel:1.866.383.4484)1.866.383.4484 (option 3). Our home furnishing advisors are standing by and will be happy to take your RaymourFlanigan.com order right over the phone. 
 
 ###  What Type of Information Do We Collect? 
 
@@ -26,7 +26,7 @@ You may also create an account through RaymourFlanigan.com at any time by provid
 
 When you visit RaymourFlanigan.com, small text files known as "cookies" will be stored on your computer's hard drive. Cookies allow us to enhance and customize your online shopping experience and improve the design of our site. These cookies store random ID numbers and site navigation information, such as your first and last visits, number of visits, shopping cart contents and the pages you viewed on our site. The information stored in a cookie cannot be used to identify you personally unless it's combined with information you provided in connection with a purchase, setting up an account or registering for promotional e-mails or surveys. 
 
-Most Web browsers automatically accept cookies, but you may configure your browser to not accept them. If your cookies are disabled, you can browse on RaymourFlanigan.com, but you will not be able to complete a purchase or take advantage of certain features of this site. Each browser is different, so check your browser's "Help" menu to learn how to change your cookie preferences. If you would like to place an order on our site but have disabled or are unable to use cookies, please feel free to place your order via our toll free number: 1.866.383.4484 (option 3). 
+Most Web browsers automatically accept cookies, but you may configure your browser to not accept them. If your cookies are disabled, you can browse on RaymourFlanigan.com, but you will not be able to complete a purchase or take advantage of certain features of this site. Each browser is different, so check your browser's "Help" menu to learn how to change your cookie preferences. If you would like to place an order on our site but have disabled or are unable to use cookies, please feel free to place your order via our toll free number: [1.866.383.4484](tel:1.866.383.4484)1.866.383.4484 (option 3). 
 
 Third-Party Cookies  We may use third-party advertising companies to serve ads on our behalf. These companies do not collect information that can personally identify you, but they may use information about your visits to our website and other websites to measure the effectiveness of ads. We do not disclose any personally identifiable information to these companies. For more information and to opt out from third-party advertising please visit: <http://www.networkadvertising.org/managing/opt_out.asp>
 
@@ -59,18 +59,18 @@ Aside from the purposes described above, we will never share your personally ide
 
 We have in place reasonable commercial standards of technology and operational security designed to protect all personally identifiable information you submitted on the RaymourFlanigan.com site from unauthorized third-party access 
 
-Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at RaymourFlanigan.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone toll free at 1.866.383.4484 (option 3). Our home furnishing advisors will be happy to assist you. 
+Some browser versions and some firewalls don't permit communication through secure servers like the ones we use to process orders at RaymourFlanigan.com. If for any reason you cannot access the secure server, please feel free to place your order with us by phone toll free at [1.866.383.4484](tel:1.866.383.4484)1.866.383.4484 (option 3). Our home furnishing advisors will be happy to assist you. 
 
 ###  Accessing and Updating Your Information 
 
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [My Account](https://web.archive.org/web/20150627012644id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then click on "Update Your Contact Information." 
+You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [My Account](https://web.archive.org/web/20161113013238id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then click on "Update Your Contact Information." 
 
 As a customer or subscriber, you will occasionally receive e-mail communications about new Raymour & Flanigan products, special offers we think you'll like and requests for feedback. Raymour & Flanigan is an opt-out organization. You always have the ability to opt in or opt out of receiving future marketing communications from Raymour & Flanigan. 
 
 To opt out of or opt in to receiving marketing communications from Raymour & Flanigan, please take one of the following actions: 
 
   * Follow the directions on marketing e-mail.
-  * Call toll free (1.866.383.4484) and provide your current contact information.
+  * Call toll free ([1.866.383.4484](tel:1.866.383.4484)1.866.383.4484) and provide your current contact information.
   * Or, send a request with your current contact information to:   
 Raymour & Flanigan   
 Attn: Web Marketing Manager (for e-mail) or Attn: Manager of Direct Mail (for direct mail)   
@@ -99,6 +99,22 @@ RaymourFlanigan.com may contain links to other websites. We are not responsible 
 ###  Children's Privacy Protection 
 
 Raymour & Flanigan understands the importance of protecting children's privacy in the interactive online world. We do not intentionally collect or maintain personally identifiable information about anyone under the age of 13. If you believe that we might have personally identifiable information from or about anyone under the age of 13, please [contact us](mailto:privacy@raymourflanigan.com). 
+
+### SMS Text Message Privacy Policy
+
+1\. To join “Raymour Alerts”, text “JOIN" to 44998.
+
+2\. You must be 13 years of age or older to participate in "Raymour Alerts". 
+
+3\. Your carrier's message and data rates may apply. All charges are billed by and payable to your mobile service provider. Raymour & Flanigan does not charge you for sending or receiving text messages to 44998.
+
+4\. We will not be liable for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from your network operator.
+
+5\. Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, the date, time and content of your messages and other information you provide to us as part of this service. We may use this information to contact you and to provide the services you request from us.
+
+6\. Maximum number of messages per month: 2-3. You can unsubscribe at any time by texting **"STOP"** to 44998. If you have any questions, reply **"HELP"** to 44998 or contact us at [1.866.383.4484](tel:1.866.383.4484)1.866.383.4484.
+
+7\. The service is available on these US carriers only: AT&T, Verizon-Alltel, T-Mobile® (T-Mobile is not liable for delayed or undelivered messages), Sprint & U.S. Cellular, MetroPCS, Virgin Mobile, Cricket, nTelos, Cellcom, C Spire Wireless (Cellsouth), Cincinnati Bell, Carolina West Wireless, Appalachian Wireless, Chariton Valley Cellular, Coral Wireless, Cross (dba Sprocket), DTC Wireless, Duet IP, EpicTouch, Leaco, Mosaic, Nemont/Sagebrush, Peoples Wireless, Pine Cellular, Pioneer, Revol Wireless, Rina-Custer, Rina-All West, Rina-Cambridge Telecom Coop, Rina- Eagle Valley Comm, Rina- Farmers Mutual Telephone Co, Rina- Nucla Nutria Telephone Co, Rina- Silver Star, Rins – South Central Comm, Rina- Syringa, Rina- UBET, Rina- Manti, United Wireless, Aio Wireless, ACS Wireless, Bluegrass Cellular, Cellone Nation, Cellular One of East Central Illinois, Chat Mobility, Element Mobile, Flat Wireless, LLC, GCI Communications, Golden State Cellular, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, iWireless, Nex-Tech Wireless, Northwest Missouri Cellular, Panhandle Telecommunications, Plateau Wireless, SouthernLINC Wireless, SouthernLINC Communications, Thumb Cellular, Viaero Wireless, West Central Wireless WCC. 
 
 ###  Changes to the RaymourFlanigan.com Privacy Policy 
 
