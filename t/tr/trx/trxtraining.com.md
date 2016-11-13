@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trxtraining.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402235115id_/https%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trxtraining.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113172806id_/https%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Fitness Anywhere, LLC ("Fitness Anywhere") respects your privacy, and is committed to reasonable measures to safeguard personally identifiable information you may share with us.
+Fitness Anywhere LLC ("Fitness Anywhere") respects your privacy, and is committed to reasonable measures to safeguard personally identifiable information you may share with us.
 
 Fitness Anywhere's Privacy Policy (hereinafter referred to as "The Policy") is designed to help you understand how we collect and use the information you decide to share, and help you make informed decisions when providing personally identifiable information to Fitness Anywhere as a visitor or registered user at [**www.trxtraining.com**](http://www.trxtraining.com/).
 
@@ -72,7 +72,11 @@ Fitness Anywhere currently does not respond to DNT signals in browsers.   Whil
 
 Third parties that have content embedded on Fitness Anywhere’s website (such as buttons, widgets, and other embedded features or content) may set cookies on a user’s browser and/or obtain information about the fact that you visited our website from a certain IP address. Third parties cannot collect any other personally identifiable information from Fitness Anywhere’s website unless you provide it to them directly.
 
-##  What about the rights of those in Fitness Anywhere's Home base, California?
+##  Email to a Friend Promotions
+
+From time to time, Fitness Anywhere may contact individuals based on information that you may provide us that will be used for "refer a friend" or similar email to a friend promotions. You must have the consent of those individuals whose information you are providing to us. By submitting the information of such individuals, you confirm that you have that individual’s prior consent (a) to his/her name and email address being disclosed to us, and (b) to our contacting them. Fitness Anywhere reserves the right to disclose that we have obtained the individual’s information from you and that we are contacting them because you have told us they may be interested in our website and have provided us with their name and email address.You are solely responsible for any personal messages you submit to the individual. You must not submit any message containing content that is illegal, obscene, indecent, offensive, blasphemous, defamatory or otherwise inappropriate.
+
+##  What about the rights of those in Fitness Anywhere's home base, California?
 
 Residents of the State of California have the right to request a list of all third parties to which Fitness Anywhere has disclosed certain information during the preceding year for the third parties' direct marketing purposes.
 
@@ -80,8 +84,8 @@ However, it is our policy to neither disclose personal information, nor to sell 
 
 ##  How can you contact Fitness Anywhere with inquiries or complaints?
 
-If you have any questions or complaints about The Policy, please contact us at [ **privacy@trxtraining.com**](mailto:privacy@trxtraining.com). You may also contact us by mail at Fitness Anywhere, 755 Sansome St, San Francisco, CA 94111. Complaints will be resolved internally in accordance with our complaints procedures. If you live in the European Union or Switzerland and efforts to resolve the matter internally are unsatisfactory, the complaint may be submitted to the [ **American Arbitration Association**](http://www.adr.org/), which has been selected as the independent recourse mechanism to resolve complaints and disputes relating to treatment of data originating in the European Union or Switzerland under this policy.
+If you have any questions or complaints about The Policy, please contact us at [ **privacy@trxtraining.com**](mailto:privacy@trxtraining.com). You may also contact us by mail at Fitness Anywhere, 1660 Pacific Ave , San Francisco, CA 94109. Complaints will be resolved internally in accordance with our complaints procedures. If you live in the European Union or Switzerland and efforts to resolve the matter internally are unsatisfactory, the complaint may be submitted to the [ **American Arbitration Association**](http://www.adr.org/), which has been selected as the independent recourse mechanism to resolve complaints and disputes relating to treatment of data originating in the European Union or Switzerland under this policy.
 
-References to "we," "us," and "our" references to Fitness Anywhere, LLC and its affiliates.
+References to "we," "us," and "our" references to Fitness Anywhere LLC and its affiliates.
 
 This Policy does not supersede the [ **Terms of Use**](https://web.archive.org/terms-of-use) that govern your use of the site. Any conflict between the two shall be resolved in favor of the [ **Terms of Use**](https://web.archive.org/terms-of-use).
