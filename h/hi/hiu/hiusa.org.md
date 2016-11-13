@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323155205id_/https%3A//www.hiusa.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113020149id_/https%3A//www.hiusa.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Hostelling International USA Privacy Policy | HI USA
-
-## Privacy Policy 
 
 This document outlines Hostelling International USA's (HI-USA) online privacy policy, which governs personal information gathered on the national web site www.hiusa.org and its aliases.
 
