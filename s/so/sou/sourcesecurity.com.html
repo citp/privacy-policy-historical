@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sourcesecurity.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608152231id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sourcesecurity.com privacy policy that was archived on 2016-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161113182835id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><title>Privacy Policy and Cookie Policy - SourceSecurity.com</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="keywords" content="CCTV, Dome cameras, CCTV Camera,cctv cameras, security cameras, security news, security related news, security events,  video surveillance, security systems, wireless security cameras, surveillance cameras, wireless camera, home security cameras, wireless security camera, surveillance camera, burglar alarm, digital recorder, access control systems, intercom systems, burglar alarms, cctv security camera, multiplexers, access control cards, ip camera,wireless ip cameras, telemetry solution, telemetry transmitter, home intercom, transmission systems, biometric devices, biometric access control, biometric, biometrics, motion detectors, motion detector, airport security, pan tilt zoom camera, lens, lenses"><meta name="description" content="SourceSecurity.com, the complete industry guide for security products, including CCTV cameras, access control systems, wireless security cameras, network security cameras, biometric readers, smart card readers, infrared cameras, security surveillance and wireless security system."><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="/includes/css/styles-all.css" rel="stylesheet" type="text/css"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580439000000/454960.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://script.crazyegg.com/pages/scripts/0044/7020.js?439010" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><!--<script src="http://js.security-images.com/external-links-automate.js"></script>--><script src="http://js.security-images.com/functions.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.min.js"></script><link href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet" type="text/css"><link href="/admin/css/validate-form.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html lang="en"><head><title>Privacy Policy and Cookie Policy - SourceSecurity.com</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="keywords" content="CCTV, Dome cameras, CCTV Camera,cctv cameras, security cameras, security news, security related news, security events,  video surveillance, security systems, wireless security cameras, surveillance cameras, wireless camera, home security cameras, wireless security camera, surveillance camera, burglar alarm, digital recorder, access control systems, intercom systems, burglar alarms, cctv security camera, multiplexers, access control cards, ip camera,wireless ip cameras, telemetry solution, telemetry transmitter, home intercom, transmission systems, biometric devices, biometric access control, biometric, biometrics, motion detectors, motion detector, airport security, pan tilt zoom camera, lens, lenses"><meta name="description" content="SourceSecurity.com, the complete industry guide for security products, including CCTV cameras, access control systems, wireless security cameras, network security cameras, biometric readers, smart card readers, infrared cameras, security surveillance and wireless security system."><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="/includes/css/styles-all.css" rel="stylesheet" type="text/css"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580439000000/454960.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://script.crazyegg.com/pages/scripts/0044/7020.js?439010" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><!--<script src="/includes/js/external-links-automate.js"></script>--><script src="/includes/js/functions.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.min.js"></script><link href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet" type="text/css"><link href="/admin/css/validate-form.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 (function() {
 	var useSSL = 'https:' == document.location.protocol;
@@ -30,7 +30,9 @@ $(function()
 {
 	show_data_capture_popup = function(db_content_type, content_type, ga_content_type, content_link_id, content_link, content_url)
 	{
-		if (screen.width < 500) return false;
+		if(screen.width < 500 && content_type == 'General')
+			return false;
+
 		ga('send', 'event', 'Data Capture Popup', 'Open', ga_content_type, {'nonInteraction': 1});
 		$.fancybox.open({
 		type		: 'iframe',	
@@ -142,6 +144,79 @@ $(function()
 </script>
 
 
+<style>
+.fancybox-outer, .fancybox-inner, .fancybox-skin {
+    border-radius:10px !important;
+}
+</style>
+<script>
+$(function()
+{
+	show_hid_data_capture_popup= function(popup_type)
+	{
+		// Set default value to Popup if popup type is not defined
+		var content_url = window.location.href;
+		var page_title = 'Privacy Policy and Cookie Policy - SourceSecurity.com';
+
+		ga('send', 'event', 'HID Lead Gen DCP - Visitor Management', 'Open', 'Popup', {'nonInteraction': 1});
+		$.fancybox.open({
+		type		: 'iframe',	
+		href		: '/no-template/lead-gen-data-capture-popup.inc.php?content_link=' + content_url + '&page_title=' + page_title,
+		autoSize	: true,
+		margin		: 0,
+		padding		: 0,
+		autoCenter	: true,
+		maxWidth	: 667,
+		minHeight   : 397,
+		modal 		: false,
+		iframe : {
+			scrolling : 'no'
+		},
+		beforeClose	: function()
+					{
+						if(fancybox_closedFromIframe == false)
+						{
+							$.cookie('hid_no_data_capture', 'yes', { path: '/' });
+							ga('send', 'event', 'HID Lead Gen DCP - Visitor Management', 'Close', 'Popup', {'nonInteraction': 1});
+						}
+					},
+		afterClose  : function()
+					{
+						fancybox_closedFromIframe= false; // reset flag
+					},
+		beforeShow: function()
+		            {
+					   this.width = $('.fancybox-iframe').contents().find('html').width();
+					   this.height = $('.fancybox-iframe').contents().find('html').height();
+					}
+		});	
+	}
+
+	var show_hid_dc_popup= 'yes';
+
+	if(show_hid_dc_popup == 'yes' && navigator.platform.toUpperCase().indexOf('MAC')<0)
+	{
+		// This is to check is there a fancybox already open - (Required for download content click, both the popups may come up)
+		if(!($.fancybox.isOpen)) 
+		{
+			show_hid_data_capture_popup();
+		}
+	}
+
+	// $('.avigilon_show_data_capture').click(function(e)
+	// {
+	// 	e.preventDefault();
+
+	// 	var popup_type= $(this).attr('popup_type');
+	// 	if(typeof popup_type === typeof undefined || popup_type === false)
+	// 		popup_type= null;
+
+	// 	show_avigilon_data_capture_popup(popup_type);
+	// });
+});
+</script>
+
+
 <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -216,7 +291,7 @@ if(document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi))
 	if(!!navigator.userAgent.match(/Trident\/7\./))
 		$('#div-gpt-ad-Stereo-Banner-Sitewide').css('z-index', '-1000');
 	</script>
-	</div></div><div class="page width-to-full"><div id="geo_redirect_header_bar" class="hide-in-tablet"><a href="http://us.sourcesecurity.com/info/privacy-policy.html" onclick="ga('send', 'event', 'US Redirect', 'Redirect', 'Header bar', {'nonInteraction': 1});"><img src="http://i.security-images.com/us/header-bar.gif" width="981" height="36" border="0" alt="SourceSecurity.com US Edition"></a></div><div></div><div class="header width-to-full"><div class="login_button hide-in-tablet"><a href="http://www.sourcesecurity.com/login.html" title="Login"><img src="http://i.security-images.com/login-button.jpg" width="47" height="15" alt="Login" border="0"></a></div><div class="logo_tl "><a href="http://www.sourcesecurity.com/" title="Lens, CCTV Camera, Digital Recorder, Telemetric Transmitter and Controller, Intruder Alarm Control Panel, Access Control Reader, Dome Camera"><img src="http://i.security-images.com/logo.jpg" width="374" height="49" alt="Security camera lens, CCTV Camera, Digital Recorder, Telemetric Transmitter and Controller, Intruder Alarm Control Panel, Access Control Reader, Dome Camera" title="Security camera lens, CCTV Camera, Digital Recorder, Telemetric Transmitter and Controller, Intruder Alarm Control Panel, Access Control Reader, Dome Camera" border="0"></a></div><div class="header_topnav hide-in-tablet"><a href="http://www.sourcesecurity.com/" title="SourceSecurity.com, the complete security industry guide">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sourcesecurity.com/mysourcesecurity.html" title="Settings">Settings</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sourcesecurity.com/info/marketing-options.html" title="Marketing Options">Marketing Options</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sourcesecurity.com/info/e-newsletters.html" title="eNewsletters">eNewsletters</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sourcesecurity.com/info/about-us.html" title="About SourceSecurity.com">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sourcesecurity.com/faqs.html" title="Frequently Asked Questions (FAQs)">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sourcesecurity.com/contact-us.html" title="Contact Us">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/groups/2907220" style="padding-right:5px;" target="_blank" id="header_linkedin_link"><img src="http://i.security-images.com/buttons/linkedin-join.jpg" alt="Join SourceSecurity.com on LinkedIn" width="55" style="vertical-align:middle"></a>
+	</div></div><div class="page width-to-full"><div id="geo_redirect_header_bar" class="hide-in-tablet"><a href="http://us.sourcesecurity.com/info/privacy-policy.html" onclick="ga('send', 'event', 'US Redirect', 'Redirect', 'Header bar', {'nonInteraction': 1});"><img src="http://i.security-images.com/us/header-bar.gif" width="981" height="36" border="0" alt="SourceSecurity.com US Edition"></a></div><div></div><div class="header width-to-full"><div class="login_button hide-in-tablet"><a href="https://www.sourcesecurity.com/login.html" title="Login"><img src="http://i.security-images.com/login-button.jpg" width="47" height="15" alt="Login" border="0"></a></div><div class="logo_tl "><a href="/" title="Lens, CCTV Camera, Digital Recorder, Telemetric Transmitter and Controller, Intruder Alarm Control Panel, Access Control Reader, Dome Camera"><img src="http://i.security-images.com/logo.jpg" width="374" height="49" alt="Security camera lens, CCTV Camera, Digital Recorder, Telemetric Transmitter and Controller, Intruder Alarm Control Panel, Access Control Reader, Dome Camera" title="Security camera lens, CCTV Camera, Digital Recorder, Telemetric Transmitter and Controller, Intruder Alarm Control Panel, Access Control Reader, Dome Camera" border="0"></a></div><div class="header_topnav hide-in-tablet"><a href="/" title="SourceSecurity.com, the complete security industry guide">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/mysourcesecurity.html" title="Settings">Settings</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/marketing-options.html" title="Marketing Options">Marketing Options</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/e-newsletters.html" title="eNewsletters">eNewsletters</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/about-us.html" title="About SourceSecurity.com">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/faqs.html" title="Frequently Asked Questions (FAQs)">FAQs</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/groups/2907220" style="padding-right:5px;" target="_blank" id="header_linkedin_link"><img src="http://i.security-images.com/buttons/linkedin-join.jpg" alt="Join SourceSecurity.com on LinkedIn" width="55" style="vertical-align:middle"></a>
 		<script>
 			$(document).ready(function() {
 
@@ -231,7 +306,7 @@ if(document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi))
 				});
 			});
 		</script>
-	</div><div class="header_mainnav hide-in-big-phone hide-in-phone"><ul id="sddm"><li><a class="header_nav_first " onmouseout="mclosetime()" onmouseover="mopen('m1')" href="http://www.sourcesecurity.com/product-categories/cctv.html" title="Security Products Catalog">Products</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m1" style="visibility: hidden; width:169px;"><a href="http://www.sourcesecurity.com/new-products.html" class="np_showcase" title="Electronic Security Products">New Product Showcase</a><a href="http://www.sourcesecurity.com/product-categories/cctv.html" title="CCTV Products - CCTV Cameras, Lenses, Kits, Accessories">CCTV</a><a href="http://www.sourcesecurity.com/product-categories/access-control.html" title="Access Control Products &amp; Systems">Access Control</a><a href="http://www.sourcesecurity.com/product-categories/intruder-alarms.html" title="Intruder Alarms / Burglar Alarms">Intruder Alarms</a><a href="http://www.sourcesecurity.com/product-services/integrated-systems.html" title="Integrated Security Systems">Integrated Systems</a><a href="http://www.sourcesecurity.com/technology-areas/network-ip.html" title="Network/ IP Security Products">Network / IP</a><a href="http://www.sourcesecurity.com/technology-areas/biometrics.html" title="Biometric Security Products">Biometrics</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m2&quot;)" href="http://www.sourcesecurity.com/companies.html" title="Security Company Directory">Companies</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m2" style="visibility: hidden; width:169px;"><a href="http://www.sourcesecurity.com/companies.html" title="All companies">All Companies</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.manufacturers.html" title="Security products manufacturers">Manufacturers</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.distributors.html" title="Security products distributors">Distributors</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.resellers-dealers-reps.html" title="Security products resellers/dealers/reps">Resellers / Dealers / Reps</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.installers.html" title="Security installers &amp; installation companies">Installers</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.consultants.html" title="Security consultants">Consultants</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.systems-integrators.html" title="Security systems integrators">Systems integrators</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.events-training-services.html" title="Events, Training, Services companies">Events, Training, Services</a><a href="http://www.sourcesecurity.com/companies/search-results/company-search/t.manned-guarding.html" title="Manned guarding / Security guard companies">Manned guarding</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m3&quot;)" href="http://www.sourcesecurity.com/news.html" title="Security news">News</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m3" style="visibility: hidden; width:169px;"><a href="http://www.sourcesecurity.com/news/events/ifsec-2016.html" class="np_showcase" title="IFSEC 2016" onclick="ga('send', 'event', 'IFSEC 2016 Promotion', 'click', 'Tab', {'nonInteraction': 1});">IFSEC 2016 Coverage</a><a href="http://www.sourcesecurity.com/news/industry-news.html" title="Security industry news"> Expert Commentary</a><a href="http://www.sourcesecurity.com/news/larry-anderson-security-beat.html" title="Larry Anderson's Security Beat"><img src="http://i.security-images.com/people/thumbnails/Larry-anderson-ssc-us-editor.jpg" width="17" height="17" alt="Larry Anderson" align1="left" style="float:left;padding-right:10px;"> Security Beat</a><a href="http://www.sourcesecurity.com/news/new-product-releases.html" title="Product News"> Product News</a><a href="http://www.sourcesecurity.com/news/corporate-news.html" title="Security company news"> Corporate News</a><a href="http://www.sourcesecurity.com/news/applications-news.html" title="Security applications news"> Applications News</a><a href="http://www.sourcesecurity.com/news/events-news.html" title="Security events &amp; tradeshow news"> Events News</a><a href="/news/round-table.html" title="Round Table Discussions ">Round Table Discussions</a><a href="/news/round-table/people.html" title="Round Table Panellists">Round Table Expert Panel</a><a href="http://www.sourcesecurity.com/security-industry-annual-review/2015.html" class="np_showcase" title="Year in Review 2015" onclick="ga('send', 'event', 'Year in Review 2015 Promotion', 'click', 'Tab', {'nonInteraction': 1});">Year in Review 2015</a><a href="http://www.sourcesecurity.com/security-industry-annual-review/2014.html" class="" title="Year in Review 2014" onclick="ga('send', 'event', 'Year in Review 2014 Promotion', 'click', 'Tab', {'nonInteraction': 1});">Year in Review 2014</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m4&quot;)" href="http://www.sourcesecurity.com/security-product-markets.html" title="Security Products &amp; Application Case Studies By Market">Markets</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m4" style="visibility: hidden; width:200px;"><a href="http://www.sourcesecurity.com/markets/airports-and-ports.html" title="Airports &amp; Ports">Airports &amp; Ports</a><a href="http://www.sourcesecurity.com/markets/banking-and-finance.html" title="Banking &amp; Finance">Banking &amp; Finance</a><a href="http://www.sourcesecurity.com/markets/education.html" title="Education">Education</a><a href="http://www.sourcesecurity.com/markets/government-and-public-services.html" title="Government &amp; Public Services">Government &amp; Public Services</a><a href="http://www.sourcesecurity.com/markets/healthcare.html" title="Healthcare">Healthcare</a><a href="http://www.sourcesecurity.com/markets/hotels-leisure-and-entertainment.html" title="Hotels, Leisure &amp; Entertainment">Hotels, Leisure &amp; Entertainment</a><a href="http://www.sourcesecurity.com/markets/industrial-and-commercial.html" title="Industrial &amp; Commercial">Industrial &amp; Commercial</a><a href="http://www.sourcesecurity.com/markets/remote-monitoring.html" title="Remote Monitoring">Remote Monitoring</a><a href="http://www.sourcesecurity.com/markets/retail-and-eas.html" title="Retail &amp; EAS">Retail &amp; EAS</a><a href="http://www.sourcesecurity.com/markets/transportation.html" title="Transportation">Transportation</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m5&quot;)" href="http://www.sourcesecurity.com/events.html" title="Security industry events &amp; tradeshows">Events</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m5" style="visibility: hidden; width:169px;"><a href="http://www.sourcesecurity.com/events.html" title="All events">All events</a><a href="http://www.sourcesecurity.com/events/search-results/o.et,et.international-security.html" title="International security">International security</a><a href="http://www.sourcesecurity.com/events/search-results/o.et,et.regional-security.html" title="Regional security">Regional security</a><a href="http://www.sourcesecurity.com/events/search-results/o.et,et.vertical-market.html" title="Vertical market">Vertical market</a><a href="http://www.sourcesecurity.com/events/search-results/o.et,et.technology-areas.html" title="Technology areas">Technology areas</a><a href="http://www.sourcesecurity.com/events/search-results/o.et,et.conferences-seminars.html" title="Conferences / seminars">Conferences / seminars</a><a href="http://www.sourcesecurity.com/events/search-results/o.et,et.company-sponsored.html" title="Company sponsored">Company sponsored</a></div></li><li><a class="" onmouseout="mclosetime()" onmouseover="mopen('m6')" href="http://www.sourcesecurity.com/security-videos.html" title="Videos">Videos</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m6" style="visibility: hidden; width:169px;"><a href="http://www.sourcesecurity.com/security-videos/products.html" title="Products">Products</a><a href="http://www.sourcesecurity.com/security-videos/corporate.html" title="Corporate">Corporate</a><a href="http://www.sourcesecurity.com/security-videos/security-installations.html" title="Case studies">Case studies</a><a href="http://www.sourcesecurity.com/security-videos/trade-shows.html" title="Trade shows">Trade shows</a></div></li><li class="hide-in-small-tablet"><a class="header_nav_last1 " onmouseout="mclosetime()" onmouseover="mopen('m7')" href="javascript:;" title="Resources">Webinars</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m7" style="visibility: hidden; width:200px;"><a href="/webinars/how-surveillance-trends-impact-storage-needs-4k-and-beyond.html" title="How Surveillance Trends Impact Video Storage Needs: 4K and Beyond">4k &amp; Beyond Webinar</a><a href="/webinars/how-surveillance-trends-impact-storage-needs-business-intelligence.html" title="How Surveillance Trends Impact Storage Needs: Business Intelligence">Business Intelligence Webinar</a><a href="/webinars/how-surveillance-trends-impact-storage-needs-video-analytics.html" title="How Surveillance Trends Impact Storage Needs: Video Analytics">Video Analytics Webinar</a></div></li><li><a href="http://www.sourcesecurity.com/white-papers.html" class="header_nav_last " onmouseout="mclosetime()" onmouseover="mopen('m8')" title="White Papers">White Papers</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m8" style="visibility: hidden; width:205px;"><a href="/white-papers/access-control-systems.html" title="Access Control Systems">Access Control Systems</a><a href="/white-papers/alarm-management.html" title="Alarm Management">Alarm Management</a><a href="/white-papers/integrated-surveillance-systems.html" title="Integrated Surveillance systems">Integrated Surveillance systems</a><a href="/white-papers/network-surveillance.html" title="Network surveillance">Network surveillance</a><a href="/white-papers/physical-asset-management.html" title="Physical Asset Management">Physical Asset Management</a><a href="/white-papers/power-supply-systems.html" title="Power Supply Systems">Power Supply Systems</a><a href="/white-papers/surveillance-software.html" title="Surveillance software">Surveillance software</a><a href="/white-papers/surveillance-standards.html" title="Surveillance Standards">Surveillance Standards</a><a href="/white-papers/surveillance-storage.html" title="Surveillance Storage">Surveillance Storage</a><a href="/white-papers/video-analytics.html" title="Video analytics">Video analytics</a><a href="/white-papers/video-compression.html" title="Video compression">Video compression</a><a href="/white-papers/video-management-systems.html" title="Video Management Systems">Video Management Systems</a><a href="/white-papers/video-surveillance.html" title="Video surveillance">Video surveillance</a></div></li></ul></div><div class="registrationbox hide-in-tablet"><form action="/ultra-register.html" method="post" name="frmeNewsletter"><strong class="registration-label">REGISTER</strong><input name="useremail" type="email" class="search-box" placeholder="Enter your email address"><a href="/info/terms-and-conditions.html" target="_blank">Terms</a><input name="submit" type="submit" class="registration-box-btn" value="GO"><input type="hidden" name="page_title" value="Privacy Policy and Cookie Policy - SourceSecurity.com"><input type="hidden" name="page_url" value="http://www.sourcesecurity.com/info/privacy-policy.html"></form></div><div class="clearit"></div><div class="searchbox hide-in-tablet" style="position: relative;"><form name="frmSearch" id="frmSearch" method="get" action="/keyword-search.html" onsubmit="return ValidateKeywordSearch(this);" autocomplete="off"><div><input type="hidden" name="ie" value="UTF-8"><input name="cx" type="hidden" value="008496319178451988125:2d_izq15sn4"><input name="q" id="q" type="text" class="srbox" autocomplete="off"><input name="submit" type="submit" class="search-btn" value="   "></div></form></div><div id="div-gpt-ad-Peel_Back-Sitewide"><script type="text/javascript">googletag.display('div-gpt-ad-Peel_Back-Sitewide');</script></div></div> <div class="page_content" id="page_content"><div class="page_content_head hide-in-tablet"><div class="floatleft"><div class="margin_bot_5" id="graphicspanel"><div id="regular_gp" style=""><img alt="Everything you need know" src="http://i.security-images.com/masthead-banners/parrots - everything.jpg" width="650" height="156" class="margin_bot_space" usemap="#gp"></div></div><div class="breadcrumb_div_extended">Navigation: Information&nbsp;&gt;&gt;&nbsp;<a href="/info/privacy-policy.html" class="breadcrum">Privacy Policy and Cookie Policy</a></div></div><div id="div-gpt-ad-Special-Feature-Sitewide" class="floatright" style="width:300px;"><script type="text/javascript">googletag.display("div-gpt-ad-Special-Feature-Sitewide");</script></div><div class="clearit"></div><div class="clearit"></div></div><div class="floatleft margin_bot_1 hide-in-tablet" id="div-gpt-ad-StaticContent-Main-MastheadBanner-728x60"><script type="text/javascript">googletag.display('div-gpt-ad-StaticContent-Main-MastheadBanner-728x60');</script></div><div class="floatright advertisers_panel_01 square_bullets hide-in-tablet"><ul><li><a href="http://www.sourcesecurity.com/info/marketing-options.html">Info for advertisers</a></li><li><a href="http://www.sourcesecurity.com/companies/register.html">Submit details for free company listing</a></li><li><a href="http://www.sourcesecurity.com/events/submit-event.html">Submit details for free event listing</a></li></ul></div><div class="clearit"></div>
+	</div><div class="header_mainnav hide-in-big-phone hide-in-phone"><ul id="sddm"><li><a class="header_nav_first " onmouseout="mclosetime()" onmouseover="mopen('m1')" href="/product-categories/cctv.html" title="Security Products Catalog">Products</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m1" style="visibility: hidden; width:169px;"><a href="/new-products.html" class="np_showcase" title="Electronic Security Products">New Product Showcase</a><a href="/product-categories/cctv.html" title="CCTV Products - CCTV Cameras, Lenses, Kits, Accessories">CCTV</a><a href="/product-categories/access-control.html" title="Access Control Products &amp; Systems">Access Control</a><a href="/product-categories/intruder-alarms.html" title="Intruder Alarms / Burglar Alarms">Intruder Alarms</a><a href="/product-services/integrated-systems.html" title="Integrated Security Systems">Integrated Systems</a><a href="/technology-areas/network-ip.html" title="Network/ IP Security Products">Network / IP</a><a href="/technology-areas/biometrics.html" title="Biometric Security Products">Biometrics</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m2&quot;)" href="/companies.html" title="Security Company Directory">Companies</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m2" style="visibility: hidden; width:169px;"><a href="/companies.html" title="All companies">All Companies</a><a href="/companies/search-results/company-search/t.manufacturers.html" title="Security products manufacturers">Manufacturers</a><a href="/companies/search-results/company-search/t.distributors.html" title="Security products distributors">Distributors</a><a href="/companies/search-results/company-search/t.resellers-dealers-reps.html" title="Security products resellers/dealers/reps">Resellers / Dealers / Reps</a><a href="/companies/search-results/company-search/t.installers.html" title="Security installers &amp; installation companies">Installers</a><a href="/companies/search-results/company-search/t.consultants.html" title="Security consultants">Consultants</a><a href="/companies/search-results/company-search/t.systems-integrators.html" title="Security systems integrators">Systems integrators</a><a href="/companies/search-results/company-search/t.events-training-services.html" title="Events, Training, Services companies">Events, Training, Services</a><a href="/companies/search-results/company-search/t.manned-guarding.html" title="Manned guarding / Security guard companies">Manned guarding</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m3&quot;)" href="/news.html" title="Security news">News</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m3" style="visibility: hidden; width:169px;"><a href="/news/industry-news.html" title="Security industry news"> Expert Commentary</a><a href="/news/larry-anderson-security-beat.html" title="Larry Anderson's Security Beat"><img src="http://i.security-images.com/people/thumbnails/Larry-anderson-ssc-us-editor.jpg" width="17" height="17" alt="Larry Anderson" align1="left" style="float:left;padding-right:10px;"> Security Beat</a><a href="/news/new-product-releases.html" title="Product News"> Product News</a><a href="/news/corporate-news.html" title="Security company news"> Corporate News</a><a href="/news/applications-news.html" title="Security applications news"> Applications News</a><a href="/news/events-news.html" title="Security events &amp; tradeshow news"> Events News</a><a href="/news/round-table.html" title="Round Table Discussions ">Round Table Discussions</a><a href="/news/round-table/people.html" title="Round Table Panellists">Round Table Expert Panel</a><a href="http://www.sourcesecurity.com/security-industry-annual-review/2015.html" class="np_showcase" title="Year in Review 2015" onclick="ga('send', 'event', 'Year in Review 2015 Promotion', 'click', 'Tab', {'nonInteraction': 1});">Year in Review 2015</a><a href="http://www.sourcesecurity.com/security-industry-annual-review/2014.html" class="" title="Year in Review 2014" onclick="ga('send', 'event', 'Year in Review 2014 Promotion', 'click', 'Tab', {'nonInteraction': 1});">Year in Review 2014</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m4&quot;)" href="/security-product-markets.html" title="Security Products &amp; Application Case Studies By Market">Markets</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m4" style="visibility: hidden; width:200px;"><a href="/markets/airports-and-ports.html" title="Airports &amp; Ports">Airports &amp; Ports</a><a href="/markets/banking-and-finance.html" title="Banking &amp; Finance">Banking &amp; Finance</a><a href="/markets/education.html" title="Education">Education</a><a href="/markets/government-and-public-services.html" title="Government &amp; Public Services">Government &amp; Public Services</a><a href="/markets/healthcare.html" title="Healthcare">Healthcare</a><a href="/markets/hotels-leisure-and-entertainment.html" title="Hotels, Leisure &amp; Entertainment">Hotels, Leisure &amp; Entertainment</a><a href="/markets/industrial-and-commercial.html" title="Industrial &amp; Commercial">Industrial &amp; Commercial</a><a href="/markets/remote-monitoring.html" title="Remote Monitoring">Remote Monitoring</a><a href="/markets/retail-and-eas.html" title="Retail &amp; EAS">Retail &amp; EAS</a><a href="/markets/transportation.html" title="Transportation">Transportation</a></div></li><li><a onmouseout="mclosetime()" onmouseover="mopen(&quot;m5&quot;)" href="/events.html" title="Security industry events &amp; tradeshows">Events</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m5" style="visibility: hidden; width:169px;"><a href="/events.html" title="All events">All events</a><a href="/events/search-results/o.et,et.international-security.html" title="International security">International security</a><a href="/events/search-results/o.et,et.regional-security.html" title="Regional security">Regional security</a><a href="/events/search-results/o.et,et.vertical-market.html" title="Vertical market">Vertical market</a><a href="/events/search-results/o.et,et.technology-areas.html" title="Technology areas">Technology areas</a><a href="/events/search-results/o.et,et.conferences-seminars.html" title="Conferences / seminars">Conferences / seminars</a><a href="/events/search-results/o.et,et.company-sponsored.html" title="Company sponsored">Company sponsored</a></div></li><li><a class="" onmouseout="mclosetime()" onmouseover="mopen('m6')" href="/security-videos.html" title="Videos">Videos</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m6" style="visibility: hidden; width:169px;"><a href="/security-videos/products.html" title="Products">Products</a><a href="/security-videos/corporate.html" title="Corporate">Corporate</a><a href="/security-videos/security-installations.html" title="Case studies">Case studies</a><a href="/security-videos/trade-shows.html" title="Trade shows">Trade shows</a></div></li><li class="hide-in-small-tablet"><a class="header_nav_last1 " onmouseout="mclosetime()" onmouseover="mopen('m7')" href="javascript:;" title="Resources">Webinars</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m7" style="visibility: hidden; width:200px;"><a href="/webinars/how-surveillance-trends-impact-storage-needs-4k-and-beyond.html" title="How Surveillance Trends Impact Video Storage Needs: 4K and Beyond">4k &amp; Beyond Webinar</a><a href="/webinars/how-surveillance-trends-impact-storage-needs-business-intelligence.html" title="How Surveillance Trends Impact Storage Needs: Business Intelligence">Business Intelligence Webinar</a><a href="/webinars/how-surveillance-trends-impact-storage-needs-video-analytics.html" title="How Surveillance Trends Impact Storage Needs: Video Analytics">Video Analytics Webinar</a></div></li><li><a href="/white-papers.html" class="header_nav_last " onmouseout="mclosetime()" onmouseover="mopen('m8')" title="White Papers">White Papers</a><div onmouseout="mclosetime()" onmouseover="mcancelclosetime()" id="m8" style="visibility: hidden; width:205px;"><a href="/white-papers/access-control-systems.html" title="Access Control Systems">Access Control Systems</a><a href="/white-papers/alarm-management.html" title="Alarm Management">Alarm Management</a><a href="/white-papers/integrated-surveillance-systems.html" title="Integrated Surveillance systems">Integrated Surveillance systems</a><a href="/white-papers/network-surveillance.html" title="Network surveillance">Network surveillance</a><a href="/white-papers/physical-asset-management.html" title="Physical Asset Management">Physical Asset Management</a><a href="/white-papers/power-supply-systems.html" title="Power Supply Systems">Power Supply Systems</a><a href="/white-papers/surveillance-software.html" title="Surveillance software">Surveillance software</a><a href="/white-papers/surveillance-standards.html" title="Surveillance Standards">Surveillance Standards</a><a href="/white-papers/surveillance-storage.html" title="Surveillance Storage">Surveillance Storage</a><a href="/white-papers/video-analytics.html" title="Video analytics">Video analytics</a><a href="/white-papers/video-compression.html" title="Video compression">Video compression</a><a href="/white-papers/video-management-systems.html" title="Video Management Systems">Video Management Systems</a><a href="/white-papers/video-surveillance.html" title="Video surveillance">Video surveillance</a></div></li></ul></div><div class="registrationbox hide-in-tablet"><form action="/ultra-register.html" method="post" name="frmeNewsletter"><strong class="registration-label">REGISTER</strong><input name="useremail" type="email" class="search-box" placeholder="Enter your email address"><a href="/info/terms-and-conditions.html" target="_blank">Terms</a><input name="submit" type="submit" class="registration-box-btn" value="GO"><input type="hidden" name="page_title" value="Privacy Policy and Cookie Policy - SourceSecurity.com"><input type="hidden" name="page_url" value="http://www.sourcesecurity.com/info/privacy-policy.html"></form></div><div class="clearit"></div><div class="searchbox hide-in-tablet" style="position: relative;"><form name="frmSearch" id="frmSearch" method="get" action="/keyword-search.html" onsubmit="return ValidateKeywordSearch(this);" autocomplete="off"><div><input type="hidden" name="ie" value="UTF-8"><input name="cx" type="hidden" value="008496319178451988125:2d_izq15sn4"><input name="q" id="q" type="text" class="srbox" autocomplete="off"><input name="submit" type="submit" class="search-btn" value="   "></div></form></div><div id="div-gpt-ad-Peel_Back-Sitewide"><script type="text/javascript">googletag.display('div-gpt-ad-Peel_Back-Sitewide');</script></div></div> <div class="page_content" id="page_content"><div class="page_content_head hide-in-tablet"><div class="floatleft"><div class="margin_bot_5" id="graphicspanel"><div id="regular_gp" style=""><img alt="Powerful" src="http://i.security-images.com/masthead-banners/croc - powerful.jpg" width="650" height="156" class="margin_bot_space" usemap="#gp"></div></div><div class="breadcrumb_div_extended">Navigation: Information&nbsp;&gt;&gt;&nbsp;<a href="/info/privacy-policy.html" class="breadcrum">Privacy Policy and Cookie Policy</a></div></div><div id="div-gpt-ad-Special-Feature-Sitewide" class="floatright" style="width:300px;"><script type="text/javascript">googletag.display("div-gpt-ad-Special-Feature-Sitewide");</script></div><div class="clearit"></div><div class="clearit"></div></div><div class="floatleft margin_bot_1 hide-in-tablet" id="div-gpt-ad-StaticContent-Main-MastheadBanner-728x60"><script type="text/javascript">googletag.display('div-gpt-ad-StaticContent-Main-MastheadBanner-728x60');</script></div><div class="floatright advertisers_panel_01 square_bullets hide-in-tablet"><ul><li><a href="/info/marketing-options.html">Info for advertisers</a></li><li><a href="/companies/register.html">Submit details for free company listing</a></li><li><a href="/events/submit-event.html">Submit details for free event listing</a></li></ul></div><div class="clearit"></div>
 	<style>
 		.bullets_spaced_out li {
 			padding-bottom:10px;
@@ -331,7 +406,7 @@ if(document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi))
 <p>&nbsp;</p>
 <p><strong>If you have any  questions or concerns regarding this Privacy Policy and Cookie Policy,  please contact the Data Protection Officer at Notting Hill Media Limited, Park  House, 206-208 Latimer Road, London W10 6QY, United Kingdom or email us at <a href="mailto:info@sourcesecurity.com" class="underlined_link"><strong>info@sourcesecurity.com</strong></a> or <a href="mailto:info@thebigredguide.com" class="underlined_link"><strong>info@thebigredguide.com</strong></a> (as applicable).</strong></p>
 <p><em>This Privacy Policy and Cookie Policy was  last updated in November 2015</em> <br>
-	<em>Copyright © Notting Hill Media Limited  2015, all rights reserved</em></p></div><div><img src="http://i.security-images.com/bottom_border.gif" alt="border" width="650" height="4" align="absbottom"></div></div></div></div><div class="right_main_body_right rhs_parent hide-in-tablet"><div style="margin-top:0px;"><div class="book_mark"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=sourcesecurity"><img src="http://i.security-images.com/bookmark_img.jpg" width="271" height="24" alt="Bookmark and Share" style="border:0"></a></div></div><div class="top_red_product margin_top_8" id="div-gpt-ad-StaticContent-Main-BlockBanner1-300x250"><script type="text/javascript">googletag.display('div-gpt-ad-StaticContent-Main-BlockBanner1-300x250');</script></div><div class="top_red_product margin_top_8" id="div-gpt-ad-StaticContent-Main-BlockBanner2-300x250"><script type="text/javascript">googletag.display('div-gpt-ad-StaticContent-Main-BlockBanner2-300x250');</script></div><div class="clearit"></div></div><div class="clearit margin_bot_5"></div><div class="page_content_botlinks curved5_bot centertext hide-in-big-phone"><div id="div-gpt-ad-Footer-Horizontal-Sitewide"><script type="text/javascript">googletag.display('div-gpt-ad-Footer-Horizontal-Sitewide');</script></div></div><br><div class="page_content_botlinks centertext margin_bot_10 phone-links-space">See <a href="http://us.sourcesecurity.com/info/privacy-policy.html" class="line_link">this</a> on SourceSecurity.com US Edition</div><div class="clearit"></div><div class="page_content_botlinks curved5_bot centertext"><a href="http://www.sourcesecurity.com/" title="Security products">Security products</a> |&nbsp;<a href="http://www.sourcesecurity.com/product-categories/cctv.html" title="CCTV Products - CCTV Cameras, Lenses, Kits, Accessories">CCTV systems</a> |&nbsp;<a href="http://www.sourcesecurity.com/product-categories/access-control.html" title="Access Control Products &amp; Systems">Access Control</a> |&nbsp;<a href="http://www.sourcesecurity.com/product-categories/intruder-alarms.html" title="Intruder Alarms / Burglar Alarms">Intruder Alarms</a> |&nbsp;<a href="http://www.sourcesecurity.com/product-services/integrated-systems.html" title="Integrated Security Systems">Integrated Systems</a> |&nbsp;<a href="http://www.sourcesecurity.com/companies.html" title="Security companies">Security companies</a> | <a href="http://www.sourcesecurity.com/security-product-markets.html" title="Security applications">Markets</a> | <a href="http://www.sourcesecurity.com/news.html" title="Security news">Security news</a> | <a href="http://www.sourcesecurity.com/events.html" title="Security events and trade shows">Security events</a> | <a href="http://www.sourcesecurity.com/security-videos.html" title="Security videos">Security videos</a> | <br><a href="http://www.sourcesecurity.com/white-papers.html" title="Security videos">Security White Papers</a> | <a href="http://www.sourcesecurity.com/security-installations-applications.html" title="Security installations">Security installations</a> | <a href="http://www.sourcesecurity.com/info/about-us.html" title="About Us">About Us</a> | <a href="http://www.sourcesecurity.com/contact-us.html" title="Contact Us">Contact Us</a> | <a href="http://www.sourcesecurity.com/sitemap.html" title="Sitemap">Sitemap</a></div></div><footer><div class="footer" align="center">SourceSecurity.com, the complete security industry guide<br>Copyright © Notting Hill Media Limited 2000 - 2016, all rights reserved. <br>Use of this Website is subject to the <a href="http://www.sourcesecurity.com/info/terms-and-conditions.html" title="Website Terms and Conditions">Website Terms and Conditions</a> and the <a href="http://www.sourcesecurity.com/info/privacy-policy.html" title="Privacy Policy and Cookie Policy">Privacy Policy and Cookie Policy</a>. <br><strong>Our other sites:</strong>&nbsp; <a href="http://www.thebigredguide.com/" target="_blank">TheBigRedGuide.com</a>, guide to the firefighting and fire safety industry<br><a href="http://us.sourcesecurity.com/">SourceSecurity.com US Edition</a></div></footer>
+	<em>Copyright © Notting Hill Media Limited  2015, all rights reserved</em></p></div><div><img src="http://i.security-images.com/bottom_border.gif" alt="border" width="650" height="4" align="absbottom"></div></div></div></div><div class="right_main_body_right rhs_parent hide-in-tablet"><div style="margin-top:0px;"><div class="book_mark"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=sourcesecurity"><img src="http://i.security-images.com/bookmark_img.jpg" width="271" height="24" alt="Bookmark and Share" style="border:0"></a></div></div><div class="top_red_product margin_top_8" id="div-gpt-ad-StaticContent-Main-BlockBanner1-300x250"><script type="text/javascript">googletag.display('div-gpt-ad-StaticContent-Main-BlockBanner1-300x250');</script></div><div class="top_red_product margin_top_8" id="div-gpt-ad-StaticContent-Main-BlockBanner2-300x250"><script type="text/javascript">googletag.display('div-gpt-ad-StaticContent-Main-BlockBanner2-300x250');</script></div><div class="clearit"></div></div><div class="clearit margin_bot_5"></div><div class="page_content_botlinks curved5_bot centertext hide-in-big-phone"><div id="div-gpt-ad-Footer-Horizontal-Sitewide"><script type="text/javascript">googletag.display('div-gpt-ad-Footer-Horizontal-Sitewide');</script></div></div><br><div class="page_content_botlinks centertext margin_bot_10 phone-links-space">See <a href="http://us.sourcesecurity.com/info/privacy-policy.html" class="line_link">this</a> on SourceSecurity.com US Edition</div><div class="clearit"></div><div class="page_content_botlinks curved5_bot centertext"><a href="/" title="Security products">Security products</a> |&nbsp;<a href="/product-categories/cctv.html" title="CCTV Products - CCTV Cameras, Lenses, Kits, Accessories">CCTV systems</a> |&nbsp;<a href="/product-categories/access-control.html" title="Access Control Products &amp; Systems">Access Control</a> |&nbsp;<a href="/product-categories/intruder-alarms.html" title="Intruder Alarms / Burglar Alarms">Intruder Alarms</a> |&nbsp;<a href="/product-services/integrated-systems.html" title="Integrated Security Systems">Integrated Systems</a> |&nbsp;<a href="/companies.html" title="Security companies">Security companies</a> | <a href="/security-product-markets.html" title="Security applications">Markets</a> | <a href="/news.html" title="Security news">Security news</a> | <a href="/events.html" title="Security events and trade shows">Security events</a> | <a href="/security-videos.html" title="Security videos">Security videos</a> | <br><a href="/white-papers.html" title="Security videos">Security White Papers</a> | <a href="/security-installations-applications.html" title="Security installations">Security installations</a> | <a href="/info/about-us.html" title="About Us">About Us</a> | <a href="/contact-us.html" title="Contact Us">Contact Us</a> | <a href="/sitemap.html" title="Sitemap">Sitemap</a></div></div><footer><div class="footer" align="center">SourceSecurity.com, the complete security industry guide<br>Copyright © Notting Hill Media Limited 2000 - 2016, all rights reserved. <br>Use of this Website is subject to the <a href="/info/terms-and-conditions.html" title="Website Terms and Conditions">Website Terms and Conditions</a> and the <a href="/info/privacy-policy.html" title="Privacy Policy and Cookie Policy">Privacy Policy and Cookie Policy</a>. <br><strong>Our other sites:</strong>&nbsp; <a href="http://www.thebigredguide.com/" target="_blank">TheBigRedGuide.com</a>, guide to the firefighting and fire safety industry<br><a href="http://us.sourcesecurity.com/">SourceSecurity.com US Edition</a></div></footer>
 <script>
 $(function()
 {
@@ -447,6 +522,60 @@ if(screenWidth >= 1365)
 })
 </script>
 <!-- End -->
+<script>
+googletag = {cmd: []};
+</script>
+<script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+var bottomSlot;
+googletag.cmd.push(function() {
+    bottomSlot = googletag.defineSlot('/1069755/StaticContent-Main-BottomBanner-1x1', [1, 1], 'div-gpt-ad-StaticContent-Main-BottomBanner-1x1').addService(googletag.pubads());
+    googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+});
+</script>
+<!-- Footar slide up banner --><!--<div id="div-gpt-ad-Slideup-Block-Sitewide" style="position:fixed;bottom:0;left:0;width:100%;background:#000;height:100px;display1:none;">--><div id="div-gpt-ad-StaticContent-Main-BottomBanner-1x1" style="position:fixed;bottom:0;left:0;width:100%;height:100px;display:none;">
+<script>
+googletag.cmd.push(function() {
+	googletag.display("div-gpt-ad-StaticContent-Main-BottomBanner-1x1");
+});
+</script>
+</div>
+<script>
+
+// Bottom banner
+// Refresh the bottom slot when it is about to come into view.
+var refreshed = false;
+
+// Value of scrollY at which the ad is about to come into view.
+var adAlmostVisibleScrollValue = 500;
+
+// Warning: This is a sample implementation. Listening to onscroll without 
+// any throttling might not be very efficient.
+var listener = function() {
+  if (window.scrollY >= adAlmostVisibleScrollValue && !refreshed) {
+    $('#div-gpt-ad-StaticContent-Main-BottomBanner-1x1').show();
+    googletag.cmd.push(function() {
+      googletag.pubads().refresh([bottomSlot]);
+    });
+    // Refresh the ad only once.
+    refreshed = true;
+
+    // Remove the listener now.
+    window.removeEventListener('scroll', listener);
+  }
+}
+window.addEventListener('scroll', listener);
+</script>
+<script type="text/javascript">
+(function() {
+	var useSSL = 'https:' == document.location.protocol;
+	var src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<!-- End -->
 <script type="text/javascript">
 	var addthis_config = {
 		data_track_clickback: true,
@@ -462,7 +591,7 @@ if(screenWidth >= 1365)
 			
 		}, true);
 	</script>
-	<script src="http://www.google.com/cse/brand?form=frmSearch&amp;lang=en" type="text/javascript"></script>
+	<script src="//www.google.com/cse/brand?form=frmSearch&amp;lang=en" type="text/javascript"></script>
 	<script type="text/javascript">
 	var _qevents = _qevents || [];
 
@@ -487,18 +616,39 @@ $(function() {
 	
 	if (screen.width > 500)
 	{
-		$.fancybox.open({
-			href		: '#geo_redirect_popup',
-			margin		: 0,
-			padding		: 0,
-			topRatio	: 0.5,
-			leftRatio	: 0.5,
-			maxWidth	: 554,
-			maxHeight	: 278,
-			width		: '100%',
-			height		: '100%',
-			modal 		: true
-		});
+		if(redirect_version != 'us')
+		{
+			$.fancybox.open({
+				href		: '#geo_redirect_popup',
+				margin		: 0,
+				padding		: 0,
+				topRatio	: 0.5,
+				leftRatio	: 0.5,
+				maxWidth	: 554,
+				maxHeight	: 278,
+				width		: '100%',
+				height		: '100%',
+				modal 		: true
+			});
+		}
+		else
+		{
+			if($.cookie('us_redirect_popup_state') == undefined && $.cookie('us_redirect_status') == undefined)
+			{
+				$.fancybox.open({
+					href		: '#geo_redirect_popup',
+					margin		: 0,
+					padding		: 0,
+					topRatio	: 0.5,
+					leftRatio	: 0.5,
+					maxWidth	: 590,
+					maxHeight	: 340,
+					width		: '100%',
+					height		: '100%',
+					modal 		: true
+				});
+			}
+		}
 	}
 
 	$('#' + redirect_version + '_redirect_remain').click(function(event)
@@ -517,19 +667,44 @@ $(function() {
 	});
 });
 </script>
-<div id="geo_redirect_popup">
-<style>
-#geo_redirect_popup
+<div id="geo_redirect_popup" style="min-height:325px;">
+<script>
+$(document).ready(function() {
+	$('#stay_link').on('click', function(e) {
+		e.preventDefault();
+		e.stopImmediatePropagation();
+		if($('#dont_show_redirect_popup').is(':checked')) {
+			$.cookie('us_redirect_popup_state', 'stay', { expires: 3650, path: '/' });
+			log_redirect_action('stay', 'international');
+		}
+		$.cookie('us_redirect_status', 'no', { path: '/' });
+
+		ga('send', 'event', 'US Redirect', 'Stay', 'Popup', {'nonInteraction': 1});
+		$.fancybox.close();
+		return false;
+	});
+
+	$('#redirect_to_us').on('click', function(e) {
+		e.stopImmediatePropagation();
+		if($('#dont_show_redirect_popup').is(':checked')) {
+			$.cookie('us_redirect_popup_state', 'redirect', { expires: 3650, path: '/' });
+			log_redirect_action('redirect', 'international');
+		}
+		
+		ga('send', 'event', 'US Redirect', 'Redirect', 'Popup', {'nonInteraction': 1});
+	})
+});
+function log_redirect_action(state, domain)
 {
-	background:url(/images/us/us_bg.jpg) no-repeat;
-	width:554px;
-	height:278px;
-	text-align:center;
+	$.ajax({
+		url: '/no-template/log-redirect-action.php?action=' + state + '&domain=' + domain,
+		type: 'GET',
+		dataType: 'JSON'
+	});
 }
+</script>
 
-</style>
-
-<div class="floatleft"><a href="http://us.sourcesecurity.com/info/privacy-policy.html" id="us_redirect_go" onclick="ga('send', 'event', 'US Redirect', 'Redirect', 'Popup', {'nonInteraction': 1});"><img src="http://i.security-images.com/us/button-us.png" style="margin-top:165px;margin-left:259px;"></a></div><div class="floatleft" style="margin-top:10px;"><a id="us_redirect_remain" onclick="ga('send', 'event', 'US Redirect', 'Stay', 'Popup', {'nonInteraction': 1});"><span style="color:#fff;font-size:14px;margin-left:310px;"><u>International Edition</u></span></a></div></div>
+<div class="h1_greybg">SourceSecurity.com</div><div align="center" style="padding:20px"><a href="http://us.sourcesecurity.com/info/privacy-policy.html" id="us_redirect_go" onclick="ga('send', 'event', 'US Redirect', 'Redirect', 'Popup', {'nonInteraction': 1});"><img src="http://i.security-images.com/logos/us/logo-468x60.jpg"></a></div><div style="text-align:left;font-size:14px;padding:15px"><div style="font-weight:bold;font-size:15px;">Browsing from the Americas? Looking for SourceSecurity.com US Edition?</div><div style="padding:15px 0;">View this content on SourceSecurity.com US Edition, our dedicated portal for our Americas audience.</div><div style="padding-bottom:15px;font-size:12px;"><input type="checkbox" id="dont_show_redirect_popup" style="vertical-align:middle"> Do not show me this again</div><div align="right" style="padding-bottom:20px"><a id="stay_link" href="javascript:void();" style="font-size:12px;text-decoration:underline;margin-right:20px">International Edition</a><a href="http://us.sourcesecurity.com/info/privacy-policy.html" class="btn" style="font-size:22px" id="redirect_to_us">US Edition</a></div></div></div>
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1062740135;
@@ -546,7 +721,9 @@ var google_remarketing_only = true;
 </noscript>
 
 <script>
-// Start of Async HubSpot Analytics Code
+var _hsq = _hsq || [];
+
+
 (function(d,s,i,r) {
     if (d.getElementById(i)){return;}
     var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
@@ -570,5 +747,31 @@ $(function() {
     }      
   }, 1);
 });
+</script>
+
+<script>
+// Warning: This is a sample implementation. Listening to onscroll without 
+// any throttling might not be very efficient.
+var event_fired = [];
+if (event_fired.indexOf('Scroll 0') < 0)
+{
+	ga('send', 'event', 'Page Scroll', 'Scroll 0', 'Yes', {nonInteraction: true});
+	event_fired.push('Scroll 0');
+}
+var listener_scroll = function() {
+
+	var j = 1;
+	var i = 100;
+	while (j <= 10) {
+		var check = event_fired.indexOf('Scroll ' + j);
+		if (window.scrollY >= i && check < 0) {
+			ga('send', 'event', 'Page Scroll', ('Scroll ' + j), 'Yes', {nonInteraction: true});
+			event_fired.push('Scroll ' + j);
+		}
+		j++;
+		i = i + 700;
+	}
+}
+window.addEventListener('scroll', listener_scroll);
 </script>
 </body></html>
