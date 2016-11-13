@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusdiaries.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507020955id_/https%3A//campusdiaries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusdiaries.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113123547id_/https%3A//campusdiaries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Test1
 
