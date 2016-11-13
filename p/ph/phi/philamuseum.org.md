@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624024234id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113162053id_/http%3A//www.philamuseum.org/webpolicies.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art - Web Policies
 
@@ -55,15 +55,15 @@ Box 7646
 Philadelphia, PA 19101-7646  
 USA
 
-Moreover, when we send you communications regarding Museum programs and activities, you will always have an immediate opportunity to decline further communications by alerting the contact specified in the e-mail that you wish us to remove you from the list that contains your name. 
+Moreover, when we send you communications regarding Museum programs and activities, you will always have an immediate opportunity to decline further communications by unsubscribing. 
 
-The Philadelphia Museum of Art does not sell, exchange or release website visitors' names, e-mail addresses or other individually identifying information to parties outside of the Museum, except to the extent necessary to comply with applicable laws or valid legal processes, to protect the rights and property of the Museum, or to provide the services or information you have requested. 
+The names and postal addresses of users who have provided such information to the Philadelphia Museum of Art may be shared with other organizations that may be of interest to you for informational, fundraising, or related purposes. In these cases, we may share your name and address with other reputable organizations, but we will not share your e-mail or phone number with these institutions. In addition, all information we do share with other institutions is provided subject to confidentiality obligations limiting the nature of the use of your information and restricting the further dissemination of your information. If you do not wish to have your name and address shared with other institutions for these purposes, you may opt out at any time by contacting us via the above email or postal mail address. 
 
 Users should be aware that the Museum contracts with several third-party vendors to provide certain services made available on and to process transactions made through this website. Use of these services is subject to the privacy policies of such third-party vendors (identified below). 
 
 **Transactions**  
 _Purchasing Tickets/Web Ticketing_  
-The Museum provides visitors with the opportunity to purchase tickets online. When visitors to the Museum website choose to purchase tickets online, they are linked to a website powered by Paciolan, allowing us to efficiently automate the selling and allocating of tickets in real-time. Visitors to the Paciolan website are covered by the museum’s policy. 
+The Museum provides visitors with the opportunity to purchase tickets, programs, and membership online. When visitors to the Museum website choose to purchase tickets online, they are linked to a website powered by Accesso Passport, allowing us to efficiently automate the selling and allocating of tickets in real-time. Visitors to the Accesso Passport website are covered by the museum’s policy. 
 
 _Museum Store and Online Membership_  
 The Museum provides visitors with an opportunity to make online purchases from the Museum retail store as well as purchase a Museum membership. When visitors to the Museum website choose to make an online purchase or to become a member of the Museum, they are linked to a website served by CAM Commerce Solutions. Visitors to the CAM Commerce Solutions websites are subject to CAM Commerce Solutions’ policies and should refer to the [CAM Commerce Solutions Privacy Policy](http://www.camcommerce.com/Contents/Privacy/default.aspx) for further information. 
