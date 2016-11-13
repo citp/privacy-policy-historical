@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchor.fm privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505161855id_/https%3A//www.anchor.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.fm privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113080610id_/https%3A//anchor.fm/privacy) for the most accurate reproduction.*
 
 # Anchor - Radio by the people - Terms of Service
 
