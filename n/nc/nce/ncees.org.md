@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317021111id_/http%3A//ncees.org/supplemental-pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113145232id_/http%3A//ncees.org/supplemental/privacy) for the most accurate reproduction.*
 
-# NCEES: Privacy statement
+# NCEES privacy statement
+
+Menu
 
 By using the NCEES website, you signify your assent to the National Council of Examiners for Engineering and Surveying terms-of-use agreement and privacy policy. If you do not agree with this privacy policy and/or our terms of use without limitation or qualification, or if use of this site is not permitted in your state or country, you may not use this website. Your continued use of the NCEES® website following any changes made to this privacy policy and/or our terms of use will mean that you also accept the changes.
 
@@ -48,9 +50,6 @@ We may update, change or modify this privacy policy at any time and without noti
 
 ## Contact information
 
-If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this site, please contact:
+If you have any questions regarding this privacy statement, the practices of this site, or your dealings with this site, please [contact NCEES](https://web.archive.org/contact/).
 
-NCEES  
-P.O. Box 1686  
-Clemson, S.C. 29633  
-800-250-3196
+Top
