@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604114522id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113035034id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xactware
 
-**Effective Date: 3 May 2016**
+**Effective Date: 1 November 2016**
 
 Xactware Solutions, Inc. (“Xactware”) respects your concerns about privacy. This Online Privacy Notice applies to personal information we collect on [www.xactware.com](https://web.archive.org/en-us/) (the “Site”). The Online Privacy Notice describes the types of personal information we obtain, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -63,9 +63,9 @@ You may contact us as described in the “How to Contact Us” section below to 
 
 ### Data Transfers
 
-We may transfer the personal information we obtain about you to countries other than the country in which we originally collected the information. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries (such as the United States), we will protect that information as described in this Online Privacy Notice and in accordance with applicable law.
+We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries (such as the U.S.), we will protect that information as described in this Online Privacy Notice.
 
-If you are located in the EEA or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside the EEA or Switzerland. In addition, with regard to transfers of personal information to the U.S. Xactware is certified under the Safe Harbor privacy framework as developed by the U.S. Department of Commerce, the European Commission, and Switzerland regarding the transfer of personal data from the EEA or Switzerland to the United States. Click here to view our [Safe Harbor Privacy Statement](https://web.archive.org/en-us/xactware-safe-harbor-privacy-statement/). While the Safe Harbor framework is no longer considered a valid data transfer mechanism in the EEA, Xactware continues to comply with the relevant principles of the Safe Harbor.
+If you are located in the European Economic Area (“EEA”), we will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EEA. With respect to transfers of personal information to the U.S., Xactware is certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S.  [Click here to view our EU-U.S. Privacy Shield Privacy Policy](https://web.archive.org/en-us/xactware-privacy-shield/ "Privacy Shield Privacy Policy").
 
 ### How We Protect Personal Information
 
@@ -83,21 +83,20 @@ We may update our Online Privacy Notice periodically and without prior notice to
 
 If you have any questions or comments about this Online Privacy Notice or to any issue relating to how we collect, use, or disclose personal information, or if you would like us to update information we have about you or your preferences, please contact us as indicated below.
 
-  * Emailing us at [safeharbor@xactware.com](mailto:safeharbor@xactware.com)
-
-
-    * Writing to us at
-
-
+  * Emailing us at [privacyshield@xactware.com](mailto:privacyshield@xactware.com)
+  * Writing to us at 
 
 Xactware  
-Attn: Safe Harbor Coordinator  
+Attn: Privacy Shield Coordinator  
 New London House  
 6 London Street  
 London EC3R7LP
 
 Xactware  
-Attn: Safe Harbor Coordinator  
+Attn: Privacy Shield Coordinator  
 1100 West Traverse Parkway  
 Lehi, UT 84043  
 USA
+
+
+
