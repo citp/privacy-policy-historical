@@ -1,0 +1,1025 @@
+<!--The following is the downloaded HTML source of the olx.co.ke privacy policy that was archived on 2016-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161113093000id_/https%3A//www.olx.co.ke/policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KGWKF4"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+		
+		<title>Privacy policy</title>
+						<meta name="robots" content="index, follow">				<link rel="alternate" media="handheld" href="https://www.olx.co.ke/m/policy/">		<meta http-equiv="Content-Language" content="en">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="HandheldFriendly" content="true">
+
+					<meta property="og:title" content="Privacy policy">
+					<meta property="twitter:title" content="Privacy policy">
+					<meta property="fb:app_id" content="435662783140394">
+					<meta property="twitter:card" content="summary_large_image">
+					<meta property="twitter:site" content="@OLXKenya">
+					<meta property="twitter:creator" content="@OLXKenya">
+					<meta property="twitter:image" content="https://static.olx.co.ke/naspersclassifieds-regional/olxssa-atlas-web/static/img/logo@2x.png?t=161112192450">
+					<meta property="og:type" content="website">
+					<meta property="og:url" content="http://olx.co.ke">
+					<meta property="og:site_name" content="olx.co.ke">
+					<meta property="og:image" content="https://static.olx.co.ke/naspersclassifieds-regional/olxssa-atlas-web/static/img/logo@2x.png?t=161112192450">
+							<link rel="icon" type="image/x-icon" href="https://static.olx.co.ke/naspersclassifieds-regional/olxssa-atlas-web-olxke/static/img/favicon.ico?v=4">
+															<script type="text/javascript">
+	<!--
+	window.dataLayer = window.dataLayer || [];
+	window.dataLayer.push({"cleanup": function () {
+		window.dataLayer.push({"language":"en_GB","platformType":"desktop","trackPage":"policy_index_policy"});
+	}});
+	var ninjaTag = document.getElementById("ninja-script-tag");
+	if (!ninjaTag) {
+		(function () {
+			"use strict";
+			window.configTracking = {"siteUrl":"www.olx.co.ke","environment":"production"};
+			var script = document.createElement("script");
+			script.type = "text/javascript";
+			script.id = "ninja-script-tag";
+			script.async = true;
+			script.src = ("https:" === document.location.protocol ? "https://" : "http://") + "ninja.onap.io/ninja.js";
+			(document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(script);
+		}());
+	}
+	//-->
+</script><script type="text/javascript" id="ninja-script-tag" async="" src="https://ninja.onap.io/ninja.js"></script>
+<noscript>
+<img width="1" height="1" src="https://tracking.olx-st.com/h/v2/ns-ssafrica?nw=1&siteUrl=www.olx.co.ke&environment=production&language=en_GB&platformType=desktop&trackPage=policy_index_policy&t=1479029400"/></noscript>
+
+							
+							<script type="text/javascript">
+					var _adblock = true;
+				</script>						
+			
+						
+
+	    	    																		<link rel="stylesheet" type="text/css" href="https://static.olx.co.ke/packed/sw339637c8ce9d7d40ff8c5c87ac84e9e3.css">
+																										<!--[if lte IE 8]>						<link rel="stylesheet" type="text/css" href="https://static.olx.co.ke/packed/sweb2fa8dd309d7d3dcd5de2929102cce1.css">
+					<![endif]-->									
+					<script type="text/javascript">
+				window.suggestmeyes_loaded = true;
+			    						var action='policy';
+			    						var method='index';
+			    						var user_logged=0;
+			    						var www_base='https://www.olx.co.ke';
+			    						var www_base_no_namespace='https://www.olx.co.ke';
+			    						var www_base_ajax='https://www.olx.co.ke/ajax';
+			    						var static_files_www_base='https://static.olx.co.ke/';
+			    						var external_static_files_www_base='https://static.olx.co.ke/naspersclassifieds-regional/olxssa-atlas-web-olxke/static/';
+			    						var external_static_files_www_base_main='https://static.olx.co.ke/naspersclassifieds-regional/olxssa-atlas-web/static/';
+			    						var session_domain='olx.co.ke';
+			    						var decimal_separator='.';
+			    						var thousands_separator=',';
+			    						var sitecode='olxke';
+			    						var defaultCurrency='KES';
+			    						var config_currency='KSh ';
+			    						var useExternalScripts=1;
+			    						var lang='en';
+			    						var hasRwd=0;
+			    						var module_adding_form=1;
+			    						var module_adding_refactor=1;
+			    						var module_ads_no_results=1;
+			    						var module_anonymous_chat_app=1;
+			    						var module_answers_filters_fraud=1;
+			    						var module_app_help_redirect=1;
+			    						var module_at_addingform_track=1;
+			    						var module_controlpanel2=1;
+			    						var module_facebook_login=1;
+			    						var module_fraud_contact_data=1;
+			    						var module_fraud_detection=1;
+			    						var module_fraud_detector_queue=1;
+			    						var module_hashtags=1;
+			    						var module_history_extra_info=1;
+			    						var module_js_stacktrace=1;
+			    						var module_mobile_app=1;
+			    						var module_new_at=1;
+			    						var module_ninja=1;
+			    						var module_clm=1;
+			    						var module_phone_in_desc=1;
+			    						var module_prevent_fraud_stats=1;
+			    						var module_redis_hash=1;
+			    						var module_refactorized_stats=1;
+			    						var module_store_image_sizes=1;
+			    						var module_store_image_sizes_db=1;
+			    						var module_trusted_changes=1;
+			    						var module_twitter=1;
+			    						var module_m_paf_locations=1;
+			    						var module_rest_api=1;
+			    						var module_i2_payment=1;
+			    						var module_new_controllers=1;
+			    						var module_facebook_user_storage=1;
+			    						var module_facebook_user_profile_image=1;
+			    						var module_android_buyer_view_action=1;
+			    						var module_s3_upload=1;
+			    						var module_local_statsd=1;
+			    						var module_S3_images=1;
+			    						var module_solr_cloud=1;
+			    						var module_ssl_only=1;
+			    						var module_banner_app=1;
+			    						var module_banner_web=1;
+			    						var module_page_delivery=1;
+			    						var module_api_ad_additional_info=1;
+			    						var module_verification_badges=1;
+			    						var module_order_potatoes=1;
+			    						var module_zendesk_api=1;
+			    						var module_content_first=1;
+			    						var module_gpt_banners=1;
+			    						var module_paidads_paygate=1;
+			    						var module_paid_for_post=1;
+			    						var module_paidads=1;
+			    						var module_m_promote=1;
+			    						var module_limit_ios_settings=1;
+			    						var module_app_sort_nearby=1;
+			    						var module_samurai=1;
+			    						var module_hide_phone_category=1;
+			    						var module_multiacc=1;
+			    						var module_hermes_new_api=1;
+			    						var module_phone_login=1;
+			    			    function __(txt) {
+				if (typeof translations == 'object') {
+							if (translations[txt] == undefined) {
+								return txt;
+							} else {
+								return translations[txt];
+							}
+				}
+				return txt;
+			    }
+			</script>
+		        <!--[if lt IE 9]>
+        	<script type="text/javascript" src="https://static.olx.co.ke/js/scripts/html5shiv.min.js"></script>
+		<![endif]-->
+			
+										<script type="text/javascript">
+				var crtg_nid = '5395';
+				var crtg_cookiename = 'crtg_rta';
+				var crtg_varname = 'crtg_content';
+				function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+				var crtg_content = crtg_getCookie(crtg_cookiename);
+				var crtg_rnd=Math.floor(Math.random()*99999999999);
+				(function(){
+					var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+					crtg_url +='&cookieName='+escape(crtg_cookiename);
+					crtg_url +='&rnd='+crtg_rnd;
+					crtg_url +='&varName=' + escape(crtg_varname);
+					var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+					if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+					else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+				})();
+			</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=5395&amp;cookieName=crtg_rta&amp;rnd=53660552393&amp;varName=crtg_content" async=""></script>
+			<script type="text/javascript">
+				var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; googletag.cmd.push(function() { var crtg_split = crtg_content.split(';'); var cto_values = {};
+					for (var i=1;i<crtg_split.length;i++){
+						var key = (crtg_split[i-1].split('='))[0];
+						var value = (crtg_split[i-1].split('='))[1];
+						cto_values[key] = cto_values[key] || [];
+						cto_values[key].push( "" + value + "");
+
+					}
+					for (var i in cto_values) {
+						if (cto_values.hasOwnProperty(i)) googletag.pubads().setTargeting("" + i + "", "" + cto_values[i] + "");
+					}
+
+				});
+			</script>
+			
+	</head>
+	<body class="">
+	    		    <script>
+	window.dataLayer = window.dataLayer || [];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KGWKF4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGWKF4');</script>
+<!-- End Google Tag Manager -->
+	    	    	    	    <div id="innerLayout">
+    
+
+<header id="header-container">
+	<div class="navi">
+		<div class="wrapper clr rel">
+						<a href="https://www.olx.co.ke" id="headerLogo" class="abs icon website big" title="OLX - Sell It!">OLX - Sell It!</a>
+									
+							<a id="postNewAdLink" class="postnewlink fbold tdnone btn btn-primary" href="https://www.olx.co.ke/adding/">
+					<span>Sell your item</span>
+				</a>
+									<script type="text/javascript">
+	observedNC = [];
+	observedNC['ads'] = [];
+	observedNC['searches'] = [];
+	observedNC['toSynchronize'] = '';
+</script>
+<ul class="userbox fright marginleft10">
+    	<li class="hidden inlblk nowrap rel vtop" id="observed-counter">
+		<a href="https://www.olx.co.ke/observed/" class="tdnone inlblk hidden" id="observed-ads-link" title="Favourites">
+			<span class="icon inlblk favin vtop"></span>
+			<strong class="counter"></strong>
+		</a>
+		<a href="https://www.olx.co.ke/observed/search/" class="tdnone inlblk hasObservedAds?'hidden':''}" id="observed-search-link" title="Favourites">
+			<span class="icon inlblk favin vtop"></span>
+			<strong class="counter"></strong>
+		</a>
+    </li>
+	<li class="inlblk nowrap vtop noslash" id="my-account-link">
+		<div class="inlblk rel">
+			<a href="https://www.olx.co.ke/myaccount/" class="tdnone" id="topLoginLink">
+				<span class="icon inlblk accountshape vtop"></span>
+				<span class="link inlblk"><strong>Login</strong></span>
+	                </a>
+                    						</div>
+	</li>
+</ul>
+
+		</div>
+	</div>
+	</header>    
+<style type="text/css">
+    .content.text ul.separate {
+        margin: 10px 0px 20px;
+    }
+
+    .content.text ul.separate li {
+        margin: 10px;
+        list-style: disc inside;
+        font-weight: bold;
+    }
+
+    .content.text ul.separate li p {
+        font-weight: normal;
+    }
+
+    .content.text ul.separate li ul {
+        margin-left: 10px;
+    }
+</style>
+
+<section class="rules" id="body-container">
+    <div class="wrapper">
+        <div class="content clr rel">
+            <div class="content text">
+                                <h4 class="c62 fbold xx-large">Privacy Policy - OLX Kenya</h4>
+
+                <p>We respect your privacy and have developed a detailed Privacy Policy. Please take the time to read
+                    our Privacy Policy
+
+                    below. By accessing our website or our mobile app and by using our services, you are also accepting
+                    the terms of our
+
+                    Privacy Policy.</p>
+
+                <p>You should be aware that when you click certain links on our website or within our app you could be
+                    directed to other
+
+                    companies’ properties outside of our hosted environment where the information collected is outside
+                    of our direct control.
+
+                    The privacy policy of the third parties’ properties or applications will govern the information
+                    obtained from you by these
+
+                    third parties in those contexts.</p>
+
+                <ol class="margin20_0">
+                    <li><a href="#r1">INFORMATION WE COLLECT, RECEIVE AND HOST</a></li>
+                    <li><a href="#r2">IP ADDRESS, COOKIES &amp; MOBILE IDENTIFIERS</a></li>
+                    <li><a href="#r3">USE OF THIS INFORMATION</a></li>
+                    <li><a href="#r4">INFORMATION SHARING</a></li>
+                    <li><a href="#r5">USER CONTROLS</a></li>
+                    <li><a href="#r6">SECURITY</a></li>
+                    <li><a href="#r7">CHANGES TO THIS POLICY</a></li>
+                    <li><a href="#r8">CONTACT INFORMATION</a></li>
+                </ol>
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r1"></a>1. INFORMATION WE COLLECT, RECEIVE AND HOST<a class="fright xx-small" href="#top"> Go
+                        to Top</a></h5>
+                </div>
+                <ul class="separate">
+                    <li>
+                        <p class="rules-text">
+                            <u><b>Account and Profile Information:</b></u> When you use our Services we may require and
+                            use certain
+
+                            information such as a valid email address and password. In addition, users may create a
+                            profile that
+
+                            includes information such as their geography, first and last name, gender, phone number,
+                            interests and
+
+                            associated information, including photos they may wish to upload. Any information users
+                            share in
+
+                            publicly-available profiles is their own responsibility. You should carefully consider the
+                            risks of making
+
+                            certain personal information—particularly information such as address or precise location
+
+                            information—publicly available. Where a user has decided to login to our site using a
+                            third-party
+
+                            authentication service such as Facebook Connect, we may also receive additional profile or
+                            other
+
+                            information authorized by that provider.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            <u><b>Listings and Transactions:</b></u> We may host the information, including personal
+                            information and contact
+
+                            information, valid contact information and password necessary to provide our Services. Much
+                            of the
+
+                            same information used to create an account or profile may be required to post a listing. Any
+                            information
+
+                            users share in listings is their own responsibility. Like with profiles, users should
+                            carefully consider the
+
+                            risks of making certain personal information—particularly information such as address or
+                            precise
+
+                            location information—publicly available in a listing.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            <u><b>Games, Advertising and Promotions:</b></u> We may collect personal information such as
+                            your name and
+
+                            contact information when you participate in games, quizzes or other marketing promotions we
+                            sponsor
+
+                            on our site or on third-party sites. We may also process information related to the
+                            effectiveness of our
+
+                            advertising campaigns, including what ads are viewed and clicked either on our network or on
+                            third-
+
+                            party sites.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            <u><b>Customer Care:</b></u> When you contact our customer care department, we may collect
+                            the personal
+
+                            information necessary to fulfil your request and to contact you for follow up as needed. We
+                            may also
+
+                            contact you using existing account contact information you provide to us for this purpose.
+                            We may also
+
+                            collect other information about our communications with our users, for example any user
+                            support
+
+                            requests that our users make or any feedback that our users provide to us.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            <u><b>Website and Mobile Data:</b></u>We may automatically receive and log information on
+                            our servers from your
+
+                            browser or device including your IP address, software and hardware attributes, pages that
+                            you request,
+
+                            mobile identifiers, information about app usage, and other device or systems-level
+                            information. This can
+
+                            occur on our website or mobile app, or on third parties’ services.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p class="rules-text">
+                            <u><b>Appended Information:</b></u>We may also append information we lawfully obtain from
+                            business partners or
+
+                            third parties to existing data we hold about our users.
+                        </p>
+                    </li>
+                </ul>
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r2"></a>2. IP ADDRESS, COOKIES &amp; MOBILE IDENTIFIERS<a class="fright xx-small" href="#top"> Go to Top</a></h5>
+                </div>
+                <ul class="separate">
+                    <li>
+                        <p class="rules-text">
+                            We may collect certain information through technology like cookies, pixels and local storage
+                            (like on
+
+                            your browser or device). Cookies are small text files that store information on your
+                            computer, mobile
+
+                            phone or other device locally. Pixels are small images that are part of codes on webpages
+                            that do
+
+                            things like allow another server to measure viewing of a webpage and often are used in
+                            connection with
+
+                            cookies. The code trackes if and when (and on which page) a pixel is loaded to indicate that
+                            a user has
+
+                            engaged with a specific screen or portion of a screen.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            With the help of cookies, the web server can save, for instance, preferences and settings on
+                            the user’s
+
+                            computer, mobile phone or other device which are then automatically restored on the next
+                            visit. Or to
+
+                            put it another way, the cookies are used, among other things, to make the use of the site
+                            more user-
+
+                            friendly so that, for instance, you do not have to repeat the log-in process when you visit
+                            again. We use
+
+                            both persistent cookies and session cookies. Whereas persistent cookies remain on your
+                            computer for
+
+                            a longer period of time, session cookies are automatically deleted when the browser window
+                            is closed.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            We may allow third parties such as advertising or analytics providers to collect information
+                            using these
+
+                            types of technologies directly on our website or from our mobile application. The data that
+                            they collect is
+
+                            subject to the applicable privacy policy of those third parties.
+                        </p>
+                    </li>
+
+                </ul>
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r3"></a>3. USE OF THIS INFORMATION<a class="fright xx-small" href="#top"> Go
+                        to Top</a></h5>
+                </div>
+
+                <ul class="separate">
+                    <li>
+                        <p class="rules-text">
+                            To provide our service we may use the information we collect and host for the following
+                            general
+
+                            purposes:
+                        </p><ul>
+                            <li style="list-style: lower-roman inside; margin-bottom: 10px; font-weight: normal;">
+                                to provide customer services, including to create and manage user accounts, to resolve
+
+                                technical difficulties and to enable features;
+                            </li>
+                            <li style="list-style: lower-roman inside; margin-bottom: 10px; font-weight: normal;">
+                                to customize offers and experiences, including advertising on our properties or third
+
+                                parties’ properties;
+                            </li>
+                            <li style="list-style: lower-roman inside; margin-bottom: 10px; font-weight: normal;">
+                                to monitor general and individual user activity, such as keyword searches, postings and
+
+                                transactional activity, and to manage traffic on the Website;
+                            </li>
+                            <li style="list-style: lower-roman inside; margin-bottom: 10px; font-weight: normal;">
+                                to contact our users, including for service matters, customer care or permitted
+                                marketing
+
+                                communications via any available communications channels;
+                            </li>
+                            <li style="list-style: lower-roman inside; margin-bottom: 10px; font-weight: normal;">
+                                to undertake research initiatives and to perform analytics to improve our services; and
+                            </li>
+                            <li style="list-style: lower-roman inside; margin-bottom: 10px; font-weight: normal;">
+                                to enforce our Terms of Use including to combat fraud and abuse.
+                            </li>
+                        </ul>
+                        <p></p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            We may retain information that we collect and observe on our network only for as long as is
+                            required to
+
+                            fulfil the above business objectives.
+                        </p>
+                    </li>
+                </ul>
+
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r4"></a>4. INFORMATION SHARING<a class="fright xx-small" href="#top">
+                        Go to Top</a></h5>
+                </div>
+                <ul class="separate">
+                    <li>
+                        <p class="rules-text">
+                            We may share information we collect with our affiliates (companies under common ownership
+                            and
+
+                            control), located in any third country. These companies may only process and use this
+                            information to
+
+                            assist us for purposes described above and are bound to honor this Privacy Policy.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p class="rules-text">
+                            We do not share personal information about our users with non-affiliated third parties
+                            unless we have
+
+                            our users’ specific permission to do so, or in the following circumstances:
+
+                            </p><ul class="separate">
+                                <li>
+                        <p class="rules-text">
+                            We may use third-party service providers to assist in offering aspects of our services, in
+                            which
+
+                            case they shall have no authority to independently use any personal information they process
+
+                            on our behalf, and shall be subject to the terms of this Privacy Policy.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p class="rules-text">
+                            We reserve the right to share information with private or public authorities that will
+                            enable us to
+
+                            fight fraud and abuse on our network, to investigate suspected violations of law, or to
+                            fight any
+
+                            other suspected breach of our terms of service.
+                        </p>
+                    </li>
+
+                    <li>
+                        <p class="rules-text">
+                            We may share personal information with government authorities as required by applicable law.
+                        </p>
+                    </li>
+                </ul>
+                <p></p>
+                </li>
+                <li>
+                    <p class="rules-text">
+                        As a matter of policy we do not rent or sell personal information about our users with
+                        non-affiliated third
+
+                        parties unless we have our users’ specific permission to do so. In the event that our business
+                        or a
+
+                        division of our business is reorganized or sold and we transfer all or substantially all of our
+                        assets to a
+
+                        new owner, your personal information may be transferred to the buyer to enable continuity of
+                        service.
+                    </p>
+                </li>
+                <li>
+                    <p class="rules-text">
+                        We may share certain non-personal information (data that does not identify our users
+                        individually) with
+
+                        third-party service providers, trusted partners or approved researchers in order to better
+                        understand
+
+                        what advertisements or services may interest you, to improve the overall quality and
+                        effectiveness of
+
+                        our services or their services, or to contribute to academic research that we believe is of
+                        broader social
+
+                        benefit.
+                    </p>
+                </li>
+                </ul>
+
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r5"></a>5. USER CONTROLS<a class="fright xx-small" href="#top"> Go to Top</a></h5>
+                </div>
+                <ul class="separate">
+                    <li>
+                        <p class="rules-text">
+                            <b><u>Access, Correction and Deletion:</u></b> For users that have created an account or
+                            listing with us, you can
+
+                            access, correct or delete your personal information by writing to us at the following
+                            address:
+
+                            <a href="mailto:support@olx.co.ke">support@olx.co.ke</a>.
+                            You are responsible for keeping the data you provide or post on our network
+
+                            accurate. If your account was created through an identity provider (e.g. Facebook Connect)
+                            you may
+
+                            also disable or change the account information through the settings offered by the identity
+                            provider (e.g.
+
+                            on Facebook.com).
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            <b><u>Third Party Choice:</u></b> Certain third parties active on our site, e.g. Google
+                            Adwords, give you the ability to
+
+                            opt out of their collection and use of information for interest-based advertising. You can
+                            visit
+
+                            <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a> or <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a> to learn
+                            more about this
+
+                            practice and to exercise choices over how this type of information may be collected and
+                            used.
+                        </p>
+                    </li>
+                    <li>
+                        <p class="rules-text">
+                            <b><u>Cookies:</u></b> Most major desktop and mobile web browsers (e.g Safari, Firefox,
+                            Internet Explorer, Chrome,
+
+                            Opera) provide controls that allow you to limit or block the setting of cookies on your
+                            systems. Note that
+
+                            disabling cookies in your browser for either first-party domains (the sites you actively
+                            visit) or third-party
+
+                            domains (companies other than those you directly visit on the Web) may result in decreased
+
+                            functionality in certain instances.
+                        </p>
+                    </li>
+                </ul>
+
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r6"></a>6. USER CONTROLS<a class="fright xx-small" href="#top"> Go to Top</a>
+                    </h5>
+                </div>
+
+
+                <p class="rules-text">
+                    <b><u>Access, Correction and Deletion:</u></b> For users that have created an account or listing
+                    with us, you can
+
+                    access, correct or delete your personal information by writing to us at the following address:
+
+                    <a href="mailto:support@olx.co.ke">support@olx.co.ke</a>. You are
+                    responsible for keeping the data you provide or post on our network
+
+                    accurate. If your account was created through an identity provider (e.g. Facebook Connect) you may
+
+                    also disable or change the account information through the settings offered by the identity provider
+                    (e.g.
+
+                    on Facebook.com).
+                </p>
+
+                <p class="rules-text">
+                    <b><u>Third Party Choice:</u></b> Certain third parties active on our site, e.g. Google Adwords,
+                    give you the ability to
+
+                    opt out of their collection and use of information for interest-based advertising. You can visit
+
+                    <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a>. or <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a> to learn more
+                    about this
+
+                    practice and to exercise choices over how this type of information may be collected and used.
+                </p>
+
+                <p class="rules-text">
+                    <b><u>Cookies:</u></b> Most major desktop and mobile web browsers (e.g Safari, Firefox, Internet
+                    Explorer, Chrome,
+
+                    Opera) provide controls that allow you to limit or block the setting of cookies on your systems.
+                    Note that
+
+                    disabling cookies in your browser for either first-party domains (the sites you actively visit) or
+                    third-party
+
+                    domains (companies other than those you directly visit on the Web) may result in decreased
+
+                    functionality in certain instances.
+                </p>
+
+
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r7"></a>7. SECURITY<a class="fright xx-small" href="#top"> Go to Top</a></h5>
+                </div>
+                <p class="rules-text">
+                    All information we collect is protected by reasonable technical means and reasonable security
+                    procedures in order to
+
+                    prevent unauthorized access or use of data. Our affiliates, trusted partners and third-party service
+                    providers have
+
+                    committed to manage the information in accordance with our requirements for security and privacy.
+                </p>
+
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r8"></a>8. CHANGES TO THIS POLICY<a class="fright xx-small" href="#top"> Go to Top</a></h5>
+                </div>
+
+                <p class="rules-text">
+                    This Privacy Policy was last updated in February 2016. By continuing to use our services, our users
+                    confirm their
+
+                    continuing acceptance of any updates to this Privacy Policy.
+                </p>
+
+                <div class="bgef pding5_10">
+                    <h5 class="c62 large fbold"><a name="r9"></a>9. CONTACT INFORMATION<a class="fright xx-small" href="#top"> Go to Top</a>
+                    </h5>
+                </div>
+
+                <p class="rules-text">
+                    Questions about this Privacy Policy and/or the Terms of Use can be directed to <a href="mailto:support@olx.co.ke">support@olx.co.ke</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+   
+    <footer id="footer-container-plain">
+		<div class="wrapper small" id="lastwrapper">
+		<div class="margintop15 clr rel">
+			<div class="fleft">
+									<p>
+					<a href="https://www.olx.co.ke" class="tdnone" title="olx.co.ke">
+						<span class="icon websitegray inlblk vtop">&nbsp;</span>
+					</a>
+					</p>
+							</div>
+			<div class="boxindent">
+				<div class="clr">
+					
+<div class="static box fleft">
+	<ul class="small lheight16">
+		
+		<li class="block">
+			<a id="footerLinkMobileApps" class="link gray" title="Mobile Apps" href="https://www.olx.co.ke/mobileapps/">
+				<span>Mobile Apps</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="http://help.olx.co.ke" class="link gray" title="Help" target="_blank">
+				<span>Help</span>
+			</a>
+		</li>
+		
+		<li class="block">
+			<a href="https://www.olx.co.ke/policy/" class="link gray inlblk rel" title="Privacy Policy">
+				<span>Privacy Policy</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.co.ke/rules/" class="link gray inlblk rel" title="Terms of Use">
+				<span>Terms of Use</span>
+							</a>
+		</li>
+                <li class="block">
+			<a href="http://joinolx.com/" class="link gray" title="Join OLX" target="_blank">
+				<span>Join OLX</span>
+			</a>
+		</li>
+		
+        <li class="block">
+			<a href="#" class="tdnone link spoiler graydot" id="footerPartners" title="Partners">
+				<span class="inlblk">Partners</span><span class="icon mini inlblk vtop margintop6 marginleft5 down4">&nbsp;</span>
+			</a>
+		</li>
+	</ul>
+</div>
+<div class="static box fleft">
+	<ul class="small lheight16">
+		<li class="block">
+			<a href="https://www.olx.co.ke/sitemap/" class="link gray" title="Sitemap">
+				<span>Sitemap</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.co.ke/sitemap/regions/" class="link gray" title="Locations Map">
+				<span>Locations Map</span>
+			</a>
+		</li>
+					<li class="block">
+				<a href="https://www.olx.co.ke/popular/" class="link gray" title="Popular searches">
+					<span>Popular searches</span>
+				</a>
+			</li>
+				
+		<li class="block">
+			<a href="http://help.olx.co.ke/hc/en-us/requests/new" class="link gray" title="Contact Us" target="_blank">
+				<span>Contact Us</span>
+			</a>
+		</li>
+					</ul>
+</div>
+					<div class="footerapps fright rel tcenter">
+			<a href="https://play.google.com/store/apps/details?id=com.olx.ssa.ke&amp;referrer=utm_source%3Dolx.co.ke%26utm_medium%3Dcpc%26utm_campaign%3Dandroid-app-footer" id="footerAppAndroid" target="_blank" class="inlblk">
+			<span class="icon block googleplay"> in Google Play</span>
+			
+					<span class="tag-line tcenter hidden">					
+							Get it on				<strong class="block">Google Play</strong>
+			</span>
+		</a>
+				<a href="https://itunes.apple.com/us/app/olx-kenya/id1037699776?ls=1&amp;mt=8" id="footerAppIphone" target="_blank" class="inlblk">
+			<span class="icon block appstore"> in AppStore</span>
+			<span class="tag-line hidden">
+				Download on the				<strong class="block">AppStore</strong>
+			</span>
+		</a>
+			<p class="tag-line">Free mobile app for your phone</p>
+</div>
+				</div>
+				<div class="partners box margin10_0 hidden" id="footerPartnersContainer">
+	<ul class="clr">
+						<li class="part25 fleft">
+				<a href="http://www.olx.com.eg" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>Egypt</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="http://www.olx.com.gh" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>Ghana</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="http://www.olx.co.ke" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>Kenya</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="http://www.olx.com.ng" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>Nigeria</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="http://www.olx.co.za" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>South Africa</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="http://www.olx.co.tz" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>Tanzania</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="http://www.olx.co.ug" target="_blank" class="link gray">
+					<span class="icon fleft">&nbsp;</span><span>Uganda</span>
+				</a>
+			</li>
+				</ul>
+</div>
+			</div>
+			
+					</div>
+	</div>
+</footer>
+<footer id="footer-container-after">
+<div id="message_system" style="display: none">
+	<div class="inner">
+		<div class="tleft x-normal lheight20 rel messagesystem ">
+			<p>
+				<span class="fleft icon status">&nbsp;</span>
+				<span class="msg block overh"></span>
+			</p>
+		</div>
+	</div>
+</div>
+<div id="dialogMessage" class="hidden">
+	<div class="inner"></div>
+</div>
+<div id="saveFavDiv" class="hidden">
+	<div class="inner tcenter">
+		<div class="large lheight18">
+			<p class="marginbott15 margintop10 typeSearch hidden">
+				<strong>Search was added to favourites</strong>
+			</p>
+			<p class="marginbott15 margintop10 typeOffer hidden">
+				<strong>The Ad has been added to your favourites</strong>
+			</p>
+			<p class="margin5_0">Log in to save it in your My OLX account</p>
+			<p class="margintop25 marginbott25">
+				<a class="button big3 br3 circleshadow" href="https://www.olx.co.ke/account/?origin=observepopup">
+					<span class="cfff large">Log in</span>
+				</a>
+			</p>
+			<p class="margin5_0">Or <a href="https://www.olx.co.ke/account/register/" class="link">
+					<span>Create an account to save your favourites</span>
+				</a>
+			</p>
+		</div>
+	</div>
+	<div class="tcenter brtop-1 clr pding10">
+		<p class="margin20_0 large lheight18">
+			<a href="#" class="link" onclick="$.fancybox.close(); return false;">
+				<span>No, thanks</span>
+			</a>
+		</p>
+	</div>
+</div>
+<div id="synchroFavDiv" class="hidden">
+	<div class="inner"></div>
+	<div class="tcenter brtop-1 clr pding10">
+		<p class="margin10_0">
+			<a class="button big br3" href="#" id="synchronizeObservedConfirm">
+				<span class="cfff large">Save in favourites</span>
+			</a>
+		</p>
+		<p class="margin5_0">
+			<a href="#" class="link" id="synchronizeObservedCancel">
+				<span>No, thanks</span>
+			</a>
+		</p>
+	</div>
+</div>
+
+<!-- <div class="topinfo rel hidden" id="cookiesBar">
+	<a href="javascript:void(0);" class="cookiesBarClose abs link icon close"></a>
+	<p class="normal cfff">
+		Strona korzysta z plików cookies w celu realizacji usług i zgodnie z 
+		<a href="https://www.olx.co.ke/rules/" target="_blank" class="link tdnone cookiesBarClose">Polityką Plików Cookies</a>. 
+		Możesz określić warunki przechowywania lub dostępu do plików cookies w Twojej przeglądarce.
+	</p>
+</div>  -->
+
+<!--<div id="layer-apps" class="layer-apps  hidden">-->
+	<!--<div class="layer-content">-->
+		<!--<a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'Close']);" class="layerapps-close icon close abs" href="#"></a>-->
+		<!--<span class="header iblblk abs"></span>-->
+		<!--<div class="buttons-box">-->
+			<!--<a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'AppStore']);" class="inlblk icon appstore" href="https://itunes.apple.com/us/app/olx-kenya/id1037699776?ls=1&mt=8" target="_blank">OLX.pl AppStore</a>-->
+			<!--<a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'GooglePlay']);" class="inlblk icon googleplay" href="https://play.google.com/store/apps/details?id=com.olx.ssa.ke&referrer=utm_source%3Dolx.co.ke%26utm_medium%3Dcpc%26utm_campaign%3Dandroid-app-footer" target="_blank">OLX.pl GooglePlay</a>-->
+			<!--<a onclick="_gaq.push(['_trackEvent', 'AppPromo', 'MyOLX', 'WindowsStore']);" class="inlblk icon windowsstore" href="" target="_blank">OLX.pl WindowsStore</a>-->
+		<!--</div>-->
+	<!--</div>-->
+<!--</div>-->
+</footer></div>	    	    	    	    
+            <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-137146-110']);
+            _gaq.push(['_setDomainName', 'olx.co.ke']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga, s;
+                if (!_adblock) {
+                    ga = document.createElement('script');
+                    ga.type = 'text/javascript';
+                    ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                    s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(ga, s);
+                } else {
+                    ga = document.createElement('script');
+                    ga.type = 'text/javascript';
+                    ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(ga, s);
+                }
+                if (typeof dataLayer != 'undefined') {
+                    if (_adblock) {
+                        dataLayer.push({'event': 'adblock'});
+                    } else {
+                        dataLayer.push({'event': 'no_adblock'});
+                    }
+                }
+            })();
+        </script>
+    
+    
+    
+	    	    <script type="text/javascript">
+	<!--
+	xtnv = document;
+	xtsd = "https://LOGws1310"
+	xtsite = "522905";
+	xtcustom = {"page_name":"staticpage","user_status":"unlogged_user"};
+	//-->
+</script>
+<noscript>
+	<img width="1" height="1" alt="" src="https://LOGws1310.ati-host.net/hit.xiti?s=522905&stc={"page_name":"staticpage","user_status":"unlogged_user"}" >
+</noscript>
+	    							<script type="text/javascript" src="https://static.olx.co.ke/packed/sw9bef30ddf1b3636be47ad8c5e5e0b3bb.js"></script>
+										    <!--APP R3NDR www.olx.co.ke--><!--B4CK3ND OK-->
+	    					<script type="text/javascript">
+				window.dataLayer = window.dataLayer || [];
+				window.dataLayer.push({"call": "samurai"});
+			</script>
+			    	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1c7b81516a","applicationID":"33223000","transactionName":"YgdbMkBRDUNUBU0IWltNbBRbHwpeUQNBT0VdEg==","queueTime":0,"applicationTime":20,"atts":"TkBYRAhLHk0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<!-- web-master-2463331519-hhff6 -->
+</body></html>
