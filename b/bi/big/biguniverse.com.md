@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biguniverse.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531084451id_/https%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biguniverse.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113095427id_/https%3A//www.biguniverse.com/main/privacy) for the most accurate reproduction.*
 
-# Integrated Literacy Solution for K-12 — Big Universe
+# K-12 Digital Literacy Solution — Big Universe
 
 Big Universe, Inc. ("Big Universe") takes student privacy and security very seriously. As a school service provider, we take responsibility to both support the effective use of student information and safeguard student privacy and information security. We pledge to carry out responsible stewardship and appropriate use of student personal information according to the commitments below and in adherence to all laws applicable to us as a school service provider.
 
