@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestrestaurants.com.au privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404022957id_/https%3A//www.bestrestaurants.com.au/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrestaurants.com.au privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113123936id_/https%3A//www.bestrestaurants.com.au/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Best Restaurants of Australia | Restaurants Guide Australia
 
