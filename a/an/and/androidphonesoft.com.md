@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidphonesoft.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404011219id_/http%3A//www.androidphonesoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidphonesoft.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113152543id_/http%3A//www.androidphonesoft.com/privacy.html) for the most accurate reproduction.*
 
 # Androidphonesoft Privacy Policy
 
