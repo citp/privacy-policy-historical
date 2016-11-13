@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loudfind.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413055521id_/http%3A//loudfind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudfind.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113073454id_/http%3A//loudfind.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - loudfind
+# Privacy Policy – Loudfind
 
 * * *
 
