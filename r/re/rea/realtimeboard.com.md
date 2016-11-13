@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtimeboard.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417150247id_/https%3A//realtimeboard.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtimeboard.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113055053id_/https%3A//realtimeboard.com/policy) for the most accurate reproduction.*
 
-# Privacy policy, online whiteboard | RealtimeBoard
+# RealtimeBoard Privacy Policy, Online Whiteboard | RealtimeBoard
 
 Realtimeboard Inc ("us", "we", or "our") operates the [https://realtimeboard.com](https://realtimeboard.com/index/) website (the "Service").
 
@@ -88,6 +88,6 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 If you have any questions about this Privacy Policy, please contact us at the following addresses and include your name, address and email address in your correspondence to us: Realtimeboard Inc. 3651 Lindell Road Ste D1134, Las Vegas, NV 89103, United States 
 
-Email: [hello@realtimeboard.com](mailto:hello@realtimeboard.com)
+Email: [welcome@realtimeboard.com](mailto:welcome@realtimeboard.com)
 
 This Privacy Policy is effective as of October 9, 2014
