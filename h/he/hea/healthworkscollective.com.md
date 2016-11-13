@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthworkscollective.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222125748id_/http%3A//www.healthworkscollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthworkscollective.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113084204id_/http%3A//www.healthworkscollective.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HealthWorks Collective
 
