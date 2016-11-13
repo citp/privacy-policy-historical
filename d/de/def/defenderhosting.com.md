@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419001236id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenderhosting.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113054314id_/http%3A//www.virtacore.com%3Fpage_id%3D54) for the most accurate reproduction.*
 
 # Privacy Policy - Virtacore
 
@@ -47,20 +47,6 @@ We will not sell, rent or lease to others telephone numbers, e-mail addresses or
 
 We reserve the right to disclose any and all pertinent customer or user information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. You consent to the foregoing by using the Services.
 
-### Personal information received from the EU – Safe Harbor compliance
-
-Virtacore complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Virtacore has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/.
-
-In compliance with the US-EU Safe Harbor Principles, Virtacore commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact Virtacore at:
-
-Virtacore  
-ATTN: Compliance Officer  
-21355 Ridgetop Circle  
-Suite 250  
-Sterling, VA 20166
-
-Virtacore has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Virtacore, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
-
 ### Privacy related concerns
 
-Should you have questions or concerns relating to this Privacy Policy or compliance with it, please send an e-mail to: safeharbor@virtacore.com.
+Should you have questions or concerns relating to this Privacy Policy or compliance with it, please send an e-mail to: privacy@virtacore.com.
