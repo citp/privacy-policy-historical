@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the apexbattery.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516134449id_/http%3A//www.apexbattery.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexbattery.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113070031id_/http%3A//www.apexbattery.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**Privacy Policy** [](http://smallbusiness.yahoo.com/merchant/)
-
-* * *
+# Privacy Policy Apex Battery
 
 We are committed to protect all customer information collected on our site. We DO NOT sell, share or rent this information to others. Your contact information is used for billing purposes and to process your order. We use it, also, to contact you if we have any questions on your order.
 
@@ -17,9 +13,9 @@ We are committed to protect all customer information collected on our site. We D
 
 
 
- **How do we use your information?**
+**How do we use your information?**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
@@ -29,7 +25,7 @@ We may use the information we collect from you when you register, purchase produ
 
 
 
- **How do we protect visitor information?**
+**How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
@@ -43,7 +39,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
  **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ApexBattery.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ApexBattery. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -76,5 +72,3 @@ Please also visit our [Terms and Conditions](https://web.archive.org/terms-condi
  **Your consent**
 
 By using our site, you consent to our privacy policy.
-
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, orderingsystem, and order data. Yahoo! automatically collects order information butmay only use this information in the aggregate. If you accessed this storethrough Yahoo! Shopping, Yahoo! also automatically collects informationabout your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for moreinformation about how Yahoo! uses this information._
