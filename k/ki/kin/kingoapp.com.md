@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingoapp.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604163818id_/https%3A//www.kingoapp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingoapp.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113120015id_/https%3A//www.kingoapp.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Kingo Android Root
 
