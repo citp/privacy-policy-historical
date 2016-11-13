@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeweltheme.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130144900id_/https%3A//jeweltheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeweltheme.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113095413id_/https%3A//jeweltheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JEWEL THEME
 
@@ -6,7 +6,7 @@ Jeweltheme.com values the privacy and security of the information seriously that
 
 ### Types of information we collect
 
-**Personal Information:** It includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, credit/debit card numbers and associated billing addresses and expiration dates, account numbers, as well as other, similar information. Such information is only collected from you if you voluntarily submit it to us. **Non-Personal Information:** Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
+ **Personal Information:** It includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, credit/debit card numbers and associated billing addresses and expiration dates, account numbers, as well as other, similar information. Such information is only collected from you if you voluntarily submit it to us. **Non-Personal Information:** Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
 
 ### Use of Information
 
