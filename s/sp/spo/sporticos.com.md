@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sporticos.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531013116id_/https%3A//sporticos.com/en-gb/read/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporticos.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114004137id_/https%3A//sporticos.com/en/read/privacy-policy) for the most accurate reproduction.*
 
 # Read our privacy policy before you start using Sporticos.
 
