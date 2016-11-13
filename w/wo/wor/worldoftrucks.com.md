@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoftrucks.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424201537id_/https%3A//worldoftrucks.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoftrucks.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113200644id_/https%3A//www.worldoftrucks.com/en/privacy.php) for the most accurate reproduction.*
 
 # World of Trucks | Privacy Policy
 
