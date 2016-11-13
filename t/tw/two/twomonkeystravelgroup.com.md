@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325160648id_/http%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomonkeystravelgroup.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113191313id_/http%3A//twomonkeystravelgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Two Monkeys Travel Group
 
@@ -53,7 +53,13 @@ Two Monkeys Travel Group does not knowingly collect personal identifiable inform
 
 ### **Unsubscribe or Opt-Out**
 
-All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to the email on our website. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to the email on our website. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
+
+### **Affiliate Links**
+
+Please note that some of the links on our site are affiliate links. So when you make a purchase we sometimes make a small commission, at no extra cost to you. The cost to you remains the same, sometimes even cheaper if we have negotiated a special deal for our readers.
+
+We use all of the companies we have listed here and that’s why they are in this list, but of course we need to keep Two Monkeys Travel Group running as well as it can, which is exactly what you’re helping with if you do decide to buy or book something through an affiliate link! If you have any more questions about the companies we use or any other companies you’re looking at, just email us and we’ll be happy to help.
 
 ### **Affiliate Links & Sponsored Content**
 
@@ -83,6 +89,4 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 
 **Email:** [kach.twomonkeystravel@gmail.com](mailto:kach.twomonkeystravel@gmail.com)
 
-**Updated: November 6, 2015**
-
-+This document was customized by[ FormSwift](http://formswift.com/lease-agreement)+
+**Updated:  June 25, 2016**
