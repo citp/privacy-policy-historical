@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gosippme.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430204425id_/http%3A//goo.gl/j0riyg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosippme.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113083845id_/http%3A//goo.gl/j0riyg) for the most accurate reproduction.*
 
-# Read Celebrity Gossip And News Stories-Latest Entertainment News
+# Privacy Policy - <center>GossippMe Blog</center>
+
+.....................................2 
 
 **Privacy**
 
