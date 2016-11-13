@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altdirectory.info privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509160245id_/http%3A//www.altdirectory.info/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altdirectory.info privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114002153id_/http%3A//www.altdirectory.info/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alt Directory
 
