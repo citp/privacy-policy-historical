@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329020544id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113061819id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -25,7 +25,7 @@ Scentre collects information from customers in a number of different ways. These
   * When customers park in Scentre-managed car parks with a ticketless parking system or car locator functionality, customers consent to provide us with their car licence plate details and, in some circumstances, other information including name, email address and telephone number. These details are used for measuring and analysing car parking dwell times and shopper behaviour in order to improve our centres, for the purposes of managing car parking at the centre, marketing purposes and also to assist customers to locate their cars including via online and mobile applications. 
   * When customers use mobile applications developed by Scentre, or logon to Wi-Fi provided in Westfield shopping centres or third party applications utilising Scentre’s infrastructure (including Bluetooth beacon networks), customers provide Scentre with certain information including their contact details. Scentre collects this information to enable customers to be informed about upcoming events, activities and promotions, both in centre and as part of Scentre's other activities, sponsor and retailer promotions, and other activities, which will be notified to customers as they sign in to use those facilities.
   * When customers purchase, redeem or are provided with Westfield Gift Cards or Westfield Insurance Cards, they may provide Scentre with their contact details. These details are used for card fulfilment purposes and, if customers opt in, to contact customers about events, activities and promotions, both in centre and as part of the Scentre's other activities.
-  * Where donations are made to Scentre Charity Limited or the Scentre Charities Fund by cheque, contact details of customers may be collected to verify the payer details or notify payers if the cheque is not able to be processed.
+  * Where donations are made to Scentre Charity Limited as trustee for Westfield Charities Fund by cheque, contact details of customers may be collected to verify the payer details or notify payers if the cheque is not able to be processed.
 
 
 
