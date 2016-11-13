@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foramerica.org privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504034937id_/https%3A//foramerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foramerica.org privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113214908id_/https%3A//foramerica.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - For America
+# Privacy Policy – For America
 
 AMERICA, Inc. (AMERICA, Inc. or we) is the owner and operator of ForAmerica.org (the Website), a multimedia news and commentary website.
 
