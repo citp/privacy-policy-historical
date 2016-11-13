@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sram.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322030557id_/https%3A//www.sram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sram.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113192029id_/https%3A//www.sram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | SRAM
 
@@ -91,9 +91,10 @@ Magura® is a registered trademark of Gustav Magenwirth GmbH
 Trek® is a registered trademark of Trek Bicycle Corporation  
 Kraton® is a registered trademark of Kraton Polymers  
 Quarq® is a registered trademark of Quarq Technology, Inc.   
-Garmin® is a registered trademark of Garmin, Ltd.
+Garmin® is a registered trademark of Garmin, Ltd.  
+iOS® is a registered trademark of Cisco Technology, Inc.
 
-Copyright notice: Copyright © 2011 SRAM LLC
+Copyright notice: Copyright © 2016 SRAM LLC
 
 ## Forums
 
