@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-listening-world.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609202242id_/http%3A//www.english-listening-world.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-listening-world.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113073732id_/http%3A//www.english-listening-world.com/privacy) for the most accurate reproduction.*
 
 # ELW |
 
