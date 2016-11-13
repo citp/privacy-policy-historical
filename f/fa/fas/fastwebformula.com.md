@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastwebformula.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224013434id_/http%3A//www.superfastbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastwebformula.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113095636id_/http%3A//www.superfastbusiness.com/privacy) for the most accurate reproduction.*
 
 # SuperFastBusiness Privacy Notice
 
@@ -53,9 +53,9 @@ Similar to other commercial websites, Our Website utilizes a standard technology
  **How Do We Use the Information That You Provide to Us?**  
 Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize Our Website’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.  
 Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.  
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new Services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by updating your subscription settings or issuing a ticket at [www.SuperFastHelp.com ](http://www.superfasthelp.com/)
+Occasionally, we may also use the information we collect to notify you about important changes to our Website, new Services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by updating your subscription settings or issuing a ticket at [support @ superfastbusiness.com](mailto:support@superfastbusiness.com)
 
-**What Are Cookies/Pixels?**  
+ **What Are Cookies/Pixels?**  
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of Our Website will not function as effectively. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.  
 A tracking pixel communicates with a cookie to collect or deliver information. It does not identify you personally, but may result in you receiving re-targeted advertising from websites you have already visited. To find out how to opt out of tailored advertising please check the options available here – <http://www.networkadvertising.org/choices>
 
@@ -97,7 +97,7 @@ Children are not eligible to use our services unsupervised and we ask that child
 In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
 
  **How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by issuing a ticket at [www.SuperFastHelp.com](http://www.superfasthelp.com/)
+You may request access to all your personally identifiable information that we collect online and maintain in our database by issuing a ticket at [support @ superfastbusiness.com](mailto:support@superfastbusiness.com)
 
  **Problems?**  
 If you have any concerns about our use of your personal information, please write to us at:
