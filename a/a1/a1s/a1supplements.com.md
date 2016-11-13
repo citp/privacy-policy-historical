@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1supplements.com privacy policy that was archived on 2007-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070530191121id_/http%3A//www.a1supplements.com/Privacy-Statement-sp-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1supplements.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113233941id_/https%3A//www.a1supplements.com/privacy-statement) for the most accurate reproduction.*
 
-# A1Supplements.com - Privacy Statement
+# Privacy Statement - A1supplements
 
 We are committed to your privacy! Because protecting the privacy of our visitors is of the utmost importance, we will never sell, transfer or otherwise give up any of your information, unless required by law. We hate unwanted junk mail or spam email just as much, if not more than you! Therefore, unlike most companies online, we will never give your personal information to other companies. You can feel safe providing information to us. Below is more information about any information we may collect: 
 
@@ -18,6 +18,10 @@ Sometimes, our online surveys or polls ask visitors for contact information (lik
 
 We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users feedback or information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings (see opt-out section below).
 
+**Third Party Relationships and Your Privacy**
+
+Occasionally, we provide our postal mailing list (consisting of customer names and postal mailing addresses, but not e-mail addresses) to other companies whose products we believe may be of interest to you. In order to determine those products that we believe may be of interest to you, the information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. If you prefer for us not to provide your name and postal mailing address to third parties, you may contact us in one of the ways provided below. 
+
 **Public Forums**
 
 This site maintains public chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any of your personal information.
@@ -28,4 +32,4 @@ This site has strict security measures in place to protect the loss, misuse and 
 
 **Opt-Out**
 
-Our site provides users the option to opt-out of receiving any communications from us at any time. Simply contact us by sending email to unsubscribe@A1Supplements.com requesting to opt-out of future mailings and we will remove you from our contact database. 
+Our site provides users the option to opt-out of receiving any communications from us at any time. Simply contact us by sending email to unsubscribe@A1Supplements.com requesting to opt-out of future mailings and we will remove you from our contact database.
