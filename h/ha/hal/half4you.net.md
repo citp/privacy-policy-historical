@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the half4you.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401141631id_/https%3A//www.half4you.net/index.php/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the half4you.net privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113061040id_/http%3A//www.half4you.net/index.php/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Half4yoU
 
@@ -29,7 +29,3 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 Contacting us  
 If you have any questions about this Policy, please contact us.  
 This document was last updated on February 08, 2016
-
-## Error 500 - Internal server error
-
-An internal server error has occured. Please try again later.
