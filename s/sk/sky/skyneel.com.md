@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318115429id_/http%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyneel.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113181652id_/https%3A//www.skyneel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are very serious about our valuable user’s privacy. We ensure that user’s personal information is not disclosed to other website or companies. On this privacy policy you see that how could we collect and use your personal information on [www.skyneel.com](http://www.skyneel.com/).
+We are very serious about our valuable user’s privacy. We ensure that user’s personal information is not disclosed to other website or companies. On this privacy policy you see that how could we collect and use your personal information on [www.skyneel.com](https://www.skyneel.com/).
 
 #### Personal identification information
 
@@ -41,8 +41,8 @@ Skyneel has the discretion to update this privacy policy at any time without any
 
 #### Contacting us
 
-If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](http://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
+If you have any query regarding our privacy policy then you can directly deal with us on our website [www.skyneel.com](https://www.skyneel.com/) or write us on admin@skyneel.com for any clarification.
 
-This document was last updated on Jan 8, 2015
+This document was last updated on April 12, 2016
 
-© 2012-2015 by skyneel.com. All rights reserved
+© 2012-2016 by skyneel.com. All rights reserved
