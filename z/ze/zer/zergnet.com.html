@@ -1,0 +1,323 @@
+<!--The following is the downloaded HTML source of the zergnet.com privacy policy that was archived on 2016-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114224610id_/http%3A//www.zergnet.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Language" content="en">
+    <meta name="viewport" content="width=1002">
+    <meta name="MobileOptimized" content="1002">
+    <title>ZergNet - You make great content. We help you promote it.</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" media="all" href="info-site/css/all_2.css" type="text/css">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">window.jQuery || document.write('<script src="info-site/js/jquery-1.8.3.min.js"><\/script>')</script><script src="info-site/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="info-site/js/jquery.main.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#login-form").validate({
+                errorClass: "hiddenErrorMsgs",
+                rules:{
+                    email:{
+                        required:true,
+                        email:true
+                    },
+                    password:{
+                        required:true
+                    }
+                }
+            });
+
+
+            $("#sign-form").validate({
+                errorClass: "hiddenErrorMsgs",
+                rules:{
+                    email:{
+                        required:true,
+                        email:true
+                    },
+                    password1: {
+                        required: true,
+                        minlength: 6
+                    },
+                    password2: {
+                        required: true,
+                        minlength: 6,
+                        equalTo: "#password1"
+                    },
+                    linkurl: {
+                        required:true,
+                        notEqual: "Website URL"
+                    },
+                    sitename: {
+                        required:true,
+                        notEqual: "Website Name"
+                    }
+                }
+            });
+
+            $("#contact-form").validate({
+                errorClass: "hiddenErrorMsgs",
+                rules:{
+                    contactName: {
+                        required:true,
+                        notEqual: "Your Name"
+                    },
+                    contactEmail: {
+                        email:true,
+                        notEqual: "Your Email"
+                    }
+                },
+
+                submitHandler: function() {
+                    $('#contact-box').hide();
+                    $('#contact-area').show();
+
+
+                    var encodedContactName = encodeURIComponent($('#contactName').val());
+                    var encodedContactMsg = encodeURIComponent(document.getElementById('contactMsg').value);
+                    var encodedContactEmail = encodeURIComponent($('#contactEmail').val());
+
+                    $.post('ajax/contactrequest.php', {
+                        contactName: encodedContactName,
+                        contactEmail: encodedContactEmail,
+                        contactMsg: encodedContactMsg
+                    });
+                }
+
+            });
+        });
+
+    </script>
+<style type="text/css">.js-tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style></head>
+
+<body>
+<div id="header">
+    <div class="header-holder">
+        <div class="area-holder">
+            <strong class="logo"><a href="http://zergnet.com">ZergNet</a></strong>
+            <ul id="nav">
+                <li><a class="smoothscroll" href="#how-it-works">HOW IT WORKS</a></li>
+                <li><a class="smoothscroll" href="#clients">CLIENTS</a></li>
+                <li><a class="smoothscroll" href="#features">FEATURES</a></li>
+                <li><a class="smoothscroll" href="#about">ABOUT</a></li>
+                <li><a class="smoothscroll" href="#contact">CONTACT</a></li>
+            </ul>
+        </div>
+        <div class="frame-holder">
+            <div class="popup-area">
+                <a class="login open" href="#">LOGIN</a>
+                <div class="popup">
+                    <div class="holder">
+                        <div class="block">
+                            <form action="login" id="login-form" class="login-form" method="post">
+                                <fieldset>
+                                    <input type="hidden" name="action" value="login">
+                                    <div class="row">
+                                        <input type="text" name="email" id="email" value="Email">
+                                    </div>
+                                    <div class="row">
+                                        <span class="input-placeholder-text" style="color: rgb(111, 130, 144); position: absolute;">Password</span><input type="password" name="password" id="password" value="Password" autocomplete="off">
+                                    </div>
+                                    <div class="row-3">
+                                        <a href="forgot">FORGOTTEN PASSWORD?</a>
+                                        <button type="submit" value="">LOGIN</button>
+                                    </div>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="sing lightbox" href="#popup1">SIGN UP</a>
+        </div>
+    </div>
+</div>
+
+<div id="wrapper">
+<div class="w1">
+<div style="margin: 109px 0 60px 0">
+    <h2>Privacy Policy</h2>
+
+    <h3>Privacy</h3>
+    <p>7hops.com Inc. (“ZergNet”) provides this Privacy Policy to inform users of our policies
+    and procedures regarding the collection, use and disclosure of personally identifiable
+    information received from users of ZergNet’s website, located at&nbsp;the domain zergnet.com
+    (the “ZergNet Website"). Please note that this Privacy Policy only applies to the ZergNet
+    Website.</p>
+
+    <h3>Information Collection and Use</h3>
+    <p>It is not necessary to provide ZergNet with your personally identifiable information to
+    use the ZergNet Website, and ZergNet does not collect personally identifiable
+    information in connection with the operation of the ZergNet Website.  If you contact
+    ZergNet by email through the ZergNet Website, ZergNet may keep a record of your
+    contact information and correspondence, and may use your email address, and any
+    information that you provide to ZergNet in your message, to respond to you.  ZergNet
+    treats this information as it would treat any other unsolicited business correspondence,
+    and has no obligation to keep this information confidential, nor to take any security
+    measures to protect this information.</p>
+
+    <p>When you visit the ZergNet Website, ZergNet’s servers automatically record information
+    that your browser sends whenever you visit a website ("Log Data"). This Log Data may
+    include information such as your IP address, browser type or the domain from which you
+    are visiting. For most users accessing the Internet from an Internet service provider, the
+    IP address will be different every time you log on. ZergNet uses Log Data to monitor use
+    of the ZergNet Website and the services we offer via the ZergNet Website and for the
+    ZergNet Website’s technical administration.</p>
+
+    <h3>Cookies</h3>
+    <p>Like many websites, ZergNet also uses "cookie" technology to collect additional website
+    usage data and to improve the ZergNet Website and the services offered via the Web Site.
+    A cookie is a small data file that ZergNet’s servers transfer to your computer’s hard disk.
+    ZergNet does not use cookies to collect personally identifiable information. However, IP
+    addresses are collected by the use of cookies.</p>
+
+    <p>ZergNet mainly uses "session cookies", which enable certain features of the ZergNet
+    Website and services offered via the ZergNet Website, to better understand how you
+    interact with the Web Site and services we offer via the ZergNet Website, to monitor
+    aggregate usage by our users and web traffic routing on the ZergNet Website, and to
+    improve the ZergNet Website and services offered via the ZergNet Website. Session
+    cookies should be deleted from your computer when you disconnect from or leave the
+    ZergNet Website.</p>
+
+    <p>ZergNet also uses a persistent cookie that stays on your computer after you leave the
+    ZergNet Website, for the sole purpose of ensuring that you receive a variety of ZergNet
+    content (also called “frequency-capping”).</p>
+
+    <p>Most Internet browsers automatically accept cookies. You can instruct your browser, by
+    editing its options, to stop accepting cookies or to prompt you before accepting a cookie
+    from the websites you visit.</p>
+
+    <h3>Information Sharing and Disclosure</h3>
+
+    <p>ZergNet cooperates with government and law enforcement officials or private parties, to
+    enforce and comply with the law. ZergNet may disclose any information about you to
+    government or law enforcement officials or private parties as ZergNet, in its sole
+    discretion, believes necessary or appropriate to respond to claims, legal process
+    (including subpoenas), to protect the property and rights of ZergNet or a third party, the
+    safety of the public or any person, to prevent or stop any illegal, unethical, or legally
+    actionable activity, or to comply with the law.</p>
+
+    <p>If any or all of the assets of ZergNet are acquired by, or merged with another entity,
+    ZergNet will share with this entity some or all of the information collected through the
+    ZergNet Website.</p>
+
+    <h3>Security</h3>
+    <p>Because ZergNet does not collect any personally identifiable information from the
+    ZergNet Website, ZergNet does not take any specific security measures to protect the
+    information we do collect.</p>
+
+    <h3>Links to Other Sites</h3>
+
+    <p>The ZergNet Website may contain links to other web sites ("Linked Sites") operated by
+    ZergNet or third parties. Linked Sites may place their own cookies or other files on your
+    computer, collect data or solicit personal information from you. This Privacy Policy
+    addresses only the use and disclosure of information that ZergNet collects through the
+    ZergNet Website. Other sites follow different rules regarding the use or disclosure of the
+    personal information you submit to them. ZergNet does not exercise control over third
+    party Linked Sites. Your use of any Linked Site operated by ZergNet is subject to the
+    terms and conditions provided by ZergNet for such Linked Site.  ZergNet encourages you
+    to read the privacy policies or statements of the other websites you visit.</p>
+
+    <h3>Our Policy Towards Children</h3>
+
+    <p>The ZergNet Website is not directed to children under 18. If a parent or guardian
+    becomes aware that his or her child has provided ZergNet with personally identifiable
+    information without their consent, he or she should contact ZergNet
+    at&nbsp;info@zergnet.com.  If ZergNet becomes aware that a child under 13 has provided
+    ZergNet with personally identifiable information, ZergNet will remove such information
+    from our files.</p>
+
+    <h3>Changes to this Privacy Policy</h3>
+
+    <p>ZergNet reserves the right to change this policy at any time without prior notice. Any
+    changes to this policy will be posted here.  You are advised to consult this Privacy Policy
+    regularly for any changes. If you have any questions or comments about this Privacy
+    Policy, please contact us at info@zergnet.com.</p>
+</div>
+<div class="contact-holder" id="contact" style="min-height:470px;">
+    <div class="contact-box" id="contact-box">
+        <h3>Contact Us</h3>
+        <form class="contact-form" id="contact-form" onsubmit="return false;">
+            <fieldset>
+                <div class="row">
+                    <input type="text" name="contactName" id="contactName" value="Your Name">
+                </div>
+                <div class="row">
+                    <input type="text" name="contactEmail" id="contactEmail" value="Your Email">
+                </div>
+                <div class="row-2">
+                    <textarea name="contactMsg" id="contactMsg" rows="4" cols="30">Your Message</textarea>
+                </div>
+                <button type="submit" value="Send">Send</button>
+            </fieldset>
+        </form>
+    </div>
+
+    <div class="contact-area" id="contact-area">
+        <div class="align">
+            <img src="info-site/images/img-symbol.png" alt="image description">
+            <h3>Message Sent!</h3>
+            <span>We’ll be in touch soon</span>
+        </div>
+    </div>
+
+</div>
+<div id="footer">
+					<span>
+						© 2016 ZergNet.com. All Rights Reserved.
+					</span>
+    <div class="area">
+        <span>You make great content. We help you promote it.</span>
+        <a class="sing-up lightbox" href="#popup1">SIGN UP</a>
+    </div>
+</div>
+</div>
+</div>
+<div class="popup-holder">
+    <div id="popup1" class="lightbox">
+        <div class="contact-box">
+            <h3>Sign Up</h3>
+            <form class="sign-form" id="sign-form" action="signup" method="post">
+                <input type="hidden" name="action" value="signup">
+                <fieldset>
+                    <div class="row">
+                        <input type="text" name="email" id="email" value="Your Email">
+                    </div>
+                    <div class="row">
+                        <span class="input-placeholder-text" style="color: rgb(111, 130, 144); position: absolute;">Password</span><input type="password" name="password1" id="password1" value="Password" autocomplete="off">
+                    </div>
+                    <div class="row">
+                        <span class="input-placeholder-text" style="color: rgb(111, 130, 144); position: absolute;">Verify Password</span><input type="password" name="password2" id="password2" value="Verify Password" autocomplete="off">
+                    </div>
+                    <div class="row">
+                        <input type="text" name="sitename" id="sitename" value="Website Name">
+                    </div>
+                    <div class="row">
+                        <input type="text" name="linkurl" id="linkurl" value="Website URL">
+                    </div>
+                    <button type="submit" value="">Sign Up</button>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+
+    $(document).ready(function(){
+                $('.smoothscroll').on('click',function (e) {
+            e.preventDefault();
+            var target = this.hash,
+                $target = $(target);
+            $('html, body').stop().animate({
+                'scrollTop': $target.offset().top
+            }, 900, 'swing', function () {
+                window.location.hash = target;
+            });
+        });
+    });
+</script>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
