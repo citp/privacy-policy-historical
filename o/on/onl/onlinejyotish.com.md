@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejyotish.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205105258id_/https%3A//www.onlinejyotish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejyotish.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114172912id_/https%3A//www.onlinejyotish.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy of onlinejyotish.com, | Om Sri Sai Jyotisha Vidyapeetham
 
@@ -22,7 +22,7 @@ Om Sri Sai Jyotisha Vidyapeetham has no control over, and assumes no responsibil
 Om Sri Sai Jyotisha Vidyapeetham may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
 **Contact Us**  
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20151211174452id_/http://www.onlinejyotish.com/contact-us.php).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20161114172912id_/https%3A//www.onlinejyotish.com/contact-us.php).
 
 ###  Our Security Policy
 
