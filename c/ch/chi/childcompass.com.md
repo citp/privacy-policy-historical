@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcompass.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016055413id_/http%3A//childcompass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcompass.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114144516id_/http%3A//childcompass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Child Compass
 
