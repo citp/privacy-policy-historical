@@ -1,63 +1,86 @@
-> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405053130id_/https%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114172506id_/https%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
 
 # Read iFit’s privacy policy about your information.
 
-This Privacy Policy governs the manner in which Icon Health & Fitness, Inc. ("we," "us," "our") collect, use, maintain, and disclose information collected from and about you and other users ("you" or "User") while using the www.ifit.com website (the "Site"), whether accessed via the Internet, a mobile app, machine consoles, other electronic devices, or by any other means. This privacy policy applies to the Site and all products and services we offer that integrate with iFit® services. We are dedicated to safeguarding Personally Identifiable Information (as defined below) that we collect.
+This Privacy Policy governs the manner in which Icon Health & Fitness, Inc. ("we," "us," "our") collect, use, maintain, and disclose information collected from and about you and other users ("you" or "User") while using this website or service (the "Site"), whether accessed via the Internet, a mobile device, other electronic devices, or by any other means. This privacy policy applies to the Site and all products and services we offer through the Site. We are dedicated to safeguarding Personally Identifiable Information (as defined below) that we collect.
+
+We store the information we collect in the United States, so if you are accessing this Site from another country, your information is being transferred to and from the United States.
 
 ###### Types of information we collect and when
 
-We may collect two types of information from users of our Site: "Personally Identifiable Information" which is information that can be used to locate you,contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, user name, credit card information, etc.) and "Aggregate Information" which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, gender, age, weight, height, food intake, activity level, interests, workout history and results, exercise equipment, Site pages most frequently accessed, browser type, links a User clicks, IP address, and other similar information).
+We may collect two types of information from users of our Site: "Personally Identifiable Information" which is information that can be used to locate you, contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, user name, credit card information, etc.) and "aggregate information" which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, Site pages most frequently accessed, browser type, links a User clicks, IP address, and other similar information).
 
 ###### We collect information from you:
 
-  * When you register for an account (free or paid), we collect your name, a user name, a password, date of birth, current weight, target weight, height, gender, measurement system, activity level, fitness goal, intensity level, and the retail location where you purchased your iFit® equipment.
   * When you use a credit card to pay for any of our services or products, we ask for your name, address, credit card and credit card-related information.
   * Once you have created an account, you may complete your profile by providing additional Personally Identifiable Information about yourself such as your address.
-  * When you connect your Site account with your Facebook account we will have access to the publicly available information from your Facebook page, and Facebook will have access to information you log through the Site while logged into your Site account through Facebook.
+  * When you connect your Site account with your Facebook account or other social media account we will have access to the publicly available information from your Facebook or other social media page, and Facebook or other social media site will have access to information you log through the Site while logged into your Site account through Facebook or the other social media site.
   * When you enter a contest, sweepstakes or promotion through the Site.
   * When you submit comments, feedback, or suggestions through the Site.
-  * When your equipment/device is connected to your account, we may gather information about you and your workouts, such as your heart rate, workout settings, duration of your workout, and the date and time of your workout.
   * When you visit the site, even if you are not logged in, we gather information about your computer operating system (e.g., Windows XP or Mac OS), your "IP Address," the web browser (e.g., Firefox, Internet Explorer) being used, the referring website information, usage data regarding your activity on the Site, including what web pages you visit or share, what functions you use, as well as overall time spent on the Site. We use this data for internal analysis about the Site performance and services.
+  * When you share your content with family and friends using ICON’s products, send gift certificates and products, or invite others to participate in ICON’s services or forums, ICON may collect the information you provide about those people such as name, mailing address, email address, and phone number. ICON will use such information to fulfill your requests and provide the relevant product or service.
 
 
 
-You can refuse to supply Personally Identifiable Information, but it may prevent you from having access to the Site's full functionality. The Site also allows you to edit and update your personal information and preferences at any time.
+You can refuse to supply Personally Identifiable Information, but it may prevent you from having access to the Site's full functionality. The Site also allows you to edit and update your personal information and preferences at any time. Once you have created an account and log in to the Site -- you are not anonymous to us.
 
-Once you have created an account and log in to the Site -- you are not anonymous to us.
-
-###### For EPIC branded products purchased from Dick's Sporting Goods
-
-If you create an account on the Site, and designate Dick's Sporting Goods as the retailer at which you purchased your EPIC branded product, when you submit your information, you are co-registering that information with both us and Dick's Sporting Goods, which registration shall be subject to this Privacy Policy and that of Dick's Sporting Goods.
+Our Site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13 years of age, please contact us at contact information provided below.
 
 ###### How we use collected information
 
 We collect and use your Personally Identifiable Information for the following purposes:
 
-  * To personalize user experience:
-    * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site and your User experience:
-    * We continually strive to improve our website offerings based on the information and feedback we receive from you.
-    * We may use information we gather about you to gauge your personal health, to recommend improvements to your workout, to compare your personal achievements with other Users, to display data trends based on different demographics, to assist Users in setting goals, to recommend and allow Users to participate in certain competitions and challenges administered through the Site, and to grant points and various rewards, among other things.
-  * To provide customer service:
-    * Your information helps us to more effectively respond to your customer service requests and support needs.
-    * When a User submits questions or comments to us, we my use that information to respond to the User.
-    * By creating an account with us, you agree that we may contact you by phone, email, mail, or text message to respond to questions that you submit to us.
-  * To process transactions
+To personalize user experience:
+
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+
+
+To improve our Site and your User experience
+
+  * We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * We may use information we gather about you to display data trends based on different demographics, make offers and discounts available to you, among other things.
+
+
+
+To provide customer service
+
+  * Your information helps us to more effectively respond to your customer service requests and support needs.
+  * When a User submits questions or comments to us, we may use that information to respond to the User.
+  * By creating an account with us, you agree that we may contact you by phone, email, mail, or text message to respond to questions that you submit to us.
+
+
+
+To process transactions
+
   * We may use the information Users provide when placing an order only to process that order. We do not share credit card information with outside parties except to the extent necessary to provide the service.
-  * To send periodic emails and printed materials:
-  * The address and email address Users provide will be used to send them information and updates pertaining to their services. Such addresses may also be used to respond to Users, and/or other requests or questions. By creating an account on the Site, Users are opting-in to our mailing list, and will receive emails and/or mail that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails or mail, they may do so by contacting us via our Site.
-  * For our marketing purposes:
-    * We may use the information Users provide to display targeted advertising or other content that we think may be of interest to the User based on information the User has shared with us.
-    * We may provide data mining services to third parties interested in better understanding our User's such as Aggregate Information about the Site's user base such as weight, height, food intake, activity level, interests, machines used, so that such parties may determine if they would like to advertise to our Users.
-    * By registering an account, you agree that we may contact you at the phone number you have provided us, even if your number is on a do-not-call list or a wireless number, for our marketing purposes.
 
 
 
-We may also use or sell Aggregate Information such as information about the pages visited to improve the design, content and performance of our Site, or to analyze Site usage and the popularity of certain pages of the Site.
+To send periodic emails and printed materials
+
+  * The address and email address Users provide will be used to send them information, sales offers, and updates pertaining to their services. Such addresses may also be used to respond to Users, and/or other requests or questions. By creating an account on the Site, Users are opting-in to our mailing list, and will receive emails and/or mail that may include company news, updates, sales information, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails or mail, they may do so by contacting us via our Site.
+
+
+
+For our marketing purposes
+
+  * We may use the information Users provide to display targeted advertising or other content that we think may be of interest to the User based on information the User has shared with us.
+  * We may provide data mining services to third parties interested in better understanding our User's such as aggregate information about the Site's user base such as interests, purchases made, so that such parties may determine if they would like to advertise to our Users.
+  * By registering an account, you agree that we may contact you at the phone number you have provided us, even if your number is on a do-not-call list or a wireless number, for our marketing purposes.
+  * We may connect and link your information with the information provided by you to our other websites including iconfitness.com.
+
+
+
+We may also use or sell aggregate information such as information about the pages visited to improve the design, content and performance of our Site, or to analyze Site usage and the popularity of certain pages of the Site.
+
+###### International Transfers of Personal Information/Safe Harbor Statement
+
+As part of our international operations, we may transfer data to our servers and affiliates in other countries from time to time for our legitimate business purposes and to provide services to you.
 
 ###### Financial Information
 
-When you purchase our services, you will be asked to provide credit card and/or billing information. We will use the credit card and/or billing information provided in connection with a User\'s purchase to process your order and for no other purpose. All other information collected may be used as specified in the "How we use collected information" section above.
+When you purchase our services, you will be asked to provide credit card and/or billing information and email address. When credit card data is entered into our system, it is immediately tokenized and sent to a secure payment processor. Your credit card information cannot be seen by our agents and is never stored in our systems. We will use the information provided in connection with a User's purchase to process your order and for no other purpose. 
 
 ###### When we share your personal information
 
@@ -91,21 +114,18 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ###### Changes to this privacy policy
 
-We reserve the right to update this privacy policy at any time without notice to you. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We reserve the right to update and change this privacy policy at any time without notice to you. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ###### Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+###### California Privacy Rights
+
+California Civil Code Section 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
+
 ###### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[www.iFit.com](http://www.ifit.com/)  
-c/o Internet Design Department  
-1500 South 1000 West  
-Logan, Utah 84321  
-[info@iFit.com](mailto:info@iFit.com)  
-
-
-This document was last updated on July 6, 2012.
+This document was last updated on June 9, 2016.
