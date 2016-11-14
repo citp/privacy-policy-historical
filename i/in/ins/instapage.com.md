@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123215740id_/https%3A//instapage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114061726id_/https%3A//instapage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Instapage
+# Privacy Policy
 
 Privacy Policy
 
@@ -35,7 +35,7 @@ If you do not wish to participate in our Google AdWords Remarketing, you can opt
 
 Information Sharing & Disclosure
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Also, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. All of our employees are kept up to date on our privacy and security practices. INSTAPAGE does not sell, rent, or share personal information about you with non-affiliated companies or other people except to provide products or services you have requested, when we have your permission, or under the following circumstances: We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of INSTAPAGE's Terms of Use, or as otherwise required by law.
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. Also, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. All of our employees are kept up to date on our privacy and security practices. INSTAPAGE does not sell, rent, or share personal information about you with non-affiliated companies or other people except to provide products or services you have requested, when we have your permission, or under the following circumstances: We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of INSTAPAGE's Terms of Service, or as otherwise required by law.
 
 We respond to subpoenas, court orders, or legal process, and may share information to establish or exercise our legal rights or defend against legal claims. If a INSTAPAGE user is a child under age 13, we may share information with a parent's authorization. Parents may allow INSTAPAGE to collect and use their child's information without consenting to INSTAPAGE's sharing of this information with companies and people who may use the information for their own purposes. INSTAPAGE may display targeted advertisements based on personal information. It is possible that advertisers will assume that people who click or interact with targeted ads meet the targeting criteria. INSTAPAGE does not provide advertisers any personal information when you view or interact with a targeted ad.
 
@@ -51,4 +51,4 @@ INSTAPAGE may update this policy. You will be notified of significant changes ei
 
 Conditions of Use
 
-Your visit to INSTAPAGE's website and any dispute over privacy is subject to our Terms of Use and this Privacy Policy, including limitations on damages and application of Utah state law, jurisdiction and venue.
+Your visit to INSTAPAGE's website and any dispute over privacy is subject to our Terms of Service and this Privacy Policy, including limitations on damages and application of Utah state law, jurisdiction and venue.
