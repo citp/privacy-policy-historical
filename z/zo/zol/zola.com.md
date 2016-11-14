@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zola.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408194952id_/https%3A//www.zola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zola.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114073728id_/https%3A//www.zola.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zola
+# Privacy Policy | Zola Wedding Registry
 
 Types of Information that We Collect
 
