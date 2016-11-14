@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408015120id_/https%3A//www.lowes.ca/articles/lowes-companies-canada-ulc-privacy-statement_a757.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114143725id_/https%3A//www.lowes.ca/articles/lowes-companies-canada-ulc-privacy-statement_a757.html) for the most accurate reproduction.*
 
 # Lowe's Companies Canada, ULC Privacy Statement | Lowe's Canada
 
