@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408024030id_/https%3A//om4.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114022702id_/https%3A//om4.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OM4, Perth
+# Privacy Policy | OM4
 
 Your privacy is important to us. As we are using the WordPress software platform to provide our services, we have adopted the same privacy principles used by WordPress.com (these are the principles implemented in the software, and they are good ones).
 
