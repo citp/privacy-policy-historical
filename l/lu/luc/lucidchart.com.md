@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513174245id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114073314id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidchart
 
@@ -73,7 +73,7 @@ We may change the provisions of this Policy at any time and will indicate when c
 ## EU Safe Harbor and Dispute Resolution for Users in the European Union
 
   * Lucid complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Lucid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
-  * Lucid is committed to resolving complaints about your privacy and our collection or use of your personal information. Users located in the European Union with inquiries or complaints regarding this Privacy Policy should first contact Lucid at: [privacy@lucidchart.com](mailto:privacy@lucidchart.com). For disputes over Lucid’s compliance with the EU Safe Harbor Principles that remain unresolved, Lucid has elected to use JAMS as an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or we do not satisfactorily address your complaint, please visit the JAMS website at: <http://www.jamsadr.com/file-safe-harbor-claim/> for more information and to file a complaint.
+  * Lucid is committed to resolving complaints about your privacy and our collection or use of your personal information. Users located in the European Union with inquiries or complaints regarding this Privacy Policy should first contact Lucid at: [privacy@lucidchart.com](mailto:privacy@lucidchart.com). For disputes over Lucid’s compliance with the EU Safe Harbor Principles that remain unresolved, Lucid has elected to use JAMS as an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or we do not satisfactorily address your complaint, please visit the JAMS website at: [http://www.jamsadr.com/file-safe-harbor-claim/](http://www.jamsadr.com/) for more information and to file a complaint.
 
 
 
