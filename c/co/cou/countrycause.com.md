@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528185626id_/http%3A//countrycause.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114032419id_/http%3A//countrycause.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Your Privacy Rights**
 
 **Corporate**  
-This Privacy Policy applies to CountryCause hosted Web sites or Web sites hosted by third parties on behalf of CountryCause, which are branded to appear like CountryCause. Please visit www.CountryCause.com for more information.
+This Privacy Policy applies to CountryCause hosted Web sites or Web sites hosted by third parties on behalf of CountryCause, which are branded to appear like CountryCause. Please visit [CountryCause.com](http://countrycause.com/index.html) for more information.
 
 **1.0 Personal Information**  
 As a leader in online fundraising technology, CountryCause understands your desire to protect personal information. We intend to inform you of how your personal information will be gathered, tracked or used, and to give you choices.
@@ -30,6 +30,8 @@ We have taken security measures, consistent with international information pract
 **1.2 Links to Business Partner**  
 At the CountryCause Web site, there are a number of links to companies with whom we have a relationship. CountryCause is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy> and the search provider's privacy policy, as applicable.
+
 **1.3 Other Privacy Considerations**  
 Please remember that information you submit in a discussion group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
@@ -39,6 +41,6 @@ In the event that there is a major change to CountryCause's privacy practices, a
 **1.5 CountryCause Contact Information**  
 CountryCause has designated a Privacy Officer who is accountable for CountryCause's compliance with the privacy practices described in this policy. If you have any questions or comments concerning this policy, or if you would like to change your communication preferences, update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us using one of the options below:
 
-CountryCause.com
+[CountryCause.com](http://countrycause.com/index.html)
 
-Email: privacy@CountryCause.com
+Email: countrycause@hotmail.com
