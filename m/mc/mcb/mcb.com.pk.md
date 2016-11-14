@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcb.com.pk privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425213917id_/https%3A//www.mcb.com.pk/quick_links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcb.com.pk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114073937id_/https%3A//www.mcb.com.pk/quick_links/privacy-policy) for the most accurate reproduction.*
 
 # MCB Bank Pakistan | Quick Links | Privacy Policy
 
