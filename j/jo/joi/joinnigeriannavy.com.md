@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joinnigeriannavy.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517050944id_/http%3A//www.joinnigeriannavy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinnigeriannavy.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114103608id_/http%3A//www.joinnigeriannavy.com/privacy.aspx) for the most accurate reproduction.*
 
-# Nigerian Navy e-Recruitment Portal > Home
+# Home
 
 Nigerian Navy e-Recruitment Portal is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Nigerian Navy e-Recruitment Portal Web site and governs data collection and usage. By using the Nigerian Navy e-Recruitment Portal website, you consent to the data practices described in this statement.
 
