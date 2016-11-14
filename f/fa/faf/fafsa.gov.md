@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080437id_/https%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115002844id_/https%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - FAFSA on the Web - Federal Student Aid
 
@@ -74,9 +74,9 @@ Return to top
 
 When you apply for federal student aid, the Office of Federal Student Aid Programs is authorized to maintain a record of the transactions related to your application. 
 
-[Click this link to review the System of Records notices](https://web.archive.org/pdf/cps_sorn.pdf), which list the authorized disclosures and the safeguards for the Office of Federal Student Aid Program systems under the [Privacy Act of 1974, as amended](javascript:externalLinks.openExtURL\(externalLinks.privacyAct\);). 
+[Click this link to review the System of Records notices](https://web.archive.org/pdf/cps_sorn.pdf), which list the authorized disclosures and the safeguards for the Office of Federal Student Aid Program systems under the [Privacy Act of 1974, as amended](javascript:externalLinks.openPrivacyAct\(\);). 
 
-If you have authorized us to share your financial aid information with state agencies or the schools that you are thinking of attending, they will also store that information (often in electronic form). State agencies and schools also collect other information relating to financial aid payments, admission, enrollment, etc. The privacy of these records is protected by the [ Family Educational Rights and Privacy Act](javascript:externalLinks.openExtURL\(externalLinks.FERPA\);). 
+If you have authorized us to share your financial aid information with state agencies or the schools that you are thinking of attending, they will also store that information (often in electronic form). State agencies and schools also collect other information relating to financial aid payments, admission, enrollment, etc. The privacy of these records is protected by the [ Family Educational Rights and Privacy Act](javascript:externalLinks.openFerpa\(\);). 
 
 Return to top
 
