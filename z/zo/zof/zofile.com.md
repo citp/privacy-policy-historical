@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zofile.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629200527id_/http%3A//zofile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zofile.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114063429id_/http%3A//zofile.com/privacy.html) for the most accurate reproduction.*
 
 # ZOFile - Connect to and Share Files - Easy way to share your files
 
