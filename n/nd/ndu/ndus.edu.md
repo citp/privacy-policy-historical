@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndus.edu privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513220825id_/https%3A//ndus.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndus.edu privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114110611id_/http%3A//www.ndus.edu/privacy) for the most accurate reproduction.*
 
 # North Dakota University System : Privacy Policy
 
