@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcklinky.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417092507id_/http%3A//www.mcklinky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcklinky.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114120134id_/http%3A//www.mcklinky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mcklinky.com
 
