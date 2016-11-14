@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goalbookapp.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415114643id_/https%3A//goalbookapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalbookapp.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114150035id_/https%3A//goalbookapp.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Success For EVERY Student
+# » Privacy | Success for Every Student
 
 #### Privacy Policy
 
