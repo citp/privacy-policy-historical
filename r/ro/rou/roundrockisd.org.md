@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402204554id_/https%3A//roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115004313id_/https%3A//roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Round Rock ISD
 
@@ -25,4 +25,4 @@ Pursuant to the CAN-SPAM Act of 2003, Round Rock ISD will not give, sell, or oth
 
 Personally identifiable information will be used only as needed to complete your requests or process your transactions. Round Rock ISD will only disclose personal information as required by law.
 
-See also, [Governmental Relations](https://roundrockisd.org/departments/governmental-relations "Governmental Relations") for more on public information, directory information and the Family Educational Rights and Privacy Act (FERPA).
+See also, [Governmental Relations](http://www.roundrockisd.org/departments/governmental-relations "Governmental Relations") for more on public information, directory information and the Family Educational Rights and Privacy Act (FERPA).
