@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyskateboards.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323205900id_/http%3A//www.pennyskateboards.com/penny-redirect.php%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyskateboards.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114164658id_/http%3A//www.pennyskateboards.com/penny-redirect.php%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Penny Skateboards Unites States
 
