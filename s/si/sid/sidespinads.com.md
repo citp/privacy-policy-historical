@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidespinads.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222140304id_/http%3A//sidespinads.com/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidespinads.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114063213id_/http%3A//sidespinads.com/pp.asp) for the most accurate reproduction.*
 
 # sidespinads
 
