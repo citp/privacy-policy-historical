@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadawebdir.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908032658id_/http%3A//www.canadawebdir.com/CanadawebdirPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadawebdir.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114201918id_/http%3A//www.canadawebdir.com/CanadawebdirPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Canadian Business directory, Canada Directory,Whitepages,Yellowpages,Ontario.Listings. - Canadawebdir Privacy Policy
 
@@ -23,9 +23,9 @@ canadawebdir.com chooses its advertisers and business partners carefully. Howeve
 
 ### Statistics
 
-  * **Active Links:** 5616
-  * **Pending Links:** 213279
-  * **Todays Links:** 374
+  * **Active Links:** 5802
+  * **Pending Links:** 331376
+  * **Todays Links:** 305
   * **Pending Articles:** 233
   * **Total Articles:** 3
   * **Total Categories:** 13
