@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the my100bank.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416101200id_/https%3A//www.my100bank.com/public/userfiles/Sept_2015_Privacy_Stmt.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my100bank.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114205024id_/https%3A//www.my100bank.com/public/userfiles/Privacy_Stmt.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                              Rev 03/2016
+                                                                                              Rev 09/2016
                       WHAT DOES HOME BANCSHARES, INC. DO
 FACTS                 WITH YOUR PERSONAL INFORMATION?
                       Financial companies choose how they share your personal information. Federal law gives
