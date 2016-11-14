@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026002828id_/https%3A//www.animelab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114174658id_/https%3A//www.animelab.com/privacy-policy) for the most accurate reproduction.*
 
 # AnimeLab - Privacy Policy
 
@@ -30,6 +30,28 @@ This is not an exhaustive list. We may also collect, use and exchange your infor
 ### Direct Marketing
 
 We may also use your information so that we can promote and market anime, services and special offers that we think will be of interest to you. This marketing may be carried out in a variety of ways (including by email, SMS/MMS, or social media or by customising online content and displaying advertising on websites and may continue until you unsubscribe or contact [answers@animelab.com](mailto:answers@animelab.com) to opt out.
+
+### Performance and Remarketing Cookies
+
+Partners who help us serve advertising on and off the Website and analytics companies may also put cookies on your device. We use several third-party vendors to help deliver ads for relevant AnimeLab products and services to you when you visit certain pages on our Website and then visit certain third-party sites. We may share with third-party ad partners an anonymous, common account identifier (such as a unique ID), to help us measure and tailor ads and services provided to you. Below is information about one such vendor. Please note that this Privacy Policy covers only our use of cookies and does not include use of cookies by any third parties. 
+
+  * Google Analytics
+
+
+
+AnimeLab uses a specific cookie in order to facilitate the use of Google Universal Analytics for users logged-in to the Applications or the Platforms (“Logged-In User). If you are a Logged-In User, AnimeLab may use your AnimeLab user ID in combination with Google Universal Analytics and Google Analytics to track and analyze the pages of the Services you visit. We do this only to better understand how you use the Website and the other Services, with a view to offering improvements for all AnimeLab users; and to tailor our business and marketing activities accordingly, both generally and specifically to you. Google Analytics cookies do not provide AnimeLab with any Personal Information. 
+
+[Learn more about privacy at Google and to opt-out of this feature by installing the Google Analytics Opt-out Browser Add-on.](http://www.google.com/analytics/learn/privacy.html)
+
+  * Google Display Advertising
+
+
+
+Additionally, AnimeLab uses Google Analytics code that allows for certain forms of display advertising and other advanced features. Subject to change, the Google Display Advertising features AnimeLab currently uses are Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. 
+
+These features are used to advertise online; to allow third-party vendors, including Google, to show you advertising across the Internet; to allow AnimeLab and third-party vendors, including Google, to use first-party cookies (such as the Google Analytics cookie) and third-party cookies together to inform, optimize, and serve ads based on your past visits to the Website and to report how ad impressions, uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Website. Data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) is also combined with Google Analytics to better understand the needs of AnimeLab users and to improve the Services. 
+
+You may opt out of such display advertising at any time by visiting your [Google Ads Settings page](https://www.google.com/settings/ads) or by installing and running the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 ### Security of Personal Information
 
