@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipraxa.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402110905id_/http%3A//www.ipraxa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipraxa.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114195255id_/http%3A//www.ipraxa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ipraxa - Privacy Policy, Web Design Company Privacy Policy
 
