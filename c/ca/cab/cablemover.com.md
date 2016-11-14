@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613143537id_/http%3A//www.cablemover.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114180344id_/http%3A//www.cablemover.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CableMover
 
@@ -12,9 +12,9 @@ Apt / Unit
 
 ZIP Code
 
-Email (For a reminder of your results.)
-
 [submit](javascript: void\(0\);)
+
+Email (For a reminder of your results.)
 
 CableMover.com and associated web sites (the “Website”) is offered by sponsoring cable companies as listed on our home page (the “Cable Providers”) and is powered by CTAM Marketing Corp. ("we," "our" or "us"). This Privacy Policy discloses the privacy policy and security practices for this Website. We also work with third parties that provide services to you relating to moving and relocation, such as change of address, moving quotes and other related services (the “Service Providers”) This Website is specifically designed for persons who are 18 years of age or older.
 
