@@ -1,22 +1,19 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603183245id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114181120id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CrossCountry
 
-[Home](https://web.archive.org/) / Privacy policy 
-
-## At CrossCountry, we're committed to protecting and respecting your privacy..
+## At CrossCountry, we're committed to protecting and respecting your privacy.
 
 This policy outlines the personal data we collect from you, or that you provide to us and how we will process it. Please read it carefully as it should help you understand how we collect and use your personal information.
 
 We may collect and process the following data about you:
 
-\- Information that you provide to us by filling in forms on our site or that you e-mail to us. This includes when you subscribe and/or register for any service that we may provide via our site or when you complete transactions or respond to surveys.
+  * Information that you provide to us by filling in forms on our site or that you e-mail to us. This includes when you subscribe and/or register for any service that we may provide via our site or when you complete transactions or respond to surveys.
+  * If you contact us, we may keep a record of that correspondence.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access (this is used to help track the performance of our website).
+  * We may also collect information about your computer, including where available your IP address, operating system and browser type for system administration, to improve the structure and content of our site and to report aggregated information to our advertisers and marketing agencies. This is statistical data about your browsing actions and patterns which in turn enables us to track the performance of our site and advertising efforts. It also allows us to serve relevant advertising that is likely to be of interest to you and does not identify any individual. For this reason, we may collect this information even if you do not register with us on our website.
 
-\- If you contact us, we may keep a record of that correspondence.
 
-\- Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access (this is used to help track the performance of our website).
-
-\- We may also collect information about your computer, including where available your IP address, operating system and browser type for system administration, to improve the structure and content of our site and to report aggregated information to our advertisers and marketing agencies. This is statistical data about your browsing actions and patterns which in turn enables us to track the performance of our site and advertising efforts. It also allows us to serve relevant advertising that is likely to be of interest to you and does not identify any individual. For this reason, we may collect this information even if you do not register with us on our website.
 
 * * *
 
@@ -40,7 +37,7 @@ Session cookies are temporary cookies that remain in the cookie file of your bro
 
 Most major websites use cookies and as we mentioned above, cookies cannot be used by themselves to identify you.
 
-Session cookies allow us to carry information across pages of our site and avoid you having to re-enter information. They also allow you to access stored information - for instance if you search for a journey from Manchester Piccadilly to Birmingham on our homepage, a session cookie will remember this information when you click on the search button and we can then pass it through to our booking pages. 
+Session cookies allow us to carry information across pages of our site and avoid you having to re-enter information. They also allow you to access stored information - for instance if you search for a journey from Manchester Piccadilly to Birmingham on our homepage, a session cookie will remember this information when you click on the search button and we can then pass it through to our booking pages.
 
 Persistent cookies help us recognise you as a unique visitor (but just as a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests. An example of a persistent cookie is when you opt for our site to remember your login details. The persistent cookie would be used to store your email address so you don't have to enter it in every time.
 
@@ -58,7 +55,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes (usually by ticking/un-ticking a box on a form). We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can always refuse this at any time by contacting us at [customer.relations@crosscountrytrains.co.uk](mailto:customer.relations@crosscountrytrains.co.uk)
+You have the right to ask us not to process your personal data for marketing purposes (usually by ticking/un-ticking a box on a form). We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can always refuse this at any time by contacting us at [customer.relations@crosscountrytrains.co.uk](mailto:customer.relations@crosscountrytrains.co.uk)
 
 Our site may, from time to time, contain links to and from the websites of our members, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites as we can't control how they use your data.
 
@@ -66,6 +63,4 @@ You can unsubscribe at any time from our e-mails by simply clicking on the unsub
 
 ## Further information
 
-Useful information about cookies can be found in our [Cookie policy](https://web.archive.org/cookie-policy "Cookie policy") page.
-
-Last updated: 03 June 2016 
+Useful information about cookies can be found in our [Cookie policy](https://web.archive.org/cookie-policy "Cookie policy") page.
