@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asimplepantry.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602083553id_/http%3A//asimplepantry.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asimplepantry.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114150219id_/http%3A//asimplepantry.com/advertise/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Simple Pantry
 
