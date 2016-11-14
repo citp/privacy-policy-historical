@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430200023id_/http%3A//www.league.org.uk/privacy-policy-2015) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114170127id_/http%3A//www.league.org.uk/privacy-policy-2015) for the most accurate reproduction.*
 
 # Privacy Policy - League Against Cruel Sports
 
@@ -68,10 +68,3 @@ If you have provided us with your details, but decide at a later date that you n
 
 Instructions for unsubscribing from e-mails will also be included in each e-mail communication we send.  
 If you have any questions, comments, or concerns about this Policy, please contact us at [info@league.org.uk](mailto:info@league.org.uk)  
-
-## Donate to save animals
-
-£10  
-£20  
-£30 Other Monthly  
-Single
