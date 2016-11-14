@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602094655id_/https%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114055452id_/https%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mindflash
 
