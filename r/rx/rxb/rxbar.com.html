@@ -1,0 +1,473 @@
+<!--The following is the downloaded HTML source of the rxbar.com privacy policy that was archived on 2016-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114092940id_/https%3A//www.rxbar.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<title>Privacy Policy | RXBAR</title>
+<meta name="description" content="RXBAR">
+<meta name="keywords" content="RXBAR">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="https://www.rxbar.com/media/favicon/default/RX-Favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.rxbar.com/media/favicon/default/RX-Favicon.png" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.rxbar.com/js/blank.html';
+    var BLANK_IMG = 'https://www.rxbar.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/aw_blog/css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/css/amasty/ampromo/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/grid_responsive.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/font-awesome.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/skin.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/custom.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/css/rxbar/contacts.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/fancybox.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/print.css" media="print">
+<script type="text/javascript" src="https://www.rxbar.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/amasty/ampromo/items.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/js/meigee/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.easing.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.selectbox-0.2.min.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/script.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.iosslider.min.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.fancybox.pack.js"></script>
+<link href="https://www.rxbar.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 10]>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/script_ie.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/html5.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/css3-mediaqueries.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/styles-ie-8.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.rxbar.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+    <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+    <script type="text/javascript">
+        //<![CDATA[
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        
+ga('create', 'UA-40741276-1', 'auto');
+
+ga('send', 'pageview');
+        
+        //]]>
+    </script>
+    <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+<!-- Facebook Pixel Code -->
+<script>
+//<![CDATA[
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+    {n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+    ;if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '865478923487525');
+    fbq('track', 'PageView');
+    fbq('track', 'ViewContent');
+//]]>
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=865478923487525&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code --><script>
+    window['friendbuy'] = window['friendbuy'] || [];
+    window['friendbuy'].push(['site', 'site-7002963b-rxbar.com']);
+        (function (f, r, n, d, b, y) {
+        b = f.createElement(r), y = f.getElementsByTagName(r)[0];b.async = 1;b.src = n;y.parentNode.insertBefore(b, y);
+    })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
+</script><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><style type="text/css">
+.nav-wide#nav-wide .right-content h2,
+.nav-wide#nav-wide .top-content,
+.nav-wide#nav-wide .bottom-content,
+.nav-wide#nav-wide ul.level0 a span.subtitle,
+.product-collateral h2,
+header#header .top-cart .block-title a,
+.text-block button span,
+.std h1,
+.price,
+.product-name a,
+.page-title h2,
+.page-title h1,
+#footer .custom_footer h3,
+aside.sidebar .block .block-title strong span,
+aside.sidebar .block .filter-label span,
+aside.sidebar .actions a,
+button.button span span,
+.dashboard .welcome-msg .hello,
+.dashboard .box-head h2,
+.dashboard .box-title h3,
+#login-holder form .actions .link-box a,
+.add-to-cart-success,
+.add-to-cart-success a,
+.account-login .indent h2,
+.opc .step-title,
+.opc .grid_4 h3,
+aside.sidebar .block.block-progress .block-title strong span,
+#onepagecheckout_forgotbox .page-title span,
+#onepagecheckout_loginbox .page-title span,
+#onepagecheckout_forgotbox button.button span span,
+#onepagecheckout_loginbox button.button span span,
+#onepagecheckout_orderform .col3-set.onepagecheckout_datafields .op_block_title,
+#checkout-coupon-discount-load .discount-form .buttons-set button.button span span,
+#checkout-review-submit #review-buttons-container button.btn-checkout,
+.cart .cart-collaterals h2,
+.cart .btn-proceed-checkout,
+.product-view .product-name h2,
+.block-related .block-title strong span,
+.catalog-product-view .box-reviews ul li h6,
+header#header .top-cart .block-content .actions a,
+header#header .top-cart .block-content .subtotal span,
+.catalog-product-view .box-reviews h2,
+aside.sidebar .block.block-wishlist li.item .product-details .product-name a,
+aside.sidebar .block.block-wishlist .link-cart,
+.header-slider-container .iosSlider .slider .item .slide-container h2,
+.header-slider-container .iosSlider .slider .item .slide-container.slide-skin-2 h3,
+.header-slider-container .iosSlider .slider .item h5,
+.header-slider-container .iosSlider .slider .item .slide-container.slide-skin-3 h3 {font-family:Open+Sans; -webkit-text-stroke-width: 0.02em;}</style><script>
+    window['friendbuy'] = window['friendbuy'] || [];
+    window['friendbuy'].push(['widget', 'bBy-hc4', {configuration: {share_button: false}}]);
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script></head>
+<body class=" cms-page-view header-slider onlyhome-slider none sidebar-right cms-privacy-policy">
+    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+<header id="header">
+	<div class="container_12">
+		<div class="grid_12">
+							<h1 class="logo"><strong></strong><a href="https://www.rxbar.com/" title="" class="logo"><img src="https://www.rxbar.com/media/images/default/new-logo_1.png" alt=""></a></h1>
+						<p class="welcome-msg"><span> </span></p>
+			<div class="top-cart">
+<div class="mobile-only mobile-account-icon-wrap">
+	<a class="mobile-account-icon" href="/customer/account/">
+		<span class="title-cart">
+			<i class="fa-user fa fa-2x"></i>
+		</span>
+	</a>
+</div>
+<div class="block-title no-items">
+
+	<a id="cartHeader" href="#">
+		<span class="title-cart">
+		<i class="fa-shopping-cart fa fa-2x"></i>
+				</span>
+	</a>
+
+</div>
+<div id="topCartContent" class="block-content" style="display:none;">
+	<div class="inner-wrapper">				<p class="cart-empty">
+			<span>You have no items in your shopping cart.</span>
+			<span class="small-label">Add some to cart or <a href="https://www.rxbar.com/customer/account/login/" class="top-link-login">login</a></span>
+		</p>
+			</div>
+</div>
+<script type="text/javascript">
+	/* Top Cart */
+	topCart();
+</script>
+</div>			<div class="header-right-box">
+				<div class="quick-access">
+															<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+				<div class="links-container">
+					<span class="links-button"><span><i class="fa fa-bars"></i>Top links</span></span>
+					<ul class="links">
+                        <li class="first"><a href="https://www.rxbar.com/customer/account/" title="My Account" class="top-link-account">My Account</a></li>
+                                <li class=" last"><a href="https://www.rxbar.com/store-locator/" title="">Store Locator</a></li>
+            </ul>
+					<dl class="company-links">
+						<dt>
+							<a href="#"><span>Company</span></a>
+						</dt>
+						<dd>
+														<ul class="links">
+                        <li class="first"><a href="https://www.rxbar.com/contacts/" title="Contact Us">Contact Us</a></li>
+                                <li><a href="https://www.rxbar.com/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
+                                <li><a href="https://www.rxbar.com/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
+                                <li class=" last"><a href="https://www.rxbar.com/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
+            </ul>
+						</dd>
+					</dl>
+					<div class="friendbuy show980">
+						<a href="#" class="friendbuy-bBy-hc4"><span>Get $5</span></a>
+					</div>
+					<div class="clear"></div>
+					<nav class="nav-container">
+						<span class="links-menu"><span><i class="fa fa-bars"></i>Menu</span></span>
+						<nav class="nav-container">
+    <ul class="nav-wide" id="nav-wide">
+                    <li class="level0 level-top">
+                <a href="https://www.rxbar.com/products.html" class="level-top">
+                    <span>Buy RXBAR</span>
+                </a>
+            </li>
+                    <li class="level0 level-top">
+                <a href="https://www.rxbar.com/wholesale.html" class="level-top">
+                    <span>Wholesale</span>
+                </a>
+            </li>
+                    <li class="hide980 friendbuy-mob">
+                <a href="#" class="friendbuy-bBy-hc4">
+                    <span>Get $5</span>
+                </a>
+            </li>
+                    <li class="level0 level-top">
+                <a href="https://www.rxbar.com/faq.html" class="level-top">
+                    <span>FAQ</span>
+                </a>
+            </li>
+                    <li class="level0 level-top">
+                <a href="https://www.rxbar.com/contact-us.html" class="level-top">
+                    <span>Contact us</span>
+                </a>
+            </li>
+            </ul>
+</nav>
+					</nav>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+
+	
+</header>
+<div class="top-container"><div class="widget widget-static-block"></div></div>	<script type="text/javascript">
+		/* Login ajax */
+		jQuery('.top-link-login').on('click', function(){
+			ajaxLogin("https://www.rxbar.com/meigeeactions/login/", false);
+			return false;
+		});
+		jQuery('header#header .links-menu').on('click', function(){
+			jQuery('header#header .nav-container > ul#nav-wide').toggle();
+		});
+	</script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,600,700" type="text/css">
+<div class="content-wrapper">
+    <div class="container_12">
+		<div class="breadcrumbs-wrapper">
+	<div class="grid_12">
+		<nav class="breadcrumbs">
+			<ul>
+									<li class="home">
+											<a href="https://www.rxbar.com/" title="Go to Home Page">Home</a>
+																<span>· </span>
+										</li>
+									<li class="cms_page">
+											<strong>Privacy Policy</strong>
+															</li>
+							</ul>
+		</nav>
+	</div>
+	<div class="clear"></div>
+</div>
+        <div class="main-container col1-layout">
+            <div class="grid_12 col-main">
+                                <div class="std"><style>
+h2 {
+font-weight:bold;
+color: #005D87;
+font-family: "Circular-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:24px;
+color:#000000;
+}
+
+h3 {
+font-size:20px;
+font-family: "Circular-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+padding-top:30px;
+}
+
+p {
+font-size:14px;
+font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+padding-top:30px;
+}
+.bottom-pad {
+padding-bottom:20px;
+}
+
+.mid-content {
+padding: 0 15%;
+padding-bottom:20px;
+min-height:400px;
+}
+
+</style>
+<div class=".mid-content">
+<h2>Privacy Policy</h2>
+<p>The RXBAR privacy and security measures are designed with the highest interest of our clients in mind, so any personal information that you provide to RXBAR is used for the purpose of personalizing and enhancing your web experience with RXBAR, and for no other purpose. RXBAR specific privacy policies are outlined below.</p>
+
+<h3>The Information We Collect</h3>
+
+<p>There are three ways that RXBAR obtains information from you: (1) via registration on the RXBAR website; (2) from an online purchase; or (3) from any other form of direct purchase from RXBAR.</p>
+
+<h3>How We Use The Information</h3>
+
+<p>The information obtained from registration online is utilized to improve your web experience with RXBAR by enabling you to obtain a faster checkout for purchases and/or to receive occasional e-mails which provide you with the latest and greatest information regarding RXBAR and its products.</p><br>
+
+<p>The information we ask from you when ordering online is your name, address, phone number, credit card number, email address, etc. and is used only to complete the order, to confirm the order and to confirm shipment of the order. You may, upon placement of an order, opt to allow RXBAR to save the information for a speedier checkout process the next time. This information is then stored only for the purposes of faster checkout and is not used for any other purpose.</p><br>
+
+<p>RXBAR does not otherwise utilize your personal information in any way and never shares or sells your e-mail address or other personal information to other companies. No information is collected about you unless you apply for registration or purchase products from us. "Cookies" (small bits of text that your web browser software stores on your computer when you visit certain websites) are used by RXBAR only to allow you to use RXBAR website in the most efficient manner.</p>
+
+<h3>E-Mail</h3>
+
+<p>RXBAR will only send e-mails to you if you ask for them and you can easily unsubscribe at any time you do so choose. RXBAR has a strict company policy not to flood people with e-mail correspondence, but simply gives you periodic information so you can stay up to date on what RXBAR is offering. RXBAR also uses your e-mail address to confirm your order and to confirm shipment of your order and to respond to any inquiries you make on-line. All e-mails you receive will provide you with information as to how to get off the e-mail mailing list if you so desire.</p>
+
+<h3>Children's Privacy</h3>
+
+<p>If you are under 18, you may use rxbar.com only with involvement of a parent or guardian. For their protection, RXBAR asks that anyone 13 years of age or younger not attempt to register with RXBAR or otherwise provide RXBAR with any personal information without the consent of a parent or legal guardian.</p>
+
+<h3>Access To Your Personal Information</h3>
+
+<p>RXBAR will provide you with access to the personal information you provided to RXBAR by allowing you to view and modify the information we store related to you. In order to protect your privacy, RXBAR takes steps to verify your identity before granting you access to the private information or enabling you to make corrections. RXBAR will accomplish this through the use of passwords and personal data.</p>
+
+<h3>Security</h3>
+
+<p>Our website's system is designed to monitor activity and prevent any unauthorized disclosure of credit card numbers or other personal information. In addition, we utilize a licensed system for credit card authorization and fraud detection. We use industry standard SSL (Secure Sockets Layer) encryption to protect the confidentiality of your personal information.</p>
+
+<h3>Updates to Privacy Information</h3>
+
+<p>If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the bottom of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes.</p>
+<br>
+<p>Privacy Policy posted: 7/5/2016</p>
+<br>
+<p>RXBAR<br>
+1552 W Carroll Ave<br>
+Suite 202<br>
+Chicago, IL 60607<br>
+United States<br>
+Phone: (312) 624-8200<br>
+<a href="mailto:info@rxbar.com">info@rxbar.com</a></p>
+</div>
+<div class="bottom-pad"></div></div>            </div>
+            <div class="clear"></div>
+        </div>    
+    </div>
+</div>
+<footer id="footer">
+	<div class="container_12">
+		<div class="grid_12">
+												</div>
+		<div class="clear"></div>
+	</div>
+</footer>
+
+<footer id="footer-links">
+	<div class="container_12">
+		<div class="grid_12">
+        
+        <div class="rx-footer">
+<div class="rx-container">
+<div>&nbsp;</div>
+<div>
+<ul class="contact-info clearfix">
+<li class="company-name"><a href="/">RXBAR</a></li>
+<li class="separator">|</li>
+<li><span class="phone-number">312.624.8200</span></li>
+<li class="separator">|</li>
+<li><span class="email-address"><a href="mailto:support@rxbar.com">support@rxbar.com</a></span></li>
+<li class="separator">|</li>
+<li><span class="email-address"><a href="https://www.themuse.com/companies/rxbar" target="_new">Careers</a></span></li>
+</ul>
+<div>&nbsp;</div>
+<div>® 2015 Chicago Bar Company LLC. dba RXBAR | <a style="color: #36b6c3;" href="https://www.rxbar.com/privacy-policy/">Privacy Policy</a> | <a style="color: #36b6c3;" href="https://www.rxbar.com/terms-and-conditions/">Terms and Conditions</a></div>
+</div>
+</div>
+</div>
+<!-- is this needed? -->
+        
+		</div>
+		<div class="clear"></div>
+	</div>
+</footer>
+
+
+
+<!-- Beetailer code --> 
+<script type="text/javascript"> var beetailer_storeview = '1';</script>
+<script type="text/javascript" src="//www.beetailer.com/javascripts/beetailer.js"></script>
+<!-- EO Beetailer code --> 
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+    var gts = gts || [];
+
+    gts.push(["id", "697802"]);
+    gts.push(["badge_position", "BOTTOM_RIGHT"]);
+    gts.push(["locale", "en_US"]);
+    gts.push(["google_base_subaccount_id", "102781870"]);
+
+    (function() {
+        var gts = document.createElement("script");
+        gts.type = "text/javascript";
+        gts.async = true;
+        gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(gts, s);
+    })();
+</script>
+<!-- END: Google Trusted Stores -->
+<script type="text/javascript">
+piAId = '69472';
+piCId = '1128';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"655614796d","applicationID":"24013771","transactionName":"Z11QbUcHCxJXBxYIV14Xc1pBDwoPGQcPEhdAWVVcGhAMBEE=","queueTime":0,"applicationTime":201,"atts":"SxpTGw8dGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
