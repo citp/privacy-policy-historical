@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the show2.me privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510074837id_/http%3A//www.show2.me/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the show2.me privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114062600id_/http%3A//www.show2.me/en/privacy) for the most accurate reproduction.*
 
 # show2me :: Privacy Policy
 
