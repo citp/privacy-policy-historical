@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poovee.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610234730id_/https%3A//poovee.net/read/privacy-policy/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poovee.net privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114184004id_/https%3A//poovee.net/read/privacy-policy/6) for the most accurate reproduction.*
 
 # Privacy Policy
 
