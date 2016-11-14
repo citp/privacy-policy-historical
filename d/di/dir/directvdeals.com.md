@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426211233id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114082501id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DIRECTVDeals.com Privacy Policy
 
@@ -108,9 +108,9 @@ $
 /mo. for 12  
 mos. plus taxes
 
-SELECT™ All Included Package. W/ 24-mo. TV agmt* Offer Details
+SELECT™ All Included TV Package. W/ 24 mo. TV agmt* Offer Details
 
-Jurassic World now playing on HBO®
+Ted 2 now playing on HBO®
 
 Call or Chat Now 1-888-560-6072
 
