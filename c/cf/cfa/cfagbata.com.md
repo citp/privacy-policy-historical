@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619174309id_/http%3A//www.cfagbata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfagbata.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114162452id_/http%3A//www.cfagbata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -10,7 +10,7 @@ We understand that privacy online is important to users of our Site and this pol
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released,
 
-[](http://www.cfagbata.com/wp-content/uploads/2010/01/Privacy-Policy1.gif)
+[](https://cfzone-jdntqjj5tat2yt1zpj9.netdna-ssl.com/wp-content/uploads/2010/01/Privacy-Policy1.gif)
 
 Privacy Policy
 
