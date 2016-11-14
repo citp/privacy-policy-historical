@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512222448id_/https%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114210500id_/https%3A//www.sonicbids.com/privacy) for the most accurate reproduction.*
 
 # Sonicbids
 
@@ -121,8 +121,8 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 You may contact us by mail as follows:
 
 Sonicbids LLC   
-500 Harrison Avenue, Suite 4F   
-Boston, MA 02118
+45 Main St, Suite 416   
+Brooklyn, NY 11201
 
 ### 16\. Effective Date
 
