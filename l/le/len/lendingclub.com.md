@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424220924id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114193115id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy
 
