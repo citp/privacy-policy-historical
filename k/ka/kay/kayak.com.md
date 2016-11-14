@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405024834id_/http%3A//www.kayak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114185255id_/https%3A//www.kayak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – KAYAK
 
-_Effective as of December 17, 2015_
+_Effective as of September, 2016_
 
-This policy describes KAYAK’s practices regarding personally identifiable information and data (“personal information”). This policy applies to our websites, mobile applications, email and text messages, and social media accounts (the “Platforms”). When you use the Platforms, you agree to the terms in this policy.
+This policy describes KAYAK’s practices regarding personally identifiable information and data (“personal information”). This policy applies to our websites, applications, email and text messages, and social media accounts (the “Platforms”). When you use the Platforms, you agree to the terms in this policy.
 
 ### The categories of Personal Information we collect
 
 When you visit the Platforms, we may collect information from you. Some of it may be personal information. This information can include search history, IP address, screen resolution, browser used, operating system and settings, access times and referring URL. If you are using a mobile device, we may also collect data that identifies your device, your settings and your location.
 
-If you book a travel product via the Platforms, we may need additional information from you. This information can include your name (and traveler’s name if different), passport number, email address, telephone number, credit card information, billing address, itinerary and frequent flyer details. You can also choose to store personal information in your user account for future bookings.
+If you book a travel product via the Platforms, we may need additional information from you. This information can include your name (and traveler’s if different) name, age, birthday, gender, passport number, redress control number, email address, telephone number, credit card information, billing address, itinerary and frequent flyer details. You can also choose to store personal information in your user account for future bookings.
 
 If you choose to register, we will collect your email address, password and home airport, and other preference information you provide us. If you choose a third-party service, like Facebook Login, to register or login, you are permitting us to use and store that information related to the account.
 
-If you make a booking on Kayak we will automatically create a “Trips” account for you and you will have access to our “Trips” service, where we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you forward to us.
+If you make a booking on KAYAK we will automatically create a “Trips” account for you and you will have access to our “Trips” service, where we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you give us access to.
 
 When you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorization to provide it to us.
 
@@ -24,9 +24,11 @@ We collect your personal information directly from you. For example, when you pr
 
 We also collect your personal information passively. For example, we collect information about you over time and across different Web sites when you visit this Platform. We also use tracking tools like cookies and beacons. To learn more about these tools and how to control them, click here.
 
-We collect your personal information from third parties. This can include when you log in using a third party platform, such as Facebook.
+We collect your personal information from third parties. This can include when you log in using a third party platform, such as Facebook. In addition, we also integrate third party software (i.e. Google’s Invisible CAPTCHA) that collects information about users for security reasons.
 
-Platform features may make use of your device attributes and settings that will allow us to determine your physical location. Such technologies may include IP address mapping, WiFi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalize your experience and provide you with offers and services that may be of interest to you. For example, we may help you find your closest hotel or send you messages that may be of interest to you based on your current location. Kayak does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location based features and functionality offered.
+Platform features may make use of your device attributes and settings that will allow us to determine your physical location. Such technologies may include IP address mapping, WiFi, GPS signals, cell tower positioning or other technologies. We use this information to enhance and personalize your experience and provide you with offers and services that may be of interest to you. For example, we may help you find your closest hotel or send you messages that may be of interest to you based on your current location. KAYAK does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location based features and functionality offered.
+
+If you sign up for the synchronization of your emails to our Trips service, you authorize us to access the emails in the email accounts you have connected to Trips, to regularly review these emails in order to identify those that are booking confirmation we can import into our Trips service, to parse these emails and to add the information we have collected including a copy of the email to your Trips account. 
 
 ### Why we use your Personal Information
 
@@ -41,7 +43,7 @@ To contact you, including as follows:
   * » To send booking confirmations;
   * » To send alerts and notifications you have subscribed to, including to your mobile device;
   * » To solicit reviews;
-  * » When you send booking confirmations to our Trips service;
+  * » To update you regarding itineraries processed by our Trips service;
   * » To get in touch if you contact KAYAK customer service;
   * » To send you information servicing and administrative emails;
   * » To send you marketing emails from a KAYAK address regarding our services or those of our partners, if you have opted-in to receive emails from us or have transacted with us, and as permitted by law.
@@ -74,7 +76,7 @@ We may also share anonymous aggregated usage information with others.
 
 Our servers and data centers are located in the U.S and in Switzerland, and our service providers may be located there and in other countries. By providing us personal information, you agree that your personal information may be transferred to and stored in these countries. These countries may have different and/or less stringent privacy/data protection and data security rules than those of your own country. As a result, your personal information may be subject to access requests from governments, courts, or law enforcement in those countries according to laws in those countries. Subject to the applicable laws in such other countries, we will provide the necessary safeguards to maintain protections of your personal information, e.g. by obtaining from the data recipients contractual commitments based on the EU model clauses.
 
-KAYAK has a security program intended to keep the personal information stored in our systems protected from unauthorized access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Personal information may only be accessed by persons within our organizations, or our third parties to carry out the uses indicated in this Privacy Policy.
+KAYAK has a security program intended to keep the personal information stored in our systems protected from unauthorized access and misuse. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Personal information may only be accessed by persons within our organizations, or our third parties to carry out the uses indicated in this Privacy Policy. In addition, information collected by Google’s Invisible CAPTCHA is held in accordance with the Google Privacy Policy.
 
 ### Cookies and tracking tools
 
