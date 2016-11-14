@@ -1,43 +1,136 @@
-<!--The following is the downloaded HTML source of the whosampled.com privacy policy that was archived on 2016-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160410035714id_/http%3A//www.whosampled.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whosampled.com privacy policy that was archived on 2016-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114204138id_/http%3A//www.whosampled.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge; chrome=1">
+    <meta name="keywords" content="music, listen, sample, cover, remix, song, download">
+    <meta name="description" content="Privacy Policy for WhoSampled">
+    <meta property="fb:app_id" content="136259916449994">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge; chrome=1">
-<meta name="keywords" content="music, listen, sample, cover, remix, song, download">
-<meta name="description" content="Privacy Policy for WhoSampled">
-<meta property="fb:app_id" content="136259916449994">
-<meta name="apple-itunes-app" content="app-id=529092671">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    
+
+    <title>Privacy Policy | WhoSampled</title>
+
+    
+    
+
+    
+
+    
+
+    <script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script>
+      // WhoSampled namespace
+      var WS = WS || {};
+    </script>
+
+    
+      <script>
+        (function () {
+          'use strict';
+
+          if (!('localStorage' in window)) {
+            return;
+          }
+
+          var skipLanding,
+              skipLandingAge,
+              maxAge = 14 * 24 * 60 * 60 * 1000,  // 2 weeks in milliseconds
+              now,
+              isAndroid,
+              isIOS;
+
+          isIOS = /iPhone|iPod/i.test(navigator.userAgent);
+          isAndroid = /android/i.test(navigator.userAgent);
+
+          if (!isIOS && !isAndroid) {
+            return;
+          }
+
+          skipLanding = localStorage.getItem('ws_skip_landing');
+          skipLandingAge = localStorage.getItem('ws_skip_landing_age');
+
+          if (skipLanding !== null && skipLandingAge !== null) {
+            skipLandingAge = parseInt(skipLandingAge, 10);
+            now = (new Date()).getTime();
+
+            if ((now - skipLandingAge) > maxAge) {
+              landingRedirect(isIOS, isAndroid);
+            }
+          } else {
+            landingRedirect(isIOS, isAndroid);
+          }
+
+          function landingRedirect(isIOS, isAndroid) {
+            var landingPage,
+                isHit = false;
+
+            if (isIOS) {
+              landingPage = '/iphone-landing';
+            } else if (isAndroid) {
+              landingPage = '/android-landing';
+            } else {
+              return;
+            }
+
+            // Slightly modified version of Google Analytics in order to load
+            // synchronously: the attribute "async" was removed.
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-3956890-3', 'auto');
+            ga('send', 'pageview', {'hitCallback': redirect});
+
+            // Timeout for performing the redirect even if GA doesn't work.
+            setTimeout(redirect, 2000);
+
+            if ('WS' in window) {
+              WS.isLandingRedirected = true;
+            }
+
+            function redirect() {
+              if (isHit) return;
+              isHit = true;
+
+              document.location = landingPage + '/?next=' +
+                                  encodeURIComponent(document.location.pathname +
+                                                     document.location.search +
+                                                     document.location.hash);
+            }
+          }
+
+        }());
+      </script>
+    
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,800">
+
+    
+      <link rel="stylesheet" href="/static/css/main.min.css?394317141116">
+    
+
+    <link rel="shortcut icon" href="/static/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/images/redesign/icons/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/images/redesign/icons/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/images/redesign/icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/static/images/redesign/icons/apple-touch-icon-precomposed.png">
+
+    <script>
+  if (!('WS' in window) || !(WS.isLandingRedirected)) {
+    window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+    ga('create','UA-3956890-3','auto');
+    ga('send','pageview');
+  }
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async=""></script>
 
 
+    <script src="/static/js/redesign/jquery-1.9.1.min.js"></script>
 
-<title>Privacy Policy | WhoSampled</title>
-
-
-
-
-
-
-
-
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,800" rel="stylesheet" type="text/css">
-
-
-	<link rel="stylesheet" type="text/css" href="/static/css/main.min.css?111911300316">
-
-
-
-<link rel="shortcut icon" href="/static/images/favicon.ico">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/images/redesign/icons/apple-touch-icon-144x144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/images/redesign/icons/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/images/redesign/icons/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="/static/images/redesign/icons/apple-touch-icon-precomposed.png">
-
-<script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/redesign/jquery-1.9.1.min.js"></script>
-
-
+    
 <style type="text/css">
 .fullContent ol {
 	list-style-type:decimal;
@@ -52,49 +145,73 @@
 </style>
 
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3956890-3']);
-  _gaq.push(['_trackPageview']);
+    
+      <!-- cmnUNT | Begin head script -->
+      <script>
+        cmnunt_silo = 's_mus';
+        cmnunt_subsilo  = '';
+        cmnunt_tier = '';
+        cmnunt_zone = '';
+        cmnunt_kw = '';
+        cmnunt_exclude  = '';
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+        // do the conditional script based on mobile or not (now includes tablets)
+        var isMobile = /iPhone|iPod|iPad|BlackBerry|Opera Mini|(android|bb\d+|meego)/i.test(navigator.userAgent);
 
+        if (isMobile) {
+          cmnunt_site = 'whosampled_mob';
+          document.write('<scr'+'ipt src="http://cdn.complexmedianetwork.com/js/cmnUNTmobile.js"></scr'+'ipt>');
+        } else {
+          cmnunt_site = 'whosampled';
+          document.write('<scr'+'ipt src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></scr'+'ipt>');
+        }
+      </script><script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
+      <!-- cmnUNT | End head script -->
+    
+  </head>
 
-	<!-- cmnUNT | Begin head script -->
-	<script type="text/javascript">
-		cmnunt_silo	= 's_mus';
-		cmnunt_subsilo	= '';
-		cmnunt_tier	= '';
-		cmnunt_zone	= '';
-		cmnunt_kw	= '';
-		cmnunt_exclude	= '';
+  <body style="overflow: hidden;">
+    <div id="adb-bg" class="active"></div>
+    <div id="adb-wrapper" class="active">
+      <div id="adb-inner">
+        <div class="adb-logo-wrapper">
+          <img class="adb-logo" src="/static/images/logos/logo-mobile.svg">
+        </div>
+        <div id="adb-intro">
+          <p class="adb-lead">Hi there! We've detected that you're running an ad blocker.</p>
+          <p>Please disable your ad blocker on <b>whosampled.com</b> in order to freely browse our site. We aim to only serve high quality ads from relevant advertisers, and these ads help cover the cost of running the site. <a id="adb-view-inst" href="javascript:void(0);">Click here to view instructions</a> on how to disable your ad blocker. Thank you for supporting our work.</p>
+        </div>
+        <div id="adb-inst" class="hidden">
+          <p>Here are the instructions on how to disable your ad blocker:</p>
+          <h4 class="adb-heading">Adblock</h4>
+          <ul>
+            <li>Click the <b>AdBlock button on the top right of your browser's toolbar</b> and select <b>Don't run on pages on this domain</b>, and then hit <b>Exclude</b> to finish.</li>
+            <li>Refresh the page to see the result.</li>
+          </ul>
+          <h4 class="adb-heading">Adblock Plus</h4>
+          <ul>
+            <li>Click the <b>AdBlock Plus button on the top right of your browser's toolbar</b> (addons) and click <b>Disabled on whosampled.com</b> in the drop down.</li>
+            <li>Refresh the page to see the result.</li>
+          </ul>
+          <h4 class="adb-heading">iOS 9+</h4>
+          <ul>
+            <li>Open <b>Settings</b></li>
+            <li>Find <b>Safari</b></li>
+            <li>Select <b>Content Blockers</b> from the menu</li>
+            <li>Slide the button to disable your ad blocker</li>
+            <li>Return to browser</li>
+            <li>Refresh the page to see the result.</li>
+          </ul>
+        </div>
+        <p>We are considering introducing an ad-free version of WhoSampled. If you would be happy to pay a small monthly subscription fee to access an enhanced, ad-free version of WhoSampled, please register your interest <a href="/subscribe-premium/">here</a>.</p>
+        <div class="adb-btn-wrapper">
+          <button id="adb-dismiss" class="btn">Dismiss</button>
+        </div>
+      </div>
+    </div>
+    
 
-		// do the conditional script based on mobile or not (now includes tablets)
-		var isMobile = /iPhone|iPod|iPad|BlackBerry|Opera Mini|(android|bb\d+|meego)/i.test(navigator.userAgent);
-
-		if (isMobile) {
-			cmnunt_site = 'whosampled_mob';
-			document.write('<scr'+'ipt src="http://cdn.complexmedianetwork.com/js/cmnUNTmobile.js"></scr'+'ipt>');
-		} else {
-			cmnunt_site = 'whosampled';
-			document.write('<scr'+'ipt src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></scr'+'ipt>');
-		}
-	</script><script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
-	<!-- cmnUNT | End head script -->
-
-
-</head>
-
-<body>
-
-
-
-<div id="fb-root"></div>
+    <div id="fb-root"></div>
 <script>
 var ws_fbAccessToken = '';
 
@@ -151,103 +268,98 @@ function facebook_connect() {
 </script>
 
 
-<div id="cmn_wrap">
+    <div id="cmn_wrap">
+      <header id="header">
+        <div class="nav" id="js-nav">
+          <div class="nav-wrap">
+            <div class="logo-wrapper">
+              <a href="/" class="logo"></a>
+            </div>
+            <div class="nav-top">
+              
+                <div class="socialMedia nav-top-social">
+                  <div class="fbLike">
+                    <div class="fb-like" data-href="http://www.facebook.com/whosampled" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial"></div>
+                  </div>
+                  <div class="twitter">
+                    <a href="https://twitter.com/whosampled" class="twitter-follow-button" data-show-count="false" data-lang="en" data-show-screen-name="false" data-width="125px"></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                  </div>
+                  <div class="gplus">
+                    <g:plusone size="medium" href="http://www.whosampled.com/"></g:plusone>
+                  </div>
+                </div>
+              
 
-	<div id="header">
+              <nav class="userLinks nav-top-user">
+                
+                <div class="nav-inner">
+                  
+                    
+                      <a href="/user/registration/" rel="nofollow" class="btn signup">Sign up</a> <a href="/user/login/" rel="nofollow" class="btn signin">Sign in</a>
+                    
+                  
+                </div>
+              </nav>
 
-		<div class="nav" id="js-nav">
-			<div class="nav-wrap">
-			<div class="logo"><a href="/"></a></div>
+            </div>
+            <div class="nav-main">
+              <nav class="nav-links">
+                <ul>
+                  <li><a href="/news/">News</a></li>
+                  <li><a href="/browse/">Browse</a></li>
+                  <li><a href="/charts/">Charts</a></li>
+                  <li><a href="/submit/" class="loginButton">Submit</a></li>
+                  <li><a href="/six-degrees/">6º Game</a></li>
+                </ul>
+              </nav>
 
-			<div class="nav-top">
-				<div class="socialMedia nav-top-social">
+              <form action="/search/" method="get" id="search-bar" class="searchForm nav-search">
+                <input type="text" id="searchInput" class="searchInput text" name="q" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Track, Artist, Movie, TV show" value="" maxlength="80">
+                <span class="loading" style="display:none"></span>
+                <span class="submit-wrapper"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path d="M31.008 27.231l-7.58-6.447c-.784-.705-1.622-1.029-2.299-.998a11.954 11.954 0 0 0 2.87-7.787c0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-.031.677.293 1.515.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007.23s.997-2.903-.23-4.007zM12 20a8 8 0 1 1 0-16 8 8 0 0 1 0 16z"></path></svg><input type="submit" class="submit" value=""></span>
+              </form>
+            </div>
+          </div>
+        </div>
+      </header>
 
-					<div class="fbLike">
-						<div class="fb-like" data-href="http://www.facebook.com/whosampled" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="arial"></div>
-					</div>
+      <main role="main" id="container" class="main-container">
+        <div id="searchDropdown" class="dropdown search-dropdown" style="display:none">
 
-					<div class="twitter">
-						<a href="https://twitter.com/whosampled" class="twitter-follow-button" data-show-count="false" data-lang="en" data-show-screen-name="false" data-width="125px"></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-					</div>
+          <div id="searchArtists">
+            <span class="searchType">Artists</span>
+            <ul class="searchList">
+            </ul>
+          </div>
 
-					<div class="gplus">
-						<g:plusone size="medium" href="http://www.whosampled.com/"></g:plusone>
-					</div>
-				</div>
+          <div id="searchTracks">
+            <span class="searchType">Tracks</span>
+            <ul class="searchList">
+            </ul>
+          </div>
 
-				<div class="userLinks nav-top-user">
-					<div class="loginButtons">
-					
-						<a href="/user/login/" rel="nofollow">Sign in</a> <a href="/user/registration/" rel="nofollow">Sign up</a>
-					
-					</div>
+          <div id="searchMovies">
+            <span class="searchType">Movies</span>
+            <ul class="searchList">
+            </ul>
+          </div>
 
-					
-				</div>
-			</div>
+          <div id="searchTVShows">
+            <span class="searchType">TV Shows</span>
+            <ul class="searchList">
+            </ul>
+          </div>
 
+        </div>
 
-			<div class="nav-main">
-				<nav class="nav-links">
-					<ul>
-						<li><a href="/browse/">Browse</a></li>
-						<li><a href="/charts/">Charts</a></li>
-						<li><a href="/submit/" class="loginButton">Submit</a></li>
-						<li><a href="/apps/">Apps</a></li>
-						<li><a href="http://blog.whosampled.com/">Blog</a></li>
-					</ul>
-				</nav>
+        <div class="leadAd">
+          
+          
+        </div>
 
-				<form action="/search/" method="get" class="searchForm nav-search">
-					<input type="text" id="searchInput" class="searchInput text" name="q" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Type in Artist, Song, Movie or TV Show" value="" maxlength="80">
-					<span class="loading" style="display:none"></span>
-
-					<input type="submit" class="submit" value="">
-				</form>
-			</div>
-
-			</div>
-		</div>
-
-	</div>
-
-	<div id="container" class="main-container">
-		<div id="searchDropdown" class="dropdown search-dropdown" style="display:none">
-
-			<div id="searchArtists">
-				<span class="searchType">Artists</span>
-				<ul class="searchList">
-				</ul>
-			</div>
-
-			<div id="searchTracks">
-				<span class="searchType">Tracks</span>
-				<ul class="searchList">
-				</ul>
-			</div>
-
-			<div id="searchMovies">
-				<span class="searchType">Movies</span>
-				<ul class="searchList">
-				</ul>
-			</div>
-
-			<div id="searchTVShows">
-				<span class="searchType">TV Shows</span>
-				<ul class="searchList">
-				</ul>
-			</div>
-
-		</div>
-
-		<div class="leadAd">
-			
-			
-		</div>
-
-		<div id="content">
-			
-			
+        <div id="content">
+          
+          
 <div class="fullContent">
 	<h1>Privacy Policy</h1>
 
@@ -325,127 +437,194 @@ Last updated: October 22, 2013
 <p></p>
 </div>
 
-			
-		</div>
-	</div>
+          
+        </div>
+      </main>
 
+      <footer id="footer" class="footer">
+        <div class="footerInner">
+          <section class="footerAbout footer-section">
+            <span class="footer-title">About Us</span>
+            <ul>
+              <li><a href="/about/">About Us</a></li>
+              <li><a href="/faq/">FAQs</a></li>
+              <li><a href="/privacy/">Privacy Policy</a></li>
+              <li><a href="/terms/">Terms and Conditions</a></li>
+            </ul>
+          </section>
 
-	<div id="footer" class="footer">
-		<div class="footerInner">
-			<div class="footerAbout footer-section">
-				<span class="footer-title">About Us</span>
-				<ul>
-					<li><a href="/about/">About Us</a></li>
-					<li><a href="http://blog.whosampled.com/">Blog</a></li>
-					<li><a href="/faq/">FAQs</a></li>
-					<li><a href="/privacy/">Privacy Policy</a></li>
-					<li><a href="/terms/">Terms and Conditions</a></li>
-				</ul>
-			</div>
+          <section class="footerCommunity footer-section">
+            <span class="footer-title">Community</span>
+            <ul>
+              <li><a href="/forum/" id="forumFooterLink">Forum</a></li>
+              <li><a href="/browse/top_contributors/">Top Contributors</a></li>
+              <li><a href="/browse/latest_comments/">Latest Comments</a></li>
+              <li><a href="/browse/users/">Members</a></li>
+            </ul>
+          </section>
 
-			<div class="footerCommunity footer-section">
-				<span class="footer-title">Community</span>
-				<ul>
-					<li><a href="/forum/" id="forumFooterLink">Forum</a></li>
-					<li><a href="/browse/users/">Users</a></li>
-				</ul>
-			</div>
+          <section class="footerContact footer-section">
+            <span class="footer-title">Contact</span>
+            <ul>
+              <li><a href="/contact/ask/">Contact Us</a></li>
+              <li><a href="/jobs/">Jobs</a></li>
+              <li><a href="/copyright/">Copyright / DMCA</a></li>
+            </ul>
 
-			<div class="footerContact footer-section">
-				<span class="footer-title">Contact</span>
-				<ul>
-					<li><a href="/contact/ask/">Contact Us</a></li>
-					<li><a href="/jobs/">Jobs</a></li>
-					<li><a href="/copyright/">Copyright / DMCA</a></li>
-				</ul>
+            <ul class="social">
+              <li><a href="http://www.facebook.com/whosampled" target="_blank" title="WhoSampled on Facebook" class="facebook"></a></li>
+              <li><a href="http://www.twitter.com/whosampled" target="_blank" title="WhoSampled on Twitter" class="twitter"></a></li>
+              <li><a href="http://plus.google.com/+whosampled" target="_blank" title="WhoSampled on Google+" class="gplus"></a></li>
+              <li><a href="http://www.youtube.com/whosampled" target="_blank" title="WhoSampled on YouTube" class="youtube"></a></li>
+            </ul>
+          </section>
 
-				<ul class="social">
-					<li><a href="http://www.facebook.com/whosampled" target="_blank" title="WhoSampled on Facebook" class="facebook"></a></li>
-					<li><a href="http://www.twitter.com/whosampled" target="_blank" title="WhoSampled on Twitter" class="twitter"></a></li>
-					<li><a href="http://plus.google.com/+whosampled" target="_blank" title="WhoSampled on Google+" class="gplus"></a></li>
-					<li><a href="http://www.youtube.com/whosampled" target="_blank" title="WhoSampled on YouTube" class="youtube"></a></li>
-				</ul>
-			</div>
+          <section class="footerPartners footer-section">
+            <span class="footer-title">Partners</span>
+            <ul>
+              <li><a href="/metadata/" target="_blank">Metadata / API</a></li>
+              <li><a href="/metadata/#customers" target="_blank">Customers</a></li>
+              <li><a href="/apps/">App Gallery</a></li>
+            </ul>
+          </section>
 
-			<div class="footerPartners footer-section">
-				<span class="footer-title">Partners</span>
-				<ul>
-					<li><a href="/metadata/" target="_blank">Metadata / API</a></li>
-					<li><a href="/metadata/#customers" target="_blank">Customers</a></li>
-				</ul>
-			</div>
+          <section class="footerSitemaps footer-section">
+            <span class="footer-title">Sitemaps</span>
+            <ul>
+              <li><a href="/sitemap/artist/A/">Artists</a></li>
+              <li><a href="/sitemap/track/A/">Tracks</a></li>
+              <li><a href="/sitemap/sample/A/">Samples</a></li>
+              <li><a href="/sitemap/cover/A/">Covers</a></li>
+              <li><a href="/sitemap/remix/A/">Remixes</a></li>
+            </ul>
+          </section>
 
-			<div class="footerSitemaps footer-section">
-				<span class="footer-title">Sitemaps</span>
-				<ul>
-					<li><a href="/sitemap/artist/A/">Artists</a></li>
-					<li><a href="/sitemap/track/A/">Tracks</a></li>
-					<li><a href="/sitemap/sample/A/">Samples</a></li>
-					<li><a href="/sitemap/cover/A/">Covers</a></li>
-					<li><a href="/sitemap/remix/A/">Remixes</a></li>
-				</ul>
-			</div>
+          <p class="footer-copyright">Copyright © 2016 WhoSampled.com Limited. All rights reserved.</p>
+        </div>
+      </footer>
 
-			<p class="footer-copyright">Copyright © 2016 WhoSampled.com Limited. All rights reserved.</p>
-		</div>
-	</div>
+    </div>
 
-</div>
+    <script src="/static/js/redesign/master.js?591015081116"></script>
 
-<script type="text/javascript" src="/static/js/redesign/autocomplete.js?420512230216"></script>
-<script type="text/javascript" src="/static/js/redesign/master.js?071911300316"></script>
+    
 
+    
+      <template id="adb-template">
+        <div class="adb-logo-wrapper">
+          <img class="adb-logo" src="/static/images/logos/logo-mobile.svg">
+        </div>
+        <div id="adb-intro">
+          <p class="adb-lead">Hi there! We've detected that you're running an ad blocker.</p>
+          <p>Please disable your ad blocker on <b>whosampled.com</b> in order to freely browse our site. We aim to only serve high quality ads from relevant advertisers, and these ads help cover the cost of running the site. <a id="adb-view-inst" href="javascript:void(0);">Click here to view instructions</a> on how to disable your ad blocker. Thank you for supporting our work.</p>
+        </div>
+        <div id="adb-inst" class="hidden">
+          <p>Here are the instructions on how to disable your ad blocker:</p>
+          <h4 class="adb-heading">Adblock</h4>
+          <ul>
+            <li>Click the <b>AdBlock button on the top right of your browser's toolbar</b> and select <b>Don't run on pages on this domain</b>, and then hit <b>Exclude</b> to finish.</li>
+            <li>Refresh the page to see the result.</li>
+          </ul>
+          <h4 class="adb-heading">Adblock Plus</h4>
+          <ul>
+            <li>Click the <b>AdBlock Plus button on the top right of your browser's toolbar</b> (addons) and click <b>Disabled on whosampled.com</b> in the drop down.</li>
+            <li>Refresh the page to see the result.</li>
+          </ul>
+          <h4 class="adb-heading">iOS 9+</h4>
+          <ul>
+            <li>Open <b>Settings</b></li>
+            <li>Find <b>Safari</b></li>
+            <li>Select <b>Content Blockers</b> from the menu</li>
+            <li>Slide the button to disable your ad blocker</li>
+            <li>Return to browser</li>
+            <li>Refresh the page to see the result.</li>
+          </ul>
+        </div>
+        <p>We are considering introducing an ad-free version of WhoSampled. If you would be happy to pay a small monthly subscription fee to access an enhanced, ad-free version of WhoSampled, please register your interest <a href="/subscribe-premium/">here</a>.</p>
+        <div class="adb-btn-wrapper">
+          <button id="adb-dismiss" class="btn">Dismiss</button>
+        </div>
+      </template>
 
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
+      
+        <script src="/ads.js"></script>
+      
 
+      <script>
+        (function () {
+          var adDiv, isMobile, eventCategory;
 
+          adDiv = document.getElementById('cmn_ab_check');
 
+          isMobile = /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/i.test(navigator.userAgent);
 
+          if (isMobile) {
+            eventCategory = 'Adblock-Mobile';
+          } else {
+            eventCategory = 'Adblock';
+          }
 
-<!-- cmnUNT | Begin footer script -->
-<script type="text/javascript">
-(function() {
+          if (!adDiv) {
+            
+              showAdBlockerOverlay();
+              ga('send', 'event', eventCategory, 'Blocked', 'false', {'nonInteraction': true});
+            
+          } else {
+            ga('send', 'event', eventCategory, 'Unblocked', 'false', {'nonInteraction' : true});
+          }
+        }());
+      </script>
+    
 
-  window.cToolbarInit = function() {
+    
+      <script>
+        (function() {
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = 'https://apis.google.com/js/plusone.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+      </script>
+    
 
-    cToolbar.load({
-      mobileRightButton: 'email', 
-      facebookUsername: 'whosampled',
-      facebookName: 'WhoSampled',
-      twitterHandle: 'whosampled',
-      twitterName: 'WhoSampled',
-      youtubeChannel: '',
-      youtubeChannelName: '',
-      desktopBackground: 'solid', 
-      desktopSocialButtons: ["twitter","facebook"],
-      channel: 'Music'
-    });
+    
+    <!-- cmnUNT | Begin footer script -->
+    <script type="text/javascript">
+    (function() {
+
+      window.cToolbarInit = function() {
+
+        cToolbar.load({
+          mobileRightButton: 'email', 
+          facebookUsername: 'whosampled',
+          facebookName: 'WhoSampled',
+          twitterHandle: 'whosampled',
+          twitterName: 'WhoSampled',
+          youtubeChannel: '',
+          youtubeChannelName: '',
+          desktopBackground: 'solid', 
+          desktopSocialButtons: ["twitter","facebook"],
+          channel: 'Music'
+        });
    
-  };
+      };
 
-var ns = document.createElement('script');       
-    ns.type = 'text/javascript';
-    ns.async = true;
-    ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(ns, s);
+    var ns = document.createElement('script');       
+        ns.type = 'text/javascript';
+        ns.async = true;
+        ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ns, s);
 
-})();
+    })();
 
-if (!isMobile){
-	cmnUNT('tover', tile_num++);	// Wallpaper Takeover
-}
-</script>
-<!-- cmnUNT | End footer script -->
-
-
+    if (!isMobile){
+      cmnUNT('tover', tile_num++); // Wallpaper Takeover
+    }
+    </script>
+    <!-- cmnUNT | End footer script -->
 
 
+
+  
 
 </body></html>
