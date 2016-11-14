@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081200id_/https%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114023600id_/https%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Looking for your Purpose in Life, the Meaning of a Name, Meaning of Baby Names, or how to Make a Name Change?
 
@@ -145,13 +145,13 @@ A: Yes. We strive to have consistent privacy practices for your personal informa
 
 ###### Thought for the Day
 
-  * > Rewards are selfish desires; seek not the individuality of selfishness; learn to know the path of creative expression nature intended you to follow, for that is your individuality for this life. –Alfred J. Parker
+  * > Every situation, properly perceived, becomes an opportunity. –Helen Schucman
 
-  * > The universe cannot be read until we have learnt the language and become familiar with the characters in which it is written.It is written in mathematical language, and the letters are triangles, circles, and other geometrical figures, without which means it is humanly impossible to comprehend a single word. –Galileo Galilei
+  * > Regardless of what your personal experiences in life are: your role, your activities, your birthpath, group, background - it does not matter - whatever you are in nature, whoever you are in potential, you can live within Principle because it is the law that governs us all and none is exempt. You have a potential as great as anyone else's. The only thing that stops you is the limitations in your merging with that Principle. –Kabalarian Teachings
 
-  * > The doctors of the future will give no medicine but will interest patients in the care of the human frame, in diet, and in the cause and prevention of disease. –Thomas A. Edison
+  * > Appreciate and respect the Power of the Word (speech); never misuse this power by swearing, vulgarity, lying and deceit, falsifying another’s statement, or destroying the reputation of others. –Alfred J. Parker
 
-  * > Every situation holds a lesson to be learned. –Alfred J. Parker
+  * > Learn to think fearlessly; there is no subject too spiritual, no subject that cannot stand the analysis of mind; spirit depends upon the channel, mind, for reality, and what is more real than logic? –Alfred J. Parker
 
 
 
